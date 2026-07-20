@@ -72,33 +72,55 @@
     return !!state && state.total > 0 && state.answered >= state.total;
   }
 
-  // ---------- Agendamento adaptativo (pesos por ciclo a partir dos simulados) ----------
+  // ---------- Agendamento adaptativo (pesos por ciclo a partir do estudo + simulados) ----------
 
-  // Erros (0-3) por tema no simulado indicado -> peso 1-4 para o ciclo seguinte
-  // (quem errou mais numa frente recebe mais slots naquele ciclo; quem acertou
-  // tudo fica no peso mínimo 1, sem nunca ser excluído).
-  function computeCycleWeightsFromSimulado(simuladoVisitIndex) {
+  // Erros e total de questões por frente no simulado indicado (dados crus,
+  // reaproveitados tanto pelo cálculo de peso do próximo ciclo quanto pelo
+  // resumo "com base nos seus erros..." mostrado no próprio simulado).
+  function computeSimuladoErrorStats(simuladoVisitIndex) {
     const items = pickSimuladoQuestions(simuladoVisitIndex);
     const answers = getAnswers();
-    const errors = {};
-    window.SUBTOPICS.forEach((s) => (errors[s.id] = 0));
+    const errors = {}, totals = {};
+    window.SUBTOPICS.forEach((s) => { errors[s.id] = 0; totals[s.id] = 0; });
     items.forEach((item) => {
+      totals[item.subtopicId]++;
       const key = answerKey(item.subtopicId, item.question.id);
       const chosen = answers[key];
       if (chosen && chosen !== item.question.resposta) errors[item.subtopicId]++;
     });
+    return { errors, totals };
+  }
+
+  // Peso do ciclo seguinte a um simulado: peso-base do estudo
+  // (window.PRIORITY_WEIGHTS) multiplicado por um fator de erro (1 a 4)
+  // baseado na TAXA de erro daquela frente no simulado (erros ÷ total da
+  // frente naquele simulado, não o número bruto) — como o simulado agora
+  // distribui questões por peso (não mais fixo em 3 por frente), usar a taxa
+  // em vez do valor bruto evita que uma frente de prioridade máxima (que
+  // ganha mais questões, logo mais chance de erros em número absoluto)
+  // domine o ciclo seguinte de forma desproporcional.
+  function computeCycleWeightsFromSimulado(simuladoVisitIndex) {
+    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex);
+    const base = window.PRIORITY_WEIGHTS || {};
     const weights = {};
-    window.SUBTOPICS.forEach((s) => (weights[s.id] = 1 + errors[s.id]));
+    window.SUBTOPICS.forEach((s) => {
+      const baseWeight = base[s.id] || 1;
+      const errorRate = totals[s.id] > 0 ? errors[s.id] / totals[s.id] : 0; // 0..1
+      const errorMultiplier = 1 + errorRate * 3; // 1..4
+      weights[s.id] = baseWeight * errorMultiplier;
+    });
     return weights;
   }
 
-  // Pesos de um ciclo só são calculados — e então travados para sempre — na
-  // primeira vez em que o simulado correspondente estiver 100% respondido.
-  // Antes disso (ou se o ciclo for o 1º, antes de qualquer simulado), usa
-  // peso uniforme. Travar evita que editar respostas de um simulado antigo
-  // reembaralhe uma semana que o usuário já começou a estudar.
+  // Pesos de um ciclo (a partir do erro do simulado anterior) só são
+  // calculados — e então travados para sempre — na primeira vez em que o
+  // simulado correspondente estiver 100% respondido. Antes disso, e sempre
+  // no ciclo 0 (antes de qualquer simulado), usa window.PRIORITY_WEIGHTS
+  // puro — a priorização do estudo vale desde o primeiro dia, não só depois
+  // do primeiro simulado. Travar evita que editar respostas de um simulado
+  // antigo reembaralhe uma semana que o usuário já começou a estudar.
   function getCycleWeights(cycleIndex, simuladoDay) {
-    if (cycleIndex <= 0) return null;
+    if (cycleIndex <= 0) return window.PRIORITY_WEIGHTS || null;
     const cache = loadJSON(LS_CYCLE_WEIGHTS, {});
     if (cache[cycleIndex]) return cache[cycleIndex];
     if (simuladoDay && isDayExerciseComplete(simuladoDay)) {
@@ -107,12 +129,12 @@
       saveJSON(LS_CYCLE_WEIGHTS, cache);
       return weights;
     }
-    return null;
+    return window.PRIORITY_WEIGHTS || null;
   }
 
   function buildCycleWeightsOverride(startISO) {
     const simuladoDays = listSimuladoDays(startISO);
-    const override = {};
+    const override = { 0: window.PRIORITY_WEIGHTS || null };
     simuladoDays.forEach((simDay, idx) => {
       const cycleIndex = idx + 1;
       override[cycleIndex] = getCycleWeights(cycleIndex, simDay);
@@ -186,6 +208,7 @@
         if (btn.dataset.tab === "calendario") renderCalendar();
         if (btn.dataset.tab === "progresso") renderProgress();
         if (btn.dataset.tab === "simulados") renderSimuladosTab();
+        if (btn.dataset.tab === "erros") renderErrosTab();
       });
     });
   }
@@ -254,9 +277,10 @@
     card.innerHTML = `
       <div class="lesson-eyebrow">Domingo · Simulado ${content.simuladoNumber}</div>
       <h3>Simulado misto — todas as frentes</h3>
-      <p class="lesson-desc">Hoje não tem vídeo-aula: são ${content.items.length} questões (3 de cada uma das 15
-      frentes) para simular a mistura de assuntos de uma prova real e revisar tudo o que você já estudou. Os erros
-      daqui pesam mais forte na programação da próxima semana — sem sumir os outros temas.</p>
+      <p class="lesson-desc">Hoje não tem vídeo-aula: são ${content.items.length} questões, distribuídas entre as 15
+      frentes por prioridade (pelo menos uma de cada), para simular a mistura de assuntos de uma prova real e revisar
+      tudo o que você já estudou. Os erros daqui pesam mais forte na programação da próxima semana — sem sumir os
+      outros temas.</p>
       <div class="exercise-block">
         <div class="exercise-summary">
           <span>${content.items.length} questões</span>
@@ -285,14 +309,14 @@
     if (!container || !isDayExerciseComplete(day)) return;
 
     const simuladoVisitIndex = content.simuladoNumber - 1;
-    const weights = computeCycleWeightsFromSimulado(simuladoVisitIndex);
+    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex);
     const byId = {};
     window.SUBTOPICS.forEach((s) => (byId[s.id] = s));
 
-    const focused = Object.entries(weights)
-      .filter(([, w]) => w > 1)
-      .sort((a, b) => b[1] - a[1])
-      .map(([id, w]) => `${escapeHtml(byId[id].nome)} (${w - 1}/3 erradas)`);
+    const focused = window.SUBTOPICS
+      .filter((s) => errors[s.id] > 0)
+      .sort((a, b) => (errors[b.id] / totals[b.id]) - (errors[a.id] / totals[a.id]))
+      .map((s) => `${escapeHtml(s.nome)} (${errors[s.id]}/${totals[s.id]} erradas)`);
 
     container.innerHTML = focused.length > 0
       ? `<div class="dissert-counter"><strong>Com base nos seus erros, a semana que vem foca mais em:</strong><br>${focused.join(", ")}</div>`
@@ -480,6 +504,81 @@
     return wrap;
   }
 
+  // ---------- Aba Caderno de Erros ----------
+
+  // Para cada frente, filtra as questões do banco cuja última resposta
+  // salva existe e é diferente do gabarito — cobre erros de dias normais E
+  // de simulados (mesma chave subtopicId::questionId em ambos os casos).
+  function computeWrongQuestions() {
+    const answers = getAnswers();
+    const groups = [];
+    window.SUBTOPICS.forEach((s) => {
+      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
+      const wrong = bank.filter((q) => {
+        const chosen = answers[answerKey(s.id, q.id)];
+        return chosen && chosen !== q.resposta;
+      });
+      if (wrong.length > 0) {
+        groups.push({ subtopicId: s.id, nome: s.nome, area: s.area, questions: wrong });
+      }
+    });
+    return groups;
+  }
+
+  function renderErrosTab() {
+    const container = document.getElementById("erros-content");
+    container.innerHTML = "";
+    const groups = computeWrongQuestions();
+    const total = groups.reduce((sum, g) => sum + g.questions.length, 0);
+
+    const header = document.createElement("div");
+    header.innerHTML = `
+      <h2>Caderno de Erros</h2>
+      <p class="hint">Toda questão que você já respondeu errado — em qualquer dia normal ou
+      simulado — aparece aqui pra você treinar de novo. Responder certo não some a questão na
+      hora: ela continua na tela com a explicação, e só deixa de aparecer da próxima vez que você
+      abrir esta aba.</p>
+      <div class="dissert-counter" id="erros-counter"><strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar</div>
+    `;
+    container.appendChild(header);
+
+    if (total === 0) {
+      const empty = document.createElement("p");
+      empty.className = "hint";
+      empty.textContent = "Nenhum erro pendente agora. Continue estudando!";
+      container.appendChild(empty);
+      return;
+    }
+
+    groups.forEach((g) => {
+      const card = document.createElement("div");
+      card.className = "lesson-card";
+      card.innerHTML = `
+        <div class="lesson-eyebrow">${escapeHtml(g.area)}</div>
+        <h3>${escapeHtml(g.nome)} <span class="visit-badge">${g.questions.length} pra revisar</span></h3>
+        <div class="questions"></div>
+      `;
+      const qContainer = card.querySelector(".questions");
+      g.questions.forEach((q, idx) => {
+        qContainer.appendChild(
+          renderQuestion(null, g.subtopicId, q, idx, undefined, updateErrosCounter, true)
+        );
+      });
+      container.appendChild(card);
+    });
+  }
+
+  // Só atualiza o contador do topo — a lista em si não é reconstruída ao
+  // responder (decisão de UX: a questão continua visível com o feedback até
+  // a aba ser reaberta), então o contador conta de novo a partir do estado
+  // atual sem remover nenhum cartão da tela.
+  function updateErrosCounter() {
+    const counter = document.getElementById("erros-counter");
+    if (!counter) return;
+    const total = computeWrongQuestions().reduce((sum, g) => sum + g.questions.length, 0);
+    counter.innerHTML = `<strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar`;
+  }
+
   function renderLessonCard(day, lesson) {
     const card = document.createElement("div");
     card.className = "lesson-card";
@@ -519,12 +618,21 @@
     return card;
   }
 
-  function renderQuestion(day, subtopicId, q, idx, tagLabel) {
+  // `day` pode ser `null` quando a questão é renderizada fora do contexto de
+  // um dia específico do plano (ex.: Caderno de Erros) — nesse caso, tudo
+  // que depende de "dia" (progresso diário, foco do simulado, dissertativas)
+  // é pulado. `onAnswered(isCorrect)` é um callback opcional chamado depois
+  // de cada resposta, além dos efeitos colaterais padrão. `hideSavedAnswer`
+  // faz a questão nascer "zerada" (sem alternativa marcada, sem gabarito
+  // revelado) mesmo que já exista uma resposta salva — usado no Caderno de
+  // Erros pra a questão aparecer do mesmo jeito que aparece num dia normal
+  // ainda não respondido, em vez de já mostrar a resposta errada anterior.
+  function renderQuestion(day, subtopicId, q, idx, tagLabel, onAnswered, hideSavedAnswer) {
     const wrap = document.createElement("div");
     wrap.className = "question";
     const answers = getAnswers();
     const key = answerKey(subtopicId, q.id);
-    const saved = answers[key];
+    const saved = hideSavedAnswer ? null : answers[key];
 
     const supportHtml = q.texto_apoio
       ? `<div class="q-support">${escapeHtml(q.texto_apoio)}</div>`
@@ -564,18 +672,21 @@
         applyFeedback(wrap, q, letter);
         if (!alreadyAnswered) {
           bumpTopicState(subtopicId, letter === q.resposta);
-          bumpDayState(day, letter === q.resposta);
+          if (day != null) bumpDayState(day, letter === q.resposta);
         } else {
           recomputeAll();
         }
         const card = wrap.closest(".lesson-card");
-        updateScoreLabel(card);
-        updateDayStateFromDom(day);
-        const focusEl = card.querySelector(".simulado-focus");
-        if (focusEl) renderSimuladoFocus(focusEl, day, getDayContent(plan, day));
+        if (card) updateScoreLabel(card);
+        if (day != null) {
+          updateDayStateFromDom(day);
+          const focusEl = card && card.querySelector(".simulado-focus");
+          if (focusEl) renderSimuladoFocus(focusEl, day, getDayContent(plan, day));
+          renderDissertSection(day);
+        }
         renderProgress();
         renderCalendar();
-        renderDissertSection(day);
+        if (onAnswered) onAnswered(letter === q.resposta);
       });
     });
 

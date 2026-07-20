@@ -1,29 +1,31 @@
 // Gera o plano de 90 dias e seleciona os exercícios de cada dia.
-// Estratégia: "shuffle-bag" — a cada volta completa, embaralhamos as frentes
-// e as distribuímos 2 por dia (nos dias normais). Isso garante que toda
-// frente apareça várias vezes ao longo dos 90 dias, sempre em ordem variada,
-// e nunca duas vezes seguidas no mesmo dia.
+// Estratégia: alocação proporcional por peso — a cada ciclo, distribuímos as
+// frentes entre os dias de acordo com window.PRIORITY_WEIGHTS (ver
+// data/priority-weights.js, baseado no estudo estudo-provas-fgv-insper.pdf),
+// não uniformemente. Frentes de prioridade máxima aparecem bem mais que
+// frentes de prioridade baixa, mas nenhuma frente é excluída.
 //
 // Todo domingo do calendário real (a partir da data de início escolhida pelo
-// usuário) vira um dia de SIMULADO: em vez de 2 frentes, o dia mistura 3
-// questões de cada uma das 15 frentes (~45 questões, "temas diversos"),
-// puxadas dos mesmos bancos com uma rotação própria (menos repetição entre
-// simulados, já que cada banco foi ampliado especificamente para isso).
+// usuário) vira um dia de SIMULADO: em vez de 2 frentes, o dia mistura ~45
+// questões de todas as 15 frentes, também distribuídas proporcionalmente a
+// PRIORITY_WEIGHTS (mínimo garantido de 1 questão por frente), puxadas dos
+// mesmos bancos com uma rotação própria (menos repetição entre simulados).
 //
 // Agendamento ADAPTATIVO: os dias normais entre um domingo e o próximo formam
-// um "ciclo". A partir do 2º ciclo, o sorteio de temas passa a ser PONDERADO
-// pelos erros do simulado anterior — quem errou mais numa frente tem mais
-// chance de revisá-la naquela semana —, mas toda frente sempre tem peso
-// mínimo 1, então nenhuma frente é excluída, só fica mais ou menos frequente.
-// Os pesos por ciclo são calculados e travados em app.js (dependem das
-// respostas do usuário, que moram no localStorage); schedule.js só sabe
-// consumir um "cycleWeightsOverride" já pronto.
+// um "ciclo". A partir do 2º ciclo, o peso de cada frente passa a ser
+// PRIORITY_WEIGHTS[frente] multiplicado por um fator de erro (1 a 4) baseado
+// na taxa de erro daquela frente no simulado anterior — quem errou mais
+// numa frente de já-alta prioridade revisa ainda mais aquela frente na
+// semana seguinte. Os pesos por ciclo são calculados e travados em app.js
+// (dependem das respostas do usuário, que moram no localStorage);
+// schedule.js só sabe consumir um "cycleWeightsOverride" já pronto.
 
 const TOTAL_DAYS = 90;
 const TOPICS_PER_DAY = 2;
 const MIN_EXERCISES_PER_TOPIC = 12;
 const MAX_EXERCISES_PER_TOPIC = 15;
-const SIMULADO_QUESTIONS_PER_TOPIC = 3;
+const SIMULADO_TOTAL_QUESTIONS = 45;
+const SIMULADO_MIN_PER_TOPIC = 1;
 const SCHEDULE_SEED = 20260101;
 
 function mulberry32(seed) {
@@ -75,33 +77,48 @@ function listSimuladoDays(startISO) {
   return days;
 }
 
+// Aloca `total` vagas entre `ids` de forma PROPORCIONAL a `weights` (método
+// dos maiores restos — o mesmo tipo de regra usada para converter votos em
+// cadeiras, garantindo que a soma bata exatamente com `total` mesmo com
+// arredondamento). `minPerItem` reserva um piso fixo por item antes de
+// distribuir o restante proporcionalmente (usado pelo simulado, para
+// garantir pelo menos 1 questão de cada frente mesmo com pesos bem
+// diferentes entre si). Reaproveita o MESMO `rng` do chamador (consumido
+// sequencialmente: primeiro o jitter de desempate, depois — no chamador —
+// o embaralhamento da ordem), para manter tudo determinístico por seed.
+//
+// Pesos abaixo de 1 (ex.: 0.5 de prioridade baixa) precisam continuar
+// possíveis: o piso de segurança é ínfimo (0.0001), só para evitar peso
+// zero/negativo — nunca promove um peso baixo a "1 unidade", senão a
+// priorização por peso perderia efeito.
+function proportionalAllocate(ids, weights, total, rng, minPerItem) {
+  minPerItem = minPerItem || 0;
+  const w = ids.map((id) => Math.max(0.0001, (weights && weights[id]) || 1));
+  const sumW = w.reduce((a, b) => a + b, 0);
+  const distributable = Math.max(0, total - minPerItem * ids.length);
+
+  const raw = w.map((x) => (x / sumW) * distributable);
+  const counts = raw.map((x) => minPerItem + Math.floor(x));
+  let remaining = total - counts.reduce((a, b) => a + b, 0);
+
+  // Distribui as vagas restantes (arredondamento) pelos maiores restos; um
+  // leve jitter determinístico (mas variável por ciclo/simulado) desempata
+  // temas com o mesmo resto, para que não sejam sempre os mesmos a sobrar.
+  const remainders = raw.map((r, i) => ({ i, frac: (r - Math.floor(r)) + rng() * 1e-6 }));
+  remainders.sort((a, b) => b.frac - a.frac);
+  for (let k = 0; k < remaining && k < remainders.length; k++) counts[remainders[k].i]++;
+
+  return counts; // paralelo a `ids`
+}
+
 // Constrói a fila de temas de UM ciclo (bloco de dias entre dois simulados),
 // com exatamente totalSlots posições, distribuindo as vagas entre os temas
-// de forma PROPORCIONAL aos pesos (método dos maiores restos — o mesmo tipo
-// de regra usada para converter votos em cadeiras, garantindo que a soma
-// bata exatamente com totalSlots mesmo com arredondamento).
-//
-// Um "bag" simples (repetir cada tema conforme o peso e embaralhar) não
-// funciona bem aqui: como um ciclo tem só ~12-14 vagas para 15 temas, a
-// maior parte das rodadas do bag fica cortada pela metade, e o reforço de um
-// tema com peso alto vira loteria em vez de garantia. A alocação
-// proporcional decide os contadores primeiro (determinístico) e só usa
-// aleatoriedade para decidir a ORDEM em que aparecem nos dias.
+// de forma proporcional aos pesos via proportionalAllocate (sem piso por
+// tema — como um ciclo normalmente tem só ~12-14 vagas para 15 temas, nem
+// toda frente precisa aparecer toda semana, isso já é intencional).
 function buildCycleQueue(subtopicIds, weights, totalSlots, seed) {
   const rng = mulberry32(seed);
-  const w = subtopicIds.map((id) => (weights ? Math.max(1, weights[id] || 1) : 1));
-  const sumW = w.reduce((a, b) => a + b, 0);
-
-  const raw = w.map((x) => (x / sumW) * totalSlots);
-  const counts = raw.map(Math.floor);
-  let remaining = totalSlots - counts.reduce((a, b) => a + b, 0);
-
-  // Distribui as vagas restantes (arredondamento) pelos maiores restos;
-  // um leve jitter determinístico (mas variável por ciclo) desempata temas
-  // com o mesmo resto, para que não sejam sempre os mesmos a ficar de fora.
-  const remainders = raw.map((r, i) => ({ i, frac: r - counts[i] + rng() * 1e-6 }));
-  remainders.sort((a, b) => b.frac - a.frac);
-  for (let k = 0; k < remaining; k++) counts[remainders[k].i]++;
+  const counts = proportionalAllocate(subtopicIds, weights, totalSlots, rng, 0);
 
   const items = [];
   subtopicIds.forEach((id, i) => {
@@ -126,10 +143,10 @@ function buildCycleQueue(subtopicIds, weights, totalSlots, seed) {
 // Monta o plano de 90 dias já sabendo quais caem num domingo real (a partir
 // da data de início escolhida pelo usuário). Os dias normais são agrupados
 // em "ciclos" (o bloco de dias entre um simulado e o próximo); cada ciclo
-// pode receber pesos próprios via cycleWeightsOverride[cycleIndex] = { id:
-// peso }, calculados em app.js a partir dos erros do simulado anterior.
-// cycleWeightsOverride[0] não é usado (o primeiro ciclo, antes de qualquer
-// simulado, é sempre uniforme). Retorna:
+// recebe pesos via cycleWeightsOverride[cycleIndex] = { id: peso },
+// calculados em app.js — o ciclo 0 (antes do 1º simulado) usa
+// PRIORITY_WEIGHTS puro; os demais combinam PRIORITY_WEIGHTS com os erros
+// do simulado anterior. Retorna:
 //   [{ day, type: 'normal', topics: [{id, visitIndex}, ...] }, ...]
 //   [{ day, type: 'simulado', simuladoVisitIndex }, ...]
 function buildSchedule(startISO, cycleWeightsOverride) {
@@ -213,23 +230,35 @@ function pickQuestions(subtopicId, visitIndex, day) {
   return seededShuffle(chosen, rng);
 }
 
-// Monta as ~45 questões do simulado de domingo: SIMULADO_QUESTIONS_PER_TOPIC
-// de cada uma das 15 frentes, com rotação própria (independente da rotação
-// diária) para minimizar repetição entre um domingo e outro.
+// Monta as ~45 questões do simulado de domingo, distribuídas PROPORCIONALMENTE
+// a window.PRIORITY_WEIGHTS (frentes de prioridade máxima ganham mais
+// questões, ~4; de prioridade baixa ficam no mínimo garantido, 1), com
+// rotação própria por frente (independente da rotação diária) para
+// minimizar repetição entre um domingo e outro.
+//
+// Importante: usa SEMPRE window.PRIORITY_WEIGHTS (peso estático do estudo),
+// nunca os pesos adaptativos por erro do ciclo seguinte — do contrário a
+// composição do próprio simulado N dependeria de erros medidos por ele
+// mesmo, criando uma dependência circular.
 function pickSimuladoQuestions(simuladoVisitIndex) {
+  const subtopicIds = window.SUBTOPICS.map((s) => s.id);
+  const rng = mulberry32(simuladoVisitIndex * 991 + 3);
+  const counts = proportionalAllocate(
+    subtopicIds, window.PRIORITY_WEIGHTS, SIMULADO_TOTAL_QUESTIONS, rng, SIMULADO_MIN_PER_TOPIC
+  );
+
   const items = [];
-  window.SUBTOPICS.forEach((s) => {
+  window.SUBTOPICS.forEach((s, i) => {
     const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
     if (bank.length === 0) return;
-    const count = Math.min(SIMULADO_QUESTIONS_PER_TOPIC, bank.length);
+    const count = Math.min(counts[i], bank.length);
     const offset = (simuladoVisitIndex * count) % bank.length;
     const circular = [];
-    for (let i = 0; i < bank.length; i++) circular.push(bank[(offset + i) % bank.length]);
+    for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
     circular.slice(0, count).forEach((q) => {
       items.push({ question: q, subtopicId: s.id, subtopicNome: s.nome, area: s.area });
     });
   });
-  const rng = mulberry32(simuladoVisitIndex * 991 + 3);
   return seededShuffle(items, rng);
 }
 

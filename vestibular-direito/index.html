@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rumo à FGV/Insper — Plano de 90 dias</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,17 +13,24 @@
   <!-- ONBOARDING -->
   <section id="view-onboarding" class="view">
     <div class="card onboarding-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.svg" alt="Rumo à FGV/Insper Direito">
+      </div>
       <h1>Rumo à FGV &amp; Insper — Direito</h1>
       <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
       Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
       <ul class="pitch-list">
         <li>Todo dia: <strong>1 a 2 vídeo-aulas</strong> sugeridas + <strong>20 a 30 exercícios</strong> comentados</li>
-        <li>15 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 dias</li>
+        <li>15 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 dias — com
+        mais frequência para as frentes que mais caem nas provas reais, segundo um estudo de 6 anos de exames</li>
         <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
         (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
         nos dias que você quiser</li>
-        <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, 3 de cada uma
-        das 15 frentes — e a semana seguinte passa a focar mais nos temas em que você mais errou</li>
+        <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, distribuídas
+        entre as 15 frentes por prioridade — e a semana seguinte passa a focar mais nos temas em que você mais
+        errou</li>
+        <li><strong>Caderno de Erros</strong>: toda questão que você errar reaparece numa aba própria pra você
+        treinar de novo, até acertar</li>
         <li>Progresso salvo no seu navegador — sem cadastro, sem servidor</li>
       </ul>
       <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
@@ -33,11 +41,15 @@
   <!-- MAIN APP -->
   <div id="view-main" class="view" hidden>
     <header class="topbar">
-      <div class="brand">Rumo à FGV &amp; Insper</div>
+      <div class="brand">
+        <img class="brand-logo" src="assets/logo.svg" alt="">
+        <span>Rumo à FGV &amp; Insper</span>
+      </div>
       <nav class="tabs">
         <button class="tab-btn active" data-tab="hoje">Hoje</button>
         <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
         <button class="tab-btn" data-tab="simulados">Simulados</button>
+        <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
         <button class="tab-btn" data-tab="progresso">Meu progresso</button>
       </nav>
     </header>
@@ -77,6 +89,11 @@
         <div id="simulados-content"></div>
       </section>
 
+      <!-- TAB: CADERNO DE ERROS -->
+      <section id="tab-erros" class="tab-panel">
+        <div id="erros-content"></div>
+      </section>
+
       <!-- TAB: PROGRESSO -->
       <section id="tab-progresso" class="tab-panel">
         <h2>Meu progresso por frente de estudo</h2>
@@ -105,6 +122,7 @@
 </div>
 
 <script src="data/subtopics.js"></script>
+<script src="data/priority-weights.js"></script>
 <script src="data/video-topics.js"></script>
 <script src="data/bundle.js"></script>
 <script src="data/dissertativas.js"></script>

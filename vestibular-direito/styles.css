@@ -1,38 +1,49 @@
 :root {
-  --bg: #f6f5f2;
+  /* Identidade "Rumo à FGV/Insper": o cabeçalho fica sempre em azul-marinho,
+     independente do modo claro/escuro do restante do app. */
+  --header-bg: #0A2540;
+  --header-ink: #ffffff;
+  --header-ink-soft: #9fb2c9;
+  --header-pill-bg: rgba(255,255,255,0.10);
+  --header-border: rgba(255,255,255,0.08);
+
+  --bg: #f1f4f9;
   --surface: #ffffff;
-  --ink: #1c1b19;
-  --ink-soft: #55524c;
-  --border: #e5e2da;
-  --accent: #8c2f2f;
+  --ink: #0A2540;
+  --ink-soft: #475569;
+  --border: #E2E8F0;
+  --accent: #1E40AF;
   --accent-ink: #ffffff;
-  --accent-soft: #f4e6e6;
-  --good: #2f6b3a;
-  --good-soft: #e5f1e6;
-  --bad: #a3312c;
-  --bad-soft: #f8e6e5;
-  --warn: #b8892b;
-  --warn-soft: #f6ecd8;
+  --accent-soft: #DBEAFE;
+  --good: #0F766E;
+  --good-soft: #CCFBF1;
+  --bad: #B91C1C;
+  --bad-soft: #FEE2E2;
+  --warn: #C9A227;
+  --warn-soft: #FBF1D6;
   --radius: 14px;
-  --shadow: 0 1px 2px rgba(28,27,25,0.06), 0 8px 24px rgba(28,27,25,0.06);
+  --shadow: 0 1px 2px rgba(10,37,64,0.06), 0 8px 24px rgba(10,37,64,0.08);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #171614;
-    --surface: #211f1c;
-    --ink: #f2efe9;
-    --ink-soft: #b8b3a8;
-    --border: #35322c;
-    --accent: #d98686;
-    --accent-ink: #201313;
-    --accent-soft: #3a2323;
-    --good: #7fd08f;
-    --good-soft: #1f2f21;
-    --bad: #e4938e;
-    --bad-soft: #362121;
-    --warn: #e2bd75;
-    --warn-soft: #382e1a;
+    --bg: #0A2540;
+    --surface: #1F2937;
+    --ink: #ffffff;
+    --ink-soft: #E2E8F0;
+    --border: rgba(226,232,240,0.14);
+    /* Tons mais claros que o modo claro (mesma família de cor) — os originais
+       (royal blue/emerald/gold escuros) foram calibrados pra contraste em
+       fundo branco e ficam ilegíveis como texto sobre fundo escuro. */
+    --accent: #60A5FA;
+    --accent-ink: #0A2540;
+    --accent-soft: rgba(96,165,250,0.22);
+    --good: #5EEAD4;
+    --good-soft: rgba(15,118,110,0.28);
+    --bad: #F87171;
+    --bad-soft: rgba(248,113,113,0.20);
+    --warn: #E0C36B;
+    --warn-soft: rgba(201,162,39,0.22);
     --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
   }
 }
@@ -63,6 +74,8 @@ body {
   text-align: left;
   padding: 36px;
 }
+.onboarding-logo-wrap { text-align: center; margin-bottom: 18px; }
+.onboarding-logo { width: 92px; height: auto; }
 .onboarding-card h1 { margin: 0 0 8px; font-size: 1.6rem; }
 .subtitle { color: var(--ink-soft); margin: 0 0 20px; }
 .pitch-list { margin: 0 0 24px; padding-left: 20px; color: var(--ink-soft); }
@@ -106,17 +119,18 @@ body {
 /* Topbar */
 .topbar {
   position: sticky; top: 0; z-index: 10;
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--header-border);
   display: flex; align-items: center; justify-content: space-between;
   padding: 14px 20px;
   flex-wrap: wrap; gap: 10px;
 }
-.brand { font-weight: 700; }
-.tabs { display: flex; gap: 4px; background: var(--bg); border-radius: 999px; padding: 4px; }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--header-ink); }
+.brand-logo { height: 32px; width: auto; display: block; }
+.tabs { display: flex; gap: 4px; background: var(--header-pill-bg); border-radius: 999px; padding: 4px; }
 .tab-btn {
   border: none; background: transparent; padding: 8px 16px; border-radius: 999px;
-  cursor: pointer; font: inherit; font-weight: 600; color: var(--ink-soft);
+  cursor: pointer; font: inherit; font-weight: 600; color: var(--header-ink-soft);
 }
 .tab-btn.active { background: var(--accent); color: var(--accent-ink); }
 

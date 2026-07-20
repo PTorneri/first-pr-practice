@@ -1,0 +1,473 @@
+{
+  "subtopic": "atualidades-geopolitica",
+  "questoes": [
+    {
+      "id": "atualidades-geopolitica-01",
+      "texto_apoio": "O Mercosul prevê a livre circulação de bens entre seus membros e a adoção de uma tarifa comum em relação a produtos vindos de fora do bloco, embora com diversas exceções nacionais ainda vigentes.",
+      "enunciado": "Por apresentar tarifa externa comum incompleta e diversas exceções, o Mercosul é classificado, do ponto de vista da integração econômica, como:",
+      "alternativas": {
+        "a": "uma união monetária plena",
+        "b": "uma união aduaneira imperfeita",
+        "c": "um mercado comum plenamente consolidado",
+        "d": "uma zona de livre comércio sem qualquer tarifa comum"
+      },
+      "resposta": "b",
+      "explicacao": "O Mercosul avançou de uma zona de livre comércio para uma união aduaneira, mas por manter numerosas exceções à Tarifa Externa Comum, é caracterizado como uma união aduaneira imperfeita, ainda distante de um mercado comum pleno ou de uma união monetária."
+    },
+    {
+      "id": "atualidades-geopolitica-02",
+      "texto_apoio": "",
+      "enunciado": "A adoção de uma Tarifa Externa Comum por um bloco econômico significa que:",
+      "alternativas": {
+        "a": "cada país-membro pode definir livremente suas próprias tarifas para produtos extrabloco",
+        "b": "os países-membros aplicam a mesma alíquota de importação a produtos vindos de fora do bloco",
+        "c": "todos os produtos, inclusive os do próprio bloco, pagam a mesma tarifa",
+        "d": "apenas produtos agrícolas são taxados"
+      },
+      "resposta": "b",
+      "explicacao": "A Tarifa Externa Comum (TEC) padroniza as alíquotas de importação cobradas pelos países-membros de um bloco sobre produtos originários de países de fora dele, característica típica de uma união aduaneira."
+    },
+    {
+      "id": "atualidades-geopolitica-03",
+      "texto_apoio": "Diferentemente de organizações puramente intergovernamentais, a União Europeia possui instituições, como a Comissão Europeia e o Tribunal de Justiça da UE, cujas decisões podem vincular diretamente os Estados-membros, inclusive sobre matérias antes de competência exclusivamente nacional.",
+      "enunciado": "Essa característica institucional da União Europeia é descrita como:",
+      "alternativas": {
+        "a": "intergovernamentalismo pleno",
+        "b": "supranacionalidade",
+        "c": "unilateralismo normativo",
+        "d": "soberania absoluta dos Estados-membros"
+      },
+      "resposta": "b",
+      "explicacao": "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos."
+    },
+    {
+      "id": "atualidades-geopolitica-04",
+      "texto_apoio": "Países que adotam o euro como moeda comum abrem mão da possibilidade de conduzir sua própria política monetária nacional, que passa a ser definida por um banco central comum.",
+      "enunciado": "Uma consequência dessa perda de autonomia monetária para um país-membro da zona do euro em crise econômica assimétrica em relação aos demais é:",
+      "alternativas": {
+        "a": "maior facilidade para desvalorizar sua moeda isoladamente e ganhar competitividade externa",
+        "b": "menor flexibilidade para usar a política monetária como instrumento de ajuste diante de choques específicos ao seu próprio país",
+        "c": "controle total sobre a taxa de juros doméstica",
+        "d": "imunidade automática a crises fiscais"
+      },
+      "resposta": "b",
+      "explicacao": "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco."
+    },
+    {
+      "id": "atualidades-geopolitica-05",
+      "texto_apoio": "O agrupamento reúne economias emergentes de diferentes continentes, sem tratado constitutivo com o grau de institucionalização de blocos como a União Europeia, e sem tarifa externa comum ou moeda compartilhada.",
+      "enunciado": "Em comparação com blocos econômicos como o Mercosul ou a União Europeia, esse tipo de agrupamento caracteriza-se principalmente por:",
+      "alternativas": {
+        "a": "integração comercial plena com livre circulação de bens",
+        "b": "um fórum de cooperação e concertação política entre potências emergentes, com baixo grau de institucionalização econômica formal",
+        "c": "união aduaneira consolidada",
+        "d": "moeda única compartilhada entre seus membros"
+      },
+      "resposta": "b",
+      "explicacao": "Agrupamentos como o BRICS funcionam mais como espaços de diálogo e cooperação política e financeira entre economias emergentes do que como blocos de integração econômica formal, não havendo união aduaneira, mercado comum ou moeda compartilhada entre seus membros."
+    },
+    {
+      "id": "atualidades-geopolitica-06",
+      "texto_apoio": "Os membros permanentes do Conselho de Segurança da ONU possuem prerrogativa que lhes permite bloquear unilateralmente resoluções sobre questões substantivas, mesmo que a maioria dos demais membros seja favorável.",
+      "enunciado": "Essa prerrogativa é frequentemente apontada como um limite estrutural à capacidade da ONU de:",
+      "alternativas": {
+        "a": "promover reuniões diplomáticas entre países",
+        "b": "agir de forma rápida e unânime em crises que envolvam interesses diretos de uma grande potência",
+        "c": "financiar programas de assistência humanitária",
+        "d": "eleger o Secretário-Geral da organização"
+      },
+      "resposta": "b",
+      "explicacao": "O poder de veto dos membros permanentes pode paralisar decisões do Conselho de Segurança sempre que uma grande potência considerar que seus interesses estratégicos estão em jogo, limitando a capacidade de resposta rápida e unificada da ONU em determinadas crises."
+    },
+    {
+      "id": "atualidades-geopolitica-07",
+      "texto_apoio": "Um dos princípios centrais do sistema multilateral de comércio é o de que uma vantagem comercial concedida por um país a um parceiro deve, em regra, ser estendida a todos os demais membros da organização.",
+      "enunciado": "Esse princípio é conhecido como cláusula de:",
+      "alternativas": {
+        "a": "soberania tarifária",
+        "b": "nação mais favorecida",
+        "c": "reciprocidade automática",
+        "d": "exclusividade bilateral"
+      },
+      "resposta": "b",
+      "explicacao": "O princípio da nação mais favorecida determina que vantagens comerciais concedidas a um parceiro devem, em regra, ser estendidas a todos os demais membros da organização, evitando discriminação comercial entre países-membros."
+    },
+    {
+      "id": "atualidades-geopolitica-08",
+      "texto_apoio": "Ao conceder empréstimos a países com dificuldades no balanço de pagamentos, o Fundo Monetário Internacional costuma exigir a adoção de determinadas políticas econômicas como contrapartida.",
+      "enunciado": "Essas exigências, associadas aos empréstimos concedidos, são conhecidas como:",
+      "alternativas": {
+        "a": "sanções comerciais",
+        "b": "condicionalidades",
+        "c": "tarifas compensatórias",
+        "d": "barreiras não tarifárias"
+      },
+      "resposta": "b",
+      "explicacao": "As condicionalidades são compromissos de política econômica — como ajuste fiscal ou reformas estruturais — que países tomadores de empréstimos do FMI se comprometem a adotar como contrapartida ao financiamento recebido."
+    },
+    {
+      "id": "atualidades-geopolitica-09",
+      "texto_apoio": "Analistas de relações internacionais frequentemente contrastam períodos históricos em que o poder mundial se concentra em uma única potência com períodos em que diversos polos de poder disputam influência global e regional.",
+      "enunciado": "A configuração internacional caracterizada pela existência de múltiplos centros de poder político, econômico e militar relevantes, sem que nenhum deles exerça hegemonia incontestável, é chamada de:",
+      "alternativas": {
+        "a": "unipolaridade",
+        "b": "multipolaridade",
+        "c": "bipolaridade",
+        "d": "apolaridade"
+      },
+      "resposta": "b",
+      "explicacao": "A multipolaridade descreve um sistema internacional com diversos centros de poder relevantes e capazes de influenciar a ordem global e regional, em contraste com a unipolaridade (um único polo hegemônico) ou a bipolaridade (dois polos, como na Guerra Fria)."
+    },
+    {
+      "id": "atualidades-geopolitica-10",
+      "texto_apoio": "Em alguns conflitos armados regionais, grandes potências evitam confronto direto entre si, mas apoiam militar, financeira ou politicamente diferentes lados do conflito.",
+      "enunciado": "Esse tipo de envolvimento indireto de potências externas em um conflito local é denominado:",
+      "alternativas": {
+        "a": "guerra total",
+        "b": "guerra por procuração (proxy war)",
+        "c": "guerra civil espontânea",
+        "d": "neutralidade armada"
+      },
+      "resposta": "b",
+      "explicacao": "Uma guerra por procuração ocorre quando potências externas apoiam diferentes lados de um conflito sem se engajar diretamente em confronto militar entre si, buscando influenciar o resultado sem os custos e riscos de uma guerra direta."
+    },
+    {
+      "id": "atualidades-geopolitica-11",
+      "texto_apoio": "Em diversas regiões da África e do Oriente Médio, fronteiras nacionais foram traçadas por potências coloniais com pouca ou nenhuma consideração pelas divisões étnicas, linguísticas e religiosas preexistentes.",
+      "enunciado": "Esse legado histórico é frequentemente apontado por analistas como um fator estrutural que contribui para:",
+      "alternativas": {
+        "a": "a homogeneidade cultural desses países",
+        "b": "tensões e conflitos internos relacionados à convivência forçada de grupos distintos dentro de um mesmo Estado",
+        "c": "o desaparecimento de identidades étnicas locais",
+        "d": "a ausência completa de disputas territoriais na região"
+      },
+      "resposta": "b",
+      "explicacao": "Fronteiras traçadas sem considerar divisões étnicas e religiosas preexistentes frequentemente reuniram, sob um mesmo Estado, grupos com identidades, interesses e histórico de rivalidades distintos, o que é apontado como fator estrutural de instabilidade e conflitos internos."
+    },
+    {
+      "id": "atualidades-geopolitica-12",
+      "texto_apoio": "Segundo a teoria clássica do comércio internacional formulada por David Ricardo, mesmo um país que seja menos eficiente que outro na produção de todos os bens pode se beneficiar do comércio.",
+      "enunciado": "Isso ocorre porque cada país deve se especializar na produção dos bens em que apresenta:",
+      "alternativas": {
+        "a": "vantagem absoluta em todos os setores simultaneamente",
+        "b": "menor custo de oportunidade relativo, ainda que não seja o mais eficiente em termos absolutos",
+        "c": "autossuficiência total, sem depender de importações",
+        "d": "barreiras tarifárias mais baixas"
+      },
+      "resposta": "b",
+      "explicacao": "A teoria das vantagens comparativas mostra que o comércio pode beneficiar todos os países envolvidos quando cada um se especializa na produção dos bens em que tem menor custo de oportunidade relativo, mesmo que não possua vantagem absoluta em nenhum setor."
+    },
+    {
+      "id": "atualidades-geopolitica-13",
+      "texto_apoio": "Diante de pressões de setores produtivos domésticos afetados pela concorrência externa, governos por vezes elevam tarifas de importação ou concedem subsídios a produtores nacionais.",
+      "enunciado": "Uma crítica recorrente a esse tipo de política, do ponto de vista da teoria econômica do comércio, é que ela tende a:",
+      "alternativas": {
+        "a": "reduzir sempre e em qualquer circunstância o bem-estar de todos os países envolvidos, sem exceção",
+        "b": "proteger setores específicos no curto prazo, mas elevar preços ao consumidor e reduzir a eficiência alocativa da economia",
+        "c": "eliminar completamente a necessidade de comércio internacional",
+        "d": "aumentar automaticamente a produtividade dos setores protegidos"
+      },
+      "resposta": "b",
+      "explicacao": "Medidas protecionistas podem proteger empregos e setores específicos no curto prazo, mas tendem a elevar preços para os consumidores domésticos e reduzir os ganhos de eficiência associados à especialização e à concorrência internacional."
+    },
+    {
+      "id": "atualidades-geopolitica-14",
+      "texto_apoio": "Um mesmo produto final pode ter componentes projetados, fabricados e montados em diferentes países antes de chegar ao consumidor.",
+      "enunciado": "Essa fragmentação internacional das etapas de produção é conhecida como:",
+      "alternativas": {
+        "a": "autarquia produtiva",
+        "b": "cadeias globais de valor",
+        "c": "substituição de importações",
+        "d": "protecionismo seletivo"
+      },
+      "resposta": "b",
+      "explicacao": "As cadeias globais de valor referem-se à distribuição das diferentes etapas do processo produtivo de um bem entre diversos países, de acordo com vantagens específicas de cada localidade, como custo de mão de obra, tecnologia ou proximidade de insumos."
+    },
+    {
+      "id": "atualidades-geopolitica-15",
+      "texto_apoio": "Um país pode influenciar o comportamento de outros não apenas por meio de força militar ou coerção econômica, mas também pela atratividade de sua cultura, valores e instituições.",
+      "enunciado": "Essa capacidade de influência baseada em atração e persuasão, e não em coerção, foi conceituada por analistas de relações internacionais como:",
+      "alternativas": {
+        "a": "hard power",
+        "b": "soft power",
+        "c": "poder de veto",
+        "d": "diplomacia coercitiva"
+      },
+      "resposta": "b",
+      "explicacao": "O conceito de soft power, formulado por Joseph Nye, refere-se à capacidade de um Estado influenciar outros atores por meio de atração cultural, valores e legitimidade, em contraste com o hard power, baseado em coerção militar ou econômica."
+    },
+    {
+      "id": "atualidades-geopolitica-16",
+      "texto_apoio": "Como resposta a determinadas ações de outro Estado, países ou organismos internacionais por vezes restringem comércio, investimentos ou acesso ao sistema financeiro internacional em relação ao país-alvo.",
+      "enunciado": "Uma limitação frequentemente associada à eficácia desse tipo de instrumento de política externa é:",
+      "alternativas": {
+        "a": "sanções sempre produzem mudança imediata de comportamento no país-alvo",
+        "b": "o país-alvo pode buscar parceiros comerciais alternativos e as sanções podem penalizar sobretudo a população civil, sem necessariamente alterar decisões dos governantes",
+        "c": "sanções eliminam qualquer possibilidade de comércio internacional em nível global",
+        "d": "sanções são juridicamente impossíveis de ser aplicadas por organismos multilaterais"
+      },
+      "resposta": "b",
+      "explicacao": "Sanções econômicas podem ser contornadas por meio de rotas comerciais alternativas e tendem a impactar de forma mais direta a população civil do país-alvo, o que limita sua eficácia como instrumento de pressão sobre decisões de governantes."
+    },
+    {
+      "id": "atualidades-geopolitica-17",
+      "texto_apoio": "Historicamente, a diplomacia brasileira tem valorizado a resolução pacífica de controvérsias, a defesa do multilateralismo e a busca por parcerias com países em desenvolvimento.",
+      "enunciado": "Essa orientação, que busca ampliar a cooperação e o protagonismo com países do Sul Global, é frequentemente descrita como:",
+      "alternativas": {
+        "a": "alinhamento automático a uma única grande potência",
+        "b": "diplomacia Sul-Sul",
+        "c": "isolacionismo diplomático",
+        "d": "unilateralismo militar"
+      },
+      "resposta": "b",
+      "explicacao": "A diplomacia Sul-Sul refere-se à busca de cooperação política, econômica e técnica entre países em desenvolvimento, valorizando o multilateralismo e reduzindo a dependência exclusiva de relações com potências tradicionais."
+    },
+    {
+      "id": "atualidades-geopolitica-18",
+      "texto_apoio": "Após choques recentes nas cadeias globais de suprimento, diversas empresas e governos passaram a considerar relocalizar produção em países geograficamente próximos ou politicamente alinhados, em vez de buscar exclusivamente o menor custo global.",
+      "enunciado": "Essa tendência de reorganização das cadeias produtivas priorizando proximidade geográfica ou afinidade política é descrita por termos como nearshoring e friend-shoring, e reflete, sobretudo, uma resposta a:",
+      "alternativas": {
+        "a": "a busca exclusiva por menores custos de produção, sem qualquer preocupação com segurança",
+        "b": "a percepção de riscos geopolíticos e de segurança no fornecimento associados a cadeias muito dispersas e dependentes de poucos fornecedores distantes",
+        "c": "o fim completo do comércio internacional de bens",
+        "d": "a eliminação da necessidade de acordos comerciais bilaterais"
+      },
+      "resposta": "b",
+      "explicacao": "Nearshoring e friend-shoring surgem como respostas à percepção de vulnerabilidade associada a cadeias de suprimento excessivamente concentradas ou dependentes de fornecedores distantes e geopoliticamente sensíveis, priorizando segurança e resiliência em detrimento do menor custo absoluto."
+    },
+    {
+      "id": "atualidades-geopolitica-19",
+      "texto_apoio": "Conflitos armados, perseguições políticas e desastres ambientais forçam milhões de pessoas a deixar seus países todos os anos, buscando proteção em Estados vizinhos ou mais distantes.",
+      "enunciado": "De acordo com o direito internacional, a diferença central entre um refugiado e um migrante econômico é que o refugiado:",
+      "alternativas": {
+        "a": "busca exclusivamente melhores oportunidades de emprego no exterior",
+        "b": "foge de fundado temor de perseguição, conflito ou grave violação de direitos, tendo direito a proteção internacional específica",
+        "c": "sempre possui visto de trabalho válido no país de destino",
+        "d": "não pode, em nenhuma hipótese, solicitar cidadania no país de acolhida"
+      },
+      "resposta": "b",
+      "explicacao": "O status de refugiado, reconhecido por convenções internacionais, aplica-se a quem foge de perseguição, conflito armado ou grave violação de direitos humanos, gerando obrigações específicas de proteção por parte dos Estados, diferentemente da migração motivada apenas por razões econômicas."
+    },
+    {
+      "id": "atualidades-geopolitica-20",
+      "texto_apoio": "Ataques cibernéticos a infraestruturas críticas, como redes elétricas e sistemas financeiros, têm se tornado parte relevante das preocupações de defesa nacional de diversos países.",
+      "enunciado": "A incorporação da segurança cibernética como tema central das agendas de defesa nacional reflete, sobretudo, o fato de que:",
+      "alternativas": {
+        "a": "ataques digitais são incapazes de gerar danos reais a infraestruturas físicas",
+        "b": "infraestruturas críticas dependem cada vez mais de sistemas digitais interconectados, tornando-as vulneráveis a ataques que podem causar danos comparáveis a ações militares tradicionais",
+        "c": "a segurança cibernética substitui integralmente a necessidade de forças armadas convencionais",
+        "d": "apenas atores estatais são capazes de realizar ataques cibernéticos"
+      },
+      "resposta": "b",
+      "explicacao": "A crescente digitalização de infraestruturas críticas (energia, finanças, saúde) as torna vulneráveis a ataques cibernéticos capazes de causar interrupções e danos significativos, o que levou países a tratar a segurança cibernética como componente central de suas estratégias de defesa."
+    },
+    {
+      "id": "atualidades-geopolitica-21",
+      "texto_apoio": "Tratados internacionais buscam limitar a proliferação de armas nucleares, restringindo a posse desse tipo de arsenal a um número reduzido de Estados reconhecidos como potências nucleares.",
+      "enunciado": "Um dos principais desafios enfrentados por esses regimes de não proliferação nuclear é:",
+      "alternativas": {
+        "a": "a ausência completa de países interessados em desenvolver tecnologia nuclear",
+        "b": "conciliar o direito de países ao desenvolvimento de energia nuclear para fins pacíficos com o risco de desvio dessa tecnologia para fins militares",
+        "c": "o fato de que todos os países do mundo já aderiram integralmente e sem exceções aos tratados",
+        "d": "a inexistência de qualquer mecanismo de verificação internacional"
+      },
+      "resposta": "b",
+      "explicacao": "Regimes de não proliferação, como o Tratado de Não Proliferação Nuclear, buscam equilibrar o direito de países ao uso pacífico da energia nuclear com mecanismos de verificação que reduzam o risco de desvio de tecnologia e material nuclear para fins militares, um equilíbrio frequentemente tensionado na prática."
+    },
+    {
+      "id": "atualidades-geopolitica-22",
+      "texto_apoio": "Fóruns que reúnem as maiores economias do mundo, desenvolvidas e emergentes, têm ganhado protagonismo na coordenação de respostas a crises econômicas globais.",
+      "enunciado": "Em comparação com organismos como a ONU, fóruns desse tipo (que reúnem um grupo restrito das maiores economias) caracterizam-se por:",
+      "alternativas": {
+        "a": "possuir poder de decisão juridicamente vinculante sobre todos os países do mundo",
+        "b": "funcionar como espaço de coordenação política e econômica entre um grupo seleto de grandes economias, sem caráter de organização universal com poder vinculante",
+        "c": "substituir integralmente as funções do Conselho de Segurança da ONU",
+        "d": "incluir obrigatoriamente todos os Estados-membros da ONU"
+      },
+      "resposta": "b",
+      "explicacao": "Fóruns como o G7 e o G20 reúnem um grupo restrito de grandes economias para coordenar políticas econômicas e responder a crises globais, mas suas decisões têm caráter de recomendação e coordenação política, sem o caráter universal e vinculante de organismos como o Conselho de Segurança da ONU."
+    },
+    {
+      "id": "atualidades-geopolitica-23",
+      "texto_apoio": "Comunidades de imigrantes e seus descendentes mantêm, em muitos casos, vínculos econômicos e culturais com os países de origem, inclusive por meio do envio regular de recursos financeiros.",
+      "enunciado": "O envio de recursos financeiros por trabalhadores migrantes a familiares em seus países de origem é conhecido como:",
+      "alternativas": {
+        "a": "investimento direto estrangeiro",
+        "b": "remessas de migrantes",
+        "c": "ajuda humanitária multilateral",
+        "d": "dívida externa bilateral"
+      },
+      "resposta": "b",
+      "explicacao": "As remessas de migrantes — recursos enviados por trabalhadores no exterior a familiares em seus países de origem — representam, para diversas economias em desenvolvimento, uma fonte relevante de divisas, por vezes superior a investimentos estrangeiros diretos ou ajuda externa."
+    },
+    {
+      "id": "atualidades-geopolitica-24",
+      "texto_apoio": "A produção mundial de semicondutores, componentes essenciais para eletrônicos, veículos e equipamentos militares, está concentrada em um número reduzido de países e empresas.",
+      "enunciado": "Essa concentração geográfica da produção de semicondutores é vista, sob a ótica da geopolítica econômica, como um fator que:",
+      "alternativas": {
+        "a": "elimina qualquer risco estratégico para os países que dependem desses componentes",
+        "b": "gera vulnerabilidade estratégica para países dependentes de importação, tornando o setor alvo de políticas industriais e disputas comerciais entre grandes potências",
+        "c": "é irrelevante para a competitividade tecnológica e militar dos países",
+        "d": "garante automaticamente autossuficiência tecnológica a todos os países consumidores"
+      },
+      "resposta": "b",
+      "explicacao": "A forte concentração geográfica da produção de semicondutores torna países dependentes de importação vulneráveis a interrupções na cadeia de suprimentos, o que tem levado grandes potências a tratar o setor como prioridade estratégica, com políticas industriais e disputas comerciais específicas."
+    },
+    {
+      "id": "atualidades-geopolitica-25",
+      "texto_apoio": "Rotas marítimas internacionais são utilizadas para o transporte da maior parte do comércio mundial de bens, atravessando, em vários trechos, águas reivindicadas por diferentes países.",
+      "enunciado": "O princípio do direito internacional que garante a passagem de embarcações por determinadas águas internacionais, mesmo sem autorização prévia do Estado costeiro, é conhecido como:",
+      "alternativas": {
+        "a": "soberania territorial irrestrita",
+        "b": "liberdade de navegação",
+        "c": "embargo comercial recíproco",
+        "d": "zona de exclusão aérea"
+      },
+      "resposta": "b",
+      "explicacao": "A liberdade de navegação, prevista em convenções de direito do mar, garante a passagem de embarcações por determinadas águas internacionais, sendo frequentemente invocada em disputas territoriais marítimas, como as observadas em algumas regiões do Indo-Pacífico."
+    },
+    {
+      "id": "atualidades-geopolitica-26",
+      "texto_apoio": "Organizações regionais no continente africano têm buscado ampliar a cooperação política e econômica entre seus membros, incluindo a criação de uma área continental de livre comércio.",
+      "enunciado": "Iniciativas desse tipo, voltadas à integração econômica regional no continente africano, têm como principal objetivo declarado:",
+      "alternativas": {
+        "a": "isolar o continente africano do comércio internacional",
+        "b": "reduzir barreiras ao comércio intra-africano e fortalecer a posição econômica conjunta dos países do continente",
+        "c": "eliminar a soberania nacional dos países-membros",
+        "d": "impedir qualquer forma de investimento estrangeiro na região"
+      },
+      "resposta": "b",
+      "explicacao": "Iniciativas de integração regional africana, como áreas de livre comércio continentais, buscam reduzir barreiras tarifárias entre países africanos, estimular o comércio intrarregional e fortalecer a posição econômica conjunta do continente no cenário internacional."
+    },
+    {
+      "id": "atualidades-geopolitica-27",
+      "texto_apoio": "Grupos de países emergentes têm debatido a ampliação de seu número de membros e a criação de mecanismos financeiros próprios, como bancos de desenvolvimento alternativos aos tradicionais.",
+      "enunciado": "Esse tipo de movimento é frequentemente interpretado por analistas de relações internacionais como uma tentativa de:",
+      "alternativas": {
+        "a": "reforçar exclusivamente as instituições financeiras já existentes, sem qualquer alternativa própria",
+        "b": "ampliar a influência política e financeira de economias emergentes, reduzindo a dependência de instituições dominadas historicamente por potências ocidentais",
+        "c": "extinguir completamente o comércio entre países emergentes e desenvolvidos",
+        "d": "unificar moedas nacionais em uma única moeda global"
+      },
+      "resposta": "b",
+      "explicacao": "A criação de mecanismos financeiros alternativos por agrupamentos de economias emergentes é interpretada como parte de uma estratégia para ampliar sua influência política e financeira internacional, reduzindo a dependência de instituições historicamente dominadas por potências ocidentais, como o Banco Mundial e o FMI."
+    },
+    {
+      "id": "atualidades-geopolitica-28",
+      "texto_apoio": "A dependência de determinados países em relação à importação de gás natural liquefeito (GNL) de fornecedores específicos tem sido apontada como fator de vulnerabilidade geopolítica.",
+      "enunciado": "A diversificação de fontes e fornecedores de energia é frequentemente adotada como estratégia para:",
+      "alternativas": {
+        "a": "aumentar a dependência de um único fornecedor externo",
+        "b": "reduzir a vulnerabilidade a interrupções de fornecimento e a pressões políticas associadas à dependência energética de poucos países",
+        "c": "eliminar totalmente o consumo de energia do país",
+        "d": "impedir qualquer acordo comercial de longo prazo no setor energético"
+      },
+      "resposta": "b",
+      "explicacao": "A diversificação de fontes e fornecedores de energia reduz a exposição de um país a interrupções de fornecimento e a pressões políticas decorrentes da dependência excessiva de poucos fornecedores, sendo uma estratégia central de segurança energética."
+    },
+    {
+      "id": "atualidades-geopolitica-29",
+      "texto_apoio": "A maior parte das transações comerciais internacionais e das reservas cambiais de bancos centrais ao redor do mundo ainda é denominada em uma única moeda, apesar de crescentes debates sobre diversificação.",
+      "enunciado": "O papel central de uma moeda nas transações e reservas internacionais confere ao país emissor, entre outras vantagens, a capacidade de:",
+      "alternativas": {
+        "a": "perder totalmente influência sobre o sistema financeiro internacional",
+        "b": "financiar déficits externos com maior facilidade e exercer influência sobre o sistema financeiro internacional, inclusive por meio de sanções",
+        "c": "ser automaticamente excluído de qualquer disputa comercial internacional",
+        "d": "eliminar qualquer necessidade de política monetária doméstica"
+      },
+      "resposta": "b",
+      "explicacao": "O status de moeda de reserva internacional permite ao país emissor financiar déficits externos com mais facilidade e amplia sua influência sobre o sistema financeiro global, inclusive como instrumento de política externa, por exemplo por meio de sanções que restringem o acesso de outros países a transações nessa moeda."
+    },
+    {
+      "id": "atualidades-geopolitica-30",
+      "texto_apoio": "Tribunais internacionais julgam disputas entre Estados ou processam indivíduos acusados de crimes de guerra, genocídio ou crimes contra a humanidade.",
+      "enunciado": "Uma limitação frequentemente apontada quanto à efetividade desses tribunais internacionais é que:",
+      "alternativas": {
+        "a": "eles possuem força policial própria capaz de prender qualquer acusado em qualquer país",
+        "b": "sua capacidade de fazer cumprir decisões e efetuar prisões depende, em grande medida, da cooperação voluntária dos Estados, o que pode ser recusada",
+        "c": "eles não podem, em nenhuma hipótese, julgar chefes de Estado",
+        "d": "todos os países do mundo reconhecem automaticamente sua jurisdição"
+      },
+      "resposta": "b",
+      "explicacao": "Tribunais internacionais geralmente não dispõem de força policial própria, dependendo da cooperação dos Estados para executar mandados de prisão e fazer cumprir decisões, o que limita sua efetividade quando Estados se recusam a cooperar ou não reconhecem sua jurisdição."
+    },
+    {
+      "id": "atualidades-geopolitica-31",
+      "texto_apoio": "O número de satélites em órbita e de países e empresas privadas com capacidade de lançamento espacial cresceu significativamente nas últimas décadas.",
+      "enunciado": "A crescente presença de atores estatais e privados no espaço orbital tem levantado debates internacionais sobre:",
+      "alternativas": {
+        "a": "a total impossibilidade de qualquer uso militar ou estratégico do espaço",
+        "b": "a regulação do uso do espaço, incluindo riscos de militarização, geração de detritos orbitais e disputas por posições orbitais estratégicas",
+        "c": "a ausência completa de interesse comercial nesse domínio",
+        "d": "a exclusividade absoluta de um único país sobre todo o espaço orbital"
+      },
+      "resposta": "b",
+      "explicacao": "O aumento de atores estatais e privados no espaço trouxe à tona debates sobre regulação internacional, incluindo riscos de militarização do espaço, acúmulo de detritos orbitais e disputas por posições orbitais estrategicamente valiosas, como as usadas por satélites de comunicação."
+    },
+    {
+      "id": "atualidades-geopolitica-32",
+      "texto_apoio": "Determinados minerais, essenciais para a fabricação de baterias, ímãs e componentes eletrônicos avançados, têm produção e processamento concentrados em poucos países.",
+      "enunciado": "Essa concentração na produção de minerais estratégicos para tecnologias como veículos elétricos e energia renovável gera, entre outras consequências:",
+      "alternativas": {
+        "a": "irrelevância geopolítica desses minerais para as cadeias produtivas globais",
+        "b": "disputas geoeconômicas por acesso a essas cadeias de suprimento, com países buscando diversificar fontes e reduzir dependência de fornecedores concentrados",
+        "c": "eliminação de qualquer necessidade de mineração no futuro",
+        "d": "distribuição igualitária automática da produção entre todos os países do mundo"
+      },
+      "resposta": "b",
+      "explicacao": "A concentração da produção e do processamento de minerais estratégicos (como lítio, cobalto e terras-raras) em poucos países tem gerado disputas geoeconômicas, com governos e empresas buscando diversificar fontes de suprimento para tecnologias essenciais à transição energética e à indústria eletrônica."
+    },
+    {
+      "id": "atualidades-geopolitica-33",
+      "texto_apoio": "Após períodos de colonização, muitas ex-colônias mantiveram, por décadas, relações comerciais concentradas principalmente com suas antigas metrópoles, voltadas sobretudo à exportação de matérias-primas.",
+      "enunciado": "Esse padrão de comércio, herdado do período colonial e caracterizado pela exportação de produtos primários em troca de manufaturados, é apontado por parte dos analistas como fator que:",
+      "alternativas": {
+        "a": "garantiu desenvolvimento industrial imediato e equilibrado às ex-colônias",
+        "b": "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e antigas metrópoles, dificultando a diversificação produtiva das primeiras",
+        "c": "eliminou qualquer relação comercial entre ex-colônias e antigas metrópoles",
+        "d": "é integralmente desvinculado do processo histórico de colonização"
+      },
+      "resposta": "b",
+      "explicacao": "O padrão de comércio herdado do período colonial, baseado na exportação de matérias-primas e importação de manufaturados, é apontado por parte da literatura econômica como fator que contribuiu para a manutenção de assimetrias estruturais entre ex-colônias e antigas metrópoles, dificultando a diversificação e industrialização das primeiras."
+    },
+    {
+      "id": "atualidades-geopolitica-34",
+      "texto_apoio": "Debates sobre controle de fronteiras e políticas de imigração têm ganhado espaço central em campanhas eleitorais de diversos países nas últimas décadas.",
+      "enunciado": "Do ponto de vista econômico, um argumento frequentemente utilizado em defesa de políticas migratórias mais abertas é que a imigração pode:",
+      "alternativas": {
+        "a": "reduzir sempre e em qualquer contexto a força de trabalho disponível em um país",
+        "b": "suprir demandas específicas do mercado de trabalho e contribuir para a dinâmica demográfica e econômica de países com população em envelhecimento",
+        "c": "eliminar completamente a necessidade de qualquer política pública de emprego",
+        "d": "ser irrelevante para a estrutura demográfica de um país"
+      },
+      "resposta": "b",
+      "explicacao": "Defensores de políticas migratórias mais abertas frequentemente argumentam que a imigração pode suprir demandas específicas do mercado de trabalho e ajudar a equilibrar a estrutura demográfica de países com população envelhecida e baixa taxa de natalidade, contribuindo para a sustentabilidade econômica de longo prazo."
+    },
+    {
+      "id": "atualidades-geopolitica-35",
+      "texto_apoio": "Organizações não governamentais internacionais atuam em áreas como direitos humanos, meio ambiente e ajuda humanitária, muitas vezes operando em diversos países simultaneamente.",
+      "enunciado": "O papel dessas organizações no cenário internacional é caracterizado, sobretudo, por:",
+      "alternativas": {
+        "a": "possuírem poder de decisão vinculante equivalente ao de um Estado soberano",
+        "b": "atuarem como atores não estatais capazes de influenciar agendas políticas, monitorar violações de direitos e prestar assistência, sem, contudo, deter poder coercitivo estatal",
+        "c": "substituírem integralmente as funções dos governos nacionais",
+        "d": "serem reconhecidas como membros plenos da Organização das Nações Unidas"
+      },
+      "resposta": "b",
+      "explicacao": "ONGs internacionais atuam como atores não estatais relevantes nas relações internacionais, influenciando agendas políticas, monitorando violações de direitos humanos e prestando assistência humanitária, mas sem deter o poder coercitivo ou a soberania característicos de um Estado."
+    },
+    {
+      "id": "atualidades-geopolitica-36",
+      "texto_apoio": "Após a Segunda Guerra Mundial, diversos territórios sob domínio colonial europeu conquistaram independência política ao longo da segunda metade do século XX.",
+      "enunciado": "Esse processo histórico de fim do domínio colonial direto sobre territórios da África e da Ásia é chamado de:",
+      "alternativas": {
+        "a": "globalização",
+        "b": "descolonização",
+        "c": "neocolonialismo",
+        "d": "protecionismo"
+      },
+      "resposta": "b",
+      "explicacao": "A descolonização refere-se ao processo histórico, concentrado sobretudo entre as décadas de 1940 e 1970, em que territórios da África e da Ásia sob domínio colonial europeu conquistaram independência política, redesenhando o mapa geopolítico mundial."
+    }
+  ]
+}

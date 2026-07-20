@@ -1,0 +1,473 @@
+{
+  "subtopic": "direitos-humanos",
+  "questoes": [
+    {
+      "id": "direitos-humanos-01",
+      "texto_apoio": "As chamadas 'gerações' (ou dimensões) de direitos fundamentais organizam historicamente a conquista de direitos civis, políticos e sociais pelos indivíduos.",
+      "enunciado": "Os direitos de primeira geração, conquistados sobretudo a partir das revoluções liberais dos séculos XVII e XVIII, têm como característica principal:",
+      "alternativas": {
+        "a": "Exigir prestações positivas do Estado, como saúde e educação",
+        "b": "Impor limites à ação do Estado, protegendo a liberdade individual",
+        "c": "Garantir direitos coletivos de povos e nações",
+        "d": "Regular o acesso à informação e à tecnologia digital"
+      },
+      "resposta": "b",
+      "explicacao": "Direitos de primeira geração (civis e políticos) surgem do liberalismo e visam limitar o poder do Estado frente ao indivíduo, garantindo liberdades como ir e vir, expressão e propriedade."
+    },
+    {
+      "id": "direitos-humanos-02",
+      "texto_apoio": "Aprovada pela Assembleia Geral da ONU em 1948.",
+      "enunciado": "A Declaração Universal dos Direitos Humanos foi proclamada em um contexto histórico marcado principalmente por:",
+      "alternativas": {
+        "a": "A consolidação do sistema colonial europeu na África e na Ásia",
+        "b": "O fim da Guerra Fria e a queda do Muro de Berlim",
+        "c": "As atrocidades cometidas durante a Segunda Guerra Mundial, sobretudo o Holocausto",
+        "d": "A independência das colônias latino-americanas"
+      },
+      "resposta": "c",
+      "explicacao": "A DUDH de 1948 foi resposta direta às violações massivas de direitos humanos durante a Segunda Guerra Mundial, especialmente o extermínio nazista, buscando estabelecer parâmetros mínimos de dignidade humana."
+    },
+    {
+      "id": "direitos-humanos-03",
+      "texto_apoio": "",
+      "enunciado": "Na Constituição Federal de 1988, direitos como saúde, educação, moradia e previdência social são classificados como:",
+      "alternativas": {
+        "a": "Direitos individuais",
+        "b": "Direitos difusos",
+        "c": "Direitos sociais",
+        "d": "Direitos de nacionalidade"
+      },
+      "resposta": "c",
+      "explicacao": "Os direitos sociais, previstos no art. 6º da CF/88, exigem prestações positivas do Estado (políticas públicas) para garantir condições mínimas de vida digna à população."
+    },
+    {
+      "id": "direitos-humanos-04",
+      "texto_apoio": "'Tratar igualmente os iguais e desigualmente os desiguais, na medida de sua desigualdade' é uma máxima atribuída a Rui Barbosa.",
+      "enunciado": "Essa formulação está relacionada à distinção entre:",
+      "alternativas": {
+        "a": "Direitos civis e direitos políticos",
+        "b": "Igualdade formal e igualdade material",
+        "c": "Cidadania ativa e cidadania passiva",
+        "d": "Direitos individuais e direitos coletivos"
+      },
+      "resposta": "b",
+      "explicacao": "A igualdade formal trata todos de modo idêntico perante a lei; a igualdade material reconhece desigualdades reais e busca compensá-las por meio de políticas específicas, como ações afirmativas."
+    },
+    {
+      "id": "direitos-humanos-05",
+      "texto_apoio": "",
+      "enunciado": "No Brasil, o direito de voto foi estendido às mulheres em 1932, durante o governo provisório de Getúlio Vargas. Esse marco é resultado direto de:",
+      "alternativas": {
+        "a": "Uma concessão espontânea do Estado, sem pressão social prévia",
+        "b": "Décadas de mobilização do movimento sufragista, com destaque para Bertha Lutz",
+        "c": "Determinação da Organização das Nações Unidas",
+        "d": "Pressão exercida por potências europeias sobre o governo brasileiro"
+      },
+      "resposta": "b",
+      "explicacao": "O voto feminino no Brasil foi conquistado após décadas de organização do movimento sufragista, no qual Bertha Lutz teve papel de destaque na articulação política pela igualdade de direitos políticos."
+    },
+    {
+      "id": "direitos-humanos-06",
+      "texto_apoio": "A Lei Áurea, de 1888, aboliu formalmente a escravidão no Brasil.",
+      "enunciado": "Do ponto de vista da história dos direitos humanos, a principal crítica feita ao processo de abolição no Brasil é que:",
+      "alternativas": {
+        "a": "A abolição não foi acompanhada de políticas de integração social, terra ou educação para a população negra recém-libertada",
+        "b": "A Lei Áurea concedeu direitos políticos plenos imediatos à população negra",
+        "c": "A abolição ocorreu antes da independência do país",
+        "d": "A escravidão persistiu legalmente até a Constituição de 1988"
+      },
+      "resposta": "a",
+      "explicacao": "A abolição jurídica não garantiu cidadania efetiva: sem acesso a terra, trabalho, educação ou reparação, a população negra libertada permaneceu à margem da sociedade, o que ajuda a explicar desigualdades raciais persistentes."
+    },
+    {
+      "id": "direitos-humanos-07",
+      "texto_apoio": "",
+      "enunciado": "O Estatuto da Criança e do Adolescente (ECA), de 1990, rompeu com a lógica anterior do 'Código de Menores' ao adotar a doutrina da:",
+      "alternativas": {
+        "a": "Situação irregular",
+        "b": "Proteção integral",
+        "c": "Tutela penal máxima",
+        "d": "Responsabilidade civil objetiva"
+      },
+      "resposta": "b",
+      "explicacao": "A doutrina da proteção integral reconhece crianças e adolescentes como sujeitos de direitos em condição peculiar de desenvolvimento, substituindo a antiga doutrina da situação irregular, que os tratava como objeto de tutela estatal."
+    },
+    {
+      "id": "direitos-humanos-08",
+      "texto_apoio": "Em 2012, o STF julgou constitucional a política de cotas raciais em universidades públicas.",
+      "enunciado": "O principal argumento jurídico utilizado pelo STF para validar as cotas raciais foi:",
+      "alternativas": {
+        "a": "A necessidade de correção de desigualdades históricas por meio de ação afirmativa, compatível com o princípio da igualdade material",
+        "b": "A obrigatoriedade imposta por tratados internacionais vinculantes",
+        "c": "A inexistência de outros critérios possíveis de seleção universitária",
+        "d": "A vedação constitucional a qualquer forma de exame vestibular"
+      },
+      "resposta": "a",
+      "explicacao": "O STF entendeu que as cotas raciais são instrumento legítimo de ação afirmativa, compatível com a igualdade material prevista na Constituição, ao buscar compensar desigualdades históricas de acesso à educação superior."
+    },
+    {
+      "id": "direitos-humanos-09",
+      "texto_apoio": "O movimento 'Diretas Já' mobilizou milhões de brasileiros entre 1983 e 1984.",
+      "enunciado": "Essa mobilização popular reivindicava diretamente:",
+      "alternativas": {
+        "a": "A eleição direta para presidente da República, então escolhido indiretamente pelo Colégio Eleitoral",
+        "b": "A promulgação imediata de uma nova Constituição",
+        "c": "O fim do bicameralismo no Congresso Nacional",
+        "d": "A extinção do Supremo Tribunal Federal"
+      },
+      "resposta": "a",
+      "explicacao": "O movimento Diretas Já exigia a aprovação da emenda Dante de Oliveira, que restabeleceria as eleições presidenciais diretas, ainda restritas pelo regime militar ao voto indireto do Colégio Eleitoral."
+    },
+    {
+      "id": "direitos-humanos-10",
+      "texto_apoio": "Em 2019, o STF equiparou a homofobia e a transfobia ao crime de racismo, enquanto a lei específica não fosse aprovada pelo Congresso.",
+      "enunciado": "Essa decisão do STF configura um exemplo de:",
+      "alternativas": {
+        "a": "Mutação constitucional por meio de emenda aprovada pelo Legislativo",
+        "b": "Controle de constitucionalidade difuso exercido por juiz de primeira instância",
+        "c": "Atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais",
+        "d": "Aplicação direta de tratado internacional sem qualquer base constitucional"
+      },
+      "resposta": "c",
+      "explicacao": "Diante da mora do Congresso em legislar sobre o tema, o STF reconheceu omissão inconstitucional e determinou a aplicação da Lei do Racismo à discriminação por orientação sexual e identidade de gênero até que lei específica seja editada."
+    },
+    {
+      "id": "direitos-humanos-11",
+      "texto_apoio": "",
+      "enunciado": "Direitos e garantias individuais previstos na Constituição de 1988 são protegidos como cláusulas pétreas, o que significa que:",
+      "alternativas": {
+        "a": "Podem ser livremente alterados por lei ordinária",
+        "b": "Não podem ser abolidos nem mesmo por emenda constitucional",
+        "c": "Só valem durante estados de exceção",
+        "d": "Dependem de referendo popular para entrar em vigor"
+      },
+      "resposta": "b",
+      "explicacao": "O art. 60, §4º, da CF/88 estabelece que direitos e garantias individuais são cláusulas pétreas, ou seja, núcleo constitucional protegido contra qualquer tentativa de supressão, mesmo por emenda constitucional."
+    },
+    {
+      "id": "direitos-humanos-12",
+      "texto_apoio": "",
+      "enunciado": "Um dos princípios centrais que orientam o sistema internacional de proteção aos direitos humanos, consolidado após 1948, é o de que:",
+      "alternativas": {
+        "a": "Cada Estado tem soberania absoluta sobre como trata seus cidadãos, sem qualquer interferência externa",
+        "b": "Os direitos humanos são assunto de interesse legítimo da comunidade internacional, relativizando a soberania absoluta dos Estados",
+        "c": "Somente cidadãos de países democráticos possuem direitos humanos reconhecidos",
+        "d": "Direitos humanos aplicam-se apenas em tempos de paz"
+      },
+      "resposta": "b",
+      "explicacao": "O sistema internacional de direitos humanos, construído a partir da ONU, consolidou a ideia de que a forma como um Estado trata seus cidadãos não é assunto exclusivamente interno, permitindo mecanismos de monitoramento e responsabilização internacional."
+    },
+    {
+      "id": "direitos-humanos-13",
+      "texto_apoio": "",
+      "enunciado": "A existência de trabalho análogo à escravidão no Brasil contemporâneo, identificada por fiscalizações do Ministério do Trabalho, caracteriza-se principalmente por:",
+      "alternativas": {
+        "a": "Ausência completa de remuneração em qualquer hipótese",
+        "b": "Trabalho forçado, jornadas exaustivas, servidão por dívida ou condições degradantes que retiram a liberdade e a dignidade do trabalhador",
+        "c": "Contratos de trabalho sem registro em carteira, independentemente das condições de trabalho",
+        "d": "Trabalho realizado exclusivamente por estrangeiros em situação irregular"
+      },
+      "resposta": "b",
+      "explicacao": "A legislação brasileira (art. 149 do Código Penal) define trabalho escravo contemporâneo por elementos como trabalho forçado, jornada exaustiva, condições degradantes e restrição de locomoção, não apenas pela ausência de pagamento."
+    },
+    {
+      "id": "direitos-humanos-14",
+      "texto_apoio": "",
+      "enunciado": "A Constituição de 1988 representou um avanço para os povos indígenas ao:",
+      "alternativas": {
+        "a": "Impor a assimilação obrigatória à cultura nacional",
+        "b": "Reconhecer sua organização social, costumes, línguas e direitos originários sobre as terras que tradicionalmente ocupam",
+        "c": "Transferir a demarcação de terras indígenas exclusivamente aos estados",
+        "d": "Extinguir a tutela da Fundação Nacional do Índio sem substituição"
+      },
+      "resposta": "b",
+      "explicacao": "O art. 231 da CF/88 rompeu com a lógica assimilacionista anterior, reconhecendo aos povos indígenas o direito à sua organização social e aos direitos originários sobre suas terras, cabendo à União demarcá-las e protegê-las."
+    },
+    {
+      "id": "direitos-humanos-15",
+      "texto_apoio": "",
+      "enunciado": "Políticas de ação afirmativa, como cotas em concursos públicos para pessoas negras, são frequentemente criticadas por opositores sob o argumento de que:",
+      "alternativas": {
+        "a": "Ferem o princípio da igualdade material previsto na Constituição",
+        "b": "Contrariam a ideia de igualdade puramente formal perante a lei, tratando os candidatos de forma diferenciada",
+        "c": "São impostas por organismos internacionais sem base constitucional",
+        "d": "Aplicam-se apenas ao Poder Judiciário"
+      },
+      "resposta": "b",
+      "explicacao": "Críticos das ações afirmativas costumam recorrer ao argumento da igualdade formal (tratamento idêntico a todos), enquanto seus defensores invocam a igualdade material, que busca compensar desigualdades estruturais de origem histórica."
+    },
+    {
+      "id": "direitos-humanos-16",
+      "texto_apoio": "",
+      "enunciado": "Alguns autores contemporâneos discutem uma possível 'quarta geração' de direitos humanos, associada a temas como:",
+      "alternativas": {
+        "a": "Sufrágio universal e liberdade de imprensa",
+        "b": "Direito ao meio ambiente equilibrado e à paz",
+        "c": "Bioética, manipulação genética e proteção de dados na era digital",
+        "d": "Abolição da escravidão e fim do trabalho infantil"
+      },
+      "resposta": "c",
+      "explicacao": "A chamada quarta geração de direitos é associada por parte da doutrina a desafios trazidos pelo avanço tecnológico e científico, como biotecnologia, engenharia genética e proteção de dados pessoais frente à informática."
+    },
+    {
+      "id": "direitos-humanos-17",
+      "texto_apoio": "",
+      "enunciado": "Na Grécia Antiga, o conceito de cidadania era restrito a uma pequena parcela da população, pois excluía:",
+      "alternativas": {
+        "a": "Apenas os estrangeiros residentes",
+        "b": "Mulheres, escravos e estrangeiros",
+        "c": "Somente os que não possuíam terras",
+        "d": "Apenas os que não serviam ao exército"
+      },
+      "resposta": "b",
+      "explicacao": "A cidadania na pólis grega era um privilégio restrito aos homens livres, nascidos na cidade, excluindo mulheres, escravos e estrangeiros (metecos), o que a diferencia da concepção moderna de cidadania universal."
+    },
+    {
+      "id": "direitos-humanos-18",
+      "texto_apoio": "A Lei Brasileira de Inclusão (Lei 13.146/2015) internalizou princípios da Convenção Internacional sobre os Direitos das Pessoas com Deficiência.",
+      "enunciado": "Um dos princípios centrais dessa legislação é a mudança do chamado modelo médico para o modelo social da deficiência, que consiste em:",
+      "alternativas": {
+        "a": "Considerar a deficiência exclusivamente como uma condição biológica a ser tratada medicamente",
+        "b": "Entender a deficiência como resultado da interação entre a condição da pessoa e barreiras impostas pela sociedade",
+        "c": "Restringir direitos de pessoas com deficiência ao ambiente hospitalar",
+        "d": "Eliminar a necessidade de acessibilidade em espaços públicos"
+      },
+      "resposta": "b",
+      "explicacao": "O modelo social compreende a deficiência não apenas como uma limitação individual, mas como resultado da interação entre a pessoa e barreiras físicas, sociais e atitudinais que a sociedade impõe, deslocando o foco para a acessibilidade e a inclusão."
+    },
+    {
+      "id": "direitos-humanos-19",
+      "texto_apoio": "A Emenda Constitucional nº 26, de 2000, incluiu a moradia entre os direitos sociais previstos no art. 6º da Constituição Federal.",
+      "enunciado": "O reconhecimento constitucional do direito à moradia implica, sobretudo, que o poder público deve:",
+      "alternativas": {
+        "a": "Doar um imóvel próprio a cada cidadão que o solicitar",
+        "b": "Formular e executar políticas públicas que garantam acesso a moradia digna, sem se resumir à titulação da propriedade privada",
+        "c": "Abolir a propriedade privada urbana em favor da propriedade coletiva",
+        "d": "Restringir a aplicação desse direito exclusivamente às áreas rurais"
+      },
+      "resposta": "b",
+      "explicacao": "O direito à moradia, como direito social, exige prestações positivas do Estado, como programas habitacionais, urbanização de assentamentos precários e infraestrutura, não se limitando à garantia da propriedade individual do imóvel."
+    },
+    {
+      "id": "direitos-humanos-20",
+      "texto_apoio": "O Estatuto da Cidade (Lei 10.257/2001) regulamenta o capítulo constitucional de política urbana e consagra a função social da propriedade.",
+      "enunciado": "Entre os instrumentos previstos pelo Estatuto da Cidade para assegurar que a propriedade urbana cumpra sua função social está:",
+      "alternativas": {
+        "a": "A proibição total de imóveis não edificados nas cidades",
+        "b": "O parcelamento, a edificação ou a utilização compulsórios de imóveis subutilizados, sob pena de IPTU progressivo no tempo",
+        "c": "A isenção permanente de impostos para terrenos vazios em áreas centrais",
+        "d": "A transferência automática da propriedade ao município após um ano de vacância"
+      },
+      "resposta": "b",
+      "explicacao": "O Estatuto da Cidade prevê instrumentos como parcelamento, edificação ou utilização compulsórios e IPTU progressivo no tempo para desestimular a retenção especulativa de imóveis urbanos ociosos, concretizando a função social da propriedade."
+    },
+    {
+      "id": "direitos-humanos-21",
+      "texto_apoio": "O art. 7º, inciso XXXIII, da Constituição Federal trata da proteção ao trabalho de crianças e adolescentes.",
+      "enunciado": "De acordo com a Constituição Federal, é vedado qualquer trabalho a menores de:",
+      "alternativas": {
+        "a": "14 anos, salvo na condição de aprendiz a partir dessa idade",
+        "b": "12 anos, sem qualquer exceção",
+        "c": "18 anos, inclusive na condição de aprendiz",
+        "d": "16 anos, exceto para trabalho noturno"
+      },
+      "resposta": "a",
+      "explicacao": "A Constituição proíbe qualquer trabalho a menores de 14 anos, admitindo a partir dessa idade apenas a condição de aprendiz; o trabalho noturno, perigoso ou insalubre é vedado a menores de 18 anos, e o trabalho comum é permitido a partir dos 16 anos."
+    },
+    {
+      "id": "direitos-humanos-22",
+      "texto_apoio": "O ECA instituiu o Sistema de Garantia de Direitos da criança e do adolescente, do qual fazem parte diferentes órgãos e instâncias.",
+      "enunciado": "Dentro desse sistema, o Conselho Tutelar é o órgão responsável por:",
+      "alternativas": {
+        "a": "Julgar processos criminais envolvendo adolescentes em conflito com a lei",
+        "b": "Zelar, no âmbito municipal, pelo cumprimento dos direitos da criança e do adolescente, atuando de forma autônoma e não jurisdicional",
+        "c": "Legislar sobre políticas nacionais de infância e juventude",
+        "d": "Substituir integralmente o papel da família na criação dos filhos"
+      },
+      "resposta": "b",
+      "explicacao": "O Conselho Tutelar é órgão permanente, autônomo e não jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente no âmbito municipal, distinto do Poder Judiciário."
+    },
+    {
+      "id": "direitos-humanos-23",
+      "texto_apoio": "A Convenção Internacional sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado de direitos humanos aprovado pelo Congresso Nacional com o rito qualificado do art. 5º, §3º, da Constituição.",
+      "enunciado": "Essa forma de aprovação conferiu à Convenção o status de:",
+      "alternativas": {
+        "a": "Lei ordinária, podendo ser revogada por lei posterior de igual hierarquia",
+        "b": "Norma equivalente a emenda constitucional",
+        "c": "Mera recomendação, sem força vinculante no ordenamento interno",
+        "d": "Decreto regulamentar de competência exclusiva do Poder Executivo"
+      },
+      "resposta": "b",
+      "explicacao": "Tratados de direitos humanos aprovados em dois turnos, por três quintos dos votos, em cada Casa do Congresso Nacional, passam a ter status de emenda constitucional, conforme o art. 5º, §3º, da CF/88 — regra até hoje aplicada apenas a poucos tratados, entre eles essa Convenção."
+    },
+    {
+      "id": "direitos-humanos-24",
+      "texto_apoio": "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
+      "enunciado": "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
+      "alternativas": {
+        "a": "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho",
+        "b": "Benefício assistencial substitutivo do salário mínimo",
+        "c": "Isenção fiscal concedida apenas a microempresas",
+        "d": "Política aplicável exclusivamente ao setor público"
+      },
+      "resposta": "a",
+      "explicacao": "A Lei de Cotas obriga empresas privadas com 100 ou mais empregados a reservar de 2% a 5% das vagas a pessoas com deficiência ou reabilitadas, constituindo ação afirmativa voltada à inclusão no mercado de trabalho formal."
+    },
+    {
+      "id": "direitos-humanos-25",
+      "texto_apoio": "A Declaração de Cartagena, de 1984, ampliou o conceito de refugiado adotado pela Convenção de 1951, incorporado pela legislação brasileira (Lei 9.474/1997).",
+      "enunciado": "Essa ampliação passou a reconhecer como refugiadas também pessoas que fogem de seus países devido a:",
+      "alternativas": {
+        "a": "Simples busca por melhores salários no exterior",
+        "b": "Grave e generalizada violação de direitos humanos, e não apenas perseguição individualizada",
+        "c": "Desejo de reunificação familiar com parentes já emigrados",
+        "d": "Necessidade de completar estudos universitários no exterior"
+      },
+      "resposta": "b",
+      "explicacao": "Além da perseguição individual por motivos de raça, religião, nacionalidade, grupo social ou opinião política prevista na Convenção de 1951, a Declaração de Cartagena passou a considerar refugiadas pessoas que fogem de contextos de grave e generalizada violação de direitos humanos, conceito incorporado pela lei brasileira."
+    },
+    {
+      "id": "direitos-humanos-26",
+      "texto_apoio": "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
+      "enunciado": "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
+      "alternativas": {
+        "a": "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total",
+        "b": "As partes em conflito devem distinguir entre combatentes e civis, dirigindo ataques apenas contra objetivos militares",
+        "c": "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias",
+        "d": "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor"
+      },
+      "resposta": "b",
+      "explicacao": "O princípio da distinção exige que as partes em conflito armado diferenciem combatentes de civis e bens de caráter civil, dirigindo operações militares apenas contra objetivos militares legítimos, de modo a proteger a população civil."
+    },
+    {
+      "id": "direitos-humanos-27",
+      "texto_apoio": "O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) atua desde 1950 na proteção de refugiados e apátridas.",
+      "enunciado": "Uma pessoa apátrida é aquela que:",
+      "alternativas": {
+        "a": "Possui dupla nacionalidade reconhecida por dois Estados diferentes",
+        "b": "Não é considerada nacional por nenhum Estado, segundo sua legislação",
+        "c": "Renunciou voluntariamente a todos os seus direitos civis",
+        "d": "Vive permanentemente fora de seu país de nascimento, ainda que mantenha sua nacionalidade original"
+      },
+      "resposta": "b",
+      "explicacao": "A apatridia caracteriza-se pela ausência de vínculo de nacionalidade com qualquer Estado, o que priva a pessoa de proteção jurídica básica, como acesso a documentos, serviços públicos e direitos políticos, sendo tema de atuação do ACNUR."
+    },
+    {
+      "id": "direitos-humanos-28",
+      "texto_apoio": "A Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992 (Eco-92), consolidou o conceito de desenvolvimento sustentável.",
+      "enunciado": "Esse conceito busca conciliar, principalmente:",
+      "alternativas": {
+        "a": "O crescimento econômico ilimitado com a total ausência de regulação ambiental",
+        "b": "O desenvolvimento econômico e social com a preservação ambiental, atendendo às necessidades presentes sem comprometer as gerações futuras",
+        "c": "A industrialização acelerada dos países em desenvolvimento, independentemente de seus impactos ambientais",
+        "d": "A interrupção total das atividades produtivas em países em desenvolvimento"
+      },
+      "resposta": "b",
+      "explicacao": "O desenvolvimento sustentável, definido pelo Relatório Brundtland (1987) e consolidado na Eco-92, propõe atender às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas próprias necessidades, articulando desenvolvimento e proteção ambiental."
+    },
+    {
+      "id": "direitos-humanos-29",
+      "texto_apoio": "O art. 225 da Constituição Federal de 1988 trata do direito ao meio ambiente.",
+      "enunciado": "Segundo esse dispositivo constitucional, o meio ambiente ecologicamente equilibrado é:",
+      "alternativas": {
+        "a": "Um bem de uso comum do povo, cuja defesa é dever tanto do poder público quanto da coletividade",
+        "b": "Um bem de propriedade exclusiva da União, sem qualquer responsabilidade dos cidadãos",
+        "c": "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações",
+        "d": "Um tema de competência exclusiva dos municípios"
+      },
+      "resposta": "a",
+      "explicacao": "O art. 225 da CF/88 define o meio ambiente ecologicamente equilibrado como bem de uso comum do povo e essencial à sadia qualidade de vida, impondo ao poder público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações."
+    },
+    {
+      "id": "direitos-humanos-30",
+      "texto_apoio": "Em 2003, o STF julgou o caso conhecido como 'Ellwanger', envolvendo a condenação de um editor por divulgar obras antissemitas.",
+      "enunciado": "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
+      "alternativas": {
+        "a": "É um direito absoluto, que não admite qualquer limitação constitucional",
+        "b": "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese",
+        "c": "Não é absoluta e pode ser limitada quando seu exercício configura discurso de ódio, como a incitação ao racismo, crime imprescritível e inafiançável",
+        "d": "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa"
+      },
+      "resposta": "c",
+      "explicacao": "O STF reafirmou que a liberdade de expressão, embora fundamental, não é absoluta, devendo ser ponderada com outros valores constitucionais, como a dignidade humana e a igualdade, de modo que manifestações de ódio racial configuram crime de racismo, nos termos da Constituição."
+    },
+    {
+      "id": "direitos-humanos-31",
+      "texto_apoio": "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
+      "enunciado": "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
+      "alternativas": {
+        "a": "Eliminar totalmente qualquer forma de moderação de conteúdo nas redes sociais",
+        "b": "Ponderar a proteção à liberdade de expressão com a necessidade de coibir discursos que incitem violência, discriminação ou ódio contra grupos vulneráveis",
+        "c": "Transferir ao Estado o controle editorial direto de todo conteúdo publicado por particulares",
+        "d": "Aplicar-se exclusivamente a veículos de imprensa tradicionais, excluindo redes sociais"
+      },
+      "resposta": "b",
+      "explicacao": "O debate sobre liberdade de expressão no ambiente digital busca equilibrar a proteção a esse direito fundamental com a necessidade de coibir abusos, como discursos que incitam violência ou discriminação, sem que isso resulte em censura prévia indevida."
+    },
+    {
+      "id": "direitos-humanos-32",
+      "texto_apoio": "A Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) regula o tratamento de dados pessoais no Brasil.",
+      "enunciado": "Um dos principais objetivos da LGPD é:",
+      "alternativas": {
+        "a": "Proibir qualquer coleta de dados pessoais por empresas e órgãos públicos",
+        "b": "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados pessoais, protegendo a privacidade dos titulares",
+        "c": "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
+        "d": "Regular exclusivamente o tratamento de dados por órgãos governamentais"
+      },
+      "resposta": "b",
+      "explicacao": "A LGPD estabelece princípios e regras para o tratamento de dados pessoais por empresas e órgãos públicos, assegurando direitos aos titulares dos dados, como informação, consentimento e finalidade específica, em consonância com o direito fundamental à privacidade."
+    },
+    {
+      "id": "direitos-humanos-33",
+      "texto_apoio": "O chamado 'direito ao esquecimento' tem sido debatido pelos tribunais brasileiros em casos envolvendo a divulgação de fatos passados sobre uma pessoa.",
+      "enunciado": "Esse debate envolve, sobretudo, a tensão entre:",
+      "alternativas": {
+        "a": "O direito de propriedade e o direito ao meio ambiente",
+        "b": "A liberdade de imprensa e o direito à informação, de um lado, e a privacidade e a dignidade da pessoa humana, de outro",
+        "c": "O direito à nacionalidade e o direito de voto",
+        "d": "A liberdade religiosa e a liberdade de associação"
+      },
+      "resposta": "b",
+      "explicacao": "O debate sobre o direito ao esquecimento envolve a ponderação entre a liberdade de expressão e de imprensa, que asseguram o acesso à informação e à história, e os direitos à privacidade, à honra e à dignidade da pessoa humana, tema analisado pelo STF em repercussão geral."
+    },
+    {
+      "id": "direitos-humanos-34",
+      "texto_apoio": "A Lei Maria da Penha (Lei 11.340/2006) criou mecanismos para coibir a violência doméstica e familiar contra a mulher.",
+      "enunciado": "Essa lei recebeu esse nome em homenagem a:",
+      "alternativas": {
+        "a": "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional",
+        "b": "Uma farmacêutica cearense que sofreu tentativas de feminicídio por parte do marido e levou o caso a organismos internacionais de direitos humanos",
+        "c": "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil",
+        "d": "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país"
+      },
+      "resposta": "b",
+      "explicacao": "Maria da Penha Maia Fernandes sofreu duas tentativas de assassinato por parte do então marido, que a deixaram paraplégica; diante da impunidade prolongada no Brasil, ela recorreu à Comissão Interamericana de Direitos Humanos, cuja recomendação impulsionou a criação da lei que leva seu nome."
+    },
+    {
+      "id": "direitos-humanos-35",
+      "texto_apoio": "A Lei 13.104/2015 alterou o Código Penal para incluir o feminicídio como circunstância qualificadora do crime de homicídio.",
+      "enunciado": "Segundo essa lei, o feminicídio caracteriza-se pelo homicídio de mulher cometido em contexto de:",
+      "alternativas": {
+        "a": "Qualquer crime cometido por motivo financeiro, independentemente do gênero da vítima",
+        "b": "Violência doméstica e familiar ou menosprezo e discriminação à condição de mulher",
+        "c": "Latrocínio praticado exclusivamente em via pública",
+        "d": "Conflitos entre membros de facções criminosas"
+      },
+      "resposta": "b",
+      "explicacao": "O feminicídio é reconhecido como qualificadora do homicídio quando praticado contra mulher por razões da condição de sexo feminino, o que inclui contextos de violência doméstica e familiar ou de menosprezo e discriminação à mulher, resultando em pena mais grave."
+    },
+    {
+      "id": "direitos-humanos-36",
+      "texto_apoio": "O movimento feminista costuma ser analisado pela historiografia em diferentes fases, chamadas de 'ondas'.",
+      "enunciado": "A chamada primeira onda do feminismo, entre o final do século XIX e o início do XX, teve como principal bandeira:",
+      "alternativas": {
+        "a": "A discussão sobre identidade de gênero e diversidade sexual",
+        "b": "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais",
+        "c": "A conquista de direitos civis e políticos básicos, como o direito ao voto (sufrágio feminino)",
+        "d": "A defesa exclusiva de políticas de cotas em cargos executivos de empresas"
+      },
+      "resposta": "c",
+      "explicacao": "A primeira onda do feminismo concentrou-se na luta por direitos civis e políticos básicos, sobretudo o direito ao voto, movimento sufragista que se espalhou por diversos países entre o final do século XIX e as primeiras décadas do século XX."
+    }
+  ]
+}

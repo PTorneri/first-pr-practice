@@ -1,0 +1,473 @@
+{
+  "subtopic": "ciencias-natureza",
+  "questoes": [
+    {
+      "id": "ciencias-natureza-01",
+      "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
+      "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
+      "alternativas": {
+        "a": "aumento da camada de ozônio na estratosfera",
+        "b": "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis",
+        "c": "redução da atividade vulcânica em todo o planeta",
+        "d": "diminuição da radiação solar incidente sobre a Terra"
+      },
+      "resposta": "b",
+      "explicacao": "A queima de combustíveis fósseis (carvão, petróleo, gás natural) e o desmatamento aumentam a concentração de gases de efeito estufa, como o CO2, na atmosfera, intensificando a retenção de calor e contribuindo para o aquecimento global."
+    },
+    {
+      "id": "ciencias-natureza-02",
+      "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
+      "enunciado": "A eutrofização de um corpo d'água ocorre quando",
+      "alternativas": {
+        "a": "há excesso de nutrientes, como nitrogênio e fósforo, causando proliferação excessiva de algas e posterior redução do oxigênio dissolvido",
+        "b": "a temperatura da água diminui abruptamente, impedindo a fotossíntese das plantas aquáticas",
+        "c": "há aumento da salinidade da água doce até níveis semelhantes aos do mar",
+        "d": "ocorre completa ausência de matéria orgânica dissolvida na água"
+      },
+      "resposta": "a",
+      "explicacao": "O excesso de nutrientes (nitrogênio e fósforo), provenientes de esgotos e fertilizantes, estimula a proliferação de algas. Quando essas algas morrem e são decompostas, o processo consome grande quantidade de oxigênio dissolvido, prejudicando a vida aquática."
+    },
+    {
+      "id": "ciencias-natureza-03",
+      "texto_apoio": "As arboviroses, como dengue, zika e chikungunya, são transmitidas pelo mosquito Aedes aegypti e representam importante desafio de saúde pública no Brasil.",
+      "enunciado": "Uma medida eficaz de saúde pública para reduzir a incidência dessas arboviroses é",
+      "alternativas": {
+        "a": "aumentar a quantidade de água parada acumulada em recipientes domésticos",
+        "b": "eliminar criadouros do mosquito, evitando o acúmulo de água parada em recipientes e quintais",
+        "c": "reduzir a vacinação da população contra outras doenças",
+        "d": "aumentar o uso de fertilizantes químicos nas áreas urbanas"
+      },
+      "resposta": "b",
+      "explicacao": "O Aedes aegypti deposita seus ovos em água parada. A eliminação de criadouros (pneus, vasos, caixas d'água destampadas) é a principal medida de controle vetorial recomendada por autoridades de saúde pública para reduzir a proliferação do mosquito."
+    },
+    {
+      "id": "ciencias-natureza-04",
+      "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
+      "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
+      "alternativas": {
+        "a": "gases nobres, como o argônio e o hélio",
+        "b": "óxidos de enxofre e de nitrogênio, formando ácidos como o sulfúrico e o nítrico",
+        "c": "vapor de água puro liberado por usinas hidrelétricas",
+        "d": "oxigênio molecular liberado pela fotossíntese das plantas"
+      },
+      "resposta": "b",
+      "explicacao": "A queima de combustíveis fósseis libera óxidos de enxofre (SOx) e de nitrogênio (NOx), que reagem com a água atmosférica formando ácido sulfúrico e ácido nítrico, os quais precipitam na forma de chuva ácida, prejudicando solos, corpos d'água e construções."
+    },
+    {
+      "id": "ciencias-natureza-05",
+      "texto_apoio": "A reciclagem é frequentemente apresentada como estratégia para reduzir os impactos ambientais do consumo de recursos naturais.",
+      "enunciado": "Dentre os benefícios ambientais atribuídos à reciclagem de materiais como alumínio, papel e vidro, destaca-se",
+      "alternativas": {
+        "a": "o aumento proporcional da extração de matérias-primas virgens da natureza",
+        "b": "a redução do consumo de energia e de recursos naturais necessários para a produção de novos materiais",
+        "c": "a eliminação total da necessidade de aterros sanitários em qualquer cenário",
+        "d": "o aumento da emissão de gases poluentes em relação à produção com matéria-prima virgem"
+      },
+      "resposta": "b",
+      "explicacao": "A reciclagem geralmente demanda menos energia e menos extração de recursos naturais do que a produção a partir de matéria-prima virgem, reduzindo impactos ambientais associados à mineração, ao desmatamento e ao consumo energético industrial."
+    },
+    {
+      "id": "ciencias-natureza-06",
+      "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
+      "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
+      "alternativas": {
+        "a": "elimina todas as bactérias de uma população sem exceção, impedindo qualquer adaptação",
+        "b": "favorece, por seleção natural, a sobrevivência e a proliferação de bactérias com mutações que conferem resistência ao medicamento",
+        "c": "impede completamente a reprodução de qualquer microrganismo",
+        "d": "reduz definitivamente a necessidade de desenvolvimento de novos medicamentos"
+      },
+      "resposta": "b",
+      "explicacao": "O uso indiscriminado de antibióticos exerce pressão seletiva sobre populações bacterianas: bactérias sensíveis morrem, enquanto variantes resistentes sobrevivem e se multiplicam, disseminando genes de resistência, um exemplo de seleção natural em ação."
+    },
+    {
+      "id": "ciencias-natureza-07",
+      "texto_apoio": "A vacinação em massa é considerada uma das intervenções de saúde pública mais eficazes da história.",
+      "enunciado": "O conceito de \"imunidade de rebanho\" (ou imunidade coletiva) refere-se à situação em que",
+      "alternativas": {
+        "a": "apenas os indivíduos vacinados diretamente ficam protegidos, sem qualquer benefício para os demais",
+        "b": "uma parcela suficientemente alta da população torna-se imune a uma doença, dificultando sua circulação e protegendo indiretamente até mesmo pessoas não imunizadas",
+        "c": "a vacinação de poucas pessoas é capaz de eliminar totalmente qualquer agente infeccioso do planeta",
+        "d": "a imunidade individual depende exclusivamente de fatores genéticos, sem relação com vacinação"
+      },
+      "resposta": "b",
+      "explicacao": "Quando uma proporção suficientemente grande da população está imunizada, a circulação do patógeno é dificultada, reduzindo a probabilidade de contágio inclusive entre pessoas não vacinadas ou que não podem ser vacinadas, como imunossuprimidos."
+    },
+    {
+      "id": "ciencias-natureza-08",
+      "texto_apoio": "A energia solar fotovoltaica tem crescido como alternativa às fontes de energia baseadas em combustíveis fósseis.",
+      "enunciado": "Uma vantagem ambiental frequentemente associada à energia solar fotovoltaica, em comparação com termelétricas movidas a carvão, é",
+      "alternativas": {
+        "a": "a menor emissão direta de gases de efeito estufa durante a geração de eletricidade",
+        "b": "a garantia de geração de energia constante independentemente da presença de luz solar",
+        "c": "o menor custo de instalação em qualquer cenário, sem exceção",
+        "d": "a ausência total de qualquer impacto ambiental em todas as etapas de produção dos painéis"
+      },
+      "resposta": "a",
+      "explicacao": "A geração de eletricidade por painéis fotovoltaicos não envolve queima de combustíveis, resultando em emissões diretas de gases de efeito estufa muito menores do que as termelétricas a carvão, embora existam impactos ambientais em outras etapas, como fabricação e descarte dos painéis."
+    },
+    {
+      "id": "ciencias-natureza-09",
+      "texto_apoio": "O conceito físico de energia cinética está presente em situações cotidianas, como o deslocamento de veículos.",
+      "enunciado": "Um automóvel que dobra sua velocidade, mantendo a mesma massa, tem sua energia cinética",
+      "alternativas": {
+        "a": "reduzida à metade",
+        "b": "mantida exatamente igual",
+        "c": "dobrada, ou seja, multiplicada por 2",
+        "d": "multiplicada por 4"
+      },
+      "resposta": "d",
+      "explicacao": "A energia cinética é dada por Ec = (m × v²) ÷ 2, sendo proporcional ao quadrado da velocidade. Se a velocidade dobra (v passa a 2v), a energia cinética é multiplicada por 2² = 4, mantendo a massa constante."
+    },
+    {
+      "id": "ciencias-natureza-10",
+      "texto_apoio": "Fenômenos como o aquecimento de uma xícara de café e o resfriamento de uma bebida gelada em ambiente quente ilustram princípios básicos de transferência de calor.",
+      "enunciado": "De acordo com os princípios da termodinâmica, o calor flui espontaneamente",
+      "alternativas": {
+        "a": "de corpos com menor temperatura para corpos com maior temperatura, sempre",
+        "b": "de corpos com maior temperatura para corpos com menor temperatura, até que o equilíbrio térmico seja atingido",
+        "c": "apenas entre corpos de mesma temperatura",
+        "d": "de forma aleatória, sem relação com a diferença de temperatura entre os corpos"
+      },
+      "resposta": "b",
+      "explicacao": "Pela segunda lei da termodinâmica, o calor flui espontaneamente do corpo mais quente para o mais frio, até que ambos atinjam o equilíbrio térmico, ou seja, a mesma temperatura."
+    },
+    {
+      "id": "ciencias-natureza-11",
+      "texto_apoio": "A separação de resíduos sólidos urbanos em recicláveis e não recicláveis é uma prática incentivada por políticas públicas de gestão ambiental.",
+      "enunciado": "Do ponto de vista químico, uma das razões pelas quais plásticos comuns, como o PET, demoram muito tempo para se decompor no ambiente é",
+      "alternativas": {
+        "a": "a alta reatividade dessas moléculas, que se degradam rapidamente na presença de água",
+        "b": "a estrutura de longas cadeias poliméricas estáveis, resistentes à ação de microrganismos decompositores",
+        "c": "a ausência completa de carbono em sua composição molecular",
+        "d": "o fato de serem constituídos exclusivamente por substâncias inorgânicas simples"
+      },
+      "resposta": "b",
+      "explicacao": "Plásticos como o PET são polímeros formados por longas cadeias de moléculas com ligações estáveis, que a maioria dos microrganismos não consegue quebrar eficientemente, resultando em um tempo de degradação muito longo no meio ambiente."
+    },
+    {
+      "id": "ciencias-natureza-12",
+      "texto_apoio": "O tratamento de água para consumo humano envolve diferentes etapas físico-químicas antes de chegar às residências.",
+      "enunciado": "A etapa de cloração no tratamento de água tem como principal finalidade",
+      "alternativas": {
+        "a": "aumentar a quantidade de sedimentos e partículas em suspensão na água",
+        "b": "eliminar microrganismos patogênicos, prevenindo doenças de veiculação hídrica",
+        "c": "reduzir permanentemente o pH da água a níveis fortemente ácidos",
+        "d": "aumentar a turbidez da água para facilitar sua distribuição"
+      },
+      "resposta": "b",
+      "explicacao": "A cloração é uma etapa de desinfecção que utiliza o cloro para eliminar bactérias, vírus e outros microrganismos patogênicos presentes na água, prevenindo doenças como cólera e diarreias infecciosas."
+    },
+    {
+      "id": "ciencias-natureza-13",
+      "texto_apoio": "A camada de ozônio, localizada na estratosfera, desempenha papel fundamental na proteção da vida na Terra.",
+      "enunciado": "A principal função da camada de ozônio estratosférico é",
+      "alternativas": {
+        "a": "reter o calor irradiado pela superfície terrestre, causando o efeito estufa",
+        "b": "absorver parte significativa da radiação ultravioleta proveniente do Sol, protegendo os seres vivos de seus efeitos nocivos",
+        "c": "produzir oxigênio necessário à respiração de todos os seres vivos",
+        "d": "impedir a entrada de qualquer radiação solar na atmosfera terrestre"
+      },
+      "resposta": "b",
+      "explicacao": "O ozônio estratosférico absorve grande parte da radiação ultravioleta (UV) emitida pelo Sol, reduzindo a incidência dessa radiação sobre a superfície terrestre e protegendo organismos vivos de danos como mutações genéticas e câncer de pele."
+    },
+    {
+      "id": "ciencias-natureza-14",
+      "texto_apoio": "A obesidade e as doenças cardiovasculares associadas a hábitos alimentares inadequados são temas recorrentes em políticas de saúde pública.",
+      "enunciado": "Do ponto de vista da saúde pública, o consumo excessivo e frequente de alimentos ultraprocessados, ricos em açúcares, sódio e gorduras, está associado, entre outros fatores, ao(à)",
+      "alternativas": {
+        "a": "redução significativa do risco de doenças cardiovasculares e metabólicas",
+        "b": "aumento do risco de obesidade, hipertensão e outras doenças crônicas não transmissíveis",
+        "c": "eliminação completa da necessidade de atividade física regular",
+        "d": "melhora automática da qualidade nutricional da dieta da população"
+      },
+      "resposta": "b",
+      "explicacao": "O consumo frequente de alimentos ultraprocessados está associado, segundo diversos estudos epidemiológicos, ao aumento do risco de obesidade, hipertensão, diabetes tipo 2 e outras doenças crônicas não transmissíveis, sendo tema central de políticas públicas de alimentação saudável."
+    },
+    {
+      "id": "ciencias-natureza-15",
+      "texto_apoio": "O desmatamento de florestas tropicais, como a Amazônia, tem sido associado a diversos impactos ambientais em escala regional e global.",
+      "enunciado": "Entre os impactos ecológicos diretamente associados ao desmatamento de grandes florestas tropicais está",
+      "alternativas": {
+        "a": "o aumento da biodiversidade local em razão da abertura de novas áreas",
+        "b": "a redução da capacidade de absorção de dióxido de carbono pela vegetação e a alteração dos regimes locais de chuva",
+        "c": "o aumento da umidade do solo em todas as áreas desmatadas",
+        "d": "a diminuição da erosão do solo nas áreas sem cobertura vegetal"
+      },
+      "resposta": "b",
+      "explicacao": "As florestas atuam como importantes sumidouros de carbono e reguladoras do ciclo hidrológico local. O desmatamento reduz a absorção de CO2, contribui para o aquecimento global e pode alterar padrões regionais de chuva, além de aumentar a erosão do solo."
+    },
+    {
+      "id": "ciencias-natureza-16",
+      "texto_apoio": "Painéis solares, usinas eólicas e hidrelétricas são frequentemente classificados como fontes de energia renovável.",
+      "enunciado": "Uma fonte de energia é classificada como renovável quando",
+      "alternativas": {
+        "a": "se esgota completamente após um único uso, sem possibilidade de reposição",
+        "b": "é reposta pela natureza em uma escala de tempo compatível com o consumo humano, como energia solar, eólica e hídrica",
+        "c": "deriva exclusivamente da queima de combustíveis fósseis, como petróleo e carvão",
+        "d": "está disponível apenas em quantidade fixa e limitada, definida no momento da formação do planeta"
+      },
+      "resposta": "b",
+      "explicacao": "Fontes renováveis, como a solar, a eólica e a hídrica, são continuamente repostas pela natureza em prazos compatíveis com o consumo humano, diferentemente de fontes não renováveis, como o petróleo, que se formam ao longo de milhões de anos."
+    },
+    {
+      "id": "ciencias-natureza-17",
+      "texto_apoio": "O saneamento básico inadequado ainda é uma realidade em diversas regiões do Brasil, afetando indicadores de saúde pública.",
+      "enunciado": "A ausência de saneamento básico adequado, incluindo tratamento de esgoto e fornecimento de água potável, está diretamente associada ao aumento da incidência de",
+      "alternativas": {
+        "a": "doenças de transmissão exclusivamente genética",
+        "b": "doenças infecciosas de veiculação hídrica, como diarreias, cólera e hepatite A",
+        "c": "doenças cardiovasculares hereditárias",
+        "d": "alergias respiratórias causadas exclusivamente por pólen"
+      },
+      "resposta": "b",
+      "explicacao": "A falta de saneamento básico favorece a contaminação da água por microrganismos patogênicos presentes em esgoto não tratado, aumentando a incidência de doenças de veiculação hídrica, como diarreias infecciosas, cólera e hepatite A."
+    },
+    {
+      "id": "ciencias-natureza-18",
+      "texto_apoio": "Fenômenos ópticos cotidianos, como o arco-íris e a formação de sombras, são explicados por princípios básicos da física.",
+      "enunciado": "A formação do arco-íris após uma chuva, quando há incidência de luz solar, é explicada, principalmente, pelo fenômeno físico de",
+      "alternativas": {
+        "a": "reflexão total da luz em superfícies metálicas",
+        "b": "refração e dispersão da luz branca ao atravessar gotículas de água, separando-a em diferentes cores",
+        "c": "absorção completa da luz solar pelas gotículas de água, sem qualquer desvio de trajetória",
+        "d": "emissão de luz própria pelas gotículas de água presentes na atmosfera"
+      },
+      "resposta": "b",
+      "explicacao": "Ao atravessar gotículas de água presentes no ar, a luz branca do Sol sofre refração e dispersão, sendo decomposta em suas diferentes componentes de cor (vermelho, laranja, amarelo, verde, azul, anil e violeta), formando o arco-íris."
+    },
+    {
+      "id": "ciencias-natureza-19",
+      "texto_apoio": "A fotossíntese realizada por plantas, algas e cianobactérias é um dos processos biológicos mais importantes para a manutenção da vida na Terra.",
+      "enunciado": "Do ponto de vista da composição da atmosfera terrestre, um dos principais efeitos da fotossíntese realizada por organismos fotossintetizantes é",
+      "alternativas": {
+        "a": "o consumo de oxigênio e a liberação de dióxido de carbono na atmosfera",
+        "b": "a conversão de dióxido de carbono e água em glicose e oxigênio, utilizando energia luminosa",
+        "c": "a produção exclusiva de nitrogênio atmosférico a partir de compostos orgânicos",
+        "d": "a eliminação completa do gás carbônico da atmosfera terrestre"
+      },
+      "resposta": "b",
+      "explicacao": "Na fotossíntese, organismos clorofilados captam energia luminosa para converter CO2 e água em glicose e oxigênio (6CO2 + 6H2O + luz → C6H12O6 + 6O2), processo fundamental para a produção de biomassa e para a manutenção dos níveis de oxigênio atmosférico."
+    },
+    {
+      "id": "ciencias-natureza-20",
+      "texto_apoio": "Em um ecossistema, a energia flui dos produtores para os diferentes níveis de consumidores ao longo da cadeia alimentar.",
+      "enunciado": "Em relação ao fluxo de energia entre os níveis tróficos de uma cadeia alimentar, é correto afirmar que",
+      "alternativas": {
+        "a": "a energia se transfere integralmente de um nível trófico para o seguinte, sem qualquer perda",
+        "b": "apenas uma fração da energia disponível em um nível trófico é transferida ao nível seguinte, sendo grande parte perdida principalmente na forma de calor",
+        "c": "os decompositores não participam do fluxo de energia em um ecossistema",
+        "d": "a quantidade de energia disponível aumenta a cada nível trófico sucessivo"
+      },
+      "resposta": "b",
+      "explicacao": "Em cada transferência entre níveis tróficos, parte significativa da energia é perdida principalmente como calor (processos metabólicos), de modo que apenas uma fração (em geral, cerca de 10%) fica disponível para o nível seguinte, o que limita o número de níveis tróficos em uma cadeia alimentar."
+    },
+    {
+      "id": "ciencias-natureza-21",
+      "texto_apoio": "A introdução de espécies exóticas em ecossistemas onde não ocorrem naturalmente pode gerar desequilíbrios ecológicos significativos.",
+      "enunciado": "Espécies exóticas invasoras podem representar ameaça à biodiversidade nativa de um ecossistema principalmente porque",
+      "alternativas": {
+        "a": "sempre se extinguem rapidamente ao serem introduzidas em um novo ambiente",
+        "b": "podem competir com espécies nativas por recursos, predá-las ou transmitir doenças, na ausência de predadores naturais que controlariam sua população",
+        "c": "aumentam automaticamente a diversidade genética das espécies nativas locais",
+        "d": "são incapazes de se reproduzir fora de seu habitat de origem"
+      },
+      "resposta": "b",
+      "explicacao": "Sem os predadores, parasitas ou competidores naturais que limitariam sua população no ambiente de origem, espécies exóticas invasoras podem se proliferar descontroladamente, competindo com espécies nativas, predando-as ou introduzindo doenças, o que pode levar a desequilíbrios e perda de biodiversidade."
+    },
+    {
+      "id": "ciencias-natureza-22",
+      "texto_apoio": "As vacinas são um dos principais instrumentos de prevenção de doenças infecciosas utilizados pela medicina moderna.",
+      "enunciado": "O princípio de funcionamento da maioria das vacinas consiste em",
+      "alternativas": {
+        "a": "eliminar diretamente o agente infeccioso já presente no organismo doente",
+        "b": "estimular o sistema imunológico a reconhecer e produzir defesas contra um agente infeccioso (ou parte dele), preparando o organismo para uma resposta mais rápida em uma exposição futura",
+        "c": "substituir permanentemente as células de defesa do organismo por células artificiais",
+        "d": "impedir de forma definitiva qualquer contato futuro do organismo com o agente infeccioso"
+      },
+      "resposta": "b",
+      "explicacao": "As vacinas expõem o sistema imunológico a um antígeno (agente enfraquecido, inativado, ou parte dele, como proteínas ou material genético), estimulando a produção de anticorpos e células de memória, o que permite uma resposta imune mais rápida e eficaz em caso de exposição futura ao patógeno real."
+    },
+    {
+      "id": "ciencias-natureza-23",
+      "texto_apoio": "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
+      "enunciado": "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
+      "alternativas": {
+        "a": "seleção natural espontânea ao longo de muitas gerações, sem qualquer intervenção humana",
+        "b": "inserção, em laboratório, de um gene específico (por exemplo, de outra espécie) no genoma da planta, conferindo-lhe a característica desejada",
+        "c": "aplicação exclusiva de agrotóxicos sobre sementes comuns, sem alteração de seu DNA",
+        "d": "exposição da planta a altas temperaturas, que alteram aleatoriamente seu DNA"
+      },
+      "resposta": "b",
+      "explicacao": "A transgenia envolve técnicas de engenharia genética que inserem, em laboratório, um ou mais genes de interesse (por vezes de outra espécie) no genoma do organismo receptor, conferindo-lhe características específicas, como resistência a pragas ou a herbicidas."
+    },
+    {
+      "id": "ciencias-natureza-24",
+      "texto_apoio": "A poluição atmosférica em grandes centros urbanos é apontada como fator de risco para diversas doenças respiratórias e cardiovasculares.",
+      "enunciado": "O material particulado fino (MP2,5), presente na poluição atmosférica urbana, é especialmente prejudicial à saúde humana porque",
+      "alternativas": {
+        "a": "por seu tamanho reduzido, consegue penetrar profundamente nos pulmões e até atingir a corrente sanguínea",
+        "b": "é composto exclusivamente por vapor de água, inofensivo ao organismo",
+        "c": "fica retido apenas nas vias aéreas superiores, sem qualquer efeito sistêmico",
+        "d": "é encontrado somente em ambientes rurais, não afetando populações urbanas"
+      },
+      "resposta": "a",
+      "explicacao": "Partículas com diâmetro igual ou inferior a 2,5 micrômetros (MP2,5) são pequenas o suficiente para penetrar profundamente no sistema respiratório, alcançando os alvéolos pulmonares e podendo, inclusive, entrar na corrente sanguínea, associando-se a doenças respiratórias e cardiovasculares."
+    },
+    {
+      "id": "ciencias-natureza-25",
+      "texto_apoio": "O manejo do pH do solo é uma prática relevante na agricultura para garantir boa produtividade das culturas.",
+      "enunciado": "Em relação à escala de pH, é correto afirmar que",
+      "alternativas": {
+        "a": "valores de pH menores que 7 indicam soluções básicas (alcalinas)",
+        "b": "valores de pH maiores que 7 indicam soluções ácidas",
+        "c": "valores de pH menores que 7 indicam soluções ácidas, enquanto valores maiores que 7 indicam soluções básicas",
+        "d": "o pH mede exclusivamente a temperatura de uma solução"
+      },
+      "resposta": "c",
+      "explicacao": "A escala de pH varia, em geral, de 0 a 14: valores abaixo de 7 indicam soluções ácidas, valores acima de 7 indicam soluções básicas (alcalinas), e o valor 7 corresponde a uma solução neutra, como a água pura."
+    },
+    {
+      "id": "ciencias-natureza-26",
+      "texto_apoio": "A queima de combustíveis em motores de veículos automotores é uma das principais fontes de poluição atmosférica em grandes cidades.",
+      "enunciado": "A combustão incompleta de combustíveis fósseis em motores de veículos pode gerar, entre outros poluentes,",
+      "alternativas": {
+        "a": "apenas água e dióxido de carbono, sem qualquer outro subproduto",
+        "b": "monóxido de carbono, um gás tóxico que reduz a capacidade do sangue de transportar oxigênio",
+        "c": "exclusivamente gases nobres, quimicamente inertes",
+        "d": "apenas vapor d'água puro, sem qualquer risco à saúde"
+      },
+      "resposta": "b",
+      "explicacao": "Quando a combustão é incompleta (oxigênio insuficiente), forma-se monóxido de carbono (CO) em vez de dióxido de carbono. O CO é tóxico porque se liga à hemoglobina com maior afinidade que o oxigênio, reduzindo a capacidade de transporte de oxigênio pelo sangue."
+    },
+    {
+      "id": "ciencias-natureza-27",
+      "texto_apoio": "O consumo de energia elétrica residencial está relacionado a grandezas físicas básicas, como tensão, corrente e resistência elétrica.",
+      "enunciado": "De acordo com a Primeira Lei de Ohm, em um resistor ôhmico, mantendo-se a resistência constante, ao dobrar a tensão elétrica aplicada, a corrente elétrica que passa pelo resistor",
+      "alternativas": {
+        "a": "permanece exatamente a mesma",
+        "b": "também dobra de valor",
+        "c": "cai para a metade do valor original",
+        "d": "torna-se independente da tensão aplicada"
+      },
+      "resposta": "b",
+      "explicacao": "A Primeira Lei de Ohm estabelece que U = R × i, ou seja, a tensão é diretamente proporcional à corrente quando a resistência é constante. Assim, dobrando a tensão (U) e mantendo R constante, a corrente (i) também dobra."
+    },
+    {
+      "id": "ciencias-natureza-28",
+      "texto_apoio": "A poluição sonora em grandes centros urbanos é reconhecida como um problema de saúde pública, podendo causar estresse e perda auditiva.",
+      "enunciado": "Do ponto de vista físico, o som é uma onda que necessita de um meio material para se propagar porque",
+      "alternativas": {
+        "a": "é uma onda eletromagnética, como a luz, que se propaga apenas no vácuo",
+        "b": "é uma onda mecânica, que se propaga por meio da vibração de partículas do meio (como ar, água ou sólidos)",
+        "c": "não sofre nenhuma influência da densidade do meio em que se propaga",
+        "d": "se propaga exclusivamente no vácuo, à velocidade da luz"
+      },
+      "resposta": "b",
+      "explicacao": "O som é uma onda mecânica: sua propagação depende da vibração de partículas do meio material (sólido, líquido ou gasoso). Por isso, diferentemente das ondas eletromagnéticas, o som não se propaga no vácuo, onde não há partículas para transmitir a vibração."
+    },
+    {
+      "id": "ciencias-natureza-29",
+      "texto_apoio": "Pesquisas recentes têm destacado o papel do microbioma intestinal — o conjunto de microrganismos que habitam o intestino humano — na saúde geral do organismo.",
+      "enunciado": "A relação entre o ser humano e a maior parte das bactérias que compõem seu microbioma intestinal é geralmente classificada como",
+      "alternativas": {
+        "a": "parasitismo, em que as bactérias prejudicam o hospedeiro sem qualquer benefício",
+        "b": "mutualismo, uma relação em que tanto o hospedeiro quanto os microrganismos obtêm benefícios",
+        "c": "competição, em que ambos são prejudicados pela disputa de recursos",
+        "d": "predatismo, em que o hospedeiro elimina ativamente todas as bactérias presentes"
+      },
+      "resposta": "b",
+      "explicacao": "Grande parte das bactérias do microbioma intestinal vive em relação de mutualismo com o ser humano: auxiliam na digestão, na síntese de vitaminas e na regulação do sistema imunológico, enquanto obtêm nutrientes e um ambiente favorável à sua sobrevivência."
+    },
+    {
+      "id": "ciencias-natureza-30",
+      "texto_apoio": "A contaminação de rios por mercúrio, associada a atividades como o garimpo, é um problema ambiental relevante em algumas regiões brasileiras, como a Amazônia.",
+      "enunciado": "A contaminação por mercúrio em ecossistemas aquáticos é particularmente preocupante porque esse metal",
+      "alternativas": {
+        "a": "se degrada rapidamente na água, deixando de representar risco após poucos dias",
+        "b": "sofre bioacumulação e biomagnificação ao longo da cadeia alimentar, atingindo concentrações mais altas em predadores de topo, como peixes grandes consumidos por humanos",
+        "c": "é eliminado totalmente pelo processo natural de fotossíntese das algas aquáticas",
+        "d": "não é absorvido por nenhum organismo vivo, permanecendo apenas dissolvido na água"
+      },
+      "resposta": "b",
+      "explicacao": "O mercúrio, ao ser absorvido por organismos aquáticos, tende a se acumular nos tecidos (bioacumulação) e a aumentar de concentração ao longo da cadeia alimentar (biomagnificação), de modo que predadores de topo, como peixes grandes, podem apresentar concentrações muito mais altas do que a água onde vivem, representando risco à saúde humana quando consumidos."
+    },
+    {
+      "id": "ciencias-natureza-31",
+      "texto_apoio": "Diferentes tipos de radiação eletromagnética, como ondas de rádio, micro-ondas, luz visível, raios X e raios gama, fazem parte do espectro eletromagnético.",
+      "enunciado": "Uma diferença relevante entre radiações eletromagnéticas ionizantes (como raios X e gama) e não ionizantes (como ondas de rádio e micro-ondas) é que as ionizantes",
+      "alternativas": {
+        "a": "possuem energia suficiente para remover elétrons de átomos e moléculas, podendo danificar estruturas biológicas como o DNA",
+        "b": "não possuem qualquer efeito sobre a matéria, sendo completamente inofensivas",
+        "c": "têm sempre menor frequência e menor energia do que as radiações não ionizantes",
+        "d": "são utilizadas exclusivamente em fornos micro-ondas domésticos"
+      },
+      "resposta": "a",
+      "explicacao": "Radiações ionizantes, como raios X e gama, possuem energia suficientemente alta para arrancar elétrons de átomos e moléculas (ionização), podendo causar danos a estruturas biológicas, como o DNA. Já as radiações não ionizantes, como ondas de rádio e micro-ondas, têm energia insuficiente para causar esse tipo de dano direto."
+    },
+    {
+      "id": "ciencias-natureza-32",
+      "texto_apoio": "Fatores ambientais, como exposição excessiva à radiação ultravioleta e o tabagismo, são associados ao aumento do risco de certos tipos de câncer.",
+      "enunciado": "O câncer está relacionado, em muitos casos, a mutações genéticas que",
+      "alternativas": {
+        "a": "sempre são causadas exclusivamente por herança genética dos pais, sem qualquer influência ambiental",
+        "b": "podem levar à perda do controle sobre a divisão celular, resultando em crescimento celular descontrolado",
+        "c": "impedem completamente qualquer divisão celular no organismo",
+        "d": "ocorrem apenas em células reprodutivas, nunca em células somáticas"
+      },
+      "resposta": "b",
+      "explicacao": "Mutações em genes que regulam o ciclo celular (como genes supressores de tumor e oncogenes) podem fazer com que células percam o controle normal sobre sua divisão, proliferando de forma descontrolada e formando tumores. Fatores ambientais, como radiação UV e substâncias presentes no cigarro, podem aumentar a probabilidade dessas mutações."
+    },
+    {
+      "id": "ciencias-natureza-33",
+      "texto_apoio": "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
+      "enunciado": "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
+      "alternativas": {
+        "a": "não possui nenhuma capacidade de retenção de calor na atmosfera",
+        "b": "possui, molécula a molécula, um potencial de aquecimento global maior do que o CO2 em um horizonte de tempo relativamente curto, embora permaneça menos tempo na atmosfera",
+        "c": "é o único gás de efeito estufa existente na atmosfera terrestre",
+        "d": "é produzido exclusivamente por processos industriais, sem qualquer origem biológica"
+      },
+      "resposta": "b",
+      "explicacao": "O metano tem um potencial de aquecimento global, molécula a molécula, significativamente maior que o do CO2 em horizontes de tempo mais curtos, apesar de permanecer menos tempo na atmosfera antes de se decompor, o que o torna um alvo importante de políticas de mitigação climática."
+    },
+    {
+      "id": "ciencias-natureza-34",
+      "texto_apoio": "Usinas nucleares geram eletricidade a partir de reações nucleares controladas, sendo utilizadas em diversos países como fonte de energia de baixa emissão de carbono.",
+      "enunciado": "O processo utilizado em usinas nucleares convencionais para gerar energia é a",
+      "alternativas": {
+        "a": "fusão nuclear, em que núcleos leves se combinam para formar núcleos mais pesados, como ocorre no Sol",
+        "b": "fissão nuclear, em que núcleos pesados, como os de urânio, se dividem em núcleos menores, liberando grande quantidade de energia",
+        "c": "combustão química direta de átomos de urânio, semelhante à queima de carvão",
+        "d": "conversão direta de energia solar em energia elétrica, sem qualquer reação nuclear"
+      },
+      "resposta": "b",
+      "explicacao": "Usinas nucleares convencionais utilizam a fissão nuclear, processo em que o núcleo de átomos pesados, como o urânio-235, se divide ao ser bombardeado por nêutrons, liberando grande quantidade de energia na forma de calor, utilizada para gerar vapor e movimentar turbinas."
+    },
+    {
+      "id": "ciencias-natureza-35",
+      "texto_apoio": "Técnicas de manejo agrícola sustentável buscam conciliar produtividade com conservação dos recursos naturais do solo.",
+      "enunciado": "A prática de rotação de culturas, alternando diferentes espécies vegetais em uma mesma área ao longo do tempo, contribui para a agricultura sustentável, principalmente, porque",
+      "alternativas": {
+        "a": "esgota rapidamente os nutrientes do solo, forçando o uso de mais fertilizantes químicos",
+        "b": "ajuda a preservar a fertilidade do solo, reduzindo a proliferação de pragas e doenças específicas de uma única cultura",
+        "c": "elimina totalmente a necessidade de qualquer manejo do solo",
+        "d": "aumenta a erosão do solo em comparação com o cultivo de uma única espécie"
+      },
+      "resposta": "b",
+      "explicacao": "A rotação de culturas evita o esgotamento de nutrientes específicos do solo (já que diferentes espécies têm diferentes demandas nutricionais), ajuda a quebrar ciclos de pragas e doenças associadas a uma cultura específica, e pode contribuir para a estrutura e fertilidade do solo ao longo do tempo."
+    },
+    {
+      "id": "ciencias-natureza-36",
+      "texto_apoio": "O descarte inadequado de pilhas, baterias e equipamentos eletrônicos é um problema ambiental crescente relacionado ao consumo de tecnologia.",
+      "enunciado": "O descarte inadequado de pilhas e baterias no meio ambiente, como em lixões a céu aberto, é preocupante principalmente porque esses materiais podem",
+      "alternativas": {
+        "a": "se decompor totalmente em poucos dias, sem qualquer risco ambiental",
+        "b": "liberar metais pesados, como chumbo, mercúrio e cádmio, que podem contaminar o solo e os lençóis freáticos",
+        "c": "se transformar espontaneamente em compostos orgânicos inofensivos",
+        "d": "não conter nenhuma substância química de risco à saúde humana"
+      },
+      "resposta": "b",
+      "explicacao": "Pilhas e baterias contêm metais pesados, como chumbo, mercúrio e cádmio, que, se descartados inadequadamente, podem vazar para o solo e contaminar lençóis freáticos, representando riscos à saúde humana e ao meio ambiente. Por isso, recomenda-se o descarte em pontos de coleta específicos para reciclagem."
+    }
+  ]
+}

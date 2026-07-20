@@ -1,0 +1,473 @@
+{
+  "subtopic": "historia-brasil",
+  "questoes": [
+    {
+      "id": "historia-brasil-01",
+      "texto_apoio": "",
+      "enunciado": "O sistema de 'pacto colonial' (ou exclusivo metropolitano), que regeu as relações entre Portugal e o Brasil durante o período colonial, caracterizava-se por:",
+      "alternativas": {
+        "a": "Livre comércio entre a colônia e qualquer nação europeia",
+        "b": "Monopólio comercial da metrópole sobre a colônia, restringindo as trocas comerciais coloniais",
+        "c": "Autonomia política total das capitanias hereditárias",
+        "d": "Proibição de qualquer atividade agrícola voltada à exportação"
+      },
+      "resposta": "b",
+      "explicacao": "O pacto colonial garantia à metrópole portuguesa o monopólio do comércio com sua colônia, impedindo o Brasil de comerciar livremente com outras nações, o que gerava riqueza para Portugal e dependência econômica da colônia."
+    },
+    {
+      "id": "historia-brasil-02",
+      "texto_apoio": "",
+      "enunciado": "A criação das capitanias hereditárias, na década de 1530, foi uma estratégia da Coroa portuguesa para:",
+      "alternativas": {
+        "a": "Centralizar toda a administração colonial nas mãos do rei",
+        "b": "Ocupar e defender o território sem grandes custos diretos para a metrópole, delegando essa tarefa a donatários",
+        "c": "Estabelecer imediatamente a mineração como principal atividade econômica",
+        "d": "Impedir a entrada de colonos portugueses no território"
+      },
+      "resposta": "b",
+      "explicacao": "Diante da ameaça de invasões estrangeiras e da falta de recursos para colonizar diretamente, Portugal dividiu o território em capitanias hereditárias, transferindo a donatários particulares o custo e a responsabilidade da colonização."
+    },
+    {
+      "id": "historia-brasil-03",
+      "texto_apoio": "",
+      "enunciado": "A economia açucareira, predominante no Brasil colonial entre os séculos XVI e XVII, organizava-se em torno do sistema de plantation, cujas principais características eram:",
+      "alternativas": {
+        "a": "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno",
+        "b": "Grande propriedade monocultora, mão de obra escrava africana e produção voltada à exportação",
+        "c": "Propriedade coletiva indígena e produção diversificada de subsistência",
+        "d": "Produção industrial urbana com trabalho livre assalariado"
+      },
+      "resposta": "b",
+      "explicacao": "O modelo de plantation combinava latifúndio, monocultura (cana-de-açúcar), trabalho escravo africano e destinação da produção ao mercado externo, estrutura que marcou profundamente a formação social e econômica do Brasil."
+    },
+    {
+      "id": "historia-brasil-04",
+      "texto_apoio": "A Inconfidência Mineira ocorreu em 1789, em Minas Gerais, região que enriquecera com a mineração de ouro no século anterior.",
+      "enunciado": "Entre os fatores que contribuíram para essa conspiração, destaca-se:",
+      "alternativas": {
+        "a": "A ameaça de cobrança da derrama, mecanismo de cobrança forçada de impostos atrasados sobre o ouro",
+        "b": "A abolição imediata da escravidão pela Coroa portuguesa",
+        "c": "A chegada da família real portuguesa ao Brasil",
+        "d": "A proclamação da independência dos Estados Unidos, sem qualquer influência iluminista"
+      },
+      "resposta": "a",
+      "explicacao": "O declínio da produção aurífera aumentou a pressão fiscal de Portugal sobre Minas Gerais, com a ameaça da derrama, o que, somado às ideias iluministas e ao exemplo da independência americana, motivou a conspiração de 1789."
+    },
+    {
+      "id": "historia-brasil-05",
+      "texto_apoio": "Em 1808, a família real portuguesa transferiu-se para o Brasil, fugindo das tropas de Napoleão Bonaparte.",
+      "enunciado": "Uma das primeiras e mais importantes medidas de Dom João, ainda em 1808, foi:",
+      "alternativas": {
+        "a": "A promulgação da primeira Constituição brasileira",
+        "b": "A abertura dos portos brasileiros às nações amigas, rompendo o monopólio comercial português",
+        "c": "A abolição da escravidão no território brasileiro",
+        "d": "A convocação de eleições diretas para a formação de um parlamento"
+      },
+      "resposta": "b",
+      "explicacao": "A Abertura dos Portos às Nações Amigas, decretada em 1808, encerrou o exclusivo metropolitano e permitiu que o Brasil comerciasse diretamente com outros países, atendendo sobretudo aos interesses da Inglaterra."
+    },
+    {
+      "id": "historia-brasil-06",
+      "texto_apoio": "",
+      "enunciado": "Historiadores costumam destacar que a independência do Brasil, em 1822, apresentou fortes elementos de continuidade em relação ao período colonial. Isso se evidencia principalmente por:",
+      "alternativas": {
+        "a": "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia, sob o comando do próprio herdeiro da dinastia portuguesa",
+        "b": "A imediata implantação de uma república democrática",
+        "c": "O fim total das relações econômicas com Portugal",
+        "d": "A distribuição de terras para a população liberta"
+      },
+      "resposta": "a",
+      "explicacao": "Diferentemente de outros processos de independência na América, o Brasil manteve a monarquia, a escravidão e a estrutura social e econômica herdada da colônia, sendo a independência conduzida pelo próprio príncipe herdeiro, Dom Pedro."
+    },
+    {
+      "id": "historia-brasil-07",
+      "texto_apoio": "",
+      "enunciado": "A abdicação de Dom Pedro I ao trono brasileiro, em 1831, foi resultado, entre outros fatores, de:",
+      "alternativas": {
+        "a": "Sua identificação total com os interesses da elite política nacional",
+        "b": "Desgaste político por sua ligação com Portugal, atritos com a elite brasileira e crise econômica, agravados pelo chamado 'partido português'",
+        "c": "Pressão popular para transformar o Brasil em uma república",
+        "d": "Derrota militar do Brasil na Guerra do Paraguai"
+      },
+      "resposta": "b",
+      "explicacao": "Dom Pedro I perdeu apoio político por ser visto como excessivamente ligado a Portugal, por conflitos com parlamentares brasileiros e por dificuldades econômicas, o que culminou em sua abdicação em favor do filho, ainda criança."
+    },
+    {
+      "id": "historia-brasil-08",
+      "texto_apoio": "",
+      "enunciado": "O Período Regencial (1831-1840) foi marcado por diversas revoltas em várias regiões do país, como a Cabanagem e a Sabinada. Essas revoltas expressavam, em grande medida:",
+      "alternativas": {
+        "a": "Um consenso nacional em torno da centralização monárquica",
+        "b": "Tensões sociais, econômicas e regionais, incluindo disputas de poder local e insatisfação de camadas populares excluídas politicamente",
+        "c": "Apoio unânime ao retorno de Dom Pedro I ao trono",
+        "d": "A ausência completa de conflitos durante a menoridade de Dom Pedro II"
+      },
+      "resposta": "b",
+      "explicacao": "As revoltas regenciais refletiram a fragilidade do poder central diante de tensões sociais, econômicas e regionais acumuladas, envolvendo desde elites locais insatisfeitas até camadas populares e escravizadas em busca de melhores condições."
+    },
+    {
+      "id": "historia-brasil-09",
+      "texto_apoio": "",
+      "enunciado": "Durante o Segundo Reinado, a economia cafeeira tornou-se o principal eixo da economia brasileira. A crise final da monarquia, na década de 1880, esteve associada a:",
+      "alternativas": {
+        "a": "O fortalecimento definitivo da mão de obra escrava como base da lavoura cafeeira",
+        "b": "O desgaste das relações entre a monarquia e setores como os cafeicultores, os militares e os abolicionistas, aliado ao fim da escravidão em 1888",
+        "c": "A ausência total de qualquer movimento republicano no país",
+        "d": "A anexação de novos territórios que fortaleceu o poder do imperador"
+      },
+      "resposta": "b",
+      "explicacao": "A crise da monarquia resultou da soma de diversos fatores: insatisfação de cafeicultores paulistas com a falta de apoio à transição para o trabalho livre, atrito com os militares após a Guerra do Paraguai e o impacto da abolição de 1888, que rompeu com setores da elite escravista."
+    },
+    {
+      "id": "historia-brasil-10",
+      "texto_apoio": "",
+      "enunciado": "A Proclamação da República, em 15 de novembro de 1889, é frequentemente descrita por historiadores como um movimento:",
+      "alternativas": {
+        "a": "De ampla participação popular, com forte mobilização das camadas trabalhadoras",
+        "b": "Essencialmente militar e elitista, sem envolvimento direto da maior parte da população",
+        "c": "Organizado e liderado pela Igreja Católica",
+        "d": "Resultado direto de um plebiscito popular"
+      },
+      "resposta": "b",
+      "explicacao": "A Proclamação da República foi conduzida por setores militares, com apoio de parte da elite política e cafeicultora, sendo a população em geral, segundo relatos da época, alheia ao processo, o que levou o historiador Aristides Lobo a afirmar que o povo assistiu 'bestializado'."
+    },
+    {
+      "id": "historia-brasil-11",
+      "texto_apoio": "",
+      "enunciado": "Durante a chamada República Velha (1889-1930), a política do 'café com leite' e o coronelismo caracterizavam-se, respectivamente, por:",
+      "alternativas": {
+        "a": "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais",
+        "b": "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais",
+        "c": "A alternância entre partidos de esquerda e direita no governo federal, e pela ausência de fraudes eleitorais",
+        "d": "Um acordo comercial entre cafeicultores e industriais, e pela centralização total do poder no Executivo federal"
+      },
+      "resposta": "a",
+      "explicacao": "A política do café com leite referia-se ao predomínio de São Paulo e Minas Gerais na sucessão presidencial, enquanto o coronelismo era o sistema pelo qual chefes políticos locais (coronéis) controlavam o voto e trocavam favores com o poder estadual e federal."
+    },
+    {
+      "id": "historia-brasil-12",
+      "texto_apoio": "",
+      "enunciado": "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
+      "alternativas": {
+        "a": "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes",
+        "b": "A vitória militar do Brasil na Primeira Guerra Mundial",
+        "c": "A imediata industrialização plena do país nas décadas anteriores",
+        "d": "A abolição da escravidão, ocorrida décadas antes"
+      },
+      "resposta": "a",
+      "explicacao": "A crise econômica de 1929 afetou duramente a economia cafeeira, e a ruptura da aliança São Paulo-Minas Gerais, quando Washington Luís apoiou Júlio Prestes (paulista) em vez de um mineiro, gerou a Aliança Liberal e o movimento armado que levou Vargas ao poder."
+    },
+    {
+      "id": "historia-brasil-13",
+      "texto_apoio": "",
+      "enunciado": "O Estado Novo (1937-1945), fase do governo Vargas instaurada por um golpe, caracterizou-se por:",
+      "alternativas": {
+        "a": "Ampla liberdade de imprensa e pluripartidarismo",
+        "b": "Centralização do poder, censura, repressão política e fechamento do Congresso Nacional",
+        "c": "Descentralização administrativa em favor dos estados",
+        "d": "Restauração da monarquia constitucional"
+      },
+      "resposta": "b",
+      "explicacao": "O Estado Novo foi um regime autoritário, com outorga de uma nova Constituição, fechamento do Congresso, censura à imprensa e perseguição a opositores políticos, ao mesmo tempo em que promoveu políticas nacionalistas e trabalhistas."
+    },
+    {
+      "id": "historia-brasil-14",
+      "texto_apoio": "",
+      "enunciado": "A Consolidação das Leis do Trabalho (CLT), promulgada em 1943 durante o Estado Novo, é um exemplo do chamado 'trabalhismo' varguista, que se caracterizava por:",
+      "alternativas": {
+        "a": "Conceder direitos trabalhistas de forma autônoma e independente do controle estatal sobre os sindicatos",
+        "b": "Ampliar direitos sociais aos trabalhadores urbanos, ao mesmo tempo em que atrelava os sindicatos ao controle do Estado",
+        "c": "Excluir completamente os trabalhadores urbanos de qualquer proteção legal",
+        "d": "Beneficiar exclusivamente os trabalhadores rurais"
+      },
+      "resposta": "b",
+      "explicacao": "O trabalhismo de Vargas combinava a concessão de direitos sociais (férias, jornada de trabalho, salário mínimo) com o controle estatal sobre os sindicatos, em uma lógica de conciliação de classes sob tutela do Estado."
+    },
+    {
+      "id": "historia-brasil-15",
+      "texto_apoio": "Em 1964, um golpe civil-militar depôs o presidente João Goulart, dando início a um regime autoritário que duraria até 1985.",
+      "enunciado": "O golpe de 1964 deve ser compreendido, entre outros fatores, no contexto de:",
+      "alternativas": {
+        "a": "Isolamento do Brasil em relação aos conflitos internacionais da época",
+        "b": "Polarização política interna e tensões da Guerra Fria, com setores das Forças Armadas e civis temendo o avanço de reformas de base identificadas com o comunismo",
+        "c": "Uma crise estritamente econômica, sem qualquer motivação política",
+        "d": "Pressão exclusiva de organismos internacionais de direitos humanos"
+      },
+      "resposta": "b",
+      "explicacao": "O golpe de 1964 ocorreu em meio à Guerra Fria, com setores civis e militares temendo que as reformas de base propostas por Jango levassem o país a um regime de inspiração comunista, contando também com apoio de setores empresariais e do governo dos Estados Unidos."
+    },
+    {
+      "id": "historia-brasil-16",
+      "texto_apoio": "O Ato Institucional nº 5 (AI-5), de 1968, é considerado o instrumento mais duro da ditadura militar brasileira.",
+      "enunciado": "Entre os efeitos diretos do AI-5, está:",
+      "alternativas": {
+        "a": "A restauração imediata das eleições diretas para presidente",
+        "b": "O fechamento do Congresso Nacional, a suspensão de garantias constitucionais e o recrudescimento da repressão e da censura",
+        "c": "A convocação de uma assembleia constituinte democrática",
+        "d": "A extinção da censura à imprensa"
+      },
+      "resposta": "b",
+      "explicacao": "O AI-5 concedeu poderes excepcionais ao Executivo, permitindo o fechamento do Congresso, a cassação de mandatos, a suspensão de direitos políticos e o recrudescimento da censura e da repressão, marcando o período mais duro da ditadura, conhecido como 'anos de chumbo'."
+    },
+    {
+      "id": "historia-brasil-17",
+      "texto_apoio": "",
+      "enunciado": "O processo de redemocratização brasileira, ao longo da década de 1980, é caracterizado por historiadores como uma transição:",
+      "alternativas": {
+        "a": "Rápida e revolucionária, rompendo abruptamente com o regime militar",
+        "b": "Lenta, gradual e negociada, conduzida em parte pelos próprios militares no poder",
+        "c": "Imposta unicamente por intervenção militar estrangeira",
+        "d": "Concluída integralmente com a eleição direta de Tancredo Neves"
+      },
+      "resposta": "b",
+      "explicacao": "A abertura política, iniciada ainda no governo Geisel sob o lema 'lenta, gradual e segura', foi um processo negociado que se estendeu por anos, culminando na eleição indireta de Tancredo Neves em 1985 e, posteriormente, na Constituição de 1988."
+    },
+    {
+      "id": "historia-brasil-18",
+      "texto_apoio": "A Constituição de 1988 é conhecida como 'Constituição Cidadã', expressão cunhada pelo então presidente da Assembleia Nacional Constituinte, Ulysses Guimarães.",
+      "enunciado": "Essa denominação está relacionada, sobretudo, ao fato de a Constituição de 1988:",
+      "alternativas": {
+        "a": "Ter sido outorgada pelo governo militar sem participação popular",
+        "b": "Ampliar significativamente direitos individuais, sociais e políticos, além de restabelecer plenamente o Estado Democrático de Direito",
+        "c": "Restringir o direito de voto a determinadas categorias profissionais",
+        "d": "Manter a censura à imprensa como instrumento de segurança nacional"
+      },
+      "resposta": "b",
+      "explicacao": "A Constituição de 1988 é chamada de 'Cidadã' por ampliar amplamente direitos civis, políticos e sociais, fortalecer mecanismos de participação popular e consolidar o Estado Democrático de Direito após décadas de regime autoritário."
+    },
+    {
+      "id": "historia-brasil-19",
+      "texto_apoio": "A descoberta de ouro em Minas Gerais, no final do século XVII, deslocou o eixo econômico da colônia.",
+      "enunciado": "O chamado ciclo do ouro, no século XVIII, teve como uma de suas principais consequências para a colônia:",
+      "alternativas": {
+        "a": "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil",
+        "b": "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais",
+        "c": "O fim completo da utilização de mão de obra escrava na colônia",
+        "d": "A transferência imediata da capital colonial para Vila Rica"
+      },
+      "resposta": "b",
+      "explicacao": "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei."
+    },
+    {
+      "id": "historia-brasil-20",
+      "texto_apoio": "A Coroa portuguesa criou mecanismos rígidos para fiscalizar e arrecadar tributos sobre o ouro extraído no Brasil colonial.",
+      "enunciado": "Entre os instrumentos de controle fiscal da metrópole sobre a produção aurífera estavam o quinto (tributo de 20% sobre o ouro extraído) e:",
+      "alternativas": {
+        "a": "As Casas de Fundição, que transformavam o ouro em barras já com o quinto descontado",
+        "b": "A distribuição gratuita de terras auríferas a qualquer colono, sem cobrança de tributos",
+        "c": "A proibição total da extração de ouro por particulares",
+        "d": "A isenção fiscal concedida aos mineradores durante todo o século XVIII"
+      },
+      "resposta": "a",
+      "explicacao": "As Casas de Fundição, criadas no início do século XVIII, centralizavam a fundição do ouro em barras já com o desconto do quinto devido à Coroa, mecanismo que buscava coibir o contrabando e garantir a arrecadação fiscal sobre a mineração."
+    },
+    {
+      "id": "historia-brasil-21",
+      "texto_apoio": "A Guerra do Paraguai (1864-1870) envolveu o Paraguai contra a Tríplice Aliança, formada por Brasil, Argentina e Uruguai.",
+      "enunciado": "Entre os fatores que contribuíram para a eclosão do conflito estão:",
+      "alternativas": {
+        "a": "Disputas pela livre navegação dos rios da Bacia do Prata e rivalidades de influência política na região do Uruguai",
+        "b": "Uma aliança militar entre Brasil e Paraguai contra a Argentina",
+        "c": "A disputa pelo controle do território amazônico",
+        "d": "A recusa brasileira em reconhecer a independência do Paraguai"
+      },
+      "resposta": "a",
+      "explicacao": "O conflito teve entre suas causas a disputa pelo controle da navegação nos rios da Bacia do Prata, estratégica para o comércio regional, e as rivalidades pela influência política no Uruguai, que envolveram Brasil, Argentina e Paraguai em sucessivas crises diplomáticas."
+    },
+    {
+      "id": "historia-brasil-22",
+      "texto_apoio": "",
+      "enunciado": "Entre as principais consequências da Guerra do Paraguai para o Brasil, destaca-se:",
+      "alternativas": {
+        "a": "A redução do prestígio e do poder político do Exército brasileiro",
+        "b": "O fortalecimento político e institucional do Exército e o aumento da dívida externa brasileira, contraída sobretudo com a Inglaterra",
+        "c": "A imediata abolição da escravidão como recompensa aos soldados",
+        "d": "O fortalecimento econômico do Paraguai, vencedor do conflito"
+      },
+      "resposta": "b",
+      "explicacao": "A guerra fortaleceu o Exército brasileiro como instituição política, ampliando sua influência posterior na vida pública, e elevou substancialmente a dívida externa do país, contraída em grande parte com bancos ingleses para financiar o esforço de guerra."
+    },
+    {
+      "id": "historia-brasil-23",
+      "texto_apoio": "Muitos oficiais que retornaram da Guerra do Paraguai passaram a integrar ou simpatizar com movimentos políticos de oposição à monarquia.",
+      "enunciado": "A experiência da Guerra do Paraguai contribuiu para o desgaste da monarquia brasileira sobretudo porque:",
+      "alternativas": {
+        "a": "Aproximou o Exército de ideais republicanos e, em parte, abolicionistas, gerando atritos com o governo imperial",
+        "b": "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II",
+        "c": "Eliminou qualquer influência política das Forças Armadas na vida nacional",
+        "d": "Resultou na anexação de novos territórios que fortaleceram economicamente o Império"
+      },
+      "resposta": "a",
+      "explicacao": "Após a guerra, parte da oficialidade militar, influenciada por ideias republicanas e positivistas, e sensibilizada pela participação de escravizados e libertos no conflito, aproximou-se de causas como o abolicionismo e o republicanismo, contribuindo para o desgaste das relações com a monarquia."
+    },
+    {
+      "id": "historia-brasil-24",
+      "texto_apoio": "Antes da Lei Áurea de 1888, o Brasil aprovou leis que sinalizavam o fim gradual da escravidão.",
+      "enunciado": "A Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885) tinham em comum o fato de:",
+      "alternativas": {
+        "a": "Abolirem imediata e completamente a escravidão em todo o território nacional",
+        "b": "Representarem medidas graduais e limitadas, que não extinguiam de imediato a condição de escravizado da maior parte da população cativa",
+        "c": "Concederem direitos políticos plenos à população liberta",
+        "d": "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna"
+      },
+      "resposta": "b",
+      "explicacao": "Essas leis representaram um processo de abolição gradual: a Lei do Ventre Livre libertava os filhos nascidos de mulheres escravizadas a partir de então, e a Lei dos Sexagenários libertava escravizados com mais de 60 anos, mas ambas mantinham a escravidão para a maioria da população cativa até 1888."
+    },
+    {
+      "id": "historia-brasil-25",
+      "texto_apoio": "O movimento abolicionista brasileiro reuniu políticos, jornalistas e ex-escravizados na luta pelo fim da escravidão.",
+      "enunciado": "Joaquim Nabuco e José do Patrocínio destacaram-se nesse movimento, sobretudo, por:",
+      "alternativas": {
+        "a": "Defenderem a manutenção da escravidão como base da economia agroexportadora",
+        "b": "Atuarem na mobilização política e na imprensa, denunciando os horrores da escravidão e pressionando por sua abolição",
+        "c": "Liderarem exclusivamente rebeliões armadas de escravizados nos engenhos",
+        "d": "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba"
+      },
+      "resposta": "b",
+      "explicacao": "Joaquim Nabuco e José do Patrocínio foram figuras centrais do abolicionismo, atuando na política parlamentar, na imprensa e na organização de sociedades abolicionistas, mobilizando a opinião pública em favor do fim da escravidão no Brasil."
+    },
+    {
+      "id": "historia-brasil-26",
+      "texto_apoio": "Durante a República Velha, consolidou-se um arranjo político conhecido como política dos governadores.",
+      "enunciado": "Esse arranjo, formulado sobretudo no governo de Campos Sales, consistia em:",
+      "alternativas": {
+        "a": "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo em troca de autonomia e recursos",
+        "b": "Um sistema de eleição direta e universal para governadores, sem interferência do governo federal",
+        "c": "A eliminação completa do poder das oligarquias estaduais",
+        "d": "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal"
+      },
+      "resposta": "a",
+      "explicacao": "A política dos governadores consistia em um acordo entre o presidente da República e as oligarquias estaduais dominantes: o governo federal reconhecia e apoiava os grupos no poder em cada estado em troca de apoio político no Congresso Nacional, fortalecendo o controle oligárquico regional."
+    },
+    {
+      "id": "historia-brasil-27",
+      "texto_apoio": "A Comissão de Verificação de Poderes, no início da República Velha, era responsável por validar os resultados eleitorais no Congresso Nacional.",
+      "enunciado": "A prática de anular mandatos de candidatos da oposição por meio dessa Comissão ficou conhecida como:",
+      "alternativas": {
+        "a": "Voto de cabresto",
+        "b": "Degola",
+        "c": "Coronelismo",
+        "d": "Salvacionismo"
+      },
+      "resposta": "b",
+      "explicacao": "A 'degola' era a prática pela qual a Comissão de Verificação de Poderes, controlada pela situação política dominante, invalidava o diploma de candidatos eleitos pela oposição, garantindo o predomínio dos grupos oligárquicos no Congresso durante a República Velha."
+    },
+    {
+      "id": "historia-brasil-28",
+      "texto_apoio": "Em julho de 1932, São Paulo pegou em armas contra o governo provisório de Getúlio Vargas.",
+      "enunciado": "A Revolução Constitucionalista de 1932 teve como principal reivindicação:",
+      "alternativas": {
+        "a": "A restauração da monarquia no Brasil",
+        "b": "A convocação de uma Assembleia Constituinte e o restabelecimento de uma Constituição, encerrando o governo provisório instaurado após 1930",
+        "c": "A separação definitiva de São Paulo do restante do território nacional",
+        "d": "A imediata extensão do direito de voto às mulheres"
+      },
+      "resposta": "b",
+      "explicacao": "O movimento paulista de 1932 reivindicava principalmente a constitucionalização do país, exigindo que Vargas convocasse eleições para uma Assembleia Constituinte e pusesse fim ao governo provisório instaurado após a Revolução de 1930."
+    },
+    {
+      "id": "historia-brasil-29",
+      "texto_apoio": "Embora derrotado militarmente, o movimento de 1932 teve efeitos duradouros na política nacional.",
+      "enunciado": "Entre os principais desdobramentos da Revolução Constitucionalista de 1932, está:",
+      "alternativas": {
+        "a": "A manutenção indefinida do governo provisório, sem qualquer nova Constituição",
+        "b": "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
+        "c": "A imediata renúncia de Getúlio Vargas ao poder",
+        "d": "A anexação de territórios de estados vizinhos ao estado de São Paulo"
+      },
+      "resposta": "b",
+      "explicacao": "Apesar da derrota militar de São Paulo, o governo Vargas atendeu, em parte, às reivindicações do movimento ao convocar eleições para uma Assembleia Nacional Constituinte, que resultou na promulgação da Constituição de 1934."
+    },
+    {
+      "id": "historia-brasil-30",
+      "texto_apoio": "No segundo governo Vargas (1951-1954), eleito diretamente pelo voto popular, destacou-se a política de nacionalismo econômico.",
+      "enunciado": "O principal símbolo dessa política nacionalista foi:",
+      "alternativas": {
+        "a": "A privatização das principais estatais brasileiras",
+        "b": "A criação da Petrobras, em 1953, sob o lema 'o petróleo é nosso', estabelecendo o monopólio estatal sobre a exploração do petróleo",
+        "c": "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia",
+        "d": "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico"
+      },
+      "resposta": "b",
+      "explicacao": "A criação da Petrobras em 1953, resultado da campanha popular 'o petróleo é nosso', simbolizou o nacionalismo econômico do segundo governo Vargas, que buscava fortalecer o controle estatal sobre setores estratégicos da economia brasileira."
+    },
+    {
+      "id": "historia-brasil-31",
+      "texto_apoio": "Juscelino Kubitschek governou o Brasil entre 1956 e 1961, sob o lema de campanha '50 anos em 5'.",
+      "enunciado": "O Plano de Metas de seu governo teve como principal símbolo:",
+      "alternativas": {
+        "a": "A nacionalização completa de todas as empresas estrangeiras instaladas no país",
+        "b": "A construção de Brasília, nova capital federal, e o incentivo à industrialização com forte participação de capital estrangeiro",
+        "c": "A implantação de um regime de economia estritamente planificada nos moldes soviéticos",
+        "d": "A interrupção da construção de rodovias e da indústria automobilística"
+      },
+      "resposta": "b",
+      "explicacao": "O Plano de Metas de JK priorizou a industrialização acelerada, com forte participação de capital estrangeiro em setores como o automobilístico, tendo como símbolo maior a construção de Brasília, inaugurada em 1960 como nova capital federal."
+    },
+    {
+      "id": "historia-brasil-32",
+      "texto_apoio": "Vargas e Kubitschek são frequentemente citados como exemplos de líderes populistas na história política brasileira.",
+      "enunciado": "Uma característica comumente associada ao populismo brasileiro do período de 1930 a 1964 é:",
+      "alternativas": {
+        "a": "A relação direta entre um líder carismático e as massas urbanas, muitas vezes com discurso nacionalista e desenvolvimentista, sem forte mediação partidária",
+        "b": "A ausência completa de apelo às camadas populares urbanas",
+        "c": "A rejeição sistemática de qualquer política trabalhista ou social",
+        "d": "A subordinação total do Poder Executivo ao Poder Legislativo"
+      },
+      "resposta": "a",
+      "explicacao": "O populismo brasileiro caracterizou-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, combinando discurso nacionalista e desenvolvimentista, políticas sociais e trabalhistas, muitas vezes com fraca mediação de partidos políticos programáticos."
+    },
+    {
+      "id": "historia-brasil-33",
+      "texto_apoio": "No início da década de 1990, o Brasil enfrentava um quadro de hiperinflação crônica, com sucessivos planos econômicos fracassados.",
+      "enunciado": "O Plano Real, lançado em 1994, adotou como estratégia inicial de estabilização:",
+      "alternativas": {
+        "a": "O congelamento imediato de preços e salários, sem qualquer mudança na moeda",
+        "b": "A criação de um indexador de transição, a URV (Unidade Real de Valor), antes da introdução da nova moeda, o real",
+        "c": "A confiscação das poupanças e contas correntes da população",
+        "d": "A adoção do dólar como moeda oficial do país"
+      },
+      "resposta": "b",
+      "explicacao": "Diferentemente de planos anteriores baseados em congelamentos abruptos, o Plano Real utilizou a URV como unidade de referência de valor para reequilibrar preços gradualmente, antes de instituir o real como nova moeda nacional em julho de 1994."
+    },
+    {
+      "id": "historia-brasil-34",
+      "texto_apoio": "",
+      "enunciado": "Entre os principais resultados do Plano Real nos anos seguintes ao seu lançamento, destaca-se:",
+      "alternativas": {
+        "a": "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994",
+        "b": "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra, sobretudo para a população de baixa renda",
+        "c": "O fim completo da dívida pública brasileira",
+        "d": "A imediata eliminação das desigualdades sociais no país"
+      },
+      "resposta": "b",
+      "explicacao": "O Plano Real obteve êxito em controlar a hiperinflação que corroía o poder de compra da população, especialmente das camadas mais pobres, trazendo maior estabilidade macroeconômica, embora desafios como dívida pública e desigualdade social tenham persistido."
+    },
+    {
+      "id": "historia-brasil-35",
+      "texto_apoio": "Fundado em 1984, o Movimento dos Trabalhadores Rurais Sem Terra (MST) tornou-se um dos principais movimentos sociais do Brasil pós-1988.",
+      "enunciado": "A principal bandeira de luta do MST é:",
+      "alternativas": {
+        "a": "A privatização de terras públicas para uso exclusivo do agronegócio",
+        "b": "A reforma agrária, por meio da ocupação de terras consideradas improdutivas e da pressão por sua desapropriação e redistribuição",
+        "c": "O fim da agricultura familiar em favor de grandes propriedades monocultoras",
+        "d": "A extinção do Instituto Nacional de Colonização e Reforma Agrária (Incra)"
+      },
+      "resposta": "b",
+      "explicacao": "O MST luta pela reforma agrária, utilizando como principal tática a ocupação de terras tidas como improdutivas, pressionando o Estado por sua desapropriação e redistribuição a famílias sem-terra, tornando-se um dos movimentos sociais mais relevantes do Brasil redemocratizado."
+    },
+    {
+      "id": "historia-brasil-36",
+      "texto_apoio": "Em junho de 2013, manifestações de rua tomaram diversas cidades brasileiras, inicialmente motivadas pelo aumento das tarifas de transporte público.",
+      "enunciado": "As Jornadas de Junho de 2013, impulsionadas inicialmente pelo Movimento Passe Livre, caracterizaram-se por:",
+      "alternativas": {
+        "a": "Serem organizadas exclusivamente por partidos políticos tradicionais",
+        "b": "Rapidamente ampliarem sua pauta para além do transporte público, incorporando diversas demandas sociais e críticas à qualidade dos serviços públicos e à corrupção",
+        "c": "Não terem qualquer repercussão fora das capitais estaduais",
+        "d": "Resultarem na revogação imediata de todas as tarifas de transporte público do país"
+      },
+      "resposta": "b",
+      "explicacao": "As manifestações de junho de 2013, iniciadas em torno do aumento das passagens de ônibus em São Paulo, rapidamente se espalharam por todo o país e incorporaram um amplo leque de reivindicações, tornando-se um marco de mobilização social do Brasil pós-1988."
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subtopic": "matematica-rlm",
+  "questoes": [
+    {
+      "id": "matematica-rlm-01",
+      "texto_apoio": "",
+      "enunciado": "Um produto custava R$ 250,00 e sofreu um aumento de 12%. Qual é o novo preço do produto?",
+      "alternativas": {
+        "a": "R$ 262,00",
+        "b": "R$ 280,00",
+        "c": "R$ 275,00",
+        "d": "R$ 300,00"
+      },
+      "resposta": "b",
+      "explicacao": "O aumento corresponde a 250 × 0,12 = 30. Somando ao valor original: 250 + 30 = 280. Logo, o novo preço é R$ 280,00."
+    },
+    {
+      "id": "matematica-rlm-02",
+      "texto_apoio": "",
+      "enunciado": "Uma loja oferece dois descontos sucessivos de 10% e 20% sobre um produto de R$ 500,00. Qual é o preço final pago pelo cliente, aplicando-se um desconto após o outro?",
+      "alternativas": {
+        "a": "R$ 350,00",
+        "b": "R$ 400,00",
+        "c": "R$ 360,00",
+        "d": "R$ 370,00"
+      },
+      "resposta": "c",
+      "explicacao": "Descontos sucessivos incidem um sobre o valor já reduzido pelo anterior: 500 × 0,90 = 450; em seguida, 450 × 0,80 = 360. Não se somam os percentuais diretamente (30%), pois isso resultaria em um valor incorreto de R$ 350,00."
+    },
+    {
+      "id": "matematica-rlm-03",
+      "texto_apoio": "",
+      "enunciado": "Se 8 operários constroem um muro em 15 dias, todos trabalhando no mesmo ritmo, quantos dias serão necessários para que 12 operários construam o mesmo muro, mantido esse ritmo de trabalho?",
+      "alternativas": {
+        "a": "8 dias",
+        "b": "10 dias",
+        "c": "12 dias",
+        "d": "20 dias"
+      },
+      "resposta": "b",
+      "explicacao": "O número de operários e o número de dias são grandezas inversamente proporcionais. Assim, 8 × 15 = 12 × x, logo x = 120 ÷ 12 = 10 dias."
+    },
+    {
+      "id": "matematica-rlm-04",
+      "texto_apoio": "",
+      "enunciado": "Uma máquina imprime 4.500 folhas em 3 horas, funcionando em ritmo constante. Quantas folhas serão impressas por 2 máquinas idênticas, funcionando simultaneamente durante 5 horas?",
+      "alternativas": {
+        "a": "7.500 folhas",
+        "b": "9.000 folhas",
+        "c": "15.000 folhas",
+        "d": "22.500 folhas"
+      },
+      "resposta": "c",
+      "explicacao": "Cada máquina imprime 4.500 ÷ 3 = 1.500 folhas por hora. Com 2 máquinas funcionando por 5 horas: 2 × 5 × 1.500 = 15.000 folhas."
+    },
+    {
+      "id": "matematica-rlm-05",
+      "texto_apoio": "",
+      "enunciado": "Em uma sala de aula, a razão entre o número de meninos e o número de meninas é de 3 para 5. Sabendo que a sala tem 40 alunos no total, quantos são meninos?",
+      "alternativas": {
+        "a": "10",
+        "b": "15",
+        "c": "20",
+        "d": "25"
+      },
+      "resposta": "b",
+      "explicacao": "A proporção 3:5 divide o total em 3 + 5 = 8 partes iguais. Cada parte corresponde a 40 ÷ 8 = 5 alunos. Como os meninos correspondem a 3 partes: 3 × 5 = 15 meninos."
+    },
+    {
+      "id": "matematica-rlm-06",
+      "texto_apoio": "",
+      "enunciado": "Um capital de R$ 2.000,00 é aplicado a juros simples, à taxa de 3% ao mês. Qual será o montante (capital mais juros) ao final de 6 meses?",
+      "alternativas": {
+        "a": "R$ 2.180,00",
+        "b": "R$ 2.240,00",
+        "c": "R$ 2.360,00",
+        "d": "R$ 2.600,00"
+      },
+      "resposta": "c",
+      "explicacao": "Nos juros simples, J = C × i × t = 2.000 × 0,03 × 6 = 360. O montante é M = C + J = 2.000 + 360 = R$ 2.360,00."
+    },
+    {
+      "id": "matematica-rlm-07",
+      "texto_apoio": "",
+      "enunciado": "Um capital de R$ 1.000,00 é aplicado a juros compostos, à taxa de 10% ao ano. Qual será o montante ao final de 2 anos?",
+      "alternativas": {
+        "a": "R$ 1.100,00",
+        "b": "R$ 1.200,00",
+        "c": "R$ 1.210,00",
+        "d": "R$ 1.220,00"
+      },
+      "resposta": "c",
+      "explicacao": "Nos juros compostos, o montante é dado por M = C × (1 + i)^t = 1.000 × (1,10)² = 1.000 × 1,21 = R$ 1.210,00. Diferentemente dos juros simples (que dariam R$ 1.200,00), os juros compostos incidem também sobre os juros do período anterior."
+    },
+    {
+      "id": "matematica-rlm-08",
+      "texto_apoio": "",
+      "enunciado": "O preço de um produto era R$ 80,00 em janeiro. Em fevereiro, o preço sofreu um aumento de 25%. Em março, o novo preço (de fevereiro) sofreu uma redução de 20%. Qual é o preço do produto em março, comparado ao preço original de janeiro?",
+      "alternativas": {
+        "a": "R$ 80,00, valor igual ao de janeiro",
+        "b": "R$ 84,00, valor maior que o de janeiro",
+        "c": "R$ 76,00, valor menor que o de janeiro",
+        "d": "R$ 100,00, valor maior que o de janeiro"
+      },
+      "resposta": "a",
+      "explicacao": "Em fevereiro: 80 × 1,25 = 100. Em março: 100 × 0,80 = 80. Como 1,25 × 0,80 = 1,00 exatamente, o preço final retorna ao valor original de R$ 80,00."
+    },
+    {
+      "id": "matematica-rlm-09",
+      "texto_apoio": "",
+      "enunciado": "As notas obtidas por um aluno em cinco avaliações foram: 7,0; 8,5; 6,0; 9,0 e 7,5. Qual é a média aritmética dessas notas?",
+      "alternativas": {
+        "a": "7,0",
+        "b": "7,4",
+        "c": "7,6",
+        "d": "8,0"
+      },
+      "resposta": "c",
+      "explicacao": "A soma das notas é 7,0 + 8,5 + 6,0 + 9,0 + 7,5 = 38,0. Dividindo pelo número de avaliações: 38,0 ÷ 5 = 7,6."
+    },
+    {
+      "id": "matematica-rlm-10",
+      "texto_apoio": "As vendas diárias de uma loja, em milhares de reais, durante uma semana, foram registradas na seguinte sequência: 5, 8, 3, 12, 7, 5, 9.",
+      "enunciado": "Com base nos dados apresentados, determine, respectivamente, a moda e a mediana desse conjunto de valores.",
+      "alternativas": {
+        "a": "moda = 5; mediana = 7",
+        "b": "moda = 7; mediana = 5",
+        "c": "moda = 9; mediana = 8",
+        "d": "moda = 5; mediana = 8"
+      },
+      "resposta": "a",
+      "explicacao": "Colocando os valores em ordem crescente: 3, 5, 5, 7, 8, 9, 12. A moda é o valor mais frequente, 5 (aparece duas vezes). Como há 7 valores, a mediana é o 4º valor da sequência ordenada, que é 7."
+    },
+    {
+      "id": "matematica-rlm-11",
+      "texto_apoio": "Na avaliação final de uma disciplina, a Prova 1 tem peso 2, a Prova 2 tem peso 3, e o Trabalho tem peso 5.",
+      "enunciado": "Um estudante obteve as seguintes notas: Prova 1 = 6,0; Prova 2 = 7,0; Trabalho = 8,0. Qual é a média ponderada final desse estudante, considerando os pesos informados?",
+      "alternativas": {
+        "a": "7,0",
+        "b": "7,2",
+        "c": "7,3",
+        "d": "7,5"
+      },
+      "resposta": "c",
+      "explicacao": "A média ponderada é: (6,0 × 2 + 7,0 × 3 + 8,0 × 5) ÷ (2 + 3 + 5) = (12 + 21 + 40) ÷ 10 = 73 ÷ 10 = 7,3."
+    },
+    {
+      "id": "matematica-rlm-12",
+      "texto_apoio": "",
+      "enunciado": "Considere a proposição: \"Todos os candidatos que fizeram a prova de Direito também fizeram a prova de Redação.\" A negação lógica correta dessa proposição é:",
+      "alternativas": {
+        "a": "\"Nenhum candidato que fez a prova de Direito fez a prova de Redação.\"",
+        "b": "\"Existe pelo menos um candidato que fez a prova de Direito e não fez a prova de Redação.\"",
+        "c": "\"Todos os candidatos que não fizeram a prova de Direito fizeram a prova de Redação.\"",
+        "d": "\"Todos os candidatos fizeram tanto a prova de Direito quanto a de Redação.\""
+      },
+      "resposta": "b",
+      "explicacao": "A negação de uma proposição universal (\"Todo A é B\") é uma proposição existencial que aponta um contraexemplo (\"Existe A que não é B\"). Logo, basta que exista um único candidato que tenha feito a prova de Direito sem ter feito a de Redação."
+    },
+    {
+      "id": "matematica-rlm-13",
+      "texto_apoio": "",
+      "enunciado": "Considere as proposições p: \"2 + 2 = 4\" e q: \"5 é um número par\". Sabendo que p é verdadeira e q é falsa, qual é o valor lógico da proposição composta p → q (\"se p, então q\")?",
+      "alternativas": {
+        "a": "Verdadeira, pois basta que p seja verdadeira",
+        "b": "Falsa, pois uma condicional com antecedente verdadeiro e consequente falso é falsa",
+        "c": "Verdadeira, pois q é falsa",
+        "d": "Não é possível determinar o valor lógico"
+      },
+      "resposta": "b",
+      "explicacao": "Na tabela-verdade da condicional (p → q), o único caso em que o resultado é falso ocorre quando o antecedente é verdadeiro e o consequente é falso. Como p é verdadeira e q é falsa, p → q é falsa."
+    },
+    {
+      "id": "matematica-rlm-14",
+      "texto_apoio": "",
+      "enunciado": "Sejam p e q duas proposições lógicas. Sabe-se que p é falsa e que a proposição composta (p ∨ q) — \"p ou q\" — é verdadeira. Qual é necessariamente o valor lógico de q?",
+      "alternativas": {
+        "a": "Verdadeira",
+        "b": "Falsa",
+        "c": "Indeterminada, pode ser verdadeira ou falsa",
+        "d": "q também deve ser falsa, pois p é falsa"
+      },
+      "resposta": "a",
+      "explicacao": "Na disjunção (p ∨ q), o resultado só é falso quando ambas as proposições são falsas. Como p é falsa e a disjunção é verdadeira, necessariamente q deve ser verdadeira."
+    },
+    {
+      "id": "matematica-rlm-15",
+      "texto_apoio": "",
+      "enunciado": "A negação lógica da proposição \"Está chovendo e faz frio\" é logicamente equivalente a qual alternativa abaixo?",
+      "alternativas": {
+        "a": "\"Não está chovendo e não faz frio\"",
+        "b": "\"Não está chovendo ou não faz frio\"",
+        "c": "\"Está chovendo ou faz frio\"",
+        "d": "\"Não está chovendo e faz frio\""
+      },
+      "resposta": "b",
+      "explicacao": "Pela lei de De Morgan, a negação de uma conjunção (p ∧ q) é a disjunção das negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q. Logo, a negação correta é \"Não está chovendo ou não faz frio\"."
+    },
+    {
+      "id": "matematica-rlm-16",
+      "texto_apoio": "A tabela abaixo apresenta o número de candidatos inscritos em um vestibular ao longo de três anos consecutivos: 2022: 12.000 candidatos; 2023: 15.000 candidatos; 2024: 18.000 candidatos.",
+      "enunciado": "Com base nos dados da tabela, qual foi o crescimento percentual do número de candidatos entre 2022 e 2024?",
+      "alternativas": {
+        "a": "25%",
+        "b": "33%",
+        "c": "50%",
+        "d": "60%"
+      },
+      "resposta": "c",
+      "explicacao": "O crescimento percentual é calculado por: (valor final − valor inicial) ÷ valor inicial × 100. Assim: (18.000 − 12.000) ÷ 12.000 × 100 = 6.000 ÷ 12.000 × 100 = 50%."
+    },
+    {
+      "id": "matematica-rlm-17",
+      "texto_apoio": "Em uma pesquisa realizada com 300 estudantes sobre preferência de curso, um gráfico de setores mostrou que 40% preferem Direito, 25% preferem Administração e 20% preferem Engenharia. O restante dos estudantes prefere outros cursos.",
+      "enunciado": "Com base nos dados do gráfico, quantos estudantes, em números absolutos, preferem \"outros cursos\"?",
+      "alternativas": {
+        "a": "30 estudantes",
+        "b": "40 estudantes",
+        "c": "45 estudantes",
+        "d": "60 estudantes"
+      },
+      "resposta": "c",
+      "explicacao": "A soma dos percentuais informados é 40% + 25% + 20% = 85%. O restante corresponde a 100% − 85% = 15%. Como 15% de 300 é igual a 0,15 × 300 = 45, esse é o número de estudantes que preferem outros cursos."
+    },
+    {
+      "id": "matematica-rlm-18",
+      "texto_apoio": "",
+      "enunciado": "Uma receita culinária, destinada a 6 pessoas, utiliza 450 g de farinha de trigo. Mantendo a mesma proporção entre os ingredientes, quantos gramas de farinha serão necessários para preparar essa receita para 10 pessoas?",
+      "alternativas": {
+        "a": "600 g",
+        "b": "700 g",
+        "c": "750 g",
+        "d": "800 g"
+      },
+      "resposta": "c",
+      "explicacao": "A quantidade de farinha por pessoa é 450 ÷ 6 = 75 g. Para 10 pessoas, mantendo a proporção: 75 × 10 = 750 g."
+    },
+    {
+      "id": "matematica-rlm-19",
+      "texto_apoio": "Um aplicativo de transporte cobra uma taxa fixa de R$ 10,00 por corrida, mais R$ 3,00 por quilômetro rodado. O custo C de uma corrida, em reais, em função da distância x, em quilômetros, é dado por C(x) = 3x + 10.",
+      "enunciado": "Qual é o custo de uma corrida de 12 km, segundo esse modelo?",
+      "alternativas": {
+        "a": "R$ 36,00",
+        "b": "R$ 40,00",
+        "c": "R$ 46,00",
+        "d": "R$ 50,00"
+      },
+      "resposta": "c",
+      "explicacao": "Substituindo x = 12 na função: C(12) = 3 × 12 + 10 = 36 + 10 = 46. Logo, o custo da corrida é R$ 46,00."
+    },
+    {
+      "id": "matematica-rlm-20",
+      "texto_apoio": "O lucro mensal L de uma pequena empresa, em milhares de reais, é modelado pela função L(x) = 5x − 20, em que x representa a quantidade de unidades vendidas, em centenas.",
+      "enunciado": "Qual é a quantidade mínima de unidades (em centenas) que a empresa precisa vender para que o lucro deixe de ser negativo, ou seja, para que L(x) = 0?",
+      "alternativas": {
+        "a": "2",
+        "b": "4",
+        "c": "5",
+        "d": "20"
+      },
+      "resposta": "b",
+      "explicacao": "Para L(x) = 0: 5x − 20 = 0 → 5x = 20 → x = 4. Ou seja, a empresa precisa vender 4 centenas (400 unidades) para que o lucro deixe de ser negativo."
+    },
+    {
+      "id": "matematica-rlm-21",
+      "texto_apoio": "Uma progressão aritmética (PA) tem primeiro termo a1 = 5 e razão r = 4.",
+      "enunciado": "Qual é o valor do 10º termo dessa progressão aritmética?",
+      "alternativas": {
+        "a": "36",
+        "b": "40",
+        "c": "41",
+        "d": "45"
+      },
+      "resposta": "c",
+      "explicacao": "O termo geral de uma PA é an = a1 + (n − 1) × r. Assim, a10 = 5 + (10 − 1) × 4 = 5 + 36 = 41."
+    },
+    {
+      "id": "matematica-rlm-22",
+      "texto_apoio": "Considere a progressão aritmética 5, 9, 13, 17, ..., cujo 10º termo é igual a 41.",
+      "enunciado": "Qual é a soma dos 10 primeiros termos dessa progressão aritmética?",
+      "alternativas": {
+        "a": "205",
+        "b": "220",
+        "c": "230",
+        "d": "410"
+      },
+      "resposta": "c",
+      "explicacao": "A soma dos n primeiros termos de uma PA é dada por Sn = n × (a1 + an) ÷ 2. Assim, S10 = 10 × (5 + 41) ÷ 2 = 10 × 46 ÷ 2 = 230."
+    },
+    {
+      "id": "matematica-rlm-23",
+      "texto_apoio": "Uma progressão geométrica (PG) tem primeiro termo a1 = 3 e razão q = 2.",
+      "enunciado": "Qual é o valor do 5º termo dessa progressão geométrica?",
+      "alternativas": {
+        "a": "24",
+        "b": "32",
+        "c": "40",
+        "d": "48"
+      },
+      "resposta": "d",
+      "explicacao": "O termo geral de uma PG é an = a1 × q^(n−1). Assim, a5 = 3 × 2^4 = 3 × 16 = 48."
+    },
+    {
+      "id": "matematica-rlm-24",
+      "texto_apoio": "Um dado comum, com faces numeradas de 1 a 6, é lançado uma única vez, sendo cada face igualmente provável de ocorrer.",
+      "enunciado": "Qual é a probabilidade de o resultado obtido ser um número par?",
+      "alternativas": {
+        "a": "1/6",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "2/3"
+      },
+      "resposta": "c",
+      "explicacao": "Os números pares entre 1 e 6 são 2, 4 e 6, totalizando 3 resultados favoráveis em 6 possíveis. A probabilidade é 3/6 = 1/2, ou seja, 50%."
+    },
+    {
+      "id": "matematica-rlm-25",
+      "texto_apoio": "Uma urna contém 4 bolas vermelhas e 6 bolas azuis, todas de mesmo tamanho e peso, totalizando 10 bolas.",
+      "enunciado": "Retirando-se uma bola ao acaso dessa urna, qual é a probabilidade de que ela seja vermelha?",
+      "alternativas": {
+        "a": "20%",
+        "b": "40%",
+        "c": "50%",
+        "d": "60%"
+      },
+      "resposta": "b",
+      "explicacao": "A probabilidade é dada pelo número de casos favoráveis dividido pelo número total de casos possíveis: 4 ÷ 10 = 0,40, ou seja, 40%."
+    },
+    {
+      "id": "matematica-rlm-26",
+      "texto_apoio": "Um terreno retangular tem 8 metros de largura por 5 metros de comprimento.",
+      "enunciado": "Qual é a área desse terreno?",
+      "alternativas": {
+        "a": "13 m²",
+        "b": "26 m²",
+        "c": "35 m²",
+        "d": "40 m²"
+      },
+      "resposta": "d",
+      "explicacao": "A área de um retângulo é calculada pelo produto entre largura e comprimento: 8 × 5 = 40 m²."
+    },
+    {
+      "id": "matematica-rlm-27",
+      "texto_apoio": "Um terreno retangular tem 12 metros de comprimento por 7 metros de largura.",
+      "enunciado": "Qual é o perímetro (a medida do contorno) desse terreno?",
+      "alternativas": {
+        "a": "19 m",
+        "b": "38 m",
+        "c": "42 m",
+        "d": "84 m"
+      },
+      "resposta": "b",
+      "explicacao": "O perímetro de um retângulo é dado por 2 × (comprimento + largura) = 2 × (12 + 7) = 2 × 19 = 38 m."
+    },
+    {
+      "id": "matematica-rlm-28",
+      "texto_apoio": "Um triângulo possui base medindo 10 cm e altura relativa a essa base medindo 6 cm.",
+      "enunciado": "Qual é a área desse triângulo?",
+      "alternativas": {
+        "a": "16 cm²",
+        "b": "30 cm²",
+        "c": "60 cm²",
+        "d": "120 cm²"
+      },
+      "resposta": "b",
+      "explicacao": "A área de um triângulo é dada por (base × altura) ÷ 2. Assim: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm²."
+    },
+    {
+      "id": "matematica-rlm-29",
+      "texto_apoio": "Uma praça circular tem raio de 7 metros. Considere π ≈ 3,14 para os cálculos.",
+      "enunciado": "Qual é, aproximadamente, a área dessa praça?",
+      "alternativas": {
+        "a": "43,96 m²",
+        "b": "153,86 m²",
+        "c": "307,72 m²",
+        "d": "615,44 m²"
+      },
+      "resposta": "b",
+      "explicacao": "A área de um círculo é dada por A = π × r². Assim: A ≈ 3,14 × 7² = 3,14 × 49 = 153,86 m²."
+    },
+    {
+      "id": "matematica-rlm-30",
+      "texto_apoio": "Um sistema de equações é dado por: x + y = 20 e x − y = 4.",
+      "enunciado": "Qual é o valor de x que satisfaz esse sistema de equações?",
+      "alternativas": {
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "16"
+      },
+      "resposta": "c",
+      "explicacao": "Somando as duas equações: (x + y) + (x − y) = 20 + 4 → 2x = 24 → x = 12. Substituindo em x + y = 20, obtém-se y = 8."
+    },
+    {
+      "id": "matematica-rlm-31",
+      "texto_apoio": "Um sistema de equações é dado por: 2x + 3y = 16 e x = y + 3.",
+      "enunciado": "Qual é o valor de x + y, considerando a solução desse sistema?",
+      "alternativas": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8"
+      },
+      "resposta": "c",
+      "explicacao": "Substituindo x = y + 3 na primeira equação: 2(y + 3) + 3y = 16 → 2y + 6 + 3y = 16 → 5y = 10 → y = 2. Logo, x = 2 + 3 = 5, e x + y = 5 + 2 = 7."
+    },
+    {
+      "id": "matematica-rlm-32",
+      "texto_apoio": "Em uma turma, o conjunto A representa os 30 alunos que praticam algum esporte, e o conjunto B representa os 25 alunos que participam de algum grupo de estudos. Sabe-se que 10 alunos fazem parte de ambos os grupos (A ∩ B).",
+      "enunciado": "Quantos alunos, ao todo, praticam esporte ou participam de grupo de estudos (ou ambos), ou seja, qual é o número de elementos de A ∪ B?",
+      "alternativas": {
+        "a": "35",
+        "b": "40",
+        "c": "45",
+        "d": "55"
+      },
+      "resposta": "c",
+      "explicacao": "Pelo princípio da inclusão-exclusão: |A ∪ B| = |A| + |B| − |A ∩ B| = 30 + 25 − 10 = 45."
+    },
+    {
+      "id": "matematica-rlm-33",
+      "texto_apoio": "Em uma pesquisa com 50 pessoas, 20 disseram gostar de café, 25 disseram gostar de chá, e 8 disseram gostar de ambas as bebidas.",
+      "enunciado": "Quantas pessoas, dentre as 50 entrevistadas, não gostam nem de café nem de chá?",
+      "alternativas": {
+        "a": "5",
+        "b": "13",
+        "c": "17",
+        "d": "22"
+      },
+      "resposta": "b",
+      "explicacao": "O número de pessoas que gostam de pelo menos uma das bebidas é |A ∪ B| = 20 + 25 − 8 = 37. Logo, as que não gostam de nenhuma das duas são 50 − 37 = 13."
+    },
+    {
+      "id": "matematica-rlm-34",
+      "texto_apoio": "Uma estante deve ser organizada com 4 livros diferentes, um ao lado do outro, em qualquer ordem.",
+      "enunciado": "De quantas formas distintas esses 4 livros podem ser organizados na estante?",
+      "alternativas": {
+        "a": "4",
+        "b": "12",
+        "c": "16",
+        "d": "24"
+      },
+      "resposta": "d",
+      "explicacao": "O número de formas de organizar 4 elementos distintos em sequência é dado pelo fatorial de 4: 4! = 4 × 3 × 2 × 1 = 24."
+    },
+    {
+      "id": "matematica-rlm-35",
+      "texto_apoio": "Uma comissão de 2 pessoas deve ser formada a partir de um grupo de 5 candidatos, sem distinção de função entre os dois membros escolhidos (ou seja, a ordem de escolha não importa).",
+      "enunciado": "De quantas formas diferentes essa comissão de 2 pessoas pode ser formada?",
+      "alternativas": {
+        "a": "5",
+        "b": "10",
+        "c": "20",
+        "d": "25"
+      },
+      "resposta": "b",
+      "explicacao": "Como a ordem não importa, trata-se de uma combinação: C(5,2) = 5! ÷ (2! × 3!) = (5 × 4) ÷ (2 × 1) = 20 ÷ 2 = 10."
+    },
+    {
+      "id": "matematica-rlm-36",
+      "texto_apoio": "Um carro no valor de R$ 15.000,00 é financiado da seguinte forma: entrada de R$ 5.000,00 e o restante pago em 10 parcelas mensais fixas de R$ 1.100,00 cada.",
+      "enunciado": "Qual é o valor total de juros pago nesse financiamento, considerando o valor total desembolsado (entrada mais parcelas) em comparação ao preço à vista do carro?",
+      "alternativas": {
+        "a": "R$ 500,00",
+        "b": "R$ 1.000,00",
+        "c": "R$ 1.500,00",
+        "d": "R$ 2.000,00"
+      },
+      "resposta": "b",
+      "explicacao": "O valor total pago é 5.000 + (10 × 1.100) = 5.000 + 11.000 = 16.000. Como o preço à vista era R$ 15.000,00, o total de juros pago é 16.000 − 15.000 = R$ 1.000,00."
+    }
+  ]
+}

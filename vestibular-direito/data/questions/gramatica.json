@@ -1,0 +1,473 @@
+{
+  "subtopic": "gramatica",
+  "questoes": [
+    {
+      "id": "gramatica-01",
+      "texto_apoio": "\"Fazem dois anos que o novo prédio da faculdade foi inaugurado.\"",
+      "enunciado": "A frase apresenta um desvio de concordância verbal. Assinale a alternativa que a corrige adequadamente.",
+      "alternativas": {
+        "a": "Fazem dois anos que o novo prédio da faculdade foi inaugurado.",
+        "b": "Faz dois anos que o novo prédio da faculdade foi inaugurado.",
+        "c": "Fazem dois ano que o novo prédio da faculdade foi inaugurado.",
+        "d": "Fez dois anos que o novo prédio da faculdade foram inaugurado."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'fazer' indicando tempo decorrido é impessoal e deve ficar sempre na terceira pessoa do singular: 'Faz dois anos'. As demais alternativas mantêm o erro ou criam novos desvios."
+    },
+    {
+      "id": "gramatica-02",
+      "texto_apoio": "\"Assisti o filme premiado no festival de cinema.\"",
+      "enunciado": "Considerando a regência do verbo 'assistir' no sentido de 'ver, presenciar', a frase corretamente reescrita conforme a norma culta é:",
+      "alternativas": {
+        "a": "Assisti ao filme premiado no festival de cinema.",
+        "b": "Assisti o filme premiado no festival de cinema.",
+        "c": "Assisti no filme premiado no festival de cinema.",
+        "d": "Assisti para o filme premiado no festival de cinema."
+      },
+      "resposta": "a",
+      "explicacao": "No sentido de 'ver, presenciar', o verbo 'assistir' é transitivo indireto e exige a preposição 'a': 'assistir ao filme'. As demais opções usam preposições incompatíveis com esse sentido do verbo."
+    },
+    {
+      "id": "gramatica-03",
+      "texto_apoio": "\"Ela foi à cidade a pé visitar a tia que mora à três quilômetros do centro.\"",
+      "enunciado": "Sobre o uso da crase na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "todas as ocorrências de crase estão corretas.",
+        "b": "a crase em 'à três quilômetros' está incorreta, pois antecede numeral sem artigo definido feminino.",
+        "c": "a crase em 'à cidade' está incorreta, pois 'cidade' é palavra masculina.",
+        "d": "nenhuma das ocorrências de crase deveria existir na frase."
+      },
+      "resposta": "b",
+      "explicacao": "Diante de expressões de distância indeterminada com numeral, não se usa crase quando não há artigo feminino definido regendo a expressão; o correto seria 'a três quilômetros'. 'À cidade' está correta, pois há regência de verbo + artigo feminino."
+    },
+    {
+      "id": "gramatica-04",
+      "texto_apoio": "\"Seguem anexos os documentos solicitados pela comissão avaliadora.\"",
+      "enunciado": "Sobre a concordância nominal da palavra 'anexo' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está incorreta, pois 'anexo' deveria permanecer invariável.",
+        "b": "está correta, pois 'anexo', quando usado como adjetivo, concorda em gênero e número com o substantivo a que se refere.",
+        "c": "está incorreta, pois deveria ser 'anexos os documento'.",
+        "d": "está correta apenas porque a frase está na voz passiva."
+      },
+      "resposta": "b",
+      "explicacao": "'Anexo' funciona como adjetivo e deve concordar com o substantivo 'documentos', flexionando-se em número e gênero: 'documentos anexos'. Por isso a frase está correta."
+    },
+    {
+      "id": "gramatica-05",
+      "texto_apoio": "\"O diretor, junto com os professores foi cobrado por resultados melhores no próximo semestre e também não houveram reclamações sobre o novo calendário.\"",
+      "enunciado": "Assinale a alternativa que identifica corretamente o desvio de concordância verbal presente na frase.",
+      "alternativas": {
+        "a": "O verbo 'foi' deveria concordar no plural, pois há dois sujeitos coordenados.",
+        "b": "O verbo 'houveram', empregado no sentido de 'existir', deveria permanecer na forma impessoal 'houve'.",
+        "c": "Não há nenhum desvio de concordância na frase.",
+        "d": "O verbo 'cobrado' deveria estar no plural para concordar com 'professores'."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'haver' no sentido de 'existir' é impessoal e não admite flexão de número; o correto é 'não houve reclamações'. O sujeito de 'foi cobrado' é apenas 'o diretor', já que 'junto com os professores' é adjunto adverbial, mantendo a concordância no singular corretamente."
+    },
+    {
+      "id": "gramatica-06",
+      "texto_apoio": "\"Chegando atrasada a reunião já havia começado.\"",
+      "enunciado": "Do ponto de vista da pontuação, a frase apresenta um problema porque",
+      "alternativas": {
+        "a": "falta uma vírgula após o aposto 'a reunião'.",
+        "b": "falta uma vírgula para separar a oração reduzida de gerúndio ('Chegando atrasada') do restante da oração.",
+        "c": "há uma vírgula desnecessária entre sujeito e verbo.",
+        "d": "a frase está corretamente pontuada e não apresenta nenhum problema."
+      },
+      "resposta": "b",
+      "explicacao": "Orações reduzidas deslocadas para o início do período, como 'Chegando atrasada', devem ser separadas por vírgula do restante da oração: 'Chegando atrasada, a reunião já havia começado'."
+    },
+    {
+      "id": "gramatica-07",
+      "texto_apoio": "\"O aumento dos juros preocupa investidores. ___, o mercado reagiu com otimismo, contrariando as expectativas.\"",
+      "enunciado": "Qual conectivo preenche adequadamente a lacuna, estabelecendo relação de oposição entre as duas orações?",
+      "alternativas": {
+        "a": "Portanto",
+        "b": "Além disso",
+        "c": "No entanto",
+        "d": "Por conseguinte"
+      },
+      "resposta": "c",
+      "explicacao": "'No entanto' é conectivo adversativo, adequado para marcar a contradição entre a preocupação dos investidores e a reação otimista do mercado. Os demais conectivos indicam conclusão ou adição, incompatíveis com o sentido de oposição."
+    },
+    {
+      "id": "gramatica-08",
+      "texto_apoio": "\"Existem várias razões que motivam a decisão, os quais serão explicadas a seguir.\"",
+      "enunciado": "Assinale a alternativa que corrige o desvio de concordância nominal presente no pronome relativo da frase.",
+      "alternativas": {
+        "a": "Existem várias razões que motivam a decisão, os quais serão explicadas a seguir.",
+        "b": "Existem várias razões que motivam a decisão, as quais serão explicadas a seguir.",
+        "c": "Existem várias razões que motivam a decisão, o qual serão explicadas a seguir.",
+        "d": "Existem várias razões que motivam a decisão, quais serão explicadas a seguir."
+      },
+      "resposta": "b",
+      "explicacao": "O pronome relativo deve concordar em gênero e número com o antecedente 'razões' (substantivo feminino plural), sendo correto 'as quais', e não 'os quais'."
+    },
+    {
+      "id": "gramatica-09",
+      "texto_apoio": "\"Prefiro estudar de manhã do que estudar à noite.\"",
+      "enunciado": "Sobre a regência do verbo 'preferir' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está correta, pois 'preferir' sempre exige a estrutura 'do que'.",
+        "b": "está incorreta; a norma culta recomenda a estrutura 'preferir algo a algo', sem o uso de 'do que'.",
+        "c": "está incorreta porque falta a preposição 'para' antes de 'estudar'.",
+        "d": "está correta apenas em textos informais, mas também na norma culta."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'preferir' rege a preposição 'a', não admitindo, na norma culta, a comparação com 'do que': o correto é 'Prefiro estudar de manhã a estudar à noite'."
+    },
+    {
+      "id": "gramatica-10",
+      "texto_apoio": "\"Aluga-se apartamentos mobiliados no centro da cidade.\"",
+      "enunciado": "Sobre a concordância verbal com a partícula 'se', é correto afirmar que",
+      "alternativas": {
+        "a": "a frase está correta, pois 'se' é sempre índice de indeterminação do sujeito.",
+        "b": "a frase está incorreta; como 'apartamentos' é o sujeito paciente da oração, o verbo deveria concordar no plural: 'Alugam-se apartamentos'.",
+        "c": "a frase está incorreta porque falta a preposição 'de' antes de 'apartamentos'.",
+        "d": "a frase está correta porque 'aluga-se' nunca varia, independentemente do contexto."
+      },
+      "resposta": "b",
+      "explicacao": "Nesse caso, 'se' é partícula apassivadora, e 'apartamentos' é sujeito da oração passiva sintética, exigindo concordância verbal no plural: 'Alugam-se apartamentos mobiliados'."
+    },
+    {
+      "id": "gramatica-11",
+      "texto_apoio": "\"Vou embora amanhã à tarde, por isso preciso terminar hoje mesmo todos os relatórios pendentes, que aliás são muitos.\"",
+      "enunciado": "A expressão 'por isso', que liga as duas primeiras orações do período, estabelece uma relação de",
+      "alternativas": {
+        "a": "causa e consequência.",
+        "b": "oposição.",
+        "c": "comparação.",
+        "d": "finalidade."
+      },
+      "resposta": "a",
+      "explicacao": "'Por isso' é conectivo conclusivo/consecutivo que retoma a ideia anterior (viagem no dia seguinte) como causa da necessidade de terminar os relatórios, caracterizando relação de causa e consequência."
+    },
+    {
+      "id": "gramatica-12",
+      "texto_apoio": "\"É proibido a entrada de pessoas não autorizadas no laboratório.\"",
+      "enunciado": "Sobre a concordância nominal da expressão 'é proibido' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está correta, pois 'proibido' nunca varia diante de substantivo precedido de artigo.",
+        "b": "está incorreta; como 'entrada' vem precedida de artigo definido, o correto seria 'é proibida a entrada'.",
+        "c": "está correta, pois o sujeito da oração é 'pessoas', que é plural.",
+        "d": "está incorreta porque falta a preposição 'de' antes de 'entrada'."
+      },
+      "resposta": "b",
+      "explicacao": "Expressões como 'é proibido', 'é necessário' ficam invariáveis apenas quando o substantivo seguinte não vem precedido de artigo. Como há o artigo 'a' antes de 'entrada', a concordância deve ser feita: 'é proibida a entrada'."
+    },
+    {
+      "id": "gramatica-13",
+      "texto_apoio": "\"O professor, cuja a aula foi cancelada, avisou os alunos por e-mail.\"",
+      "enunciado": "Assinale a alternativa que aponta corretamente o desvio gramatical da frase.",
+      "alternativas": {
+        "a": "O pronome relativo 'cuja' não deve ser antecedido de artigo definido, sendo incorreto 'cuja a aula'.",
+        "b": "O verbo 'avisou' deveria estar no plural.",
+        "c": "Falta uma vírgula após 'e-mail'.",
+        "d": "A frase não apresenta nenhum desvio gramatical."
+      },
+      "resposta": "a",
+      "explicacao": "O pronome relativo possessivo 'cujo(a)' já exerce função de determinante e não deve vir acompanhado de artigo definido: o correto é 'cuja aula foi cancelada', sem o artigo 'a'."
+    },
+    {
+      "id": "gramatica-14",
+      "texto_apoio": "\"Segundo dados da pesquisa, a maioria dos entrevistados afirmaram estar satisfeitos com o novo sistema.\"",
+      "enunciado": "Sobre a concordância verbal com a expressão 'a maioria dos entrevistados', é correto afirmar que",
+      "alternativas": {
+        "a": "o verbo deve obrigatoriamente concordar no plural, sendo a frase apresentada a única forma correta.",
+        "b": "o verbo pode concordar tanto no singular ('afirmou'), com o núcleo 'maioria', quanto no plural ('afirmaram'), por atração com 'entrevistados', sendo ambas aceitas pela norma culta.",
+        "c": "o verbo deve obrigatoriamente ficar no singular, sendo 'afirmaram' um erro grave e inaceitável.",
+        "d": "a concordância com expressões partitivas nunca varia, sendo sempre no plural."
+      },
+      "resposta": "b",
+      "explicacao": "Com sujeitos formados por expressões partitivas ('a maioria de', 'grande parte de') seguidas de substantivo plural, a norma culta admite tanto a concordância com o núcleo ('a maioria afirmou') quanto por atração com o adjunto ('a maioria dos entrevistados afirmaram')."
+    },
+    {
+      "id": "gramatica-15",
+      "texto_apoio": "\"O relatório apresentado pelos consultores contém dados imprecisos; contudo, foi aprovado pela diretoria sem ressalvas, o que gerou críticas internas.\"",
+      "enunciado": "A relação estabelecida pelo conectivo 'contudo' entre as orações é de",
+      "alternativas": {
+        "a": "adição de ideias semelhantes.",
+        "b": "adversidade, contrapondo a imprecisão dos dados à aprovação sem ressalvas.",
+        "c": "explicação de uma causa anterior.",
+        "d": "comparação entre dois relatórios distintos."
+      },
+      "resposta": "b",
+      "explicacao": "'Contudo' é conjunção adversativa que introduz um contraste entre a imprecisão dos dados e o fato de o relatório ter sido aprovado sem ressalvas, evidenciando uma inconsistência apontada pelo autor do texto."
+    },
+    {
+      "id": "gramatica-16",
+      "texto_apoio": "\"Fui na casa dela ontem à tarde e conversamos sobre o novo projeto que ela irá apresentar na faculdade.\"",
+      "enunciado": "Sobre a regência do verbo 'ir' na frase, a norma culta recomenda que",
+      "alternativas": {
+        "a": "a construção 'fui na casa' está adequada, pois 'ir' sempre admite a preposição 'em'.",
+        "b": "a construção mais adequada à norma culta é 'fui à casa dela', com a preposição 'a', indicando destino.",
+        "c": "a construção correta seria 'fui para casa dela', sendo a única forma aceitável.",
+        "d": "não há preposição adequada para reger o verbo 'ir' nesse contexto."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'ir', quando indica destino, rege tradicionalmente a preposição 'a', sendo a construção 'fui à casa dela' a mais adequada à norma culta, com uso de crase pela fusão da preposição 'a' com o artigo feminino 'a' de 'a casa'."
+    },
+    {
+      "id": "gramatica-17",
+      "texto_apoio": "\"Comprei um relógio de pulso, uma camisa listrada, e um par de sapatos pretos para a formatura.\"",
+      "enunciado": "Do ponto de vista da pontuação em enumerações, a frase apresenta um desvio porque",
+      "alternativas": {
+        "a": "não deveria haver vírgula alguma na enumeração apresentada.",
+        "b": "não se deve usar vírgula antes da conjunção 'e' quando ela liga o último elemento de uma enumeração simples, sendo desnecessária a vírgula antes de 'e um par'.",
+        "c": "faltam vírgulas entre todos os adjetivos da frase.",
+        "d": "a frase deveria ser separada em dois períodos distintos, sem qualquer vírgula."
+      },
+      "resposta": "b",
+      "explicacao": "Em enumerações simples, não se usa vírgula antes da conjunção aditiva 'e' quando ela liga o último termo da série, salvo em casos de elementos com sujeitos distintos; o correto seria 'uma camisa listrada e um par de sapatos pretos'."
+    },
+    {
+      "id": "gramatica-18",
+      "texto_apoio": "\"Apesar da empresa investir em treinamento, a rotatividade de funcionários continua alta, o que preocupa o setor de recursos humanos.\"",
+      "enunciado": "De acordo com a norma culta, qual é a forma mais adequada de reescrever o início da frase?",
+      "alternativas": {
+        "a": "Apesar da empresa investir em treinamento, a rotatividade...",
+        "b": "Apesar de a empresa investir em treinamento, a rotatividade...",
+        "c": "Apesar que a empresa investe em treinamento, a rotatividade...",
+        "d": "Apesar a empresa investir em treinamento, a rotatividade..."
+      },
+      "resposta": "b",
+      "explicacao": "Diante de verbo no infinitivo com sujeito próprio, usa-se o artigo 'a' (não craseado, sem fusão com a preposição 'de') antes do sujeito: 'apesar de a empresa investir'. A forma 'apesar da empresa investir', comum na fala informal, funde indevidamente a preposição 'de' com o artigo 'a', sendo evitada na norma culta escrita; 'apesar que' e 'apesar a' não são locuções reconhecidas pela gramática normativa."
+    },
+    {
+      "id": "gramatica-19",
+      "texto_apoio": "\"Nunca disse-lhe a verdade sobre o ocorrido, embora sempre tivesse essa intenção.\"",
+      "enunciado": "A frase apresenta desvio de colocação pronominal. Assinale a alternativa que a corrige.",
+      "alternativas": {
+        "a": "Nunca disse-lhe a verdade sobre o ocorrido, embora sempre tivesse essa intenção.",
+        "b": "Nunca lhe disse a verdade sobre o ocorrido, embora sempre tivesse essa intenção.",
+        "c": "Nunca disse a verdade lhe sobre o ocorrido, embora sempre tivesse essa intenção.",
+        "d": "Nunca a verdade lhe disse sobre o ocorrido, embora sempre tivesse essa intenção."
+      },
+      "resposta": "b",
+      "explicacao": "O advérbio de negação 'nunca' atrai o pronome oblíquo para a próclise; a forma 'disse-lhe' (ênclise) após palavra atrativa é considerada desvio pela norma culta, sendo correto 'nunca lhe disse'."
+    },
+    {
+      "id": "gramatica-20",
+      "texto_apoio": "\"O contrato que me refiro foi assinado na semana passada.\"",
+      "enunciado": "A frase apresenta desvio de regência relacionado ao pronome relativo. Assinale a correção adequada.",
+      "alternativas": {
+        "a": "O contrato que me refiro foi assinado na semana passada.",
+        "b": "O contrato a que me refiro foi assinado na semana passada.",
+        "c": "O contrato aonde me refiro foi assinado na semana passada.",
+        "d": "O contrato cujo me refiro foi assinado na semana passada."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'referir-se' exige a preposição 'a'; quando o antecedente do relativo exige preposição, ela deve preceder o 'que' (ou o relativo pode ser substituído por 'ao qual'): o correto é 'o contrato a que me refiro'."
+    },
+    {
+      "id": "gramatica-21",
+      "texto_apoio": "\"O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.\"",
+      "enunciado": "A frase apresenta quebra de paralelismo sintático. Assinale a alternativa que a corrige adequadamente.",
+      "alternativas": {
+        "a": "O projeto prevê reduzir custos, modernizar os equipamentos e agilizar os processos.",
+        "b": "O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.",
+        "c": "O projeto prevê redução de custos, modernizar equipamentos e processos ágeis.",
+        "d": "O projeto prevê que os custos sejam reduzidos, modernização e agilizar processos."
+      },
+      "resposta": "a",
+      "explicacao": "O paralelismo sintático exige que elementos coordenados sigam a mesma estrutura gramatical; a forma correta emprega três infinitivos em sequência: reduzir, modernizar e agilizar."
+    },
+    {
+      "id": "gramatica-22",
+      "texto_apoio": "\"O relatório final deve ser entregue à mão na secretaria, às vezes até às vésperas do prazo final.\"",
+      "enunciado": "Sobre o emprego da crase na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "todas as ocorrências de crase estão corretas, pois 'mão', 'vezes' e 'vésperas' são substantivos femininos regidos por preposição 'a' em locuções consagradas.",
+        "b": "nenhuma das ocorrências de crase deveria existir na frase.",
+        "c": "apenas 'à mão' está correta; as demais deveriam ser escritas sem acento grave.",
+        "d": "apenas 'às vésperas' está incorreta, pois 'véspera' não admite artigo feminino."
+      },
+      "resposta": "a",
+      "explicacao": "'À mão', 'às vezes' e 'às vésperas' são locuções consagradas pelo uso, formadas pela preposição 'a' seguida do artigo feminino 'a(s)', exigindo o acento indicativo de crase em todas elas."
+    },
+    {
+      "id": "gramatica-23",
+      "texto_apoio": "\"Livros, cadernos, canetas, nada foi esquecido na mochila.\"",
+      "enunciado": "Sobre a concordância verbal na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: 'nada foram esquecidos'.",
+        "b": "está correta; quando um sujeito composto é resumido por um pronome indefinido como 'nada' ou 'tudo', o verbo concorda com esse pronome recapitulativo, no singular.",
+        "c": "está incorreta porque falta uma vírgula antes de 'nada'.",
+        "d": "está correta apenas porque a frase está na ordem direta."
+      },
+      "resposta": "b",
+      "explicacao": "Quando elementos enumerados são resumidos por um pronome recapitulativo ('tudo', 'nada', 'ninguém'), o verbo concorda com esse pronome, e não com os itens da enumeração: 'nada foi esquecido'."
+    },
+    {
+      "id": "gramatica-24",
+      "texto_apoio": "\"O projeto foi aprovado pelo conselho mas ainda depende de liberação orçamentária para começar.\"",
+      "enunciado": "Sobre a pontuação da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está correta, pois a conjunção 'mas' nunca é precedida de vírgula.",
+        "b": "está incorreta; deveria haver uma vírgula antes da conjunção adversativa 'mas': '...conselho, mas ainda depende...'.",
+        "c": "está incorreta porque falta uma vírgula depois de 'mas'.",
+        "d": "está correta apenas se a frase for reescrita na ordem inversa."
+      },
+      "resposta": "b",
+      "explicacao": "Conjunções adversativas como 'mas' são sempre precedidas de vírgula, independentemente da extensão das orações que ligam."
+    },
+    {
+      "id": "gramatica-25",
+      "texto_apoio": "\"A diretora conversou com a professora sobre o projeto antes de ela viajar a trabalho.\"",
+      "enunciado": "Sobre a coesão referencial da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "o pronome 'ela' é plenamente claro e não permite nenhuma outra leitura.",
+        "b": "o pronome 'ela' gera ambiguidade, pois pode se referir tanto à diretora quanto à professora.",
+        "c": "a frase não contém nenhum elemento coesivo referencial.",
+        "d": "o pronome 'ela' se refere obrigatoriamente ao sujeito da oração principal."
+      },
+      "resposta": "b",
+      "explicacao": "Como há dois substantivos femininos no período ('diretora' e 'professora'), o pronome 'ela' pode retomar qualquer um dos dois, configurando ambiguidade referencial que compromete a clareza do texto."
+    },
+    {
+      "id": "gramatica-26",
+      "texto_apoio": "\"A empresa onde investi todas as minhas economias faliu, e a cidade aonde me mudei em seguida nunca tinha visitado antes.\"",
+      "enunciado": "Sobre o emprego dos pronomes/advérbios relativos na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "'onde' e 'aonde' estão empregados corretamente, pois indicam lugar em que algo permanece e lugar para onde se dirige, respectivamente.",
+        "b": "'onde' deveria ser substituído por 'aonde', pois 'empresa' expressa movimento.",
+        "c": "'aonde' está incorreto, pois nunca deve ser usado antes de verbos de movimento.",
+        "d": "ambos os empregos estão incorretos e deveriam ser substituídos por 'que'."
+      },
+      "resposta": "a",
+      "explicacao": "'Onde' indica permanência (investir na empresa, lugar fixo), e 'aonde' indica movimento, combinando-se com verbos como 'mudar-se para'; a frase emprega corretamente os dois relativos de lugar."
+    },
+    {
+      "id": "gramatica-27",
+      "texto_apoio": "\"O candidato aprovado está apto para assumir o cargo, desde que seja obediente às normas internas da empresa.\"",
+      "enunciado": "Sobre a regência nominal dos termos destacados, é correto afirmar que",
+      "alternativas": {
+        "a": "'apto para' e 'obediente às' estão de acordo com a norma culta, que admite a preposição 'para' ou 'a' após 'apto', e exige 'a' após 'obediente'.",
+        "b": "'apto para' está incorreto; a única regência aceita é 'apto de'.",
+        "c": "'obediente às' está incorreto; o correto seria 'obediente para'.",
+        "d": "nenhuma das regências empregadas está de acordo com a norma culta."
+      },
+      "resposta": "a",
+      "explicacao": "O adjetivo 'apto' admite as preposições 'a' ou 'para', e 'obediente' rege a preposição 'a'; ambas as construções da frase estão, portanto, corretas."
+    },
+    {
+      "id": "gramatica-28",
+      "texto_apoio": "\"Quando cheguei no aeroporto, o avião já tinha partido; cheguei em casa, então, muito mais tarde do que o previsto.\"",
+      "enunciado": "De acordo com a norma culta, qual é a regência recomendada para o verbo 'chegar' indicando lugar?",
+      "alternativas": {
+        "a": "'Chegar no/em' é a única forma aceita pela norma culta em qualquer contexto.",
+        "b": "O verbo 'chegar', indicando lugar, deve reger preferencialmente a preposição 'a' na norma culta escrita formal: 'cheguei ao aeroporto'; 'chegar em/no' é construção mais associada à oralidade.",
+        "c": "É indiferente, para a norma culta, usar 'a', 'em' ou 'no' com o verbo 'chegar'.",
+        "d": "O verbo 'chegar' nunca admite complemento de lugar."
+      },
+      "resposta": "b",
+      "explicacao": "A norma culta tradicional recomenda a preposição 'a' para indicar o lugar de destino com o verbo 'chegar' ('cheguei ao aeroporto'), sendo 'chegar em/no' uma construção mais associada à oralidade e a contextos informais."
+    },
+    {
+      "id": "gramatica-29",
+      "texto_apoio": "\"Este é um dos projetos que mais impressionou a comissão avaliadora.\"",
+      "enunciado": "Sobre a concordância verbal na estrutura 'um dos que', é correto afirmar que",
+      "alternativas": {
+        "a": "o verbo da oração relativa deve concordar com 'projetos' (plural), sendo mais adequado 'um dos projetos que mais impressionaram a comissão'.",
+        "b": "o verbo da oração relativa deve concordar sempre com 'um' (singular), sendo a frase apresentada a única forma correta.",
+        "c": "a concordância no singular ou no plural é sempre proibida nesse tipo de estrutura.",
+        "d": "não há nenhum problema de concordância na frase apresentada."
+      },
+      "resposta": "a",
+      "explicacao": "Na estrutura 'um dos que', o pronome relativo 'que' retoma o substantivo plural que o precede ('projetos'), e o verbo da oração relativa deve concordar no plural: 'impressionaram'."
+    },
+    {
+      "id": "gramatica-30",
+      "texto_apoio": "\"A comissão avaliou três critérios: relevância do projeto, que envolve impacto social, custo de implementação, que inclui recursos humanos e materiais e prazo de execução.\"",
+      "enunciado": "Sobre a pontuação da enumeração no texto, é correto afirmar que",
+      "alternativas": {
+        "a": "a frase está corretamente pontuada e dispensa qualquer outro sinal.",
+        "b": "o uso de ponto e vírgula entre os itens da enumeração tornaria o texto mais claro, já que cada item já contém vírgulas internas: 'relevância do projeto, que envolve impacto social; custo de implementação, que inclui recursos humanos e materiais; e prazo de execução.'",
+        "c": "todas as vírgulas da frase deveriam ser substituídas por travessões.",
+        "d": "a enumeração deveria ser escrita sem qualquer sinal de pontuação entre os itens."
+      },
+      "resposta": "b",
+      "explicacao": "Quando os itens de uma enumeração já contêm vírgulas internas, o ponto e vírgula é empregado para separar os itens com mais clareza, evitando ambiguidade na leitura."
+    },
+    {
+      "id": "gramatica-31",
+      "texto_apoio": "\"Foi encontrado, no sítio arqueológico, vestígios de uma civilização até então desconhecida pelos pesquisadores.\"",
+      "enunciado": "Sobre a concordância verbal na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está correta, pois o verbo 'foi encontrado' deve permanecer sempre no singular, independentemente do sujeito.",
+        "b": "está incorreta; como 'vestígios' é o sujeito da oração na voz passiva, o verbo deveria concordar no plural: 'foram encontrados vestígios'.",
+        "c": "está incorreta porque falta a preposição 'de' antes de 'vestígios'.",
+        "d": "está correta porque 'sítio arqueológico' é o sujeito da oração."
+      },
+      "resposta": "b",
+      "explicacao": "Na voz passiva, o verbo concorda com o sujeito paciente; como 'vestígios' está no plural, o correto é 'foram encontrados vestígios'."
+    },
+    {
+      "id": "gramatica-32",
+      "texto_apoio": "\"Me chamaram para participar da comissão organizadora do evento.\"",
+      "enunciado": "Sobre a colocação pronominal no início da frase, é correto afirmar que, na norma culta escrita formal,",
+      "alternativas": {
+        "a": "a próclise no início absoluto do período é sempre recomendada, tornando a frase adequada.",
+        "b": "a norma culta formal evita iniciar o período com pronome oblíquo átono; o mais adequado seria 'Chamaram-me para participar...'.",
+        "c": "o pronome 'me' deveria ser substituído por 'mim' no início da frase.",
+        "d": "a frase está correta e não admite nenhuma reformulação."
+      },
+      "resposta": "b",
+      "explicacao": "Embora comum na fala, iniciar o período com pronome oblíquo átono é evitado na norma culta escrita formal, que recomenda a ênclise nesse contexto: 'Chamaram-me'."
+    },
+    {
+      "id": "gramatica-33",
+      "texto_apoio": "\"Se não estudarmos com regularidade, dificilmente teremos outra alternativa senão repetir o ano letivo.\"",
+      "enunciado": "Sobre o emprego de 'se não' e 'senão' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "ambos os empregos estão corretos: 'se não' introduz oração condicional negativa, e 'senão' equivale a 'a não ser' ou 'do contrário'.",
+        "b": "'se não' deveria ser escrito junto, como 'senão', pois têm o mesmo significado.",
+        "c": "'senão' deveria ser escrito separado, como 'se não', pois introduz condição.",
+        "d": "nenhuma das formas está de acordo com a norma culta."
+      },
+      "resposta": "a",
+      "explicacao": "'Se não' (separado) introduz oração condicional com negação ('se não estudarmos'), enquanto 'senão' (junto) equivale a 'a não ser' ou 'caso contrário', como em 'alternativa senão repetir o ano'."
+    },
+    {
+      "id": "gramatica-34",
+      "texto_apoio": "\"As candidatas ficaram bastante confiantes após a prova, embora estivessem meia inseguras com os resultados finais.\"",
+      "enunciado": "Sobre a concordância nominal na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "'bastante' e 'meia' estão corretamente flexionados, pois concordam com 'candidatas'.",
+        "b": "'bastante' está correto, pois funciona como advérbio e é invariável; 'meia', porém, deveria ser 'meio', também invariável nesse uso adverbial: 'meio inseguras'.",
+        "c": "'meia' está correto, pois sempre concorda com o substantivo mais próximo.",
+        "d": "ambas as palavras deveriam ficar no singular masculino em qualquer contexto."
+      },
+      "resposta": "b",
+      "explicacao": "Quando modifica adjetivo, 'meio' funciona como advérbio e é invariável ('meio inseguras', não 'meia inseguras'); 'bastante', com valor de advérbio (equivalente a 'muito'), também permanece invariável."
+    },
+    {
+      "id": "gramatica-35",
+      "texto_apoio": "\"Machado de Assis o maior escritor da literatura brasileira nasceu no Rio de Janeiro em 1839.\"",
+      "enunciado": "Sobre a pontuação da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "a frase está corretamente pontuada, pois apostos explicativos dispensam qualquer sinal de pontuação.",
+        "b": "o aposto explicativo 'o maior escritor da literatura brasileira' deveria vir isolado por vírgulas: 'Machado de Assis, o maior escritor da literatura brasileira, nasceu...'.",
+        "c": "deveria haver apenas um ponto de exclamação após 'brasileira'.",
+        "d": "o aposto deveria ser eliminado da frase, pois é sempre desnecessário."
+      },
+      "resposta": "b",
+      "explicacao": "Apostos explicativos devem ser isolados por vírgulas (ou travessões/parênteses), já que introduzem uma informação adicional sobre o termo anterior, mas não são exigidos sintaticamente pela oração."
+    },
+    {
+      "id": "gramatica-36",
+      "texto_apoio": "\"A escola informou os pais do novo calendário de provas, mas alguns alunos não foram informados sobre a mudança.\"",
+      "enunciado": "Sobre a regência do verbo 'informar' no texto, é correto afirmar que",
+      "alternativas": {
+        "a": "apenas uma das construções está de acordo com a norma culta, sendo a outra um erro grave.",
+        "b": "o verbo 'informar' admite duas construções regulares na norma culta: 'informar alguém de/sobre algo' e 'informar algo a alguém', ambas empregadas corretamente no texto.",
+        "c": "o verbo 'informar' nunca admite dois complementos na mesma oração.",
+        "d": "a regência do verbo 'informar' é sempre idêntica à do verbo 'avisar'."
+      },
+      "resposta": "b",
+      "explicacao": "O verbo 'informar' é bitransitivo e admite duas regências equivalentes: 'informar alguém de/sobre algo' e 'informar algo a alguém', ambas corretas e presentes no texto, com o objeto direto e indireto alternando de posição."
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subtopic": "atualidades-politica",
+  "questoes": [
+    {
+      "id": "atualidades-politica-01",
+      "texto_apoio": "No Brasil, o Poder Executivo raramente conta com maioria própria no Congresso Nacional, o que leva à formação de alianças entre partidos heterogêneos para viabilizar a governabilidade.",
+      "enunciado": "Esse arranjo institucional, no qual o presidente da República precisa negociar apoio parlamentar distribuindo cargos e recursos entre diferentes partidos para aprovar sua agenda, é conhecido como:",
+      "alternativas": {
+        "a": "parlamentarismo dualista",
+        "b": "presidencialismo de coalizão",
+        "c": "federalismo cooperativo",
+        "d": "bipartidarismo moderado"
+      },
+      "resposta": "b",
+      "explicacao": "O presidencialismo de coalizão descreve a necessidade estrutural de o Executivo brasileiro, eleito separadamente do Legislativo em um sistema multipartidário, construir maiorias parlamentares por meio de alianças, cargos e negociações, dada a baixa probabilidade de o partido do presidente ter maioria própria."
+    },
+    {
+      "id": "atualidades-politica-02",
+      "texto_apoio": "Para a Câmara dos Deputados, os eleitores votam em candidatos individuais (ou na legenda do partido), e as vagas são distribuídas proporcionalmente aos votos obtidos por cada partido ou coligação/federação.",
+      "enunciado": "Uma consequência estrutural mais associada a esse sistema eleitoral é:",
+      "alternativas": {
+        "a": "redução do número de partidos representados no parlamento",
+        "b": "fortalecimento automático da fidelidade partidária",
+        "c": "fragmentação partidária e enfraquecimento da disciplina de legenda",
+        "d": "eliminação do personalismo político nas campanhas"
+      },
+      "resposta": "c",
+      "explicacao": "O sistema proporcional de lista aberta tende a estimular a multiplicação de partidos e a competição entre candidatos da mesma legenda, favorecendo o personalismo eleitoral e dificultando a coesão e a disciplina partidária no momento das votações."
+    },
+    {
+      "id": "atualidades-politica-03",
+      "texto_apoio": "",
+      "enunciado": "O mecanismo pelo qual cada um dos três Poderes da República possui instrumentos para limitar eventuais excessos dos demais — como o veto presidencial, a derrubada de veto pelo Congresso e o controle de constitucionalidade pelo Judiciário — é chamado de:",
+      "alternativas": {
+        "a": "separação absoluta de funções",
+        "b": "sistema de freios e contrapesos",
+        "c": "hierarquia institucional",
+        "d": "unidade de comando"
+      },
+      "resposta": "b",
+      "explicacao": "O sistema de freios e contrapesos (checks and balances) garante que Executivo, Legislativo e Judiciário, embora independentes, possam fiscalizar e limitar uns aos outros, evitando a concentração e o abuso de poder."
+    },
+    {
+      "id": "atualidades-politica-04",
+      "texto_apoio": "Nas últimas décadas, tem crescido no Brasil o número de temas de grande repercussão política e social — como políticas públicas e disputas entre Poderes — decididos pelo Supremo Tribunal Federal.",
+      "enunciado": "Esse fenômeno, em que o Judiciário passa a decidir sobre questões tradicionalmente resolvidas pelos Poderes eleitos, é denominado:",
+      "alternativas": {
+        "a": "ativismo eleitoral",
+        "b": "judicialização da política",
+        "c": "desconcentração normativa",
+        "d": "plebiscito indireto"
+      },
+      "resposta": "b",
+      "explicacao": "A judicialização da política ocorre quando conflitos de natureza política, econômica ou social passam a ser decididos pelo Poder Judiciário, muitas vezes em razão de omissões do Legislativo/Executivo ou da ampla legitimação para propor ações de controle de constitucionalidade."
+    },
+    {
+      "id": "atualidades-politica-05",
+      "texto_apoio": "Desde 2021, o Brasil possui lei que estabelece mandatos fixos e não coincidentes para a diretoria do Banco Central, desvinculando-a do mandato do presidente da República.",
+      "enunciado": "O principal objetivo desse tipo de arranjo institucional é:",
+      "alternativas": {
+        "a": "aumentar o controle direto do Ministério da Fazenda sobre a emissão de moeda",
+        "b": "reduzir a interferência político-eleitoral nas decisões de política monetária, dando previsibilidade ao regime de metas",
+        "c": "eliminar a necessidade de metas de inflação",
+        "d": "subordinar a política monetária às decisões do Congresso a cada novo governo"
+      },
+      "resposta": "b",
+      "explicacao": "A autonomia do Banco Central busca blindar as decisões de política monetária (como a definição da taxa de juros) de pressões de curto prazo ligadas ao calendário eleitoral, favorecendo a credibilidade do regime de metas de inflação e a previsibilidade econômica."
+    },
+    {
+      "id": "atualidades-politica-06",
+      "texto_apoio": "Quando a inflação projetada supera a meta estabelecida, o Comitê de Política Monetária (Copom) costuma elevar a taxa básica de juros.",
+      "enunciado": "O principal canal pelo qual essa elevação tende a conter a inflação é:",
+      "alternativas": {
+        "a": "aumento direto da oferta de bens importados",
+        "b": "encarecimento do crédito, desestimulando consumo e investimento e reduzindo a demanda agregada",
+        "c": "elevação automática dos salários mínimos",
+        "d": "redução imediata dos preços administrados por decreto"
+      },
+      "resposta": "b",
+      "explicacao": "Ao elevar a Selic, o Banco Central encarece o crédito e torna mais atrativa a poupança, desestimulando consumo e investimento. Essa contração da demanda agregada tende a reduzir as pressões inflacionárias ao longo do tempo."
+    },
+    {
+      "id": "atualidades-politica-07",
+      "texto_apoio": "Regras fiscais, como limites de crescimento de despesas atrelados à variação da receita, buscam disciplinar o comportamento do gasto público ano após ano.",
+      "enunciado": "O principal objetivo de regras desse tipo é:",
+      "alternativas": {
+        "a": "garantir reeleição de governantes",
+        "b": "assegurar a sustentabilidade da dívida pública no médio e longo prazo, ancorando expectativas",
+        "c": "eliminar completamente a necessidade de arrecadação tributária",
+        "d": "transferir a política fiscal ao Poder Judiciário"
+      },
+      "resposta": "b",
+      "explicacao": "Regras fiscais buscam impedir o crescimento descontrolado dos gastos públicos em relação à arrecadação, contribuindo para a trajetória sustentável da dívida pública e para a credibilidade da política econômica perante investidores."
+    },
+    {
+      "id": "atualidades-politica-08",
+      "texto_apoio": "",
+      "enunciado": "A diferença entre resultado primário e resultado nominal das contas públicas está em que o resultado nominal:",
+      "alternativas": {
+        "a": "exclui todas as receitas tributárias",
+        "b": "inclui o pagamento de juros da dívida pública, enquanto o primário não considera essa despesa",
+        "c": "é calculado apenas para estados e municípios",
+        "d": "refere-se exclusivamente às contas do setor externo"
+      },
+      "resposta": "b",
+      "explicacao": "O resultado primário mede a diferença entre receitas e despesas do governo excluindo os juros da dívida; o resultado nominal soma a esse cálculo o pagamento de juros, refletindo o impacto total do endividamento sobre as contas públicas."
+    },
+    {
+      "id": "atualidades-politica-09",
+      "texto_apoio": "Um dos problemas historicamente apontados no sistema tributário brasileiro sobre bens e serviços é a existência de múltiplos tributos (federais, estaduais e municipais) com regras distintas, gerando cumulatividade e disputas entre entes federativos.",
+      "enunciado": "Propostas de reforma tributária que unificam tributos sobre consumo em um imposto sobre valor agregado (IVA) do tipo dual têm como principal objetivo declarado:",
+      "alternativas": {
+        "a": "aumentar a carga tributária total sobre as empresas",
+        "b": "simplificar a cobrança, reduzir a cumulatividade e a guerra fiscal entre estados",
+        "c": "extinguir a tributação sobre o consumo",
+        "d": "transferir toda a arrecadação para a União, eliminando estados e municípios do pacto federativo"
+      },
+      "resposta": "b",
+      "explicacao": "A unificação de tributos sobre consumo em um IVA busca simplificar o sistema, reduzir a cumulatividade (tributação em cascata) e diminuir a chamada guerra fiscal, em que entes federativos concedem benefícios para atrair investimentos."
+    },
+    {
+      "id": "atualidades-politica-10",
+      "texto_apoio": "Propostas de reforma administrativa costumam discutir a flexibilização da estabilidade de servidores públicos e a introdução de mecanismos de avaliação de desempenho.",
+      "enunciado": "Um dos principais argumentos favoráveis a esse tipo de reforma é:",
+      "alternativas": {
+        "a": "reduzir a eficiência do serviço público",
+        "b": "aumentar a rigidez das carreiras públicas",
+        "c": "melhorar a eficiência e a meritocracia na administração pública, vinculando permanência a desempenho",
+        "d": "extinguir concursos públicos como forma de ingresso no serviço público"
+      },
+      "resposta": "c",
+      "explicacao": "Defensores da reforma administrativa argumentam que a flexibilização de regras rígidas de estabilidade, associada à avaliação de desempenho, pode aumentar a eficiência, a meritocracia e a capacidade de resposta do setor público."
+    },
+    {
+      "id": "atualidades-politica-11",
+      "texto_apoio": "O envelhecimento populacional, decorrente do aumento da expectativa de vida combinado à queda da taxa de fecundidade, eleva a razão entre aposentados e trabalhadores ativos contribuindo para o sistema.",
+      "enunciado": "Esse fenômeno demográfico é frequentemente apontado como justificativa central para:",
+      "alternativas": {
+        "a": "a redução da idade mínima de aposentadoria",
+        "b": "reformas que buscam reequilibrar atuarialmente os sistemas previdenciários, como o aumento da idade mínima",
+        "c": "a eliminação de qualquer sistema público de aposentadoria",
+        "d": "o aumento do número de contribuintes informais"
+      },
+      "resposta": "b",
+      "explicacao": "Com o envelhecimento populacional, menos trabalhadores ativos sustentam um número crescente de aposentados, pressionando o equilíbrio financeiro do sistema previdenciário e motivando reformas como o aumento da idade mínima de aposentadoria."
+    },
+    {
+      "id": "atualidades-politica-12",
+      "texto_apoio": "",
+      "enunciado": "No regime de repartição simples, previdenciário, a lógica de financiamento é:",
+      "alternativas": {
+        "a": "cada trabalhador acumula recursos em conta individual para a própria aposentadoria futura",
+        "b": "as contribuições dos trabalhadores ativos financiam diretamente os benefícios dos atuais aposentados, em um pacto entre gerações",
+        "c": "o Estado não participa do financiamento das aposentadorias",
+        "d": "apenas trabalhadores do setor privado podem contribuir"
+      },
+      "resposta": "b",
+      "explicacao": "No regime de repartição, as contribuições da geração economicamente ativa financiam, no mesmo período, os benefícios da geração já aposentada — diferentemente do regime de capitalização, em que cada indivíduo acumula recursos em conta própria."
+    },
+    {
+      "id": "atualidades-politica-13",
+      "texto_apoio": "O coeficiente de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima) e é um dos indicadores mais utilizados para medir a distribuição de renda em um país.",
+      "enunciado": "Um país que reduz seu coeficiente de Gini ao longo de uma década, mantendo o crescimento da renda média, está indicando que:",
+      "alternativas": {
+        "a": "a renda está cada vez mais concentrada nos estratos mais ricos da população",
+        "b": "a distribuição de renda entre os indivíduos tornou-se mais igualitária",
+        "c": "a pobreza extrema necessariamente desapareceu",
+        "d": "o país deixou de ter qualquer desigualdade social"
+      },
+      "resposta": "b",
+      "explicacao": "Uma redução do coeficiente de Gini indica que a distribuição de renda se tornou relativamente mais igualitária, ainda que isso não implique, isoladamente, o desaparecimento da pobreza ou de outras formas de desigualdade."
+    },
+    {
+      "id": "atualidades-politica-14",
+      "texto_apoio": "Em sociedades com baixa mobilidade social intergeracional, a renda e a escolaridade dos pais tendem a explicar fortemente a renda e a escolaridade alcançadas pelos filhos na vida adulta.",
+      "enunciado": "O investimento em educação básica de qualidade e universal é frequentemente apontado por economistas como estratégia relevante para:",
+      "alternativas": {
+        "a": "aumentar a transmissão intergeracional de desigualdade",
+        "b": "reduzir a mobilidade social ascendente",
+        "c": "ampliar a mobilidade social, diminuindo o peso da origem familiar sobre as oportunidades futuras",
+        "d": "eliminar completamente a necessidade de políticas fiscais redistributivas"
+      },
+      "resposta": "c",
+      "explicacao": "Educação de qualidade e acessível é considerada um dos principais mecanismos para romper ciclos de desigualdade, ampliando oportunidades independentemente da origem socioeconômica da família e favorecendo a mobilidade social ascendente."
+    },
+    {
+      "id": "atualidades-politica-15",
+      "texto_apoio": "Trabalhadores informais atuam sem carteira assinada ou vínculo formal reconhecido, não contribuindo regularmente para a previdência nem tendo acesso a determinados direitos trabalhistas.",
+      "enunciado": "Um efeito estrutural comumente associado a taxas elevadas de informalidade no mercado de trabalho é:",
+      "alternativas": {
+        "a": "o fortalecimento do financiamento da previdência social",
+        "b": "a redução da proteção social dos trabalhadores e da arrecadação previdenciária",
+        "c": "o aumento automático da produtividade da economia",
+        "d": "a eliminação das desigualdades regionais"
+      },
+      "resposta": "b",
+      "explicacao": "A informalidade reduz o acesso dos trabalhadores a direitos trabalhistas e previdenciários, além de diminuir a base de arrecadação do sistema de seguridade social, pressionando seu financiamento no longo prazo."
+    },
+    {
+      "id": "atualidades-politica-16",
+      "texto_apoio": "Alterações na legislação trabalhista que ampliam a prevalência do negociado sobre o legislado e flexibilizam formas de contratação costumam gerar debate entre defensores de maior flexibilidade e defensores da manutenção de proteções mínimas uniformes.",
+      "enunciado": "Um argumento típico dos defensores da flexibilização das relações de trabalho é que ela tende a:",
+      "alternativas": {
+        "a": "reduzir o número total de postos de trabalho disponíveis na economia",
+        "b": "favorecer a geração de empregos e a adaptação das empresas a diferentes contextos econômicos",
+        "c": "aumentar automaticamente os salários de todos os trabalhadores",
+        "d": "eliminar a necessidade de qualquer legislação trabalhista"
+      },
+      "resposta": "b",
+      "explicacao": "Defensores da flexibilização argumentam que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais e permitindo que empresas ajustem sua força de trabalho a diferentes conjunturas econômicas."
+    },
+    {
+      "id": "atualidades-politica-17",
+      "texto_apoio": "Estados e municípios, no exercício de sua autonomia tributária, por vezes concedem benefícios fiscais para atrair empresas e investimentos para seus territórios.",
+      "enunciado": "Essa disputa entre entes federativos pela concessão de incentivos fiscais é conhecida como:",
+      "alternativas": {
+        "a": "pacto federativo cooperativo",
+        "b": "guerra fiscal",
+        "c": "partilha tributária progressiva",
+        "d": "unificação fazendária"
+      },
+      "resposta": "b",
+      "explicacao": "A guerra fiscal ocorre quando entes federativos competem entre si, concedendo benefícios e renúncias fiscais para atrair investimentos, o que pode gerar perda de arrecadação agregada e distorções na alocação de recursos."
+    },
+    {
+      "id": "atualidades-politica-18",
+      "texto_apoio": "Órgãos como Tribunais de Contas, Controladorias e Ministério Público exercem funções de fiscalização sobre o uso de recursos públicos, complementadas pela atuação da imprensa e da sociedade civil organizada.",
+      "enunciado": "O conjunto de mecanismos institucionais e sociais voltados a exigir prestação de contas e responsabilização dos agentes públicos é conhecido, na literatura sobre governança, como:",
+      "alternativas": {
+        "a": "accountability",
+        "b": "patrimonialismo",
+        "c": "clientelismo",
+        "d": "coronelismo"
+      },
+      "resposta": "a",
+      "explicacao": "Accountability refere-se ao conjunto de mecanismos de prestação de contas e responsabilização dos governantes e agentes públicos perante instituições de controle e a sociedade, sendo um pilar da governança democrática."
+    },
+    {
+      "id": "atualidades-politica-19",
+      "texto_apoio": "Uma parcela significativa da receita de estados e, sobretudo, de municípios brasileiros não provém de tributos arrecadados diretamente por esses entes, mas de repasses constitucionais calculados a partir da arrecadação de tributos federais, como o Fundo de Participação dos Estados (FPE) e o Fundo de Participação dos Municípios (FPM).",
+      "enunciado": "Essa forte dependência de muitos entes subnacionais em relação a transferências constitucionais da União é um traço do federalismo fiscal brasileiro que evidencia, sobretudo:",
+      "alternativas": {
+        "a": "a plena autonomia financeira de todos os municípios brasileiros, que dispensam qualquer repasse da União",
+        "b": "um desequilíbrio entre a capacidade de arrecadação própria e as responsabilidades de gasto atribuídas a estados e municípios",
+        "c": "a inexistência de qualquer competência tributária própria dos municípios",
+        "d": "a concentração de toda a arrecadação tributária nacional exclusivamente nos municípios"
+      },
+      "resposta": "b",
+      "explicacao": "O federalismo fiscal brasileiro é marcado por um desequilíbrio vertical entre a arrecadação tributária, concentrada principalmente na União, e as responsabilidades de prestação de serviços públicos, atribuídas também a estados e sobretudo a municípios, o que torna estes últimos fortemente dependentes de transferências constitucionais como o FPM."
+    },
+    {
+      "id": "atualidades-politica-20",
+      "texto_apoio": "No desenho federativo brasileiro, a União concentra a competência para instituir os tributos de maior capacidade arrecadatória, enquanto parte relevante das políticas de saúde, educação básica e assistência social é executada diretamente por estados e municípios.",
+      "enunciado": "Esse descompasso entre onde a arrecadação tributária se concentra e onde as despesas com serviços públicos efetivamente ocorrem é conhecido, na literatura sobre federalismo fiscal, como:",
+      "alternativas": {
+        "a": "equilíbrio automático de competências",
+        "b": "desequilíbrio fiscal vertical",
+        "c": "uniformidade tributária absoluta",
+        "d": "centralização plena de despesas"
+      },
+      "resposta": "b",
+      "explicacao": "O desequilíbrio fiscal vertical descreve a situação em que a distribuição de competências tributárias entre os níveis de governo não corresponde à distribuição das responsabilidades de gasto, exigindo mecanismos de transferências intergovernamentais para compensar a diferença."
+    },
+    {
+      "id": "atualidades-politica-21",
+      "texto_apoio": "Estados e municípios produtores de petróleo e outros recursos minerais recebem compensações financeiras pela exploração desses recursos em seus territórios, gerando disputas com entes não produtores sobre a distribuição desses valores.",
+      "enunciado": "Essa compensação financeira paga a entes federativos pela exploração de recursos naturais não renováveis em seu território é conhecida como:",
+      "alternativas": {
+        "a": "royalties",
+        "b": "fundo de participação",
+        "c": "superávit primário",
+        "d": "imposto seletivo"
+      },
+      "resposta": "a",
+      "explicacao": "Royalties são compensações financeiras devidas a estados e municípios (e à União) pela exploração de recursos naturais não renováveis, como petróleo e minérios, em seus territórios ou áreas de influência, sendo frequentemente objeto de disputa federativa quanto a seus critérios de distribuição."
+    },
+    {
+      "id": "atualidades-politica-22",
+      "texto_apoio": "Desde reformas eleitorais recentes, empresas estão proibidas de doar diretamente a campanhas eleitorais no Brasil, e parte relevante do financiamento das candidaturas passou a vir de recursos públicos distribuídos entre os partidos.",
+      "enunciado": "Essa mudança no modelo de financiamento eleitoral brasileiro teve como principal justificativa declarada:",
+      "alternativas": {
+        "a": "aumentar a influência do poder econômico privado sobre o resultado das eleições",
+        "b": "reduzir o peso do poder econômico empresarial nas campanhas e mitigar riscos de captura de candidatos por grandes doadores",
+        "c": "eliminar totalmente qualquer forma de financiamento público de partidos",
+        "d": "extinguir a necessidade de prestação de contas eleitorais"
+      },
+      "resposta": "b",
+      "explicacao": "A vedação às doações empresariais e a criação do fundo eleitoral público buscaram reduzir a influência do poder econômico privado sobre o processo eleitoral, mitigando riscos associados à captura de candidatos eleitos por grandes financiadores de campanha."
+    },
+    {
+      "id": "atualidades-politica-23",
+      "texto_apoio": "Após as eleições, candidatos e partidos são obrigados a apresentar à Justiça Eleitoral relatórios detalhados sobre a origem e a destinação dos recursos utilizados em campanha.",
+      "enunciado": "A principal finalidade dessa exigência de prestação de contas eleitorais é:",
+      "alternativas": {
+        "a": "aumentar o sigilo sobre a origem dos recursos de campanha",
+        "b": "conferir transparência ao financiamento eleitoral e permitir a fiscalização de eventuais irregularidades ou abusos de poder econômico",
+        "c": "impedir que qualquer candidato utilize recursos próprios na campanha",
+        "d": "substituir a necessidade de registro de candidatura"
+      },
+      "resposta": "b",
+      "explicacao": "A prestação de contas eleitorais visa a dar transparência à origem e ao uso dos recursos de campanha, permitindo à Justiça Eleitoral fiscalizar eventuais irregularidades, abusos de poder econômico e o cumprimento dos limites e vedações legais ao financiamento eleitoral."
+    },
+    {
+      "id": "atualidades-politica-24",
+      "texto_apoio": "No sistema brasileiro de controle de constitucionalidade, qualquer juiz ou tribunal pode, ao julgar um caso concreto, deixar de aplicar uma lei por considerá-la inconstitucional; paralelamente, o Supremo Tribunal Federal pode julgar ações diretas que questionam a constitucionalidade de uma norma em tese, independentemente de caso concreto.",
+      "enunciado": "Esses dois mecanismos, que coexistem no direito brasileiro, são respectivamente denominados controle:",
+      "alternativas": {
+        "a": "difuso e concentrado de constitucionalidade",
+        "b": "preventivo e repressivo de legalidade",
+        "c": "concentrado e federativo de competência",
+        "d": "político e jurisdicional de convencionalidade"
+      },
+      "resposta": "a",
+      "explicacao": "O controle difuso de constitucionalidade permite que qualquer juiz, no julgamento de um caso concreto, deixe de aplicar norma que considere inconstitucional, com efeitos em regra restritos às partes; já o controle concentrado é exercido pelo STF sobre a norma em tese, por meio de ações específicas, podendo ter efeitos gerais (erga omnes)."
+    },
+    {
+      "id": "atualidades-politica-25",
+      "texto_apoio": "Determinado instrumento processual permite que o Supremo Tribunal Federal edite enunciados que devem ser obrigatoriamente observados pelos demais órgãos do Judiciário e pela administração pública direta e indireta, após reiteradas decisões sobre matéria constitucional.",
+      "enunciado": "Esse instrumento, criado para uniformizar a jurisprudência e reduzir a litigiosidade repetitiva, é conhecido como:",
+      "alternativas": {
+        "a": "medida cautelar",
+        "b": "súmula vinculante",
+        "c": "mandado de injunção",
+        "d": "ação civil pública"
+      },
+      "resposta": "b",
+      "explicacao": "A súmula vinculante é editada pelo STF após reiteradas decisões sobre matéria constitucional e deve ser observada pelos demais órgãos do Judiciário e pela administração pública, com o objetivo de uniformizar a jurisprudência e reduzir o volume de processos repetitivos sobre a mesma questão."
+    },
+    {
+      "id": "atualidades-politica-26",
+      "texto_apoio": "Parte significativa da população não possui condições financeiras de arcar com os custos de um processo judicial ou de contratar advogado particular para defender seus direitos.",
+      "enunciado": "A instituição prevista constitucionalmente para prestar assistência jurídica integral e gratuita a essa parcela da população é:",
+      "alternativas": {
+        "a": "o Ministério Público",
+        "b": "a Defensoria Pública",
+        "c": "o Tribunal de Contas",
+        "d": "a Advocacia-Geral da União"
+      },
+      "resposta": "b",
+      "explicacao": "A Defensoria Pública é a instituição constitucionalmente incumbida de prestar assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, sendo instrumento essencial para ampliar o acesso à justiça de parcelas da população que não podem arcar com os custos de um processo."
+    },
+    {
+      "id": "atualidades-politica-27",
+      "texto_apoio": "Diversos programas de transferência condicionada de renda exigem, como contrapartida ao benefício financeiro, que as famílias beneficiárias mantenham crianças e adolescentes matriculados na escola e cumpram o calendário de vacinação e acompanhamento de saúde.",
+      "enunciado": "O principal objetivo dessas condicionalidades é:",
+      "alternativas": {
+        "a": "punir as famílias mais pobres por eventuais descumprimentos",
+        "b": "articular o alívio imediato da pobreza com investimentos em capital humano de longo prazo, como educação e saúde",
+        "c": "eliminar qualquer necessidade de frequência escolar",
+        "d": "restringir o benefício exclusivamente a famílias sem filhos"
+      },
+      "resposta": "b",
+      "explicacao": "As condicionalidades de programas de transferência de renda buscam combinar o alívio imediato da pobreza com o incentivo a investimentos em capital humano, como frequência escolar e acompanhamento de saúde, visando romper ciclos intergeracionais de pobreza no longo prazo."
+    },
+    {
+      "id": "atualidades-politica-28",
+      "texto_apoio": "Políticas sociais podem ser desenhadas para atender exclusivamente famílias identificadas como pobres por meio de critérios de renda, ou para atender toda a população, independentemente de sua condição econômica.",
+      "enunciado": "A opção por concentrar recursos limitados nas famílias em situação de maior vulnerabilidade, em vez de atender a totalidade da população, é característica de uma política social:",
+      "alternativas": {
+        "a": "universalista",
+        "b": "focalizada",
+        "c": "contributiva",
+        "d": "regressiva por definição"
+      },
+      "resposta": "b",
+      "explicacao": "Políticas focalizadas concentram recursos limitados nos grupos identificados como mais vulneráveis por meio de critérios específicos, como renda familiar, em contraste com políticas universalistas, que atendem toda a população independentemente de sua condição socioeconômica."
+    },
+    {
+      "id": "atualidades-politica-29",
+      "texto_apoio": "Setores como telecomunicações, energia elétrica e saúde suplementar são supervisionados por entidades da administração pública indireta, dirigidas por colegiados com mandatos fixos e não coincidentes com o mandato do chefe do Executivo.",
+      "enunciado": "Esse desenho institucional, que busca isolar decisões técnicas e regulatórias de pressões político-eleitorais de curto prazo, caracteriza:",
+      "alternativas": {
+        "a": "empresas estatais dependentes diretamente do Ministério da Fazenda",
+        "b": "agências reguladoras dotadas de autonomia técnica e administrativa",
+        "c": "órgãos exclusivamente consultivos, sem poder normativo",
+        "d": "tribunais administrativos com competência jurisdicional plena"
+      },
+      "resposta": "b",
+      "explicacao": "As agências reguladoras são autarquias especiais dotadas de autonomia técnica, administrativa e, em geral, mandatos fixos para seus dirigentes, desenhadas para isolar decisões regulatórias setoriais de ingerências político-eleitorais de curto prazo e conferir maior previsibilidade e segurança jurídica ao setor regulado."
+    },
+    {
+      "id": "atualidades-politica-30",
+      "texto_apoio": "Antes de se concretizar, fusões e aquisições entre grandes empresas que atuam em um mesmo mercado podem ser submetidas à análise de um órgão responsável por avaliar seus efeitos sobre a concorrência.",
+      "enunciado": "No Brasil, o órgão responsável por essa análise e por reprimir práticas como cartéis e abuso de posição dominante é:",
+      "alternativas": {
+        "a": "o Conselho Administrativo de Defesa Econômica (CADE)",
+        "b": "o Banco Central do Brasil",
+        "c": "a Receita Federal",
+        "d": "o Tribunal de Contas da União"
+      },
+      "resposta": "a",
+      "explicacao": "O CADE é a autarquia responsável, no Brasil, por zelar pela livre concorrência, analisando atos de concentração econômica (como fusões e aquisições) e reprimindo condutas anticompetitivas, como formação de cartéis e abuso de posição dominante no mercado."
+    },
+    {
+      "id": "atualidades-politica-31",
+      "texto_apoio": "Determinado modelo de organização administrativa caracteriza-se pela impessoalidade, pela hierarquia formal, pela existência de normas escritas e pelo ingresso e promoção baseados em critérios técnicos, e não em vínculos pessoais.",
+      "enunciado": "Esse modelo de administração, formulado pelo sociólogo Max Weber, é conhecido como:",
+      "alternativas": {
+        "a": "patrimonialismo",
+        "b": "burocracia racional-legal",
+        "c": "clientelismo",
+        "d": "gestão carismática"
+      },
+      "resposta": "b",
+      "explicacao": "A burocracia racional-legal, conceito formulado por Max Weber, caracteriza-se pela impessoalidade, hierarquia formal, normas escritas e critérios técnicos de ingresso e promoção, contrapondo-se a formas de dominação tradicionais ou carismáticas, baseadas em vínculos pessoais ou na figura de uma liderança específica."
+    },
+    {
+      "id": "atualidades-politica-32",
+      "texto_apoio": "Em determinadas tradições de administração pública, a distinção entre o patrimônio pessoal do governante e o patrimônio público é pouco nítida, e cargos e recursos estatais podem ser tratados como extensão de relações pessoais de confiança.",
+      "enunciado": "Essa confusão entre a esfera pública e a esfera privada na gestão do Estado é característica de um traço histórico da administração pública denominado:",
+      "alternativas": {
+        "a": "burocracia racional-legal",
+        "b": "patrimonialismo",
+        "c": "meritocracia plena",
+        "d": "accountability vertical"
+      },
+      "resposta": "b",
+      "explicacao": "O patrimonialismo refere-se a uma tradição de administração pública em que a distinção entre patrimônio público e privado é pouco nítida, favorecendo relações pessoais, cargos distribuídos por critérios de confiança e não de mérito, em contraste com o modelo de burocracia racional-legal."
+    },
+    {
+      "id": "atualidades-politica-33",
+      "texto_apoio": "Em situações de relevância e urgência, o presidente da República pode editar normas com força de lei, que produzem efeitos imediatos, mas precisam ser posteriormente apreciadas pelo Congresso Nacional, sob pena de perderem eficácia.",
+      "enunciado": "Esse instrumento normativo de competência do Poder Executivo é conhecido como:",
+      "alternativas": {
+        "a": "decreto autônomo",
+        "b": "medida provisória",
+        "c": "lei delegada permanente",
+        "d": "emenda constitucional de iniciativa exclusiva"
+      },
+      "resposta": "b",
+      "explicacao": "A medida provisória permite ao Executivo editar normas com força de lei em casos de relevância e urgência, produzindo efeitos imediatos, mas sujeitas à apreciação do Congresso Nacional dentro de prazo constitucional, sob pena de perda de eficácia caso não sejam convertidas em lei."
+    },
+    {
+      "id": "atualidades-politica-34",
+      "texto_apoio": "Parlamentares individuais e bancadas estaduais podem destinar parte dos recursos do orçamento federal a projetos e políticas específicas de seu interesse ou de suas bases eleitorais, sendo essa destinação, em determinadas modalidades, de execução obrigatória pelo Executivo.",
+      "enunciado": "O fortalecimento desse mecanismo de execução obrigatória de emendas parlamentares tende a, sobretudo:",
+      "alternativas": {
+        "a": "reduzir a capacidade de barganha do Legislativo em relação ao Executivo",
+        "b": "ampliar o poder do Legislativo sobre a execução orçamentária, em contrapartida à discricionariedade tradicionalmente concentrada no Executivo",
+        "c": "eliminar qualquer influência de parlamentares sobre o orçamento público",
+        "d": "transferir integralmente a competência orçamentária ao Judiciário"
+      },
+      "resposta": "b",
+      "explicacao": "O caráter impositivo de determinadas emendas parlamentares amplia o poder do Congresso sobre a execução do orçamento público, reduzindo a discricionariedade que tradicionalmente concentrava essa decisão nas mãos do Poder Executivo, o que reconfigura a relação entre os dois Poderes."
+    },
+    {
+      "id": "atualidades-politica-35",
+      "texto_apoio": "Em determinadas negociações políticas, o apoio de um partido a projetos do governo é condicionado, sobretudo, à obtenção de cargos, verbas ou benefícios específicos para seus membros ou suas bases eleitorais, mais do que a uma convergência programática.",
+      "enunciado": "Essa lógica de barganha política baseada primordialmente na troca de apoio por benefícios específicos, em detrimento de afinidades ideológicas ou programáticas, é frequentemente descrita como:",
+      "alternativas": {
+        "a": "parlamentarismo racionalizado",
+        "b": "fisiologismo",
+        "c": "bipartidarismo programático",
+        "d": "presidencialismo minoritário"
+      },
+      "resposta": "b",
+      "explicacao": "O fisiologismo caracteriza-se pela troca de apoio político por benefícios concretos — como cargos, verbas ou emendas —, em detrimento de convergências ideológicas ou programáticas, sendo um traço frequentemente apontado nas negociações que sustentam coalizões no presidencialismo de coalizão brasileiro."
+    },
+    {
+      "id": "atualidades-politica-36",
+      "texto_apoio": "Regras eleitorais recentes estabeleceram um patamar mínimo de votos e de representação parlamentar que os partidos precisam atingir para ter acesso pleno a recursos do fundo partidário e a tempo de propaganda no rádio e na televisão.",
+      "enunciado": "Essa exigência, conhecida como cláusula de desempenho (ou cláusula de barreira), tem como principal objetivo declarado:",
+      "alternativas": {
+        "a": "aumentar indefinidamente o número de partidos com acesso a recursos públicos",
+        "b": "reduzir a fragmentação partidária excessiva, estimulando a organização de legendas mais consistentes",
+        "c": "extinguir por completo o sistema pluripartidário brasileiro",
+        "d": "eliminar qualquer financiamento público a partidos políticos"
+      },
+      "resposta": "b",
+      "explicacao": "A cláusula de desempenho busca reduzir a fragmentação partidária excessiva, condicionando o acesso pleno a recursos do fundo partidário e ao tempo de propaganda eleitoral gratuita ao atingimento de patamares mínimos de votos e representação, estimulando a formação de partidos mais consistentes."
+    }
+  ]
+}

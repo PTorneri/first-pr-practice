@@ -1,0 +1,473 @@
+{
+  "subtopic": "ingles",
+  "questoes": [
+    {
+      "id": "ingles-01",
+      "texto_apoio": "Cities around the world are testing 'vertical forests', buildings covered with thousands of trees and plants growing on their balconies. Supporters claim these structures absorb carbon dioxide, reduce urban heat, and provide habitats for birds and insects. Critics, however, point out that maintaining so much vegetation requires large amounts of water and constant care, which can be costly for building owners.",
+      "enunciado": "De acordo com o texto, qual é a principal crítica feita aos 'vertical forests'?",
+      "alternativas": {
+        "a": "Eles não conseguem absorver dióxido de carbono de forma eficaz.",
+        "b": "Sua manutenção exige muita água e cuidado constante, o que gera custos elevados.",
+        "c": "Eles aumentam o calor urbano em vez de reduzi-lo.",
+        "d": "Eles afastam pássaros e insetos das áreas urbanas."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma que os críticos apontam a necessidade de grandes quantidades de água e cuidado constante como o principal problema, o que pode ser custoso para os proprietários dos edifícios."
+    },
+    {
+      "id": "ingles-02",
+      "texto_apoio": "Many people assume that the English word 'actually' means the same as the Portuguese word 'atualmente'. In fact, 'actually' means 'in fact' or 'in truth', while 'atualmente' corresponds to the English word 'currently' or 'nowadays'. This mismatch is a classic example of what linguists call false cognates.",
+      "enunciado": "Segundo o texto, qual é o problema relacionado às palavras 'actually' e 'atualmente'?",
+      "alternativas": {
+        "a": "As duas palavras têm exatamente o mesmo significado em inglês e português.",
+        "b": "Elas são grafadas de forma idêntica, mas nenhuma delas tem significado definido.",
+        "c": "Apesar da semelhança gráfica e sonora, seus significados são diferentes, o que caracteriza um falso cognato.",
+        "d": "'Actually' não existe na língua inglesa e é um erro comum de tradução."
+      },
+      "resposta": "c",
+      "explicacao": "O texto explica que, apesar da aparência semelhante, 'actually' significa 'de fato/na verdade', enquanto 'atualmente' corresponde a 'currently'/'nowadays' em inglês, exemplificando o fenômeno dos falsos cognatos."
+    },
+    {
+      "id": "ingles-03",
+      "texto_apoio": "A recent survey found that nearly 60% of remote workers report feeling more productive at home than in a traditional office. However, the same survey revealed that many of these workers also experience greater difficulty separating their professional and personal lives, often checking emails late at night or during weekends.",
+      "enunciado": "Qual é a ideia central expressa pelo texto?",
+      "alternativas": {
+        "a": "O trabalho remoto é unanimemente considerado prejudicial pelos trabalhadores.",
+        "b": "O trabalho remoto aumenta a produtividade, mas dificulta a separação entre vida profissional e pessoal.",
+        "c": "A pesquisa não encontrou nenhuma vantagem no trabalho remoto.",
+        "d": "Os trabalhadores remotos nunca verificam e-mails fora do horário comercial."
+      },
+      "resposta": "b",
+      "explicacao": "O texto apresenta dois aspectos: o ganho de produtividade percebido por parte dos trabalhadores remotos e, ao mesmo tempo, a dificuldade em separar vida pessoal e profissional, revelada pela mesma pesquisa."
+    },
+    {
+      "id": "ingles-04",
+      "texto_apoio": "The word 'library' in English does not mean 'livraria', as many Portuguese speakers mistakenly assume. A library is a place where books can be borrowed for free, usually maintained by a school, university, or the government. The word for a place where books are sold, as in Portuguese 'livraria', is 'bookstore' in English.",
+      "enunciado": "Qual é a diferença de significado apontada no texto entre 'library' e 'livraria'?",
+      "alternativas": {
+        "a": "'Library' significa um lugar onde se compram livros, assim como 'livraria' em português.",
+        "b": "'Library' é uma biblioteca, onde livros são emprestados gratuitamente; 'livraria', em português, corresponde a 'bookstore' em inglês.",
+        "c": "As duas palavras são sinônimas e podem ser usadas de forma intercambiável em qualquer contexto.",
+        "d": "'Library' refere-se exclusivamente a bibliotecas particulares dentro de residências."
+      },
+      "resposta": "b",
+      "explicacao": "O texto esclarece que 'library' é uma biblioteca (empréstimo gratuito de livros), enquanto o equivalente em inglês para 'livraria' (loja de livros) é 'bookstore', configurando um caso clássico de falso cognato entre as duas línguas."
+    },
+    {
+      "id": "ingles-05",
+      "texto_apoio": "Ocean plastic pollution has become one of the most visible environmental crises of our time. Every year, millions of tons of plastic waste enter the oceans, harming marine life and entering the food chain. Some countries have banned single-use plastic bags, while others are investing in technology to collect floating debris directly from the sea.",
+      "enunciado": "De acordo com o texto, quais são as duas estratégias mencionadas para lidar com a poluição plástica nos oceanos?",
+      "alternativas": {
+        "a": "Proibir a pesca comercial e aumentar impostos sobre embarcações.",
+        "b": "Banir sacolas plásticas de uso único e investir em tecnologia para coletar detritos flutuantes.",
+        "c": "Construir novas fábricas de plástico e reduzir a fiscalização ambiental.",
+        "d": "Incentivar o consumo de plástico reciclado sem qualquer outra medida."
+      },
+      "resposta": "b",
+      "explicacao": "O texto menciona explicitamente duas estratégias: alguns países proibiram sacolas plásticas de uso único ('banned single-use plastic bags'), enquanto outros investem em tecnologia para coletar detritos do mar ('collect floating debris')."
+    },
+    {
+      "id": "ingles-06",
+      "texto_apoio": "In English, the adjective 'sensible' does not mean 'sensível' (sensitive), as many learners assume. 'Sensible' means reasonable or practical, as in 'a sensible decision'. The correct translation for the Portuguese word 'sensível' is 'sensitive'.",
+      "enunciado": "Qual é o significado correto da palavra 'sensible' em inglês, segundo o texto?",
+      "alternativas": {
+        "a": "Sensível, emocionalmente afetado por algo.",
+        "b": "Razoável, prático, ligado ao bom senso.",
+        "c": "Sensorial, relacionado aos cinco sentidos.",
+        "d": "Sensacional, extraordinário."
+      },
+      "resposta": "b",
+      "explicacao": "O texto define 'sensible' como sinônimo de 'reasonable' ou 'practical', ou seja, razoável ou prático, deixando claro que a tradução correta para 'sensível' em português é 'sensitive', e não 'sensible'."
+    },
+    {
+      "id": "ingles-07",
+      "texto_apoio": "Artificial intelligence tools are increasingly used in hiring processes, screening thousands of resumes in seconds. While companies praise the efficiency gains, researchers warn that these systems can reproduce biases present in the data used to train them, sometimes disadvantaging candidates from underrepresented groups.",
+      "enunciado": "Qual é o principal alerta feito pelos pesquisadores mencionados no texto?",
+      "alternativas": {
+        "a": "As ferramentas de inteligência artificial são sempre mais justas do que recrutadores humanos.",
+        "b": "Os sistemas de inteligência artificial podem reproduzir vieses presentes nos dados usados em seu treinamento.",
+        "c": "As empresas pararam de usar inteligência artificial em processos seletivos.",
+        "d": "A inteligência artificial elimina completamente qualquer forma de discriminação na contratação."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma que pesquisadores alertam sobre o risco de esses sistemas reproduzirem vieses presentes nos dados de treinamento, o que pode prejudicar candidatos de grupos sub-representados."
+    },
+    {
+      "id": "ingles-08",
+      "texto_apoio": "A common mistake among Portuguese speakers learning English is confusing 'pretend' with 'pretender' (to intend). In English, 'to pretend' means to fake or simulate something, as in 'she pretended to be asleep'. The correct verb for expressing intention, as in 'pretender fazer algo', is 'to intend'.",
+      "enunciado": "Segundo o texto, qual é o erro comum cometido por falantes de português ao usar a palavra 'pretend' em inglês?",
+      "alternativas": {
+        "a": "Usar 'pretend' no sentido de fingir, quando na verdade essa é a definição correta.",
+        "b": "Confundir 'pretend' (fingir) com o sentido de 'pretender' (ter a intenção de), que em inglês corresponde a 'intend'.",
+        "c": "Usar 'pretend' apenas em contextos formais, quando deveria ser informal.",
+        "d": "Acreditar que 'pretend' não existe na língua inglesa."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'pretend' significa fingir/simular, enquanto o verbo correspondente a 'pretender' (ter intenção) em inglês é 'intend', caracterizando um clássico falso cognato entre as duas línguas."
+    },
+    {
+      "id": "ingles-09",
+      "texto_apoio": "Electric vehicles are often marketed as a completely clean solution to transportation emissions. Yet, the environmental impact of mining lithium and cobalt for batteries, along with the carbon footprint of electricity generation in many countries, means that electric cars are not entirely emission-free when their full life cycle is considered.",
+      "enunciado": "Qual é o argumento central apresentado pelo texto em relação aos veículos elétricos?",
+      "alternativas": {
+        "a": "Os veículos elétricos são completamente livres de qualquer impacto ambiental.",
+        "b": "Apesar de reduzirem emissões diretas, os veículos elétricos ainda geram impacto ambiental quando se considera seu ciclo completo de produção e uso.",
+        "c": "A mineração de lítio e cobalto não tem qualquer relação com a fabricação de veículos elétricos.",
+        "d": "A geração de eletricidade nunca produz emissões de carbono, em nenhum país."
+      },
+      "resposta": "b",
+      "explicacao": "O texto relativiza a ideia de que carros elétricos são totalmente livres de emissões, apontando o impacto da mineração de lítio e cobalto e da geração de eletricidade como fatores que devem ser considerados no ciclo de vida completo do veículo."
+    },
+    {
+      "id": "ingles-10",
+      "texto_apoio": "In English, 'to attend' does not mean 'atender' (to answer or to assist). Instead, 'to attend' means to be present at an event, as in 'attend a meeting' or 'attend a class'. The verb closer to the Portuguese 'atender' is 'to answer' (a phone call) or 'to assist' (a customer).",
+      "enunciado": "Qual é o sentido correto do verbo 'to attend' em inglês, segundo o texto?",
+      "alternativas": {
+        "a": "Atender uma ligação telefônica.",
+        "b": "Assistir/comparecer a um evento, como uma reunião ou aula.",
+        "c": "Ajudar um cliente em uma loja.",
+        "d": "Responder a uma pergunta formal."
+      },
+      "resposta": "b",
+      "explicacao": "O texto deixa claro que 'to attend' significa comparecer ou estar presente em um evento (como uma reunião ou aula), e não 'atender', que em inglês corresponde a 'to answer' ou 'to assist', dependendo do contexto."
+    },
+    {
+      "id": "ingles-11",
+      "texto_apoio": "Urban gardens are gaining popularity in large cities as a response to rising food prices and growing interest in sustainability. Residents transform empty lots and rooftops into small farms, growing vegetables and herbs that are later shared among neighbors or sold at local markets, strengthening community ties in the process.",
+      "enunciado": "Segundo o texto, além de fornecer alimentos, qual é outro benefício dos jardins urbanos mencionado?",
+      "alternativas": {
+        "a": "Eles reduzem drasticamente o preço dos imóveis nas cidades.",
+        "b": "Eles fortalecem os laços comunitários entre os vizinhos.",
+        "c": "Eles eliminam completamente a necessidade de supermercados nas cidades.",
+        "d": "Eles substituem integralmente a agricultura tradicional em grande escala."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma explicitamente que o compartilhamento de alimentos entre vizinhos e a venda em mercados locais fortalecem os laços comunitários ('strengthening community ties'), além do benefício alimentar direto."
+    },
+    {
+      "id": "ingles-12",
+      "texto_apoio": "A frequent false cognate for Portuguese speakers is the word 'parents', which does not mean 'parentes' (relatives). In English, 'parents' refers specifically to one's mother and father. The word for 'parentes' in a broader sense, including cousins, uncles, and aunts, is 'relatives'.",
+      "enunciado": "De acordo com o texto, qual é a tradução correta para 'parentes' em um sentido amplo (incluindo primos, tios etc.)?",
+      "alternativas": {
+        "a": "Parents",
+        "b": "Relatives",
+        "c": "Cousins",
+        "d": "Family only"
+      },
+      "resposta": "b",
+      "explicacao": "O texto indica que 'parents' se refere apenas a mãe e pai, enquanto 'relatives' é o termo correto em inglês para 'parentes' em sentido amplo, incluindo outros membros da família."
+    },
+    {
+      "id": "ingles-13",
+      "texto_apoio": "Streaming platforms have changed the way people consume music, replacing physical albums with personalized playlists generated by algorithms. While this shift has made music more accessible than ever, some artists argue that royalty payments from streaming are too low to sustain a career, especially for independent musicians without major label support.",
+      "enunciado": "Qual crítica é apresentada no texto em relação às plataformas de streaming de música?",
+      "alternativas": {
+        "a": "Elas tornaram a música menos acessível ao público em geral.",
+        "b": "Os pagamentos de royalties por streaming são considerados baixos demais para sustentar a carreira de alguns artistas.",
+        "c": "Elas eliminaram totalmente o uso de algoritmos na recomendação de músicas.",
+        "d": "Apenas artistas de grandes gravadoras utilizam plataformas de streaming."
+      },
+      "resposta": "b",
+      "explicacao": "O texto aponta que, apesar do ganho em acessibilidade, artistas — sobretudo músicos independentes — criticam os baixos pagamentos de royalties gerados pelas plataformas de streaming como insuficientes para sustentar uma carreira."
+    },
+    {
+      "id": "ingles-14",
+      "texto_apoio": "In English, 'college' can be a false friend for Portuguese speakers who assume it always means 'colégio' (secondary school). In American English, 'college' usually refers to higher education, similar to 'faculdade' or 'universidade'. The word for 'colégio', in the sense of a secondary school, is typically 'high school'.",
+      "enunciado": "Segundo o texto, o que a palavra 'college', no inglês americano, geralmente significa?",
+      "alternativas": {
+        "a": "Ensino fundamental.",
+        "b": "Ensino médio (colégio, no sentido usado em português).",
+        "c": "Ensino superior, equivalente a faculdade ou universidade.",
+        "d": "Curso técnico de curta duração."
+      },
+      "resposta": "c",
+      "explicacao": "O texto esclarece que, no inglês americano, 'college' geralmente se refere ao ensino superior, sendo um falso cognato em relação a 'colégio' em português, que corresponde a 'high school' em inglês."
+    },
+    {
+      "id": "ingles-15",
+      "texto_apoio": "Sleep deprivation among teenagers has become a growing concern for public health experts. Studies show that early school start times conflict with adolescents' natural sleep cycles, leading many students to attend classes while significantly sleep-deprived. Some school districts have already begun delaying start times in response to this research.",
+      "enunciado": "Qual medida é mencionada no texto como resposta ao problema da privação de sono entre adolescentes?",
+      "alternativas": {
+        "a": "A proibição total de aulas no período da manhã em todas as escolas.",
+        "b": "O adiamento do horário de início das aulas por alguns distritos escolares.",
+        "c": "A redução da carga horária escolar para menos de três horas diárias.",
+        "d": "A eliminação de qualquer estudo científico sobre o sono dos adolescentes."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma que alguns distritos escolares já começaram a adiar o horário de início das aulas ('delaying start times') como resposta às pesquisas sobre a privação de sono entre adolescentes."
+    },
+    {
+      "id": "ingles-16",
+      "texto_apoio": "The English word 'push', printed on doors, does not mean 'empurre' in the sense many beginners misread it. Actually, it does mean 'empurre' — but a more frequent confusion happens with 'pull', which some learners mistakenly associate with the Portuguese verb 'pular' (to jump), when it actually means 'puxar' (to pull toward oneself).",
+      "enunciado": "Segundo o texto, qual é a confusão comum relacionada à palavra 'pull' em inglês?",
+      "alternativas": {
+        "a": "Alguns aprendizes associam erroneamente 'pull' ao verbo 'pular', quando na verdade 'pull' significa 'puxar'.",
+        "b": "'Pull' e 'push' têm exatamente o mesmo significado em inglês.",
+        "c": "'Pull' nunca é usado em placas de portas no idioma inglês.",
+        "d": "'Pull' significa 'empurrar', o mesmo que 'push'."
+      },
+      "resposta": "a",
+      "explicacao": "O texto explica que 'pull' é frequentemente confundido com o verbo português 'pular' por semelhança sonora, mas na verdade significa 'puxar', configurando um falso cognato relevante para estudantes brasileiros."
+    },
+    {
+      "id": "ingles-17",
+      "texto_apoio": "Remote learning expanded rapidly worldwide, but access to reliable internet remains unequal. In many rural areas, students struggle to attend online classes due to poor connectivity, while their urban counterparts often have multiple devices and stable broadband at home. This gap has raised concerns about deepening educational inequality.",
+      "enunciado": "Qual é a principal preocupação expressa no texto em relação ao ensino remoto?",
+      "alternativas": {
+        "a": "O ensino remoto se expandiu apenas em áreas rurais, e não em áreas urbanas.",
+        "b": "A desigualdade no acesso à internet pode aprofundar a desigualdade educacional entre estudantes rurais e urbanos.",
+        "c": "Estudantes urbanos não possuem qualquer acesso a dispositivos eletrônicos.",
+        "d": "A conectividade nas áreas rurais é superior à das áreas urbanas."
+      },
+      "resposta": "b",
+      "explicacao": "O texto contrasta a dificuldade de conectividade em áreas rurais com a maior disponibilidade de dispositivos e internet estável em áreas urbanas, apontando essa disparidade como fator de aprofundamento da desigualdade educacional."
+    },
+    {
+      "id": "ingles-18",
+      "texto_apoio": "A common false cognate that confuses many Brazilian students is the word 'costume'. In English, 'costume' refers to a special outfit worn for a party, a play, or Halloween, not to a habit or custom. The English word for 'costume' in the sense of 'hábito' is 'habit' or 'custom'.",
+      "enunciado": "De acordo com o texto, o que a palavra inglesa 'costume' realmente significa?",
+      "alternativas": {
+        "a": "Um hábito ou costume cultural de um grupo de pessoas.",
+        "b": "Uma roupa especial usada em festas, peças de teatro ou no Halloween.",
+        "c": "Uma regra formal estabelecida por uma instituição.",
+        "d": "Um tipo de comida tradicional de determinada cultura."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'costume', em inglês, refere-se a uma roupa especial usada em ocasiões como festas ou o Halloween, e não a um hábito ou costume, que em inglês corresponde a 'habit' ou 'custom' — outro exemplo clássico de falso cognato."
+    },
+    {
+      "id": "ingles-19",
+      "texto_apoio": "Long-haul flights can leave travelers feeling exhausted for days, a condition widely known as jet lag. It happens because the body's internal clock, adjusted to the time zone of departure, takes time to synchronize with the new local time. Experts recommend gradually adjusting sleep schedules before a trip to reduce the effects.",
+      "enunciado": "De acordo com o texto, por que o jet lag ocorre?",
+      "alternativas": {
+        "a": "Porque o corpo humano não é capaz de se adaptar a nenhum fuso horário diferente.",
+        "b": "Porque o relógio interno do corpo, ajustado ao fuso de partida, leva tempo para se sincronizar com o novo horário local.",
+        "c": "Porque voos longos sempre causam desidratação severa nos passageiros.",
+        "d": "Porque os especialistas recomendam não dormir durante toda a viagem."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que o jet lag ocorre porque o relógio biológico, ajustado ao fuso horário de origem, demora a se sincronizar com o horário do novo local, causando a sensação de exaustão nos viajantes."
+    },
+    {
+      "id": "ingles-20",
+      "texto_apoio": "Training for a marathon requires more than just running long distances. Coaches emphasize the importance of rest days, proper nutrition, and gradually increasing weekly mileage to avoid injuries. Runners who ignore these principles are more likely to suffer from overtraining, which can delay progress rather than accelerate it.",
+      "enunciado": "Segundo o texto, o que pode acontecer com corredores que ignoram os princípios de treinamento mencionados?",
+      "alternativas": {
+        "a": "Eles melhoram seu desempenho mais rapidamente do que os demais.",
+        "b": "Eles correm risco de overtraining, o que pode atrasar o progresso em vez de acelerá-lo.",
+        "c": "Eles se tornam automaticamente aptos a correr uma maratona sem qualquer preparo.",
+        "d": "Eles deixam de precisar de dias de descanso durante o treinamento."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma que ignorar princípios como descanso, nutrição adequada e aumento gradual de quilometragem torna os corredores mais propensos ao overtraining, que atrasa o progresso em vez de acelerá-lo."
+    },
+    {
+      "id": "ingles-21",
+      "texto_apoio": "Board games have experienced a surprising resurgence in the digital age. Despite the popularity of video games and smartphone apps, many people are rediscovering the pleasure of gathering around a table with friends and family, favoring face-to-face interaction over screens, at least for a few hours a week.",
+      "enunciado": "Qual é a ideia principal do texto?",
+      "alternativas": {
+        "a": "Jogos de tabuleiro desapareceram completamente com o avanço dos jogos digitais.",
+        "b": "Apesar da popularidade dos jogos digitais, jogos de tabuleiro voltaram a ganhar popularidade por proporcionarem interação presencial.",
+        "c": "Jogos de tabuleiro são incompatíveis com o uso de smartphones em qualquer contexto.",
+        "d": "Ninguém mais reúne amigos e familiares para jogar presencialmente."
+      },
+      "resposta": "b",
+      "explicacao": "O texto descreve um ressurgimento inesperado dos jogos de tabuleiro, motivado pelo desejo de interação presencial em contraste com o tempo gasto em telas, mesmo em uma era dominada por jogos digitais."
+    },
+    {
+      "id": "ingles-22",
+      "texto_apoio": "Many cities have invested in protected bike lanes to encourage urban cycling as an alternative to cars. Studies suggest that when cyclists feel physically separated from traffic, they are more likely to choose bikes for daily commuting, which can reduce both traffic congestion and air pollution over time.",
+      "enunciado": "De acordo com o texto, o que incentiva mais pessoas a escolherem a bicicleta para seus deslocamentos diários?",
+      "alternativas": {
+        "a": "A ausência total de qualquer investimento público em infraestrutura cicloviária.",
+        "b": "A sensação de separação física em relação ao tráfego de veículos, proporcionada por ciclovias protegidas.",
+        "c": "O aumento do número de carros nas grandes cidades.",
+        "d": "A proibição total do uso de bicicletas em vias públicas."
+      },
+      "resposta": "b",
+      "explicacao": "O texto indica que ciclovias protegidas, que dão aos ciclistas sensação de separação física do tráfego, aumentam a probabilidade de escolherem a bicicleta para deslocamentos diários, com potencial de reduzir congestionamento e poluição."
+    },
+    {
+      "id": "ingles-23",
+      "texto_apoio": "Mental health has become a growing concern in modern workplaces. Companies that once focused exclusively on productivity now offer counseling services, flexible schedules, and mental health days, recognizing that employee well-being directly affects long-term performance and retention.",
+      "enunciado": "Segundo o texto, por que empresas passaram a investir no bem-estar mental de seus funcionários?",
+      "alternativas": {
+        "a": "Porque perceberam que o bem-estar afeta diretamente o desempenho e a retenção de funcionários a longo prazo.",
+        "b": "Porque leis internacionais obrigam todas as empresas a oferecer esse tipo de serviço.",
+        "c": "Porque a produtividade deixou de ser um objetivo relevante para as empresas.",
+        "d": "Porque os funcionários pararam de se preocupar com sua saúde mental."
+      },
+      "resposta": "a",
+      "explicacao": "O texto afirma que empresas passaram a oferecer suporte à saúde mental por reconhecerem que o bem-estar dos funcionários afeta diretamente seu desempenho e sua permanência na empresa a longo prazo."
+    },
+    {
+      "id": "ingles-24",
+      "texto_apoio": "Sleep scientists have found that consistent sleep schedules may be even more important than the total number of hours slept. Going to bed and waking up at the same time every day, including weekends, helps regulate the body's internal clock and can improve overall sleep quality.",
+      "enunciado": "Qual é a principal descoberta mencionada pelos cientistas do sono no texto?",
+      "alternativas": {
+        "a": "Apenas o número total de horas dormidas importa para a qualidade do sono.",
+        "b": "Manter horários consistentes de sono, inclusive nos fins de semana, pode ser tão ou mais importante do que o total de horas dormidas.",
+        "c": "Dormir em horários diferentes todos os dias melhora automaticamente a qualidade do sono.",
+        "d": "O sono nos fins de semana não tem qualquer relação com o relógio biológico."
+      },
+      "resposta": "b",
+      "explicacao": "O texto indica que a consistência dos horários de sono, incluindo os finais de semana, pode ser tão relevante quanto — ou mais relevante que — a quantidade total de horas dormidas para a qualidade geral do sono."
+    },
+    {
+      "id": "ingles-25",
+      "texto_apoio": "Museums around the world are digitizing their collections, allowing people who will never visit in person to explore paintings, sculptures, and historical artifacts online. While digitization increases access, some curators worry it cannot fully replace the experience of seeing an original work in person.",
+      "enunciado": "Qual preocupação é levantada por alguns curadores de museus, segundo o texto?",
+      "alternativas": {
+        "a": "A digitalização de acervos reduziu o número de pessoas com acesso a obras de arte.",
+        "b": "A experiência digital pode não substituir completamente a experiência de ver uma obra original pessoalmente.",
+        "c": "Nenhum museu no mundo decidiu digitalizar seu acervo até hoje.",
+        "d": "A digitalização eliminou totalmente a necessidade de museus físicos."
+      },
+      "resposta": "b",
+      "explicacao": "Apesar de reconhecer o ganho de acesso proporcionado pela digitalização, o texto aponta a preocupação de curadores de que essa experiência digital não substitua totalmente a experiência de ver uma obra original pessoalmente."
+    },
+    {
+      "id": "ingles-26",
+      "texto_apoio": "Language learning apps have made studying a new language more accessible than ever, offering short daily lessons through smartphones. Critics argue, however, that these apps alone rarely lead to real fluency, and that meaningful conversation practice with other speakers remains essential.",
+      "enunciado": "Qual crítica é apresentada no texto em relação aos aplicativos de aprendizado de idiomas?",
+      "alternativas": {
+        "a": "Eles tornaram o aprendizado de idiomas menos acessível para a maioria das pessoas.",
+        "b": "Isoladamente, raramente levam à fluência real, sendo a prática de conversação com outras pessoas ainda essencial.",
+        "c": "Eles eliminaram completamente a necessidade de qualquer prática oral.",
+        "d": "Nenhuma pessoa consegue aprender vocabulário básico por meio desses aplicativos."
+      },
+      "resposta": "b",
+      "explicacao": "O texto reconhece o ganho de acessibilidade proporcionado pelos aplicativos, mas destaca a crítica de que, isoladamente, eles raramente resultam em fluência real, sendo a conversação com outros falantes considerada essencial."
+    },
+    {
+      "id": "ingles-27",
+      "texto_apoio": "Volunteering abroad has become popular among young travelers seeking meaningful experiences. However, some development experts warn that poorly organized volunteer programs can sometimes do more harm than good, taking jobs away from local workers or providing services without proper training or long-term commitment.",
+      "enunciado": "Qual alerta é feito por especialistas em desenvolvimento, de acordo com o texto?",
+      "alternativas": {
+        "a": "Todo programa de voluntariado internacional traz benefícios automáticos às comunidades locais.",
+        "b": "Programas de voluntariado mal organizados podem, em alguns casos, causar mais prejuízo do que benefício às comunidades locais.",
+        "c": "Jovens viajantes nunca devem participar de programas de voluntariado internacional.",
+        "d": "Trabalhadores locais sempre se beneficiam da presença de voluntários estrangeiros."
+      },
+      "resposta": "b",
+      "explicacao": "O texto alerta que programas de voluntariado mal planejados podem prejudicar comunidades locais, por exemplo ao substituir trabalhadores locais ou oferecer serviços sem treinamento e compromisso adequados, contrariando a intenção inicial de ajudar."
+    },
+    {
+      "id": "ingles-28",
+      "texto_apoio": "Rising sea levels and extreme weather events are expected to force millions of people to leave their homes in the coming decades. Unlike traditional refugees, these displaced individuals are not always protected by existing international law, creating a legal gap that researchers are trying to address.",
+      "enunciado": "Qual problema é apontado pelo texto em relação às pessoas deslocadas por eventos climáticos?",
+      "alternativas": {
+        "a": "Elas recebem exatamente a mesma proteção legal internacional que refugiados tradicionais.",
+        "b": "Elas nem sempre são protegidas pela legislação internacional existente, criando uma lacuna jurídica.",
+        "c": "Elas não existem, segundo pesquisas científicas recentes.",
+        "d": "Elas são sempre menos numerosas do que refugiados tradicionais."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que pessoas deslocadas por eventos climáticos nem sempre contam com a mesma proteção legal internacional destinada a refugiados tradicionais, o que gera uma lacuna jurídica que pesquisadores buscam resolver."
+    },
+    {
+      "id": "ingles-29",
+      "texto_apoio": "A common false cognate is the word 'resume'. In English, 'to resume' means to start something again after a pause, as in 'resume the meeting'. It does not mean 'resumir' (to summarize). The word for 'resumir' is 'to summarize', while the noun for a document listing one's work experience is spelled 'résumé' or 'resume', with a different pronunciation.",
+      "enunciado": "Segundo o texto, o que significa o verbo 'to resume' em inglês?",
+      "alternativas": {
+        "a": "Resumir um texto em poucas linhas.",
+        "b": "Retomar algo após uma pausa.",
+        "c": "Escrever um currículo profissional.",
+        "d": "Concluir definitivamente uma atividade."
+      },
+      "resposta": "b",
+      "explicacao": "O texto esclarece que 'to resume' significa retomar algo após uma interrupção, e não 'resumir' (que corresponde a 'to summarize' em inglês), configurando um falso cognato comum entre estudantes brasileiros."
+    },
+    {
+      "id": "ingles-30",
+      "texto_apoio": "Another tricky false cognate is 'novel'. As an adjective, 'novel' means new or original, as in 'a novel approach to the problem'. As a noun, 'novel' means a long work of fiction, similar to 'romance' in Portuguese — not 'novela', which refers to a television soap opera and has no direct one-word equivalent in English.",
+      "enunciado": "De acordo com o texto, a palavra portuguesa 'novela' (programa de TV) corresponde, em inglês, a:",
+      "alternativas": {
+        "a": "'Novel', sem qualquer diferença de sentido.",
+        "b": "Não há um equivalente direto de uma palavra só; 'novel' significa romance literário ou algo original/novo.",
+        "c": "'New', exclusivamente.",
+        "d": "'Novelty', no sentido de programa televisivo."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'novel' significa romance literário (substantivo) ou novo/original (adjetivo), e não 'novela' de televisão, que não tem um equivalente direto de uma única palavra em inglês, geralmente sendo descrita como 'soap opera'."
+    },
+    {
+      "id": "ingles-31",
+      "texto_apoio": "The word 'fabric' is a well-known false cognate: it does not mean 'fábrica' (factory), but rather 'tecido', the cloth used to make clothes and other textile products. The English word for 'fábrica', in the sense of an industrial building, is 'factory' or 'plant'.",
+      "enunciado": "Segundo o texto, o que a palavra inglesa 'fabric' realmente significa?",
+      "alternativas": {
+        "a": "Uma fábrica industrial onde produtos são fabricados.",
+        "b": "Tecido, o material usado para fazer roupas e outros produtos têxteis.",
+        "c": "Uma linha de produção automatizada.",
+        "d": "Um tipo de máquina utilizada na indústria têxtil."
+      },
+      "resposta": "b",
+      "explicacao": "O texto esclarece que 'fabric' significa tecido, e não 'fábrica' (que corresponde a 'factory' ou 'plant' em inglês), sendo um dos falsos cognatos mais conhecidos entre aprendizes brasileiros de inglês."
+    },
+    {
+      "id": "ingles-32",
+      "texto_apoio": "In academic English, a 'lecture' is a formal talk given by a professor to a class, not the act of 'leitura' (reading). The verb 'to read' corresponds to 'ler'/'leitura' in Portuguese, while 'lecture' refers specifically to an oral presentation of academic content.",
+      "enunciado": "Qual é o significado correto da palavra 'lecture' em inglês, de acordo com o texto?",
+      "alternativas": {
+        "a": "O ato de ler um livro silenciosamente.",
+        "b": "Uma palestra ou aula expositiva formal dada por um professor.",
+        "c": "Um exame escrito aplicado ao final do semestre.",
+        "d": "Um texto literário utilizado em sala de aula."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'lecture' se refere a uma aula expositiva ou palestra formal dada por um professor, e não ao ato de ler ('leitura'), que corresponde ao verbo 'to read' em inglês."
+    },
+    {
+      "id": "ingles-33",
+      "texto_apoio": "The adjective 'particular' can also confuse Portuguese speakers. In English, 'particular' usually means 'specific' or 'especial', as in 'a particular case'. It rarely means 'private' or 'personal', which is closer to the Portuguese use of 'particular' (e.g., 'escola particular'). For that meaning, English typically uses 'private'.",
+      "enunciado": "Segundo o texto, qual é o sentido mais comum da palavra 'particular' em inglês?",
+      "alternativas": {
+        "a": "Privado ou pessoal, como em 'escola particular'.",
+        "b": "Específico ou especial, como em 'a particular case'.",
+        "c": "Público e acessível a qualquer pessoa.",
+        "d": "Relacionado exclusivamente a empresas privadas."
+      },
+      "resposta": "b",
+      "explicacao": "O texto esclarece que, em inglês, 'particular' geralmente significa 'específico' ou 'especial', diferentemente do uso mais comum em português (relacionado a algo privado), sentido para o qual o inglês normalmente usa a palavra 'private'."
+    },
+    {
+      "id": "ingles-34",
+      "texto_apoio": "In English, 'notice' does not mean 'notícia' (news). As a verb, 'to notice' means to become aware of something, as in 'I noticed the door was open'. As a noun, it can mean a short formal announcement. The word for 'notícia' is 'news'.",
+      "enunciado": "De acordo com o texto, o verbo 'to notice' significa:",
+      "alternativas": {
+        "a": "Divulgar uma notícia em um jornal.",
+        "b": "Perceber ou notar algo.",
+        "c": "Anunciar oficialmente um evento público.",
+        "d": "Escrever uma reportagem jornalística."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'to notice' significa perceber ou notar algo, sendo um falso cognato em relação a 'notícia', que corresponde à palavra 'news' em inglês."
+    },
+    {
+      "id": "ingles-35",
+      "texto_apoio": "Another common false cognate is 'pasta'. In English, 'pasta' refers only to the Italian food made from dough, like spaghetti or lasagna. The word for the Portuguese 'pasta' in the sense of a folder for documents is 'folder' or 'binder', not 'pasta'.",
+      "enunciado": "Segundo o texto, a palavra inglesa 'pasta' pode ser usada para se referir a:",
+      "alternativas": {
+        "a": "Uma pasta de documentos utilizada em escritórios.",
+        "b": "Um tipo de comida italiana feita de massa, como espaguete ou lasanha.",
+        "c": "Uma pasta de dentes.",
+        "d": "Qualquer tipo de recipiente usado para armazenar objetos."
+      },
+      "resposta": "b",
+      "explicacao": "O texto esclarece que, em inglês, 'pasta' refere-se exclusivamente à comida italiana feita de massa, e não a uma pasta de documentos, que em inglês é chamada de 'folder' ou 'binder'."
+    },
+    {
+      "id": "ingles-36",
+      "texto_apoio": "The word 'collar' is a classic false cognate: it refers to the part of a shirt that goes around the neck, or to a band placed around a pet's neck, not to a piece of jewelry worn around the neck. The word for 'colar' (necklace) in English is 'necklace'.",
+      "enunciado": "De acordo com o texto, o que a palavra 'collar' significa em inglês?",
+      "alternativas": {
+        "a": "Uma joia usada ao redor do pescoço, como um colar.",
+        "b": "A gola de uma camisa ou uma coleira usada por um animal de estimação.",
+        "c": "Um tipo de gravata formal.",
+        "d": "Um acessório usado exclusivamente por animais selvagens."
+      },
+      "resposta": "b",
+      "explicacao": "O texto explica que 'collar' se refere à gola de uma camisa ou a uma coleira de animal de estimação, e não a uma joia (colar), que em inglês corresponde à palavra 'necklace'."
+    }
+  ]
+}

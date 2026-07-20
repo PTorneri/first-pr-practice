@@ -1,0 +1,473 @@
+{
+  "subtopic": "filosofia-sociologia",
+  "questoes": [
+    {
+      "id": "filosofia-sociologia-01",
+      "texto_apoio": "Para Thomas Hobbes, antes da existência do Estado, os homens viveriam em um \"estado de natureza\", marcado pela ausência de uma autoridade comum capaz de impor regras.",
+      "enunciado": "De acordo com a teoria contratualista de Hobbes exposta em \"Leviatã\", o principal motivo que leva os indivíduos a instituir um poder soberano por meio do pacto social é",
+      "alternativas": {
+        "a": "a busca por igualdade econômica entre todos os cidadãos",
+        "b": "o desejo de preservar a propriedade privada acumulada na natureza",
+        "c": "a necessidade de escapar da guerra de todos contra todos e garantir a autopreservação",
+        "d": "a vontade de instituir eleições periódicas para escolha dos governantes"
+      },
+      "resposta": "c",
+      "explicacao": "Para Hobbes, o estado de natureza é um estado de guerra generalizada em que a vida é \"solitária, pobre, sórdida, embrutecida e curta\". O contrato social é celebrado para transferir direitos a um soberano absoluto que garanta a paz e a sobrevivência de todos."
+    },
+    {
+      "id": "filosofia-sociologia-02",
+      "texto_apoio": "",
+      "enunciado": "Diferentemente de Hobbes, John Locke defende que o estado de natureza não é necessariamente um estado de guerra, mas um estado de liberdade regido pela lei natural. Nessa perspectiva, a principal finalidade do governo civil é",
+      "alternativas": {
+        "a": "eliminar toda forma de propriedade privada",
+        "b": "proteger a vida, a liberdade e a propriedade dos indivíduos",
+        "c": "concentrar poder ilimitado nas mãos de um único soberano",
+        "d": "substituir a moral religiosa pela moral civil"
+      },
+      "resposta": "b",
+      "explicacao": "Locke entende que os homens possuem direitos naturais à vida, à liberdade e à propriedade mesmo antes da sociedade civil. O governo é instituído, por consentimento, justamente para proteger esses direitos de forma mais eficaz do que no estado de natureza."
+    },
+    {
+      "id": "filosofia-sociologia-03",
+      "texto_apoio": "Em \"Do Contrato Social\", Rousseau afirma que \"o homem nasce livre, e por toda parte encontra-se a ferros\".",
+      "enunciado": "Para Rousseau, a legitimidade do poder político deriva",
+      "alternativas": {
+        "a": "da força militar do governante sobre os súditos",
+        "b": "da tradição hereditária das monarquias europeias",
+        "c": "da vontade geral, expressão do interesse comum do corpo político",
+        "d": "de um contrato firmado exclusivamente entre os proprietários de terra"
+      },
+      "resposta": "c",
+      "explicacao": "Rousseau defende que a soberania reside na vontade geral do povo, e não em um indivíduo isolado. A legitimidade do poder está condicionada à busca do bem comum, e não a interesses particulares ou à força."
+    },
+    {
+      "id": "filosofia-sociologia-04",
+      "texto_apoio": "",
+      "enunciado": "A célebre distinção kantiana entre agir \"de acordo com o dever\" e agir \"por dever\" é central para a ética deontológica. Segundo Kant, uma ação possui valor moral genuíno quando",
+      "alternativas": {
+        "a": "produz o maior benefício possível para o maior número de pessoas",
+        "b": "é realizada por inclinação natural, como simpatia ou afeto",
+        "c": "é praticada exclusivamente por respeito à lei moral, independentemente das consequências",
+        "d": "traz vantagens econômicas imediatas para quem a pratica"
+      },
+      "resposta": "c",
+      "explicacao": "Para Kant, o valor moral de uma ação não está em seus resultados nem nas inclinações do agente, mas na intenção de cumprir o dever por respeito à lei moral, expressa no imperativo categórico."
+    },
+    {
+      "id": "filosofia-sociologia-05",
+      "texto_apoio": "O utilitarismo, corrente associada a Jeremy Bentham e John Stuart Mill, avalia a moralidade de uma ação por seus efeitos.",
+      "enunciado": "Segundo o princípio utilitarista clássico, uma ação é moralmente correta quando",
+      "alternativas": {
+        "a": "obedece estritamente a normas religiosas estabelecidas",
+        "b": "maximiza a felicidade ou o bem-estar do maior número de pessoas afetadas",
+        "c": "respeita apenas a vontade do agente que a pratica",
+        "d": "segue rigorosamente a tradição cultural de uma comunidade"
+      },
+      "resposta": "b",
+      "explicacao": "O utilitarismo é uma ética consequencialista: julga as ações pelos seus resultados, sendo corretas aquelas que produzem o maior saldo de felicidade ou bem-estar para o maior número de pessoas."
+    },
+    {
+      "id": "filosofia-sociologia-06",
+      "texto_apoio": "Émile Durkheim é considerado um dos fundadores da sociologia como ciência autônoma, ao propor o estudo dos \"fatos sociais\".",
+      "enunciado": "Para Durkheim, os fatos sociais se caracterizam, sobretudo, por serem",
+      "alternativas": {
+        "a": "fenômenos exclusivamente psicológicos e individuais",
+        "b": "exteriores ao indivíduo, gerais e dotados de poder coercitivo sobre ele",
+        "c": "resultado direto e imediato da vontade racional de cada sujeito isolado",
+        "d": "fenômenos naturais explicáveis apenas pela biologia humana"
+      },
+      "resposta": "b",
+      "explicacao": "Durkheim define fato social como todo modo de agir, pensar e sentir exterior ao indivíduo, dotado de poder coercitivo que se impõe a ele, e que é geral dentro de uma sociedade determinada, como normas, leis e costumes."
+    },
+    {
+      "id": "filosofia-sociologia-07",
+      "texto_apoio": "Em \"O Suicídio\", Durkheim analisa estatisticamente as taxas de suicídio em diferentes grupos sociais para demonstrar que fatores sociais, e não apenas individuais, explicam esse fenômeno.",
+      "enunciado": "O conceito durkheimiano de \"anomia\", utilizado nesse estudo, refere-se a uma situação social caracterizada",
+      "alternativas": {
+        "a": "pelo excesso de regras morais rigidamente aplicadas a todos os indivíduos",
+        "b": "pela ausência ou enfraquecimento de normas sociais reguladoras da conduta",
+        "c": "pela plena integração do indivíduo aos grupos religiosos tradicionais",
+        "d": "pelo crescimento contínuo e equilibrado da economia de mercado"
+      },
+      "resposta": "b",
+      "explicacao": "A anomia designa um estado de desregulação social, em que as normas coletivas perdem força diante de transformações rápidas (como crises econômicas), deixando os indivíduos sem parâmetros claros de conduta e pertencimento."
+    },
+    {
+      "id": "filosofia-sociologia-08",
+      "texto_apoio": "Max Weber propôs o conceito de \"tipo ideal\" como ferramenta metodológica para a análise sociológica, e também investigou as bases da dominação legítima.",
+      "enunciado": "Segundo a tipologia weberiana das formas de dominação legítima, a autoridade de um presidente eleito democraticamente, cujo poder deriva de regras impessoais e de um cargo institucionalizado, é um exemplo de dominação",
+      "alternativas": {
+        "a": "carismática",
+        "b": "tradicional",
+        "c": "racional-legal",
+        "d": "patrimonialista pura"
+      },
+      "resposta": "c",
+      "explicacao": "Weber distingue três tipos puros de dominação legítima: tradicional (baseada no costume), carismática (baseada em qualidades excepcionais do líder) e racional-legal (baseada em normas impessoais e em cargos, típica dos Estados burocráticos modernos, como nas eleições institucionalizadas)."
+    },
+    {
+      "id": "filosofia-sociologia-09",
+      "texto_apoio": "Weber também é conhecido por sua obra \"A Ética Protestante e o Espírito do Capitalismo\".",
+      "enunciado": "Nessa obra, Weber busca demonstrar que",
+      "alternativas": {
+        "a": "o capitalismo surgiu exclusivamente da acumulação primitiva de capital descrita por Marx",
+        "b": "valores religiosos, como a ética do trabalho e da poupança calvinista, contribuíram para o desenvolvimento do espírito capitalista",
+        "c": "a religião é sempre um obstáculo ao desenvolvimento econômico das sociedades",
+        "d": "o capitalismo moderno independe totalmente de fatores culturais e religiosos"
+      },
+      "resposta": "b",
+      "explicacao": "Weber argumenta que a ética protestante, especialmente calvinista, ao valorizar o trabalho metódico, a poupança e o sucesso material como sinais de graça divina, criou um ethos favorável à racionalização econômica e à acumulação capitalista."
+    },
+    {
+      "id": "filosofia-sociologia-10",
+      "texto_apoio": "Karl Marx analisou a sociedade capitalista a partir do conceito de luta de classes e da relação entre estrutura econômica e superestrutura.",
+      "enunciado": "No pensamento marxista, o conceito de \"mais-valia\" refere-se",
+      "alternativas": {
+        "a": "ao lucro obtido exclusivamente pela especulação financeira no mercado de ações",
+        "b": "à diferença entre o valor criado pelo trabalho do operário e o salário que ele recebe, apropriada pelo capitalista",
+        "c": "ao imposto cobrado pelo Estado sobre a produção industrial",
+        "d": "ao valor de troca idêntico ao valor de uso de uma mercadoria"
+      },
+      "resposta": "b",
+      "explicacao": "Para Marx, a mais-valia é o excedente de valor produzido pelo trabalhador além do necessário para repor seu salário; esse excedente é apropriado pelo capitalista e constitui a base da exploração e do lucro no modo de produção capitalista."
+    },
+    {
+      "id": "filosofia-sociologia-11",
+      "texto_apoio": "",
+      "enunciado": "O conceito marxista de \"alienação\" (ou estranhamento) do trabalho refere-se, entre outros aspectos, ao processo pelo qual",
+      "alternativas": {
+        "a": "o trabalhador se torna proprietário dos meios de produção da fábrica em que trabalha",
+        "b": "o produto do trabalho e o próprio processo produtivo se tornam estranhos ao trabalhador, que não se reconhece neles",
+        "c": "o Estado redistribui integralmente a riqueza produzida entre todos os cidadãos",
+        "d": "o trabalhador aumenta seu controle sobre as decisões da empresa em que atua"
+      },
+      "resposta": "b",
+      "explicacao": "A alienação, em Marx, descreve a perda de controle do trabalhador sobre o produto de seu trabalho, sobre o processo produtivo e sobre sua própria atividade criativa, tornando-se essa atividade um meio de sobrevivência e não de realização humana."
+    },
+    {
+      "id": "filosofia-sociologia-12",
+      "texto_apoio": "A noção de cidadania evoluiu historicamente, incorporando diferentes categorias de direitos.",
+      "enunciado": "O sociólogo T. H. Marshall propôs uma classificação da cidadania em três dimensões complementares. São elas os direitos",
+      "alternativas": {
+        "a": "civis, políticos e sociais",
+        "b": "religiosos, econômicos e ambientais",
+        "c": "trabalhistas, penais e eleitorais",
+        "d": "digitais, culturais e migratórios"
+      },
+      "resposta": "a",
+      "explicacao": "Marshall divide a cidadania moderna em direitos civis (liberdade individual, propriedade, justiça), direitos políticos (participação no exercício do poder, como o voto) e direitos sociais (bem-estar econômico, educação, saúde), consolidados historicamente em etapas distintas."
+    },
+    {
+      "id": "filosofia-sociologia-13",
+      "texto_apoio": "Michel Foucault desenvolveu uma análise original sobre as relações entre poder, saber e instituições disciplinares, como prisões, escolas e hospitais.",
+      "enunciado": "Para Foucault, diferentemente de uma visão tradicional que concebe o poder apenas como algo centralizado no Estado, o poder deve ser compreendido como",
+      "alternativas": {
+        "a": "uma posse exclusiva do soberano, que o exerce de cima para baixo",
+        "b": "uma relação difusa e capilar, presente em múltiplas instituições e práticas sociais cotidianas",
+        "c": "um fenômeno inexistente nas sociedades contemporâneas democráticas",
+        "d": "algo restrito unicamente às forças armadas e à polícia"
+      },
+      "resposta": "b",
+      "explicacao": "Foucault propõe uma concepção descentralizada e relacional do poder, presente em micropráticas disciplinares (escolas, prisões, hospitais, fábricas) que moldam corpos e subjetividades, e não apenas em uma instância soberana centralizada."
+    },
+    {
+      "id": "filosofia-sociologia-14",
+      "texto_apoio": "Hannah Arendt refletiu sobre a natureza do totalitarismo e sobre as condições da ação política na esfera pública.",
+      "enunciado": "Segundo Arendt, um dos elementos centrais para a manutenção de regimes totalitários é",
+      "alternativas": {
+        "a": "o fortalecimento da pluralidade de opiniões no espaço público",
+        "b": "o estímulo à participação política ativa e crítica dos cidadãos",
+        "c": "o isolamento dos indivíduos e a destruição dos laços sociais que sustentam a ação política coletiva",
+        "d": "a garantia irrestrita da liberdade de imprensa"
+      },
+      "resposta": "c",
+      "explicacao": "Arendt analisa que os regimes totalitários dependem do isolamento e da atomização dos indivíduos, destruindo espaços de convivência plural e de ação política coletiva, o que impede a formação de resistência organizada."
+    },
+    {
+      "id": "filosofia-sociologia-15",
+      "texto_apoio": "O relativismo cultural é uma perspectiva antropológica que orienta a análise de diferentes sociedades.",
+      "enunciado": "Adotar o relativismo cultural como método de análise significa, principalmente,",
+      "alternativas": {
+        "a": "julgar todas as práticas culturais a partir dos valores da própria cultura do observador",
+        "b": "compreender e interpretar práticas e valores de uma cultura a partir de seu próprio contexto, evitando julgá-la por padrões externos",
+        "c": "afirmar que não existem diferenças culturais relevantes entre os povos",
+        "d": "impor um conjunto único de valores morais universais a todas as sociedades"
+      },
+      "resposta": "b",
+      "explicacao": "O relativismo cultural, defendido por antropólogos como Franz Boas, propõe compreender cada cultura a partir de seus próprios códigos e contextos, evitando o etnocentrismo, isto é, o julgamento de outras culturas com base nos valores da cultura do observador."
+    },
+    {
+      "id": "filosofia-sociologia-16",
+      "texto_apoio": "A obra \"A Sociedade do Espetáculo\", de Guy Debord, tornou-se referência para pensar a cultura contemporânea.",
+      "enunciado": "O conceito de \"espetáculo\", desenvolvido por Debord, descreve criticamente uma sociedade em que",
+      "alternativas": {
+        "a": "as relações sociais autênticas superam completamente o consumo de imagens",
+        "b": "as relações sociais são cada vez mais mediadas por imagens e representações, substituindo a experiência direta e autêntica",
+        "c": "a produção industrial de bens materiais desapareceu totalmente",
+        "d": "os meios de comunicação de massa deixaram de influenciar o comportamento coletivo"
+      },
+      "resposta": "b",
+      "explicacao": "Debord argumenta que, na sociedade contemporânea, as relações entre pessoas passam a ser mediadas por imagens e mercadorias-espetáculo, de modo que a aparência e a representação tendem a substituir a experiência vivida e autêntica."
+    },
+    {
+      "id": "filosofia-sociologia-17",
+      "texto_apoio": "Pierre Bourdieu desenvolveu os conceitos de \"capital cultural\" e \"habitus\" para explicar a reprodução das desigualdades sociais.",
+      "enunciado": "Segundo Bourdieu, o \"capital cultural\" contribui para a reprodução das desigualdades sociais porque",
+      "alternativas": {
+        "a": "é distribuído de forma absolutamente igualitária entre todas as classes sociais",
+        "b": "famílias de classes mais favorecidas transmitem, além de bens materiais, disposições, saberes e códigos culturais valorizados pela escola e pelo mercado",
+        "c": "depende exclusivamente do desempenho biológico individual dos estudantes",
+        "d": "está restrito unicamente à posse de diplomas universitários, sem relação com o ambiente familiar"
+      },
+      "resposta": "b",
+      "explicacao": "Bourdieu mostra que o capital cultural (disposições, gostos, conhecimentos, familiaridade com códigos legítimos) é herdado no ambiente familiar e reconhecido pela escola, favorecendo estudantes de classes mais privilegiadas e legitimando desigualdades sob a aparência de mérito individual."
+    },
+    {
+      "id": "filosofia-sociologia-18",
+      "texto_apoio": "O debate contemporâneo sobre poder frequentemente contrapõe visões liberais e críticas acerca do papel do Estado.",
+      "enunciado": "Na tradição do liberalismo político clássico, o papel primordial do Estado é",
+      "alternativas": {
+        "a": "planejar centralizadamente toda a produção econômica da sociedade",
+        "b": "garantir as liberdades individuais e os direitos dos cidadãos, limitando sua própria intervenção",
+        "c": "eliminar toda forma de mercado e de propriedade privada",
+        "d": "subordinar completamente o poder político às determinações de uma única classe social"
+      },
+      "resposta": "b",
+      "explicacao": "O liberalismo político clássico, associado a autores como Locke, defende um Estado limitado, cuja função principal é assegurar as liberdades individuais e os direitos fundamentais dos cidadãos, evitando a concentração excessiva de poder."
+    },
+    {
+      "id": "filosofia-sociologia-19",
+      "texto_apoio": "Sócrates não deixou escritos; conhecemos seu pensamento principalmente pelos diálogos de Platão, que o retrata utilizando um método particular de investigação filosófica.",
+      "enunciado": "O método socrático, conhecido como maiêutica, consiste em",
+      "alternativas": {
+        "a": "impor ao interlocutor um conjunto de verdades absolutas previamente definidas",
+        "b": "por meio de perguntas sucessivas, levar o interlocutor a reconhecer suas contradições e a \"dar à luz\" ideias que já possuía, mas não havia examinado criticamente",
+        "c": "memorizar discursos retóricos para persuadir plateias em julgamentos públicos",
+        "d": "comprovar teoremas geométricos por meio de demonstrações formais"
+      },
+      "resposta": "b",
+      "explicacao": "A maiêutica (\"arte de partejar\") consiste no diálogo baseado em perguntas que levam o interlocutor a examinar suas próprias crenças, reconhecer contradições (ironia socrática) e, a partir disso, alcançar um conhecimento mais elaborado."
+    },
+    {
+      "id": "filosofia-sociologia-20",
+      "texto_apoio": "No livro VII de \"A República\", Platão narra a alegoria em que prisioneiros acorrentados numa caverna confundem sombras projetadas na parede com a realidade.",
+      "enunciado": "O mito da caverna de Platão ilustra, sobretudo,",
+      "alternativas": {
+        "a": "a superioridade do conhecimento sensível, obtido pelos sentidos, sobre qualquer forma de abstração racional",
+        "b": "a trajetória do conhecimento humano, que parte da ilusão dos sentidos (mundo sensível) rumo ao conhecimento verdadeiro das essências (mundo das ideias)",
+        "c": "a impossibilidade de qualquer ser humano libertar-se da ignorância",
+        "d": "a defesa de que a democracia ateniense era o regime político ideal"
+      },
+      "resposta": "b",
+      "explicacao": "Para Platão, o mundo sensível (sombras) é cópia imperfeita do mundo das ideias (formas), que constitui a realidade verdadeira e imutável, acessível pela razão. O prisioneiro que se liberta e sai da caverna representa o percurso do filósofo rumo ao conhecimento verdadeiro."
+    },
+    {
+      "id": "filosofia-sociologia-21",
+      "texto_apoio": "Na \"Ética a Nicômaco\", Aristóteles investiga qual é o bem supremo perseguido pelos seres humanos.",
+      "enunciado": "Para Aristóteles, a felicidade (eudaimonia), fim último da vida humana, é alcançada, sobretudo,",
+      "alternativas": {
+        "a": "pelo acúmulo máximo de prazeres sensoriais imediatos",
+        "b": "pelo exercício habitual da virtude, entendida como um justo meio entre dois excessos, guiado pela razão",
+        "c": "pela completa renúncia à vida em sociedade e ao convívio político",
+        "d": "pela obediência cega às leis escritas da cidade, independentemente de reflexão racional"
+      },
+      "resposta": "b",
+      "explicacao": "Aristóteles defende que a felicidade consiste no exercício virtuoso da razão ao longo da vida. A virtude ética é um meio-termo entre dois vícios (excesso e falta), como a coragem entre a temeridade e a covardia, alcançado pelo hábito e pela deliberação racional (phronesis)."
+    },
+    {
+      "id": "filosofia-sociologia-22",
+      "texto_apoio": "Em \"O Existencialismo é um Humanismo\", Sartre resume sua filosofia em uma fórmula célebre sobre a condição humana.",
+      "enunciado": "A afirmação sartreana de que \"a existência precede a essência\" significa que",
+      "alternativas": {
+        "a": "o ser humano já nasce com uma natureza fixa e predeterminada que apenas se manifesta ao longo da vida",
+        "b": "o ser humano primeiro existe, se lança no mundo, e só depois, por meio de suas escolhas e ações livres, define quem é",
+        "c": "apenas objetos fabricados, como uma faca, possuem existência anterior a qualquer finalidade",
+        "d": "a essência divina determina integralmente o destino humano, anulando a liberdade"
+      },
+      "resposta": "b",
+      "explicacao": "Diferentemente dos objetos fabricados (cuja essência precede a existência), o ser humano, para Sartre, não possui uma natureza pré-definida: ele existe primeiro e, por meio de suas escolhas livres, vai constituindo sua própria essência, o que implica plena responsabilidade por si mesmo."
+    },
+    {
+      "id": "filosofia-sociologia-23",
+      "texto_apoio": "Em \"O Segundo Sexo\" (1949), Simone de Beauvoir investiga a construção social da feminilidade.",
+      "enunciado": "A célebre afirmação de Simone de Beauvoir de que \"não se nasce mulher, torna-se mulher\" expressa a ideia de que",
+      "alternativas": {
+        "a": "o gênero feminino é determinado exclusivamente por fatores biológicos e hormonais",
+        "b": "a identidade feminina é construída socialmente e culturalmente, por meio de papéis e expectativas impostos às mulheres, e não apenas pela biologia",
+        "c": "todas as sociedades humanas atribuem exatamente os mesmos papéis sociais às mulheres",
+        "d": "a feminilidade é uma escolha totalmente arbitrária, sem qualquer influência do contexto social"
+      },
+      "resposta": "b",
+      "explicacao": "Beauvoir distingue sexo (dado biológico) de gênero (construção social), argumentando que a condição feminina resulta de processos históricos, culturais e sociais de socialização, e não de um destino biológico inevitável — ideia fundamental para o feminismo existencialista."
+    },
+    {
+      "id": "filosofia-sociologia-24",
+      "texto_apoio": "Considerado precursor do existencialismo, Kierkegaard analisou a experiência da angústia como condição própria da liberdade humana.",
+      "enunciado": "Para Kierkegaard, a angústia surge, sobretudo, como",
+      "alternativas": {
+        "a": "uma doença puramente física, sem relação com escolhas morais ou espirituais",
+        "b": "o sentimento vertiginoso diante da liberdade e da infinidade de possibilidades que se abrem a cada escolha existencial do indivíduo",
+        "c": "um estado emocional provocado exclusivamente por fatores econômicos",
+        "d": "a ausência total de qualquer possibilidade de escolha para o ser humano"
+      },
+      "resposta": "b",
+      "explicacao": "Kierkegaard descreve a angústia como \"vertigem da liberdade\": diante das inúmeras possibilidades que a existência oferece e da responsabilidade de escolher, o indivíduo experimenta um mal-estar que revela sua condição de ser livre."
+    },
+    {
+      "id": "filosofia-sociologia-25",
+      "texto_apoio": "O sociólogo polonês Zygmunt Bauman cunhou o conceito de \"modernidade líquida\" para caracterizar a sociedade contemporânea.",
+      "enunciado": "Segundo Bauman, a metáfora da \"liquidez\" aplicada à vida social contemporânea busca expressar",
+      "alternativas": {
+        "a": "a permanência e a solidez das instituições sociais, cada vez mais estáveis e duradouras",
+        "b": "a fluidez, a fragilidade e o caráter provisório das relações sociais, dos vínculos afetivos e das identidades na atualidade",
+        "c": "o retorno a formas rígidas e tradicionais de organização social, opostas à mudança",
+        "d": "a substituição definitiva das relações humanas por relações exclusivamente virtuais"
+      },
+      "resposta": "b",
+      "explicacao": "Bauman utiliza a metáfora dos líquidos (que não mantêm forma fixa) para descrever a fluidez, a instabilidade e o caráter efêmero que marcam as relações, identidades e instituições na modernidade contemporânea, em contraste com a solidez das estruturas da modernidade anterior."
+    },
+    {
+      "id": "filosofia-sociologia-26",
+      "texto_apoio": "Em obras como \"Amor Líquido\", Bauman analisa como a lógica do consumo e do descartável passou a influenciar também os vínculos afetivos.",
+      "enunciado": "De acordo com Bauman, um dos efeitos da \"liquidez\" sobre os relacionamentos afetivos contemporâneos é",
+      "alternativas": {
+        "a": "o fortalecimento de compromissos duradouros e irrevogáveis entre os indivíduos",
+        "b": "a tendência a vínculos mais frágeis e facilmente descartáveis, marcados pelo medo do comprometimento duradouro",
+        "c": "o desaparecimento total das relações afetivas na sociedade atual",
+        "d": "a exigência estatal de que todos os vínculos afetivos sejam formalizados juridicamente"
+      },
+      "resposta": "b",
+      "explicacao": "Bauman argumenta que a lógica de consumo, marcada pela busca por satisfação imediata e pela facilidade de descarte, contamina também os laços afetivos, tornando-os mais frágeis, provisórios e sujeitos ao medo do compromisso duradouro."
+    },
+    {
+      "id": "filosofia-sociologia-27",
+      "texto_apoio": "John Rawls, em \"Uma Teoria da Justiça\" (1971), propõe um experimento mental para pensar os princípios de justiça de uma sociedade.",
+      "enunciado": "O dispositivo hipotético do \"véu da ignorância\", proposto por Rawls, consiste em imaginar indivíduos que devem escolher os princípios de justiça de uma sociedade",
+      "alternativas": {
+        "a": "sabendo previamente qual será sua posição social, riqueza e talentos naturais",
+        "b": "sem conhecer sua futura posição social, riqueza, talentos ou concepção de vida, o que garantiria imparcialidade na escolha dos princípios",
+        "c": "sob o comando direto de um governante absoluto, sem qualquer margem de deliberação",
+        "d": "apenas após consultarem tradições religiosas específicas de sua comunidade de origem"
+      },
+      "resposta": "b",
+      "explicacao": "No \"véu da ignorância\", os indivíduos deliberam sobre os princípios de justiça sem saber qual posição ocuparão na sociedade resultante. Essa ignorância deliberada garantiria escolhas imparciais, pois ninguém formularia regras que o prejudicassem caso ocupasse a posição mais desfavorecida."
+    },
+    {
+      "id": "filosofia-sociologia-28",
+      "texto_apoio": "Entre os princípios de justiça formulados por Rawls está o chamado \"princípio da diferença\".",
+      "enunciado": "O princípio da diferença, proposto por Rawls, estabelece que",
+      "alternativas": {
+        "a": "as desigualdades sociais e econômicas somente são justificáveis se beneficiarem, em primeiro lugar, os membros menos favorecidos da sociedade",
+        "b": "toda forma de desigualdade social deve ser imediatamente abolida por lei, sem exceção",
+        "c": "apenas os mais talentosos devem ter acesso a direitos e oportunidades sociais",
+        "d": "as riquezas devem ser distribuídas de forma estritamente igualitária, sem qualquer critério adicional"
+      },
+      "resposta": "a",
+      "explicacao": "O princípio da diferença admite desigualdades sociais e econômicas, desde que estejam organizadas de modo a proporcionar o maior benefício possível aos membros menos favorecidos da sociedade, conciliando liberdade individual com justiça distributiva."
+    },
+    {
+      "id": "filosofia-sociologia-29",
+      "texto_apoio": "Jean Baudrillard, em \"A Sociedade de Consumo\", argumenta que os objetos, na contemporaneidade, não são consumidos apenas por sua utilidade prática.",
+      "enunciado": "Para Baudrillard, na sociedade de consumo, os objetos são valorizados, sobretudo, por seu",
+      "alternativas": {
+        "a": "valor de uso estritamente funcional, sem qualquer dimensão simbólica associada",
+        "b": "valor-signo, isto é, pela capacidade de comunicar status, identidade e distinção social ao consumidor",
+        "c": "custo de produção, que seria sempre idêntico ao seu preço final de venda",
+        "d": "peso e volume físico, que determinariam automaticamente seu prestígio social"
+      },
+      "resposta": "b",
+      "explicacao": "Baudrillard argumenta que, na sociedade de consumo, os objetos funcionam como signos que comunicam status e identidade social, sendo consumidos não apenas por sua utilidade, mas pelo que significam e distinguem socialmente seu possuidor."
+    },
+    {
+      "id": "filosofia-sociologia-30",
+      "texto_apoio": "O economista e sociólogo Thorstein Veblen, em \"A Teoria da Classe Ociosa\" (1899), cunhou uma expressão célebre para descrever certo tipo de consumo das elites.",
+      "enunciado": "O conceito de \"consumo conspícuo\", formulado por Veblen, refere-se",
+      "alternativas": {
+        "a": "à aquisição discreta e racional de bens estritamente necessários à subsistência",
+        "b": "à exibição ostensiva de bens e serviços de luxo como forma de demonstrar publicamente riqueza e status social",
+        "c": "à proibição legal de consumo de determinados produtos por razões sanitárias",
+        "d": "ao consumo exclusivamente de bens produzidos artesanalmente por comunidades tradicionais"
+      },
+      "resposta": "b",
+      "explicacao": "O \"consumo conspícuo\" descreve o padrão de consumo ostensivo, voltado à exibição pública de riqueza e status, característico da \"classe ociosa\" analisada por Veblen, em que o valor social do bem está associado à sua capacidade de demonstrar prestígio."
+    },
+    {
+      "id": "filosofia-sociologia-31",
+      "texto_apoio": "A partir da segunda metade do século XX, ganharam destaque movimentos sociais organizados em torno de pautas como gênero, meio ambiente e diversidade sexual, distintos dos movimentos operários clássicos centrados na questão de classe.",
+      "enunciado": "Esses movimentos, denominados pela sociologia \"novos movimentos sociais\", caracterizam-se, entre outros aspectos, por",
+      "alternativas": {
+        "a": "organizar-se exclusivamente em torno de reivindicações salariais e sindicais",
+        "b": "articular identidades coletivas plurais e pautas culturais e simbólicas, para além da tradicional divisão de classes sociais",
+        "c": "recusar totalmente qualquer forma de ação coletiva organizada",
+        "d": "restringir sua atuação unicamente ao ambiente parlamentar e partidário"
+      },
+      "resposta": "b",
+      "explicacao": "Os \"novos movimentos sociais\" (feminismo, ambientalismo, movimento LGBTQIA+, entre outros) articulam identidades coletivas e demandas culturais e simbólicas que extrapolam a clássica luta de classes, ampliando o repertório de ação coletiva e os espaços de reivindicação política."
+    },
+    {
+      "id": "filosofia-sociologia-32",
+      "texto_apoio": "O economista Mancur Olson, em \"A Lógica da Ação Coletiva\", discutiu os desafios enfrentados por grupos que buscam promover interesses comuns.",
+      "enunciado": "Segundo Olson, um dos principais obstáculos à ação coletiva bem-sucedida é o chamado \"problema do carona\" (free rider), que se refere à tendência de indivíduos",
+      "alternativas": {
+        "a": "participarem sempre ativamente de qualquer movimento que beneficie o grupo ao qual pertencem",
+        "b": "se beneficiarem dos resultados coletivos de uma mobilização sem contribuir com custos ou esforços para alcançá-la",
+        "c": "impedirem, por meios violentos, a participação de qualquer outro membro do grupo",
+        "d": "financiarem integralmente, de forma voluntária, todas as ações coletivas de um grupo"
+      },
+      "resposta": "b",
+      "explicacao": "O \"problema do carona\" descreve a tendência racional de indivíduos a se aproveitarem dos benefícios coletivos de uma mobilização (como uma conquista de direitos) sem arcar com os custos de participação, o que dificulta a organização de ações coletivas, sobretudo em grupos grandes."
+    },
+    {
+      "id": "filosofia-sociologia-33",
+      "texto_apoio": "Em cursos como \"Em Defesa da Sociedade\" e na \"História da Sexualidade\", Foucault descreve uma mudança histórica nas formas de exercício do poder sobre a vida.",
+      "enunciado": "O conceito foucaultiano de \"biopoder\" (ou biopolítica) refere-se, especificamente, a formas de poder que",
+      "alternativas": {
+        "a": "atuam exclusivamente sobre o corpo individual, por meio de punições físicas e suplícios públicos",
+        "b": "tomam como objeto a vida da população como um todo, regulando fenômenos como natalidade, mortalidade, saúde e longevidade",
+        "c": "se restringem ao controle das forças armadas e à guerra entre Estados",
+        "d": "desapareceram completamente com o fim das monarquias absolutistas"
+      },
+      "resposta": "b",
+      "explicacao": "Foucault descreve a biopolítica como uma tecnologia de poder que, diferentemente do poder disciplinar centrado no corpo individual, incide sobre a população como corpo biológico coletivo, regulando taxas de natalidade, mortalidade, saúde pública e expectativa de vida por meio de estatísticas e políticas de Estado."
+    },
+    {
+      "id": "filosofia-sociologia-34",
+      "texto_apoio": "Foucault também desenvolveu o conceito de \"governamentalidade\" para descrever formas modernas de condução da conduta dos indivíduos e das populações.",
+      "enunciado": "O conceito foucaultiano de \"governamentalidade\" diz respeito, principalmente,",
+      "alternativas": {
+        "a": "exclusivamente às técnicas de tortura empregadas pelo Estado absolutista",
+        "b": "ao conjunto de instituições, procedimentos, análises e táticas que permitem exercer uma forma específica e complexa de poder, tendo a população como alvo principal",
+        "c": "à eliminação de qualquer forma de administração estatal na sociedade contemporânea",
+        "d": "unicamente à eleição direta de governantes em regimes democráticos"
+      },
+      "resposta": "b",
+      "explicacao": "A governamentalidade designa o conjunto de saberes, instituições e técnicas (estatística, economia política, gestão administrativa) que permitem governar a população como alvo, articulando poder soberano, disciplina e biopolítica na condução das condutas individuais e coletivas."
+    },
+    {
+      "id": "filosofia-sociologia-35",
+      "texto_apoio": "O filósofo alemão Axel Honneth, em \"Luta por Reconhecimento\", propõe que os conflitos sociais podem ser compreendidos a partir da busca por reconhecimento.",
+      "enunciado": "Para Honneth, as experiências de desrespeito e injustiça social estão intimamente ligadas",
+      "alternativas": {
+        "a": "exclusivamente a fatores econômicos, sem qualquer dimensão moral ou psicológica envolvida",
+        "b": "à negação do reconhecimento devido aos indivíduos e grupos, nas esferas do amor, do direito e da estima social",
+        "c": "à ausência total de qualquer forma de conflito nas sociedades modernas",
+        "d": "a uma condição biológica imutável dos seres humanos"
+      },
+      "resposta": "b",
+      "explicacao": "Honneth argumenta que a integridade dos indivíduos depende do reconhecimento intersubjetivo em três esferas: o amor (relações afetivas primárias), o direito (reconhecimento jurídico como sujeito de direitos) e a estima social (valorização de suas capacidades e contribuições), sendo a negação desse reconhecimento fonte de conflitos e lutas sociais."
+    },
+    {
+      "id": "filosofia-sociologia-36",
+      "texto_apoio": "O filósofo canadense Charles Taylor discute, na obra \"Multiculturalismo\", a relação entre identidade e reconhecimento público nas sociedades plurais.",
+      "enunciado": "Segundo Taylor, a \"política do reconhecimento\" defende que",
+      "alternativas": {
+        "a": "o Estado deve ignorar completamente as identidades culturais particulares de grupos minoritários",
+        "b": "o reconhecimento público da identidade cultural de grupos e indivíduos é condição importante para sua dignidade, sendo o não reconhecimento ou o reconhecimento inadequado uma forma de opressão",
+        "c": "apenas identidades majoritárias merecem reconhecimento institucional e jurídico",
+        "d": "a identidade individual independe totalmente do reconhecimento social e cultural"
+      },
+      "resposta": "b",
+      "explicacao": "Taylor argumenta que a identidade se constitui, em parte, dialogicamente, a partir do reconhecimento (ou não reconhecimento) dado pelos outros e pelas instituições. A ausência ou distorção desse reconhecimento pode causar dano real à autoestima e à dignidade de indivíduos e grupos culturais, justificando políticas públicas de valorização da diversidade."
+    }
+  ]
+}

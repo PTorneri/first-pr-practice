@@ -1,0 +1,473 @@
+{
+  "subtopic": "artes-cultura",
+  "questoes": [
+    {
+      "id": "artes-cultura-01",
+      "texto_apoio": "O Renascimento, iniciado na Itália nos séculos XIV e XV, retomou valores da Antiguidade Clássica e rompeu com padrões estéticos medievais.",
+      "enunciado": "Uma das principais características da arte renascentista, presente em obras de Leonardo da Vinci e Rafael, é",
+      "alternativas": {
+        "a": "o uso exclusivo de temas religiosos bidimensionais, sem preocupação com profundidade",
+        "b": "o emprego da perspectiva linear e a valorização do racionalismo e do antropocentrismo",
+        "c": "a rejeição total de qualquer referência à cultura greco-romana",
+        "d": "a ausência completa de estudos anatômicos do corpo humano"
+      },
+      "resposta": "b",
+      "explicacao": "A arte renascentista desenvolveu a perspectiva linear, criando ilusão de profundidade, e valorizou o antropocentrismo e o racionalismo, retomando ideais clássicos e o estudo científico da anatomia e da natureza."
+    },
+    {
+      "id": "artes-cultura-02",
+      "texto_apoio": "O Barroco, que se desenvolveu principalmente nos séculos XVII e XVIII, teve forte presença no Brasil colonial, sobretudo em Minas Gerais.",
+      "enunciado": "A arte barroca, exemplificada pelas esculturas de Aleijadinho, caracteriza-se, entre outros aspectos, por",
+      "alternativas": {
+        "a": "linhas retas, simetria rígida e ausência de dramaticidade",
+        "b": "movimento, dramaticidade, contrastes de luz e sombra e forte apelo emocional e religioso",
+        "c": "a completa recusa de temas religiosos em favor de temas exclusivamente laicos",
+        "d": "o uso predominante de formas geométricas abstratas sem figuração"
+      },
+      "resposta": "b",
+      "explicacao": "O Barroco é marcado pelo dinamismo das formas, pelo forte contraste de luz e sombra (claro-escuro), pela dramaticidade e pelo intenso apelo emocional e religioso, características visíveis nas obras de Aleijadinho em Minas Gerais."
+    },
+    {
+      "id": "artes-cultura-03",
+      "texto_apoio": "No início do século XX, a Semana de Arte Moderna de 1922, em São Paulo, marcou uma ruptura estética no Brasil.",
+      "enunciado": "Um dos principais objetivos dos artistas envolvidos na Semana de Arte Moderna de 1922 era",
+      "alternativas": {
+        "a": "reafirmar os padrões estéticos acadêmicos europeus do século XIX sem nenhuma releitura",
+        "b": "romper com o academicismo tradicional e buscar uma identidade artística nacional, incorporando vanguardas europeias",
+        "c": "restringir a produção artística brasileira apenas à música clássica europeia",
+        "d": "eliminar totalmente qualquer influência estrangeira na cultura brasileira"
+      },
+      "resposta": "b",
+      "explicacao": "A Semana de 22 buscou romper com o academicismo e o conservadorismo estético vigentes, propondo uma arte moderna que dialogasse com as vanguardas europeias (como o Cubismo e o Futurismo) e, ao mesmo tempo, valorizasse elementos da cultura e identidade brasileiras."
+    },
+    {
+      "id": "artes-cultura-04",
+      "texto_apoio": "O movimento antropofágico, liderado por Oswald de Andrade a partir do \"Manifesto Antropófago\" (1928), propôs uma metáfora original para pensar a cultura brasileira.",
+      "enunciado": "A metáfora da \"antropofagia cultural\" proposta por Oswald de Andrade sugere que a cultura brasileira deveria",
+      "alternativas": {
+        "a": "rejeitar completamente qualquer influência cultural estrangeira",
+        "b": "copiar fielmente os modelos culturais europeus sem nenhuma transformação",
+        "c": "\"devorar\" criticamente influências estrangeiras, reelaborando-as de forma original e própria",
+        "d": "isolar-se culturalmente do restante do mundo"
+      },
+      "resposta": "c",
+      "explicacao": "A antropofagia cultural propõe que o Brasil \"devore\" simbolicamente referências estrangeiras, digerindo-as criticamente e transformando-as em algo novo e original, e não apenas copiando ou rejeitando integralmente influências externas."
+    },
+    {
+      "id": "artes-cultura-05",
+      "texto_apoio": "Theodor Adorno e Max Horkheimer, membros da Escola de Frankfurt, cunharam o conceito de \"indústria cultural\" em meados do século XX.",
+      "enunciado": "Para Adorno e Horkheimer, a expressão \"indústria cultural\" refere-se criticamente",
+      "alternativas": {
+        "a": "à produção artesanal e artística individualizada, distante da lógica de mercado",
+        "b": "à padronização e à mercantilização dos bens culturais, produzidos em massa segundo lógica industrial e voltados ao consumo passivo",
+        "c": "exclusivamente às políticas públicas de incentivo às artes",
+        "d": "a um fenômeno restrito apenas à música erudita europeia do século XIX"
+      },
+      "resposta": "b",
+      "explicacao": "O conceito de indústria cultural denuncia a transformação da cultura em mercadoria padronizada, produzida em série segundo a lógica industrial, o que tenderia a homogeneizar o gosto e estimular um consumo cultural pouco crítico e reflexivo."
+    },
+    {
+      "id": "artes-cultura-06",
+      "texto_apoio": "Walter Benjamin, em \"A Obra de Arte na Era de sua Reprodutibilidade Técnica\", discute os efeitos da reprodução técnica sobre a experiência artística.",
+      "enunciado": "Segundo Benjamin, um dos principais efeitos da reprodução técnica (fotografia, cinema) sobre a obra de arte é",
+      "alternativas": {
+        "a": "o fortalecimento da \"aura\" de unicidade e autenticidade da obra original",
+        "b": "a perda da \"aura\" da obra de arte, associada à sua unicidade, autenticidade e presença única no tempo e espaço",
+        "c": "a impossibilidade total de reproduzir qualquer obra de arte",
+        "d": "o desaparecimento completo do cinema como forma de expressão artística"
+      },
+      "resposta": "b",
+      "explicacao": "Benjamin argumenta que a reprodutibilidade técnica esvazia a \"aura\" da obra de arte — sua unicidade, autenticidade e vínculo com um tempo e lugar específicos — ao permitir cópias amplamente disseminadas, alterando a relação do público com a arte."
+    },
+    {
+      "id": "artes-cultura-07",
+      "texto_apoio": "A Pop Art, movimento surgido nas décadas de 1950 e 1960, teve em Andy Warhol um de seus principais representantes.",
+      "enunciado": "Um traço característico da Pop Art é",
+      "alternativas": {
+        "a": "a rejeição total de imagens ligadas ao consumo e à cultura de massa",
+        "b": "a incorporação de elementos da cultura de massa e do consumo, como embalagens de produtos e ícones da mídia, em obras de arte",
+        "c": "o uso exclusivo de técnicas medievais de pintura a fresco",
+        "d": "a ausência completa de cores vivas e contrastantes"
+      },
+      "resposta": "b",
+      "explicacao": "A Pop Art se apropriou de imagens da publicidade, do consumo e da cultura de massa (como latas de sopa e ícones midiáticos) para questionar, com ironia, os limites entre alta cultura e cultura popular na sociedade de consumo."
+    },
+    {
+      "id": "artes-cultura-08",
+      "texto_apoio": "A Tropicália, movimento cultural brasileiro do final da década de 1960, envolveu música, artes plásticas e cinema.",
+      "enunciado": "A Tropicália, associada a artistas como Caetano Veloso, Gilberto Gil e Hélio Oiticica, caracterizou-se por",
+      "alternativas": {
+        "a": "recusar qualquer diálogo com a cultura pop internacional, valorizando apenas o folclore regional",
+        "b": "misturar, de forma crítica e original, elementos da cultura popular brasileira com referências do rock e da vanguarda internacional",
+        "c": "adotar exclusivamente formas artísticas tradicionais europeias, sem inovação",
+        "d": "restringir-se apenas à literatura, sem produção musical ou visual"
+      },
+      "resposta": "b",
+      "explicacao": "A Tropicália mesclou, de modo antropofágico, elementos da música popular brasileira com guitarras elétricas, rock e experimentações da vanguarda internacional, propondo uma leitura crítica e original da identidade cultural brasileira em plena ditadura militar."
+    },
+    {
+      "id": "artes-cultura-09",
+      "texto_apoio": "A produção literária brasileira do século XX inclui autores fundamentais para a compreensão da identidade nacional.",
+      "enunciado": "A obra \"Grande Sertão: Veredas\", de Guimarães Rosa, é amplamente reconhecida por",
+      "alternativas": {
+        "a": "empregar linguagem estritamente formal, sem inovações estilísticas",
+        "b": "inovar radicalmente a linguagem literária, incorporando o falar sertanejo e recriando a sintaxe da língua portuguesa",
+        "c": "narrar exclusivamente fatos históricos documentados sobre a Guerra do Paraguai",
+        "d": "ser uma tradução direta de um romance europeu clássico"
+      },
+      "resposta": "b",
+      "explicacao": "Guimarães Rosa é célebre por sua experimentação linguística, recriando neologismos e a sintaxe do português a partir da oralidade sertaneja, o que representou uma profunda renovação estética na literatura brasileira do século XX."
+    },
+    {
+      "id": "artes-cultura-10",
+      "texto_apoio": "O modernismo brasileiro na música teve em Villa-Lobos um de seus maiores expoentes, ao dialogar com referências eruditas e populares.",
+      "enunciado": "A obra de Heitor Villa-Lobos é reconhecida por",
+      "alternativas": {
+        "a": "ignorar completamente elementos da cultura popular brasileira em suas composições",
+        "b": "combinar técnicas da música erudita europeia com elementos do folclore e da cultura popular brasileira",
+        "c": "restringir-se exclusivamente à reprodução fiel de partituras europeias do período barroco",
+        "d": "recusar qualquer inovação orquestral em relação à tradição do século XIX"
+      },
+      "resposta": "b",
+      "explicacao": "Villa-Lobos é reconhecido por integrar técnicas de composição erudita europeia a elementos populares e folclóricos brasileiros, como nas séries \"Bachianas Brasileiras\" e \"Choros\", criando uma linguagem musical nacional e original."
+    },
+    {
+      "id": "artes-cultura-11",
+      "texto_apoio": "O debate sobre apropriação cultural tem ganhado espaço crescente nas discussões contemporâneas sobre arte e sociedade.",
+      "enunciado": "No debate contemporâneo sobre arte, o conceito de \"apropriação cultural\" é frequentemente criticado quando se refere a situações em que",
+      "alternativas": {
+        "a": "membros de uma cultura dominante utilizam elementos de culturas minoritárias sem reconhecimento de origem, contexto ou benefício para o grupo de origem",
+        "b": "artistas de qualquer origem cultural realizam livremente trocas artísticas mutuamente reconhecidas e valorizadas",
+        "c": "uma comunidade cultural reivindica e preserva suas próprias tradições internamente",
+        "d": "há tradução literária de obras entre diferentes idiomas com créditos devidamente atribuídos"
+      },
+      "resposta": "a",
+      "explicacao": "A crítica à apropriação cultural recai, sobretudo, sobre situações de assimetria de poder, em que grupos dominantes utilizam símbolos, estéticas ou práticas de culturas minoritárias ou marginalizadas sem reconhecimento devido, descontextualizando-os ou lucrando sem retorno para o grupo de origem."
+    },
+    {
+      "id": "artes-cultura-12",
+      "texto_apoio": "A arte digital e as novas mídias têm ampliado as possibilidades de criação e circulação artística no século XXI.",
+      "enunciado": "Entre as características que distinguem a arte digital contemporânea de formas artísticas tradicionais, destaca-se",
+      "alternativas": {
+        "a": "a impossibilidade de reprodução ou compartilhamento das obras",
+        "b": "a possibilidade de interatividade com o público e de circulação ampla em redes digitais",
+        "c": "a exigência de que toda obra seja necessariamente única e não reprodutível",
+        "d": "a total ausência de qualquer diálogo com movimentos artísticos anteriores"
+      },
+      "resposta": "b",
+      "explicacao": "A arte digital frequentemente explora recursos como interatividade, participação do público, circulação em redes sociais e plataformas online, além de novas formas de autoria coletiva e reprodutibilidade, distinguindo-se de suportes tradicionais como tela e escultura."
+    },
+    {
+      "id": "artes-cultura-13",
+      "texto_apoio": "O mercado de arte contemporâneo movimenta bilhões de dólares anualmente em leilões e galerias internacionais.",
+      "enunciado": "Um dos principais dilemas apontados por críticos em relação à relação entre arte e mercado na contemporaneidade é",
+      "alternativas": {
+        "a": "a total independência entre valor artístico e valor de mercado, sem qualquer influência mútua",
+        "b": "a tensão entre o valor simbólico e crítico da obra e sua transformação em ativo financeiro e objeto de especulação",
+        "c": "a ausência completa de leilões e galerias no circuito internacional de arte",
+        "d": "a impossibilidade de qualquer obra contemporânea alcançar valorização financeira"
+      },
+      "resposta": "b",
+      "explicacao": "Críticos apontam a tensão entre o potencial crítico e simbólico da arte e sua crescente transformação em mercadoria de especulação financeira, em que o valor de obras pode ser definido mais por lógicas de mercado do que por seu conteúdo estético ou crítico."
+    },
+    {
+      "id": "artes-cultura-14",
+      "texto_apoio": "O grafite e a arte urbana ganharam reconhecimento crescente como manifestações artísticas legítimas, ultrapassando o espaço das galerias tradicionais.",
+      "enunciado": "A ascensão da arte urbana e do grafite ao circuito institucional de museus e galerias, nas últimas décadas, é frequentemente interpretada como",
+      "alternativas": {
+        "a": "uma prova de que a arte urbana nunca teve qualquer relação com contextos de contestação social",
+        "b": "um processo de legitimação de uma linguagem antes marginalizada, que também gera debates sobre sua institucionalização e comercialização",
+        "c": "um fenômeno restrito exclusivamente a cidades europeias, sem qualquer expressão no Brasil",
+        "d": "a substituição definitiva da pintura de cavalete por toda e qualquer outra técnica"
+      },
+      "resposta": "b",
+      "explicacao": "A entrada do grafite e da arte urbana em museus e galerias reflete um processo de legitimação artística, mas também suscita debates sobre a perda de seu caráter originalmente contestador e underground ao ser absorvida pelo mercado e por instituições tradicionais."
+    },
+    {
+      "id": "artes-cultura-15",
+      "texto_apoio": "O Cubismo, desenvolvido por Pablo Picasso e Georges Braque no início do século XX, rompeu com a representação tradicional da perspectiva.",
+      "enunciado": "Uma característica central do Cubismo é",
+      "alternativas": {
+        "a": "a fragmentação das formas e a representação simultânea de múltiplos pontos de vista de um mesmo objeto",
+        "b": "o uso exclusivo da perspectiva linear renascentista, sem qualquer distorção geométrica",
+        "c": "a ausência total de geometrização das formas representadas",
+        "d": "a fidelidade fotográfica às proporções naturais dos objetos e figuras"
+      },
+      "resposta": "a",
+      "explicacao": "O Cubismo rompeu com a perspectiva tradicional ao fragmentar objetos e figuras em planos geométricos, apresentando simultaneamente diferentes ângulos e pontos de vista de um mesmo elemento em uma única composição."
+    },
+    {
+      "id": "artes-cultura-16",
+      "texto_apoio": "A pintora Tarsila do Amaral é uma das principais representantes do modernismo brasileiro, autora de obras como \"Abaporu\".",
+      "enunciado": "A obra \"Abaporu\", de Tarsila do Amaral, tornou-se emblemática por",
+      "alternativas": {
+        "a": "retratar cenas urbanas europeias em estilo hiper-realista",
+        "b": "ter inspirado o Manifesto Antropófago, ao representar uma figura de proporções desconformes ligada à identidade brasileira",
+        "c": "ser uma obra estritamente abstrata, sem qualquer elemento figurativo",
+        "d": "ter sido pintada exclusivamente com técnicas de gravura em madeira"
+      },
+      "resposta": "b",
+      "explicacao": "\"Abaporu\" (1928), com sua figura de pés e mãos desproporcionais, foi presenteada por Tarsila a Oswald de Andrade e serviu de inspiração direta para o Manifesto Antropófago, tornando-se um dos ícones visuais do modernismo brasileiro."
+    },
+    {
+      "id": "artes-cultura-17",
+      "texto_apoio": "O termo \"streaming\" tornou-se central para compreender a distribuição contemporânea de música, cinema e séries.",
+      "enunciado": "Entre os impactos das plataformas de streaming sobre a produção cultural contemporânea, discutido por pesquisadores da área, está",
+      "alternativas": {
+        "a": "a completa eliminação da desigualdade de acesso a bens culturais entre diferentes classes sociais",
+        "b": "a alteração nas formas de consumo e remuneração de artistas, além de mudanças nos formatos das obras influenciadas por algoritmos de recomendação",
+        "c": "o desaparecimento total de qualquer forma de produção artística independente",
+        "d": "a impossibilidade de qualquer artista alcançar visibilidade fora das grandes gravadoras"
+      },
+      "resposta": "b",
+      "explicacao": "As plataformas de streaming reconfiguraram o consumo cultural, alterando modelos de remuneração de artistas, favorecendo certos formatos (como músicas mais curtas) e utilizando algoritmos de recomendação que moldam o alcance e a visibilidade das obras."
+    },
+    {
+      "id": "artes-cultura-18",
+      "texto_apoio": "O escritor Machado de Assis é considerado um dos maiores nomes da literatura brasileira, com obras como \"Dom Casmurro\" e \"Memórias Póstumas de Brás Cubas\".",
+      "enunciado": "Uma característica marcante da narrativa machadiana, sobretudo em sua fase realista, é",
+      "alternativas": {
+        "a": "o uso de narradores ingênuos e completamente confiáveis, sem ironia",
+        "b": "o emprego de ironia refinada e de narradores que questionam sua própria confiabilidade, revelando contradições da sociedade e da psicologia humana",
+        "c": "a ausência total de crítica social em suas obras",
+        "d": "a exclusividade de temas rurais, sem qualquer retrato da vida urbana carioca"
+      },
+      "resposta": "b",
+      "explicacao": "Machado de Assis é reconhecido por sua ironia sofisticada e pelo uso de narradores pouco confiáveis (como Brás Cubas e Bentinho), que expõem, muitas vezes de forma sutil, as contradições morais e sociais da elite carioca do século XIX."
+    },
+    {
+      "id": "artes-cultura-19",
+      "texto_apoio": "O Expressionismo, movimento artístico surgido na Alemanha no início do século XX, esteve presente na pintura, no cinema e no teatro.",
+      "enunciado": "Uma característica central da pintura expressionista, presente em obras de artistas como Edvard Munch e Ernst Ludwig Kirchner, é",
+      "alternativas": {
+        "a": "a busca pela representação fiel e objetiva da realidade externa, sem qualquer distorção",
+        "b": "a distorção das formas e o uso de cores intensas e contrastantes para expressar estados emocionais e angústias subjetivas",
+        "c": "a ausência total de figuras humanas nas composições",
+        "d": "o emprego exclusivo de tons pastéis suaves, sem contrastes cromáticos"
+      },
+      "resposta": "b",
+      "explicacao": "O Expressionismo privilegia a expressão subjetiva de emoções e angústias interiores, muitas vezes por meio de formas distorcidas, cores fortes e contrastantes e composições dramáticas, priorizando a expressão sobre a representação fiel da realidade objetiva."
+    },
+    {
+      "id": "artes-cultura-20",
+      "texto_apoio": "O cinema expressionista alemão, das décadas de 1910 e 1920, é exemplificado por filmes como \"O Gabinete do Dr. Caligari\" (1920).",
+      "enunciado": "Entre os traços marcantes do cinema expressionista alemão está",
+      "alternativas": {
+        "a": "o uso de cenários realistas e naturalistas, sem qualquer estilização",
+        "b": "a utilização de cenários distorcidos, sombras acentuadas e iluminação dramática para criar atmosferas de angústia e instabilidade psicológica",
+        "c": "a filmagem exclusiva em ambientes externos, sem qualquer construção de estúdio",
+        "d": "a ausência completa de qualquer relação entre estética visual e estado psicológico dos personagens"
+      },
+      "resposta": "b",
+      "explicacao": "O cinema expressionista alemão utilizava cenários estilizados e distorcidos, contrastes acentuados de luz e sombra e enquadramentos inquietantes para exteriorizar visualmente estados psicológicos de angústia, loucura e instabilidade, influenciando fortemente o cinema de horror e o noir posteriores."
+    },
+    {
+      "id": "artes-cultura-21",
+      "texto_apoio": "O Surrealismo, movimento lançado por André Breton em 1924 com o \"Manifesto Surrealista\", buscava explorar o inconsciente e os sonhos como fontes de criação artística.",
+      "enunciado": "Um dos princípios centrais do Surrealismo, influenciado pela psicanálise de Freud, era",
+      "alternativas": {
+        "a": "a valorização exclusiva da razão consciente e do planejamento racional na criação artística",
+        "b": "o uso de técnicas como a escrita automática e a justaposição de imagens oníricas, buscando expressar o inconsciente livre do controle da razão",
+        "c": "a representação fiel e documental de cenas cotidianas urbanas",
+        "d": "a rejeição total de qualquer influência das teorias psicológicas sobre a arte"
+      },
+      "resposta": "b",
+      "explicacao": "O Surrealismo buscava acessar o inconsciente e os processos oníricos por meio de técnicas como a escrita automática e associações livres de imagens, criando composições que rompiam com a lógica racional consciente, sob forte influência das ideias de Freud sobre o inconsciente."
+    },
+    {
+      "id": "artes-cultura-22",
+      "texto_apoio": "O pintor espanhol Salvador Dalí, com obras como \"A Persistência da Memória\", é um dos nomes mais associados ao Surrealismo.",
+      "enunciado": "As composições surrealistas de Salvador Dalí, marcadas por relógios derretidos e paisagens desérticas oníricas, têm como principal objetivo",
+      "alternativas": {
+        "a": "documentar fielmente paisagens reais observadas pelo artista durante viagens",
+        "b": "representar visualmente a lógica dos sonhos e do inconsciente, combinando elementos realistas de forma inusitada e irracional",
+        "c": "ilustrar de forma didática conceitos da física newtoniana sobre o tempo",
+        "d": "reproduzir tecnicamente pinturas religiosas medievais sem qualquer inovação"
+      },
+      "resposta": "b",
+      "explicacao": "Dalí desenvolveu o chamado \"método paranoico-crítico\", representando com precisão técnica quase fotográfica elementos irracionais e oníricos, criando imagens que rompem com a lógica racional para expressar visualmente processos do inconsciente."
+    },
+    {
+      "id": "artes-cultura-23",
+      "texto_apoio": "O Cinema Novo, movimento cinematográfico brasileiro surgido no final dos anos 1950 e ao longo da década de 1960, teve Glauber Rocha como uma de suas principais lideranças.",
+      "enunciado": "A célebre expressão \"estética da fome\", formulada por Glauber Rocha, defendia que o cinema brasileiro deveria",
+      "alternativas": {
+        "a": "reproduzir fielmente os padrões estéticos e narrativos do cinema comercial hollywoodiano",
+        "b": "transformar a pobreza e a violência das condições sociais brasileiras em matéria-prima estética e política, sem os recursos e o glamour do cinema industrial",
+        "c": "evitar completamente qualquer abordagem de temas sociais ou políticos",
+        "d": "restringir-se exclusivamente a produções financiadas por grandes estúdios internacionais"
+      },
+      "resposta": "b",
+      "explicacao": "A \"estética da fome\" propunha um cinema que assumisse, de forma crítica e criativa, a precariedade material e a realidade de miséria e violência do país como linguagem estética e política, em oposição ao cinema industrial alienado, associando baixo orçamento à radicalidade formal e temática."
+    },
+    {
+      "id": "artes-cultura-24",
+      "texto_apoio": "O filme \"Vidas Secas\" (1963), de Nelson Pereira dos Santos, baseado no romance de Graciliano Ramos, é uma das obras emblemáticas do Cinema Novo.",
+      "enunciado": "O Cinema Novo brasileiro, do qual \"Vidas Secas\" é exemplo, caracterizou-se, entre outros aspectos, por",
+      "alternativas": {
+        "a": "retratar exclusivamente a vida da elite urbana das grandes capitais brasileiras",
+        "b": "abordar criticamente as desigualdades sociais e a realidade do sertão e das periferias, com linguagem cinematográfica autoral e engajada politicamente",
+        "c": "empregar grandes orçamentos e efeitos especiais semelhantes aos do cinema hollywoodiano da época",
+        "d": "evitar qualquer diálogo com a literatura brasileira"
+      },
+      "resposta": "b",
+      "explicacao": "O Cinema Novo se caracterizou pelo compromisso com temas sociais brasileiros — como a seca, a fome e as desigualdades regionais —, aliado a uma linguagem cinematográfica autoral, de baixo orçamento e forte engajamento político e crítico, muitas vezes dialogando com a literatura nacional."
+    },
+    {
+      "id": "artes-cultura-25",
+      "texto_apoio": "O Cinema Novo ficou conhecido pelo lema atribuído a Glauber Rocha: \"uma câmera na mão e uma ideia na cabeça\".",
+      "enunciado": "Esse lema expressa, sobretudo, a proposta do movimento de",
+      "alternativas": {
+        "a": "valorizar a alta tecnologia e os grandes orçamentos como condição indispensável para fazer cinema de qualidade",
+        "b": "defender que a produção cinematográfica poderia prescindir de grandes estruturas industriais, priorizando o compromisso autoral, crítico e político do cineasta",
+        "c": "eliminar totalmente a necessidade de roteiro ou planejamento narrativo nos filmes",
+        "d": "restringir a realização cinematográfica a profissionais formados exclusivamente no exterior"
+      },
+      "resposta": "b",
+      "explicacao": "O lema sintetiza a proposta do Cinema Novo de um cinema autoral e politicamente engajado, possível mesmo com poucos recursos técnicos e financeiros, valorizando a ideia, a crítica social e a criatividade do realizador acima da grandiosidade da produção industrial."
+    },
+    {
+      "id": "artes-cultura-26",
+      "texto_apoio": "O teatrólogo brasileiro Augusto Boal desenvolveu, a partir da década de 1970, um conjunto de técnicas teatrais reunidas sob o nome de \"Teatro do Oprimido\".",
+      "enunciado": "O Teatro do Oprimido, criado por Augusto Boal, propõe, entre outros aspectos,",
+      "alternativas": {
+        "a": "manter o espectador em posição passiva, apenas assistindo à encenação sem qualquer forma de intervenção",
+        "b": "transformar o espectador em \"espect-ator\", que pode intervir diretamente na cena, ensaiando soluções para situações de opressão social",
+        "c": "restringir-se à encenação de textos clássicos gregos, sem qualquer atualização temática",
+        "d": "eliminar qualquer relação entre teatro e questões políticas ou sociais"
+      },
+      "resposta": "b",
+      "explicacao": "Boal propôs técnicas como o \"teatro-fórum\", em que o público é convidado a interromper a cena e substituir o protagonista, ensaiando na prática alternativas para situações de opressão, rompendo com a passividade tradicional da plateia e aproximando teatro e ação política."
+    },
+    {
+      "id": "artes-cultura-27",
+      "texto_apoio": "Nelson Rodrigues é considerado um dos renovadores do teatro brasileiro moderno, com peças como \"Vestido de Noiva\" (1943).",
+      "enunciado": "A dramaturgia de Nelson Rodrigues é reconhecida, entre outros aspectos, por",
+      "alternativas": {
+        "a": "evitar completamente temas considerados tabus pela sociedade de sua época",
+        "b": "explorar, de forma inovadora quanto à estrutura cênica e temporal, temas como desejo, hipocrisia e conflitos familiares, rompendo com convenções do teatro realista tradicional",
+        "c": "restringir-se a comédias leves, sem qualquer tensão dramática",
+        "d": "narrar exclusivamente episódios históricos oficiais do Brasil colonial"
+      },
+      "resposta": "b",
+      "explicacao": "Nelson Rodrigues inovou ao romper com a estrutura linear do teatro realista, explorando planos temporais simultâneos (como em \"Vestido de Noiva\") e abordando, sem eufemismos, temas polêmicos como desejo, hipocrisia social e conflitos familiares, o que representou uma renovação da dramaturgia brasileira."
+    },
+    {
+      "id": "artes-cultura-28",
+      "texto_apoio": "Oscar Niemeyer, um dos principais nomes da arquitetura moderna brasileira, projetou diversos edifícios emblemáticos de Brasília.",
+      "enunciado": "Um traço característico da arquitetura de Oscar Niemeyer, presente em obras como o Palácio do Planalto e a Catedral de Brasília, é",
+      "alternativas": {
+        "a": "a rejeição do concreto armado em favor de estruturas exclusivamente em madeira",
+        "b": "o uso expressivo de formas curvas e sinuosas em concreto armado, explorando a plasticidade desse material além da rigidez geométrica",
+        "c": "a fidelidade estrita aos padrões clássicos greco-romanos, sem qualquer inovação estrutural",
+        "d": "a ausência completa de espaços públicos ou monumentais em seus projetos"
+      },
+      "resposta": "b",
+      "explicacao": "Niemeyer é reconhecido pelo uso criativo e plástico do concreto armado, explorando curvas e formas sinuosas que rompiam com a rigidez geométrica então predominante no movimento moderno internacional, criando uma linguagem arquitetônica singular e brasileira."
+    },
+    {
+      "id": "artes-cultura-29",
+      "texto_apoio": "A construção de Brasília, inaugurada em 1960 como nova capital federal, seguiu o plano urbanístico elaborado por Lúcio Costa, com edifícios projetados por Oscar Niemeyer.",
+      "enunciado": "O plano piloto de Brasília, concebido por Lúcio Costa, organiza a cidade a partir de dois eixos principais que se cruzam, e é reconhecido, entre outros aspectos, por",
+      "alternativas": {
+        "a": "reproduzir fielmente o traçado das cidades medievais europeias, com ruas estreitas e sinuosas",
+        "b": "aplicar princípios do urbanismo modernista, com setorização de funções urbanas (habitação, trabalho, lazer) e amplos espaços monumentais",
+        "c": "rejeitar completamente qualquer forma de planejamento urbano prévio, privilegiando o crescimento espontâneo",
+        "d": "restringir a cidade exclusivamente a edificações de baixa altura, sem qualquer verticalização"
+      },
+      "resposta": "b",
+      "explicacao": "O plano piloto de Brasília expressa os princípios do urbanismo modernista (influenciados pela Carta de Atenas), com setorização de funções urbanas, amplas avenidas, espaços monumentais no Eixo Monumental e áreas residenciais organizadas nas superquadras do Eixo Rodoviário."
+    },
+    {
+      "id": "artes-cultura-30",
+      "texto_apoio": "Em 1987, Brasília tornou-se a primeira cidade do século XX a ser reconhecida como Patrimônio Cultural da Humanidade pela UNESCO.",
+      "enunciado": "O reconhecimento de Brasília como Patrimônio da Humanidade se deve, principalmente,",
+      "alternativas": {
+        "a": "à sua arquitetura colonial portuguesa, preservada desde o período do Brasil Império",
+        "b": "ao conjunto urbanístico e arquitetônico modernista da cidade, testemunho excepcional da aplicação dos princípios do urbanismo moderno em escala real",
+        "c": "à existência de monumentos exclusivamente religiosos de origem barroca",
+        "d": "à ausência completa de intervenção humana na paisagem original do Planalto Central"
+      },
+      "resposta": "b",
+      "explicacao": "Brasília foi reconhecida pela UNESCO como patrimônio da humanidade por representar um testemunho excepcional da aplicação, em escala real e integrada, dos princípios do urbanismo e da arquitetura modernista do século XX, concebidos por Lúcio Costa e Oscar Niemeyer."
+    },
+    {
+      "id": "artes-cultura-31",
+      "texto_apoio": "A moda, enquanto sistema de signos e práticas sociais, tem sido estudada por sociólogos e semiólogos, como Roland Barthes em \"Sistema da Moda\".",
+      "enunciado": "Do ponto de vista sociológico, a moda pode ser compreendida, entre outros aspectos, como",
+      "alternativas": {
+        "a": "um fenômeno estritamente estético, desvinculado de qualquer relação com identidade social ou distinção de classe",
+        "b": "uma linguagem social que comunica identidade, pertencimento a grupos e posição social, além de expressar valores culturais de uma época",
+        "c": "um sistema imutável de regras que não se transforma ao longo do tempo",
+        "d": "uma prática restrita exclusivamente ao consumo de roupas de grifes de luxo"
+      },
+      "resposta": "b",
+      "explicacao": "A moda funciona como um sistema de signos que comunica identidade, pertencimento social, valores culturais e posição em hierarquias de gosto e classe, variando historicamente e refletindo transformações sociais mais amplas, como demonstrado por estudos semiológicos e sociológicos sobre o vestuário."
+    },
+    {
+      "id": "artes-cultura-32",
+      "texto_apoio": "Estilistas e coletivos brasileiros têm incorporado, nas últimas décadas, referências afro-brasileiras e indígenas em suas coleções, associando moda e afirmação identitária.",
+      "enunciado": "Esse tipo de produção na moda contemporânea brasileira pode ser interpretado como uma forma de",
+      "alternativas": {
+        "a": "desconexão total entre estética e questões sociais ou identitárias",
+        "b": "utilizar o vestuário como instrumento de valorização cultural e afirmação de identidades historicamente marginalizadas",
+        "c": "imitação servil de tendências europeias, sem qualquer elaboração própria",
+        "d": "padronização completa da estética de todos os desfiles e coleções nacionais"
+      },
+      "resposta": "b",
+      "explicacao": "A incorporação de referências afro-brasileiras e indígenas na moda nacional expressa um movimento de valorização e afirmação identitária, em que o vestuário se torna instrumento de visibilidade cultural, resistência e reelaboração criativa de tradições historicamente marginalizadas."
+    },
+    {
+      "id": "artes-cultura-33",
+      "texto_apoio": "O tombamento é um dos principais instrumentos jurídicos de proteção do patrimônio cultural no Brasil, realizado por órgãos como o IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional).",
+      "enunciado": "O tombamento de um bem cultural, histórico ou arquitetônico tem como principal efeito",
+      "alternativas": {
+        "a": "transferir automaticamente a propriedade do bem para o Estado, retirando-a do proprietário original",
+        "b": "impor restrições à modificação, destruição ou descaracterização do bem, com o objetivo de preservar seu valor histórico, artístico ou cultural",
+        "c": "autorizar a livre demolição do bem, desde que haja compensação financeira ao proprietário",
+        "d": "permitir a venda irrestrita do bem no mercado internacional sem qualquer controle"
+      },
+      "resposta": "b",
+      "explicacao": "O tombamento não transfere a propriedade do bem, mas impõe restrições legais que visam impedir sua destruição, descaracterização ou modificação sem autorização do órgão competente, preservando seu valor histórico, artístico, arquitetônico ou cultural para as futuras gerações."
+    },
+    {
+      "id": "artes-cultura-34",
+      "texto_apoio": "Nas últimas décadas, museus ao redor do mundo têm revisto seu papel social, buscando ampliar o acesso e o diálogo com públicos diversos.",
+      "enunciado": "Esse movimento de renovação da função dos museus contemporâneos caracteriza-se, sobretudo, pela",
+      "alternativas": {
+        "a": "manutenção do museu exclusivamente como espaço de guarda e conservação de objetos, sem qualquer preocupação educativa",
+        "b": "ampliação do papel educativo, crítico e inclusivo das instituições museológicas, buscando democratizar o acesso e dialogar com diferentes públicos e narrativas históricas",
+        "c": "proibição total de qualquer forma de acesso digital ou virtual aos acervos",
+        "d": "restrição do acesso aos museus exclusivamente a especialistas e pesquisadores acadêmicos"
+      },
+      "resposta": "b",
+      "explicacao": "Os museus contemporâneos têm ampliado seu papel para além da simples guarda de acervos, assumindo funções educativas, críticas e de mediação cultural, buscando democratizar o acesso, dialogar com narrativas historicamente silenciadas e ampliar a participação de públicos diversos."
+    },
+    {
+      "id": "artes-cultura-35",
+      "texto_apoio": "O reconhecimento dos jogos eletrônicos (games) como forma de expressão artística tem gerado debates entre críticos, artistas e pesquisadores culturais.",
+      "enunciado": "Entre os argumentos utilizados para defender os games como forma de arte está o fato de que eles podem",
+      "alternativas": {
+        "a": "ser reduzidos exclusivamente a produtos de entretenimento comercial, sem qualquer intenção estética ou narrativa",
+        "b": "articular elementos visuais, sonoros, narrativos e interativos de modo autoral, propondo experiências estéticas e reflexivas únicas ao jogador",
+        "c": "eliminar completamente a participação ativa do usuário na experiência proposta",
+        "d": "restringir-se apenas à reprodução de mecânicas repetitivas sem qualquer inovação criativa"
+      },
+      "resposta": "b",
+      "explicacao": "Defensores dos games como forma de arte destacam sua capacidade de integrar, de modo autoral e interativo, elementos visuais, sonoros e narrativos, criando experiências estéticas singulares em que o jogador participa ativamente da construção do sentido, o que distingue os games de outras formas de mídia."
+    },
+    {
+      "id": "artes-cultura-36",
+      "texto_apoio": "Diferentemente do cinema e da literatura, os jogos eletrônicos permitem, em muitos casos, que o jogador influencie diretamente o desenrolar da narrativa.",
+      "enunciado": "Essa característica dos games, chamada de interatividade narrativa, representa uma inovação estética importante porque",
+      "alternativas": {
+        "a": "torna irrelevante qualquer elaboração de roteiro ou design visual no processo de criação de um jogo",
+        "b": "permite ao jogador tomar decisões que alteram o curso da história, tornando-o coautor da experiência estética, de forma distinta da fruição passiva de outras artes",
+        "c": "impede que os games sejam considerados produtos culturais, por dependerem da ação do usuário",
+        "d": "elimina qualquer forma de direção artística ou intenção autoral por parte dos desenvolvedores"
+      },
+      "resposta": "b",
+      "explicacao": "A interatividade narrativa dos games permite que o jogador tome decisões que influenciam o desenrolar da história, tornando-o coautor da experiência, o que constitui uma forma estética singular, distinta da fruição mais passiva característica do cinema ou da literatura tradicional."
+    }
+  ]
+}

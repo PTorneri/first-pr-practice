@@ -1,0 +1,473 @@
+{
+  "subtopic": "geografia",
+  "questoes": [
+    {
+      "id": "geografia-01",
+      "texto_apoio": "",
+      "enunciado": "O intenso processo de urbanização brasileira ocorrido a partir da segunda metade do século XX esteve diretamente relacionado a:",
+      "alternativas": {
+        "a": "Um aumento generalizado da produtividade agrícola artesanal, sem qualquer mudança tecnológica",
+        "b": "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades",
+        "c": "Uma política deliberada de desestímulo à industrialização urbana",
+        "d": "A redistribuição igualitária de terras no campo, que expulsou os grandes proprietários"
+      },
+      "resposta": "b",
+      "explicacao": "A modernização agrícola reduziu a demanda por mão de obra no campo, enquanto a industrialização concentrada nas cidades atraía trabalhadores em busca de emprego, resultando em intenso êxodo rural e crescimento acelerado e desigual das cidades brasileiras."
+    },
+    {
+      "id": "geografia-02",
+      "texto_apoio": "",
+      "enunciado": "A formação de favelas nas grandes cidades brasileiras está associada, entre outros fatores, a:",
+      "alternativas": {
+        "a": "O planejamento urbano eficiente que previu áreas de habitação popular com infraestrutura completa",
+        "b": "A insuficiência de políticas habitacionais frente ao intenso crescimento urbano, à especulação imobiliária e à concentração de renda",
+        "c": "A ausência completa de migração campo-cidade no país",
+        "d": "A distribuição igualitária de infraestrutura urbana entre bairros centrais e periféricos"
+      },
+      "resposta": "b",
+      "explicacao": "O crescimento urbano acelerado, não acompanhado de políticas habitacionais adequadas, somado à especulação imobiliária e à concentração de renda, empurrou parcela significativa da população para ocupações irregulares em áreas periféricas ou de risco, dando origem às favelas."
+    },
+    {
+      "id": "geografia-03",
+      "texto_apoio": "",
+      "enunciado": "As migrações internacionais contemporâneas podem ter diferentes motivações. Um exemplo de migração forçada, distinta da migração econômica voluntária, é o caso de:",
+      "alternativas": {
+        "a": "Trabalhadores que se mudam para outro país em busca de melhores salários",
+        "b": "Estudantes que buscam universidades estrangeiras de prestígio",
+        "c": "Pessoas que fogem de seus países de origem devido a conflitos armados, perseguição política, étnica ou religiosa",
+        "d": "Aposentados que se mudam para países com custo de vida mais baixo"
+      },
+      "resposta": "c",
+      "explicacao": "Refugiados são pessoas forçadas a deixar seu país devido a fundado temor de perseguição, guerra ou violência generalizada, o que os distingue juridicamente dos migrantes econômicos, que se deslocam voluntariamente em busca de melhores oportunidades."
+    },
+    {
+      "id": "geografia-04",
+      "texto_apoio": "",
+      "enunciado": "Do ponto de vista do direito internacional, a principal diferença entre um refugiado e um migrante econômico é que o refugiado:",
+      "alternativas": {
+        "a": "Possui proteção jurídica internacional específica, por não poder retornar ao seu país devido a fundado temor de perseguição ou violência",
+        "b": "Sempre possui melhores condições financeiras do que o migrante econômico",
+        "c": "Não pode, em nenhuma hipótese, solicitar cidadania no país de acolhimento",
+        "d": "Migra exclusivamente por motivos de trabalho e não por necessidade"
+      },
+      "resposta": "a",
+      "explicacao": "O status de refugiado, definido pela Convenção de 1951 da ONU, garante proteção jurídica internacional específica a quem foge de perseguição, guerra ou violência, diferentemente do migrante econômico, que se desloca voluntariamente e não possui, a princípio, a mesma proteção internacional."
+    },
+    {
+      "id": "geografia-05",
+      "texto_apoio": "O Aquífero Guarani é um dos maiores reservatórios de água doce subterrânea do mundo, estendendo-se por Brasil, Argentina, Paraguai e Uruguai.",
+      "enunciado": "A crescente preocupação geopolítica com recursos hídricos como o Aquífero Guarani decorre principalmente de:",
+      "alternativas": {
+        "a": "A abundância ilimitada de água doce no planeta, que torna esse recurso irrelevante estrategicamente",
+        "b": "A crescente escassez relativa de água potável em diversas regiões do mundo, tornando esse recurso estratégico para o desenvolvimento econômico e a segurança alimentar",
+        "c": "A ausência de qualquer uso econômico para reservas subterrâneas de água",
+        "d": "A obrigatoriedade legal internacional de privatização de todos os recursos hídricos"
+      },
+      "resposta": "b",
+      "explicacao": "Embora a água seja um recurso renovável, sua distribuição é desigual e sua demanda cresce com a população, a agricultura irrigada e a indústria, o que torna reservas como o Aquífero Guarani estrategicamente relevantes para a segurança hídrica e alimentar das regiões que o compartilham."
+    },
+    {
+      "id": "geografia-06",
+      "texto_apoio": "",
+      "enunciado": "A concentração de grande parte das reservas mundiais de petróleo no Oriente Médio explica, em boa medida, por que essa região:",
+      "alternativas": {
+        "a": "Manteve-se historicamente isolada dos interesses geopolíticos das grandes potências",
+        "b": "Tornou-se palco de disputas geopolíticas e conflitos frequentemente relacionados ao controle desse recurso estratégico",
+        "c": "Desenvolveu-se de forma totalmente independente do mercado internacional de energia",
+        "d": "Perdeu importância econômica global após a descoberta de petróleo em outras regiões"
+      },
+      "resposta": "b",
+      "explicacao": "A concentração de vastas reservas de petróleo no Oriente Médio tornou a região estrategicamente central para a economia mundial, atraindo o interesse de potências externas e contribuindo para conflitos e tensões geopolíticas ligados ao controle desse recurso."
+    },
+    {
+      "id": "geografia-07",
+      "texto_apoio": "",
+      "enunciado": "A matriz energética brasileira se diferencia da maioria dos países por apresentar:",
+      "alternativas": {
+        "a": "Predominância quase absoluta do carvão mineral na geração de eletricidade",
+        "b": "Uma participação historicamente elevada de fontes renováveis, especialmente a energia hidrelétrica, na geração de eletricidade",
+        "c": "Dependência exclusiva da energia nuclear",
+        "d": "Ausência total de fontes renováveis na matriz elétrica"
+      },
+      "resposta": "b",
+      "explicacao": "Diferentemente da maior parte do mundo, cuja matriz elétrica depende fortemente de combustíveis fósseis, o Brasil possui, devido ao seu potencial hídrico, uma matriz elétrica historicamente concentrada em hidrelétricas, embora venha diversificando com fontes eólica e solar."
+    },
+    {
+      "id": "geografia-08",
+      "texto_apoio": "O Mercosul foi criado em 1991 pelo Tratado de Assunção, reunindo inicialmente Brasil, Argentina, Paraguai e Uruguai.",
+      "enunciado": "O Mercosul caracteriza-se, do ponto de vista da integração econômica regional, principalmente como:",
+      "alternativas": {
+        "a": "Uma união política plena, com moeda única e parlamento supranacional vinculante",
+        "b": "Uma união aduaneira, com tarifa externa comum e livre comércio entre seus membros plenos, sem chegar à integração política e monetária plena",
+        "c": "Um simples acordo de livre comércio sem qualquer coordenação de tarifas externas",
+        "d": "Uma organização exclusivamente militar de defesa regional"
+      },
+      "resposta": "b",
+      "explicacao": "O Mercosul é classificado como uma união aduaneira, que combina livre comércio entre os países-membros com uma tarifa externa comum em relação a terceiros países, sem alcançar o nível de integração política e monetária de blocos como a União Europeia."
+    },
+    {
+      "id": "geografia-09",
+      "texto_apoio": "",
+      "enunciado": "Em comparação com o Mercosul, a União Europeia representa um estágio de integração econômica e política mais avançado, evidenciado principalmente por:",
+      "alternativas": {
+        "a": "A ausência completa de livre circulação de pessoas entre seus países-membros",
+        "b": "A adoção de uma moeda comum por parte de diversos membros e a existência de instituições supranacionais com poder de decisão sobre os países integrantes",
+        "c": "A manutenção de barreiras alfandegárias rígidas entre seus membros",
+        "d": "A inexistência de qualquer parlamento ou órgão comum entre os países"
+      },
+      "resposta": "b",
+      "explicacao": "A União Europeia avançou além da união aduaneira ao adotar uma moeda comum (o euro, em parte dos membros), permitir livre circulação de pessoas e criar instituições supranacionais, como o Parlamento Europeu, com poder de influência sobre políticas dos Estados-membros."
+    },
+    {
+      "id": "geografia-10",
+      "texto_apoio": "O Acordo de Paris, firmado em 2015 no âmbito da ONU, estabeleceu metas para a redução das emissões de gases de efeito estufa.",
+      "enunciado": "O principal objetivo desse acordo é:",
+      "alternativas": {
+        "a": "Eliminar completamente o uso de combustíveis fósseis até 2020",
+        "b": "Limitar o aumento da temperatura média global, buscando mantê-lo bem abaixo de 2°C em relação aos níveis pré-industriais",
+        "c": "Restringir o comércio internacional entre países desenvolvidos e em desenvolvimento",
+        "d": "Transferir a responsabilidade exclusiva pela redução de emissões aos países em desenvolvimento"
+      },
+      "resposta": "b",
+      "explicacao": "O Acordo de Paris estabeleceu como meta central limitar o aumento da temperatura média global a bem abaixo de 2°C, com esforços para limitá-lo a 1,5°C, por meio de compromissos voluntários de redução de emissões assumidos por praticamente todos os países signatários."
+    },
+    {
+      "id": "geografia-11",
+      "texto_apoio": "",
+      "enunciado": "Entre os principais fatores que impulsionam o desmatamento na Amazônia brasileira, destacam-se:",
+      "alternativas": {
+        "a": "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
+        "b": "O aumento das áreas de proteção ambiental na região",
+        "c": "A redução da demanda internacional por commodities agrícolas",
+        "d": "O crescimento populacional das comunidades indígenas da região"
+      },
+      "resposta": "a",
+      "explicacao": "O desmatamento na Amazônia está fortemente associado à expansão de atividades econômicas como pecuária extensiva e agricultura, à exploração madeireira ilegal e à grilagem (apropriação ilegal) de terras públicas, muitas vezes vinculadas à especulação fundiária."
+    },
+    {
+      "id": "geografia-12",
+      "texto_apoio": "",
+      "enunciado": "A divisão do território brasileiro em cinco regiões (Norte, Nordeste, Centro-Oeste, Sudeste e Sul), adotada pelo IBGE, baseia-se principalmente em:",
+      "alternativas": {
+        "a": "Critérios exclusivamente políticos definidos pela Constituição de 1988",
+        "b": "Critérios de agregação de estados para fins estatísticos e de planejamento, considerando aspectos físicos, econômicos e sociais",
+        "c": "A distribuição da população indígena no território nacional",
+        "d": "Limites definidos ainda durante o período colonial português"
+      },
+      "resposta": "b",
+      "explicacao": "A divisão regional do IBGE é uma construção administrativa e estatística, criada para fins de planejamento e comparação de dados, levando em conta critérios físicos, econômicos e sociais, e não corresponde exatamente a divisões históricas, culturais ou políticas rígidas."
+    },
+    {
+      "id": "geografia-13",
+      "texto_apoio": "",
+      "enunciado": "As desigualdades regionais no Brasil, evidenciadas por indicadores como PIB per capita, IDH e acesso a serviços públicos, refletem, entre outros fatores:",
+      "alternativas": {
+        "a": "Um processo histórico de concentração de investimentos e industrialização em determinadas regiões, sobretudo o Sudeste, em detrimento de outras, como o Nordeste",
+        "b": "Uma distribuição de recursos naturais e climáticos rigorosamente igualitária entre as regiões",
+        "c": "A inexistência de qualquer diferença histórica na formação econômica das regiões brasileiras",
+        "d": "Uma política de desenvolvimento regional aplicada de forma idêntica em todo o território desde o período colonial"
+      },
+      "resposta": "a",
+      "explicacao": "As desigualdades regionais brasileiras têm raízes históricas na concentração de investimentos públicos e privados e na industrialização voltada sobretudo para o Sudeste, o que ampliou disparidades socioeconômicas em relação a regiões como o Norte e o Nordeste."
+    },
+    {
+      "id": "geografia-14",
+      "texto_apoio": "",
+      "enunciado": "A região Sudeste concentra a maior parcela do PIB industrial brasileiro. Esse processo de concentração está historicamente relacionado a:",
+      "alternativas": {
+        "a": "A ausência completa de infraestrutura de transportes na região",
+        "b": "A riqueza acumulada com o café, que financiou a industrialização, somada à concentração de infraestrutura, mão de obra e mercado consumidor",
+        "c": "Uma política federal que proibiu a industrialização em outras regiões do país",
+        "d": "A predominância exclusiva de atividades extrativistas na região"
+      },
+      "resposta": "b",
+      "explicacao": "O capital acumulado pela cafeicultura paulista no século XIX e início do XX foi um dos fatores que financiaram a industrialização do Sudeste, região que também concentrou infraestrutura de transportes, mão de obra imigrante e um amplo mercado consumidor, consolidando sua centralidade econômica."
+    },
+    {
+      "id": "geografia-15",
+      "texto_apoio": "",
+      "enunciado": "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
+      "alternativas": {
+        "a": "A impossibilidade de correção de solos ácidos do Cerrado",
+        "b": "O desenvolvimento de tecnologias agrícolas (como a correção de solo e novas variedades de sementes), investimentos em infraestrutura e incentivos governamentais",
+        "c": "A proibição do uso de maquinário agrícola na região",
+        "d": "A ausência completa de investimentos públicos na região"
+      },
+      "resposta": "b",
+      "explicacao": "A ocupação agrícola do Cerrado no Centro-Oeste foi viabilizada por avanços tecnológicos, como a correção da acidez do solo e o desenvolvimento de variedades adaptadas ao clima tropical, além de investimentos em infraestrutura e incentivos governamentais que impulsionaram a fronteira agrícola."
+    },
+    {
+      "id": "geografia-16",
+      "texto_apoio": "",
+      "enunciado": "As migrações internas no Brasil ao longo do século XX, com destaque para o deslocamento de nordestinos rumo ao Sudeste, estiveram associadas principalmente a:",
+      "alternativas": {
+        "a": "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste",
+        "b": "Uma política de distribuição igualitária de renda entre as regiões brasileiras",
+        "c": "O predomínio de atividades industriais avançadas no próprio Nordeste",
+        "d": "A inexistência de problemas climáticos na região Nordeste"
+      },
+      "resposta": "a",
+      "explicacao": "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios significativos rumo às regiões industrializadas do Sudeste, especialmente São Paulo, ao longo do século XX."
+    },
+    {
+      "id": "geografia-17",
+      "texto_apoio": "",
+      "enunciado": "Embora frequentemente confundidos, o buraco na camada de ozônio e o efeito estufa intensificado são fenômenos ambientais distintos. Essa distinção se deve principalmente ao fato de que:",
+      "alternativas": {
+        "a": "Ambos os fenômenos têm exatamente as mesmas causas e consequências",
+        "b": "O primeiro está associado à destruição de gases que filtram a radiação ultravioleta, enquanto o segundo se relaciona ao acúmulo de gases que retêm calor na atmosfera, elevando a temperatura do planeta",
+        "c": "O efeito estufa é um fenômeno exclusivamente artificial, sem qualquer componente natural",
+        "d": "A camada de ozônio é responsável por reter o calor irradiado pela Terra"
+      },
+      "resposta": "b",
+      "explicacao": "O buraco na camada de ozônio decorre da destruição de moléculas de ozônio estratosférico, principalmente por gases como os CFCs, reduzindo a proteção contra radiação ultravioleta, enquanto o efeito estufa intensificado resulta do acúmulo de gases (como CO2 e metano) que retêm calor na atmosfera, ambos fenômenos distintos, embora frequentemente confundidos."
+    },
+    {
+      "id": "geografia-18",
+      "texto_apoio": "",
+      "enunciado": "A nova divisão internacional do trabalho, consolidada no contexto da globalização a partir das últimas décadas do século XX, caracteriza-se por:",
+      "alternativas": {
+        "a": "A concentração de toda a produção industrial mundial exclusivamente nos países mais ricos",
+        "b": "A fragmentação das etapas produtivas entre diferentes países, com deslocamento de indústrias intensivas em mão de obra para países em desenvolvimento e concentração de tecnologia e serviços avançados nos países centrais",
+        "c": "O isolamento produtivo de cada país, sem qualquer integração entre economias nacionais",
+        "d": "A eliminação completa das diferenças econômicas entre países desenvolvidos e em desenvolvimento"
+      },
+      "resposta": "b",
+      "explicacao": "A globalização reorganizou a produção mundial em cadeias globais de valor, com etapas intensivas em mão de obra transferidas para países em desenvolvimento (com custos menores), enquanto países centrais concentram atividades de maior valor agregado, como tecnologia, pesquisa e serviços avançados."
+    },
+    {
+      "id": "geografia-19",
+      "texto_apoio": "A Terra é dividida em 24 fusos horários, cada um correspondendo a 15° de longitude, tendo o Meridiano de Greenwich como referência inicial.",
+      "enunciado": "Sobre os fusos horários no território brasileiro, é correto afirmar que:",
+      "alternativas": {
+        "a": "O Brasil possui um único fuso horário em todo o seu território",
+        "b": "O Brasil, devido à sua grande extensão longitudinal, abrange mais de um fuso horário, o que gera diferença de horário entre regiões como o arquipélago de Fernando de Noronha e o restante do país",
+        "c": "Os fusos horários não têm qualquer relação com a longitude dos lugares",
+        "d": "O horário de Brasília é definido a partir do meridiano que passa por Fernando de Noronha"
+      },
+      "resposta": "b",
+      "explicacao": "Devido à grande extensão leste-oeste do território brasileiro, o país abrange mais de um fuso horário, havendo diferença de horário entre regiões como o arquipélago de Fernando de Noronha, mais adiantado, e a maior parte do território continental."
+    },
+    {
+      "id": "geografia-20",
+      "texto_apoio": "A escala cartográfica indica a relação entre as distâncias representadas em um mapa e as distâncias reais no terreno.",
+      "enunciado": "Um mapa de escala 1:1.000.000 é considerado de pequena escala em relação a um mapa de escala 1:10.000 porque:",
+      "alternativas": {
+        "a": "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão",
+        "b": "Representa exatamente a mesma área com o mesmo nível de detalhe que o mapa de escala 1:10.000",
+        "c": "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000",
+        "d": "Não guarda nenhuma relação proporcional com as distâncias reais do terreno"
+      },
+      "resposta": "a",
+      "explicacao": "Quanto maior o denominador da escala (ex.: 1:1.000.000), menor a escala e maior a área representada, com menos detalhes; quanto menor o denominador (ex.: 1:10.000), maior a escala e maior o nível de detalhamento de uma área menor — relação frequentemente cobrada em questões de cartografia básica."
+    },
+    {
+      "id": "geografia-21",
+      "texto_apoio": "A região amazônica apresenta um clima predominantemente equatorial.",
+      "enunciado": "Esse tipo climático caracteriza-se principalmente por:",
+      "alternativas": {
+        "a": "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
+        "b": "Baixas temperaturas constantes e ausência quase total de chuvas",
+        "c": "Grande amplitude térmica sazonal e chuvas concentradas apenas no inverno",
+        "d": "Clima semiárido, com chuvas escassas e irregulares"
+      },
+      "resposta": "a",
+      "explicacao": "O clima equatorial, predominante na Amazônia, caracteriza-se por temperaturas elevadas e relativamente constantes ao longo do ano e por índices pluviométricos altos e bem distribuídos, sem uma estação seca claramente definida, o que favorece a exuberante vegetação da floresta amazônica."
+    },
+    {
+      "id": "geografia-22",
+      "texto_apoio": "O Cerrado é o segundo maior bioma brasileiro em extensão, ocupando parte significativa do Centro-Oeste do país.",
+      "enunciado": "Esse bioma caracteriza-se por:",
+      "alternativas": {
+        "a": "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e um regime climático com estações seca e chuvosa bem definidas",
+        "b": "Floresta tropical densa e fechada, semelhante à vegetação amazônica",
+        "c": "Vegetação predominantemente de mangue, adaptada a áreas de encontro entre rios e o mar",
+        "d": "Clima frio e seco, com ocorrência frequente de geadas em todas as estações do ano"
+      },
+      "resposta": "a",
+      "explicacao": "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos e casca grossa, arbustos e gramíneas, adaptada a um clima com estação seca bem marcada, alternada com uma estação chuvosa concentrada em parte do ano."
+    },
+    {
+      "id": "geografia-23",
+      "texto_apoio": "A Caatinga é um bioma exclusivamente brasileiro, predominante no interior do Nordeste.",
+      "enunciado": "A vegetação e o clima característicos da Caatinga adaptaram-se a condições de:",
+      "alternativas": {
+        "a": "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
+        "b": "Clima equatorial úmido, com chuvas abundantes o ano todo",
+        "c": "Clima temperado, com ocorrência regular de neve no inverno",
+        "d": "Altíssima umidade constante, semelhante à Mata Atlântica"
+      },
+      "resposta": "a",
+      "explicacao": "A Caatinga desenvolveu-se em uma região de clima semiárido, marcado por chuvas escassas, concentradas e irregulares, o que resultou em uma vegetação xerófila, adaptada à escassez hídrica, com plantas de caules grossos, espinhos e capacidade de perder folhas na estiagem."
+    },
+    {
+      "id": "geografia-24",
+      "texto_apoio": "A matriz de transportes brasileira é historicamente desequilibrada entre os diferentes modais disponíveis.",
+      "enunciado": "Esse desequilíbrio se manifesta, sobretudo, pela:",
+      "alternativas": {
+        "a": "Predominância do modal ferroviário sobre os demais, resultado de investimentos maciços desde o século XIX",
+        "b": "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias",
+        "c": "Exclusividade do transporte aéreo no escoamento da produção agrícola do país",
+        "d": "Ausência completa de rodovias pavimentadas no território nacional"
+      },
+      "resposta": "b",
+      "explicacao": "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados, especialmente para o escoamento de commodities a longas distâncias, em comparação a países que utilizam mais intensamente ferrovias e hidrovias."
+    },
+    {
+      "id": "geografia-25",
+      "texto_apoio": "Ferrovias e hidrovias são apontadas como modais mais eficientes para o transporte de grandes volumes de carga a longas distâncias.",
+      "enunciado": "No Brasil, a subutilização desses modais em relação ao potencial existente resulta, principalmente, em:",
+      "alternativas": {
+        "a": "Redução dos custos logísticos do escoamento agrícola em todas as regiões do país",
+        "b": "Maior dependência do transporte rodoviário para escoar a produção de grãos, o que eleva os custos logísticos e o consumo de combustíveis fósseis",
+        "c": "Eliminação completa da necessidade de investimentos em infraestrutura de transporte",
+        "d": "Concentração exclusiva do escoamento da produção agrícola em portos do Sudeste"
+      },
+      "resposta": "b",
+      "explicacao": "A subutilização de ferrovias e hidrovias obriga grande parte da produção agrícola brasileira, sobretudo de regiões como o Centro-Oeste, a ser escoada por rodovias, o que eleva os custos logísticos, o consumo de combustível e o desgaste da malha viária, tema recorrente no debate sobre competitividade do agronegócio brasileiro."
+    },
+    {
+      "id": "geografia-26",
+      "texto_apoio": "A industrialização brasileira, sobretudo entre as décadas de 1930 e 1970, contou com forte participação do Estado.",
+      "enunciado": "Esse processo, conhecido como modelo de substituição de importações, caracterizava-se por:",
+      "alternativas": {
+        "a": "Incentivar a importação de produtos industrializados em detrimento da produção nacional",
+        "b": "Produzir internamente bens antes importados, com o Estado investindo diretamente em setores estratégicos, como siderurgia e petróleo, e protegendo a indústria nacional com barreiras alfandegárias",
+        "c": "Eliminar completamente a intervenção estatal na economia",
+        "d": "Concentrar-se exclusivamente na exportação de produtos primários, sem qualquer industrialização"
+      },
+      "resposta": "b",
+      "explicacao": "O modelo de substituição de importações buscava reduzir a dependência externa por meio da produção interna de bens antes importados, com forte participação do Estado em setores estratégicos (como a criação da Companhia Siderúrgica Nacional e da Petrobras) e proteção alfandegária à indústria nacional nascente."
+    },
+    {
+      "id": "geografia-27",
+      "texto_apoio": "Nas últimas décadas, observa-se um processo de desconcentração industrial no Brasil, com a expansão de polos industriais fora do eixo tradicional Sudeste.",
+      "enunciado": "Esse processo de desconcentração relaciona-se, entre outros fatores, a:",
+      "alternativas": {
+        "a": "A extinção completa da indústria no estado de São Paulo",
+        "b": "Incentivos fiscais oferecidos por estados e municípios (a chamada guerra fiscal), custos de mão de obra e de terrenos mais baixos em outras regiões, e melhoria da infraestrutura de transportes",
+        "c": "A proibição legal de novas indústrias se instalarem no Sudeste",
+        "d": "A ausência total de infraestrutura logística nas demais regiões do país"
+      },
+      "resposta": "b",
+      "explicacao": "A desconcentração industrial no Brasil foi impulsionada por fatores como a guerra fiscal entre estados e municípios (concessão de incentivos para atrair indústrias), custos menores de terra e mão de obra em outras regiões e a melhoria da infraestrutura de transportes, favorecendo a interiorização da atividade industrial."
+    },
+    {
+      "id": "geografia-28",
+      "texto_apoio": "A segurança alimentar e nutricional é um conceito central nos estudos sobre geografia da fome.",
+      "enunciado": "Esse conceito refere-se ao direito de todas as pessoas a:",
+      "alternativas": {
+        "a": "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
+        "b": "Consumo exclusivo de alimentos importados, independentemente de seu custo",
+        "c": "Produção agrícola voltada unicamente à exportação, sem considerar o consumo interno",
+        "d": "Substituição total da produção de alimentos por biocombustíveis"
+      },
+      "resposta": "a",
+      "explicacao": "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, conceito amplamente estudado por autores como Josué de Castro em seus estudos sobre a geografia da fome no Brasil."
+    },
+    {
+      "id": "geografia-29",
+      "texto_apoio": "O Programa Fome Zero, lançado no Brasil em 2003, reuniu um conjunto de políticas públicas de combate à fome e à pobreza.",
+      "enunciado": "Entre as principais estratégias desse programa estava:",
+      "alternativas": {
+        "a": "A eliminação de qualquer forma de transferência direta de renda às famílias pobres",
+        "b": "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar, como apoio à agricultura familiar e ampliação do acesso à alimentação",
+        "c": "A proibição da produção de alimentos por pequenos agricultores",
+        "d": "A concentração de todos os recursos exclusivamente em grandes produtores rurais"
+      },
+      "resposta": "b",
+      "explicacao": "O Fome Zero articulou diferentes frentes de combate à fome e à pobreza, incluindo a transferência direta de renda por meio do Bolsa Família, o fortalecimento da agricultura familiar e programas de ampliação do acesso à alimentação, como restaurantes populares e o Programa de Aquisição de Alimentos."
+    },
+    {
+      "id": "geografia-30",
+      "texto_apoio": "A Organização do Tratado de Cooperação Amazônica (OTCA) reúne os países que compartilham o bioma amazônico.",
+      "enunciado": "A criação de organismos como a OTCA relaciona-se, sobretudo, à busca de:",
+      "alternativas": {
+        "a": "Internacionalização plena da Amazônia, transferindo sua soberania para um governo supranacional",
+        "b": "Cooperação regional entre os países amazônicos para tratar de temas como preservação ambiental, desenvolvimento sustentável e soberania sobre os recursos da região",
+        "c": "Divisão da Amazônia brasileira entre os países vizinhos",
+        "d": "Substituição da legislação ambiental nacional de cada país por normas globais vinculantes"
+      },
+      "resposta": "b",
+      "explicacao": "A OTCA busca promover a cooperação entre os países amazônicos em temas como meio ambiente, desenvolvimento sustentável e uso dos recursos naturais da região, reafirmando a soberania de cada Estado sobre seu respectivo território, em contraposição a discursos de internacionalização da Amazônia."
+    },
+    {
+      "id": "geografia-31",
+      "texto_apoio": "",
+      "enunciado": "A relevância geopolítica da Amazônia no cenário internacional está associada, sobretudo, a:",
+      "alternativas": {
+        "a": "Sua reduzida biodiversidade e escassez de recursos naturais",
+        "b": "Sua enorme biodiversidade, suas reservas de água doce e seu papel na regulação do clima regional e global, o que atrai interesse econômico e científico internacional",
+        "c": "A ausência completa de população residente na região",
+        "d": "O fato de não possuir qualquer relação com o equilíbrio climático do planeta"
+      },
+      "resposta": "b",
+      "explicacao": "A Amazônia é estrategicamente relevante por concentrar uma das maiores biodiversidades do planeta, vastas reservas de água doce e desempenhar papel importante na regulação climática regional e global, características que atraem interesse científico, econômico e geopolítico internacional."
+    },
+    {
+      "id": "geografia-32",
+      "texto_apoio": "A presença de garimpo ilegal e conflitos fundiários é um desafio recorrente na Amazônia brasileira, inclusive em terras indígenas.",
+      "enunciado": "Esses conflitos relacionam-se, entre outros fatores, a:",
+      "alternativas": {
+        "a": "A ausência completa de valor econômico dos recursos minerais da região",
+        "b": "Disputas pelo uso da terra e de recursos naturais entre atividades como garimpo ilegal, grilagem e populações tradicionais e indígenas, muitas vezes em áreas de proteção ambiental",
+        "c": "A inexistência de qualquer legislação ambiental aplicável à região amazônica",
+        "d": "O desinteresse total de atores econômicos pela exploração de recursos amazônicos"
+      },
+      "resposta": "b",
+      "explicacao": "Os conflitos na Amazônia frequentemente envolvem disputas pelo uso da terra e de recursos naturais entre atividades ilegais, como garimpo e grilagem, e populações tradicionais e indígenas, muitas vezes ocorrendo em terras protegidas, o que gera tensões socioambientais e desafios para a fiscalização e a soberania sobre o território."
+    },
+    {
+      "id": "geografia-33",
+      "texto_apoio": "A pirâmide etária brasileira vem se transformando nas últimas décadas, refletindo a chamada transição demográfica.",
+      "enunciado": "Essa transição caracteriza-se, sobretudo, pela:",
+      "alternativas": {
+        "a": "Manutenção de altas taxas de natalidade e mortalidade, sem qualquer mudança na estrutura etária da população",
+        "b": "Redução das taxas de natalidade e de mortalidade, resultando em um progressivo envelhecimento da população e alargamento do topo da pirâmide etária",
+        "c": "Aumento constante das taxas de natalidade nas últimas décadas",
+        "d": "Redução da expectativa de vida da população brasileira"
+      },
+      "resposta": "b",
+      "explicacao": "A transição demográfica brasileira envolve a queda das taxas de natalidade e de mortalidade e o aumento da expectativa de vida, o que resulta em uma pirâmide etária cada vez mais estreita na base e mais larga no topo, refletindo o progressivo envelhecimento populacional."
+    },
+    {
+      "id": "geografia-34",
+      "texto_apoio": "",
+      "enunciado": "O envelhecimento populacional em curso no Brasil representa um desafio para políticas públicas, sobretudo porque:",
+      "alternativas": {
+        "a": "Reduz a necessidade de investimentos em saúde e previdência social",
+        "b": "Amplia a pressão sobre o sistema previdenciário e sobre os serviços de saúde voltados à população idosa, ao mesmo tempo em que a proporção de população em idade ativa tende a diminuir",
+        "c": "Elimina completamente a necessidade de políticas voltadas à população jovem",
+        "d": "Não gera qualquer impacto sobre o mercado de trabalho ou a arrecadação previdenciária"
+      },
+      "resposta": "b",
+      "explicacao": "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa, gerando desafios para o financiamento da previdência social e para o planejamento de políticas públicas de saúde."
+    },
+    {
+      "id": "geografia-35",
+      "texto_apoio": "A Câmara dos Deputados brasileira distribui suas 513 cadeiras entre os estados de forma proporcional à população, respeitando limites mínimo e máximo por unidade da federação.",
+      "enunciado": "Esse critério de distribuição, estudado pela geografia eleitoral, resulta em:",
+      "alternativas": {
+        "a": "Uma representação perfeitamente proporcional à população de cada estado, sem qualquer distorção",
+        "b": "Uma sub-representação relativa de estados mais populosos e uma super-representação relativa de estados menos populosos, devido aos limites mínimo e máximo de cadeiras por estado",
+        "c": "A eliminação de qualquer diferença entre o peso político dos estados no Legislativo federal",
+        "d": "A concentração de todas as cadeiras da Câmara em um único estado"
+      },
+      "resposta": "b",
+      "explicacao": "Como a Constituição estabelece um número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas acabam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam proporcionalmente sub-representados em relação à sua população, fenômeno estudado pela geografia eleitoral."
+    },
+    {
+      "id": "geografia-36",
+      "texto_apoio": "A geografia eleitoral estuda a distribuição espacial do comportamento e dos resultados eleitorais em um território.",
+      "enunciado": "Esse campo de estudo busca, sobretudo, analisar:",
+      "alternativas": {
+        "a": "Exclusivamente a biografia pessoal de candidatos a cargos eletivos",
+        "b": "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
+        "c": "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial",
+        "d": "A localização geográfica dos partidos políticos registrados no Tribunal Superior Eleitoral"
+      },
+      "resposta": "b",
+      "explicacao": "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, permitindo identificar padrões territoriais do comportamento eleitoral, como diferenças entre áreas urbanas e rurais ou entre diferentes regiões do país."
+    }
+  ]
+}

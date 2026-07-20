@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rumo à FGV/Insper — Plano de 90 dias</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ONBOARDING -->
+  <section id="view-onboarding" class="view">
+    <div class="card onboarding-card">
+      <h1>Rumo à FGV &amp; Insper — Direito</h1>
+      <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
+      Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
+      <ul class="pitch-list">
+        <li>Todo dia: <strong>1 a 2 vídeo-aulas</strong> sugeridas + <strong>20 a 30 exercícios</strong> comentados</li>
+        <li>15 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 dias</li>
+        <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
+        (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
+        nos dias que você quiser</li>
+        <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, 3 de cada uma
+        das 15 frentes — e a semana seguinte passa a focar mais nos temas em que você mais errou</li>
+        <li>Progresso salvo no seu navegador — sem cadastro, sem servidor</li>
+      </ul>
+      <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
+      <button id="btn-resume" class="btn btn-secondary" hidden>Continuar meu plano</button>
+    </div>
+  </section>
+
+  <!-- MAIN APP -->
+  <div id="view-main" class="view" hidden>
+    <header class="topbar">
+      <div class="brand">Rumo à FGV &amp; Insper</div>
+      <nav class="tabs">
+        <button class="tab-btn active" data-tab="hoje">Hoje</button>
+        <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
+        <button class="tab-btn" data-tab="simulados">Simulados</button>
+        <button class="tab-btn" data-tab="progresso">Meu progresso</button>
+      </nav>
+    </header>
+
+    <main class="content">
+
+      <!-- TAB: HOJE -->
+      <section id="tab-hoje" class="tab-panel active">
+        <div class="day-nav">
+          <button id="btn-prev-day" class="btn btn-ghost">&larr; Dia anterior</button>
+          <div class="day-label">
+            <span id="day-number">Dia 1</span> de 90
+            <span id="day-date" class="day-date"></span>
+          </div>
+          <button id="btn-next-day" class="btn btn-ghost">Próximo dia &rarr;</button>
+        </div>
+
+        <div id="day-content"></div>
+      </section>
+
+      <!-- TAB: CALENDARIO -->
+      <section id="tab-calendario" class="tab-panel">
+        <h2>Mapa dos 90 dias</h2>
+        <p class="hint">Cada quadrado é um dia de estudo. A cor indica o quanto você já concluiu. Clique num dia para abri-lo.</p>
+        <div id="calendar-grid" class="calendar-grid"></div>
+        <div class="legend">
+          <span class="legend-item"><i class="dot dot-pending"></i> Não iniciado</span>
+          <span class="legend-item"><i class="dot dot-partial"></i> Em andamento</span>
+          <span class="legend-item"><i class="dot dot-done"></i> Concluído</span>
+          <span class="legend-item"><i class="dot dot-today"></i> Hoje</span>
+          <span class="legend-item"><i class="dot dot-simulado"></i> Domingo = Simulado (borda tracejada)</span>
+        </div>
+      </section>
+
+      <!-- TAB: SIMULADOS -->
+      <section id="tab-simulados" class="tab-panel">
+        <div id="simulados-content"></div>
+      </section>
+
+      <!-- TAB: PROGRESSO -->
+      <section id="tab-progresso" class="tab-panel">
+        <h2>Meu progresso por frente de estudo</h2>
+        <p class="hint">Acompanhe seu desempenho em cada uma das 15 frentes cobradas pelas provas.</p>
+        <div id="progress-list" class="progress-list"></div>
+
+        <div class="card official-exams-card">
+          <h3>Provas oficiais anteriores (100% reais)</h3>
+          <p class="lesson-desc">Os exercícios deste app são originais, criados no estilo das provas — não são
+          cópias de provas reais (por direitos autorais). Para treinar com o material 100% autêntico, com gabarito
+          oficial, acesse diretamente os arquivos publicados pelas próprias instituições:</p>
+          <div class="video-links">
+            <a class="btn-link" target="_blank" rel="noopener" href="https://vestibular.fgv.br/provas-gabaritos">▶ Provas e gabaritos oficiais — FGV</a>
+            <a class="btn-link" target="_blank" rel="noopener" href="https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html">▶ Provas e gabaritos oficiais — Insper</a>
+          </div>
+        </div>
+
+        <div class="danger-zone">
+          <button id="btn-reset" class="btn btn-danger-outline">Reiniciar todo o progresso</button>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+</div>
+
+<script src="data/subtopics.js"></script>
+<script src="data/bundle.js"></script>
+<script src="data/dissertativas.js"></script>
+<script src="schedule.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

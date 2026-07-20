@@ -1,0 +1,473 @@
+{
+  "subtopic": "historia-geral",
+  "questoes": [
+    {
+      "id": "historia-geral-01",
+      "texto_apoio": "",
+      "enunciado": "A crise do Antigo Regime na França, que culminou na Revolução de 1789, foi resultado, entre outros fatores, de:",
+      "alternativas": {
+        "a": "Um sistema social baseado em estamentos privilegiados (clero e nobreza), crise fiscal do Estado e ascensão econômica de uma burguesia sem correspondente poder político",
+        "b": "Ausência completa de desigualdades sociais na França do século XVIII",
+        "c": "Um processo de industrialização acelerada que empobreceu a nobreza",
+        "d": "A unificação territorial recente da França sob um único rei"
+      },
+      "resposta": "a",
+      "explicacao": "O Antigo Regime combinava privilégios fiscais e jurídicos do clero e da nobreza, grave crise nas finanças reais e uma burguesia economicamente pujante mas politicamente excluída, fatores que se somaram às ideias iluministas para desencadear a Revolução."
+    },
+    {
+      "id": "historia-geral-02",
+      "texto_apoio": "Aprovada em agosto de 1789, logo no início da Revolução Francesa.",
+      "enunciado": "A Declaração dos Direitos do Homem e do Cidadão consagrou princípios que se tornariam centrais para o mundo ocidental moderno, como:",
+      "alternativas": {
+        "a": "A manutenção dos privilégios hereditários da nobreza",
+        "b": "A liberdade, a igualdade perante a lei e a soberania popular",
+        "c": "A união indissolúvel entre Igreja e Estado",
+        "d": "A escravidão como instituição legítima e universal"
+      },
+      "resposta": "b",
+      "explicacao": "A Declaração de 1789 estabeleceu princípios como liberdade, igualdade jurídica entre os cidadãos e a soberania popular como fonte do poder político, tornando-se referência para constituições liberais posteriores."
+    },
+    {
+      "id": "historia-geral-03",
+      "texto_apoio": "",
+      "enunciado": "A Revolução Industrial teve início na Inglaterra, no século XVIII, favorecida por fatores como:",
+      "alternativas": {
+        "a": "Ausência de recursos minerais e de capital disponível para investimento",
+        "b": "Acúmulo de capital proveniente do comércio colonial, disponibilidade de carvão e ferro, e mão de obra livre disponível no campo",
+        "c": "Manutenção rígida do sistema de servidão feudal",
+        "d": "Isolamento comercial em relação às demais potências europeias"
+      },
+      "resposta": "b",
+      "explicacao": "A Inglaterra reunia condições favoráveis à industrialização: capital acumulado com o comércio (inclusive colonial e atlântico), abundância de carvão e ferro, mão de obra livre disponibilizada pelos cercamentos de terras (enclosures) e um sistema financeiro e político estável."
+    },
+    {
+      "id": "historia-geral-04",
+      "texto_apoio": "",
+      "enunciado": "Entre as principais consequências sociais da primeira fase da Revolução Industrial, destaca-se:",
+      "alternativas": {
+        "a": "A melhoria imediata das condições de vida de todos os trabalhadores urbanos",
+        "b": "A formação de um proletariado urbano submetido a jornadas exaustivas, baixos salários e condições precárias de trabalho e moradia",
+        "c": "O fim do trabalho infantil nas fábricas já no século XVIII",
+        "d": "A redução da migração do campo para as cidades"
+      },
+      "resposta": "b",
+      "explicacao": "A industrialização provocou intensa urbanização e a formação de uma classe operária submetida a longas jornadas, salários baixos, trabalho infantil e condições precárias de moradia e saúde, o que originou os primeiros movimentos operários organizados."
+    },
+    {
+      "id": "historia-geral-05",
+      "texto_apoio": "Entre 1884 e 1885, potências europeias reuniram-se para definir regras sobre a divisão de territórios africanos.",
+      "enunciado": "A Conferência de Berlim estabeleceu, sobretudo, o princípio de que:",
+      "alternativas": {
+        "a": "A ocupação efetiva do território seria o critério para o reconhecimento da posse colonial por potências europeias",
+        "b": "A África deveria ser governada por seus próprios líderes, sem interferência estrangeira",
+        "c": "As fronteiras coloniais respeitariam as divisões étnicas e culturais locais",
+        "d": "Nenhuma potência europeia poderia possuir mais de uma colônia no continente"
+      },
+      "resposta": "a",
+      "explicacao": "A Conferência de Berlim definiu que a posse de territórios africanos por potências europeias dependeria da ocupação efetiva, o que acelerou a partilha do continente e resultou em fronteiras artificiais, sem respeito às divisões étnicas e culturais preexistentes."
+    },
+    {
+      "id": "historia-geral-06",
+      "texto_apoio": "",
+      "enunciado": "Entre os fatores estruturais que contribuíram para a eclosão da Primeira Guerra Mundial em 1914, estão:",
+      "alternativas": {
+        "a": "A ausência de disputas coloniais entre as potências europeias",
+        "b": "O sistema de alianças militares rígidas, a corrida armamentista e as rivalidades imperialistas entre as potências europeias",
+        "c": "A unificação pacífica da Europa sob um único governo",
+        "d": "O fim do nacionalismo como força política no continente europeu"
+      },
+      "resposta": "b",
+      "explicacao": "A Primeira Guerra Mundial resultou de um conjunto de tensões estruturais: alianças militares que transformaram um conflito local em guerra generalizada, disputa por colônias e mercados, corrida armamentista e forte nacionalismo, tendo o atentado de Sarajevo como estopim."
+    },
+    {
+      "id": "historia-geral-07",
+      "texto_apoio": "O Tratado de Versalhes, assinado em 1919, impôs duras condições à Alemanha derrotada na Primeira Guerra Mundial.",
+      "enunciado": "Entre as cláusulas do tratado, estava a imposição à Alemanha de pesadas indenizações de guerra e a redução de seu território e de suas forças armadas. Historicamente, essas condições são apontadas como fator que:",
+      "alternativas": {
+        "a": "Consolidou a paz duradoura na Europa",
+        "b": "Alimentou o ressentimento nacionalista alemão, explorado posteriormente pelo discurso nazista",
+        "c": "Impediu qualquer crise econômica na Alemanha durante a década de 1920",
+        "d": "Fortaleceu imediatamente a democracia alemã sem oposição"
+      },
+      "resposta": "b",
+      "explicacao": "As duras condições impostas pelo Tratado de Versalhes geraram humilhação nacional e dificuldades econômicas na Alemanha, sentimentos que foram posteriormente explorados pela propaganda nazista para justificar seu discurso revanchista e expansionista."
+    },
+    {
+      "id": "historia-geral-08",
+      "texto_apoio": "",
+      "enunciado": "A Revolução Russa de 1917 ocorreu em um contexto de:",
+      "alternativas": {
+        "a": "Prosperidade econômica generalizada e forte apoio popular ao czar Nicolau II",
+        "b": "Desgaste do czarismo pelas perdas na Primeira Guerra Mundial, crise econômica, fome e insatisfação social crescente",
+        "c": "Plena industrialização e ausência de desigualdades sociais no campo",
+        "d": "Apoio unânime da nobreza russa às reformas socialistas"
+      },
+      "resposta": "b",
+      "explicacao": "A Rússia czarista enfrentava graves problemas estruturais, agravados pelas enormes perdas humanas e econômicas da Primeira Guerra Mundial, o que gerou fome, insatisfação popular e abriu caminho para as revoluções de fevereiro e outubro de 1917."
+    },
+    {
+      "id": "historia-geral-09",
+      "texto_apoio": "A quebra da Bolsa de Nova York, em outubro de 1929, deu início a uma das maiores crises econômicas da história.",
+      "enunciado": "Um dos principais fatores que explicam a Crise de 1929 é:",
+      "alternativas": {
+        "a": "A superprodução industrial e agrícola aliada à especulação excessiva no mercado de ações",
+        "b": "A escassez generalizada de bens de consumo nos Estados Unidos",
+        "c": "O fim do capitalismo como sistema econômico predominante",
+        "d": "A recusa dos Estados Unidos em participar do comércio internacional"
+      },
+      "resposta": "a",
+      "explicacao": "A crise de 1929 resultou da combinação entre superprodução (oferta maior que a capacidade de consumo) e intensa especulação financeira no mercado de ações, que, ao estourar, gerou falências em cadeia e uma profunda recessão global."
+    },
+    {
+      "id": "historia-geral-10",
+      "texto_apoio": "",
+      "enunciado": "A ascensão do nazismo na Alemanha, na década de 1930, foi favorecida, entre outros fatores, por:",
+      "alternativas": {
+        "a": "A estabilidade econômica alemã durante a República de Weimar",
+        "b": "O agravamento da crise econômica após 1929, o desemprego em massa e o ressentimento nacional decorrente do Tratado de Versalhes",
+        "c": "O apoio unânime das potências vencedoras da Primeira Guerra Mundial ao governo de Hitler",
+        "d": "A inexistência de partidos políticos de oposição na Alemanha antes de 1933"
+      },
+      "resposta": "b",
+      "explicacao": "A combinação entre a crise econômica de 1929, o desemprego em massa, a instabilidade da República de Weimar e o ressentimento nacionalista alimentado pelas duras condições de Versalhes criou terreno fértil para a ascensão do discurso nazista."
+    },
+    {
+      "id": "historia-geral-11",
+      "texto_apoio": "",
+      "enunciado": "Entre os fatores que desencadearam a Segunda Guerra Mundial, destaca-se:",
+      "alternativas": {
+        "a": "A política de apaziguamento das potências europeias frente ao expansionismo territorial da Alemanha nazista",
+        "b": "A dissolução pacífica da Liga das Nações antes de 1939",
+        "c": "A ausência de qualquer aliança militar entre as potências do Eixo",
+        "d": "O fortalecimento da democracia em toda a Europa durante os anos 1930"
+      },
+      "resposta": "a",
+      "explicacao": "A política de apaziguamento, adotada por potências como Reino Unido e França diante do expansionismo alemão (como na anexação da Áustria e dos Sudetos), não conteve Hitler e é apontada como um dos fatores que permitiram a escalada rumo à guerra, deflagrada com a invasão da Polônia em 1939."
+    },
+    {
+      "id": "historia-geral-12",
+      "texto_apoio": "",
+      "enunciado": "O Holocausto, promovido pelo regime nazista durante a Segunda Guerra Mundial, consistiu no extermínio sistemático de aproximadamente seis milhões de judeus, além de outros grupos perseguidos, como:",
+      "alternativas": {
+        "a": "Apenas prisioneiros de guerra soviéticos",
+        "b": "Ciganos, pessoas com deficiência, homossexuais e opositores políticos",
+        "c": "Exclusivamente cidadãos alemães de religião católica",
+        "d": "Somente membros de partidos comunistas europeus"
+      },
+      "resposta": "b",
+      "explicacao": "Além dos judeus, o regime nazista perseguiu e exterminou sistematicamente ciganos (Roma e Sinti), pessoas com deficiência, homossexuais, opositores políticos e outros grupos considerados 'indesejáveis' pela ideologia racial nazista."
+    },
+    {
+      "id": "historia-geral-13",
+      "texto_apoio": "",
+      "enunciado": "A Guerra Fria, que se estendeu de meados da década de 1940 até o final da década de 1980, caracterizou-se principalmente por:",
+      "alternativas": {
+        "a": "Um confronto militar direto e declarado entre Estados Unidos e União Soviética",
+        "b": "Uma disputa ideológica, política, econômica e militar entre EUA e URSS, sem confronto militar direto entre as duas potências",
+        "c": "A unificação política do mundo sob um único bloco econômico",
+        "d": "O desaparecimento completo de conflitos armados regionais"
+      },
+      "resposta": "b",
+      "explicacao": "A Guerra Fria caracterizou-se pela disputa entre o bloco capitalista, liderado pelos EUA, e o bloco socialista, liderado pela URSS, expressa em corrida armamentista, espacial e conflitos indiretos (guerras por procuração), mas sem confronto militar direto entre as duas potências."
+    },
+    {
+      "id": "historia-geral-14",
+      "texto_apoio": "",
+      "enunciado": "A corrida espacial, um dos símbolos da disputa entre Estados Unidos e União Soviética durante a Guerra Fria, teve como marco inicial:",
+      "alternativas": {
+        "a": "O pouso do homem na Lua pelos americanos, em 1969",
+        "b": "O lançamento do satélite soviético Sputnik, em 1957",
+        "c": "A criação da NASA, em 1958",
+        "d": "O lançamento do primeiro foguete alemão, na Segunda Guerra Mundial"
+      },
+      "resposta": "b",
+      "explicacao": "O lançamento do Sputnik pela União Soviética em 1957, primeiro satélite artificial a orbitar a Terra, surpreendeu os Estados Unidos e deu início à corrida espacial, que culminaria com a chegada do homem à Lua em 1969."
+    },
+    {
+      "id": "historia-geral-15",
+      "texto_apoio": "Após 1945, dezenas de países da África e da Ásia conquistaram sua independência em relação às potências coloniais europeias.",
+      "enunciado": "Esse processo de descolonização foi impulsionado, entre outros fatores, por:",
+      "alternativas": {
+        "a": "O fortalecimento militar e econômico das metrópoles europeias após a Segunda Guerra Mundial",
+        "b": "O enfraquecimento das potências coloniais europeias após a guerra e o crescimento de movimentos nacionalistas nas colônias",
+        "c": "A ausência completa de movimentos de resistência nas colônias",
+        "d": "A anexação das colônias pelos Estados Unidos"
+      },
+      "resposta": "b",
+      "explicacao": "A Segunda Guerra Mundial enfraqueceu econômica e militarmente as potências coloniais europeias, ao mesmo tempo em que fortaleceu movimentos nacionalistas locais, criando condições favoráveis às independências afro-asiáticas nas décadas seguintes."
+    },
+    {
+      "id": "historia-geral-16",
+      "texto_apoio": "A Índia conquistou sua independência do Reino Unido em 1947, após décadas de mobilização.",
+      "enunciado": "A estratégia de luta liderada por Mahatma Gandhi para a independência indiana caracterizava-se, sobretudo, por:",
+      "alternativas": {
+        "a": "A luta armada revolucionária contra o exército britânico",
+        "b": "A resistência não violenta e a desobediência civil, como boicotes e marchas pacíficas",
+        "c": "A aliança militar direta com a União Soviética",
+        "d": "A aceitação integral do domínio colonial britânico"
+      },
+      "resposta": "b",
+      "explicacao": "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo."
+    },
+    {
+      "id": "historia-geral-17",
+      "texto_apoio": "Em 1989, o Muro de Berlim, símbolo da divisão entre o bloco capitalista e o bloco socialista, foi derrubado.",
+      "enunciado": "Esse evento, seguido pela dissolução da União Soviética em 1991, marcou:",
+      "alternativas": {
+        "a": "O início da Guerra Fria",
+        "b": "O fim da Guerra Fria e o início de um mundo com nova configuração geopolítica, marcada pela hegemonia dos Estados Unidos",
+        "c": "A criação do bloco socialista na Europa Oriental",
+        "d": "O fortalecimento do Pacto de Varsóvia"
+      },
+      "resposta": "b",
+      "explicacao": "A queda do Muro de Berlim e a posterior dissolução da URSS encerraram a bipolaridade da Guerra Fria, dando início a uma nova ordem mundial marcada, ao menos inicialmente, pela hegemonia política e militar dos Estados Unidos."
+    },
+    {
+      "id": "historia-geral-18",
+      "texto_apoio": "",
+      "enunciado": "A globalização contemporânea, intensificada a partir do final do século XX, caracteriza-se por:",
+      "alternativas": {
+        "a": "O isolamento crescente das economias nacionais, com redução do comércio internacional",
+        "b": "A intensificação dos fluxos de capitais, mercadorias, informações e pessoas entre diferentes países, impulsionada por avanços tecnológicos e de comunicação",
+        "c": "A eliminação total das desigualdades econômicas entre os países",
+        "d": "O fim das organizações econômicas internacionais e blocos regionais"
+      },
+      "resposta": "b",
+      "explicacao": "A globalização é marcada pela intensificação das interconexões econômicas, tecnológicas e culturais entre países, impulsionada por avanços nas comunicações e no transporte, embora acompanhada de debates sobre o aumento das desigualdades entre nações e dentro delas."
+    },
+    {
+      "id": "historia-geral-19",
+      "texto_apoio": "O feudalismo foi o sistema social, político e econômico predominante na Europa Ocidental durante boa parte da Idade Média.",
+      "enunciado": "A relação de vassalagem, típica da organização feudal, caracterizava-se por:",
+      "alternativas": {
+        "a": "Um contrato comercial entre mercadores de diferentes regiões",
+        "b": "Um vínculo de fidelidade e proteção mútua entre um senhor feudal (suserano) e um vassalo, geralmente envolvendo a concessão de um feudo",
+        "c": "Uma relação exclusivamente religiosa entre o papa e os reis europeus",
+        "d": "Um sistema de eleição de autoridades locais pelos camponeses"
+      },
+      "resposta": "b",
+      "explicacao": "A vassalagem era o vínculo de fidelidade entre um suserano, que concedia proteção e um feudo (terra), e um vassalo, que em troca prestava auxílio militar e outros serviços, estruturando as relações de poder na sociedade feudal."
+    },
+    {
+      "id": "historia-geral-20",
+      "texto_apoio": "",
+      "enunciado": "A economia feudal, predominante entre os séculos IX e XIII na Europa, tinha como característica central:",
+      "alternativas": {
+        "a": "Uma economia agrária, majoritariamente de autoconsumo, organizada em torno dos feudos e baseada no trabalho servil",
+        "b": "Uma economia industrial urbana voltada à exportação de manufaturados",
+        "c": "O predomínio do comércio marítimo de longa distância sobre a produção agrícola",
+        "d": "A ausência completa de relações de troca entre os feudos"
+      },
+      "resposta": "a",
+      "explicacao": "A economia feudal baseava-se principalmente na agricultura de subsistência realizada nos feudos, com baixa circulação monetária e forte dependência do trabalho dos servos, que cultivavam a terra em troca de proteção do senhor feudal."
+    },
+    {
+      "id": "historia-geral-21",
+      "texto_apoio": "Em 1517, o monge alemão Martinho Lutero afixou suas 95 teses contra práticas da Igreja Católica, dando início à Reforma Protestante.",
+      "enunciado": "Entre as principais críticas de Lutero à Igreja estava:",
+      "alternativas": {
+        "a": "A defesa da venda de indulgências como forma legítima de perdão dos pecados",
+        "b": "A condenação da venda de indulgências e a defesa da salvação pela fé, com a Bíblia como principal fonte de autoridade religiosa",
+        "c": "A proposta de fortalecimento do poder político do papado sobre os reinos europeus",
+        "d": "A defesa da manutenção do latim como única língua permitida nos textos religiosos"
+      },
+      "resposta": "b",
+      "explicacao": "Lutero criticava sobretudo a venda de indulgências, prática pela qual a Igreja perdoava pecados mediante pagamento, defendendo a salvação pela fé (sola fide) e a Bíblia como fonte central de autoridade religiosa, princípios que fundaram o protestantismo."
+    },
+    {
+      "id": "historia-geral-22",
+      "texto_apoio": "João Calvino desenvolveu, na Suíça, uma vertente própria do protestantismo que teve grande influência posterior.",
+      "enunciado": "Um elemento central da doutrina calvinista, com repercussões na ética econômica de países protestantes, foi:",
+      "alternativas": {
+        "a": "A predestinação, segundo a qual Deus já teria determinado quem seria salvo, associada a uma ética de trabalho disciplinado e valorização do sucesso material como sinal de graça divina",
+        "b": "A rejeição total ao trabalho e ao acúmulo de riquezas",
+        "c": "A defesa da manutenção da autoridade papal sobre todas as igrejas reformadas",
+        "d": "A proibição da leitura da Bíblia por leigos"
+      },
+      "resposta": "a",
+      "explicacao": "O calvinismo, com sua doutrina da predestinação, associou o sucesso material e o trabalho disciplinado a sinais de graça divina, influência que o sociólogo Max Weber relacionou ao desenvolvimento posterior da chamada 'ética protestante' e do capitalismo em regiões de maioria calvinista."
+    },
+    {
+      "id": "historia-geral-23",
+      "texto_apoio": "A Igreja Católica reagiu à Reforma Protestante por meio de um conjunto de medidas conhecido como Contrarreforma.",
+      "enunciado": "O Concílio de Trento (1545-1563), principal marco da Contrarreforma, teve como objetivo:",
+      "alternativas": {
+        "a": "Aceitar integralmente as teses protestantes sobre a salvação pela fé",
+        "b": "Reafirmar dogmas católicos, combater abusos internos da Igreja e reorganizar a doutrina e a disciplina eclesiástica frente ao avanço protestante",
+        "c": "Extinguir definitivamente o cargo de papa na hierarquia católica",
+        "d": "Transferir a sede da Igreja Católica para a Alemanha"
+      },
+      "resposta": "b",
+      "explicacao": "O Concílio de Trento reafirmou dogmas centrais do catolicismo, buscou corrigir abusos internos (como a venda de indulgências) e reorganizou a disciplina eclesiástica, sendo o principal instrumento doutrinário da Contrarreforma católica diante do avanço protestante."
+    },
+    {
+      "id": "historia-geral-24",
+      "texto_apoio": "O Iluminismo foi um movimento intelectual que floresceu na Europa, sobretudo na França, ao longo do século XVIII.",
+      "enunciado": "Entre os princípios centrais defendidos pelos pensadores iluministas estava:",
+      "alternativas": {
+        "a": "A defesa do direito divino dos reis como fundamento único e incontestável do poder político",
+        "b": "O uso da razão como instrumento para compreender e transformar a sociedade, associado à defesa de direitos naturais e à separação dos poderes do Estado",
+        "c": "A manutenção da sociedade estamental e dos privilégios hereditários da nobreza",
+        "d": "A rejeição de qualquer forma de conhecimento científico"
+      },
+      "resposta": "b",
+      "explicacao": "Os iluministas defendiam o uso da razão contra dogmas e privilégios, propondo ideias como direitos naturais, contrato social e separação dos poderes (esta última sistematizada por Montesquieu), que se tornariam referência para as revoluções liberais dos séculos XVIII e XIX."
+    },
+    {
+      "id": "historia-geral-25",
+      "texto_apoio": "",
+      "enunciado": "As ideias iluministas exerceram influência direta sobre:",
+      "alternativas": {
+        "a": "A consolidação do feudalismo na Europa medieval",
+        "b": "A independência dos Estados Unidos (1776) e a Revolução Francesa (1789), que incorporaram princípios como direitos naturais, soberania popular e separação de poderes",
+        "c": "A expansão do Império Romano na Antiguidade",
+        "d": "A unificação do Sacro Império Romano-Germânico no século X"
+      },
+      "resposta": "b",
+      "explicacao": "Os princípios iluministas de direitos naturais, soberania popular, contrato social e separação de poderes influenciaram diretamente os documentos e discursos políticos da independência dos Estados Unidos e da Revolução Francesa, fundamentando as revoluções liberais do final do século XVIII."
+    },
+    {
+      "id": "historia-geral-26",
+      "texto_apoio": "Otto von Bismarck, chanceler da Prússia, conduziu o processo de unificação alemã, concluído em 1871.",
+      "enunciado": "A estratégia adotada por Bismarck para unificar os territórios alemães sob liderança prussiana ficou conhecida como política de:",
+      "alternativas": {
+        "a": "Apaziguamento, evitando qualquer confronto militar com potências vizinhas",
+        "b": "'Sangue e ferro', que combinava fortalecimento militar prussiano e uma série de guerras estratégicas, culminando na Guerra Franco-Prussiana (1870-1871)",
+        "c": "Neutralidade absoluta em relação aos conflitos europeus do período",
+        "d": "Aliança permanente com o Império Austro-Húngaro para dividir o território alemão"
+      },
+      "resposta": "b",
+      "explicacao": "Bismarck conduziu a unificação alemã por meio da chamada política de 'sangue e ferro', que priorizava o fortalecimento militar e uma sequência de guerras (contra a Dinamarca, a Áustria e a França), sendo a vitória na Guerra Franco-Prussiana o marco final da proclamação do Império Alemão, em 1871."
+    },
+    {
+      "id": "historia-geral-27",
+      "texto_apoio": "O processo de unificação italiana, concluído em 1870-71, envolveu figuras como Camillo di Cavour e Giuseppe Garibaldi.",
+      "enunciado": "Nesse processo, conhecido como Risorgimento, coube a Garibaldi principalmente:",
+      "alternativas": {
+        "a": "A condução da diplomacia que articulou alianças internacionais em favor da unificação",
+        "b": "A liderança de campanhas militares, como a expedição dos Mil Camisas Vermelhas, que conquistou o sul da península italiana",
+        "c": "A criação do primeiro parlamento eleito da Itália unificada",
+        "d": "A negociação exclusiva com o papado pela anexação dos Estados Pontifícios"
+      },
+      "resposta": "b",
+      "explicacao": "Enquanto Cavour, primeiro-ministro do Piemonte-Sardenha, articulava a diplomacia da unificação, Garibaldi liderou campanhas militares populares, como a expedição dos Mil (Camisas Vermelhas), que conquistou o Reino das Duas Sicílias e contribuiu decisivamente para a unificação italiana."
+    },
+    {
+      "id": "historia-geral-28",
+      "texto_apoio": "As unificações da Alemanha e da Itália, concluídas por volta de 1871, alteraram significativamente o equilíbrio de poder europeu.",
+      "enunciado": "Uma das principais consequências geopolíticas desses processos de unificação foi:",
+      "alternativas": {
+        "a": "A redução do nacionalismo como força política na Europa",
+        "b": "O surgimento de novas potências industriais e militares, intensificando a rivalidade europeia e a disputa por colônias, fatores que contribuiriam para tensões que desembocariam na Primeira Guerra Mundial",
+        "c": "O enfraquecimento definitivo do Reino Unido como potência mundial",
+        "d": "O fim de qualquer disputa territorial na Europa Central"
+      },
+      "resposta": "b",
+      "explicacao": "A unificação de Alemanha e Itália criou novas potências industriais e militares no centro da Europa, intensificando a corrida imperialista e as rivalidades entre nações, o que contribuiu para o clima de tensão que resultaria, décadas depois, na Primeira Guerra Mundial."
+    },
+    {
+      "id": "historia-geral-29",
+      "texto_apoio": "Após anos de guerra civil contra as forças nacionalistas do Kuomintang, o Partido Comunista Chinês, liderado por Mao Tsé-Tung, venceu o conflito.",
+      "enunciado": "Esse processo culminou, em 1949, na:",
+      "alternativas": {
+        "a": "Restauração da dinastia imperial chinesa",
+        "b": "Proclamação da República Popular da China, sob liderança comunista, enquanto forças nacionalistas se refugiavam na ilha de Taiwan",
+        "c": "Anexação da China ao território soviético",
+        "d": "Independência da China em relação ao domínio colonial britânico"
+      },
+      "resposta": "b",
+      "explicacao": "A vitória comunista na guerra civil chinesa culminou na proclamação da República Popular da China em outubro de 1949, sob liderança de Mao Tsé-Tung, enquanto as forças nacionalistas derrotadas do Kuomintang, lideradas por Chiang Kai-shek, refugiaram-se na ilha de Taiwan."
+    },
+    {
+      "id": "historia-geral-30",
+      "texto_apoio": "Já no poder, Mao Tsé-Tung promoveu campanhas de transformação radical da sociedade chinesa, como o Grande Salto Adiante (1958) e a Revolução Cultural (1966-1976).",
+      "enunciado": "Essas campanhas tinham como objetivo declarado, respectivamente:",
+      "alternativas": {
+        "a": "Restaurar o capitalismo de mercado e reaproximar a China do Ocidente",
+        "b": "Acelerar a industrialização e a coletivização agrícola do país, e depois eliminar elementos considerados burgueses ou contrarrevolucionários na sociedade e no próprio partido",
+        "c": "Estabelecer uma monarquia constitucional na China",
+        "d": "Integrar a China à Organização das Nações Unidas pela primeira vez"
+      },
+      "resposta": "b",
+      "explicacao": "O Grande Salto Adiante buscava acelerar a industrialização e a coletivização agrícola chinesa, mas resultou em grave crise econômica e fome; já a Revolução Cultural visava eliminar opositores internos e elementos tidos como burgueses, gerando forte instabilidade política e social no país."
+    },
+    {
+      "id": "historia-geral-31",
+      "texto_apoio": "Instituído oficialmente em 1948 pelo Partido Nacional sul-africano, o apartheid foi um sistema de segregação racial institucionalizada.",
+      "enunciado": "Esse sistema caracterizava-se por:",
+      "alternativas": {
+        "a": "Garantir direitos civis e políticos iguais a todos os grupos raciais do país",
+        "b": "Separar legalmente a população por critérios raciais, restringindo direitos políticos, de moradia e de circulação da maioria negra sul-africana",
+        "c": "Aplicar-se apenas a estrangeiros residentes na África do Sul",
+        "d": "Ser uma política informal, sem qualquer respaldo em leis do Estado"
+      },
+      "resposta": "b",
+      "explicacao": "O apartheid era um sistema institucionalizado por lei que segregava a população sul-africana por critérios raciais, restringindo severamente os direitos políticos, de propriedade, de moradia e de circulação da maioria negra em benefício da minoria branca no poder."
+    },
+    {
+      "id": "historia-geral-32",
+      "texto_apoio": "Nelson Mandela, líder do Congresso Nacional Africano (CNA), foi preso por quase três décadas por sua luta contra o apartheid.",
+      "enunciado": "Sua libertação, em 1990, e a posterior eleição como presidente, em 1994, marcaram:",
+      "alternativas": {
+        "a": "O fortalecimento definitivo do regime de segregação racial na África do Sul",
+        "b": "O fim formal do apartheid e a transição para um regime democrático multirracial no país",
+        "c": "A divisão da África do Sul em dois países distintos",
+        "d": "A manutenção do apartheid sob nova liderança política"
+      },
+      "resposta": "b",
+      "explicacao": "A libertação de Mandela em 1990 e sua eleição em 1994, na primeira eleição sul-africana com participação de todas as raças, marcaram o fim formal do apartheid e o início da transição democrática multirracial no país, com Mandela como primeiro presidente negro da África do Sul."
+    },
+    {
+      "id": "historia-geral-33",
+      "texto_apoio": "A chamada Primavera Árabe teve início na Tunísia, no final de 2010, espalhando-se por diversos países do Oriente Médio e do Norte da África.",
+      "enunciado": "Entre os principais fatores que impulsionaram esses protestos estão:",
+      "alternativas": {
+        "a": "O amplo apoio popular a governos autoritários então vigentes na região",
+        "b": "O desemprego, sobretudo entre os jovens, o autoritarismo político prolongado e o uso das redes sociais para mobilização e organização dos protestos",
+        "c": "A ausência completa de desigualdade social nos países envolvidos",
+        "d": "Uma decisão coordenada de organismos internacionais para depor os governos da região"
+      },
+      "resposta": "b",
+      "explicacao": "A Primavera Árabe foi impulsionada por fatores como alto desemprego juvenil, insatisfação com regimes autoritários de longa duração, aumento no custo de vida e uso intenso de redes sociais para organizar e disseminar os protestos, iniciados na Tunísia e espalhados por países como Egito, Líbia e Síria."
+    },
+    {
+      "id": "historia-geral-34",
+      "texto_apoio": "",
+      "enunciado": "Os desdobramentos da Primavera Árabe variaram significativamente entre os países atingidos. No caso da Síria, por exemplo, os protestos:",
+      "alternativas": {
+        "a": "Levaram a uma rápida e pacífica transição democrática, sem qualquer conflito armado",
+        "b": "Transformaram-se em uma guerra civil prolongada, com graves consequências humanitárias e amplo fluxo de refugiados",
+        "c": "Resultaram no fortalecimento imediato das instituições democráticas do país",
+        "d": "Foram integralmente ignorados pelo governo sírio, sem qualquer repressão"
+      },
+      "resposta": "b",
+      "explicacao": "Diferentemente da transição relativamente pacífica ocorrida na Tunísia, os protestos na Síria degeneraram em uma prolongada guerra civil, com intervenção de diversos atores internacionais, graves violações de direitos humanos e um dos maiores fluxos de refugiados do século XXI."
+    },
+    {
+      "id": "historia-geral-35",
+      "texto_apoio": "A partir de 1978, sob a liderança de Deng Xiaoping, a China iniciou um processo de reformas econômicas.",
+      "enunciado": "Essas reformas caracterizaram-se principalmente por:",
+      "alternativas": {
+        "a": "A adoção plena do modelo democrático liberal ocidental",
+        "b": "A introdução de mecanismos de mercado e abertura ao investimento estrangeiro, mantendo o controle político centralizado do Partido Comunista, em um modelo descrito como 'socialismo de mercado'",
+        "c": "O fechamento total da economia chinesa ao comércio internacional",
+        "d": "A extinção do Partido Comunista Chinês como força política"
+      },
+      "resposta": "b",
+      "explicacao": "As reformas de Deng Xiaoping combinaram a introdução de mecanismos de mercado, zonas econômicas especiais e abertura ao capital estrangeiro com a manutenção do monopólio político do Partido Comunista, configurando o que passou a ser chamado de 'socialismo de mercado com características chinesas'."
+    },
+    {
+      "id": "historia-geral-36",
+      "texto_apoio": "No século XXI, a China consolidou-se como uma das maiores potências econômicas do mundo.",
+      "enunciado": "Um dos principais instrumentos utilizados pela China para expandir sua influência econômica e geopolítica global nas últimas décadas é:",
+      "alternativas": {
+        "a": "O isolamento comercial deliberado em relação a países em desenvolvimento",
+        "b": "A Nova Rota da Seda (Belt and Road Initiative), programa de investimentos em infraestrutura em diversos países da Ásia, África e Europa",
+        "c": "A retirada unilateral da Organização Mundial do Comércio",
+        "d": "A proibição de investimentos chineses em portos e ferrovias no exterior"
+      },
+      "resposta": "b",
+      "explicacao": "A Nova Rota da Seda, lançada em 2013, é uma ampla iniciativa chinesa de investimento em infraestrutura de transporte, energia e comunicações em dezenas de países, ampliando a influência econômica e geopolítica da China em escala global no século XXI."
+    }
+  ]
+}

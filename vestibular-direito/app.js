@@ -204,6 +204,20 @@
     return "https://www.youtube.com/results?search_query=" + encodeURIComponent(query);
   }
 
+  // ---------- Vídeo-aula específica de cada frente do dia ----------
+
+  // Escolhe, para a frente estudada nessa lição, um subtema ESPECÍFICO do
+  // catálogo VIDEO_TOPICS (não a matéria inteira) — por exemplo "porcentagem
+  // e juros compostos" em vez de "matemática". O índice gira com o número da
+  // visita (1ª vez, 2ª revisão, ...), então cada vez que a frente volta, a
+  // aula sugerida é sobre um subtema diferente, cobrindo mais terreno ao
+  // longo dos 90 dias.
+  function pickLessonVideo(subtopicId, visitNumber) {
+    const pool = (window.VIDEO_TOPICS && window.VIDEO_TOPICS[subtopicId]) || [];
+    if (pool.length === 0) return null;
+    return pool[(visitNumber - 1) % pool.length];
+  }
+
   function renderDay(day) {
     rebuildPlan();
     currentDay = day;
@@ -474,15 +488,19 @@
       ? "1ª vez estudando este tema"
       : lesson.visitNumber + "ª revisão deste tema";
 
-    const videoBtns = lesson.buscaVideo.map((q) =>
-      `<a class="btn-link" target="_blank" rel="noopener" href="${youtubeSearchUrl(q)}">▶ Buscar vídeo-aula: "${escapeHtml(q)}"</a>`
-    ).join("");
+    const video = pickLessonVideo(lesson.subtopicId, lesson.visitNumber);
+    const videoHtml = video
+      ? `<div class="weekly-video-item">
+          <div class="weekly-video-tema">▶ Aula de hoje: ${escapeHtml(video.tema)}</div>
+          <a class="btn-link" target="_blank" rel="noopener" href="${youtubeSearchUrl(video.busca)}">Buscar essa aula no YouTube</a>
+        </div>`
+      : "";
 
     card.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(lesson.area)}</div>
       <h3>${escapeHtml(lesson.nome)} <span class="visit-badge">${escapeHtml(visitLabel)}</span></h3>
       <p class="lesson-desc">${escapeHtml(lesson.descricao)}</p>
-      <div class="video-links">${videoBtns}</div>
+      ${videoHtml}
       <div class="exercise-block">
         <div class="exercise-summary">
           <span>${lesson.questions.length} exercícios</span>

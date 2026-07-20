@@ -103,10 +103,18 @@ material 100% autêntico por conta própria.
 ## Sobre os vídeos
 
 Não incluí links diretos para vídeos específicos do YouTube — não há como garantir que um ID de
-vídeo "chutado" exista ou continue no ar. Em vez disso, cada frente tem botões que abrem uma
-**busca já filtrada no YouTube** (`youtube.com/results?search_query=...`) com termos pensados
-para trazer aulas de vestibular sobre aquele assunto. Isso garante que o link sempre funcione e
+vídeo "chutado" exista ou continue no ar. Em vez disso, os botões abrem uma **busca já filtrada
+no YouTube** (`youtube.com/results?search_query=...`). Isso garante que o link sempre funcione e
 sempre mostre conteúdo atual, em vez de um vídeo que pode ter saído do ar.
+
+A recomendação é **diária, uma por frente do dia** (2 no total, já que cada dia normal estuda 2
+frentes): dentro do card de cada frente aparece "▶ Aula de hoje: [subtema específico]". Em vez
+de "aula de matemática vestibular" (vago), a busca é por um subtema concreto — "aula porcentagem
+e juros compostos vestibular", por exemplo — usando um catálogo de subtemas específicos por
+frente (`data/video-topics.js`, 3-5 subtemas por frente). O subtema sorteado gira com o número
+da visita àquela frente (1ª vez, 2ª revisão, ...), então toda vez que a frente volta, a aula
+sugerida é sobre um subtema diferente, cobrindo mais terreno ao longo dos 90 dias em vez de
+repetir sempre a mesma busca.
 
 ## Progresso
 

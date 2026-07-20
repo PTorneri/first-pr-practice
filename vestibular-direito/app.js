@@ -6,6 +6,17 @@
   const LS_DISSERT_STATUS = "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
   const LS_DISSERT_ANSWERS = "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
   const LS_CYCLE_WEIGHTS = "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
+  const LS_SCORE_HISTORY = "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
+  const LS_TOPIC_LAST_ANSWERED = "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
+  const LS_THEORY_SEEN = "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
+  const LS_FLASHCARD_STATE = "vd_flashcardState"; // { "<subtopicId>::<questionId>": { interval, reps, dueDate } }, achado 2
+  const LS_OBRAS_STUDIED = "vd_obrasStudied"; // { "<obraId>": true }, achado 13 (obras obrigatórias)
+  const LS_SYNC_CODE = "vd_syncCode"; // último código de sincronização usado neste aparelho, achado 10
+
+  const SYNCABLE_KEYS = [
+    LS_START, LS_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
+    LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN, LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
+  ];
 
   const DISSERT_WEEK_TARGET = 4;
   const DISSERT_WEEK_SIZE = 7;
@@ -13,7 +24,15 @@
   let plan = null;
   let currentDay = 1;
   const expandedDissertDays = new Set(); // dias com o painel de dissertativas aberto nesta sessão
+  const dissertAreaFilter = {}; // "<day>" -> "Humanas"|"Linguagens"|"Artes"|undefined (todas)
   let simuladosDetailIndex = null; // null = mostra a lista de simulados; N = mostra o detalhe do simulado N
+  let progressoSosId = null; // null = mostra a lista normal de progresso; subtopicId = mostra a sessão SOS (achado 3)
+  let flashcardSession = null; // { queue, index, flipped } ou null = tela inicial da aba Cards (achado 2)
+  let obrasFilterCategoria = null; // null = todas; ou "Literatura"/"Artes visuais"/"Cinema"/"Música"/"Ensaio" (achado 13)
+  const expandedExtras = new Set(); // "<day>::<subtopicId>" com os extras já revelados nesta sessão
+  const extraPullCounts = {}; // "<day>::<subtopicId>" -> quantas questões extras já foram puxadas além do plano
+  const ESSENTIAL_QUESTIONS_PER_LESSON = 12;
+  const MINUTES_PER_QUESTION_ESTIMATE = 1.8;
 
   // ---------- Persistence helpers ----------
   function loadJSON(key, fallback) {
@@ -55,12 +74,15 @@
 
   // Escolhe 1 ou 2 questões dissertativas para o dia, de forma determinística
   // (mesma lógica de janela circular usada nas objetivas, reaproveitando o
-  // mulberry32/seededShuffle definidos em schedule.js).
-  function pickDissertQuestions(day) {
-    const pool = window.DISSERTATIVAS || [];
+  // mulberry32/seededShuffle definidos em schedule.js). `areaFilter`
+  // (achado 12) restringe o sorteio a uma matéria específica, quando o
+  // usuário escolhe "trocar matéria" no card do dia.
+  function pickDissertQuestions(day, areaFilter) {
+    const fullPool = window.DISSERTATIVAS || [];
+    const pool = areaFilter ? fullPool.filter((q) => q.area === areaFilter) : fullPool;
     if (pool.length === 0) return [];
     const rng = mulberry32(day * 733 + 17);
-    const count = rng() < 0.5 ? 1 : 2;
+    const count = Math.min(pool.length, rng() < 0.5 ? 1 : 2);
     const offset = ((day - 1) * count) % pool.length;
     const circular = [];
     for (let i = 0; i < pool.length; i++) circular.push(pool[(offset + i) % pool.length]);
@@ -208,6 +230,8 @@
         if (btn.dataset.tab === "calendario") renderCalendar();
         if (btn.dataset.tab === "progresso") renderProgress();
         if (btn.dataset.tab === "simulados") renderSimuladosTab();
+        if (btn.dataset.tab === "cards") renderCardsTab();
+        if (btn.dataset.tab === "obras") renderObrasTab();
         if (btn.dataset.tab === "erros") renderErrosTab();
       });
     });
@@ -241,18 +265,78 @@
     return pool[(visitNumber - 1) % pool.length];
   }
 
+  // Achado 14 (checklist "X/Y do dia"): lista curta de tarefas do dia,
+  // atualizada sempre que algo relevante muda (resposta, dissertativa).
+  // Cresce nas fases seguintes (teoria, flashcards) — por enquanto cobre só
+  // o que já existe: exercícios essenciais e a dissertativa opcional.
+  function computeDayTasks(day, content) {
+    const tasks = [];
+    if (content.type === "simulado") {
+      tasks.push({ label: "Simulado misto", done: isDayExerciseComplete(day) });
+    } else {
+      const seenTheory = loadJSON(LS_THEORY_SEEN, {});
+      const theoryDone = content.lessons.every((l) => !window.THEORY || !window.THEORY[l.subtopicId] || seenTheory[l.subtopicId]);
+      tasks.push({ label: "Teoria (gatilhos e pegadinhas)", done: theoryDone });
+      tasks.push({ label: "Questões essenciais", done: isDayExerciseComplete(day) });
+      const dstatus = getDissertStatus()[day];
+      tasks.push({ label: "Dissertativa (opcional, meta de 4x/semana)", done: dstatus === "done" || dstatus === "skipped" });
+      const flashcardState = getFlashcardState();
+      const dueToday = buildFlashcardPool().some((c) => flashcardStatusFor(c.key, flashcardState) === "vencido");
+      tasks.push({ label: "Flashcards do dia", done: !dueToday });
+    }
+    return tasks;
+  }
+
+  function renderDayChecklist(day, content) {
+    const tasks = computeDayTasks(day, content);
+    const doneCount = tasks.filter((t) => t.done).length;
+    const itemsHtml = tasks
+      .map((t) => `<li class="${t.done ? "task-done" : ""}">${t.done ? "✓" : "○"} ${escapeHtml(t.label)}</li>`)
+      .join("");
+    return `<div class="day-checklist" id="day-checklist">
+      <div class="day-checklist-header">${doneCount}/${tasks.length} tarefas de hoje</div>
+      <ul class="day-checklist-list">${itemsHtml}</ul>
+    </div>`;
+  }
+
+  function updateDayChecklist(day) {
+    const el = document.getElementById("day-checklist");
+    if (!el || !plan) return;
+    const content = getDayContent(plan, day);
+    const wrap = document.createElement("div");
+    wrap.innerHTML = renderDayChecklist(day, content);
+    el.replaceWith(wrap.firstElementChild);
+  }
+
   function renderDay(day) {
     rebuildPlan();
     currentDay = day;
     document.getElementById("day-number").textContent = "Dia " + day;
     const start = localStorage.getItem(LS_START) || todayISO();
     document.getElementById("day-date").textContent = formatDate(addDays(start, day - 1));
+    document.getElementById("phase-label").textContent = phaseLabelForDay(day);
     document.getElementById("btn-prev-day").disabled = day <= 1;
     document.getElementById("btn-next-day").disabled = day >= 90;
 
     const content = getDayContent(plan, day);
     const container = document.getElementById("day-content");
     container.innerHTML = "";
+
+    const checklistWrap = document.createElement("div");
+    checklistWrap.innerHTML = renderDayChecklist(day, content);
+    container.appendChild(checklistWrap.firstElementChild);
+
+    // Achado 4 (interleaving): sextas-feiras que já incluem uma revisão
+    // (visitNumber > 1, não a 1ª vez no tema) ganham um aviso explicando o
+    // porquê — mistura o assunto novo com algo que você já viu antes, em vez
+    // de dias inteiros de um assunto só.
+    const isFriday = scheduleDateForDay(start, day).getDay() === 5;
+    if (isFriday && content.type === "normal" && content.lessons.some((l) => l.visitNumber > 1)) {
+      const note = document.createElement("div");
+      note.className = "friday-note";
+      note.textContent = "Sexta de revisão intercalada: hoje mistura um tema novo com outro que você já estudou antes — misturar em vez de blocos maciços de um assunto só ajuda a fixar melhor.";
+      container.appendChild(note);
+    }
 
     if (content.type === "simulado") {
       container.appendChild(renderSimuladoCard(day, content));
@@ -303,24 +387,47 @@
     return card;
   }
 
+  // Rótulo curto do peso-base de uma frente (window.PRIORITY_WEIGHTS), usado
+  // pra explicar o "porquê" das recomendações (achado 8: transparência
+  // linha a linha no motor adaptativo).
+  function priorityLabel(weight) {
+    if (weight >= 3) return "prioridade máxima na prova";
+    if (weight >= 2) return "prioridade média na prova";
+    if (weight >= 1.5) return "prioridade estrutural (decisiva numa banca, secundária na outra)";
+    return "prioridade baixa na prova";
+  }
+
   // Depois que o simulado é 100% respondido, mostra quais frentes tiveram
-  // mais erros e por isso vão ganhar mais espaço na semana seguinte.
+  // mais erros e por isso vão ganhar mais espaço na semana seguinte — cada
+  // linha explica o porquê (peso da frente + taxa de erro), não só "errou X".
   function renderSimuladoFocus(container, day, content) {
     if (!container || !isDayExerciseComplete(day)) return;
 
     const simuladoVisitIndex = content.simuladoNumber - 1;
     const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex);
-    const byId = {};
-    window.SUBTOPICS.forEach((s) => (byId[s.id] = s));
+    const weights = window.PRIORITY_WEIGHTS || {};
 
-    const focused = window.SUBTOPICS
+    const focusedSubtopics = window.SUBTOPICS
       .filter((s) => errors[s.id] > 0)
-      .sort((a, b) => (errors[b.id] / totals[b.id]) - (errors[a.id] / totals[a.id]))
-      .map((s) => `${escapeHtml(s.nome)} (${errors[s.id]}/${totals[s.id]} erradas)`);
+      .sort((a, b) => (errors[b.id] / totals[b.id]) - (errors[a.id] / totals[a.id]));
+
+    const focused = focusedSubtopics.map((s) => {
+      const rate = Math.round((errors[s.id] / totals[s.id]) * 100);
+      const label = priorityLabel(weights[s.id] || 1);
+      return `<li><strong>${escapeHtml(s.nome)}</strong> — ${label} e você errou ${errors[s.id]}/${totals[s.id]} (${rate}%) neste simulado
+        <button type="button" class="btn-link sos-inline-btn" data-subtopic="${s.id}">🆘 SOS</button></li>`;
+    });
 
     container.innerHTML = focused.length > 0
-      ? `<div class="dissert-counter"><strong>Com base nos seus erros, a semana que vem foca mais em:</strong><br>${focused.join(", ")}</div>`
+      ? `<div class="dissert-counter"><strong>Com base nos seus erros, a semana que vem foca mais em:</strong></div><ul class="focus-list">${focused.join("")}</ul>`
       : `<div class="dissert-counter"><strong>Mandou bem!</strong> Sem erros neste simulado, a semana que vem segue com a distribuição normal entre as frentes.</div>`;
+
+    container.querySelectorAll(".sos-inline-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        progressoSosId = btn.dataset.subtopic;
+        document.querySelector('.tab-btn[data-tab="progresso"]').click();
+      });
+    });
   }
 
   // ---------- Aba Simulados (lista + resultado detalhado por tema) ----------
@@ -359,6 +466,31 @@
       totalCorrect,
       perTopic: Object.values(perTopic),
     };
+  }
+
+  // Achado 11 (simulados avulsos + re-simulado): itens desse simulado
+  // específico cuja última resposta salva está errada — usado por "Refazer
+  // só as erradas" pra limpar só essas chaves de vd_answers.
+  function computeSimuladoWrongItems(simuladoIndex) {
+    const items = pickSimuladoQuestions(simuladoIndex);
+    const answers = getAnswers();
+    return items.filter((item) => {
+      const chosen = answers[answerKey(item.subtopicId, item.question.id)];
+      return chosen && chosen !== item.question.resposta;
+    });
+  }
+
+  function retrySimulado(simuladoIndex, onlyWrong) {
+    const items = onlyWrong ? computeSimuladoWrongItems(simuladoIndex) : pickSimuladoQuestions(simuladoIndex);
+    if (items.length === 0) return;
+    const msg = onlyWrong
+      ? `Isso vai limpar sua resposta nas ${items.length} questões que você errou nesse simulado, pra você refazer só elas. Continuar?`
+      : "Isso vai limpar todas as suas respostas nesse simulado, pra você refazer do zero. Continuar?";
+    if (!confirm(msg)) return;
+    const current = getAnswers();
+    items.forEach((item) => { delete current[answerKey(item.subtopicId, item.question.id)]; });
+    saveJSON(LS_ANSWERS, current);
+    recomputeAll();
   }
 
   function simuladoStatusLabel(result) {
@@ -469,16 +601,51 @@
     `;
     wrap.appendChild(header);
 
+    const actionsWrap = document.createElement("div");
+    actionsWrap.className = "dissert-actions";
+    actionsWrap.style.margin = "14px 0";
+
     const goBtn = document.createElement("button");
     goBtn.type = "button";
     goBtn.className = "btn btn-secondary";
-    goBtn.style.margin = "14px 0";
+    goBtn.style.width = "auto";
     goBtn.textContent = "Abrir esse dia em \"Hoje\"";
     goBtn.addEventListener("click", () => {
       document.querySelector('.tab-btn[data-tab="hoje"]').click();
       renderDay(day);
     });
-    wrap.appendChild(goBtn);
+    actionsWrap.appendChild(goBtn);
+
+    // Achado 11: simulados avulsos, refazíveis a qualquer momento.
+    if (result.totalAnswered > 0) {
+      const wrongCount = computeSimuladoWrongItems(simuladoIndex).length;
+      if (wrongCount > 0) {
+        const retryWrongBtn = document.createElement("button");
+        retryWrongBtn.type = "button";
+        retryWrongBtn.className = "btn btn-secondary";
+        retryWrongBtn.style.width = "auto";
+        retryWrongBtn.textContent = `Refazer só as ${wrongCount} erradas`;
+        retryWrongBtn.addEventListener("click", () => {
+          retrySimulado(simuladoIndex, true);
+          document.querySelector('.tab-btn[data-tab="hoje"]').click();
+          renderDay(day);
+        });
+        actionsWrap.appendChild(retryWrongBtn);
+      }
+      const retryAllBtn = document.createElement("button");
+      retryAllBtn.type = "button";
+      retryAllBtn.className = "btn btn-secondary";
+      retryAllBtn.style.width = "auto";
+      retryAllBtn.textContent = "Refazer o simulado inteiro";
+      retryAllBtn.addEventListener("click", () => {
+        retrySimulado(simuladoIndex, false);
+        document.querySelector('.tab-btn[data-tab="hoje"]').click();
+        renderDay(day);
+      });
+      actionsWrap.appendChild(retryAllBtn);
+    }
+
+    wrap.appendChild(actionsWrap);
 
     const subtitle = document.createElement("h3");
     subtitle.textContent = "Acertos por frente";
@@ -502,6 +669,456 @@
     wrap.appendChild(list);
 
     return wrap;
+  }
+
+  // ---------- Achado 7: diagnóstico qualitativo de erro ----------
+  //
+  // Em vez de marcar manualmente ~540 questões com um "tipo de erro" fixo
+  // (tarefa de curadoria que cresceria a cada questão nova adicionada e não
+  // escalaria), classificamos por PADRÃO DE TEXTO no momento da análise —
+  // mesma ideia do concorrente ("confusões recorrentes", "armadilha de
+  // linguagem absoluta", "estilo de questão"), só que calculada
+  // automaticamente a partir do enunciado/alternativas, e por isso já vale
+  // pra qualquer questão nova do banco sem manutenção extra. É uma
+  // estimativa heurística, não uma curadoria manual — o texto na UI deixa
+  // isso explícito.
+  function classifyErrorType(q) {
+    const text = (q.enunciado + " " + Object.values(q.alternativas).join(" ")).toLowerCase();
+    if (/\bsempre\b|\bnunca\b|\bsomente\b|\bapenas\b|\btodos\b|\btoda\b|\bnenhum\b|\bnenhuma\b/.test(text)) {
+      return "linguagem-absoluta";
+    }
+    if (/%|porcentagem|proporç|razão|taxa|média|gráfico|tabela|calcul/.test(text)) {
+      return "calculo-leitura-dado";
+    }
+    if (/em geral|de modo geral|na maioria dos casos|regra geral/.test(text)) {
+      return "generalizacao-indevida";
+    }
+    return "conceitual";
+  }
+  const ERROR_TYPE_LABELS = {
+    "linguagem-absoluta": "Armadilha de linguagem absoluta (\"sempre/nunca/só\")",
+    "calculo-leitura-dado": "Cálculo ou leitura de dado (número, %, gráfico)",
+    "generalizacao-indevida": "Generalização indevida",
+    "conceitual": "Confusão conceitual",
+  };
+
+  function classifyQuestionStyle(q) {
+    const text = q.enunciado.toLowerCase();
+    if (/de acordo com o texto|segundo o texto|com base no texto|infere-se|pode-se inferir|o autor/.test(text)) {
+      return "interpretacao";
+    }
+    if (/calcule|determine|qual (o|a) valor|resolva|quantos|quanto/.test(text)) {
+      return "aplicacao";
+    }
+    return "conceito";
+  }
+  const STYLE_LABELS = { interpretacao: "Interpretação", aplicacao: "Aplicação/cálculo", conceito: "Conceito" };
+
+  // Agrega, sobre TODAS as respostas erradas salvas (qualquer dia/simulado),
+  // quantos erros caem em cada tipo de armadilha e em cada estilo de questão.
+  function computeErrorDiagnostics() {
+    const answers = getAnswers();
+    const byErrorType = {}, byStyle = {};
+    let total = 0;
+    window.SUBTOPICS.forEach((s) => {
+      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
+      bank.forEach((q) => {
+        const chosen = answers[answerKey(s.id, q.id)];
+        if (chosen && chosen !== q.resposta) {
+          total++;
+          const et = classifyErrorType(q);
+          const st = classifyQuestionStyle(q);
+          byErrorType[et] = (byErrorType[et] || 0) + 1;
+          byStyle[st] = (byStyle[st] || 0) + 1;
+        }
+      });
+    });
+    return { total, byErrorType, byStyle };
+  }
+
+  function renderErrorDiagnosticsCard() {
+    const { total, byErrorType, byStyle } = computeErrorDiagnostics();
+    const wrap = document.createElement("div");
+    wrap.className = "card error-diagnostics-card";
+    if (total === 0) {
+      wrap.innerHTML = `
+        <h3>Como você erra</h3>
+        <p class="hint">Ainda sem erros suficientes pra identificar um padrão. Assim que você errar algumas
+        questões, esse card mostra em que tipo de armadilha e em que estilo de questão você mais tropeça.</p>
+      `;
+      return wrap;
+    }
+    const rowsHtml = (obj, labels) => Object.entries(obj)
+      .sort((a, b) => b[1] - a[1])
+      .map(([key, count]) => {
+        const pct = Math.round((count / total) * 100);
+        return `
+          <div class="diag-row">
+            <div class="diag-row-top"><span>${escapeHtml(labels[key] || key)}</span><span>${count}/${total} (${pct}%)</span></div>
+            <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
+          </div>`;
+      }).join("");
+
+    wrap.innerHTML = `
+      <h3>Como você erra</h3>
+      <p class="hint">Estimativa automática (baseada no padrão do enunciado, não curadoria manual) de em que tipo de
+      armadilha e em que estilo de questão os seus ${total} erro${total === 1 ? "" : "s"} salvos mais se concentram.</p>
+      <div class="diag-col-label">Tipo de armadilha</div>
+      ${rowsHtml(byErrorType, ERROR_TYPE_LABELS)}
+      <div class="diag-col-label" style="margin-top:14px;">Estilo de questão</div>
+      ${rowsHtml(byStyle, STYLE_LABELS)}
+    `;
+    return wrap;
+  }
+
+  // ---------- Achado 3: sessão "SOS" por tema ----------
+  // Junta numa tela só: teoria (gatilhos/pegadinhas, achado 1) + as questões
+  // erradas do usuário nesse tema (reaproveita computeWrongQuestions) —
+  // acionável a qualquer momento a partir da aba Progresso ou do resumo
+  // pós-simulado.
+  function renderSosView(subtopicId) {
+    const s = window.SUBTOPICS.find((x) => x.id === subtopicId);
+    const wrap = document.createElement("div");
+    if (!s) return wrap;
+
+    const backBtn = document.createElement("button");
+    backBtn.type = "button";
+    backBtn.className = "btn btn-ghost";
+    backBtn.style.marginBottom = "8px";
+    backBtn.textContent = "← Voltar pro progresso";
+    backBtn.addEventListener("click", () => { progressoSosId = null; renderProgress(); });
+    wrap.appendChild(backBtn);
+
+    const header = document.createElement("div");
+    header.className = "card official-exams-card";
+    header.innerHTML = `<h2>SOS — ${escapeHtml(s.nome)}</h2>
+      <p class="hint" style="margin-top:-4px;">Sessão de resgate: teoria e suas questões erradas nesse tema, tudo junto.</p>`;
+    wrap.appendChild(header);
+
+    const theoryHtml = renderTheoryBlockHtml(subtopicId);
+    if (theoryHtml) {
+      const theoryCard = document.createElement("div");
+      theoryCard.className = "lesson-card";
+      theoryCard.innerHTML = theoryHtml;
+      wrap.appendChild(theoryCard);
+      const content = theoryCard.querySelector(".theory-content");
+      if (content) {
+        content.hidden = false; // já abre expandido, é o ponto do SOS
+        const seenState = loadJSON(LS_THEORY_SEEN, {});
+        if (!seenState[subtopicId]) {
+          seenState[subtopicId] = true;
+          saveJSON(LS_THEORY_SEEN, seenState);
+        }
+      }
+    }
+
+    const wrongGroup = computeWrongQuestions().find((g) => g.subtopicId === subtopicId);
+    const errorsCard = document.createElement("div");
+    errorsCard.className = "lesson-card";
+    if (wrongGroup && wrongGroup.questions.length > 0) {
+      errorsCard.innerHTML = `<h3>Suas questões erradas nesse tema <span class="visit-badge">${wrongGroup.questions.length} pra revisar</span></h3><div class="questions"></div>`;
+      const qContainer = errorsCard.querySelector(".questions");
+      wrongGroup.questions.forEach((q, idx) => {
+        qContainer.appendChild(renderQuestion(null, subtopicId, q, idx, undefined, undefined, true));
+      });
+    } else {
+      errorsCard.innerHTML = `<h3>Suas questões erradas nesse tema</h3><p class="hint">Nenhum erro pendente nesse tema agora — mandou bem!</p>`;
+    }
+    wrap.appendChild(errorsCard);
+
+    return wrap;
+  }
+
+  // ---------- Achado 2: Flashcards com repetição espaçada ----------
+  // Gerados a partir do banco de questões já existente (não precisa de
+  // conteúdo novo: frente do card = enunciado, verso = resposta certa +
+  // explicação já escrita). Algoritmo SM-2 simplificado: "Não sei" zera o
+  // intervalo (reaparece amanhã, e também mais cedo NESTA sessão); "Sei"
+  // avança o intervalo numa progressão fixa (1 → 3 → 7 → 15 → 30 dias).
+  const FLASHCARD_NEW_PER_DAY = 20;
+  const FLASHCARD_INTERVALS = [1, 3, 7, 15, 30]; // dias
+
+  function getFlashcardState() { return loadJSON(LS_FLASHCARD_STATE, {}); }
+
+  function addDaysISO(iso, n) {
+    const d = new Date(iso + "T00:00:00");
+    d.setDate(d.getDate() + n);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function buildFlashcardPool() {
+    const pool = [];
+    window.SUBTOPICS.forEach((s) => {
+      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
+      bank.forEach((q) => {
+        pool.push({ subtopicId: s.id, subtopicNome: s.nome, area: s.area, question: q, key: answerKey(s.id, q.id) });
+      });
+    });
+    // Achado 13: cada obra obrigatória também vira um flashcard (frente =
+    // título/autor, verso = resumo + análise pelos eixos), reaproveitando o
+    // mesmo motor de repetição espaçada — sem "alternativas", por isso
+    // isObraCard=true pra renderFlashcardSessionView pular a linha de gabarito.
+    (window.OBRAS || []).forEach((o) => {
+      pool.push({
+        subtopicId: "obra::" + o.id,
+        subtopicNome: o.titulo,
+        area: "Obra — " + o.categoria,
+        question: {
+          id: o.id,
+          enunciado: `${o.titulo} — ${o.autor}`,
+          isObraCard: true,
+          explicacao: `${o.resumo} ${o.analiseEixos}`,
+        },
+        key: "obra::" + o.id,
+      });
+    });
+    return pool;
+  }
+
+  function flashcardStatusFor(key, state) {
+    const st = state[key];
+    if (!st) return "novo";
+    return st.dueDate <= todayISO() ? "vencido" : "futuro";
+  }
+
+  function gradeFlashcard(key, knewIt) {
+    const state = getFlashcardState();
+    const st = state[key] || { interval: 0, reps: 0 };
+    if (knewIt) {
+      const idx = Math.min(st.reps, FLASHCARD_INTERVALS.length - 1);
+      const interval = FLASHCARD_INTERVALS[idx];
+      state[key] = { interval, reps: st.reps + 1, dueDate: addDaysISO(todayISO(), interval) };
+    } else {
+      state[key] = { interval: 1, reps: 0, dueDate: addDaysISO(todayISO(), 1) };
+    }
+    saveJSON(LS_FLASHCARD_STATE, state);
+  }
+
+  function renderCardsTab() {
+    const container = document.getElementById("cards-content");
+    container.innerHTML = "";
+    container.appendChild(flashcardSession ? renderFlashcardSessionView() : renderFlashcardHome());
+  }
+
+  function renderFlashcardHome() {
+    const state = getFlashcardState();
+    const pool = buildFlashcardPool();
+    const dueCards = pool.filter((c) => flashcardStatusFor(c.key, state) === "vencido");
+    const newCards = pool.filter((c) => flashcardStatusFor(c.key, state) === "novo");
+    const futureCount = pool.length - dueCards.length - newCards.length;
+    const todayNewCount = Math.min(newCards.length, FLASHCARD_NEW_PER_DAY);
+
+    const wrap = document.createElement("div");
+    wrap.innerHTML = `
+      <h2>Flashcards</h2>
+      <p class="hint">Repetição espaçada: o que você erra volta antes; o que acerta vai espaçando.</p>
+      <div class="card flashcard-summary-card">
+        <h3>Revisão do dia</h3>
+        <p class="hint" style="margin-top:-4px">${dueCards.length} pra revisar · ${todayNewCount} novos</p>
+        <button type="button" class="btn btn-primary flashcard-start-btn" style="width:auto;">Estudar agora</button>
+      </div>
+      <h3 style="margin-top:24px;">Estudar por frente</h3>
+      <div class="progress-list" id="flashcard-area-list"></div>
+      <p class="hint" style="margin-top:14px;">${futureCount} em dia · ${newCards.length} novos · ${pool.length} total</p>
+    `;
+
+    wrap.querySelector(".flashcard-start-btn").addEventListener("click", () => {
+      // Embaralha antes de cortar os "novos" do dia — sem isso, os cards de
+      // obras (adicionados ao final de buildFlashcardPool) nunca apareceriam
+      // na revisão diária até esgotar ~540 questões primeiro.
+      const shuffledNew = seededShuffle(newCards, mulberry32(Date.now() % 100000));
+      const queue = dueCards.concat(shuffledNew.slice(0, FLASHCARD_NEW_PER_DAY));
+      if (queue.length === 0) {
+        alert("Nenhum card pra revisar agora. Volte amanhã ou estude por frente específica.");
+        return;
+      }
+      startFlashcardSession(seededShuffle(queue, mulberry32(Date.now() % 100000)));
+    });
+
+    const areaList = wrap.querySelector("#flashcard-area-list");
+    window.SUBTOPICS.forEach((s) => {
+      const cards = pool.filter((c) => c.subtopicId === s.id);
+      const row = document.createElement("button");
+      row.type = "button";
+      row.className = "progress-row simulado-list-row";
+      row.innerHTML = `<div class="progress-row-top"><span class="name">${escapeHtml(s.nome)}</span><span class="stat">${cards.length} cards</span></div>`;
+      row.addEventListener("click", () => {
+        startFlashcardSession(seededShuffle(cards, mulberry32(Date.now() % 100000)));
+      });
+      areaList.appendChild(row);
+    });
+
+    return wrap;
+  }
+
+  function startFlashcardSession(queue) {
+    flashcardSession = { queue, index: 0, flipped: false };
+    renderCardsTab();
+  }
+
+  function renderFlashcardSessionView() {
+    const { queue, index, flipped } = flashcardSession;
+    const wrap = document.createElement("div");
+
+    if (index >= queue.length) {
+      const doneCard = document.createElement("div");
+      doneCard.className = "card";
+      doneCard.style.padding = "20px";
+      doneCard.innerHTML = `<h3>Sessão concluída 🎉</h3><p class="hint">Você revisou ${queue.length} card${queue.length === 1 ? "" : "s"} agora.</p>`;
+      const backBtn = document.createElement("button");
+      backBtn.type = "button";
+      backBtn.className = "btn btn-secondary";
+      backBtn.style.width = "auto";
+      backBtn.style.marginTop = "12px";
+      backBtn.textContent = "Voltar";
+      backBtn.addEventListener("click", () => { flashcardSession = null; renderCardsTab(); });
+      doneCard.appendChild(backBtn);
+      wrap.appendChild(doneCard);
+      return wrap;
+    }
+
+    const cardData = queue[index];
+    const q = cardData.question;
+    const correctText = q.isObraCard ? null : q.alternativas[q.resposta];
+
+    const exitBtn = document.createElement("button");
+    exitBtn.type = "button";
+    exitBtn.className = "btn btn-ghost";
+    exitBtn.textContent = "← Sair da sessão";
+    exitBtn.addEventListener("click", () => { flashcardSession = null; renderCardsTab(); });
+    wrap.appendChild(exitBtn);
+
+    const progress = document.createElement("p");
+    progress.className = "hint";
+    progress.textContent = `Card ${index + 1} de ${queue.length} · ${cardData.area} · ${cardData.subtopicNome}`;
+    wrap.appendChild(progress);
+
+    const cardEl = document.createElement("div");
+    cardEl.className = "flashcard";
+    cardEl.innerHTML = `
+      <div class="flashcard-front">${escapeHtml(q.enunciado)}</div>
+      ${flipped ? `
+        <div class="flashcard-back">
+          ${q.isObraCard ? "" : `<div class="flashcard-answer">Resposta: ${q.resposta.toUpperCase()}) ${escapeHtml(correctText)}</div>`}
+          <div class="flashcard-explicacao">${escapeHtml(q.explicacao)}</div>
+        </div>` : ""}
+    `;
+    wrap.appendChild(cardEl);
+
+    const actions = document.createElement("div");
+    actions.className = "dissert-actions";
+    if (!flipped) {
+      const flipBtn = document.createElement("button");
+      flipBtn.type = "button";
+      flipBtn.className = "btn btn-primary";
+      flipBtn.style.width = "auto";
+      flipBtn.textContent = "Virar card";
+      flipBtn.addEventListener("click", () => { flashcardSession.flipped = true; renderCardsTab(); });
+      actions.appendChild(flipBtn);
+    } else {
+      const noBtn = document.createElement("button");
+      noBtn.type = "button";
+      noBtn.className = "btn btn-secondary";
+      noBtn.style.width = "auto";
+      noBtn.textContent = "Não sei";
+      noBtn.addEventListener("click", () => gradeAndAdvanceFlashcard(cardData, false));
+      actions.appendChild(noBtn);
+
+      const yesBtn = document.createElement("button");
+      yesBtn.type = "button";
+      yesBtn.className = "btn btn-primary";
+      yesBtn.style.width = "auto";
+      yesBtn.textContent = "Sei";
+      yesBtn.addEventListener("click", () => gradeAndAdvanceFlashcard(cardData, true));
+      actions.appendChild(yesBtn);
+    }
+    wrap.appendChild(actions);
+
+    return wrap;
+  }
+
+  function gradeAndAdvanceFlashcard(cardData, knewIt) {
+    gradeFlashcard(cardData.key, knewIt);
+    if (!knewIt) {
+      // "Não sei" volta ainda nesta sessão (não só amanhã) — reinsere um
+      // pouco à frente na fila em vez de logo em seguida.
+      const reinsertAt = Math.min(flashcardSession.queue.length, flashcardSession.index + 4);
+      flashcardSession.queue.splice(reinsertAt, 0, cardData);
+    }
+    flashcardSession.index++;
+    flashcardSession.flipped = false;
+    renderCardsTab();
+  }
+
+  // ---------- Achado 13: Obras obrigatórias (só FGV) ----------
+  function renderObrasTab() {
+    const container = document.getElementById("obras-content");
+    container.innerHTML = "";
+    const obras = window.OBRAS || [];
+    const studied = loadJSON(LS_OBRAS_STUDIED, {});
+    const studiedCount = obras.filter((o) => studied[o.id]).length;
+
+    const header = document.createElement("div");
+    header.innerHTML = `
+      <h2>Obras obrigatórias (FGV)</h2>
+      <p class="hint">A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de
+      obras, ligadas aos dois eixos da banca (globalização / modernidade → pós-modernidade) — não é decoreba de
+      enredo. Sem equivalente na prova do Insper.</p>
+      <div class="dissert-counter"><strong>${studiedCount}/${obras.length}</strong> estudadas</div>
+      <div class="area-filter" id="obras-filter"></div>
+    `;
+    container.appendChild(header);
+
+    const categorias = Array.from(new Set(obras.map((o) => o.categoria)));
+    const filterEl = header.querySelector("#obras-filter");
+    const allPill = document.createElement("button");
+    allPill.type = "button";
+    allPill.className = "area-pill" + (obrasFilterCategoria ? "" : " active");
+    allPill.textContent = "Todas";
+    allPill.addEventListener("click", () => { obrasFilterCategoria = null; renderObrasTab(); });
+    filterEl.appendChild(allPill);
+    categorias.forEach((cat) => {
+      const pill = document.createElement("button");
+      pill.type = "button";
+      pill.className = "area-pill" + (obrasFilterCategoria === cat ? " active" : "");
+      pill.textContent = cat;
+      pill.addEventListener("click", () => { obrasFilterCategoria = cat; renderObrasTab(); });
+      filterEl.appendChild(pill);
+    });
+
+    const grid = document.createElement("div");
+    grid.className = "obras-grid";
+    const filtered = obrasFilterCategoria ? obras.filter((o) => o.categoria === obrasFilterCategoria) : obras;
+    filtered.forEach((o) => grid.appendChild(renderObraCard(o, studied)));
+    container.appendChild(grid);
+  }
+
+  function renderObraCard(o, studied) {
+    const card = document.createElement("div");
+    card.className = "lesson-card obra-card" + (studied[o.id] ? " obra-studied" : "");
+    card.innerHTML = `
+      <div class="lesson-eyebrow">${escapeHtml(o.categoria)} · ${escapeHtml(o.origem)}</div>
+      <h3>${escapeHtml(o.titulo)}</h3>
+      <p class="lesson-desc" style="margin-bottom:8px;">${escapeHtml(o.autor)}</p>
+      <button type="button" class="btn-link obra-toggle">Ver resumo e análise</button>
+      <div class="obra-detail" hidden>
+        <p>${escapeHtml(o.resumo)}</p>
+        <p class="theory-resumo" style="margin-top:8px;"><strong>Eixo da banca:</strong> ${escapeHtml(o.analiseEixos)}</p>
+      </div>
+      <label class="obra-studied-check">
+        <input type="checkbox" ${studied[o.id] ? "checked" : ""}> Já estudei essa obra
+      </label>
+    `;
+    card.querySelector(".obra-toggle").addEventListener("click", () => {
+      card.querySelector(".obra-detail").hidden = !card.querySelector(".obra-detail").hidden;
+    });
+    card.querySelector(".obra-studied-check input").addEventListener("change", (e) => {
+      const state = loadJSON(LS_OBRAS_STUDIED, {});
+      if (e.target.checked) state[o.id] = true; else delete state[o.id];
+      saveJSON(LS_OBRAS_STUDIED, state);
+      renderObrasTab();
+    });
+    return card;
   }
 
   // ---------- Aba Caderno de Erros ----------
@@ -579,6 +1196,38 @@
     counter.innerHTML = `<strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar`;
   }
 
+  // Achado 1 (teoria por frente): bloco colapsável com resumo + gatilhos
+  // (padrão do enunciado → método de resolução) + pegadinhas comuns,
+  // vindos de window.THEORY (data/theory.js). Marcar como "visto" é
+  // persistido por frente (não por dia), e conta pro checklist do dia.
+  function renderTheoryBlockHtml(subtopicId) {
+    const theory = window.THEORY && window.THEORY[subtopicId];
+    if (!theory) return "";
+    const seen = loadJSON(LS_THEORY_SEEN, {})[subtopicId];
+    const gatilhosHtml = theory.gatilhos.map((g) => `<li>${escapeHtml(g)}</li>`).join("");
+    const pegadinhasHtml = theory.pegadinhas.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+    return `
+      <div class="theory-block">
+        <button type="button" class="theory-toggle btn-link">${seen ? "✓ " : ""}Teoria: gatilhos e pegadinhas deste tema</button>
+        <div class="theory-content" hidden>
+          <p class="theory-resumo">${escapeHtml(theory.resumo)}</p>
+          <div class="theory-col">
+            <div class="theory-col-label">Gatilhos (padrão do enunciado → método)</div>
+            <ul>${gatilhosHtml}</ul>
+          </div>
+          <div class="theory-col">
+            <div class="theory-col-label">Pegadinhas comuns</div>
+            <ul>${pegadinhasHtml}</ul>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  // Achado 9 (essenciais vs. extras): divide as questões da lição num bloco
+  // "essencial" (meta realista do dia, ~12) e um bloco "extras" (o resto,
+  // opcional, sem culpa se não fizer) — mais um botão "quero mais" que puxa
+  // questões novas do banco além do que o plano já selecionou.
   function renderLessonCard(day, lesson) {
     const card = document.createElement("div");
     card.className = "lesson-card";
@@ -595,24 +1244,104 @@
         </div>`
       : "";
 
+    const essentialCount = Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length);
+    const essentials = lesson.questions.slice(0, essentialCount);
+    const extras = lesson.questions.slice(essentialCount);
+    const minutesEstimate = Math.round(essentialCount * MINUTES_PER_QUESTION_ESTIMATE);
+    const extrasKey = day + "::" + lesson.subtopicId;
+    const theoryHtml = renderTheoryBlockHtml(lesson.subtopicId);
+
     card.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(lesson.area)}</div>
       <h3>${escapeHtml(lesson.nome)} <span class="visit-badge">${escapeHtml(visitLabel)}</span></h3>
       <p class="lesson-desc">${escapeHtml(lesson.descricao)}</p>
+      ${theoryHtml}
       ${videoHtml}
       <div class="exercise-block">
         <div class="exercise-summary">
-          <span>${lesson.questions.length} exercícios</span>
+          <span>${essentialCount} essenciais${extras.length ? ` · ${extras.length} extras` : ""} · ~${minutesEstimate} min no ritmo da prova</span>
           <span class="score-label" data-score-for="${lesson.subtopicId}"></span>
         </div>
-        <div class="questions"></div>
+        <div class="questions essentials-questions"></div>
+        <div class="extras-block" hidden>
+          <div class="extras-label">Extras — pra quem quer ir além, sem culpa se não fizer</div>
+          <div class="questions extras-questions"></div>
+        </div>
+        <div class="extras-actions"></div>
       </div>
     `;
 
-    const questionsContainer = card.querySelector(".questions");
-    lesson.questions.forEach((q, idx) => {
-      questionsContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, idx));
+    const theoryToggle = card.querySelector(".theory-toggle");
+    if (theoryToggle) {
+      theoryToggle.addEventListener("click", () => {
+        const theoryContent = card.querySelector(".theory-content");
+        theoryContent.hidden = !theoryContent.hidden;
+        if (!theoryContent.hidden) {
+          const seenState = loadJSON(LS_THEORY_SEEN, {});
+          if (!seenState[lesson.subtopicId]) {
+            seenState[lesson.subtopicId] = true;
+            saveJSON(LS_THEORY_SEEN, seenState);
+            theoryToggle.textContent = "✓ " + theoryToggle.textContent.replace(/^✓ /, "");
+            updateDayChecklist(day);
+          }
+        }
+      });
+    }
+
+    const essentialsContainer = card.querySelector(".essentials-questions");
+    essentials.forEach((q, idx) => {
+      essentialsContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, idx));
     });
+
+    const extrasBlock = card.querySelector(".extras-block");
+    const extrasContainer = card.querySelector(".extras-questions");
+    extras.forEach((q, idx) => {
+      extrasContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, essentialCount + idx));
+    });
+
+    const actions = card.querySelector(".extras-actions");
+    function renderExtrasActions() {
+      actions.innerHTML = "";
+      if (extras.length > 0 && !expandedExtras.has(extrasKey)) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "btn btn-secondary";
+        btn.style.width = "auto";
+        btn.textContent = `Ver mais ${extras.length} questões extras`;
+        btn.addEventListener("click", () => {
+          expandedExtras.add(extrasKey);
+          extrasBlock.hidden = false;
+          renderExtrasActions();
+        });
+        actions.appendChild(btn);
+        return;
+      }
+      if (extras.length > 0) extrasBlock.hidden = false;
+      const pulled = extraPullCounts[extrasKey] || 0;
+      const alreadyShown = lesson.questions.length + pulled;
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "btn-ghost";
+      btn.textContent = "Terminei — puxar mais 10";
+      btn.addEventListener("click", () => {
+        const more = pickMoreQuestions(lesson.subtopicId, lesson.visitNumber - 1, day, alreadyShown, 10);
+        if (more.length === 0) {
+          btn.textContent = "Sem mais questões novas neste banco por enquanto";
+          btn.disabled = true;
+          return;
+        }
+        extrasBlock.hidden = false;
+        more.forEach((q, i) => {
+          // day=null: questões extras puxadas por baixa demanda não entram na
+          // contagem fixa do dia (bumpDayState), só no progresso da frente.
+          extrasContainer.appendChild(renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }));
+        });
+        extraPullCounts[extrasKey] = pulled + more.length;
+        renderExtrasActions();
+      });
+      actions.appendChild(btn);
+    }
+    renderExtrasActions();
 
     updateScoreLabel(card);
     return card;
@@ -669,6 +1398,7 @@
         const alreadyAnswered = !!current[key];
         current[key] = letter;
         saveJSON(LS_ANSWERS, current);
+        touchTopicLastAnswered(subtopicId);
         applyFeedback(wrap, q, letter);
         if (!alreadyAnswered) {
           bumpTopicState(subtopicId, letter === q.resposta);
@@ -683,6 +1413,7 @@
           const focusEl = card && card.querySelector(".simulado-focus");
           if (focusEl) renderSimuladoFocus(focusEl, day, getDayContent(plan, day));
           renderDissertSection(day);
+          updateDayChecklist(day);
         }
         renderProgress();
         renderCalendar();
@@ -725,6 +1456,7 @@
 
   // ---------- Dissertativas: renderização ----------
   function renderDissertSection(day) {
+    updateDayChecklist(day); // mantém o checklist "X/Y do dia" (achado 14) sempre em dia
     const container = document.getElementById("dissert-section");
     if (!container) return;
     container.innerHTML = "";
@@ -793,10 +1525,15 @@
         renderDissertSection(day);
       });
     } else {
-      const questions = pickDissertQuestions(day);
+      const areaFilter = dissertAreaFilter[day];
+      const questions = pickDissertQuestions(day, areaFilter);
       const doneBadge = status === "done"
         ? `<span class="visit-badge">✓ concluído hoje</span>`
         : "";
+      const areas = ["Humanas", "Linguagens", "Artes"];
+      const filterPillsHtml = areas.map((a) => `
+        <button type="button" class="area-pill${areaFilter === a ? " active" : ""}" data-area="${a}">${a}</button>
+      `).join("") + `<button type="button" class="area-pill${!areaFilter ? " active" : ""}" data-area="">Sorteio normal</button>`;
       card.innerHTML = `
         <div class="lesson-eyebrow">Prova discursiva FGV</div>
         <h3>Questões dissertativas ${doneBadge}</h3>
@@ -804,8 +1541,17 @@
         discursiva da FGV normalmente espera. Não existe uma única resposta "certa" — o objetivo é treinar
         argumentação estruturada.</p>
         ${counterHtml}
+        <div class="area-filter"><span class="area-filter-label">Praticar uma matéria específica:</span>${filterPillsHtml}</div>
         <div class="dissert-questions"></div>
       `;
+      card.querySelectorAll(".area-pill").forEach((pill) => {
+        pill.addEventListener("click", () => {
+          const area = pill.dataset.area;
+          if (area) dissertAreaFilter[day] = area;
+          else delete dissertAreaFilter[day];
+          renderDissertSection(day);
+        });
+      });
       const qContainer = card.querySelector(".dissert-questions");
       questions.forEach((q, idx) => qContainer.appendChild(renderDissertQuestion(day, q, idx)));
 
@@ -836,7 +1582,7 @@
     const pontosHtml = q.pontosEsperados.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
 
     wrap.innerHTML = `
-      <div class="lesson-eyebrow">${escapeHtml(q.area)}</div>
+      <div class="lesson-eyebrow">${escapeHtml(q.area)}${q.tempoSugerido ? ` · ~${q.tempoSugerido} min sugeridos` : ""}</div>
       <div class="q-support">${escapeHtml(q.texto_apoio)}</div>
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.comando)}</div>
       <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedText)}</textarea>
@@ -858,6 +1604,82 @@
       toggleBtn.textContent = gabarito.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
     });
 
+    return wrap;
+  }
+
+  // ---------- Achado 5 (score projetado) + achado 6 (índice de prontidão) ----------
+
+  function touchTopicLastAnswered(subtopicId) {
+    const data = loadJSON(LS_TOPIC_LAST_ANSWERED, {});
+    data[subtopicId] = todayISO();
+    saveJSON(LS_TOPIC_LAST_ANSWERED, data);
+  }
+
+  // Nota estimada "se a prova fosse hoje": média do acerto por frente,
+  // ponderada pelo peso real da frente na prova (window.PRIORITY_WEIGHTS).
+  // Frentes nunca praticadas entram com acerto 0 — de propósito, pra não
+  // mascarar o que ainda falta estudar (mesmo critério do concorrente).
+  function computeProjectedScore() {
+    const weights = window.PRIORITY_WEIGHTS || {};
+    const topicState = computeTopicStateFromAnswers();
+    let sumWeight = 0, sumWeightedScore = 0;
+    window.SUBTOPICS.forEach((s) => {
+      const w = weights[s.id] || 1;
+      const st = topicState[s.id] || { answered: 0, correct: 0 };
+      const rate = st.answered > 0 ? st.correct / st.answered : 0;
+      sumWeight += w;
+      sumWeightedScore += w * rate;
+    });
+    return sumWeight > 0 ? sumWeightedScore / sumWeight : 0;
+  }
+
+  // Grava (no máximo 1x por dia real) um snapshot do score projetado, pra
+  // formar a mini linha do tempo mostrada na aba Progresso.
+  function recordScoreSnapshot() {
+    const history = loadJSON(LS_SCORE_HISTORY, {});
+    history[todayISO()] = computeProjectedScore();
+    saveJSON(LS_SCORE_HISTORY, history);
+    return history;
+  }
+
+  // Índice de prontidão por frente: combina acerto (peso 0.5), recência do
+  // último contato com a frente (peso 0.25, decai linear até 30 dias sem
+  // praticar) e volume de prática (peso 0.25, "coberto" ao responder ~metade
+  // do banco daquela frente) — não só a % de acerto crua.
+  function computeReadinessIndex(subtopicId) {
+    const topicState = computeTopicStateFromAnswers()[subtopicId] || { answered: 0, correct: 0 };
+    const lastAnswered = loadJSON(LS_TOPIC_LAST_ANSWERED, {})[subtopicId];
+    const accuracy = topicState.answered > 0 ? topicState.correct / topicState.answered : 0;
+    const bankSize = ((window.QUESTION_BANKS && window.QUESTION_BANKS[subtopicId]) || []).length;
+    const volumeScore = bankSize > 0 ? Math.min(1, topicState.answered / (bankSize * 0.5)) : 0;
+    let recencyScore = 0;
+    if (lastAnswered) {
+      const daysAgo = Math.floor((new Date(todayISO()) - new Date(lastAnswered)) / 86400000);
+      recencyScore = Math.max(0, 1 - daysAgo / 30);
+    }
+    const index = accuracy * 0.5 + recencyScore * 0.25 + volumeScore * 0.25;
+    return { index, accuracy, answered: topicState.answered, lastAnswered };
+  }
+
+  function renderProjectedScoreCard() {
+    const history = recordScoreSnapshot();
+    const pct = Math.round(computeProjectedScore() * 100);
+    const entries = Object.entries(history).sort((a, b) => a[0].localeCompare(b[0])).slice(-14);
+    const sparkHtml = entries
+      .map(([date, s]) => `<div class="spark-bar" style="height:${Math.max(4, Math.round(s * 100))}%" title="${date}: ${Math.round(s * 100)}%"></div>`)
+      .join("");
+
+    const wrap = document.createElement("div");
+    wrap.className = "card projected-score-card";
+    wrap.innerHTML = `
+      <h3>Score projetado</h3>
+      <p class="hint">Sua nota estimada se a prova fosse hoje, ponderada pelo peso real de cada frente.
+      Frentes ainda não praticadas contam contra a nota — proposital, pra não mascarar o que falta.</p>
+      <div class="projected-score-value">${pct}%</div>
+      ${entries.length > 1
+        ? `<div class="score-sparkline">${sparkHtml}</div><p class="hint" style="margin-top:6px;font-size:0.78rem;">últimos ${entries.length} dias com registro</p>`
+        : ""}
+    `;
     return wrap;
   }
 
@@ -968,7 +1790,7 @@
       const isSimulado = entry && entry.type === "simulado";
       cell.className = "cal-day status-" + status + (day === today ? " is-today" : "") + (isSimulado ? " cal-day--simulado" : "");
       cell.textContent = day;
-      cell.title = "Dia " + day + (isSimulado ? " — Simulado" : "") + (st ? ` — ${st.answered}/${st.total || "?"} exercícios` : "");
+      cell.title = "Dia " + day + " — " + phaseLabelForDay(day) + (isSimulado ? " — Simulado" : "") + (st ? ` — ${st.answered}/${st.total || "?"} exercícios` : "");
       cell.addEventListener("click", () => {
         document.querySelector('.tab-btn[data-tab="hoje"]').click();
         renderDay(day);
@@ -980,7 +1802,29 @@
   // ---------- Progress tab ----------
   function renderProgress() {
     rebuildPlan();
+
     const list = document.getElementById("progress-list");
+    const scoreContainer = document.getElementById("projected-score-container");
+
+    if (progressoSosId) {
+      if (scoreContainer) scoreContainer.innerHTML = "";
+      list.innerHTML = "";
+      list.appendChild(renderSosView(progressoSosId));
+      return;
+    }
+
+    if (scoreContainer) {
+      scoreContainer.innerHTML = "";
+      scoreContainer.appendChild(renderProjectedScoreCard());
+      scoreContainer.appendChild(renderErrorDiagnosticsCard());
+    }
+
+    const syncContainer = document.getElementById("sync-container");
+    if (syncContainer) {
+      syncContainer.innerHTML = "";
+      syncContainer.appendChild(renderSyncCard());
+    }
+
     list.innerHTML = "";
     const topicState = getTopicState();
     const occurrences = countTopicOccurrences(plan);
@@ -989,6 +1833,8 @@
       const st = topicState[s.id] || { answered: 0, correct: 0 };
       const bankSize = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id] || []).length;
       const pct = st.answered > 0 ? Math.round((st.correct / st.answered) * 100) : 0;
+      const readiness = computeReadinessIndex(s.id);
+      const readinessPct = Math.round(readiness.index * 100);
 
       const row = document.createElement("div");
       row.className = "progress-row";
@@ -998,16 +1844,195 @@
           <span class="stat">${st.correct}/${st.answered} certas · aparece ${occurrences[s.id]}x no plano · ${bankSize} questões no banco</span>
         </div>
         <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
+        <div class="readiness-row" title="Combina acerto + recência + volume de prática">
+          <span class="readiness-label">Prontidão</span>
+          <div class="bar-track readiness-track"><div class="bar-fill readiness-fill" style="width:${readinessPct}%"></div></div>
+          <span class="readiness-pct">${readinessPct}%</span>
+        </div>
+        <button type="button" class="btn-link sos-btn" style="margin-top:8px;">🆘 SOS deste tema</button>
       `;
+      row.querySelector(".sos-btn").addEventListener("click", () => {
+        progressoSosId = s.id;
+        renderProgress();
+      });
       list.appendChild(row);
     });
+  }
+
+  // ---------- Achado 10: sincronização entre aparelhos (Firebase, opcional) ----------
+  // Enquanto window.FIREBASE_CONFIG (data/sync-config.js) for null, essas
+  // funções nunca são chamadas de verdade — o app segue 100% local. Import
+  // dinâmico do SDK via CDN só acontece na primeira ação de sync, pra não
+  // pagar custo de rede em quem nunca configurou.
+  let firebaseDb = null;
+  let firebaseFns = null;
+
+  async function ensureFirebase() {
+    if (!window.FIREBASE_CONFIG) return false;
+    if (firebaseDb) return true;
+    try {
+      const [{ initializeApp }, firestoreMod] = await Promise.all([
+        import("https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js"),
+        import("https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js"),
+      ]);
+      const app = initializeApp(window.FIREBASE_CONFIG);
+      firebaseDb = firestoreMod.getFirestore(app);
+      firebaseFns = firestoreMod;
+      return true;
+    } catch (e) {
+      console.error("Falha ao carregar Firebase:", e);
+      return false;
+    }
+  }
+
+  function collectSyncableState() {
+    const data = {};
+    SYNCABLE_KEYS.forEach((k) => {
+      const v = localStorage.getItem(k);
+      if (v != null) data[k] = v;
+    });
+    return data;
+  }
+
+  function applySyncedState(data) {
+    Object.entries(data).forEach(([k, v]) => {
+      if (SYNCABLE_KEYS.includes(k)) localStorage.setItem(k, v);
+    });
+  }
+
+  function generateSyncCode() {
+    const chars = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"; // sem 0/O/1/I, pra evitar confusão ao digitar
+    let code = "";
+    for (let i = 0; i < 8; i++) code += chars[Math.floor(Math.random() * chars.length)];
+    return code;
+  }
+
+  async function pushSyncState(code) {
+    const ok = await ensureFirebase();
+    if (!ok) return { ok: false, error: "Firebase não configurado (veja data/sync-config.js)" };
+    try {
+      const { doc, setDoc } = firebaseFns;
+      await setDoc(doc(firebaseDb, "syncCodes", code), { data: collectSyncableState(), updatedAt: Date.now() });
+      return { ok: true };
+    } catch (e) {
+      return { ok: false, error: String(e && e.message ? e.message : e) };
+    }
+  }
+
+  async function pullSyncState(code) {
+    const ok = await ensureFirebase();
+    if (!ok) return { ok: false, error: "Firebase não configurado (veja data/sync-config.js)" };
+    try {
+      const { doc, getDoc } = firebaseFns;
+      const snap = await getDoc(doc(firebaseDb, "syncCodes", code));
+      if (!snap.exists()) return { ok: false, error: "Código não encontrado" };
+      applySyncedState(snap.data().data || {});
+      return { ok: true };
+    } catch (e) {
+      return { ok: false, error: String(e && e.message ? e.message : e) };
+    }
+  }
+
+  function renderSyncCard() {
+    const wrap = document.createElement("div");
+    wrap.className = "card official-exams-card";
+    const savedCode = localStorage.getItem(LS_SYNC_CODE) || "";
+    const configured = !!window.FIREBASE_CONFIG;
+
+    wrap.innerHTML = `
+      <h3>Sincronização entre aparelhos</h3>
+      <p class="lesson-desc">${configured
+        ? "Gere um código e use o mesmo código no outro aparelho pra levar seu progresso junto. Sem código, tudo segue funcionando só neste aparelho."
+        : "Sincronização em tempo real ainda não configurada neste app (veja as instruções em data/sync-config.js). Enquanto isso, use exportar/importar como backup manual."}</p>
+      ${configured ? `
+        <input type="text" class="sync-code-input" placeholder="Código de sincronização" value="${escapeHtml(savedCode)}" maxlength="8" style="width:100%; padding:9px 12px; border:1px solid var(--border); border-radius:8px; font:inherit; margin-bottom:10px; text-transform:uppercase; background:var(--surface); color:var(--ink);">
+        <div class="dissert-actions">
+          <button type="button" class="btn btn-secondary sync-generate-btn" style="width:auto;">Gerar código novo</button>
+          <button type="button" class="btn btn-secondary sync-push-btn" style="width:auto;">Enviar meu progresso</button>
+          <button type="button" class="btn btn-secondary sync-pull-btn" style="width:auto;">Puxar progresso do código</button>
+        </div>
+        <p class="hint sync-status" style="margin-top:8px;"></p>
+      ` : ""}
+      <div class="dissert-actions" style="margin-top:${configured ? "16px" : "10px"};">
+        <button type="button" class="btn btn-secondary sync-export-btn" style="width:auto;">Exportar progresso (.json)</button>
+        <label class="btn btn-secondary" style="width:auto; cursor:pointer; display:inline-flex; align-items:center;">
+          Importar progresso
+          <input type="file" accept=".json" class="sync-import-input" hidden>
+        </label>
+      </div>
+    `;
+
+    if (configured) {
+      const input = wrap.querySelector(".sync-code-input");
+      const status = wrap.querySelector(".sync-status");
+      wrap.querySelector(".sync-generate-btn").addEventListener("click", () => {
+        const code = generateSyncCode();
+        input.value = code;
+        localStorage.setItem(LS_SYNC_CODE, code);
+        status.textContent = "Código gerado. Clique em \"Enviar meu progresso\" pra publicar, ou digite esse código no outro aparelho e clique em \"Puxar\" lá.";
+      });
+      wrap.querySelector(".sync-push-btn").addEventListener("click", async () => {
+        const code = input.value.trim().toUpperCase();
+        if (!code) { status.textContent = "Gere ou digite um código primeiro."; return; }
+        localStorage.setItem(LS_SYNC_CODE, code);
+        status.textContent = "Enviando...";
+        const res = await pushSyncState(code);
+        status.textContent = res.ok ? "Progresso enviado com sucesso." : "Erro ao enviar: " + res.error;
+      });
+      wrap.querySelector(".sync-pull-btn").addEventListener("click", async () => {
+        const code = input.value.trim().toUpperCase();
+        if (!code) { status.textContent = "Digite o código do outro aparelho primeiro."; return; }
+        if (!confirm("Isso vai substituir o progresso deste aparelho pelo progresso salvo nesse código. Continuar?")) return;
+        status.textContent = "Puxando...";
+        const res = await pullSyncState(code);
+        if (res.ok) {
+          status.textContent = "Progresso atualizado! Recarregando...";
+          localStorage.setItem(LS_SYNC_CODE, code);
+          setTimeout(() => location.reload(), 800);
+        } else {
+          status.textContent = "Erro: " + res.error;
+        }
+      });
+    }
+
+    wrap.querySelector(".sync-export-btn").addEventListener("click", () => {
+      const data = collectSyncableState();
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "rumo-fgv-insper-progresso.json";
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+    wrap.querySelector(".sync-import-input").addEventListener("change", (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      if (!confirm("Isso vai substituir o progresso deste aparelho pelo arquivo importado. Continuar?")) {
+        e.target.value = "";
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const data = JSON.parse(reader.result);
+          applySyncedState(data);
+          alert("Progresso importado! A página vai recarregar.");
+          location.reload();
+        } catch (err) {
+          alert("Arquivo inválido — precisa ser um .json exportado por este app.");
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    return wrap;
   }
 
   function initReset() {
     document.getElementById("btn-reset").addEventListener("click", () => {
       if (confirm("Isso vai apagar todo o seu progresso salvo neste navegador. Continuar?")) {
-        [LS_START, LS_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS, LS_CYCLE_WEIGHTS]
-          .forEach((k) => localStorage.removeItem(k));
+        SYNCABLE_KEYS.concat([LS_SYNC_CODE]).forEach((k) => localStorage.removeItem(k));
         location.reload();
       }
     });

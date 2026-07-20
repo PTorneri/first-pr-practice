@@ -147,6 +147,15 @@ body {
 }
 .day-label { font-weight: 700; text-align: center; }
 .day-date { display: block; font-weight: 400; color: var(--ink-soft); font-size: 0.85rem; }
+.phase-label {
+  display: inline-block; margin-left: 8px; background: var(--warn-soft); color: var(--warn);
+  border-radius: 999px; padding: 2px 10px; font-size: 0.72rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.03em; vertical-align: middle;
+}
+.friday-note {
+  background: var(--accent-soft); color: var(--ink); border-radius: 10px; padding: 10px 14px;
+  font-size: 0.88rem; margin-bottom: 16px;
+}
 
 /* Lesson card */
 .lesson-card {
@@ -164,6 +173,23 @@ body {
   display: inline-block; background: var(--warn-soft); color: var(--warn);
   border-radius: 999px; padding: 3px 10px; font-size: 0.78rem; font-weight: 700; margin-left: 8px;
 }
+
+/* Achado 1: teoria por frente (gatilhos e pegadinhas) */
+.theory-block { margin-bottom: 14px; }
+.theory-toggle { padding: 0; font-size: 0.92rem; }
+.theory-content {
+  margin-top: 10px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+  padding: 14px 16px;
+}
+.theory-resumo { margin: 0 0 12px; color: var(--ink-soft); font-size: 0.92rem; }
+.theory-col { margin-bottom: 12px; }
+.theory-col:last-child { margin-bottom: 0; }
+.theory-col-label {
+  font-size: 0.76rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em;
+  color: var(--accent); margin-bottom: 6px;
+}
+.theory-col ul { margin: 0; padding-left: 20px; }
+.theory-col li { margin-bottom: 6px; font-size: 0.9rem; }
 
 /* Vídeo-aula específica de cada frente */
 .weekly-video-item {
@@ -208,6 +234,29 @@ body {
 .q-feedback.correct { background: var(--good-soft); color: var(--good); }
 .q-feedback.incorrect { background: var(--bad-soft); color: var(--bad); }
 
+/* Achado 8: transparência do motor adaptativo (lista de foco pós-simulado) */
+.focus-list { margin: 6px 0 0; padding-left: 20px; }
+.focus-list li { margin-bottom: 6px; }
+.sos-inline-btn { margin-left: 6px; padding: 2px 8px; font-size: 0.78rem; }
+
+/* Achado 9: essenciais vs. extras */
+.extras-block { margin-top: 16px; border-top: 1px dashed var(--border); padding-top: 14px; }
+.extras-label {
+  font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em;
+  color: var(--ink-soft); margin-bottom: 8px;
+}
+.extras-actions { margin-top: 14px; }
+
+/* Achado 14: checklist "X/Y do dia" */
+.day-checklist {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 12px 16px; margin-bottom: 16px; box-shadow: var(--shadow);
+}
+.day-checklist-header { font-weight: 700; margin-bottom: 6px; }
+.day-checklist-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.day-checklist-list li { color: var(--ink-soft); font-size: 0.9rem; }
+.day-checklist-list li.task-done { color: var(--good); }
+
 /* Calendar */
 .calendar-grid {
   display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; margin: 16px 0;
@@ -246,6 +295,34 @@ body {
 .progress-row-top .stat { color: var(--ink-soft); font-size: 0.88rem; }
 .bar-track { background: var(--bg); border-radius: 999px; height: 8px; overflow: hidden; }
 .bar-fill { background: var(--accent); height: 100%; border-radius: 999px; }
+
+/* Achado 5: score projetado */
+.projected-score-card { padding: 20px; margin: 16px 0; }
+.projected-score-card h3 { margin: 0 0 4px; }
+.projected-score-value { font-size: 2.4rem; font-weight: 800; color: var(--accent); margin: 8px 0 4px; }
+.score-sparkline {
+  display: flex; align-items: flex-end; gap: 3px; height: 40px; margin-top: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.spark-bar { flex: 1; background: var(--accent-soft); border-radius: 2px 2px 0 0; min-height: 4px; }
+
+/* Achado 6: índice de prontidão por área */
+.readiness-row { display: flex; align-items: center; gap: 8px; margin-top: 8px; }
+.readiness-label { font-size: 0.76rem; color: var(--ink-soft); flex-shrink: 0; }
+.readiness-track { flex: 1; height: 5px; }
+.readiness-fill { background: var(--good); }
+.readiness-pct { font-size: 0.76rem; color: var(--ink-soft); flex-shrink: 0; width: 32px; text-align: right; }
+
+/* Achado 7: diagnóstico qualitativo de erro */
+.error-diagnostics-card { padding: 20px; margin: 16px 0; }
+.error-diagnostics-card h3 { margin: 0 0 4px; }
+.diag-col-label {
+  font-size: 0.76rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em;
+  color: var(--ink-soft); margin: 12px 0 8px;
+}
+.diag-row { margin-bottom: 8px; }
+.diag-row-top { display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 4px; }
+
 .official-exams-card { padding: 20px; margin-top: 24px; }
 .official-exams-card h3 { margin: 0 0 8px; }
 .danger-zone { margin-top: 28px; text-align: right; }
@@ -260,6 +337,27 @@ body {
 .simulado-status-partial { color: var(--warn); }
 .simulado-status-done { color: var(--good); }
 
+/* Achado 2: Flashcards com repetição espaçada */
+.flashcard-summary-card { padding: 20px; margin: 14px 0 20px; }
+.flashcard {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 28px 24px; margin: 16px 0; min-height: 140px;
+}
+.flashcard-front { font-size: 1.15rem; font-weight: 600; text-align: center; }
+.flashcard-back { border-top: 1px solid var(--border); margin-top: 20px; padding-top: 20px; }
+.flashcard-answer { font-weight: 700; color: var(--good); margin-bottom: 10px; text-align: center; }
+.flashcard-explicacao { color: var(--ink-soft); font-size: 0.92rem; text-align: center; }
+
+/* Achado 13: Obras obrigatórias */
+.obras-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-top: 16px; }
+.obra-card { margin-bottom: 0; }
+.obra-card.obra-studied { border-color: var(--good); }
+.obra-detail { margin: 10px 0; padding-top: 10px; border-top: 1px solid var(--border); font-size: 0.9rem; }
+.obra-studied-check {
+  display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: 0.86rem;
+  color: var(--ink-soft); cursor: pointer;
+}
+
 /* Dissertativas */
 .dissert-card { border-color: var(--accent); }
 .dissert-counter {
@@ -267,6 +365,14 @@ body {
   font-size: 0.9rem;
 }
 .dissert-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+.area-filter { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 4px 0 16px; }
+.area-filter-label { font-size: 0.85rem; color: var(--ink-soft); margin-right: 4px; }
+.area-pill {
+  font: inherit; font-size: 0.82rem; font-weight: 600; border: 1px solid var(--border);
+  background: var(--surface); color: var(--ink-soft); border-radius: 999px; padding: 5px 12px;
+  cursor: pointer;
+}
+.area-pill.active { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .dissert-questions { display: flex; flex-direction: column; gap: 22px; }
 .dissert-question { border-top: 1px solid var(--border); padding-top: 16px; }
 .dissert-question:first-child { border-top: none; padding-top: 0; }

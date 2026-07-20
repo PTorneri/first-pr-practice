@@ -77,6 +77,17 @@ function listSimuladoDays(startISO) {
   return days;
 }
 
+// Achado 4 (cronograma com fases nomeadas): rótulo visível da fase do plano
+// em que um dia cai — primeiras 2 semanas viram "Arranque" (ambientação),
+// últimos 10 dias viram "Reta final" (foco só em alta frequência + baixo
+// desempenho, já é o que o agendamento adaptativo tende a fazer sozinho —
+// aqui só tornamos isso visível), e o meio é rotulado por semana do plano.
+function phaseLabelForDay(day) {
+  if (day <= 14) return "Arranque";
+  if (day > TOTAL_DAYS - 10) return "Reta final";
+  return "Semana " + Math.ceil(day / 7);
+}
+
 // Aloca `total` vagas entre `ids` de forma PROPORCIONAL a `weights` (método
 // dos maiores restos — o mesmo tipo de regra usada para converter votos em
 // cadeiras, garantindo que a soma bata exatamente com `total` mesmo com
@@ -227,6 +238,29 @@ function pickQuestions(subtopicId, visitIndex, day) {
   const chosen = circular.slice(0, count);
 
   const rng = mulberry32(day * 131 + hashString(subtopicId) + visitIndex);
+  return seededShuffle(chosen, rng);
+}
+
+// Continua a mesma janela circular que pickQuestions já usou para essa
+// frente/visita (a partir de onde ela parou), para puxar mais `extraCount`
+// questões sem repetir as já mostradas — usado pelo botão "quero mais" do
+// achado 9 (essenciais vs. extras). `alreadyShown` é o total de questões já
+// exibidas nessa lição (essenciais + extras do plano + pulls anteriores).
+function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount) {
+  const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[subtopicId]) || [];
+  if (bank.length === 0) return [];
+
+  const baseCount = Math.min(pickExerciseCount(day, subtopicId), bank.length);
+  const offset = (visitIndex * baseCount) % bank.length;
+  const circular = [];
+  for (let i = 0; i < bank.length; i++) circular.push(bank[(offset + i) % bank.length]);
+
+  const start = alreadyShown;
+  const count = Math.min(extraCount, Math.max(0, bank.length - start));
+  if (count <= 0) return [];
+
+  const chosen = circular.slice(start, start + count);
+  const rng = mulberry32(day * 149 + hashString(subtopicId) + visitIndex + alreadyShown);
   return seededShuffle(chosen, rng);
 }
 

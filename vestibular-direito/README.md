@@ -21,6 +21,12 @@ powershell -ExecutionPolicy Bypass -File serve.ps1
 
 e depois abra `http://localhost:8843/`.
 
+Boa parte das funcionalidades abaixo (teoria por frente, flashcards, SOS, score projetado,
+índice de prontidão, diagnóstico de erro, cronograma por fases, essenciais/extras, simulados
+avulsos, obras obrigatórias, sincronização) nasceu de uma análise de um app concorrente
+(`analise-app-concorrente.pdf`, incluso no projeto) — cada seção abaixo explica a versão
+implementada aqui, que reaproveita a estrutura de dados já existente sempre que possível.
+
 ## Como o plano é montado
 
 - **15 frentes de estudo** (`data/subtopics.js`) cobrindo tudo que cai nas provas: Interpretação
@@ -75,6 +81,100 @@ próprio card mostra um resumo tipo "com base nos seus erros, a semana que vem f
   com qualidade), mas a frequência caiu por volta da metade. A seleção usa uma janela circular
   sobre o banco a cada nova visita, para variar o subconjunto e a ordem.
 
+## Teoria por frente (gatilhos e pegadinhas)
+
+Antes dos exercícios de cada frente, um bloco colapsável "Teoria: gatilhos e pegadinhas deste
+tema" (`data/theory.js`) resume o que mais cai, lista **gatilhos** (padrão do enunciado → método
+de resolução, ex.: "aumentou X% e depois diminuiu X%" → nunca volta ao valor original) e
+**pegadinhas** comuns daquela frente. Conteúdo original, escrito com base no mesmo estudo de
+provas reais usado pra `priority-weights.js`. Abrir a teoria de todos os temas do dia conta como
+uma das tarefas do checklist (abaixo).
+
+## Essenciais vs. extras
+
+Os exercícios de cada frente são divididos em **essenciais** (as primeiras ~12, meta realista do
+dia, com estimativa de tempo tipo "~22 min no ritmo da prova") e **extras** (o resto, opcional,
+sem culpa se não fizer). Depois de ver os extras, um botão "Terminei — puxar mais 10" busca mais
+questões novas do mesmo banco, pra quem quer treinar além do mínimo do dia — usa a mesma janela
+circular do banco, só que continuando de onde a seleção do dia parou.
+
+## Checklist "X/Y do dia"
+
+No topo de cada dia, um card mostra quantas das tarefas do dia já foram concluídas (teoria,
+questões essenciais, dissertativa opcional, flashcards do dia) — atualiza sozinho conforme você
+avança, sem precisar contar manualmente.
+
+## Cronograma por fases
+
+O Calendário e o topo de cada dia mostram um rótulo de fase: **Arranque** (dias 1-14),
+**Semana N** (meio do plano) ou **Reta final** (últimos 10 dias). Sextas-feiras que já incluem
+uma revisão (não a 1ª vez no tema) ganham um aviso explicando que aquele dia mistura o assunto
+novo com um assunto anterior de propósito (interleaving) — misturar temas em vez de blocos
+maciços de um assunto só ajuda a fixar melhor.
+
+## Sessão "SOS" por tema
+
+Na aba **Meu progresso**, cada frente tem um botão "🆘 SOS deste tema" (também aparece direto no
+resumo pós-simulado, ao lado de cada frente com erro) que abre uma sessão de resgate: a teoria
+daquele tema já expandida + todas as suas questões erradas naquele tema, juntas numa tela só.
+
+## Score projetado e índice de prontidão
+
+Na aba **Meu progresso**:
+- **Score projetado**: nota estimada "se a prova fosse hoje", ponderada pelo peso real de cada
+  frente (`PRIORITY_WEIGHTS`) — frentes nunca praticadas contam contra a nota, de propósito, pra
+  não mascarar o que falta. Um snapshot diário fica salvo (`vd_scoreHistory`) e vira uma mini
+  linha do tempo (gráfico de barras) assim que houver mais de um dia registrado.
+- **Índice de prontidão por frente**: combina acerto (peso 0,5) + recência do último contato com
+  a frente (peso 0,25, decai em 30 dias sem praticar) + volume de prática (peso 0,25) — não só a
+  % de acerto crua, já que um tema com 100% de acerto mas praticado uma vez há dois meses não está
+  "pronto" do mesmo jeito que um praticado ontem.
+
+## Diagnóstico qualitativo de erro
+
+Também em **Meu progresso**, o card "Como você erra" classifica seus erros por **tipo de
+armadilha** (linguagem absoluta, cálculo/leitura de dado, generalização indevida, confusão
+conceitual) e por **estilo de questão** (interpretação, aplicação/cálculo, conceito). Essa
+classificação é **automática, por padrão de texto no enunciado** — não é uma curadoria manual
+questão a questão (com ~540 questões no banco, marcar cada uma à mão não escalaria) — o texto na
+UI deixa isso explícito.
+
+## Aba "Cards" (flashcards com repetição espaçada)
+
+Cada questão do banco (e cada obra obrigatória, ver abaixo) vira automaticamente um flashcard —
+sem precisar de conteúdo novo: frente = enunciado, verso = resposta certa + explicação já escrita.
+Algoritmo de repetição espaçada simplificado (`vd_flashcardState`):
+- **Não sei**: o card reaparece ainda nesta sessão (reinserido um pouco à frente na fila) e de
+  novo amanhã.
+- **Sei**: o intervalo até reaparecer cresce numa progressão fixa (1 → 3 → 7 → 15 → 30 dias).
+
+A "Revisão do dia" junta os cards vencidos com até 20 cards novos (embaralhados, pra não deixar
+os cards de obras "presos" no fim da fila); também dá pra estudar o baralho de uma frente
+específica direto na aba.
+
+## Aba "Obras" (obras obrigatórias, só FGV)
+
+A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de
+obras (literatura, artes visuais, cinema, música, ensaios), sempre ligadas aos dois eixos da
+banca (globalização / transição da modernidade para a pós-modernidade) — não é decoreba de
+enredo. `data/obras.js` traz as 45 obras da lista oficial mais recente (edital em
+vestibular.fgv.br, conferido em julho/2026 — vale checar contra a versão mais nova quando o
+próximo edital sair), cada uma com resumo e análise pelos eixos (comentário crítico original, não
+reprodução de trechos das obras). Filtro por categoria, contador "X/45 estudadas" e marcação
+individual de "já estudei". Sem equivalente na prova do Insper.
+
+## Sincronização entre aparelhos / backup
+
+Na aba **Meu progresso**:
+- **Exportar/importar progresso (.json)**: sempre disponível, não depende de nenhuma
+  configuração — baixa um arquivo com todo o seu progresso, pra guardar como backup ou levar pra
+  outro aparelho manualmente.
+- **Sincronização em tempo real por código**: opcional, via Firebase Firestore (só client-side,
+  sem servidor próprio). Enquanto `data/sync-config.js` não for configurado com as chaves de um
+  projeto Firebase (instruções completas nos comentários do próprio arquivo), essa parte fica
+  desativada e o app segue 100% local, exatamente como sempre funcionou — só o
+  exportar/importar manual fica disponível.
+
 ## Aba "Simulados"
 
 Uma aba própria na navegação principal, separada de "Hoje" e do "Calendário", com duas telas:
@@ -83,7 +183,9 @@ Uma aba própria na navegação principal, separada de "Hoje" e do "Calendário"
   com nota final).
 - **Detalhe** (ao clicar em um simulado): nota final e, abaixo, **acertos por cada uma das 15
   frentes** (com barra de progresso — o total por frente varia conforme a prioridade dela, não é
-  mais fixo em 3), além de um atalho para reabrir aquele dia em "Hoje".
+  mais fixo em 3), além de um atalho para reabrir aquele dia em "Hoje", um botão **"Refazer só as
+  N erradas"** (limpa só as respostas erradas daquele simulado específico, sem afetar outras
+  respostas suas na mesma frente) e **"Refazer o simulado inteiro"**.
 
 ## Aba "Caderno de Erros"
 

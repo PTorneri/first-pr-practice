@@ -8,6 +8,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-01",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "Estudos sobre mobilidade social no Brasil apontam que o nível educacional e a renda dos pais continuam sendo fortes previsores da renda futura dos filhos, mesmo décadas depois da expansão do acesso à educação básica.",
     "comando": "Com base no texto e em seus conhecimentos sobre desigualdade social no Brasil, disserte sobre os principais fatores que dificultam a mobilidade social intergeracional no país e proponha uma medida de política pública capaz de atenuar esse problema.",
     "pontosEsperados": [
@@ -20,6 +21,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-02",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "Grandes cidades brasileiras concentram extensas áreas de ocupação irregular, muitas vezes em regiões de risco ambiental (encostas, margens de rios), enquanto bairros centrais concentram infraestrutura e serviços.",
     "comando": "Explique, com base em processos históricos e geográficos de urbanização no Brasil, por que esse padrão de ocupação irregular se formou, e discuta pelo menos uma consequência social ou ambiental desse fenômeno.",
     "pontosEsperados": [
@@ -32,6 +34,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-03",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "Organismos multilaterais como a ONU e a OMC foram criados no pós-guerra para promover cooperação entre Estados, mas enfrentam crescente questionamento em um cenário de nacionalismo e disputas geopolíticas.",
     "comando": "Discuta o papel dos organismos multilaterais na regulação das relações internacionais contemporâneas, apresentando um argumento a favor de sua relevância e um desafio real que eles enfrentam hoje.",
     "pontosEsperados": [
@@ -44,6 +47,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-04",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "A reforma tributária aprovada no Brasil busca simplificar um sistema historicamente considerado complexo, unificando tributos sobre consumo.",
     "comando": "Explique por que o sistema tributário sobre o consumo era considerado complexo antes da reforma e discuta um possível benefício e um possível desafio de se unificar tributos em um imposto único sobre bens e serviços.",
     "pontosEsperados": [
@@ -56,6 +60,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-05",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "Acordos internacionais sobre mudança climática costumam adotar o princípio de \"responsabilidades comuns, porém diferenciadas\", reconhecendo que países se industrializaram em momentos e ritmos distintos.",
     "comando": "Explique o que esse princípio significa e discuta, com um exemplo, por que ele costuma gerar tensão nas negociações climáticas entre países desenvolvidos e países em desenvolvimento.",
     "pontosEsperados": [
@@ -68,6 +73,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-06",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "A Constituição de 1988, apelidada de \"Constituição Cidadã\", marcou a redemocratização brasileira após o regime militar.",
     "comando": "Discuta dois avanços que a Constituição de 1988 trouxe em relação ao período anterior, explicando por que eles são considerados relevantes para a consolidação democrática do Brasil.",
     "pontosEsperados": [
@@ -80,6 +86,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-07",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "O avanço da inteligência artificial tem reacendido debates éticos sobre automação do trabalho, viés algorítmico e responsabilidade por decisões tomadas por sistemas automatizados.",
     "comando": "Escolha um desses três dilemas (automação do trabalho, viés algorítmico ou responsabilidade por decisões automatizadas) e discuta por que ele representa um desafio ético relevante para a sociedade contemporânea.",
     "pontosEsperados": [
@@ -92,6 +99,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-08",
     "area": "Humanas",
+    "tempoSugerido": 25,
     "texto_apoio": "O conceito de cidadania é frequentemente descrito como um processo histórico de conquista sucessiva de direitos civis, políticos e sociais.",
     "comando": "Explique a diferença entre direitos civis, políticos e sociais, e discuta, com um exemplo brasileiro, por que a existência formal de um direito nem sempre garante seu exercício efetivo.",
     "pontosEsperados": [
@@ -106,6 +114,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-01",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "\"As redes sociais não inventaram a fofoca, a opinião apressada ou o exagero retórico. Elas apenas deram a esses velhos hábitos humanos um alcance e uma velocidade que a espécie nunca havia experimentado antes.\"",
     "comando": "A partir do texto, explique qual é a tese defendida pelo autor e discuta, com seus próprios argumentos, se você concorda ou discorda dela, justificando sua posição.",
     "pontosEsperados": [
@@ -118,6 +127,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-02",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "Um anúncio publicitário afirma: \"Nove em cada dez especialistas recomendam. Você vai continuar sendo a exceção?\"",
     "comando": "Analise as estratégias linguísticas e argumentativas usadas nesse anúncio para persuadir o leitor, identificando pelo menos dois recursos (por exemplo, apelo à maioria, pergunta retórica, dado estatístico) e explicando o efeito de sentido que cada um produz.",
     "pontosEsperados": [
@@ -130,6 +140,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-03",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "Em uma mensagem de texto entre amigos: \"vc vai hj? pq axo q vai chover mto\". Em um e-mail profissional: \"Prezado(a), gostaria de confirmar sua presença na reunião de amanhã.\"",
     "comando": "Compare os dois exemplos de linguagem apresentados, explicando por que a adequação da linguagem ao contexto (registro formal x informal) é um critério relevante de avaliação em provas de redação e em situações reais de comunicação.",
     "pontosEsperados": [
@@ -142,6 +153,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-04",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "A comunicação digital consolidou expressões como \"kkkk\", emojis e abreviações que, para alguns, empobrecem a língua portuguesa, e para outros, apenas expandem seus recursos expressivos.",
     "comando": "Discuta essa polêmica apresentando um argumento que sustente a visão de que a linguagem digital é um empobrecimento da língua e um argumento que sustente a visão de que é uma expansão de seus recursos, concluindo com sua própria posição.",
     "pontosEsperados": [
@@ -154,6 +166,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-05",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "\"No meio do caminho tinha uma pedra / tinha uma pedra no meio do caminho\" (Carlos Drummond de Andrade, trecho adaptado)",
     "comando": "Explique o efeito de sentido produzido pela repetição no trecho apresentado e discuta como esse recurso pode contribuir para a construção de significado em um texto poético.",
     "pontosEsperados": [
@@ -166,6 +179,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-06",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "Movimentos literários brasileiros, como o Modernismo, frequentemente utilizaram a literatura como instrumento de crítica social e de construção de identidade nacional.",
     "comando": "Escolha um movimento ou autor da literatura brasileira que você conheça e explique, com um exemplo, de que forma a obra escolhida funciona como crítica social ou reflexão sobre a identidade nacional.",
     "pontosEsperados": [
@@ -178,6 +192,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-07",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "\"Compre já! Estoque limitado! Não perca essa chance única!\" — trecho de um texto publicitário.",
     "comando": "Identifique a estratégia argumentativa central desse texto publicitário (por exemplo, apelo à urgência ou à escassez) e explique por que esse tipo de estratégia costuma ser eficaz para influenciar o comportamento do leitor.",
     "pontosEsperados": [
@@ -190,6 +205,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-linguagens-08",
     "area": "Linguagens",
+    "tempoSugerido": 20,
     "texto_apoio": "A circulação de notícias falsas (fake news) tem sido associada à dificuldade de parte do público em avaliar criticamente as fontes de informação que consome.",
     "comando": "Discuta duas estratégias de leitura crítica que um leitor pode usar para avaliar a confiabilidade de uma notícia antes de compartilhá-la, explicando por que cada uma é útil.",
     "pontosEsperados": [
@@ -204,6 +220,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-01",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "O Barroco valorizava o movimento, o contraste de luz e sombra e a dramaticidade religiosa; já o Modernismo brasileiro, inaugurado pela Semana de Arte Moderna de 1922, buscava romper com o academicismo e construir uma identidade artística nacional.",
     "comando": "Compare esses dois movimentos artísticos quanto a seus objetivos e ao contexto histórico em que surgiram, explicando por que cada um refletia as preocupações de sua época.",
     "pontosEsperados": [
@@ -216,6 +233,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-02",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "A arte urbana (grafite, murais, intervenções em espaços públicos) tem ganhado reconhecimento como forma legítima de expressão artística e crítica social, embora ainda enfrente debates sobre sua legalidade.",
     "comando": "Discuta a arte urbana como forma de crítica social, apresentando um argumento a favor de sua legitimidade artística e um argumento que explique por que ela ainda gera controvérsia.",
     "pontosEsperados": [
@@ -228,6 +246,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-03",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "O conceito de \"indústria cultural\", cunhado por Theodor Adorno e Max Horkheimer, critica a padronização da produção cultural voltada para o consumo em massa.",
     "comando": "Explique o conceito de indústria cultural e discuta se ele pode ser aplicado às plataformas de streaming de música e vídeo atuais, apresentando pelo menos um argumento que sustente sua posição.",
     "pontosEsperados": [
@@ -240,6 +259,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-04",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "A Semana de Arte Moderna de 1922, realizada em São Paulo, é considerada um marco na construção de uma identidade cultural brasileira que incorporava vanguardas europeias sem abrir mão de temas nacionais.",
     "comando": "Explique de que forma a Semana de Arte Moderna de 1922 contribuiu para a construção de uma identidade cultural brasileira, citando pelo menos um artista ou obra associada ao movimento.",
     "pontosEsperados": [
@@ -252,6 +272,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-05",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "O debate sobre apropriação cultural questiona os limites entre inspiração legítima e uso indevido de elementos culturais de grupos historicamente marginalizados por artistas de fora desses grupos.",
     "comando": "Discuta a diferença entre inspiração artística legítima e apropriação cultural problemática, apresentando um critério que ajude a distinguir os dois casos.",
     "pontosEsperados": [
@@ -264,6 +285,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-06",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "Movimentos musicais brasileiros, como a Tropicália nos anos 1960, uniram experimentação estética e crítica ao contexto político e social da época.",
     "comando": "Escolha um movimento ou gênero musical brasileiro que você conheça e explique de que forma ele funcionou (ou funciona) como forma de protesto ou crítica social, citando um exemplo concreto.",
     "pontosEsperados": [
@@ -276,6 +298,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-07",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "Ferramentas de inteligência artificial capazes de gerar imagens e textos a partir de descrições têm levantado debates sobre autoria, originalidade e direitos autorais na produção artística.",
     "comando": "Discuta se uma obra gerada por inteligência artificial, a partir de um comando de um usuário humano, pode ser considerada uma criação artística legítima, apresentando argumentos para sustentar sua posição.",
     "pontosEsperados": [
@@ -288,6 +311,7 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-artes-08",
     "area": "Artes",
+    "tempoSugerido": 25,
     "texto_apoio": "Centros históricos de diversas cidades brasileiras concentram edificações de valor patrimonial que, por vezes, entram em conflito com projetos de expansão imobiliária e infraestrutura urbana.",
     "comando": "Discuta o conflito entre preservação do patrimônio histórico-cultural e desenvolvimento urbano, apresentando um argumento a favor da preservação e um argumento a favor do desenvolvimento, e conclua com sua posição.",
     "pontosEsperados": [

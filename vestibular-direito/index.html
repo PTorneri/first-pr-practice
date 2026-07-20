@@ -31,7 +31,11 @@
         errou</li>
         <li><strong>Caderno de Erros</strong>: toda questão que você errar reaparece numa aba própria pra você
         treinar de novo, até acertar</li>
-        <li>Progresso salvo no seu navegador — sem cadastro, sem servidor</li>
+        <li>Teoria (gatilhos e pegadinhas) antes dos exercícios, <strong>flashcards</strong> com repetição
+        espaçada, sessão <strong>SOS</strong> por tema e um <strong>score projetado</strong> pra prova</li>
+        <li>Obras obrigatórias da FGV (Artes e Questões Contemporâneas) numa aba própria, com resumo e análise
+        pelos eixos da banca</li>
+        <li>Progresso salvo no seu navegador — sem cadastro, sem servidor — com exportar/importar como backup</li>
       </ul>
       <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
       <button id="btn-resume" class="btn btn-secondary" hidden>Continuar meu plano</button>
@@ -49,6 +53,8 @@
         <button class="tab-btn active" data-tab="hoje">Hoje</button>
         <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
         <button class="tab-btn" data-tab="simulados">Simulados</button>
+        <button class="tab-btn" data-tab="cards">Cards</button>
+        <button class="tab-btn" data-tab="obras">Obras</button>
         <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
         <button class="tab-btn" data-tab="progresso">Meu progresso</button>
       </nav>
@@ -62,6 +68,7 @@
           <button id="btn-prev-day" class="btn btn-ghost">&larr; Dia anterior</button>
           <div class="day-label">
             <span id="day-number">Dia 1</span> de 90
+            <span id="phase-label" class="phase-label"></span>
             <span id="day-date" class="day-date"></span>
           </div>
           <button id="btn-next-day" class="btn btn-ghost">Próximo dia &rarr;</button>
@@ -89,6 +96,16 @@
         <div id="simulados-content"></div>
       </section>
 
+      <!-- TAB: CARDS (flashcards com repetição espaçada) -->
+      <section id="tab-cards" class="tab-panel">
+        <div id="cards-content"></div>
+      </section>
+
+      <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
+      <section id="tab-obras" class="tab-panel">
+        <div id="obras-content"></div>
+      </section>
+
       <!-- TAB: CADERNO DE ERROS -->
       <section id="tab-erros" class="tab-panel">
         <div id="erros-content"></div>
@@ -98,6 +115,7 @@
       <section id="tab-progresso" class="tab-panel">
         <h2>Meu progresso por frente de estudo</h2>
         <p class="hint">Acompanhe seu desempenho em cada uma das 15 frentes cobradas pelas provas.</p>
+        <div id="projected-score-container"></div>
         <div id="progress-list" class="progress-list"></div>
 
         <div class="card official-exams-card">
@@ -111,6 +129,8 @@
           </div>
         </div>
 
+        <div id="sync-container"></div>
+
         <div class="danger-zone">
           <button id="btn-reset" class="btn btn-danger-outline">Reiniciar todo o progresso</button>
         </div>
@@ -122,6 +142,9 @@
 </div>
 
 <script src="data/subtopics.js"></script>
+<script src="data/theory.js"></script>
+<script src="data/obras.js"></script>
+<script src="data/sync-config.js"></script>
 <script src="data/priority-weights.js"></script>
 <script src="data/video-topics.js"></script>
 <script src="data/bundle.js"></script>

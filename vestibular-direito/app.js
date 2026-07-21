@@ -109,15 +109,20 @@
   // Erros e total de questões por frente no simulado indicado (dados crus,
   // reaproveitados tanto pelo cálculo de peso do próximo ciclo quanto pelo
   // resumo "com base nos seus erros..." mostrado no próprio simulado).
-  function computeSimuladoErrorStats(simuladoVisitIndex) {
+  // Usa a resposta ESPECÍFICA daquele dia de simulado (vd_dayAnswers), não a
+  // global — senão a mesma questão reaparecendo em outro simulado/dia (bancos
+  // maiores) contaminaria o resultado deste simulado com uma resposta dada
+  // em outra ocasião (mesmo bug relatado pelo usuário, só que na aba
+  // Simulados em vez da aba Hoje).
+  function computeSimuladoErrorStats(simuladoVisitIndex, day) {
     const items = pickSimuladoQuestions(simuladoVisitIndex);
-    const answers = getAnswers();
+    const dayAnswers = getDayAnswers();
     const errors = {}, totals = {};
     window.SUBTOPICS.forEach((s) => { errors[s.id] = 0; totals[s.id] = 0; });
     items.forEach((item) => {
       totals[item.subtopicId]++;
-      const key = answerKey(item.subtopicId, item.question.id);
-      const chosen = answers[key];
+      const dKey = dayAnswerKey(day, item.subtopicId, item.question.id);
+      const chosen = dayAnswers[dKey];
       if (chosen && chosen !== item.question.resposta) errors[item.subtopicId]++;
     });
     return { errors, totals };
@@ -131,8 +136,8 @@
   // em vez do valor bruto evita que uma frente de prioridade máxima (que
   // ganha mais questões, logo mais chance de erros em número absoluto)
   // domine o ciclo seguinte de forma desproporcional.
-  function computeCycleWeightsFromSimulado(simuladoVisitIndex) {
-    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex);
+  function computeCycleWeightsFromSimulado(simuladoVisitIndex, day) {
+    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex, day);
     const base = window.PRIORITY_WEIGHTS || {};
     const weights = {};
     window.SUBTOPICS.forEach((s) => {
@@ -156,7 +161,7 @@
     const cache = loadJSON(LS_CYCLE_WEIGHTS, {});
     if (cache[cycleIndex]) return cache[cycleIndex];
     if (simuladoDay && isDayExerciseComplete(simuladoDay)) {
-      const weights = computeCycleWeightsFromSimulado(cycleIndex - 1);
+      const weights = computeCycleWeightsFromSimulado(cycleIndex - 1, simuladoDay);
       cache[cycleIndex] = weights;
       saveJSON(LS_CYCLE_WEIGHTS, cache);
       return weights;
@@ -414,7 +419,7 @@
     if (!container || !isDayExerciseComplete(day)) return;
 
     const simuladoVisitIndex = content.simuladoNumber - 1;
-    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex);
+    const { errors, totals } = computeSimuladoErrorStats(simuladoVisitIndex, day);
     const weights = window.PRIORITY_WEIGHTS || {};
 
     const focusedSubtopics = window.SUBTOPICS
@@ -442,9 +447,13 @@
 
   // ---------- Aba Simulados (lista + resultado detalhado por tema) ----------
 
+  // Usa a resposta ESPECÍFICA deste dia de simulado (vd_dayAnswers), não a
+  // global — senão uma questão que se repete em outro simulado/dia (bancos
+  // maiores tornam isso comum) contaminaria o resultado deste simulado com
+  // uma resposta dada em outra ocasião.
   function computeSimuladoResult(simuladoIndex, day) {
     const items = pickSimuladoQuestions(simuladoIndex);
-    const answers = getAnswers();
+    const dayAnswers = getDayAnswers();
 
     const perTopic = {};
     window.SUBTOPICS.forEach((s) => {
@@ -456,8 +465,8 @@
     items.forEach((item) => {
       const t = perTopic[item.subtopicId];
       t.total++;
-      const key = answerKey(item.subtopicId, item.question.id);
-      const chosen = answers[key];
+      const dKey = dayAnswerKey(day, item.subtopicId, item.question.id);
+      const chosen = dayAnswers[dKey];
       if (chosen) {
         t.answered++;
         totalAnswered++;
@@ -479,27 +488,32 @@
   }
 
   // Achado 11 (simulados avulsos + re-simulado): itens desse simulado
-  // específico cuja última resposta salva está errada — usado por "Refazer
-  // só as erradas" pra limpar só essas chaves de vd_answers.
-  function computeSimuladoWrongItems(simuladoIndex) {
+  // específico cuja resposta NAQUELE DIA está errada — usado por "Refazer
+  // só as erradas" pra limpar só essas chaves de vd_dayAnswers (day-scoped,
+  // não a global — ver nota em computeSimuladoResult).
+  function computeSimuladoWrongItems(simuladoIndex, day) {
     const items = pickSimuladoQuestions(simuladoIndex);
-    const answers = getAnswers();
+    const dayAnswers = getDayAnswers();
     return items.filter((item) => {
-      const chosen = answers[answerKey(item.subtopicId, item.question.id)];
+      const chosen = dayAnswers[dayAnswerKey(day, item.subtopicId, item.question.id)];
       return chosen && chosen !== item.question.resposta;
     });
   }
 
-  function retrySimulado(simuladoIndex, onlyWrong) {
-    const items = onlyWrong ? computeSimuladoWrongItems(simuladoIndex) : pickSimuladoQuestions(simuladoIndex);
+  // Limpa a resposta POR OCORRÊNCIA (vd_dayAnswers) daquele simulado
+  // específico — não mexe em vd_answers (histórico global de stats/Caderno
+  // de Erros), pra não afetar outras vezes em que a mesma questão apareceu
+  // em outro dia/simulado.
+  function retrySimulado(simuladoIndex, day, onlyWrong) {
+    const items = onlyWrong ? computeSimuladoWrongItems(simuladoIndex, day) : pickSimuladoQuestions(simuladoIndex);
     if (items.length === 0) return;
     const msg = onlyWrong
       ? `Isso vai limpar sua resposta nas ${items.length} questões que você errou nesse simulado, pra você refazer só elas. Continuar?`
       : "Isso vai limpar todas as suas respostas nesse simulado, pra você refazer do zero. Continuar?";
     if (!confirm(msg)) return;
-    const current = getAnswers();
-    items.forEach((item) => { delete current[answerKey(item.subtopicId, item.question.id)]; });
-    saveJSON(LS_ANSWERS, current);
+    const dayAnswers = getDayAnswers();
+    items.forEach((item) => { delete dayAnswers[dayAnswerKey(day, item.subtopicId, item.question.id)]; });
+    saveJSON(LS_DAY_ANSWERS, dayAnswers);
     recomputeAll();
   }
 
@@ -628,7 +642,7 @@
 
     // Achado 11: simulados avulsos, refazíveis a qualquer momento.
     if (result.totalAnswered > 0) {
-      const wrongCount = computeSimuladoWrongItems(simuladoIndex).length;
+      const wrongCount = computeSimuladoWrongItems(simuladoIndex, day).length;
       if (wrongCount > 0) {
         const retryWrongBtn = document.createElement("button");
         retryWrongBtn.type = "button";
@@ -636,7 +650,7 @@
         retryWrongBtn.style.width = "auto";
         retryWrongBtn.textContent = `Refazer só as ${wrongCount} erradas`;
         retryWrongBtn.addEventListener("click", () => {
-          retrySimulado(simuladoIndex, true);
+          retrySimulado(simuladoIndex, day, true);
           document.querySelector('.tab-btn[data-tab="hoje"]').click();
           renderDay(day);
         });
@@ -648,7 +662,7 @@
       retryAllBtn.style.width = "auto";
       retryAllBtn.textContent = "Refazer o simulado inteiro";
       retryAllBtn.addEventListener("click", () => {
-        retrySimulado(simuladoIndex, false);
+        retrySimulado(simuladoIndex, day, false);
         document.querySelector('.tab-btn[data-tab="hoje"]').click();
         renderDay(day);
       });

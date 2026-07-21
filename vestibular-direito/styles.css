@@ -218,6 +218,13 @@ body {
   padding: 3px 10px; margin-bottom: 8px;
 }
 .q-enunciado { font-weight: 600; margin-bottom: 10px; }
+.q-difficulty {
+  display: inline-block; font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.03em; border-radius: 999px; padding: 2px 8px; vertical-align: middle;
+  margin-left: 4px;
+}
+.q-difficulty-media { background: var(--warn-soft); color: var(--warn); }
+.q-difficulty-dificil { background: var(--bad-soft); color: var(--bad); }
 .simulado-card { border-color: var(--warn); }
 .q-alts { display: flex; flex-direction: column; gap: 8px; }
 .q-alt {
@@ -345,7 +352,6 @@ body {
 }
 .flashcard-front { font-size: 1.15rem; font-weight: 600; text-align: center; }
 .flashcard-back { border-top: 1px solid var(--border); margin-top: 20px; padding-top: 20px; }
-.flashcard-answer { font-weight: 700; color: var(--good); margin-bottom: 10px; text-align: center; }
 .flashcard-explicacao { color: var(--ink-soft); font-size: 0.92rem; text-align: center; }
 
 /* Achado 13: Obras obrigatórias */

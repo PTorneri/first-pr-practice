@@ -71,15 +71,19 @@ são calculados a partir do desempenho real e então **travados permanentemente*
 simulado antigo não bagunce uma semana que você já começou a estudar. Ao concluir um simulado, o
 próprio card mostra um resumo tipo "com base nos seus erros, a semana que vem foca mais em:
 [frentes]". O 1º ciclo (antes do 1º simulado) já usa o peso-base do estudo, não fica uniforme.
-- Os exercícios vêm de um banco de **36 questões originais por frente** (540 no total, em
-  `data/questions/*.json`, compiladas em `data/bundle.js`) — todos os 15 bancos foram ampliados
-  para esse tamanho (o de Ciências da Natureza foi o primeiro a dobrar, a pedido; os outros 14
-  seguiram o mesmo tratamento depois). Com bancos maiores, cada questão se repete bem menos ao
-  longo dos 90 dias: medi diretamente no app antes e depois — o "pior caso" (questão mais vista)
-  caiu de 10-12 repetições para 5-8. Não dá pra chegar a zero repetição com bancos deste tamanho
-  em 90 dias (precisaria de ~150 questões por frente, um volume não realista de escrever à mão
-  com qualidade), mas a frequência caiu por volta da metade. A seleção usa uma janela circular
-  sobre o banco a cada nova visita, para variar o subconjunto e a ordem.
+- Os exercícios vêm de um banco de **1.800 questões originais** (`data/questions/*.json`,
+  compiladas em `data/bundle.js`), com tamanho proporcional à prioridade de cada frente: **150
+  questões** nas 6 frentes de prioridade máxima (Interpretação de Texto, Gramática, Matemática/
+  RLM, Geografia, Inglês, Atualidades: Geopolítica) e **100 questões** nas 9 restantes. Boa parte
+  desse banco (114 ou 64 questões por frente, calibradas em nível **médio ou difícil** — sem
+  questões fáceis) foi gerada depois do banco original de 36/frente, para reduzir ainda mais a
+  repetição; questões com esse nível marcado mostram um selo "Média"/"Difícil" na tela do
+  exercício (questões do banco original, sem esse campo, não mostram selo). Com bancos maiores, a
+  repetição caiu bastante: medi diretamente no app antes e depois de cada expansão — o "pior caso"
+  (questão mais vista ao longo dos 90 dias) foi de 10-12 repetições (banco de 18/frente) para 5-8
+  (36/frente) e agora só **4** (100-150/frente), com uma questão típica se repetindo em média
+  **1,4x** em todo o plano. A seleção usa uma janela circular sobre o banco a cada nova visita,
+  para variar o subconjunto e a ordem.
 
 ## Teoria por frente (gatilhos e pegadinhas)
 
@@ -141,9 +145,17 @@ UI deixa isso explícito.
 
 ## Aba "Cards" (flashcards com repetição espaçada)
 
-Cada questão do banco (e cada obra obrigatória, ver abaixo) vira automaticamente um flashcard —
-sem precisar de conteúdo novo: frente = enunciado, verso = resposta certa + explicação já escrita.
-Algoritmo de repetição espaçada simplificado (`vd_flashcardState`):
+Os flashcards são um banco **dedicado e original** (`data/flashcards/*.json`, compilados em
+`data/flashcards.js`, 1.209 cards no total, pelo menos 75 por frente) — não são derivados do
+banco de questões de múltipla escolha (essa era uma versão anterior, mas virava só repetição da
+questão). O formato segue os princípios de repetição espaçada de Piotr Woźniak/SuperMemo e do
+Anki: **princípio da informação mínima** (cada card testa um único fato/conceito, nunca uma
+pergunta composta), **sem listas/enumerações como resposta** (quebradas em cards individuais),
+**recall ativo** (frente é sempre uma pergunta/pista que exige lembrar, verso é uma resposta
+direta de 1-2 frases) e **cards formulados para combater interferência** entre conceitos
+parecidos (ex.: Kant x Arendt, juros simples x compostos, totalitarismo x banalidade do mal).
+Cada obra obrigatória (ver abaixo) também vira um card (frente = título/autor, verso = resumo +
+análise pelos eixos). Algoritmo de repetição espaçada simplificado (`vd_flashcardState`):
 - **Não sei**: o card reaparece ainda nesta sessão (reinserido um pouco à frente na fila) e de
   novo amanhã.
 - **Sei**: o intervalo até reaparecer cresce numa progressão fixa (1 → 3 → 7 → 15 → 30 dias).
@@ -247,6 +259,14 @@ repetir sempre a mesma busca.
 Fica salvo em `localStorage` do navegador (sem cadastro, sem backend). A aba **Meu progresso**
 mostra acertos por frente; o **Calendário** colore cada um dos 90 dias conforme o quanto você já
 respondeu. "Reiniciar todo o progresso" apaga tudo e recomeça do zero.
+
+Como o banco de questões é reutilizado ao longo dos 90 dias (spaced repetition), a mesma questão
+pode cair em mais de um dia do plano. Cada ocorrência é rastreada separadamente
+(`vd_dayAnswers`): responder a questão num dia não a marca como respondida em outro dia em que
+ela reaparece — ela nasce zerada de novo, exatamente como se fosse a primeira vez. As
+estatísticas por frente (`vd_topicState`, Caderno de Erros, score projetado) continuam olhando
+pra questão como um todo, usando sempre a resposta mais recente dada a ela, não importa em qual
+dia.
 
 ## Expandindo o banco de questões
 

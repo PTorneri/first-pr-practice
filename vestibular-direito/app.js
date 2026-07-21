@@ -1,6 +1,7 @@
 (function () {
   const LS_START = "vd_startDate";
-  const LS_ANSWERS = "vd_answers"; // { "<subtopicId>::<questionId>": "a" }
+  const LS_ANSWERS = "vd_answers"; // { "<subtopicId>::<questionId>": "a" } — última resposta, GLOBAL (usada pra stats de frente/Caderno de Erros, "vale a mais recente")
+  const LS_DAY_ANSWERS = "vd_dayAnswers"; // { "<day>::<subtopicId>::<questionId>": "a" } — resposta ESPECÍFICA daquela ocorrência do dia, corrige bug de bancos maiores fazendo a mesma questão reaparecer em dias diferentes
   const LS_DAY_STATE = "vd_dayState"; // { "<day>": { answered: n, correct: n, total: n } }
   const LS_TOPIC_STATE = "vd_topicState"; // { "<subtopicId>": { answered: n, correct: n } }
   const LS_DISSERT_STATUS = "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
@@ -14,7 +15,7 @@
   const LS_SYNC_CODE = "vd_syncCode"; // último código de sincronização usado neste aparelho, achado 10
 
   const SYNCABLE_KEYS = [
-    LS_START, LS_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
+    LS_START, LS_ANSWERS, LS_DAY_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
     LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN, LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
   ];
 
@@ -48,12 +49,21 @@
   }
 
   function getAnswers() { return loadJSON(LS_ANSWERS, {}); }
+  function getDayAnswers() { return loadJSON(LS_DAY_ANSWERS, {}); }
   function getDayState() { return loadJSON(LS_DAY_STATE, {}); }
   function getTopicState() { return loadJSON(LS_TOPIC_STATE, {}); }
   function getDissertStatus() { return loadJSON(LS_DISSERT_STATUS, {}); }
   function getDissertAnswers() { return loadJSON(LS_DISSERT_ANSWERS, {}); }
 
   function answerKey(subtopicId, questionId) { return subtopicId + "::" + questionId; }
+  // Chave da resposta ESPECÍFICA daquela ocorrência do dia — corrige o bug de
+  // uma mesma questão (banco maior, reaparece em dias diferentes) aparecer
+  // pré-respondida em todo dia em que cai, mesmo tendo sido respondida só
+  // uma vez. `vd_answers` (answerKey) continua guardando a última resposta
+  // GLOBAL, usada pra stats de frente/Caderno de Erros; `vd_dayAnswers`
+  // (dayAnswerKey) guarda por ocorrência, usada pro que aparece marcado na
+  // tela e pro contador de exercícios daquele dia específico.
+  function dayAnswerKey(day, subtopicId, questionId) { return day + "::" + subtopicId + "::" + questionId; }
   function dissertKey(day, questionId) { return day + "::" + questionId; }
 
   // ---------- Dissertativas (Humanas/Linguagens/Artes, estilo discursiva FGV) ----------
@@ -846,30 +856,27 @@
     return d.toISOString().slice(0, 10);
   }
 
+  // Cards DEDICADOS (data/flashcards.js) — frente/verso escritos especificamente
+  // pra repetição espaçada (informação mínima, recall ativo), não derivados do
+  // banco de questões de múltipla escolha (essa era a reclamação original: os
+  // flashcards eram só repetição das questões). Cada obra obrigatória também
+  // vira um card (frente = título/autor, verso = resumo + análise pelos eixos).
   function buildFlashcardPool() {
     const pool = [];
     window.SUBTOPICS.forEach((s) => {
-      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
-      bank.forEach((q) => {
-        pool.push({ subtopicId: s.id, subtopicNome: s.nome, area: s.area, question: q, key: answerKey(s.id, q.id) });
+      const cards = (window.FLASHCARDS && window.FLASHCARDS[s.id]) || [];
+      cards.forEach((c) => {
+        pool.push({ subtopicId: s.id, subtopicNome: s.nome, area: s.area, key: c.id, frente: c.frente, verso: c.verso });
       });
     });
-    // Achado 13: cada obra obrigatória também vira um flashcard (frente =
-    // título/autor, verso = resumo + análise pelos eixos), reaproveitando o
-    // mesmo motor de repetição espaçada — sem "alternativas", por isso
-    // isObraCard=true pra renderFlashcardSessionView pular a linha de gabarito.
     (window.OBRAS || []).forEach((o) => {
       pool.push({
         subtopicId: "obra::" + o.id,
         subtopicNome: o.titulo,
         area: "Obra — " + o.categoria,
-        question: {
-          id: o.id,
-          enunciado: `${o.titulo} — ${o.autor}`,
-          isObraCard: true,
-          explicacao: `${o.resumo} ${o.analiseEixos}`,
-        },
         key: "obra::" + o.id,
+        frente: `${o.titulo} — ${o.autor}`,
+        verso: `${o.resumo} ${o.analiseEixos}`,
       });
     });
     return pool;
@@ -978,8 +985,6 @@
     }
 
     const cardData = queue[index];
-    const q = cardData.question;
-    const correctText = q.isObraCard ? null : q.alternativas[q.resposta];
 
     const exitBtn = document.createElement("button");
     exitBtn.type = "button";
@@ -996,11 +1001,10 @@
     const cardEl = document.createElement("div");
     cardEl.className = "flashcard";
     cardEl.innerHTML = `
-      <div class="flashcard-front">${escapeHtml(q.enunciado)}</div>
+      <div class="flashcard-front">${escapeHtml(cardData.frente)}</div>
       ${flipped ? `
         <div class="flashcard-back">
-          ${q.isObraCard ? "" : `<div class="flashcard-answer">Resposta: ${q.resposta.toUpperCase()}) ${escapeHtml(correctText)}</div>`}
-          <div class="flashcard-explicacao">${escapeHtml(q.explicacao)}</div>
+          <div class="flashcard-explicacao">${escapeHtml(cardData.verso)}</div>
         </div>` : ""}
     `;
     wrap.appendChild(cardEl);
@@ -1334,7 +1338,10 @@
         more.forEach((q, i) => {
           // day=null: questões extras puxadas por baixa demanda não entram na
           // contagem fixa do dia (bumpDayState), só no progresso da frente.
-          extrasContainer.appendChild(renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }));
+          // hideSavedAnswer=true: sem "dia" pra rastrear por ocorrência, tratamos
+          // como prática avulsa — sempre nasce zerada, mesmo critério do
+          // Caderno de Erros.
+          extrasContainer.appendChild(renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }, true));
         });
         extraPullCounts[extrasKey] = pulled + more.length;
         renderExtrasActions();
@@ -1359,14 +1366,22 @@
   function renderQuestion(day, subtopicId, q, idx, tagLabel, onAnswered, hideSavedAnswer) {
     const wrap = document.createElement("div");
     wrap.className = "question";
-    const answers = getAnswers();
     const key = answerKey(subtopicId, q.id);
-    const saved = hideSavedAnswer ? null : answers[key];
+    // Pré-preenchimento é sempre por OCORRÊNCIA (dia específico), não global —
+    // uma questão que já apareceu (e foi respondida) num dia anterior deve
+    // nascer zerada quando reaparecer num dia novo, mesmo que o registro
+    // global (vd_answers, usado só pras stats de frente) já tenha resposta.
+    const saved = (hideSavedAnswer || day == null) ? null : getDayAnswers()[dayAnswerKey(day, subtopicId, q.id)];
 
     const supportHtml = q.texto_apoio
       ? `<div class="q-support">${escapeHtml(q.texto_apoio)}</div>`
       : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
+    // Selo de dificuldade: só questões novas (banco ampliado) têm o campo
+    // `dificuldade` ("media"/"dificil") — questões antigas seguem sem selo.
+    const difficultyHtml = q.dificuldade
+      ? `<span class="q-difficulty q-difficulty-${q.dificuldade}">${q.dificuldade === "dificil" ? "Difícil" : "Média"}</span>`
+      : "";
 
     const altsHtml = Object.entries(q.alternativas).map(([letter, text]) => {
       return `
@@ -1379,7 +1394,7 @@
     wrap.innerHTML = `
       ${tagHtml}
       ${supportHtml}
-      <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)}</div>
+      <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>
       <div class="q-feedback" hidden></div>
     `;
@@ -1395,16 +1410,31 @@
       input.addEventListener("change", () => {
         const letter = input.value;
         const current = getAnswers();
-        const alreadyAnswered = !!current[key];
+        const alreadyAnsweredGlobally = !!current[key];
         current[key] = letter;
         saveJSON(LS_ANSWERS, current);
         touchTopicLastAnswered(subtopicId);
         applyFeedback(wrap, q, letter);
-        if (!alreadyAnswered) {
+        if (!alreadyAnsweredGlobally) {
           bumpTopicState(subtopicId, letter === q.resposta);
-          if (day != null) bumpDayState(day, letter === q.resposta);
         } else {
-          recomputeAll();
+          recomputeAll(); // recalcula stats de frente do zero (resposta global mudou)
+        }
+        if (day != null) {
+          // Grava por OCORRÊNCIA (dia específico) — não confundir com
+          // alreadyAnsweredGlobally acima, que é sobre a frente como um
+          // todo. bumpDayState só soma ao contador do dia na primeira vez
+          // que ESSE dia específico responde essa questão.
+          const dayAnswers = getDayAnswers();
+          const dKey = dayAnswerKey(day, subtopicId, q.id);
+          const alreadyAnsweredThisDay = !!dayAnswers[dKey];
+          dayAnswers[dKey] = letter;
+          saveJSON(LS_DAY_ANSWERS, dayAnswers);
+          if (!alreadyAnsweredThisDay) {
+            bumpDayState(day, letter === q.resposta);
+          } else {
+            recomputeAll();
+          }
         }
         const card = wrap.closest(".lesson-card");
         if (card) updateScoreLabel(card);
@@ -1700,16 +1730,18 @@
     saveJSON(LS_DAY_STATE, state);
   }
 
-  // recompute topic/day aggregates by rescanning stored answers against the plan
-  // (used when an already-answered question is clicked again with a different option)
+  // recompute topic/day aggregates from scratch (used when an already-answered
+  // question is clicked again with a different option)
   //
   // Note: the same question can legitimately appear in several different days'
-  // exercise sets (small question banks are intentionally reused for spaced
-  // repetition). dayState must therefore count per day-occurrence — but
-  // topicState must count each *unique* question once, otherwise a single
-  // answered question would be counted once per day it happens to appear in.
+  // exercise sets (banks are reused for spaced repetition across the 90 dias).
+  // dayState must count per day-OCCURRENCE (vd_dayAnswers) — using the global
+  // vd_answers here would make a question answered on day 5 show as already
+  // answered on every other day it happens to reappear in (real bug reported
+  // by the user). topicState still counts each *unique* question once,
+  // globally, via computeTopicStateFromAnswers.
   function recomputeAll() {
-    const answers = getAnswers();
+    const dayAnswers = getDayAnswers();
     const dayState = {};
 
     plan.forEach((entry) => {
@@ -1720,8 +1752,8 @@
         : content.lessons.flatMap((lesson) => lesson.questions.map((q) => ({ subtopicId: lesson.subtopicId, q })));
       perQuestion.forEach(({ subtopicId, q }) => {
         dTotal++;
-        const key = answerKey(subtopicId, q.id);
-        const chosen = answers[key];
+        const dKey = dayAnswerKey(entry.day, subtopicId, q.id);
+        const chosen = dayAnswers[dKey];
         if (chosen) {
           dAnswered++;
           if (chosen === q.resposta) dCorrect++;

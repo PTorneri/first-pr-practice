@@ -7,9 +7,9 @@
                          "enunciado":  "De acordo com o texto, qual é a principal crítica feita aos \u0027vertical forests\u0027?",
                          "alternativas":  {
                                               "a":  "Sua manutenção exige muita água e cuidado constante, o que gera custos elevados.",
-                                              "b":  "Eles afastam pássaros e insetos das áreas urbanas.",
+                                              "b":  "Eles não conseguem absorver dióxido de carbono de forma eficaz.",
                                               "c":  "Eles aumentam o calor urbano em vez de reduzi-lo.",
-                                              "d":  "Eles não conseguem absorver dióxido de carbono de forma eficaz."
+                                              "d":  "Eles afastam pássaros e insetos das áreas urbanas."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto afirma que os críticos apontam a necessidade de grandes quantidades de água e cuidado constante como o principal problema, o que pode ser custoso para os proprietários dos edifícios."
@@ -19,8 +19,8 @@
                          "texto_apoio":  "Many people assume that the English word \u0027actually\u0027 means the same as the Portuguese word \u0027atualmente\u0027. In fact, \u0027actually\u0027 means \u0027in fact\u0027 or \u0027in truth\u0027, while \u0027atualmente\u0027 corresponds to the English word \u0027currently\u0027 or \u0027nowadays\u0027. This mismatch is a classic example of what linguists call false cognates.",
                          "enunciado":  "Segundo o texto, qual é o problema relacionado às palavras \u0027actually\u0027 e \u0027atualmente\u0027?",
                          "alternativas":  {
-                                              "a":  "Elas são grafadas de forma idêntica, mas nenhuma delas tem significado definido.",
-                                              "b":  "As duas palavras têm exatamente o mesmo significado em inglês e português.",
+                                              "a":  "As duas palavras têm exatamente o mesmo significado em inglês e português.",
+                                              "b":  "Elas são grafadas de forma idêntica, mas nenhuma delas tem significado definido.",
                                               "c":  "\u0027Actually\u0027 não existe na língua inglesa e é um erro comum de tradução.",
                                               "d":  "Apesar da semelhança gráfica e sonora, seus significados são diferentes, o que caracteriza um falso cognato."
                                           },
@@ -34,8 +34,8 @@
                          "alternativas":  {
                                               "a":  "O trabalho remoto é unanimemente considerado prejudicial pelos trabalhadores.",
                                               "b":  "O trabalho remoto aumenta a produtividade, mas dificulta a separação entre vida profissional e pessoal.",
-                                              "c":  "Os trabalhadores remotos nunca verificam e-mails fora do horário comercial.",
-                                              "d":  "A pesquisa não encontrou nenhuma vantagem no trabalho remoto."
+                                              "c":  "A pesquisa não encontrou nenhuma vantagem no trabalho remoto.",
+                                              "d":  "Os trabalhadores remotos nunca verificam e-mails fora do horário comercial."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto apresenta dois aspectos: o ganho de produtividade percebido por parte dos trabalhadores remotos e, ao mesmo tempo, a dificuldade em separar vida pessoal e profissional, revelada pela mesma pesquisa."
@@ -45,9 +45,9 @@
                          "texto_apoio":  "The word \u0027library\u0027 in English does not mean \u0027livraria\u0027, as many Portuguese speakers mistakenly assume. A library is a place where books can be borrowed for free, usually maintained by a school, university, or the government. The word for a place where books are sold, as in Portuguese \u0027livraria\u0027, is \u0027bookstore\u0027 in English.",
                          "enunciado":  "Qual é a diferença de significado apontada no texto entre \u0027library\u0027 e \u0027livraria\u0027?",
                          "alternativas":  {
-                                              "a":  "\u0027Library\u0027 refere-se exclusivamente a bibliotecas particulares dentro de residências.",
-                                              "b":  "\u0027Library\u0027 significa um lugar onde se compram livros, assim como \u0027livraria\u0027 em português.",
-                                              "c":  "As duas palavras são sinônimas e podem ser usadas de forma intercambiável em qualquer contexto.",
+                                              "a":  "As duas palavras são sinônimas e podem ser usadas de forma intercambiável em qualquer contexto.",
+                                              "b":  "\u0027Library\u0027 refere-se exclusivamente a bibliotecas particulares dentro de residências.",
+                                              "c":  "\u0027Library\u0027 significa um lugar onde se compram livros, assim como \u0027livraria\u0027 em português.",
                                               "d":  "\u0027Library\u0027 é uma biblioteca, onde livros são emprestados gratuitamente; \u0027livraria\u0027, em português, corresponde a \u0027bookstore\u0027 em inglês."
                                           },
                          "resposta":  "d",
@@ -58,8 +58,8 @@
                          "texto_apoio":  "Ocean plastic pollution has become one of the most visible environmental crises of our time. Every year, millions of tons of plastic waste enter the oceans, harming marine life and entering the food chain. Some countries have banned single-use plastic bags, while others are investing in technology to collect floating debris directly from the sea.",
                          "enunciado":  "De acordo com o texto, quais são as duas estratégias mencionadas para lidar com a poluição plástica nos oceanos?",
                          "alternativas":  {
-                                              "a":  "Construir novas fábricas de plástico e reduzir a fiscalização ambiental.",
-                                              "b":  "Proibir a pesca comercial e aumentar impostos sobre embarcações.",
+                                              "a":  "Proibir a pesca comercial e aumentar impostos sobre embarcações.",
+                                              "b":  "Construir novas fábricas de plástico e reduzir a fiscalização ambiental.",
                                               "c":  "Banir sacolas plásticas de uso único e investir em tecnologia para coletar detritos flutuantes.",
                                               "d":  "Incentivar o consumo de plástico reciclado sem qualquer outra medida."
                                           },
@@ -71,9 +71,9 @@
                          "texto_apoio":  "In English, the adjective \u0027sensible\u0027 does not mean \u0027sensível\u0027 (sensitive), as many learners assume. \u0027Sensible\u0027 means reasonable or practical, as in \u0027a sensible decision\u0027. The correct translation for the Portuguese word \u0027sensível\u0027 is \u0027sensitive\u0027.",
                          "enunciado":  "Qual é o significado correto da palavra \u0027sensible\u0027 em inglês, segundo o texto?",
                          "alternativas":  {
-                                              "a":  "Sensacional, extraordinário.",
+                                              "a":  "Sensível, emocionalmente afetado por algo.",
                                               "b":  "Sensorial, relacionado aos cinco sentidos.",
-                                              "c":  "Sensível, emocionalmente afetado por algo.",
+                                              "c":  "Sensacional, extraordinário.",
                                               "d":  "Razoável, prático, ligado ao bom senso."
                                           },
                          "resposta":  "d",
@@ -84,9 +84,9 @@
                          "texto_apoio":  "Artificial intelligence tools are increasingly used in hiring processes, screening thousands of resumes in seconds. While companies praise the efficiency gains, researchers warn that these systems can reproduce biases present in the data used to train them, sometimes disadvantaging candidates from underrepresented groups.",
                          "enunciado":  "Qual é o principal alerta feito pelos pesquisadores mencionados no texto?",
                          "alternativas":  {
-                                              "a":  "A inteligência artificial elimina completamente qualquer forma de discriminação na contratação.",
-                                              "b":  "As ferramentas de inteligência artificial são sempre mais justas do que recrutadores humanos.",
-                                              "c":  "As empresas pararam de usar inteligência artificial em processos seletivos.",
+                                              "a":  "As empresas pararam de usar inteligência artificial em processos seletivos.",
+                                              "b":  "A inteligência artificial elimina completamente qualquer forma de discriminação na contratação.",
+                                              "c":  "As ferramentas de inteligência artificial são sempre mais justas do que recrutadores humanos.",
                                               "d":  "Os sistemas de inteligência artificial podem reproduzir vieses presentes nos dados usados em seu treinamento."
                                           },
                          "resposta":  "d",
@@ -97,9 +97,9 @@
                          "texto_apoio":  "A common mistake among Portuguese speakers learning English is confusing \u0027pretend\u0027 with \u0027pretender\u0027 (to intend). In English, \u0027to pretend\u0027 means to fake or simulate something, as in \u0027she pretended to be asleep\u0027. The correct verb for expressing intention, as in \u0027pretender fazer algo\u0027, is \u0027to intend\u0027.",
                          "enunciado":  "Segundo o texto, qual é o erro comum cometido por falantes de português ao usar a palavra \u0027pretend\u0027 em inglês?",
                          "alternativas":  {
-                                              "a":  "Acreditar que \u0027pretend\u0027 não existe na língua inglesa.",
+                                              "a":  "Usar \u0027pretend\u0027 no sentido de fingir, quando na verdade essa é a definição correta.",
                                               "b":  "Usar \u0027pretend\u0027 apenas em contextos formais, quando deveria ser informal.",
-                                              "c":  "Usar \u0027pretend\u0027 no sentido de fingir, quando na verdade essa é a definição correta.",
+                                              "c":  "Acreditar que \u0027pretend\u0027 não existe na língua inglesa.",
                                               "d":  "Confundir \u0027pretend\u0027 (fingir) com o sentido de \u0027pretender\u0027 (ter a intenção de), que em inglês corresponde a \u0027intend\u0027."
                                           },
                          "resposta":  "d",
@@ -111,8 +111,8 @@
                          "enunciado":  "Qual é o argumento central apresentado pelo texto em relação aos veículos elétricos?",
                          "alternativas":  {
                                               "a":  "Os veículos elétricos são completamente livres de qualquer impacto ambiental.",
-                                              "b":  "A geração de eletricidade nunca produz emissões de carbono, em nenhum país.",
-                                              "c":  "A mineração de lítio e cobalto não tem qualquer relação com a fabricação de veículos elétricos.",
+                                              "b":  "A mineração de lítio e cobalto não tem qualquer relação com a fabricação de veículos elétricos.",
+                                              "c":  "A geração de eletricidade nunca produz emissões de carbono, em nenhum país.",
                                               "d":  "Apesar de reduzirem emissões diretas, os veículos elétricos ainda geram impacto ambiental quando se considera seu ciclo completo de produção e uso."
                                           },
                          "resposta":  "d",
@@ -123,10 +123,10 @@
                          "texto_apoio":  "In English, \u0027to attend\u0027 does not mean \u0027atender\u0027 (to answer or to assist). Instead, \u0027to attend\u0027 means to be present at an event, as in \u0027attend a meeting\u0027 or \u0027attend a class\u0027. The verb closer to the Portuguese \u0027atender\u0027 is \u0027to answer\u0027 (a phone call) or \u0027to assist\u0027 (a customer).",
                          "enunciado":  "Qual é o sentido correto do verbo \u0027to attend\u0027 em inglês, segundo o texto?",
                          "alternativas":  {
-                                              "a":  "Ajudar um cliente em uma loja.",
-                                              "b":  "Responder a uma pergunta formal.",
+                                              "a":  "Responder a uma pergunta formal.",
+                                              "b":  "Atender uma ligação telefônica.",
                                               "c":  "Assistir/comparecer a um evento, como uma reunião ou aula.",
-                                              "d":  "Atender uma ligação telefônica."
+                                              "d":  "Ajudar um cliente em uma loja."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto deixa claro que \u0027to attend\u0027 significa comparecer ou estar presente em um evento (como uma reunião ou aula), e não \u0027atender\u0027, que em inglês corresponde a \u0027to answer\u0027 ou \u0027to assist\u0027, dependendo do contexto."
@@ -136,9 +136,9 @@
                          "texto_apoio":  "Urban gardens are gaining popularity in large cities as a response to rising food prices and growing interest in sustainability. Residents transform empty lots and rooftops into small farms, growing vegetables and herbs that are later shared among neighbors or sold at local markets, strengthening community ties in the process.",
                          "enunciado":  "Segundo o texto, além de fornecer alimentos, qual é outro benefício dos jardins urbanos mencionado?",
                          "alternativas":  {
-                                              "a":  "Eles eliminam completamente a necessidade de supermercados nas cidades.",
+                                              "a":  "Eles reduzem drasticamente o preço dos imóveis nas cidades.",
                                               "b":  "Eles fortalecem os laços comunitários entre os vizinhos.",
-                                              "c":  "Eles reduzem drasticamente o preço dos imóveis nas cidades.",
+                                              "c":  "Eles eliminam completamente a necessidade de supermercados nas cidades.",
                                               "d":  "Eles substituem integralmente a agricultura tradicional em grande escala."
                                           },
                          "resposta":  "b",
@@ -149,9 +149,9 @@
                          "texto_apoio":  "A frequent false cognate for Portuguese speakers is the word \u0027parents\u0027, which does not mean \u0027parentes\u0027 (relatives). In English, \u0027parents\u0027 refers specifically to one\u0027s mother and father. The word for \u0027parentes\u0027 in a broader sense, including cousins, uncles, and aunts, is \u0027relatives\u0027.",
                          "enunciado":  "De acordo com o texto, qual é a tradução correta para \u0027parentes\u0027 em um sentido amplo (incluindo primos, tios etc.)?",
                          "alternativas":  {
-                                              "a":  "Family only",
-                                              "b":  "Parents",
-                                              "c":  "Cousins",
+                                              "a":  "Cousins",
+                                              "b":  "Family only",
+                                              "c":  "Parents",
                                               "d":  "Relatives"
                                           },
                          "resposta":  "d",
@@ -162,10 +162,10 @@
                          "texto_apoio":  "Streaming platforms have changed the way people consume music, replacing physical albums with personalized playlists generated by algorithms. While this shift has made music more accessible than ever, some artists argue that royalty payments from streaming are too low to sustain a career, especially for independent musicians without major label support.",
                          "enunciado":  "Qual crítica é apresentada no texto em relação às plataformas de streaming de música?",
                          "alternativas":  {
-                                              "a":  "Apenas artistas de grandes gravadoras utilizam plataformas de streaming.",
+                                              "a":  "Elas eliminaram totalmente o uso de algoritmos na recomendação de músicas.",
                                               "b":  "Os pagamentos de royalties por streaming são considerados baixos demais para sustentar a carreira de alguns artistas.",
-                                              "c":  "Elas tornaram a música menos acessível ao público em geral.",
-                                              "d":  "Elas eliminaram totalmente o uso de algoritmos na recomendação de músicas."
+                                              "c":  "Apenas artistas de grandes gravadoras utilizam plataformas de streaming.",
+                                              "d":  "Elas tornaram a música menos acessível ao público em geral."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto aponta que, apesar do ganho em acessibilidade, artistas — sobretudo músicos independentes — criticam os baixos pagamentos de royalties gerados pelas plataformas de streaming como insuficientes para sustentar uma carreira."
@@ -202,9 +202,9 @@
                          "enunciado":  "Segundo o texto, qual é a confusão comum relacionada à palavra \u0027pull\u0027 em inglês?",
                          "alternativas":  {
                                               "a":  "Alguns aprendizes associam erroneamente \u0027pull\u0027 ao verbo \u0027pular\u0027, quando na verdade \u0027pull\u0027 significa \u0027puxar\u0027.",
-                                              "b":  "\u0027Pull\u0027 significa \u0027empurrar\u0027, o mesmo que \u0027push\u0027.",
+                                              "b":  "\u0027Pull\u0027 e \u0027push\u0027 têm exatamente o mesmo significado em inglês.",
                                               "c":  "\u0027Pull\u0027 nunca é usado em placas de portas no idioma inglês.",
-                                              "d":  "\u0027Pull\u0027 e \u0027push\u0027 têm exatamente o mesmo significado em inglês."
+                                              "d":  "\u0027Pull\u0027 significa \u0027empurrar\u0027, o mesmo que \u0027push\u0027."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027pull\u0027 é frequentemente confundido com o verbo português \u0027pular\u0027 por semelhança sonora, mas na verdade significa \u0027puxar\u0027, configurando um falso cognato relevante para estudantes brasileiros."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "A common false cognate that confuses many Brazilian students is the word \u0027costume\u0027. In English, \u0027costume\u0027 refers to a special outfit worn for a party, a play, or Halloween, not to a habit or custom. The English word for \u0027costume\u0027 in the sense of \u0027hábito\u0027 is \u0027habit\u0027 or \u0027custom\u0027.",
                          "enunciado":  "De acordo com o texto, o que a palavra inglesa \u0027costume\u0027 realmente significa?",
                          "alternativas":  {
-                                              "a":  "Uma regra formal estabelecida por uma instituição.",
-                                              "b":  "Um tipo de comida tradicional de determinada cultura.",
+                                              "a":  "Um tipo de comida tradicional de determinada cultura.",
+                                              "b":  "Um hábito ou costume cultural de um grupo de pessoas.",
                                               "c":  "Uma roupa especial usada em festas, peças de teatro ou no Halloween.",
-                                              "d":  "Um hábito ou costume cultural de um grupo de pessoas."
+                                              "d":  "Uma regra formal estabelecida por uma instituição."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027costume\u0027, em inglês, refere-se a uma roupa especial usada em ocasiões como festas ou o Halloween, e não a um hábito ou costume, que em inglês corresponde a \u0027habit\u0027 ou \u0027custom\u0027 — outro exemplo clássico de falso cognato."
@@ -240,8 +240,8 @@
                          "texto_apoio":  "Long-haul flights can leave travelers feeling exhausted for days, a condition widely known as jet lag. It happens because the body\u0027s internal clock, adjusted to the time zone of departure, takes time to synchronize with the new local time. Experts recommend gradually adjusting sleep schedules before a trip to reduce the effects.",
                          "enunciado":  "De acordo com o texto, por que o jet lag ocorre?",
                          "alternativas":  {
-                                              "a":  "Porque voos longos sempre causam desidratação severa nos passageiros.",
-                                              "b":  "Porque o corpo humano não é capaz de se adaptar a nenhum fuso horário diferente.",
+                                              "a":  "Porque o corpo humano não é capaz de se adaptar a nenhum fuso horário diferente.",
+                                              "b":  "Porque voos longos sempre causam desidratação severa nos passageiros.",
                                               "c":  "Porque o relógio interno do corpo, ajustado ao fuso de partida, leva tempo para se sincronizar com o novo horário local.",
                                               "d":  "Porque os especialistas recomendam não dormir durante toda a viagem."
                                           },
@@ -279,8 +279,8 @@
                          "texto_apoio":  "Many cities have invested in protected bike lanes to encourage urban cycling as an alternative to cars. Studies suggest that when cyclists feel physically separated from traffic, they are more likely to choose bikes for daily commuting, which can reduce both traffic congestion and air pollution over time.",
                          "enunciado":  "De acordo com o texto, o que incentiva mais pessoas a escolherem a bicicleta para seus deslocamentos diários?",
                          "alternativas":  {
-                                              "a":  "O aumento do número de carros nas grandes cidades.",
-                                              "b":  "A ausência total de qualquer investimento público em infraestrutura cicloviária.",
+                                              "a":  "A ausência total de qualquer investimento público em infraestrutura cicloviária.",
+                                              "b":  "O aumento do número de carros nas grandes cidades.",
                                               "c":  "A proibição total do uso de bicicletas em vias públicas.",
                                               "d":  "A sensação de separação física em relação ao tráfego de veículos, proporcionada por ciclovias protegidas."
                                           },
@@ -305,10 +305,10 @@
                          "texto_apoio":  "Sleep scientists have found that consistent sleep schedules may be even more important than the total number of hours slept. Going to bed and waking up at the same time every day, including weekends, helps regulate the body\u0027s internal clock and can improve overall sleep quality.",
                          "enunciado":  "Qual é a principal descoberta mencionada pelos cientistas do sono no texto?",
                          "alternativas":  {
-                                              "a":  "Dormir em horários diferentes todos os dias melhora automaticamente a qualidade do sono.",
+                                              "a":  "O sono nos fins de semana não tem qualquer relação com o relógio biológico.",
                                               "b":  "Manter horários consistentes de sono, inclusive nos fins de semana, pode ser tão ou mais importante do que o total de horas dormidas.",
-                                              "c":  "O sono nos fins de semana não tem qualquer relação com o relógio biológico.",
-                                              "d":  "Apenas o número total de horas dormidas importa para a qualidade do sono."
+                                              "c":  "Apenas o número total de horas dormidas importa para a qualidade do sono.",
+                                              "d":  "Dormir em horários diferentes todos os dias melhora automaticamente a qualidade do sono."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que a consistência dos horários de sono, incluindo os finais de semana, pode ser tão relevante quanto — ou mais relevante que — a quantidade total de horas dormidas para a qualidade geral do sono."
@@ -318,10 +318,10 @@
                          "texto_apoio":  "Museums around the world are digitizing their collections, allowing people who will never visit in person to explore paintings, sculptures, and historical artifacts online. While digitization increases access, some curators worry it cannot fully replace the experience of seeing an original work in person.",
                          "enunciado":  "Qual preocupação é levantada por alguns curadores de museus, segundo o texto?",
                          "alternativas":  {
-                                              "a":  "A digitalização eliminou totalmente a necessidade de museus físicos.",
+                                              "a":  "A digitalização de acervos reduziu o número de pessoas com acesso a obras de arte.",
                                               "b":  "A experiência digital pode não substituir completamente a experiência de ver uma obra original pessoalmente.",
                                               "c":  "Nenhum museu no mundo decidiu digitalizar seu acervo até hoje.",
-                                              "d":  "A digitalização de acervos reduziu o número de pessoas com acesso a obras de arte."
+                                              "d":  "A digitalização eliminou totalmente a necessidade de museus físicos."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Apesar de reconhecer o ganho de acesso proporcionado pela digitalização, o texto aponta a preocupação de curadores de que essa experiência digital não substitua totalmente a experiência de ver uma obra original pessoalmente."
@@ -332,9 +332,9 @@
                          "enunciado":  "Qual crítica é apresentada no texto em relação aos aplicativos de aprendizado de idiomas?",
                          "alternativas":  {
                                               "a":  "Isoladamente, raramente levam à fluência real, sendo a prática de conversação com outras pessoas ainda essencial.",
-                                              "b":  "Eles eliminaram completamente a necessidade de qualquer prática oral.",
-                                              "c":  "Nenhuma pessoa consegue aprender vocabulário básico por meio desses aplicativos.",
-                                              "d":  "Eles tornaram o aprendizado de idiomas menos acessível para a maioria das pessoas."
+                                              "b":  "Nenhuma pessoa consegue aprender vocabulário básico por meio desses aplicativos.",
+                                              "c":  "Eles tornaram o aprendizado de idiomas menos acessível para a maioria das pessoas.",
+                                              "d":  "Eles eliminaram completamente a necessidade de qualquer prática oral."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto reconhece o ganho de acessibilidade proporcionado pelos aplicativos, mas destaca a crítica de que, isoladamente, eles raramente resultam em fluência real, sendo a conversação com outros falantes considerada essencial."
@@ -344,10 +344,10 @@
                          "texto_apoio":  "Volunteering abroad has become popular among young travelers seeking meaningful experiences. However, some development experts warn that poorly organized volunteer programs can sometimes do more harm than good, taking jobs away from local workers or providing services without proper training or long-term commitment.",
                          "enunciado":  "Qual alerta é feito por especialistas em desenvolvimento, de acordo com o texto?",
                          "alternativas":  {
-                                              "a":  "Trabalhadores locais sempre se beneficiam da presença de voluntários estrangeiros.",
+                                              "a":  "Jovens viajantes nunca devem participar de programas de voluntariado internacional.",
                                               "b":  "Programas de voluntariado mal organizados podem, em alguns casos, causar mais prejuízo do que benefício às comunidades locais.",
-                                              "c":  "Todo programa de voluntariado internacional traz benefícios automáticos às comunidades locais.",
-                                              "d":  "Jovens viajantes nunca devem participar de programas de voluntariado internacional."
+                                              "c":  "Trabalhadores locais sempre se beneficiam da presença de voluntários estrangeiros.",
+                                              "d":  "Todo programa de voluntariado internacional traz benefícios automáticos às comunidades locais."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto alerta que programas de voluntariado mal planejados podem prejudicar comunidades locais, por exemplo ao substituir trabalhadores locais ou oferecer serviços sem treinamento e compromisso adequados, contrariando a intenção inicial de ajudar."
@@ -371,9 +371,9 @@
                          "enunciado":  "Segundo o texto, o que significa o verbo \u0027to resume\u0027 em inglês?",
                          "alternativas":  {
                                               "a":  "Retomar algo após uma pausa.",
-                                              "b":  "Concluir definitivamente uma atividade.",
-                                              "c":  "Resumir um texto em poucas linhas.",
-                                              "d":  "Escrever um currículo profissional."
+                                              "b":  "Escrever um currículo profissional.",
+                                              "c":  "Concluir definitivamente uma atividade.",
+                                              "d":  "Resumir um texto em poucas linhas."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027to resume\u0027 significa retomar algo após uma interrupção, e não \u0027resumir\u0027 (que corresponde a \u0027to summarize\u0027 em inglês), configurando um falso cognato comum entre estudantes brasileiros."
@@ -397,8 +397,8 @@
                          "enunciado":  "Segundo o texto, o que a palavra inglesa \u0027fabric\u0027 realmente significa?",
                          "alternativas":  {
                                               "a":  "Tecido, o material usado para fazer roupas e outros produtos têxteis.",
-                                              "b":  "Uma linha de produção automatizada.",
-                                              "c":  "Uma fábrica industrial onde produtos são fabricados.",
+                                              "b":  "Uma fábrica industrial onde produtos são fabricados.",
+                                              "c":  "Uma linha de produção automatizada.",
                                               "d":  "Um tipo de máquina utilizada na indústria têxtil."
                                           },
                          "resposta":  "a",
@@ -409,10 +409,10 @@
                          "texto_apoio":  "In academic English, a \u0027lecture\u0027 is a formal talk given by a professor to a class, not the act of \u0027leitura\u0027 (reading). The verb \u0027to read\u0027 corresponds to \u0027ler\u0027/\u0027leitura\u0027 in Portuguese, while \u0027lecture\u0027 refers specifically to an oral presentation of academic content.",
                          "enunciado":  "Qual é o significado correto da palavra \u0027lecture\u0027 em inglês, de acordo com o texto?",
                          "alternativas":  {
-                                              "a":  "Um texto literário utilizado em sala de aula.",
+                                              "a":  "O ato de ler um livro silenciosamente.",
                                               "b":  "Um exame escrito aplicado ao final do semestre.",
                                               "c":  "Uma palestra ou aula expositiva formal dada por um professor.",
-                                              "d":  "O ato de ler um livro silenciosamente."
+                                              "d":  "Um texto literário utilizado em sala de aula."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027lecture\u0027 se refere a uma aula expositiva ou palestra formal dada por um professor, e não ao ato de ler (\u0027leitura\u0027), que corresponde ao verbo \u0027to read\u0027 em inglês."
@@ -422,10 +422,10 @@
                          "texto_apoio":  "The adjective \u0027particular\u0027 can also confuse Portuguese speakers. In English, \u0027particular\u0027 usually means \u0027specific\u0027 or \u0027especial\u0027, as in \u0027a particular case\u0027. It rarely means \u0027private\u0027 or \u0027personal\u0027, which is closer to the Portuguese use of \u0027particular\u0027 (e.g., \u0027escola particular\u0027). For that meaning, English typically uses \u0027private\u0027.",
                          "enunciado":  "Segundo o texto, qual é o sentido mais comum da palavra \u0027particular\u0027 em inglês?",
                          "alternativas":  {
-                                              "a":  "Público e acessível a qualquer pessoa.",
-                                              "b":  "Relacionado exclusivamente a empresas privadas.",
+                                              "a":  "Relacionado exclusivamente a empresas privadas.",
+                                              "b":  "Privado ou pessoal, como em \u0027escola particular\u0027.",
                                               "c":  "Específico ou especial, como em \u0027a particular case\u0027.",
-                                              "d":  "Privado ou pessoal, como em \u0027escola particular\u0027."
+                                              "d":  "Público e acessível a qualquer pessoa."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que, em inglês, \u0027particular\u0027 geralmente significa \u0027específico\u0027 ou \u0027especial\u0027, diferentemente do uso mais comum em português (relacionado a algo privado), sentido para o qual o inglês normalmente usa a palavra \u0027private\u0027."
@@ -435,10 +435,10 @@
                          "texto_apoio":  "In English, \u0027notice\u0027 does not mean \u0027notícia\u0027 (news). As a verb, \u0027to notice\u0027 means to become aware of something, as in \u0027I noticed the door was open\u0027. As a noun, it can mean a short formal announcement. The word for \u0027notícia\u0027 is \u0027news\u0027.",
                          "enunciado":  "De acordo com o texto, o verbo \u0027to notice\u0027 significa:",
                          "alternativas":  {
-                                              "a":  "Anunciar oficialmente um evento público.",
-                                              "b":  "Escrever uma reportagem jornalística.",
+                                              "a":  "Escrever uma reportagem jornalística.",
+                                              "b":  "Divulgar uma notícia em um jornal.",
                                               "c":  "Perceber ou notar algo.",
-                                              "d":  "Divulgar uma notícia em um jornal."
+                                              "d":  "Anunciar oficialmente um evento público."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027to notice\u0027 significa perceber ou notar algo, sendo um falso cognato em relação a \u0027notícia\u0027, que corresponde à palavra \u0027news\u0027 em inglês."
@@ -461,10 +461,10 @@
                          "texto_apoio":  "The word \u0027collar\u0027 is a classic false cognate: it refers to the part of a shirt that goes around the neck, or to a band placed around a pet\u0027s neck, not to a piece of jewelry worn around the neck. The word for \u0027colar\u0027 (necklace) in English is \u0027necklace\u0027.",
                          "enunciado":  "De acordo com o texto, o que a palavra \u0027collar\u0027 significa em inglês?",
                          "alternativas":  {
-                                              "a":  "Um acessório usado exclusivamente por animais selvagens.",
+                                              "a":  "Uma joia usada ao redor do pescoço, como um colar.",
                                               "b":  "A gola de uma camisa ou uma coleira usada por um animal de estimação.",
                                               "c":  "Um tipo de gravata formal.",
-                                              "d":  "Uma joia usada ao redor do pescoço, como um colar."
+                                              "d":  "Um acessório usado exclusivamente por animais selvagens."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027collar\u0027 se refere à gola de uma camisa ou a uma coleira de animal de estimação, e não a uma joia (colar), que em inglês corresponde à palavra \u0027necklace\u0027."
@@ -476,7 +476,7 @@
                          "alternativas":  {
                                               "a":  "Space tourism is an emerging industry that raises both enthusiasm and criticism regarding its cost and environmental impact.",
                                               "b":  "Space tourism is now affordable for most travelers around the world.",
-                                              "c":  "All scientists agree that space tourism should be banned immediately.",
+                                              "c":  "The high price mentioned in the text is precisely what convinced critics to support the industry\u0027s rapid growth.",
                                               "d":  "Private companies have stopped offering suborbital flights due to high costs."
                                           },
                          "resposta":  "a",
@@ -488,10 +488,10 @@
                          "texto_apoio":  "Researchers studying urban noise have found that residents living near busy highways show consistently higher levels of cortisol, a hormone linked to stress, than those in quieter neighborhoods. Interestingly, the same studies found that simply adding vegetation barriers between roads and residential buildings reduced both perceived noise and measured cortisol levels, even when actual decibel levels changed only slightly.",
                          "enunciado":  "Based on the text, what can be inferred about the effect of vegetation barriers?",
                          "alternativas":  {
-                                              "a":  "They have no measurable effect on residents\u0027 stress hormones.",
+                                              "a":  "They are only effective in neighborhoods far from any highway.",
                                               "b":  "Their psychological effect on stress may be as important as their actual reduction of sound levels.",
-                                              "c":  "They are only effective in neighborhoods far from any highway.",
-                                              "d":  "They eliminate traffic noise completely, making decibel levels drop to zero."
+                                              "c":  "They reduce measured decibel levels by exactly the same amount as they reduce residents\u0027 perceived stress.",
+                                              "d":  "They have no measurable effect on residents\u0027 stress hormones."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto mostra que as barreiras de vegetação reduziram o cortisol mesmo quando os decibéis mudaram pouco, o que permite inferir que o efeito psicológico (percepção de menos ruído) pode ser tão relevante quanto a redução física do som.",
@@ -503,9 +503,9 @@
                          "enunciado":  "According to the text, what does the word \u0027eventually\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "No final, finalmente, depois de um certo tempo.",
-                                              "b":  "Imediatamente, sem qualquer demora.",
-                                              "c":  "Nunca, em hipótese alguma.",
-                                              "d":  "Ocasionalmente, de vez em quando."
+                                              "b":  "Nunca, em hipótese alguma.",
+                                              "c":  "Ocasionalmente, de vez em quando.",
+                                              "d":  "Imediatamente, sem qualquer demora."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027eventually\u0027 significa \u0027no final\u0027/\u0027finalmente\u0027, diferentemente de \u0027eventualmente\u0027 em português, que corresponde a \u0027occasionally\u0027 ou \u0027sometimes\u0027 em inglês — um falso cognato clássico.",
@@ -517,9 +517,9 @@
                          "enunciado":  "In the text, the word \u0027surge\u0027 is closest in meaning to:",
                          "alternativas":  {
                                               "a":  "a small, gradual decrease",
-                                              "b":  "an unpredictable fluctuation",
+                                              "b":  "a complete disappearance",
                                               "c":  "a sudden and significant increase",
-                                              "d":  "a complete disappearance"
+                                              "d":  "an unpredictable fluctuation"
                                           },
                          "resposta":  "c",
                          "explicacao":  "No contexto, \u0027a surge in employee satisfaction\u0027 indica um aumento súbito e significativo na satisfação dos funcionários, sentido mais próximo de \u0027increase\u0027 do que de diminuição ou desaparecimento.",
@@ -530,10 +530,10 @@
                          "texto_apoio":  "In English, the verb \u0027to assist\u0027 is a well-known false cognate. It does not mean \u0027assistir\u0027 (to watch), but rather \u0027to help\u0027 someone with a task, as in \u0027the nurse assisted the doctor during surgery\u0027. The correct verb for \u0027assistir a um filme\u0027, for example, is \u0027to watch\u0027.",
                          "enunciado":  "According to the text, what is the correct English translation for \u0027assistir a um filme\u0027?",
                          "alternativas":  {
-                                              "a":  "To attend a movie, exclusively.",
-                                              "b":  "To assist a movie.",
+                                              "a":  "To help a movie.",
+                                              "b":  "To attend a movie, exclusively.",
                                               "c":  "To watch a movie.",
-                                              "d":  "To help a movie."
+                                              "d":  "To assist a movie."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027to assist\u0027 significa ajudar, e não assistir (no sentido de ver algo), sendo o verbo correto para essa ideia \u0027to watch\u0027.",
@@ -546,8 +546,8 @@
                          "alternativas":  {
                                               "a":  "The discovery of microplastics in bottled water has reignited concerns about its safety.",
                                               "b":  "Bottled water is completely free of any contamination.",
-                                              "c":  "Plastic packaging is being banned worldwide as a direct result of the study.",
-                                              "d":  "Scientists have already proven that microplastics cause no harm to human health."
+                                              "c":  "Scientists have already proven that microplastics cause no harm to human health.",
+                                              "d":  "Plastic packaging is being banned worldwide as a direct result of the study."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto relata a descoberta de microplásticos em praticamente todas as amostras de água engarrafada testadas, reacendendo o debate público sobre a segurança desse tipo de embalagem, mesmo sem conclusões definitivas sobre os efeitos à saúde.",
@@ -558,10 +558,10 @@
                          "texto_apoio":  "Deepfake videos, created using artificial intelligence to convincingly alter a person\u0027s face or voice, are becoming increasingly difficult to distinguish from real footage. Journalists now face the added burden of verifying video sources before publication, and some newsrooms have created specialized teams solely dedicated to detecting manipulated media before it spreads online.",
                          "enunciado":  "Based on the text, what can be inferred about the impact of deepfakes on journalism?",
                          "alternativas":  {
-                                              "a":  "Deepfakes have completely replaced traditional video journalism.",
+                                              "a":  "Because deepfakes are difficult to detect, most newsrooms have decided to stop verifying video sources altogether.",
                                               "b":  "The rise of deepfakes has created new professional demands, forcing newsrooms to dedicate specific resources to verification.",
-                                              "c":  "Newsrooms have stopped using video content altogether because of deepfakes.",
-                                              "d":  "Journalists no longer need to verify video content, since deepfakes are easy to identify."
+                                              "c":  "Journalists no longer need to verify video content, since deepfakes are easy to identify.",
+                                              "d":  "The specialized teams mentioned in the text are responsible for creating deepfakes to train journalists, not for detecting them."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que, por serem difíceis de distinguir de imagens reais, os deepfakes geraram uma nova demanda profissional: equipes dedicadas à verificação de mídia manipulada antes da publicação, o que é uma inferência a partir da menção às \u0027specialized teams\u0027.",
@@ -587,9 +587,9 @@
                          "enunciado":  "What tone does the author adopt when describing the fast fashion industry?",
                          "alternativas":  {
                                               "a":  "Critical, highlighting the hidden costs behind low prices.",
-                                              "b":  "Comedic, mocking consumers who buy clothes frequently.",
-                                              "c":  "Enthusiastic and fully supportive of the industry\u0027s growth.",
-                                              "d":  "Neutral and indifferent, presenting no evaluation whatsoever."
+                                              "b":  "Neutral and indifferent, presenting no evaluation whatsoever.",
+                                              "c":  "Comedic, mocking consumers who buy clothes frequently.",
+                                              "d":  "Enthusiastic and fully supportive of the industry\u0027s growth."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O autor usa expressões como \u0027staggering amounts of textile waste\u0027 e menciona mão de obra mal remunerada, revelando um tom crítico em relação aos custos ocultos por trás dos baixos preços da fast fashion.",
@@ -602,8 +602,8 @@
                          "alternativas":  {
                                               "a":  "able to recover quickly from damage",
                                               "b":  "fragile and easily destroyed",
-                                              "c":  "extinct or no longer existing",
-                                              "d":  "completely immune to any environmental change"
+                                              "c":  "completely immune to any environmental change",
+                                              "d":  "extinct or no longer existing"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O contexto indica que os recifes \u0027resilientes\u0027 se recuperam mais rápido do que o esperado, o que corresponde ao sentido de capacidade de se recuperar rapidamente de danos.",
@@ -615,9 +615,9 @@
                          "enunciado":  "According to the text, what does the adjective \u0027comprehensive\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Compreensivo, tolerante com os sentimentos alheios.",
-                                              "b":  "Resumido, breve e direto.",
+                                              "b":  "Confuso, difícil de entender.",
                                               "c":  "Completo, que abrange todos os elementos necessários.",
-                                              "d":  "Confuso, difícil de entender."
+                                              "d":  "Resumido, breve e direto."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027comprehensive\u0027 significa completo/abrangente, e não compreensivo no sentido de tolerante ou solidário, que corresponde a \u0027understanding\u0027 ou \u0027sympathetic\u0027 em inglês.",
@@ -630,8 +630,8 @@
                          "alternativas":  {
                                               "a":  "Digital nomad visas prohibit foreigners from working while abroad.",
                                               "b":  "Countries are creating special visas to attract remote workers, hoping to benefit local economies.",
-                                              "c":  "Only unemployed travelers are eligible for digital nomad visas.",
-                                              "d":  "Digital nomads are required to renounce their original citizenship."
+                                              "c":  "Digital nomads are required to renounce their original citizenship.",
+                                              "d":  "Only unemployed travelers are eligible for digital nomad visas."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que países estão criando vistos específicos para atrair trabalhadores remotos, visando estimular a economia local por meio de gastos em moradia, alimentação e serviços.",
@@ -642,9 +642,9 @@
                          "texto_apoio":  "Gig economy platforms allow workers to set their own schedules and choose which jobs to accept, a flexibility many value highly. However, these same workers often lack the benefits associated with traditional employment, such as paid sick leave, health insurance, or a guaranteed minimum income, leaving them financially vulnerable during slow periods or emergencies.",
                          "enunciado":  "Based on the text, what can be inferred about the trade-off faced by gig economy workers?",
                          "alternativas":  {
-                                              "a":  "Gig economy platforms have eliminated the need for any kind of schedule.",
+                                              "a":  "They gain both flexibility and full traditional employment benefits simultaneously.",
                                               "b":  "They are guaranteed a minimum income regardless of how much they work.",
-                                              "c":  "They gain both flexibility and full traditional employment benefits simultaneously.",
+                                              "c":  "Choosing their own schedule automatically gives gig workers the same job security as traditional employees.",
                                               "d":  "The flexibility they gain often comes at the cost of financial security and traditional labor protections."
                                           },
                          "resposta":  "d",
@@ -656,10 +656,10 @@
                          "texto_apoio":  "The adjective \u0027exquisite\u0027 is a tricky false cognate for Portuguese speakers. It does not mean \u0027esquisito\u0027 (weird or strange). Instead, \u0027exquisite\u0027 describes something extremely beautiful or delicate, as in \u0027an exquisite piece of jewelry\u0027. The word closer to the Portuguese \u0027esquisito\u0027 is \u0027weird\u0027 or \u0027strange\u0027.",
                          "enunciado":  "According to the text, what does \u0027exquisite\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Antigo e sem valor.",
+                                              "a":  "Difícil de encontrar em lojas comuns.",
                                               "b":  "Extremamente belo ou delicado.",
-                                              "c":  "Difícil de encontrar em lojas comuns.",
-                                              "d":  "Estranho ou incomum, no sentido negativo."
+                                              "c":  "Estranho ou incomum, no sentido negativo.",
+                                              "d":  "Antigo e sem valor."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027exquisite\u0027 significa extremamente belo ou delicado, e não \u0027esquisito\u0027 (estranho), que em inglês corresponde a \u0027weird\u0027 ou \u0027strange\u0027.",
@@ -670,8 +670,8 @@
                          "texto_apoio":  "Debates over which books should be available in school libraries have intensified in several countries. Some parents argue that certain titles contain content inappropriate for young readers, while librarians and free-speech advocates warn that removing books based on subjective complaints risks silencing diverse voices and limiting students\u0027 access to different perspectives.",
                          "enunciado":  "What tone does the author adopt when presenting the book banning debate?",
                          "alternativas":  {
-                                              "a":  "Dismissive, treating the entire debate as unimportant.",
-                                              "b":  "Strongly biased in favor of removing all contested books.",
+                                              "a":  "Strongly biased in favor of removing all contested books.",
+                                              "b":  "Dismissive, treating the entire debate as unimportant.",
                                               "c":  "Sarcastic, mocking both parents and librarians equally.",
                                               "d":  "Balanced, presenting both sides of the debate without taking an explicit position."
                                           },
@@ -699,9 +699,9 @@
                          "enunciado":  "According to the text, what does \u0027embarrassed\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Envergonhado, constrangido em uma situação social.",
-                                              "b":  "Orgulhoso de uma conquista pessoal.",
-                                              "c":  "Machucado fisicamente após um acidente.",
-                                              "d":  "Grávida, esperando um bebê."
+                                              "b":  "Machucado fisicamente após um acidente.",
+                                              "c":  "Grávida, esperando um bebê.",
+                                              "d":  "Orgulhoso de uma conquista pessoal."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto deixa claro que \u0027embarrassed\u0027 significa envergonhado ou constrangido, e não está relacionado a gravidez, esclarecendo esse falso cognato comum entre falantes de português.",
@@ -712,9 +712,9 @@
                          "texto_apoio":  "Vertical farms, which grow crops in stacked layers inside climate-controlled buildings, use significantly less water than traditional agriculture because the water is recirculated within a closed system. Proponents argue that this method could help cities produce fresh vegetables locally, reducing the need for long-distance transportation and the emissions associated with it.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Vertical farms cannot be built inside cities due to space limitations.",
-                                              "b":  "Vertical farms waste more water than traditional agriculture.",
-                                              "c":  "Traditional agriculture has been completely replaced by vertical farms worldwide.",
+                                              "a":  "The main advantage of vertical farms, according to the text, is that they produce cheaper vegetables than traditional farms.",
+                                              "b":  "Vertical farms cannot be built inside cities due to space limitations.",
+                                              "c":  "Vertical farms waste more water than traditional agriculture.",
                                               "d":  "Vertical farming offers a water-efficient way to produce food locally, potentially reducing transportation emissions."
                                           },
                          "resposta":  "d",
@@ -726,10 +726,10 @@
                          "texto_apoio":  "Farmers routinely give antibiotics to livestock not only to treat illness but also to promote faster growth, a practice still legal in some countries. Health experts warn that this widespread use contributes to the development of drug-resistant bacteria, which can eventually spread to humans through food or the environment, making some infections harder to treat.",
                          "enunciado":  "Based on the text, what can be inferred about the connection between livestock farming and human health?",
                          "alternativas":  {
-                                              "a":  "Antibiotic use in livestock has no relationship whatsoever with human infections.",
-                                              "b":  "Drug-resistant bacteria can only develop in hospital environments.",
+                                              "a":  "Antibiotics given to livestock only to promote faster growth pose a health risk; antibiotics given to treat illness do not.",
+                                              "b":  "Farmers only give antibiotics to animals that are already sick, never to promote faster growth.",
                                               "c":  "Practices on farms can contribute to resistant bacteria that ultimately pose risks to human health.",
-                                              "d":  "All countries have already banned antibiotics in livestock farming."
+                                              "d":  "Drug-resistant bacteria can only develop in hospital environments."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto liga o uso de antibióticos na pecuária ao desenvolvimento de bactérias resistentes que podem se espalhar para humanos, permitindo inferir uma conexão direta entre a prática agrícola e a saúde pública.",
@@ -741,9 +741,9 @@
                          "enunciado":  "According to the text, what does \u0027disgust\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Repulsa ou nojo intenso.",
-                                              "b":  "Indiferença total a uma situação.",
-                                              "c":  "Tristeza profunda causada por uma perda.",
-                                              "d":  "Alívio após um momento de tensão."
+                                              "b":  "Alívio após um momento de tensão.",
+                                              "c":  "Indiferença total a uma situação.",
+                                              "d":  "Tristeza profunda causada por uma perda."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027disgust\u0027 significa repulsa ou nojo, e não \u0027desgosto\u0027 no sentido de tristeza, que em inglês corresponde a \u0027sorrow\u0027 ou \u0027grief\u0027.",
@@ -768,10 +768,10 @@
                          "texto_apoio":  "The right-to-repair movement advocates for laws that would require manufacturers to make spare parts, tools, and repair manuals available to consumers and independent repair shops, not just authorized dealers. Supporters argue this would extend the lifespan of electronics and reduce electronic waste, while some manufacturers claim it could compromise product safety and intellectual property.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "All manufacturers fully support the right-to-repair movement without any objections.",
-                                              "b":  "The right-to-repair movement has already been rejected in every country.",
+                                              "a":  "Manufacturers support the right-to-repair movement because it helps protect their intellectual property rights.",
+                                              "b":  "According to the text, independent repair shops already have full legal access to manufacturers\u0027 spare parts and manuals in most countries.",
                                               "c":  "The right-to-repair movement seeks greater access to parts and manuals, a proposal that manufacturers have contested.",
-                                              "d":  "Independent repair shops are illegal under current international law."
+                                              "d":  "Independent repair shops are already required by international law to receive free training from manufacturers."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta a proposta do movimento pelo direito ao reparo e, em seguida, a objeção de alguns fabricantes, o que caracteriza a ideia central: uma disputa entre acesso ampliado a peças/manuais e preocupações dos fabricantes.",
@@ -782,10 +782,10 @@
                          "texto_apoio":  "A recent analysis found that teenagers who spend more than four hours a day on social media report higher levels of anxiety than those who spend less time online. The same analysis noted, however, that teenagers who use social media mainly to stay in touch with close friends show fewer negative effects than those who mostly scroll through content from strangers.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between social media and teenage anxiety?",
                          "alternativas":  {
-                                              "a":  "Scrolling through content from strangers has no effect on anxiety.",
-                                              "b":  "All forms of social media use produce identical psychological effects.",
+                                              "a":  "Talking to close friends online always increases anxiety levels.",
+                                              "b":  "Scrolling through content from strangers has no effect on anxiety.",
                                               "c":  "The way social media is used may matter as much as the total time spent on it.",
-                                              "d":  "Talking to close friends online always increases anxiety levels."
+                                              "d":  "All forms of social media use produce identical psychological effects."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao contrastar o uso voltado a amigos próximos com o consumo de conteúdo de estranhos, o texto permite inferir que a forma de uso das redes sociais pode ser tão relevante quanto o tempo total gasto nelas.",
@@ -797,9 +797,9 @@
                          "enunciado":  "According to the text, what does \u0027genial\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Amigável e alegre no trato com as pessoas.",
-                                              "b":  "Rigoroso e exigente no trabalho.",
-                                              "c":  "Extremamente inteligente ou brilhante.",
-                                              "d":  "Distante e formal em ocasiões sociais."
+                                              "b":  "Distante e formal em ocasiões sociais.",
+                                              "c":  "Rigoroso e exigente no trabalho.",
+                                              "d":  "Extremamente inteligente ou brilhante."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027genial\u0027 significa amigável/afável, e não \u0027genial\u0027 no sentido de brilhante, que em inglês corresponde a \u0027brilliant\u0027 ou \u0027ingenious\u0027.",
@@ -811,9 +811,9 @@
                          "enunciado":  "What tone does the author adopt when describing the new ocean cleanup technology?",
                          "alternativas":  {
                                               "a":  "Hopeful, emphasizing progress and improvement.",
-                                              "b":  "Mocking, ridiculing the engineers\u0027 efforts.",
+                                              "b":  "Pessimistic, suggesting the technology has completely failed.",
                                               "c":  "Indifferent, presenting no evaluation of the technology.",
-                                              "d":  "Pessimistic, suggesting the technology has completely failed."
+                                              "d":  "Mocking, ridiculing the engineers\u0027 efforts."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Expressões como \u0027fresh hope\u0027 e \u0027steady improvements\u0027 revelam um tom otimista e esperançoso do autor em relação à tecnologia de limpeza dos oceanos.",
@@ -824,8 +824,8 @@
                          "texto_apoio":  "A pilot program testing a universal basic income gave a fixed monthly payment to a group of low-income residents, no strings attached. The results proved controversial: some economists praised the reduction in poverty-related stress, while others argued the program was too costly to expand nationally and could discourage some participants from seeking employment.",
                          "enunciado":  "In the text, the word \u0027controversial\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "completely ignored by economists",
-                                              "b":  "universally praised without any disagreement",
+                                              "a":  "universally praised without any disagreement",
+                                              "b":  "completely ignored by economists",
                                               "c":  "proven scientifically to be effective",
                                               "d":  "causing disagreement or opposing opinions"
                                           },
@@ -838,9 +838,9 @@
                          "texto_apoio":  "The word \u0027physician\u0027 is a classic false cognate for Portuguese speakers. It does not mean \u0027físico\u0027 (physicist). In English, a \u0027physician\u0027 is a medical doctor, while a scientist who studies physics is called a \u0027physicist\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027physician\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um farmacêutico responsável por uma drogaria.",
+                                              "a":  "Um cientista especializado em física.",
                                               "b":  "Um professor universitário de qualquer disciplina.",
-                                              "c":  "Um cientista especializado em física.",
+                                              "c":  "Um farmacêutico responsável por uma drogaria.",
                                               "d":  "Um médico."
                                           },
                          "resposta":  "d",
@@ -866,9 +866,9 @@
                          "texto_apoio":  "Data centers that power cloud computing and artificial intelligence services consume enormous amounts of water for cooling their servers. Several of these facilities are located in regions already facing water scarcity, a choice often driven by cheap land and favorable tax incentives rather than local water availability.",
                          "enunciado":  "Based on the text, what can be inferred about the siting of data centers in drought-prone regions?",
                          "alternativas":  {
-                                              "a":  "Data centers use no water at all in their cooling processes.",
+                                              "a":  "Water availability is always the top priority when companies choose where to build data centers.",
                                               "b":  "Economic incentives may be prioritized over local water constraints when companies decide where to build data centers.",
-                                              "c":  "Water availability is always the top priority when companies choose where to build data centers.",
+                                              "c":  "Data centers use no water at all in their cooling processes.",
                                               "d":  "Only regions with abundant water resources are allowed to host data centers."
                                           },
                          "resposta":  "b",
@@ -894,10 +894,10 @@
                          "texto_apoio":  "The word \u0027casualty\u0027 is a false cognate that often misleads Portuguese speakers. It does not mean \u0027casualidade\u0027 (coincidence or chance). In English, a \u0027casualty\u0027 refers to a person killed or injured, especially in an accident or war. The word for \u0027casualidade\u0027 is \u0027coincidence\u0027 or \u0027chance\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027casualty\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um evento organizado sem planejamento prévio.",
+                                              "a":  "Uma situação cômica e informal.",
                                               "b":  "Uma pessoa morta ou ferida, geralmente em um acidente ou guerra.",
-                                              "c":  "Uma situação cômica e informal.",
-                                              "d":  "Uma coincidência inesperada."
+                                              "c":  "Uma coincidência inesperada.",
+                                              "d":  "Um evento organizado sem planejamento prévio."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027casualty\u0027 se refere a uma vítima (morta ou ferida), e não a uma coincidência, que em inglês corresponde a \u0027coincidence\u0027 ou \u0027chance\u0027.",
@@ -909,9 +909,9 @@
                          "enunciado":  "In the text, the word \u0027eroded\u0027 is closest in meaning to:",
                          "alternativas":  {
                                               "a":  "expanded and strengthened",
-                                              "b":  "artificially rebuilt",
+                                              "b":  "permanently frozen",
                                               "c":  "gradually worn away",
-                                              "d":  "permanently frozen"
+                                              "d":  "artificially rebuilt"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto associa \u0027eroded\u0027 ao encolhimento das praias causado pelo aumento do nível do mar e tempestades, indicando um processo de desgaste gradual, e não de expansão ou reconstrução.",
@@ -923,7 +923,7 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "Lab-grown meat is already sold everywhere at prices lower than traditional meat.",
-                                              "b":  "No country has approved the sale of lab-grown meat under any circumstances.",
+                                              "b":  "Lab-grown meat remains unavailable everywhere because it has a larger environmental footprint than traditional meat.",
                                               "c":  "The meat industry has abandoned traditional production entirely in favor of lab-grown alternatives.",
                                               "d":  "Lab-grown meat offers environmental promise but still faces obstacles related to cost and regulation."
                                           },
@@ -936,10 +936,10 @@
                          "texto_apoio":  "Many companies now label their products as \u0027eco-friendly\u0027 or \u0027sustainable\u0027 without providing any verifiable evidence to support these claims. This practice, often used simply to attract environmentally conscious consumers, misleads buyers who believe they are making a responsible choice while the underlying production process remains largely unchanged.",
                          "enunciado":  "What tone does the author adopt when describing this marketing practice?",
                          "alternativas":  {
-                                              "a":  "Amused, treating the practice as a harmless joke.",
+                                              "a":  "Neutral, simply describing a common industry trend with no judgment.",
                                               "b":  "Critical, exposing a gap between marketing claims and actual practices.",
-                                              "c":  "Approving, praising companies for their environmental commitment.",
-                                              "d":  "Neutral, simply describing a common industry trend with no judgment."
+                                              "c":  "Amused, treating the practice as a harmless joke.",
+                                              "d":  "Approving, praising companies for their environmental commitment."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao afirmar que rótulos são usados \u0027sem qualquer evidência verificável\u0027 e que a prática \u0027engana os compradores\u0027, o autor adota um tom claramente crítico em relação ao chamado greenwashing.",
@@ -950,9 +950,9 @@
                          "texto_apoio":  "The word \u0027deception\u0027 is a false cognate that confuses many Portuguese speakers. It does not mean \u0027decepção\u0027 (disappointment). Instead, \u0027deception\u0027 refers to the act of deliberately misleading someone, as in \u0027the scheme relied on deception to steal money from victims\u0027. The word for \u0027decepção\u0027 is \u0027disappointment\u0027.",
                          "enunciado":  "According to the text, what does \u0027deception\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um pedido de desculpas formal.",
+                                              "a":  "Um sentimento de tristeza após uma expectativa não realizada.",
                                               "b":  "Uma recusa educada de um convite.",
-                                              "c":  "Um sentimento de tristeza após uma expectativa não realizada.",
+                                              "c":  "Um pedido de desculpas formal.",
                                               "d":  "O ato deliberado de enganar alguém."
                                           },
                          "resposta":  "d",
@@ -964,10 +964,10 @@
                          "texto_apoio":  "Large quantities of electronic waste from wealthier nations are shipped to developing countries, officially labeled as used goods for resale. Once there, much of this equipment turns out to be broken beyond repair, and it is often dismantled by informal workers who extract valuable metals using methods that expose them to toxic substances.",
                          "enunciado":  "Based on the text, what can be inferred about the labeling of electronic waste as \u0027used goods for resale\u0027?",
                          "alternativas":  {
-                                              "a":  "It guarantees that workers who handle the equipment are fully protected from toxic exposure.",
-                                              "b":  "It has completely eliminated informal electronic waste processing worldwide.",
+                                              "a":  "It has completely eliminated informal electronic waste processing worldwide.",
+                                              "b":  "It accurately reflects the actual condition of all the equipment being shipped.",
                                               "c":  "It may serve as a way to bypass stricter regulations on the export of hazardous waste.",
-                                              "d":  "It accurately reflects the actual condition of all the equipment being shipped."
+                                              "d":  "It guarantees that workers who handle the equipment are fully protected from toxic exposure."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto revela que grande parte do equipamento rotulado como \u0027usado para revenda\u0027 está, na verdade, quebrado, o que permite inferir que essa classificação pode servir para contornar regras mais rígidas sobre exportação de resíduos perigosos.",
@@ -978,8 +978,8 @@
                          "texto_apoio":  "The term \u0027quiet quitting\u0027 describes employees who do only the minimum required by their job description, avoiding extra tasks or overtime that is not properly compensated. Supporters see it as a healthy boundary against overwork, while some employers view it as a lack of commitment that can hurt team morale.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "All employers strongly support the practice of quiet quitting among their staff.",
-                                              "b":  "Quiet quitting means literally resigning from a job without informing the employer.",
+                                              "a":  "Quiet quitting means literally resigning from a job without informing the employer.",
+                                              "b":  "All employers strongly support the practice of quiet quitting among their staff.",
                                               "c":  "Quiet quitting refers to doing only the required tasks at work, a practice viewed differently by employees and employers.",
                                               "d":  "Quiet quitting has been made illegal in most workplaces."
                                           },
@@ -992,9 +992,9 @@
                          "texto_apoio":  "In English, \u0027educated\u0027 does not necessarily mean \u0027educado\u0027 (polite). \u0027Educated\u0027 refers to someone who has received formal schooling or instruction, as in \u0027a highly educated professional\u0027. The word closer to the Portuguese \u0027educado\u0027, in the sense of good manners, is \u0027polite\u0027 or \u0027well-mannered\u0027.",
                          "enunciado":  "According to the text, what does \u0027educated\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Alguém que nunca cometeu erros de etiqueta.",
-                                              "b":  "Alguém que trabalha exclusivamente como professor.",
-                                              "c":  "Alguém com boas maneiras e comportamento cortês.",
+                                              "a":  "Alguém que trabalha exclusivamente como professor.",
+                                              "b":  "Alguém com boas maneiras e comportamento cortês.",
+                                              "c":  "Alguém que nunca cometeu erros de etiqueta.",
                                               "d":  "Alguém que recebeu instrução formal ou escolarização."
                                           },
                          "resposta":  "d",
@@ -1006,10 +1006,10 @@
                          "texto_apoio":  "Restoring a centuries-old painting requires meticulous work: conservators use magnifying tools to remove layers of old varnish without damaging the original pigments underneath, a process that can take months for a single canvas. Even a small mistake can permanently alter a work that has survived for hundreds of years.",
                          "enunciado":  "In the text, the word \u0027meticulous\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "occasional and infrequent",
-                                              "b":  "careless and rushed",
+                                              "a":  "completely automated",
+                                              "b":  "occasional and infrequent",
                                               "c":  "extremely careful and precise",
-                                              "d":  "completely automated"
+                                              "d":  "careless and rushed"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto descreve um processo delicado, no qual até um pequeno erro pode alterar permanentemente a obra, o que reforça o sentido de \u0027meticulous\u0027 como extremamente cuidadoso e preciso.",
@@ -1020,10 +1020,10 @@
                          "texto_apoio":  "A recent study found that teenagers who use smartphones in bed take significantly longer to fall asleep than those who do not. The same study also found that the content viewed mattered less than the light emitted by the screen itself, since even silent, non-stimulating apps delayed sleep onset by a similar amount.",
                          "enunciado":  "Based on the text, what can be inferred about the cause of delayed sleep among smartphone users?",
                          "alternativas":  {
-                                              "a":  "Smartphones have no measurable effect on how quickly teenagers fall asleep.",
+                                              "a":  "Silent apps have been proven to help teenagers fall asleep faster.",
                                               "b":  "The screen\u0027s light itself may play a larger role in delaying sleep than the specific content being viewed.",
-                                              "c":  "Silent apps have been proven to help teenagers fall asleep faster.",
-                                              "d":  "Only exciting or stimulating content on smartphones affects sleep onset."
+                                              "c":  "Only exciting or stimulating content on smartphones affects sleep onset.",
+                                              "d":  "Smartphones have no measurable effect on how quickly teenagers fall asleep."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que mesmo aplicativos silenciosos e pouco estimulantes atrasaram o sono de forma semelhante, permitindo inferir que a luz da tela, e não apenas o conteúdo, é um fator relevante nesse atraso.",
@@ -1035,9 +1035,9 @@
                          "enunciado":  "According to the text, what does \u0027ingenious\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Engenhoso, criativo e inventivo.",
-                                              "b":  "Desonesto ou pouco confiável.",
-                                              "c":  "Simples demais, sem originalidade.",
-                                              "d":  "Ingênuo, facilmente enganado."
+                                              "b":  "Simples demais, sem originalidade.",
+                                              "c":  "Ingênuo, facilmente enganado.",
+                                              "d":  "Desonesto ou pouco confiável."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027ingenious\u0027 significa engenhoso/criativo, e não \u0027ingênuo\u0027 (naive), configurando outro exemplo de falso cognato relevante para estudantes de inglês.",
@@ -1049,9 +1049,9 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "A new mission aims to remove defunct satellites from orbit and could serve as a model for future cleanup.",
-                                              "b":  "Robotic arms are exclusively used for satellite launches, not cleanup.",
-                                              "c":  "Space debris no longer poses any risk to satellites or spacecraft.",
-                                              "d":  "All satellites are now designed never to become debris."
+                                              "b":  "This mission was designed exclusively to prevent new satellites from ever being launched into orbit.",
+                                              "c":  "This mission proves that space debris no longer poses any risk to functioning satellites.",
+                                              "d":  "Space debris no longer poses any risk to satellites or spacecraft."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve uma missão criada especificamente para capturar satélites inativos e removê-los da órbita, apontando essa iniciativa como possível modelo para futuros esforços de limpeza espacial.",
@@ -1062,10 +1062,10 @@
                          "texto_apoio":  "Volunteers in a once-barren region have planted millions of native trees over the past decade, and the transformation has been remarkable: streams that had dried up decades ago are flowing again, and wildlife once thought to have disappeared from the area has begun to return.",
                          "enunciado":  "What tone does the author adopt when describing the reforestation project?",
                          "alternativas":  {
-                                              "a":  "Critical, blaming volunteers for the region\u0027s earlier deforestation.",
+                                              "a":  "Skeptical, doubting whether the project produced any real change.",
                                               "b":  "Indifferent, treating the results as unremarkable.",
                                               "c":  "Hopeful, celebrating the positive transformation achieved by the project.",
-                                              "d":  "Skeptical, doubting whether the project produced any real change."
+                                              "d":  "Critical, blaming volunteers for the region\u0027s earlier deforestation."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Termos como \u0027remarkable\u0027 e a descrição do retorno de riachos e da fauna revelam um tom otimista e celebratório em relação aos resultados do projeto de reflorestamento.",
@@ -1076,9 +1076,9 @@
                          "texto_apoio":  "In English, \u0027journal\u0027 does not mean \u0027jornal\u0027 (newspaper). A \u0027journal\u0027 can refer to a personal diary or to a specialized academic publication, as in \u0027a scientific journal\u0027. The word for \u0027jornal\u0027 in the sense of a daily newspaper is \u0027newspaper\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027journal\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um canal de televisão dedicado a notícias.",
+                                              "a":  "Um jornal diário de notícias gerais.",
                                               "b":  "Um diário pessoal ou uma publicação acadêmica especializada.",
-                                              "c":  "Um jornal diário de notícias gerais.",
+                                              "c":  "Um canal de televisão dedicado a notícias.",
                                               "d":  "Um cartaz publicitário distribuído nas ruas."
                                           },
                          "resposta":  "b",
@@ -1105,8 +1105,8 @@
                          "enunciado":  "Based on the text, what can be inferred about the source of the algorithm\u0027s bias?",
                          "alternativas":  {
                                               "a":  "The algorithm was designed intentionally to exclude certain universities from consideration.",
-                                              "b":  "The company has never hired anyone from a diverse educational background.",
-                                              "c":  "Candidates from certain universities were objectively less qualified than others.",
+                                              "b":  "Candidates from certain universities were objectively less qualified than others.",
+                                              "c":  "The company has never hired anyone from a diverse educational background.",
                                               "d":  "The bias likely resulted from training data that reflected the company\u0027s own historical lack of diversity, rather than deliberate design."
                                           },
                          "resposta":  "d",
@@ -1132,10 +1132,10 @@
                          "texto_apoio":  "Some clothing brands have introduced take-back programs, encouraging customers to return old garments in exchange for store credit. The returned items are then repaired, resold, or broken down into raw materials for new products, an approach known as a circular economy model that aims to keep clothing in use for as long as possible.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Recycling clothing into raw materials is technically impossible.",
-                                              "b":  "Take-back programs are designed to discourage customers from returning to the same stores.",
+                                              "a":  "All clothing brands have stopped selling new products entirely.",
+                                              "b":  "Recycling clothing into raw materials is technically impossible.",
                                               "c":  "Some brands are adopting circular economy practices to extend the life cycle of clothing.",
-                                              "d":  "All clothing brands have stopped selling new products entirely."
+                                              "d":  "Take-back programs are designed to discourage customers from returning to the same stores."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve programas de devolução de roupas usadas que são reparadas, revendidas ou recicladas, caracterizando uma abordagem de economia circular voltada a prolongar a vida útil das peças.",
@@ -1146,10 +1146,10 @@
                          "texto_apoio":  "Satellite images comparing different neighborhoods within the same city revealed that areas with dense tree cover recorded temperatures up to six degrees lower than neighborhoods dominated by asphalt and concrete, even on the same afternoon. Researchers noted that the neighborhoods with the least tree cover were also, in most cases, historically lower-income areas.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between tree cover and income levels within cities?",
                          "alternativas":  {
-                                              "a":  "Tree cover is distributed randomly and has no relationship with a neighborhood\u0027s income history.",
+                                              "a":  "The neighborhoods with the least tree cover in the study happened to be the wealthiest ones historically.",
                                               "b":  "Lower-income neighborhoods may be disproportionately exposed to higher temperatures due to reduced tree cover.",
-                                              "c":  "Temperature differences between neighborhoods in the same city are impossible to measure.",
-                                              "d":  "Higher-income neighborhoods always have more asphalt and concrete than lower-income ones."
+                                              "c":  "Higher-income neighborhoods always have more asphalt and concrete than lower-income ones.",
+                                              "d":  "Temperature differences between neighborhoods in the same city are impossible to measure."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga a menor cobertura arbórea a bairros historicamente de menor renda e a temperaturas mais altas, permitindo inferir uma exposição desigual ao calor urbano associada a fatores socioeconômicos.",
@@ -1175,8 +1175,8 @@
                          "enunciado":  "In the text, the word \u0027scrutiny\u0027 is closest in meaning to:",
                          "alternativas":  {
                                               "a":  "close and critical examination",
-                                              "b":  "complete indifference",
-                                              "c":  "praise and admiration",
+                                              "b":  "praise and admiration",
+                                              "c":  "complete indifference",
                                               "d":  "financial investment"
                                           },
                          "resposta":  "a",
@@ -1189,9 +1189,9 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "Menstrual leave policies address a biological need but also raise concerns about potential workplace discrimination.",
-                                              "b":  "Menstrual leave has completely replaced all other forms of paid leave.",
+                                              "b":  "According to the text, the critics who worried about workplace stereotypes have already reversed their opinion.",
                                               "c":  "No company in the world currently offers any form of menstrual leave.",
-                                              "d":  "Menstrual leave policies are universally accepted with no criticism whatsoever."
+                                              "d":  "Menstrual leave was created specifically to replace sick leave entirely for all employees, not only during painful periods."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta tanto o argumento favorável (reconhecimento de uma necessidade biológica) quanto a preocupação crítica (possível reforço de estereótipos ou discriminação), sem indicar consenso total.",
@@ -1203,8 +1203,8 @@
                          "enunciado":  "What tone does the author adopt when describing gene editing technology?",
                          "alternativas":  {
                                               "a":  "Purely celebratory, with no mention of any concerns.",
-                                              "b":  "Sarcastic, mocking scientists who study gene editing.",
-                                              "c":  "Completely dismissive of the technology\u0027s medical value.",
+                                              "b":  "Completely dismissive of the technology\u0027s medical value.",
+                                              "c":  "Sarcastic, mocking scientists who study gene editing.",
                                               "d":  "Cautiously balanced, acknowledging both potential and ethical concerns."
                                           },
                          "resposta":  "d",
@@ -1216,9 +1216,9 @@
                          "texto_apoio":  "The word \u0027preservative\u0027 is a well-known false cognate. It does not mean \u0027preservativo\u0027 (condom). A \u0027preservative\u0027 is a chemical substance added to food or other products to prevent spoilage, as in \u0027this bread contains no artificial preservatives\u0027. The word for \u0027preservativo\u0027 in Portuguese is \u0027condom\u0027 in English.",
                          "enunciado":  "According to the text, what does the word \u0027preservative\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um conservante utilizado exclusivamente em cosméticos.",
+                                              "a":  "Um método contraceptivo de barreira.",
                                               "b":  "Um tipo de embalagem reciclável.",
-                                              "c":  "Um método contraceptivo de barreira.",
+                                              "c":  "Um conservante utilizado exclusivamente em cosméticos.",
                                               "d":  "Uma substância química adicionada a alimentos para evitar deterioração."
                                           },
                          "resposta":  "d",
@@ -1230,10 +1230,10 @@
                          "texto_apoio":  "As more employees work from home permanently, small businesses that once relied on foot traffic from office workers, such as lunch spots and dry cleaners near business districts, have reported sharp declines in revenue. Some downtown areas are now exploring converting empty office buildings into residential apartments to bring people back to these neighborhoods.",
                          "enunciado":  "Based on the text, what can be inferred about the strategy of converting office buildings into apartments?",
                          "alternativas":  {
-                                              "a":  "It is a strategy exclusively used to increase office vacancy rates.",
+                                              "a":  "It aims to convert every office building in the city into residential apartments within the next year.",
                                               "b":  "It has no connection to the decline in downtown business revenue.",
                                               "c":  "It is intended to attract residents who could replace the foot traffic lost from remote workers.",
-                                              "d":  "It aims to eliminate all commercial activity from downtown areas permanently."
+                                              "d":  "This conversion strategy was created mainly to encourage even more employees to work permanently from home."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto conecta o declínio de negócios locais à ausência de trabalhadores presenciais e apresenta a conversão de escritórios em apartamentos como forma de trazer novos moradores, o que permite inferir a intenção de repor o fluxo de pessoas perdido.",
@@ -1244,10 +1244,10 @@
                          "texto_apoio":  "In English, \u0027to retire\u0027 does not mean \u0027retirar\u0027 (to remove or take away). Instead, \u0027to retire\u0027 means to stop working, usually after reaching a certain age, as in \u0027she plans to retire at sixty-five\u0027. The verb for \u0027retirar\u0027 in the sense of removing something is \u0027to remove\u0027 or \u0027to withdraw\u0027.",
                          "enunciado":  "According to the text, what does the verb \u0027to retire\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Recusar uma oferta de emprego.",
+                                              "a":  "Remover ou retirar um objeto de um lugar.",
                                               "b":  "Desistir de um projeto no meio de sua execução.",
                                               "c":  "Parar de trabalhar, geralmente após atingir certa idade.",
-                                              "d":  "Remover ou retirar um objeto de um lugar."
+                                              "d":  "Recusar uma oferta de emprego."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027to retire\u0027 significa se aposentar, e não \u0027retirar\u0027 (remover), que em inglês corresponde a \u0027to remove\u0027 ou \u0027to withdraw\u0027.",
@@ -1259,9 +1259,9 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "In response to noise-related criticism of open-plan offices, some companies now offer quiet spaces for focused work.",
-                                              "b":  "Collaboration is no longer considered valuable in modern workplaces.",
-                                              "c":  "Noise-canceling technology has proven completely ineffective in office settings.",
-                                              "d":  "Open-plan offices have been completely abandoned by all companies."
+                                              "b":  "The text states that installing quiet zones has completely resolved every noise-related complaint in modern workplaces.",
+                                              "c":  "Noise-canceling phone booths were installed to replace open-plan collaboration entirely, eliminating open floors.",
+                                              "d":  "Open-plan offices are now criticized because they were originally designed to reduce collaboration among employees."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve a crítica ao ruído dos escritórios abertos e a resposta de algumas empresas, que passaram a instalar cabines e zonas silenciosas para permitir foco, sem indicar abandono total do modelo aberto.",
@@ -1272,9 +1272,9 @@
                          "texto_apoio":  "When a popular platform announced a redesign that removed a long-standing feature many users relied on daily, the backlash was immediate: thousands of users flooded social media with complaints, and some threatened to switch to competing services entirely.",
                          "enunciado":  "In the text, the word \u0027backlash\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "a gradual and unnoticed change",
-                                              "b":  "an official government investigation",
-                                              "c":  "an enthusiastic wave of support",
+                                              "a":  "an official government investigation",
+                                              "b":  "an enthusiastic wave of support",
+                                              "c":  "a gradual and unnoticed change",
                                               "d":  "a strong negative reaction from a group of people"
                                           },
                          "resposta":  "d",
@@ -1286,9 +1286,9 @@
                          "texto_apoio":  "Ornithologists have found that migratory birds relying on starlight and moonlight for navigation become disoriented near brightly lit cities, sometimes colliding with buildings or circling illuminated towers until exhausted. Some cities have started turning off non-essential lights during peak migration seasons in response to these findings.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between artificial light and bird navigation?",
                          "alternativas":  {
-                                              "a":  "Birds no longer rely on any natural light source for navigation.",
+                                              "a":  "Artificial light improves birds\u0027 ability to navigate accurately during migration.",
                                               "b":  "Excessive artificial light can interfere with the natural cues birds use to navigate, sometimes with harmful consequences.",
-                                              "c":  "Artificial light improves birds\u0027 ability to navigate accurately during migration.",
+                                              "c":  "Birds no longer rely on any natural light source for navigation.",
                                               "d":  "Turning off city lights has no effect on bird behavior during migration."
                                           },
                          "resposta":  "b",
@@ -1300,10 +1300,10 @@
                          "texto_apoio":  "In English, \u0027sympathetic\u0027 does not mean \u0027simpático\u0027 (nice, likeable). Instead, \u0027sympathetic\u0027 describes someone who shows understanding or compassion toward another person\u0027s difficulties, as in \u0027the teacher was sympathetic to the student\u0027s situation\u0027. The word closer to the Portuguese \u0027simpático\u0027 is \u0027nice\u0027, \u0027friendly\u0027, or \u0027likeable\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027sympathetic\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Engraçado e bem-humorado.",
+                                              "a":  "Indiferente aos problemas alheios.",
                                               "b":  "Compreensivo, solidário diante das dificuldades de alguém.",
-                                              "c":  "Simpático, agradável no primeiro contato.",
-                                              "d":  "Indiferente aos problemas alheios."
+                                              "c":  "Engraçado e bem-humorado.",
+                                              "d":  "Simpático, agradável no primeiro contato."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto esclarece que \u0027sympathetic\u0027 significa compreensivo/solidário, e não \u0027simpático\u0027 no sentido de agradável, que em inglês corresponde a \u0027nice\u0027, \u0027friendly\u0027 ou \u0027likeable\u0027.",
@@ -1329,8 +1329,8 @@
                          "enunciado":  "In the text, the word \u0027vulnerable\u0027 is closest in meaning to:",
                          "alternativas":  {
                                               "a":  "exposed to potential harm or damage",
-                                              "b":  "unaffected by environmental changes",
-                                              "c":  "completely protected from any risk",
+                                              "b":  "completely protected from any risk",
+                                              "c":  "unaffected by environmental changes",
                                               "d":  "responsible for causing a problem"
                                           },
                          "resposta":  "a",
@@ -1344,8 +1344,8 @@
                          "alternativas":  {
                                               "a":  "Telemedicine has completely eliminated healthcare inequality between rural and urban populations.",
                                               "b":  "Telemedicine may fail to reach precisely the populations that could benefit from it the most, due to lack of connectivity.",
-                                              "c":  "Physical clinics have become entirely unnecessary since the rise of telemedicine.",
-                                              "d":  "Rural populations always have better internet access than urban populations."
+                                              "c":  "Rural populations always have better internet access than urban populations.",
+                                              "d":  "Physical clinics have become entirely unnecessary since the rise of telemedicine."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto aponta que populações sem internet confiável, muitas vezes as mesmas que vivem mais longe de clínicas físicas, ficam sem acesso à telemedicina, permitindo inferir que a tecnologia pode não alcançar justamente quem mais precisaria dela.",
@@ -1356,8 +1356,8 @@
                          "texto_apoio":  "In English, \u0027confident\u0027 does not mean \u0027confidente\u0027 (a person who is trusted with secrets). \u0027Confident\u0027 describes someone who feels sure of themselves or of a particular outcome, as in \u0027she felt confident about the exam\u0027. The word for \u0027confidente\u0027 in Portuguese is \u0027confidant\u0027 in English.",
                          "enunciado":  "According to the text, what does the adjective \u0027confident\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Alguém que trabalha como conselheiro profissional.",
-                                              "b":  "Uma pessoa em quem se confiam segredos.",
+                                              "a":  "Uma pessoa em quem se confiam segredos.",
+                                              "b":  "Alguém que trabalha como conselheiro profissional.",
                                               "c":  "Alguém que se sente seguro de si mesmo ou de um resultado.",
                                               "d":  "Uma pessoa desconfiada de tudo ao seu redor."
                                           },
@@ -1370,10 +1370,10 @@
                          "texto_apoio":  "Some countries have passed \u0027right to disconnect\u0027 laws, which prohibit employers from contacting staff outside working hours except in genuine emergencies. Advocates argue the laws protect workers\u0027 mental health and personal time, while some business groups claim the rules add unnecessary rigidity to industries that require flexibility.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "No country has ever considered passing this type of legislation.",
-                                              "b":  "Right to disconnect laws require employees to work overtime without pay.",
+                                              "a":  "Right to disconnect laws require employees to work overtime without pay.",
+                                              "b":  "Right to disconnect laws require workers to remain reachable at all times, even outside working hours.",
                                               "c":  "Right to disconnect laws limit after-hours contact from employers, a measure that has generated both support and criticism.",
-                                              "d":  "Business groups unanimously support right to disconnect laws."
+                                              "d":  "Business groups created these laws specifically to give workers more flexibility during working hours."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta o objetivo das leis de desconexão (limitar contato fora do horário de trabalho) e as reações divergentes: apoio de defensores dos trabalhadores e crítica de alguns grupos empresariais.",
@@ -1399,9 +1399,9 @@
                          "enunciado":  "According to the text, what does the word \u0027appointment\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Um compromisso agendado, como uma consulta médica.",
-                                              "b":  "Uma crítica apontada a um projeto.",
+                                              "b":  "Uma anotação breve feita durante uma aula.",
                                               "c":  "Um documento oficial de nomeação para um cargo público.",
-                                              "d":  "Uma anotação breve feita durante uma aula."
+                                              "d":  "Uma crítica apontada a um projeto."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027appointment\u0027 significa um compromisso agendado, e não \u0027apontamento\u0027 (nota/anotação), que em inglês corresponde a \u0027note\u0027.",
@@ -1412,10 +1412,10 @@
                          "texto_apoio":  "Charging drivers a fee to enter busy downtown areas during peak hours, a policy known as congestion pricing, has proven polarizing wherever it has been proposed. Supporters point to reduced traffic and cleaner air, while opponents argue it unfairly burdens commuters who have no affordable alternative to driving.",
                          "enunciado":  "In the text, the word \u0027polarizing\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "completely forgotten soon after being proposed",
-                                              "b":  "relevant only to a small number of drivers",
+                                              "a":  "relevant only to a small number of drivers",
+                                              "b":  "universally welcomed without disagreement",
                                               "c":  "causing sharply divided opinions",
-                                              "d":  "universally welcomed without disagreement"
+                                              "d":  "completely forgotten soon after being proposed"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto mostra opiniões opostas de apoiadores e opositores da política, o que confirma que \u0027polarizing\u0027 significa algo que causa opiniões fortemente divididas.",
@@ -1426,9 +1426,9 @@
                          "texto_apoio":  "Placing beehives on rooftops has become a popular way to support pollinators in cities, and many urban beekeepers report surprisingly healthy hives, sometimes healthier than those in rural areas with heavy pesticide use. Experts caution, however, that beginners should receive proper training, since poorly managed hives can pose risks to neighbors, especially those with allergies.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Rooftop beehives have been banned in every major city.",
-                                              "b":  "Urban beekeeping is entirely risk-free and requires no training whatsoever.",
-                                              "c":  "Bees in cities are always less healthy than bees in rural areas.",
+                                              "a":  "Bees in cities are always less healthy than bees in rural areas.",
+                                              "b":  "Rooftop beehives produce honey that is legally classified as a different product from rural honey.",
+                                              "c":  "Urban beekeeping is entirely risk-free and requires no training whatsoever.",
                                               "d":  "Urban beekeeping can benefit pollinators, but proper training is important to manage potential risks."
                                           },
                          "resposta":  "d",
@@ -1441,9 +1441,9 @@
                          "enunciado":  "What tone does the author adopt when describing citizen science projects?",
                          "alternativas":  {
                                               "a":  "Admiring, highlighting the valuable contribution of ordinary participants.",
-                                              "b":  "Alarmed, warning about the dangers of citizen participation in science.",
+                                              "b":  "Dismissive, suggesting that citizen science produces unreliable data.",
                                               "c":  "Indifferent, presenting the topic with no particular evaluation.",
-                                              "d":  "Dismissive, suggesting that citizen science produces unreliable data."
+                                              "d":  "Alarmed, warning about the dangers of citizen participation in science."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao destacar que voluntários permitem coletar dados em escala impossível para cientistas profissionais sozinhos, o autor demonstra um tom de admiração pela contribuição da ciência cidadã.",
@@ -1454,8 +1454,8 @@
                          "texto_apoio":  "The word \u0027argument\u0027 can be a subtle false cognate. While it can mean a formal, logical \u0027argumento\u0027, in everyday English it more often refers to a heated disagreement or quarrel between people, as in \u0027the neighbors had a loud argument last night\u0027. Context usually determines which sense applies.",
                          "enunciado":  "According to the text, besides a logical \u0027argumento\u0027, what else can \u0027argument\u0027 mean in everyday English?",
                          "alternativas":  {
-                                              "a":  "Um discurso oficial proferido em um tribunal.",
-                                              "b":  "Um acordo formal assinado entre duas partes.",
+                                              "a":  "Um acordo formal assinado entre duas partes.",
+                                              "b":  "Um discurso oficial proferido em um tribunal.",
                                               "c":  "Um convite formal para um evento social.",
                                               "d":  "Uma discussão acalorada ou desentendimento entre pessoas."
                                           },
@@ -1469,9 +1469,9 @@
                          "enunciado":  "Based on the text, what can be inferred about the challenge faced by young job seekers?",
                          "alternativas":  {
                                               "a":  "A lack of prior experience can create a cycle that makes it difficult for young people to gain the experience employers require.",
-                                              "b":  "Employers never consider work experience when hiring young candidates.",
+                                              "b":  "Young people find it easier to get hired specifically in countries where the overall economy is growing.",
                                               "c":  "Youth unemployment disappears completely whenever the overall economy grows.",
-                                              "d":  "Young people are hired more easily than experienced workers in every country."
+                                              "d":  "Young people struggle to find jobs mainly because they refuse to accept entry-level positions requiring no experience."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve um ciclo em que a falta de experiência dificulta a contratação, e a falta de contratação impede a obtenção de experiência, permitindo inferir a dificuldade estrutural enfrentada por jovens no mercado de trabalho.",
@@ -1497,9 +1497,9 @@
                          "enunciado":  "According to the text, what does \u0027to assume\u0027 most commonly mean in everyday English?",
                          "alternativas":  {
                                               "a":  "Admitir publicamente um erro cometido.",
-                                              "b":  "Confirmar oficialmente uma informação.",
+                                              "b":  "Assumir a responsabilidade formal por um cargo.",
                                               "c":  "Supor algo sem ter provas concretas.",
-                                              "d":  "Assumir a responsabilidade formal por um cargo."
+                                              "d":  "Confirmar oficialmente uma informação."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027to assume\u0027 geralmente significa supor algo sem prova, e não \u0027assumir\u0027 no sentido de tomar posse ou admitir, que em inglês correspondem a \u0027to take on\u0027 ou \u0027to admit\u0027.",
@@ -1510,10 +1510,10 @@
                          "texto_apoio":  "Toy companies increasingly pay children\u0027s content creators to feature products in videos disguised as ordinary play, without clearly disclosing that the content is paid advertising. Child psychologists argue that young viewers, who often cannot distinguish advertising from entertainment, are particularly susceptible to this kind of persuasion.",
                          "enunciado":  "What tone does the author adopt when describing this type of marketing?",
                          "alternativas":  {
-                                              "a":  "Humorous, treating the practice as a lighthearted topic.",
+                                              "a":  "Approving, praising the creativity of the marketing strategy.",
                                               "b":  "Critical, raising concern about the vulnerability of child viewers.",
                                               "c":  "Neutral, simply describing a common business practice with no evaluation.",
-                                              "d":  "Approving, praising the creativity of the marketing strategy."
+                                              "d":  "Humorous, treating the practice as a lighthearted topic."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao citar a preocupação de psicólogos infantis sobre a vulnerabilidade das crianças diante de publicidade disfarçada, o autor adota um tom crítico em relação a essa prática de marketing.",
@@ -1524,8 +1524,8 @@
                          "texto_apoio":  "In English, \u0027audience\u0027 does not mean \u0027audiência\u0027 in the sense of an official meeting or hearing, such as a court audience. Instead, \u0027audience\u0027 refers to the group of people watching or listening to a performance, speech, or broadcast, as in \u0027the concert attracted a large audience\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027audience\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um processo judicial em andamento.",
-                                              "b":  "Uma reunião oficial marcada por uma autoridade.",
+                                              "a":  "Uma reunião oficial marcada por uma autoridade.",
+                                              "b":  "Um processo judicial em andamento.",
                                               "c":  "Um documento formal usado em tribunais.",
                                               "d":  "O grupo de pessoas que assiste ou ouve uma apresentação, discurso ou transmissão."
                                           },
@@ -1538,10 +1538,10 @@
                          "texto_apoio":  "Marine biologists have discovered that the constant low-frequency noise produced by cargo ships travels enormous distances underwater, overlapping with the frequencies whales use to communicate over long ranges. In busy shipping lanes, some whale populations have been observed calling more loudly and for longer periods, which researchers believe consumes extra energy the animals need for feeding and migration.",
                          "enunciado":  "Based on the text, what can be inferred about the effect of shipping noise on whale energy budgets?",
                          "alternativas":  {
-                                              "a":  "Whales have completely stopped communicating in busy shipping lanes.",
+                                              "a":  "Shipping noise only affects whales that no longer migrate.",
                                               "b":  "Whales adapting their calls to overcome shipping noise may expend energy that could otherwise support feeding and migration.",
-                                              "c":  "Shipping noise only affects whales that no longer migrate.",
-                                              "d":  "Shipping noise has no measurable effect on how whales communicate."
+                                              "c":  "Shipping noise has no measurable effect on how whales communicate.",
+                                              "d":  "Whales in busy shipping lanes call more quietly and less often in order to conserve energy."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga o aumento no volume e na duração dos chamados das baleias ao consumo extra de energia, permitindo inferir que o ruído dos navios pode comprometer recursos energéticos importantes para alimentação e migração.",
@@ -1553,8 +1553,8 @@
                          "enunciado":  "According to the text, what does the verb \u0027to contest\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Responder a uma pergunta em uma prova.",
-                                              "b":  "Concordar totalmente com uma decisão tomada.",
-                                              "c":  "Participar de uma competição esportiva amistosa.",
+                                              "b":  "Participar de uma competição esportiva amistosa.",
+                                              "c":  "Concordar totalmente com uma decisão tomada.",
                                               "d":  "Desafiar ou contestar formalmente algo, como uma decisão."
                                           },
                          "resposta":  "d",
@@ -1566,9 +1566,9 @@
                          "texto_apoio":  "The word \u0027gratuity\u0027 is a formal false cognate for Portuguese speakers. It does not mean \u0027gratuidade\u0027 (something offered free of charge). In English, \u0027gratuity\u0027 means a tip given for a service, as in \u0027a fifteen percent gratuity was added to the bill\u0027. The word for \u0027gratuidade\u0027 is \u0027free of charge\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027gratuity\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Um serviço público mantido pelo governo.",
+                                              "a":  "Algo oferecido sem qualquer cobrança.",
                                               "b":  "Um desconto aplicado em uma compra.",
-                                              "c":  "Algo oferecido sem qualquer cobrança.",
+                                              "c":  "Um serviço público mantido pelo governo.",
                                               "d":  "Uma gorjeta dada por um serviço prestado."
                                           },
                          "resposta":  "d",
@@ -1581,9 +1581,9 @@
                          "enunciado":  "According to the text, what does the word \u0027injury\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Um dano físico ou machucado no corpo.",
-                                              "b":  "Uma acusação falsa espalhada publicamente.",
-                                              "c":  "Uma discussão verbal entre duas pessoas.",
-                                              "d":  "Um insulto verbal dirigido a alguém."
+                                              "b":  "Uma discussão verbal entre duas pessoas.",
+                                              "c":  "Um insulto verbal dirigido a alguém.",
+                                              "d":  "Uma acusação falsa espalhada publicamente."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027injury\u0027 significa dano físico/machucado, e não \u0027injúria\u0027 (insulto verbal), que em inglês corresponde a \u0027insult\u0027 ou \u0027slander\u0027.",
@@ -1594,10 +1594,10 @@
                          "texto_apoio":  "Companies have deployed AI chatbots to handle routine customer service questions, freeing human agents to focus on more complex cases. Customer satisfaction surveys show mixed results: simple issues, like tracking a package, are often resolved faster than before, but customers report frustration when chatbots fail to understand more nuanced complaints.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Customers are universally satisfied with AI chatbots regardless of the issue.",
-                                              "b":  "Human agents no longer handle any customer service cases.",
+                                              "a":  "Human agents in the text spend most of their time handling simple package-tracking requests.",
+                                              "b":  "AI chatbots were introduced specifically to handle the most complex customer service cases.",
                                               "c":  "AI chatbots speed up simple requests but can frustrate customers with more complex problems.",
-                                              "d":  "AI chatbots have completely replaced human customer service agents."
+                                              "d":  "Customer satisfaction surveys show that chatbots resolve complex complaints faster than simple issues like tracking a package."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta um resultado misto: rapidez para questões simples, mas frustração em casos mais complexos, o que resume a ideia central sem indicar substituição total dos atendentes humanos.",
@@ -1608,10 +1608,10 @@
                          "texto_apoio":  "Tipping, once mostly associated with restaurants and taxis, has spread to an increasing number of services, from coffee shops to self-checkout kiosks that display a suggested gratuity screen before completing a payment. Some consumers report feeling pressured to tip even when no direct service was provided by a person.",
                          "enunciado":  "Based on the text, what can be inferred about the spread of tipping prompts to self-checkout kiosks?",
                          "alternativas":  {
-                                              "a":  "It has completely eliminated tipping in traditional restaurants.",
+                                              "a":  "Consumers who feel pressured to tip at self-checkout kiosks always receive faster service as a result.",
                                               "b":  "It may create a sense of social pressure to tip even in situations without meaningful human service.",
-                                              "c":  "It is required by law in every country that uses self-checkout technology.",
-                                              "d":  "It reflects a natural expectation, since self-checkout kiosks always involve direct personal service."
+                                              "c":  "It reflects a natural expectation, since self-checkout kiosks always involve direct personal service.",
+                                              "d":  "Tipping prompts appeared at self-checkout kiosks because tipping in restaurants had declined sharply."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto menciona consumidores que se sentem pressionados a dar gorjeta mesmo sem atendimento direto de uma pessoa, permitindo inferir que essa expansão da prática pode gerar constrangimento social sem justificativa de serviço prestado.",
@@ -1650,10 +1650,10 @@
                          "texto_apoio":  "The word \u0027prejudice\u0027 can be a subtle false cognate. While related to \u0027prejuízo\u0027, \u0027prejudice\u0027 in English usually refers to an unfair, preconceived opinion about a person or group, not to a financial loss. The word for a financial loss, as in \u0027prejuízo financeiro\u0027, is \u0027loss\u0027 or \u0027damage\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027prejudice\u0027 most commonly mean in English?",
                          "alternativas":  {
-                                              "a":  "Um dano material causado por um acidente.",
-                                              "b":  "Uma multa aplicada por descumprimento contratual.",
+                                              "a":  "Uma multa aplicada por descumprimento contratual.",
+                                              "b":  "Um prejuízo financeiro sofrido por uma empresa.",
                                               "c":  "Uma opinião preconcebida e injusta sobre uma pessoa ou grupo.",
-                                              "d":  "Um prejuízo financeiro sofrido por uma empresa."
+                                              "d":  "Um dano material causado por um acidente."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027prejudice\u0027 geralmente se refere a preconceito, uma opinião injusta e preconcebida, e não a prejuízo financeiro, que em inglês corresponde a \u0027loss\u0027 ou \u0027damage\u0027.",
@@ -1678,10 +1678,10 @@
                          "texto_apoio":  "Messages promising guaranteed returns of \u0027ten times your investment in just one week\u0027 continue to spread rapidly online, often accompanied by testimonials that turn out to be fabricated. Financial regulators repeatedly warn that any investment promising unusually high, risk-free returns should be treated with extreme suspicion.",
                          "enunciado":  "What tone does the author adopt when describing these investment messages?",
                          "alternativas":  {
-                                              "a":  "Celebratory, praising the success of these investment schemes.",
-                                              "b":  "Trusting, encouraging readers to invest as quickly as possible.",
+                                              "a":  "Indifferent, presenting the topic without any evaluation.",
+                                              "b":  "Celebratory, praising the success of these investment schemes.",
                                               "c":  "Skeptical, warning readers about the likelihood of fraud.",
-                                              "d":  "Indifferent, presenting the topic without any evaluation."
+                                              "d":  "Trusting, encouraging readers to invest as quickly as possible."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao mencionar depoimentos forjados e o alerta de reguladores financeiros sobre retornos altos e sem risco, o autor adota um tom claramente cético em relação a esse tipo de mensagem de investimento.",
@@ -1692,9 +1692,9 @@
                          "texto_apoio":  "As countries invest heavily in solar and wind power, new jobs have appeared in manufacturing, installation, and maintenance of renewable energy equipment. At the same time, regions historically dependent on coal mining or oil extraction face job losses, and workers there often lack the specific training required for the new renewable energy positions being created elsewhere.",
                          "enunciado":  "Based on the text, what can be inferred about the transition from fossil fuel jobs to renewable energy jobs?",
                          "alternativas":  {
-                                              "a":  "Workers automatically move from fossil fuel jobs into renewable energy jobs without any difficulty.",
-                                              "b":  "Coal mining regions have experienced no economic impact from the shift to renewable energy.",
-                                              "c":  "Renewable energy investment has not created any new jobs so far.",
+                                              "a":  "Most displaced fossil fuel workers already have the exact training required for the new renewable energy jobs being created.",
+                                              "b":  "Renewable energy investment has not created any new jobs so far.",
+                                              "c":  "Coal mining regions have experienced no economic impact from the shift to renewable energy.",
                                               "d":  "The transition may create a mismatch between the skills of displaced fossil fuel workers and the requirements of new renewable energy jobs."
                                           },
                          "resposta":  "d",
@@ -1707,9 +1707,9 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "Podcast advertising has grown, partly because host-read ads are seen as building more trust with listeners.",
-                                              "b":  "Listeners avoid podcasts specifically because of their advertisements.",
-                                              "c":  "Podcast advertising has declined sharply due to competition from traditional radio.",
-                                              "d":  "Brands have completely stopped advertising on podcasts in favor of radio."
+                                              "b":  "Podcast advertising has grown mainly because it costs significantly less than traditional radio advertising.",
+                                              "c":  "Listeners avoid podcasts specifically because of their advertisements.",
+                                              "d":  "Podcast advertising has declined sharply due to competition from traditional radio."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que a receita publicitária em podcasts cresceu, destacando que a leitura dos anúncios pelos próprios apresentadores, em tom conversacional, é vista como um fator que constrói mais confiança com o público.",
@@ -1723,7 +1723,7 @@
                                               "a":  "Rat populations are declining, according to city officials.",
                                               "b":  "The increase likely results from a combination of climate patterns and gaps in food waste management.",
                                               "c":  "Warmer winters are the only factor mentioned as contributing to the trend.",
-                                              "d":  "All restaurants have successfully eliminated food waste from their premises."
+                                              "d":  "City officials report that food waste is now completely irrelevant to the rise in rat sightings."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto menciona dois fatores combinados — invernos mais quentes e fiscalização inconsistente do armazenamento de lixo orgânico — permitindo inferir que o aumento das populações de ratos resulta da combinação desses elementos, não de um único fator isolado.",
@@ -1734,10 +1734,10 @@
                          "texto_apoio":  "In English, \u0027large\u0027 does not mean \u0027largo\u0027 (wide). \u0027Large\u0027 refers to size in general, as in \u0027a large house\u0027, while \u0027largo\u0027, in the sense of width, corresponds to \u0027wide\u0027 in English, as in \u0027a wide street\u0027.",
                          "enunciado":  "According to the text, what is the correct English word for the Portuguese \u0027largo\u0027, in the sense of width?",
                          "alternativas":  {
-                                              "a":  "Long",
+                                              "a":  "Tall",
                                               "b":  "Wide",
-                                              "c":  "Tall",
-                                              "d":  "Large"
+                                              "c":  "Large",
+                                              "d":  "Long"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto esclarece que \u0027large\u0027 se refere a tamanho em geral (grande), enquanto o sentido de \u0027largo\u0027 (largura) corresponde à palavra \u0027wide\u0027 em inglês.",
@@ -1748,9 +1748,9 @@
                          "texto_apoio":  "Cocoa prices spiked to record levels after poor harvests in the main producing regions, driven by unusually heavy rainfall and the spread of a crop disease. Chocolate manufacturers warned that the higher costs would likely be passed on to consumers, with some brands already reducing the size of their products instead of raising prices directly.",
                          "enunciado":  "In the text, the word \u0027spiked\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "disappeared from the market entirely",
-                                              "b":  "decreased gradually over several months",
-                                              "c":  "remained completely stable",
+                                              "a":  "remained completely stable",
+                                              "b":  "disappeared from the market entirely",
+                                              "c":  "decreased gradually over several months",
                                               "d":  "rose sharply and suddenly"
                                           },
                          "resposta":  "d",
@@ -1762,10 +1762,10 @@
                          "texto_apoio":  "Audiobooks have become one of the fastest-growing segments of the publishing industry, appealing to commuters and multitaskers who want to enjoy books while driving or doing chores. Some authors have noted that narration style can significantly affect how a story is received, leading publishers to invest heavily in choosing the right voice for each title.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Audiobooks can only be enjoyed by people who are not doing any other activity.",
+                                              "a":  "Audiobooks are declining in popularity compared to printed books.",
                                               "b":  "Publishers have stopped investing in audiobook production entirely.",
                                               "c":  "Audiobooks are growing rapidly, and narration quality has become an important factor in their success.",
-                                              "d":  "Audiobooks are declining in popularity compared to printed books."
+                                              "d":  "Audiobooks can only be enjoyed by people who are not doing any other activity."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve o crescimento dos audiolivros e destaca a importância da narração para o sucesso do produto, motivando investimento das editoras na escolha da voz adequada.",
@@ -1777,9 +1777,9 @@
                          "enunciado":  "Based on the text, what can be inferred about the scientific consensus on blue light glasses?",
                          "alternativas":  {
                                               "a":  "The evidence remains mixed, with some studies finding no significant benefit and others reporting modest effects.",
-                                              "b":  "Blue light glasses have been proven to cause eye strain rather than reduce it.",
-                                              "c":  "All scientific studies agree completely that blue light glasses are highly effective.",
-                                              "d":  "No study has ever tested the effectiveness of blue light glasses."
+                                              "b":  "Every independent study mentioned in the text confirms that blue light glasses significantly reduce eye strain.",
+                                              "c":  "Blue light glasses have been proven to cause eye strain rather than reduce it.",
+                                              "d":  "All scientific studies agree completely that blue light glasses are highly effective."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta resultados contraditórios entre diferentes estudos, permitindo inferir que ainda não há consenso científico sobre a real eficácia dos óculos que bloqueiam luz azul.",
@@ -1790,9 +1790,9 @@
                          "texto_apoio":  "The word \u0027record\u0027 can confuse Portuguese speakers depending on context. As a verb, \u0027to record\u0027 means to capture sound or video, similar to \u0027gravar\u0027. As a noun, \u0027a record\u0027 can mean a vinyl disc or an achievement, similar to \u0027recorde\u0027 only in the sense of a personal best, not in the sense of a musical recording.",
                          "enunciado":  "According to the text, what does the verb \u0027to record\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Registrar oficialmente um documento em cartório.",
-                                              "b":  "Repetir uma atividade diversas vezes.",
-                                              "c":  "Bater um recorde esportivo.",
+                                              "a":  "Repetir uma atividade diversas vezes.",
+                                              "b":  "Bater um recorde esportivo.",
+                                              "c":  "Registrar oficialmente um documento em cartório.",
                                               "d":  "Capturar som ou vídeo, no sentido de gravar."
                                           },
                          "resposta":  "d",
@@ -1805,9 +1805,9 @@
                          "enunciado":  "What tone does the author adopt when describing this design practice?",
                          "alternativas":  {
                                               "a":  "Critical, highlighting consumer complaints about products designed to become obsolete quickly.",
-                                              "b":  "Comedic, treating the issue as unimportant.",
-                                              "c":  "Fully supportive, praising manufacturers for their innovation.",
-                                              "d":  "Indifferent, presenting no evaluation of the practice."
+                                              "b":  "Indifferent, presenting no evaluation of the practice.",
+                                              "c":  "Comedic, treating the issue as unimportant.",
+                                              "d":  "Fully supportive, praising manufacturers for their innovation."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao expor as críticas de defensores do consumidor sobre produtos difíceis de reparar e que perdem suporte rapidamente, o autor adota um tom crítico em relação a essa prática, mesmo mencionando a versão dos fabricantes.",
@@ -1819,9 +1819,9 @@
                          "enunciado":  "According to the text, what does the word \u0027cigar\u0027 mean in English?",
                          "alternativas":  {
                                               "a":  "Um charuto, rolo grosso de folhas de tabaco.",
-                                              "b":  "Um isqueiro utilizado para acender cigarros.",
-                                              "c":  "Um cigarro fino, enrolado em papel.",
-                                              "d":  "Um cachimbo usado para fumar tabaco."
+                                              "b":  "Um cachimbo usado para fumar tabaco.",
+                                              "c":  "Um isqueiro utilizado para acender cigarros.",
+                                              "d":  "Um cigarro fino, enrolado em papel."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027cigar\u0027 significa charuto, e não cigarro (fino e envolto em papel), que em inglês corresponde a \u0027cigarette\u0027.",
@@ -1832,10 +1832,10 @@
                          "texto_apoio":  "As tools capable of generating original songs from simple text prompts become more sophisticated, record labels and musicians are pushing courts to clarify who owns the rights to AI-generated music, especially when the software was trained on existing copyrighted songs without explicit permission from the original artists.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Musicians have stopped worrying about how AI tools use their existing songs.",
+                                              "a":  "AI-generated music has resolved all copyright questions in the music industry.",
                                               "b":  "The rise of AI-generated music has raised unresolved legal questions about ownership and the use of copyrighted training material.",
-                                              "c":  "AI-generated music has resolved all copyright questions in the music industry.",
-                                              "d":  "Courts have already banned all AI-generated music worldwide."
+                                              "c":  "Musicians have stopped worrying about how AI tools use their existing songs.",
+                                              "d":  "Courts have already ruled that AI-generated music belongs exclusively to the record labels that trained the software."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto descreve a busca de gravadoras e músicos por clareza jurídica sobre direitos autorais de músicas geradas por IA, especialmente quando treinadas com músicas protegidas sem autorização, evidenciando uma questão legal ainda não resolvida.",
@@ -1847,9 +1847,9 @@
                          "enunciado":  "Based on the text, what can be inferred about the overall approach taken toward predator reintroduction programs?",
                          "alternativas":  {
                                               "a":  "Programs appear to balance ecological benefits with efforts to mitigate the economic impact on local ranchers.",
-                                              "b":  "Predator reintroduction has caused no impact whatsoever on livestock.",
-                                              "c":  "Governments have ignored the concerns of ranchers entirely.",
-                                              "d":  "Ranchers have universally welcomed the return of predators without any compensation needed."
+                                              "b":  "Compensation funds were created because ranchers demanded the complete removal of the reintroduced predators.",
+                                              "c":  "Predator reintroduction programs have caused ranchers to permanently give up raising livestock in affected areas.",
+                                              "d":  "Ranchers welcomed the return of predators mainly because it eliminated overgrazing problems affecting their own livestock."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta tanto o benefício ecológico da reintrodução de predadores quanto o prejuízo ocasional a pecuaristas, e menciona fundos de compensação, permitindo inferir uma tentativa de equilibrar ambos os interesses.",
@@ -1860,8 +1860,8 @@
                          "texto_apoio":  "The word \u0027spectacles\u0027 is an old-fashioned but still used false cognate. It does not mean \u0027espetáculos\u0027 (shows or performances). In British English, \u0027spectacles\u0027 can refer to eyeglasses, as in \u0027he put on his spectacles to read the letter\u0027. The word for \u0027espetáculo\u0027, in the sense of a show, is \u0027show\u0027 or \u0027performance\u0027.",
                          "enunciado":  "According to the text, what can the word \u0027spectacles\u0027 mean in British English?",
                          "alternativas":  {
-                                              "a":  "Eventos esportivos de grande porte.",
-                                              "b":  "Apresentações teatrais ou musicais.",
+                                              "a":  "Apresentações teatrais ou musicais.",
+                                              "b":  "Eventos esportivos de grande porte.",
                                               "c":  "Óculos de grau.",
                                               "d":  "Fogos de artifício em uma celebração."
                                           },
@@ -1874,9 +1874,9 @@
                          "texto_apoio":  "As more stores stop accepting cash in favor of card and mobile payments, advocacy groups have raised concerns about elderly customers and low-income residents who rely on cash and may not have access to banking services or smartphones. Some cities have responded by passing laws requiring businesses to accept cash as a form of payment.",
                          "enunciado":  "Based on the text, what can be inferred about the groups most affected by the decline of cash payments?",
                          "alternativas":  {
-                                              "a":  "Cashless policies have been embraced without any concerns from advocacy groups.",
+                                              "a":  "Cashless policies affect all customers equally, regardless of age or income.",
                                               "b":  "Elderly and low-income individuals without banking access may be disproportionately excluded by cashless policies.",
-                                              "c":  "Cashless policies affect all customers equally, regardless of age or income.",
+                                              "c":  "Cashless policies have been embraced without any concerns from advocacy groups.",
                                               "d":  "Only wealthy customers are affected by the shift toward cashless payments."
                                           },
                          "resposta":  "b",
@@ -1888,10 +1888,10 @@
                          "texto_apoio":  "As solar panel installations from a decade ago begin reaching the end of their lifespan, the industry faces a growing challenge: there is currently limited infrastructure to recycle the glass, silicon, and metals inside old panels, and many end up in landfills instead of being processed into materials for new panels.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Solar panels are made entirely of materials that cannot be reused under any circumstances.",
-                                              "b":  "All old solar panels are currently being fully recycled into new panels.",
+                                              "a":  "Only solar panels installed in sunny regions eventually need to be recycled.",
+                                              "b":  "Most solar panels reaching the end of their lifespan are already being processed into materials for new panels.",
                                               "c":  "The solar industry faces a recycling challenge as aging panels reach the end of their useful life.",
-                                              "d":  "Solar panels never need to be replaced or recycled."
+                                              "d":  "The materials inside old solar panels, such as glass and silicon, have no value and are not worth recycling."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve o desafio emergente de reciclar painéis solares antigos, apontando a falta de infraestrutura adequada como o problema central discutido.",
@@ -1902,10 +1902,10 @@
                          "texto_apoio":  "Popular destinations that once welcomed tourism as an economic blessing are now struggling with its consequences: overcrowded streets, rising housing costs for locals pushed out by short-term rentals, and natural sites damaged by the sheer volume of visitors. Some cities have begun limiting daily visitor numbers or taxing tourists directly to fund infrastructure repairs.",
                          "enunciado":  "What tone does the author adopt when describing the effects of overtourism?",
                          "alternativas":  {
-                                              "a":  "Mocking, ridiculing tourists for visiting popular places.",
+                                              "a":  "Enthusiastic, celebrating the growth of the tourism industry.",
                                               "b":  "Indifferent, presenting tourism growth with no evaluation.",
                                               "c":  "Concerned, highlighting the negative consequences faced by popular destinations.",
-                                              "d":  "Enthusiastic, celebrating the growth of the tourism industry."
+                                              "d":  "Mocking, ridiculing tourists for visiting popular places."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao listar consequências negativas como superlotação, aumento do custo de moradia e danos a sítios naturais, o autor demonstra um tom de preocupação em relação aos efeitos do overtourism.",
@@ -1916,8 +1916,8 @@
                          "texto_apoio":  "Schools experimenting with virtual reality headsets report that students find immersive simulations, such as walking through a recreation of ancient Rome, more engaging than reading the same content in a textbook. Teachers note, however, that the technology remains expensive and requires additional staff training to use effectively in a classroom setting.",
                          "enunciado":  "In the text, the word \u0027immersive\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "extremely cheap and easy to access",
-                                              "b":  "boring and disconnected from reality",
+                                              "a":  "boring and disconnected from reality",
+                                              "b":  "extremely cheap and easy to access",
                                               "c":  "limited to written text only",
                                               "d":  "creating a strong sense of being surrounded by or part of an environment"
                                           },
@@ -1930,9 +1930,9 @@
                          "texto_apoio":  "In English, \u0027terrific\u0027 does not mean \u0027terrível\u0027 (terrible, awful). Quite the opposite, \u0027terrific\u0027 means excellent or wonderful, as in \u0027we had a terrific time at the party\u0027. The word for \u0027terrível\u0027 is \u0027terrible\u0027 or \u0027awful\u0027.",
                          "enunciado":  "According to the text, what does the word \u0027terrific\u0027 mean in English?",
                          "alternativas":  {
-                                              "a":  "Comum, sem nada de especial.",
-                                              "b":  "Péssimo, muito ruim.",
-                                              "c":  "Assustador, que causa medo.",
+                                              "a":  "Assustador, que causa medo.",
+                                              "b":  "Comum, sem nada de especial.",
+                                              "c":  "Péssimo, muito ruim.",
                                               "d":  "Excelente, maravilhoso."
                                           },
                          "resposta":  "d",
@@ -1944,10 +1944,10 @@
                          "texto_apoio":  "Animal shelters in several countries reported a sharp rise in pet adoptions during periods when large numbers of employees began working from home. Years later, however, some shelters noted a smaller but noticeable increase in pets being returned, as companies started requiring employees to return to physical offices and owners struggled to balance new commuting schedules with their pets\u0027 needs.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between remote work and pet ownership decisions?",
                          "alternativas":  {
-                                              "a":  "All companies eliminated remote work permanently, with no exceptions.",
+                                              "a":  "Working from home had no measurable effect on pet adoption rates.",
                                               "b":  "Changes in work arrangements appear to have influenced both the initial rise in adoptions and the later increase in returns.",
                                               "c":  "Pet returns to shelters have nothing to do with employees\u0027 work schedules.",
-                                              "d":  "Working from home had no measurable effect on pet adoption rates."
+                                              "d":  "All companies eliminated remote work permanently, with no exceptions."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto conecta tanto o aumento inicial de adoções quanto o posterior aumento de devoluções às mudanças nas condições de trabalho remoto, permitindo inferir uma relação entre a rotina de trabalho e as decisões relacionadas a animais de estimação.",
@@ -1958,9 +1958,9 @@
                          "texto_apoio":  "Electric scooters available for rent through smartphone apps have transformed short trips in many cities, but emergency rooms have also reported a rise in injuries linked to their use, particularly among riders unfamiliar with traffic rules or riding without helmets. Cities are debating whether to expand scooter programs, restrict their speed, or ban them from certain areas altogether.",
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
-                                              "a":  "Emergency rooms no longer treat any injuries related to transportation.",
-                                              "b":  "All cities have already banned electric scooters entirely.",
-                                              "c":  "Electric scooters have caused no safety concerns of any kind in cities.",
+                                              "a":  "The rise in scooter-related injuries happened only among riders who were wearing helmets correctly.",
+                                              "b":  "Cities have already reached a unanimous decision to expand electric scooter programs everywhere.",
+                                              "c":  "Emergency rooms report that scooter-related injuries have decreased significantly since riders started wearing helmets.",
                                               "d":  "Electric scooters have changed urban mobility, but rising injury reports have sparked debate about how to regulate them."
                                           },
                          "resposta":  "d",
@@ -1974,8 +1974,8 @@
                          "alternativas":  {
                                               "a":  "Hopeful, presenting the technology as a promising alternative to traditional mining.",
                                               "b":  "Dismissive, suggesting that lab-grown diamonds have failed to gain any acceptance.",
-                                              "c":  "Neutral, with no indication of any positive development.",
-                                              "d":  "Alarmed, warning about the dangers of laboratory-grown gemstones."
+                                              "c":  "Alarmed, warning about the dangers of laboratory-grown gemstones.",
+                                              "d":  "Neutral, with no indication of any positive development."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao destacar a crescente aceitação dos diamantes de laboratório como alternativa que evita danos ambientais e problemas trabalhistas da mineração, o autor adota um tom esperançoso em relação a essa tecnologia.",
@@ -1986,10 +1986,10 @@
                          "texto_apoio":  "Farmers across several regions describe the weather in recent growing seasons as increasingly erratic, with periods of extreme drought suddenly followed by intense flooding, making it far more difficult to plan planting and harvest schedules that once relied on predictable seasonal patterns.",
                          "enunciado":  "In the text, the word \u0027erratic\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "gradually improving",
-                                              "b":  "predictable and consistent",
+                                              "a":  "mild and unremarkable",
+                                              "b":  "gradually improving",
                                               "c":  "unpredictable and irregular",
-                                              "d":  "mild and unremarkable"
+                                              "d":  "predictable and consistent"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto descreve secas extremas seguidas repentinamente por inundações intensas, o que reforça o sentido de \u0027erratic\u0027 como algo imprevisível e irregular.",
@@ -2000,9 +2000,9 @@
                          "texto_apoio":  "As cities grow denser, more residents live in high-rise apartment buildings rather than houses with direct access to outdoor space. Some psychological studies have found that residents on very high floors report slightly higher rates of anxiety, while other studies focusing on building design suggest that access to shared green spaces within the building, regardless of floor height, may be a more significant factor in residents\u0027 well-being.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between high-rise living and mental well-being?",
                          "alternativas":  {
-                                              "a":  "High-rise buildings have been proven to cause no psychological effects whatsoever.",
-                                              "b":  "Floor height is definitively the only factor affecting residents\u0027 mental well-being.",
-                                              "c":  "Access to green spaces has no relationship with residents\u0027 anxiety levels.",
+                                              "a":  "Floor height is definitively the only factor affecting residents\u0027 mental well-being.",
+                                              "b":  "The psychological studies mentioned in the text found that access to shared green spaces increases anxiety among high-rise residents.",
+                                              "c":  "Access to shared green spaces only reduces anxiety for residents living on the very highest floors.",
                                               "d":  "The evidence suggests that building design features, not just floor height, may meaningfully influence residents\u0027 well-being."
                                           },
                          "resposta":  "d",
@@ -2016,8 +2016,8 @@
                          "alternativas":  {
                                               "a":  "Second-hand clothing marketplaces have disappeared due to lack of consumer interest.",
                                               "b":  "The growth of second-hand clothing marketplaces has prompted traditional retailers to enter the resale market themselves.",
-                                              "c":  "Vintage clothing is no longer available through any online marketplace.",
-                                              "d":  "Traditional retailers have banned the resale of their products entirely."
+                                              "c":  "Traditional retailers are suing online resale marketplaces to stop them from operating.",
+                                              "d":  "Vintage clothing is no longer available through any online marketplace."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto descreve o crescimento dos mercados de roupas de segunda mão e a resposta de grandes marcas, que passaram a lançar suas próprias plataformas de revenda para competir nesse segmento.",
@@ -2044,8 +2044,8 @@
                          "alternativas":  {
                                               "a":  "empty, with very few competitors",
                                               "b":  "filled with many competitors, leaving little room for growth",
-                                              "c":  "declining rapidly in consumer interest",
-                                              "d":  "regulated exclusively by government agencies"
+                                              "c":  "regulated exclusively by government agencies",
+                                              "d":  "declining rapidly in consumer interest"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O contexto menciona a pressão sobre margens de lucro causada pela intensificação da concorrência, reforçando que \u0027saturated\u0027 significa um mercado repleto de competidores, com pouco espaço para crescimento.",
@@ -2056,8 +2056,8 @@
                          "texto_apoio":  "The adjective \u0027intoxicated\u0027 is a partial false cognate for Portuguese speakers. While it can refer to poisoning in a medical context, in everyday English it most commonly describes someone under the influence of alcohol, similar to \u0027embriagado\u0027 or \u0027bêbado\u0027, not exclusively \u0027intoxicado\u0027 by food or chemicals.",
                          "enunciado":  "According to the text, what does \u0027intoxicated\u0027 most commonly mean in everyday English?",
                          "alternativas":  {
-                                              "a":  "Com sintomas de uma intoxicação alimentar apenas.",
-                                              "b":  "Exclusivamente envenenado por um produto químico.",
+                                              "a":  "Exclusivamente envenenado por um produto químico.",
+                                              "b":  "Com sintomas de uma intoxicação alimentar apenas.",
                                               "c":  "Recuperado totalmente de uma doença.",
                                               "d":  "Sob o efeito de álcool, embriagado."
                                           },

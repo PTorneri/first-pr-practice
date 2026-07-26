@@ -6,9 +6,9 @@
                          "texto_apoio":  "No Brasil, o Poder Executivo raramente conta com maioria própria no Congresso Nacional, o que leva à formação de alianças entre partidos heterogêneos para viabilizar a governabilidade.",
                          "enunciado":  "Esse arranjo institucional, no qual o presidente da República precisa negociar apoio parlamentar distribuindo cargos e recursos entre diferentes partidos para aprovar sua agenda, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "federalismo cooperativo",
+                                              "a":  "parlamentarismo dualista",
                                               "b":  "presidencialismo de coalizão",
-                                              "c":  "parlamentarismo dualista",
+                                              "c":  "federalismo cooperativo",
                                               "d":  "bipartidarismo moderado"
                                           },
                          "resposta":  "b",
@@ -19,10 +19,10 @@
                          "texto_apoio":  "Para a Câmara dos Deputados, os eleitores votam em candidatos individuais (ou na legenda do partido), e as vagas são distribuídas proporcionalmente aos votos obtidos por cada partido ou coligação/federação.",
                          "enunciado":  "Uma consequência estrutural mais associada a esse sistema eleitoral é:",
                          "alternativas":  {
-                                              "a":  "eliminação do personalismo político nas campanhas",
-                                              "b":  "redução do número de partidos representados no parlamento",
+                                              "a":  "fortalecimento automático da fidelidade partidária",
+                                              "b":  "eliminação do personalismo político nas campanhas",
                                               "c":  "fragmentação partidária e enfraquecimento da disciplina de legenda",
-                                              "d":  "fortalecimento automático da fidelidade partidária"
+                                              "d":  "redução do número de partidos representados no parlamento"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O sistema proporcional de lista aberta tende a estimular a multiplicação de partidos e a competição entre candidatos da mesma legenda, favorecendo o personalismo eleitoral e dificultando a coesão e a disciplina partidária no momento das votações."
@@ -32,9 +32,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "O mecanismo pelo qual cada um dos três Poderes da República possui instrumentos para limitar eventuais excessos dos demais — como o veto presidencial, a derrubada de veto pelo Congresso e o controle de constitucionalidade pelo Judiciário — é chamado de:",
                          "alternativas":  {
-                                              "a":  "hierarquia institucional",
+                                              "a":  "separação absoluta de funções",
                                               "b":  "sistema de freios e contrapesos",
-                                              "c":  "separação absoluta de funções",
+                                              "c":  "hierarquia institucional",
                                               "d":  "unidade de comando"
                                           },
                          "resposta":  "b",
@@ -59,9 +59,9 @@
                          "enunciado":  "O principal objetivo desse tipo de arranjo institucional é:",
                          "alternativas":  {
                                               "a":  "reduzir a interferência político-eleitoral nas decisões de política monetária, dando previsibilidade ao regime de metas",
-                                              "b":  "eliminar a necessidade de metas de inflação",
-                                              "c":  "subordinar a política monetária às decisões do Congresso a cada novo governo",
-                                              "d":  "aumentar o controle direto do Ministério da Fazenda sobre a emissão de moeda"
+                                              "b":  "subordinar a política monetária às decisões do Congresso a cada novo governo",
+                                              "c":  "aumentar o controle direto do Ministério da Fazenda sobre a emissão de moeda",
+                                              "d":  "eliminar a necessidade de metas de inflação"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A autonomia do Banco Central busca blindar as decisões de política monetária (como a definição da taxa de juros) de pressões de curto prazo ligadas ao calendário eleitoral, favorecendo a credibilidade do regime de metas de inflação e a previsibilidade econômica."
@@ -72,8 +72,8 @@
                          "enunciado":  "O principal canal pelo qual essa elevação tende a conter a inflação é:",
                          "alternativas":  {
                                               "a":  "aumento direto da oferta de bens importados",
-                                              "b":  "redução imediata dos preços administrados por decreto",
-                                              "c":  "elevação automática dos salários mínimos",
+                                              "b":  "elevação automática dos salários mínimos",
+                                              "c":  "redução imediata dos preços administrados por decreto",
                                               "d":  "encarecimento do crédito, desestimulando consumo e investimento e reduzindo a demanda agregada"
                                           },
                          "resposta":  "d",
@@ -97,9 +97,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "A diferença entre resultado primário e resultado nominal das contas públicas está em que o resultado nominal:",
                          "alternativas":  {
-                                              "a":  "é calculado apenas para estados e municípios",
+                                              "a":  "exclui todas as receitas tributárias",
                                               "b":  "inclui o pagamento de juros da dívida pública, enquanto o primário não considera essa despesa",
-                                              "c":  "exclui todas as receitas tributárias",
+                                              "c":  "é calculado apenas para estados e municípios",
                                               "d":  "refere-se exclusivamente às contas do setor externo"
                                           },
                          "resposta":  "b",
@@ -110,34 +110,34 @@
                          "texto_apoio":  "Um dos problemas historicamente apontados no sistema tributário brasileiro sobre bens e serviços é a existência de múltiplos tributos (federais, estaduais e municipais) com regras distintas, gerando cumulatividade e disputas entre entes federativos.",
                          "enunciado":  "Propostas de reforma tributária que unificam tributos sobre consumo em um imposto sobre valor agregado (IVA) do tipo dual têm como principal objetivo declarado:",
                          "alternativas":  {
-                                              "a":  "transferir toda a arrecadação para a União, eliminando estados e municípios do pacto federativo",
+                                              "a":  "aumentar a carga tributária total sobre as empresas",
                                               "b":  "extinguir a tributação sobre o consumo",
                                               "c":  "simplificar a cobrança, reduzir a cumulatividade e a guerra fiscal entre estados",
-                                              "d":  "aumentar a carga tributária total sobre as empresas"
+                                              "d":  "transferir toda a arrecadação para a União, eliminando estados e municípios do pacto federativo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A unificação de tributos sobre consumo em um IVA busca simplificar o sistema, reduzir a cumulatividade (tributação em cascata) e diminuir a chamada guerra fiscal, em que entes federativos concedem benefícios para atrair investimentos."
                      },
                      {
                          "id":  "atualidades-politica-10",
-                         "texto_apoio":  "Propostas de reforma administrativa costumam discutir a flexibilização da estabilidade de servidores públicos e a introdução de mecanismos de avaliação de desempenho.",
-                         "enunciado":  "Um dos principais argumentos favoráveis a esse tipo de reforma é:",
+                         "texto_apoio":  "Em artigo de opinião publicado recentemente, um colunista defendeu que a reforma administrativa em debate no Congresso é \"a única saída para modernizar o Estado brasileiro\", criticando a estabilidade dos servidores como um privilégio anacrônico e propondo a flexibilização das regras de permanência no cargo, associada a mecanismos de avaliação de desempenho.",
+                         "enunciado":  "Independentemente de concordar ou não com a posição do colunista, um dos argumentos factuais apresentados pelos defensores desse tipo de reforma para justificá-la é que ela buscaria:",
                          "alternativas":  {
                                               "a":  "melhorar a eficiência e a meritocracia na administração pública, vinculando permanência a desempenho",
-                                              "b":  "extinguir concursos públicos como forma de ingresso no serviço público",
-                                              "c":  "reduzir a eficiência do serviço público",
-                                              "d":  "aumentar a rigidez das carreiras públicas"
+                                              "b":  "tornar as carreiras públicas ainda mais rígidas do que atualmente",
+                                              "c":  "extinguir concursos públicos como forma de ingresso no serviço público",
+                                              "d":  "ser uma medida consensual, sem qualquer crítica de especialistas em gestão pública"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Defensores da reforma administrativa argumentam que a flexibilização de regras rígidas de estabilidade, associada à avaliação de desempenho, pode aumentar a eficiência, a meritocracia e a capacidade de resposta do setor público."
+                         "explicacao":  "O texto expressa a opinião do colunista, favorável à reforma, mas o argumento central usado por seus defensores — independentemente de sua opinião pessoal sobre o tema — é que a flexibilização de regras rígidas de estabilidade, associada à avaliação de desempenho, pode aumentar a eficiência e a meritocracia no setor público. A questão testa a separação entre a opinião expressa no artigo e o argumento factual subjacente a ela."
                      },
                      {
                          "id":  "atualidades-politica-11",
                          "texto_apoio":  "O envelhecimento populacional, decorrente do aumento da expectativa de vida combinado à queda da taxa de fecundidade, eleva a razão entre aposentados e trabalhadores ativos contribuindo para o sistema.",
                          "enunciado":  "Esse fenômeno demográfico é frequentemente apontado como justificativa central para:",
                          "alternativas":  {
-                                              "a":  "a eliminação de qualquer sistema público de aposentadoria",
-                                              "b":  "a redução da idade mínima de aposentadoria",
+                                              "a":  "a redução da idade mínima de aposentadoria",
+                                              "b":  "a eliminação de qualquer sistema público de aposentadoria",
                                               "c":  "o aumento do número de contribuintes informais",
                                               "d":  "reformas que buscam reequilibrar atuarialmente os sistemas previdenciários, como o aumento da idade mínima"
                                           },
@@ -150,9 +150,9 @@
                          "enunciado":  "No regime de repartição simples, previdenciário, a lógica de financiamento é:",
                          "alternativas":  {
                                               "a":  "as contribuições dos trabalhadores ativos financiam diretamente os benefícios dos atuais aposentados, em um pacto entre gerações",
-                                              "b":  "apenas trabalhadores do setor privado podem contribuir",
-                                              "c":  "cada trabalhador acumula recursos em conta individual para a própria aposentadoria futura",
-                                              "d":  "o Estado não participa do financiamento das aposentadorias"
+                                              "b":  "o Estado não participa do financiamento das aposentadorias",
+                                              "c":  "apenas trabalhadores do setor privado podem contribuir",
+                                              "d":  "cada trabalhador acumula recursos em conta individual para a própria aposentadoria futura"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No regime de repartição, as contribuições da geração economicamente ativa financiam, no mesmo período, os benefícios da geração já aposentada — diferentemente do regime de capitalização, em que cada indivíduo acumula recursos em conta própria."
@@ -176,9 +176,9 @@
                          "enunciado":  "O investimento em educação básica de qualidade e universal é frequentemente apontado por economistas como estratégia relevante para:",
                          "alternativas":  {
                                               "a":  "ampliar a mobilidade social, diminuindo o peso da origem familiar sobre as oportunidades futuras",
-                                              "b":  "eliminar completamente a necessidade de políticas fiscais redistributivas",
-                                              "c":  "aumentar a transmissão intergeracional de desigualdade",
-                                              "d":  "reduzir a mobilidade social ascendente"
+                                              "b":  "reduzir a mobilidade social ascendente",
+                                              "c":  "eliminar completamente a necessidade de políticas fiscais redistributivas",
+                                              "d":  "aumentar a transmissão intergeracional de desigualdade"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Educação de qualidade e acessível é considerada um dos principais mecanismos para romper ciclos de desigualdade, ampliando oportunidades independentemente da origem socioeconômica da família e favorecendo a mobilidade social ascendente."
@@ -188,35 +188,35 @@
                          "texto_apoio":  "Trabalhadores informais atuam sem carteira assinada ou vínculo formal reconhecido, não contribuindo regularmente para a previdência nem tendo acesso a determinados direitos trabalhistas.",
                          "enunciado":  "Um efeito estrutural comumente associado a taxas elevadas de informalidade no mercado de trabalho é:",
                          "alternativas":  {
-                                              "a":  "a eliminação das desigualdades regionais",
-                                              "b":  "o fortalecimento do financiamento da previdência social",
+                                              "a":  "o aumento automático da produtividade da economia",
+                                              "b":  "a eliminação das desigualdades regionais",
                                               "c":  "a redução da proteção social dos trabalhadores e da arrecadação previdenciária",
-                                              "d":  "o aumento automático da produtividade da economia"
+                                              "d":  "o fortalecimento do financiamento da previdência social"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A informalidade reduz o acesso dos trabalhadores a direitos trabalhistas e previdenciários, além de diminuir a base de arrecadação do sistema de seguridade social, pressionando seu financiamento no longo prazo."
                      },
                      {
                          "id":  "atualidades-politica-16",
-                         "texto_apoio":  "Alterações na legislação trabalhista que ampliam a prevalência do negociado sobre o legislado e flexibilizam formas de contratação costumam gerar debate entre defensores de maior flexibilidade e defensores da manutenção de proteções mínimas uniformes.",
-                         "enunciado":  "Um argumento típico dos defensores da flexibilização das relações de trabalho é que ela tende a:",
+                         "texto_apoio":  "Um editorial publicado por um jornal de grande circulação afirmou que \"o excesso de rigidez da legislação trabalhista brasileira é o principal entrave à geração de empregos formais no país\", defendendo a ampliação da prevalência do negociado sobre o legislado e a flexibilização das formas de contratação — posição contestada por entidades sindicais, para as quais o diagnóstico do editorial simplifica um problema multicausal.",
+                         "enunciado":  "O editorial expressa uma opinião sobre a causa do desemprego; o argumento factual normalmente usado para sustentar essa posição, distinto da conclusão em si, é o de que a flexibilização tende a:",
                          "alternativas":  {
-                                              "a":  "favorecer a geração de empregos e a adaptação das empresas a diferentes contextos econômicos",
-                                              "b":  "eliminar a necessidade de qualquer legislação trabalhista",
-                                              "c":  "reduzir o número total de postos de trabalho disponíveis na economia",
-                                              "d":  "aumentar automaticamente os salários de todos os trabalhadores"
+                                              "a":  "favorecer a geração de empregos e a adaptação das empresas a diferentes contextos econômicos, ao reduzir custos de contratação e demissão",
+                                              "b":  "resolver, isoladamente, a totalidade das causas do desemprego no país",
+                                              "c":  "eliminar a necessidade de qualquer legislação trabalhista",
+                                              "d":  "ser uma posição unânime entre economistas e entidades sindicais"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Defensores da flexibilização argumentam que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais e permitindo que empresas ajustem sua força de trabalho a diferentes conjunturas econômicas."
+                         "explicacao":  "O editorial expressa uma opinião — de que a rigidez trabalhista seria o principal entrave ao emprego —, mas o argumento típico usado para sustentar a posição favorável à flexibilização é o de que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais, sem que isso implique consenso sobre a causa única do desemprego, tema sobre o qual há divergência, inclusive sindical."
                      },
                      {
                          "id":  "atualidades-politica-17",
                          "texto_apoio":  "Estados e municípios, no exercício de sua autonomia tributária, por vezes concedem benefícios fiscais para atrair empresas e investimentos para seus territórios.",
                          "enunciado":  "Essa disputa entre entes federativos pela concessão de incentivos fiscais é conhecida como:",
                          "alternativas":  {
-                                              "a":  "partilha tributária progressiva",
+                                              "a":  "pacto federativo cooperativo",
                                               "b":  "guerra fiscal",
-                                              "c":  "pacto federativo cooperativo",
+                                              "c":  "partilha tributária progressiva",
                                               "d":  "unificação fazendária"
                                           },
                          "resposta":  "b",
@@ -229,8 +229,8 @@
                          "alternativas":  {
                                               "a":  "patrimonialismo",
                                               "b":  "accountability",
-                                              "c":  "coronelismo",
-                                              "d":  "clientelismo"
+                                              "c":  "clientelismo",
+                                              "d":  "coronelismo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Accountability refere-se ao conjunto de mecanismos de prestação de contas e responsabilização dos governantes e agentes públicos perante instituições de controle e a sociedade, sendo um pilar da governança democrática."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "Uma parcela significativa da receita de estados e, sobretudo, de municípios brasileiros não provém de tributos arrecadados diretamente por esses entes, mas de repasses constitucionais calculados a partir da arrecadação de tributos federais, como o Fundo de Participação dos Estados (FPE) e o Fundo de Participação dos Municípios (FPM).",
                          "enunciado":  "Essa forte dependência de muitos entes subnacionais em relação a transferências constitucionais da União é um traço do federalismo fiscal brasileiro que evidencia, sobretudo:",
                          "alternativas":  {
-                                              "a":  "a concentração de toda a arrecadação tributária nacional exclusivamente nos municípios",
+                                              "a":  "a inexistência de qualquer competência tributária própria dos municípios",
                                               "b":  "um desequilíbrio entre a capacidade de arrecadação própria e as responsabilidades de gasto atribuídas a estados e municípios",
-                                              "c":  "a plena autonomia financeira de todos os municípios brasileiros, que dispensam qualquer repasse da União",
-                                              "d":  "a inexistência de qualquer competência tributária própria dos municípios"
+                                              "c":  "a concentração de toda a arrecadação tributária nacional exclusivamente nos municípios",
+                                              "d":  "a plena autonomia financeira de todos os municípios brasileiros, que dispensam qualquer repasse da União"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O federalismo fiscal brasileiro é marcado por um desequilíbrio vertical entre a arrecadação tributária, concentrada principalmente na União, e as responsabilidades de prestação de serviços públicos, atribuídas também a estados e sobretudo a municípios, o que torna estes últimos fortemente dependentes de transferências constitucionais como o FPM."
@@ -254,8 +254,8 @@
                          "enunciado":  "Esse descompasso entre onde a arrecadação tributária se concentra e onde as despesas com serviços públicos efetivamente ocorrem é conhecido, na literatura sobre federalismo fiscal, como:",
                          "alternativas":  {
                                               "a":  "equilíbrio automático de competências",
-                                              "b":  "centralização plena de despesas",
-                                              "c":  "uniformidade tributária absoluta",
+                                              "b":  "uniformidade tributária absoluta",
+                                              "c":  "centralização plena de despesas",
                                               "d":  "desequilíbrio fiscal vertical"
                                           },
                          "resposta":  "d",
@@ -266,9 +266,9 @@
                          "texto_apoio":  "Estados e municípios produtores de petróleo e outros recursos minerais recebem compensações financeiras pela exploração desses recursos em seus territórios, gerando disputas com entes não produtores sobre a distribuição desses valores.",
                          "enunciado":  "Essa compensação financeira paga a entes federativos pela exploração de recursos naturais não renováveis em seu território é conhecida como:",
                          "alternativas":  {
-                                              "a":  "imposto seletivo",
-                                              "b":  "fundo de participação",
-                                              "c":  "superávit primário",
+                                              "a":  "superávit primário",
+                                              "b":  "imposto seletivo",
+                                              "c":  "fundo de participação",
                                               "d":  "royalties"
                                           },
                          "resposta":  "d",
@@ -276,16 +276,16 @@
                      },
                      {
                          "id":  "atualidades-politica-22",
-                         "texto_apoio":  "Desde reformas eleitorais recentes, empresas estão proibidas de doar diretamente a campanhas eleitorais no Brasil, e parte relevante do financiamento das candidaturas passou a vir de recursos públicos distribuídos entre os partidos.",
-                         "enunciado":  "Essa mudança no modelo de financiamento eleitoral brasileiro teve como principal justificativa declarada:",
+                         "texto_apoio":  "Em um artigo de opinião, uma cientista política avaliou que a substituição das doações empresariais pelo fundo eleitoral público foi \"o avanço mais importante da política brasileira na última década\", ainda que reconheça que o novo modelo também é criticado por concentrar decisões sobre o uso de recursos públicos nas cúpulas partidárias.",
+                         "enunciado":  "Separando a opinião da autora do fato relatado, a principal justificativa declarada para essa mudança no modelo de financiamento eleitoral brasileiro foi:",
                          "alternativas":  {
                                               "a":  "reduzir o peso do poder econômico empresarial nas campanhas e mitigar riscos de captura de candidatos por grandes doadores",
                                               "b":  "aumentar a influência do poder econômico privado sobre o resultado das eleições",
-                                              "c":  "extinguir a necessidade de prestação de contas eleitorais",
-                                              "d":  "eliminar totalmente qualquer forma de financiamento público de partidos"
+                                              "c":  "extinguir por completo a necessidade de prestação de contas eleitorais",
+                                              "d":  "ser uma medida sem qualquer crítica ou controvérsia entre analistas políticos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A vedação às doações empresariais e a criação do fundo eleitoral público buscaram reduzir a influência do poder econômico privado sobre o processo eleitoral, mitigando riscos associados à captura de candidatos eleitos por grandes financiadores de campanha."
+                         "explicacao":  "A opinião da autora é que a mudança foi um avanço relevante, mas o fato relatado — distinto de seu juízo de valor — é que a vedação às doações empresariais e a criação do fundo eleitoral público tiveram como justificativa declarada reduzir a influência do poder econômico privado sobre o processo eleitoral, mitigando riscos associados à captura de candidatos por grandes financiadores, ainda que o novo modelo também seja objeto de críticas, como as mencionadas no texto."
                      },
                      {
                          "id":  "atualidades-politica-23",
@@ -293,9 +293,9 @@
                          "enunciado":  "A principal finalidade dessa exigência de prestação de contas eleitorais é:",
                          "alternativas":  {
                                               "a":  "conferir transparência ao financiamento eleitoral e permitir a fiscalização de eventuais irregularidades ou abusos de poder econômico",
-                                              "b":  "impedir que qualquer candidato utilize recursos próprios na campanha",
-                                              "c":  "substituir a necessidade de registro de candidatura",
-                                              "d":  "aumentar o sigilo sobre a origem dos recursos de campanha"
+                                              "b":  "substituir a necessidade de registro de candidatura",
+                                              "c":  "aumentar o sigilo sobre a origem dos recursos de campanha",
+                                              "d":  "impedir que qualquer candidato utilize recursos próprios na campanha"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A prestação de contas eleitorais visa a dar transparência à origem e ao uso dos recursos de campanha, permitindo à Justiça Eleitoral fiscalizar eventuais irregularidades, abusos de poder econômico e o cumprimento dos limites e vedações legais ao financiamento eleitoral."
@@ -320,8 +320,8 @@
                          "alternativas":  {
                                               "a":  "súmula vinculante",
                                               "b":  "medida cautelar",
-                                              "c":  "ação civil pública",
-                                              "d":  "mandado de injunção"
+                                              "c":  "mandado de injunção",
+                                              "d":  "ação civil pública"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A súmula vinculante é editada pelo STF após reiteradas decisões sobre matéria constitucional e deve ser observada pelos demais órgãos do Judiciário e pela administração pública, com o objetivo de uniformizar a jurisprudência e reduzir o volume de processos repetitivos sobre a mesma questão."
@@ -332,8 +332,8 @@
                          "enunciado":  "A instituição prevista constitucionalmente para prestar assistência jurídica integral e gratuita a essa parcela da população é:",
                          "alternativas":  {
                                               "a":  "a Defensoria Pública",
-                                              "b":  "o Tribunal de Contas",
-                                              "c":  "o Ministério Público",
+                                              "b":  "o Ministério Público",
+                                              "c":  "o Tribunal de Contas",
                                               "d":  "a Advocacia-Geral da União"
                                           },
                          "resposta":  "a",
@@ -345,8 +345,8 @@
                          "enunciado":  "O principal objetivo dessas condicionalidades é:",
                          "alternativas":  {
                                               "a":  "punir as famílias mais pobres por eventuais descumprimentos",
-                                              "b":  "restringir o benefício exclusivamente a famílias sem filhos",
-                                              "c":  "eliminar qualquer necessidade de frequência escolar",
+                                              "b":  "eliminar qualquer necessidade de frequência escolar",
+                                              "c":  "restringir o benefício exclusivamente a famílias sem filhos",
                                               "d":  "articular o alívio imediato da pobreza com investimentos em capital humano de longo prazo, como educação e saúde"
                                           },
                          "resposta":  "d",
@@ -357,8 +357,8 @@
                          "texto_apoio":  "Políticas sociais podem ser desenhadas para atender exclusivamente famílias identificadas como pobres por meio de critérios de renda, ou para atender toda a população, independentemente de sua condição econômica.",
                          "enunciado":  "A opção por concentrar recursos limitados nas famílias em situação de maior vulnerabilidade, em vez de atender a totalidade da população, é característica de uma política social:",
                          "alternativas":  {
-                                              "a":  "contributiva",
-                                              "b":  "universalista",
+                                              "a":  "universalista",
+                                              "b":  "contributiva",
                                               "c":  "focalizada",
                                               "d":  "regressiva por definição"
                                           },
@@ -370,9 +370,9 @@
                          "texto_apoio":  "Setores como telecomunicações, energia elétrica e saúde suplementar são supervisionados por entidades da administração pública indireta, dirigidas por colegiados com mandatos fixos e não coincidentes com o mandato do chefe do Executivo.",
                          "enunciado":  "Esse desenho institucional, que busca isolar decisões técnicas e regulatórias de pressões político-eleitorais de curto prazo, caracteriza:",
                          "alternativas":  {
-                                              "a":  "tribunais administrativos com competência jurisdicional plena",
+                                              "a":  "empresas estatais dependentes diretamente do Ministério da Fazenda",
                                               "b":  "órgãos exclusivamente consultivos, sem poder normativo",
-                                              "c":  "empresas estatais dependentes diretamente do Ministério da Fazenda",
+                                              "c":  "tribunais administrativos com competência jurisdicional plena",
                                               "d":  "agências reguladoras dotadas de autonomia técnica e administrativa"
                                           },
                          "resposta":  "d",
@@ -385,8 +385,8 @@
                          "alternativas":  {
                                               "a":  "o Banco Central do Brasil",
                                               "b":  "o Conselho Administrativo de Defesa Econômica (CADE)",
-                                              "c":  "o Tribunal de Contas da União",
-                                              "d":  "a Receita Federal"
+                                              "c":  "a Receita Federal",
+                                              "d":  "o Tribunal de Contas da União"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O CADE é a autarquia responsável, no Brasil, por zelar pela livre concorrência, analisando atos de concentração econômica (como fusões e aquisições) e reprimindo condutas anticompetitivas, como formação de cartéis e abuso de posição dominante no mercado."
@@ -396,10 +396,10 @@
                          "texto_apoio":  "Determinado modelo de organização administrativa caracteriza-se pela impessoalidade, pela hierarquia formal, pela existência de normas escritas e pelo ingresso e promoção baseados em critérios técnicos, e não em vínculos pessoais.",
                          "enunciado":  "Esse modelo de administração, formulado pelo sociólogo Max Weber, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "clientelismo",
-                                              "b":  "gestão carismática",
+                                              "a":  "gestão carismática",
+                                              "b":  "patrimonialismo",
                                               "c":  "burocracia racional-legal",
-                                              "d":  "patrimonialismo"
+                                              "d":  "clientelismo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A burocracia racional-legal, conceito formulado por Max Weber, caracteriza-se pela impessoalidade, hierarquia formal, normas escritas e critérios técnicos de ingresso e promoção, contrapondo-se a formas de dominação tradicionais ou carismáticas, baseadas em vínculos pessoais ou na figura de uma liderança específica."
@@ -411,8 +411,8 @@
                          "alternativas":  {
                                               "a":  "burocracia racional-legal",
                                               "b":  "patrimonialismo",
-                                              "c":  "accountability vertical",
-                                              "d":  "meritocracia plena"
+                                              "c":  "meritocracia plena",
+                                              "d":  "accountability vertical"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O patrimonialismo refere-se a uma tradição de administração pública em que a distinção entre patrimônio público e privado é pouco nítida, favorecendo relações pessoais, cargos distribuídos por critérios de confiança e não de mérito, em contraste com o modelo de burocracia racional-legal."
@@ -422,10 +422,10 @@
                          "texto_apoio":  "Em situações de relevância e urgência, o presidente da República pode editar normas com força de lei, que produzem efeitos imediatos, mas precisam ser posteriormente apreciadas pelo Congresso Nacional, sob pena de perderem eficácia.",
                          "enunciado":  "Esse instrumento normativo de competência do Poder Executivo é conhecido como:",
                          "alternativas":  {
-                                              "a":  "emenda constitucional de iniciativa exclusiva",
+                                              "a":  "decreto autônomo",
                                               "b":  "medida provisória",
                                               "c":  "lei delegada permanente",
-                                              "d":  "decreto autônomo"
+                                              "d":  "emenda constitucional de iniciativa exclusiva"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A medida provisória permite ao Executivo editar normas com força de lei em casos de relevância e urgência, produzindo efeitos imediatos, mas sujeitas à apreciação do Congresso Nacional dentro de prazo constitucional, sob pena de perda de eficácia caso não sejam convertidas em lei."
@@ -435,9 +435,9 @@
                          "texto_apoio":  "Parlamentares individuais e bancadas estaduais podem destinar parte dos recursos do orçamento federal a projetos e políticas específicas de seu interesse ou de suas bases eleitorais, sendo essa destinação, em determinadas modalidades, de execução obrigatória pelo Executivo.",
                          "enunciado":  "O fortalecimento desse mecanismo de execução obrigatória de emendas parlamentares tende a, sobretudo:",
                          "alternativas":  {
-                                              "a":  "transferir integralmente a competência orçamentária ao Judiciário",
+                                              "a":  "reduzir a capacidade de barganha do Legislativo em relação ao Executivo",
                                               "b":  "eliminar qualquer influência de parlamentares sobre o orçamento público",
-                                              "c":  "reduzir a capacidade de barganha do Legislativo em relação ao Executivo",
+                                              "c":  "transferir integralmente a competência orçamentária ao Judiciário",
                                               "d":  "ampliar o poder do Legislativo sobre a execução orçamentária, em contrapartida à discricionariedade tradicionalmente concentrada no Executivo"
                                           },
                          "resposta":  "d",
@@ -448,9 +448,9 @@
                          "texto_apoio":  "Em determinadas negociações políticas, o apoio de um partido a projetos do governo é condicionado, sobretudo, à obtenção de cargos, verbas ou benefícios específicos para seus membros ou suas bases eleitorais, mais do que a uma convergência programática.",
                          "enunciado":  "Essa lógica de barganha política baseada primordialmente na troca de apoio por benefícios específicos, em detrimento de afinidades ideológicas ou programáticas, é frequentemente descrita como:",
                          "alternativas":  {
-                                              "a":  "bipartidarismo programático",
-                                              "b":  "presidencialismo minoritário",
-                                              "c":  "parlamentarismo racionalizado",
+                                              "a":  "presidencialismo minoritário",
+                                              "b":  "parlamentarismo racionalizado",
+                                              "c":  "bipartidarismo programático",
                                               "d":  "fisiologismo"
                                           },
                          "resposta":  "d",
@@ -462,9 +462,9 @@
                          "enunciado":  "Essa exigência, conhecida como cláusula de desempenho (ou cláusula de barreira), tem como principal objetivo declarado:",
                          "alternativas":  {
                                               "a":  "reduzir a fragmentação partidária excessiva, estimulando a organização de legendas mais consistentes",
-                                              "b":  "eliminar qualquer financiamento público a partidos políticos",
-                                              "c":  "extinguir por completo o sistema pluripartidário brasileiro",
-                                              "d":  "aumentar indefinidamente o número de partidos com acesso a recursos públicos"
+                                              "b":  "favorecer a criação de novos partidos por meio da ampliação automática do fundo partidário disponível",
+                                              "c":  "transferir a decisão sobre o acesso a recursos partidários do Tribunal Superior Eleitoral para o Poder Executivo",
+                                              "d":  "restringir o acesso a recursos do fundo partidário apenas a partidos recém-criados, independentemente de seu desempenho eleitoral"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A cláusula de desempenho busca reduzir a fragmentação partidária excessiva, condicionando o acesso pleno a recursos do fundo partidário e ao tempo de propaganda eleitoral gratuita ao atingimento de patamares mínimos de votos e representação, estimulando a formação de partidos mais consistentes."
@@ -475,9 +475,9 @@
                          "enunciado":  "Essa formulação constitucional, que combina independência e harmonia entre os poderes, busca expressar que:",
                          "alternativas":  {
                                               "a":  "os poderes, embora autônomos em suas funções típicas, devem cooperar institucionalmente e respeitar mutuamente suas competências, sem que a fiscalização mútua implique subordinação de um poder a outro",
-                                              "b":  "o Poder Executivo deve ter supremacia hierárquica sobre os demais poderes",
-                                              "c":  "a harmonia entre poderes elimina qualquer possibilidade de conflito institucional",
-                                              "d":  "cada poder deve atuar de forma totalmente isolada, sem qualquer interação com os demais"
+                                              "b":  "a harmonia entre poderes elimina qualquer possibilidade de conflito institucional",
+                                              "c":  "cada poder deve atuar de forma totalmente isolada, sem qualquer interação com os demais",
+                                              "d":  "o Poder Executivo deve ter supremacia hierárquica sobre os demais poderes"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A independência e a harmonia entre os poderes significam que Executivo, Legislativo e Judiciário exercem funções típicas autônomas, mas devem cooperar institucionalmente e respeitar mutuamente suas competências, sem que os mecanismos de fiscalização recíproca representem subordinação hierárquica entre eles.",
@@ -489,9 +489,9 @@
                          "enunciado":  "Uma diferença estrutural central entre esses dois sistemas é que, no parlamentarismo:",
                          "alternativas":  {
                                               "a":  "o chefe de governo (primeiro-ministro) depende da confiança contínua do parlamento para se manter no cargo, podendo ser destituído por moção de desconfiança antes do fim do mandato",
-                                              "b":  "não existe a figura de um chefe de Estado, apenas a de chefe de governo",
-                                              "c":  "o Poder Legislativo é dispensável, concentrando-se todo o poder no primeiro-ministro",
-                                              "d":  "o chefe de governo é eleito diretamente pelo povo, com mandato fixo e não sujeito a moções de desconfiança"
+                                              "b":  "o Poder Legislativo é dispensável, concentrando-se todo o poder no primeiro-ministro",
+                                              "c":  "o chefe de governo é eleito diretamente pelo povo, com mandato fixo e não sujeito a moções de desconfiança",
+                                              "d":  "não existe a figura de um chefe de Estado, apenas a de chefe de governo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No parlamentarismo, diferentemente do presidencialismo, o chefe de governo depende da confiança contínua do parlamento, podendo perder o cargo por moção de desconfiança antes do fim de seu mandato, o que gera uma relação de maior interdependência entre Executivo e Legislativo do que no sistema presidencialista.",
@@ -502,10 +502,10 @@
                          "texto_apoio":  "O Poder Legislativo federal brasileiro é bicameral, composto pela Câmara dos Deputados e pelo Senado Federal.",
                          "enunciado":  "Essa estrutura bicameral reflete, entre outros aspectos, a busca por:",
                          "alternativas":  {
-                                              "a":  "extinguir a autonomia política dos estados membros da federação",
+                                              "a":  "eliminar qualquer forma de representação popular direta no Congresso Nacional",
                                               "b":  "equilibrar a representação da população (Câmara dos Deputados, proporcional ao número de habitantes de cada estado) com a representação igualitária dos entes federativos (Senado, com número fixo de senadores por estado)",
                                               "c":  "concentrar toda a competência legislativa exclusivamente na Câmara dos Deputados",
-                                              "d":  "eliminar qualquer forma de representação popular direta no Congresso Nacional"
+                                              "d":  "extinguir a autonomia política dos estados membros da federação"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O bicameralismo federativo busca equilibrar a representação proporcional da população, na Câmara dos Deputados, com a representação igualitária dos estados, no Senado Federal, no qual cada unidade da federação elege o mesmo número de senadores, independentemente de seu tamanho populacional.",
@@ -530,10 +530,10 @@
                          "texto_apoio":  "A Constituição de 1988 prevê determinados dispositivos que não podem ser abolidos nem mesmo por emenda constitucional.",
                          "enunciado":  "Esses dispositivos, conhecidos como cláusulas pétreas, têm como função:",
                          "alternativas":  {
-                                              "a":  "permitir que o Congresso Nacional revogue livremente qualquer direito fundamental por maioria simples",
+                                              "a":  "restringir cláusulas pétreas apenas a normas de natureza tributária",
                                               "b":  "proteger princípios e direitos considerados essenciais à ordem constitucional, como a forma federativa de Estado e os direitos e garantias individuais, contra tentativas de supressão por emenda",
-                                              "c":  "restringir cláusulas pétreas apenas a normas de natureza tributária",
-                                              "d":  "impedir qualquer alteração na Constituição, tornando-a um texto absolutamente imutável"
+                                              "c":  "impedir qualquer alteração na Constituição, tornando-a um texto absolutamente imutável",
+                                              "d":  "permitir que o Congresso Nacional revogue livremente qualquer direito fundamental por maioria simples"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As cláusulas pétreas protegem princípios e direitos considerados essenciais à ordem constitucional — como a forma federativa de Estado, o voto direto e secreto, a separação de poderes e os direitos e garantias individuais — contra tentativas de supressão ou enfraquecimento, mesmo por meio de emenda constitucional.",
@@ -544,9 +544,9 @@
                          "texto_apoio":  "Em situações excepcionais de grave instabilidade institucional ou ameaça à ordem pública, a Constituição prevê mecanismos que permitem a restrição temporária de determinados direitos.",
                          "enunciado":  "O Estado de Defesa e o Estado de Sítio são exemplos desses mecanismos, caracterizados por:",
                          "alternativas":  {
-                                              "a":  "dispensarem qualquer forma de fiscalização pelo Poder Legislativo",
-                                              "b":  "serem medidas permanentes, sem qualquer prazo de vigência ou controle do Congresso Nacional",
-                                              "c":  "eliminarem definitivamente a Constituição enquanto estiverem em vigor",
+                                              "a":  "eliminarem definitivamente a Constituição enquanto estiverem em vigor",
+                                              "b":  "dispensarem qualquer forma de fiscalização pelo Poder Legislativo",
+                                              "c":  "serem medidas permanentes, sem qualquer prazo de vigência ou controle do Congresso Nacional",
                                               "d":  "permitirem a restrição temporária e excepcional de certos direitos individuais, mediante decisão do presidente da República sujeita a controle e aprovação do Congresso Nacional, com prazo determinado"
                                           },
                          "resposta":  "d",
@@ -559,9 +559,9 @@
                          "enunciado":  "A atuação dos Tribunais de Contas inclui, entre outras funções:",
                          "alternativas":  {
                                               "a":  "o julgamento das contas de administradores públicos e a fiscalização da legalidade, legitimidade e economicidade dos atos de gestão de recursos públicos",
-                                              "b":  "a definição exclusiva da política monetária do país",
-                                              "c":  "a aprovação prévia e obrigatória de todo e qualquer gasto público antes de sua execução",
-                                              "d":  "a substituição do Poder Judiciário no julgamento de crimes de corrupção"
+                                              "b":  "a substituição do Poder Judiciário no julgamento de crimes de corrupção",
+                                              "c":  "a definição exclusiva da política monetária do país",
+                                              "d":  "a aprovação prévia e obrigatória de todo e qualquer gasto público antes de sua execução"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os Tribunais de Contas julgam as contas de administradores e demais responsáveis por bens e valores públicos, além de fiscalizar a legalidade, a legitimidade e a economicidade dos atos de gestão, auxiliando o Poder Legislativo no controle externo da administração pública.",
@@ -572,9 +572,9 @@
                          "texto_apoio":  "Aprovada em 2000, a Lei de Responsabilidade Fiscal estabeleceu regras e limites para a gestão das finanças públicas nos três níveis de governo.",
                          "enunciado":  "Entre os principais objetivos dessa lei está:",
                          "alternativas":  {
-                                              "a":  "transferir toda a competência orçamentária dos estados e municípios para a União",
-                                              "b":  "eliminar qualquer limite ao endividamento de estados e municípios",
-                                              "c":  "dispensar a publicação de relatórios periódicos sobre a execução orçamentária",
+                                              "a":  "criar um novo tributo federal destinado a financiar diretamente estados e municípios endividados",
+                                              "b":  "condicionar o limite de gastos com pessoal exclusivamente aos municípios, dispensando União e estados dessa mesma regra",
+                                              "c":  "transferir ao Poder Judiciário a competência para aprovar previamente o orçamento de cada ente federativo",
                                               "d":  "impor limites a gastos como despesas com pessoal e ao endividamento público, buscando maior equilíbrio e transparência na gestão fiscal de todos os entes federativos"
                                           },
                          "resposta":  "d",
@@ -587,9 +587,9 @@
                          "enunciado":  "O Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA) relacionam-se, respectivamente, com:",
                          "alternativas":  {
                                               "a":  "questões exclusivas de política externa, sem qualquer relação com o orçamento público",
-                                              "b":  "normas eleitorais aplicáveis apenas aos partidos políticos",
+                                              "b":  "a definição exclusiva da taxa de juros básica da economia",
                                               "c":  "o planejamento de médio prazo (quatro anos) das ações de governo, a definição de prioridades e metas para o exercício seguinte, e a previsão detalhada de receitas e despesas de cada ano",
-                                              "d":  "a definição exclusiva da taxa de juros básica da economia"
+                                              "d":  "normas eleitorais aplicáveis apenas aos partidos políticos"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O PPA estabelece diretrizes e metas para um período de quatro anos, a LDO orienta a elaboração do orçamento do exercício seguinte, definindo prioridades e metas fiscais, e a LOA detalha, ano a ano, a previsão de receitas e a autorização de despesas, formando o ciclo orçamentário do setor público brasileiro.",
@@ -600,10 +600,10 @@
                          "texto_apoio":  "Para financiar despesas que superam sua arrecadação, o governo pode emitir títulos públicos, captando recursos de investidores no mercado financeiro.",
                          "enunciado":  "A necessidade de renovar continuamente o pagamento de títulos que vencem, emitindo novos títulos para cobrir o principal a pagar, é conhecida como:",
                          "alternativas":  {
-                                              "a":  "regra de ouro",
-                                              "b":  "superávit primário",
+                                              "a":  "meta de inflação",
+                                              "b":  "regra de ouro",
                                               "c":  "rolagem da dívida pública",
-                                              "d":  "meta de inflação"
+                                              "d":  "superávit primário"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A rolagem da dívida pública consiste na emissão de novos títulos para cobrir o pagamento do principal de títulos que estão vencendo, mecanismo pelo qual o governo renova continuamente parte de sua dívida mobiliária no mercado financeiro.",
@@ -615,8 +615,8 @@
                          "enunciado":  "Uma vantagem geralmente associada a esse regime cambial, em comparação com um câmbio fixo, é:",
                          "alternativas":  {
                                               "a":  "eliminar completamente a possibilidade de choques externos afetarem a economia doméstica",
-                                              "b":  "eliminar a necessidade de o país manter reservas internacionais",
-                                              "c":  "garantir que a taxa de câmbio permaneça sempre estável, sem qualquer oscilação",
+                                              "b":  "garantir que a taxa de câmbio permaneça sempre estável, sem qualquer oscilação",
+                                              "c":  "eliminar a necessidade de o país manter reservas internacionais",
                                               "d":  "permitir que o câmbio funcione como um amortecedor de choques externos, ajustando-se automaticamente às condições do mercado, sem exigir que o Banco Central utilize constantemente suas reservas para sustentar uma paridade fixa"
                                           },
                          "resposta":  "d",
@@ -628,10 +628,10 @@
                          "texto_apoio":  "O balanço de pagamentos registra todas as transações econômicas de um país com o restante do mundo.",
                          "enunciado":  "A conta corrente do balanço de pagamentos inclui, entre outros itens, a balança comercial (exportações menos importações de bens) e:",
                          "alternativas":  {
-                                              "a":  "somente as transações realizadas em criptomoedas",
-                                              "b":  "exclusivamente o fluxo de investimentos diretos estrangeiros no país",
+                                              "a":  "apenas as reservas internacionais mantidas pelo Banco Central",
+                                              "b":  "somente as transações realizadas em criptomoedas",
                                               "c":  "a balança de serviços e rendas, que registra, por exemplo, pagamentos de juros, lucros e dividendos remetidos ao exterior",
-                                              "d":  "apenas as reservas internacionais mantidas pelo Banco Central"
+                                              "d":  "exclusivamente o fluxo de investimentos diretos estrangeiros no país"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Além da balança comercial, a conta corrente do balanço de pagamentos inclui a balança de serviços e a balança de rendas, que registram, entre outros itens, pagamentos de juros, lucros e dividendos remetidos ao exterior, compondo um retrato mais completo das transações correntes de um país com o resto do mundo.",
@@ -642,9 +642,9 @@
                          "texto_apoio":  "Investimentos estrangeiros em um país podem assumir diferentes formas, com graus distintos de estabilidade e volatilidade.",
                          "enunciado":  "O investimento direto estrangeiro (IDE), voltado à instalação de empresas ou aquisição de participação relevante em negócios já existentes, costuma ser considerado, em comparação com investimentos de portfólio em ações e títulos:",
                          "alternativas":  {
-                                              "a":  "irrelevante para o financiamento externo de um país",
+                                              "a":  "mais volátil e sujeito a saídas rápidas de capital em momentos de crise",
                                               "b":  "mais estável e de caráter mais permanente, por envolver ativos produtivos de difícil liquidação imediata",
-                                              "c":  "mais volátil e sujeito a saídas rápidas de capital em momentos de crise",
+                                              "c":  "irrelevante para o financiamento externo de um país",
                                               "d":  "idêntico em todos os aspectos ao investimento de portfólio"
                                           },
                          "resposta":  "b",
@@ -656,10 +656,10 @@
                          "texto_apoio":  "Entre as propostas recorrentes de reforma política no Brasil, está a adoção do voto distrital ou distrital misto para a eleição de deputados, em substituição, total ou parcial, ao sistema proporcional de lista aberta.",
                          "enunciado":  "Um dos principais argumentos favoráveis à adoção do voto distrital é:",
                          "alternativas":  {
-                                              "a":  "impedir qualquer forma de fiscalização do mandato parlamentar pelo eleitor",
+                                              "a":  "reduzir ainda mais a proximidade entre o eleitor e o representante eleito",
                                               "b":  "aproximar o eleitor de seu representante, associando-o a uma base territorial específica, o que tenderia a fortalecer a prestação de contas e a identificação do eleitor com o mandato",
                                               "c":  "eliminar por completo a necessidade de eleições periódicas",
-                                              "d":  "reduzir ainda mais a proximidade entre o eleitor e o representante eleito"
+                                              "d":  "impedir qualquer forma de fiscalização do mandato parlamentar pelo eleitor"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Defensores do voto distrital argumentam que a associação de cada representante a uma base territorial específica tenderia a aproximar o eleitor de seu mandato, fortalecendo mecanismos de prestação de contas e identificação, em contraste com o sistema proporcional de lista aberta atualmente vigente.",
@@ -671,9 +671,9 @@
                          "enunciado":  "Um argumento favorável à manutenção do voto obrigatório é:",
                          "alternativas":  {
                                               "a":  "garantir maior participação e representatividade do conjunto da população nas eleições, evitando que apenas os eleitores mais mobilizados ou ideologicamente engajados determinem o resultado do pleito",
-                                              "b":  "impedir que qualquer cidadão vote em branco ou anule seu voto",
+                                              "b":  "reduzir a legitimidade dos resultados eleitorais",
                                               "c":  "eliminar qualquer necessidade de campanhas eleitorais",
-                                              "d":  "reduzir a legitimidade dos resultados eleitorais"
+                                              "d":  "impedir que qualquer cidadão vote em branco ou anule seu voto"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Defensores do voto obrigatório argumentam que essa regra garante maior participação e representatividade do conjunto da população nas eleições, evitando que o resultado seja determinado apenas pelos eleitores mais mobilizados ou ideologicamente engajados, o que poderia ocorrer sob voto exclusivamente facultativo.",
@@ -684,8 +684,8 @@
                          "texto_apoio":  "A jurisprudência eleitoral brasileira consolidou o entendimento de que o mandato parlamentar obtido pelo sistema proporcional pertence, em certa medida, ao partido pelo qual o candidato foi eleito, e não exclusivamente ao candidato.",
                          "enunciado":  "Esse entendimento, conhecido como fidelidade partidária, tem como principal efeito:",
                          "alternativas":  {
-                                              "a":  "eliminar a necessidade de qualquer filiação partidária para concorrer a cargos eletivos",
-                                              "b":  "impedir que qualquer parlamentar mude de partido durante o mandato, sob qualquer circunstância",
+                                              "a":  "impedir que qualquer parlamentar mude de partido durante o mandato, sob qualquer circunstância",
+                                              "b":  "eliminar a necessidade de qualquer filiação partidária para concorrer a cargos eletivos",
                                               "c":  "transferir automaticamente o mandato ao partido, independentemente de qualquer decisão judicial",
                                               "d":  "sujeitar à perda do mandato o parlamentar que trocar de partido sem justa causa reconhecida pela Justiça Eleitoral, buscando reduzir a migração partidária motivada por interesses pessoais"
                                           },
@@ -700,8 +700,8 @@
                          "alternativas":  {
                                               "a":  "aumentar a fragmentação partidária no Congresso Nacional",
                                               "b":  "reduzir distorções na distribuição de cadeiras geradas por coligações formadas apenas para maximizar o aproveitamento de votos, sem necessariamente refletir afinidade programática entre os partidos coligados",
-                                              "c":  "tornar obrigatória a coligação entre todos os partidos registrados",
-                                              "d":  "eliminar por completo a possibilidade de alianças políticas entre partidos"
+                                              "c":  "eliminar por completo a possibilidade de alianças políticas entre partidos",
+                                              "d":  "tornar obrigatória a coligação entre todos os partidos registrados"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O fim das coligações proporcionais buscou reduzir distorções na distribuição de cadeiras, geradas por alianças formadas exclusivamente para maximizar o aproveitamento de votos entre partidos sem necessária afinidade programática, o que antes permitia que legendas pequenas elegessem representantes com base em votos de partidos maiores da coligação.",
@@ -712,10 +712,10 @@
                          "texto_apoio":  "Determinadas autoridades públicas, como parlamentares e ministros de Estado, têm o direito de ser processadas e julgadas criminalmente por tribunais superiores, e não pela primeira instância da Justiça comum.",
                          "enunciado":  "Essa prerrogativa, conhecida como foro por prerrogativa de função (ou \u0027foro privilegiado\u0027), é justificada por seus defensores, sobretudo, como forma de:",
                          "alternativas":  {
-                                              "a":  "eliminar qualquer possibilidade de investigação criminal contra autoridades públicas",
-                                              "b":  "substituir integralmente o julgamento pelo Poder Judiciário por julgamento político no Congresso Nacional",
+                                              "a":  "substituir integralmente o julgamento pelo Poder Judiciário por julgamento político no Congresso Nacional",
+                                              "b":  "garantir impunidade a autoridades públicas por qualquer crime cometido",
                                               "c":  "proteger o exercício do cargo contra pressões políticas indevidas sobre autoridades que exercem funções de relevância institucional, submetendo-as a julgamento por tribunais colegiados de maior hierarquia",
-                                              "d":  "garantir impunidade a autoridades públicas por qualquer crime cometido"
+                                              "d":  "eliminar qualquer possibilidade de investigação criminal contra autoridades públicas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O foro por prerrogativa de função é justificado por seus defensores como mecanismo de proteção do exercício do cargo contra pressões políticas indevidas sobre autoridades de relevância institucional, submetendo-as a julgamento por tribunais colegiados de maior hierarquia, ainda que a extensão dessa prerrogativa seja objeto de debate público recorrente.",
@@ -727,9 +727,9 @@
                          "enunciado":  "A imunidade material garante que parlamentares:",
                          "alternativas":  {
                                               "a":  "sejam isentos de qualquer forma de responsabilização criminal durante toda a vida",
-                                              "b":  "possam descumprir livremente qualquer lei do país sem qualquer consequência",
+                                              "b":  "estejam dispensados de pagar qualquer tributo enquanto exercerem o cargo",
                                               "c":  "não possam ser responsabilizados civil ou penalmente por suas opiniões, palavras e votos proferidos no exercício do mandato",
-                                              "d":  "estejam dispensados de pagar qualquer tributo enquanto exercerem o cargo"
+                                              "d":  "possam descumprir livremente qualquer lei do país sem qualquer consequência"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A imunidade material garante que parlamentares não sejam responsabilizados civil ou penalmente por suas opiniões, palavras e votos proferidos no exercício do mandato, protegendo a liberdade de expressão política necessária ao exercício da função legislativa, sem, no entanto, isentá-los de responsabilização por atos estranhos a essa atividade.",
@@ -740,9 +740,9 @@
                          "texto_apoio":  "Parlamentares podem perder o mandato por decisão da própria Casa legislativa a que pertencem, em processo conhecido como cassação, aplicável em casos de quebra de decoro parlamentar ou condenação criminal, entre outras hipóteses.",
                          "enunciado":  "Esse mecanismo de perda de mandato por decisão do próprio Legislativo é um exemplo de:",
                          "alternativas":  {
-                                              "a":  "ausência de qualquer mecanismo de responsabilização de parlamentares",
-                                              "b":  "controle exclusivamente judicial sobre o exercício do mandato parlamentar",
-                                              "c":  "intervenção direta do Poder Executivo sobre o Congresso Nacional",
+                                              "a":  "intervenção direta do Poder Executivo sobre o Congresso Nacional",
+                                              "b":  "ausência de qualquer mecanismo de responsabilização de parlamentares",
+                                              "c":  "controle exclusivamente judicial sobre o exercício do mandato parlamentar",
                                               "d":  "autorregulação institucional do Poder Legislativo, que possui competência constitucional para julgar e disciplinar seus próprios membros em determinadas hipóteses"
                                           },
                          "resposta":  "d",
@@ -754,10 +754,10 @@
                          "texto_apoio":  "Aprovada por iniciativa popular em 2010, uma lei ampliou as hipóteses de inelegibilidade de candidatos a cargos eletivos, incluindo condenações por órgão colegiado, ainda que sujeitas a recurso.",
                          "enunciado":  "Essa legislação, conhecida como Lei da Ficha Limpa, tem como principal objetivo declarado:",
                          "alternativas":  {
-                                              "a":  "eliminar por completo qualquer critério de elegibilidade previsto na Constituição",
-                                              "b":  "transferir da Justiça Eleitoral para o Poder Executivo a decisão sobre quem pode ser candidato",
+                                              "a":  "transferir da Justiça Eleitoral para o Poder Executivo a decisão sobre quem pode ser candidato",
+                                              "b":  "facilitar a candidatura de pessoas condenadas por crimes graves ou improbidade administrativa",
                                               "c":  "elevar o padrão de conduta exigido de candidatos a cargos eletivos, tornando inelegíveis, por determinado período, pessoas condenadas por órgãos colegiados em processos como os de improbidade administrativa",
-                                              "d":  "facilitar a candidatura de pessoas condenadas por crimes graves ou improbidade administrativa"
+                                              "d":  "eliminar por completo qualquer critério de elegibilidade previsto na Constituição"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Lei da Ficha Limpa buscou elevar o padrão de conduta exigido de candidatos a cargos eletivos, ampliando as hipóteses de inelegibilidade para pessoas condenadas por órgãos colegiados, ainda que a decisão esteja sujeita a recurso, em processos como os de improbidade administrativa ou abuso de poder econômico.",
@@ -768,10 +768,10 @@
                          "texto_apoio":  "Desde 1999, o Brasil adota o regime de metas de inflação como principal referência para a condução da política monetária.",
                          "enunciado":  "Nesse regime, o Banco Central tem como principal atribuição:",
                          "alternativas":  {
-                                              "a":  "fixar diretamente os preços de todos os bens e serviços da economia",
+                                              "a":  "eliminar qualquer flutuação na taxa de câmbio",
                                               "b":  "utilizar instrumentos como a taxa básica de juros para conduzir a inflação observada em direção a uma meta previamente estabelecida, geralmente definida pelo Conselho Monetário Nacional",
-                                              "c":  "eliminar qualquer flutuação na taxa de câmbio",
-                                              "d":  "garantir que a inflação seja sempre igual a zero, independentemente das condições econômicas"
+                                              "c":  "garantir que a inflação seja sempre igual a zero, independentemente das condições econômicas",
+                                              "d":  "fixar diretamente os preços de todos os bens e serviços da economia"
                                           },
                          "resposta":  "b",
                          "explicacao":  "No regime de metas de inflação, o Banco Central utiliza principalmente a taxa básica de juros (Selic) para conduzir a inflação observada em direção a uma meta previamente estabelecida, geralmente fixada pelo Conselho Monetário Nacional, e não busca controlar diretamente preços individuais ou eliminar toda a variação cambial.",
@@ -782,10 +782,10 @@
                          "texto_apoio":  "Em momentos de desaceleração econômica, alguns governos optam por ampliar gastos públicos ou reduzir impostos para estimular a atividade econômica, revertendo essa postura em períodos de expansão.",
                          "enunciado":  "Essa estratégia, conhecida como política fiscal anticíclica, tem como principal fundamento teórico:",
                          "alternativas":  {
-                                              "a":  "a obrigatoriedade constitucional de sempre gerar déficit orçamentário",
+                                              "a":  "a defesa de que o governo nunca deve intervir na economia, em qualquer circunstância",
                                               "b":  "a noção, de inspiração keynesiana, de que a atuação do Estado pode suavizar flutuações do ciclo econômico, estimulando a demanda em recessões e contendo-a em períodos de sobreaquecimento",
-                                              "c":  "a ideia de que o Estado deve manter gastos constantes independentemente do ciclo econômico",
-                                              "d":  "a defesa de que o governo nunca deve intervir na economia, em qualquer circunstância"
+                                              "c":  "a obrigatoriedade constitucional de sempre gerar déficit orçamentário",
+                                              "d":  "a ideia de que o Estado deve manter gastos constantes independentemente do ciclo econômico"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A política fiscal anticíclica fundamenta-se na noção, de inspiração keynesiana, de que a atuação do Estado pode suavizar as flutuações do ciclo econômico, ampliando gastos ou reduzindo impostos para estimular a demanda em recessões, e contendo-os em períodos de sobreaquecimento da economia.",
@@ -797,8 +797,8 @@
                          "enunciado":  "Esse fenômeno, conhecido como efeito multiplicador do gasto público, ocorre porque:",
                          "alternativas":  {
                                               "a":  "o gasto público é sempre integralmente poupado pelos agentes econômicos, sem qualquer efeito sobre o consumo",
-                                              "b":  "impostos sempre anulam integralmente o efeito de qualquer gasto público",
-                                              "c":  "o governo emite moeda automaticamente para cobrir qualquer gasto adicional",
+                                              "b":  "o governo emite moeda automaticamente para cobrir qualquer gasto adicional",
+                                              "c":  "impostos sempre anulam integralmente o efeito de qualquer gasto público",
                                               "d":  "a renda gerada pelo gasto inicial é parcialmente reinjetada na economia por meio do consumo das famílias e empresas que a recebem, gerando novas rodadas de renda e consumo"
                                           },
                          "resposta":  "d",
@@ -825,8 +825,8 @@
                          "enunciado":  "Essa característica é conhecida como:",
                          "alternativas":  {
                                               "a":  "regressividade tributária",
-                                              "b":  "neutralidade fiscal",
-                                              "c":  "progressividade tributária",
+                                              "b":  "progressividade tributária",
+                                              "c":  "neutralidade fiscal",
                                               "d":  "extrafiscalidade"
                                           },
                          "resposta":  "a",
@@ -839,9 +839,9 @@
                          "enunciado":  "Esse conjunto de benefícios, que reduz a arrecadação potencial do Estado, é conhecido tecnicamente como:",
                          "alternativas":  {
                                               "a":  "renúncia fiscal (ou gasto tributário)",
-                                              "b":  "reserva de contingência",
+                                              "b":  "superávit primário",
                                               "c":  "dívida mobiliária",
-                                              "d":  "superávit primário"
+                                              "d":  "reserva de contingência"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A renúncia fiscal, também chamada de gasto tributário, corresponde à arrecadação que o Estado deixa de obter em razão de isenções, reduções de alíquota e outros benefícios tributários concedidos a determinados setores, regiões ou grupos de contribuintes, com o objetivo declarado de estimular atividades econômicas específicas.",
@@ -852,9 +852,9 @@
                          "texto_apoio":  "Para viabilizar grandes obras de infraestrutura sem comprometer integralmente o orçamento público, governos podem firmar contratos de longo prazo com empresas privadas, que assumem a construção e operação de determinado serviço em troca de remuneração ao longo dos anos.",
                          "enunciado":  "Esse modelo de contratação, conhecido como parceria público-privada (PPP), tem como principal característica:",
                          "alternativas":  {
-                                              "a":  "a exclusão do poder público de qualquer fiscalização sobre o serviço prestado",
-                                              "b":  "a transferência definitiva e irrevogável da titularidade do serviço público à iniciativa privada",
-                                              "c":  "a proibição de qualquer remuneração ao parceiro privado pelos serviços prestados",
+                                              "a":  "a proibição de qualquer remuneração ao parceiro privado pelos serviços prestados",
+                                              "b":  "a exclusão do poder público de qualquer fiscalização sobre o serviço prestado",
+                                              "c":  "a transferência definitiva e irrevogável da titularidade do serviço público à iniciativa privada",
                                               "d":  "a divisão de riscos, responsabilidades e investimentos entre o poder público e o parceiro privado ao longo da execução do contrato, mantendo a titularidade do serviço com o Estado"
                                           },
                          "resposta":  "d",
@@ -868,8 +868,8 @@
                          "alternativas":  {
                                               "a":  "a proibição de qualquer participação da iniciativa privada na prestação de serviços de saneamento",
                                               "b":  "a ampliação das possibilidades de licitação e concessão dos serviços de saneamento, buscando atrair investimentos privados para acelerar a universalização do atendimento",
-                                              "c":  "o fim de qualquer meta de universalização do saneamento no país",
-                                              "d":  "a transferência da competência sobre saneamento básico do âmbito municipal para o âmbito exclusivamente federal"
+                                              "c":  "a transferência da competência sobre saneamento básico do âmbito municipal para o âmbito exclusivamente federal",
+                                              "d":  "o fim de qualquer meta de universalização do saneamento no país"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O novo marco regulatório do saneamento básico ampliou as possibilidades de licitação e concessão dos serviços a operadores privados, buscando atrair investimentos capazes de acelerar as metas de universalização do acesso à água tratada e à coleta de esgoto, mantendo, porém, a titularidade municipal sobre o serviço.",
@@ -894,10 +894,10 @@
                          "texto_apoio":  "O Conselho Monetário Nacional (CMN) é o órgão máximo do sistema financeiro nacional brasileiro, responsável por formular as diretrizes gerais da política monetária, creditícia e cambial do país.",
                          "enunciado":  "Uma das principais atribuições do CMN é:",
                          "alternativas":  {
-                                              "a":  "fiscalizar exclusivamente as eleições e o financiamento de campanhas",
-                                              "b":  "executar diretamente as operações de compra e venda de moeda estrangeira no mercado de câmbio",
+                                              "a":  "substituir o Congresso Nacional na aprovação do orçamento público",
+                                              "b":  "fiscalizar exclusivamente as eleições e o financiamento de campanhas",
                                               "c":  "estabelecer diretrizes gerais para as políticas monetária, creditícia e cambial, incluindo a definição da meta de inflação perseguida pelo Banco Central",
-                                              "d":  "substituir o Congresso Nacional na aprovação do orçamento público"
+                                              "d":  "executar diretamente as operações de compra e venda de moeda estrangeira no mercado de câmbio"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Conselho Monetário Nacional estabelece as diretrizes gerais das políticas monetária, creditícia e cambial do país, incluindo a definição da meta de inflação a ser perseguida pelo Banco Central, cabendo à autoridade monetária a execução operacional dessas diretrizes.",
@@ -909,9 +909,9 @@
                          "enunciado":  "Essas comissões, conhecidas como Comissões Parlamentares de Inquérito (CPIs), têm como uma de suas principais funções:",
                          "alternativas":  {
                                               "a":  "permitir que o Poder Legislativo exerça sua função fiscalizadora sobre fatos de relevante interesse público, podendo convocar testemunhas, requisitar documentos e produzir relatório final com eventuais indicações de responsabilização",
-                                              "b":  "aprovar leis com efeito retroativo automático",
+                                              "b":  "substituir definitivamente as investigações conduzidas pelo Ministério Público e pela Polícia",
                                               "c":  "impor diretamente penas criminais aos investigados, sem necessidade de processo judicial",
-                                              "d":  "substituir definitivamente as investigações conduzidas pelo Ministério Público e pela Polícia"
+                                              "d":  "aprovar leis com efeito retroativo automático"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As CPIs permitem que o Poder Legislativo exerça sua função fiscalizadora sobre fatos de relevante interesse público, com poderes de investigação próprios das autoridades judiciais, como convocar testemunhas e requisitar documentos, mas sem poder de condenação criminal, que permanece de competência exclusiva do Poder Judiciário.",
@@ -937,9 +937,9 @@
                          "enunciado":  "Esse procedimento diferenciado, que inclui votação em dois turnos em cada Casa do Congresso Nacional e aprovação por maioria qualificada de três quintos dos votos, tem como objetivo:",
                          "alternativas":  {
                                               "a":  "facilitar ao máximo a alteração do texto constitucional a qualquer momento",
-                                              "b":  "dispensar qualquer participação do Senado Federal no processo de emenda constitucional",
+                                              "b":  "permitir que uma única Casa do Congresso altere a Constituição sozinha",
                                               "c":  "conferir maior estabilidade e legitimidade às mudanças na Constituição, exigindo um consenso político mais amplo do que o necessário para a aprovação de leis ordinárias",
-                                              "d":  "permitir que uma única Casa do Congresso altere a Constituição sozinha"
+                                              "d":  "dispensar qualquer participação do Senado Federal no processo de emenda constitucional"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O quórum qualificado e a votação em dois turnos em cada Casa do Congresso Nacional para a aprovação de emendas constitucionais buscam conferir maior estabilidade e legitimidade às mudanças no texto constitucional, exigindo um consenso político mais amplo do que o necessário para a aprovação de leis ordinárias.",
@@ -950,10 +950,10 @@
                          "texto_apoio":  "A Constituição de 1988 distribui competências legislativas entre União, estados e municípios, distinguindo, entre outras categorias, competências privativas e competências concorrentes.",
                          "enunciado":  "Nas competências concorrentes entre União e estados, prevalece a regra segundo a qual:",
                          "alternativas":  {
-                                              "a":  "a competência concorrente é sempre exercida exclusivamente pelo Poder Judiciário",
-                                              "b":  "apenas a União pode legislar sobre a matéria, cabendo aos estados exclusivamente a execução das normas federais",
+                                              "a":  "os municípios têm competência exclusiva sobre qualquer matéria concorrente, excluindo estados e União",
+                                              "b":  "a competência concorrente é sempre exercida exclusivamente pelo Poder Judiciário",
                                               "c":  "cabe à União estabelecer normas gerais sobre a matéria, podendo os estados legislar de forma suplementar, inclusive de forma plena, na ausência de norma geral federal",
-                                              "d":  "os municípios têm competência exclusiva sobre qualquer matéria concorrente, excluindo estados e União"
+                                              "d":  "apenas a União pode legislar sobre a matéria, cabendo aos estados exclusivamente a execução das normas federais"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Nas competências concorrentes, cabe à União estabelecer normas gerais sobre a matéria, podendo os estados legislar de forma suplementar e, na ausência de norma geral federal, exercer competência legislativa plena para atender a suas peculiaridades, mecanismo que busca equilibrar uniformidade nacional com autonomia estadual.",
@@ -965,9 +965,9 @@
                          "enunciado":  "A intervenção federal é um mecanismo pensado para situações como:",
                          "alternativas":  {
                                               "a":  "simples divergências políticas rotineiras entre governo federal e governos estaduais",
-                                              "b":  "extinção definitiva da autonomia federativa do estado intervindo",
+                                              "b":  "substituição permanente e definitiva do governo de um estado pela União",
                                               "c":  "grave comprometimento da ordem pública, da integridade territorial ou de princípios constitucionais sensíveis, sendo instrumento excepcional e temporário, sujeito a controle do Congresso Nacional",
-                                              "d":  "substituição permanente e definitiva do governo de um estado pela União"
+                                              "d":  "extinção definitiva da autonomia federativa do estado intervindo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A intervenção federal é instrumento excepcional e temporário, previsto para hipóteses taxativas de grave comprometimento da ordem pública, da integridade territorial ou de princípios constitucionais sensíveis, estando sujeita a controle do Congresso Nacional e não representando extinção permanente da autonomia do estado afetado.",
@@ -978,10 +978,10 @@
                          "texto_apoio":  "A Constituição de 1988 é reconhecida por conferir aos municípios brasileiros um grau de autonomia política, administrativa e financeira incomum em comparação com outras federações do mundo.",
                          "enunciado":  "Essa autonomia municipal se expressa, entre outros aspectos, em:",
                          "alternativas":  {
-                                              "a":  "impossibilidade de os municípios legislarem sobre assuntos de interesse local",
-                                              "b":  "subordinação direta e hierárquica de todos os municípios aos respectivos governos estaduais",
+                                              "a":  "ausência completa de qualquer competência tributária própria dos municípios",
+                                              "b":  "impossibilidade de os municípios legislarem sobre assuntos de interesse local",
                                               "c":  "capacidade de os municípios elaborarem sua própria lei orgânica, eleger prefeitos e vereadores, e instituir e arrecadar tributos de sua competência, como o IPTU e o ISS",
-                                              "d":  "ausência completa de qualquer competência tributária própria dos municípios"
+                                              "d":  "subordinação direta e hierárquica de todos os municípios aos respectivos governos estaduais"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A autonomia municipal se expressa, entre outros aspectos, na capacidade de cada município elaborar sua própria lei orgânica, eleger diretamente prefeitos e vereadores, e instituir e arrecadar tributos de sua competência, como o IPTU e o ISS, além de legislar sobre assuntos de interesse local.",
@@ -992,10 +992,10 @@
                          "texto_apoio":  "A Constituição prevê mecanismos de participação popular direta na formação da vontade política, complementares à democracia representativa.",
                          "enunciado":  "Plebiscito, referendo e iniciativa popular de lei diferenciam-se, entre outros aspectos, porque:",
                          "alternativas":  {
-                                              "a":  "apenas o Poder Executivo pode convocar qualquer um desses mecanismos, sem participação do Congresso",
-                                              "b":  "esses institutos são utilizados exclusivamente em nível municipal, sendo vedados em âmbito federal",
+                                              "a":  "esses institutos são utilizados exclusivamente em nível municipal, sendo vedados em âmbito federal",
+                                              "b":  "todos são exatamente equivalentes, sem qualquer distinção de momento ou procedimento",
                                               "c":  "o plebiscito é consultado antes da edição do ato normativo, o referendo é consultado após sua edição para ratificação ou rejeição popular, e a iniciativa popular permite que cidadãos apresentem diretamente projetos de lei ao Legislativo, mediante coleta de assinaturas",
-                                              "d":  "todos são exatamente equivalentes, sem qualquer distinção de momento ou procedimento"
+                                              "d":  "apenas o Poder Executivo pode convocar qualquer um desses mecanismos, sem participação do Congresso"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O plebiscito é consultado previamente à edição de um ato legislativo ou administrativo, o referendo é convocado posteriormente à sua edição para ratificação ou rejeição popular, e a iniciativa popular de lei permite que cidadãos, mediante coleta de assinaturas em quantidade mínima definida constitucionalmente, apresentem diretamente projetos de lei ao Poder Legislativo.",
@@ -1006,9 +1006,9 @@
                          "texto_apoio":  "A Ação Direta de Inconstitucionalidade (ADI) é o principal instrumento de controle concentrado de constitucionalidade no Brasil, julgada originariamente pelo Supremo Tribunal Federal.",
                          "enunciado":  "A Constituição estabelece um rol de legitimados a propor esse tipo de ação, o que revela que:",
                          "alternativas":  {
-                                              "a":  "somente o Poder Judiciário pode propor ações desse tipo contra suas próprias decisões",
+                                              "a":  "qualquer cidadão pode propor diretamente uma ADI perante o Supremo Tribunal Federal",
                                               "b":  "apenas determinadas autoridades e entidades, como o presidente da República, mesas do Congresso, partidos políticos com representação no Congresso e confederações sindicais, entre outros, têm legitimidade para propor a ação",
-                                              "c":  "qualquer cidadão pode propor diretamente uma ADI perante o Supremo Tribunal Federal",
+                                              "c":  "somente o Poder Judiciário pode propor ações desse tipo contra suas próprias decisões",
                                               "d":  "a legitimidade para propor ADI é irrestrita e não prevista em lei"
                                           },
                          "resposta":  "b",
@@ -1021,9 +1021,9 @@
                          "enunciado":  "Esse instrumento processual tem como principal função:",
                          "alternativas":  {
                                               "a":  "proteger direito líquido e certo de um grupo determinado de pessoas, ameaçado ou violado por ato de autoridade pública, sem que cada integrante do grupo precise ajuizar ação individual",
-                                              "b":  "substituir integralmente a ação civil pública em qualquer hipótese",
-                                              "c":  "conceder automaticamente indenização financeira aos impetrantes",
-                                              "d":  "proteger exclusivamente interesses financeiros de grandes empresas privadas"
+                                              "b":  "conceder automaticamente indenização financeira aos impetrantes",
+                                              "c":  "proteger exclusivamente interesses financeiros de grandes empresas privadas",
+                                              "d":  "substituir integralmente a ação civil pública em qualquer hipótese"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O mandado de segurança coletivo protege direito líquido e certo de um grupo determinado de pessoas, ameaçado ou violado por ato de autoridade pública, permitindo que entidades legitimadas, como partidos políticos e associações, defendam esses interesses sem que cada integrante do grupo precise ajuizar ação individual.",
@@ -1048,10 +1048,10 @@
                          "texto_apoio":  "Criado pela Emenda Constitucional nº 45, de 2004, o Conselho Nacional de Justiça (CNJ) exerce o controle da atuação administrativa e financeira do Poder Judiciário.",
                          "enunciado":  "A criação do CNJ é apontada como um marco por:",
                          "alternativas":  {
-                                              "a":  "transferir ao CNJ a competência para julgar recursos de mérito de qualquer processo judicial",
+                                              "a":  "eliminar por completo a independência dos juízes no julgamento de processos",
                                               "b":  "introduzir um mecanismo de controle externo sobre a administração do Judiciário, sem interferir no conteúdo das decisões judiciais, buscando maior eficiência, transparência e responsabilização administrativa e disciplinar dos magistrados",
-                                              "c":  "subordinar o Poder Judiciário diretamente ao Poder Executivo",
-                                              "d":  "eliminar por completo a independência dos juízes no julgamento de processos"
+                                              "c":  "transferir ao CNJ a competência para julgar recursos de mérito de qualquer processo judicial",
+                                              "d":  "subordinar o Poder Judiciário diretamente ao Poder Executivo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O CNJ introduziu um mecanismo de controle externo sobre a administração e a atuação disciplinar do Poder Judiciário, sem interferir no conteúdo das decisões judiciais propriamente ditas, buscando maior eficiência, transparência e responsabilização administrativa e disciplinar dos magistrados, mantendo intacta a independência funcional dos juízes no julgamento dos processos.",
@@ -1076,10 +1076,10 @@
                          "texto_apoio":  "O Ministério Público brasileiro é constitucionalmente definido como instituição essencial à função jurisdicional do Estado, incumbida da defesa da ordem jurídica e dos interesses sociais e individuais indisponíveis.",
                          "enunciado":  "O princípio da independência funcional, que rege a atuação de seus membros, significa que:",
                          "alternativas":  {
-                                              "a":  "as decisões de cada promotor devem ser sempre ratificadas pelo Poder Executivo",
+                                              "a":  "cada promotor ou procurador está subordinado hierarquicamente às decisões do governo em exercício",
                                               "b":  "o Ministério Público não possui qualquer autonomia administrativa ou orçamentária",
                                               "c":  "cada membro do Ministério Público atua segundo sua própria convicção jurídica no exercício de suas atribuições, não estando sujeito a ordens hierárquicas quanto ao conteúdo de suas manifestações processuais",
-                                              "d":  "cada promotor ou procurador está subordinado hierarquicamente às decisões do governo em exercício"
+                                              "d":  "as decisões de cada promotor devem ser sempre ratificadas pelo Poder Executivo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A independência funcional significa que cada membro do Ministério Público atua segundo sua própria convicção jurídica no exercício de suas atribuições, não estando sujeito a ordens hierárquicas quanto ao conteúdo de suas manifestações processuais, ainda que a instituição como um todo possua estrutura administrativa organizada.",
@@ -1092,8 +1092,8 @@
                          "alternativas":  {
                                               "a":  "órgão auxiliar do Poder Legislativo no exercício do controle externo da administração pública, com autonomia técnica e administrativa própria",
                                               "b":  "órgão jurisdicional que substitui integralmente o Poder Judiciário em causas envolvendo recursos públicos",
-                                              "c":  "entidade de natureza privada, sem qualquer vínculo com a administração pública",
-                                              "d":  "órgão diretamente subordinado ao Poder Executivo, sem qualquer autonomia"
+                                              "c":  "órgão diretamente subordinado ao Poder Executivo, sem qualquer autonomia",
+                                              "d":  "entidade de natureza privada, sem qualquer vínculo com a administração pública"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Tribunal de Contas da União, apesar do nome, não integra o Poder Judiciário: é órgão auxiliar do Poder Legislativo no exercício do controle externo da administração pública, dotado de autonomia técnica e administrativa próprias para exercer suas competências de fiscalização e julgamento de contas.",
@@ -1104,10 +1104,10 @@
                          "texto_apoio":  "A Constituição estabelece que a investidura em cargo ou emprego público efetivo depende de aprovação prévia em concurso público de provas ou de provas e títulos.",
                          "enunciado":  "Essa exigência está diretamente relacionada ao princípio constitucional da administração pública conhecido como:",
                          "alternativas":  {
-                                              "a":  "razoabilidade",
-                                              "b":  "eficiência",
+                                              "a":  "publicidade",
+                                              "b":  "razoabilidade",
                                               "c":  "impessoalidade",
-                                              "d":  "publicidade"
+                                              "d":  "eficiência"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A exigência de concurso público para ingresso em cargos efetivos está diretamente relacionada ao princípio da impessoalidade, que veda critérios pessoais ou de favorecimento no acesso a cargos públicos, assegurando que o ingresso se dê por critérios técnicos e objetivos, aplicáveis igualmente a todos os candidatos.",
@@ -1118,10 +1118,10 @@
                          "texto_apoio":  "Servidores públicos efetivos, após cumprido o estágio probatório, adquirem estabilidade no cargo, o que dificulta sua exoneração fora das hipóteses previstas em lei.",
                          "enunciado":  "Entre os argumentos utilizados para justificar a manutenção dessa estabilidade está:",
                          "alternativas":  {
-                                              "a":  "eliminar qualquer possibilidade de avaliação de desempenho dos servidores",
+                                              "a":  "impedir definitivamente qualquer forma de exoneração de servidores públicos, mesmo por decisão judicial transitada em julgado",
                                               "b":  "proteger o servidor de pressões políticas indevidas, garantindo maior continuidade e imparcialidade técnica na execução de políticas públicas, independentemente de mudanças de governo",
-                                              "c":  "impedir definitivamente qualquer forma de exoneração de servidores públicos, mesmo por decisão judicial transitada em julgado",
-                                              "d":  "reduzir a qualidade da prestação de serviços públicos à população"
+                                              "c":  "reduzir a qualidade da prestação de serviços públicos à população",
+                                              "d":  "eliminar qualquer possibilidade de avaliação de desempenho dos servidores"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A estabilidade do servidor público é justificada, entre outros argumentos, como forma de protegê-lo de pressões políticas indevidas, garantindo maior continuidade administrativa e imparcialidade técnica na execução de políticas públicas ao longo de diferentes governos, sem que isso signifique impossibilidade absoluta de exoneração nas hipóteses previstas em lei.",
@@ -1132,10 +1132,10 @@
                          "texto_apoio":  "Diversas propostas de modernização da gestão pública defendem a vinculação de parte da remuneração ou da progressão na carreira de servidores públicos a critérios de desempenho e resultados.",
                          "enunciado":  "Esse tipo de mecanismo busca, sobretudo:",
                          "alternativas":  {
-                                              "a":  "transferir a gestão de pessoal do setor público para empresas privadas",
+                                              "a":  "eliminar qualquer diferenciação entre servidores com desempenhos distintos",
                                               "b":  "extinguir por completo o regime de cargos efetivos no serviço público",
                                               "c":  "criar incentivos para maior eficiência e qualidade na prestação de serviços públicos, associando parte da progressão funcional ao alcance de metas e resultados mensuráveis",
-                                              "d":  "eliminar qualquer diferenciação entre servidores com desempenhos distintos"
+                                              "d":  "transferir a gestão de pessoal do setor público para empresas privadas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Mecanismos de avaliação de desempenho no setor público buscam criar incentivos para maior eficiência e qualidade na prestação de serviços, associando parte da progressão funcional ou da remuneração ao alcance de metas e resultados mensuráveis, sem necessariamente extinguir o regime de cargos efetivos.",
@@ -1148,8 +1148,8 @@
                          "alternativas":  {
                                               "a":  "o acesso é a regra geral e o sigilo, a exceção, que deve ser justificada e fundamentada em hipóteses legais específicas, como segurança nacional ou proteção à intimidade",
                                               "b":  "toda informação em poder do Estado deve permanecer sigilosa, salvo autorização expressa da autoridade máxima do órgão",
-                                              "c":  "a lei se aplica exclusivamente a informações de natureza orçamentária",
-                                              "d":  "apenas jornalistas credenciados podem solicitar informações a órgãos públicos"
+                                              "c":  "apenas jornalistas credenciados podem solicitar informações a órgãos públicos",
+                                              "d":  "a lei se aplica exclusivamente a informações de natureza orçamentária"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Lei de Acesso à Informação estabelece que o acesso à informação pública é a regra geral, e o sigilo é a exceção, que deve ser justificada e fundamentada em hipóteses legais específicas, como segurança nacional ou proteção à intimidade, podendo qualquer cidadão, e não apenas jornalistas, solicitar informações aos órgãos públicos.",
@@ -1160,9 +1160,9 @@
                          "texto_apoio":  "Órgãos e entidades públicas têm adotado, de forma crescente, programas de integridade voltados a prevenir, detectar e remediar práticas de corrupção e fraude na gestão pública.",
                          "enunciado":  "Esses programas, também chamados de compliance público, geralmente incluem medidas como:",
                          "alternativas":  {
-                                              "a":  "extinção de auditorias internas nos órgãos públicos",
+                                              "a":  "eliminação de qualquer canal de denúncia interna sobre irregularidades",
                                               "b":  "concentração de todas as decisões administrativas em uma única autoridade, sem qualquer controle",
-                                              "c":  "eliminação de qualquer canal de denúncia interna sobre irregularidades",
+                                              "c":  "extinção de auditorias internas nos órgãos públicos",
                                               "d":  "códigos de conduta, canais de denúncia, treinamentos e mecanismos de gestão de riscos voltados a fortalecer a integridade institucional e reduzir a ocorrência de irregularidades"
                                           },
                          "resposta":  "d",
@@ -1176,8 +1176,8 @@
                          "alternativas":  {
                                               "a":  "proibir qualquer forma de parceria entre o Estado e organizações da sociedade civil",
                                               "b":  "conferir maior transparência, segurança jurídica e padronização aos instrumentos de parceria entre o poder público e organizações da sociedade civil sem fins lucrativos",
-                                              "c":  "eliminar qualquer forma de prestação de contas nas parcerias com entidades privadas",
-                                              "d":  "transformar todas as organizações da sociedade civil em órgãos públicos"
+                                              "c":  "transformar todas as organizações da sociedade civil em órgãos públicos",
+                                              "d":  "eliminar qualquer forma de prestação de contas nas parcerias com entidades privadas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O marco regulatório das organizações da sociedade civil buscou conferir maior transparência, segurança jurídica e padronização aos instrumentos de parceria entre o poder público e entidades sem fins lucrativos, estabelecendo regras mais claras de seleção, execução e prestação de contas dessas parcerias.",
@@ -1188,10 +1188,10 @@
                          "texto_apoio":  "Organizações sem fins lucrativos, como associações e fundações voltadas a causas sociais, ambientais ou culturais, são frequentemente designadas como parte do chamado terceiro setor.",
                          "enunciado":  "Essa denominação busca distingui-las tanto do Estado (primeiro setor) quanto do mercado voltado ao lucro (segundo setor), ocupando um espaço caracterizado por:",
                          "alternativas":  {
-                                              "a":  "busca de lucro como objetivo central de sua atuação, distribuído entre acionistas",
+                                              "a":  "subordinação hierárquica direta às empresas privadas que as financiam",
                                               "b":  "iniciativa privada com finalidade pública ou de interesse coletivo, sem objetivo de distribuição de lucros entre seus membros",
-                                              "c":  "subordinação hierárquica direta às empresas privadas que as financiam",
-                                              "d":  "atuação exclusivamente estatal, sem qualquer autonomia decisória"
+                                              "c":  "atuação exclusivamente estatal, sem qualquer autonomia decisória",
+                                              "d":  "busca de lucro como objetivo central de sua atuação, distribuído entre acionistas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O terceiro setor caracteriza-se pela iniciativa privada com finalidade pública ou de interesse coletivo, sem objetivo de distribuição de lucros entre seus membros, ocupando um espaço institucional distinto tanto do Estado, responsável por políticas públicas, quanto do mercado, voltado à geração de lucro para seus proprietários.",
@@ -1204,8 +1204,8 @@
                          "alternativas":  {
                                               "a":  "democracia participativa, que buscam ampliar o controle social sobre a formulação e a execução de políticas públicas para além da democracia representativa tradicional",
                                               "b":  "centralização decisória exclusiva no Poder Executivo, sem qualquer participação social",
-                                              "c":  "eliminação de qualquer instância de fiscalização sobre políticas sociais",
-                                              "d":  "substituição definitiva do Poder Legislativo na aprovação de leis orçamentárias"
+                                              "c":  "substituição definitiva do Poder Legislativo na aprovação de leis orçamentárias",
+                                              "d":  "eliminação de qualquer instância de fiscalização sobre políticas sociais"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Conselhos de políticas públicas com representação paritária de governo e sociedade civil são exemplos de mecanismos de democracia participativa, que buscam ampliar o controle social sobre a formulação e a execução de políticas públicas setoriais, complementando, sem substituir, os canais tradicionais da democracia representativa.",
@@ -1217,9 +1217,9 @@
                          "enunciado":  "Essa prática, conhecida como orçamento participativo, tem como principal objetivo:",
                          "alternativas":  {
                                               "a":  "ampliar a participação direta da população na definição de prioridades de investimento público, fortalecendo mecanismos de democracia participativa em nível local",
-                                              "b":  "impedir qualquer forma de fiscalização posterior sobre os recursos destinados",
-                                              "c":  "transferir toda a gestão orçamentária municipal para empresas privadas",
-                                              "d":  "eliminar qualquer papel do Poder Legislativo na aprovação final do orçamento"
+                                              "b":  "transferir a aprovação final da peça orçamentária das assembleias populares para a Câmara Municipal, sem qualquer participação direta da população",
+                                              "c":  "restringir a participação nas assembleias apenas a moradores de bairros de maior renda",
+                                              "d":  "substituir as assembleias públicas por decisões tomadas exclusivamente por técnicos da prefeitura"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O orçamento participativo tem como principal objetivo ampliar a participação direta da população na definição de prioridades de investimento público, fortalecendo mecanismos de democracia participativa em nível local, sem eliminar o papel do Poder Legislativo na aprovação final da peça orçamentária.",
@@ -1230,9 +1230,9 @@
                          "texto_apoio":  "Modelos de organização federativa podem ser classificados, de forma simplificada, entre federalismo dual, no qual União e entes subnacionais atuam em esferas de competência bem distintas e pouco integradas, e federalismo cooperativo, no qual há maior interação e colaboração entre os níveis de governo.",
                          "enunciado":  "A Constituição de 1988, ao prever competências comuns e concorrentes entre União, estados e municípios em áreas como saúde, educação e meio ambiente, aproxima-se mais do modelo de:",
                          "alternativas":  {
-                                              "a":  "confederação, na qual os estados podem se desligar livremente da União",
+                                              "a":  "federalismo dual, com esferas de competência rigidamente separadas",
                                               "b":  "unitarismo centralizado, sem qualquer autonomia dos entes subnacionais",
-                                              "c":  "federalismo dual, com esferas de competência rigidamente separadas",
+                                              "c":  "confederação, na qual os estados podem se desligar livremente da União",
                                               "d":  "federalismo cooperativo, que pressupõe articulação e colaboração entre os diferentes níveis de governo na execução de políticas públicas comuns"
                                           },
                          "resposta":  "d",
@@ -1244,9 +1244,9 @@
                          "texto_apoio":  "O artigo 23 da Constituição de 1988 lista um conjunto de competências que são exercidas conjuntamente pela União, pelos estados, pelo Distrito Federal e pelos municípios, como a proteção do meio ambiente e do patrimônio histórico.",
                          "enunciado":  "Essas competências, chamadas de comuns, exigem, para sua efetividade, sobretudo:",
                          "alternativas":  {
-                                              "a":  "a exclusão automática dos municípios de qualquer responsabilidade nessas áreas",
-                                              "b":  "a delegação obrigatória de toda a competência à União, que passaria a ser o único ente responsável",
-                                              "c":  "que cada ente federativo atue isoladamente, sem qualquer coordenação com os demais",
+                                              "a":  "a delegação obrigatória de toda a competência à União, que passaria a ser o único ente responsável",
+                                              "b":  "que cada ente federativo atue isoladamente, sem qualquer coordenação com os demais",
+                                              "c":  "a exclusão automática dos municípios de qualquer responsabilidade nessas áreas",
                                               "d":  "mecanismos de cooperação e coordenação entre os entes federativos, já que a Constituição não estabelece, por si só, uma hierarquia rígida entre eles nessas matérias"
                                           },
                          "resposta":  "d",
@@ -1258,9 +1258,9 @@
                          "texto_apoio":  "A Constituição brasileira veda que o governo contraia operações de crédito em montante superior ao das despesas de capital (investimentos), salvo autorização legislativa específica.",
                          "enunciado":  "Essa vedação, conhecida como regra de ouro das finanças públicas, tem como objetivo:",
                          "alternativas":  {
-                                              "a":  "proibir definitivamente qualquer forma de endividamento público no Brasil",
-                                              "b":  "eliminar a necessidade de autorização do Congresso Nacional para operações de crédito",
-                                              "c":  "permitir que o governo utilize livremente recursos de empréstimos para financiar despesas correntes, como salários",
+                                              "a":  "eliminar a necessidade de autorização do Congresso Nacional para operações de crédito",
+                                              "b":  "permitir que o governo utilize livremente recursos de empréstimos para financiar despesas correntes, como salários",
+                                              "c":  "proibir definitivamente qualquer forma de endividamento público no Brasil",
                                               "d":  "impedir que o endividamento público seja usado para financiar despesas correntes, restringindo-o, em princípio, ao financiamento de investimentos que ampliem a capacidade produtiva ou o patrimônio público"
                                           },
                          "resposta":  "d",
@@ -1273,8 +1273,8 @@
                          "enunciado":  "Esse tipo de renegociação busca, entre outros objetivos:",
                          "alternativas":  {
                                               "a":  "eliminar definitivamente qualquer obrigação de pagamento dos estados endividados",
-                                              "b":  "impedir que estados endividados prestem contas de sua situação fiscal",
-                                              "c":  "transferir a totalidade da dívida estadual para os municípios",
+                                              "b":  "transferir a totalidade da dívida estadual para os municípios",
+                                              "c":  "impedir que estados endividados prestem contas de sua situação fiscal",
                                               "d":  "evitar uma crise de solvência dos entes subnacionais que poderia comprometer a prestação de serviços públicos essenciais, em troca de compromissos de ajuste fiscal por parte dos estados beneficiados"
                                           },
                          "resposta":  "d",
@@ -1287,9 +1287,9 @@
                          "enunciado":  "Essa forma de cooperação, conhecida como consórcio público, tem como principal vantagem:",
                          "alternativas":  {
                                               "a":  "permitir ganhos de escala e viabilizar serviços que seriam economicamente inviáveis para um único município executar isoladamente, especialmente em municípios pequenos",
-                                              "b":  "substituir integralmente a competência dos estados sobre políticas regionais",
-                                              "c":  "eliminar qualquer economia de escala na prestação de serviços públicos",
-                                              "d":  "concentrar toda a gestão pública regional nas mãos de um único prefeito"
+                                              "b":  "concentrar toda a gestão pública regional nas mãos de um único prefeito",
+                                              "c":  "substituir integralmente a competência dos estados sobre políticas regionais",
+                                              "d":  "eliminar qualquer economia de escala na prestação de serviços públicos"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os consórcios públicos permitem ganhos de escala e viabilizam a prestação de serviços que seriam economicamente inviáveis para um único município executar isoladamente, especialmente em municípios pequenos, sem que isso implique a extinção da autonomia de cada ente consorciado ou a substituição da competência estadual.",
@@ -1300,10 +1300,10 @@
                          "texto_apoio":  "Grandes centros urbanos e os municípios vizinhos que compartilham problemas comuns, como transporte, saneamento e uso do solo, podem ser organizados institucionalmente como regiões metropolitanas.",
                          "enunciado":  "A criação de estruturas de governança metropolitana busca, sobretudo:",
                          "alternativas":  {
-                                              "a":  "transferir toda a arrecadação tributária municipal para o governo estadual",
+                                              "a":  "extinguir a existência de municípios distintos dentro da região metropolitana",
                                               "b":  "coordenar políticas públicas de interesse comum entre municípios vizinhos, para questões que ultrapassam os limites administrativos de um único município, como mobilidade urbana e gestão de resíduos",
-                                              "c":  "extinguir a existência de municípios distintos dentro da região metropolitana",
-                                              "d":  "eliminar a autonomia política dos municípios que compõem a região metropolitana"
+                                              "c":  "eliminar a autonomia política dos municípios que compõem a região metropolitana",
+                                              "d":  "transferir toda a arrecadação tributária municipal para o governo estadual"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Estruturas de governança metropolitana buscam coordenar políticas públicas de interesse comum entre municípios vizinhos, especialmente em questões que ultrapassam os limites administrativos de um único município, como mobilidade urbana, saneamento e uso do solo, sem eliminar a autonomia política de cada ente municipal envolvido.",
@@ -1314,8 +1314,8 @@
                          "texto_apoio":  "Para que um recurso extraordinário seja julgado pelo Supremo Tribunal Federal, a parte recorrente deve demonstrar que a questão constitucional discutida ultrapassa os interesses subjetivos das partes envolvidas no processo.",
                          "enunciado":  "Esse requisito, denominado repercussão geral, tem como principal função:",
                          "alternativas":  {
-                                              "a":  "eliminar por completo a possibilidade de recurso ao STF em matéria constitucional",
-                                              "b":  "obrigar o STF a julgar individualmente todos os recursos extraordinários apresentados, sem qualquer filtro",
+                                              "a":  "obrigar o STF a julgar individualmente todos os recursos extraordinários apresentados, sem qualquer filtro",
+                                              "b":  "eliminar por completo a possibilidade de recurso ao STF em matéria constitucional",
                                               "c":  "permitir que o STF selecione, entre os recursos apresentados, aqueles que tratam de questões constitucionais relevantes do ponto de vista econômico, político, social ou jurídico, cuja decisão deve orientar o julgamento de casos semelhantes em todo o país",
                                               "d":  "restringir a repercussão geral apenas a processos de natureza eleitoral"
                                           },
@@ -1329,9 +1329,9 @@
                          "enunciado":  "Esse instrumento, conhecido como ação civil pública, tem como principal função:",
                          "alternativas":  {
                                               "a":  "viabilizar a defesa judicial de interesses que ultrapassam a esfera individual, beneficiando de forma indivisível um número indeterminado ou determinável de pessoas",
-                                              "b":  "substituir integralmente o processo penal em crimes contra a administração pública",
-                                              "c":  "conceder automaticamente indenização a todos os cidadãos do país, independentemente do caso concreto",
-                                              "d":  "proteger exclusivamente interesses individuais de uma única pessoa, sem qualquer alcance coletivo"
+                                              "b":  "conceder automaticamente indenização a todos os cidadãos do país, independentemente do caso concreto",
+                                              "c":  "proteger exclusivamente interesses individuais de uma única pessoa, sem qualquer alcance coletivo",
+                                              "d":  "substituir integralmente o processo penal em crimes contra a administração pública"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ação civil pública viabiliza a defesa judicial de interesses difusos e coletivos, que ultrapassam a esfera puramente individual, beneficiando de forma indivisível um número indeterminado ou determinável de pessoas, como no caso de danos ao meio ambiente ou ao patrimônio público.",
@@ -1342,9 +1342,9 @@
                          "texto_apoio":  "A Lei de Improbidade Administrativa estabelece sanções, de natureza civil, a agentes públicos que pratiquem atos que causem prejuízo ao erário, gerem enriquecimento ilícito ou atentem contra princípios da administração pública.",
                          "enunciado":  "As sanções previstas nessa lei podem incluir, entre outras:",
                          "alternativas":  {
-                                              "a":  "a extinção automática do órgão público em que o ato de improbidade ocorreu",
+                                              "a":  "exclusivamente a prisão do agente público responsável",
                                               "b":  "o ressarcimento ao erário, a perda da função pública, a suspensão dos direitos políticos e o pagamento de multa civil, aplicadas de forma proporcional à gravidade do ato praticado",
-                                              "c":  "exclusivamente a prisão do agente público responsável",
+                                              "c":  "a extinção automática do órgão público em que o ato de improbidade ocorreu",
                                               "d":  "a impossibilidade de qualquer recurso ou defesa por parte do agente acusado"
                                           },
                          "resposta":  "b",
@@ -1356,8 +1356,8 @@
                          "texto_apoio":  "Diversos órgãos públicos mantêm unidades de ouvidoria, responsáveis por receber reclamações, sugestões e denúncias de cidadãos sobre a prestação de serviços públicos.",
                          "enunciado":  "A atuação das ouvidorias públicas está associada, sobretudo, ao fortalecimento de:",
                          "alternativas":  {
-                                              "a":  "instâncias exclusivamente judiciais de resolução de conflitos entre cidadãos e o Estado",
-                                              "b":  "mecanismos de controle interno hierárquico, sem qualquer participação do cidadão",
+                                              "a":  "mecanismos de controle interno hierárquico, sem qualquer participação do cidadão",
+                                              "b":  "instâncias exclusivamente judiciais de resolução de conflitos entre cidadãos e o Estado",
                                               "c":  "processos eleitorais, sem qualquer relação com a prestação de serviços públicos",
                                               "d":  "canais de participação e controle social, que permitem à população contribuir para a melhoria da qualidade dos serviços públicos e para a identificação de irregularidades na atuação da administração"
                                           },

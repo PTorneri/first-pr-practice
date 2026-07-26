@@ -48,9 +48,17 @@ implementada aqui, que reaproveita a estrutura de dados já existente sempre que
 ### Priorização por estudo de provas reais
 
 O sorteio de frentes — nos dias normais e nas ~45 questões de cada simulado — não é uniforme:
-segue os pesos de `data/priority-weights.js`, derivados de **estudo-provas-fgv-insper.pdf**
-(incluso no projeto), um estudo de 6 anos de provas reais da FGV Direito SP (2021-2026) mais o
-edital oficial da Insper. Frentes de prioridade máxima (ex.: Matemática/RLM, Interpretação de
+segue os pesos de `data/priority-weights.js`, derivados originalmente de
+**estudo-provas-fgv-insper.pdf** (incluso no projeto), um estudo de 6 anos de provas reais da FGV
+Direito SP (2021-2026) mais o edital oficial da Insper. Em 2026-07 os pesos foram revisados à luz
+de um segundo estudo, mais rigoroso e abrangente, **estudo-formulacao-provas-objetivas-fgv-vunesp-enem-fuvest-2016-2025.pdf**
+(também incluso no projeto), que analisa 60 combinações de matéria×banca (FGV Direito, Vunesp,
+ENEM, Fuvest) com foco em método de formulação de questões, lógica de distratores e frequência de
+temas 2016-2025. O novo estudo confirmou de forma independente a estrutura de pesos já adotada —
+nenhuma frente precisou mudar de faixa de prioridade — mas afinou o racional de cada uma (comentado
+em `priority-weights.js`) e tornou mais preciso o caso de Ciências da Natureza (confirmado que a
+FGV Direito não testa Física, Química nem Biologia em nenhuma fase, não apenas "baixa frequência").
+Frentes de prioridade máxima (ex.: Matemática/RLM, Interpretação de
 Texto, Geografia) têm peso 3; prioridade média (ex.: História, Atualidades), peso 2; prioridade
 estrutural assimétrica — decisiva numa banca, secundária na outra (ex.: Artes só na FGV,
 Filosofia/Sociologia só na Insper) — peso 1,5; prioridade baixa (Ciências da Natureza, que nunca
@@ -90,9 +98,12 @@ próprio card mostra um resumo tipo "com base nos seus erros, a semana que vem f
 Antes dos exercícios de cada frente, um bloco colapsável "Teoria: gatilhos e pegadinhas deste
 tema" (`data/theory.js`) resume o que mais cai, lista **gatilhos** (padrão do enunciado → método
 de resolução, ex.: "aumentou X% e depois diminuiu X%" → nunca volta ao valor original) e
-**pegadinhas** comuns daquela frente. Conteúdo original, escrito com base no mesmo estudo de
-provas reais usado pra `priority-weights.js`. Abrir a teoria de todos os temas do dia conta como
-uma das tarefas do checklist (abaixo).
+**pegadinhas** comuns daquela frente. Conteúdo original, escrito com base nos dois estudos de
+provas reais usados pra `priority-weights.js` — a revisão de 2026-07 priorizou sempre o que o
+novo estudo documenta especificamente para a FGV Direito; onde a evidência pública da FGV é fraca
+ou ausente (vários casos, sinalizados no comentário de topo do arquivo), o conteúdo se apoia por
+analogia no padrão de Vunesp/ENEM/Fuvest, nunca como dado confirmado da FGV. Abrir a teoria de
+todos os temas do dia conta como uma das tarefas do checklist (abaixo).
 
 ## Essenciais vs. extras
 
@@ -237,6 +248,16 @@ letras de música protegidos por direitos autorais, e reproduzir dezenas de ques
 trecho pontual. Em vez disso, a aba **Meu progresso** tem uma seção com links diretos para as
 páginas oficiais de provas e gabaritos da FGV e do Insper, caso você queira treinar com o
 material 100% autêntico por conta própria.
+
+Em 2026-07 o banco de questões e a teoria por frente também passaram por uma revisão apoiada em
+`estudo-formulacao-provas-objetivas-fgv-vunesp-enem-fuvest-2016-2025.pdf`, que documenta o método
+real de formulação (estrutura de comando, uso de texto-base, lógica de distratores) da FGV Direito
+e, por comparação, de Vunesp/ENEM/Fuvest. O princípio de originalidade continua o mesmo: nenhuma
+questão do banco é copiada ou adaptada de prova real — o estudo serve só para calibrar o *estilo*
+(como uma questão nova deveria ser formulada), nunca como fonte de conteúdo a reproduzir. Onde a
+evidência pública sobre a FGV é fraca (o próprio estudo sinaliza isso caso a caso), o app se
+inspira no estilo de outras bancas por analogia, deixando essa ressalva registrada nos comentários
+de `data/theory.js`.
 
 ## Sobre os vídeos
 

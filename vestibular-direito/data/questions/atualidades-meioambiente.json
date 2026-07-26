@@ -7,9 +7,9 @@
                          "enunciado":  "O principal problema ambiental contemporâneo associado a esse fenômeno não é sua existência em si, mas:",
                          "alternativas":  {
                                               "a":  "a intensificação do efeito estufa pelo aumento antropogênico da concentração desses gases na atmosfera",
-                                              "b":  "a redução da temperatura média do planeta",
-                                              "c":  "o desaparecimento total do efeito estufa natural",
-                                              "d":  "a substituição do vapor d\u0027água por oxigênio na atmosfera"
+                                              "b":  "a substituição do vapor d\u0027água por oxigênio na atmosfera",
+                                              "c":  "a redução da temperatura média do planeta observada nas últimas décadas",
+                                              "d":  "a atuação isolada de fatores solares e vulcânicos, sem contribuição relevante da atividade humana"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O efeito estufa é um fenômeno natural essencial à manutenção da vida na Terra; o problema ambiental atual decorre da intensificação desse efeito pelo aumento da concentração de gases de efeito estufa na atmosfera, causado principalmente pela queima de combustíveis fósseis e outras atividades humanas."
@@ -20,9 +20,9 @@
                          "enunciado":  "O gás de efeito estufa emitido em maior volume pelas atividades humanas, associado principalmente à queima de combustíveis fósseis e ao desmatamento, é:",
                          "alternativas":  {
                                               "a":  "o metano",
-                                              "b":  "o ozônio troposférico",
+                                              "b":  "o óxido nitroso",
                                               "c":  "o dióxido de carbono (CO2)",
-                                              "d":  "o óxido nitroso"
+                                              "d":  "o ozônio troposférico"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O dióxido de carbono é o gás de efeito estufa emitido em maior volume pelas atividades humanas, sobretudo pela queima de combustíveis fósseis, processos industriais e desmatamento, embora outros gases, como o metano, tenham maior potencial de retenção de calor por molécula."
@@ -32,9 +32,9 @@
                          "texto_apoio":  "O derretimento de geleiras e calotas polares, associado à expansão térmica da água do mar, é um dos efeitos monitorados por cientistas do clima em escala global.",
                          "enunciado":  "Esse conjunto de fenômenos está diretamente relacionado a qual consequência do aquecimento global?",
                          "alternativas":  {
-                                              "a":  "estabilização definitiva dos padrões de chuva em todas as regiões",
-                                              "b":  "redução do nível médio dos oceanos",
-                                              "c":  "diminuição da frequência de eventos climáticos extremos",
+                                              "a":  "diminuição da frequência de eventos climáticos extremos em regiões litorâneas",
+                                              "b":  "maior previsibilidade dos padrões de chuva em regiões costeiras",
+                                              "c":  "redução do nível médio dos oceanos observada nas últimas décadas",
                                               "d":  "elevação do nível médio dos oceanos"
                                           },
                          "resposta":  "d",
@@ -46,9 +46,9 @@
                          "enunciado":  "Esse reconhecimento diferenciado de responsabilidades e capacidades entre países desenvolvidos e em desenvolvimento é expresso pelo princípio de:",
                          "alternativas":  {
                                               "a":  "responsabilidades comuns, porém diferenciadas",
-                                              "b":  "livre concorrência ambiental",
+                                              "b":  "soberania tarifária plena",
                                               "c":  "igualdade formal absoluta entre Estados",
-                                              "d":  "soberania tarifária plena"
+                                              "d":  "livre concorrência ambiental"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O princípio das responsabilidades comuns, porém diferenciadas, reconhece que todos os países têm o dever de agir contra as mudanças climáticas, mas atribui maior responsabilidade histórica e capacidade de resposta aos países desenvolvidos, que emitiram mais gases de efeito estufa ao longo do processo de industrialização."
@@ -58,10 +58,10 @@
                          "texto_apoio":  "Em acordos climáticos multilaterais mais recentes, cada país define voluntariamente suas próprias metas de redução de emissões, que são posteriormente submetidas a revisões periódicas para aumentar sua ambição.",
                          "enunciado":  "Esse mecanismo de metas nacionais voluntárias, mas sujeitas a revisão periódica, é uma alternativa a modelos anteriores que:",
                          "alternativas":  {
-                                              "a":  "eram aplicáveis apenas a países em desenvolvimento",
-                                              "b":  "não previam qualquer meta de redução de emissões",
+                                              "a":  "previam metas de redução apenas para o setor de transportes, excluindo os demais setores da economia",
+                                              "b":  "eram aplicáveis apenas a países em desenvolvimento",
                                               "c":  "estabeleciam metas obrigatórias uniformes idênticas para todos os países, sem distinção",
-                                              "d":  "dispensavam qualquer forma de monitoramento internacional"
+                                              "d":  "concentravam o monitoramento do cumprimento das metas exclusivamente em organizações não governamentais"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O mecanismo de metas nacionalmente determinadas busca ampliar a adesão dos países ao permitir que cada um defina suas próprias metas de acordo com sua realidade, em contraste com modelos anteriores que impunham metas obrigatórias mais uniformes, o que dificultava a adesão de determinados países."
@@ -72,9 +72,9 @@
                          "enunciado":  "Nesse mecanismo, uma empresa que reduz suas emissões abaixo do limite estabelecido pode:",
                          "alternativas":  {
                                               "a":  "vender o excedente de permissões de emissão a outras empresas que ultrapassaram seus limites",
-                                              "b":  "ser obrigada a doar suas permissões ao governo sem compensação",
-                                              "c":  "ser automaticamente multada pelo governo",
-                                              "d":  "perder o direito de operar no mercado"
+                                              "b":  "perder o direito de operar no mercado",
+                                              "c":  "ser obrigada a doar suas permissões ao governo sem compensação",
+                                              "d":  "ser automaticamente multada pelo governo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No sistema de comércio de emissões (cap-and-trade), empresas que emitem menos do que o limite permitido podem vender o excedente de permissões a empresas que precisam emitir mais do que sua cota original, criando um incentivo econômico para a redução das emissões."
@@ -85,9 +85,9 @@
                          "enunciado":  "Esse processo de reconfiguração da matriz energética em direção a fontes de menor emissão de carbono é denominado:",
                          "alternativas":  {
                                               "a":  "transição energética",
-                                              "b":  "descarbonização regressiva",
-                                              "c":  "eletrificação fóssil",
-                                              "d":  "autossuficiência fóssil"
+                                              "b":  "eletrificação fóssil",
+                                              "c":  "autossuficiência fóssil",
+                                              "d":  "descarbonização regressiva"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A transição energética refere-se ao processo de substituição gradual de fontes de energia baseadas em combustíveis fósseis por fontes renováveis e de menor emissão de carbono, como energia solar, eólica e hídrica."
@@ -97,8 +97,8 @@
                          "texto_apoio":  "A geração de energia solar depende da incidência de luz solar, e a geração eólica depende da intensidade dos ventos, ambas variáveis ao longo do dia e das estações.",
                          "enunciado":  "Essa característica das fontes renováveis citadas representa um desafio técnico conhecido como:",
                          "alternativas":  {
-                                              "a":  "esgotamento da fonte",
-                                              "b":  "escassez de matéria-prima",
+                                              "a":  "escassez de matéria-prima",
+                                              "b":  "esgotamento da fonte",
                                               "c":  "intermitência",
                                               "d":  "poluição atmosférica direta"
                                           },
@@ -111,8 +111,8 @@
                          "enunciado":  "Em contraste com esse modelo linear, a economia circular propõe principalmente:",
                          "alternativas":  {
                                               "a":  "reduzir, reutilizar, reciclar e reintegrar materiais e produtos ao ciclo produtivo, minimizando a geração de resíduos",
-                                              "b":  "eliminar completamente a necessidade de indústria de transformação",
-                                              "c":  "aumentar a extração de recursos naturais não renováveis",
+                                              "b":  "aumentar a extração de recursos naturais não renováveis",
+                                              "c":  "eliminar completamente a necessidade de indústria de transformação",
                                               "d":  "descartar produtos com maior rapidez para estimular o consumo"
                                           },
                          "resposta":  "a",
@@ -123,9 +123,9 @@
                          "texto_apoio":  "Investidores e empresas têm incorporado, na avaliação de riscos e oportunidades, critérios que vão além do desempenho financeiro tradicional.",
                          "enunciado":  "A sigla ESG, amplamente utilizada nesse contexto, refere-se a critérios de avaliação relacionados a:",
                          "alternativas":  {
-                                              "a":  "energia, sustentabilidade e gestão",
-                                              "b":  "ética, saúde e globalização",
-                                              "c":  "eficiência, segurança e governabilidade",
+                                              "a":  "ética, saúde e globalização",
+                                              "b":  "eficiência, segurança e governabilidade",
+                                              "c":  "energia, sustentabilidade e gestão",
                                               "d":  "ambiental, social e governança corporativa"
                                           },
                          "resposta":  "d",
@@ -149,9 +149,9 @@
                          "texto_apoio":  "Florestas, rios e outros ecossistemas fornecem benefícios como regulação do clima, purificação da água e polinização de plantas cultivadas, muitas vezes sem custo direto para quem os utiliza.",
                          "enunciado":  "Esses benefícios que os ecossistemas fornecem à sociedade são denominados:",
                          "alternativas":  {
-                                              "a":  "créditos de biodiversidade obrigatórios",
-                                              "b":  "externalidades tributárias",
-                                              "c":  "commodities ambientais",
+                                              "a":  "commodities ambientais",
+                                              "b":  "créditos de biodiversidade obrigatórios",
+                                              "c":  "externalidades tributárias",
                                               "d":  "serviços ecossistêmicos"
                                           },
                          "resposta":  "d",
@@ -162,9 +162,9 @@
                          "texto_apoio":  "Organizações e indivíduos têm buscado estimar o volume total de gases de efeito estufa emitido, direta ou indiretamente, por suas atividades cotidianas ou processos produtivos.",
                          "enunciado":  "Essa medida agregada de emissões associadas a um indivíduo, produto ou organização é conhecida como:",
                          "alternativas":  {
-                                              "a":  "taxa de reflorestamento",
+                                              "a":  "pegada hídrica",
                                               "b":  "índice de biodiversidade",
-                                              "c":  "pegada hídrica",
+                                              "c":  "taxa de reflorestamento",
                                               "d":  "pegada de carbono"
                                           },
                          "resposta":  "d",
@@ -176,9 +176,9 @@
                          "enunciado":  "Esse insumo energético, apontado como alternativa para descarbonizar setores de difícil eletrificação, como siderurgia e transporte pesado, é conhecido como:",
                          "alternativas":  {
                                               "a":  "hidrogênio cinza",
-                                              "b":  "hidrogênio fóssil",
+                                              "b":  "hidrogênio azul",
                                               "c":  "hidrogênio verde",
-                                              "d":  "hidrogênio azul"
+                                              "d":  "hidrogênio fóssil"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O hidrogênio verde é produzido a partir da eletrólise da água utilizando energia elétrica de fontes renováveis, sem emissão direta de gases de efeito estufa no processo produtivo, sendo considerado uma alternativa promissora para descarbonizar setores industriais de difícil eletrificação."
@@ -189,8 +189,8 @@
                          "enunciado":  "Esse princípio é conhecido como:",
                          "alternativas":  {
                                               "a":  "princípio da precaução",
-                                              "b":  "princípio da anterioridade tributária",
-                                              "c":  "princípio da livre concorrência",
+                                              "b":  "princípio da livre concorrência",
+                                              "c":  "princípio da anterioridade tributária",
                                               "d":  "princípio do poluidor-pagador"
                                           },
                          "resposta":  "d",
@@ -203,8 +203,8 @@
                          "alternativas":  {
                                               "a":  "princípio da precaução",
                                               "b":  "princípio do poluidor-pagador",
-                                              "c":  "princípio da subsidiariedade",
-                                              "d":  "princípio da livre iniciativa"
+                                              "c":  "princípio da livre iniciativa",
+                                              "d":  "princípio da subsidiariedade"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O princípio da precaução estabelece que a falta de certeza científica absoluta sobre os riscos de uma atividade não deve ser motivo para adiar medidas eficazes de proteção ambiental, sobretudo quando há risco de dano grave ou irreversível."
@@ -214,9 +214,9 @@
                          "texto_apoio":  "Uma fábrica que polui um rio ao despejar resíduos sem tratamento impõe custos a pescadores e moradores da região que não são refletidos no preço de seus produtos.",
                          "enunciado":  "Do ponto de vista da teoria econômica, esse custo imposto a terceiros que não participam diretamente da transação é chamado de:",
                          "alternativas":  {
-                                              "a":  "economia de escala",
+                                              "a":  "externalidade positiva",
                                               "b":  "custo de oportunidade",
-                                              "c":  "externalidade positiva",
+                                              "c":  "economia de escala",
                                               "d":  "externalidade negativa"
                                           },
                          "resposta":  "d",
@@ -227,10 +227,10 @@
                          "texto_apoio":  "Um conjunto de 17 objetivos globais, adotado por praticamente todos os países-membros da ONU, estabelece metas relacionadas a erradicação da pobreza, igualdade de gênero, ação climática e outros temas, a serem perseguidas até um horizonte temporal comum.",
                          "enunciado":  "Esse conjunto de objetivos, conhecido como Objetivos de Desenvolvimento Sustentável (ODS), caracteriza-se por:",
                          "alternativas":  {
-                                              "a":  "substituir integralmente as legislações ambientais nacionais",
-                                              "b":  "ser juridicamente vinculante e sujeito a sanções automáticas em caso de descumprimento",
+                                              "a":  "aplicar-se exclusivamente a países em desenvolvimento",
+                                              "b":  "substituir integralmente as legislações ambientais nacionais",
                                               "c":  "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes, que orientam políticas públicas e compromissos voluntários dos países",
-                                              "d":  "aplicar-se exclusivamente a países em desenvolvimento"
+                                              "d":  "ser juridicamente vinculante e sujeito a sanções automáticas em caso de descumprimento"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os ODS constituem uma agenda global não vinculante juridicamente, que integra dimensões econômicas, sociais e ambientais do desenvolvimento sustentável, servindo como referência para políticas públicas, mas dependendo da adesão voluntária dos países para sua implementação."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "Relatórios científicos internacionais têm apontado taxas de extinção de espécies muito superiores às taxas históricas médias observadas ao longo da história geológica do planeta.",
                          "enunciado":  "Entre os principais fatores associados a essa aceleração da perda de biodiversidade está:",
                          "alternativas":  {
-                                              "a":  "o aumento da área de unidades de conservação em todo o mundo",
-                                              "b":  "a redução do comércio internacional de produtos agrícolas",
+                                              "a":  "a redução do comércio internacional de produtos agrícolas",
+                                              "b":  "a ausência completa de atividades humanas nos ecossistemas naturais",
                                               "c":  "a destruição e fragmentação de habitats naturais, associada à expansão agrícola e urbana",
-                                              "d":  "a ausência completa de atividades humanas nos ecossistemas naturais"
+                                              "d":  "o aumento da área de unidades de conservação em todo o mundo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A destruição e a fragmentação de habitats naturais, impulsionadas pela expansão agrícola, urbana e de infraestrutura, estão entre os principais fatores associados à aceleração da perda de biodiversidade observada nas últimas décadas."
@@ -280,9 +280,9 @@
                          "enunciado":  "Esse conjunto de práticas é associado ao conceito de:",
                          "alternativas":  {
                                               "a":  "agricultura sustentável",
-                                              "b":  "desertificação induzida",
-                                              "c":  "agricultura de subsistência exclusiva",
-                                              "d":  "monocultura intensiva sem manejo do solo"
+                                              "b":  "agricultura de subsistência exclusiva",
+                                              "c":  "monocultura intensiva sem manejo do solo",
+                                              "d":  "desertificação induzida"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Práticas como plantio direto, rotação de culturas e integração lavoura-pecuária-floresta fazem parte do conceito de agricultura sustentável, que busca manter ou aumentar a produtividade agrícola reduzindo impactos negativos sobre o solo, a água e a biodiversidade."
@@ -292,9 +292,9 @@
                          "texto_apoio":  "A destinação inadequada de resíduos sólidos urbanos, como o descarte em lixões a céu aberto, ainda é uma realidade em diversas regiões do mundo.",
                          "enunciado":  "Em comparação com lixões a céu aberto, aterros sanitários adequadamente projetados diferenciam-se, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "serem construídos exclusivamente em áreas urbanas centrais",
+                                              "a":  "não possuírem nenhum tipo de impacto ambiental",
                                               "b":  "conterem sistemas de impermeabilização do solo e tratamento de gases e líquidos gerados pela decomposição dos resíduos, reduzindo a contaminação do solo e da água",
-                                              "c":  "não possuírem nenhum tipo de impacto ambiental",
+                                              "c":  "serem construídos exclusivamente em áreas urbanas centrais",
                                               "d":  "dispensarem qualquer forma de monitoramento ambiental"
                                           },
                          "resposta":  "b",
@@ -318,8 +318,8 @@
                          "texto_apoio":  "Empresas e governos têm comprado certificados que representam a redução ou remoção de determinada quantidade de gases de efeito estufa da atmosfera, gerados por projetos como reflorestamento ou energia limpa.",
                          "enunciado":  "Esses certificados, negociados em mercados voluntários ou regulados, são conhecidos como:",
                          "alternativas":  {
-                                              "a":  "cotas de importação",
-                                              "b":  "títulos públicos verdes",
+                                              "a":  "títulos públicos verdes",
+                                              "b":  "cotas de importação",
                                               "c":  "créditos de carbono",
                                               "d":  "debêntures ambientais"
                                           },
@@ -331,10 +331,10 @@
                          "texto_apoio":  "Grandes volumes de resíduos plásticos, descartados de forma inadequada, acabam chegando a rios e, posteriormente, aos oceanos, onde se degradam lentamente.",
                          "enunciado":  "Um dos principais impactos ambientais associados à poluição plástica marinha é:",
                          "alternativas":  {
-                                              "a":  "a eliminação de espécies invasoras marinhas",
+                                              "a":  "o aumento da absorção de CO2 pelos oceanos",
                                               "b":  "a ingestão e o enredamento de animais marinhos, além da formação de microplásticos que entram na cadeia alimentar",
                                               "c":  "a redução da salinidade da água do mar",
-                                              "d":  "o aumento da absorção de CO2 pelos oceanos"
+                                              "d":  "a eliminação de espécies invasoras marinhas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A poluição plástica nos oceanos causa impactos como a ingestão de plástico e o enredamento de animais marinhos, além da fragmentação em microplásticos, que são ingeridos por organismos em diferentes níveis da cadeia alimentar, incluindo espécies consumidas por humanos."
@@ -344,9 +344,9 @@
                          "texto_apoio":  "Parques nacionais, reservas biológicas e áreas de proteção ambiental são categorias de espaços territoriais legalmente protegidos, com diferentes graus de restrição ao uso humano.",
                          "enunciado":  "O principal objetivo da criação de unidades de conservação é:",
                          "alternativas":  {
-                                              "a":  "eliminar toda e qualquer presença de populações tradicionais no território nacional",
-                                              "b":  "transferir a gestão de recursos naturais exclusivamente para empresas privadas",
-                                              "c":  "estimular a exploração comercial irrestrita dos recursos naturais locais",
+                                              "a":  "transferir a gestão de recursos naturais exclusivamente para empresas privadas",
+                                              "b":  "estimular a exploração comercial irrestrita dos recursos naturais locais",
+                                              "c":  "eliminar toda e qualquer presença de populações tradicionais no território nacional",
                                               "d":  "proteger ecossistemas, espécies e processos ecológicos, podendo conciliar, em alguns casos, conservação com pesquisa científica e uso sustentável"
                                           },
                          "resposta":  "d",
@@ -357,10 +357,10 @@
                          "texto_apoio":  "Diante dos efeitos já observados das mudanças climáticas, como eventos extremos mais frequentes, países têm investido tanto em reduzir emissões quanto em se preparar para os impactos já inevitáveis.",
                          "enunciado":  "A diferença central entre mitigação e adaptação às mudanças climáticas é que a mitigação busca:",
                          "alternativas":  {
-                                              "a":  "eliminar totalmente qualquer efeito futuro das mudanças climáticas",
+                                              "a":  "substituir integralmente a necessidade de políticas de adaptação",
                                               "b":  "reduzir as causas das mudanças climáticas, enquanto a adaptação busca reduzir a vulnerabilidade e os danos causados por seus efeitos já em curso",
-                                              "c":  "substituir integralmente a necessidade de políticas de adaptação",
-                                              "d":  "reduzir a vulnerabilidade a efeitos climáticos, enquanto a adaptação busca reduzir emissões de gases de efeito estufa"
+                                              "c":  "reduzir a vulnerabilidade a efeitos climáticos, enquanto a adaptação busca reduzir emissões de gases de efeito estufa",
+                                              "d":  "eliminar totalmente qualquer efeito futuro das mudanças climáticas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A mitigação refere-se a ações voltadas a reduzir as causas das mudanças climáticas, como a redução de emissões de gases de efeito estufa, enquanto a adaptação busca reduzir a vulnerabilidade de pessoas, cidades e ecossistemas aos efeitos climáticos que já estão em curso ou são inevitáveis."
@@ -370,10 +370,10 @@
                          "texto_apoio":  "Países em desenvolvimento frequentemente argumentam que necessitam de apoio financeiro internacional para reduzir emissões e se adaptar aos efeitos das mudanças climáticas sem comprometer seu desenvolvimento econômico.",
                          "enunciado":  "Os recursos transferidos de países desenvolvidos a países em desenvolvimento para apoiar ações climáticas são chamados de:",
                          "alternativas":  {
-                                              "a":  "tarifa ambiental compensatória",
+                                              "a":  "subsídio agrícola internacional",
                                               "b":  "financiamento climático",
-                                              "c":  "subsídio agrícola internacional",
-                                              "d":  "dívida externa climática"
+                                              "c":  "dívida externa climática",
+                                              "d":  "tarifa ambiental compensatória"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O financiamento climático refere-se aos recursos financeiros mobilizados, sobretudo de países desenvolvidos para países em desenvolvimento, destinados a apoiar ações de mitigação e adaptação às mudanças climáticas, sendo tema recorrente de negociações em conferências internacionais sobre clima."
@@ -384,9 +384,9 @@
                          "enunciado":  "Uma economia de baixo carbono é caracterizada, sobretudo, por:",
                          "alternativas":  {
                                               "a":  "reduzir a intensidade de emissões de gases de efeito estufa por unidade de produção ou consumo, associando crescimento econômico a menor impacto climático",
-                                              "b":  "restringir-se apenas a países de baixa renda",
+                                              "b":  "eliminar totalmente a produção industrial e o uso de energia",
                                               "c":  "depender exclusivamente de combustíveis fósseis para sustentar o crescimento",
-                                              "d":  "eliminar totalmente a produção industrial e o uso de energia"
+                                              "d":  "restringir-se apenas a países de baixa renda"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Uma economia de baixo carbono busca reduzir a intensidade de emissões de gases de efeito estufa associadas à produção e ao consumo, buscando dissociar o crescimento econômico do aumento proporcional das emissões, por meio de eficiência energética e fontes renováveis."
@@ -397,9 +397,9 @@
                          "enunciado":  "Esse instrumento de política ambiental, utilizado para prever e mitigar impactos antes da instalação de um empreendimento, é conhecido como:",
                          "alternativas":  {
                                               "a":  "auditoria fiscal",
-                                              "b":  "certificado de origem",
+                                              "b":  "balanço patrimonial ambiental",
                                               "c":  "Estudo e Relatório de Impacto Ambiental (EIA/RIMA)",
-                                              "d":  "balanço patrimonial ambiental"
+                                              "d":  "certificado de origem"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Estudo de Impacto Ambiental e o respectivo Relatório de Impacto Ambiental (EIA/RIMA) são instrumentos utilizados para avaliar previamente os possíveis impactos ambientais de um empreendimento, subsidiando a decisão sobre seu licenciamento e as medidas de mitigação necessárias."
@@ -409,10 +409,10 @@
                          "texto_apoio":  "Determinadas espécies desempenham papel desproporcionalmente importante na manutenção do equilíbrio de um ecossistema em relação à sua abundância numérica.",
                          "enunciado":  "Espécies cuja remoção de um ecossistema provoca alterações desproporcionais em sua estrutura e funcionamento são chamadas de:",
                          "alternativas":  {
-                                              "a":  "espécies domesticadas",
+                                              "a":  "espécies invasoras",
                                               "b":  "espécies-chave (ou espécies-chave de abóbada)",
                                               "c":  "espécies endêmicas",
-                                              "d":  "espécies invasoras"
+                                              "d":  "espécies domesticadas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Espécies-chave exercem influência desproporcional sobre a estrutura e o funcionamento de um ecossistema em relação à sua abundância numérica; sua remoção pode desencadear alterações significativas em cadeias alimentares e na biodiversidade local."
@@ -423,8 +423,8 @@
                          "enunciado":  "Essas faixas de conexão entre fragmentos de habitat são conhecidas como:",
                          "alternativas":  {
                                               "a":  "zonas de sacrifício ambiental",
-                                              "b":  "cinturões industriais",
-                                              "c":  "áreas de monocultura",
+                                              "b":  "áreas de monocultura",
+                                              "c":  "cinturões industriais",
                                               "d":  "corredores ecológicos"
                                           },
                          "resposta":  "d",
@@ -435,9 +435,9 @@
                          "texto_apoio":  "Consumidores têm buscado informações sobre a origem, os processos produtivos e os impactos socioambientais de produtos antes de decidir pela compra.",
                          "enunciado":  "Selos e certificações ambientais concedidos a determinados produtos têm como principal função:",
                          "alternativas":  {
-                                              "a":  "eliminar qualquer necessidade de fiscalização ambiental por parte do Estado",
-                                              "b":  "obrigar legalmente todos os concorrentes a adotar os mesmos processos produtivos",
-                                              "c":  "garantir automaticamente o menor preço do produto no mercado",
+                                              "a":  "obrigar legalmente todos os concorrentes a adotar os mesmos processos produtivos",
+                                              "b":  "garantir automaticamente o menor preço do produto no mercado",
+                                              "c":  "eliminar qualquer necessidade de fiscalização ambiental por parte do Estado",
                                               "d":  "atestar, por meio de critérios verificáveis, que um produto ou processo produtivo atende a determinados padrões ambientais ou sociais"
                                           },
                          "resposta":  "d",
@@ -491,8 +491,8 @@
                          "alternativas":  {
                                               "a":  "florescimento de algas nocivas",
                                               "b":  "branqueamento de corais",
-                                              "c":  "ressurgência oceânica",
-                                              "d":  "eutrofização marinha"
+                                              "c":  "eutrofização marinha",
+                                              "d":  "ressurgência oceânica"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O branqueamento de corais ocorre quando o estresse térmico rompe a relação simbiótica entre os corais e as microalgas (zooxantelas) que vivem em seus tecidos; episódios prolongados ou repetidos podem levar à morte dos recifes.",
@@ -505,8 +505,8 @@
                          "alternativas":  {
                                               "a":  "pontos de não retorno (tipping points)",
                                               "b":  "ciclos biogeoquímicos",
-                                              "c":  "zonas de convergência intertropical",
-                                              "d":  "efeitos de rede ecológicos"
+                                              "c":  "efeitos de rede ecológicos",
+                                              "d":  "zonas de convergência intertropical"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Pontos de não retorno (tipping points) são limiares em sistemas climáticos ou ecológicos além dos quais uma mudança de estado passa a se autoalimentar, tornando-se difícil ou impossível de reverter mesmo com a posterior redução das emissões.",
@@ -532,8 +532,8 @@
                          "enunciado":  "Esse fenômeno, agravado pela impermeabilização do solo e pela escassez de áreas verdes, é conhecido como:",
                          "alternativas":  {
                                               "a":  "inversão térmica",
-                                              "b":  "microclima glacial",
-                                              "c":  "efeito albedo negativo",
+                                              "b":  "efeito albedo negativo",
+                                              "c":  "microclima glacial",
                                               "d":  "ilha de calor urbana"
                                           },
                          "resposta":  "d",
@@ -546,9 +546,9 @@
                          "enunciado":  "Essa área de pesquisa, que busca quantificar a influência humana sobre eventos climáticos extremos individuais, é chamada de:",
                          "alternativas":  {
                                               "a":  "ciência da atribuição climática",
-                                              "b":  "geoprocessamento censitário",
-                                              "c":  "meteorologia sinótica",
-                                              "d":  "modelagem demográfica"
+                                              "b":  "modelagem demográfica",
+                                              "c":  "geoprocessamento censitário",
+                                              "d":  "meteorologia sinótica"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ciência da atribuição climática compara simulações do clima observado com simulações de um cenário hipotético sem influência humana, permitindo estimar em que grau as mudanças climáticas antrópicas aumentaram a probabilidade ou a intensidade de eventos extremos específicos.",
@@ -560,8 +560,8 @@
                          "enunciado":  "Pessoas deslocadas nessas condições são frequentemente chamadas, no debate público, de refugiados climáticos, embora esse termo:",
                          "alternativas":  {
                                               "a":  "ainda não corresponda a uma categoria jurídica formalmente reconhecida pela Convenção de 1951 sobre refugiados, o que gera lacunas de proteção internacional",
-                                              "b":  "já garanta, por si só, proteção internacional automática equivalente à de refugiado por perseguição política",
-                                              "c":  "seja juridicamente idêntico ao de apátrida em todos os tratados internacionais vigentes",
+                                              "b":  "seja juridicamente idêntico ao de apátrida em todos os tratados internacionais vigentes",
+                                              "c":  "já garanta, por si só, proteção internacional automática equivalente à de refugiado por perseguição política",
                                               "d":  "seja aplicado exclusivamente a deslocamentos internos, nunca a deslocamentos entre países"
                                           },
                          "resposta":  "a",
@@ -574,8 +574,8 @@
                          "enunciado":  "A perspectiva que associa a distribuição desigual dos impactos e das responsabilidades pelas mudanças climáticas às desigualdades sociais e econômicas preexistentes é conhecida como:",
                          "alternativas":  {
                                               "a":  "neutralidade climática",
-                                              "b":  "livre mercado ambiental",
-                                              "c":  "soberania energética",
+                                              "b":  "soberania energética",
+                                              "c":  "livre mercado ambiental",
                                               "d":  "justiça climática"
                                           },
                          "resposta":  "d",
@@ -616,9 +616,9 @@
                          "enunciado":  "A principal diferença entre um mercado de carbono regulado e um mercado voluntário de carbono é que, no mercado regulado:",
                          "alternativas":  {
                                               "a":  "a participação e os limites de emissão são definidos por lei ou regulação governamental, ao passo que no voluntário a compensação decorre de decisão espontânea dos agentes, sem obrigação legal",
-                                              "b":  "os créditos de carbono não podem ser precificados monetariamente",
+                                              "b":  "não existe qualquer forma de fiscalização, ao contrário do mercado voluntário",
                                               "c":  "apenas pessoas físicas podem negociar créditos, diferentemente do mercado voluntário",
-                                              "d":  "não existe qualquer forma de fiscalização, ao contrário do mercado voluntário"
+                                              "d":  "os créditos de carbono não podem ser precificados monetariamente"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No mercado regulado, governos estabelecem por lei limites de emissão para determinados setores, tornando obrigatórios a participação e o cumprimento de metas; no mercado voluntário, empresas e indivíduos compram créditos por iniciativa própria, sem exigência legal.",
@@ -629,10 +629,10 @@
                          "texto_apoio":  "Empresas e governos têm emitido títulos de dívida cujos recursos captados são destinados exclusivamente ao financiamento de projetos com benefícios ambientais, como energia renovável ou eficiência hídrica.",
                          "enunciado":  "Esses instrumentos financeiros de dívida vinculados a projetos ambientais são conhecidos como:",
                          "alternativas":  {
-                                              "a":  "ações preferenciais climáticas",
-                                              "b":  "notas promissórias agrícolas",
+                                              "a":  "notas promissórias agrícolas",
+                                              "b":  "debêntures conversíveis comuns",
                                               "c":  "títulos verdes (green bonds)",
-                                              "d":  "debêntures conversíveis comuns"
+                                              "d":  "ações preferenciais climáticas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Títulos verdes (green bonds) são instrumentos de dívida cujos recursos captados são destinados exclusivamente ao financiamento de projetos com benefícios ambientais comprovados, sendo usados por empresas e governos para atrair investidores interessados em sustentabilidade.",
@@ -645,8 +645,8 @@
                          "alternativas":  {
                                               "a":  "economia circular",
                                               "b":  "greenwashing",
-                                              "c":  "auditoria ESG",
-                                              "d":  "compliance ambiental"
+                                              "c":  "compliance ambiental",
+                                              "d":  "auditoria ESG"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Greenwashing é a prática de comunicação que busca projetar uma imagem de responsabilidade ambiental desproporcional às ações efetivas de uma empresa, muitas vezes destacando iniciativas pontuais para ofuscar impactos ambientais mais relevantes de sua operação.",
@@ -657,10 +657,10 @@
                          "texto_apoio":  "Diante dos limites ecológicos do planeta, algumas correntes defendem a redução deliberada da produção e do consumo material em economias já desenvolvidas, enquanto outras apostam em manter o crescimento econômico associando-o à eficiência tecnológica e a fontes renováveis.",
                          "enunciado":  "A corrente que propõe reduzir deliberadamente a escala da produção e do consumo, em vez de apenas torná-los mais eficientes, é conhecida como:",
                          "alternativas":  {
-                                              "a":  "economia de escala ambiental",
-                                              "b":  "desenvolvimentismo sustentável",
+                                              "a":  "desenvolvimentismo sustentável",
+                                              "b":  "crescimento verde",
                                               "c":  "decrescimento (degrowth)",
-                                              "d":  "crescimento verde"
+                                              "d":  "economia de escala ambiental"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O decrescimento (degrowth) propõe a redução deliberada da escala de produção e consumo material em economias desenvolvidas, questionando a possibilidade de crescimento econômico ilimitado em um planeta com recursos finitos, em contraste com propostas de crescimento verde, que buscam dissociar crescimento de impacto ambiental por meio de eficiência e tecnologia.",
@@ -672,9 +672,9 @@
                          "enunciado":  "Esse conjunto de efeitos ilustra, sobretudo, uma tensão entre:",
                          "alternativas":  {
                                               "a":  "produção agrícola e ausência total de qualquer forma de manejo de pragas",
-                                              "b":  "exportação de commodities e consumo interno de alimentos",
+                                              "b":  "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos",
                                               "c":  "produtividade agrícola de curto prazo e conservação da biodiversidade e dos recursos naturais no médio e longo prazo",
-                                              "d":  "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos"
+                                              "d":  "exportação de commodities e consumo interno de alimentos"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O uso intensivo de agrotóxicos ilustra a tensão entre ganhos de produtividade agrícola no curto prazo e a conservação da biodiversidade, dos polinizadores e da qualidade do solo e da água no médio e longo prazo, o que tem motivado o desenvolvimento de práticas de manejo integrado de pragas.",
@@ -685,9 +685,9 @@
                          "texto_apoio":  "O cultivo repetido de uma única espécie na mesma área, ano após ano, sem rotação de culturas nem cobertura vegetal diversificada, é uma prática comum em determinados sistemas agrícolas de larga escala.",
                          "enunciado":  "Entre os efeitos associados à monocultura intensiva sem manejo adequado do solo está:",
                          "alternativas":  {
-                                              "a":  "o aumento automático da diversidade biológica do solo",
+                                              "a":  "o aumento constante e permanente da fertilidade natural do solo",
                                               "b":  "a eliminação total da necessidade de insumos agrícolas externos",
-                                              "c":  "o aumento constante e permanente da fertilidade natural do solo",
+                                              "c":  "o aumento automático da diversidade biológica do solo",
                                               "d":  "a maior suscetibilidade a pragas específicas e a degradação progressiva da fertilidade e da estrutura do solo"
                                           },
                          "resposta":  "d",
@@ -699,8 +699,8 @@
                          "texto_apoio":  "Em regiões de expansão da fronteira agropecuária, é comum a sobreposição entre áreas reivindicadas por grandes produtores rurais, comunidades tradicionais, povos indígenas e, em alguns casos, terras públicas griladas.",
                          "enunciado":  "Essa sobreposição de reivindicações territoriais em áreas de expansão agrícola evidencia que o desmatamento nessas regiões está frequentemente ligado a:",
                          "alternativas":  {
-                                              "a":  "políticas de reforma agrária plenamente consolidadas e sem conflitos",
-                                              "b":  "decisões exclusivamente climáticas, sem qualquer componente fundiário",
+                                              "a":  "decisões exclusivamente climáticas, sem qualquer componente fundiário",
+                                              "b":  "políticas de reforma agrária plenamente consolidadas e sem conflitos",
                                               "c":  "disputas fundiárias e à fragilidade da regularização de terras públicas, e não apenas a decisões técnicas de manejo agrícola",
                                               "d":  "ausência total de interesse econômico na terra"
                                           },
@@ -727,8 +727,8 @@
                          "texto_apoio":  "A queima de combustíveis fósseis libera, além de CO2, outros poluentes como óxidos de enxofre e de nitrogênio, que reagem com a umidade atmosférica.",
                          "enunciado":  "Essa reação química, que resulta na precipitação de substâncias ácidas capazes de danificar solos, corpos d\u0027água e construções, é conhecida como:",
                          "alternativas":  {
-                                              "a":  "efeito estufa direto",
-                                              "b":  "inversão térmica",
+                                              "a":  "inversão térmica",
+                                              "b":  "efeito estufa direto",
                                               "c":  "chuva ácida",
                                               "d":  "eutrofização atmosférica"
                                           },
@@ -741,8 +741,8 @@
                          "texto_apoio":  "Décadas atrás, um acordo internacional distinto dos acordos climáticos atuais foi firmado para eliminar progressivamente substâncias que destroem a camada de ozônio estratosférico, como certos gases usados em refrigeração e aerossóis.",
                          "enunciado":  "A diferença central entre o problema da destruição da camada de ozônio e o do efeito estufa intensificado é que:",
                          "alternativas":  {
-                                              "a":  "o problema do ozônio nunca teve qualquer acordo internacional de enfrentamento",
-                                              "b":  "ambos são causados exatamente pelos mesmos gases, sendo problemas idênticos",
+                                              "a":  "ambos são causados exatamente pelos mesmos gases, sendo problemas idênticos",
+                                              "b":  "o problema do ozônio nunca teve qualquer acordo internacional de enfrentamento",
                                               "c":  "o efeito estufa é um fenômeno exclusivamente estratosférico, como a camada de ozônio",
                                               "d":  "a camada de ozônio protege a superfície terrestre da radiação ultravioleta, enquanto o efeito estufa está relacionado à retenção de calor pela atmosfera, ainda que alguns gases contribuam para os dois problemas"
                                           },
@@ -756,9 +756,9 @@
                          "enunciado":  "No debate sobre transição energética, a energia nuclear costuma ser discutida como fonte que:",
                          "alternativas":  {
                                               "a":  "emite grande volume de gases de efeito estufa durante a geração de eletricidade, tal como os combustíveis fósseis",
-                                              "b":  "depende da intermitência climática do mesmo modo que a energia solar",
+                                              "b":  "é isenta de qualquer controvérsia ambiental ou social",
                                               "c":  "não emite gases de efeito estufa significativos durante a geração e oferece fornecimento constante, mas levanta questões sobre segurança, custo e destinação de rejeitos radioativos",
-                                              "d":  "é isenta de qualquer controvérsia ambiental ou social"
+                                              "d":  "depende da intermitência climática do mesmo modo que a energia solar"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia nuclear não emite gases de efeito estufa significativos durante a geração de eletricidade e oferece fornecimento constante, independente de condições climáticas, mas seu uso é debatido devido a questões de segurança, custo de implantação e à necessidade de destinação adequada dos rejeitos radioativos de longa duração.",
@@ -769,10 +769,10 @@
                          "texto_apoio":  "Baterias usadas em veículos elétricos e em sistemas de armazenamento de energia renovável dependem de minerais como lítio e cobalto, cuja extração está concentrada em poucos países e pode gerar impactos ambientais e sociais significativos nas regiões produtoras.",
                          "enunciado":  "Esse cenário ilustra um paradoxo frequentemente discutido na transição energética, em que:",
                          "alternativas":  {
-                                              "a":  "baterias elétricas dispensam totalmente o uso de recursos minerais",
+                                              "a":  "a extração de lítio está distribuída igualmente entre todos os países do mundo",
                                               "b":  "tecnologias associadas à redução de emissões de carbono dependem de cadeias de extração mineral que podem gerar seus próprios impactos ambientais e sociais relevantes",
-                                              "c":  "a extração de lítio está distribuída igualmente entre todos os países do mundo",
-                                              "d":  "a mineração de lítio não gera absolutamente nenhum impacto ambiental"
+                                              "c":  "a mineração de lítio não gera absolutamente nenhum impacto ambiental",
+                                              "d":  "baterias elétricas dispensam totalmente o uso de recursos minerais"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O paradoxo discutido reside no fato de que tecnologias associadas à descarbonização, como baterias para veículos elétricos, dependem de cadeias de extração mineral (lítio, cobalto, níquel) que podem gerar impactos ambientais e sociais relevantes nas regiões produtoras, exigindo que a transição energética também considere os efeitos de toda a cadeia produtiva, e não apenas as emissões na etapa de uso.",
@@ -797,9 +797,9 @@
                          "texto_apoio":  "Alterações nos padrões de chuva, aumento da frequência de eventos extremos e mudanças na distribuição de pragas e doenças agrícolas afetam diretamente a produtividade de lavouras em diversas regiões do mundo.",
                          "enunciado":  "Esses efeitos das mudanças climáticas sobre a agricultura representam uma ameaça direta a qual dimensão do desenvolvimento humano?",
                          "alternativas":  {
-                                              "a":  "a governança multissetorial da internet",
+                                              "a":  "a soberania monetária dos países exportadores de commodities",
                                               "b":  "a neutralidade de rede dos sistemas agrícolas digitais",
-                                              "c":  "a soberania monetária dos países exportadores de commodities",
+                                              "c":  "a governança multissetorial da internet",
                                               "d":  "a segurança alimentar, entendida como o acesso regular e permanente a alimentos em quantidade e qualidade suficientes"
                                           },
                          "resposta":  "d",
@@ -812,8 +812,8 @@
                          "enunciado":  "Esse gás, associado de forma significativa à pecuária e considerado mais eficaz na retenção de calor por molécula do que o CO2, ainda que permaneça menos tempo na atmosfera, é:",
                          "alternativas":  {
                                               "a":  "o metano",
-                                              "b":  "o nitrogênio",
-                                              "c":  "o oxigênio",
+                                              "b":  "o oxigênio",
+                                              "c":  "o nitrogênio",
                                               "d":  "o hidrogênio"
                                           },
                          "resposta":  "a",
@@ -825,9 +825,9 @@
                          "texto_apoio":  "Em regiões áridas e semiáridas, práticas como desmatamento, superpastoreio e uso inadequado da irrigação podem levar à perda progressiva da capacidade produtiva do solo, aproximando-o de condições desérticas.",
                          "enunciado":  "Esse processo de degradação de terras em regiões secas, com perda de vegetação e de fertilidade do solo, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "acidificação",
+                                              "a":  "eutrofização",
                                               "b":  "desertificação",
-                                              "c":  "eutrofização",
+                                              "c":  "acidificação",
                                               "d":  "salinização oceânica"
                                           },
                          "resposta":  "b",
@@ -839,9 +839,9 @@
                          "texto_apoio":  "A elevação do nível do mar, associada a eventos climáticos extremos como ressacas e tempestades mais intensas, tem acelerado a perda de faixas de areia e a destruição de estruturas em regiões litorâneas.",
                          "enunciado":  "Esse processo de perda progressiva de terras e estruturas em regiões costeiras é conhecido como:",
                          "alternativas":  {
-                                              "a":  "afloramento rochoso",
-                                              "b":  "sedimentação fluvial",
-                                              "c":  "subsidência tectônica",
+                                              "a":  "sedimentação fluvial",
+                                              "b":  "subsidência tectônica",
+                                              "c":  "afloramento rochoso",
                                               "d":  "erosão costeira"
                                           },
                          "resposta":  "d",
@@ -853,10 +853,10 @@
                          "texto_apoio":  "Recursos genéticos de plantas, animais e microrganismos, muitas vezes associados a conhecimentos tradicionais de povos indígenas e comunidades locais, têm sido coletados e utilizados no desenvolvimento de medicamentos e outros produtos comerciais.",
                          "enunciado":  "A apropriação desses recursos genéticos e conhecimentos tradicionais sem autorização ou repartição justa de benefícios com as comunidades de origem é denominada:",
                          "alternativas":  {
-                                              "a":  "certificação de origem",
+                                              "a":  "bioprospecção regular",
                                               "b":  "biopirataria",
                                               "c":  "manejo florestal sustentável",
-                                              "d":  "bioprospecção regular"
+                                              "d":  "certificação de origem"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A biopirataria refere-se à apropriação de recursos genéticos e de conhecimentos tradicionais associados, sem autorização das comunidades de origem nem repartição justa dos benefícios econômicos gerados, prática que legislações e acordos internacionais sobre biodiversidade buscam coibir.",
@@ -867,10 +867,10 @@
                          "texto_apoio":  "Estudos comparativos indicam que áreas sob gestão de povos indígenas e comunidades tradicionais frequentemente apresentam taxas de desmatamento menores do que áreas de mesma vocação florestal fora dessas terras.",
                          "enunciado":  "Esse dado é frequentemente utilizado para sustentar o argumento de que:",
                          "alternativas":  {
-                                              "a":  "não existe qualquer relação entre posse fundiária e conservação ambiental",
+                                              "a":  "áreas sob gestão indígena são sempre menos produtivas economicamente, sem qualquer benefício ambiental",
                                               "b":  "a demarcação e proteção de terras indígenas e tradicionais pode funcionar como estratégia eficaz de conservação florestal",
                                               "c":  "a presença humana em qualquer território necessariamente aumenta o desmatamento",
-                                              "d":  "áreas sob gestão indígena são sempre menos produtivas economicamente, sem qualquer benefício ambiental"
+                                              "d":  "não existe qualquer relação entre posse fundiária e conservação ambiental"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Dados comparativos que mostram menores taxas de desmatamento em terras indígenas e de comunidades tradicionais são usados para sustentar políticas de demarcação e proteção fundiária como estratégia de conservação, associando a permanência dessas populações em seus territórios à manutenção da cobertura florestal.",
@@ -883,8 +883,8 @@
                          "alternativas":  {
                                               "a":  "eliminar de forma definitiva e permanente qualquer emissão futura da empresa",
                                               "b":  "adiar reduções efetivas nas emissões de quem mais emite, transferindo o esforço de mitigação a terceiros, além de depender da permanência de longo prazo dos projetos compensatórios",
-                                              "c":  "obrigar automaticamente a substituição total da matriz energética da empresa",
-                                              "d":  "ser tecnicamente impossível de ser realizada por qualquer empresa"
+                                              "c":  "ser tecnicamente impossível de ser realizada por qualquer empresa",
+                                              "d":  "obrigar automaticamente a substituição total da matriz energética da empresa"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Críticos apontam que a compensação ambiental pode se tornar um substituto, e não um complemento, à redução efetiva de emissões na fonte, além de depender de fatores como a permanência de longo prazo dos projetos de compensação (por exemplo, o risco de incêndios em áreas reflorestadas) e da correta mensuração da adicionalidade desses projetos.",
@@ -895,9 +895,9 @@
                          "texto_apoio":  "Algumas embalagens de produtos passaram a exibir informações estimadas sobre o volume de emissões de gases de efeito estufa associado à produção, ao transporte e ao descarte daquele item específico.",
                          "enunciado":  "Essa prática de comunicação ao consumidor tem como principal objetivo declarado:",
                          "alternativas":  {
-                                              "a":  "garantir automaticamente o menor preço do produto no mercado",
+                                              "a":  "substituir integralmente a regulação ambiental estatal sobre a empresa",
                                               "b":  "eliminar totalmente a necessidade de fiscalização de emissões industriais",
-                                              "c":  "substituir integralmente a regulação ambiental estatal sobre a empresa",
+                                              "c":  "garantir automaticamente o menor preço do produto no mercado",
                                               "d":  "fornecer informação que permita ao consumidor comparar e considerar o impacto climático na decisão de compra"
                                           },
                          "resposta":  "d",
@@ -923,10 +923,10 @@
                          "texto_apoio":  "Além da água consumida diretamente, cada produto agrícola ou industrial incorpora um volume de água utilizado ao longo de toda a sua cadeia de produção, que pode ser \"exportado\" quando o produto é comercializado entre regiões ou países.",
                          "enunciado":  "Esse volume total de água utilizado, direta e indiretamente, na produção de um bem ou serviço é conhecido como:",
                          "alternativas":  {
-                                              "a":  "capacidade de recarga de aquífero",
+                                              "a":  "vazão ecológica",
                                               "b":  "índice pluviométrico",
                                               "c":  "pegada hídrica (ou água virtual)",
-                                              "d":  "vazão ecológica"
+                                              "d":  "capacidade de recarga de aquífero"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A pegada hídrica, ou água virtual, refere-se ao volume total de água doce utilizado direta e indiretamente na produção de um bem ou serviço; ao comercializar esses produtos, regiões produtoras efetivamente exportam água incorporada, o que é relevante para o planejamento de recursos hídricos em áreas de escassez.",
@@ -937,10 +937,10 @@
                          "texto_apoio":  "A ocupação irregular de encostas e margens de rios em centros urbanos, associada à impermeabilização do solo e a chuvas mais intensas, tem sido apontada como fator que agrava a frequência e a gravidade de enchentes e deslizamentos.",
                          "enunciado":  "Esse cenário evidencia que a intensidade dos danos causados por eventos climáticos extremos em cidades depende, sobretudo, da combinação entre:",
                          "alternativas":  {
-                                              "a":  "exclusivamente decisões individuais dos moradores, sem qualquer responsabilidade do poder público",
+                                              "a":  "fatores aleatórios sem qualquer padrão identificável",
                                               "b":  "a intensidade do evento climático e a vulnerabilidade socioeconômica e de planejamento urbano da área atingida",
-                                              "c":  "fatores aleatórios sem qualquer padrão identificável",
-                                              "d":  "exclusivamente fatores climáticos globais, sem qualquer influência do planejamento urbano local"
+                                              "c":  "exclusivamente fatores climáticos globais, sem qualquer influência do planejamento urbano local",
+                                              "d":  "exclusivamente decisões individuais dos moradores, sem qualquer responsabilidade do poder público"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A magnitude dos danos causados por eventos climáticos extremos em áreas urbanas resulta da combinação entre a intensidade do fenômeno natural e fatores de vulnerabilidade social e de planejamento, como ocupação irregular de áreas de risco, impermeabilização do solo e ausência de infraestrutura de drenagem adequada.",
@@ -951,8 +951,8 @@
                          "texto_apoio":  "Diversos rios do mundo atravessam o território de mais de um país antes de chegar ao mar, o que exige acordos entre Estados para o uso compartilhado de suas águas para consumo, irrigação e geração de energia.",
                          "enunciado":  "A gestão de bacias hidrográficas compartilhadas por diferentes países é um desafio de governança porque:",
                          "alternativas":  {
-                                              "a":  "cada país tem soberania absoluta sobre toda a extensão do rio, independentemente de sua localização",
-                                              "b":  "a água de rios internacionais nunca é utilizada para fins econômicos",
+                                              "a":  "a água de rios internacionais nunca é utilizada para fins econômicos",
+                                              "b":  "cada país tem soberania absoluta sobre toda a extensão do rio, independentemente de sua localização",
                                               "c":  "decisões de uso da água tomadas a montante por um país podem afetar diretamente a disponibilidade hídrica dos países a jusante, exigindo cooperação e acordos internacionais",
                                               "d":  "não existe qualquer precedente de conflito ou negociação envolvendo recursos hídricos compartilhados"
                                           },
@@ -979,9 +979,9 @@
                          "texto_apoio":  "Organizações não governamentais atuam em atividades como monitoramento de desmatamento por satélite, litígio estratégico em defesa de comunidades afetadas e pressão sobre empresas e governos para o cumprimento de metas ambientais.",
                          "enunciado":  "Esse conjunto de atuações caracteriza as ONGs ambientais, sobretudo, como atores que:",
                          "alternativas":  {
-                                              "a":  "não possuem qualquer capacidade de influenciar políticas públicas ambientais",
+                                              "a":  "substituem integralmente o papel do Estado na formulação e execução de políticas ambientais",
                                               "b":  "fiscalizam, pressionam e complementam a atuação estatal e empresarial na proteção ambiental, sem deter poder coercitivo formal",
-                                              "c":  "substituem integralmente o papel do Estado na formulação e execução de políticas ambientais",
+                                              "c":  "não possuem qualquer capacidade de influenciar políticas públicas ambientais",
                                               "d":  "atuam exclusivamente no âmbito internacional, sem qualquer relação com comunidades locais"
                                           },
                          "resposta":  "b",
@@ -993,10 +993,10 @@
                          "texto_apoio":  "Instituições financeiras internacionais, como bancos de desenvolvimento regionais e globais, têm ampliado linhas de crédito destinadas especificamente a projetos de energia renovável, adaptação climática e conservação ambiental em países em desenvolvimento.",
                          "enunciado":  "Essa atuação de bancos multilaterais de desenvolvimento no financiamento climático busca, sobretudo:",
                          "alternativas":  {
-                                              "a":  "eliminar qualquer forma de dívida pública dos países em desenvolvimento",
+                                              "a":  "impor tarifas comerciais punitivas a países que não cumprem metas climáticas",
                                               "b":  "viabilizar recursos e condições de financiamento mais favoráveis para projetos ambientais em países com menor capacidade fiscal própria",
-                                              "c":  "substituir integralmente investimentos privados em qualquer setor da economia",
-                                              "d":  "impor tarifas comerciais punitivas a países que não cumprem metas climáticas"
+                                              "c":  "eliminar qualquer forma de dívida pública dos países em desenvolvimento",
+                                              "d":  "substituir integralmente investimentos privados em qualquer setor da economia"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Bancos multilaterais de desenvolvimento ampliam o financiamento climático oferecendo condições de crédito mais favoráveis do que o mercado privado tradicional para projetos de energia renovável, adaptação e conservação, sobretudo em países com menor capacidade fiscal para arcar sozinhos com esses investimentos.",
@@ -1023,8 +1023,8 @@
                          "alternativas":  {
                                               "a":  "princípio da precaução",
                                               "b":  "curva de Kuznets ambiental",
-                                              "c":  "efeito de rede ambiental",
-                                              "d":  "tragédia dos comuns"
+                                              "c":  "tragédia dos comuns",
+                                              "d":  "efeito de rede ambiental"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A curva de Kuznets ambiental é a hipótese, discutida e questionada empiricamente por diferentes estudos, de que a degradação ambiental aumenta nos estágios iniciais de crescimento econômico e tende a diminuir a partir de determinado nível de renda, quando a sociedade passa a demandar e a financiar regulação ambiental mais rigorosa; críticos apontam que essa relação não se verifica automaticamente para todos os tipos de dano ambiental, como as emissões de carbono.",
@@ -1036,8 +1036,8 @@
                          "enunciado":  "Esse fenômeno, em que ganhos de eficiência não se traduzem integralmente em redução do consumo total de um recurso, é conhecido como:",
                          "alternativas":  {
                                               "a":  "efeito rebote (paradoxo de Jevons)",
-                                              "b":  "externalidade positiva",
-                                              "c":  "economia de escala",
+                                              "b":  "economia de escala",
+                                              "c":  "externalidade positiva",
                                               "d":  "curva de Kuznets ambiental"
                                           },
                          "resposta":  "a",
@@ -1049,10 +1049,10 @@
                          "texto_apoio":  "Combustíveis derivados de plantas, como cana-de-açúcar e milho, emitem CO2 durante a queima, mas parte desse carbono havia sido previamente absorvida pela planta durante seu crescimento, em um ciclo mais curto do que o do carbono fóssil.",
                          "enunciado":  "Por esse motivo, os biocombustíveis costumam ser considerados, em relação aos combustíveis fósseis:",
                          "alternativas":  {
-                                              "a":  "tecnicamente idênticos aos combustíveis fósseis em composição química",
+                                              "a":  "sempre mais poluentes do que os combustíveis fósseis em qualquer cenário de produção",
                                               "b":  "de menor impacto líquido de carbono no ciclo de vida, embora seu balanço real dependa de fatores como uso da terra e insumos empregados no cultivo",
-                                              "c":  "isentos de qualquer emissão de gases de efeito estufa em todo o seu ciclo de produção e uso",
-                                              "d":  "sempre mais poluentes do que os combustíveis fósseis em qualquer cenário de produção"
+                                              "c":  "tecnicamente idênticos aos combustíveis fósseis em composição química",
+                                              "d":  "isentos de qualquer emissão de gases de efeito estufa em todo o seu ciclo de produção e uso"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Biocombustíveis tendem a apresentar menor impacto líquido de carbono ao longo do ciclo de vida, pois parte do CO2 emitido na queima havia sido absorvida durante o crescimento da planta; porém, esse balanço depende de fatores como mudança de uso da terra, insumos agrícolas e transporte, podendo variar significativamente entre diferentes cadeias produtivas.",
@@ -1079,8 +1079,8 @@
                          "alternativas":  {
                                               "a":  "a análise de ciclo de vida completo, incluindo fabricação da bateria, origem da eletricidade usada na recarga e descarte final, e não apenas as emissões durante o uso",
                                               "b":  "apenas as emissões geradas durante o uso do veículo no trânsito",
-                                              "c":  "apenas o país onde o veículo foi fabricado, sem relação com a matriz elétrica de uso",
-                                              "d":  "exclusivamente o preço de venda do veículo no mercado"
+                                              "c":  "exclusivamente o preço de venda do veículo no mercado",
+                                              "d":  "apenas o país onde o veículo foi fabricado, sem relação com a matriz elétrica de uso"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A avaliação climática correta de um veículo elétrico exige uma análise de ciclo de vida completo, que inclua as emissões da fabricação (sobretudo da bateria), a origem da eletricidade usada na recarga (que varia conforme a matriz elétrica de cada país) e o descarte final, e não apenas a ausência de emissões pelo escapamento durante o uso.",
@@ -1091,10 +1091,10 @@
                          "texto_apoio":  "Um projeto de recomposição florestal pode ser conduzido com espécies nativas diversas, buscando restabelecer um ecossistema próximo do original, ou com uma única espécie de crescimento rápido, voltada à produção de madeira ou celulose.",
                          "enunciado":  "Do ponto de vista da conservação da biodiversidade, a diferença central entre restauração florestal com espécies nativas diversas e plantio comercial de monocultura (como eucalipto) é que a primeira, em geral:",
                          "alternativas":  {
-                                              "a":  "é sempre inviável economicamente, ao contrário da monocultura",
+                                              "a":  "não contribui para o sequestro de carbono, ao contrário da monocultura",
                                               "b":  "tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, enquanto a monocultura, mesmo aumentando a cobertura arbórea, oferece menor diversidade de habitat",
-                                              "c":  "não contribui para o sequestro de carbono, ao contrário da monocultura",
-                                              "d":  "gera resultados idênticos à segunda em termos de biodiversidade e serviços ecossistêmicos"
+                                              "c":  "gera resultados idênticos à segunda em termos de biodiversidade e serviços ecossistêmicos",
+                                              "d":  "é sempre inviável economicamente, ao contrário da monocultura"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A restauração florestal com espécies nativas diversas tende a recompor de forma mais completa a estrutura, a biodiversidade e os serviços ecossistêmicos do ambiente original, enquanto o plantio comercial de monocultura, embora também aumente a cobertura arbórea e possa sequestrar carbono, oferece menor diversidade de habitat e não substitui integralmente os benefícios ecológicos de uma floresta nativa restaurada.",
@@ -1105,9 +1105,9 @@
                          "texto_apoio":  "Determinados selos atestam que a madeira comercializada foi extraída de florestas geridas segundo critérios ambientais, sociais e econômicos previamente definidos, com rastreabilidade ao longo da cadeia produtiva.",
                          "enunciado":  "Esse tipo de certificação tem como principal função:",
                          "alternativas":  {
-                                              "a":  "garantir automaticamente o menor preço da madeira certificada",
-                                              "b":  "proibir totalmente a extração comercial de madeira em qualquer território",
-                                              "c":  "eliminar toda necessidade de fiscalização estatal sobre a exploração madeireira",
+                                              "a":  "eliminar toda necessidade de fiscalização estatal sobre a exploração madeireira",
+                                              "b":  "garantir automaticamente o menor preço da madeira certificada",
+                                              "c":  "proibir totalmente a extração comercial de madeira em qualquer território",
                                               "d":  "atestar, por meio de critérios verificáveis por terceiros, que a madeira foi produzida de forma ambiental e socialmente responsável, permitindo o uso sustentável do recurso florestal"
                                           },
                          "resposta":  "d",
@@ -1133,9 +1133,9 @@
                          "texto_apoio":  "Determinados padrões de variação natural na temperatura da superfície do oceano Pacífico, que ocorrem em ciclos de poucos anos, alteram os padrões de chuva e temperatura em diversas regiões do planeta, mesmo na ausência de qualquer mudança climática de origem antrópica.",
                          "enunciado":  "Esse fenômeno de variabilidade climática natural mostra que, para compreender corretamente eventos climáticos específicos, é necessário:",
                          "alternativas":  {
-                                              "a":  "desconsiderar totalmente qualquer influência humana sobre o clima, já que fenômenos naturais já existiam antes da industrialização",
-                                              "b":  "concluir que fenômenos como esse eliminam qualquer possibilidade de aquecimento global antrópico",
-                                              "c":  "atribuir automaticamente qualquer evento climático extremo às mudanças climáticas de origem humana, sem considerar outros fatores",
+                                              "a":  "concluir que fenômenos como esse eliminam qualquer possibilidade de aquecimento global antrópico",
+                                              "b":  "atribuir automaticamente qualquer evento climático extremo às mudanças climáticas de origem humana, sem considerar outros fatores",
+                                              "c":  "desconsiderar totalmente qualquer influência humana sobre o clima, já que fenômenos naturais já existiam antes da industrialização",
                                               "d":  "distinguir entre variabilidade climática natural de curto prazo e a tendência de aquecimento de longo prazo associada às mudanças climáticas antrópicas, ainda que ambas possam interagir e se reforçar"
                                           },
                          "resposta":  "d",
@@ -1147,9 +1147,9 @@
                          "texto_apoio":  "Correntes marinhas circulares, formadas pela combinação de ventos e da rotação da Terra, tendem a acumular em determinadas regiões do oceano os resíduos plásticos flutuantes carregados pelas águas.",
                          "enunciado":  "Essas grandes concentrações de resíduos plásticos, formadas nesses padrões de circulação oceânica, são popularmente conhecidas como:",
                          "alternativas":  {
-                                              "a":  "recifes artificiais",
-                                              "b":  "zonas de convergência intertropical",
-                                              "c":  "correntes de ressurgência",
+                                              "a":  "zonas de convergência intertropical",
+                                              "b":  "correntes de ressurgência",
+                                              "c":  "recifes artificiais",
                                               "d":  "ilhas de plástico (manchas de lixo oceânicas)"
                                           },
                          "resposta":  "d",
@@ -1162,9 +1162,9 @@
                          "enunciado":  "Essa perda progressiva da capacidade produtiva do solo agrícola é conhecida como:",
                          "alternativas":  {
                                               "a":  "degradação do solo",
-                                              "b":  "subsidência costeira",
+                                              "b":  "eutrofização",
                                               "c":  "acidificação oceânica",
-                                              "d":  "eutrofização"
+                                              "d":  "subsidência costeira"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A degradação do solo refere-se à perda progressiva de sua fertilidade e capacidade produtiva, causada por processos como erosão, compactação e salinização, frequentemente associados a práticas agrícolas inadequadas, comprometendo a segurança alimentar de longo prazo em regiões afetadas.",
@@ -1176,9 +1176,9 @@
                          "enunciado":  "Esse cenário mostra que, embora a energia hidrelétrica seja classificada como fonte renovável, sua implantação:",
                          "alternativas":  {
                                               "a":  "é sempre completamente isenta de qualquer impacto ambiental ou social",
-                                              "b":  "não guarda relação alguma com a biodiversidade da região onde é construída",
+                                              "b":  "elimina automaticamente qualquer emissão de gases de efeito estufa associada ao empreendimento",
                                               "c":  "pode gerar impactos socioambientais significativos, o que reforça a importância de estudos de impacto ambiental e de processos de licenciamento e consulta às populações afetadas",
-                                              "d":  "elimina automaticamente qualquer emissão de gases de efeito estufa associada ao empreendimento"
+                                              "d":  "não guarda relação alguma com a biodiversidade da região onde é construída"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Apesar de renovável, a energia hidrelétrica pode gerar impactos socioambientais significativos, como alagamento de áreas florestais, deslocamento de populações e emissão de gases de efeito estufa pela decomposição de matéria orgânica em reservatórios, o que reforça a necessidade de estudos de impacto ambiental (EIA/RIMA) e consulta prévia às populações afetadas antes da implantação desses empreendimentos.",
@@ -1190,9 +1190,9 @@
                          "enunciado":  "Diante desse cenário, uma estratégia adotada por algumas companhias aéreas para lidar com suas emissões, além de buscar maior eficiência operacional, é:",
                          "alternativas":  {
                                               "a":  "a compra de créditos de carbono para compensar parte das emissões associadas aos voos, embora essa estratégia não elimine as emissões diretas do setor",
-                                              "b":  "a proibição legal internacional de qualquer voo com menos de determinada distância",
-                                              "c":  "a eliminação imediata e total de todos os voos comerciais no mundo",
-                                              "d":  "a substituição integral e já concluída de toda a frota mundial por aeronaves elétricas"
+                                              "b":  "a substituição integral e já concluída de toda a frota mundial por aeronaves elétricas",
+                                              "c":  "a proibição legal internacional de qualquer voo com menos de determinada distância",
+                                              "d":  "a eliminação imediata e total de todos os voos comerciais no mundo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diante da dificuldade técnica atual de descarbonizar diretamente o transporte aéreo em larga escala, companhias aéreas têm recorrido à compra de créditos de carbono para compensar parte de suas emissões, estratégia que não elimina as emissões diretas do setor e é objeto de debate sobre sua real efetividade climática.",
@@ -1204,9 +1204,9 @@
                          "enunciado":  "Esse tipo de dado é frequentemente utilizado para argumentar que:",
                          "alternativas":  {
                                               "a":  "a pecuária bovina não tem qualquer relação com as emissões globais de gases de efeito estufa",
-                                              "b":  "a dieta alimentar de uma pessoa não pode, em nenhuma hipótese, influenciar sua pegada de carbono individual",
+                                              "b":  "toda proteína vegetal produzida no mundo tem impacto climático superior ao da carne bovina",
                                               "c":  "mudanças nos padrões alimentares, com redução do consumo de carne bovina, podem ser um componente relevante de estratégias de mitigação climática, ainda que não sejam a única medida necessária",
-                                              "d":  "toda proteína vegetal produzida no mundo tem impacto climático superior ao da carne bovina"
+                                              "d":  "a dieta alimentar de uma pessoa não pode, em nenhuma hipótese, influenciar sua pegada de carbono individual"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Dados de ciclo de vida que mostram maior intensidade de emissões na produção de carne bovina em comparação a diversas fontes de proteína vegetal são usados para argumentar que a mudança de padrões alimentares pode ser um componente relevante, entre outros, de estratégias de mitigação climática, sem que isso signifique que seja a única medida necessária ou suficiente.",
@@ -1218,9 +1218,9 @@
                          "enunciado":  "Esse conjunto de soluções, que busca imitar processos naturais de absorção e retenção de água para reduzir o risco de enchentes, é associado ao conceito de:",
                          "alternativas":  {
                                               "a":  "cidades esponja (soluções baseadas na natureza)",
-                                              "b":  "impermeabilização planejada do solo",
-                                              "c":  "verticalização compulsória de áreas de risco",
-                                              "d":  "canalização integral de cursos d\u0027água urbanos"
+                                              "b":  "verticalização compulsória de áreas de risco",
+                                              "c":  "canalização integral de cursos d\u0027água urbanos",
+                                              "d":  "impermeabilização planejada do solo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O conceito de cidades esponja, baseado em soluções que imitam processos naturais — como pavimentos permeáveis, parques que absorvem água e bacias de retenção —, busca aumentar a capacidade das áreas urbanas de absorver e reter água da chuva, reduzindo o risco de enchentes em comparação a soluções tradicionais baseadas exclusivamente em canalização e concreto.",
@@ -1245,10 +1245,10 @@
                          "texto_apoio":  "Assim como existem certificados que representam a redução de emissões de gases de efeito estufa, alguns mercados emergentes propõem certificados que representem ganhos mensuráveis de conservação ou restauração da biodiversidade em determinada área.",
                          "enunciado":  "Uma das principais dificuldades técnicas apontadas para o desenvolvimento desses mercados de créditos de biodiversidade, em comparação aos créditos de carbono, é que:",
                          "alternativas":  {
-                                              "a":  "créditos de biodiversidade já substituíram integralmente os créditos de carbono em todo o mundo",
+                                              "a":  "a biodiversidade é mais fácil de medir e padronizar do que emissões de gases de efeito estufa",
                                               "b":  "a biodiversidade é multidimensional e específica de cada local, o que torna mais difícil criar uma métrica única, fungível e comparável entre diferentes ecossistemas",
                                               "c":  "não existe qualquer interesse de mercado em instrumentos financeiros ligados à conservação",
-                                              "d":  "a biodiversidade é mais fácil de medir e padronizar do que emissões de gases de efeito estufa"
+                                              "d":  "créditos de biodiversidade já substituíram integralmente os créditos de carbono em todo o mundo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Diferentemente do carbono, que pode ser medido em uma unidade relativamente padronizada (toneladas de CO2 equivalente), a biodiversidade é multidimensional — envolve número de espécies, funções ecológicas, endemismo, entre outros fatores — e específica de cada ecossistema, o que torna mais complexo desenvolver métricas únicas, comparáveis e fungíveis para um mercado de créditos de biodiversidade.",
@@ -1273,10 +1273,10 @@
                          "texto_apoio":  "Determinadas espécies, introduzidas intencionalmente ou acidentalmente em um ecossistema onde não ocorriam naturalmente, podem se reproduzir rapidamente e competir com espécies nativas por recursos como alimento e espaço.",
                          "enunciado":  "Espécies com essas características, capazes de causar desequilíbrios ecológicos significativos em ambientes fora de sua área de ocorrência original, são chamadas de:",
                          "alternativas":  {
-                                              "a":  "espécies indicadoras",
-                                              "b":  "espécies-chave",
+                                              "a":  "espécies endêmicas",
+                                              "b":  "espécies indicadoras",
                                               "c":  "espécies exóticas invasoras",
-                                              "d":  "espécies endêmicas"
+                                              "d":  "espécies-chave"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Espécies exóticas invasoras são organismos introduzidos, intencional ou acidentalmente, em ecossistemas onde não ocorriam naturalmente, e que se estabelecem e se reproduzem de forma a competir com espécies nativas, podendo causar desequilíbrios ecológicos e prejuízos econômicos significativos.",
@@ -1289,8 +1289,8 @@
                          "alternativas":  {
                                               "a":  "aquicultura extensiva",
                                               "b":  "superpesca (sobrepesca)",
-                                              "c":  "ressurgência costeira",
-                                              "d":  "maricultura sustentável"
+                                              "c":  "maricultura sustentável",
+                                              "d":  "ressurgência costeira"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A superpesca (ou sobrepesca) ocorre quando a captura de peixes excede a capacidade de reposição natural das populações, levando ao declínio de estoques pesqueiros, com impactos sobre a biodiversidade marinha e sobre comunidades que dependem da pesca artesanal para subsistência.",
@@ -1303,8 +1303,8 @@
                          "alternativas":  {
                                               "a":  "a impossibilidade técnica de se reproduzir peixes em cativeiro",
                                               "b":  "poluição por resíduos e ração não consumida, uso de antibióticos e risco de fuga de espécies não nativas para ambientes naturais",
-                                              "c":  "a garantia de que nenhuma espécie utilizada nesse cultivo poderá jamais escapar para o ambiente natural",
-                                              "d":  "a eliminação total e definitiva de qualquer atividade pesqueira no mundo"
+                                              "c":  "a eliminação total e definitiva de qualquer atividade pesqueira no mundo",
+                                              "d":  "a garantia de que nenhuma espécie utilizada nesse cultivo poderá jamais escapar para o ambiente natural"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A aquicultura, embora possa reduzir a pressão sobre estoques pesqueiros selvagens, também apresenta riscos ambientais, como poluição por resíduos orgânicos e ração não consumida, uso intensivo de antibióticos e risco de fuga de espécies cultivadas, muitas vezes não nativas, para ecossistemas naturais, onde podem se tornar invasoras.",
@@ -1316,9 +1316,9 @@
                          "enunciado":  "Esse tipo de evidência reforça o argumento de que políticas de redução da poluição do ar geram, além de benefícios ambientais, benefícios diretos em termos de:",
                          "alternativas":  {
                                               "a":  "redução de gastos públicos e privados com saúde e melhoria da qualidade de vida da população exposta",
-                                              "b":  "redução da produtividade agrícola em áreas urbanas",
+                                              "b":  "aumento proporcional e automático da temperatura média local",
                                               "c":  "eliminação de qualquer necessidade de regulação do trânsito urbano",
-                                              "d":  "aumento proporcional e automático da temperatura média local"
+                                              "d":  "redução da produtividade agrícola em áreas urbanas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Além dos benefícios ambientais, a redução da poluição do ar gera benefícios diretos para a saúde pública, reduzindo a incidência de doenças respiratórias e cardiovasculares associadas à exposição a poluentes, o que se traduz também em menores gastos com saúde e ganhos de produtividade e qualidade de vida para a população exposta.",
@@ -1329,8 +1329,8 @@
                          "texto_apoio":  "Diante da dificuldade de reduzir emissões de gases de efeito estufa em ritmo suficiente para conter o aquecimento global, alguns pesquisadores estudam intervenções em larga escala sobre o sistema climático, como a injeção de aerossóis na estratosfera para refletir parte da radiação solar.",
                          "enunciado":  "Essas propostas de intervenção deliberada em larga escala sobre o sistema climático, ainda em estágio experimental e controverso, são conhecidas como:",
                          "alternativas":  {
-                                              "a":  "economia circular",
-                                              "b":  "transição energética",
+                                              "a":  "transição energética",
+                                              "b":  "economia circular",
                                               "c":  "geoengenharia climática",
                                               "d":  "manejo florestal sustentável"
                                           },
@@ -1345,8 +1345,8 @@
                          "alternativas":  {
                                               "a":  "flutuações de curto prazo em torno de uma média, enquanto a segunda descreve uma alteração persistente e de longo prazo nos padrões climáticos médios",
                                               "b":  "fenômenos exclusivamente causados por atividades humanas, ao contrário da segunda",
-                                              "c":  "eventos que ocorrem apenas em regiões polares, diferentemente da segunda",
-                                              "d":  "processos que não têm qualquer relação com temperatura ou precipitação"
+                                              "c":  "processos que não têm qualquer relação com temperatura ou precipitação",
+                                              "d":  "eventos que ocorrem apenas em regiões polares, diferentemente da segunda"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A variabilidade climática refere-se a flutuações naturais de curto prazo em torno de uma média histórica, como as associadas a ciclos oceânicos, enquanto a mudança climática descreve uma alteração persistente e de longo prazo nos padrões médios do clima, associada, no contexto atual, ao acúmulo antrópico de gases de efeito estufa — distinção frequentemente usada de forma equivocada no debate público.",
@@ -1357,10 +1357,10 @@
                          "texto_apoio":  "Diversas grandes empresas e alguns países têm anunciado compromissos de atingir, até determinado ano, um balanço líquido nulo entre as emissões de gases de efeito estufa que geram e a quantidade que conseguem reduzir, evitar ou remover da atmosfera.",
                          "enunciado":  "Uma crítica frequente a compromissos corporativos de \"emissões líquidas zero\" (net-zero) é que, em alguns casos, eles:",
                          "alternativas":  {
-                                              "a":  "eliminam, por si só, qualquer necessidade de regulação ambiental estatal sobre a empresa",
+                                              "a":  "exigem sempre a interrupção imediata e total de toda a produção da empresa",
                                               "b":  "dependem fortemente de compensações futuras e de tecnologias de remoção de carbono ainda pouco maduras, em vez de cortes efetivos e imediatos nas emissões diretas",
                                               "c":  "são juridicamente idênticos aos compromissos assumidos por países no âmbito de acordos climáticos internacionais",
-                                              "d":  "exigem sempre a interrupção imediata e total de toda a produção da empresa"
+                                              "d":  "eliminam, por si só, qualquer necessidade de regulação ambiental estatal sobre a empresa"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Uma crítica recorrente a compromissos corporativos de net-zero é que, em vários casos, eles se apoiam fortemente em compensações futuras e em tecnologias de remoção de carbono ainda pouco maduras ou de escala limitada, em vez de priorizarem cortes efetivos e imediatos nas emissões diretas da própria operação, o que pode postergar a ação climática necessária no curto prazo.",

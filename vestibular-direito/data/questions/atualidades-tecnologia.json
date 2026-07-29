@@ -6,9 +6,9 @@
                          "texto_apoio":  "Diferentemente de sistemas programados com regras fixas e explícitas para cada situação, determinados sistemas de inteligência artificial identificam padrões a partir de grandes volumes de dados e ajustam seu comportamento com base neles.",
                          "enunciado":  "Essa abordagem, em que o sistema aprende padrões a partir de dados em vez de seguir regras integralmente pré-programadas, é conhecida como:",
                          "alternativas":  {
-                                              "a":  "automação mecânica simples",
-                                              "b":  "processamento em lote",
-                                              "c":  "programação estruturada tradicional",
+                                              "a":  "automação mecânica simples, sem etapa de aprendizado",
+                                              "b":  "processamento em lote, sem análise de padrões",
+                                              "c":  "programação estruturada tradicional, com regras fixas",
                                               "d":  "aprendizado de máquina (machine learning)"
                                           },
                          "resposta":  "d",
@@ -19,10 +19,10 @@
                          "texto_apoio":  "Determinados modelos de inteligência artificial, treinados com grandes volumes de texto, imagem ou áudio, são capazes de produzir novos conteúdos originais — como textos, imagens ou músicas — a partir de padrões estatísticos aprendidos durante o treinamento.",
                          "enunciado":  "Esses modelos são classificados como sistemas de:",
                          "alternativas":  {
-                                              "a":  "automação robótica de processos",
-                                              "b":  "inteligência artificial generativa",
-                                              "c":  "criptografia assimétrica",
-                                              "d":  "computação em nuvem"
+                                              "a":  "automação robótica de processos, sem geração de conteúdo novo",
+                                              "b":  "sistemas de inteligência artificial generativa",
+                                              "c":  "criptografia assimétrica, baseada em par de chaves pública e privada",
+                                              "d":  "computação em nuvem, infraestrutura de TI fornecida sob demanda"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A inteligência artificial generativa refere-se a modelos capazes de criar novos conteúdos — textos, imagens, áudio, código — a partir de padrões estatísticos aprendidos em grandes volumes de dados de treinamento, diferentemente de sistemas voltados apenas à classificação ou previsão."
@@ -45,10 +45,10 @@
                          "texto_apoio":  "A crescente capacidade de sistemas automatizados de executar tarefas antes realizadas exclusivamente por seres humanos tem gerado debate sobre seus efeitos no mercado de trabalho.",
                          "enunciado":  "Uma visão frequente entre economistas sobre esse processo é que a automação tende a:",
                          "alternativas":  {
-                                              "a":  "eliminar por completo a existência de qualquer emprego no longo prazo",
-                                              "b":  "não ter nenhum efeito sobre a demanda por determinadas habilidades",
-                                              "c":  "substituir determinadas tarefas rotineiras, ao mesmo tempo em que pode criar novas ocupações e exigir requalificação profissional",
-                                              "d":  "afetar exclusivamente empregos de alta qualificação"
+                                              "a":  "eliminar por completo a existência de qualquer emprego no longo prazo, tese sem respaldo em estudos econômicos",
+                                              "b":  "não ter nenhum efeito sobre a demanda por determinadas habilidades, contrariando dados sobre reconversão profissional",
+                                              "c":  "substituir tarefas rotineiras, podendo criar novas ocupações e exigir requalificação da força de trabalho",
+                                              "d":  "afetar exclusivamente empregos de alta qualificação, ignorando o impacto sobre funções operacionais repetitivas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A automação tende a substituir tarefas rotineiras e repetitivas, tanto manuais quanto cognitivas, ao mesmo tempo em que pode criar novas ocupações ligadas ao desenvolvimento, manutenção e supervisão dessas tecnologias, exigindo requalificação da força de trabalho."
@@ -58,10 +58,10 @@
                          "texto_apoio":  "Ao personalizar o conteúdo exibido a cada usuário com base em seu histórico de interações, plataformas digitais podem reduzir a exposição a opiniões e informações divergentes das que o usuário já costuma consumir.",
                          "enunciado":  "Esse fenômeno de isolamento informacional, no qual o usuário passa a ter contato predominante com conteúdos que reforçam suas próprias visões, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "neutralidade de rede",
-                                              "b":  "criptografia ponta a ponta",
-                                              "c":  "computação distribuída",
-                                              "d":  "bolha de filtro (ou câmara de eco)"
+                                              "a":  "neutralidade de rede, princípio sobre tráfego de dados",
+                                              "b":  "criptografia ponta a ponta, técnica de proteção de mensagens",
+                                              "c":  "computação distribuída, processamento em múltiplos nós",
+                                              "d":  "a bolha de filtro (ou câmara de eco), efeito de isolamento informacional"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A bolha de filtro (ou câmara de eco) descreve o efeito de isolamento informacional causado pela personalização algorítmica de conteúdo, que tende a expor o usuário principalmente a informações e opiniões alinhadas às suas preferências prévias, reduzindo o contato com pontos de vista divergentes."
@@ -71,10 +71,10 @@
                          "texto_apoio":  "Plataformas de redes sociais e streaming utilizam sistemas que selecionam automaticamente quais conteúdos serão exibidos a cada usuário, a partir de seu histórico de interações.",
                          "enunciado":  "Um critério frequentemente priorizado por esses sistemas na seleção de conteúdo, segundo análises sobre o modelo de negócio dessas plataformas, é:",
                          "alternativas":  {
-                                              "a":  "a ordem cronológica estrita de publicação",
-                                              "b":  "a diversidade obrigatória de pontos de vista apresentados",
+                                              "a":  "a ordem cronológica estrita de publicação, hoje secundária nos algoritmos",
+                                              "b":  "a diversidade obrigatória de pontos de vista apresentados, hoje não exigida por lei",
                                               "c":  "a maximização do tempo de permanência e do engajamento do usuário na plataforma",
-                                              "d":  "a veracidade comprovada de todo o conteúdo exibido"
+                                              "d":  "a veracidade comprovada de todo o conteúdo exibido, ainda que não seja checada previamente"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Como o modelo de negócio de muitas plataformas depende da atenção e do engajamento dos usuários, frequentemente associados à receita publicitária, os algoritmos de recomendação tendem a priorizar conteúdos que maximizam tempo de uso e interação, o que pode favorecer conteúdos polêmicos ou emocionalmente intensos."
@@ -84,10 +84,10 @@
                          "texto_apoio":  "Nem toda informação falsa compartilhada é produzida com a intenção deliberada de enganar; em alguns casos, o compartilhamento decorre de erro ou desconhecimento por parte de quem divulga.",
                          "enunciado":  "O termo mais adequado para se referir especificamente à disseminação deliberada e intencional de conteúdo falso, com o objetivo de enganar, é:",
                          "alternativas":  {
-                                              "a":  "desinformação (disinformation)",
-                                              "b":  "informação incorreta (misinformation)",
-                                              "c":  "sátira declarada",
-                                              "d":  "opinião divergente"
+                                              "a":  "desinformação (disinformation), disseminação intencional de conteúdo falso",
+                                              "b":  "informação incorreta (misinformation), compartilhada sem intenção de enganar",
+                                              "c":  "sátira declarada, gênero humorístico sem intenção de enganar o público",
+                                              "d":  "opinião divergente, expressão legítima de um ponto de vista distinto"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Desinformação (disinformation) refere-se à criação e disseminação deliberada e intencional de conteúdo falso para enganar, distinguindo-se da informação incorreta (misinformation), que é compartilhada por engano, sem intenção de causar dano."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "Determinadas categorias de dados pessoais, como informações sobre saúde, orientação sexual, convicção religiosa ou dado biométrico, recebem tratamento jurídico diferenciado por seu maior potencial de gerar discriminação caso mal utilizadas.",
                          "enunciado":  "Essa categoria de dados, sujeita a proteção reforçada na legislação de proteção de dados, é chamada de:",
                          "alternativas":  {
-                                              "a":  "dados públicos",
-                                              "b":  "dados anonimizados",
-                                              "c":  "dados cadastrais simples",
-                                              "d":  "dados sensíveis"
+                                              "a":  "dados públicos, de livre acesso e sem restrição de tratamento",
+                                              "b":  "dados anonimizados, que não permitem identificar o titular",
+                                              "c":  "dados cadastrais simples, como nome e endereço, sem proteção reforçada",
+                                              "d":  "dados sensíveis, categoria protegida com rigor pela legislação"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Dados sensíveis são categorias de dados pessoais — como origem étnica, convicção religiosa, dado de saúde ou biométrico — que recebem proteção jurídica reforçada, dado seu maior potencial de causar discriminação ou dano ao titular caso sejam tratados de forma inadequada."
@@ -123,10 +123,10 @@
                          "texto_apoio":  "Em determinadas plataformas digitais, o valor do serviço para cada usuário aumenta à medida que mais pessoas passam a utilizá-lo, como ocorre em redes sociais e aplicativos de mensagens.",
                          "enunciado":  "Esse fenômeno econômico, em que o valor de um produto ou serviço cresce conforme aumenta o número de usuários, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "curva de demanda inversa",
-                                              "b":  "efeito de rede",
-                                              "c":  "externalidade negativa de consumo",
-                                              "d":  "economia de escala"
+                                              "a":  "curva de demanda inversa, conceito de microeconomia tradicional",
+                                              "b":  "efeito de rede, fenômeno típico de plataformas digitais",
+                                              "c":  "externalidade negativa de consumo, que reduz o valor percebido do bem",
+                                              "d":  "economia de escala, redução de custo médio com o aumento da produção"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O efeito de rede ocorre quando o valor de um produto ou serviço para cada usuário aumenta conforme cresce o número total de usuários, fenômeno comum em plataformas digitais como redes sociais, aplicativos de mensagens e marketplaces."
@@ -136,10 +136,10 @@
                          "texto_apoio":  "Aplicativos que conectam prestadores de serviço a consumidores, permitindo que trabalhadores realizem entregas ou transportes de forma flexível, sem vínculo empregatício tradicional, expandiram-se significativamente nos últimos anos.",
                          "enunciado":  "Esse modelo de trabalho sob demanda, intermediado por plataformas digitais e caracterizado por flexibilidade e ausência de vínculo formal típico, é denominado:",
                          "alternativas":  {
-                                              "a":  "economia de plataformas (gig economy)",
-                                              "b":  "economia circular",
-                                              "c":  "economia de escala",
-                                              "d":  "economia planificada"
+                                              "a":  "economia de plataformas (gig economy), marcada por flexibilidade e ausência de vínculo formal",
+                                              "b":  "economia circular, modelo de reaproveitamento de recursos e materiais",
+                                              "c":  "economia de escala, ganho de eficiência pelo aumento da produção",
+                                              "d":  "economia planificada, sistema de decisões centralizadas pelo Estado"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A gig economy (economia de bicos ou de plataformas) caracteriza-se pela intermediação digital de serviços prestados de forma flexível e sob demanda, geralmente sem vínculo empregatício formal, o que gera debate sobre direitos trabalhistas e proteção social desses trabalhadores."
@@ -149,10 +149,10 @@
                          "texto_apoio":  "Determinado entendimento jurídico discute a possibilidade de um indivíduo solicitar a remoção ou desindexação de informações verdadeiras sobre fatos antigos de sua vida, que já perderam relevância pública atual, mas continuam facilmente acessíveis on-line.",
                          "enunciado":  "Essa possibilidade é discutida sob o conceito de:",
                          "alternativas":  {
-                                              "a":  "direito ao esquecimento",
-                                              "b":  "liberdade de imprensa irrestrita",
-                                              "c":  "neutralidade de rede",
-                                              "d":  "domínio público obrigatório"
+                                              "a":  "direito ao esquecimento, que pondera privacidade e liberdade de expressão",
+                                              "b":  "liberdade de imprensa irrestrita, sem qualquer ponderação com a privacidade",
+                                              "c":  "neutralidade de rede, princípio sobre tráfego de dados na internet",
+                                              "d":  "domínio público obrigatório, categoria aplicável a obras sem proteção autoral"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O direito ao esquecimento discute até que ponto um indivíduo pode solicitar a remoção ou desindexação de informações verídicas, mas antigas e sem relevância pública atual, ponderando esse interesse com a liberdade de expressão e o interesse público à informação."
@@ -162,10 +162,10 @@
                          "texto_apoio":  "Um princípio regulatório discutido em diversos países estabelece que provedores de conexão à internet devem tratar todo o tráfego de dados de forma isonômica, sem discriminar ou priorizar determinados aplicativos, sites ou serviços.",
                          "enunciado":  "Esse princípio é conhecido como:",
                          "alternativas":  {
-                                              "a":  "soberania digital",
-                                              "b":  "interoperabilidade obrigatória",
-                                              "c":  "neutralidade de rede",
-                                              "d":  "portabilidade numérica"
+                                              "a":  "soberania digital, controle estatal sobre infraestrutura tecnológica",
+                                              "b":  "interoperabilidade obrigatória, exigência de compatibilidade entre serviços",
+                                              "c":  "neutralidade de rede, princípio de isonomia no tráfego de dados",
+                                              "d":  "portabilidade numérica, direito de manter o número ao trocar de operadora"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A neutralidade de rede é o princípio segundo o qual provedores de internet devem tratar de forma isonômica todo o tráfego de dados, sem discriminar, bloquear ou priorizar comercialmente determinados aplicativos, sites ou serviços em detrimento de outros."

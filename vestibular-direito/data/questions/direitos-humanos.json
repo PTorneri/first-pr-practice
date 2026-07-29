@@ -7,9 +7,9 @@
                          "enunciado":  "Essa reivindicação, típica das revoluções liberais dos séculos XVII e XVIII, expressa a lógica dos direitos de primeira geração, cuja característica central é:",
                          "alternativas":  {
                                               "a":  "Impor limites à ação do Estado, protegendo liberdades individuais como ir e vir, expressão e propriedade",
-                                              "b":  "Assegurar direitos coletivos de povos e comunidades tradicionais",
-                                              "c":  "Generalizar automaticamente essa garantia histórica contra a censura estatal para regular também, hoje, a moderação de conteúdo feita por empresas privadas de redes sociais",
-                                              "d":  "Exigir do Estado prestações positivas, como saúde, educação e moradia"
+                                              "b":  "Assegurar direitos coletivos de povos e comunidades tradicionais, como previsto na Convenção 169 da Organização Internacional do Trabalho",
+                                              "c":  "Generalizar essa garantia histórica contra a censura estatal para regular a moderação de conteúdo em redes sociais privadas",
+                                              "d":  "Exigir do Estado prestações positivas, como saúde, educação e moradia, direitos sociais consagrados pelo PIDESC de 1966"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os direitos de primeira geração (civis e políticos), conquistados nas revoluções liberais dos séculos XVII-XVIII, visam limitar o poder do Estado diante do indivíduo — liberdade de ir e vir, expressão, propriedade. A alternativa d ilustra um erro comum: estender o alcance de uma garantia histórica contra o Estado (censura estatal) a um contexto atual estruturalmente diferente (moderação de conteúdo por empresas privadas), que envolve outros sujeitos e outro debate jurídico."
@@ -19,10 +19,10 @@
                          "texto_apoio":  "Aprovada pela Assembleia Geral da ONU em 1948.",
                          "enunciado":  "A Declaração Universal dos Direitos Humanos foi proclamada em um contexto histórico marcado principalmente por:",
                          "alternativas":  {
-                                              "a":  "A consolidação do sistema colonial europeu na África e na Ásia",
-                                              "b":  "O fim da Guerra Fria e a queda do Muro de Berlim",
+                                              "a":  "A consolidação do sistema colonial europeu na África e na Ásia, expandido pela Conferência de Berlim de 1885",
+                                              "b":  "O fim da Guerra Fria e a queda do Muro de Berlim, marco geopolítico simbólico de 1989",
                                               "c":  "As atrocidades cometidas durante a Segunda Guerra Mundial, sobretudo o Holocausto",
-                                              "d":  "A independência das colônias latino-americanas"
+                                              "d":  "A independência das colônias latino-americanas, processo consolidado ao longo do século XIX"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A DUDH de 1948 foi resposta direta às violações massivas de direitos humanos durante a Segunda Guerra Mundial, especialmente o extermínio nazista, buscando estabelecer parâmetros mínimos de dignidade humana."
@@ -32,10 +32,10 @@
                          "texto_apoio":  "Em 1979, moradores de um bairro operário na periferia de São Paulo assinaram um abaixo-assinado dirigido à prefeitura, reivindicando posto de saúde, escola pública e rede de esgoto para o bairro, tratando essas demandas como tão urgentes quanto o direito de votar.",
                          "enunciado":  "Direitos como os reivindicados nesse abaixo-assinado — saúde, educação e saneamento —, também previstos na Constituição Federal de 1988, são classificados como:",
                          "alternativas":  {
-                                              "a":  "Direitos difusos, exercidos apenas de forma coletiva pelo bairro, sem possibilidade de exigência individual",
-                                              "b":  "Direitos de nacionalidade",
-                                              "c":  "Direitos políticos, já que foram reivindicados ao lado do direito de votar",
-                                              "d":  "Direitos sociais, que exigem prestações positivas do Estado"
+                                              "a":  "Direitos difusos, exercidos apenas de forma coletiva pelo bairro, sem possibilidade de exigência individual perante o Judiciário",
+                                              "b":  "Direitos de nacionalidade, vinculados à emissão de documentos civis básicos pelo cartório",
+                                              "c":  "Direitos políticos, já que foram reivindicados ao lado do direito de votar nas eleições municipais",
+                                              "d":  "Direitos sociais, que exigem prestações positivas do Estado, como os previstos no art. 6º da Constituição"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Saúde, educação e saneamento são direitos sociais (art. 6º da CF/88), que demandam políticas públicas e prestações positivas do Estado — diferentemente dos direitos políticos (como o voto, citado no abaixo-assinado apenas para reforçar a urgência da pauta) ou dos direitos difusos, que pertencem a uma coletividade indeterminada, e não a um bairro especificamente identificável."
@@ -58,9 +58,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "No Brasil, o direito de voto foi estendido às mulheres em 1932, durante o governo provisório de Getúlio Vargas. Esse marco é resultado direto de:",
                          "alternativas":  {
-                                              "a":  "Uma concessão espontânea do Estado, sem pressão social prévia",
-                                              "b":  "Determinação da Organização das Nações Unidas",
-                                              "c":  "Pressão exercida por potências europeias sobre o governo brasileiro",
+                                              "a":  "Uma concessão espontânea do Estado, sem qualquer pressão social prévia organizada pela sociedade civil",
+                                              "b":  "Determinação da Organização das Nações Unidas, fundada na Declaração Universal de 1948",
+                                              "c":  "Pressão exercida por potências europeias sobre o governo brasileiro, no contexto do pós-Primeira Guerra Mundial",
                                               "d":  "Décadas de mobilização do movimento sufragista, com destaque para Bertha Lutz"
                                           },
                          "resposta":  "d",
@@ -71,9 +71,9 @@
                          "texto_apoio":  "A Lei Áurea, de 1888, aboliu formalmente a escravidão no Brasil.",
                          "enunciado":  "Do ponto de vista da história dos direitos humanos, a principal crítica feita ao processo de abolição no Brasil é que:",
                          "alternativas":  {
-                                              "a":  "A Lei Áurea concedeu direitos políticos plenos imediatos à população negra",
-                                              "b":  "A abolição ocorreu antes da independência do país",
-                                              "c":  "A escravidão persistiu legalmente até a Constituição de 1988",
+                                              "a":  "A Lei Áurea concedeu direitos políticos plenos e imediatos à população negra recém-liberta, nos moldes do sufrágio universal",
+                                              "b":  "A abolição ocorreu antes da independência política do país, ainda sob o Império de Dom Pedro II",
+                                              "c":  "A escravidão persistiu legalmente até a promulgação da Constituição de 1988, marco da redemocratização",
                                               "d":  "A abolição não foi acompanhada de políticas de integração social, terra ou educação para a população negra recém-libertada"
                                           },
                          "resposta":  "d",
@@ -84,10 +84,10 @@
                          "texto_apoio":  "Antes de 1990, crianças e adolescentes em situação de abandono ou em conflito com a lei eram tratados juridicamente como \u0027menores em situação irregular\u0027, podendo ser internados por decisão de juiz independentemente de terem cometido qualquer ato infracional.",
                          "enunciado":  "O Estatuto da Criança e do Adolescente (ECA), de 1990, rompeu com essa lógica anterior do \u0027Código de Menores\u0027 ao adotar a doutrina da:",
                          "alternativas":  {
-                                              "a":  "Situação irregular",
-                                              "b":  "Tutela penal máxima",
-                                              "c":  "Proteção integral",
-                                              "d":  "Responsabilidade civil objetiva"
+                                              "a":  "Situação irregular, adotada pelo revogado Código de Menores de 1979",
+                                              "b":  "Tutela penal máxima, associada a doutrinas de encarceramento juvenil obrigatório",
+                                              "c":  "Proteção integral, consagrada pelo ECA e pela Convenção sobre os Direitos da Criança da ONU",
+                                              "d":  "Responsabilidade civil objetiva, prevista no Código Civil para atos praticados por menores"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A doutrina da proteção integral reconhece crianças e adolescentes como sujeitos de direitos em condição peculiar de desenvolvimento, substituindo a antiga doutrina da situação irregular, que os tratava como objeto de tutela estatal, passível de internação por sua mera condição social, e não pela prática de um ato infracional."
@@ -98,9 +98,9 @@
                          "enunciado":  "O principal argumento jurídico utilizado pelo STF para validar as cotas raciais foi:",
                          "alternativas":  {
                                               "a":  "A necessidade de correção de desigualdades históricas por meio de ação afirmativa, compatível com o princípio da igualdade material",
-                                              "b":  "A obrigatoriedade imposta por tratados internacionais vinculantes",
-                                              "c":  "A inexistência de outros critérios possíveis de seleção universitária",
-                                              "d":  "A vedação constitucional a qualquer forma de exame vestibular"
+                                              "b":  "A obrigatoriedade imposta por tratados internacionais vinculantes, como a Convenção Interamericana contra o Racismo",
+                                              "c":  "A inexistência de outros critérios possíveis de seleção universitária, tese rejeitada pelo próprio STF no julgamento",
+                                              "d":  "A vedação constitucional a qualquer forma de exame vestibular, atribuída indevidamente ao art. 208 da Constituição"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O STF entendeu que as cotas raciais são instrumento legítimo de ação afirmativa, compatível com a igualdade material prevista na Constituição, ao buscar compensar desigualdades históricas de acesso à educação superior."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "O movimento \u0027Diretas Já\u0027 mobilizou milhões de brasileiros entre 1983 e 1984.",
                          "enunciado":  "Essa mobilização popular reivindicava diretamente:",
                          "alternativas":  {
-                                              "a":  "O fim do bicameralismo no Congresso Nacional",
-                                              "b":  "A extinção do Supremo Tribunal Federal",
-                                              "c":  "A eleição direta para presidente da República, então escolhido indiretamente pelo Colégio Eleitoral",
-                                              "d":  "A promulgação imediata de uma nova Constituição"
+                                              "a":  "O fim do bicameralismo no Congresso Nacional, com a extinção do Senado Federal",
+                                              "b":  "A extinção do Supremo Tribunal Federal, substituído por um tribunal constitucional nos moldes europeus",
+                                              "c":  "A eleição direta para presidente, então escolhido indiretamente pelo Colégio Eleitoral",
+                                              "d":  "A promulgação imediata de uma nova Constituição, redigida por uma assembleia constituinte exclusiva"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O movimento Diretas Já exigia a aprovação da emenda Dante de Oliveira, que restabeleceria as eleições presidenciais diretas, ainda restritas pelo regime militar ao voto indireto do Colégio Eleitoral."
@@ -136,10 +136,10 @@
                          "texto_apoio":  "Em determinado ano, tramitou no Congresso Nacional uma proposta de emenda constitucional (PEC) que buscava restringir garantias processuais consideradas direitos e garantias individuais dos acusados em processo penal.",
                          "enunciado":  "Direitos e garantias individuais, como os discutidos nessa PEC, são protegidos na Constituição de 1988 como cláusulas pétreas, o que significa que:",
                          "alternativas":  {
-                                              "a":  "Podem ser livremente alterados por lei ordinária",
-                                              "b":  "Só valem durante estados de exceção",
-                                              "c":  "Não podem ser abolidos nem mesmo por emenda constitucional, embora possam ser objeto de regulamentação legislativa que não esvazie seu núcleo essencial",
-                                              "d":  "Dependem de referendo popular para entrar em vigor"
+                                              "a":  "Podem ser livremente alterados por lei ordinária aprovada por maioria simples no Congresso",
+                                              "b":  "Só valem durante estados de exceção, como o estado de sítio previsto no art. 137 da Constituição",
+                                              "c":  "Não podem ser abolidos nem por emenda constitucional, embora admitam regulamentação legislativa que não esvazie seu núcleo essencial",
+                                              "d":  "Dependem de referendo popular para entrar em vigor, nos moldes do plebiscito de 1993 sobre a forma de governo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O art. 60, §4º, da CF/88 estabelece que direitos e garantias individuais são cláusulas pétreas, ou seja, núcleo constitucional protegido contra qualquer tentativa de supressão, mesmo por emenda constitucional — a PEC hipotética descrita poderia, quando muito, regulamentar o exercício desses direitos, mas nunca aboli-los ou esvaziar seu conteúdo essencial."
@@ -149,9 +149,9 @@
                          "texto_apoio":  "Em uma carta enviada a uma organização internacional, uma mulher relata que seu grupo étnico teve a nacionalidade revogada por decreto do governo de seu país, perdendo acesso a documentos, emprego formal e proteção judicial, mesmo continuando a viver no território onde sempre morou.",
                          "enunciado":  "A situação descrita ilustra o que a filósofa Hannah Arendt chamou de perda do \u0027direito a ter direitos\u0027, pois evidencia que:",
                          "alternativas":  {
-                                              "a":  "A privação de nacionalidade afeta exclusivamente o direito de voto dessas pessoas, sem outras consequências jurídicas",
+                                              "a":  "A privação de nacionalidade afeta exclusivamente o direito de voto dessas pessoas, sem outras consequências jurídicas relevantes para sua vida civil",
                                               "b":  "Direitos humanos, por serem universais, continuam plenamente garantidos a essas pessoas independentemente de sua nacionalidade",
-                                              "c":  "Sem pertencer a uma comunidade política que as reconheça como sujeitos de direito, essas pessoas perdem a proteção jurídica básica, mesmo sob a perspectiva formal dos direitos humanos universais",
+                                              "c":  "Sem pertencer a uma comunidade política que a reconheça como sujeito de direito, essa pessoa perde a proteção jurídica básica, mesmo sob a ótica formal dos direitos universais",
                                               "d":  "O problema central enfrentado por essas pessoas é apenas burocrático, relacionado à emissão de novos documentos de identidade"
                                           },
                          "resposta":  "c",
@@ -162,10 +162,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A existência de trabalho análogo à escravidão no Brasil contemporâneo, identificada por fiscalizações do Ministério do Trabalho, caracteriza-se principalmente por:",
                          "alternativas":  {
-                                              "a":  "Ausência completa de remuneração em qualquer hipótese",
-                                              "b":  "Contratos de trabalho sem registro em carteira, independentemente das condições de trabalho",
+                                              "a":  "Ausência completa de remuneração em qualquer hipótese, ainda que as demais condições de trabalho sejam regulares",
+                                              "b":  "Contratos de trabalho sem registro em carteira, independentemente das condições concretas de trabalho oferecidas",
                                               "c":  "Trabalho forçado, jornadas exaustivas, servidão por dívida ou condições degradantes que retiram a liberdade e a dignidade do trabalhador",
-                                              "d":  "Trabalho realizado exclusivamente por estrangeiros em situação irregular"
+                                              "d":  "Trabalho realizado exclusivamente por estrangeiros em situação migratória irregular no território nacional"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A legislação brasileira (art. 149 do Código Penal) define trabalho escravo contemporâneo por elementos como trabalho forçado, jornada exaustiva, condições degradantes e restrição de locomoção, não apenas pela ausência de pagamento."
@@ -175,10 +175,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A Constituição de 1988 representou um avanço para os povos indígenas ao:",
                          "alternativas":  {
-                                              "a":  "Impor a assimilação obrigatória à cultura nacional",
-                                              "b":  "Transferir a demarcação de terras indígenas exclusivamente aos estados",
+                                              "a":  "Impor a assimilação obrigatória à cultura nacional, política adotada pelo antigo Serviço de Proteção aos Índios (SPI)",
+                                              "b":  "Transferir a demarcação de terras indígenas exclusivamente aos estados-membros da Federação",
                                               "c":  "Reconhecer sua organização social, costumes, línguas e direitos originários sobre as terras que tradicionalmente ocupam",
-                                              "d":  "Extinguir a tutela da Fundação Nacional do Índio sem substituição"
+                                              "d":  "Extinguir a tutela da Fundação Nacional do Índio sem qualquer órgão substituto de proteção"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O art. 231 da CF/88 rompeu com a lógica assimilacionista anterior, reconhecendo aos povos indígenas o direito à sua organização social e aos direitos originários sobre suas terras, cabendo à União demarcá-las e protegê-las."
@@ -188,10 +188,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Políticas de ação afirmativa, como cotas em concursos públicos para pessoas negras, são frequentemente criticadas por opositores sob o argumento de que:",
                          "alternativas":  {
-                                              "a":  "Ferem o princípio da igualdade material previsto na Constituição",
-                                              "b":  "São impostas por organismos internacionais sem base constitucional",
+                                              "a":  "Ferem o princípio da igualdade material previsto no art. 5º da Constituição Federal",
+                                              "b":  "São impostas por organismos internacionais sem qualquer base na Constituição Federal de 1988",
                                               "c":  "Contrariam a ideia de igualdade puramente formal perante a lei, tratando os candidatos de forma diferenciada",
-                                              "d":  "Aplicam-se apenas ao Poder Judiciário"
+                                              "d":  "Aplicam-se apenas ao Poder Judiciário, conforme resolução do Conselho Nacional de Justiça"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Críticos das ações afirmativas costumam recorrer ao argumento da igualdade formal (tratamento idêntico a todos), enquanto seus defensores invocam a igualdade material, que busca compensar desigualdades estruturais de origem histórica."
@@ -201,9 +201,9 @@
                          "texto_apoio":  "Um artigo de opinião argumenta que, assim como o século XIX debateu limites ao poder do Estado sobre a liberdade individual, o século XXI precisa debater limites ao poder de empresas e governos sobre o DNA e os dados genéticos das pessoas.",
                          "enunciado":  "Esse tipo de debate, associado por parte da doutrina a uma possível \u0027quarta geração\u0027 de direitos humanos, está centrado principalmente em temas como:",
                          "alternativas":  {
-                                              "a":  "Generalizar o antigo direito ao sigilo de correspondência, do século XIX, como se pudesse ser automaticamente estendido, sem qualquer mediação legislativa própria, a bancos de dados genéticos digitais criados por empresas privadas hoje",
+                                              "a":  "Generalizar o antigo direito ao sigilo de correspondência do século XIX para bancos de dados genéticos digitais de empresas privadas",
                                               "b":  "Sufrágio universal e liberdade de imprensa, temas típicos das primeiras gerações de direitos",
-                                              "c":  "Bioética, manipulação genética e proteção de dados pessoais na era digital",
+                                              "c":  "Bioética, manipulação genética e proteção de dados pessoais na era digital, temas centrais da LGPD",
                                               "d":  "Abolição da escravidão e fim do trabalho infantil, pautas típicas dos direitos sociais consolidados no século XX"
                                           },
                          "resposta":  "c",
@@ -214,10 +214,10 @@
                          "texto_apoio":  "Um ensaio sobre história da democracia observa que, na Atenas clássica, apenas uma fração da população total que habitava a cidade podia integrar a Assembleia e votar as leis, já que mulheres, pessoas escravizadas e estrangeiros (metecos) eram excluídos da cidadania plena.",
                          "enunciado":  "Diante desse retrato da cidadania na Grécia Antiga, a comparação com a cidadania moderna exige cautela porque:",
                          "alternativas":  {
-                                              "a":  "As duas noções de cidadania são idênticas, pois ambas se baseiam exclusivamente no critério de nascimento no território",
+                                              "a":  "As duas noções de cidadania são idênticas, pois ambas se baseiam exclusivamente no critério de nascimento no território, o chamado jus soli",
                                               "b":  "A cidadania grega, embora restrita, pode ser tratada como equivalente à cidadania moderna, bastando aplicar suas regras de participação política ao contexto atual sem qualquer ressalva",
-                                              "c":  "Cidadania, na Antiguidade, era um status restrito a uma parcela da população livre e nascida na cidade, enquanto a cidadania moderna se pretende universal, alcançando, ao menos formalmente, toda a população nacional, independentemente de gênero ou origem",
-                                              "d":  "A cidadania moderna manteve, sem alterações, a exclusão de mulheres do direito de voto presente na Grécia Antiga"
+                                              "c":  "Cidadania, na Antiguidade, era status restrito a uma parcela da população livre e nascida na cidade, enquanto a cidadania moderna se pretende universal, alcançando toda a população nacional",
+                                              "d":  "A cidadania moderna manteve, sem alterações, a exclusão de mulheres do direito de voto presente na Grécia Antiga até os dias atuais"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A cidadania na pólis grega era privilégio de uma minoria de homens livres, excluindo mulheres, escravizados e estrangeiros — diferente da pretensão de universalidade da cidadania moderna. Um erro comum é generalizar indevidamente um conceito histórico restrito (a cidadania antiga) para o contexto atual, como se as regras de um período pudessem ser aplicadas sem mediação das transformações históricas — incluindo conquistas como o sufrágio universal — que separam os dois momentos."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "A Lei Brasileira de Inclusão (Lei 13.146/2015) internalizou princípios da Convenção Internacional sobre os Direitos das Pessoas com Deficiência.",
                          "enunciado":  "Um dos princípios centrais dessa legislação é a mudança do chamado modelo médico para o modelo social da deficiência, que consiste em:",
                          "alternativas":  {
-                                              "a":  "Eliminar a necessidade de acessibilidade em espaços públicos",
+                                              "a":  "Eliminar a necessidade de acessibilidade em espaços públicos e privados de uso coletivo",
                                               "b":  "Entender a deficiência como resultado da interação entre a condição da pessoa e barreiras impostas pela sociedade",
-                                              "c":  "Considerar a deficiência exclusivamente como uma condição biológica a ser tratada medicamente",
-                                              "d":  "Restringir direitos de pessoas com deficiência ao ambiente hospitalar"
+                                              "c":  "Considerar a deficiência exclusivamente como uma condição biológica a ser tratada e curada medicamente",
+                                              "d":  "Restringir direitos de pessoas com deficiência ao ambiente hospitalar e a instituições de longa permanência"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O modelo social compreende a deficiência não apenas como uma limitação individual, mas como resultado da interação entre a pessoa e barreiras físicas, sociais e atitudinais que a sociedade impõe, deslocando o foco para a acessibilidade e a inclusão."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "A Emenda Constitucional nº 26, de 2000, incluiu a moradia entre os direitos sociais previstos no art. 6º da Constituição Federal.",
                          "enunciado":  "O reconhecimento constitucional do direito à moradia implica, sobretudo, que o poder público deve:",
                          "alternativas":  {
-                                              "a":  "Doar um imóvel próprio a cada cidadão que o solicitar",
+                                              "a":  "Doar um imóvel próprio a cada cidadão que o solicitar, independentemente de critérios de renda ou vulnerabilidade",
                                               "b":  "Formular e executar políticas públicas que garantam acesso a moradia digna, sem se resumir à titulação da propriedade privada",
-                                              "c":  "Abolir a propriedade privada urbana em favor da propriedade coletiva",
-                                              "d":  "Restringir a aplicação desse direito exclusivamente às áreas rurais"
+                                              "c":  "Abolir a propriedade privada urbana em favor da propriedade coletiva, nos moldes soviéticos do século XX",
+                                              "d":  "Restringir a aplicação desse direito exclusivamente às áreas rurais, excluindo os centros urbanos do país"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O direito à moradia, como direito social, exige prestações positivas do Estado, como programas habitacionais, urbanização de assentamentos precários e infraestrutura, não se limitando à garantia da propriedade individual do imóvel."
@@ -253,9 +253,9 @@
                          "texto_apoio":  "O Estatuto da Cidade (Lei 10.257/2001) regulamenta o capítulo constitucional de política urbana e consagra a função social da propriedade.",
                          "enunciado":  "Entre os instrumentos previstos pelo Estatuto da Cidade para assegurar que a propriedade urbana cumpra sua função social está:",
                          "alternativas":  {
-                                              "a":  "A isenção permanente de impostos para terrenos vazios em áreas centrais",
-                                              "b":  "A transferência automática da propriedade ao município após um ano de vacância",
-                                              "c":  "A proibição total de imóveis não edificados nas cidades",
+                                              "a":  "A isenção permanente de impostos para terrenos vazios em áreas centrais das cidades brasileiras",
+                                              "b":  "A transferência automática da propriedade ao município após um ano de vacância do imóvel",
+                                              "c":  "A proibição total de imóveis não edificados nas cidades, sem qualquer exceção legal prevista",
                                               "d":  "O parcelamento, a edificação ou a utilização compulsórios de imóveis subutilizados, sob pena de IPTU progressivo no tempo"
                                           },
                          "resposta":  "d",
@@ -266,10 +266,10 @@
                          "texto_apoio":  "O art. 7º, inciso XXXIII, da Constituição Federal trata da proteção ao trabalho de crianças e adolescentes.",
                          "enunciado":  "De acordo com a Constituição Federal, é vedado qualquer trabalho a menores de:",
                          "alternativas":  {
-                                              "a":  "16 anos, exceto para trabalho noturno",
-                                              "b":  "12 anos, sem qualquer exceção",
+                                              "a":  "16 anos, exceto para trabalho noturno, perigoso ou insalubre",
+                                              "b":  "12 anos, sem qualquer exceção admitida pela lei trabalhista",
                                               "c":  "14 anos, salvo na condição de aprendiz a partir dessa idade",
-                                              "d":  "18 anos, inclusive na condição de aprendiz"
+                                              "d":  "18 anos, inclusive na condição de aprendiz, segundo a CLT"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Constituição proíbe qualquer trabalho a menores de 14 anos, admitindo a partir dessa idade apenas a condição de aprendiz; o trabalho noturno, perigoso ou insalubre é vedado a menores de 18 anos, e o trabalho comum é permitido a partir dos 16 anos."
@@ -279,10 +279,10 @@
                          "texto_apoio":  "O ECA instituiu o Sistema de Garantia de Direitos da criança e do adolescente, do qual fazem parte diferentes órgãos e instâncias.",
                          "enunciado":  "Dentro desse sistema, o Conselho Tutelar é o órgão responsável por:",
                          "alternativas":  {
-                                              "a":  "Julgar processos criminais envolvendo adolescentes em conflito com a lei",
-                                              "b":  "Zelar, no âmbito municipal, pelo cumprimento dos direitos da criança e do adolescente, atuando de forma autônoma e não jurisdicional",
-                                              "c":  "Legislar sobre políticas nacionais de infância e juventude",
-                                              "d":  "Substituir integralmente o papel da família na criação dos filhos"
+                                              "a":  "Julgar processos criminais envolvendo adolescentes em conflito com a lei, com pena privativa de liberdade",
+                                              "b":  "Zelar, no âmbito municipal, pelo cumprimento dos direitos da criança e do adolescente, de forma autônoma e não jurisdicional",
+                                              "c":  "Legislar sobre políticas nacionais de infância e juventude, com força de lei federal",
+                                              "d":  "Substituir integralmente o papel da família na criação dos filhos, mediante guarda estatal permanente"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Conselho Tutelar é órgão permanente, autônomo e não jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente no âmbito municipal, distinto do Poder Judiciário."
@@ -292,10 +292,10 @@
                          "texto_apoio":  "A Convenção Internacional sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado de direitos humanos aprovado pelo Congresso Nacional com o rito qualificado do art. 5º, §3º, da Constituição.",
                          "enunciado":  "Essa forma de aprovação conferiu à Convenção o status de:",
                          "alternativas":  {
-                                              "a":  "Lei ordinária, podendo ser revogada por lei posterior de igual hierarquia",
-                                              "b":  "Mera recomendação, sem força vinculante no ordenamento interno",
-                                              "c":  "Norma equivalente a emenda constitucional",
-                                              "d":  "Decreto regulamentar de competência exclusiva do Poder Executivo"
+                                              "a":  "Lei ordinária, podendo ser revogada por lei posterior de igual hierarquia normativa",
+                                              "b":  "Mera recomendação, sem força vinculante no ordenamento jurídico interno",
+                                              "c":  "Norma equivalente a emenda constitucional, aprovada em dois turnos por três quintos dos votos",
+                                              "d":  "Decreto regulamentar de competência exclusiva do Poder Executivo Federal"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Tratados de direitos humanos aprovados em dois turnos, por três quintos dos votos, em cada Casa do Congresso Nacional, passam a ter status de emenda constitucional, conforme o art. 5º, §3º, da CF/88 — regra até hoje aplicada apenas a poucos tratados, entre eles essa Convenção."
@@ -305,10 +305,10 @@
                          "texto_apoio":  "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
                          "enunciado":  "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
                          "alternativas":  {
-                                              "a":  "Benefício assistencial substitutivo do salário mínimo",
-                                              "b":  "Isenção fiscal concedida apenas a microempresas",
+                                              "a":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS",
+                                              "b":  "Isenção fiscal concedida apenas a microempresas de pequeno porte",
                                               "c":  "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho",
-                                              "d":  "Política aplicável exclusivamente ao setor público"
+                                              "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Lei de Cotas obriga empresas privadas com 100 ou mais empregados a reservar de 2% a 5% das vagas a pessoas com deficiência ou reabilitadas, constituindo ação afirmativa voltada à inclusão no mercado de trabalho formal."
@@ -318,9 +318,9 @@
                          "texto_apoio":  "A Declaração de Cartagena, de 1984, ampliou o conceito de refugiado adotado pela Convenção de 1951, incorporado pela legislação brasileira (Lei 9.474/1997).",
                          "enunciado":  "Essa ampliação passou a reconhecer como refugiadas também pessoas que fogem de seus países devido a:",
                          "alternativas":  {
-                                              "a":  "Simples busca por melhores salários no exterior",
-                                              "b":  "Desejo de reunificação familiar com parentes já emigrados",
-                                              "c":  "Necessidade de completar estudos universitários no exterior",
+                                              "a":  "Simples busca por melhores salários no exterior, motivação classificada como migração econômica",
+                                              "b":  "Desejo de reunificação familiar com parentes já emigrados para outro país",
+                                              "c":  "Necessidade de completar estudos universitários no exterior, sem qualquer perseguição",
                                               "d":  "Grave e generalizada violação de direitos humanos, e não apenas perseguição individualizada"
                                           },
                          "resposta":  "d",
@@ -331,10 +331,10 @@
                          "texto_apoio":  "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
                          "enunciado":  "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
                          "alternativas":  {
-                                              "a":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias",
-                                              "b":  "As partes em conflito devem distinguir entre combatentes e civis, dirigindo ataques apenas contra objetivos militares",
+                                              "a":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra",
+                                              "b":  "As partes em conflito devem distinguir combatentes de civis, dirigindo ataques apenas contra objetivos militares",
                                               "c":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor",
-                                              "d":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total"
+                                              "d":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total declarada"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O princípio da distinção exige que as partes em conflito armado diferenciem combatentes de civis e bens de caráter civil, dirigindo operações militares apenas contra objetivos militares legítimos, de modo a proteger a população civil."
@@ -344,10 +344,10 @@
                          "texto_apoio":  "O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) atua desde 1950 na proteção de refugiados e apátridas.",
                          "enunciado":  "Uma pessoa apátrida é aquela que:",
                          "alternativas":  {
-                                              "a":  "Vive permanentemente fora de seu país de nascimento, ainda que mantenha sua nacionalidade original",
-                                              "b":  "Não é considerada nacional por nenhum Estado, segundo sua legislação",
-                                              "c":  "Possui dupla nacionalidade reconhecida por dois Estados diferentes",
-                                              "d":  "Renunciou voluntariamente a todos os seus direitos civis"
+                                              "a":  "Vive permanentemente fora de seu país de nascimento, mantendo sua nacionalidade original",
+                                              "b":  "Não é considerada nacional por nenhum Estado, segundo a legislação de nenhum deles",
+                                              "c":  "Possui dupla nacionalidade reconhecida oficialmente por dois Estados diferentes",
+                                              "d":  "Renunciou voluntariamente a todos os seus direitos civis perante a Justiça Eleitoral"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A apatridia caracteriza-se pela ausência de vínculo de nacionalidade com qualquer Estado, o que priva a pessoa de proteção jurídica básica, como acesso a documentos, serviços públicos e direitos políticos, sendo tema de atuação do ACNUR."
@@ -357,10 +357,10 @@
                          "texto_apoio":  "A Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992 (Eco-92), consolidou o conceito de desenvolvimento sustentável.",
                          "enunciado":  "Esse conceito busca conciliar, principalmente:",
                          "alternativas":  {
-                                              "a":  "O crescimento econômico ilimitado com a total ausência de regulação ambiental",
+                                              "a":  "O crescimento econômico ilimitado com a total ausência de qualquer regulação ambiental estatal",
                                               "b":  "A industrialização acelerada dos países em desenvolvimento, independentemente de seus impactos ambientais",
-                                              "c":  "O desenvolvimento econômico e social com a preservação ambiental, atendendo às necessidades presentes sem comprometer as gerações futuras",
-                                              "d":  "A interrupção total das atividades produtivas em países em desenvolvimento"
+                                              "c":  "O desenvolvimento econômico e social com a preservação ambiental, atendendo às necessidades presentes sem comprometer o futuro",
+                                              "d":  "A interrupção total das atividades produtivas em países em desenvolvimento, decisão do Protocolo de Kyoto"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O desenvolvimento sustentável, definido pelo Relatório Brundtland (1987) e consolidado na Eco-92, propõe atender às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas próprias necessidades, articulando desenvolvimento e proteção ambiental."
@@ -370,7 +370,7 @@
                          "texto_apoio":  "O art. 225 da Constituição Federal de 1988 trata do direito ao meio ambiente.",
                          "enunciado":  "Segundo esse dispositivo constitucional, o meio ambiente ecologicamente equilibrado é:",
                          "alternativas":  {
-                                              "a":  "Um tema de competência exclusiva dos municípios",
+                                              "a":  "Um tema de competência exclusiva dos municípios, conforme o pacto federativo brasileiro",
                                               "b":  "Um bem de propriedade exclusiva da União, sem qualquer responsabilidade dos cidadãos",
                                               "c":  "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações",
                                               "d":  "Um bem de uso comum do povo, cuja defesa é dever tanto do poder público quanto da coletividade"
@@ -383,10 +383,10 @@
                          "texto_apoio":  "Em 2003, o STF julgou o caso conhecido como \u0027Ellwanger\u0027, envolvendo a condenação de um editor por divulgar obras antissemitas.",
                          "enunciado":  "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
                          "alternativas":  {
-                                              "a":  "É um direito absoluto, que não admite qualquer limitação constitucional",
-                                              "b":  "Não é absoluta e pode ser limitada quando seu exercício configura discurso de ódio, como a incitação ao racismo, crime imprescritível e inafiançável",
-                                              "c":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese",
-                                              "d":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa"
+                                              "a":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta",
+                                              "b":  "Não é absoluta e pode ser limitada quando configura discurso de ódio, como a incitação ao racismo, crime inafiançável",
+                                              "c":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto",
+                                              "d":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa tradicionais"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O STF reafirmou que a liberdade de expressão, embora fundamental, não é absoluta, devendo ser ponderada com outros valores constitucionais, como a dignidade humana e a igualdade, de modo que manifestações de ódio racial configuram crime de racismo, nos termos da Constituição."
@@ -396,10 +396,10 @@
                          "texto_apoio":  "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
                          "enunciado":  "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
                          "alternativas":  {
-                                              "a":  "Ponderar a proteção à liberdade de expressão com a necessidade de coibir discursos que incitem violência, discriminação ou ódio contra grupos vulneráveis",
-                                              "b":  "Eliminar totalmente qualquer forma de moderação de conteúdo nas redes sociais",
+                                              "a":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de violência ou ódio contra grupos vulneráveis",
+                                              "b":  "Eliminar totalmente qualquer forma de moderação de conteúdo nas redes sociais e aplicativos",
                                               "c":  "Transferir ao Estado o controle editorial direto de todo conteúdo publicado por particulares",
-                                              "d":  "Aplicar-se exclusivamente a veículos de imprensa tradicionais, excluindo redes sociais"
+                                              "d":  "Aplicar-se exclusivamente a veículos de imprensa tradicionais, excluindo integralmente as redes sociais"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O debate sobre liberdade de expressão no ambiente digital busca equilibrar a proteção a esse direito fundamental com a necessidade de coibir abusos, como discursos que incitam violência ou discriminação, sem que isso resulte em censura prévia indevida."
@@ -410,9 +410,9 @@
                          "enunciado":  "Um dos principais objetivos da LGPD é:",
                          "alternativas":  {
                                               "a":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
-                                              "b":  "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados pessoais, protegendo a privacidade dos titulares",
-                                              "c":  "Regular exclusivamente o tratamento de dados por órgãos governamentais",
-                                              "d":  "Proibir qualquer coleta de dados pessoais por empresas e órgãos públicos"
+                                              "b":  "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados, protegendo a privacidade",
+                                              "c":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais",
+                                              "d":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A LGPD estabelece princípios e regras para o tratamento de dados pessoais por empresas e órgãos públicos, assegurando direitos aos titulares dos dados, como informação, consentimento e finalidade específica, em consonância com o direito fundamental à privacidade."
@@ -422,10 +422,10 @@
                          "texto_apoio":  "O chamado \u0027direito ao esquecimento\u0027 tem sido debatido pelos tribunais brasileiros em casos envolvendo a divulgação de fatos passados sobre uma pessoa.",
                          "enunciado":  "Esse debate envolve, sobretudo, a tensão entre:",
                          "alternativas":  {
-                                              "a":  "O direito de propriedade e o direito ao meio ambiente",
-                                              "b":  "O direito à nacionalidade e o direito de voto",
+                                              "a":  "O direito de propriedade e o direito ao meio ambiente equilibrado, previsto no art. 225 da Constituição",
+                                              "b":  "O direito à nacionalidade e o direito de voto, ambos classificados como direitos políticos",
                                               "c":  "A liberdade de imprensa e o direito à informação, de um lado, e a privacidade e a dignidade da pessoa humana, de outro",
-                                              "d":  "A liberdade religiosa e a liberdade de associação"
+                                              "d":  "A liberdade religiosa e a liberdade de associação, direitos individuais de primeira geração"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O debate sobre o direito ao esquecimento envolve a ponderação entre a liberdade de expressão e de imprensa, que asseguram o acesso à informação e à história, e os direitos à privacidade, à honra e à dignidade da pessoa humana, tema analisado pelo STF em repercussão geral."
@@ -435,10 +435,10 @@
                          "texto_apoio":  "A Lei Maria da Penha (Lei 11.340/2006) criou mecanismos para coibir a violência doméstica e familiar contra a mulher.",
                          "enunciado":  "Essa lei recebeu esse nome em homenagem a:",
                          "alternativas":  {
-                                              "a":  "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional",
-                                              "b":  "Uma farmacêutica cearense que sofreu tentativas de feminicídio por parte do marido e levou o caso a organismos internacionais de direitos humanos",
-                                              "c":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil",
-                                              "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país"
+                                              "a":  "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional em 2004",
+                                              "b":  "Uma farmacêutica cearense que sofreu tentativas de feminicídio pelo marido e levou o caso à Comissão Interamericana",
+                                              "c":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil, em 1990",
+                                              "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país, em 1985"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Maria da Penha Maia Fernandes sofreu duas tentativas de assassinato por parte do então marido, que a deixaram paraplégica; diante da impunidade prolongada no Brasil, ela recorreu à Comissão Interamericana de Direitos Humanos, cuja recomendação impulsionou a criação da lei que leva seu nome."
@@ -449,9 +449,9 @@
                          "enunciado":  "Segundo essa lei, o feminicídio caracteriza-se pelo homicídio de mulher cometido em contexto de:",
                          "alternativas":  {
                                               "a":  "Qualquer crime cometido por motivo financeiro, independentemente do gênero da vítima",
-                                              "b":  "Latrocínio praticado exclusivamente em via pública",
+                                              "b":  "Latrocínio praticado exclusivamente em via pública, mediante emprego de arma de fogo",
                                               "c":  "Violência doméstica e familiar ou menosprezo e discriminação à condição de mulher",
-                                              "d":  "Conflitos entre membros de facções criminosas"
+                                              "d":  "Conflitos entre membros de facções criminosas rivais, sem relação com o gênero da vítima"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O feminicídio é reconhecido como qualificadora do homicídio quando praticado contra mulher por razões da condição de sexo feminino, o que inclui contextos de violência doméstica e familiar ou de menosprezo e discriminação à mulher, resultando em pena mais grave."
@@ -461,7 +461,7 @@
                          "texto_apoio":  "O movimento feminista costuma ser analisado pela historiografia em diferentes fases, chamadas de \u0027ondas\u0027.",
                          "enunciado":  "A chamada primeira onda do feminismo, entre o final do século XIX e o início do XX, teve como principal bandeira:",
                          "alternativas":  {
-                                              "a":  "A discussão sobre identidade de gênero e diversidade sexual",
+                                              "a":  "A discussão sobre identidade de gênero e diversidade sexual, pauta associada à quarta onda",
                                               "b":  "A conquista de direitos civis e políticos básicos, como o direito ao voto (sufrágio feminino)",
                                               "c":  "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais",
                                               "d":  "A defesa exclusiva de políticas de cotas em cargos executivos de empresas"
@@ -489,10 +489,10 @@
                          "texto_apoio":  "Órgãos de estatística costumam definir parâmetros de renda mínima per capita para classificar uma pessoa como pobre ou extremamente pobre, parâmetros utilizados para dimensionar políticas públicas de assistência social.",
                          "enunciado":  "A definição de linhas de pobreza e extrema pobreza com base em parâmetros de renda tem como principal função:",
                          "alternativas":  {
-                                              "a":  "Substituir qualquer outra forma de avaliação da qualidade de vida da população",
-                                              "b":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a magnitude da pobreza e direcionar políticas públicas de assistência social",
+                                              "a":  "Substituir qualquer outra forma de avaliação da qualidade de vida e do bem-estar da população",
+                                              "b":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a pobreza e orientar políticas sociais",
                                               "c":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda",
-                                              "d":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos"
+                                              "d":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos e organismos multilaterais"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Linhas de pobreza e extrema pobreza, baseadas em parâmetros de renda per capita, fornecem um critério objetivo e comparável ao longo do tempo, permitindo dimensionar a magnitude da pobreza em um país e direcionar políticas públicas de assistência social a quem está abaixo desses parâmetros, ainda que critérios exclusivamente monetários não capturem todas as dimensões da privação social.",
@@ -503,10 +503,10 @@
                          "texto_apoio":  "Programas de transferência de renda condicionada exigem, em geral, que as famílias beneficiárias cumpram contrapartidas, como manter crianças matriculadas na escola e em dia com o calendário de vacinação, para continuar recebendo o benefício.",
                          "enunciado":  "A exigência dessas contrapartidas nesse tipo de programa social tem como principal justificativa:",
                          "alternativas":  {
-                                              "a":  "Punir famílias de baixa renda por eventual descumprimento de obrigações",
-                                              "b":  "Reduzir permanentemente o valor do benefício pago às famílias",
-                                              "c":  "Restringir o acesso ao programa exclusivamente a famílias sem filhos",
-                                              "d":  "Associar a transferência de renda imediata ao investimento de longo prazo em capital humano das novas gerações, como educação e saúde"
+                                              "a":  "Punir famílias de baixa renda por eventual descumprimento de obrigações contratuais",
+                                              "b":  "Reduzir permanentemente o valor do benefício pago às famílias beneficiárias do programa",
+                                              "c":  "Restringir o acesso ao programa exclusivamente a famílias sem filhos em idade escolar",
+                                              "d":  "Associar a transferência de renda imediata ao investimento em capital humano das novas gerações, como educação e saúde"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Programas de transferência de renda condicionada associam o alívio imediato da pobreza monetária ao investimento de longo prazo em capital humano das novas gerações, exigindo contrapartidas como frequência escolar e cumprimento do calendário vacinal, na expectativa de romper, ao longo do tempo, o ciclo intergeracional de reprodução da pobreza.",
@@ -517,10 +517,10 @@
                          "texto_apoio":  "Parcela significativa da população brasileira adulta, mesmo tendo concluído anos de escolarização formal, apresenta dificuldade para interpretar textos simples e realizar operações matemáticas básicas do cotidiano.",
                          "enunciado":  "Esse fenômeno, distinto do analfabetismo absoluto (incapacidade de ler e escrever), é conhecido como:",
                          "alternativas":  {
-                                              "a":  "Evasão escolar",
-                                              "b":  "Iletrismo compulsório",
-                                              "c":  "Analfabetismo funcional",
-                                              "d":  "Analfabetismo digital"
+                                              "a":  "Evasão escolar, medida pela taxa de abandono no ensino fundamental",
+                                              "b":  "Iletrismo compulsório, imposto por decreto administrativo",
+                                              "c":  "Analfabetismo funcional, identificado por avaliações como o INAF",
+                                              "d":  "Analfabetismo digital, restrito à ausência de acesso à internet"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O analfabetismo funcional descreve a situação de pessoas que, embora tenham frequentado a escola e sejam capazes de decodificar palavras, têm dificuldade para compreender e interpretar textos simples ou realizar operações matemáticas básicas do cotidiano, revelando que o direito à educação não se esgota no acesso formal à matrícula, mas exige também qualidade do ensino oferecido.",

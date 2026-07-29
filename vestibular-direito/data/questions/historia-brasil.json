@@ -6,9 +6,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "O sistema de \u0027pacto colonial\u0027 (ou exclusivo metropolitano), que regeu as relações entre Portugal e o Brasil durante o período colonial, caracterizava-se por:",
                          "alternativas":  {
-                                              "a":  "Livre comércio entre a colônia e qualquer nação europeia",
-                                              "b":  "Autonomia política total das capitanias hereditárias",
-                                              "c":  "Proibição de qualquer atividade agrícola voltada à exportação",
+                                              "a":  "Livre comércio entre a colônia e qualquer nação europeia, como ocorria nas colônias espanholas da América",
+                                              "b":  "Autonomia política total das capitanias hereditárias, o que jamais ocorreu sob a tutela direta da Coroa",
+                                              "c":  "Proibição de qualquer atividade agrícola voltada à exportação, medida nunca aplicada à cana-de-açúcar colonial",
                                               "d":  "Monopólio comercial da metrópole sobre a colônia, restringindo as trocas comerciais coloniais"
                                           },
                          "resposta":  "d",
@@ -19,10 +19,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A criação das capitanias hereditárias, na década de 1530, foi uma estratégia da Coroa portuguesa para:",
                          "alternativas":  {
-                                              "a":  "Centralizar toda a administração colonial nas mãos do rei",
-                                              "b":  "Estabelecer imediatamente a mineração como principal atividade econômica",
+                                              "a":  "Centralizar toda a administração colonial nas mãos do rei, modelo que só se consolidaria com o Governo-Geral em 1549",
+                                              "b":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
                                               "c":  "Ocupar e defender o território sem grandes custos diretos para a metrópole, delegando essa tarefa a donatários",
-                                              "d":  "Impedir a entrada de colonos portugueses no território"
+                                              "d":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento da Coroa"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diante da ameaça de invasões estrangeiras e da falta de recursos para colonizar diretamente, Portugal dividiu o território em capitanias hereditárias, transferindo a donatários particulares o custo e a responsabilidade da colonização."
@@ -34,7 +34,7 @@
                          "alternativas":  {
                                               "a":  "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno",
                                               "b":  "Propriedade coletiva indígena e produção diversificada de subsistência",
-                                              "c":  "Produção industrial urbana com trabalho livre assalariado",
+                                              "c":  "Produção industrial urbana com trabalho livre assalariado, inexistente no contexto agrário colonial da época",
                                               "d":  "Grande propriedade monocultora, mão de obra escrava africana e produção voltada à exportação"
                                           },
                          "resposta":  "d",
@@ -45,8 +45,8 @@
                          "texto_apoio":  "A Inconfidência Mineira ocorreu em 1789, em Minas Gerais, região que enriquecera com a mineração de ouro no século anterior.",
                          "enunciado":  "Entre os fatores que contribuíram para essa conspiração, destaca-se:",
                          "alternativas":  {
-                                              "a":  "A abolição imediata da escravidão pela Coroa portuguesa",
-                                              "b":  "A chegada da família real portuguesa ao Brasil",
+                                              "a":  "A abolição imediata da escravidão pela Coroa portuguesa, medida que só ocorreria um século depois, em 1888",
+                                              "b":  "A chegada da família real portuguesa ao Brasil, fato ocorrido quase duas décadas após a conspiração de 1789",
                                               "c":  "A ameaça de cobrança da derrama, mecanismo de cobrança forçada de impostos atrasados sobre o ouro",
                                               "d":  "A proclamação da independência dos Estados Unidos, sem qualquer influência iluminista"
                                           },
@@ -58,9 +58,9 @@
                          "texto_apoio":  "Em 1808, a família real portuguesa transferiu-se para o Brasil, fugindo das tropas de Napoleão Bonaparte.",
                          "enunciado":  "Uma das primeiras e mais importantes medidas de Dom João, ainda em 1808, foi:",
                          "alternativas":  {
-                                              "a":  "A promulgação da primeira Constituição brasileira",
-                                              "b":  "A abolição da escravidão no território brasileiro",
-                                              "c":  "A convocação de eleições diretas para a formação de um parlamento",
+                                              "a":  "A promulgação da primeira Constituição brasileira, outorgada por Dom Pedro I somente em 1824",
+                                              "b":  "A abolição da escravidão no território brasileiro, processo que só se completaria com a Lei Áurea de 1888",
+                                              "c":  "A convocação de eleições diretas para a formação de um parlamento, medida estranha ao contexto absolutista joanino",
                                               "d":  "A abertura dos portos brasileiros às nações amigas, rompendo o monopólio comercial português"
                                           },
                          "resposta":  "d",
@@ -71,10 +71,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Historiadores costumam destacar que a independência do Brasil, em 1822, apresentou fortes elementos de continuidade em relação ao período colonial. Isso se evidencia principalmente por:",
                          "alternativas":  {
-                                              "a":  "O fim total das relações econômicas com Portugal",
-                                              "b":  "A distribuição de terras para a população liberta",
-                                              "c":  "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia, sob o comando do próprio herdeiro da dinastia portuguesa",
-                                              "d":  "A imediata implantação de uma república democrática"
+                                              "a":  "O fim total das relações econômicas com Portugal, ruptura que só ocorreria décadas depois da independência",
+                                              "b":  "A distribuição de terras para a população liberta, medida nunca implementada no processo de 1822",
+                                              "c":  "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia sob o herdeiro da dinastia portuguesa",
+                                              "d":  "A imediata implantação de uma república democrática, regime que só seria adotado em 1889"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diferentemente de outros processos de independência na América, o Brasil manteve a monarquia, a escravidão e a estrutura social e econômica herdada da colônia, sendo a independência conduzida pelo próprio príncipe herdeiro, Dom Pedro."
@@ -84,10 +84,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A abdicação de Dom Pedro I ao trono brasileiro, em 1831, foi resultado, entre outros fatores, de:",
                          "alternativas":  {
-                                              "a":  "Pressão popular para transformar o Brasil em uma república",
-                                              "b":  "Derrota militar do Brasil na Guerra do Paraguai",
-                                              "c":  "Sua identificação total com os interesses da elite política nacional",
-                                              "d":  "Desgaste político por sua ligação com Portugal, atritos com a elite brasileira e crise econômica, agravados pelo chamado \u0027partido português\u0027"
+                                              "a":  "Pressão popular para transformar o Brasil em uma república, bandeira que só ganharia força décadas depois, em 1889",
+                                              "b":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870",
+                                              "c":  "Sua identificação total com os interesses da elite política nacional, o oposto do que de fato gerou sua abdicação",
+                                              "d":  "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica, agravados pelo chamado \u0027partido português\u0027"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Dom Pedro I perdeu apoio político por ser visto como excessivamente ligado a Portugal, por conflitos com parlamentares brasileiros e por dificuldades econômicas, o que culminou em sua abdicação em favor do filho, ainda criança."
@@ -97,10 +97,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "O Período Regencial (1831-1840) foi marcado por diversas revoltas em várias regiões do país, como a Cabanagem e a Sabinada. Essas revoltas expressavam, em grande medida:",
                          "alternativas":  {
-                                              "a":  "Tensões sociais, econômicas e regionais, incluindo disputas de poder local e insatisfação de camadas populares excluídas politicamente",
-                                              "b":  "Apoio unânime ao retorno de Dom Pedro I ao trono",
-                                              "c":  "A ausência completa de conflitos durante a menoridade de Dom Pedro II",
-                                              "d":  "Um consenso nacional em torno da centralização monárquica"
+                                              "a":  "Tensões sociais, econômicas e regionais, com disputas de poder local e insatisfação de camadas populares excluídas",
+                                              "b":  "Apoio unânime ao retorno de Dom Pedro I ao trono, hipótese incompatível com o clima de disputas do período regencial",
+                                              "c":  "A ausência completa de conflitos durante a menoridade de Dom Pedro II, quadro desmentido pelas próprias revoltas regenciais",
+                                              "d":  "Um consenso nacional em torno da centralização monárquica, ideia contrária às tensões regionais da época regencial"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As revoltas regenciais refletiram a fragilidade do poder central diante de tensões sociais, econômicas e regionais acumuladas, envolvendo desde elites locais insatisfeitas até camadas populares e escravizadas em busca de melhores condições."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Durante o Segundo Reinado, a economia cafeeira tornou-se o principal eixo da economia brasileira. A crise final da monarquia, na década de 1880, esteve associada a:",
                          "alternativas":  {
-                                              "a":  "O desgaste das relações entre a monarquia e setores como os cafeicultores, os militares e os abolicionistas, aliado ao fim da escravidão em 1888",
-                                              "b":  "A ausência total de qualquer movimento republicano no país",
-                                              "c":  "A anexação de novos territórios que fortaleceu o poder do imperador",
-                                              "d":  "O fortalecimento definitivo da mão de obra escrava como base da lavoura cafeeira"
+                                              "a":  "O desgaste das relações entre a monarquia e cafeicultores, militares e abolicionistas, somado ao fim da escravidão em 1888",
+                                              "b":  "A ausência total de qualquer movimento republicano no país, o que contraria a existência do Partido Republicano desde 1870",
+                                              "c":  "A anexação de novos territórios que fortaleceu o poder do imperador, fato que não ocorreu nas décadas finais do Império",
+                                              "d":  "O fortalecimento definitivo da mão de obra escrava como base da lavoura cafeeira, tendência revertida pela imigração europeia"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crise da monarquia resultou da soma de diversos fatores: insatisfação de cafeicultores paulistas com a falta de apoio à transição para o trabalho livre, atrito com os militares após a Guerra do Paraguai e o impacto da abolição de 1888, que rompeu com setores da elite escravista."
@@ -137,7 +137,7 @@
                          "enunciado":  "Durante a chamada República Velha (1889-1930), a política do \u0027café com leite\u0027 e o coronelismo caracterizavam-se, respectivamente, por:",
                          "alternativas":  {
                                               "a":  "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais",
-                                              "b":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais",
+                                              "b":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais, arranjo nunca formalizado na República Velha",
                                               "c":  "A alternância entre partidos de esquerda e direita no governo federal, e pela ausência de fraudes eleitorais",
                                               "d":  "Um acordo comercial entre cafeicultores e industriais, e pela centralização total do poder no Executivo federal"
                                           },
@@ -149,9 +149,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
                          "alternativas":  {
-                                              "a":  "A abolição da escravidão, ocorrida décadas antes",
-                                              "b":  "A vitória militar do Brasil na Primeira Guerra Mundial",
-                                              "c":  "A imediata industrialização plena do país nas décadas anteriores",
+                                              "a":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930",
+                                              "b":  "A vitória militar do Brasil na Primeira Guerra Mundial, conflito de participação modesta e sem relação com a crise de 1929",
+                                              "c":  "A imediata industrialização plena do país nas décadas anteriores, processo que só se intensificaria após 1930",
                                               "d":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes"
                                           },
                          "resposta":  "d",
@@ -177,8 +177,8 @@
                          "alternativas":  {
                                               "a":  "Ampliar direitos sociais aos trabalhadores urbanos, ao mesmo tempo em que atrelava os sindicatos ao controle do Estado",
                                               "b":  "Conceder direitos trabalhistas de forma autônoma e independente do controle estatal sobre os sindicatos",
-                                              "c":  "Excluir completamente os trabalhadores urbanos de qualquer proteção legal",
-                                              "d":  "Beneficiar exclusivamente os trabalhadores rurais"
+                                              "c":  "Excluir completamente os trabalhadores urbanos de qualquer proteção legal, o oposto do que de fato previu a CLT",
+                                              "d":  "Beneficiar exclusivamente os trabalhadores rurais, categoria só amparada pelo Estatuto do Trabalhador Rural em 1963"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O trabalhismo de Vargas combinava a concessão de direitos sociais (férias, jornada de trabalho, salário mínimo) com o controle estatal sobre os sindicatos, em uma lógica de conciliação de classes sob tutela do Estado."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "A descoberta de ouro em Minas Gerais, no final do século XVII, deslocou o eixo econômico da colônia.",
                          "enunciado":  "O chamado ciclo do ouro, no século XVIII, teve como uma de suas principais consequências para a colônia:",
                          "alternativas":  {
-                                              "a":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil",
-                                              "b":  "O fim completo da utilização de mão de obra escrava na colônia",
+                                              "a":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial",
+                                              "b":  "O fim completo da utilização de mão de obra escrava na colônia, o que só ocorreria com a Lei Áurea em 1888",
                                               "c":  "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais",
-                                              "d":  "A transferência imediata da capital colonial para Vila Rica"
+                                              "d":  "A transferência imediata da capital colonial para Vila Rica, mudança que só ocorreria, para o Rio, em 1763"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei."
@@ -254,8 +254,8 @@
                          "enunciado":  "Entre os instrumentos de controle fiscal da metrópole sobre a produção aurífera estavam o quinto (tributo de 20% sobre o ouro extraído) e:",
                          "alternativas":  {
                                               "a":  "A distribuição gratuita de terras auríferas a qualquer colono, sem cobrança de tributos",
-                                              "b":  "A proibição total da extração de ouro por particulares",
-                                              "c":  "A isenção fiscal concedida aos mineradores durante todo o século XVIII",
+                                              "b":  "A proibição total da extração de ouro por particulares, o que jamais vigorou na prática colonial",
+                                              "c":  "A isenção fiscal concedida aos mineradores durante todo o século XVIII, contrária à lógica do quinto real",
                                               "d":  "As Casas de Fundição, que transformavam o ouro em barras já com o quinto descontado"
                                           },
                          "resposta":  "d",
@@ -266,10 +266,10 @@
                          "texto_apoio":  "A Guerra do Paraguai (1864-1870) envolveu o Paraguai contra a Tríplice Aliança, formada por Brasil, Argentina e Uruguai.",
                          "enunciado":  "Entre os fatores que contribuíram para a eclosão do conflito estão:",
                          "alternativas":  {
-                                              "a":  "Uma aliança militar entre Brasil e Paraguai contra a Argentina",
+                                              "a":  "Uma aliança militar entre Brasil e Paraguai contra a Argentina, o oposto da aliança que de fato se formou em 1864",
                                               "b":  "Disputas pela livre navegação dos rios da Bacia do Prata e rivalidades de influência política na região do Uruguai",
-                                              "c":  "A disputa pelo controle do território amazônico",
-                                              "d":  "A recusa brasileira em reconhecer a independência do Paraguai"
+                                              "c":  "A disputa pelo controle do território amazônico, região alheia ao teatro de operações do conflito",
+                                              "d":  "A recusa brasileira em reconhecer a independência do Paraguai, reconhecida pelo Brasil ainda em 1844"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O conflito teve entre suas causas a disputa pelo controle da navegação nos rios da Bacia do Prata, estratégica para o comércio regional, e as rivalidades pela influência política no Uruguai, que envolveram Brasil, Argentina e Paraguai em sucessivas crises diplomáticas."
@@ -279,10 +279,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Entre as principais consequências da Guerra do Paraguai para o Brasil, destaca-se:",
                          "alternativas":  {
-                                              "a":  "A imediata abolição da escravidão como recompensa aos soldados",
-                                              "b":  "O fortalecimento econômico do Paraguai, vencedor do conflito",
+                                              "a":  "A imediata abolição da escravidão como recompensa aos soldados, medida que só ocorreria décadas depois, em 1888",
+                                              "b":  "O fortalecimento econômico do Paraguai, vencedor do conflito, quando na verdade o país foi devastado pela derrota",
                                               "c":  "O fortalecimento político e institucional do Exército e o aumento da dívida externa brasileira, contraída sobretudo com a Inglaterra",
-                                              "d":  "A redução do prestígio e do poder político do Exército brasileiro"
+                                              "d":  "A redução do prestígio e do poder político do Exército brasileiro, o oposto do que de fato ocorreu após 1870"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A guerra fortaleceu o Exército brasileiro como instituição política, ampliando sua influência posterior na vida pública, e elevou substancialmente a dívida externa do país, contraída em grande parte com bancos ingleses para financiar o esforço de guerra."
@@ -293,9 +293,9 @@
                          "enunciado":  "A experiência da Guerra do Paraguai contribuiu para o desgaste da monarquia brasileira sobretudo porque:",
                          "alternativas":  {
                                               "a":  "Resultou na anexação de novos territórios que fortaleceram economicamente o Império",
-                                              "b":  "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II",
+                                              "b":  "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II, o oposto do desgaste que de fato se seguiu",
                                               "c":  "Aproximou o Exército de ideais republicanos e, em parte, abolicionistas, gerando atritos com o governo imperial",
-                                              "d":  "Eliminou qualquer influência política das Forças Armadas na vida nacional"
+                                              "d":  "Eliminou qualquer influência política das Forças Armadas na vida nacional, tendência contrária ao tenentismo posterior"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Após a guerra, parte da oficialidade militar, influenciada por ideias republicanas e positivistas, e sensibilizada pela participação de escravizados e libertos no conflito, aproximou-se de causas como o abolicionismo e o republicanismo, contribuindo para o desgaste das relações com a monarquia."
@@ -305,9 +305,9 @@
                          "texto_apoio":  "Antes da Lei Áurea de 1888, o Brasil aprovou leis que sinalizavam o fim gradual da escravidão.",
                          "enunciado":  "A Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885) tinham em comum o fato de:",
                          "alternativas":  {
-                                              "a":  "Abolirem imediata e completamente a escravidão em todo o território nacional",
-                                              "b":  "Concederem direitos políticos plenos à população liberta",
-                                              "c":  "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna",
+                                              "a":  "Abolirem imediata e completamente a escravidão em todo o território nacional, o que só ocorreu com a Lei Áurea",
+                                              "b":  "Concederem direitos políticos plenos à população liberta, direito ainda negado à maioria da população pobre",
+                                              "c":  "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna do país",
                                               "d":  "Representarem medidas graduais e limitadas, que não extinguiam de imediato a condição de escravizado da maior parte da população cativa"
                                           },
                          "resposta":  "d",
@@ -318,9 +318,9 @@
                          "texto_apoio":  "O movimento abolicionista brasileiro reuniu políticos, jornalistas e ex-escravizados na luta pelo fim da escravidão.",
                          "enunciado":  "Joaquim Nabuco e José do Patrocínio destacaram-se nesse movimento, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "Defenderem a manutenção da escravidão como base da economia agroexportadora",
+                                              "a":  "Defenderem a manutenção da escravidão como base da economia agroexportadora, o oposto de sua atuação histórica",
                                               "b":  "Atuarem na mobilização política e na imprensa, denunciando os horrores da escravidão e pressionando por sua abolição",
-                                              "c":  "Liderarem exclusivamente rebeliões armadas de escravizados nos engenhos",
+                                              "c":  "Liderarem exclusivamente rebeliões armadas de escravizados nos engenhos, atuação distinta da que de fato tiveram",
                                               "d":  "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba"
                                           },
                          "resposta":  "b",
@@ -333,8 +333,8 @@
                          "alternativas":  {
                                               "a":  "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo em troca de autonomia e recursos",
                                               "b":  "Um sistema de eleição direta e universal para governadores, sem interferência do governo federal",
-                                              "c":  "A eliminação completa do poder das oligarquias estaduais",
-                                              "d":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal"
+                                              "c":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava o arranjo político",
+                                              "d":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal, o que nunca fez parte do arranjo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A política dos governadores consistia em um acordo entre o presidente da República e as oligarquias estaduais dominantes: o governo federal reconhecia e apoiava os grupos no poder em cada estado em troca de apoio político no Congresso Nacional, fortalecendo o controle oligárquico regional."
@@ -344,10 +344,10 @@
                          "texto_apoio":  "A Comissão de Verificação de Poderes, no início da República Velha, era responsável por validar os resultados eleitorais no Congresso Nacional.",
                          "enunciado":  "A prática de anular mandatos de candidatos da oposição por meio dessa Comissão ficou conhecida como:",
                          "alternativas":  {
-                                              "a":  "Voto de cabresto",
-                                              "b":  "Coronelismo",
-                                              "c":  "Salvacionismo",
-                                              "d":  "Degola"
+                                              "a":  "Voto de cabresto (controle do voto de eleitores dependentes por chefes locais)",
+                                              "b":  "Coronelismo (sistema de trocas de favores entre poder local e poder estadual)",
+                                              "c":  "Salvacionismo (intervenções federais para repor situações políticas estaduais aliadas)",
+                                              "d":  "Degola (invalidação de mandatos de opositores pela Comissão de Verificação de Poderes)"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A \u0027degola\u0027 era a prática pela qual a Comissão de Verificação de Poderes, controlada pela situação política dominante, invalidava o diploma de candidatos eleitos pela oposição, garantindo o predomínio dos grupos oligárquicos no Congresso durante a República Velha."
@@ -372,8 +372,8 @@
                          "alternativas":  {
                                               "a":  "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
                                               "b":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição",
-                                              "c":  "A imediata renúncia de Getúlio Vargas ao poder",
-                                              "d":  "A anexação de territórios de estados vizinhos ao estado de São Paulo"
+                                              "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954",
+                                              "d":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Apesar da derrota militar de São Paulo, o governo Vargas atendeu, em parte, às reivindicações do movimento ao convocar eleições para uma Assembleia Nacional Constituinte, que resultou na promulgação da Constituição de 1934."
@@ -384,9 +384,9 @@
                          "enunciado":  "O principal símbolo dessa política nacionalista foi:",
                          "alternativas":  {
                                               "a":  "A criação da Petrobras, em 1953, sob o lema \u0027o petróleo é nosso\u0027, estabelecendo o monopólio estatal sobre a exploração do petróleo",
-                                              "b":  "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico",
-                                              "c":  "A privatização das principais estatais brasileiras",
-                                              "d":  "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia"
+                                              "b":  "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico, instituições mantidas e fortalecidas",
+                                              "c":  "A privatização das principais estatais brasileiras, processo que só ganharia força nos anos 1990",
+                                              "d":  "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia, política oposta ao monopólio criado"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A criação da Petrobras em 1953, resultado da campanha popular \u0027o petróleo é nosso\u0027, simbolizou o nacionalismo econômico do segundo governo Vargas, que buscava fortalecer o controle estatal sobre setores estratégicos da economia brasileira."

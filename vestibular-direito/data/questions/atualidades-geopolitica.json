@@ -6,10 +6,10 @@
                          "texto_apoio":  "O Mercosul prevê a livre circulação de bens entre seus membros e a adoção de uma tarifa comum em relação a produtos vindos de fora do bloco, embora com diversas exceções nacionais ainda vigentes.",
                          "enunciado":  "Por apresentar tarifa externa comum incompleta e diversas exceções, o Mercosul é classificado, do ponto de vista da integração econômica, como:",
                          "alternativas":  {
-                                              "a":  "uma união monetária plena",
-                                              "b":  "um mercado comum plenamente consolidado",
-                                              "c":  "uma união aduaneira imperfeita",
-                                              "d":  "uma zona de livre comércio sem qualquer tarifa comum"
+                                              "a":  "uma união monetária plena, com moeda comum circulando entre os membros",
+                                              "b":  "um mercado comum plenamente consolidado, com livre circulação de fatores",
+                                              "c":  "uma união aduaneira imperfeita, com tarifa externa comum ainda incompleta",
+                                              "d":  "uma zona de livre comércio, sem qualquer tarifa externa comum"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Mercosul avançou de uma zona de livre comércio para uma união aduaneira, mas por manter numerosas exceções à Tarifa Externa Comum, é caracterizado como uma união aduaneira imperfeita, ainda distante de um mercado comum pleno ou de uma união monetária."
@@ -32,10 +32,10 @@
                          "texto_apoio":  "Diferentemente de organizações puramente intergovernamentais, a União Europeia possui instituições, como a Comissão Europeia e o Tribunal de Justiça da UE, cujas decisões podem vincular diretamente os Estados-membros, inclusive sobre matérias antes de competência exclusivamente nacional.",
                          "enunciado":  "Essa característica institucional da União Europeia é descrita como:",
                          "alternativas":  {
-                                              "a":  "supranacionalidade",
-                                              "b":  "soberania absoluta dos Estados-membros",
-                                              "c":  "intergovernamentalismo pleno",
-                                              "d":  "unilateralismo normativo"
+                                              "a":  "supranacionalidade das instituições comunitárias europeias",
+                                              "b":  "soberania absoluta dos Estados-membros, sem cessão de competências",
+                                              "c":  "intergovernamentalismo pleno, sem decisões vinculantes automáticas",
+                                              "d":  "unilateralismo normativo imposto por um único Estado-membro"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos."
@@ -46,9 +46,9 @@
                          "enunciado":  "Uma consequência dessa perda de autonomia monetária para um país-membro da zona do euro em crise econômica assimétrica em relação aos demais é:",
                          "alternativas":  {
                                               "a":  "maior facilidade para desvalorizar sua moeda isoladamente e ganhar competitividade externa",
-                                              "b":  "menor flexibilidade para usar a política monetária como instrumento de ajuste diante de choques específicos ao seu próprio país",
-                                              "c":  "controle total sobre a taxa de juros doméstica",
-                                              "d":  "imunidade automática a crises fiscais"
+                                              "b":  "menor flexibilidade para usar a política monetária como instrumento de ajuste diante de choques específicos",
+                                              "c":  "controle total sobre a taxa de juros doméstica, sem influência do banco central comum",
+                                              "d":  "imunidade automática a crises fiscais, independentemente da situação orçamentária do país"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco."
@@ -71,10 +71,10 @@
                          "texto_apoio":  "Os membros permanentes do Conselho de Segurança da ONU possuem prerrogativa que lhes permite bloquear unilateralmente resoluções sobre questões substantivas, mesmo que a maioria dos demais membros seja favorável.",
                          "enunciado":  "Essa prerrogativa é frequentemente apontada como um limite estrutural à capacidade da ONU de:",
                          "alternativas":  {
-                                              "a":  "promover reuniões diplomáticas entre países",
+                                              "a":  "promover reuniões diplomáticas entre países, função exercida rotineiramente pela Assembleia Geral da ONU",
                                               "b":  "agir de forma rápida e unânime em crises que envolvam interesses diretos de uma grande potência",
-                                              "c":  "financiar programas de assistência humanitária",
-                                              "d":  "eleger o Secretário-Geral da organização"
+                                              "c":  "financiar programas de assistência humanitária, atividade conduzida por agências como o UNICEF e o PMA",
+                                              "d":  "eleger o Secretário-Geral da organização, escolha que cabe à Assembleia Geral por indicação do Conselho"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O poder de veto dos membros permanentes pode paralisar decisões do Conselho de Segurança sempre que uma grande potência considerar que seus interesses estratégicos estão em jogo, limitando a capacidade de resposta rápida e unificada da ONU em determinadas crises."
@@ -123,10 +123,10 @@
                          "texto_apoio":  "Em alguns conflitos armados regionais, grandes potências evitam confronto direto entre si, mas apoiam militar, financeira ou politicamente diferentes lados do conflito.",
                          "enunciado":  "Esse tipo de envolvimento indireto de potências externas em um conflito local é denominado:",
                          "alternativas":  {
-                                              "a":  "guerra por procuração (proxy war)",
-                                              "b":  "guerra total",
-                                              "c":  "guerra civil espontânea",
-                                              "d":  "neutralidade armada"
+                                              "a":  "guerra por procuração (proxy war), com apoio indireto de potências externas",
+                                              "b":  "guerra total, mobilizando irrestritamente todos os recursos nacionais disponíveis",
+                                              "c":  "guerra civil espontânea, sem qualquer influência ou apoio externo ao conflito",
+                                              "d":  "neutralidade armada, postura de não beligerância mantida por terceiros países"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Uma guerra por procuração ocorre quando potências externas apoiam diferentes lados de um conflito sem se engajar diretamente em confronto militar entre si, buscando influenciar o resultado sem os custos e riscos de uma guerra direta."
@@ -136,10 +136,10 @@
                          "texto_apoio":  "Em diversas regiões da África e do Oriente Médio, fronteiras nacionais foram traçadas por potências coloniais com pouca ou nenhuma consideração pelas divisões étnicas, linguísticas e religiosas preexistentes.",
                          "enunciado":  "Esse legado histórico é frequentemente apontado por analistas como um fator estrutural que contribui para:",
                          "alternativas":  {
-                                              "a":  "a ausência completa de disputas territoriais na região",
-                                              "b":  "tensões e conflitos internos relacionados à convivência forçada de grupos distintos dentro de um mesmo Estado",
-                                              "c":  "a homogeneidade cultural desses países",
-                                              "d":  "o desaparecimento de identidades étnicas locais"
+                                              "a":  "a ausência completa de disputas territoriais na região, cenário atribuído à mediação eficaz das potências coloniais",
+                                              "b":  "tensões e conflitos internos ligados à convivência forçada de grupos distintos dentro de um mesmo Estado",
+                                              "c":  "a homogeneidade cultural desses países, resultado do planejamento cuidadoso das fronteiras coloniais",
+                                              "d":  "o desaparecimento de identidades étnicas locais, unificadas por políticas coloniais de assimilação cultural"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Fronteiras traçadas sem considerar divisões étnicas e religiosas preexistentes frequentemente reuniram, sob um mesmo Estado, grupos com identidades, interesses e histórico de rivalidades distintos, o que é apontado como fator estrutural de instabilidade e conflitos internos."
@@ -150,9 +150,9 @@
                          "enunciado":  "Isso ocorre porque cada país deve se especializar na produção dos bens em que apresenta:",
                          "alternativas":  {
                                               "a":  "menor custo de oportunidade relativo, ainda que não seja o mais eficiente em termos absolutos",
-                                              "b":  "barreiras tarifárias mais baixas",
-                                              "c":  "vantagem absoluta no conjunto de seus setores produtivos",
-                                              "d":  "autossuficiência total, sem depender de importações"
+                                              "b":  "barreiras tarifárias mais baixas, fator que por si só explicaria os ganhos obtidos pelo país no comércio",
+                                              "c":  "vantagem absoluta no conjunto de seus setores produtivos, condição exigida pela teoria clássica de Ricardo",
+                                              "d":  "autossuficiência total, sem depender de importações de nenhum parceiro comercial internacional"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A teoria das vantagens comparativas mostra que o comércio pode beneficiar todos os países envolvidos quando cada um se especializa na produção dos bens em que tem menor custo de oportunidade relativo, mesmo que não possua vantagem absoluta em nenhum setor."
@@ -164,8 +164,8 @@
                          "alternativas":  {
                                               "a":  "proteger setores específicos no curto prazo, mas elevar preços ao consumidor e reduzir a eficiência alocativa da economia",
                                               "b":  "eliminar por completo qualquer ganho de bem-estar para as economias parceiras envolvidas no comércio internacional",
-                                              "c":  "eliminar completamente a necessidade de comércio internacional",
-                                              "d":  "aumentar automaticamente a produtividade dos setores protegidos"
+                                              "c":  "eliminar completamente a necessidade de comércio internacional entre os países envolvidos na disputa",
+                                              "d":  "aumentar automaticamente a produtividade dos setores protegidos, sem qualquer custo para os consumidores"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Medidas protecionistas podem proteger empregos e setores específicos no curto prazo, mas tendem a elevar preços para os consumidores domésticos e reduzir os ganhos de eficiência associados à especialização e à concorrência internacional."
@@ -201,10 +201,10 @@
                          "texto_apoio":  "Como resposta a determinadas ações de outro Estado, países ou organismos internacionais por vezes restringem comércio, investimentos ou acesso ao sistema financeiro internacional em relação ao país-alvo.",
                          "enunciado":  "Uma limitação frequentemente associada à eficácia desse tipo de instrumento de política externa é:",
                          "alternativas":  {
-                                              "a":  "o país-alvo pode buscar parceiros comerciais alternativos e as sanções podem penalizar sobretudo a população civil, sem necessariamente alterar decisões dos governantes",
-                                              "b":  "sanções eliminam qualquer possibilidade de comércio internacional em nível global",
-                                              "c":  "sanções são juridicamente impossíveis de ser aplicadas por organismos multilaterais",
-                                              "d":  "sanções produzem, de forma automática e imediata, mudança de comportamento no país-alvo"
+                                              "a":  "o país-alvo pode buscar parceiros alternativos e as sanções tendem a penalizar sobretudo a população civil, sem alterar decisões dos governantes",
+                                              "b":  "sanções eliminam qualquer possibilidade de comércio internacional em nível global, inclusive com países neutros",
+                                              "c":  "sanções são juridicamente impossíveis de ser aplicadas por organismos multilaterais, cabendo apenas a tribunais penais",
+                                              "d":  "sanções produzem, de forma automática e imediata, mudança de comportamento no país-alvo, independentemente de sua resiliência"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Sanções econômicas podem ser contornadas por meio de rotas comerciais alternativas e tendem a impactar de forma mais direta a população civil do país-alvo, o que limita sua eficácia como instrumento de pressão sobre decisões de governantes."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "Após choques recentes nas cadeias globais de suprimento, diversas empresas e governos passaram a considerar relocalizar produção em países geograficamente próximos ou politicamente alinhados, em vez de buscar exclusivamente o menor custo global.",
                          "enunciado":  "Essa tendência de reorganização das cadeias produtivas priorizando proximidade geográfica ou afinidade política é descrita por termos como nearshoring e friend-shoring, e reflete, sobretudo, uma resposta a:",
                          "alternativas":  {
-                                              "a":  "a busca exclusiva por menores custos de produção, sem qualquer preocupação com segurança",
-                                              "b":  "o fim completo do comércio internacional de bens",
-                                              "c":  "a eliminação da necessidade de acordos comerciais bilaterais",
-                                              "d":  "a percepção de riscos geopolíticos e de segurança no fornecimento associados a cadeias muito dispersas e dependentes de poucos fornecedores distantes"
+                                              "a":  "a busca exclusiva por menores custos de produção, sem qualquer preocupação com segurança ou resiliência",
+                                              "b":  "o fim completo do comércio internacional de bens, substituído pela produção doméstica de cada país",
+                                              "c":  "a eliminação da necessidade de acordos comerciais bilaterais entre países próximos ou politicamente alinhados",
+                                              "d":  "a percepção de riscos geopolíticos e de segurança no fornecimento associados a cadeias dispersas e dependentes de fornecedores distantes"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nearshoring e friend-shoring surgem como respostas à percepção de vulnerabilidade associada a cadeias de suprimento excessivamente concentradas ou dependentes de fornecedores distantes e geopoliticamente sensíveis, priorizando segurança e resiliência em detrimento do menor custo absoluto."
@@ -253,10 +253,10 @@
                          "texto_apoio":  "Ataques cibernéticos a infraestruturas críticas, como redes elétricas e sistemas financeiros, têm se tornado parte relevante das preocupações de defesa nacional de diversos países.",
                          "enunciado":  "A incorporação da segurança cibernética como tema central das agendas de defesa nacional reflete, sobretudo, o fato de que:",
                          "alternativas":  {
-                                              "a":  "unicamente órgãos militares formais são capazes de realizar ataques cibernéticos",
-                                              "b":  "infraestruturas críticas dependem cada vez mais de sistemas digitais interconectados, tornando-as vulneráveis a ataques que podem causar danos comparáveis a ações militares tradicionais",
-                                              "c":  "ataques digitais são incapazes de gerar danos reais a infraestruturas físicas",
-                                              "d":  "a segurança cibernética substitui integralmente a necessidade de forças armadas convencionais"
+                                              "a":  "unicamente órgãos militares formais são capazes de realizar ataques cibernéticos contra outros países",
+                                              "b":  "infraestruturas críticas dependem cada vez mais de sistemas digitais interconectados, tornando-as vulneráveis a ataques com danos comparáveis a ações militares",
+                                              "c":  "ataques digitais são incapazes de gerar danos reais a infraestruturas físicas, atuando apenas no plano simbólico",
+                                              "d":  "a segurança cibernética substitui integralmente a necessidade de manter forças armadas convencionais"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A crescente digitalização de infraestruturas críticas (energia, finanças, saúde) as torna vulneráveis a ataques cibernéticos capazes de causar interrupções e danos significativos, o que levou países a tratar a segurança cibernética como componente central de suas estratégias de defesa."
@@ -266,10 +266,10 @@
                          "texto_apoio":  "Tratados internacionais buscam limitar a proliferação de armas nucleares, restringindo a posse desse tipo de arsenal a um número reduzido de Estados reconhecidos como potências nucleares.",
                          "enunciado":  "Um dos principais desafios enfrentados por esses regimes de não proliferação nuclear é:",
                          "alternativas":  {
-                                              "a":  "a ausência completa de países interessados em desenvolver tecnologia nuclear",
-                                              "b":  "conciliar o direito de países ao desenvolvimento de energia nuclear para fins pacíficos com o risco de desvio dessa tecnologia para fins militares",
-                                              "c":  "a adesão universal e sem exceções de todas as potências nucleares reconhecidas a esses tratados",
-                                              "d":  "a inexistência de qualquer mecanismo de verificação internacional"
+                                              "a":  "a ausência completa de países interessados em desenvolver tecnologia nuclear para fins civis ou militares",
+                                              "b":  "conciliar o direito de países ao uso pacífico da energia nuclear com o risco de desvio para fins militares",
+                                              "c":  "a adesão universal e sem exceções de todas as potências nucleares reconhecidas a esses tratados internacionais",
+                                              "d":  "a inexistência de qualquer mecanismo de verificação internacional, tarefa a cargo exclusivo de cada governo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Regimes de não proliferação, como o Tratado de Não Proliferação Nuclear, buscam equilibrar o direito de países ao uso pacífico da energia nuclear com mecanismos de verificação que reduzam o risco de desvio de tecnologia e material nuclear para fins militares, um equilíbrio frequentemente tensionado na prática."
@@ -305,9 +305,9 @@
                          "texto_apoio":  "A produção mundial de semicondutores, componentes essenciais para eletrônicos, veículos e equipamentos militares, está concentrada em um número reduzido de países e empresas.",
                          "enunciado":  "Essa concentração geográfica da produção de semicondutores é vista, sob a ótica da geopolítica econômica, como um fator que:",
                          "alternativas":  {
-                                              "a":  "gera vulnerabilidade estratégica para países dependentes de importação, tornando o setor alvo de políticas industriais e disputas comerciais entre grandes potências",
-                                              "b":  "elimina qualquer risco estratégico para os países que dependem desses componentes",
-                                              "c":  "é irrelevante para a competitividade tecnológica e militar dos países",
+                                              "a":  "gera vulnerabilidade estratégica para países dependentes de importação, tornando o setor alvo de disputas comerciais",
+                                              "b":  "elimina qualquer risco estratégico para os países que dependem desses componentes tecnológicos avançados",
+                                              "c":  "é irrelevante para a competitividade tecnológica e militar dos países consumidores dessa tecnologia",
                                               "d":  "garante automaticamente autossuficiência tecnológica às economias consumidoras menos desenvolvidas"
                                           },
                          "resposta":  "a",
@@ -331,9 +331,9 @@
                          "texto_apoio":  "Organizações regionais no continente africano têm buscado ampliar a cooperação política e econômica entre seus membros, incluindo a criação de uma área continental de livre comércio.",
                          "enunciado":  "Iniciativas desse tipo, voltadas à integração econômica regional no continente africano, têm como principal objetivo declarado:",
                          "alternativas":  {
-                                              "a":  "isolar o continente africano do comércio internacional",
-                                              "b":  "eliminar a soberania nacional dos países-membros",
-                                              "c":  "impedir qualquer forma de investimento estrangeiro na região",
+                                              "a":  "isolar o continente africano do comércio internacional, rompendo relações com blocos como a União Europeia",
+                                              "b":  "eliminar a soberania nacional dos países-membros em favor de uma autoridade supranacional única",
+                                              "c":  "impedir qualquer forma de investimento estrangeiro na região, restringindo o capital a fontes domésticas",
                                               "d":  "reduzir barreiras ao comércio intra-africano e fortalecer a posição econômica conjunta dos países do continente"
                                           },
                          "resposta":  "d",
@@ -344,10 +344,10 @@
                          "texto_apoio":  "Grupos de países emergentes têm debatido a ampliação de seu número de membros e a criação de mecanismos financeiros próprios, como bancos de desenvolvimento alternativos aos tradicionais.",
                          "enunciado":  "Esse tipo de movimento é frequentemente interpretado por analistas de relações internacionais como uma tentativa de:",
                          "alternativas":  {
-                                              "a":  "ampliar a influência política e financeira de economias emergentes, reduzindo a dependência de instituições dominadas historicamente por potências ocidentais",
-                                              "b":  "unificar moedas nacionais em uma única moeda global",
+                                              "a":  "ampliar a influência política e financeira de economias emergentes, reduzindo a dependência de instituições ocidentais tradicionais",
+                                              "b":  "unificar moedas nacionais em uma única moeda global, substituindo dólar, euro e demais divisas nacionais",
                                               "c":  "reforçar exclusivamente as instituições financeiras já existentes, sem qualquer alternativa própria",
-                                              "d":  "extinguir completamente o comércio entre países emergentes e desenvolvidos"
+                                              "d":  "extinguir completamente o comércio entre países emergentes e desenvolvidos, encerrando qualquer parceria bilateral"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A criação de mecanismos financeiros alternativos por agrupamentos de economias emergentes é interpretada como parte de uma estratégia para ampliar sua influência política e financeira internacional, reduzindo a dependência de instituições historicamente dominadas por potências ocidentais, como o Banco Mundial e o FMI."
@@ -357,10 +357,10 @@
                          "texto_apoio":  "A dependência de determinados países em relação à importação de gás natural liquefeito (GNL) de fornecedores específicos tem sido apontada como fator de vulnerabilidade geopolítica.",
                          "enunciado":  "A diversificação de fontes e fornecedores de energia é frequentemente adotada como estratégia para:",
                          "alternativas":  {
-                                              "a":  "impedir qualquer acordo comercial de longo prazo no setor energético",
-                                              "b":  "aumentar a dependência de um único fornecedor externo",
-                                              "c":  "reduzir a vulnerabilidade a interrupções de fornecimento e a pressões políticas associadas à dependência energética de poucos países",
-                                              "d":  "eliminar totalmente o consumo de energia do país"
+                                              "a":  "impedir qualquer acordo comercial de longo prazo no setor energético entre países parceiros",
+                                              "b":  "aumentar a dependência de um único fornecedor externo, ampliando o risco de pressão política",
+                                              "c":  "reduzir a vulnerabilidade a interrupções de fornecimento e a pressões políticas ligadas à dependência de poucos países",
+                                              "d":  "eliminar totalmente o consumo de energia do país, tornando a diversificação de fontes desnecessária"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A diversificação de fontes e fornecedores de energia reduz a exposição de um país a interrupções de fornecimento e a pressões políticas decorrentes da dependência excessiva de poucos fornecedores, sendo uma estratégia central de segurança energética."
@@ -370,10 +370,10 @@
                          "texto_apoio":  "A maior parte das transações comerciais internacionais e das reservas cambiais de bancos centrais ao redor do mundo ainda é denominada em uma única moeda, apesar de crescentes debates sobre diversificação.",
                          "enunciado":  "O papel central de uma moeda nas transações e reservas internacionais confere ao país emissor, entre outras vantagens, a capacidade de:",
                          "alternativas":  {
-                                              "a":  "financiar déficits externos com maior facilidade e exercer influência sobre o sistema financeiro internacional, inclusive por meio de sanções",
-                                              "b":  "eliminar qualquer necessidade de política monetária doméstica",
-                                              "c":  "perder totalmente influência sobre o sistema financeiro internacional",
-                                              "d":  "ser automaticamente excluído de qualquer disputa comercial internacional"
+                                              "a":  "financiar déficits externos com maior facilidade e ampliar sua influência sobre o sistema financeiro internacional",
+                                              "b":  "eliminar qualquer necessidade de política monetária doméstica, tornando o banco central redundante",
+                                              "c":  "perder totalmente influência sobre o sistema financeiro internacional, mesmo mantendo o status de moeda de reserva",
+                                              "d":  "ser automaticamente excluído de qualquer disputa comercial internacional, inclusive as movidas na OMC"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O status de moeda de reserva internacional permite ao país emissor financiar déficits externos com mais facilidade e amplia sua influência sobre o sistema financeiro global, inclusive como instrumento de política externa, por exemplo por meio de sanções que restringem o acesso de outros países a transações nessa moeda."
@@ -383,9 +383,9 @@
                          "texto_apoio":  "Tribunais internacionais julgam disputas entre Estados ou processam indivíduos acusados de crimes de guerra, genocídio ou crimes contra a humanidade.",
                          "enunciado":  "Uma limitação frequentemente apontada quanto à efetividade desses tribunais internacionais é que:",
                          "alternativas":  {
-                                              "a":  "eles possuem força policial própria capaz de prender qualquer acusado em qualquer país",
+                                              "a":  "eles possuem força policial própria capaz de prender qualquer acusado em qualquer país do mundo",
                                               "b":  "esses tribunais limitam sua competência a agentes militares de baixa patente, sem alcançar chefes de Estado",
-                                              "c":  "sua capacidade de fazer cumprir decisões e efetuar prisões depende, em grande medida, da cooperação voluntária dos Estados, o que pode ser recusada",
+                                              "c":  "sua capacidade de fazer cumprir decisões e prisões depende, em grande medida, da cooperação voluntária dos Estados",
                                               "d":  "as grandes potências mundiais reconhecem automaticamente sua jurisdição, independentemente de ratificação"
                                           },
                          "resposta":  "c",
@@ -396,10 +396,10 @@
                          "texto_apoio":  "O número de satélites em órbita e de países e empresas privadas com capacidade de lançamento espacial cresceu significativamente nas últimas décadas.",
                          "enunciado":  "A crescente presença de atores estatais e privados no espaço orbital tem levantado debates internacionais sobre:",
                          "alternativas":  {
-                                              "a":  "a regulação do uso do espaço, incluindo riscos de militarização, geração de detritos orbitais e disputas por posições orbitais estratégicas",
-                                              "b":  "a total impossibilidade de qualquer uso militar ou estratégico do espaço",
-                                              "c":  "a ausência completa de interesse comercial nesse domínio",
-                                              "d":  "a exclusividade absoluta de um único país sobre todo o espaço orbital"
+                                              "a":  "a regulação do uso do espaço, incluindo riscos de militarização e disputas por posições orbitais estratégicas",
+                                              "b":  "a total impossibilidade de qualquer uso militar ou estratégico do espaço orbital por qualquer país",
+                                              "c":  "a ausência completa de interesse comercial nesse domínio, restrito exclusivamente a fins científicos",
+                                              "d":  "a exclusividade absoluta de um único país sobre todo o espaço orbital, vedada a demais Estados"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O aumento de atores estatais e privados no espaço trouxe à tona debates sobre regulação internacional, incluindo riscos de militarização do espaço, acúmulo de detritos orbitais e disputas por posições orbitais estrategicamente valiosas, como as usadas por satélites de comunicação."
@@ -409,10 +409,10 @@
                          "texto_apoio":  "Determinados minerais, essenciais para a fabricação de baterias, ímãs e componentes eletrônicos avançados, têm produção e processamento concentrados em poucos países.",
                          "enunciado":  "Essa concentração na produção de minerais estratégicos para tecnologias como veículos elétricos e energia renovável gera, entre outras consequências:",
                          "alternativas":  {
-                                              "a":  "eliminação de qualquer necessidade de mineração no futuro",
+                                              "a":  "eliminação de qualquer necessidade de mineração no futuro, substituída por materiais sintéticos",
                                               "b":  "distribuição relativamente equilibrada da produção entre as principais economias industrializadas",
-                                              "c":  "irrelevância geopolítica desses minerais para as cadeias produtivas globais",
-                                              "d":  "disputas geoeconômicas por acesso a essas cadeias de suprimento, com países buscando diversificar fontes e reduzir dependência de fornecedores concentrados"
+                                              "c":  "irrelevância geopolítica desses minerais para as cadeias produtivas globais de energia e defesa",
+                                              "d":  "disputas geoeconômicas por acesso a essas cadeias, com países buscando diversificar fontes e reduzir dependência"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A concentração da produção e do processamento de minerais estratégicos (como lítio, cobalto e terras-raras) em poucos países tem gerado disputas geoeconômicas, com governos e empresas buscando diversificar fontes de suprimento para tecnologias essenciais à transição energética e à indústria eletrônica."
@@ -422,10 +422,10 @@
                          "texto_apoio":  "Após períodos de colonização, muitas ex-colônias mantiveram, por décadas, relações comerciais concentradas principalmente com suas antigas metrópoles, voltadas sobretudo à exportação de matérias-primas.",
                          "enunciado":  "Esse padrão de comércio, herdado do período colonial e caracterizado pela exportação de produtos primários em troca de manufaturados, é apontado por parte dos analistas como fator que:",
                          "alternativas":  {
-                                              "a":  "garantiu desenvolvimento industrial imediato e equilibrado às ex-colônias",
-                                              "b":  "eliminou qualquer relação comercial entre ex-colônias e antigas metrópoles",
-                                              "c":  "é integralmente desvinculado do processo histórico de colonização",
-                                              "d":  "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e antigas metrópoles, dificultando a diversificação produtiva das primeiras"
+                                              "a":  "garantiu desenvolvimento industrial imediato e equilibrado às ex-colônias, superando as antigas metrópoles",
+                                              "b":  "eliminou qualquer relação comercial entre ex-colônias e antigas metrópoles logo após a independência",
+                                              "c":  "é integralmente desvinculado do processo histórico de colonização e das relações de dependência criadas",
+                                              "d":  "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e antigas metrópoles, dificultando a diversificação produtiva"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O padrão de comércio herdado do período colonial, baseado na exportação de matérias-primas e importação de manufaturados, é apontado por parte da literatura econômica como fator que contribuiu para a manutenção de assimetrias estruturais entre ex-colônias e antigas metrópoles, dificultando a diversificação e industrialização das primeiras."
@@ -436,9 +436,9 @@
                          "enunciado":  "Do ponto de vista econômico, um argumento frequentemente utilizado em defesa de políticas migratórias mais abertas é que a imigração pode:",
                          "alternativas":  {
                                               "a":  "reduzir de forma automática e permanente a força de trabalho disponível em um país",
-                                              "b":  "eliminar completamente a necessidade de qualquer política pública de emprego",
-                                              "c":  "suprir demandas específicas do mercado de trabalho e contribuir para a dinâmica demográfica e econômica de países com população em envelhecimento",
-                                              "d":  "ser irrelevante para a estrutura demográfica de um país"
+                                              "b":  "eliminar completamente a necessidade de qualquer política pública de emprego ou formação profissional",
+                                              "c":  "suprir demandas específicas do mercado de trabalho e contribuir para a dinâmica demográfica de países envelhecidos",
+                                              "d":  "ser irrelevante para a estrutura demográfica de um país, mesmo diante do envelhecimento populacional"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Defensores de políticas migratórias mais abertas frequentemente argumentam que a imigração pode suprir demandas específicas do mercado de trabalho e ajudar a equilibrar a estrutura demográfica de países com população envelhecida e baixa taxa de natalidade, contribuindo para a sustentabilidade econômica de longo prazo."
@@ -448,10 +448,10 @@
                          "texto_apoio":  "Organizações não governamentais internacionais atuam em áreas como direitos humanos, meio ambiente e ajuda humanitária, muitas vezes operando em diversos países simultaneamente.",
                          "enunciado":  "O papel dessas organizações no cenário internacional é caracterizado, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "possuírem poder de decisão vinculante equivalente ao de um Estado soberano",
-                                              "b":  "atuarem como atores não estatais capazes de influenciar agendas políticas, monitorar violações de direitos e prestar assistência, sem, contudo, deter poder coercitivo estatal",
-                                              "c":  "substituírem integralmente as funções dos governos nacionais",
-                                              "d":  "serem reconhecidas como membros plenos da Organização das Nações Unidas"
+                                              "a":  "possuírem poder de decisão vinculante equivalente ao de um Estado soberano perante o direito internacional",
+                                              "b":  "atuarem como atores não estatais capazes de influenciar agendas políticas e prestar assistência, sem deter poder coercitivo estatal",
+                                              "c":  "substituírem integralmente as funções dos governos nacionais na formulação de políticas públicas",
+                                              "d":  "serem reconhecidas como membros plenos da Organização das Nações Unidas, com direito a voto na Assembleia"
                                           },
                          "resposta":  "b",
                          "explicacao":  "ONGs internacionais atuam como atores não estatais relevantes nas relações internacionais, influenciando agendas políticas, monitorando violações de direitos humanos e prestando assistência humanitária, mas sem deter o poder coercitivo ou a soberania característicos de um Estado."
@@ -474,9 +474,9 @@
                          "texto_apoio":  "Diversos países ribeirinhos de um extenso mar semifechado no Sudeste Asiático reivindicam soberania sobrepondo-se sobre pequenas ilhas, recifes e as águas ao redor, com base em critérios históricos, geográficos e jurídicos distintos entre si.",
                          "enunciado":  "Disputas territoriais desse tipo, envolvendo reivindicações sobrepostas sobre ilhas e águas adjacentes ricas em recursos pesqueiros e possivelmente energéticos, tendem a ser complexas de resolver principalmente porque:",
                          "alternativas":  {
-                                              "a":  "não existe qualquer interesse econômico ou estratégico envolvido nas áreas disputadas",
-                                              "b":  "combinam interesses econômicos, estratégico-militares e argumentos jurídicos concorrentes, dificultando uma solução aceita por todas as partes",
-                                              "c":  "um único país exerce soberania plena e incontestada sobre a totalidade da área",
+                                              "a":  "não existe qualquer interesse econômico ou estratégico envolvido nas áreas disputadas por esses países",
+                                              "b":  "combinam interesses econômicos, estratégico-militares e argumentos jurídicos concorrentes, dificultando uma solução aceita",
+                                              "c":  "um único país exerce soberania plena e incontestada sobre a totalidade da área, sem contestação de vizinhos",
                                               "d":  "são regidas exclusivamente por tratados bilaterais que eliminam qualquer ambiguidade jurídica"
                                           },
                          "resposta":  "b",
@@ -488,7 +488,7 @@
                          "texto_apoio":  "A construção de uma grande represa por um país localizado no alto curso de um rio internacional pode reduzir temporariamente a vazão de água que chega aos países situados mais a jusante, que dependem do mesmo rio para irrigação, abastecimento urbano e geração de energia.",
                          "enunciado":  "Esse tipo de situação, envolvendo países que compartilham uma mesma bacia hidrográfica internacional, ilustra um desafio central da geopolítica da água, que é:",
                          "alternativas":  {
-                                              "a":  "a ausência total de qualquer interdependência entre países que compartilham rios internacionais",
+                                              "a":  "a ausência total de qualquer interdependência entre países que compartilham rios internacionais e suas bacias",
                                               "b":  "a garantia automática de que as obras hidrelétricas do país a montante beneficiarão igualmente os países a jusante da bacia",
                                               "c":  "a inexistência de qualquer mecanismo diplomático para negociar o uso compartilhado de rios internacionais",
                                               "d":  "a tensão entre o direito soberano de um país de explorar seus recursos hídricos e os efeitos que essa exploração pode causar a países vizinhos dependentes do mesmo curso d\u0027água"
@@ -517,9 +517,9 @@
                          "enunciado":  "Essas operações, popularmente associadas aos capacetes azuis, dependem, para sua eficácia, principalmente:",
                          "alternativas":  {
                                               "a":  "da capacidade de impor unilateralmente a paz por meio de ofensivas militares de larga escala",
-                                              "b":  "da eliminação completa de qualquer mandato limitado sobre o uso da força",
-                                              "c":  "do consentimento das partes envolvidas no conflito e da cooperação continuada dos Estados-membros que fornecem tropas e recursos",
-                                              "d":  "da ausência de qualquer supervisão do Conselho de Segurança da ONU"
+                                              "b":  "da eliminação completa de qualquer mandato limitado sobre o uso da força pelas tropas da ONU",
+                                              "c":  "do consentimento das partes envolvidas no conflito e da cooperação continuada dos Estados que fornecem tropas",
+                                              "d":  "da ausência de qualquer supervisão do Conselho de Segurança da ONU sobre as operações de paz"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As operações de paz da ONU geralmente dependem do consentimento das partes em conflito e da disposição de Estados-membros em fornecer tropas, equipamentos e financiamento, o que limita sua capacidade de agir sem essa cooperação e torna sua eficácia dependente de fatores políticos externos à própria organização.",
@@ -587,9 +587,9 @@
                          "enunciado":  "Esse tipo de renegociação de acordos comerciais regionais reflete, sobretudo:",
                          "alternativas":  {
                                               "a":  "a permanência estática das regras de comércio internacional ao longo do tempo, sem qualquer necessidade de atualização",
-                                              "b":  "o fim de qualquer relação comercial entre os três países envolvidos",
-                                              "c":  "a substituição completa do comércio bilateral por comércio exclusivamente multilateral",
-                                              "d":  "a necessidade de adaptar acordos comerciais a mudanças econômicas, tecnológicas e políticas ocorridas desde sua assinatura original"
+                                              "b":  "o fim de qualquer relação comercial entre os três países envolvidos no acordo trilateral",
+                                              "c":  "a substituição completa do comércio bilateral por comércio exclusivamente multilateral entre os três países",
+                                              "d":  "a necessidade de adaptar acordos comerciais a mudanças econômicas, tecnológicas e políticas desde sua assinatura original"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A renegociação de acordos comerciais regionais geralmente decorre da necessidade de atualizar regras diante de mudanças econômicas, tecnológicas (como o comércio digital) e políticas ocorridas desde a assinatura do acordo original, mantendo sua relevância para os países envolvidos.",
@@ -600,10 +600,10 @@
                          "texto_apoio":  "Um bloco de integração latino-americano reúne países do lado do Pacífico do continente, priorizando a abertura comercial, a livre circulação de capitais e a atração de investimentos estrangeiros, com uma orientação distinta da adotada por outros blocos da região.",
                          "enunciado":  "Esse tipo de bloco, voltado à integração profunda com a economia global e à liberalização comercial, é geralmente citado como exemplo de:",
                          "alternativas":  {
-                                              "a":  "um modelo essencialmente protecionista e fechado ao comércio exterior",
+                                              "a":  "um modelo essencialmente protecionista e fechado ao comércio exterior, priorizando a indústria doméstica",
                                               "b":  "uma estratégia de regionalismo aberto, combinando integração regional com maior inserção na economia global",
-                                              "c":  "uma união monetária plena, com moeda comum entre seus membros",
-                                              "d":  "um bloco exclusivamente político, sem qualquer dimensão econômica"
+                                              "c":  "uma união monetária plena, com moeda comum entre seus membros, à semelhança da zona do euro",
+                                              "d":  "um bloco exclusivamente político, sem qualquer dimensão econômica ou comercial entre seus membros"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Blocos latino-americanos orientados à abertura comercial e à atração de investimentos, como a Aliança do Pacífico, costumam ser descritos como exemplos de regionalismo aberto, que combina a integração entre os membros com maior inserção na economia internacional, em contraste com modelos mais protecionistas.",
@@ -614,10 +614,10 @@
                          "texto_apoio":  "Um acordo de parceria econômica que reúne países de diferentes continentes banhados pelo oceano Pacífico estabelece regras comuns de comércio e investimento entre membros que não compartilham fronteiras nem, necessariamente, proximidade geográfica direta entre todos.",
                          "enunciado":  "Esse tipo de acordo, que reúne países geograficamente dispersos em torno de regras comerciais comuns, diferencia-se de blocos regionais tradicionais como o Mercosul principalmente por:",
                          "alternativas":  {
-                                              "a":  "não se basear necessariamente na proximidade geográfica, priorizando afinidades comerciais e estratégicas entre economias de diferentes regiões",
+                                              "a":  "não se basear necessariamente na proximidade geográfica, priorizando afinidades comerciais entre economias distintas",
                                               "b":  "exigir contiguidade territorial obrigatória entre as principais economias fundadoras do acordo",
-                                              "c":  "proibir qualquer tipo de comércio com países fora do acordo",
-                                              "d":  "ser aplicável exclusivamente a produtos agrícolas"
+                                              "c":  "proibir qualquer tipo de comércio com países fora do acordo, isolando os membros do restante do mundo",
+                                              "d":  "ser aplicável exclusivamente a produtos agrícolas, excluindo bens industriais e serviços"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Acordos megarregionais como esse reúnem economias de diferentes continentes com base em afinidades comerciais e estratégicas, e não necessariamente em proximidade geográfica, o que os diferencia de blocos regionais tradicionais organizados em torno de países vizinhos.",
@@ -657,9 +657,9 @@
                          "enunciado":  "Esse processo de adequação prévia à adesão evidencia que a ampliação desse tipo de bloco:",
                          "alternativas":  {
                                               "a":  "é decidida exclusivamente pelo país candidato, sem participação dos membros já integrantes",
-                                              "b":  "depende do cumprimento de critérios políticos, econômicos e institucionais estabelecidos pelo bloco antes da adesão plena",
+                                              "b":  "depende do cumprimento de critérios políticos, econômicos e institucionais definidos pelo bloco antes da adesão",
                                               "c":  "ocorre de forma automática e imediata, sem qualquer exigência prévia aos países candidatos",
-                                              "d":  "independe totalmente de qualquer avaliação institucional dos países candidatos"
+                                              "d":  "independe totalmente de qualquer avaliação institucional dos países candidatos ao ingresso no bloco"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A adesão a blocos com alto grau de integração normativa, como a União Europeia, depende do cumprimento de critérios políticos, econômicos e institucionais previamente definidos, o que explica por que o processo de adesão de novos membros costuma ser longo.",
@@ -698,7 +698,7 @@
                          "texto_apoio":  "Quando um país-membro considera que outro país-membro está descumprindo as regras acordadas em um organismo multilateral de comércio, ele pode formalmente contestar essa prática por meio de um procedimento específico, que pode resultar na autorização de retaliação comercial caso a violação seja confirmada.",
                          "enunciado":  "Esse procedimento formal de resolução de controvérsias comerciais entre países-membros de um organismo multilateral é característico:",
                          "alternativas":  {
-                                              "a":  "do Conselho de Segurança da ONU, exclusivamente",
+                                              "a":  "do Conselho de Segurança da ONU, exclusivamente, para resoluções sobre embargos comerciais",
                                               "b":  "do Fundo Monetário Internacional, em suas condicionalidades de empréstimo",
                                               "c":  "do mecanismo de solução de controvérsias da Organização Mundial do Comércio (OMC)",
                                               "d":  "da Corte Internacional de Justiça, restrita a disputas territoriais"
@@ -740,10 +740,10 @@
                          "texto_apoio":  "Uma agência da ONU coordena a proteção internacional de pessoas forçadas a deixar seus países por perseguição, conflito ou violação de direitos, apoiando também sua eventual repatriação, integração local ou reassentamento em terceiros países.",
                          "enunciado":  "Apesar de seu papel de coordenação, essa agência enfrenta um desafio estrutural relacionado ao fato de que:",
                          "alternativas":  {
-                                              "a":  "ela possui poder de decisão que substitui integralmente os sistemas nacionais de asilo de cada país",
-                                              "b":  "a concessão efetiva de asilo e proteção permanece, em grande medida, sob a competência soberana dos Estados nacionais, que podem adotar políticas distintas de acolhimento",
+                                              "a":  "ela possui poder de decisão que substitui integralmente os sistemas nacionais de asilo de cada país-membro",
+                                              "b":  "a concessão efetiva de asilo permanece, em grande medida, sob a competência soberana dos Estados nacionais, com políticas distintas",
                                               "c":  "unicamente organizações regionais reconhecem formalmente a autoridade dessa agência, e não os Estados-membros da ONU isoladamente",
-                                              "d":  "ela concentra sua atuação exclusivamente em refugiados oriundos de conflitos armados interestatais"
+                                              "d":  "ela concentra sua atuação exclusivamente em refugiados oriundos de conflitos armados interestatais declarados"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora agências como o ACNUR coordenem e apoiem a proteção internacional de refugiados, a concessão efetiva de asilo, os critérios de acolhimento e as políticas migratórias permanecem, em grande parte, sob competência soberana de cada Estado, o que gera diferenças significativas entre países na aplicação da proteção internacional.",

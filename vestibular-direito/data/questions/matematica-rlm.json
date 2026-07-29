@@ -162,10 +162,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as proposições p: \"2 + 2 = 4\" e q: \"5 é um número par\". Sabendo que p é verdadeira e q é falsa, qual é o valor lógico da proposição composta p → q (\"se p, então q\")?",
                          "alternativas":  {
-                                              "a":  "Verdadeira, pois basta que p seja verdadeira",
-                                              "b":  "Verdadeira, pois q é falsa",
-                                              "c":  "Falsa, pois uma condicional com antecedente verdadeiro e consequente falso é falsa",
-                                              "d":  "Não é possível determinar o valor lógico"
+                                              "a":  "Verdadeira, pois basta que o antecedente p seja verdadeiro para que toda a condicional seja considerada verdadeira",
+                                              "b":  "Verdadeira, pois q é falsa, e uma condicional com consequente falso é sempre considerada verdadeira",
+                                              "c":  "Falsa, pois uma condicional com antecedente verdadeiro e consequente falso é sempre falsa, segundo a tabela-verdade",
+                                              "d":  "Não é possível determinar o valor lógico, pois isso dependeria de informações adicionais sobre p e q"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Na tabela-verdade da condicional (p → q), o único caso em que o resultado é falso ocorre quando o antecedente é verdadeiro e o consequente é falso. Como p é verdadeira e q é falsa, p → q é falsa."
@@ -1077,10 +1077,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Os salários mensais de 6 funcionários de uma pequena empresa são, em reais: 2.000; 2.200; 2.100; 2.300; 2.000 e 15.000 (este último referente ao salário do proprietário). Comparando a média aritmética e a mediana desses seis salários, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A média é bem menor que a mediana, pois não há valores discrepantes",
-                                              "b":  "A média é fortemente puxada para cima pelo salário do proprietário, tornando a mediana mais representativa do salário típico dos funcionários",
-                                              "c":  "A média e a mediana são exatamente iguais nesse conjunto",
-                                              "d":  "A mediana não pode ser calculada nesse conjunto, pois há um número par de dados"
+                                              "a":  "A média é bem menor que a mediana, pois não há valores discrepantes que pudessem distorcer o cálculo da média aritmética",
+                                              "b":  "A média é puxada para cima pelo salário do proprietário, tornando a mediana mais representativa do salário típico dos funcionários",
+                                              "c":  "A média e a mediana são exatamente iguais nesse conjunto, já que os valores extremos se compensariam ao longo da lista de salários",
+                                              "d":  "A mediana não pode ser calculada nesse conjunto, pois há um número par de dados, exigindo uma fórmula diferente da usual"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A média é (2.000+2.000+2.100+2.200+2.300+15.000)÷6≈R$ 4.266,67, valor distorcido para cima pelo salário do proprietário. Já a mediana, calculada pela média dos dois valores centrais (2.100 e 2.200) do conjunto ordenado, é R$ 2.150,00, valor bem mais representativo do salário típico, o que ilustra como a mediana é menos sensível a valores extremos (outliers) do que a média.",
@@ -1091,10 +1091,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as proposições p: \"Um número é múltiplo de 4\" e q: \"Um número é par\". A proposição bicondicional p ↔ q (\"p se, e somente se, q\") é falsa para o número 6 porque, para esse número:",
                          "alternativas":  {
-                                              "a":  "p é verdadeira e q é falsa",
-                                              "b":  "p e q são ambas verdadeiras",
-                                              "c":  "p é falsa e q é verdadeira, ou seja, as duas proposições têm valores lógicos diferentes",
-                                              "d":  "p e q são ambas falsas"
+                                              "a":  "p é verdadeira e q é falsa, já que 6 seria múltiplo de 4 mas não seria um número par",
+                                              "b":  "p e q são ambas verdadeiras, pois 6 seria simultaneamente múltiplo de 4 e um número par",
+                                              "c":  "p é falsa e q é verdadeira, pois as duas proposições têm valores lógicos diferentes",
+                                              "d":  "p e q são ambas falsas, já que 6 não seria nem múltiplo de 4 nem um número par"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Para o número 6: p (\"é múltiplo de 4\") é falsa, pois 6÷4 não é exato; q (\"é par\") é verdadeira, pois 6 é divisível por 2. Como a bicondicional só é verdadeira quando as duas proposições têm o mesmo valor lógico, e aqui os valores são diferentes, p ↔ q é falsa para o número 6.",
@@ -1133,10 +1133,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as premissas: (1) \"Todo advogado conhece a Constituição.\" (2) \"Marcos conhece a Constituição.\" A partir dessas duas premissas, é correto concluir logicamente que:",
                          "alternativas":  {
-                                              "a":  "Todo advogado é Marcos",
-                                              "b":  "Marcos é advogado, pois conhece a Constituição",
-                                              "c":  "Marcos não é advogado",
-                                              "d":  "Não é possível concluir, com certeza lógica, que Marcos é advogado, pois outras pessoas além de advogados também podem conhecer a Constituição"
+                                              "a":  "Todo advogado é Marcos, já que a premissa afirmaria uma equivalência total entre as duas categorias",
+                                              "b":  "Marcos é advogado, pois conhece a Constituição, e essa premissa seria suficiente para confirmar sua profissão",
+                                              "c":  "Marcos não é advogado, pois conhecer a Constituição não teria nenhuma relação com a profissão de advogado",
+                                              "d":  "Não é possível concluir, com certeza lógica, que Marcos é advogado, pois outras pessoas também podem conhecer a Constituição"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A premissa (1) afirma que todo advogado conhece a Constituição, mas não afirma que só advogados a conhecem. Concluir que Marcos é advogado por conhecer a Constituição é a falácia da afirmação do consequente — um erro lógico comum, já que conhecer a Constituição é condição necessária, mas não suficiente, para ser advogado, dentro do que as premissas afirmam.",
@@ -1147,10 +1147,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Em um cardápio de restaurante, a promoção do dia oferece \"salada OU sobremesa\" inclusas no prato principal, mas não as duas ao mesmo tempo (o cliente deve escolher apenas uma das duas opções). Esse tipo de conectivo lógico, em que apenas uma das proposições pode ser verdadeira, é conhecido como:",
                          "alternativas":  {
-                                              "a":  "Bicondicional",
+                                              "a":  "Bicondicional (\"se e somente se\")",
                                               "b":  "Disjunção exclusiva (ou exclusivo)",
-                                              "c":  "Disjunção inclusiva (ou)",
-                                              "d":  "Conjunção (e)"
+                                              "c":  "Disjunção inclusiva (\"ou\" usual)",
+                                              "d":  "Conjunção, o conectivo lógico \"e\""
                                           },
                          "resposta":  "b",
                          "explicacao":  "Quando o conectivo \"ou\" exclui a possibilidade de as duas opções serem verdadeiras simultaneamente, permitindo apenas uma ou outra (mas não ambas), trata-se da disjunção exclusiva, diferente da disjunção inclusiva usual da lógica proposicional, em que \"p ou q\" é verdadeira mesmo que ambas sejam verdadeiras.",
@@ -1329,10 +1329,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Uma praça circular tem centro no ponto C(3, 4) de um mapa cartesiano (em quilômetros) e raio igual a 5 km. Determine se o ponto P(6, 8), que representa a localização de uma escola, está dentro, sobre ou fora dos limites dessa praça circular.",
                          "alternativas":  {
-                                              "a":  "Dentro da praça, pois a distância entre o centro e o ponto é menor que o raio",
+                                              "a":  "Dentro da praça, pois a distância entre o centro e o ponto seria menor que o raio de 5 km",
                                               "b":  "Sobre os limites da praça, pois a distância entre o centro e o ponto é exatamente igual ao raio",
-                                              "c":  "Fora da praça, pois a distância entre o centro e o ponto é maior que o raio",
-                                              "d":  "Não é possível determinar essa posição sem o valor de π"
+                                              "c":  "Fora da praça, pois a distância entre o centro e o ponto seria maior que o raio de 5 km",
+                                              "d":  "Não é possível determinar essa posição sem o valor exato de π, pois a fórmula da distância dependeria dessa constante"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A distância entre o centro C(3,4) e o ponto P(6,8) é d = √[(6−3)² + (8−4)²] = √[9+16] = √25 = 5 km, exatamente igual ao raio da praça. Logo, o ponto P está sobre a circunferência que delimita a praça, não dentro nem fora dela.",
@@ -1904,9 +1904,9 @@
                          "enunciado":  "Considere a proposição composta: \"O candidato não fez a prova de Matemática nem a prova de Português.\" Essa afirmação é logicamente equivalente a dizer que:",
                          "alternativas":  {
                                               "a":  "O candidato não fez a prova de Matemática e também não fez a prova de Português",
-                                              "b":  "O candidato fez as duas provas",
-                                              "c":  "É impossível determinar se o candidato fez alguma das provas",
-                                              "d":  "O candidato fez pelo menos uma das duas provas"
+                                              "b":  "O candidato fez as duas provas, o que inverteria completamente o sentido da negação original",
+                                              "c":  "É impossível determinar se o candidato fez alguma das provas, dada a ambiguidade da frase",
+                                              "d":  "O candidato fez pelo menos uma das duas provas, mas não necessariamente as duas ao mesmo tempo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A expressão \"nem A nem B\" equivale, logicamente, à conjunção das negações: ¬A ∧ ¬B, ou seja, \"não fez A e não fez B\". Portanto, o candidato não fez nenhuma das duas provas.",
@@ -1973,10 +1973,10 @@
                          "texto_apoio":  "Considere agora os preços de venda de 7 imóveis em um bairro, em milhares de reais: 280, 300, 320, 330, 350, 390 e 1.850 (este último referente a uma mansão de altíssimo padrão).",
                          "enunciado":  "Comparando a mediana e a média desse conjunto de valores, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A média e a mediana são iguais nesse conjunto",
-                                              "b":  "A mediana (330 mil) permanece muito mais representativa do preço típico dos imóveis do que a média (≈545,7 mil), que é distorcida pela mansão",
-                                              "c":  "A mediana é mais afetada pela mansão do que a média",
-                                              "d":  "A média (545,7 mil) é mais representativa do preço típico do que a mediana"
+                                              "a":  "A média e a mediana são iguais nesse conjunto, pois o valor da mansão não influenciaria nenhuma das duas medidas",
+                                              "b":  "A mediana (330 mil) é mais representativa do preço típico dos imóveis do que a média (≈545,7 mil), distorcida pela mansão",
+                                              "c":  "A mediana é mais afetada pela mansão do que a média, já que ordena diretamente os valores extremos do conjunto",
+                                              "d":  "A média (545,7 mil) é mais representativa do preço típico do que a mediana, pois considera todos os valores da lista"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A mediana continua sendo o 4º valor do conjunto ordenado (280,300,320,330,350,390,1.850), ou seja, 330 mil. Já a média é (280+300+320+330+350+390+1.850)÷7=3.820÷7≈545,7 mil, valor fortemente distorcido para cima pelo preço da mansão. Isso confirma que a mediana é mais robusta a valores extremos (outliers) do que a média.",
@@ -2029,10 +2029,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Um sistema de equações lineares é dado por 2x + 4y = 6 e x + 2y = 3. Calculando o determinante da matriz dos coeficientes desse sistema, é correto concluir que:",
                          "alternativas":  {
-                                              "a":  "O determinante é 0, e como as equações são proporcionais entre si, o sistema é possível e indeterminado (infinitas soluções)",
-                                              "b":  "O determinante é 8, logo o sistema é possível e determinado (solução única)",
-                                              "c":  "O determinante é 0, logo o sistema não tem nenhuma solução (sistema impossível)",
-                                              "d":  "O determinante é 4, logo o sistema tem exatamente duas soluções"
+                                              "a":  "O determinante é 0, e como as equações são proporcionais, o sistema é possível e indeterminado (infinitas soluções)",
+                                              "b":  "O determinante é 8, logo o sistema é possível e determinado, admitindo uma única solução exata para x e y",
+                                              "c":  "O determinante é 0, logo o sistema não tem nenhuma solução, caracterizando um sistema impossível de resolver",
+                                              "d":  "O determinante é 4, logo o sistema tem exatamente duas soluções distintas para o par ordenado (x, y)"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O determinante da matriz dos coeficientes é det = 2×2 − 4×1 = 4−4 = 0. Quando o determinante é zero, o sistema não é possível e determinado; nesse caso, como a segunda equação é proporcional à primeira (basta multiplicar x+2y=3 por 2), o sistema é possível e indeterminado, com infinitas soluções. Um erro comum é concluir automaticamente que determinante zero significa sistema impossível — na verdade, pode ser indeterminado ou impossível, e é preciso checar se as equações são proporcionais (indeterminado) ou inconsistentes (impossível).",
@@ -2057,10 +2057,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Duas escolas reajustam suas mensalidades, ambas partindo de R$ 450,00 em 2024. A Escola A aplica reajuste fixo de R$ 30,00 por ano (progressão aritmética). A Escola B aplica reajuste percentual de 6% ao ano sobre o valor do ano anterior (progressão geométrica). Comparando as mensalidades de 2027 (após 3 reajustes anuais em cada escola), é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A mensalidade da Escola B será maior que a da Escola A",
+                                              "a":  "A mensalidade da Escola B será maior que a da Escola A, já que reajustes percentuais tendem a crescer mais rápido",
                                               "b":  "A mensalidade da Escola A (R$ 540,00) será maior que a da Escola B (aproximadamente R$ 535,96)",
-                                              "c":  "As mensalidades serão exatamente iguais nas duas escolas em 2027",
-                                              "d":  "Não é possível comparar reajustes fixos com reajustes percentuais"
+                                              "c":  "As mensalidades serão exatamente iguais nas duas escolas em 2027, pois ambas partiram do mesmo valor inicial",
+                                              "d":  "Não é possível comparar reajustes fixos com reajustes percentuais, pois seguem lógicas matemáticas distintas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Na Escola A (PA de razão 30): mensalidade em 2027 = 450+3×30=R$ 540,00. Na Escola B (PG de razão 1,06): mensalidade em 2027 = 450×(1,06)³=450×1,191016≈R$ 535,96. Nesse caso específico, o reajuste fixo da Escola A resultou em mensalidade ligeiramente maior do que o reajuste percentual da Escola B, o que pode surpreender quem assume que reajustes percentuais são sempre mais agressivos no curto prazo.",

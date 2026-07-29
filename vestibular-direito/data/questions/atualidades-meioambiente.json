@@ -7,8 +7,8 @@
                          "enunciado":  "O principal problema ambiental contemporâneo associado a esse fenômeno não é sua existência em si, mas:",
                          "alternativas":  {
                                               "a":  "a intensificação do efeito estufa pelo aumento antropogênico da concentração desses gases na atmosfera",
-                                              "b":  "a substituição do vapor d\u0027água por oxigênio na atmosfera",
-                                              "c":  "a redução da temperatura média do planeta observada nas últimas décadas",
+                                              "b":  "a substituição do vapor d\u0027água por oxigênio na atmosfera, processo incompatível com os registros geológicos de composição atmosférica",
+                                              "c":  "a redução da temperatura média do planeta observada nas últimas décadas, tendência supostamente compatível com o Mínimo de Maunder solar",
                                               "d":  "a atuação isolada de fatores solares e vulcânicos, sem contribuição relevante da atividade humana"
                                           },
                          "resposta":  "a",
@@ -19,10 +19,10 @@
                          "texto_apoio":  "Entre os diversos gases de efeito estufa emitidos por atividades humanas — como queima de combustíveis fósseis, desmatamento e certos processos industriais e agropecuários — alguns têm maior volume de emissão, enquanto outros têm maior potencial de retenção de calor por molécula.",
                          "enunciado":  "O gás de efeito estufa emitido em maior volume pelas atividades humanas, associado principalmente à queima de combustíveis fósseis e ao desmatamento, é:",
                          "alternativas":  {
-                                              "a":  "o metano",
-                                              "b":  "o óxido nitroso",
-                                              "c":  "o dióxido de carbono (CO2)",
-                                              "d":  "o ozônio troposférico"
+                                              "a":  "o metano, emitido majoritariamente pela pecuária e por aterros sanitários",
+                                              "b":  "o óxido nitroso, associado principalmente ao uso de fertilizantes nitrogenados",
+                                              "c":  "o dióxido de carbono (CO2), emitido sobretudo pela queima de combustíveis fósseis",
+                                              "d":  "o ozônio troposférico, formado por reações fotoquímicas com poluentes veiculares"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O dióxido de carbono é o gás de efeito estufa emitido em maior volume pelas atividades humanas, sobretudo pela queima de combustíveis fósseis, processos industriais e desmatamento, embora outros gases, como o metano, tenham maior potencial de retenção de calor por molécula."
@@ -33,9 +33,9 @@
                          "enunciado":  "Esse conjunto de fenômenos está diretamente relacionado a qual consequência do aquecimento global?",
                          "alternativas":  {
                                               "a":  "diminuição da frequência de eventos climáticos extremos em regiões litorâneas",
-                                              "b":  "maior previsibilidade dos padrões de chuva em regiões costeiras",
-                                              "c":  "redução do nível médio dos oceanos observada nas últimas décadas",
-                                              "d":  "elevação do nível médio dos oceanos"
+                                              "b":  "maior previsibilidade dos padrões de chuva em regiões costeiras, conforme modelos climáticos regionais",
+                                              "c":  "redução do nível médio dos oceanos observada nas últimas décadas em todas as bacias oceânicas",
+                                              "d":  "elevação do nível médio dos oceanos, tendência confirmada por medições altimétricas globais"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O derretimento de geleiras e calotas polares, somado à expansão térmica da água do mar em temperaturas mais altas, contribui para a elevação do nível médio dos oceanos, ameaçando regiões costeiras e ilhas de baixa altitude."
@@ -46,9 +46,9 @@
                          "enunciado":  "Esse reconhecimento diferenciado de responsabilidades e capacidades entre países desenvolvidos e em desenvolvimento é expresso pelo princípio de:",
                          "alternativas":  {
                                               "a":  "responsabilidades comuns, porém diferenciadas",
-                                              "b":  "soberania tarifária plena",
-                                              "c":  "igualdade formal absoluta entre Estados",
-                                              "d":  "livre concorrência ambiental"
+                                              "b":  "soberania tarifária plena, princípio típico de acordos comerciais multilaterais",
+                                              "c":  "igualdade formal absoluta entre Estados, sem distinção de capacidade econômica",
+                                              "d":  "livre concorrência ambiental, conceito associado a regimes de comércio internacional"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O princípio das responsabilidades comuns, porém diferenciadas, reconhece que todos os países têm o dever de agir contra as mudanças climáticas, mas atribui maior responsabilidade histórica e capacidade de resposta aos países desenvolvidos, que emitiram mais gases de efeito estufa ao longo do processo de industrialização."
@@ -59,7 +59,7 @@
                          "enunciado":  "Esse mecanismo de metas nacionais voluntárias, mas sujeitas a revisão periódica, é uma alternativa a modelos anteriores que:",
                          "alternativas":  {
                                               "a":  "previam metas de redução apenas para o setor de transportes, excluindo os demais setores da economia",
-                                              "b":  "eram aplicáveis apenas a países em desenvolvimento",
+                                              "b":  "eram aplicáveis apenas a países em desenvolvimento, isentando os países industrializados",
                                               "c":  "estabeleciam metas obrigatórias uniformes idênticas para todos os países, sem distinção",
                                               "d":  "concentravam o monitoramento do cumprimento das metas exclusivamente em organizações não governamentais"
                                           },
@@ -72,9 +72,9 @@
                          "enunciado":  "Nesse mecanismo, uma empresa que reduz suas emissões abaixo do limite estabelecido pode:",
                          "alternativas":  {
                                               "a":  "vender o excedente de permissões de emissão a outras empresas que ultrapassaram seus limites",
-                                              "b":  "perder o direito de operar no mercado",
-                                              "c":  "ser obrigada a doar suas permissões ao governo sem compensação",
-                                              "d":  "ser automaticamente multada pelo governo"
+                                              "b":  "perder o direito de operar no mercado regulado de emissões daquele setor",
+                                              "c":  "ser obrigada a doar suas permissões ao governo sem qualquer compensação financeira",
+                                              "d":  "ser automaticamente multada pelo governo, independentemente do volume emitido"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No sistema de comércio de emissões (cap-and-trade), empresas que emitem menos do que o limite permitido podem vender o excedente de permissões a empresas que precisam emitir mais do que sua cota original, criando um incentivo econômico para a redução das emissões."
@@ -97,10 +97,10 @@
                          "texto_apoio":  "A geração de energia solar depende da incidência de luz solar, e a geração eólica depende da intensidade dos ventos, ambas variáveis ao longo do dia e das estações.",
                          "enunciado":  "Essa característica das fontes renováveis citadas representa um desafio técnico conhecido como:",
                          "alternativas":  {
-                                              "a":  "escassez de matéria-prima",
-                                              "b":  "esgotamento da fonte",
-                                              "c":  "intermitência",
-                                              "d":  "poluição atmosférica direta"
+                                              "a":  "escassez de matéria-prima, típica de fontes minerais não renováveis",
+                                              "b":  "esgotamento da fonte, como ocorre com reservas de combustíveis fósseis",
+                                              "c":  "intermitência, que exige armazenamento ou integração com outras fontes",
+                                              "d":  "poluição atmosférica direta, associada à queima de combustíveis"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A intermitência refere-se à variabilidade natural na disponibilidade de fontes como energia solar e eólica, o que exige soluções complementares, como sistemas de armazenamento em baterias ou integração com outras fontes, para garantir estabilidade no fornecimento de energia."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "No modelo tradicional de produção e consumo, recursos são extraídos, transformados em produtos, utilizados e descartados como resíduo ao final de sua vida útil.",
                          "enunciado":  "Em contraste com esse modelo linear, a economia circular propõe principalmente:",
                          "alternativas":  {
-                                              "a":  "reduzir, reutilizar, reciclar e reintegrar materiais e produtos ao ciclo produtivo, minimizando a geração de resíduos",
-                                              "b":  "aumentar a extração de recursos naturais não renováveis",
-                                              "c":  "eliminar completamente a necessidade de indústria de transformação",
-                                              "d":  "descartar produtos com maior rapidez para estimular o consumo"
+                                              "a":  "reduzir, reutilizar, reciclar e reintegrar materiais ao ciclo produtivo, minimizando resíduos",
+                                              "b":  "aumentar a extração de recursos naturais não renováveis, ampliando a produção linear",
+                                              "c":  "eliminar completamente a necessidade de indústria de transformação em qualquer setor",
+                                              "d":  "descartar produtos com maior rapidez para estimular o consumo, conforme o modelo linear"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A economia circular busca romper com a lógica linear de extrair-produzir-descartar, promovendo a reutilização, reciclagem e reintegração de materiais ao ciclo produtivo, de modo a reduzir o consumo de recursos naturais e a geração de resíduos."
@@ -123,9 +123,9 @@
                          "texto_apoio":  "Investidores e empresas têm incorporado, na avaliação de riscos e oportunidades, critérios que vão além do desempenho financeiro tradicional.",
                          "enunciado":  "A sigla ESG, amplamente utilizada nesse contexto, refere-se a critérios de avaliação relacionados a:",
                          "alternativas":  {
-                                              "a":  "ética, saúde e globalização",
-                                              "b":  "eficiência, segurança e governabilidade",
-                                              "c":  "energia, sustentabilidade e gestão",
+                                              "a":  "ética, saúde e globalização, critérios de responsabilidade social",
+                                              "b":  "eficiência, segurança e governabilidade operacional da empresa",
+                                              "c":  "energia, sustentabilidade e gestão de recursos hídricos",
                                               "d":  "ambiental, social e governança corporativa"
                                           },
                          "resposta":  "d",
@@ -138,8 +138,8 @@
                          "alternativas":  {
                                               "a":  "associado a dinâmicas socioeconômicas e a interesses ligados ao uso da terra",
                                               "b":  "exclusivamente natural, sem relação com atividades econômicas",
-                                              "c":  "desconectado de qualquer política pública de fiscalização",
-                                              "d":  "restrito unicamente a causas climáticas"
+                                              "c":  "desconectado de qualquer política pública de fiscalização ou ordenamento territorial",
+                                              "d":  "restrito unicamente a causas climáticas, sem relação com a posse da terra"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O desmatamento em larga escala está fortemente associado a dinâmicas econômicas, como a expansão da atividade agropecuária e a disputa pela posse da terra, o que torna políticas de fiscalização, ordenamento fundiário e incentivos econômicos centrais para seu combate."
@@ -149,10 +149,10 @@
                          "texto_apoio":  "Florestas, rios e outros ecossistemas fornecem benefícios como regulação do clima, purificação da água e polinização de plantas cultivadas, muitas vezes sem custo direto para quem os utiliza.",
                          "enunciado":  "Esses benefícios que os ecossistemas fornecem à sociedade são denominados:",
                          "alternativas":  {
-                                              "a":  "commodities ambientais",
-                                              "b":  "créditos de biodiversidade obrigatórios",
-                                              "c":  "externalidades tributárias",
-                                              "d":  "serviços ecossistêmicos"
+                                              "a":  "commodities ambientais, negociadas em bolsas de mercadorias",
+                                              "b":  "créditos de biodiversidade obrigatórios, exigidos por lei federal",
+                                              "c":  "externalidades tributárias, apuradas em declarações fiscais anuais",
+                                              "d":  "serviços ecossistêmicos, prestados gratuitamente pela natureza"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Serviços ecossistêmicos são os benefícios que os ecossistemas naturais proporcionam à sociedade, como regulação climática, purificação da água, polinização e fornecimento de recursos, muitas vezes não precificados nas transações econômicas convencionais."
@@ -162,10 +162,10 @@
                          "texto_apoio":  "Organizações e indivíduos têm buscado estimar o volume total de gases de efeito estufa emitido, direta ou indiretamente, por suas atividades cotidianas ou processos produtivos.",
                          "enunciado":  "Essa medida agregada de emissões associadas a um indivíduo, produto ou organização é conhecida como:",
                          "alternativas":  {
-                                              "a":  "pegada hídrica",
-                                              "b":  "índice de biodiversidade",
-                                              "c":  "taxa de reflorestamento",
-                                              "d":  "pegada de carbono"
+                                              "a":  "pegada hídrica, medida em litros de água por produto",
+                                              "b":  "índice de biodiversidade, calculado por número de espécies",
+                                              "c":  "taxa de reflorestamento, medida em hectares recompostos",
+                                              "d":  "pegada de carbono, medida em toneladas de CO2 equivalente"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A pegada de carbono é um indicador que estima o total de emissões de gases de efeito estufa, diretas e indiretas, associadas às atividades de uma pessoa, produto, empresa ou evento, sendo usada como referência para políticas de mitigação."
@@ -188,10 +188,10 @@
                          "texto_apoio":  "Determinado princípio do direito ambiental estabelece que os custos associados à prevenção, controle e reparação da poluição devem ser suportados por quem a causa, e não pela coletividade.",
                          "enunciado":  "Esse princípio é conhecido como:",
                          "alternativas":  {
-                                              "a":  "princípio da precaução",
-                                              "b":  "princípio da livre concorrência",
-                                              "c":  "princípio da anterioridade tributária",
-                                              "d":  "princípio do poluidor-pagador"
+                                              "a":  "princípio da precaução, aplicável diante de incerteza científica",
+                                              "b":  "princípio da livre concorrência, típico do direito econômico",
+                                              "c":  "princípio da anterioridade tributária, próprio do direito fiscal",
+                                              "d":  "princípio do poluidor-pagador, que internaliza os custos ambientais no causador"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O princípio do poluidor-pagador determina que os custos ambientais gerados por uma atividade poluidora devem ser internalizados por quem a pratica, evitando que a sociedade como um todo arque com os custos de reparação de danos causados por terceiros."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "Um conjunto de 17 objetivos globais, adotado por praticamente todos os países-membros da ONU, estabelece metas relacionadas a erradicação da pobreza, igualdade de gênero, ação climática e outros temas, a serem perseguidas até um horizonte temporal comum.",
                          "enunciado":  "Esse conjunto de objetivos, conhecido como Objetivos de Desenvolvimento Sustentável (ODS), caracteriza-se por:",
                          "alternativas":  {
-                                              "a":  "aplicar-se exclusivamente a países em desenvolvimento",
-                                              "b":  "substituir integralmente as legislações ambientais nacionais",
-                                              "c":  "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes, que orientam políticas públicas e compromissos voluntários dos países",
-                                              "d":  "ser juridicamente vinculante e sujeito a sanções automáticas em caso de descumprimento"
+                                              "a":  "aplicar-se exclusivamente a países em desenvolvimento, isentando as nações industrializadas",
+                                              "b":  "substituir integralmente as legislações ambientais nacionais de cada Estado-membro",
+                                              "c":  "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes, orientando políticas públicas",
+                                              "d":  "ser juridicamente vinculante, sujeito a sanções automáticas em caso de descumprimento das metas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os ODS constituem uma agenda global não vinculante juridicamente, que integra dimensões econômicas, sociais e ambientais do desenvolvimento sustentável, servindo como referência para políticas públicas, mas dependendo da adesão voluntária dos países para sua implementação."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "Relatórios científicos internacionais têm apontado taxas de extinção de espécies muito superiores às taxas históricas médias observadas ao longo da história geológica do planeta.",
                          "enunciado":  "Entre os principais fatores associados a essa aceleração da perda de biodiversidade está:",
                          "alternativas":  {
-                                              "a":  "a redução do comércio internacional de produtos agrícolas",
-                                              "b":  "a ausência completa de atividades humanas nos ecossistemas naturais",
-                                              "c":  "a destruição e fragmentação de habitats naturais, associada à expansão agrícola e urbana",
-                                              "d":  "o aumento da área de unidades de conservação em todo o mundo"
+                                              "a":  "a redução do comércio internacional de produtos agrícolas nas últimas décadas",
+                                              "b":  "a ausência completa de atividades humanas nos ecossistemas naturais remanescentes",
+                                              "c":  "a destruição e fragmentação de habitats naturais, associada à expansão agrícola",
+                                              "d":  "o aumento da área de unidades de conservação em todo o mundo nas últimas décadas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A destruição e a fragmentação de habitats naturais, impulsionadas pela expansão agrícola, urbana e de infraestrutura, estão entre os principais fatores associados à aceleração da perda de biodiversidade observada nas últimas décadas."
@@ -253,9 +253,9 @@
                          "texto_apoio":  "Regiões áridas e semiáridas, além de grandes centros urbanos com sistemas de abastecimento sobrecarregados, têm enfrentado períodos de escassez no fornecimento de água potável.",
                          "enunciado":  "Entre os fatores que agravam a escassez hídrica em áreas urbanas está:",
                          "alternativas":  {
-                                              "a":  "a redução constante do consumo de água pela população",
-                                              "b":  "o aumento generalizado da cobertura florestal nas bacias hidrográficas urbanas",
-                                              "c":  "a diminuição do uso de água para fins agrícolas e industriais",
+                                              "a":  "a redução constante do consumo de água pela população, favorecida pela educação hídrica",
+                                              "b":  "o aumento generalizado da cobertura florestal nas bacias hidrográficas urbanas, elevando a vazão",
+                                              "c":  "a diminuição do uso de água para fins agrícolas e industriais, liberando volume para uso urbano",
                                               "d":  "o crescimento populacional aliado a perdas na distribuição e à impermeabilização do solo, que reduz a infiltração e recarga de aquíferos"
                                           },
                          "resposta":  "d",
@@ -266,10 +266,10 @@
                          "texto_apoio":  "Cidades ao redor do mundo têm investido em ciclovias, transporte público de baixa emissão, áreas verdes e edificações mais eficientes energeticamente.",
                          "enunciado":  "Esse conjunto de estratégias de planejamento urbano tem como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "aumentar a dependência do transporte individual motorizado",
-                                              "b":  "eliminar completamente a necessidade de áreas residenciais",
-                                              "c":  "reduzir emissões, melhorar a qualidade de vida e tornar as cidades mais resilientes a impactos ambientais",
-                                              "d":  "restringir totalmente a mobilidade da população urbana"
+                                              "a":  "aumentar a dependência do transporte individual motorizado nos grandes centros",
+                                              "b":  "eliminar completamente a necessidade de áreas residenciais nos centros urbanos",
+                                              "c":  "reduzir emissões e tornar as cidades mais resilientes a impactos ambientais",
+                                              "d":  "restringir totalmente a mobilidade da população urbana de baixa renda"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Estratégias de planejamento urbano sustentável, como incentivo ao transporte público e não motorizado, ampliação de áreas verdes e eficiência energética das edificações, visam reduzir emissões de poluentes, melhorar a qualidade de vida da população e tornar as cidades mais resilientes a eventos climáticos extremos."
@@ -279,10 +279,10 @@
                          "texto_apoio":  "Técnicas agrícolas como o plantio direto, a rotação de culturas e a integração lavoura-pecuária-floresta buscam conciliar produtividade agrícola com conservação dos recursos naturais.",
                          "enunciado":  "Esse conjunto de práticas é associado ao conceito de:",
                          "alternativas":  {
-                                              "a":  "agricultura sustentável",
-                                              "b":  "agricultura de subsistência exclusiva",
-                                              "c":  "monocultura intensiva sem manejo do solo",
-                                              "d":  "desertificação induzida"
+                                              "a":  "agricultura sustentável, que concilia produtividade e conservação",
+                                              "b":  "agricultura de subsistência exclusiva, sem excedente comercial",
+                                              "c":  "monocultura intensiva sem manejo do solo, voltada à exportação",
+                                              "d":  "desertificação induzida por superpastoreio e desmatamento"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Práticas como plantio direto, rotação de culturas e integração lavoura-pecuária-floresta fazem parte do conceito de agricultura sustentável, que busca manter ou aumentar a produtividade agrícola reduzindo impactos negativos sobre o solo, a água e a biodiversidade."
@@ -292,10 +292,10 @@
                          "texto_apoio":  "A destinação inadequada de resíduos sólidos urbanos, como o descarte em lixões a céu aberto, ainda é uma realidade em diversas regiões do mundo.",
                          "enunciado":  "Em comparação com lixões a céu aberto, aterros sanitários adequadamente projetados diferenciam-se, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "não possuírem nenhum tipo de impacto ambiental",
-                                              "b":  "conterem sistemas de impermeabilização do solo e tratamento de gases e líquidos gerados pela decomposição dos resíduos, reduzindo a contaminação do solo e da água",
-                                              "c":  "serem construídos exclusivamente em áreas urbanas centrais",
-                                              "d":  "dispensarem qualquer forma de monitoramento ambiental"
+                                              "a":  "não possuírem nenhum tipo de impacto ambiental em qualquer hipótese",
+                                              "b":  "conterem sistemas de impermeabilização do solo e tratamento de gases e do chorume gerados",
+                                              "c":  "serem construídos exclusivamente em áreas urbanas centrais e densamente povoadas",
+                                              "d":  "dispensarem qualquer forma de monitoramento ambiental ou geotécnico contínuo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Aterros sanitários adequadamente projetados possuem sistemas de impermeabilização do solo e de captação e tratamento de gases (como o metano) e do chorume (líquido gerado pela decomposição dos resíduos), reduzindo significativamente a contaminação do solo, do ar e dos lençóis freáticos em comparação com lixões a céu aberto."
@@ -305,10 +305,10 @@
                          "texto_apoio":  "Parques eólicos instalados no mar, ancorados ao leito oceânico ou flutuantes, têm se expandido em diversos países como alternativa às usinas eólicas terrestres.",
                          "enunciado":  "Uma vantagem frequentemente associada à energia eólica offshore em relação à eólica terrestre é:",
                          "alternativas":  {
-                                              "a":  "a ausência total de custos de instalação e manutenção",
-                                              "b":  "a impossibilidade de gerar qualquer impacto sobre ecossistemas marinhos",
-                                              "c":  "ventos geralmente mais fortes e constantes no mar, além de menor conflito com uso do solo e proximidade de centros urbanos costeiros",
-                                              "d":  "a dispensa completa de linhas de transmissão de energia"
+                                              "a":  "a ausência total de custos de instalação e manutenção da estrutura offshore",
+                                              "b":  "a impossibilidade de gerar qualquer impacto sobre ecossistemas marinhos locais",
+                                              "c":  "ventos geralmente mais fortes e constantes no mar, com menor conflito de uso do solo",
+                                              "d":  "a dispensa completa de linhas de transmissão de energia até a costa"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia eólica offshore aproveita ventos geralmente mais fortes e constantes no mar, reduz conflitos de uso do solo associados a parques terrestres e pode ficar mais próxima de grandes centros urbanos costeiros com alta demanda de energia, embora tenha custos de instalação e manutenção mais elevados."

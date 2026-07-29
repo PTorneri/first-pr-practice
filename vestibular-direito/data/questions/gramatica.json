@@ -32,10 +32,10 @@
                          "texto_apoio":  "\"Ela foi à cidade a pé visitar a tia que mora à três quilômetros do centro.\"",
                          "enunciado":  "Sobre o uso da crase na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "todas as ocorrências de crase estão corretas.",
+                                              "a":  "todas as ocorrências de crase estão corretas, pois ambas regem substantivos femininos precedidos de artigo definido.",
                                               "b":  "a crase em \u0027à três quilômetros\u0027 está incorreta, pois antecede numeral sem artigo definido feminino.",
-                                              "c":  "a crase em \u0027à cidade\u0027 está incorreta, pois \u0027cidade\u0027 é palavra masculina.",
-                                              "d":  "nenhuma das ocorrências de crase deveria existir na frase."
+                                              "c":  "a crase em \u0027à cidade\u0027 está incorreta, pois \u0027cidade\u0027 é palavra masculina, não admitindo o artigo feminino \u0027a\u0027.",
+                                              "d":  "nenhuma das ocorrências de crase deveria existir na frase, já que crase só ocorre diante de pronomes demonstrativos."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Diante de expressões de distância indeterminada com numeral, não se usa crase quando não há artigo feminino definido regendo a expressão; o correto seria \u0027a três quilômetros\u0027. \u0027À cidade\u0027 está correta, pois há regência de verbo + artigo feminino."
@@ -45,10 +45,10 @@
                          "texto_apoio":  "\"Seguem anexos os documentos solicitados pela comissão avaliadora.\"",
                          "enunciado":  "Sobre a concordância nominal da palavra \u0027anexo\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está correta, pois \u0027anexo\u0027, quando usado como adjetivo, concorda em gênero e número com o substantivo a que se refere.",
-                                              "b":  "está incorreta, pois \u0027anexo\u0027 deveria permanecer invariável.",
+                                              "a":  "está correta, pois \u0027anexo\u0027, usado como adjetivo, concorda em gênero e número com o substantivo a que se refere.",
+                                              "b":  "está incorreta, pois \u0027anexo\u0027 deveria permanecer invariável, funcionando como advérbio nesse tipo de construção.",
                                               "c":  "está incorreta, pois deveria ser \u0027anexos os documento\u0027.",
-                                              "d":  "está correta apenas porque a frase está na voz passiva."
+                                              "d":  "está correta apenas porque a frase está na voz passiva, condição que dispensaria a concordância entre os termos."
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Anexo\u0027 funciona como adjetivo e deve concordar com o substantivo \u0027documentos\u0027, flexionando-se em número e gênero: \u0027documentos anexos\u0027. Por isso a frase está correta."
@@ -59,7 +59,7 @@
                          "enunciado":  "Assinale a alternativa que identifica corretamente o desvio de concordância verbal presente na frase.",
                          "alternativas":  {
                                               "a":  "O verbo \u0027houveram\u0027, empregado no sentido de \u0027existir\u0027, deveria permanecer na forma impessoal \u0027houve\u0027.",
-                                              "b":  "Não há nenhum desvio de concordância na frase.",
+                                              "b":  "Não há nenhum desvio de concordância na frase, pois todos os verbos concordam corretamente com seus respectivos sujeitos.",
                                               "c":  "O verbo \u0027cobrado\u0027 deveria estar no plural para concordar com \u0027professores\u0027.",
                                               "d":  "O verbo \u0027foi\u0027 deveria concordar no plural, pois há dois sujeitos coordenados."
                                           },
@@ -71,10 +71,10 @@
                          "texto_apoio":  "\"Chegando atrasada a reunião já havia começado.\"",
                          "enunciado":  "Do ponto de vista da pontuação, a frase apresenta um problema porque",
                          "alternativas":  {
-                                              "a":  "há uma vírgula desnecessária entre sujeito e verbo.",
-                                              "b":  "a frase está corretamente pontuada e não apresenta nenhum problema.",
+                                              "a":  "há uma vírgula desnecessária entre sujeito e verbo, pois orações reduzidas de gerúndio dispensam qualquer pontuação nessa posição da frase.",
+                                              "b":  "a frase está corretamente pontuada e não apresenta nenhum problema, pois orações reduzidas de gerúndio antepostas dispensam vírgula.",
                                               "c":  "falta uma vírgula para separar a oração reduzida de gerúndio (\u0027Chegando atrasada\u0027) do restante da oração.",
-                                              "d":  "falta uma vírgula após o aposto \u0027a reunião\u0027."
+                                              "d":  "falta uma vírgula após o aposto \u0027a reunião\u0027, pois todo aposto explicativo deve ser isolado por vírgulas do restante do período."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Orações reduzidas deslocadas para o início do período, como \u0027Chegando atrasada\u0027, devem ser separadas por vírgula do restante da oração: \u0027Chegando atrasada, a reunião já havia começado\u0027."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "\"Prefiro estudar de manhã do que estudar à noite.\"",
                          "enunciado":  "Sobre a regência do verbo \u0027preferir\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está incorreta; a norma culta recomenda a estrutura \u0027preferir algo a algo\u0027, sem o uso de \u0027do que\u0027.",
-                                              "b":  "está correta, pois \u0027preferir\u0027 sempre exige a estrutura \u0027do que\u0027.",
-                                              "c":  "está incorreta porque falta a preposição \u0027para\u0027 antes de \u0027estudar\u0027.",
-                                              "d":  "está correta apenas em textos informais, mas também na norma culta."
+                                              "a":  "está incorreta; a norma culta recomenda a estrutura \u0027preferir algo a algo\u0027, sem o uso da locução comparativa \u0027do que\u0027.",
+                                              "b":  "está correta, pois \u0027preferir\u0027 sempre exige a estrutura \u0027do que\u0027, regência amplamente aceita em qualquer registro da língua.",
+                                              "c":  "está incorreta porque falta a preposição \u0027para\u0027 antes de \u0027estudar\u0027, complemento que o verbo \u0027preferir\u0027 exigiria nessa construção.",
+                                              "d":  "está correta apenas em textos informais, mas também na norma culta, que aceita ambas as regências como plenamente equivalentes."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O verbo \u0027preferir\u0027 rege a preposição \u0027a\u0027, não admitindo, na norma culta, a comparação com \u0027do que\u0027: o correto é \u0027Prefiro estudar de manhã a estudar à noite\u0027."
@@ -124,9 +124,9 @@
                          "enunciado":  "Sobre a concordância verbal com a partícula \u0027se\u0027, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "a frase está incorreta; como \u0027apartamentos\u0027 é o sujeito paciente da oração, o verbo deveria concordar no plural: \u0027Alugam-se apartamentos\u0027.",
-                                              "b":  "a frase está correta, pois \u0027se\u0027 é sempre índice de indeterminação do sujeito.",
-                                              "c":  "a frase está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027apartamentos\u0027.",
-                                              "d":  "a frase está correta porque \u0027aluga-se\u0027 nunca varia, independentemente do contexto."
+                                              "b":  "a frase está correta, pois \u0027se\u0027 é sempre índice de indeterminação do sujeito, tornando o verbo obrigatoriamente invariável no singular.",
+                                              "c":  "a frase está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027apartamentos\u0027, complemento exigido pelo verbo \u0027alugar\u0027 nessa construção.",
+                                              "d":  "a frase está correta porque \u0027aluga-se\u0027 nunca varia, independentemente do contexto, já que \u0027se\u0027 funcionaria aqui como partícula apassivadora fixa."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Nesse caso, \u0027se\u0027 é partícula apassivadora, e \u0027apartamentos\u0027 é sujeito da oração passiva sintética, exigindo concordância verbal no plural: \u0027Alugam-se apartamentos mobiliados\u0027."
@@ -136,10 +136,10 @@
                          "texto_apoio":  "\"Só um minuto, por favor: eu vou estar verificando o status do seu pedido agora mesmo e já retorno com a resposta.\"",
                          "enunciado":  "A construção \u0027vou estar verificando\u0027 exemplifica um desvio conhecido como gerundismo. Assinale a alternativa que explica corretamente o problema.",
                          "alternativas":  {
-                                              "a":  "O único problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, sem qualquer relação com o uso do gerúndio.",
-                                              "b":  "Há gerundismo: a locução emprega o gerúndio para indicar uma ação que ainda vai ocorrer no futuro, quando o gerúndio deveria expressar apenas ação concomitante ou em andamento; o mais adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027.",
+                                              "a":  "O único problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, sem qualquer relação com o uso indevido do gerúndio ou com o gerundismo mencionado no enunciado.",
+                                              "b":  "Há gerundismo: o gerúndio é usado para indicar uma ação futura, quando deveria expressar apenas ação concomitante ou em andamento; o adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027.",
                                               "c":  "A construção está correta, pois o gerúndio pode expressar qualquer relação temporal com o verbo principal, inclusive uma ação futura ainda não iniciada.",
-                                              "d":  "A construção está correta em qualquer registro, formal ou informal, pois \u0027estar + gerúndio\u0027 é sempre sinônimo de \u0027ir + infinitivo\u0027."
+                                              "d":  "A construção está correta em qualquer registro, formal ou informal, pois \u0027estar + gerúndio\u0027 é sempre sinônimo perfeito de \u0027ir + infinitivo\u0027 na língua portuguesa."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O gerundismo consiste em usar uma locução como \u0027vou estar + gerúndio\u0027 para expressar uma ação futura, função que não é própria do gerúndio; este deve indicar ação simultânea ou em processo (como em \u0027estou verificando agora\u0027). O mais adequado nesse contexto seria \u0027vou verificar o status\u0027 (ação futura simples) ou \u0027estou verificando\u0027 (ação em curso no momento da fala)."
@@ -149,9 +149,9 @@
                          "texto_apoio":  "\"É proibido a entrada de pessoas não autorizadas no laboratório.\"",
                          "enunciado":  "Sobre a concordância nominal da expressão \u0027é proibido\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está correta, pois o sujeito da oração é \u0027pessoas\u0027, que é plural.",
-                                              "b":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027entrada\u0027.",
-                                              "c":  "está correta, pois \u0027proibido\u0027 nunca varia diante de substantivo precedido de artigo.",
+                                              "a":  "está correta, pois o sujeito da oração é \u0027pessoas\u0027, que é plural, exigindo a forma invariável \u0027proibido\u0027 nessa construção.",
+                                              "b":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027entrada\u0027, termo que o verbo \u0027proibir\u0027 exigiria nessa construção nominal.",
+                                              "c":  "está correta, pois \u0027proibido\u0027 nunca varia diante de substantivo precedido de artigo definido, mesmo no feminino.",
                                               "d":  "está incorreta; como \u0027entrada\u0027 vem precedida de artigo definido, o correto seria \u0027é proibida a entrada\u0027."
                                           },
                          "resposta":  "d",
@@ -162,10 +162,10 @@
                          "texto_apoio":  "\"O professor, cuja a aula foi cancelada, avisou os alunos por e-mail.\"",
                          "enunciado":  "Assinale a alternativa que aponta corretamente o desvio gramatical da frase.",
                          "alternativas":  {
-                                              "a":  "Falta uma vírgula após \u0027e-mail\u0027.",
-                                              "b":  "O pronome relativo \u0027cuja\u0027 não deve ser antecedido de artigo definido, sendo incorreto \u0027cuja a aula\u0027.",
-                                              "c":  "A frase não apresenta nenhum desvio gramatical.",
-                                              "d":  "O verbo \u0027avisou\u0027 deveria estar no plural."
+                                              "a":  "Falta uma vírgula após \u0027e-mail\u0027, já que orações apositivas finais sempre devem ser isoladas por vírgula do restante do período.",
+                                              "b":  "O pronome relativo \u0027cuja\u0027 não deve ser antecedido de artigo definido, sendo incorreto o uso de \u0027cuja a aula\u0027 nesse contexto.",
+                                              "c":  "A frase não apresenta nenhum desvio gramatical, pois o pronome relativo \u0027cuja\u0027 admite normalmente o artigo definido feminino antes do substantivo.",
+                                              "d":  "O verbo \u0027avisou\u0027 deveria estar no plural, pois o sujeito composto por \u0027professor\u0027 e a oração adjetiva exigiria concordância verbal no plural."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O pronome relativo possessivo \u0027cujo(a)\u0027 já exerce função de determinante e não deve vir acompanhado de artigo definido: o correto é \u0027cuja aula foi cancelada\u0027, sem o artigo \u0027a\u0027."
@@ -175,10 +175,10 @@
                          "texto_apoio":  "\"Segundo dados da pesquisa, a maioria dos entrevistados afirmaram estar satisfeitos com o novo sistema.\"",
                          "enunciado":  "Sobre a concordância verbal com a expressão \u0027a maioria dos entrevistados\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "a concordância com expressões partitivas nunca varia, sendo sempre no plural.",
-                                              "b":  "o verbo deve obrigatoriamente concordar no plural, sendo a frase apresentada a única forma correta.",
+                                              "a":  "a concordância com expressões partitivas nunca varia, sendo sempre no plural, já que o substantivo \u0027entrevistados\u0027 determinaria obrigatoriamente essa flexão verbal.",
+                                              "b":  "o verbo deve obrigatoriamente concordar no plural, sendo a frase apresentada a única forma correta, já que \u0027maioria\u0027 perde força de núcleo diante do adjunto plural.",
                                               "c":  "o verbo pode concordar tanto no singular (\u0027afirmou\u0027), com o núcleo \u0027maioria\u0027, quanto no plural (\u0027afirmaram\u0027), por atração com \u0027entrevistados\u0027, sendo ambas aceitas pela norma culta.",
-                                              "d":  "o verbo deve obrigatoriamente ficar no singular, sendo \u0027afirmaram\u0027 um erro grave e inaceitável."
+                                              "d":  "o verbo deve obrigatoriamente ficar no singular, sendo \u0027afirmaram\u0027 um erro grave e inaceitável, pois expressões partitivas nunca admitem concordância por atração."
                                           },
                          "resposta":  "c",
                          "explicacao":  "Com sujeitos formados por expressões partitivas (\u0027a maioria de\u0027, \u0027grande parte de\u0027) seguidas de substantivo plural, a norma culta admite tanto a concordância com o núcleo (\u0027a maioria afirmou\u0027) quanto por atração com o adjunto (\u0027a maioria dos entrevistados afirmaram\u0027)."
@@ -188,10 +188,10 @@
                          "texto_apoio":  "\"O relatório apresentado pelos consultores contém dados imprecisos; contudo, foi aprovado pela diretoria sem ressalvas, o que gerou críticas internas.\"",
                          "enunciado":  "A relação estabelecida pelo conectivo \u0027contudo\u0027 entre as orações é de",
                          "alternativas":  {
-                                              "a":  "explicação de uma causa anterior.",
-                                              "b":  "adversidade, contrapondo a imprecisão dos dados à aprovação sem ressalvas.",
-                                              "c":  "comparação entre dois relatórios distintos.",
-                                              "d":  "adição de ideias semelhantes."
+                                              "a":  "explicação de uma causa anterior, já que \u0027contudo\u0027 também pode introduzir justificativas em certas construções do período.",
+                                              "b":  "adversidade, contrapondo a imprecisão dos dados apontados pelos consultores à aprovação do relatório pela diretoria sem qualquer ressalva.",
+                                              "c":  "comparação entre dois relatórios distintos, uso comum de conjunções como \u0027contudo\u0027 quando antecedem substantivos concretos no período.",
+                                              "d":  "adição de ideias semelhantes, sentido que conjunções como \u0027contudo\u0027 assumem quando ligam orações de mesmo valor semântico."
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Contudo\u0027 é conjunção adversativa que introduz um contraste entre a imprecisão dos dados e o fato de o relatório ter sido aprovado sem ressalvas, evidenciando uma inconsistência apontada pelo autor do texto."
@@ -201,10 +201,10 @@
                          "texto_apoio":  "\"Fui na casa dela ontem à tarde e conversamos sobre o novo projeto que ela irá apresentar na faculdade.\"",
                          "enunciado":  "Sobre a regência do verbo \u0027ir\u0027 na frase, a norma culta recomenda que",
                          "alternativas":  {
-                                              "a":  "a construção mais adequada à norma culta é \u0027fui à casa dela\u0027, com a preposição \u0027a\u0027, indicando destino.",
-                                              "b":  "a construção \u0027fui na casa\u0027 está adequada, pois \u0027ir\u0027 sempre admite a preposição \u0027em\u0027.",
-                                              "c":  "a construção correta seria \u0027fui para casa dela\u0027, sendo a única forma aceitável.",
-                                              "d":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto."
+                                              "a":  "a construção mais adequada à norma culta é \u0027fui à casa dela\u0027, com a preposição \u0027a\u0027 indicando destino, unida por crase ao artigo feminino.",
+                                              "b":  "a construção \u0027fui na casa\u0027 está adequada, pois o verbo \u0027ir\u0027 sempre admite a preposição \u0027em\u0027 para indicar qualquer tipo de destino.",
+                                              "c":  "a construção correta seria \u0027fui para casa dela\u0027, sendo essa a única forma aceitável pela norma culta em qualquer contexto.",
+                                              "d":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O verbo \u0027ir\u0027, quando indica destino, rege tradicionalmente a preposição \u0027a\u0027, sendo a construção \u0027fui à casa dela\u0027 a mais adequada à norma culta, com uso de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027 de \u0027a casa\u0027."
@@ -214,10 +214,10 @@
                          "texto_apoio":  "\"Comprei um relógio de pulso, uma camisa listrada, e um par de sapatos pretos para a formatura.\"",
                          "enunciado":  "Do ponto de vista da pontuação em enumerações, a frase apresenta um desvio porque",
                          "alternativas":  {
-                                              "a":  "não deveria haver vírgula alguma na enumeração apresentada.",
+                                              "a":  "não deveria haver vírgula alguma na enumeração apresentada, pois enumerações simples de objetos nunca admitem qualquer pontuação interna.",
                                               "b":  "não se deve usar vírgula antes da conjunção \u0027e\u0027 quando ela liga o último elemento de uma enumeração simples, sendo desnecessária a vírgula antes de \u0027e um par\u0027.",
-                                              "c":  "faltam vírgulas entre todos os adjetivos da frase.",
-                                              "d":  "a frase deveria ser separada em dois períodos distintos, sem qualquer vírgula."
+                                              "c":  "faltam vírgulas entre todos os adjetivos da frase, já que adjetivos que qualificam substantivos diferentes exigem separação obrigatória.",
+                                              "d":  "a frase deveria ser separada em dois períodos distintos, sem qualquer vírgula, pois enumerações extensas nunca podem compor um único período."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Em enumerações simples, não se usa vírgula antes da conjunção aditiva \u0027e\u0027 quando ela liga o último termo da série, salvo em casos de elementos com sujeitos distintos; o correto seria \u0027uma camisa listrada e um par de sapatos pretos\u0027."
@@ -279,10 +279,10 @@
                          "texto_apoio":  "\"O relatório final deve ser entregue à mão na secretaria, às vezes até às vésperas do prazo final.\"",
                          "enunciado":  "Sobre o emprego da crase na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "apenas \u0027às vésperas\u0027 está incorreta, pois \u0027véspera\u0027 não admite artigo feminino.",
-                                              "b":  "nenhuma das ocorrências de crase deveria existir na frase.",
+                                              "a":  "apenas \u0027às vésperas\u0027 está incorreta, pois \u0027véspera\u0027 não admite artigo feminino nesse tipo de locução adverbial de tempo consagrada.",
+                                              "b":  "nenhuma das ocorrências de crase deveria existir na frase, pois essas locuções de tempo e modo nunca admitem artigo definido feminino antecedente.",
                                               "c":  "todas as ocorrências de crase estão corretas, pois \u0027mão\u0027, \u0027vezes\u0027 e \u0027vésperas\u0027 são substantivos femininos regidos por preposição \u0027a\u0027 em locuções consagradas.",
-                                              "d":  "apenas \u0027à mão\u0027 está correta; as demais deveriam ser escritas sem acento grave."
+                                              "d":  "apenas \u0027à mão\u0027 está correta; as demais deveriam ser escritas sem acento grave, já que \u0027vezes\u0027 e \u0027vésperas\u0027 rejeitariam artigo definido feminino."
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027À mão\u0027, \u0027às vezes\u0027 e \u0027às vésperas\u0027 são locuções consagradas pelo uso, formadas pela preposição \u0027a\u0027 seguida do artigo feminino \u0027a(s)\u0027, exigindo o acento indicativo de crase em todas elas."
@@ -293,9 +293,9 @@
                          "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "está correta; quando um sujeito composto é resumido por um pronome indefinido como \u0027nada\u0027 ou \u0027tudo\u0027, o verbo concorda com esse pronome recapitulativo, no singular.",
-                                              "b":  "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: \u0027nada foram esquecidos\u0027.",
-                                              "c":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027.",
-                                              "d":  "está correta apenas porque a frase está na ordem direta."
+                                              "b":  "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: \u0027nada foram esquecidos\u0027, por regra de concordância com sujeitos compostos.",
+                                              "c":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027, item que resume a enumeração anterior e exigiria isolamento por vírgula.",
+                                              "d":  "está correta apenas porque a frase está na ordem direta, condição que dispensaria a concordância do verbo com o pronome recapitulativo."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Quando elementos enumerados são resumidos por um pronome recapitulativo (\u0027tudo\u0027, \u0027nada\u0027, \u0027ninguém\u0027), o verbo concorda com esse pronome, e não com os itens da enumeração: \u0027nada foi esquecido\u0027."
@@ -306,9 +306,9 @@
                          "enunciado":  "Sobre a pontuação da frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "está incorreta; deveria haver uma vírgula antes da conjunção adversativa \u0027mas\u0027: \u0027...conselho, mas ainda depende...\u0027.",
-                                              "b":  "está correta, pois a conjunção \u0027mas\u0027 nunca é precedida de vírgula.",
-                                              "c":  "está incorreta porque falta uma vírgula depois de \u0027mas\u0027.",
-                                              "d":  "está correta apenas se a frase for reescrita na ordem inversa."
+                                              "b":  "está correta, pois a conjunção \u0027mas\u0027 nunca é precedida de vírgula, já que conjunções adversativas curtas dispensam qualquer pausa gráfica.",
+                                              "c":  "está incorreta porque falta uma vírgula depois de \u0027mas\u0027, posição em que toda conjunção adversativa exigiria isolamento do restante da oração.",
+                                              "d":  "está correta apenas se a frase for reescrita na ordem inversa, com a oração adversativa antecedendo a oração principal do período."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Conjunções adversativas como \u0027mas\u0027 são sempre precedidas de vírgula, independentemente da extensão das orações que ligam."
@@ -318,10 +318,10 @@
                          "texto_apoio":  "\"A diretora conversou com a professora sobre o projeto antes de ela viajar a trabalho.\"",
                          "enunciado":  "Sobre a coesão referencial da frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "o pronome \u0027ela\u0027 gera ambiguidade, pois pode se referir tanto à diretora quanto à professora.",
-                                              "b":  "a frase não contém nenhum elemento coesivo referencial.",
-                                              "c":  "o pronome \u0027ela\u0027 se refere obrigatoriamente ao sujeito da oração principal.",
-                                              "d":  "o pronome \u0027ela\u0027 é plenamente claro e não permite nenhuma outra leitura."
+                                              "a":  "o pronome \u0027ela\u0027 gera ambiguidade referencial, pois pode se referir tanto à diretora quanto à professora mencionada na mesma oração.",
+                                              "b":  "a frase não contém nenhum elemento coesivo referencial, já que pronomes pessoais retos nunca retomam substantivos citados no período.",
+                                              "c":  "o pronome \u0027ela\u0027 se refere obrigatoriamente ao sujeito da oração principal, regra fixa de retomada em orações subordinadas temporais.",
+                                              "d":  "o pronome \u0027ela\u0027 é plenamente claro e não permite nenhuma outra leitura, pois há apenas um substantivo feminino no período."
                                           },
                          "resposta":  "a",
                          "explicacao":  "Como há dois substantivos femininos no período (\u0027diretora\u0027 e \u0027professora\u0027), o pronome \u0027ela\u0027 pode retomar qualquer um dos dois, configurando ambiguidade referencial que compromete a clareza do texto."

@@ -6,6 +6,7 @@
   const LS_TOPIC_STATE = "vd_topicState"; // { "<subtopicId>": { answered: n, correct: n } }
   const LS_DISSERT_STATUS = "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
   const LS_DISSERT_ANSWERS = "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
+  const LS_DISSERT_CHECKLIST = "vd_dissertChecklist"; // { "<day>::<questionId>::<pointIndex>": true }, autoavaliação dos pontos esperados
   const LS_CYCLE_WEIGHTS = "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
   const LS_SCORE_HISTORY = "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
   const LS_TOPIC_LAST_ANSWERED = "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
@@ -16,7 +17,8 @@
 
   const SYNCABLE_KEYS = [
     LS_START, LS_ANSWERS, LS_DAY_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
-    LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN, LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
+    LS_DISSERT_CHECKLIST, LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN,
+    LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
   ];
 
   const DISSERT_WEEK_TARGET = 4;
@@ -54,6 +56,7 @@
   function getTopicState() { return loadJSON(LS_TOPIC_STATE, {}); }
   function getDissertStatus() { return loadJSON(LS_DISSERT_STATUS, {}); }
   function getDissertAnswers() { return loadJSON(LS_DISSERT_ANSWERS, {}); }
+  function getDissertChecklist() { return loadJSON(LS_DISSERT_CHECKLIST, {}); }
 
   function answerKey(subtopicId, questionId) { return subtopicId + "::" + questionId; }
   // Chave da resposta ESPECÍFICA daquela ocorrência do dia — corrige o bug de
@@ -1736,7 +1739,21 @@
     const key = dissertKey(day, q.id);
     const savedText = savedAnswers[key] || "";
 
-    const pontosHtml = q.pontosEsperados.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+    const checklist = getDissertChecklist();
+    const checklistKeyFor = (pointIdx) => dissertKey(day, q.id) + "::" + pointIdx;
+    // Recebe o objeto de checklist explicitamente (em vez de fechar sobre uma
+    // variável só) pra sempre contar a partir da leitura mais recente do
+    // localStorage — evita perder marcações de OUTRA questão dissertativa do
+    // mesmo dia caso o snapshot inicial desta função já esteja desatualizado.
+    const checkedCount = (checklistObj) => q.pontosEsperados.filter((_, i) => checklistObj[checklistKeyFor(i)]).length;
+    const pontosHtml = q.pontosEsperados.map((p, i) => `
+      <li>
+        <label>
+          <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
+          <span>${escapeHtml(p)}</span>
+        </label>
+      </li>
+    `).join("");
 
     wrap.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(q.area)}${q.tempoSugerido ? ` · ~${q.tempoSugerido} min sugeridos` : ""}</div>
@@ -1744,7 +1761,12 @@
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.comando)}</div>
       <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedText)}</textarea>
       <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
-      <ul class="dissert-gabarito" hidden>${pontosHtml}</ul>
+      <div class="dissert-gabarito-wrap" hidden>
+        <div class="dissert-gabarito-counter">${checkedCount(checklist)}/${q.pontosEsperados.length} pontos marcados</div>
+        <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
+        realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
+        <ul class="dissert-gabarito">${pontosHtml}</ul>
+      </div>
     `;
 
     const textarea = wrap.querySelector(".dissert-textarea");
@@ -1755,10 +1777,21 @@
     });
 
     const toggleBtn = wrap.querySelector(".dissert-toggle-gabarito");
-    const gabarito = wrap.querySelector(".dissert-gabarito");
+    const gabaritoWrap = wrap.querySelector(".dissert-gabarito-wrap");
     toggleBtn.addEventListener("click", () => {
-      gabarito.hidden = !gabarito.hidden;
-      toggleBtn.textContent = gabarito.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
+      gabaritoWrap.hidden = !gabaritoWrap.hidden;
+      toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
+    });
+
+    const counterEl = wrap.querySelector(".dissert-gabarito-counter");
+    wrap.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
+      cb.addEventListener("change", () => {
+        const state = getDissertChecklist();
+        const key = checklistKeyFor(cb.dataset.point);
+        if (cb.checked) state[key] = true; else delete state[key];
+        saveJSON(LS_DISSERT_CHECKLIST, state);
+        counterEl.textContent = `${checkedCount(state)}/${q.pontosEsperados.length} pontos marcados`;
+      });
     });
 
     return wrap;

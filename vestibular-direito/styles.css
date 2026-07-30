@@ -458,9 +458,13 @@ body {
   padding: 12px; resize: vertical; background: var(--surface); color: var(--ink); margin-bottom: 8px;
 }
 .dissert-toggle-gabarito { margin-bottom: 4px; }
-.dissert-gabarito {
-  background: var(--good-soft); border-radius: 10px; padding: 12px 14px 12px 32px; margin-top: 8px;
+.dissert-gabarito-wrap {
+  background: var(--good-soft); border-radius: 10px; padding: 12px 14px; margin-top: 8px;
   font-size: 0.92rem; color: var(--ink);
 }
+.dissert-gabarito-counter { font-weight: 700; color: var(--good); margin-bottom: 6px; }
+.dissert-gabarito { list-style: none; margin: 0; padding: 0; }
 .dissert-gabarito li { margin-bottom: 6px; }
 .dissert-gabarito li:last-child { margin-bottom: 0; }
+.dissert-gabarito label { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
+.dissert-gabarito input { margin-top: 3px; flex-shrink: 0; }

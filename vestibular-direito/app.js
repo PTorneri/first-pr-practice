@@ -1114,6 +1114,15 @@
   function renderObraCard(o, studied) {
     const card = document.createElement("div");
     card.className = "lesson-card obra-card" + (studied[o.id] ? " obra-studied" : "");
+    const pontosChaveHtml = Array.isArray(o.pontosChave) && o.pontosChave.length
+      ? `<ul class="obra-pontos-chave">${o.pontosChave.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul>`
+      : "";
+    const contextoHtml = o.contextoHistorico
+      ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Contexto:</strong> ${escapeHtml(o.contextoHistorico)}</p>`
+      : "";
+    const cenaHtml = o.cenaOuTrechoChave
+      ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Cena/trecho-chave:</strong> ${escapeHtml(o.cenaOuTrechoChave)}</p>`
+      : "";
     card.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(o.categoria)} · ${escapeHtml(o.origem)}</div>
       <h3>${escapeHtml(o.titulo)}</h3>
@@ -1121,14 +1130,35 @@
       <button type="button" class="btn-link obra-toggle">Ver resumo e análise</button>
       <div class="obra-detail" hidden>
         <p>${escapeHtml(o.resumo)}</p>
+        ${contextoHtml}
+        ${pontosChaveHtml}
+        ${cenaHtml}
         <p class="theory-resumo" style="margin-top:8px;"><strong>Eixo da banca:</strong> ${escapeHtml(o.analiseEixos)}</p>
       </div>
+      <button type="button" class="btn-link obra-quiz-toggle">Praticar (5 questões)</button>
+      <div class="obra-questoes" hidden></div>
       <label class="obra-studied-check">
         <input type="checkbox" ${studied[o.id] ? "checked" : ""}> Já estudei essa obra
       </label>
     `;
     card.querySelector(".obra-toggle").addEventListener("click", () => {
       card.querySelector(".obra-detail").hidden = !card.querySelector(".obra-detail").hidden;
+    });
+    const quizBtn = card.querySelector(".obra-quiz-toggle");
+    const quizContainer = card.querySelector(".obra-questoes");
+    quizBtn.addEventListener("click", () => {
+      const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
+      if (!quizContainer.hidden) {
+        quizContainer.hidden = true;
+        return;
+      }
+      if (!quizContainer.dataset.built) {
+        bank.forEach((q, idx) => {
+          quizContainer.appendChild(renderQuestion(null, "obra::" + o.id, q, idx, undefined, undefined, true));
+        });
+        quizContainer.dataset.built = "1";
+      }
+      quizContainer.hidden = false;
     });
     card.querySelector(".obra-studied-check input").addEventListener("change", (e) => {
       const state = loadJSON(LS_OBRAS_STUDIED, {});

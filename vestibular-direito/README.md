@@ -182,9 +182,13 @@ obras (literatura, artes visuais, cinema, música, ensaios), sempre ligadas aos 
 banca (globalização / transição da modernidade para a pós-modernidade) — não é decoreba de
 enredo. `data/obras.js` traz as 45 obras da lista oficial mais recente (edital em
 vestibular.fgv.br, conferido em julho/2026 — vale checar contra a versão mais nova quando o
-próximo edital sair), cada uma com resumo e análise pelos eixos (comentário crítico original, não
-reprodução de trechos das obras). Filtro por categoria, contador "X/45 estudadas" e marcação
-individual de "já estudei". Sem equivalente na prova do Insper.
+próximo edital sair), cada uma com resumo, contexto histórico/biográfico, pontos-chave
+(personagens/técnica/estrutura conforme a categoria), uma cena ou trecho-chave e análise pelos
+eixos da banca (tudo comentário crítico original, não reprodução de trechos das obras nem de
+letras de música). Filtro por categoria, contador "X/45 estudadas" e marcação individual de "já
+estudei". Cada obra também tem um bloco "Praticar (5 questões)" com questões de múltipla escolha
+de fixação, no mesmo formato do banco de questões principal (`data/obras-questoes.js`). Sem
+equivalente na prova do Insper.
 
 ## Sincronização entre aparelhos / backup
 

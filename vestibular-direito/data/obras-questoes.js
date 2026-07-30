@@ -1,0 +1,2813 @@
+// Gerado automaticamente - 5 questoes de fixacao por obra obrigatoria.
+window.OBRAS_QUESTOES = {
+    "obra-origens-totalitarismo":  [
+                                       {
+                                           "id":  "obra-origens-totalitarismo-q1",
+                                           "texto_apoio":  "Hannah Arendt escreveu boa parte de sua obra a partir da experiência de exílio: fugiu da Alemanha nazista em 1933 e foi brevemente internada num campo de detenção na França antes de emigrar para os Estados Unidos.",
+                                           "enunciado":  "Essa trajetória biográfica é relevante para compreender \"As Origens do Totalitarismo\" porque:",
+                                           "alternativas":  {
+                                                                "a":  "a autora só teve acesso aos arquivos soviéticos depois de atuar como diplomata da União Soviética durante a Guerra Fria",
+                                                                "b":  "a autora conheceu pessoalmente Adolf Hitler antes da guerra e usa esse contato como fonte primária de todo o livro",
+                                                                "c":  "o livro foi escrito originalmente em alemão e publicado na própria Alemanha antes de ser traduzido para o inglês em 1951",
+                                                                "d":  "a autora escreve como intelectual diretamente atingida pelo fenômeno que analisa, publicando o livro nos Estados Unidos, em inglês, já em 1951"
+                                                            },
+                                           "resposta":  "d",
+                                           "explicacao":  "Arendt fugiu da Alemanha nazista em 1933 e foi internada num campo francês antes de emigrar para os EUA, onde escreveu e publicou o livro originalmente em inglês, em 1951 — sua reflexão nasce da experiência direta de perseguição, e não de arquivos soviéticos obtidos como diplomata, nem de contato pessoal com Hitler, nem de uma versão alemã anterior."
+                                       },
+                                       {
+                                           "id":  "obra-origens-totalitarismo-q2",
+                                           "enunciado":  "No eixo da crise das certezas modernas, a análise de Arendt sobre o totalitarismo é mobilizada porque a autora argumenta que esse fenômeno:",
+                                           "alternativas":  {
+                                                                "a":  "nasce da radicalização de um projeto propriamente moderno de controle racional total sobre a sociedade, e não de um simples retrocesso à barbárie",
+                                                                "b":  "só pode ser compreendido como um fenômeno estritamente russo, sem qualquer paralelo em outros países ocidentais da mesma época",
+                                                                "c":  "representa a sobrevivência de formas arcaicas e pré-modernas de poder que a racionalização do Estado ainda não havia eliminado por completo",
+                                                                "d":  "é consequência direta e exclusiva da globalização econômica do século XX, sem vínculo com a política interna europeia"
+                                                            },
+                                           "resposta":  "a",
+                                           "explicacao":  "Para Arendt, o totalitarismo não é resquício de barbárie antiga, mas fruto da radicalização da própria confiança moderna no controle racional total sobre a sociedade e a natureza humana — daí sua relevância para a crise das certezas modernas, e não uma explicação econômica, geográfica ou de mero atraso institucional."
+                                       },
+                                       {
+                                           "id":  "obra-origens-totalitarismo-q3",
+                                           "enunciado":  "Assinale a alternativa que descreve corretamente um elemento estrutural ou argumentativo de \"As Origens do Totalitarismo\":",
+                                           "alternativas":  {
+                                                                "a":  "a obra concentra-se exclusivamente no regime nazista, sem qualquer menção ao stalinismo soviético como fenômeno comparável",
+                                                                "b":  "a obra introduz o conceito de \"banalidade do mal\", que na verdade Arendt cunhou apenas numa obra posterior sobre o julgamento de Adolf Eichmann",
+                                                                "c":  "a obra divide-se em três partes — Antissemitismo, Imperialismo e Totalitarismo — que se combinam na formação do totalitarismo",
+                                                                "d":  "a obra defende que os campos de concentração eram, sobretudo, instrumentos de exploração econômica da mão de obra prisioneira"
+                                                            },
+                                           "resposta":  "c",
+                                           "explicacao":  "O livro se estrutura em três partes (Antissemitismo, Imperialismo, Totalitarismo) e trata nazismo e stalinismo como variantes de um mesmo fenômeno. A ideia de \"banalidade do mal\" vem de uma obra posterior de Arendt sobre o julgamento de Eichmann (1963), e os campos são analisados por sua função ideológica de dominação total, não por exploração econômica."
+                                       },
+                                       {
+                                           "id":  "obra-origens-totalitarismo-q4",
+                                           "texto_apoio":  "Tanto \"As Origens do Totalitarismo\", de Hannah Arendt, quanto o romance \"1984\", de George Orwell, tratam do fenômeno totalitário a partir de perspectivas diferentes.",
+                                           "enunciado":  "A principal diferença entre as duas abordagens é que:",
+                                           "alternativas":  {
+                                                                "a":  "Arendt escreve como romancista, enquanto Orwell produz um tratado exclusivamente estatístico sobre regimes autoritários",
+                                                                "b":  "Arendt e Orwell escreveram as duas obras em coautoria, a partir de pesquisas de campo conjuntas na União Soviética",
+                                                                "c":  "Arendt oferece uma análise filosófica e histórica do totalitarismo, enquanto Orwell narra, em ficção distópica, os efeitos cotidianos desse controle",
+                                                                "d":  "Arendt analisa exclusivamente o regime totalitário soviético de Josef Stálin, enquanto Orwell descreve apenas o regime nazista de Adolf Hitler"
+                                                            },
+                                           "resposta":  "c",
+                                           "explicacao":  "Arendt produz uma análise filosófico-histórica do totalitarismo como fenômeno real (nazismo e stalinismo), enquanto Orwell imagina, em ficção, os efeitos cotidianos desse controle sobre a linguagem e a vida privada — não há coautoria entre os dois, nem recorte exclusivo a um único regime em cada obra."
+                                       },
+                                       {
+                                           "id":  "obra-origens-totalitarismo-q5",
+                                           "enunciado":  "Considerando o argumento de Arendt sobre a \"superfluidade\" do indivíduo sob o totalitarismo, é correto afirmar que a autora sustenta que esse tipo de regime busca:",
+                                           "alternativas":  {
+                                                                "a":  "eliminar apenas os opositores políticos organizados, mantendo intacta a liberdade privada dos demais cidadãos comuns",
+                                                                "b":  "promover eficiência econômica máxima por meio do controle populacional, sendo esse o principal objetivo do regime",
+                                                                "c":  "restaurar, pela força do Estado, tradições pré-modernas de hierarquia social que a democracia liberal já havia formalmente abolido",
+                                                                "d":  "tornar cada pessoa substituível e descartável, atacando a própria individualidade humana, e não apenas a dissidência política"
+                                                            },
+                                           "resposta":  "d",
+                                           "explicacao":  "Arendt argumenta que o totalitarismo visa dominar a condição humana como um todo, tornando as pessoas intercambiáveis e supérfluas, e não apenas reprimir opositores políticos — o objetivo não é eficiência econômica nem restauração de hierarquias antigas, mas a própria eliminação da espontaneidade individual."
+                                       }
+                                   ],
+    "obra-ruptura-castells":  [
+                                  {
+                                      "id":  "obra-ruptura-castells-q1",
+                                      "enunciado":  "\"Ruptura: a crise da democracia liberal\" foi escrito logo após uma sequência de eventos políticos que abalaram análises tradicionais sobre a estabilidade das democracias ocidentais. Esses eventos incluem:",
+                                      "alternativas":  {
+                                                           "a":  "a queda do Muro de Berlim e o fim da União Soviética, ocorridos no início dos anos 1990",
+                                                           "b":  "a Primavera Árabe e as revoltas populares no Oriente Médio do início dos anos 2010",
+                                                           "c":  "o referendo do Brexit e a eleição de Donald Trump, ambos ocorridos em 2016",
+                                                           "d":  "a pandemia de Covid-19 e as medidas de isolamento social adotadas globalmente"
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "Publicado em 2017, o livro parte diretamente do Brexit e da eleição de Trump, ambos em 2016, como sintomas da crise da democracia liberal — os demais eventos citados são anteriores ou posteriores demais ao período analisado pela obra."
+                                  },
+                                  {
+                                      "id":  "obra-ruptura-castells-q2",
+                                      "enunciado":  "A tese de Castells de que \"a mudança cultural/comunicacional em rede precede e viabiliza a mudança institucional\" se relaciona ao eixo da globalização porque:",
+                                      "alternativas":  {
+                                                           "a":  "mostra como fluxos globais de informação digital afetam a política interna dos países, superando análises estritamente nacionais",
+                                                           "b":  "defende o isolamento das economias e das redes de comunicação nacionais como solução definitiva para a crise democrática",
+                                                           "c":  "demonstra que a internet eliminou por completo a possibilidade de crise política, unificando as sociedades em torno de valores comuns",
+                                                           "d":  "prova que apenas países emergentes e de democracia mais recente sofrem esse tipo de crise institucional causada pelas redes digitais globais"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Castells argumenta que fluxos globais de comunicação digital moldam diretamente a política doméstica de cada país, o que exige uma análise que ultrapasse o quadro estritamente nacional — e não uma tese de unificação de valores, de exclusividade a países emergentes ou de isolamento das redes."
+                                  },
+                                  {
+                                      "id":  "obra-ruptura-castells-q3",
+                                      "enunciado":  "De acordo com o diagnóstico de Manuel Castells em \"Ruptura\", são fatores que contribuem para a crise da democracia liberal contemporânea, EXCETO:",
+                                      "alternativas":  {
+                                                           "a":  "a expansão do voto obrigatório para todos os países democráticos do mundo",
+                                                           "b":  "a circulação de desinformação e o fenômeno da pós-verdade nas redes digitais",
+                                                           "c":  "a crise econômica de 2008 e seus efeitos sociais e políticos duradouros",
+                                                           "d":  "a vigilância em larga escala de dados pessoais dos cidadãos por parte de governos e empresas"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Castells associa a crise da democracia liberal à vigilância de dados, à pós-verdade e aos efeitos da crise de 2008 — a expansão do voto obrigatório não é um fator discutido pelo autor nem corresponde a um fenômeno real analisado na obra."
+                                  },
+                                  {
+                                      "id":  "obra-ruptura-castells-q4",
+                                      "enunciado":  "Diferentemente de Hannah Arendt em \"As Origens do Totalitarismo\", que analisa a ruptura política do século XX marcada pelo totalitarismo de Estado, Manuel Castells em \"Ruptura\" concentra-se em:",
+                                      "alternativas":  {
+                                                           "a":  "uma crise contemporânea da democracia liberal ligada à comunicação em rede, à pós-verdade e à vigilância de dados, sem regime totalitário centralizado",
+                                                           "b":  "uma defesa entusiasmada da eficiência dos regimes autoritários de partido único como alternativa à democracia liberal",
+                                                           "c":  "uma reconstrução histórica do nazismo alemão e do stalinismo soviético como fenômenos idênticos ao populismo atual",
+                                                           "d":  "uma análise exclusivamente literária de romances distópicos publicados ao longo do século XX, sem qualquer base documental histórica"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Castells diagnostica uma crise institucional contemporânea ligada a redes digitais, pós-verdade e vigilância, sem que exista um regime totalitário centralizado como o analisado por Arendt — a obra não é uma defesa do autoritarismo, nem análise literária, nem equivalência entre nazismo/stalinismo e populismo atual."
+                                  },
+                                  {
+                                      "id":  "obra-ruptura-castells-q5",
+                                      "enunciado":  "Ao afirmar que a mudança cultural e comunicacional \"precede e viabiliza\" a mudança institucional, Castells sugere que, para compreender rupturas políticas como o avanço do populismo, é preciso investigar primeiro:",
+                                      "alternativas":  {
+                                                           "a":  "as transformações nos valores e nas formas de comunicação da sociedade em rede, anteriores à crise institucional visível",
+                                                           "b":  "a atuação de organismos internacionais de crédito, como o Fundo Monetário Internacional, sobre as economias e políticas nacionais",
+                                                           "c":  "exclusivamente indicadores econômicos, como taxa de juros e câmbio, sem qualquer relação com fatores culturais",
+                                                           "d":  "as reformas constitucionais aprovadas pelos parlamentos nacionais nos anos imediatamente anteriores à crise"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Para Castells, a chave explicativa está nas transformações culturais e comunicacionais da sociedade em rede, que antecedem e preparam a ruptura institucional — não em reformas legais, indicadores puramente econômicos ou na ação de organismos de crédito internacional."
+                                  }
+                              ],
+    "obra-bras-cubas":  [
+                            {
+                                "id":  "obra-bras-cubas-q1",
+                                "enunciado":  "Memórias Póstumas de Brás Cubas foi publicado em 1881 e costuma ser apontado pela crítica como um marco na trajetória de Machado de Assis. Esse marco corresponde a:",
+                                "alternativas":  {
+                                                     "a":  "Marca a transição de uma fase romântica inicial para uma fase madura, com ironia e experimentação formal.",
+                                                     "b":  "A estreia literária do autor, que não havia publicado nenhum romance antes de 1881.",
+                                                     "c":  "A adesão do autor ao naturalismo determinista, seguindo diretamente o modelo de Émile Zola.",
+                                                     "d":  "O abandono definitivo do Rio de Janeiro como cenário, com a trama toda ambientada na Europa."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Antes de 1881, Machado já havia publicado romances de tom mais romântico, como Ressurreição, A Mão e a Luva, Helena e Iaiá Garcia. Brás Cubas inaugura sua fase mais irônica e experimental. A trama continua ambientada no Rio de Janeiro (b é falsa), não é sua estreia (c é falsa) e Machado se distancia do determinismo naturalista de Zola (d é falsa)."
+                            },
+                            {
+                                "id":  "obra-bras-cubas-q2",
+                                "enunciado":  "A crítica associa Brás Cubas a uma sensibilidade \u0027pós-moderna avant la lettre\u0027. Essa leitura se apoia sobretudo:",
+                                "alternativas":  {
+                                                     "a":  "No uso de um narrador morto que expõe os bastidores da escrita e desconfia de contar uma verdade única.",
+                                                     "b":  "Na ambientação da trama em um Brasil futurista, situado além do século em que foi escrito.",
+                                                     "c":  "No fato de narrar com precisão documental os acontecimentos do Segundo Reinado ao longo dos capítulos.",
+                                                     "d":  "No emprego sistemático de gírias urbanas idênticas às utilizadas atualmente no cotidiano brasileiro."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "O narrador defunto, que interrompe a narrativa, dialoga com o leitor e questiona sua própria confiabilidade, antecipa recursos ligados à desconfiança pós-moderna em relação a narrativas totalizantes. O romance não pretende precisão documental (a), não é futurista (c) e não usa gírias contemporâneas (d)."
+                            },
+                            {
+                                "id":  "obra-bras-cubas-q3",
+                                "enunciado":  "O narrador-protagonista dedica boa parte de sua vida adulta a um projeto que, segundo ele, traria fama e benefício à humanidade. Esse projeto consiste em:",
+                                "alternativas":  {
+                                                     "a":  "A invenção de um emplasto contra a melancolia, projeto que ele nunca chega a concluir.",
+                                                     "b":  "A publicação de uma biografia elogiosa dedicada à memória de seu pai, Damião Cubas.",
+                                                     "c":  "A construção de um hospício modelo para tratamento de doentes mentais no Rio de Janeiro.",
+                                                     "d":  "A fundação de um jornal literário dedicado a divulgar as ideias do amigo Quincas Borba."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "O \u0027emplasto Brás Cubas\u0027 é a invenção central que o narrador persegue e nunca conclui, símbolo do fracasso de sua ambição. A opção c confunde com o enredo do conto O Alienista, também de Machado, e as demais são invenções sem base no romance."
+                            },
+                            {
+                                "id":  "obra-bras-cubas-q4",
+                                "enunciado":  "Em comparação com romances realistas europeus do século XIX, como os de Balzac ou Zola, Memórias Póstumas de Brás Cubas se distingue por:",
+                                "alternativas":  {
+                                                     "a":  "Substituir o narrador onisciente tradicional por um narrador parcial, irônico e consciente de estar escrevendo um livro.",
+                                                     "b":  "Adotar uma linguagem fortemente regional, marcada por dialetos populares do interior do país, recurso típico do regionalismo nordestino.",
+                                                     "c":  "Eliminar qualquer crítica social do enredo, concentrando-se somente em descrições minuciosas de ambientes urbanos.",
+                                                     "d":  "Aprofundar o determinismo biológico, explicando o comportamento das personagens apenas pela herança genética e o meio."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "A opção b descreve o naturalismo determinista de Zola, do qual Machado se afasta; a obra mantém forte crítica social (c é falsa) e não emprega linguagem regional (d descreve obras como Vidas Secas, não Brás Cubas)."
+                            },
+                            {
+                                "id":  "obra-bras-cubas-q5",
+                                "enunciado":  "Ao final do romance, Brás Cubas faz um balanço da própria vida e conclui ter obtido um \u0027saldo\u0027 positivo por não ter deixado filhos que herdassem sua miséria. Essa conclusão pode ser interpretada como:",
+                                "alternativas":  {
+                                                     "a":  "Um elogio à instituição do casamento, da qual Brás Cubas nunca chegou a participar.",
+                                                     "b":  "Uma ironia amarga que sugere o vazio e o fracasso por trás da existência da personagem.",
+                                                     "c":  "Uma crítica direta às políticas natalistas adotadas durante o período do Segundo Reinado.",
+                                                     "d":  "Uma afirmação sincera de que a vida vale a pena ser vivida com plenitude e alegria."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "O \u0027saldo\u0027 positivo por não deixar filhos subverte a lógica de que a vida é um bem a ser acumulado, revelando de forma irônica o fracasso e o vazio da trajetória do narrador, e não uma celebração sincera da existência."
+                            }
+                        ],
+    "obra-hora-estrela":  [
+                              {
+                                  "id":  "obra-hora-estrela-q1",
+                                  "enunciado":  "A Hora da Estrela, de Clarice Lispector, foi publicado em 1977, pouco antes da morte da autora. Sobre o contexto de produção da obra, é correto afirmar que:",
+                                  "alternativas":  {
+                                                       "a":  "Marca uma aproximação a temas sociais e à voz de uma personagem pobre e nordestina, sem abandonar o questionamento existencial de sua prosa.",
+                                                       "b":  "Substitui por completo o estilo introspectivo da autora por uma narrativa jornalística sem qualquer mediação ficcional.",
+                                                       "c":  "Foi o romance de estreia da autora, ainda escrito quando ela vivia na Ucrânia, país de seu nascimento.",
+                                                       "d":  "Foi escrito em parceria direta com Graciliano Ramos, como parte de um projeto sobre a seca nordestina."
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "Clarice já tinha uma longa carreira antes de 1977 (a é falsa, seu romance de estreia foi Perto do Coração Selvagem, de 1943); não há parceria com Graciliano Ramos (c é falsa); o livro mantém forte reflexão metaficcional e existencial (d é falsa)."
+                              },
+                              {
+                                  "id":  "obra-hora-estrela-q2",
+                                  "enunciado":  "A escolha de um narrador homem, culto e relativamente privilegiado — Rodrigo S.M. — para contar a história de Macabéa dialoga com qual questão central discutida pela crítica pós-moderna?",
+                                  "alternativas":  {
+                                                       "a":  "A ideia de que qualquer narrador, não importa sua origem, representa fielmente a experiência do outro.",
+                                                       "b":  "A defesa de que só narradores oniscientes garantem objetividade plena ao texto literário, ideal que Rodrigo S.M. buscaria alcançar como narrador.",
+                                                       "c":  "A desconfiança quanto à autoridade de quem narra grupos marginalizados, evidenciando distâncias de classe, gênero e região.",
+                                                       "d":  "A ideia de que a ficção deve evitar refletir sobre o próprio ato de narrar, afastando-se da metaficção que marca boa parte da prosa da autora."
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "O romance expõe justamente a distância entre quem narra (culto, homem) e quem é narrada (pobre, mulher, migrante), questionando a autoridade dessa representação, ao contrário do que sugerem as demais alternativas."
+                              },
+                              {
+                                  "id":  "obra-hora-estrela-q3",
+                                  "enunciado":  "Assinale a alternativa correta sobre a personagem Macabéa.",
+                                  "alternativas":  {
+                                                       "a":  "É uma datilógrafa nordestina que tem breve relacionamento com Olímpico, trocado por Glória, e morre atropelada ao final.",
+                                                       "b":  "É a narradora do romance, contando em primeira pessoa a própria trajetória de vida, papel que cabe, na verdade, a Rodrigo S.M.",
+                                                       "c":  "É uma advogada bem-sucedida que decide abandonar a carreira para retornar à sua cidade natal, quando na verdade Macabéa é datilógrafa pobre no Rio.",
+                                                       "d":  "É uma datilógrafa nordestina que mantém, ao longo da obra, um relacionamento estável e duradouro com Olímpico."
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "Olímpico deixa Macabéa por Glória, e o romance termina com o atropelamento da protagonista (a e c são falsas por invenção de detalhes); o narrador é Rodrigo S.M., não a própria Macabéa (d é falsa)."
+                              },
+                              {
+                                  "id":  "obra-hora-estrela-q4",
+                                  "enunciado":  "Comparando A Hora da Estrela com Vidas Secas, de Graciliano Ramos, é possível afirmar que ambas as obras têm em comum:",
+                                  "alternativas":  {
+                                                       "a":  "A ambientação exclusiva no sertão nordestino durante um longo período de seca, cenário que também define por completo A Hora da Estrela.",
+                                                       "b":  "O emprego de uma linguagem rebuscada e repleta de neologismos eruditos em ambas as obras, traço que aproximaria os dois romances.",
+                                                       "c":  "O interesse em dar visibilidade literária a personagens pobres, ainda que por estratégias narrativas bem diferentes.",
+                                                       "d":  "O uso de um narrador em primeira pessoa que é também o protagonista da própria história, recurso ausente tanto em Vidas Secas quanto na Hora da Estrela."
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "Ambas humanizam personagens pobres e marginalizados, mas por caminhos formais distintos: nenhuma usa narrador-protagonista em primeira pessoa (b é falsa), Hora da Estrela se passa majoritariamente no Rio de Janeiro (c é falsa) e Vidas Secas usa linguagem propositalmente enxuta, não rebuscada (d é falsa)."
+                              },
+                              {
+                                  "id":  "obra-hora-estrela-q5",
+                                  "texto_apoio":  "O narrador Rodrigo S.M. hesita, se corrige e questiona diversas vezes sua própria capacidade de narrar a vida de Macabéa.",
+                                  "enunciado":  "Esse procedimento narrativo tem o efeito de:",
+                                  "alternativas":  {
+                                                       "a":  "Tornar o romance mais objetivo, já que a hesitação garante uma descrição neutra dos fatos narrados sobre Macabéa.",
+                                                       "b":  "Diminuir a importância de Macabéa, tornando-a mera coadjuvante do próprio narrador, que passaria a ser o verdadeiro centro do romance.",
+                                                       "c":  "Evidenciar o processo de construção da narrativa como algo problemático, expondo os limites de quem narra o outro.",
+                                                       "d":  "Aproximar o romance do gênero policial, com as hesitações funcionando como pistas de um crime cometido contra a protagonista."
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "As hesitações do narrador expõem a fragilidade e as escolhas envolvidas em narrar uma personagem tão distante de sua realidade, reforçando o caráter metaficcional da obra, e não sua objetividade (a) nem a transformando em gênero policial (d)."
+                              }
+                          ],
+    "obra-torto-arado":  [
+                             {
+                                 "id":  "obra-torto-arado-q1",
+                                 "enunciado":  "Torto Arado, de Itamar Vieira Junior, publicado em 2019, tornou-se um dos maiores fenômenos editoriais da literatura brasileira recente. Sobre seu autor e o contexto de produção da obra, é correto afirmar que:",
+                                 "alternativas":  {
+                                                      "a":  "Publicou Torto Arado como seu romance de estreia, sem nenhuma obra anterior em prosa, ignorando o livro de contos que já havia lançado antes.",
+                                                      "b":  "Escreveu o romance ainda no século XX, texto que ficou inédito até ser publicado postumamente, décadas após a morte do autor.",
+                                                      "c":  "Nunca teve contato direto com comunidades rurais, baseando-se apenas em pesquisas bibliográficas estrangeiras sobre o tema.",
+                                                      "d":  "É baiano, tem formação em geografia e doutorado em estudos étnicos, experiência que informa o universo rural do romance."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "Itamar Vieira Junior é baiano, geógrafo e doutor em estudos étnicos e africanos, formação que dialoga com os temas do livro. O romance foi escrito e publicado no século XXI, não postumamente (b é falsa), o autor teve contato direto com o tema em pesquisas de campo (c é falsa) e já havia publicado obra anterior (d é falsa)."
+                             },
+                             {
+                                 "id":  "obra-torto-arado-q2",
+                                 "enunciado":  "Torto Arado retrata relações de trabalho em uma fazenda baiana marcadas por dívidas, dependência e falta de autonomia dos moradores da terra. Essa representação dialoga com o eixo modernidade/pós-modernidade cobrado pela banca porque:",
+                                 "alternativas":  {
+                                                      "a":  "Demonstra que, após a abolição, o Brasil eliminou por completo o trabalho servil no campo, encerrando toda forma de exploração rural no país.",
+                                                      "b":  "Sustenta que a vida urbana moderna e a vida rural do romance são realidades sem qualquer conexão histórica ou social entre si.",
+                                                      "c":  "Defende que o atraso do campo é resultado exclusivo do clima da região, sem relação alguma com heranças históricas do país.",
+                                                      "d":  "Evidencia como estruturas herdadas da escravidão persistem num país formalmente moderno, revelando limites da modernização institucional."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "O romance mostra justamente o contrário da alternativa a: práticas próximas da servidão persistem muito depois da abolição formal, revelando que a modernização institucional não elimina estruturas sociais arcaicas, o que também contraria as alternativas c e d."
+                             },
+                             {
+                                 "id":  "obra-torto-arado-q3",
+                                 "enunciado":  "Sobre a estrutura narrativa de Torto Arado, é correto afirmar que:",
+                                 "alternativas":  {
+                                                      "a":  "É contada exclusivamente por meio de cartas trocadas entre as personagens ao longo de várias décadas.",
+                                                      "b":  "Divide-se em partes narradas por vozes diferentes, incluindo as irmãs e uma voz da religiosidade afro-brasileira.",
+                                                      "c":  "Adota uma estrutura em versos, aproximando-se formalmente da poesia épica de tradição oral, recurso frequente na literatura de cordel.",
+                                                      "d":  "É narrada inteiramente em terceira pessoa, por um narrador alheio a toda a comunidade retratada na obra."
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "O romance é dividido em partes narradas por Bibiana, por Belonísia e por uma voz ligada às entidades e à religiosidade afro-brasileira da comunidade, e não por um único narrador externo (a), por cartas (c) ou em versos (d)."
+                             },
+                             {
+                                 "id":  "obra-torto-arado-q4",
+                                 "enunciado":  "Tanto Torto Arado quanto Vidas Secas retratam realidades rurais marcadas pela precariedade, mas se diferenciam, entre outros aspectos, porque:",
+                                 "alternativas":  {
+                                                      "a":  "As duas obras se passam no mesmo estado e na mesma década, retratando a mesma comunidade rural e os mesmos conflitos sociais.",
+                                                      "b":  "Vidas Secas dá grande destaque à religiosidade afro-brasileira, quando na verdade é Torto Arado que enfatiza esse tema.",
+                                                      "c":  "Vidas Secas é do século XXI, enquanto Torto Arado é uma obra do início do XX, invertendo as datas reais de publicação.",
+                                                      "d":  "Torto Arado dá centralidade à religiosidade afro-brasileira e a personagens quilombolas, o que não ocorre em Vidas Secas."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "A religiosidade afro-brasileira e a questão quilombola são centrais em Torto Arado, não em Vidas Secas (a inverte essa relação); as obras têm ambientações e décadas distintas (c é falsa) e as datas de publicação estão invertidas em d (Vidas Secas é de 1938, Torto Arado de 2019)."
+                             },
+                             {
+                                 "id":  "obra-torto-arado-q5",
+                                 "texto_apoio":  "Um episódio central da infância das irmãs Bibiana e Belonísia é o contato com uma faca guardada sob a cama da avó, que resulta em um grave acidente.",
+                                 "enunciado":  "Esse episódio pode ser interpretado como:",
+                                 "alternativas":  {
+                                                      "a":  "Um marco que atravessa a vida das irmãs, ligando-as a uma herança de silêncios e forças da comunidade rural.",
+                                                      "b":  "Um episódio cômico que alivia a tensão dramática, sem maiores consequências no enredo.",
+                                                      "c":  "Um símbolo do rompimento definitivo e feliz das irmãs com as tradições da comunidade.",
+                                                      "d":  "Uma alegoria da modernização tecnológica que chega à fazenda por novos instrumentos agrícolas."
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "O acidente com a faca, que deixa Belonísia muda, é um marco simbólico que acompanha as duas irmãs ao longo de todo o romance, e não um episódio cômico, tecnológico ou de ruptura feliz com a comunidade."
+                             }
+                         ],
+    "obra-vidas-secas":  [
+                             {
+                                 "id":  "obra-vidas-secas-q1",
+                                 "enunciado":  "Vidas Secas, publicado em 1938 por Graciliano Ramos, é frequentemente associado à chamada geração de 30 do romance regionalista/social brasileiro. Sobre o autor e o contexto da obra, é correto afirmar que:",
+                                 "alternativas":  {
+                                                      "a":  "Era alagoano, esteve preso em 1936 por acusação política, e a obra integra sua produção regionalista de denúncia social.",
+                                                      "b":  "Foi originalmente escrito em francês, traduzido ao português apenas na década de 1960, décadas após sua primeira edição.",
+                                                      "c":  "Era carioca e escreveu a obra a partir de viagens turísticas feitas ao Nordeste do país, sem vínculo pessoal com a região.",
+                                                      "d":  "Foi a única obra em prosa do autor, que dedicou o restante da carreira à poesia, nunca voltando a escrever romances."
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "Graciliano Ramos nasceu em Alagoas e foi preso em 1936 sob acusação de envolvimento comunista durante o Estado Novo, experiência relatada em Memórias do Cárcere. Ele escreveu vários romances em prosa (c é falsa) e a obra foi escrita originalmente em português (d é falsa)."
+                             },
+                             {
+                                 "id":  "obra-vidas-secas-q2",
+                                 "enunciado":  "A linguagem econômica e o vocabulário reduzido das personagens de Vidas Secas reforçam, no plano da forma, qual aspecto discutido pela banca no eixo modernidade/pós-modernidade?",
+                                 "alternativas":  {
+                                                      "a":  "A defesa de que a linguagem rebuscada é sempre superior à linguagem simples na ficção, hierarquia que a obra de Graciliano contraria.",
+                                                      "b":  "A celebração da vida no sertão como modelo de simplicidade para as grandes cidades, romantizando a pobreza como valor a ser imitado.",
+                                                      "c":  "A denúncia de um Brasil arcaico e marginalizado, cuja privação persiste à margem do projeto de modernização nacional.",
+                                                      "d":  "A ideia de que a modernização avançou de modo uniforme, beneficiando igualmente todas as regiões do país, sem disparidades internas."
+                                                  },
+                                 "resposta":  "c",
+                                 "explicacao":  "A linguagem seca reflete a privação material e simbólica de personagens à margem da modernização do país, o oposto de uma modernização uniforme (a) e sem qualquer intenção de celebrar o sertão (d) ou hierarquizar estilos de linguagem (c)."
+                             },
+                             {
+                                 "id":  "obra-vidas-secas-q3",
+                                 "enunciado":  "Sobre os membros da família retratada em Vidas Secas, é correto afirmar que:",
+                                 "alternativas":  {
+                                                      "a":  "A cachorra Baleia é apenas uma alegoria da seca, sem existência concreta na trama.",
+                                                      "b":  "Fabiano abandona a família logo no início da obra para trabalhar em fazenda distante.",
+                                                      "c":  "É composta por Fabiano, Sinha Vitória, dois filhos sem nome revelado e a cachorra Baleia.",
+                                                      "d":  "Fabiano e Sinha Vitória têm três filhos, todos nomeados explicitamente ao longo da narrativa."
+                                                  },
+                                 "resposta":  "c",
+                                 "explicacao":  "A família tem apenas dois filhos, cujos nomes nunca são revelados ao leitor (a é falsa); Baleia é uma personagem concreta, com capítulo narrado a partir de sua própria percepção (c é falsa); e a família permanece unida durante toda a fuga da seca (d é falsa)."
+                             },
+                             {
+                                 "id":  "obra-vidas-secas-q4",
+                                 "enunciado":  "Em comparação com Memórias Póstumas de Brás Cubas, Vidas Secas se aproxima de uma tradição literária diferente porque:",
+                                 "alternativas":  {
+                                                      "a":  "Ambas adotam o mesmo narrador defunto, que relata os fatos após a própria morte, recurso na verdade exclusivo de Brás Cubas.",
+                                                      "b":  "As duas obras narram exatamente o mesmo período histórico, o da Guerra de Canudos, conflito ausente em ambas as narrativas.",
+                                                      "c":  "Vidas Secas é anterior a Brás Cubas, tendo influenciado diretamente sua técnica narrativa, quando a cronologia real é o inverso.",
+                                                      "d":  "Vidas Secas segue a tradição regionalista de denúncia social, enquanto Brás Cubas se destaca pela ironia de um narrador culto."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "Vidas Secas (1938) segue a tradição regionalista e social da geração de 30, enquanto Brás Cubas (1881) se destaca pela ironia e experimentação de um narrador defunto e culto; não há narrador defunto em Vidas Secas (a é falsa) e a cronologia de d está invertida."
+                             },
+                             {
+                                 "id":  "obra-vidas-secas-q5",
+                                 "texto_apoio":  "Em determinado capítulo, Fabiano é preso e humilhado por um soldado sem que tenha cometido qualquer crime evidente.",
+                                 "enunciado":  "Esse episódio pode ser interpretado como:",
+                                 "alternativas":  {
+                                                      "a":  "Uma defesa implícita da atuação das autoridades locais na manutenção da ordem no sertão.",
+                                                      "b":  "Uma crítica à arbitrariedade e à violência das relações de poder que atingem os mais pobres.",
+                                                      "c":  "Um momento de alívio cômico que contrasta com o tom geral sério da obra.",
+                                                      "d":  "Um episódio isolado, sem relação com as demais críticas sociais presentes no romance."
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "A prisão injusta de Fabiano evidencia a arbitrariedade do poder sobre os mais vulneráveis, reforçando a crítica social do romance, e não uma defesa das autoridades (c), um episódio isolado (b) ou cômico (d)."
+                             }
+                         ],
+    "obra-bem-amado":  [
+                           {
+                               "id":  "obra-bem-amado-q1",
+                               "enunciado":  "A peça \u0027O Bem-Amado\u0027, de Dias Gomes, tornou-se ainda mais conhecida do público brasileiro após ser adaptada para a televisão. Sobre essa adaptação, é correto afirmar que:",
+                               "alternativas":  {
+                                                    "a":  "Consistiu numa minissérie de apenas quatro capítulos, exibida originalmente pela extinta TV Tupi, sem repercussão significativa junto ao público.",
+                                                    "b":  "Foi exibida pela TV Globo no início dos anos 1970 e tornou-se a primeira novela brasileira majoritariamente gravada e exibida em cores.",
+                                                    "c":  "Foi adaptada exclusivamente para o cinema em uma produção independente dos anos 1980, nunca tendo sido exibida em formato de televisão.",
+                                                    "d":  "Foi produzida ainda na década de 1950, antes da existência da TV Globo, por uma emissora regional baiana então pioneira na região."
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A adaptação televisiva de \u0027O Bem-Amado\u0027 foi ao ar pela TV Globo no início dos anos 1970 e é lembrada como a primeira telenovela brasileira majoritariamente em cores, marco na consolidação da teledramaturgia nacional."
+                           },
+                           {
+                               "id":  "obra-bem-amado-q2",
+                               "enunciado":  "A sátira construída por Dias Gomes em \u0027O Bem-Amado\u0027 relaciona-se ao eixo modernidade-pós-modernidade sobretudo porque:",
+                               "alternativas":  {
+                                                    "a":  "expõe o contraste entre um discurso de progresso e modernização e a permanência de práticas políticas arcaicas e clientelistas.",
+                                                    "b":  "propõe que somente reformas educacionais radicais seriam capazes de modernizar a administração pública municipal.",
+                                                    "c":  "narra a transição pacífica e bem-sucedida de Sucupira de uma economia agrária para uma economia industrial moderna.",
+                                                    "d":  "defende que o avanço tecnológico das cidades grandes deveria substituir por completo a política tradicional do interior."
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A peça satiriza o descompasso entre a retórica modernizadora de Odorico e a manutenção de práticas de poder pessoal e clientelista típicas do coronelismo, tema central do eixo modernidade-pós-modernidade."
+                           },
+                           {
+                               "id":  "obra-bem-amado-q3",
+                               "enunciado":  "No enredo de \u0027O Bem-Amado\u0027, a obra prometida por Odorico Paraguaçu durante a campanha eleitoral e a obra efetivamente construída são, respectivamente:",
+                               "alternativas":  {
+                                                    "a":  "um hospital prometido durante a campanha eleitoral e um cemitério construído em seu lugar.",
+                                                    "b":  "um hospital prometido e, de fato, um hospital de pequeno porte, construído ainda que com atraso.",
+                                                    "c":  "uma estrada prometida na campanha e um mercado municipal construído posteriormente em seu lugar.",
+                                                    "d":  "uma escola prometida durante a campanha e uma praça pública construída depois em seu lugar, já concluída."
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Odorico prometeu um hospital, mas, sem verba suficiente, decide construir um cemitério, mais barato e de inauguração mais vantajosa politicamente — o que gera o conflito cômico central da peça, já que falta um primeiro morto para inaugurá-lo."
+                           },
+                           {
+                               "id":  "obra-bem-amado-q4",
+                               "enunciado":  "Tanto \u0027O Bem-Amado\u0027, de Dias Gomes, quanto o \u0027Manifesto Antropófago\u0027, de Oswald de Andrade, integram o repertório de obras obrigatórias por também compartilharem:",
+                               "alternativas":  {
+                                                    "a":  "uma estrutura idêntica de peça teatral em três atos, com personagens e enredo praticamente idênticos entre as duas obras.",
+                                                    "b":  "uma origem estrangeira, já que ambos os autores teriam nascido e vivido fora do Brasil durante toda a vida, segundo essa leitura equivocada.",
+                                                    "c":  "o mesmo período histórico de composição, tendo sido escritas e publicadas exatamente no mesmo ano da década de 1920.",
+                                                    "d":  "uma reflexão crítica sobre aspectos da formação social e cultural brasileira, ainda que por meio de gêneros e recursos muito diferentes."
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Apesar de pertencerem a gêneros muito diferentes — comédia teatral e manifesto modernista —, ambas as obras oferecem, à sua maneira, uma crítica da formação social, política ou cultural do Brasil, o que justifica sua presença conjunta no eixo de leitura da banca."
+                           },
+                           {
+                               "id":  "obra-bem-amado-q5",
+                               "enunciado":  "A ansiedade de Odorico Paraguaçu para que alguém morra em Sucupira, depois de concluído o cemitério, pode ser interpretada como uma crítica a:",
+                               "alternativas":  {
+                                                    "a":  "um sistema de saúde pública eficiente, que reduziu tanto a mortalidade em Sucupira que o cemitério recém-construído perdeu completamente sua função.",
+                                                    "b":  "uma crença religiosa específica de Sucupira que proibia sepultamentos até que um ritual de purificação fosse antes realizado pelo padre local.",
+                                                    "c":  "uma política movida por obras de vitrine, mais preocupada com a inauguração e a imagem do que com a utilidade real para a população.",
+                                                    "d":  "uma sociedade extremamente violenta, na qual mortes são tão frequentes que se tornam banais para os habitantes locais, indiferentes à tragédia."
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A situação cômica evidencia como a política de Odorico é guiada pela aparência e pela inauguração espetacular de obras, mais do que por sua utilidade efetiva — crítica central da peça à política de fachada."
+                           }
+                       ],
+    "obra-manifesto-antropofago":  [
+                                       {
+                                           "id":  "obra-manifesto-antropofago-q1",
+                                           "enunciado":  "O \u0027Manifesto Antropófago\u0027, de Oswald de Andrade, foi publicado em 1928 em estreita relação com:",
+                                           "alternativas":  {
+                                                                "a":  "a fundação da Academia Brasileira de Letras, ocorrida no mesmo ano de publicação do manifesto.",
+                                                                "b":  "um congresso internacional de escritores realizado em Paris, do qual Oswald de Andrade teria participado como convidado.",
+                                                                "c":  "a promulgação da primeira Constituição republicana do Brasil, que Oswald de Andrade tomou como modelo político.",
+                                                                "d":  "o quadro \u0027Abaporu\u0027, pintado por Tarsila do Amaral, que teria inspirado diretamente a ideia da antropofagia cultural."
+                                                            },
+                                           "resposta":  "d",
+                                           "explicacao":  "O manifesto nasceu associado ao quadro \u0027Abaporu\u0027 (1928), de Tarsila do Amaral, cuja figura de pés enormes inspirou o nome e a ideia central do movimento antropofágico liderado por Oswald de Andrade."
+                                       },
+                                       {
+                                           "id":  "obra-manifesto-antropofago-q2",
+                                           "enunciado":  "A proposta da \u0027antropofagia cultural\u0027 apresentada no manifesto de Oswald de Andrade consiste, essencialmente, em:",
+                                           "alternativas":  {
+                                                                "a":  "copiar fielmente os modelos artísticos europeus, sem qualquer adaptação às condições brasileiras.",
+                                                                "b":  "rejeitar por completo qualquer influência estrangeira, isolando a cultura brasileira do contato com outras tradições.",
+                                                                "c":  "devorar criticamente referências estrangeiras e nacionais, transformando-as em algo novo e genuinamente brasileiro.",
+                                                                "d":  "restringir a produção cultural brasileira exclusivamente a temas e formas de origem indígena."
+                                                            },
+                                           "resposta":  "c",
+                                           "explicacao":  "A antropofagia proposta por Oswald não é rejeição nem cópia, mas uma absorção crítica e transformadora de referências diversas, produzindo uma síntese cultural original e brasileira."
+                                       },
+                                       {
+                                           "id":  "obra-manifesto-antropofago-q3",
+                                           "enunciado":  "O \u0027Manifesto Antropófago\u0027 traz uma datação simbólica que substitui o calendário convencional. Essa datação faz referência:",
+                                           "alternativas":  {
+                                                                "a":  "à lenda da deglutição do primeiro bispo do Brasil por indígenas, transformada em novo marco temporal do texto.",
+                                                                "b":  "à chegada da corte portuguesa ao Brasil em 1808, tomada como novo marco fundador da cultura nacional.",
+                                                                "c":  "à Proclamação da República, em 1889, entendida como o início de uma nova era cultural brasileira.",
+                                                                "d":  "à Semana de Arte Moderna de 1922, cujo aniversário serviria de referência para contar os anos do manifesto."
+                                                            },
+                                           "resposta":  "a",
+                                           "explicacao":  "O manifesto é datado como \u0027Anno 374 da Deglutição do Bispo Sardinha\u0027, referência irônica à lenda de que indígenas teriam devorado o primeiro bispo do Brasil, ressignificada como novo marco civilizatório do texto."
+                                       },
+                                       {
+                                           "id":  "obra-manifesto-antropofago-q4",
+                                           "enunciado":  "Comparado a \u0027As Meninas\u0027, de Lygia Fagundes Telles, o \u0027Manifesto Antropófago\u0027 se diferencia principalmente por:",
+                                           "alternativas":  {
+                                                                "a":  "adotar a forma de um texto fragmentado e programático, e não a de uma narrativa de ficção com personagens e enredo.",
+                                                                "b":  "utilizar exclusivamente o gênero teatral, assim como a peça de Dias Gomes analisada nesta mesma seção.",
+                                                                "c":  "tratar do mesmo período histórico da ditadura militar brasileira, apenas com foco em personagens diferentes.",
+                                                                "d":  "ser também ambientado num pensionato de estudantes, ainda que com um enredo bem mais curto."
+                                                            },
+                                           "resposta":  "a",
+                                           "explicacao":  "Enquanto \u0027As Meninas\u0027 é um romance com enredo e personagens, o manifesto de Oswald de Andrade é um texto programático, fragmentado e aforismático, sem narrativa ficcional, o que marca uma diferença fundamental de gênero entre as duas obras."
+                                       },
+                                       {
+                                           "id":  "obra-manifesto-antropofago-q5",
+                                           "enunciado":  "O célebre jogo de palavras que funde o nome do povo Tupi à dúvida existencial de um personagem shakespeariano ilustra, no manifesto, a ideia de que:",
+                                           "alternativas":  {
+                                                                "a":  "a língua inglesa deveria substituir por completo o português como idioma oficial da produção literária brasileira moderna a partir de 1922.",
+                                                                "b":  "a herança cultural europeia pode ser assimilada e recriada a partir de uma perspectiva brasileira e indígena, e não simplesmente descartada.",
+                                                                "c":  "a cultura brasileira deveria escolher definitivamente entre a tradição indígena e a tradição europeia, rejeitando qualquer forma de síntese entre elas.",
+                                                                "d":  "o teatro elisabetano seria o único modelo estético válido para toda a literatura brasileira produzida ao longo do século XX."
+                                                            },
+                                           "resposta":  "b",
+                                           "explicacao":  "O trocadilho ilustra exatamente a lógica antropofágica: a referência europeia (Hamlet) não é rejeitada nem copiada, mas devorada e recriada a partir de uma perspectiva brasileira e indígena, sintetizando o método proposto pelo manifesto."
+                                       }
+                                   ],
+    "obra-as-meninas":  [
+                            {
+                                "id":  "obra-as-meninas-q1",
+                                "enunciado":  "O romance \u0027As Meninas\u0027, de Lygia Fagundes Telles, foi publicado em 1973, período que corresponde:",
+                                "alternativas":  {
+                                                     "a":  "à fase de maior recrudescimento da repressão durante a ditadura militar brasileira, após o AI-5.",
+                                                     "b":  "ao período de redemocratização do Brasil, já com eleições diretas para presidente.",
+                                                     "c":  "à Segunda Guerra Mundial, quando a autora começou sua carreira como escritora.",
+                                                     "d":  "ao início da colonização portuguesa no Brasil, retratado de forma alegórica pela autora."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Publicado em 1973, o romance surge durante os chamados \u0027anos de chumbo\u0027, fase de maior repressão da ditadura militar após o Ato Institucional nº 5, de 1968."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q2",
+                                "enunciado":  "A estrutura narrativa de \u0027As Meninas\u0027, que alterna os pontos de vista de Lorena, Lia e Ana Clara, contribui para o eixo modernidade-pós-modernidade porque:",
+                                "alternativas":  {
+                                                     "a":  "recusa um narrador único e onisciente, questionando a existência de uma verdade única sobre a realidade política e afetiva retratada.",
+                                                     "b":  "elimina qualquer subjetividade das personagens, privilegiando uma descrição objetiva e distanciada dos acontecimentos narrados no romance.",
+                                                     "c":  "adota um narrador onisciente clássico, reforçando uma visão totalizante e estável da sociedade brasileira da época retratada.",
+                                                     "d":  "concentra toda a narrativa exclusivamente no ponto de vista de uma única personagem, Ana Clara, ignorando por completo Lorena e Lia."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "A fragmentação e a multiplicidade de vozes narrativas do romance recusam uma perspectiva única e totalizante, gesto formal que dialoga com a crise das certezas típica da passagem para a pós-modernidade."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q3",
+                                "enunciado":  "Das três protagonistas de \u0027As Meninas\u0027, a que se envolve diretamente na luta armada clandestina contra a ditadura militar é:",
+                                "alternativas":  {
+                                                     "a":  "Lia, engajada na resistência política ao regime militar.",
+                                                     "b":  "Lorena, que vive um romance idealizado com um homem casado.",
+                                                     "c":  "Nenhuma das três, já que todas evitam qualquer envolvimento político.",
+                                                     "d":  "Ana Clara, que enfrenta problemas de dependência de drogas."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Lia é a personagem politicamente engajada do romance, envolvida na resistência clandestina contra a ditadura militar, em contraste com as trajetórias de Lorena e Ana Clara."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q4",
+                                "enunciado":  "Assim como \u0027O Bem-Amado\u0027, de Dias Gomes, o romance \u0027As Meninas\u0027 também pode ser lido como uma obra que:",
+                                "alternativas":  {
+                                                     "a":  "utiliza o humor como principal recurso para criticar diretamente as instituições políticas locais.",
+                                                     "b":  "narra exclusivamente acontecimentos ambientados no interior nordestino do país, sem qualquer cenário urbano ou universitário.",
+                                                     "c":  "adota a forma de comédia teatral em três atos, com personagens tipicamente regionais e ambientação exclusivamente rural.",
+                                                     "d":  "reflete, ainda que por vias distintas, tensões políticas e sociais vividas no Brasil sob a ditadura militar."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Embora com tons e recursos muito diferentes — comédia satírica versus romance psicológico —, ambas as obras dialogam com tensões políticas do Brasil sob regimes autoritários, cada uma à sua maneira."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q5",
+                                "enunciado":  "O desfecho de \u0027As Meninas\u0027, em que os destinos das três protagonistas se separam de forma abrupta, pode ser interpretado como uma representação de:",
+                                "alternativas":  {
+                                                     "a":  "a ausência total de consequências pessoais decorrentes do contexto político vivido pelas personagens.",
+                                                     "b":  "a vitória definitiva dos valores tradicionais de família e religião sobre o engajamento político.",
+                                                     "c":  "uma geração fragmentada por respostas divergentes às pressões políticas e sociais da época.",
+                                                     "d":  "um final feliz e harmonioso, em que as três amigas reconstroem juntas suas vidas."
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "A separação abrupta e trágica dos destinos das três personagens simboliza a fragmentação de uma geração dividida entre fé, desejo e engajamento político sob a ditadura."
+                            }
+                        ],
+    "obra-barroco-tropical":  [
+                                  {
+                                      "id":  "obra-barroco-tropical-q1",
+                                      "enunciado":  "O romance \u0027Barroco Tropical\u0027, de José Eduardo Agualusa, publicado em 2009, retrata Luanda num contexto histórico marcado sobretudo:",
+                                      "alternativas":  {
+                                                           "a":  "pela luta pela independência de Angola, ainda em curso durante a escrita do romance.",
+                                                           "b":  "pelo boom econômico do petróleo no período posterior ao fim da guerra civil angolana.",
+                                                           "c":  "pela crise do petróleo mundial dos anos 1970, que teria afetado diretamente Angola.",
+                                                           "d":  "pela colonização portuguesa inicial do território angolano, no século XVI."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "O romance situa-se no período posterior ao fim da guerra civil angolana (2002), marcado pelo boom de reconstrução alimentado pela exportação de petróleo e pela ascensão de novas elites em Luanda."
+                                  },
+                                  {
+                                      "id":  "obra-barroco-tropical-q2",
+                                      "enunciado":  "A inserção de \u0027Barroco Tropical\u0027 no eixo de globalização da banca se justifica principalmente porque a obra:",
+                                      "alternativas":  {
+                                                           "a":  "narra exclusivamente eventos ocorridos em território europeu, sem qualquer referência direta a Angola ou à sua capital, Luanda.",
+                                                           "b":  "foi escrita originalmente em inglês e depois traduzida para o português apenas para atender ao mercado editorial brasileiro.",
+                                                           "c":  "é exemplo de circulação de bens simbólicos em português entre continentes, unindo autor angolano e público brasileiro.",
+                                                           "d":  "defende o isolamento cultural de Angola em relação aos demais países de língua portuguesa, incluindo o próprio Brasil."
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "Escrito por um autor angolano e amplamente lido no Brasil e em Portugal, o romance exemplifica a circulação global de bens simbólicos em língua portuguesa, tema central do eixo de globalização."
+                                  },
+                                  {
+                                      "id":  "obra-barroco-tropical-q3",
+                                      "enunciado":  "A trama de \u0027Barroco Tropical\u0027 combina uma investigação de tom policial com:",
+                                      "alternativas":  {
+                                                           "a":  "uma estrutura epistolar, composta inteiramente por cartas trocadas entre as personagens.",
+                                                           "b":  "diálogos exclusivamente em versos, no formato de uma peça de teatro em atos.",
+                                                           "c":  "uma reconstituição histórica rigorosa e estritamente documental da guerra civil angolana.",
+                                                           "d":  "elementos de realismo mágico e uma narrativa de tom onírico e fantasioso."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "Agualusa combina, em \u0027Barroco Tropical\u0027, uma investigação de tom policial a elementos de realismo mágico e a uma narrativa onírica, marca recorrente de sua ficção."
+                                  },
+                                  {
+                                      "id":  "obra-barroco-tropical-q4",
+                                      "enunciado":  "Diferentemente de \u0027O Bem-Amado\u0027 e \u0027As Meninas\u0027, que tratam de contextos internos ao Brasil, \u0027Barroco Tropical\u0027 se distingue por:",
+                                      "alternativas":  {
+                                                           "a":  "não apresentar nenhuma forma de crítica social ou política em seu enredo, ao contrário das demais obras do grupo.",
+                                                           "b":  "situar sua crítica social num país africano de língua portuguesa, ampliando o escopo lusófono das obras obrigatórias.",
+                                                           "c":  "abordar exclusivamente temas relacionados à história antiga da Europa medieval, sem qualquer conexão com a realidade africana.",
+                                                           "d":  "ser a única obra do grupo escrita originalmente em espanhol, antes de traduzida para o português do Brasil."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "Enquanto as demais obras têm o Brasil como cenário direto, \u0027Barroco Tropical\u0027 desloca a crítica social para Angola, ampliando o repertório lusófono estudado e reforçando a dimensão de circulação global da língua portuguesa."
+                                  },
+                                  {
+                                      "id":  "obra-barroco-tropical-q5",
+                                      "enunciado":  "O título \u0027Barroco Tropical\u0027 sugere uma leitura interpretativa em que o excesso estético barroco se relaciona a:",
+                                      "alternativas":  {
+                                                           "a":  "uma homenagem nostálgica e não crítica à arquitetura colonial portuguesa remanescente na cidade de Luanda.",
+                                                           "b":  "uma descrição técnica e neutra do processo de extração petrolífera realizado ao longo da costa angolana.",
+                                                           "c":  "uma crítica sóbria e minimalista à sociedade angolana, sem qualquer traço de exagero estilístico.",
+                                                           "d":  "um retrato de contrastes e excessos morais e sociais das novas elites enriquecidas pelo petróleo em Angola."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "O \u0027barroco tropical\u0027 do título dialoga com o excesso e os contrastes morais e sociais das elites enriquecidas pelo petróleo, retratados de forma crítica pelo romance."
+                                  }
+                              ],
+    "obra-arte-reza":  [
+                           {
+                               "id":  "obra-arte-reza-q1",
+                               "enunciado":  "A peça \u0027Arte\u0027, de Yasmina Reza, estreou em Paris em 1994 e alcançou reconhecimento internacional nas décadas seguintes. Sobre o contexto de produção e a estrutura da obra, é correto afirmar que",
+                               "alternativas":  {
+                                                    "a":  "a peça foi escrita originalmente em inglês por uma autora britânica e só posteriormente traduzida para o francês, língua de sua estreia mundial.",
+                                                    "b":  "a peça possui cinco atos estruturados como uma tragédia clássica, seguindo rigorosamente as unidades de tempo, espaço e ação, formato hoje considerado incomum no teatro contemporâneo europeu.",
+                                                    "c":  "a peça foi escrita como roteiro cinematográfico e adaptada para o teatro somente depois do sucesso de um filme homônimo protagonizado por atores norte-americanos renomados.",
+                                                    "d":  "a peça é organizada em ato único, com cenas fluidas e falas que alternam diálogos e monólogos diretos ao público, tendo conquistado prêmios em Paris, Londres e Nova York."
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "\u0027Arte\u0027 foi escrita em francês pela autora franco-húngara Yasmina Reza e estreou em Paris em 1994, montada em ato único com falas que combinam diálogo e monólogos diretos ao público; alcançou sucesso em Londres e na Broadway, recebendo o Tony Award de melhor peça em 1998."
+                           },
+                           {
+                               "id":  "obra-arte-reza-q2",
+                               "enunciado":  "O conflito entre Serge e Marc a respeito do quadro branco comprado por um preço altíssimo permite discutir, no eixo globalização, principalmente",
+                               "alternativas":  {
+                                                    "a":  "a demonstração de que toda arte contemporânea é uma fraude deliberada, sem qualquer legitimidade estética reconhecida pelos museus e críticos especializados.",
+                                                    "b":  "a crítica à completa inexistência de um mercado de arte anterior ao século XX, quando as obras circulavam sem preço nem disputa comercial.",
+                                                    "c":  "a ideia de fetichismo da mercadoria, pela qual um objeto passa a valer pelo prestígio e pela convenção social que o cercam, e não por qualidades intrínsecas.",
+                                                    "d":  "a comprovação de que o valor de uma tela depende apenas de suas dimensões físicas e da quantidade de material empregado em sua confecção."
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A peça ilustra o conceito de fetichismo da mercadoria (Marx): o quadro branco vale o que vale por convenções sociais e prestígio de mercado, não por atributos visíveis da obra — debate central para pensar a globalização do mercado de arte contemporânea."
+                           },
+                           {
+                               "id":  "obra-arte-reza-q3",
+                               "enunciado":  "Sobre os elementos concretos da trama de \u0027Arte\u0027, assinale a alternativa correta.",
+                               "alternativas":  {
+                                                    "a":  "Serge compra uma tela branca com finas linhas diagonais por uma quantia exorbitante, o que provoca a fúria de Marc.",
+                                                    "b":  "Yvan é quem compra o quadro branco e o exibe com orgulho logo na primeira cena da peça, contrariando a opinião inicial dos outros dois amigos presentes.",
+                                                    "c":  "Marc é o personagem prestes a se casar, o que o deixa mais tolerante com os gastos supérfluos de Serge do que costuma ser em outras circunstâncias.",
+                                                    "d":  "os três amigos concordam, desde o início da peça, que a tela é uma obra-prima indiscutível para todos os presentes na sala de estar."
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "É Serge quem adquire a tela branca com listras diagonais por um preço altíssimo, provocando a reação exaltada de Marc; é Yvan, e não Marc, quem está prestes a se casar e enfrenta dilemas familiares."
+                           },
+                           {
+                               "id":  "obra-arte-reza-q4",
+                               "enunciado":  "Marc e Yvan representam, na peça, posturas distintas diante do conflito gerado pela compra do quadro. Pode-se afirmar que",
+                               "alternativas":  {
+                                                    "a":  "Marc condena abertamente a compra por considerá-la esteticamente vazia, enquanto Yvan busca conciliar os amigos para evitar o rompimento do grupo.",
+                                                    "b":  "Yvan compra um segundo quadro idêntico só para provocar Marc, o que agrava ainda mais a rivalidade entre os dois amigos ao longo de praticamente toda a peça.",
+                                                    "c":  "Marc apoia integralmente a compra de Serge, ao passo que Yvan é o único a criticar duramente o quadro branco desde a primeira cena até o desfecho da trama.",
+                                                    "d":  "ambos os personagens desprezam igualmente Serge e desejam o fim da amizade dos três já na primeira cena, sem qualquer hesitação ao longo da peça."
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Marc rejeita a compra por julgá-la destituída de valor estético, enquanto Yvan, mais conciliador e às voltas com seus próprios problemas, tenta mediar as tensões para preservar a amizade dos três."
+                           },
+                           {
+                               "id":  "obra-arte-reza-q5",
+                               "enunciado":  "O desfecho de \u0027Arte\u0027, em que Marc aceita ver algo de valor no quadro de Serge, sugere sobretudo que",
+                               "alternativas":  {
+                                                    "a":  "Serge desiste da pintura e a devolve à galeria, reconhecendo publicamente, diante dos amigos, o erro de tê-la comprado por um valor tão alto.",
+                                                    "b":  "Marc foi definitivamente convencido de que o quadro branco é uma obra-prima superior a qualquer pintura figurativa já criada.",
+                                                    "c":  "os três amigos decidem, ao final da peça, encerrar de vez a amizade que os unia havia muitos anos, sem nunca mais voltar a se falar ou se reencontrar.",
+                                                    "d":  "a amizade, para se manter, por vezes exige gestos de concessão e reinterpretação mútua, mais do que a resolução definitiva de um desacordo estético."
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O final da peça é ambíguo e conciliador: Marc chega a \u0027ver\u0027 algo diferente no quadro, num gesto de afeto pela amizade mais do que de conversão estética real — sugerindo que vínculos afetivos sobrevivem por meio de concessões, não de consensos absolutos."
+                           }
+                       ],
+    "obra-mandragora":  [
+                            {
+                                "id":  "obra-mandragora-q1",
+                                "enunciado":  "\u0027A Mandrágora\u0027, comédia escrita por Nicolau Maquiavel no início do século XVI, é frequentemente lida à luz de sua obra política mais famosa. Sobre o contexto de produção da peça, é correto afirmar que",
+                                "alternativas":  {
+                                                     "a":  "foi escrita décadas após a morte do autor, por um discípulo florentino que assinou a obra em sua homenagem.",
+                                                     "b":  "foi escrita por Maquiavel durante os anos de afastamento forçado da vida política ativa em Florença, no início do século XVI.",
+                                                     "c":  "é uma adaptação teatral de uma peça grega clássica, ambientada na Florença renascentista por exigência do patrono que a encomendou.",
+                                                     "d":  "estreou originalmente em Londres, antes de ser traduzida e encenada na Itália apenas no século XIX."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "Maquiavel escreveu \u0027A Mandrágora\u0027 durante o período em que estava afastado da vida política de Florença, após a queda da república e o retorno dos Médici, dedicando-se então à literatura; a peça estreou na própria Itália renascentista, não em Londres nem postumamente."
+                            },
+                            {
+                                "id":  "obra-mandragora-q2",
+                                "enunciado":  "O engenho com que Ligurio arquiteta o plano que envolve o falso remédio de mandrágora ilustra, no eixo modernidade, sobretudo",
+                                "alternativas":  {
+                                                     "a":  "a defesa explícita da castidade e da fidelidade conjugal como valores superiores a qualquer interesse pessoal dos personagens.",
+                                                     "b":  "o cálculo racional de meios para atingir um fim desejado, antecipando a razão instrumental que caracteriza o pensamento moderno.",
+                                                     "c":  "a ideia de que o acaso, e não o cálculo humano, determina inteiramente o desfecho das relações amorosas na comédia renascentista.",
+                                                     "d":  "a crença medieval de que apenas a intervenção divina poderia resolver conflitos amorosos entre indivíduos de classes distintas."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "A trama arquitetada por Ligurio e executada por Callimaco é um exemplo de indivíduos calculando racionalmente os meios mais eficazes para alcançar um fim — o chamado \u0027maquiavelismo\u0027 — antecipando a razão instrumental típica da modernidade."
+                            },
+                            {
+                                "id":  "obra-mandragora-q3",
+                                "enunciado":  "Sobre os personagens e a trama de \u0027A Mandrágora\u0027, assinale a alternativa correta.",
+                                "alternativas":  {
+                                                     "a":  "Nicia é o jovem apaixonado por Lucrezia que arquiteta todo o esquema para conquistá-la, driblando a vigilância do próprio marido dela ao longo da trama.",
+                                                     "b":  "Frate Timoteo é o servo de Callimaco e se recusa, ao final, a colaborar com o plano de enganar Nicia, temendo punição das autoridades religiosas locais.",
+                                                     "c":  "Lucrezia recusa-se, até a última cena, a aceitar qualquer participação no esquema urdido pelos demais personagens da comédia.",
+                                                     "d":  "Callimaco se disfarça de médico para convencer Nicia de que um remédio à base de mandrágora tornará sua esposa fértil."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Callimaco, apaixonado por Lucrezia, finge ser médico para convencer o velho e tolo Messer Nicia de que a poção de mandrágora resolverá sua infertilidade conjugal; é Ligurio quem arquiteta o esquema, e Frate Timoteo, o frade corrupto, colabora com o plano em vez de se recusar."
+                            },
+                            {
+                                "id":  "obra-mandragora-q4",
+                                "enunciado":  "Comparando o \u0027maquiavelismo\u0027 de Ligurio e Callimaco em \u0027A Mandrágora\u0027 com a crítica à razão totalitária presente em \u00271984\u0027, de George Orwell, pode-se afirmar que",
+                                "alternativas":  {
+                                                     "a":  "nenhuma das duas obras trata de temas relacionados a poder, engano ou controle sobre as ações e decisões alheias, temas restritos exclusivamente a tratados filosóficos formais da época.",
+                                                     "b":  "ambas as obras exploram, de formas distintas, as possibilidades do cálculo racional de meios para se atingir determinados fins, ainda que em contextos muito diferentes.",
+                                                     "c":  "\u00271984\u0027 antecede historicamente \u0027A Mandrágora\u0027 e por isso teria influenciado diretamente a construção dos personagens de Maquiavel, hipótese hoje rejeitada pela crítica especializada.",
+                                                     "d":  "as duas obras defendem abertamente que qualquer forma de manipulação é moralmente aceitável, desde que beneficie a coletividade representada pelo Estado."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "Embora em registros e épocas muito distintos — a comédia renascentista de Maquiavel e a distopia totalitária de Orwell —, ambas as obras dialogam com o uso do cálculo racional de meios para atingir fins determinados; \u0027A Mandrágora\u0027 é anterior a \u00271984\u0027 em cerca de quatro séculos, não o contrário."
+                            },
+                            {
+                                "id":  "obra-mandragora-q5",
+                                "enunciado":  "O desfecho de \u0027A Mandrágora\u0027, em que Lucrezia aceita conscientemente manter um caso com Callimaco e Nicia permanece alheio ao engano, sugere sobretudo que",
+                                "alternativas":  {
+                                                     "a":  "a comédia satiriza a corrupção moral e religiosa da época, mostrando como interesses pessoais se sobrepõem a princípios supostamente inegociáveis.",
+                                                     "b":  "a peça condena moralmente todos os personagens ao final, punindo-os com desgraças públicas por seus enganos diante de toda a comunidade florentina.",
+                                                     "c":  "Lucrezia é, do início ao fim da peça, a única personagem plenamente consciente de todos os detalhes do plano armado contra ela pelos demais.",
+                                                     "d":  "o público renascentista reagiu ao final da peça exigindo sua proibição imediata pelas autoridades eclesiásticas florentinas, segundo registros da época."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "O desfecho — em que um frade corrupto ajuda a convencer Lucrezia, em nome de um bem maior, e o marido tolo nada percebe — funciona como sátira à hipocrisia religiosa e à fragilidade dos valores morais diante de interesses pessoais, típica da comédia maquiaveliana."
+                            }
+                        ],
+    "obra-1984":  [
+                      {
+                          "id":  "obra-1984-q1",
+                          "enunciado":  "\u00271984\u0027, de George Orwell, foi publicado em 1949, poucos meses antes da morte do autor. Sobre o contexto de produção da obra, é correto afirmar que",
+                          "alternativas":  {
+                                               "a":  "o romance foi originalmente publicado sob pseudônimo e só teve a autoria de Orwell revelada décadas depois de sua morte, fato esclarecido por biógrafos britânicos em pesquisas de arquivo.",
+                                               "b":  "a obra reflete as preocupações de Orwell com o totalitarismo stalinista e com o uso da propaganda de Estado, alimentadas por sua experiência na Guerra Civil Espanhola e no trabalho em rádio estatal britânica.",
+                                               "c":  "Orwell concebeu a distopia como uma previsão otimista sobre os avanços tecnológicos que a humanidade alcançaria até o ano 2000, tese defendida pelo autor em cartas pessoais da época.",
+                                               "d":  "Orwell escreveu o romance como reação exclusiva à Segunda Guerra Mundial, sem qualquer relação com os regimes totalitários soviético ou fascista que marcaram o mesmo período histórico."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A desconfiança de Orwell com o totalitarismo, alimentada por sua experiência na Guerra Civil Espanhola, onde presenciou perseguições stalinistas, e por seu trabalho na BBC durante a guerra, que teria inspirado o Ministério da Verdade, molda diretamente a crítica presente em \u00271984\u0027."
+                      },
+                      {
+                          "id":  "obra-1984-q2",
+                          "enunciado":  "A vigilância constante do Grande Irmão e a reescrita permanente do passado no Ministério da Verdade permitem discutir, nos eixos modernidade/pós-modernidade e globalização, sobretudo",
+                          "alternativas":  {
+                                               "a":  "a nostalgia de Orwell por regimes autoritários do passado, que o autor considerava mais eficientes do que as democracias liberais de sua própria época.",
+                                               "b":  "a defesa de que o controle estatal da informação é sempre positivo quando aplicado em nome da segurança coletiva e da ordem pública vigente.",
+                                               "c":  "tanto a crítica à razão totalitária moderna quanto a discussão atual sobre vigilância de dados, pós-verdade e manipulação algorítmica da informação.",
+                                               "d":  "a impossibilidade histórica de qualquer sociedade real vir a desenvolver mecanismos de controle da informação semelhantes aos narrados no livro, segundo argumentam alguns críticos."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\u00271984\u0027 funciona como ponte entre os dois eixos: de um lado, crítica ao projeto totalitário de controle racional da sociedade típico da modernidade; de outro, referência obrigatória para pensar vigilância digital, pós-verdade e manipulação de dados no mundo globalizado e conectado de hoje."
+                      },
+                      {
+                          "id":  "obra-1984-q3",
+                          "enunciado":  "Sobre os elementos concretos do enredo de \u00271984\u0027, assinale a alternativa correta.",
+                          "alternativas":  {
+                                               "a":  "Julia é uma agente da Polícia do Pensamento que finge se apaixonar por Winston para denunciá-lo às autoridades desde o início da trama.",
+                                               "b":  "o Grande Irmão é um personagem que aparece fisicamente ao longo de todo o romance, dialogando diretamente com Winston em diversas cenas.",
+                                               "c":  "Winston Smith trabalha no Ministério da Verdade, onde sua função é alterar registros históricos e jornalísticos para adequá-los às versões oficiais do Partido.",
+                                               "d":  "o Quarto 101 é o nome do apartamento onde Winston e Julia se encontram secretamente, à noite, para ler o livro proibido de Goldstein, longe da vigilância do Partido."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Winston trabalha no Ministério da Verdade reescrevendo registros históricos conforme os interesses do Partido; o Grande Irmão nunca aparece fisicamente, sendo apenas um símbolo; Julia não pertence à Polícia do Pensamento; e o Quarto 101 é o local de tortura psicológica, não o esconderijo do casal."
+                      },
+                      {
+                          "id":  "obra-1984-q4",
+                          "enunciado":  "Comparando o controle da linguagem pela \u0027novilíngua\u0027 em \u00271984\u0027 com a manipulação da informação nas sociedades contemporâneas conectadas por redes digitais, pode-se afirmar que",
+                          "alternativas":  {
+                                               "a":  "a novilíngua tinha como único objetivo enriquecer o vocabulário disponível aos cidadãos de Oceania, ampliando suas possibilidades de expressão artística e cotidiana.",
+                                               "b":  "a novilíngua de Orwell e os fenômenos atuais de desinformação digital não guardam qualquer relação conceitual entre si, por pertencerem a contextos tecnológicos incompatíveis.",
+                                               "c":  "as redes digitais contemporâneas eliminaram por completo os riscos de manipulação da informação que Orwell temia em sua época, graças a mecanismos de checagem hoje amplamente adotados.",
+                                               "d":  "ambos os fenômenos exploram como o controle sobre a linguagem e a informação pode restringir a capacidade crítica de pensar e a dissidência."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Tanto a novilíngua projetada por Orwell, que reduz o vocabulário para tornar certos pensamentos impossíveis, quanto os mecanismos atuais de bolhas informacionais e desinformação algorítmica atuam sobre a linguagem e a informação para restringir a capacidade crítica — daí a atualidade do romance."
+                      },
+                      {
+                          "id":  "obra-1984-q5",
+                          "enunciado":  "O desfecho de \u00271984\u0027, em que Winston passa a amar o Grande Irmão após ser torturado no Quarto 101, sugere sobretudo que",
+                          "alternativas":  {
+                                               "a":  "Julia é quem convence Winston, por meio do amor entre os dois, a aceitar finalmente a ideologia do Partido, papel que a personagem assume conscientemente ao final da trama.",
+                                               "b":  "o Partido, ao final do romance, reconhece seus próprios erros e concede liberdade plena aos cidadãos de Oceania, encerrando definitivamente o regime de vigilância.",
+                                               "c":  "o totalitarismo descrito por Orwell é capaz de destruir não apenas a liberdade de ação, mas também a autonomia mais íntima do pensamento e do afeto.",
+                                               "d":  "Winston finge apenas exteriormente sua rendição, mantendo intacta, em segredo, sua capacidade de resistência interior até os créditos finais do romance."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A conversão final de Winston, que passa sinceramente a amar o Grande Irmão, mostra o alcance mais radical do projeto totalitário orwelliano: não basta controlar as ações, é preciso controlar também o pensamento e o sentimento mais íntimos do indivíduo."
+                      }
+                  ],
+    "obra-dicas-imensidao":  [
+                                 {
+                                     "id":  "obra-dicas-imensidao-q1",
+                                     "enunciado":  "Sobre o contexto de produção de \u0027Dicas da Imensidão\u0027 (Moral Disorder), de Margaret Atwood, é correto afirmar que",
+                                     "alternativas":  {
+                                                          "a":  "o livro narra exclusivamente acontecimentos futuros e especulativos, na linha de \u0027O Conto da Aia\u0027, outro romance amplamente premiado da autora.",
+                                                          "b":  "trata-se de uma coletânea de contos interligados, publicada em 2006, após o sucesso internacional de romances distópicos anteriores da autora.",
+                                                          "c":  "trata-se do primeiro livro publicado pela autora, anterior a qualquer de suas obras distópicas mais conhecidas, ainda no início dos anos 1970.",
+                                                          "d":  "a obra foi escrita em coautoria com outra escritora canadense, sendo os contos divididos entre as duas autoras conforme a temática de cada um."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "\u0027Moral Disorder\u0027 foi publicado em 2006, quando Atwood já era mundialmente reconhecida por romances distópicos como \u0027O Conto da Aia\u0027 e \u0027Oryx e Crake\u0027; é uma coletânea de contos interligados de autoria única, sem caráter especulativo predominante."
+                                 },
+                                 {
+                                     "id":  "obra-dicas-imensidao-q2",
+                                     "enunciado":  "Ainda que mais realista do que as distopias mais famosas de Atwood, \u0027Dicas da Imensidão\u0027 dialoga com os eixos do exame na medida em que",
+                                     "alternativas":  {
+                                                          "a":  "evita completamente qualquer discussão sobre papéis sociais de gênero, tema ausente de toda a obra da autora, inclusive de seus romances mais conhecidos.",
+                                                          "b":  "apresenta uma sociedade futura totalitária que controla o corpo e a reprodução das mulheres por meio de leis explícitas, tal como em outros romances distópicos da autora.",
+                                                          "c":  "recusa uma narrativa linear e redentora sobre a vida da protagonista, aproximando-se da desconfiança pós-moderna em relação às grandes narrativas de progresso biográfico.",
+                                                          "d":  "narra exclusivamente eventos ocorridos em um único dia, dispensando qualquer referência ao passado ou à memória da protagonista ao longo da narrativa."
+                                                      },
+                                     "resposta":  "c",
+                                     "explicacao":  "A estrutura fragmentária em contos interligados, sem linearidade rígida, recusa uma narrativa redentora e coerente sobre a vida da protagonista — o que aproxima a obra da crítica pós-moderna às grandes narrativas de progresso, ainda que sem o aparato especulativo de outras obras de Atwood."
+                                 },
+                                 {
+                                     "id":  "obra-dicas-imensidao-q3",
+                                     "enunciado":  "Sobre a estrutura e os elementos concretos de \u0027Dicas da Imensidão\u0027, assinale a alternativa correta.",
+                                     "alternativas":  {
+                                                          "a":  "a obra foi originalmente concebida como roteiro televisivo e só posteriormente adaptada para o formato de livro de contos, segundo entrevistas da autora.",
+                                                          "b":  "o livro é um romance de enredo único, narrado inteiramente em ordem cronológica linear, sem qualquer fragmentação temporal ou retorno ao passado.",
+                                                          "c":  "todos os contos do livro se passam no mesmo dia e no mesmo cenário, uma fazenda isolada no interior do Canadá, sem qualquer mudança de local.",
+                                                          "d":  "a obra reúne contos que acompanham uma mesma protagonista recorrente, frequentemente identificada como Nell, em diferentes fases da vida."
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "\u0027Moral Disorder\u0027 é composto por contos interligados que acompanham a protagonista recorrente (Nell) em diferentes momentos de sua vida, sem ordem estritamente cronológica nem unidade de cenário único."
+                                 },
+                                 {
+                                     "id":  "obra-dicas-imensidao-q4",
+                                     "enunciado":  "Comparando a estrutura fragmentária de \u0027Dicas da Imensidão\u0027 com o projeto autobiográfico de Annie Ernaux em \u0027A Vergonha\u0027, pode-se afirmar que",
+                                     "alternativas":  {
+                                                          "a":  "nenhuma das duas obras trata de relações familiares ou da passagem do tempo na vida das protagonistas, temas restritos a romances de cunho histórico.",
+                                                          "b":  "ambas as obras revisitam o passado de forma não linear e desconfiada de narrativas redentoras, ainda que uma seja ficção e a outra, autoficção assumida.",
+                                                          "c":  "apenas Ernaux recorre à memória pessoal como material narrativo, enquanto Atwood evita completamente qualquer elemento biográfico em sua ficção publicada.",
+                                                          "d":  "as duas obras narram exatamente os mesmos acontecimentos históricos, apenas ambientados em países e décadas diferentes entre si."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "Tanto Atwood, em registro ficcional semi-autobiográfico, quanto Ernaux, em autoficção assumida, revisitam o passado de maneira fragmentada e sem oferecer uma narrativa coerente e redentora sobre a trajetória de suas protagonistas, ainda que por vias formais distintas."
+                                 },
+                                 {
+                                     "id":  "obra-dicas-imensidao-q5",
+                                     "enunciado":  "O fato de os contos de \u0027Dicas da Imensidão\u0027 poderem ser lidos de forma independente, mas se iluminarem mutuamente quando lidos em conjunto, sugere sobretudo que",
+                                     "alternativas":  {
+                                                          "a":  "a autora considerava os contos individualmente fracassados e por isso os reuniu para compensar as fragilidades de cada um perante a crítica especializada.",
+                                                          "b":  "o livro deve ser lido necessariamente na ordem inversa à publicada, começando pelo último conto e terminando no primeiro capítulo do livro.",
+                                                          "c":  "a memória da protagonista é apresentada como uma sequência de fatos objetivos, sem qualquer subjetividade ou lacuna ao longo de toda a narrativa.",
+                                                          "d":  "a vida é retratada como um conjunto de fragmentos que só adquirem sentido mais amplo quando recompostos pela leitura, e não como uma linha reta e coerente."
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "A forma fragmentária do livro é também um argumento de conteúdo: a vida da protagonista, como a memória humana em geral, é apresentada como um conjunto de fragmentos que ganham sentido mais amplo quando recompostos, e não como uma narrativa linear e plenamente coerente."
+                                 }
+                             ],
+    "obra-olho-mais-azul":  [
+                                {
+                                    "id":  "obra-olho-mais-azul-q1",
+                                    "enunciado":  "\u0027O Olho Mais Azul\u0027, romance de estreia de Toni Morrison, foi publicado em 1970. Sobre seu contexto de produção, é correto afirmar que",
+                                    "alternativas":  {
+                                                         "a":  "surge em meio à efervescência dos movimentos por direitos civis e do movimento Black is Beautiful, que contestavam os padrões de beleza branca hegemônicos.",
+                                                         "b":  "foi publicado originalmente sob pseudônimo masculino, prática comum entre autoras negras nos Estados Unidos da década de 1970, segundo historiadores da literatura afro-americana.",
+                                                         "c":  "foi escrito décadas depois de \u0027Amada\u0027, já no final da carreira da autora, como uma espécie de balanço final de sua obra literária mais reconhecida.",
+                                                         "d":  "narra acontecimentos situados no Sul escravista do século XIX, período em que a autora efetivamente viveu, segundo relatos de sua própria biografia e de seus biógrafos."
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O romance foi publicado em 1970, no contexto dos movimentos por direitos civis e do movimento Black is Beautiful; é anterior a \u0027Amada\u0027 (1987), se passa nos anos 1940, não no século XIX, e foi publicado sob o próprio nome de Morrison."
+                                },
+                                {
+                                    "id":  "obra-olho-mais-azul-q2",
+                                    "enunciado":  "O desejo de Pecola Breedlove por ter olhos azuis permite discutir, nos eixos do exame, principalmente",
+                                    "alternativas":  {
+                                                         "a":  "a hierarquia racial de beleza que associa traços da branquitude a valor e afeto, dialogando com a crise das certezas modernas e a circulação global de padrões estéticos.",
+                                                         "b":  "a ideia de que o racismo, no romance, é praticado exclusivamente por personagens brancos, nunca reproduzido dentro da própria comunidade negra.",
+                                                         "c":  "a valorização exclusivamente pessoal e individual de um gosto estético, sem qualquer relação com estruturas sociais mais amplas, sendo apenas uma escolha íntima da personagem.",
+                                                         "d":  "a defesa de que os padrões de beleza são sempre definidos democraticamente por consenso entre todos os grupos étnicos de uma sociedade, sem qualquer disputa de poder envolvida."
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O desejo de Pecola expõe a hierarquia racial de beleza que privilegia traços brancos, tema que dialoga com a crise das certezas modernas sobre quem define o \u0027belo\u0027 e com a circulação global de padrões estéticos; Morrison mostra ainda como esse racismo é reproduzido inclusive dentro da comunidade negra."
+                                },
+                                {
+                                    "id":  "obra-olho-mais-azul-q3",
+                                    "enunciado":  "Sobre a estrutura e os elementos concretos de \u0027O Olho Mais Azul\u0027, assinale a alternativa correta.",
+                                    "alternativas":  {
+                                                         "a":  "Claudia MacTeer é uma personagem adulta e desconhecida da família Breedlove, sem qualquer vínculo com Pecola.",
+                                                         "b":  "a narrativa é organizada segundo as estações do ano e precedida por um trecho distorcido de uma cartilha infantil.",
+                                                         "c":  "o romance é narrado inteiramente em primeira pessoa por Pecola Breedlove, sem qualquer outra voz narrativa.",
+                                                         "d":  "a trama se passa numa cidade fictícia do Sul dos Estados Unidos durante o período da Reconstrução, no século XIX."
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O romance se organiza segundo as quatro estações do ano e é precedido por um trecho de uma cartilha infantil apresentado de forma progressivamente distorcida; é narrado tanto pela voz de Claudia MacTeer, colega de infância de Pecola, quanto por capítulos em terceira pessoa, e se passa em Lorain, Ohio, no início dos anos 1940."
+                                },
+                                {
+                                    "id":  "obra-olho-mais-azul-q4",
+                                    "enunciado":  "Comparando a internalização do racismo em Pecola Breedlove, em \u0027O Olho Mais Azul\u0027, com a vigilância ideológica descrita em \u00271984\u0027, de George Orwell, pode-se afirmar que",
+                                    "alternativas":  {
+                                                         "a":  "apenas Orwell trata de mecanismos de controle que atuam sobre a subjetividade e a autoimagem dos indivíduos, tema ausente da obra de Toni Morrison segundo alguns críticos.",
+                                                         "b":  "ambas as obras mostram, em contextos diferentes, como valores impostos externamente podem ser internalizados pelos sujeitos oprimidos, moldando sua autopercepção.",
+                                                         "c":  "as duas obras descrevem exatamente o mesmo tipo de opressão, exercida por um Estado totalitário formalmente instituído em ambos os romances, segundo a maioria dos críticos.",
+                                                         "d":  "nenhuma das duas obras discute como valores impostos externamente podem ser assimilados pelas próprias vítimas da opressão em qualquer momento da narrativa."
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Tanto a distopia totalitária de Orwell quanto o racismo estrutural retratado por Morrison mostram como padrões impostos de fora podem ser internalizados pelas vítimas da opressão, moldando sua própria autoimagem, ainda que os contextos históricos e as formas de opressão sejam muito distintos."
+                                },
+                                {
+                                    "id":  "obra-olho-mais-azul-q5",
+                                    "enunciado":  "O desfecho trágico de Pecola Breedlove ao final do romance sugere sobretudo que",
+                                    "alternativas":  {
+                                                         "a":  "o romance defende que apenas mudanças legais e institucionais seriam suficientes para resolver o sofrimento de personagens como Pecola.",
+                                                         "b":  "a comunidade de Lorain se une, ao final, para proteger e acolher integralmente Pecola após a tragédia vivida por ela, tal como ocorre no desfecho do romance.",
+                                                         "c":  "a violência do racismo estrutural, quando internalizada de forma extrema, pode levar à destruição psíquica da vítima, e não apenas a formas visíveis de discriminação.",
+                                                         "d":  "Pecola consegue, de fato, alcançar a beleza convencional que desejava, sendo reconhecida como tal por toda a comunidade de Lorain, celebrada como um símbolo de beleza."
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O desfecho de Pecola, que mergulha na loucura acreditando ter finalmente recebido os olhos azuis que desejava, evidencia como o racismo estrutural, quando profundamente internalizado, pode destruir psiquicamente a vítima, indo muito além de formas visíveis e pontuais de discriminação."
+                                }
+                            ],
+    "obra-a-vergonha":  [
+                            {
+                                "id":  "obra-a-vergonha-q1",
+                                "enunciado":  "Annie Ernaux, autora de \u0027A Vergonha\u0027, recebeu o Prêmio Nobel de Literatura em 2022. Sobre o contexto biográfico e de produção da obra, é correto afirmar que",
+                                "alternativas":  {
+                                                     "a":  "\u0027A Vergonha\u0027 foi o primeiro livro publicado por Ernaux, ainda na década de 1960, antes de qualquer outro título autobiográfico de sua carreira.",
+                                                     "b":  "Ernaux cresceu em Yvetot, na Normandia, onde os pais administravam um café-mercearia, experiência de origem social que atravessa boa parte de sua obra autobiográfica.",
+                                                     "c":  "Ernaux nasceu em Paris, em uma família de classe média alta, e escreveu \u0027A Vergonha\u0027 ainda jovem, antes de se tornar professora de literatura.",
+                                                     "d":  "a autora nunca recebeu reconhecimento internacional relevante por sua obra, sendo mais conhecida apenas na França até o final do século XX."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "Ernaux nasceu em Lillebonne e cresceu em Yvetot, na Normandia, onde a família administrava um café-mercearia; essa origem social atravessa livros como \u0027O Lugar\u0027 e \u0027A Vergonha\u0027, publicados décadas depois de sua estreia literária, e a autora recebeu o Nobel de Literatura em 2022."
+                            },
+                            {
+                                "id":  "obra-a-vergonha-q2",
+                                "enunciado":  "O conceito de \u0027autossociobiografia\u0027, cunhado pela própria Annie Ernaux para descrever sua escrita, permite discutir, no eixo modernidade/pós-modernidade, sobretudo",
+                                "alternativas":  {
+                                                     "a":  "a defesa de que a mobilidade social é sempre um processo linear, harmônico e sem custos emocionais para quem a vivencia ao longo da vida adulta.",
+                                                     "b":  "a afirmação de que fatores sociais e de classe não interferem em absoluto na construção da identidade e da memória individual dos sujeitos ao longo da vida, segundo essa leitura.",
+                                                     "c":  "a ideia de que a memória pessoal deve ser evitada por escritores comprometidos com a análise objetiva da sociedade em registros formais e acadêmicos.",
+                                                     "d":  "a desconfiança em relação à narrativa redentora de ascensão social como progresso linear, ao expor as fissuras íntimas por trás da fachada de mobilidade de classe."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "A autossociobiografia de Ernaux combina memória pessoal e análise sociológica de classe justamente para expor as fissuras íntimas por trás da aparente ascensão social, desconfiando da narrativa redentora de progresso linear, postura típica da crítica pós-moderna às grandes narrativas."
+                            },
+                            {
+                                "id":  "obra-a-vergonha-q3",
+                                "enunciado":  "Sobre os elementos concretos da narrativa de \u0027A Vergonha\u0027, assinale a alternativa correta.",
+                                "alternativas":  {
+                                                     "a":  "o episódio central do livro ocorre na cidade de Paris, onde a família de Ernaux morava desde o nascimento da autora.",
+                                                     "b":  "a narradora tinha vinte anos quando presenciou o episódio de violência do pai contra a mãe, narrado no livro.",
+                                                     "c":  "o livro é integralmente narrado em terceira pessoa, sem qualquer relação direta entre a narradora e a autora.",
+                                                     "d":  "o episódio central se passa em um domingo de junho de 1952, no café-mercearia da família em Yvetot, na Normandia."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "O episódio central do livro, a tentativa de agressão do pai contra a mãe, ocorre num domingo de junho de 1952, no café-mercearia da família em Yvetot, testemunhado pela narradora ainda menina, e não aos vinte anos, em narrativa autobiográfica assumida, não ficcional em terceira pessoa."
+                            },
+                            {
+                                "id":  "obra-a-vergonha-q4",
+                                "enunciado":  "Comparando o projeto de \u0027autossociobiografia\u0027 de Annie Ernaux com a estrutura fragmentária de \u0027Dicas da Imensidão\u0027, de Margaret Atwood, pode-se afirmar que",
+                                "alternativas":  {
+                                                     "a":  "apenas Atwood recorre à memória pessoal como material de escrita, enquanto Ernaux evita completamente qualquer relação com sua própria biografia.",
+                                                     "b":  "as duas obras narram exatamente os mesmos acontecimentos, apenas ambientados em países e décadas completamente diferentes entre si, segundo alguns críticos literários.",
+                                                     "c":  "nenhuma das duas obras discute questões relacionadas a família, classe social ou passagem do tempo em qualquer um de seus capítulos ou episódios centrais.",
+                                                     "d":  "ambas as obras revisitam o passado familiar de forma não linear, recusando uma narrativa coerente e redentora sobre a trajetória das protagonistas centrais."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Tanto Ernaux, em autoficção assumida, quanto Atwood, em ficção semi-autobiográfica fragmentada em contos, revisitam o passado familiar de forma não linear, desconfiando de narrativas redentoras e coerentes sobre a trajetória de suas protagonistas."
+                            },
+                            {
+                                "id":  "obra-a-vergonha-q5",
+                                "enunciado":  "O fato de Ernaux escolher relatar um episódio pontual de 1952 para investigar toda uma vida de vergonha de classe sugere sobretudo que",
+                                "alternativas":  {
+                                                     "a":  "episódios pontuais e específicos nunca são capazes de revelar dinâmicas sociais mais amplas, sendo sempre eventos isolados sem consequência simbólica.",
+                                                     "b":  "a autora considera esse episódio o único momento relevante de toda a sua infância, sem qualquer relação com outros aspectos de sua formação.",
+                                                     "c":  "o livro tem como objetivo central absolver o pai da autora de qualquer responsabilidade pelo episódio de violência relatado, segundo a interpretação de alguns leitores da obra.",
+                                                     "d":  "um único acontecimento, quando investigado com precisão, pode funcionar como uma lente que revela mecanismos sociais e afetivos mais amplos na vida de um indivíduo."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Ao investigar minuciosamente um único episódio, Ernaux usa esse acontecimento pontual como lente para revelar mecanismos sociais de vergonha de classe e afetivos mais amplos e duradouros, e não para isolar ou absolver os fatos narrados de suas consequências."
+                            }
+                        ],
+    "obra-abaporu":  [
+                         {
+                             "id":  "obra-abaporu-q1",
+                             "enunciado":  "Sobre o contexto de produção de \"Abaporu\", de Tarsila do Amaral, é correto afirmar que:",
+                             "alternativas":  {
+                                                  "a":  "foi encomendado pelo governo federal para representar oficialmente o Brasil na Bienal de Veneza de 1928",
+                                                  "b":  "foi pintado em 1928 como presente de aniversário para o marido da artista, o escritor Oswald de Andrade",
+                                                  "c":  "foi criado em colaboração direta entre Tarsila do Amaral e Anita Malfatti, como projeto conjunto das duas artistas",
+                                                  "d":  "foi pintado durante a própria Semana de Arte Moderna de 1922, como cenário de fundo para as apresentações"
+                                              },
+                             "resposta":  "b",
+                             "explicacao":  "\"Abaporu\" foi pintado em 1928 como presente de aniversário de Tarsila do Amaral para Oswald de Andrade — não houve encomenda oficial do governo, não foi produzido durante a Semana de 22 (seis anos antes) nem em colaboração com Anita Malfatti."
+                         },
+                         {
+                             "id":  "obra-abaporu-q2",
+                             "enunciado":  "A leitura de \"Abaporu\" pelo eixo da globalização, hoje reforçada por historiadores da arte, sustenta que a obra simboliza:",
+                             "alternativas":  {
+                                                  "a":  "uma identidade nacional construída pela absorção crítica de referências estrangeiras, e não pela pureza ou isolamento cultural",
+                                                  "b":  "a rejeição total de qualquer influência europeia na arte brasileira, em nome de um nacionalismo estritamente isolacionista",
+                                                  "c":  "a ausência de qualquer diálogo entre a pintura brasileira e as vanguardas internacionais do início do século XX",
+                                                  "d":  "a submissão completa, voluntária e duradoura da arte brasileira aos padrões estéticos ditados por museus e academias europeias da época"
+                                              },
+                             "resposta":  "a",
+                             "explicacao":  "A leitura antropofágica de \"Abaporu\" destaca justamente a absorção crítica e a transformação de referências estrangeiras (como o cubismo) em algo original, e não a rejeição, a submissão ou o isolamento em relação às vanguardas europeias."
+                         },
+                         {
+                             "id":  "obra-abaporu-q3",
+                             "enunciado":  "A respeito do nome e da composição de \"Abaporu\", assinale a alternativa correta:",
+                             "alternativas":  {
+                                                  "a":  "a composição retrata várias figuras humanas reunidas em torno de uma fogueira, numa cena de ritual coletivo",
+                                                  "b":  "a tela é um autorretrato realista da própria Tarsila do Amaral, com traços fiéis ao rosto da artista",
+                                                  "c":  "o nome é uma palavra de origem francesa, escolhida por Tarsila em homenagem aos professores que teve durante os anos de estudo em Paris",
+                                                  "d":  "o nome, de origem tupi-guarani, foi sugerido com ajuda do poeta Raul Bopp, e a figura tem pés e mãos enormes"
+                                              },
+                             "resposta":  "d",
+                             "explicacao":  "O nome tem origem tupi-guarani e foi sugerido com ajuda de Raul Bopp; a composição mostra uma única figura de pés e mãos enormes, e não um autorretrato realista ou uma cena coletiva em torno de fogueira."
+                         },
+                         {
+                             "id":  "obra-abaporu-q4",
+                             "enunciado":  "Comparada a \"La Rentrée\", de Anita Malfatti, pintada anos antes, \"Abaporu\" representa um estágio diferente do modernismo brasileiro porque:",
+                             "alternativas":  {
+                                                  "a":  "\"Abaporu\" foi pintada antes de \"La Rentrée\", invertendo a ordem cronológica real de produção das duas obras",
+                                                  "b":  "\"La Rentrée\" (1917) marca o choque com a crítica conservadora paulistana; \"Abaporu\" (1928) expressa um projeto antropofágico consolidado",
+                                                  "c":  "\"La Rentrée\" já apresenta o programa antropofágico completo e definitivo, do qual \"Abaporu\" seria apenas uma cópia tardia",
+                                                  "d":  "as duas obras foram pintadas exatamente pela mesma artista brasileira, apenas em fases bem diferentes e distantes de sua longa carreira"
+                                              },
+                             "resposta":  "b",
+                             "explicacao":  "\"La Rentrée\" (1917) marca o choque inicial da vanguarda expressionista com a crítica conservadora paulistana, enquanto \"Abaporu\" (1928) já expressa um projeto de identidade nacional antropofágica consolidado — são artistas diferentes, e a cronologia não se inverte nem se repete como cópia."
+                         },
+                         {
+                             "id":  "obra-abaporu-q5",
+                             "enunciado":  "A desproporção entre os pés e mãos enormes e a cabeça minúscula da figura de \"Abaporu\" pode ser interpretada como:",
+                             "alternativas":  {
+                                                  "a":  "uma valorização simbólica da força física e do enraizamento na terra em detrimento da razão abstrata europeia",
+                                                  "b":  "uma crítica direta e explícita ao trabalho rural escravo no período colonial brasileiro",
+                                                  "c":  "um simples erro técnico de perspectiva, atribuído à falta de formação acadêmica da artista",
+                                                  "d":  "uma homenagem realista às proporções do corpo humano descritas por tratados de anatomia renascentistas"
+                                              },
+                             "resposta":  "a",
+                             "explicacao":  "A desproporção é escolha estética deliberada, associada à valorização simbólica da matéria e da terra em detrimento da razão abstrata — Tarsila tinha formação acadêmica sólida (inclusive em Paris), e a obra não se propõe realista nem faz uma crítica histórica específica à escravidão."
+                         }
+                     ],
+    "obra-la-rentree":  [
+                            {
+                                "id":  "obra-la-rentree-q1",
+                                "enunciado":  "A exposição individual de Anita Malfatti realizada em São Paulo em dezembro de 1917, da qual \"La Rentrée\" fazia parte, é lembrada sobretudo por:",
+                                "alternativas":  {
+                                                     "a":  "ter ocorrido dentro da própria Semana de Arte Moderna de 1922, no Theatro Municipal de São Paulo",
+                                                     "b":  "ter sido organizada pelo governo federal como mostra oficial de arte acadêmica brasileira",
+                                                     "c":  "ter sido a primeira exposição de arte inteiramente abstrata realizada na América Latina",
+                                                     "d":  "ter recebido duras críticas do escritor Monteiro Lobato, que via nas telas sinais de deformação artística"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "A mostra de 1917 é lembrada pelo artigo hostil de Monteiro Lobato contra o expressionismo de Malfatti — não foi organizada pelo governo, não ocorreu dentro da Semana de 22 (que foi cinco anos depois) e não era uma mostra de arte abstrata."
+                            },
+                            {
+                                "id":  "obra-la-rentree-q2",
+                                "enunciado":  "No eixo da transição da modernidade para a pós-modernidade, a obra de Anita Malfatti costuma ser lida como um marco porque:",
+                                "alternativas":  {
+                                                     "a":  "antecipa, de forma consciente, técnicas digitais de manipulação de imagem usadas apenas décadas depois",
+                                                     "b":  "rejeita por completo e definitivamente qualquer influência europeia, propondo uma estética nacionalista fechada e sem diálogo externo",
+                                                     "c":  "documenta a chegada de uma vanguarda europeia ao Brasil e o choque que causou numa crítica ainda apegada ao academicismo",
+                                                     "d":  "foi produzida em parceria direta com movimentos artísticos pós-modernos dos Estados Unidos da década de 1980"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "O marco está em documentar o choque entre a vanguarda expressionista europeia recém-chegada e uma crítica ainda presa ao academicismo — não há antecipação de técnicas digitais, rejeição da Europa ou vínculo com movimentos pós-modernos dos anos 1980."
+                            },
+                            {
+                                "id":  "obra-la-rentree-q3",
+                                "enunciado":  "Sobre a formação de Anita Malfatti e sua relação com o Expressionismo, é correto afirmar que:",
+                                "alternativas":  {
+                                                     "a":  "o estilo expressionista de Malfatti foi ensinado a ela diretamente por Tarsila do Amaral, já radicada em Paris",
+                                                     "b":  "a artista nunca deixou o Brasil, tendo desenvolvido sozinha o estilo expressionista, sem contato com a Europa",
+                                                     "c":  "a artista formou-se exclusivamente em escolas acadêmicas francesas de pintura neoclássica tradicional",
+                                                     "d":  "a artista estudou pintura na Alemanha, tendo contato direto com o Expressionismo antes da exposição de 1917"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Malfatti estudou na Alemanha, onde teve contato direto com o Expressionismo, antes de expor em São Paulo em 1917 — ela não era autodidata isolada do Brasil, não se formou em academia neoclássica francesa, e não aprendeu o estilo com Tarsila do Amaral."
+                            },
+                            {
+                                "id":  "obra-la-rentree-q4",
+                                "enunciado":  "Tanto \"La Rentrée\", de Anita Malfatti, quanto \"Bananal\", de Lasar Segall, remetem à influência do Expressionismo europeu na arte brasileira. A principal diferença entre os dois casos é que:",
+                                "alternativas":  {
+                                                     "a":  "nenhum dos dois artistas teve, em qualquer momento de suas respectivas trajetórias, contato pessoal ou formal direto com o movimento expressionista alemão",
+                                                     "b":  "as duas obras foram pintadas na mesma década da Semana de Arte Moderna de 1922, sem diferença de contexto biográfico entre os artistas",
+                                                     "c":  "Malfatti é brasileira que foi estudar Expressionismo na Europa, enquanto Segall é imigrante que já chegou ao Brasil formado nessa linguagem",
+                                                     "d":  "Segall nasceu no Brasil e foi estudar na Europa, enquanto Malfatti nasceu na Europa e imigrou para o Brasil já adulta"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "Malfatti é brasileira que estudou o Expressionismo na Alemanha antes de voltar ao país, enquanto Segall é um imigrante europeu que chegou ao Brasil já formado nessa linguagem — os dados biográficos da alternativa b estão invertidos, e ambos tiveram contato direto e formal com o Expressionismo alemão."
+                            },
+                            {
+                                "id":  "obra-la-rentree-q5",
+                                "enunciado":  "A reação hostil da crítica paulistana à exposição de 1917 de Anita Malfatti pode ser interpretada como evidência de que:",
+                                "alternativas":  {
+                                                     "a":  "a exposição foi imediatamente aclamada por toda a imprensa paulistana como um marco de modernidade",
+                                                     "b":  "a crítica de Monteiro Lobato foi amplamente ignorada pela imprensa e não teve nenhuma repercussão pública na época",
+                                                     "c":  "o público e a crítica brasileira da época já dominavam plenamente a linguagem expressionista vinda da Europa",
+                                                     "d":  "a modernização artística não avança de forma linear, mas provoca resistência antes de ser assimilada"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "O episódio mostra que a modernização artística gera atrito e resistência antes de ser aceita, e não uma adesão imediata do público — a crítica de Lobato teve grande repercussão, e a mostra não foi aclamada de forma unânime."
+                            }
+                        ],
+    "obra-bananal":  [
+                         {
+                             "id":  "obra-bananal-q1",
+                             "enunciado":  "Sobre a trajetória de Lasar Segall, autor de \"Bananal\", é correto afirmar que:",
+                             "alternativas":  {
+                                                  "a":  "formou-se exclusivamente em escolas de arte acadêmica francesa, sem qualquer ligação com o Expressionismo alemão",
+                                                  "b":  "nunca deixou a Europa, tendo pintado \"Bananal\" inteiramente a partir de fotografias e cartas enviadas por amigos brasileiros",
+                                                  "c":  "nasceu no território da atual Lituânia, estudou na Alemanha e emigrou para o Brasil em 1923, naturalizando-se brasileiro",
+                                                  "d":  "nasceu no Brasil e foi estudar pintura na Lituânia antes de retornar definitivamente a São Paulo"
+                                              },
+                             "resposta":  "c",
+                             "explicacao":  "Segall nasceu no território da atual Lituânia, estudou na Alemanha e emigrou para o Brasil em 1923, naturalizando-se depois — ele não nasceu no Brasil, não pintou a distância por fotografia, e sua formação foi diretamente ligada ao Expressionismo alemão, não à academia francesa."
+                         },
+                         {
+                             "id":  "obra-bananal-q2",
+                             "enunciado":  "\"Bananal\" é frequentemente citado no eixo da globalização porque:",
+                             "alternativas":  {
+                                                  "a":  "foi pintada em parceria remota entre Segall, ainda na Europa, e assistentes brasileiros radicados em São Paulo",
+                                                  "b":  "foi a primeira obra de arte brasileira vendida a um museu europeu, marcando o início do comércio internacional de arte",
+                                                  "c":  "evidencia como a circulação internacional de artistas e estéticas já promovia trocas culturais décadas antes da globalização contemporânea",
+                                                  "d":  "retrata exclusivamente o comércio de exportação de bananas brasileiras para os mercados consumidores europeus do início do século XX"
+                                              },
+                             "resposta":  "c",
+                             "explicacao":  "O valor da obra para o eixo globalização está na circulação internacional de artistas e estéticas que ela ilustra, e não em ser a \"primeira venda\" a um museu europeu, em tratar de exportação agrícola ou em ter sido pintada remotamente."
+                         },
+                         {
+                             "id":  "obra-bananal-q3",
+                             "enunciado":  "Do ponto de vista técnico e temático, \"Bananal\" se caracteriza por:",
+                             "alternativas":  {
+                                                  "a":  "empregar a técnica pontilhista, com pequenos pontos justapostos de cor pura, sobre uma cena urbana e cotidiana de São Paulo",
+                                                  "b":  "aplicar um tratamento expressionista de volumes densos e escultóricos a uma cena de trabalhadores rurais na plantação",
+                                                  "c":  "reproduzir fielmente a técnica acadêmica neoclássica que Segall teria aprendido já no Brasil",
+                                                  "d":  "representar uma cena abstrata sem figuras humanas reconhecíveis, focada apenas em formas geométricas"
+                                              },
+                             "resposta":  "b",
+                             "explicacao":  "A obra combina volumes expressionistas densos, quase escultóricos, com uma cena figurativa de trabalhadores rurais — não emprega pontilhismo, não é academicismo neoclássico e não é uma composição abstrata sem figuras."
+                         },
+                         {
+                             "id":  "obra-bananal-q4",
+                             "enunciado":  "Comparando \"Bananal\", de Lasar Segall, com \"Abaporu\", de Tarsila do Amaral, pode-se afirmar que ambas as obras:",
+                             "alternativas":  {
+                                                  "a":  "rejeitam por completo qualquer influência das vanguardas europeias, propondo uma estética estritamente nacional e isolada",
+                                                  "b":  "resultam do encontro entre vanguardas europeias e temas brasileiros, ainda que por caminhos biográficos diferentes",
+                                                  "c":  "retratam exatamente a mesma cena de uma plantação rural brasileira, apenas com técnicas de pintura diferentes",
+                                                  "d":  "foram pintadas pelo mesmo artista, sob dois nomes diferentes, em fases distintas da carreira"
+                                              },
+                             "resposta":  "b",
+                             "explicacao":  "Ambas resultam do encontro entre vanguarda europeia e tema brasileiro, mas por trajetórias distintas: Segall é imigrante europeu radicado no Brasil, Tarsila é brasileira formada em Paris — não é o mesmo artista, nem há rejeição da Europa, nem representam a mesma cena."
+                         },
+                         {
+                             "id":  "obra-bananal-q5",
+                             "enunciado":  "O fato de Lasar Segall, imigrante europeu, escolher retratar trabalhadores rurais brasileiros com uma linguagem expressionista de origem alemã sugere que:",
+                             "alternativas":  {
+                                                  "a":  "o Expressionismo alemão é, por sua própria definição estética, incompatível com qualquer temática ligada a países tropicais",
+                                                  "b":  "apenas artistas nascidos no Brasil são capazes de retratar de forma legítima temas nacionais brasileiros",
+                                                  "c":  "Segall abandonou completamente a técnica expressionista ao pintar \"Bananal\", adotando um estilo puramente realista",
+                                                  "d":  "identidade cultural e nacionalidade não coincidem necessariamente: um estrangeiro pode produzir leitura sensível de temas locais"
+                                              },
+                             "resposta":  "d",
+                             "explicacao":  "O caso de Segall mostra justamente que nacionalidade de origem não limita a capacidade de um artista de tratar sensivelmente temas locais — a obra não sustenta exclusividade de brasileiros sobre temas nacionais, nem incompatibilidade do Expressionismo com temas tropicais, nem abandono da técnica expressionista."
+                         }
+                     ],
+    "obra-bicho":  [
+                       {
+                           "id":  "obra-bicho-q1",
+                           "enunciado":  "A série \"Bicho\", de Lygia Clark, está diretamente associada a qual movimento artístico brasileiro?",
+                           "alternativas":  {
+                                                "a":  "o modernismo paulista, movimento ligado à Semana de Arte Moderna de 1922",
+                                                "b":  "o barroco mineiro do século XVIII, movimento ligado à obra de Aleijadinho",
+                                                "c":  "o concretismo paulista de São Paulo, de orientação geométrica e racional bastante rígida",
+                                                "d":  "o movimento neoconcreto carioca, formado no Rio de Janeiro a partir de 1959"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "\"Bicho\" nasce do movimento neoconcreto carioca (a partir de 1959), que surgiu justamente como ruptura em relação ao rigor geométrico do concretismo paulista — não tem relação direta com a Semana de 22 nem com o barroco mineiro."
+                       },
+                       {
+                           "id":  "obra-bicho-q2",
+                           "enunciado":  "A proposta de \"Bicho\" de dissolver a fronteira entre obra e espectador é mobilizada, no eixo da transição da modernidade para a pós-modernidade, para argumentar que:",
+                           "alternativas":  {
+                                                "a":  "a arte contemporânea tende a se tornar processual e aberta, dependente da participação do público",
+                                                "b":  "a pós-modernidade elimina definitivamente qualquer forma de escultura tridimensional na arte contemporânea",
+                                                "c":  "a escultura neoconcreta rejeita qualquer contato físico do público com a obra, mantendo distância total",
+                                                "d":  "toda arte moderna, sem qualquer exceção, já previa desde o século XIX a participação física direta do espectador"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "\"Bicho\" antecipa a lógica de uma arte processual e participativa, característica da sensibilidade pós-moderna, rompendo com a ideia moderna de obra fechada e autônoma — não há generalização válida para toda arte moderna, nem rejeição do contato físico, nem fim da escultura tridimensional."
+                       },
+                       {
+                           "id":  "obra-bicho-q3",
+                           "enunciado":  "Do ponto de vista técnico, os \"Bichos\" de Lygia Clark se caracterizam por:",
+                           "alternativas":  {
+                                                "a":  "serem peças fixas montadas sobre pedestal, que o público pode apenas observar, sem tocar",
+                                                "b":  "serem placas de metal articuladas por dobradiças, sem forma fixa, manuseadas livremente pelo espectador",
+                                                "c":  "serem esculturas de mármore talhadas para representar animais de forma realista e detalhada",
+                                                "d":  "serem projeções audiovisuais e interativas em tela digital, sem qualquer componente físico ou tridimensional"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Os \"Bichos\" são placas de metal articuladas por dobradiças, sem forma fixa e manuseáveis pelo público — não são esculturas de mármore realistas, projeções audiovisuais ou peças fixas sobre pedestal."
+                       },
+                       {
+                           "id":  "obra-bicho-q4",
+                           "enunciado":  "Diferentemente de obras como \"Guernica\", de Pablo Picasso, ou \"A Morte de Marat\", de Jacques-Louis David — pinturas de composição fechada e definitiva —, a série \"Bicho\", de Lygia Clark, se distingue por:",
+                           "alternativas":  {
+                                                "a":  "ter sido produzida exatamente no mesmo ano e no mesmo país de origem que as outras duas obras mencionadas no enunciado",
+                                                "b":  "representar cenas de guerra e violência política, assim como as outras duas obras citadas",
+                                                "c":  "não ter forma final fixa, dependendo da manipulação física do espectador para assumir configurações variáveis",
+                                                "d":  "ser uma pintura bidimensional feita a óleo sobre tela, mesma técnica empregada nas outras duas obras citadas"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "\"Bicho\" é escultura tridimensional aberta e sem forma fixa, ao contrário das pinturas fechadas e definitivas de Picasso e David — não é pintura a óleo, não foi produzida no mesmo contexto histórico das outras duas, e não representa cenas de guerra."
+                       },
+                       {
+                           "id":  "obra-bicho-q5",
+                           "enunciado":  "O fato de os \"Bichos\" não terem uma configuração final \"correta\" sugere que Lygia Clark concebia a obra de arte como:",
+                           "alternativas":  {
+                                                "a":  "um produto acabado, que deve ser preservado exatamente na forma imaginada originalmente pela artista",
+                                                "b":  "um processo aberto, cujo sentido se completa apenas no momento da interação entre objeto e participante",
+                                                "c":  "uma reprodução em série de peças idênticas, destinada à venda em larga escala",
+                                                "d":  "um objeto puramente decorativo, sem qualquer intenção conceitual por trás da proposta"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A ausência de forma final \"correta\" revela que, para Clark, a obra só se completa no ato da interação com o participante — ela não é um produto acabado e fixo, nem um objeto meramente decorativo, nem uma mercadoria em série."
+                       }
+                   ],
+    "obra-mao-tsetung-warhol":  [
+                                    {
+                                        "id":  "obra-mao-tsetung-warhol-q1",
+                                        "enunciado":  "A série de retratos de Mao Tsé-Tung feita por Andy Warhol foi produzida logo após qual acontecimento histórico?",
+                                        "alternativas":  {
+                                                             "a":  "A visita do presidente Richard Nixon à China em 1972, que reaproximou diplomaticamente os dois países.",
+                                                             "b":  "O rompimento entre China e União Soviética na década de 1960, amplamente noticiado nos Estados Unidos.",
+                                                             "c":  "A Revolução Cultural chinesa de 1966, acompanhada de perto por Warhol durante uma viagem a Pequim.",
+                                                             "d":  "A morte de Mao Tsé-Tung em 1976, quando sua imagem passou a ser vendida como lembrança política."
+                                                         },
+                                        "resposta":  "a",
+                                        "explicacao":  "A série de Warhol surge em 1972-73, no rastro da visita de Nixon à China, evento que reabriu o contato diplomático entre os dois países após décadas de isolamento e recolocou a imagem de Mao em circulação nos Estados Unidos."
+                                    },
+                                    {
+                                        "id":  "obra-mao-tsetung-warhol-q2",
+                                        "enunciado":  "O uso da técnica de serigrafia em série para retratar Mao Tsé-Tung, o mesmo procedimento aplicado por Warhol a Marilyn Monroe e a latas de sopa, produz qual efeito crítico central?",
+                                        "alternativas":  {
+                                                             "a":  "Denuncia a censura política chinesa ao reproduzir uma imagem proibida fora do território do país.",
+                                                             "b":  "Transforma o símbolo anticapitalista em mercadoria de colecionismo, evidenciando o fetichismo da mercadoria.",
+                                                             "c":  "Resgata a pintura manual tradicional em oposição à cultura de massas que Warhol sempre criticou.",
+                                                             "d":  "Reforça o culto à personalidade socialista ao multiplicar sua imagem em espaços públicos ocidentais."
+                                                         },
+                                        "resposta":  "b",
+                                        "explicacao":  "Ao tratar Mao com a mesma lógica de reprodução em série usada para celebridades e produtos, Warhol expõe o fetichismo da mercadoria: até um ícone anticapitalista se converte em objeto de consumo e especulação de mercado."
+                                    },
+                                    {
+                                        "id":  "obra-mao-tsetung-warhol-q3",
+                                        "enunciado":  "Do ponto de vista técnico, o que caracteriza a execução das telas de Mao Tsé-Tung de Warhol?",
+                                        "alternativas":  {
+                                                             "a":  "Pintura a óleo em camadas finas, sem qualquer uso de fotografia ou imagem impressa como referência.",
+                                                             "b":  "Colagem de recortes de jornais chineses sobrepostos a uma moldura fotográfica pré-existente.",
+                                                             "c":  "Gravura em xilogravura tradicional, técnica que Warhol teria aprendido durante estudos na Ásia.",
+                                                             "d":  "Serigrafia baseada em fotografia oficial, com pinceladas e cores aplicadas manualmente sobre o contorno."
+                                                         },
+                                        "resposta":  "d",
+                                        "explicacao":  "Warhol partiu da fotografia oficial de Mao, transferida por serigrafia, e acrescentou manualmente pinceladas de tinta e cores vibrantes sobre o contorno impresso, técnica típica de sua produção seriada dos anos 1960-70."
+                                    },
+                                    {
+                                        "id":  "obra-mao-tsetung-warhol-q4",
+                                        "enunciado":  "A série Mao Tsé-Tung dialoga mais diretamente com qual outro procedimento da obra de Warhol?",
+                                        "alternativas":  {
+                                                             "a":  "As esculturas em bronze de líderes políticos produzidas por escultores acadêmicos do século XIX.",
+                                                             "b":  "Os retratos seriados de Marilyn Monroe, também feitos por serigrafia a partir de fotografias de divulgação.",
+                                                             "c":  "As instalações minimalistas de Donald Judd, baseadas na repetição de módulos geométricos.",
+                                                             "d":  "Os afrescos murais de crítica social pintados por Diego Rivera no México na década de 1930."
+                                                         },
+                                        "resposta":  "b",
+                                        "explicacao":  "Assim como fez com Marilyn Monroe, Warhol aplicou a Mao a serigrafia em série a partir de uma fotografia amplamente divulgada, reforçando seu método de transformar rostos célebres em imagens repetíveis e comercializáveis."
+                                    },
+                                    {
+                                        "id":  "obra-mao-tsetung-warhol-q5",
+                                        "enunciado":  "Ao vender por milhões de dólares em leilão um retrato de um líder que condenava a propriedade privada, o mercado de arte contemporâneo evidencia, sobre a obra de Warhol, que:",
+                                        "alternativas":  {
+                                                             "a":  "A lógica capitalista consegue absorver e comercializar até os símbolos de seus próprios opositores.",
+                                                             "b":  "O governo chinês patrocinou secretamente a obra para promover a imagem de Mao no Ocidente.",
+                                                             "c":  "A obra perdeu todo o valor artístico assim que passou a circular como produto de mercado global.",
+                                                             "d":  "A crítica de Warhol ao comunismo foi tão eficaz que aboliu o valor simbólico da imagem de Mao."
+                                                         },
+                                        "resposta":  "a",
+                                        "explicacao":  "O alto valor de mercado alcançado pelos retratos de Mao mostra como o capitalismo é capaz de transformar em mercadoria de luxo até a imagem de quem historicamente se opôs a essa mesma lógica econômica."
+                                    }
+                                ],
+    "obra-jogadores-cartas":  [
+                                  {
+                                      "id":  "obra-jogadores-cartas-q1",
+                                      "enunciado":  "Quem eram, em geral, os modelos retratados na série Jogadores de Cartas de Cézanne?",
+                                      "alternativas":  {
+                                                           "a":  "Personagens fictícios inspirados em romances populares franceses do século XIX.",
+                                                           "b":  "Colegas pintores impressionistas que se reuniam para jogar cartas nos ateliês.",
+                                                           "c":  "Camponeses que trabalhavam na propriedade da família do pintor, em Aix-en-Provence.",
+                                                           "d":  "Nobres da corte francesa retratados em salões de jogos de cartas de Paris."
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "Cézanne utilizou como modelos trabalhadores da propriedade de sua família, o Jas de Bouffan, retratando-os em cenas cotidianas e despidas de teatralidade."
+                                  },
+                                  {
+                                      "id":  "obra-jogadores-cartas-q2",
+                                      "enunciado":  "Por que Jogadores de Cartas costuma ser associada ao eixo modernidade versus pós-modernidade nas provas da FGV?",
+                                      "alternativas":  {
+                                                           "a":  "Porque foi a primeira obra a empregar fotografia como base direta para a composição pictórica.",
+                                                           "b":  "Porque retrata diretamente as tensões da urbanização acelerada do século XIX francês.",
+                                                           "c":  "Porque documenta fielmente os costumes populares antes de seu desaparecimento pela indústria.",
+                                                           "d":  "Porque antecipa, pela geometrização das formas, a ruptura cubista que redefiniria a arte moderna."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "A simplificação geométrica dos corpos e objetos na série é apontada como ponte direta entre o pós-impressionismo e o cubismo, marco da ruptura formal que definiria boa parte da arte moderna do século XX."
+                                  },
+                                  {
+                                      "id":  "obra-jogadores-cartas-q3",
+                                      "enunciado":  "Qual recurso de composição é característico da versão da série com apenas dois jogadores?",
+                                      "alternativas":  {
+                                                           "a":  "Um espelho posicionado ao fundo da cena, que duplica visualmente as figuras dos dois jogadores.",
+                                                           "b":  "Um terceiro personagem observando o andamento do jogo por trás dos dois jogadores sentados.",
+                                                           "c":  "Uma janela aberta ao fundo, que ilumina de forma desigual apenas um dos dois personagens.",
+                                                           "d":  "Uma garrafa posicionada no eixo central da mesa, dividindo a cena em duas metades simétricas."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "Na versão de dois jogadores, uma garrafa isolada ocupa o centro exato da mesa, funcionando como eixo de simetria entre as duas figuras dispostas lateralmente."
+                                  },
+                                  {
+                                      "id":  "obra-jogadores-cartas-q4",
+                                      "enunciado":  "A geometrização dos volumes empregada por Cézanne em Jogadores de Cartas é apontada pela crítica de arte como base direta para qual movimento posterior?",
+                                      "alternativas":  {
+                                                           "a":  "O expressionismo abstrato norte-americano associado a Jackson Pollock, já no século XX.",
+                                                           "b":  "O cubismo desenvolvido por Pablo Picasso e Georges Braque.",
+                                                           "c":  "O surrealismo de Salvador Dalí e Joan Miró, desenvolvido a partir da década de 1920.",
+                                                           "d":  "O futurismo italiano de Umberto Boccioni, centrado na representação do movimento."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "A redução das figuras e objetos a volumes simplificados por Cézanne é considerada o antecedente formal mais direto da fragmentação geométrica que Picasso e Braque desenvolveriam no cubismo."
+                                  },
+                                  {
+                                      "id":  "obra-jogadores-cartas-q5",
+                                      "enunciado":  "O clima de silenciosa concentração dos jogadores, sem gestos teatrais ou expressões dramáticas, sugere que a intenção de Cézanne era, sobretudo:",
+                                      "alternativas":  {
+                                                           "a":  "Criticar diretamente o vício em jogos de azar entre a população pobre francesa da época.",
+                                                           "b":  "Priorizar a construção formal e o equilíbrio da composição sobre qualquer narrativa anedótica.",
+                                                           "c":  "Homenagear uma tradição folclórica regional que estaria em vias de desaparecimento.",
+                                                           "d":  "Retratar um momento de tensão social explícita entre patrões e trabalhadores rurais."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "Cézanne evita qualquer efeito narrativo ou dramático, concentrando-se na estrutura formal da cena — volumes, cores e equilíbrio compositivo —, um dos traços que o tornam ponte entre o século XIX e o modernismo do XX."
+                                  }
+                              ],
+    "obra-guernica":  [
+                          {
+                              "id":  "obra-guernica-q1",
+                              "enunciado":  "Guernica foi pintada por Picasso em reação direta a qual evento histórico?",
+                              "alternativas":  {
+                                                   "a":  "O bombardeio da cidade basca de Guernica pela aviação alemã e italiana em 1937.",
+                                                   "b":  "A invasão da Espanha pelas tropas napoleônicas no início do século XIX.",
+                                                   "c":  "A eclosão da Primeira Guerra Mundial na Europa, em 1914.",
+                                                   "d":  "O bombardeio de Hiroshima pelos Estados Unidos, ocorrido em 1945."
+                                               },
+                              "resposta":  "a",
+                              "explicacao":  "A obra reage de forma imediata ao bombardeio da cidade basca de Guernica pela aviação alemã e italiana, em abril de 1937, durante a Guerra Civil Espanhola."
+                          },
+                          {
+                              "id":  "obra-guernica-q2",
+                              "enunciado":  "Guernica é frequentemente citada em provas que exploram o eixo modernidade e pós-modernidade porque a obra:",
+                              "alternativas":  {
+                                                   "a":  "Celebra os avanços da aviação militar como símbolo do progresso técnico do século XX.",
+                                                   "b":  "Defende o retorno a técnicas artísticas pré-modernas como forma de resistência política.",
+                                                   "c":  "Questiona a confiança no progresso técnico ao mostrar seu uso na destruição em massa de civis.",
+                                                   "d":  "Ignora o contexto político da guerra para focar apenas em experimentações formais abstratas."
+                                               },
+                              "resposta":  "c",
+                              "explicacao":  "Ao retratar o bombardeio de civis por aviões, Guernica expõe o lado sombrio do progresso técnico moderno, questionando diretamente o otimismo iluminista em relação à razão e à tecnologia."
+                          },
+                          {
+                              "id":  "obra-guernica-q3",
+                              "enunciado":  "Do ponto de vista cromático, o que caracteriza Guernica?",
+                              "alternativas":  {
+                                                   "a":  "Cores vivas e fortemente contrastantes, associadas à tradição decorativa popular espanhola.",
+                                                   "b":  "Uma gradação predominante de azuis, semelhante à fase azul anterior da carreira de Picasso.",
+                                                   "c":  "Uma paleta quase monocromática de preto, branco e cinza, que evoca fotografias de jornal.",
+                                                   "d":  "O uso quase exclusivo de tons dourados, associado à tradição da pintura religiosa espanhola."
+                                               },
+                              "resposta":  "c",
+                              "explicacao":  "Picasso optou por uma paleta reduzida a preto, branco e cinza, o que reforça o caráter de denúncia quase jornalística do bombardeio retratado."
+                          },
+                          {
+                              "id":  "obra-guernica-q4",
+                              "enunciado":  "Guernica é comumente comparada a qual outra obra como marco da pintura de denúncia contra a violência da guerra?",
+                              "alternativas":  {
+                                                   "a":  "A Liberdade Guiando o Povo, de Eugène Delacroix, sobre a Revolução de 1830.",
+                                                   "b":  "A Balsa da Medusa, de Théodore Géricault, sobre um naufrágio francês.",
+                                                   "c":  "O Fuzilamento de 3 de Maio de 1808, de Francisco de Goya.",
+                                                   "d":  "O Grito, de Edvard Munch, pintura expressionista sobre a angústia individual."
+                                               },
+                              "resposta":  "c",
+                              "explicacao":  "Assim como Picasso em Guernica, Goya retratou em O Fuzilamento de 3 de Maio de 1808 a violência da guerra contra civis, sendo ambas obras consideradas marcos da pintura política antibélica espanhola."
+                          },
+                          {
+                              "id":  "obra-guernica-q5",
+                              "enunciado":  "A escolha de Picasso por figuras simbólicas — touro, cavalo ferido, mulher com criança morta — em vez de uma cena realista do bombardeio sugere que seu objetivo era:",
+                              "alternativas":  {
+                                                   "a":  "Universalizar o sofrimento provocado pela guerra, para além do episódio histórico específico.",
+                                                   "b":  "Homenagear a tradição da tourada espanhola como símbolo da identidade nacional.",
+                                                   "c":  "Evitar qualquer crítica política direta ao regime instaurado pelo general Franco.",
+                                                   "d":  "Facilitar a censura da obra pelas autoridades franquistas espanholas da época."
+                                               },
+                              "resposta":  "a",
+                              "explicacao":  "Ao recorrer a símbolos e não a uma cena documental, Picasso transforma o bombardeio de Guernica num relato universal sobre o sofrimento causado pela guerra, ampliando o alcance político e humano da obra."
+                          }
+                      ],
+    "obra-banksy":  [
+                        {
+                            "id":  "obra-banksy-q1",
+                            "enunciado":  "Qual das características abaixo é fundamental para compreender a produção artística de Banksy?",
+                            "alternativas":  {
+                                                 "a":  "A colaboração constante com o governo britânico em campanhas publicitárias oficiais.",
+                                                 "b":  "O uso exclusivo de tintas a óleo em telas de grande formato vendidas em galerias.",
+                                                 "c":  "O anonimato do artista, que nunca revelou publicamente sua identidade.",
+                                                 "d":  "A produção exclusiva de obras encomendadas por museus e instituições oficiais de arte."
+                                             },
+                            "resposta":  "c",
+                            "explicacao":  "O anonimato de Banksy é elemento central de sua obra e de sua crítica ao sistema institucional da arte, distinguindo-o de artistas de rua que assumem publicamente sua identidade."
+                        },
+                        {
+                            "id":  "obra-banksy-q2",
+                            "enunciado":  "A obra de Banksy é associada ao eixo da globalização principalmente porque:",
+                            "alternativas":  {
+                                                 "a":  "O artista expõe suas obras simultaneamente em museus oficiais de todos os continentes.",
+                                                 "b":  "Ele recebe financiamento regular de organizações internacionais para produzir grafites.",
+                                                 "c":  "Suas obras são reproduzidas oficialmente por editoras de arte em diferentes países.",
+                                                 "d":  "Suas imagens ganham relevância mundial sobretudo pela circulação digital em redes sociais."
+                                             },
+                            "resposta":  "d",
+                            "explicacao":  "As imagens de Banksy alcançam alcance global principalmente por serem fotografadas e compartilhadas em redes sociais, e não por meio dos circuitos tradicionais de museus e galerias."
+                        },
+                        {
+                            "id":  "obra-banksy-q3",
+                            "enunciado":  "Qual técnica é característica da execução das obras de rua de Banksy?",
+                            "alternativas":  {
+                                                 "a":  "Estêncil, que permite aplicar a imagem rapidamente com spray sobre um molde vazado.",
+                                                 "b":  "Afresco, técnica de pintura sobre reboco ainda úmido, usada desde o Renascimento italiano.",
+                                                 "c":  "Mosaico, com pequenas peças de cerâmica ou vidro coladas diretamente sobre o muro.",
+                                                 "d":  "Têmpera sobre madeira, técnica típica da pintura religiosa medieval e renascentista."
+                                             },
+                            "resposta":  "a",
+                            "explicacao":  "O estêncil é a técnica-assinatura de Banksy, pois permite reproduzir a imagem com rapidez e precisão em locais públicos, muitas vezes sem autorização e sob risco de ser flagrado."
+                        },
+                        {
+                            "id":  "obra-banksy-q4",
+                            "enunciado":  "Em comparação com movimentos de arte urbana anteriores, como o grafite de Nova York dos anos 1970 e 1980, a obra de Banksy se destaca principalmente por:",
+                            "alternativas":  {
+                                                 "a":  "Abandonar completamente o espaço público em favor de exposições exclusivas em galerias.",
+                                                 "b":  "Utilizar exclusivamente letras estilizadas, as chamadas tags, sem qualquer elemento figurativo.",
+                                                 "c":  "Ser produzida sempre sob encomenda direta de prefeituras para fins de embelezamento urbano.",
+                                                 "d":  "Aliar a intervenção urbana não autorizada a uma crítica social explícita e à ampla difusão digital."
+                                             },
+                            "resposta":  "d",
+                            "explicacao":  "Banksy herda a tradição do grafite urbano não autorizado, mas soma a ela uma crítica social e política explícita e uma difusão inédita por meio das redes digitais."
+                        },
+                        {
+                            "id":  "obra-banksy-q5",
+                            "enunciado":  "A imagem de soldados armados aplicando um símbolo de paz em um muro, recorrente na obra de Banksy, produz sentido crítico principalmente pela:",
+                            "alternativas":  {
+                                                 "a":  "Comemoração de um tratado de paz internacional assinado por potências europeias no século XX.",
+                                                 "b":  "Justaposição irônica entre o instrumental bélico e o ícone pacifista, expondo contradições da propaganda de guerra.",
+                                                 "c":  "Denúncia de um conflito militar específico e datado, sem qualquer pretensão de alcance simbólico mais amplo.",
+                                                 "d":  "Homenagem direta às forças armadas responsáveis pela manutenção da paz em conflitos internacionais."
+                                             },
+                            "resposta":  "b",
+                            "explicacao":  "O contraste entre soldados armados e o símbolo de paz que eles próprios pintam gera um efeito irônico típico de Banksy, que expõe a contradição entre discurso pacifista e aparato militar."
+                        }
+                    ],
+    "obra-morte-marat":  [
+                             {
+                                 "id":  "obra-morte-marat-q1",
+                                 "enunciado":  "A Morte de Marat foi encomendada por qual instância política, logo após o assassinato do revolucionário?",
+                                 "alternativas":  {
+                                                      "a":  "A própria família de Marat, sem qualquer vínculo com a política revolucionária.",
+                                                      "b":  "A Convenção Nacional, para transformar Marat em símbolo de martírio revolucionário.",
+                                                      "c":  "A monarquia inglesa, interessada em desacreditar publicamente a Revolução Francesa.",
+                                                      "d":  "O papado romano, buscando reconciliar a Igreja Católica com o novo regime francês."
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "A obra foi encomendada pela Convenção Nacional, órgão revolucionário do qual David era deputado, com o objetivo explícito de transformar o assassinato de Marat em símbolo de martírio da causa jacobina."
+                             },
+                             {
+                                 "id":  "obra-morte-marat-q2",
+                                 "enunciado":  "A Morte de Marat relaciona-se ao eixo modernidade e pós-modernidade sobretudo porque:",
+                                 "alternativas":  {
+                                                      "a":  "Retrata um evento da Revolução Francesa, marco fundador do ideário político moderno.",
+                                                      "b":  "Critica diretamente o avanço da industrialização europeia ao longo do século XIX.",
+                                                      "c":  "Rompe com toda a tradição figurativa anterior, antecipando diretamente a arte abstrata.",
+                                                      "d":  "Antecipa técnicas fotográficas que só seriam inventadas no século seguinte à sua criação."
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "A Revolução Francesa, retratada na obra por meio do martírio de Marat, é considerada evento fundador da modernidade política ocidental, associada a ideias de razão, cidadania e ruptura com o Antigo Regime."
+                             },
+                             {
+                                 "id":  "obra-morte-marat-q3",
+                                 "enunciado":  "Qual elemento compositivo aparece ao lado da banheira na pintura de David, funcionando como mesa de trabalho improvisada de Marat?",
+                                 "alternativas":  {
+                                                      "a":  "Um piano utilizado por Marat para compor hinos da causa revolucionária.",
+                                                      "b":  "Uma mesa de mármore ricamente decorada com talheres de prata.",
+                                                      "c":  "Uma caixa de madeira, sobre a qual há inclusive uma dedicatória do pintor.",
+                                                      "d":  "Uma escrivaninha entalhada trazida diretamente do gabinete de trabalho de Marat."
+                                                  },
+                                 "resposta":  "c",
+                                 "explicacao":  "Ao lado da banheira, David representa uma simples caixa de madeira usada por Marat como mesa de trabalho, sobre a qual o próprio pintor inscreveu uma dedicatória ao amigo morto."
+                             },
+                             {
+                                 "id":  "obra-morte-marat-q4",
+                                 "enunciado":  "A pose do corpo de Marat na pintura de David é frequentemente comparada, pela crítica de arte, a qual tradição iconográfica?",
+                                 "alternativas":  {
+                                                      "a":  "As cenas de banquete típicas da pintura holandesa do século XVII.",
+                                                      "b":  "As cenas de caça características da pintura rococó francesa do século XVIII.",
+                                                      "c":  "Os retratos equestres de reis absolutistas produzidos durante o Barroco.",
+                                                      "d":  "As representações de deposição e martírio de Cristo na tradição cristã."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "A pose serena do corpo de Marat, com o braço pendente, remete às representações cristãs de deposição e martírio, conferindo à cena um caráter de sacralização quase religiosa da causa revolucionária."
+                             },
+                             {
+                                 "id":  "obra-morte-marat-q5",
+                                 "enunciado":  "O fato de Jacques-Louis David ser amigo pessoal e aliado político de Marat afeta a interpretação da obra sobretudo porque:",
+                                 "alternativas":  {
+                                                      "a":  "Torna a pintura um registro estritamente neutro e puramente documental do assassinato ocorrido.",
+                                                      "b":  "Reforça o caráter de propaganda política, já que o pintor tinha interesse direto em heroicizar o amigo morto.",
+                                                      "c":  "Invalida por completo o valor artístico da obra em razão do evidente conflito de interesses.",
+                                                      "d":  "Demonstra que David era, na verdade, contrário ao movimento jacobino ao qual Marat pertencia."
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "Por ser amigo e correligionário político de Marat, David tinha interesse direto em transformar sua morte em símbolo de martírio revolucionário, o que reforça o caráter de propaganda política da obra, mais do que de registro neutro."
+                             }
+                         ],
+    "obra-pagador-promessas":  [
+                                   {
+                                       "id":  "obra-pagador-promessas-q1",
+                                       "enunciado":  "O filme \u0027O Pagador de Promessas\u0027 (1962), de Anselmo Duarte, ocupa lugar único na história do cinema brasileiro por qual conquista internacional?",
+                                       "alternativas":  {
+                                                            "a":  "Foi escolhido para abrir a primeira edição do Festival de Brasília de Cinema.",
+                                                            "b":  "Venceu a Palma de Ouro em Cannes, sendo até hoje o único longa brasileiro premiado dessa forma.",
+                                                            "c":  "Recebeu o Oscar de melhor filme estrangeiro na cerimônia realizada em 1962.",
+                                                            "d":  "Foi o primeiro filme brasileiro exibido oficialmente na Mostra de Cinema de Veneza."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "O Pagador de Promessas venceu a Palma de Ouro em Cannes em 1962 e continua sendo o único filme brasileiro a receber essa premiação, marco na projeção internacional do cinema nacional."
+                                   },
+                                   {
+                                       "id":  "obra-pagador-promessas-q2",
+                                       "enunciado":  "O impasse entre Zé do Burro e o Padre Olavo, no adro da igreja, expressa sobretudo qual tensão central do filme?",
+                                       "alternativas":  {
+                                                            "a":  "A disputa antiga entre fazendeiros e trabalhadores rurais pela posse de terras na região baiana.",
+                                                            "b":  "O confronto de gerações dentro de uma mesma família de trabalhadores rurais.",
+                                                            "c":  "O choque entre a fé popular sincrética afro-católica e a ortodoxia da Igreja oficial.",
+                                                            "d":  "Uma rivalidade pessoal antiga e não revelada entre o protagonista e o padre da paróquia."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "O filme dramatiza o choque entre a religiosidade popular, que não separa catolicismo e candomblé, e a ortodoxia da Igreja institucional, que rejeita a promessa por ter sido feita a um orixá."
+                                   },
+                                   {
+                                       "id":  "obra-pagador-promessas-q3",
+                                       "enunciado":  "Segundo a trama, o que motiva a promessa de Zé do Burro de carregar a cruz até a igreja de Santa Bárbara?",
+                                       "alternativas":  {
+                                                            "a":  "O agradecimento pela cura do burro doente, após pedido feito a Iansã num terreiro de candomblé.",
+                                                            "b":  "A tentativa de arrecadar esmolas dos fiéis durante os quarenta quilômetros de caminhada.",
+                                                            "c":  "O cumprimento de uma penitência que lhe havia sido imposta anteriormente pelo próprio Padre Olavo.",
+                                                            "d":  "A vontade de provar publicamente, diante de toda a comunidade, sua fidelidade exclusiva ao catolicismo."
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "Zé promete a Iansã, orixá sincretizado com Santa Bárbara, carregar a cruz caso seu burro doente se curasse; a graça alcançada é o que o obriga a cumprir a promessa."
+                                   },
+                                   {
+                                       "id":  "obra-pagador-promessas-q4",
+                                       "texto_apoio":  "Tanto \u0027O Pagador de Promessas\u0027 quanto \u0027O Auto da Compadecida\u0027 colocam personagens populares em atrito com figuras de autoridade religiosa.",
+                                       "enunciado":  "Qual diferença marcante separa o tratamento desse tema nos dois filmes?",
+                                       "alternativas":  {
+                                                            "a":  "O primeiro se passa em ambiente urbano moderno; o segundo, num mosteiro medieval da Europa ocidental.",
+                                                            "b":  "O primeiro condena por completo a religiosidade popular; o segundo condena por completo a instituição eclesiástica.",
+                                                            "c":  "O primeiro é trágico e termina em morte; o segundo é cômico e termina em salvação divina.",
+                                                            "d":  "O primeiro é uma comédia leve de costumes; o segundo é essencialmente um drama policial urbano."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "Pagador de Promessas é um drama trágico que termina com a morte do protagonista, enquanto Auto da Compadecida trata temas semelhantes com humor popular e um desfecho fantástico de misericórdia divina."
+                                   },
+                                   {
+                                       "id":  "obra-pagador-promessas-q5",
+                                       "enunciado":  "O que sugere o desfecho do filme, em que o corpo de Zé do Burro é carregado para dentro da igreja sobre a própria cruz que ele erguera?",
+                                       "alternativas":  {
+                                                            "a":  "Que a Igreja passou a reconhecer formalmente o candomblé como religião equivalente ao catolicismo.",
+                                                            "b":  "Que a multidão pretendia usar o corpo como símbolo de uma revolta armada contra o governo, ideia ligada ao clima político da época.",
+                                                            "c":  "Que Zé do Burro, na verdade, havia mentido sobre a promessa feita à sua divindade, apenas para comover os fiéis presentes.",
+                                                            "d":  "Que o reconhecimento negado ao homem vivo pela Igreja só se realiza, de forma trágica, após sua morte."
+                                                        },
+                                       "resposta":  "d",
+                                       "explicacao":  "A cena final é irônica: o ingresso que a Igreja recusou a Zé em vida acontece apenas com sua morte, quando a multidão o carrega para dentro do templo sobre a cruz."
+                                   }
+                               ],
+    "obra-auto-compadecida":  [
+                                  {
+                                      "id":  "obra-auto-compadecida-q1",
+                                      "enunciado":  "O longa-metragem \u0027O Auto da Compadecida\u0027 (2000), dirigido por Guel Arraes, tem qual origem imediata?",
+                                      "alternativas":  {
+                                                           "a":  "Foi adaptado diretamente de um filme espanhol homônimo lançado nos anos 1950.",
+                                                           "b":  "Foi originalmente uma minissérie da Rede Globo, exibida em 1999, depois remontada para os cinemas.",
+                                                           "c":  "Nasceu de um roteiro inédito, escrito exclusivamente para o cinema, sem relação com produções de TV.",
+                                                           "d":  "Foi rodado originalmente como curta-metragem estudantil ainda na década de 1970."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "O filme nasceu de uma minissérie da Rede Globo exibida em 1999; dado o sucesso, Guel Arraes remontou o material em versão para os cinemas, lançada em 2000."
+                                  },
+                                  {
+                                      "id":  "obra-auto-compadecida-q2",
+                                      "enunciado":  "A resolução da trama no Juízo Final, em que a Compadecida intercede por João Grilo, reforça qual leitura sobre religiosidade no filme?",
+                                      "alternativas":  {
+                                                           "a":  "A defesa de que apenas membros do clero têm autoridade legítima para perdoar pecados alheios.",
+                                                           "b":  "A crítica direta à própria existência de qualquer julgamento divino após a morte, ausente do desfecho da trama.",
+                                                           "c":  "A ideia de que pecados cometidos em vida não geram nenhuma consequência espiritual depois da morte.",
+                                                           "d":  "A valorização de uma espiritualidade popular compassiva, mais flexível que o julgamento rígido da lei."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "Ao fazer a Compadecida pesar as boas ações de João Grilo contra seus pecados, o filme valoriza uma espiritualidade popular mais misericordiosa do que a aplicação estrita da doutrina."
+                                  },
+                                  {
+                                      "id":  "obra-auto-compadecida-q3",
+                                      "enunciado":  "Quais atores interpretam, respectivamente, João Grilo e Chicó no filme?",
+                                      "alternativas":  {
+                                                           "a":  "Selton Mello interpreta João Grilo, e Rodrigo Santoro interpreta Chicó.",
+                                                           "b":  "Lázaro Ramos interpreta João Grilo, e Wagner Moura interpreta Chicó.",
+                                                           "c":  "Matheus Nachtergaele interpreta João Grilo, e Selton Mello interpreta Chicó.",
+                                                           "d":  "Marco Nanini interpreta João Grilo, e Matheus Nachtergaele interpreta Chicó."
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "Matheus Nachtergaele interpreta João Grilo e Selton Mello interpreta Chicó, a dupla de protagonistas trapaceiros do sertão de Taperoá."
+                                  },
+                                  {
+                                      "id":  "obra-auto-compadecida-q4",
+                                      "texto_apoio":  "\u0027Cabra Marcado para Morrer\u0027 é um documentário construído sobre fatos históricos reais.",
+                                      "enunciado":  "Diferentemente dele, \u0027O Auto da Compadecida\u0027 se caracteriza por que traço central de sua estrutura?",
+                                      "alternativas":  {
+                                                           "a":  "É uma ficção baseada em fatos policiais reais ocorridos na Paraíba dos anos 1960.",
+                                                           "b":  "É uma animação totalmente desvinculada de qualquer fonte literária anterior ao roteiro.",
+                                                           "c":  "É também um documentário, mas voltado à vida do dramaturgo Ariano Suassuna.",
+                                                           "d":  "É uma ficção cômica e fantástica, adaptada de peça inspirada no cordel nordestino."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "O Auto da Compadecida é uma ficção cômica adaptada da peça de Ariano Suassuna (1955), que bebe do cordel e do folclore nordestino, diferente do registro documental de Cabra Marcado para Morrer."
+                                  },
+                                  {
+                                      "id":  "obra-auto-compadecida-q5",
+                                      "enunciado":  "No julgamento final, a Compadecida menciona um gesto de bondade de João Grilo para com um animal a fim de amenizar sua condenação. O que essa passagem sugere sobre a moral do filme?",
+                                      "alternativas":  {
+                                                           "a":  "Que a bondade só é reconhecida quando praticada publicamente, diante de testemunhas.",
+                                                           "b":  "Que João Grilo jamais cometeu qualquer falta grave ao longo de toda a história, apesar das trapaças relatadas.",
+                                                           "c":  "Que os animais têm, na trama, poder de julgar diretamente os seres humanos, papel que cabe apenas à Compadecida.",
+                                                           "d":  "Que pequenos gestos de bondade podem pesar mais que uma vida inteira de espertezas e trapaças."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "A cena sugere que, na moral do filme, gestos simples de bondade têm peso decisivo no julgamento de uma vida marcada por pequenas trapaças e espertezas de sobrevivência."
+                                  }
+                              ],
+    "obra-cabra-marcado":  [
+                               {
+                                   "id":  "obra-cabra-marcado-q1",
+                                   "enunciado":  "O que interrompeu as filmagens originais de \u0027Cabra Marcado para Morrer\u0027, iniciadas por Eduardo Coutinho em 1962?",
+                                   "alternativas":  {
+                                                        "a":  "O golpe militar de 1964, que perseguiu a equipe e os camponeses envolvidos na produção.",
+                                                        "b":  "Um acidente com os equipamentos que destruiu parte do material já filmado.",
+                                                        "c":  "A desistência voluntária do diretor, que preferiu se dedicar a outro projeto.",
+                                                        "d":  "A falta de recursos financeiros da produtora responsável pela realização do filme."
+                                                    },
+                                   "resposta":  "a",
+                                   "explicacao":  "As filmagens, iniciadas em 1962, foram interrompidas pelo golpe militar de abril de 1964, que perseguiu a equipe e os camponeses que participavam da produção, obrigando muitos a se esconder."
+                               },
+                               {
+                                   "id":  "obra-cabra-marcado-q2",
+                                   "enunciado":  "De que forma a própria trajetória de produção do filme reflete o tema histórico que ele aborda?",
+                                   "alternativas":  {
+                                                        "a":  "A produção contínua e sem interrupções demonstra a estabilidade das instituições democráticas do período.",
+                                                        "b":  "A interrupção pelo golpe de 1964 e a retomada em 1981 corporificam a própria ruptura histórica.",
+                                                        "c":  "O longo intervalo entre as filmagens se deveu apenas a razões estéticas do diretor.",
+                                                        "d":  "O filme foi produzido inteiramente sem qualquer interferência do contexto político da época."
+                                                    },
+                                   "resposta":  "b",
+                                   "explicacao":  "A interrupção do projeto pelo golpe de 1964 e sua retomada quase vinte anos depois materializam, na própria história do filme, a ruptura histórica e a repressão que a obra tematiza."
+                               },
+                               {
+                                   "id":  "obra-cabra-marcado-q3",
+                                   "enunciado":  "Quem é Elizabeth Teixeira e qual seu papel no filme?",
+                                   "alternativas":  {
+                                                        "a":  "Atriz profissional contratada para viver uma camponesa fictícia, sem relação com fatos reais.",
+                                                        "b":  "Deputada federal que apoiou politicamente a retomada das filmagens em 1981, sem ligação com as Ligas Camponesas.",
+                                                        "c":  "Viúva do líder camponês João Pedro Teixeira; interpreta a si mesma na ficção e no documentário.",
+                                                        "d":  "Jornalista responsável pela reportagem que originou o roteiro do filme, publicada antes de 1964."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "Elizabeth Teixeira, viúva do líder camponês assassinado João Pedro Teixeira, interpreta a si mesma na reconstituição de sua própria história, tanto na ficção interrompida quanto no documentário concluído em 1984."
+                               },
+                               {
+                                   "id":  "obra-cabra-marcado-q4",
+                                   "texto_apoio":  "\u0027O Auto da Compadecida\u0027 é uma ficção cômica adaptada de peça teatral.",
+                                   "enunciado":  "Já \u0027Cabra Marcado para Morrer\u0027 se define por qual característica central?",
+                                   "alternativas":  {
+                                                        "a":  "É um documentário que mistura material de arquivo e depoimentos, construído a partir de fatos reais.",
+                                                        "b":  "É uma comédia musical sobre a vida cotidiana de camponeses nordestinos, ambientada na Paraíba.",
+                                                        "c":  "É uma ficção histórica ambientada em período anterior à chegada dos portugueses ao Brasil.",
+                                                        "d":  "É uma animação em stop-motion produzida ao longo de duas décadas de trabalho, prazo real do projeto."
+                                                    },
+                                   "resposta":  "a",
+                                   "explicacao":  "Cabra Marcado para Morrer é um documentário que combina material fílmico de 1964 com depoimentos e o reencontro dos participantes reais, distinto do registro ficcional de Auto da Compadecida."
+                               },
+                               {
+                                   "id":  "obra-cabra-marcado-q5",
+                                   "enunciado":  "O reencontro de Eduardo Coutinho com Elizabeth Teixeira, quase vinte anos depois do início das filmagens, é apresentado no filme sobretudo como:",
+                                   "alternativas":  {
+                                                        "a":  "Um momento marcado pelo peso do tempo e do medo, revelando anos de identidade escondida.",
+                                                        "b":  "Uma sequência de tom cômico que alivia o clima do documentário, recurso incomum em obras sobre a ditadura.",
+                                                        "c":  "Uma cena de reconciliação política entre antigos camponeses e fazendeiros da região.",
+                                                        "d":  "O instante em que Elizabeth decide processar judicialmente os responsáveis pela morte do marido."
+                                                    },
+                                   "resposta":  "a",
+                                   "explicacao":  "O reencontro capta o peso do tempo e do medo acumulados sobre Elizabeth Teixeira, que precisou viver anos escondida sob identidade falsa por causa da perseguição política movida pela ditadura."
+                               }
+                           ],
+    "obra-que-horas-ela-volta":  [
+                                     {
+                                         "id":  "obra-que-horas-ela-volta-q1",
+                                         "enunciado":  "\u0027Que Horas Ela Volta?\u0027 (2015), de Anna Muylaert, teve repercussão internacional relevante. Qual alternativa descreve corretamente esse alcance?",
+                                         "alternativas":  {
+                                                              "a":  "Foi o primeiro longa-metragem brasileiro exibido na competição oficial de Cannes, em edição posterior ao lançamento.",
+                                                              "b":  "Recebeu o Oscar de melhor filme internacional na cerimônia realizada em 2016, ano de sua estreia no Brasil.",
+                                                              "c":  "Foi retirado de cartaz em festivais europeus por decisão de censura, medida atribuída a autoridades locais.",
+                                                              "d":  "Foi exibido em festivais como Sundance e Berlim, circulando no exterior como \u0027The Second Mother\u0027."
+                                                          },
+                                         "resposta":  "d",
+                                         "explicacao":  "O filme foi exibido em festivais como Sundance e Berlim, onde recebeu prêmio de atuação, e circulou internacionalmente com o título \u0027The Second Mother\u0027."
+                                     },
+                                     {
+                                         "id":  "obra-que-horas-ela-volta-q2",
+                                         "enunciado":  "A chegada de Jéssica à casa onde a mãe trabalha expõe qual característica da estrutura social retratada no filme?",
+                                         "alternativas":  {
+                                                              "a":  "A ideia de que o conflito mostrado é apenas geracional, sem relação com desigualdade social.",
+                                                              "b":  "A persistência de hierarquias de classe mesmo em famílias urbanas que se consideram liberais.",
+                                                              "c":  "A adesão total da família patroa aos valores igualitários que professa publicamente.",
+                                                              "d":  "A ausência completa de qualquer diferença de classe entre patrões e empregados da casa."
+                                                          },
+                                         "resposta":  "b",
+                                         "explicacao":  "O filme mostra como hierarquias de classe e regras não-ditas de \u0027lugar\u0027 persistem mesmo em lares urbanos e discursivamente liberais, evidenciadas quando Jéssica rompe essas fronteiras sem perceber que existem."
+                                     },
+                                     {
+                                         "id":  "obra-que-horas-ela-volta-q3",
+                                         "enunciado":  "Qual é o motivo da viagem de Jéssica, filha de Val, a São Paulo?",
+                                         "alternativas":  {
+                                                              "a":  "Acompanhar, na capital, um tratamento médico de longa duração.",
+                                                              "b":  "Participar do casamento de um membro da família dos patrões de sua mãe.",
+                                                              "c":  "Prestar o vestibular de arquitetura em uma universidade de São Paulo.",
+                                                              "d":  "Buscar emprego como empregada doméstica na mesma casa onde a mãe trabalha."
+                                                          },
+                                         "resposta":  "c",
+                                         "explicacao":  "Jéssica viaja a São Paulo para prestar o vestibular de arquitetura, exame em que se sai melhor do que o filho dos patrões de sua mãe."
+                                     },
+                                     {
+                                         "id":  "obra-que-horas-ela-volta-q4",
+                                         "texto_apoio":  "Em \u0027O Pagador de Promessas\u0027, um evento aparentemente simples desencadeia uma crise que expõe tensões sociais mais profundas.",
+                                         "enunciado":  "Qual é o evento equivalente em \u0027Que Horas Ela Volta?\u0027",
+                                         "alternativas":  {
+                                                              "a":  "A ocupação, por Jéssica, de espaços reservados implicitamente aos patrões, como piscina e hóspedes.",
+                                                              "b":  "A descoberta de um grave segredo financeiro escondido havia anos pelos patrões, revelado durante a estadia de Jéssica.",
+                                                              "c":  "O retorno inesperado do marido de Val, depois de longos anos de ausência, pouco antes da viagem de Jéssica.",
+                                                              "d":  "A demissão sumária de Val, ocorrida logo nas primeiras cenas do filme, antes da chegada de Jéssica."
+                                                          },
+                                         "resposta":  "a",
+                                         "explicacao":  "É a ocupação por Jéssica de espaços simbolicamente reservados aos patrões, quarto de hóspedes, piscina, mesa de jantar, que desencadeia o desconforto e revela as hierarquias veladas da casa."
+                                     },
+                                     {
+                                         "id":  "obra-que-horas-ela-volta-q5",
+                                         "enunciado":  "A cena em que Jéssica se serve livremente de um sorvete guardado no freezer da casa, provocando desconforto nos patrões, ilustra principalmente:",
+                                         "alternativas":  {
+                                                              "a":  "A escassez de alimentos na casa, apresentada de forma exagerada como motivo central do enredo.",
+                                                              "b":  "A tentativa dos patrões de ensinar boas maneiras à filha da empregada, vista por eles como falta de educação.",
+                                                              "c":  "Como bens e espaços da casa seguem hierarquias implícitas de classe, e não regras declaradas.",
+                                                              "d":  "Um conflito de gerações entre Val e sua filha Jéssica, tratado como se não tivesse relação alguma com classe social."
+                                                          },
+                                         "resposta":  "c",
+                                         "explicacao":  "A cena mostra que o acesso a certos bens e espaços da casa é regulado por uma hierarquia de classe não declarada, que Jéssica rompe sem perceber que está violando uma regra implícita."
+                                     }
+                                 ],
+    "obra-laranja-mecanica":  [
+                                  {
+                                      "id":  "obra-laranja-mecanica-q1",
+                                      "enunciado":  "Sobre a produção de Laranja Mecânica (1971), de Stanley Kubrick, é correto afirmar que",
+                                      "alternativas":  {
+                                                           "a":  "o filme venceu os prêmios de Melhor Filme e de Melhor Diretor na cerimônia do Oscar realizada em 1972, além de outras categorias",
+                                                           "b":  "a obra adapta o romance de Anthony Burgess e foi retirada de circulação no Reino Unido por decisão do próprio Kubrick",
+                                                           "c":  "o roteiro foi escrito inteiramente por Kubrick, sem qualquer base em romances ou peças de outros autores",
+                                                           "d":  "a obra permaneceu proibida de exibição comercial nos Estados Unidos durante toda a década de 1970 e parte da seguinte"
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "Laranja Mecânica adapta o romance de Anthony Burgess (1962). Após relatos de crimes supostamente inspirados no filme, Kubrick solicitou sua retirada de circulação no Reino Unido, medida só revertida após sua morte, em 1999. O filme foi indicado a quatro Oscars, mas não venceu nenhum, e circulou normalmente nos Estados Unidos, com classificação restritiva."
+                                  },
+                                  {
+                                      "id":  "obra-laranja-mecanica-q2",
+                                      "enunciado":  "O tratamento a que Alex é submetido na prisão, conhecido como Técnica Ludovico, está no centro do debate do filme sobre",
+                                      "alternativas":  {
+                                                           "a":  "a eficácia comprovada de tratamentos psiquiátricos tradicionais aplicados a casos de reincidência criminal grave",
+                                                           "b":  "a necessidade de ampliar as penas de prisão para crimes violentos cometidos por jovens infratores",
+                                                           "c":  "a possibilidade de o Estado anular o livre-arbítrio de um indivíduo em nome da segurança pública",
+                                                           "d":  "os limites da censura estatal aplicada aos meios de comunicação de massa em regimes autoritários"
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "A Técnica Ludovico condiciona Alex a sentir náusea física diante de qualquer ato violento, retirando-lhe a capacidade de escolher entre o bem e o mal. O filme discute, assim, se uma sociedade mais \u0027segura\u0027 à custa do livre-arbítrio individual ainda é desejável, tema central do eixo modernidade/pós-modernidade."
+                                  },
+                                  {
+                                      "id":  "obra-laranja-mecanica-q3",
+                                      "enunciado":  "Em Laranja Mecânica, o grupo de jovens liderado por Alex DeLarge é caracterizado por",
+                                      "alternativas":  {
+                                                           "a":  "praticar atos de violência gratuita e se comunicar por meio da gíria inventada Nadsat",
+                                                           "b":  "trabalhar como funcionários subalternos da prisão em que o próprio Alex cumpre pena",
+                                                           "c":  "vestir uniformes escolares e frequentar diariamente um internato disciplinar extremamente rigoroso",
+                                                           "d":  "integrar uma orquestra amadora dedicada exclusivamente à execução de obras de Beethoven"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Alex e seus companheiros de gangue, chamados de \u0027drugues\u0027, praticam assaltos e agressões por puro prazer estético e se comunicam através do Nadsat, gíria fictícia criada por Anthony Burgess que mescla inglês e russo."
+                                  },
+                                  {
+                                      "id":  "obra-laranja-mecanica-q4",
+                                      "texto_apoio":  "Laranja Mecânica e The Post: A Guerra Secreta integram o eixo modernidade/pós-modernidade da FGV.",
+                                      "enunciado":  "Comparando as duas obras quanto à desconfiança em relação às instituições, é correto afirmar que",
+                                      "alternativas":  {
+                                                           "a":  "os dois filmes discutem a moralidade da pena de morte para jovens infratores, tema ausente na obra de Kubrick e também na de Spielberg",
+                                                           "b":  "os dois filmes discutem apenas a validade de eleições presidenciais americanas, sem qualquer relação com liberdade individual ou de imprensa",
+                                                           "c":  "os dois filmes tratam do papel da família na educação dos filhos como o único tema efetivamente compartilhado entre eles",
+                                                           "d":  "Laranja Mecânica questiona o controle da mente de um indivíduo pelo Estado, e The Post questiona o sigilo estatal sobre informações de interesse público"
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "Laranja Mecânica coloca em xeque o condicionamento comportamental imposto pelo Estado; The Post discute o sigilo governamental sobre a Guerra do Vietnã. Ambos expõem, por caminhos diferentes, a fragilidade da confiança nas instituições, marca da transição para a pós-modernidade."
+                                  },
+                                  {
+                                      "id":  "obra-laranja-mecanica-q5",
+                                      "enunciado":  "O desfecho de Laranja Mecânica, em que o condicionamento de Alex é revertido pelo governo, pode ser interpretado como",
+                                      "alternativas":  {
+                                                           "a":  "uma crítica ao uso político da \u0027cura\u0027, mais preocupada com a imagem do governo do que com valores morais",
+                                                           "b":  "uma prova de que a violência juvenil retratada no filme era exagerada e sem qualquer fundamento social real",
+                                                           "c":  "uma celebração do sucesso definitivo da Técnica Ludovico como política pública de segurança nacional",
+                                                           "d":  "um indício de que Alex jamais havia sido de fato submetido a qualquer tratamento científico verdadeiro"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Ao final, o governo reverte o condicionamento de Alex por conveniência política, diante da repercussão negativa do caso, e não por reconhecer um erro moral no tratamento. A cena final sugere que a \u0027cura\u0027 nunca foi, de fato, uma questão ética, mas de imagem pública."
+                                  }
+                              ],
+    "obra-babel":  [
+                       {
+                           "id":  "obra-babel-q1",
+                           "enunciado":  "Sobre a produção de Babel (2006), de Alejandro González Iñárritu, é correto afirmar que",
+                           "alternativas":  {
+                                                "a":  "foi filmado inteiramente em estúdio, sem locações reais nos países retratados na história",
+                                                "b":  "foi o primeiro longa-metragem dirigido por Iñárritu ao longo de toda a sua carreira",
+                                                "c":  "encerra a chamada \u0027trilogia da morte\u0027 de Iñárritu e Guillermo Arriaga, iniciada com Amores Perros",
+                                                "d":  "encerra uma trilogia iniciada por outro diretor, da qual Iñárritu assumiu apenas o capítulo final"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Babel é o terceiro filme da \u0027trilogia da morte\u0027 de Iñárritu e do roteirista Guillermo Arriaga, precedido por Amores Perros (2000) e 21 Gramas (2003). Iñárritu já havia dirigido outros longas antes de Babel, e o filme foi rodado em locações reais no Marrocos, no México e no Japão."
+                       },
+                       {
+                           "id":  "obra-babel-q2",
+                           "enunciado":  "A estrutura narrativa de Babel, que entrelaça histórias no Marrocos, no México, nos Estados Unidos e no Japão, ilustra o eixo da globalização ao mostrar que",
+                           "alternativas":  {
+                                                "a":  "fronteiras nacionais bem definidas garantem, na prática, a contenção de qualquer crise local ocorrida em um único país",
+                                                "b":  "a tecnologia de comunicação elimina por completo os mal-entendidos entre culturas diferentes",
+                                                "c":  "apenas países vizinhos geograficamente podem sofrer consequências recíprocas de um mesmo evento",
+                                                "d":  "decisões e acidentes ocorridos em um ponto do globo produzem consequências em lugares totalmente distantes"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O tiro acidental disparado no Marrocos desencadeia efeitos no México, nos Estados Unidos e no Japão, mostrando como a interdependência global torna irrelevante a distância geográfica entre causa e consequência, tema central do eixo globalização."
+                       },
+                       {
+                           "id":  "obra-babel-q3",
+                           "enunciado":  "O elo material que conecta as quatro histórias de Babel é",
+                           "alternativas":  {
+                                                "a":  "uma herança financeira disputada por membros distantes de uma mesma família",
+                                                "b":  "um rifle originalmente presenteado por um caçador japonês ao seu guia marroquino",
+                                                "c":  "um telefone celular perdido por um turista durante uma viagem internacional",
+                                                "d":  "um documento diplomático extraviado entre duas embaixadas em países diferentes"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O rifle usado no disparo acidental no deserto marroquino havia sido presenteado por um caçador japonês, pai de Chieko, ao seu guia local — esse objeto é o fio que liga as histórias do Marrocos e do Japão às demais tramas do filme."
+                       },
+                       {
+                           "id":  "obra-babel-q4",
+                           "texto_apoio":  "Babel e Persépolis integram o eixo globalização da FGV.",
+                           "enunciado":  "Comparando as duas obras, é correto afirmar que",
+                           "alternativas":  {
+                                                "a":  "os dois filmes narram apenas experiências de imigração legal e bem-sucedida, sem qualquer conflito ou barreira cultural",
+                                                "b":  "Babel tece uma rede coral de histórias entrelaçadas por um só evento, e Persépolis narra o exílio individual de uma só protagonista",
+                                                "c":  "ambos os filmes se passam integralmente dentro de um único país, sem que nenhum personagem cruze fronteiras",
+                                                "d":  "Babel é uma narrativa autobiográfica em primeira pessoa, e Persépolis é uma ficção coral sem protagonista definido"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Babel adota estrutura de múltiplas histórias paralelas para mostrar como o mundo globalizado interliga destinos distantes; Persépolis, ao contrário, acompanha uma única protagonista e sua experiência pessoal de migração e exílio entre Irã e Europa."
+                       },
+                       {
+                           "id":  "obra-babel-q5",
+                           "enunciado":  "O título Babel remete a",
+                           "alternativas":  {
+                                                "a":  "o episódio bíblico da Torre de Babel, associado à fragmentação linguística entre os povos da humanidade",
+                                                "b":  "uma técnica específica de montagem paralela desenvolvida exclusivamente por Iñárritu para esta obra em particular",
+                                                "c":  "um tratado internacional de comunicação assinado logo após o fim da Segunda Guerra Mundial",
+                                                "d":  "uma cidade fictícia criada especialmente pelo roteirista para unificar as quatro tramas do filme"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O título faz alusão direta ao relato bíblico da Torre de Babel, no qual a diversidade de línguas impede a compreensão mútua entre os povos, metáfora para as falhas de comunicação que atravessam as quatro histórias do filme."
+                       }
+                   ],
+    "obra-the-post":  [
+                          {
+                              "id":  "obra-the-post-q1",
+                              "enunciado":  "Sobre a produção de The Post: A Guerra Secreta (2017), de Steven Spielberg, é correto afirmar que",
+                              "alternativas":  {
+                                                   "a":  "foi protagonizado por Meryl Streep, como a editora Katharine Graham, e por Tom Hanks, como o editor-chefe Ben Bradlee",
+                                                   "b":  "foi rodado ao longo de mais de cinco anos de pré-produção e de extensa pesquisa histórica prévia",
+                                                   "c":  "narra acontecimentos inteiramente fictícios, sem qualquer relação com um caso real de censura à imprensa",
+                                                   "d":  "não recebeu nenhuma indicação a prêmios da Academia de Artes e Ciências Cinematográficas daquele ano"
+                                               },
+                              "resposta":  "a",
+                              "explicacao":  "Meryl Streep interpreta Katharine Graham, primeira mulher à frente de um grande jornal americano, e Tom Hanks interpreta Ben Bradlee. O filme retrata o caso real dos Pentagon Papers, foi produzido em ritmo acelerado e recebeu duas indicações ao Oscar, incluindo Melhor Filme."
+                          },
+                          {
+                              "id":  "obra-the-post-q2",
+                              "enunciado":  "O conflito central de The Post opõe",
+                              "alternativas":  {
+                                                   "a":  "o direito à privacidade de cidadãos comuns e o interesse comercial de jornais sensacionalistas",
+                                                   "b":  "a liberdade de imprensa e a razão de Estado que buscava manter em sigilo dados sobre a Guerra do Vietnã",
+                                                   "c":  "sindicatos de jornalistas e proprietários de jornais em uma disputa trabalhista salarial antiga",
+                                                   "d":  "duas emissoras de televisão concorrentes disputando direitos exclusivos de transmissão esportiva internacional"
+                                               },
+                              "resposta":  "b",
+                              "explicacao":  "O filme narra a decisão do Washington Post de publicar os Pentagon Papers, documentos que revelavam que o governo americano sabia, havia anos, que a Guerra do Vietnã era irrecuperável, colocando em tensão a liberdade de imprensa e a alegada segurança nacional."
+                          },
+                          {
+                              "id":  "obra-the-post-q3",
+                              "enunciado":  "Os documentos conhecidos como Pentagon Papers, centrais na trama de The Post, foram",
+                              "alternativas":  {
+                                                   "a":  "forjados por jornalistas do próprio Washington Post para pressionar politicamente o governo Nixon",
+                                                   "b":  "vazados pelo analista Daniel Ellsberg, da RAND Corporation, e publicados primeiro pelo New York Times",
+                                                   "c":  "obtidos por agentes soviéticos e repassados secretamente à imprensa americana durante a Guerra Fria",
+                                                   "d":  "produzidos e divulgados oficialmente pelo próprio governo americano como gesto de plena transparência"
+                                               },
+                              "resposta":  "b",
+                              "explicacao":  "Os Pentagon Papers foram vazados por Daniel Ellsberg, analista da RAND Corporation, e publicados inicialmente pelo New York Times, que foi impedido pela Justiça de continuar a divulgação, o que levou o Washington Post a decidir publicar o material."
+                          },
+                          {
+                              "id":  "obra-the-post-q4",
+                              "texto_apoio":  "The Post e Laranja Mecânica integram o eixo modernidade/pós-modernidade da FGV.",
+                              "enunciado":  "Comparando as duas obras, nota-se que",
+                              "alternativas":  {
+                                                   "a":  "The Post defende abertamente o controle estatal da informação, ao contrário do que ocorre em Laranja Mecânica",
+                                                   "b":  "os dois filmes se passam exatamente na mesma década e retratam o mesmo governo americano em exercício",
+                                                   "c":  "apenas Laranja Mecânica trata de temas ligados ao governo, e The Post é centrado só na vida privada de seus personagens",
+                                                   "d":  "os dois filmes retratam, sob ângulos diferentes, a fragilidade da confiança nas instituições estatais"
+                                               },
+                              "resposta":  "d",
+                              "explicacao":  "Laranja Mecânica questiona o direito do Estado de condicionar a mente de um cidadão; The Post questiona o direito do Estado de ocultar informações da população. Ambos, por vias distintas, expõem a desconfiança institucional típica da virada para a pós-modernidade."
+                          },
+                          {
+                              "id":  "obra-the-post-q5",
+                              "enunciado":  "A cena final de The Post, que faz referência ao início da investigação do caso Watergate, tem como efeito",
+                              "alternativas":  {
+                                                   "a":  "encerrar a narrativa sem qualquer relação com outros eventos históricos da mesma década",
+                                                   "b":  "sugerir que o jornal Washington Post encerrou suas atividades logo após o caso retratado no filme",
+                                                   "c":  "situar o caso dos Pentagon Papers como prenúncio de uma crise institucional ainda maior no governo Nixon",
+                                                   "d":  "indicar que o escândalo Watergate já havia sido totalmente resolvido antes da publicação dos Pentagon Papers"
+                                               },
+                              "resposta":  "c",
+                              "explicacao":  "Ao encerrar com uma alusão à invasão do Watergate, o filme conecta o episódio dos Pentagon Papers a uma sequência histórica de escândalos que aprofundou a desconfiança pública nas instituições americanas, tema retomado por Todos os Homens do Presidente."
+                          }
+                      ],
+    "obra-persepolis":  [
+                            {
+                                "id":  "obra-persepolis-q1",
+                                "enunciado":  "Sobre a produção de Persépolis (2007), é correto afirmar que",
+                                "alternativas":  {
+                                                     "a":  "foi dirigido exclusivamente por Vincent Paronnaud, sem qualquer participação direta de Marjane Satrapi",
+                                                     "b":  "venceu o Oscar de Melhor Filme de Animação na cerimônia realizada naquele ano, superando diversos outros concorrentes fortes",
+                                                     "c":  "foi produzido inteiramente nos Estados Unidos, sem qualquer envolvimento de estúdios europeus na animação",
+                                                     "d":  "é uma animação majoritariamente em preto e branco, baseada na graphic novel autobiográfica de Marjane Satrapi"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Persépolis foi codirigido por Marjane Satrapi e Vincent Paronnaud, com base na graphic novel autobiográfica de Satrapi, em animação predominantemente preto e branco. O filme venceu o Prêmio do Júri em Cannes, mas perdeu o Oscar de Melhor Animação para Ratatouille."
+                            },
+                            {
+                                "id":  "obra-persepolis-q2",
+                                "enunciado":  "A trajetória da protagonista de Persépolis ilustra o eixo da globalização porque",
+                                "alternativas":  {
+                                                     "a":  "descreve o processo de integração econômica europeia após a criação da União Europeia em 1993",
+                                                     "b":  "narra exclusivamente a rotina escolar de uma adolescente, sem qualquer deslocamento geográfico relevante",
+                                                     "c":  "mostra a reconstrução identitária de uma jovem dividida entre a cultura iraniana de origem e o exílio europeu",
+                                                     "d":  "concentra-se apenas nos combates da guerra Irã-Iraque, sem abordar a vida pessoal da protagonista"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "Marji migra entre Irã e Europa (Viena e depois França), vivendo o desafio de reconstruir sua identidade dividida entre dois mundos culturais, narrativa típica das discussões sobre migração e circulação de pessoas em um mundo globalizado."
+                            },
+                            {
+                                "id":  "obra-persepolis-q3",
+                                "enunciado":  "Na trama de Persépolis, os pais de Marji decidem enviá-la para estudar fora do Irã principalmente",
+                                "alternativas":  {
+                                                     "a":  "para que ela pudesse concorrer a uma bolsa em uma universidade europeia de prestígio internacional",
+                                                     "b":  "por exigência formal de uma ordem judicial que determinava sua saída imediata do país",
+                                                     "c":  "porque a família havia perdido toda a renda e não conseguia mais sustentá-la financeiramente em casa",
+                                                     "d":  "como forma de protegê-la dos riscos crescentes da guerra Irã-Iraque e da repressão do regime"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Diante do agravamento da guerra Irã-Iraque e da crescente repressão às liberdades individuais, sobretudo das mulheres, os pais de Marji optam por enviá-la ainda adolescente para estudar em Viena, na Áustria, buscando protegê-la desses riscos."
+                            },
+                            {
+                                "id":  "obra-persepolis-q4",
+                                "texto_apoio":  "Persépolis e Babel integram o eixo globalização da FGV.",
+                                "enunciado":  "Comparando as duas obras, é correto dizer que",
+                                "alternativas":  {
+                                                     "a":  "Persépolis narra uma experiência individual de exílio, e Babel tece uma rede de histórias ligadas por um só evento",
+                                                     "b":  "os dois filmes adotam estrutura coral, com múltiplos protagonistas vindos de diferentes países e continentes ao redor do mundo",
+                                                     "c":  "nenhum dos dois filmes aborda barreiras linguísticas ou culturais entre os personagens principais",
+                                                     "d":  "os dois filmes se passam majoritariamente em países situados no continente americano, e não na Ásia"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Persépolis segue a trajetória pessoal de uma única protagonista entre Irã e Europa; Babel, por sua vez, constrói uma narrativa coral que conecta quatro histórias em diferentes continentes a partir de um único evento desencadeador."
+                            },
+                            {
+                                "id":  "obra-persepolis-q5",
+                                "enunciado":  "O recurso de usar cenas coloridas no presente e animação em preto e branco nas lembranças, em Persépolis, tem como efeito",
+                                "alternativas":  {
+                                                     "a":  "reduzir custos de produção da animação, sem nenhuma intenção narrativa relevante por trás dessa escolha estética",
+                                                     "b":  "indicar que as cenas em preto e branco representam eventos que na verdade nunca aconteceram",
+                                                     "c":  "demarcar visualmente a fronteira entre o presente da narradora adulta e as lembranças de sua juventude",
+                                                     "d":  "sinalizar que a protagonista está sonhando ao longo de toda a narrativa em preto e branco"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "As molduras coloridas situam Marji já adulta, no presente da narração, enquanto o preto e branco marca visualmente o território da memória, sua infância e juventude no Irã e o período de exílio na Europa."
+                            }
+                        ],
+    "obra-lady-bird":  [
+                           {
+                               "id":  "obra-lady-bird-q1",
+                               "enunciado":  "Sobre a produção de Lady Bird: A Hora de Voar (2017), é correto afirmar que",
+                               "alternativas":  {
+                                                    "a":  "é o primeiro longa-metragem dirigido solo por Greta Gerwig, protagonizado por Saoirse Ronan e Laurie Metcalf",
+                                                    "b":  "foi filmado e ambientado majoritariamente em Nova York, cidade de destino final da protagonista",
+                                                    "c":  "não recebeu nenhuma indicação relevante em premiações da crítica especializada ou da Academia",
+                                                    "d":  "trata-se do primeiro trabalho de Greta Gerwig como atriz de cinema, antes de sua estreia oficial como diretora de longas-metragens"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Lady Bird marca a estreia de Greta Gerwig como diretora solo, com Saoirse Ronan e Laurie Metcalf nos papéis principais. A ação se passa majoritariamente em Sacramento, e o filme recebeu cinco indicações ao Oscar, incluindo Melhor Filme e Melhor Diretora."
+                           },
+                           {
+                               "id":  "obra-lady-bird-q2",
+                               "enunciado":  "O relacionamento entre Lady Bird e sua mãe, Marion, ao longo do filme, é marcado por",
+                               "alternativas":  {
+                                                    "a":  "uma harmonia constante e duradoura, sem qualquer tipo de divergência real sobre o futuro profissional da protagonista",
+                                                    "b":  "uma disputa de natureza exclusivamente profissional, já que ambas trabalham no mesmo hospital",
+                                                    "c":  "indiferença mútua, já que as duas praticamente não convivem ao longo de toda a narrativa",
+                                                    "d":  "amor intenso combinado a conflitos recorrentes sobre dinheiro, expectativas e o desejo de estudar longe de casa"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Marion, enfermeira exigente, e Lady Bird vivem uma relação de afeto profundo atravessada por atritos constantes, sobretudo relacionados às dificuldades financeiras da família e ao desejo da filha de cursar a faculdade longe de Sacramento."
+                           },
+                           {
+                               "id":  "obra-lady-bird-q3",
+                               "enunciado":  "O apelido \u0027Lady Bird\u0027, que a protagonista exige que usem para se referir a ela, pode ser interpretado como",
+                               "alternativas":  {
+                                                    "a":  "um apelido imposto pelas colegas de escola, que ela tenta abandonar ao longo de todo o filme",
+                                                    "b":  "uma homenagem que os próprios pais fizeram a uma avó de mesmo nome, segundo revela o filme",
+                                                    "c":  "uma referência direta a uma personagem de um livro infantil que ela lia quando criança",
+                                                    "d":  "uma afirmação de autonomia e identidade própria, escolhida pela personagem em oposição ao nome de batismo"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Christine se autodenomina \u0027Lady Bird\u0027, recusando o nome dado pelos pais, como gesto de autoinvenção e afirmação de identidade, parte central da tensão do filme entre a busca por individualidade e os laços de origem familiar."
+                           },
+                           {
+                               "id":  "obra-lady-bird-q4",
+                               "texto_apoio":  "Lady Bird e Laranja Mecânica integram o eixo modernidade/pós-modernidade da FGV.",
+                               "enunciado":  "Comparando as duas obras, observa-se que",
+                               "alternativas":  {
+                                                    "a":  "os dois filmes tratam, em registros distintos, da tensão entre autonomia individual e forças que buscam moldar o indivíduo",
+                                                    "b":  "Lady Bird se passa em uma monarquia europeia, e Laranja Mecânica se passa nos Estados Unidos da América",
+                                                    "c":  "os dois filmes retratam jovens que cometem crimes violentos como forma deliberada de protesto político",
+                                                    "d":  "nenhuma das duas obras aborda, de qualquer forma concreta, o tema da busca por identidade pessoal"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Lady Bird trata da tensão entre a autonomia de uma adolescente e as expectativas familiares e sociais que a cercam; Laranja Mecânica radicaliza esse debate ao colocar o Estado como força que busca eliminar o livre-arbítrio de um indivíduo."
+                           },
+                           {
+                               "id":  "obra-lady-bird-q5",
+                               "enunciado":  "O desfecho de Lady Bird, em que a protagonista se muda para estudar em Nova York, sugere que",
+                               "alternativas":  {
+                                                    "a":  "somente à distância, longe de Sacramento, ela passa a reconhecer valor no que antes queria deixar para trás",
+                                                    "b":  "ela desiste da faculdade ao perceber que não consegue se adaptar à vida fora de Sacramento",
+                                                    "c":  "a mudança de cidade resolve, de forma imediata e definitiva, todos os conflitos familiares vividos antes pela família",
+                                                    "d":  "ela rompe definitivamente qualquer vínculo afetivo com a mãe e com toda a cidade natal"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Longe da mãe pela primeira vez, Lady Bird começa a olhar com outros olhos para Sacramento e para a própria família, reconhecendo afeto e valor no que antes via apenas como um lugar do qual precisava escapar."
+                           }
+                       ],
+    "obra-com-que-roupa":  [
+                               {
+                                   "id":  "obra-com-que-roupa-q1",
+                                   "enunciado":  "\"Com que Roupa\", de Noel Rosa, foi composta em 1930, ano que também marcou um acontecimento decisivo na história política brasileira. Sobre o contexto de produção da canção, é correto afirmar que:",
+                                   "alternativas":  {
+                                                        "a":  "A canção foi composta décadas após a morte de Noel Rosa, como homenagem póstuma feita por outros sambistas da Vila Isabel.",
+                                                        "b":  "A canção só ganhou registro fonográfico nos anos 1960, quando o samba já havia perdido espaço para o rock nacional.",
+                                                        "c":  "A canção nasceu de uma encomenda oficial do governo Vargas para promover a etiqueta social entre as classes populares.",
+                                                        "d":  "A canção surge no mesmo ano da Revolução de 1930, período de consolidação do samba carioca como gênero urbano difundido pelo rádio."
+                                                    },
+                                   "resposta":  "d",
+                                   "explicacao":  "\"Com que Roupa\" foi composta e gravada em 1930, mesmo ano da Revolução que levou Vargas ao poder, período em que o samba carioca se consolidava como gênero urbano nacional, impulsionado pela expansão do rádio."
+                               },
+                               {
+                                   "id":  "obra-com-que-roupa-q2",
+                                   "enunciado":  "A ironia empregada por Noel Rosa em \"Com que Roupa\" ao tratar da falta de vestimenta adequada para frequentar ambientes da elite carioca funciona, no contexto da canção, principalmente como:",
+                                   "alternativas":  {
+                                                        "a":  "Manifesto político explícito contra o governo Vargas, comparável em tom aos discursos oficiais da época.",
+                                                        "b":  "Crítica exclusiva à moda europeia, sem qualquer relação com as diferenças econômicas entre os cariocas.",
+                                                        "c":  "Elogio velado aos costumes da elite, sugerindo que o narrador deseja apenas ser aceito nesse meio sem questionar suas regras.",
+                                                        "d":  "Recurso de humor que suaviza e evidencia, ao mesmo tempo, a desigualdade de classes por trás das convenções sociais da época."
+                                                    },
+                                   "resposta":  "d",
+                                   "explicacao":  "O humor da canção não anula a crítica social; pelo contrário, é o meio escolhido por Noel Rosa para tornar visível, de forma leve, a desigualdade e a exclusão social vividas por quem não podia seguir a etiqueta da elite."
+                               },
+                               {
+                                   "id":  "obra-com-que-roupa-q3",
+                                   "enunciado":  "Noel Rosa, autor de \"Com que Roupa\", é frequentemente descrito pela crítica como uma figura de trânsito entre dois universos do samba carioca do início do século XX. Esse trânsito refere-se:",
+                                   "alternativas":  {
+                                                        "a":  "À alternância entre composições de samba e peças eruditas para orquestra sinfônica ao longo de sua carreira.",
+                                                        "b":  "À transição entre o samba e o rock nacional, gênero que Noel Rosa teria ajudado a fundar nos anos 1950.",
+                                                        "c":  "À aproximação entre o samba do morro, associado às comunidades populares, e o samba do asfalto, ligado à boemia urbana.",
+                                                        "d":  "À divisão de sua obra entre canções feitas no Brasil e outras compostas durante um longo exílio na Europa."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "Noel Rosa, morador de Vila Isabel, é visto como uma ponte entre o samba de morro e o samba de asfalto, unindo em sua obra a linguagem popular e a observação irônica da vida urbana de diferentes classes sociais."
+                               },
+                               {
+                                   "id":  "obra-com-que-roupa-q4",
+                                   "enunciado":  "Tanto \"Com que Roupa\", de Noel Rosa, quanto \"Que País é Esse?\", da Legião Urbana, tratam de desigualdade e crítica social, mas se diferenciam principalmente:",
+                                   "alternativas":  {
+                                                        "a":  "No tema, pois \"Com que Roupa\" trata exclusivamente de moda e \"Que País é Esse?\" não aborda aspecto social algum.",
+                                                        "b":  "No gênero musical, já que \"Com que Roupa\" é uma balada romântica e \"Que País é Esse?\" é um samba-canção tradicional.",
+                                                        "c":  "No tom: enquanto Noel Rosa usa humor e ironia leve, a Legião Urbana adota um tom de denúncia direta e inconformada.",
+                                                        "d":  "Na autoria, uma vez que ambas as canções foram compostas pelo mesmo autor em décadas diferentes."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "Ambas tratam de crítica social e desigualdade, mas Noel Rosa opta pelo humor e pela ironia sutil, enquanto a Legião Urbana expressa indignação geracional direta com a herança de um país desigual."
+                               },
+                               {
+                                   "id":  "obra-com-que-roupa-q5",
+                                   "enunciado":  "O fato de a expressão \"com que roupa\" ter se tornado um ditado popular do português coloquial, usado para indicar constrangimento diante de situação inesperada, indica que:",
+                                   "alternativas":  {
+                                                        "a":  "A expressão perdeu totalmente o significado original e hoje é usada apenas em contextos de moda e vestuário, leitura pouco sustentada por estudiosos da língua.",
+                                                        "b":  "A canção de Noel Rosa transformou uma observação social específica de sua época em imagem de alcance duradouro na cultura brasileira.",
+                                                        "c":  "O sucesso do ditado se deve unicamente à melodia da canção, sem relação alguma com o sentido da letra, tese pouco aceita por estudiosos da língua.",
+                                                        "d":  "A expressão já existia na língua portuguesa antes da canção e Noel Rosa apenas repetiu um provérbio popular conhecido, hipótese não confirmada por dicionários da época."
+                                                    },
+                                   "resposta":  "b",
+                                   "explicacao":  "A permanência da expressão como ditado popular mostra como a observação social de Noel Rosa ultrapassou o contexto imediato da canção, tornando-se parte do repertório expressivo da língua portuguesa."
+                               }
+                           ],
+    "obra-calice-chico-gil":  [
+                                  {
+                                      "id":  "obra-calice-chico-gil-q1",
+                                      "enunciado":  "Sobre as circunstâncias de produção e apresentação de \"Cálice\", de Chico Buarque e Gilberto Gil, é correto afirmar que:",
+                                      "alternativas":  {
+                                                           "a":  "A canção só foi composta após o fim da ditadura militar, em 1985, como retrospectiva histórica do período, quando Chico Buarque já havia retomado sua carreira no Brasil.",
+                                                           "b":  "A canção foi liberada sem qualquer restrição pelos órgãos de censura assim que composta, ainda em 1968, mesmo período em que outros artistas enfrentavam prisão e exílio.",
+                                                           "c":  "A canção foi originalmente escrita em inglês e posteriormente traduzida para o português por Chico Buarque, que também compôs canções em parceria com artistas estrangeiros.",
+                                                           "d":  "A canção teve uma apresentação ao vivo interrompida por censores em 1973, antes de ser lançada oficialmente em disco anos depois."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "A canção foi composta no início dos anos 1970 e teve uma apresentação ao vivo interrompida por censores em 1973; seu lançamento oficial em disco só ocorreu alguns anos depois, já em contexto de abertura política gradual."
+                                  },
+                                  {
+                                      "id":  "obra-calice-chico-gil-q2",
+                                      "enunciado":  "O recurso central de \"Cálice\" — a exploração da semelhança sonora entre duas palavras de sentidos distintos — deve ser compreendido, no contexto da ditadura militar, como:",
+                                      "alternativas":  {
+                                                           "a":  "Homenagem a um poeta clássico português que teria usado o mesmo recurso em obras do século XVI, como Camões, referência maior da literatura em língua portuguesa.",
+                                                           "b":  "Simples brincadeira sonora sem qualquer intenção crítica, motivada apenas pelo gosto dos autores por trocadilhos, traço já presente em outras canções de Chico Buarque.",
+                                                           "c":  "Estratégia de linguagem cifrada que permitia denunciar a censura driblando os próprios mecanismos de controle sobre a arte.",
+                                                           "d":  "Recurso puramente religioso, sem qualquer relação com o momento político vivido pelo país, leitura defendida por poucos críticos de música popular."
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "A ambiguidade sonora entre as duas palavras nasce da necessidade de burlar a censura prévia da ditadura, permitindo que a denúncia à repressão circulasse de forma velada."
+                                  },
+                                  {
+                                      "id":  "obra-calice-chico-gil-q3",
+                                      "enunciado":  "A imagem do \"cálice\" evocada na canção de Chico Buarque e Gilberto Gil remete diretamente a:",
+                                      "alternativas":  {
+                                                           "a":  "Uma taça usada em brindes de Ano Novo, associada apenas a comemorações populares sem simbolismo religioso, tradição típica das festas de fim de ano cariocas.",
+                                                           "b":  "Um instrumento musical de percussão usado nos sambas-enredo das escolas de samba cariocas, como o tamborim e a cuíca.",
+                                                           "c":  "Um objeto litúrgico típico dos rituais de candomblé, sem qualquer relação com a tradição cristã, religião de matriz africana presente na cultura popular brasileira.",
+                                                           "d":  "A narrativa bíblica da Paixão de Cristo, na qual o cálice simboliza o sofrimento que se pede para ser afastado, referência à liturgia católica."
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "A canção retoma a imagem bíblica do cálice do sofrimento da Paixão de Cristo, somando a essa referência religiosa o sentido de pedido de silêncio imposto pela censura."
+                                  },
+                                  {
+                                      "id":  "obra-calice-chico-gil-q4",
+                                      "enunciado":  "Comparando \"Cálice\", de Chico Buarque e Gilberto Gil, com sua releitura contemporânea feita por Criolo, pode-se afirmar que:",
+                                      "alternativas":  {
+                                                           "a":  "A versão de Criolo abandona completamente o tema original da censura, tratando de um assunto totalmente distinto, opção estética comum entre artistas de sua geração.",
+                                                           "b":  "A releitura de Criolo atualiza o símbolo de resistência nascido na ditadura, mostrando a circulação do tema entre gerações e gêneros musicais.",
+                                                           "c":  "Ambas as versões foram compostas na mesma década, sem qualquer distância histórica entre elas, período de grande efervescência da música popular brasileira.",
+                                                           "d":  "A releitura de Criolo é anterior à canção original, servindo de inspiração para Chico Buarque e Gilberto Gil, que já compunham juntos desde o final dos anos 1960."
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "A releitura de Criolo mantém o tema da censura e da repressão, mas o desloca para o presente e para outro gênero musical, mostrando como o símbolo criado na ditadura continua dialogando com novos contextos."
+                                  },
+                                  {
+                                      "id":  "obra-calice-chico-gil-q5",
+                                      "enunciado":  "O fato de \"Cálice\" ter se tornado um dos maiores símbolos da censura musical no Brasil, mesmo décadas após seu lançamento oficial, sugere que:",
+                                      "alternativas":  {
+                                                           "a":  "A canção só é compreendida corretamente por quem viveu diretamente o período da ditadura militar, perdendo sentido depois.",
+                                                           "b":  "O sucesso da canção se deve exclusivamente à melodia, sem qualquer relação com o conteúdo político da letra, ainda que a parceria dos autores fosse reconhecida.",
+                                                           "c":  "A linguagem cifrada usada para burlar a repressão manteve força para ser reconhecida como denúncia fora do contexto imediato da ditadura.",
+                                                           "d":  "A censura da época impediu definitivamente que a canção alcançasse qualquer relevância cultural posterior, apesar da abertura política dos anos 1980."
+                                                       },
+                                      "resposta":  "c",
+                                      "explicacao":  "A permanência simbólica da canção mostra como sua linguagem cifrada continua comunicando a experiência da repressão mesmo para públicos que não viveram diretamente o período, o que reforça seu valor histórico e artístico."
+                                  }
+                              ],
+    "obra-calice-criolo":  [
+                               {
+                                   "id":  "obra-calice-criolo-q1",
+                                   "enunciado":  "A releitura de \"Cálice\" feita por Criolo se insere em um movimento mais amplo de sua carreira, marcado por:",
+                                   "alternativas":  {
+                                                        "a":  "O diálogo constante entre o rap e a música urbana paulistana com a tradição da música popular brasileira de crítica social.",
+                                                        "b":  "A reconstrução fiel de sambas-enredo de escolas de samba cariocas dos anos 1930, gênero que teve em Noel Rosa um de seus grandes nomes.",
+                                                        "c":  "A composição de trilhas sonoras instrumentais para o cinema, sem qualquer conteúdo cantado ou falado, formato explorado por músicos brasileiros ao longo do século XX.",
+                                                        "d":  "O afastamento total de qualquer influência da MPB, priorizando exclusivamente referências ao hip-hop norte-americano."
+                                                    },
+                                   "resposta":  "a",
+                                   "explicacao":  "Criolo é reconhecido justamente por unir crítica social, oralidade do rap e diálogo constante com a tradição da MPB, o que explica sua releitura de uma canção símbolo da resistência musical à ditadura."
+                               },
+                               {
+                                   "id":  "obra-calice-criolo-q2",
+                                   "enunciado":  "A releitura de \"Cálice\" por Criolo pode ser lida sob dois eixos temáticos da prova ao mesmo tempo porque:",
+                                   "alternativas":  {
+                                                        "a":  "Trata exclusivamente de um tema histórico do século XIX, sem qualquer relação com debates atuais, período anterior ao surgimento do samba urbano carioca.",
+                                                        "b":  "Ignora completamente a canção original de Chico Buarque e Gilberto Gil, criando uma letra sem relação temática.",
+                                                        "c":  "Reativa a memória da censura na ditadura militar e insere esse símbolo na circulação cultural entre gêneros distintos.",
+                                                        "d":  "Aborda apenas questões de tecnologia digital, sem qualquer relação com censura ou repressão política, tema frequente na produção eletrônica contemporânea."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "A releitura dialoga tanto com a memória da repressão da ditadura (eixo modernidade) quanto com a circulação de símbolos culturais entre gêneros e gerações no presente (eixo da cultura contemporânea/globalização)."
+                               },
+                               {
+                                   "id":  "obra-calice-criolo-q3",
+                                   "enunciado":  "Um elemento estrutural mantido por Criolo em sua releitura de \"Cálice\", em relação à composição original de Chico Buarque e Gilberto Gil, é:",
+                                   "alternativas":  {
+                                                        "a":  "A substituição do tema da censura por uma narrativa amorosa sem qualquer crítica social, recurso comum em releituras de canções antigas por artistas pop.",
+                                                        "b":  "A tradução integral da letra original para o inglês, mantendo apenas a melodia em português, prática adotada por artistas brasileiros em turnês internacionais.",
+                                                        "c":  "O jogo de palavras fundado na semelhança sonora entre a taça do sofrimento bíblico e o pedido de silêncio, preservando o núcleo estrutural da canção original.",
+                                                        "d":  "A ausência total de qualquer referência sonora ou temática à canção original, opção que caracteriza versões completamente autorais de outros artistas."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "A releitura preserva o núcleo estrutural da canção original, o trocadilho fonético entre as duas palavras, deslocando-o para uma nova sonoridade e contexto de enunciação."
+                               },
+                               {
+                                   "id":  "obra-calice-criolo-q4",
+                                   "enunciado":  "Em relação à versão original de Chico Buarque e Gilberto Gil, a releitura de Criolo se diferencia sobretudo:",
+                                   "alternativas":  {
+                                                        "a":  "Pela autoria, uma vez que Criolo reivindica ter composto a letra original antes de Chico Buarque e Gilberto Gil.",
+                                                        "b":  "Pelo idioma, pois a releitura de Criolo é cantada inteiramente em um idioma estrangeiro, escolha usada por artistas em versões para o mercado internacional.",
+                                                        "c":  "Pela linguagem musical utilizada, que incorpora elementos do rap e da música urbana contemporânea ao arranjo original.",
+                                                        "d":  "Pelo tema abordado, já que Criolo trata de assuntos completamente distintos, sem qualquer relação com censura."
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "A principal diferença está na linguagem musical: Criolo traz para a canção a sonoridade e a oralidade do rap e da música urbana contemporânea, mantendo o tema original da censura."
+                               },
+                               {
+                                   "id":  "obra-calice-criolo-q5",
+                                   "enunciado":  "O gesto de Criolo de revisitar uma canção símbolo da censura da ditadura militar sugere, sobretudo, que:",
+                                   "alternativas":  {
+                                                        "a":  "A releitura não guarda nenhuma relação de sentido com o contexto histórico da canção original, hipótese incomum em releituras de forte carga simbólica.",
+                                                        "b":  "Símbolos de resistência cultural podem ser reativados por novas gerações para discutir tensões entre poder e liberdade no presente.",
+                                                        "c":  "Criolo pretende apagar a memória da canção original, substituindo-a definitivamente por sua própria versão.",
+                                                        "d":  "O tema da censura perdeu totalmente relevância no Brasil contemporâneo, tornando a releitura um exercício apenas nostálgico."
+                                                    },
+                                   "resposta":  "b",
+                                   "explicacao":  "Ao revisitar a canção, Criolo demonstra como um símbolo de resistência nascido em um contexto histórico específico pode continuar operando como ferramenta crítica em outro momento e para outro público."
+                               }
+                           ],
+    "obra-que-pais-e-esse":  [
+                                 {
+                                     "id":  "obra-que-pais-e-esse-q1",
+                                     "enunciado":  "Sobre a trajetória de composição e lançamento de \"Que País é Esse?\", da Legião Urbana, é correto afirmar que:",
+                                     "alternativas":  {
+                                                          "a":  "A canção nunca foi regravada pela Legião Urbana, permanecendo conhecida apenas pela versão de sua banda anterior.",
+                                                          "b":  "A canção foi esboçada por Renato Russo ainda no final dos anos 1970 e relançada com repercussão em 1987, no período de redemocratização.",
+                                                          "c":  "A canção foi composta originalmente por Cazuza e posteriormente cedida a Renato Russo para gravação com a Legião Urbana.",
+                                                          "d":  "A canção só foi composta após a promulgação da Constituição de 1988, como reação direta ao novo texto constitucional."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "A canção tem origem em um esboço de Renato Russo do final dos anos 1970 e foi lançada com grande repercussão em 1987 pela Legião Urbana, já no contexto da redemocratização brasileira."
+                                 },
+                                 {
+                                     "id":  "obra-que-pais-e-esse-q2",
+                                     "enunciado":  "A crítica presente em \"Que País é Esse?\" deve ser compreendida, no eixo modernidade-pós-modernidade, principalmente como expressão de:",
+                                     "alternativas":  {
+                                                          "a":  "Crítica exclusiva a questões ambientais, sem qualquer relação com desigualdade social ou política, foco raro nas canções de protesto da época.",
+                                                          "b":  "Desconfiança geracional em relação à narrativa oficial de progresso do país após o fim formal da ditadura militar.",
+                                                          "c":  "Nostalgia dos anos de ditadura, entendida como período de maior ordem e estabilidade social, leitura contestada pela maioria dos historiadores do período.",
+                                                          "d":  "Apoio entusiasmado às reformas econômicas implementadas pelo governo militar durante os anos 1970, medidas associadas ao chamado milagre econômico."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "A canção expressa a frustração de uma geração que esperava mudanças profundas com a redemocratização e se depara com a permanência da desigualdade e da corrupção, questionando o discurso oficial de progresso."
+                                 },
+                                 {
+                                     "id":  "obra-que-pais-e-esse-q3",
+                                     "enunciado":  "A Legião Urbana surgiu no contexto de uma cena musical específica do início dos anos 1980, ao lado de outras bandas de tom político e existencial marcante. Essa cena é conhecida como:",
+                                     "alternativas":  {
+                                                          "a":  "O tropicalismo baiano, movimento que reunia Caetano Veloso e Gilberto Gil, surgido no final da década de 1960.",
+                                                          "b":  "A Bossa Nova carioca, movimento surgido no final dos anos 1950 no Rio de Janeiro, com João Gilberto como expoente.",
+                                                          "c":  "O rock de Brasília, movimento que incluiu também bandas como Capital Inicial e Plebe Rude, de forte teor existencial.",
+                                                          "d":  "O manguebeat pernambucano, movimento surgido em Recife nos anos 1990, que teve Chico Science como um de seus principais nomes."
+                                                      },
+                                     "resposta":  "c",
+                                     "explicacao":  "A Legião Urbana faz parte da cena de rock de Brasília do início dos anos 1980, ao lado de bandas como Capital Inicial e Plebe Rude, marcada por letras de forte teor político e existencial."
+                                 },
+                                 {
+                                     "id":  "obra-que-pais-e-esse-q4",
+                                     "enunciado":  "Assim como \"Com que Roupa\", de Noel Rosa, \"Que País é Esse?\" também trata de desigualdade social brasileira, mas se aproxima mais, em tom e contexto histórico, de:",
+                                     "alternativas":  {
+                                                          "a":  "Uma canção de amor sem qualquer crítica social, distanciando-se completamente do tema de \"Com que Roupa\".",
+                                                          "b":  "Uma crítica direta e inconformada, típica de uma geração frustrada com a redemocratização, diferente do humor irônico de Noel Rosa.",
+                                                          "c":  "Uma composição encomendada pelo governo para celebrar avanços sociais do país, prática comum em iniciativas oficiais de propaganda cultural da época.",
+                                                          "d":  "Um samba tradicional dos anos 1930, com arranjo idêntico ao de Noel Rosa e mesma instrumentação, época de grande popularização do samba pelo rádio."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "Diferentemente do humor irônico de Noel Rosa, a Legião Urbana adota um tom de denúncia direta e inconformada, típico da frustração geracional com as promessas não cumpridas da redemocratização."
+                                 },
+                                 {
+                                     "id":  "obra-que-pais-e-esse-q5",
+                                     "enunciado":  "A permanência de \"Que País é Esse?\" como referência de crítica política mesmo décadas após seu lançamento sugere que:",
+                                     "alternativas":  {
+                                                          "a":  "A canção perdeu completamente seu sentido crítico após a Constituição de 1988, tornando-se apenas peça histórica sem relevância.",
+                                                          "b":  "As tensões sociais e políticas denunciadas pela canção continuam ressoando em diferentes momentos da história recente do Brasil.",
+                                                          "c":  "A canção é hoje interpretada apenas como manifesto contra a ditadura militar, sem qualquer aplicação a contextos posteriores.",
+                                                          "d":  "O sucesso da canção se deve exclusivamente ao talento vocal de Renato Russo, sem qualquer relação com o conteúdo da letra."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "A recorrência da canção em diferentes momentos de crise ou crítica política no Brasil mostra que as questões que ela denuncia continuam atuais, o que explica sua permanência como símbolo de contestação."
+                                 }
+                             ],
+    "obra-domingo-no-parque":  [
+                                   {
+                                       "id":  "obra-domingo-no-parque-q1",
+                                       "enunciado":  "\"Domingo no Parque\", de Gilberto Gil, foi apresentada em 1967 em um evento que se tornou decisivo para o lançamento de um movimento cultural brasileiro. Esse evento foi:",
+                                       "alternativas":  {
+                                                            "a":  "O primeiro Rock in Rio, realizado no Rio de Janeiro, evento que se tornaria ícone das décadas seguintes.",
+                                                            "b":  "O III Festival da Música Popular Brasileira, promovido pela TV Record, realizado em 1967.",
+                                                            "c":  "A Bienal de São Paulo, dedicada às artes plásticas e um dos maiores eventos de arte do país.",
+                                                            "d":  "O Festival de Woodstock, realizado nos Estados Unidos, marco da contracultura internacional."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "A canção foi apresentada no III Festival da Música Popular Brasileira, promovido pela TV Record em 1967, considerado um dos eventos fundadores do movimento Tropicália."
+                                   },
+                                   {
+                                       "id":  "obra-domingo-no-parque-q2",
+                                       "enunciado":  "A fusão entre berimbau, arranjos de rock e orquestração erudita presente em \"Domingo no Parque\" deve ser entendida, no eixo da globalização cultural, como:",
+                                       "alternativas":  {
+                                                            "a":  "Cópia fiel de arranjos de bandas de rock britânicas, sem qualquer elemento da cultura popular brasileira, tendência atribuída a outros grupos do período.",
+                                                            "b":  "Rejeição total de qualquer influência internacional, priorizando exclusivamente instrumentos regionais brasileiros.",
+                                                            "c":  "Recusa da hierarquia entre cultura popular \"pura\" e influência estrangeira, propondo síntese sem julgamento de valor.",
+                                                            "d":  "Estratégia comercial sem qualquer intenção estética ou cultural por parte de Gilberto Gil, apesar do reconhecido investimento estético do movimento tropicalista."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "A canção sintetiza elementos regionais brasileiros e linguagem internacional de rock sem hierarquizá-los, gesto central da proposta tropicalista de antropofagia cultural."
+                                   },
+                                   {
+                                       "id":  "obra-domingo-no-parque-q3",
+                                       "enunciado":  "Dois nomes fundamentais associados ao arranjo e à orquestração de \"Domingo no Parque\" foram:",
+                                       "alternativas":  {
+                                                            "a":  "A banda Os Mutantes, responsável pelo arranjo de rock, e o maestro Rogério Duprat, responsável pela orquestração.",
+                                                            "b":  "O conjunto Os Incríveis, responsável pelo arranjo, e o maestro Villa-Lobos, responsável pela orquestração.",
+                                                            "c":  "A banda Secos e Molhados, responsável pelo arranjo, e o maestro Cláudio Santoro, responsável pela orquestração.",
+                                                            "d":  "A banda Os Titãs, responsável pelo arranjo, e o maestro Tom Jobim, responsável pela orquestração."
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "A canção contou com arranjo de rock da banda Os Mutantes e orquestração do maestro Rogério Duprat, colaboradores centrais do movimento Tropicália."
+                                   },
+                                   {
+                                       "id":  "obra-domingo-no-parque-q4",
+                                       "enunciado":  "\"Domingo no Parque\" e \"Alegria, Alegria\", de Caetano Veloso, apresentadas no mesmo festival de 1967, são consideradas conjuntamente como:",
+                                       "alternativas":  {
+                                                            "a":  "Composições exclusivamente instrumentais, sem qualquer letra cantada, formato típico de certas trilhas sonoras da época.",
+                                                            "b":  "Sambas-enredo compostos para desfiles de escolas de samba do Rio de Janeiro, tradição consolidada desde as primeiras décadas do século XX.",
+                                                            "c":  "Marcos de lançamento do movimento Tropicália, por unirem tradição musical brasileira e linguagem do rock internacional.",
+                                                            "d":  "Canções de protesto direto contra a censura, sem qualquer elemento de inovação musical, característica mais associada a outros compositores da MPB."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "Ambas as canções, apresentadas no mesmo festival, são consideradas marcos fundadores da Tropicália justamente por combinarem elementos da tradição musical brasileira com arranjos e instrumentação de rock internacional."
+                                   },
+                                   {
+                                       "id":  "obra-domingo-no-parque-q5",
+                                       "enunciado":  "O desfecho trágico do triângulo amoroso narrado em \"Domingo no Parque\" contribui para o efeito geral da canção sobretudo porque:",
+                                       "alternativas":  {
+                                                            "a":  "Reforça o contraste entre a leveza do lazer dominical popular e a violência que irrompe inesperadamente nesse cotidiano.",
+                                                            "b":  "Serve apenas de pretexto para mostrar virtuosismo instrumental, sem qualquer relação com o restante da letra.",
+                                                            "c":  "Transforma a canção em crítica direta e explícita ao regime militar, sem relação com a vida amorosa dos personagens.",
+                                                            "d":  "Elimina qualquer conexão da canção com o cotidiano popular, tornando-a uma fábula abstrata sem cenário definido."
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "A tragédia que interrompe o passeio dominical no parque cria um contraste marcante entre a normalidade do lazer popular e a violência súbita, reforçando o caráter quase cinematográfico da narrativa."
+                                   }
+                               ],
+    "obra-mundo-e-um-moinho":  [
+                                   {
+                                       "id":  "obra-mundo-e-um-moinho-q1",
+                                       "enunciado":  "\"O Mundo é um Moinho\" foi lançada em 1976, no álbum \"Cartola II\", em um momento específico da trajetória artística de Cartola. Esse momento é caracterizado por:",
+                                       "alternativas":  {
+                                                            "a":  "Uma tardia retomada de carreira como intérprete e compositor solo, décadas depois de ele já ter fundado a Mangueira.",
+                                                            "b":  "O início de sua carreira artística, ainda muito jovem, antes mesmo de fundar qualquer escola de samba, fase pouco documentada por biógrafos.",
+                                                            "c":  "Uma parceria exclusiva e contínua com Noel Rosa, com quem teria composto todos os sambas de sua carreira, vínculo citado por poucos biógrafos do samba.",
+                                                            "d":  "Um período de exílio na Europa, onde teria composto boa parte de seu repertório solo, trajetória semelhante à de outros músicos brasileiros exilados no período."
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "Cartola, cofundador da Mangueira nos anos 1920, só teve uma retomada intensa de carreira como intérprete e compositor solo já em idade avançada, contexto em que \"Cartola II\" foi lançado, em 1976."
+                                   },
+                                   {
+                                       "id":  "obra-mundo-e-um-moinho-q2",
+                                       "enunciado":  "O tom melancólico e a reflexão sobre a passagem do tempo em \"O Mundo é um Moinho\" permitem relacionar a canção, no eixo modernidade-pós-modernidade, principalmente a:",
+                                       "alternativas":  {
+                                                            "a":  "Uma crítica direta e explícita ao regime político vigente no momento de seu lançamento, tema recorrente em canções de protesto da mesma década.",
+                                                            "b":  "Uma reflexão lírica sobre a efemeridade dos sentimentos e das ilusões humanas diante do desgaste inevitável do tempo.",
+                                                            "c":  "Um elogio otimista ao progresso tecnológico e à modernização das cidades brasileiras, discurso comum em campanhas oficiais de desenvolvimento da época.",
+                                                            "d":  "Uma narrativa histórica sobre a industrialização do Rio de Janeiro no início do século XX, processo que transformou a paisagem urbana carioca."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "A canção se concentra numa reflexão lírica e melancólica sobre o desgaste das ilusões e dos sentimentos ao longo do tempo, sem função de crítica política direta."
+                                   },
+                                   {
+                                       "id":  "obra-mundo-e-um-moinho-q3",
+                                       "enunciado":  "Antes de se consolidar como intérprete solo já em idade avançada, Cartola teve papel fundamental na história do samba carioca ao:",
+                                       "alternativas":  {
+                                                            "a":  "Criar o gênero bossa nova ao lado de João Gilberto, nos anos 1950, movimento que renovou a harmonia do samba urbano.",
+                                                            "b":  "Compor a primeira trilha sonora de um filme brasileiro sonoro, nos anos 1930, início do cinema falado no país.",
+                                                            "c":  "Fundar o Teatro Municipal do Rio de Janeiro, palco de suas primeiras apresentações.",
+                                                            "d":  "Cofundar a Estação Primeira de Mangueira, ainda nas primeiras décadas do século XX."
+                                                        },
+                                       "resposta":  "d",
+                                       "explicacao":  "Cartola foi uma das figuras fundadoras da Estação Primeira de Mangueira, uma das mais tradicionais escolas de samba do Rio de Janeiro, ainda nas primeiras décadas do século XX."
+                                   },
+                                   {
+                                       "id":  "obra-mundo-e-um-moinho-q4",
+                                       "enunciado":  "\"O Mundo é um Moinho\", de Cartola, costuma ser comparada, no tema da desilusão e da efemeridade dos sentimentos, a qual outra canção da música popular brasileira?",
+                                       "alternativas":  {
+                                                            "a":  "\"Que País é Esse?\", da Legião Urbana, ícone do rock brasiliense dos anos 1980.",
+                                                            "b":  "\"Malandragem\", de Cazuza e Cássia Eller, canção também lançada na década de 1980.",
+                                                            "c":  "\"Domingo no Parque\", de Gilberto Gil, marco da Tropicália lançado em 1967.",
+                                                            "d":  "\"Com que Roupa\", de Noel Rosa, clássico do samba carioca dos anos 1930."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "\"O Mundo é um Moinho\" é frequentemente comparada a \"Malandragem\", de Cazuza e Cássia Eller, por tratarem de forma semelhante o tema da desilusão e da passagem do tempo sobre os sentimentos, ainda que em gerações musicais diferentes."
+                                   },
+                                   {
+                                       "id":  "obra-mundo-e-um-moinho-q5",
+                                       "enunciado":  "A escolha da imagem de um moinho como metáfora central da canção de Cartola sugere, sobretudo, que:",
+                                       "alternativas":  {
+                                                            "a":  "O eu lírico está descrevendo literalmente um moinho de trigo utilizado em sua infância no interior do Brasil.",
+                                                            "b":  "O tempo e a realidade agem sobre os sentimentos e as ilusões humanas de modo contínuo e implacável, desgastando-os progressivamente.",
+                                                            "c":  "O moinho representa exclusivamente a cidade do Rio de Janeiro, sem qualquer relação com o tema amoroso da canção.",
+                                                            "d":  "A canção pretende celebrar o progresso da industrialização agrícola brasileira do início do século XX, tema alheio à obra de Cartola."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "A imagem do moinho funciona como metáfora para o desgaste contínuo e inevitável que o tempo e a realidade impõem às ilusões e aos sentimentos, reforçando o tom melancólico do samba-canção."
+                                   }
+                               ],
+    "obra-rehab":  [
+                       {
+                           "id":  "obra-rehab-q1",
+                           "texto_apoio":  "Considere o processo de produção do álbum \u0027Back to Black\u0027 (2006), de Amy Winehouse, que contém a faixa \u0027Rehab\u0027.",
+                           "enunciado":  "A sonoridade de \u0027Rehab\u0027 é frequentemente descrita como um resgate deliberado de um estilo musical anterior. Esse estilo é:",
+                           "alternativas":  {
+                                                "a":  "O disco music produzido em estúdios europeus no final dos anos 1970, associado a artistas como Donna Summer e à discotecagem europeia.",
+                                                "b":  "O rock progressivo britânico característico do início dos anos 1970, com bandas como Yes e Genesis explorando arranjos instrumentais extensos.",
+                                                "c":  "O funk psicodélico californiano do início dos anos 1970, ligado a grupos como Sly and the Family Stone e George Clinton.",
+                                                "d":  "O soul e o R\u0026B clássicos das gravadoras norte-americanas dos anos 1960, como Motown e Stax."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "\u0027Back to Black\u0027 foi produzido por Mark Ronson e Salaam Remi com arranjos de metais e batidas que remetem diretamente ao soul e R\u0026B das gravadoras Motown e Stax dos anos 1960, atualizados por uma produção pop contemporânea."
+                       },
+                       {
+                           "id":  "obra-rehab-q2",
+                           "enunciado":  "No eixo temático da globalização e da indústria cultural, a canção \u0027Rehab\u0027 é frequentemente associada a qual crítica?",
+                           "alternativas":  {
+                                                "a":  "A censura estatal a canções que tratam abertamente do consumo de álcool e drogas.",
+                                                "b":  "A transformação de crises pessoais de artistas em produto vendável pela indústria fonográfica globalizada.",
+                                                "c":  "A apropriação de ritmos africanos por artistas pop ocidentais sem crédito aos autores originais.",
+                                                "d":  "A padronização musical imposta por multinacionais do streaming a partir dos anos 2010."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A canção expõe o conflito entre sofrimento pessoal (vício, pressão da fama) e sua exposição/consumo pelo mercado fonográfico, tema central da crítica à indústria cultural globalizada — e não padronização de streaming, apropriação de ritmos africanos ou censura estatal, temas de outras obras do eixo."
+                       },
+                       {
+                           "id":  "obra-rehab-q3",
+                           "enunciado":  "Sobre a trajetória de Amy Winehouse e a recepção de \u0027Rehab\u0027, é correto afirmar que:",
+                           "alternativas":  {
+                                                "a":  "A canção foi indicada, mas não venceu nenhum Grammy, e a cantora morreu em 2015, aos 30 anos.",
+                                                "b":  "A canção venceu o Grammy de Gravação do Ano em 2008, e a cantora morreu em 2011, aos 27 anos.",
+                                                "c":  "A canção foi lançada postumamente, após a morte da cantora em 2011, hipótese incompatível com o lançamento do álbum ainda em 2006.",
+                                                "d":  "A canção venceu apenas prêmios britânicos, como o Brit Award, e a cantora segue viva e em atividade, dando shows regularmente."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "\u0027Rehab\u0027 venceu o Grammy de Gravação do Ano em 2008; Amy Winehouse faleceu em 2011, aos 27 anos, entrando para o \u0027Clube dos 27\u0027. A canção foi lançada em 2006, ainda em vida da artista, com ampla repercussão internacional."
+                       },
+                       {
+                           "id":  "obra-rehab-q4",
+                           "texto_apoio":  "Compare o procedimento musical de \u0027Rehab\u0027, de Amy Winehouse, e \u0027Young Americans\u0027, de David Bowie.",
+                           "enunciado":  "Tanto \u0027Rehab\u0027 quanto \u0027Young Americans\u0027 guardam uma semelhança de procedimento musical. Qual?",
+                           "alternativas":  {
+                                                "a":  "Ambas utilizam exclusivamente instrumentos eletrônicos e sintetizadores, sem gravações ao vivo, recurso típico da música eletrônica alemã dos anos 1970.",
+                                                "b":  "Ambas narram experiências de imigração de músicos europeus para a África do Sul, tema recorrente na obra posterior de Paul Simon dedicada ao continente africano.",
+                                                "c":  "Ambas revisitam e reinterpretam tradições do soul e R\u0026B norte-americanos a partir de uma perspectiva britânica.",
+                                                "d":  "Ambas foram compostas originalmente em português e depois traduzidas para o inglês, prática comum em versões internacionais de canções brasileiras."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Amy Winehouse e David Bowie, ambos artistas britânicos, reinterpretaram tradições musicais afro-americanas (soul e R\u0026B) em produções próprias — Winehouse resgatando o som Motown/Stax dos anos 1960, Bowie criando o chamado \u0027plastic soul\u0027 em meados dos anos 1970."
+                       },
+                       {
+                           "id":  "obra-rehab-q5",
+                           "enunciado":  "A postura assumida pela narradora diante da insistência de terceiros para buscar tratamento pode ser interpretada como:",
+                           "alternativas":  {
+                                                "a":  "Um elogio explícito aos programas de reabilitação como solução definitiva para o vício, extremo oposto ao ceticismo expresso na canção.",
+                                                "b":  "Uma crítica direta às políticas públicas de saúde do Reino Unido na década de 2000, sistema então sob reforma do National Health Service.",
+                                                "c":  "Uma afirmação de autonomia pessoal que, em retrospecto, adquiriu contornos trágicos diante da biografia da artista.",
+                                                "d":  "Uma alegoria sobre a relação entre o Reino Unido e a União Europeia, tema recorrente no debate político britânico das décadas seguintes."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A recusa expressa na canção é lida como afirmação de autonomia e resistência pessoal, que, à luz da morte precoce da cantora, ganhou sentido trágico retrospectivo — não uma crítica a políticas públicas, elogio a programas de reabilitação, nem alegoria política."
+                       }
+                   ],
+    "obra-revolution":  [
+                            {
+                                "id":  "obra-revolution-q1",
+                                "enunciado":  "Quantas versões distintas de \u0027Revolution\u0027 os Beatles gravaram e lançaram em 1968?",
+                                "alternativas":  {
+                                                     "a":  "Quatro, incluindo uma versão instrumental composta especialmente para uma trilha sonora de cinema nunca lançada oficialmente.",
+                                                     "b":  "Três, incluindo uma versão lenta, uma rápida e uma colagem sonora experimental.",
+                                                     "c":  "Duas, sendo a segunda uma versão ao vivo, gravada durante uma turnê europeia dos Beatles no final da década de 1960.",
+                                                     "d":  "Apenas uma, lançada exclusivamente como single, sem qualquer outra versão de estúdio registrada pela banda."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "Os Beatles gravaram \u0027Revolution 1\u0027 (versão lenta, no Álbum Branco), \u0027Revolution\u0027 (versão rápida, lado B de \u0027Hey Jude\u0027) e \u0027Revolution 9\u0027 (colagem sonora experimental sem estrutura de canção convencional)."
+                            },
+                            {
+                                "id":  "obra-revolution-q2",
+                                "enunciado":  "O debate presente em \u0027Revolution\u0027 sobre o uso da violência como instrumento de transformação social relaciona-se, no eixo modernidade/pós-modernidade, a:",
+                                "alternativas":  {
+                                                     "a":  "A defesa incondicional do progresso tecnológico como solução para todos os problemas sociais.",
+                                                     "b":  "A crítica ao consumo de massa promovido pela globalização das últimas décadas do século XX.",
+                                                     "c":  "A tensão entre o ideal moderno de mudança radical e as primeiras dúvidas sobre grandes narrativas revolucionárias.",
+                                                     "d":  "A valorização da tradição e da hierarquia social como base da ordem política, discurso comum em correntes conservadoras europeias da época."
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "A canção expressa a hesitação entre o desejo de mudança radical, típico do ideário moderno de progresso, e um ceticismo crescente quanto à eficácia e legitimidade da violência revolucionária, prenunciando questionamentos que caracterizariam o debate pós-moderno sobre grandes narrativas de transformação."
+                            },
+                            {
+                                "id":  "obra-revolution-q3",
+                                "enunciado":  "\u0027Revolution\u0027 foi composta em resposta, entre outros eventos, a:",
+                                "alternativas":  {
+                                                     "a":  "Movimentos como o Maio de 68 na França e os protestos contra a Guerra do Vietnã.",
+                                                     "b":  "A Revolução Cultural chinesa, iniciada mais de uma década antes, em 1966, sob liderança de Mao Tsé-Tung.",
+                                                     "c":  "A independência das colônias africanas, ocorrida majoritariamente na década de 1960, num processo de descolonização mais amplo.",
+                                                     "d":  "A queda do Muro de Berlim e o fim da Guerra Fria, eventos que ocorreriam apenas duas décadas mais tarde."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "A canção foi escrita em 1968, ano marcado pelo Maio de 68 francês e pelos protestos contra a Guerra do Vietnã, eventos aos quais Lennon reage diretamente na letra, questionando o papel da violência nesses movimentos."
+                            },
+                            {
+                                "id":  "obra-revolution-q4",
+                                "texto_apoio":  "Compare \u0027Revolution\u0027, dos Beatles, e \u0027Malandragem\u0027, associada a Cássia Eller, quanto ao eixo modernidade/pós-modernidade.",
+                                "enunciado":  "Enquanto \u0027Revolution\u0027 debate diretamente métodos de transformação política, \u0027Malandragem\u0027 aborda esse eixo de que forma?",
+                                "alternativas":  {
+                                                     "a":  "Narrando acontecimentos específicos do Maio de 68 europeu sob perspectiva latino-americana.",
+                                                     "b":  "Retomando a figura da malandragem como símbolo ambíguo da sociedade brasileira, sem tomar partido político explícito.",
+                                                     "c":  "Criticando o uso de guitarras elétricas como símbolo de alienação cultural, crítica recorrente em setores da MPB engajada dos anos 1960.",
+                                                     "d":  "Defendendo abertamente a revolução socialista como única saída para o Brasil, posição comum entre setores da esquerda armada da época."
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "\u0027Malandragem\u0027 não propõe um projeto político explícito como \u0027Revolution\u0027; em vez disso, retoma a figura ambígua do malandro como forma de narrar a sociedade brasileira sem heróis nem vilões absolutos, dialogando com a \u0027dialética da malandragem\u0027 de Antonio Candido."
+                            },
+                            {
+                                "id":  "obra-revolution-q5",
+                                "enunciado":  "A ambiguidade de Lennon diante da revolução, expressa na canção, pode ser interpretada como:",
+                                "alternativas":  {
+                                                     "a":  "Um apoio incondicional e sem ressalvas às revoluções socialistas em curso na época.",
+                                                     "b":  "Uma defesa exclusiva da via eleitoral como único caminho legítimo de mudança política.",
+                                                     "c":  "Uma rejeição total e explícita a qualquer forma de engajamento político dos artistas.",
+                                                     "d":  "Uma tentativa de equilibrar simpatia pelas causas de mudança social e desconfiança quanto a métodos violentos."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "A letra não rejeita nem endossa integralmente a revolução: expressa simpatia pela vontade de mudança, mas questiona a validade de métodos violentos, revelando uma posição intermediária e cautelosa diante do radicalismo político da época."
+                            }
+                        ],
+    "obra-malandragem":  [
+                             {
+                                 "id":  "obra-malandragem-q1",
+                                 "enunciado":  "\u0027Malandragem\u0027, canção consagrada nas interpretações ao vivo de Cássia Eller, foi originalmente composta e gravada por:",
+                                 "alternativas":  {
+                                                      "a":  "Renato Russo e a Legião Urbana, na década de 1990.",
+                                                      "b":  "Chico Buarque, em parceria com Tom Jobim, na década de 1970.",
+                                                      "c":  "Rita Lee e os Mutantes, no auge do tropicalismo, na década de 1960.",
+                                                      "d":  "Cazuza e Frejat, com a banda Barão Vermelho, na década de 1980."
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "A canção foi composta por Cazuza e Roberto Frejat e gravada originalmente pela banda Barão Vermelho na década de 1980, sendo posteriormente popularizada pelas versões ao vivo de Cássia Eller."
+                             },
+                             {
+                                 "id":  "obra-malandragem-q2",
+                                 "enunciado":  "A retomada da figura do malandro em \u0027Malandragem\u0027 relaciona-se, no eixo modernidade/pós-modernidade, ao seguinte conceito da crítica literária brasileira:",
+                                 "alternativas":  {
+                                                      "a":  "A \u0027dialética da malandragem\u0027, de Antonio Candido, sobre a narrativa cômica e picaresca da sociedade brasileira.",
+                                                      "b":  "O conceito de \u0027antropofagia cultural\u0027, formulado por Oswald de Andrade na década de 1920.",
+                                                      "c":  "A teoria da \u0027dependência cultural\u0027, associada aos estudos de colonialismo do século XX.",
+                                                      "d":  "O conceito de \u0027realismo mágico\u0027, típico da literatura latino-americana do século XX."
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "A figura ambígua do malandro remete diretamente à \u0027dialética da malandragem\u0027 formulada por Antonio Candido a partir de \u0027Memórias de um Sargento de Milícias\u0027, conceito que descreve a tradição brasileira de narrar a sociedade sem heróis nem vilões absolutos — distinto da antropofagia oswaldiana, da teoria da dependência ou do realismo mágico."
+                             },
+                             {
+                                 "id":  "obra-malandragem-q3",
+                                 "enunciado":  "Sobre Cássia Eller, intérprete que consagrou \u0027Malandragem\u0027, é correto afirmar que:",
+                                 "alternativas":  {
+                                                      "a":  "Integrou a banda Barão Vermelho como vocalista principal durante toda a década de 1980, ao lado de Cazuza e Roberto Frejat.",
+                                                      "b":  "Foi a compositora original da canção, lançada em seu primeiro álbum solo, no início de sua carreira ainda na década de 1980.",
+                                                      "c":  "Era conhecida por sua voz grave e potente e por suas regravações de clássicos do rock nacional, tendo falecido em 2001.",
+                                                      "d":  "Iniciou sua carreira internacionalmente, retornando ao Brasil apenas na década de 1990, após anos radicada na Europa."
+                                                  },
+                                 "resposta":  "c",
+                                 "explicacao":  "Cássia Eller construiu sua carreira principalmente no Brasil, destacando-se por sua voz grave e potente e por regravações de canções do rock nacional; faleceu em 2001. Ela não compôs \u0027Malandragem\u0027 nem integrou o Barão Vermelho como vocalista."
+                             },
+                             {
+                                 "id":  "obra-malandragem-q4",
+                                 "texto_apoio":  "Compare a abordagem de \u0027Malandragem\u0027 com a de \u0027Revolution\u0027, dos Beatles, quanto à forma de tratar mudança e ordem social.",
+                                 "enunciado":  "Diferentemente de \u0027Revolution\u0027, que debate diretamente métodos de transformação política, \u0027Malandragem\u0027:",
+                                 "alternativas":  {
+                                                      "a":  "Propõe a abolição total das instituições formais em favor da desordem completa, ideia associada a correntes anarquistas do início do século XX.",
+                                                      "b":  "Retrata a convivência ambígua entre regras formais e práticas informais na sociedade brasileira, sem propor um projeto político.",
+                                                      "c":  "Narra acontecimentos históricos específicos do Maio de 68 europeu, movimento estudantil e operário ocorrido na França em 1968.",
+                                                      "d":  "Defende explicitamente a revolução armada como forma legítima de mudança social, posição de grupos de esquerda na ditadura militar brasileira."
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "\u0027Malandragem\u0027 não formula um projeto político de transformação, como faz \u0027Revolution\u0027; em vez disso, retrata de forma ambígua e afetiva a convivência entre regras formais e práticas informais na sociedade brasileira, sem tomar partido político explícito."
+                             },
+                             {
+                                 "id":  "obra-malandragem-q5",
+                                 "enunciado":  "A ambiguidade da figura do malandro na canção — nem herói, nem vilão — pode ser interpretada como uma forma de:",
+                                 "alternativas":  {
+                                                      "a":  "Questionar visões morais rígidas e binárias sobre a sociedade brasileira, valorizando a complexidade das relações sociais.",
+                                                      "b":  "Enaltecer exclusivamente valores ligados à disciplina e ao trabalho formal, em sintonia com discursos moralistas da época.",
+                                                      "c":  "Defender a criação de leis mais rígidas contra práticas informais na economia brasileira, pauta debatida em reformas tributárias recentes.",
+                                                      "d":  "Condenar moralmente qualquer forma de transgressão às regras sociais estabelecidas, postura comum em discursos conservadores tradicionais."
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "Ao recusar juízos morais absolutos sobre o malandro, a canção valoriza uma visão mais complexa e ambígua da sociedade brasileira, em sintonia com a \u0027dialética da malandragem\u0027 de Antonio Candido, evitando tanto a condenação quanto a exaltação incondicional da transgressão."
+                             }
+                         ],
+    "obra-boy-in-the-bubble":  [
+                                   {
+                                       "id":  "obra-boy-in-the-bubble-q1",
+                                       "enunciado":  "\u0027The Boy in the Bubble\u0027, faixa de abertura de \u0027Graceland\u0027 (1986), resultou de um processo de composição e gravação marcado por:",
+                                       "alternativas":  {
+                                                            "a":  "Uma gravação exclusivamente em estúdios de Nova York, sem participação de músicos africanos.",
+                                                            "b":  "Uma adaptação direta de uma canção tradicional sul-africana de domínio público, sem coautoria.",
+                                                            "c":  "Uma parceria de Paul Simon com o músico sul-africano Forere Motloheloa e sessões gravadas em Joanesburgo.",
+                                                            "d":  "Uma composição feita a distância, por correspondência, sem encontro presencial entre os autores."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "A canção foi composta por Paul Simon em parceria com o músico sul-africano Forere Motloheloa, resultado de sessões de gravação realizadas com músicos locais em Joanesburgo, incorporando a sonoridade do mbaqanga à produção pop."
+                                   },
+                                   {
+                                       "id":  "obra-boy-in-the-bubble-q2",
+                                       "enunciado":  "No eixo da globalização, \u0027The Boy in the Bubble\u0027 é frequentemente citada como exemplo de:",
+                                       "alternativas":  {
+                                                            "a":  "Isolamento cultural, com músicos trabalhando separadamente sem qualquer troca entre tradições, cada qual preso à sua própria cena local.",
+                                                            "b":  "Fusão musical entre tradições distintas, que amplia a visibilidade de músicos periféricos e gera debate sobre apropriação cultural.",
+                                                            "c":  "Nacionalismo musical, voltado exclusivamente à valorização da música norte-americana tradicional, sem qualquer abertura a outras culturas.",
+                                                            "d":  "Padronização musical total, eliminando diferenças entre tradições regionais em favor de um único estilo global."
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "A canção combina tradições musicais sul-africanas e norte-americanas, exemplificando tanto o potencial de intercâmbio cultural da globalização quanto suas tensões, como o debate sobre apropriação cultural gerado pelo contexto do apartheid."
+                                   },
+                                   {
+                                       "id":  "obra-boy-in-the-bubble-q3",
+                                       "enunciado":  "O álbum \u0027Graceland\u0027 foi gravado em um contexto histórico específico na África do Sul. Qual?",
+                                       "alternativas":  {
+                                                            "a":  "O período imediatamente posterior às eleições democráticas de 1994, quando Nelson Mandela assumiu a presidência do país.",
+                                                            "b":  "A Guerra dos Bôeres, travada no início do século XX, conflito entre colonos neerlandeses e o Império Britânico.",
+                                                            "c":  "O regime do apartheid e o boicote cultural internacional imposto ao país na época.",
+                                                            "d":  "A independência da África do Sul em relação ao Império Britânico, ocorrida na década de 1980."
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "\u0027Graceland\u0027 foi gravado em 1985-1986, durante o regime do apartheid, período em que vigorava um boicote cultural internacional ao país, decretado por organismos como a ONU — contexto que gerou controvérsia sobre a gravação do álbum em Joanesburgo."
+                                   },
+                                   {
+                                       "id":  "obra-boy-in-the-bubble-q4",
+                                       "texto_apoio":  "Compare \u0027The Boy in the Bubble\u0027 a \u0027Young Americans\u0027, de David Bowie, quanto ao processo de fusão musical.",
+                                       "enunciado":  "Assim como \u0027Young Americans\u0027 incorpora o soul afro-americano à música de um artista britânico, \u0027The Boy in the Bubble\u0027:",
+                                       "alternativas":  {
+                                                            "a":  "Incorpora ritmos sul-africanos à produção pop de um artista norte-americano, por meio de colaboração direta com músicos locais.",
+                                                            "b":  "Utiliza apenas instrumentos eletrônicos, sem qualquer instrumento acústico tradicional africano.",
+                                                            "c":  "Foi composta inteiramente por músicos sul-africanos, sem qualquer participação de Paul Simon.",
+                                                            "d":  "Recusa qualquer influência musical externa, mantendo-se fiel exclusivamente ao rock norte-americano tradicional."
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "Ambas as faixas envolvem artistas ocidentais incorporando tradições musicais de outra origem étnica/nacional às próprias composições: Bowie com o soul afro-americano, Simon com ritmos sul-africanos como o mbaqanga, em colaboração direta com músicos locais."
+                                   },
+                                   {
+                                       "id":  "obra-boy-in-the-bubble-q5",
+                                       "enunciado":  "A convivência entre imagens de avanço tecnológico e de instabilidade na canção pode ser interpretada como:",
+                                       "alternativas":  {
+                                                            "a":  "Uma condenação explícita e unilateral de qualquer forma de progresso tecnológico, postura associada a movimentos neoludistas do século XX.",
+                                                            "b":  "Um elogio incondicional à tecnologia como solução definitiva para os problemas sociais da época.",
+                                                            "c":  "Uma alegoria específica sobre a corrida espacial entre Estados Unidos e União Soviética, disputa que marcou boa parte da Guerra Fria.",
+                                                            "d":  "Uma reflexão ambígua sobre a modernidade, que fascina e ao mesmo tempo gera incerteza sobre o futuro do mundo."
+                                                        },
+                                       "resposta":  "d",
+                                       "explicacao":  "A canção não assume uma posição unívoca sobre o progresso: constrói uma atmosfera ambígua, de fascínio e inquietação simultâneos diante da modernidade e da vida contemporânea, sem se reduzir a elogio ou condenação absoluta."
+                                   }
+                               ],
+    "obra-young-americans":  [
+                                 {
+                                     "id":  "obra-young-americans-q1",
+                                     "enunciado":  "O álbum \u0027Young Americans\u0027 foi gravado em qual cidade, marco importante para o gênero musical incorporado por David Bowie na faixa-título?",
+                                     "alternativas":  {
+                                                          "a":  "Filadélfia, nos estúdios Sigma Sound, polo da soul music norte-americana dos anos 1970.",
+                                                          "b":  "Berlim, em estúdios associados à música eletrônica europeia da época.",
+                                                          "c":  "Nova Orleans, centro histórico do jazz tradicional norte-americano.",
+                                                          "d":  "Los Angeles, em estúdios voltados à produção do rock progressivo californiano."
+                                                      },
+                                     "resposta":  "a",
+                                     "explicacao":  "\u0027Young Americans\u0027 foi gravado nos estúdios Sigma Sound, na Filadélfia, um dos principais centros da chamada \u0027Philadelphia soul\u0027 dos anos 1970, sonoridade que Bowie incorporou à faixa."
+                                 },
+                                 {
+                                     "id":  "obra-young-americans-q2",
+                                     "enunciado":  "A incorporação do soul e do R\u0026B afro-americanos por David Bowie em \u0027Young Americans\u0027 ilustra, no eixo da globalização, principalmente:",
+                                     "alternativas":  {
+                                                          "a":  "O isolamento das tradições musicais nacionais em relação a influências estrangeiras, fenômeno típico de regimes culturalmente fechados.",
+                                                          "b":  "A substituição definitiva do rock britânico por gêneros exclusivamente norte-americanos, tendência apontada por críticos dos anos 1980.",
+                                                          "c":  "A padronização de todos os gêneros musicais num único estilo internacional único, processo associado à indústria do streaming atual.",
+                                                          "d":  "A circulação e fusão de tradições musicais através de fronteiras nacionais e raciais na indústria fonográfica."
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "Ao incorporar soul e R\u0026B afro-americanos à própria música, Bowie exemplifica a circulação de tradições musicais entre fronteiras nacionais e raciais, processo típico da indústria musical globalizada — sem que isso implique isolamento, substituição total de gêneros ou padronização musical."
+                                 },
+                                 {
+                                     "id":  "obra-young-americans-q3",
+                                     "enunciado":  "O termo utilizado pelo próprio David Bowie para descrever o estilo musical de \u0027Young Americans\u0027 foi:",
+                                     "alternativas":  {
+                                                          "a":  "\u0027Plastic soul\u0027, expressão que sintetiza sua incorporação pessoal da tradição soul norte-americana.",
+                                                          "b":  "\u0027Glam funk\u0027, termo cunhado pela crítica musical britânica da época, associado à estética visual extravagante de Bowie.",
+                                                          "c":  "\u0027Space soul\u0027, em referência à fase Ziggy Stardust do artista, período anterior marcado pela estética futurista e alienígena.",
+                                                          "d":  "\u0027Blue-eyed disco\u0027, expressão usada posteriormente por outros artistas dos anos 1980."
+                                                      },
+                                     "resposta":  "a",
+                                     "explicacao":  "Bowie descreveu o estilo do álbum como \u0027plastic soul\u0027, reconhecendo abertamente sua condição de artista britânico incorporando, de forma pessoal e um tanto artificial, a tradição soul norte-americana."
+                                 },
+                                 {
+                                     "id":  "obra-young-americans-q4",
+                                     "texto_apoio":  "Compare \u0027Young Americans\u0027 a \u0027The Boy in the Bubble\u0027, de Paul Simon, quanto ao eixo da globalização musical.",
+                                     "enunciado":  "Enquanto \u0027The Boy in the Bubble\u0027 resultou de gravações diretas com músicos sul-africanos em Joanesburgo, \u0027Young Americans\u0027:",
+                                     "alternativas":  {
+                                                          "a":  "Foi gravada também na África do Sul, com os mesmos músicos que participaram de \u0027Graceland\u0027, registro posterior de Paul Simon.",
+                                                          "b":  "Recusou qualquer músico de sessão norte-americano, sendo tocada apenas por músicos britânicos trazidos de Londres.",
+                                                          "c":  "Foi composta exclusivamente com instrumentos eletrônicos, sem participação de músicos de sessão, recurso raro na soul.",
+                                                          "d":  "Foi gravada nos Estados Unidos, absorvendo a tradição soul local sem tratar diretamente de temas políticos do país de origem do gênero."
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "Bowie gravou \u0027Young Americans\u0027 na Filadélfia com músicos de sessão norte-americanos, absorvendo a tradição soul local, mas sem o mesmo pano de fundo político explícito (como o boicote ao apartheid) presente no contexto de gravação de \u0027The Boy in the Bubble\u0027."
+                                 },
+                                 {
+                                     "id":  "obra-young-americans-q5",
+                                     "enunciado":  "O olhar lançado sobre a juventude norte-americana na canção pode ser descrito como:",
+                                     "alternativas":  {
+                                                          "a":  "Uma descrição estritamente jornalística, sem qualquer elaboração artística ou subjetiva, tal como nas reportagens da imprensa musical especializada da época.",
+                                                          "b":  "Um misto de fascínio e distanciamento crítico, próprio de um artista estrangeiro observando e absorvendo uma cultura que não é a sua de origem.",
+                                                          "c":  "Uma condenação explícita e unilateral do modo de vida norte-americano da época, postura comum entre críticos do establishment cultural.",
+                                                          "d":  "Uma celebração acrítica e sem ressalvas do sonho americano dos anos 1970, tom associado a certo pop otimista comercial da década."
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "A canção combina fascínio e certo distanciamento crítico, típico de um artista britânico absorvendo e comentando, a partir de fora, aspectos da cultura e da juventude norte-americanas de meados dos anos 1970."
+                                 }
+                             ]
+};

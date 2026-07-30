@@ -359,6 +359,9 @@ body {
 .obra-card { margin-bottom: 0; }
 .obra-card.obra-studied { border-color: var(--good); }
 .obra-detail { margin: 10px 0; padding-top: 10px; border-top: 1px solid var(--border); font-size: 0.9rem; }
+.obra-pontos-chave { margin: 8px 0 0; padding-left: 20px; font-size: 0.9rem; color: var(--ink-soft); }
+.obra-pontos-chave li { margin-bottom: 4px; }
+.obra-questoes { margin: 14px 0 0; padding-top: 14px; border-top: 1px dashed var(--border); }
 .obra-studied-check {
   display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: 0.86rem;
   color: var(--ink-soft); cursor: pointer;

@@ -291,7 +291,7 @@
     } else {
       const seenTheory = loadJSON(LS_THEORY_SEEN, {});
       const theoryDone = content.lessons.every((l) => !window.THEORY || !window.THEORY[l.subtopicId] || seenTheory[l.subtopicId]);
-      tasks.push({ label: "Teoria (gatilhos e pegadinhas)", done: theoryDone });
+      tasks.push({ label: "Teoria (gatilhos, pegadinhas e exemplos)", done: theoryDone });
       tasks.push({ label: "Questões essenciais", done: isDayExerciseComplete(day) });
       const dstatus = getDissertStatus()[day];
       tasks.push({ label: "Dissertativa (opcional, meta de 4x/semana)", done: dstatus === "done" || dstatus === "skipped" });
@@ -1244,16 +1244,61 @@
     counter.innerHTML = `<strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar`;
   }
 
+  // Renderiza um bloco de subtema (gatilhos/pegadinhas/exemplo específicos de
+  // um subtema dentro da frente, ex.: "Reforma tributária brasileira" dentro
+  // de atualidades-politica), usado por renderTheoryBlockHtml abaixo.
+  function renderTheorySubtemaHtml(subtema) {
+    const gatilhosHtml = subtema.gatilhos.map((g) => `<li>${escapeHtml(g)}</li>`).join("");
+    const pegadinhasHtml = subtema.pegadinhas.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+    const exemploHtml = subtema.exemplo
+      ? `<div class="theory-exemplo">
+          <div class="theory-col-label">Exemplo resolvido</div>
+          <p class="theory-exemplo-enunciado">${escapeHtml(subtema.exemplo.enunciado)}</p>
+          <p class="theory-exemplo-resolucao">${escapeHtml(subtema.exemplo.resolucao)}</p>
+        </div>`
+      : "";
+    return `
+      <div class="theory-subtema">
+        <div class="theory-subtema-header">Subtema: ${escapeHtml(subtema.tema)}</div>
+        <p class="theory-resumo">${escapeHtml(subtema.resumo)}</p>
+        <div class="theory-col">
+          <div class="theory-col-label">Gatilhos (padrão do enunciado → método)</div>
+          <ul>${gatilhosHtml}</ul>
+        </div>
+        <div class="theory-col">
+          <div class="theory-col-label">Pegadinhas comuns</div>
+          <ul>${pegadinhasHtml}</ul>
+        </div>
+        ${exemploHtml}
+      </div>
+    `;
+  }
+
   // Achado 1 (teoria por frente): bloco colapsável com resumo + gatilhos
   // (padrão do enunciado → método de resolução) + pegadinhas comuns,
   // vindos de window.THEORY (data/theory.js). Marcar como "visto" é
   // persistido por frente (não por dia), e conta pro checklist do dia.
-  function renderTheoryBlockHtml(subtopicId) {
+  //
+  // Frentes com window.THEORY[id].subtemas (hoje: as 3 de Atualidades no
+  // piloto) ganham uma camada extra específica de subtema, espelhando o
+  // mesmo índice usado por pickLessonVideo — assim a teoria do dia sempre
+  // bate com o subtema do vídeo sugerido. Quando visitNumber não é passado
+  // (sessão SOS), mostra TODOS os subtemas, não só o do dia.
+  function renderTheoryBlockHtml(subtopicId, visitNumber) {
     const theory = window.THEORY && window.THEORY[subtopicId];
     if (!theory) return "";
     const seen = loadJSON(LS_THEORY_SEEN, {})[subtopicId];
     const gatilhosHtml = theory.gatilhos.map((g) => `<li>${escapeHtml(g)}</li>`).join("");
     const pegadinhasHtml = theory.pegadinhas.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+
+    let subtemasHtml = "";
+    if (theory.subtemas && theory.subtemas.length > 0) {
+      const subtemasToShow = visitNumber != null
+        ? [theory.subtemas[(visitNumber - 1) % theory.subtemas.length]]
+        : theory.subtemas;
+      subtemasHtml = subtemasToShow.map(renderTheorySubtemaHtml).join("");
+    }
+
     return `
       <div class="theory-block">
         <button type="button" class="theory-toggle btn-link">${seen ? "✓ " : ""}Teoria: gatilhos e pegadinhas deste tema</button>
@@ -1267,6 +1312,7 @@
             <div class="theory-col-label">Pegadinhas comuns</div>
             <ul>${pegadinhasHtml}</ul>
           </div>
+          ${subtemasHtml}
         </div>
       </div>
     `;
@@ -1297,7 +1343,7 @@
     const extras = lesson.questions.slice(essentialCount);
     const minutesEstimate = Math.round(essentialCount * MINUTES_PER_QUESTION_ESTIMATE);
     const extrasKey = day + "::" + lesson.subtopicId;
-    const theoryHtml = renderTheoryBlockHtml(lesson.subtopicId);
+    const theoryHtml = renderTheoryBlockHtml(lesson.subtopicId, lesson.visitNumber);
 
     card.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(lesson.area)}</div>

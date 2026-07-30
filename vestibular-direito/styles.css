@@ -134,6 +134,16 @@ body {
 }
 .tab-btn.active { background: var(--accent); color: var(--accent-ink); }
 
+@media (max-width: 640px) {
+  .topbar { padding: 14px; }
+  .tabs {
+    max-width: 100%; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab-btn { flex: 0 0 auto; white-space: nowrap; padding: 7px 12px; font-size: 0.92rem; }
+}
+
 .content { max-width: 860px; margin: 0 auto; padding: 20px 16px 80px; }
 .tab-panel { display: none; }
 .tab-panel.active { display: block; }

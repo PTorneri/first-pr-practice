@@ -684,10 +684,10 @@
                          "texto_apoio":  "Recifes de corais ao redor do mundo têm sofrido episódios recorrentes de branqueamento associados ao aumento da temperatura da água do mar.",
                          "enunciado":  "O branqueamento de corais ocorre quando",
                          "alternativas":  {
-                                              "a":  "os corais absorvem excesso de luz solar, o que aumenta permanentemente sua pigmentação natural",
-                                              "b":  "há redução da temperatura da água do mar abaixo dos níveis normais, congelando parcialmente o tecido coralíneo",
-                                              "c":  "os corais aumentam a absorção de nutrientes, tornando-se mais coloridos e resistentes ao estresse térmico",
-                                              "d":  "o estresse térmico causado pelo aumento da temperatura da água leva à expulsão das algas simbióticas que vivem nos tecidos dos corais e lhes conferem cor e parte de sua energia, deixando-os esbranquiçados e mais vulneráveis à morte"
+                                              "a":  "os corais absorvem excesso de luz solar, o que aumentaria permanentemente sua pigmentação, hipótese que inverte o mecanismo real de perda de cor por estresse térmico",
+                                              "b":  "há redução da temperatura da água do mar abaixo dos níveis normais, o que congelaria parcialmente o tecido coralíneo, cenário oposto ao aquecimento que efetivamente desencadeia o branqueamento",
+                                              "c":  "os corais aumentam a absorção de nutrientes, tornando-se mais coloridos e resistentes ao estresse térmico, efeito contrário à perda de pigmentação observada nos recifes afetados",
+                                              "d":  "o estresse térmico causado pelo aumento da temperatura da água leva à expulsão das algas simbióticas (zooxantelas), que conferem cor e parte da energia aos corais, deixando-os esbranquiçados e vulneráveis à morte"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O branqueamento de corais é uma resposta ao estresse térmico causado pelo aumento da temperatura da água do mar: os corais expulsam as algas simbióticas (zooxantelas) que vivem em seus tecidos e lhes fornecem cor e parte de sua energia por meio da fotossíntese, ficando esbranquiçados, mais fracos e mais vulneráveis à morte caso o estresse térmico persista por período prolongado.",
@@ -699,8 +699,8 @@
                          "enunciado":  "O princípio físico básico de funcionamento de uma usina eólica consiste em converter a energia cinética do vento em",
                          "alternativas":  {
                                               "a":  "energia térmica, obtida pelo atrito do ar em movimento contra as pás da turbina, de forma semelhante a uma termelétrica",
-                                              "b":  "energia nuclear, por meio de reações induzidas pelo movimento do ar",
-                                              "c":  "energia térmica, por meio da combustão do ar em movimento",
+                                              "b":  "energia nuclear, por meio de reações de fissão induzidas pelo movimento do ar sobre as pás, processo que não ocorre em turbinas eólicas convencionais",
+                                              "c":  "energia térmica, por meio da combustão do ar em movimento dentro da nacele da turbina, de forma análoga a um motor a combustão interna",
                                               "d":  "energia mecânica de rotação das pás da turbina, posteriormente convertida em energia elétrica por um gerador acoplado ao eixo de rotação"
                                           },
                          "resposta":  "d",
@@ -713,9 +713,9 @@
                          "enunciado":  "Entre os impactos socioambientais frequentemente associados à construção de grandes usinas hidrelétricas está",
                          "alternativas":  {
                                               "a":  "o alagamento de extensas áreas para formação de reservatórios, o que pode implicar deslocamento de populações locais e perda de biodiversidade e de ecossistemas terrestres na região inundada",
-                                              "b":  "a ausência completa de qualquer alteração no curso natural dos rios envolvidos",
-                                              "c":  "a impossibilidade técnica de gerar eletricidade a partir do fluxo de água represada",
-                                              "d":  "a diminuição da necessidade de licenciamento ambiental para novos empreendimentos hidrelétricos no mesmo rio"
+                                              "b":  "a ausência completa de qualquer alteração no curso natural dos rios envolvidos, uma vez que barragens não modificariam a vazão nem o regime hidrológico a jusante",
+                                              "c":  "a impossibilidade técnica de gerar eletricidade a partir do fluxo de água represada, já que turbinas hidráulicas dependeriam exclusivamente da queda livre, e não do volume represado",
+                                              "d":  "a diminuição da necessidade de licenciamento ambiental para novos empreendimentos hidrelétricos no mesmo rio, tendência contrária ao rigor ambiental normalmente exigido"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A construção de grandes usinas hidrelétricas costuma exigir o alagamento de extensas áreas para a formação de reservatórios, o que pode implicar deslocamento de populações ribeirinhas e indígenas, perda de biodiversidade terrestre na área inundada e alterações significativas no regime hidrológico e nos ecossistemas fluviais a jusante da barragem.",
@@ -726,10 +726,10 @@
                          "texto_apoio":  "O etanol produzido a partir da cana-de-açúcar é um dos principais biocombustíveis utilizados no Brasil, tanto puro quanto misturado à gasolina.",
                          "enunciado":  "Do ponto de vista da produção de biocombustíveis como o etanol de cana, um dos argumentos favoráveis ambientalmente costuma se basear no fato de que",
                          "alternativas":  {
-                                              "a":  "a produção de etanol a partir da cana não envolve qualquer uso de terras agrícolas",
-                                              "b":  "o CO2 liberado na queima do etanol é, em larga medida, o mesmo que foi absorvido pela cana-de-açúcar durante seu crescimento por meio da fotossíntese, o que tende a reduzir o balanço líquido de carbono em comparação a combustíveis fósseis",
-                                              "c":  "o etanol é uma fonte de energia não renovável, assim como o petróleo",
-                                              "d":  "o etanol de cana não envolve nenhum processo de fermentação em sua produção"
+                                              "a":  "a produção de etanol a partir da cana não envolve qualquer uso de terras agrícolas, dispensando por completo o cultivo de canaviais em larga escala",
+                                              "b":  "o CO2 liberado na queima do etanol corresponde, em boa parte, ao que a cana absorveu na fotossíntese, reduzindo o balanço líquido de carbono frente a combustíveis fósseis",
+                                              "c":  "o etanol é uma fonte de energia não renovável, assim como o petróleo, por depender de reservas subterrâneas finitas de matéria orgânica fossilizada",
+                                              "d":  "o etanol de cana não envolve nenhum processo de fermentação em sua produção, sendo obtido por destilação direta do caldo extraído da cana"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Um dos argumentos favoráveis ao uso do etanol de cana como biocombustível é que o dióxido de carbono liberado durante sua queima corresponde, em larga medida, ao CO2 previamente absorvido pela planta durante seu crescimento por meio da fotossíntese, o que tende a reduzir o balanço líquido de emissões de carbono em comparação aos combustíveis fósseis, embora questões relacionadas ao uso do solo e ao ciclo produtivo completo também precisem ser consideradas.",
@@ -740,10 +740,10 @@
                          "texto_apoio":  "O hidrogênio verde tem sido apontado como uma alternativa energética promissora para setores da economia de difícil eletrificação direta, como a indústria pesada.",
                          "enunciado":  "O hidrogênio é classificado como \"verde\" quando é produzido, principalmente,",
                          "alternativas":  {
-                                              "a":  "a partir da extração de jazidas subterrâneas de gás hidrogênio puro, de forma semelhante à extração de gás natural",
-                                              "b":  "por meio da eletrólise da água, utilizando eletricidade proveniente de fontes renováveis, como energia solar ou eólica, o que resulta em baixa emissão de gases de efeito estufa no processo produtivo",
-                                              "c":  "por meio da fermentação alcoólica de biomassa vegetal, processo idêntico ao da produção de etanol",
-                                              "d":  "a partir da queima direta de gás natural, processo também utilizado na produção do chamado hidrogênio azul"
+                                              "a":  "a partir da extração de jazidas subterrâneas de gás hidrogênio puro, processo inexistente na prática, já que não há reservas naturais significativas desse gás na crosta terrestre",
+                                              "b":  "por meio da eletrólise da água, utilizando eletricidade de fontes renováveis, como solar ou eólica, resultando em baixa emissão de gases de efeito estufa no processo produtivo",
+                                              "c":  "por meio da fermentação alcoólica de biomassa vegetal, rota que caracteriza, na verdade, o hidrogênio de biomassa, distinto do hidrogênio verde obtido por eletrólise",
+                                              "d":  "a partir da queima direta de gás natural, processo que libera CO2 e que, sem captura e armazenamento desse gás, o distancia da classificação de hidrogênio verde"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O hidrogênio verde é obtido por meio da eletrólise da água (separação das moléculas de hidrogênio e oxigênio por eletricidade), utilizando energia elétrica proveniente de fontes renováveis, como a solar e a eólica, o que resulta em um processo produtivo de baixa emissão de gases de efeito estufa, diferenciando-o de formas de produção de hidrogênio baseadas em combustíveis fósseis.",
@@ -754,10 +754,10 @@
                          "texto_apoio":  "A matriz energética de um país corresponde ao conjunto de fontes de energia que compõem sua oferta de eletricidade e outras formas de energia.",
                          "enunciado":  "Em comparação com a matriz energética de diversos outros países, a matriz elétrica brasileira se destaca por",
                          "alternativas":  {
-                                              "a":  "apresentar participação historicamente elevada de fontes renováveis, sobretudo a energia hidrelétrica, o que resulta em uma matriz elétrica proporcionalmente menos dependente de combustíveis fósseis do que a de muitos países industrializados",
-                                              "b":  "apresentar participação predominante de termelétricas a gás natural, com pequena contribuição de fontes hídricas",
-                                              "c":  "depender, majoritariamente, de usinas nucleares para a geração de eletricidade em todo o território nacional",
-                                              "d":  "utilizar fontes renováveis apenas de forma marginal, com a matriz elétrica baseada majoritariamente em termelétricas a carvão"
+                                              "a":  "apresentar participação historicamente elevada de fontes renováveis, sobretudo a hidrelétrica, tornando-a proporcionalmente menos dependente de combustíveis fósseis do que a de muitos países industrializados",
+                                              "b":  "apresentar participação predominante de termelétricas a gás natural, com pequena contribuição de fontes hídricas, cenário inverso ao observado no país, onde a fonte hídrica historicamente predomina",
+                                              "c":  "depender, majoritariamente, de usinas nucleares para a geração de eletricidade, quando na prática essa fonte representa parcela reduzida da matriz elétrica brasileira",
+                                              "d":  "utilizar fontes renováveis apenas de forma marginal, com a matriz baseada majoritariamente em termelétricas a carvão, descrição que contraria os dados oficiais do setor elétrico nacional"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A matriz elétrica brasileira se destaca, em comparação internacional, pela participação historicamente elevada de fontes renováveis, sobretudo a energia hidrelétrica, além de crescente participação de energia eólica e solar, o que resulta em uma matriz proporcionalmente menos dependente de combustíveis fósseis do que a de muitos países industrializados, embora ainda existam usinas termelétricas a combustíveis fósseis complementando o sistema.",
@@ -768,10 +768,10 @@
                          "texto_apoio":  "Estima-se que milhões de toneladas de plástico cheguem aos oceanos anualmente, formando inclusive grandes concentrações de resíduos flutuantes.",
                          "enunciado":  "Os chamados \"microplásticos\", partículas de plástico com poucos milímetros ou menos, representam preocupação ambiental crescente porque",
                          "alternativas":  {
-                                              "a":  "permanecem concentrados apenas na superfície do oceano, sem qualquer possibilidade de ingestão por organismos marinhos",
-                                              "b":  "podem ser ingeridos por organismos marinhos de diferentes níveis da cadeia alimentar, acumulando-se nos tecidos e podendo, eventualmente, chegar também à alimentação humana",
-                                              "c":  "têm origem, principalmente, em processos vulcânicos submarinos, com participação pouco relevante de atividades humanas",
-                                              "d":  "se decompõem rapidamente ao entrar em contato com a água do mar, de forma semelhante aos resíduos orgânicos biodegradáveis"
+                                              "a":  "permanecem concentrados apenas na superfície do oceano, hipótese que ignora registros de microplásticos encontrados até em sedimentos de grandes profundidades",
+                                              "b":  "podem ser ingeridos por organismos marinhos de diferentes níveis tróficos, acumulando-se nos tecidos e chegando, eventualmente, à alimentação humana",
+                                              "c":  "têm origem, principalmente, em processos vulcânicos submarinos, afirmação que contraria estudos que apontam fibras têxteis e degradação de embalagens como principais fontes",
+                                              "d":  "se decompõem rapidamente ao entrar em contato com a água do mar, quando na realidade polímeros sintéticos podem levar séculos para se degradar no ambiente marinho"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Os microplásticos, resultantes da fragmentação de resíduos plásticos maiores ou de produtos que já os contêm originalmente, podem ser ingeridos por organismos marinhos de diferentes níveis da cadeia alimentar, acumulando-se em seus tecidos e podendo, ao final da cadeia alimentar, ser encontrados também em alimentos consumidos por seres humanos, como peixes e frutos do mar.",
@@ -782,10 +782,10 @@
                          "texto_apoio":  "Em grandes cidades, é comum observar que a temperatura em áreas centrais e densamente construídas costuma ser mais elevada do que em regiões periféricas ou rurais próximas.",
                          "enunciado":  "O fenômeno conhecido como \"ilha de calor urbana\" está relacionado, entre outros fatores,",
                          "alternativas":  {
-                                              "a":  "à maior presença de áreas verdes e corpos d\u0027água nas regiões centrais das cidades, em comparação com as periferias",
-                                              "b":  "à maior concentração de superfícies pavimentadas (asfalto e concreto), que retêm e reemitem mais calor, além da menor presença de vegetação e maior emissão de calor por veículos e edificações nas áreas centrais",
-                                              "c":  "à ausência completa de qualquer construção humana nas áreas urbanas centrais",
-                                              "d":  "principalmente à maior altitude das regiões centrais em relação às periferias das cidades"
+                                              "a":  "à maior presença de áreas verdes e corpos d\u0027água nas regiões centrais, cenário oposto ao observado, já que centros urbanos costumam ter menos vegetação que as bordas",
+                                              "b":  "à maior concentração de superfícies pavimentadas, como asfalto e concreto, que retêm e reemitem mais calor, somada à menor presença de vegetação nas áreas centrais",
+                                              "c":  "à ausência completa de qualquer construção humana nas áreas urbanas centrais, hipótese incompatível com a própria definição de área densamente construída",
+                                              "d":  "principalmente à maior altitude das regiões centrais em relação às periferias, fator que não corresponde ao mecanismo térmico real da ilha de calor urbana"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A ilha de calor urbana ocorre porque superfícies pavimentadas, como asfalto e concreto, absorvem e reemitem mais calor do que áreas com vegetação e solo natural, combinando-se à menor presença de árvores (que proporcionam sombra e resfriamento por evapotranspiração) e à maior emissão de calor por veículos, indústrias e sistemas de climatização, o que eleva a temperatura nas áreas centrais e mais densamente construídas das cidades.",
@@ -796,10 +796,10 @@
                          "texto_apoio":  "Relatórios científicos internacionais têm associado as mudanças climáticas ao aumento da frequência e da intensidade de eventos climáticos extremos, como chuvas intensas e secas prolongadas.",
                          "enunciado":  "Do ponto de vista científico, a relação entre o aquecimento global e o aumento de eventos climáticos extremos se explica, entre outros fatores, porque",
                          "alternativas":  {
-                                              "a":  "o aumento da temperatura média eleva a quantidade de energia e de vapor d\u0027água disponível na atmosfera, o que pode intensificar fenômenos como chuvas concentradas, ao mesmo tempo em que altera padrões de circulação associados a períodos de seca em outras regiões",
-                                              "b":  "o aumento da temperatura média global reduz uniformemente a quantidade de energia disponível na atmosfera para a formação de fenômenos climáticos",
-                                              "c":  "as mudanças climáticas substituem por completo a variabilidade natural do clima, tornando os fenômenos atmosféricos previsíveis em escala regional",
-                                              "d":  "o aquecimento global reduz de forma generalizada a quantidade de vapor d\u0027água disponível na atmosfera em todas as regiões do planeta"
+                                              "a":  "o aumento da temperatura média eleva a energia e o vapor d\u0027água disponíveis na atmosfera, intensificando chuvas concentradas e alterando padrões de circulação associados a secas em outras regiões",
+                                              "b":  "o aumento da temperatura média global reduz uniformemente a quantidade de energia disponível na atmosfera, afirmação contrária à física atmosférica, já que mais calor implica mais energia disponível para o sistema",
+                                              "c":  "as mudanças climáticas substituem por completo a variabilidade natural do clima, tornando os fenômenos atmosféricos previsíveis em escala regional, quando na prática essa variabilidade persiste combinada aos efeitos antrópicos",
+                                              "d":  "o aquecimento global reduz de forma generalizada a quantidade de vapor d\u0027água disponível na atmosfera, contrariando a relação direta entre temperatura e capacidade do ar de reter umidade"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O aumento da temperatura média global eleva a quantidade de energia disponível na atmosfera e a capacidade do ar de reter vapor d\u0027água, o que pode intensificar eventos de chuva concentrada em determinadas regiões, ao mesmo tempo em que contribui para alterações nos padrões de circulação atmosférica associadas ao agravamento de períodos de seca em outras áreas, tornando eventos extremos, de modo geral, mais frequentes e intensos.",
@@ -811,9 +811,9 @@
                          "enunciado":  "A desertificação de uma região resulta, tipicamente, da combinação entre",
                          "alternativas":  {
                                               "a":  "excesso de chuvas intensas e prolongadas, que aumentariam de forma constante a umidade e a fertilidade do solo na região",
-                                              "b":  "aumento constante e permanente da fertilidade natural do solo em regiões áridas",
-                                              "c":  "fatores climáticos, como longos períodos de seca, e práticas humanas inadequadas de uso do solo, como desmatamento e superpastoreio, que reduzem a cobertura vegetal e degradam a capacidade produtiva do solo",
-                                              "d":  "ausência completa de qualquer atividade humana na região afetada"
+                                              "b":  "aumento constante e permanente da fertilidade natural do solo em regiões áridas, tendência oposta à perda de fertilidade observada em processos de desertificação",
+                                              "c":  "fatores climáticos, como secas prolongadas, e práticas humanas inadequadas, como desmatamento e superpastoreio, que reduzem a cobertura vegetal e degradam o solo",
+                                              "d":  "ausência completa de qualquer atividade humana na região afetada, cenário incompatível com o papel do desmatamento e do superpastoreio na degradação do solo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A desertificação resulta, tipicamente, da combinação entre fatores climáticos (como longos períodos de seca, comuns em regiões semiáridas) e práticas humanas inadequadas de uso do solo, como desmatamento, superpastoreio e manejo agrícola inadequado, que reduzem a cobertura vegetal, aumentam a erosão e degradam progressivamente a capacidade produtiva do solo.",
@@ -826,8 +826,8 @@
                          "alternativas":  {
                                               "a":  "a combinação entre destruição de habitats naturais, mudanças climáticas, poluição, superexploração de espécies e introdução de espécies exóticas invasoras",
                                               "b":  "principalmente fatores astronômicos, como variações no campo magnético terrestre, sem relação direta com atividades humanas",
-                                              "c":  "a ausência completa de qualquer influência humana sobre os ecossistemas naturais",
-                                              "d":  "a redução das atividades humanas de exploração de recursos naturais em todo o planeta"
+                                              "c":  "a ausência completa de qualquer influência humana sobre os ecossistemas naturais, hipótese contrária ao papel central das atividades antrópicas nesse processo",
+                                              "d":  "a redução das atividades humanas de exploração de recursos naturais, tendência inversa ao aumento da pressão humana sobre os ecossistemas nas últimas décadas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A atual perda acelerada de biodiversidade é associada, por estudos científicos, à combinação de múltiplos fatores de origem antrópica: destruição e fragmentação de habitats naturais, mudanças climáticas, poluição, superexploração de espécies (como a pesca e a caça predatórias) e introdução de espécies exóticas invasoras, que juntos pressionam ecossistemas em escala global.",
@@ -838,10 +838,10 @@
                          "texto_apoio":  "O debate sobre organismos geneticamente modificados envolve tanto argumentos técnicos quanto preocupações relacionadas à segurança alimentar e ambiental.",
                          "enunciado":  "Entre as preocupações levantadas por críticos do uso amplo de transgênicos na agricultura está o risco de",
                          "alternativas":  {
-                                              "a":  "aumento constante da diversidade genética das lavouras, em razão da grande variedade de sementes transgênicas comercializadas",
-                                              "b":  "impossibilidade técnica de qualquer planta transgênica sobreviver fora de ambiente controlado de laboratório",
-                                              "c":  "eliminação, no longo prazo, da capacidade reprodutiva de qualquer inseto-praga que se alimente da lavoura transgênica",
-                                              "d":  "redução da diversidade genética das lavouras (com predomínio de poucas variedades geneticamente modificadas), além de preocupações sobre o fluxo gênico para espécies silvestres relacionadas e a dependência econômica dos agricultores em relação a poucas empresas fornecedoras de sementes"
+                                              "a":  "aumento constante da diversidade genética das lavouras, em razão da grande variedade de sementes transgênicas comercializadas, tendência oposta à concentração varietal observada na prática comercial",
+                                              "b":  "impossibilidade técnica de qualquer planta transgênica sobreviver fora de ambiente controlado de laboratório, afirmação que contraria o cultivo comercial em larga escala já praticado a campo",
+                                              "c":  "eliminação, no longo prazo, da capacidade reprodutiva de qualquer inseto-praga que se alimente da lavoura, efeito não demonstrado, já que pragas podem desenvolver resistência ao longo de gerações",
+                                              "d":  "redução da diversidade genética das lavouras, concentradas em poucas variedades modificadas, risco de fluxo gênico para espécies silvestres e maior dependência de poucas empresas fornecedoras de sementes"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Entre as preocupações levantadas por críticos do uso amplo de transgênicos estão a redução da diversidade genética das lavouras, concentrada em poucas variedades comerciais, o risco de fluxo gênico para espécies silvestres relacionadas e a crescente dependência econômica de agricultores em relação a um número reduzido de empresas fornecedoras de sementes geneticamente modificadas, questões que se somam ao debate técnico sobre segurança alimentar e ambiental dessas culturas.",
@@ -852,10 +852,10 @@
                          "texto_apoio":  "O uso de agrotóxicos é amplamente difundido na agricultura moderna, mas também é alvo de debates sobre seus impactos à saúde e ao meio ambiente.",
                          "enunciado":  "Entre os impactos ambientais associados ao uso inadequado ou excessivo de agrotóxicos na agricultura está",
                          "alternativas":  {
-                                              "a":  "a contaminação do solo e de corpos d\u0027água por resíduos químicos, além de efeitos nocivos sobre organismos não-alvo, como polinizadores (abelhas) e outros insetos benéficos ao ecossistema agrícola",
-                                              "b":  "a eliminação seletiva apenas das pragas-alvo, sem qualquer efeito sobre polinizadores ou outros insetos benéficos",
-                                              "c":  "o aumento espontâneo da biodiversidade de insetos nas áreas tratadas com agrotóxicos",
-                                              "d":  "a melhoria automática e permanente da qualidade da água dos rios próximos às áreas de cultivo"
+                                              "a":  "a contaminação do solo e de corpos d\u0027água por resíduos químicos, além de efeitos nocivos sobre polinizadores, como abelhas, e outros insetos benéficos ao ecossistema agrícola",
+                                              "b":  "a eliminação seletiva apenas das pragas-alvo, sem qualquer efeito sobre polinizadores ou outros insetos benéficos, cenário que ignora o efeito de amplo espectro característico da maioria dos agrotóxicos convencionais",
+                                              "c":  "o aumento espontâneo da biodiversidade de insetos nas áreas tratadas com agrotóxicos, efeito oposto à redução de populações observada em áreas de aplicação intensiva",
+                                              "d":  "a melhoria automática e permanente da qualidade da água dos rios próximos às áreas de cultivo, cenário contrário à contaminação por resíduos químicos frequentemente registrada nesses corpos d'água"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O uso inadequado ou excessivo de agrotóxicos pode contaminar o solo e corpos d\u0027água próximos às áreas de cultivo, além de afetar organismos não-alvo, como abelhas e outros polinizadores e insetos benéficos ao equilíbrio do ecossistema agrícola, o que tem levado à busca por práticas de manejo integrado de pragas e ao debate sobre regulamentação mais rígida do uso desses produtos.",
@@ -866,10 +866,10 @@
                          "texto_apoio":  "A agricultura orgânica se diferencia da agricultura convencional, entre outros aspectos, pela restrição ao uso de determinados insumos químicos sintéticos.",
                          "enunciado":  "Uma diferença central entre a agricultura orgânica e a agricultura convencional é que a agricultura orgânica",
                          "alternativas":  {
-                                              "a":  "depende, sobretudo, do uso de sementes geneticamente modificadas resistentes a pragas, para dispensar o controle biológico",
-                                              "b":  "restringe ou proíbe o uso de agrotóxicos e fertilizantes sintéticos, priorizando práticas como adubação orgânica, rotação de culturas e controle biológico de pragas",
-                                              "c":  "permite o uso de agrotóxicos sintéticos, desde que em quantidade reduzida em relação à agricultura convencional",
-                                              "d":  "dispensa qualquer forma de controle de pragas, já que insetos não atacam plantações conduzidas sem agrotóxicos sintéticos"
+                                              "a":  "depende, sobretudo, do uso de sementes geneticamente modificadas resistentes a pragas, prática na verdade incompatível com os princípios da certificação orgânica",
+                                              "b":  "restringe ou proíbe agrotóxicos e fertilizantes sintéticos, priorizando adubação orgânica, rotação de culturas e controle biológico de pragas",
+                                              "c":  "permite o uso de agrotóxicos sintéticos, desde que em quantidade reduzida, quando na verdade a certificação orgânica veda esse tipo de insumo sintético",
+                                              "d":  "dispensa qualquer forma de controle de pragas, premissa falsa, pois pragas também afetam cultivos orgânicos, exigindo manejo biológico específico"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A agricultura orgânica se caracteriza por restringir ou proibir o uso de agrotóxicos e fertilizantes químicos sintéticos, priorizando práticas alternativas de manejo, como adubação orgânica, rotação de culturas e controle biológico de pragas, buscando reduzir impactos ambientais associados ao modelo convencional de produção agrícola.",
@@ -880,10 +880,10 @@
                          "texto_apoio":  "A segurança alimentar é um conceito utilizado por organismos internacionais, como a FAO (Organização das Nações Unidas para Alimentação e Agricultura), para avaliar o acesso da população a alimentos.",
                          "enunciado":  "O conceito de \"segurança alimentar\", tal como utilizado por organismos internacionais, refere-se, principalmente,",
                          "alternativas":  {
-                                              "a":  "à ausência completa de qualquer forma de comércio internacional de alimentos entre países",
-                                              "b":  "ao acesso regular e permanente da população a alimentos suficientes, seguros e nutritivos para uma vida ativa e saudável",
-                                              "c":  "principalmente à segurança física e sanitária das instalações de armazenamento e transporte de alimentos",
-                                              "d":  "principalmente à quantidade total de alimentos produzida em determinado país, com peso secundário para o acesso e a distribuição entre a população"
+                                              "a":  "à ausência completa de qualquer forma de comércio internacional de alimentos, hipótese irreal diante da interdependência comercial dos mercados agrícolas globais",
+                                              "b":  "ao acesso regular e permanente da população a alimentos suficientes, seguros e nutritivos, conceito que envolve tanto a disponibilidade quanto o acesso econômico aos alimentos",
+                                              "c":  "principalmente à segurança física e sanitária das instalações de armazenamento e transporte, aspecto relevante mas distinto do conceito amplo usado por organismos internacionais",
+                                              "d":  "principalmente à quantidade total de alimentos produzidos no país, dando peso secundário ao acesso e à distribuição entre a população"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O conceito de segurança alimentar, tal como definido por organismos internacionais como a FAO, refere-se ao acesso regular e permanente de toda a população a alimentos em quantidade suficiente, seguros e nutricionalmente adequados para garantir uma vida ativa e saudável, envolvendo não apenas a produção, mas também a distribuição e o acesso econômico aos alimentos.",
@@ -894,9 +894,9 @@
                          "texto_apoio":  "A escassez hídrica é um desafio crescente em diversas regiões do mundo, incluindo áreas do território brasileiro.",
                          "enunciado":  "Entre os fatores que contribuem para a escassez hídrica em determinadas regiões estão",
                          "alternativas":  {
-                                              "a":  "a combinação entre variações climáticas (como períodos prolongados de seca), o crescimento populacional e do consumo, além do uso inadequado e do desperdício de recursos hídricos em atividades humanas",
-                                              "b":  "o aumento constante e permanente da disponibilidade de água doce em todas as regiões do planeta",
-                                              "c":  "a ausência completa de qualquer atividade agrícola ou industrial que consuma água",
+                                              "a":  "a combinação entre variações climáticas, como secas prolongadas, o crescimento populacional e do consumo, além do desperdício de recursos hídricos em atividades humanas",
+                                              "b":  "o aumento constante e permanente da disponibilidade de água doce em todas as regiões, tendência que contraria os dados de estresse hídrico crescente em diversas áreas",
+                                              "c":  "a ausência completa de qualquer atividade agrícola ou industrial que consuma água, cenário incompatível com o consumo intensivo de água por esses setores",
                                               "d":  "principalmente fatores climáticos naturais, com pouca relação com o crescimento populacional ou os padrões de consumo humano de água"
                                           },
                          "resposta":  "a",
@@ -908,9 +908,9 @@
                          "texto_apoio":  "O tratamento de esgoto doméstico envolve diferentes etapas até que a água possa ser devolvida com segurança ao meio ambiente ou reaproveitada.",
                          "enunciado":  "Nas estações de tratamento de esgoto, a etapa biológica do tratamento tem como principal função",
                          "alternativas":  {
-                                              "a":  "adicionar cloro à água para eliminar diretamente todos os microrganismos patogênicos presentes no esgoto",
-                                              "b":  "aumentar artificialmente a quantidade de matéria orgânica presente no efluente tratado",
-                                              "c":  "utilizar microrganismos (bactérias) para degradar a matéria orgânica presente no esgoto, reduzindo a quantidade de poluentes orgânicos antes do descarte ou reaproveitamento da água tratada",
+                                              "a":  "adicionar cloro à água para eliminar diretamente todos os microrganismos patogênicos, etapa que corresponde, na verdade, à desinfecção química, não ao tratamento biológico",
+                                              "b":  "aumentar artificialmente a quantidade de matéria orgânica presente no efluente tratado, efeito oposto à redução de carga orgânica buscada nessa etapa do tratamento",
+                                              "c":  "utilizar microrganismos, como bactérias, para degradar a matéria orgânica do esgoto, reduzindo poluentes antes do descarte ou reaproveitamento da água tratada",
                                               "d":  "substituir a etapa de desinfecção por cloro, adicionando diretamente esse composto junto aos microrganismos utilizados na degradação"
                                           },
                          "resposta":  "c",
@@ -922,10 +922,10 @@
                          "texto_apoio":  "O descarte inadequado de equipamentos eletrônicos, como celulares e computadores, tem gerado um volume crescente de resíduos conhecidos como \"lixo eletrônico\" (e-waste).",
                          "enunciado":  "O descarte inadequado de lixo eletrônico é preocupante do ponto de vista ambiental, entre outros motivos, porque esses equipamentos",
                          "alternativas":  {
-                                              "a":  "podem conter metais pesados e outras substâncias tóxicas que, se descartados incorretamente, podem contaminar o solo e a água, embora também contenham materiais valiosos que poderiam ser recuperados por meio da reciclagem adequada",
-                                              "b":  "liberam apenas compostos orgânicos voláteis, sem qualquer risco de contaminação do solo ou da água",
-                                              "c":  "não contêm nenhum material passível de reaproveitamento ou reciclagem",
-                                              "d":  "são compostos, em sua maior parte, por materiais orgânicos que se decompõem naturalmente em contato com o solo"
+                                              "a":  "podem conter metais pesados e substâncias tóxicas que, se descartados incorretamente, contaminam solo e água, embora também tragam materiais valiosos recuperáveis pela reciclagem",
+                                              "b":  "liberam apenas compostos orgânicos voláteis, sem qualquer risco de contaminação do solo ou da água, afirmação que ignora os metais pesados presentes em placas e componentes eletrônicos",
+                                              "c":  "não contêm nenhum material passível de reaproveitamento ou reciclagem, quando na verdade placas e componentes contêm metais valiosos recuperáveis industrialmente",
+                                              "d":  "são compostos, em sua maior parte, por materiais orgânicos que se decompõem naturalmente no solo, descrição incompatível com a composição predominantemente metálica e plástica desses equipamentos"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O lixo eletrônico pode conter metais pesados e outras substâncias tóxicas que, se descartados incorretamente, contaminam o solo e a água. Ao mesmo tempo, esses equipamentos frequentemente contêm materiais valiosos, como metais preciosos e outros componentes reaproveitáveis, o que reforça a importância de programas de logística reversa e reciclagem especializada para esse tipo de resíduo.",
@@ -936,10 +936,10 @@
                          "texto_apoio":  "A compostagem é uma técnica cada vez mais adotada para o tratamento de resíduos orgânicos domésticos e agrícolas.",
                          "enunciado":  "Do ponto de vista biológico, o processo de compostagem consiste, essencialmente, na",
                          "alternativas":  {
-                                              "a":  "decomposição de resíduos orgânicos por ação de microrganismos (bactérias e fungos) em condições controladas, resultando em um material rico em nutrientes que pode ser utilizado como adubo",
+                                              "a":  "decomposição de resíduos orgânicos por bactérias e fungos em condições controladas, resultando em material rico em nutrientes, utilizável como adubo",
                                               "b":  "incineração controlada dos resíduos orgânicos em fornos de alta temperatura, processo que não depende da atividade de microrganismos decompositores",
-                                              "c":  "conversão direta e instantânea de resíduos orgânicos em plástico biodegradável",
-                                              "d":  "eliminação total de qualquer resíduo orgânico, sem geração de qualquer subproduto aproveitável"
+                                              "c":  "conversão direta e instantânea de resíduos orgânicos em plástico biodegradável, processo inexistente na compostagem, que não gera plásticos como produto final",
+                                              "d":  "eliminação total de qualquer resíduo orgânico, descrição que ignora o composto orgânico rico em nutrientes gerado ao final do processo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A compostagem é um processo biológico em que microrganismos (bactérias e fungos), em condições controladas de umidade, aeração e temperatura, decompõem resíduos orgânicos, resultando em um material rico em nutrientes (o composto ou húmus), que pode ser utilizado como adubo orgânico, reduzindo o volume de resíduos enviados a aterros sanitários.",
@@ -950,10 +950,10 @@
                          "texto_apoio":  "Navios de grande porte, feitos de aço (material mais denso que a água), conseguem flutuar sobre a superfície do mar.",
                          "enunciado":  "A explicação física para a capacidade de um navio de aço flutuar, apesar da alta densidade do material de que é feito, está relacionada",
                          "alternativas":  {
-                                              "a":  "ao princípio de Arquimedes, segundo o qual o empuxo exercido pelo fluido sobre um corpo depende do volume de fluido deslocado, e não apenas da densidade do material que compõe o objeto, já que o formato do casco desloca grande volume de água em relação ao seu peso total",
-                                              "b":  "à ausência completa de qualquer força de gravidade atuando sobre embarcações de grande porte",
-                                              "c":  "à conversão do aço em um material menos denso do que a água ao entrar em contato com o mar",
-                                              "d":  "principalmente à velocidade do navio, sendo o formato do casco um fator apenas secundário para sua flutuação"
+                                              "a":  "ao princípio de Arquimedes: o empuxo depende do volume de fluido deslocado, e não apenas da densidade do material, pois o casco desloca grande volume de água em relação ao peso do navio",
+                                              "b":  "à ausência completa de qualquer força de gravidade atuando sobre embarcações de grande porte, hipótese fisicamente impossível, já que a gravidade atua sobre qualquer corpo com massa",
+                                              "c":  "à conversão do aço em um material menos denso do que a água ao entrar em contato com o mar, transformação química que não ocorre e não explica a flutuação de embarcações metálicas",
+                                              "d":  "principalmente à velocidade do navio, sendo o formato do casco um fator apenas secundário, inversão do papel real, já que até navios parados permanecem flutuando pelo empuxo"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Segundo o princípio de Arquimedes, um corpo imerso em um fluido recebe um empuxo (força para cima) igual ao peso do fluido deslocado por ele. O formato do casco de um navio é projetado para deslocar um grande volume de água em relação ao peso total da embarcação, gerando um empuxo suficiente para equilibrar seu peso e mantê-lo flutuando, mesmo sendo feito de um material (aço) mais denso do que a água isoladamente.",
@@ -978,10 +978,10 @@
                          "texto_apoio":  "Nos pulmões, ocorre a troca de gases entre o ar inspirado e o sangue, processo essencial para a respiração celular.",
                          "enunciado":  "A troca de oxigênio e dióxido de carbono entre os alvéolos pulmonares e os capilares sanguíneos ocorre, principalmente, por meio do processo físico de",
                          "alternativas":  {
-                                              "a":  "difusão simples, em que os gases se movem espontaneamente da região de maior para a de menor concentração, sem gasto de energia pela célula",
-                                              "b":  "transporte ativo, com consumo direto e obrigatório de energia (ATP) para o deslocamento de cada molécula de gás",
-                                              "c":  "osmose, processo exclusivo de movimentação de moléculas de água através de membranas",
-                                              "d":  "fotossíntese, processo pelo qual as células dos alvéolos convertem o dióxido de carbono do sangue em oxigênio"
+                                              "a":  "difusão simples, em que os gases se movem espontaneamente da região de maior para a de menor concentração, processo físico que não depende de proteínas transportadoras",
+                                              "b":  "transporte ativo, com consumo direto e obrigatório de energia (ATP), mecanismo típico do deslocamento de íons contra gradiente de concentração",
+                                              "c":  "osmose, processo exclusivo de movimentação de moléculas de água através de membranas, mecanismo que não se aplica ao transporte de gases como oxigênio e dióxido de carbono",
+                                              "d":  "fotossíntese, processo pelo qual as células dos alvéolos converteriam dióxido de carbono em oxigênio, o que exigiria clorofila, ausente nas células alveolares humanas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A troca gasosa nos alvéolos pulmonares ocorre por difusão simples: o oxigênio, mais concentrado no ar alveolar, difunde-se para o sangue (onde está menos concentrado), enquanto o dióxido de carbono, mais concentrado no sangue, difunde-se para os alvéolos, sendo depois eliminado na expiração — processo espontâneo, que não depende de gasto direto de energia pela célula, ao contrário do transporte ativo.",
@@ -1006,10 +1006,10 @@
                          "texto_apoio":  "Uma bolsa de gelo instantâneo, usada para tratar contusões, esfria rapidamente ao ser ativada, enquanto uma reação em uma fogueira libera grande quantidade de calor.",
                          "enunciado":  "Do ponto de vista da termoquímica, reações que absorvem energia térmica do ambiente ao ocorrer, como a de uma bolsa de gelo instantâneo, são classificadas como",
                          "alternativas":  {
-                                              "a":  "exotérmicas, pois liberam calor para o ambiente ao redor",
-                                              "b":  "neutras, por não envolverem qualquer troca de energia térmica com o ambiente",
-                                              "c":  "endotérmicas, pois absorvem calor do ambiente ao redor, o que reduz a temperatura da vizinhança da reação",
-                                              "d":  "nucleares, por envolverem obrigatoriamente alterações no núcleo dos átomos reagentes"
+                                              "a":  "exotérmicas, pois liberam calor para o ambiente ao redor, classificação oposta à observada no resfriamento da bolsa de gelo instantâneo",
+                                              "b":  "neutras, por não envolverem qualquer troca de energia térmica com o ambiente, categoria inexistente em termoquímica, já que toda reação envolve alguma troca de calor",
+                                              "c":  "endotérmicas, pois absorvem calor do ambiente ao redor, o que reduz a temperatura da vizinhança, como ocorre na dissolução de certos sais usados em compressas frias",
+                                              "d":  "nucleares, por envolverem obrigatoriamente alterações no núcleo dos átomos reagentes, processo distinto de reações químicas comuns, que alteram apenas a eletrosfera"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Reações endotérmicas absorvem energia térmica do ambiente ao seu redor para ocorrer, o que reduz a temperatura da vizinhança, como no caso das bolsas de gelo instantâneo, que utilizam reações desse tipo. Já reações exotérmicas, como a combustão em uma fogueira, liberam calor para o ambiente, elevando sua temperatura.",
@@ -1020,9 +1020,9 @@
                          "texto_apoio":  "Produtos de limpeza doméstica, como vinagre (ácido) e soda cáustica (base), são utilizados no cotidiano de acordo com suas propriedades químicas.",
                          "enunciado":  "Quando uma solução ácida e uma solução básica são misturadas em proporções adequadas, ocorre uma reação de neutralização, cujo resultado típico é a formação de",
                          "alternativas":  {
-                                              "a":  "um novo ácido ainda mais concentrado do que o ácido original utilizado na mistura",
-                                              "b":  "predominantemente gás hidrogênio, liberado em grande quantidade durante a reação de neutralização",
-                                              "c":  "uma substância radioativa, resultado da combinação entre ácidos e bases",
+                                              "a":  "um novo ácido ainda mais concentrado do que o original, resultado que não corresponde à neutralização, processo que reduz, e não aumenta, a acidez",
+                                              "b":  "predominantemente gás hidrogênio, liberado em grande quantidade, subproduto típico de reações entre metais e ácidos, não de neutralizações ácido-base",
+                                              "c":  "uma substância radioativa, resultado da combinação entre ácidos e bases, afirmação incompatível com a natureza química não nuclear dessas reações",
                                               "d":  "um sal e, frequentemente, água, com o pH da solução resultante tendendo a se aproximar da neutralidade, conforme as quantidades utilizadas"
                                           },
                          "resposta":  "d",
@@ -1034,9 +1034,9 @@
                          "texto_apoio":  "É comum perceber que o som de uma ambulância parece mais agudo quando ela se aproxima e mais grave quando ela se afasta do observador.",
                          "enunciado":  "Esse fenômeno, observado na variação da frequência percebida do som de uma fonte em movimento em relação a um observador, é conhecido como",
                          "alternativas":  {
-                                              "a":  "refração sonora, fenômeno relacionado à mudança de velocidade do som ao passar de um meio de propagação para outro",
-                                              "b":  "eco, fenômeno causado pela reflexão do som em uma superfície distante",
-                                              "c":  "ressonância, fenômeno relacionado à amplificação da amplitude de uma onda quando ela incide sobre um corpo com a mesma frequência natural de vibração",
+                                              "a":  "refração sonora, fenômeno relacionado à mudança de velocidade do som ao passar de um meio de propagação para outro, não à aproximação ou ao afastamento da fonte",
+                                              "b":  "eco, fenômeno causado pela reflexão do som em uma superfície distante, mecanismo que não depende da frequência relativa entre fonte e observador em movimento",
+                                              "c":  "ressonância, fenômeno relacionado à amplificação da amplitude de uma onda ao incidir sobre um corpo com igual frequência natural de vibração",
                                               "d":  "efeito Doppler, no qual a frequência percebida do som aumenta quando a fonte se aproxima do observador e diminui quando ela se afasta"
                                           },
                          "resposta":  "d",
@@ -1048,10 +1048,10 @@
                          "texto_apoio":  "Em uma usina hidrelétrica, a água represada em grande altura é liberada para movimentar turbinas na parte inferior da barragem.",
                          "enunciado":  "O funcionamento de uma usina hidrelétrica está diretamente relacionado à conversão de energia potencial gravitacional da água represada, que depende",
                          "alternativas":  {
-                                              "a":  "principalmente da cor e da turbidez da água armazenada no reservatório, com pouca relação com sua massa ou com a altura da queda d\u0027água",
-                                              "b":  "principalmente da temperatura da água represada, tendo pequena relação com a altura da queda d\u0027água ou com a massa de água movimentada",
-                                              "c":  "da altura da queda d\u0027água (desnível) e da massa de água movimentada, de modo que, quanto maior a altura e o volume de água liberados, maior tende a ser a energia potencial disponível para conversão em energia elétrica",
-                                              "d":  "principalmente da velocidade do vento na região onde a usina está instalada, de forma semelhante a uma usina eólica"
+                                              "a":  "principalmente da cor e da turbidez da água armazenada no reservatório, fator que não influencia a energia potencial gravitacional disponível para a geração, com pouca relação com sua massa ou com a altura da queda d\u0027água",
+                                              "b":  "principalmente da temperatura da água represada, ao contrário do que prevê a física da energia potencial gravitacional, tendo pequena relação com a altura da queda d\u0027água ou com a massa de água movimentada",
+                                              "c":  "da altura da queda d\u0027água e da massa de água movimentada, de modo que maior altura e volume tendem a ampliar a energia potencial disponível para conversão em elétrica",
+                                              "d":  "principalmente da velocidade do vento na região onde a usina está instalada, fator próprio de usinas eólicas, e não da energia potencial gravitacional de reservatórios hidrelétricos"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia potencial gravitacional armazenada na água de um reservatório depende da altura da queda d\u0027água (desnível entre o reservatório e as turbinas) e da massa de água disponível, de modo que, quanto maiores essa altura e esse volume, maior a energia potencial que pode ser convertida em energia cinética e, posteriormente, em energia elétrica ao passar pelas turbinas da usina hidrelétrica.",
@@ -1063,9 +1063,9 @@
                          "enunciado":  "A necessidade do uso de cinto de segurança em um automóvel, sobretudo em caso de freada brusca ou colisão, relaciona-se diretamente ao princípio físico da",
                          "alternativas":  {
                                               "a":  "inércia, segundo o qual um corpo em movimento tende a continuar se movendo na mesma direção e velocidade, a menos que uma força externa atue sobre ele, como ocorre com o corpo do passageiro em uma parada brusca do veículo",
-                                              "b":  "gravitação universal, segundo a qual o corpo do passageiro seria atraído para frente pela força gravitacional exercida pelo painel do veículo",
-                                              "c":  "conservação da quantidade de movimento entre o veículo e a via, sem qualquer relação com o corpo do passageiro",
-                                              "d":  "empuxo, princípio segundo o qual o ar dentro do veículo exerceria uma força capaz de conter o deslocamento do passageiro"
+                                              "b":  "gravitação universal, segundo a qual o corpo do passageiro seria atraído para frente pela força gravitacional exercida pelo painel do veículo, hipótese incompatível com a intensidade real dessa força a curta distância",
+                                              "c":  "conservação da quantidade de movimento entre o veículo e a via, sem qualquer relação com o corpo do passageiro, o que ignora a inércia do próprio ocupante durante a colisão",
+                                              "d":  "empuxo, princípio segundo o qual o ar dentro do veículo exerceria uma força capaz de conter o deslocamento do passageiro, efeito desprezível diante da massa e da velocidade envolvidas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Pela primeira lei de Newton (princípio da inércia), um corpo em movimento tende a continuar se movendo com a mesma velocidade e direção, a menos que uma força externa atue sobre ele. Em uma freada brusca, o veículo desacelera, mas o corpo do passageiro tende a continuar se movendo para frente por inércia, o que torna o cinto de segurança essencial para aplicar a força necessária para desacelerar o corpo junto com o veículo, evitando lesões graves.",
@@ -1076,10 +1076,10 @@
                          "texto_apoio":  "Alpinistas que escalam montanhas muito altas costumam relatar dificuldade para respirar, mesmo com a composição do ar praticamente igual à do nível do mar.",
                          "enunciado":  "A dificuldade respiratória enfrentada em grandes altitudes está relacionada, principalmente,",
                          "alternativas":  {
-                                              "a":  "ao aumento da temperatura do ar à medida que a altitude aumenta",
-                                              "b":  "à conversão do oxigênio atmosférico em dióxido de carbono nas grandes altitudes",
-                                              "c":  "à redução da pressão atmosférica em altitudes elevadas, o que diminui a pressão parcial de oxigênio disponível para as trocas gasosas nos pulmões, embora a proporção percentual de oxigênio no ar permaneça praticamente a mesma",
-                                              "d":  "à completa ausência de oxigênio molecular na atmosfera em altitudes elevadas"
+                                              "a":  "ao aumento da temperatura do ar à medida que a altitude aumenta, fator que na verdade tende a diminuir com a altitude e não afeta diretamente a disponibilidade de oxigênio",
+                                              "b":  "à conversão do oxigênio atmosférico em dióxido de carbono nas grandes altitudes, reação química que não ocorre espontaneamente na atmosfera em nenhuma altitude",
+                                              "c":  "à redução da pressão atmosférica em altitudes elevadas, o que diminui a pressão parcial de oxigênio disponível para as trocas gasosas nos pulmões",
+                                              "d":  "à completa ausência de oxigênio molecular na atmosfera em altitudes elevadas, afirmação incorreta, já que a proporção percentual de oxigênio permanece praticamente constante"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Embora a proporção percentual de oxigênio no ar permaneça praticamente constante em diferentes altitudes, a pressão atmosférica diminui à medida que a altitude aumenta, reduzindo a pressão parcial de oxigênio disponível para as trocas gasosas nos pulmões, o que dificulta a oxigenação adequada do sangue e explica a sensação de falta de ar enfrentada em grandes altitudes.",
@@ -1091,9 +1091,9 @@
                          "enunciado":  "Essa sensação diferente de temperatura entre metal e madeira, mesmo estando ambos à mesma temperatura ambiente, está relacionada, principalmente,",
                          "alternativas":  {
                                               "a":  "ao fato de o metal estar, de fato, a uma temperatura real mais baixa do que a madeira, mesmo estando ambos no mesmo ambiente há horas",
-                                              "b":  "à cor da superfície tocada, único fator relevante para a sensação térmica ao toque",
+                                              "b":  "à cor da superfície tocada, único fator relevante para a sensação térmica ao toque, hipótese que ignora a condutividade térmica dos materiais envolvidos",
                                               "c":  "ao fato de o metal, por ser melhor condutor térmico do que a madeira, retirar calor da mão mais rapidamente, o que intensifica a sensação de frio",
-                                              "d":  "à ausência completa de condução de calor entre a pele e qualquer material sólido"
+                                              "d":  "à ausência completa de condução de calor entre a pele e qualquer material sólido, afirmação que contraria o próprio mecanismo de transferência de calor por contato"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Metais são, em geral, melhores condutores térmicos do que a madeira, o que significa que, ao tocar uma superfície metálica, o calor da mão é conduzido para longe dela mais rapidamente do que ao tocar madeira, mesmo que ambos os materiais estejam exatamente à mesma temperatura ambiente, o que gera a sensação de que o metal está mais frio ao toque.",
@@ -1104,10 +1104,10 @@
                          "texto_apoio":  "A nanotecnologia envolve a manipulação da matéria em escala extremamente reduzida, da ordem de bilionésimos de metro, com aplicações em diversas áreas.",
                          "enunciado":  "Entre as aplicações contemporâneas da nanotecnologia mencionadas por pesquisadores da área está o desenvolvimento de",
                          "alternativas":  {
-                                              "a":  "técnicas voltadas, sobretudo, à produção de energia nuclear em usinas de grande porte, com pouca aplicação em outras áreas",
-                                              "b":  "materiais e dispositivos com propriedades específicas em escala nanométrica, com aplicações em áreas como medicina (liberação controlada de medicamentos), eletrônica e produção de materiais mais resistentes ou funcionais",
+                                              "a":  "técnicas voltadas, sobretudo, à produção de energia nuclear em usinas de grande porte, descrição que não reflete o escopo multidisciplinar real da nanotecnologia",
+                                              "b":  "materiais e dispositivos com propriedades específicas em escala nanométrica, com aplicações em medicina, eletrônica e produção de materiais mais resistentes",
                                               "c":  "processos voltados, principalmente, à fabricação de tecidos e vestuário, com aplicações apenas marginais em medicina ou eletrônica",
-                                              "d":  "métodos que substituem, na prática totalidade dos casos, os medicamentos convencionais utilizados atualmente na medicina"
+                                              "d":  "métodos que substituem, na prática totalidade dos casos, os medicamentos convencionais, afirmação que superestima o alcance atual das aplicações nanotecnológicas em saúde"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A nanotecnologia envolve a manipulação da matéria em escala nanométrica, com aplicações em diversas áreas, como o desenvolvimento de sistemas de liberação controlada de medicamentos na medicina, componentes eletrônicos mais eficientes e materiais com propriedades específicas de resistência, condutividade ou funcionalidade, distintas das apresentadas pelo mesmo material em escala macroscópica.",
@@ -1118,10 +1118,10 @@
                          "texto_apoio":  "A técnica de edição genética CRISPR tem sido apontada como uma revolução na biotecnologia contemporânea, com potenciais aplicações médicas e agrícolas.",
                          "enunciado":  "De forma geral, a técnica CRISPR permite aos cientistas",
                          "alternativas":  {
-                                              "a":  "observar a estrutura tridimensional de proteínas por meio de microscopia, sem qualquer possibilidade de alteração do material genético",
-                                              "b":  "criar organismos geneticamente idênticos entre si por clonagem, técnica que dispensa qualquer edição do material genético original",
-                                              "c":  "eliminar, de forma definitiva e sem qualquer debate ético pendente, todas as doenças genéticas humanas já conhecidas",
-                                              "d":  "identificar e modificar, com relativa precisão, sequências específicas do DNA de um organismo, possibilitando aplicações que vão da correção de mutações associadas a doenças genéticas até o desenvolvimento de novas variedades agrícolas"
+                                              "a":  "observar a estrutura tridimensional de proteínas por meio de microscopia, técnica distinta da edição direta de sequências de DNA",
+                                              "b":  "criar organismos geneticamente idênticos entre si por clonagem, divergindo do princípio de edição precisa que caracteriza o CRISPR",
+                                              "c":  "eliminar, de forma definitiva e sem qualquer debate ético pendente, todas as doenças genéticas humanas já conhecidas, promessa que ignora os limites técnicos ainda existentes",
+                                              "d":  "identificar e modificar, com relativa precisão, sequências específicas do DNA, possibilitando desde a correção de mutações associadas a doenças genéticas até novas variedades agrícolas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A técnica CRISPR permite identificar e modificar, com relativa precisão, sequências específicas do DNA de um organismo, possibilitando aplicações que vão desde a pesquisa sobre a correção de mutações associadas a doenças genéticas até o desenvolvimento de novas variedades agrícolas, embora seu uso, sobretudo em edição genética humana hereditária, envolva também importantes debates éticos ainda não plenamente resolvidos.",
@@ -1132,10 +1132,10 @@
                          "texto_apoio":  "Pesquisas com células-tronco têm gerado expectativas relevantes para o tratamento de diversas doenças, em razão de uma característica biológica particular dessas células.",
                          "enunciado":  "Uma característica biológica que torna as células-tronco relevantes para aplicações médicas é sua capacidade de",
                          "alternativas":  {
-                                              "a":  "existirem apenas em tecidos fetais e embrionários, estando ausentes no organismo adulto já formado",
-                                              "b":  "não desempenharem qualquer papel relevante no desenvolvimento embrionário dos seres humanos",
+                                              "a":  "existirem apenas em tecidos fetais e embrionários, afirmação que desconsidera a existência de células-tronco adultas em tecidos como a medula óssea",
+                                              "b":  "não desempenharem qualquer papel relevante no desenvolvimento embrionário, visão que contraria seu papel central na formação de todos os tecidos do embrião",
                                               "c":  "se dividirem apenas em células idênticas a si mesmas, mantendo essa característica em todas as fases do desenvolvimento do organismo",
-                                              "d":  "se diferenciarem em diferentes tipos de células especializadas do organismo, além de, em certos casos, se autorrenovarem, o que abre possibilidades terapêuticas para regeneração de tecidos danificados"
+                                              "d":  "se diferenciarem em diferentes tipos de células especializadas, além de, em certos casos, se autorrenovarem, possibilitando a regeneração de tecidos danificados"
                                           },
                          "resposta":  "d",
                          "explicacao":  "As células-tronco possuem a capacidade de se diferenciar em diferentes tipos de células especializadas do organismo (como células musculares, nervosas ou sanguíneas) e, em muitos casos, de se autorrenovar, características que fundamentam pesquisas voltadas à regeneração de tecidos danificados e ao tratamento de diversas doenças, embora seu uso terapêutico ainda envolva desafios técnicos e, no caso de células-tronco embrionárias, debates éticos.",
@@ -1146,10 +1146,10 @@
                          "texto_apoio":  "Em 1996, a ovelha Dolly se tornou o primeiro mamífero clonado a partir de uma célula adulta, marcando um episódio importante na história da biotecnologia.",
                          "enunciado":  "Do ponto de vista biológico, a clonagem reprodutiva, como a que originou a ovelha Dolly, consiste em",
                          "alternativas":  {
-                                              "a":  "acelerar artificialmente o processo natural de reprodução sexuada entre dois indivíduos da mesma espécie",
-                                              "b":  "eliminar completamente qualquer material genético do organismo original durante o processo de reprodução",
-                                              "c":  "produzir um novo organismo geneticamente idêntico (ou quase idêntico) a um organismo já existente, a partir do material genético contido no núcleo de uma célula somática (não reprodutiva) desse organismo original",
-                                              "d":  "misturar aleatoriamente o material genético de dois indivíduos diferentes para gerar um terceiro geneticamente distinto de ambos"
+                                              "a":  "acelerar artificialmente o processo natural de reprodução sexuada entre dois indivíduos da mesma espécie, descrição que corresponde à reprodução assistida, não à clonagem",
+                                              "b":  "eliminar completamente qualquer material genético do organismo original, afirmação que contraria o próprio princípio de preservação genética da clonagem",
+                                              "c":  "produzir um novo organismo geneticamente idêntico (ou quase idêntico) a um já existente, a partir do material genético do núcleo de uma célula somática desse organismo original",
+                                              "d":  "misturar aleatoriamente o material genético de dois indivíduos diferentes para gerar um terceiro, descrição própria da reprodução sexuada, não da clonagem"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A clonagem reprodutiva consiste em produzir um novo organismo geneticamente idêntico (ou quase idêntico) a um organismo já existente, utilizando o material genético contido no núcleo de uma célula somática (não reprodutiva) desse organismo original, técnica empregada na criação da ovelha Dolly, a partir do núcleo de uma célula da glândula mamária de uma ovelha adulta.",
@@ -1160,9 +1160,9 @@
                          "texto_apoio":  "O sequenciamento completo do genoma humano, concluído no início dos anos 2000, foi um marco importante para a biologia e a medicina.",
                          "enunciado":  "O sequenciamento do genoma humano consistiu, essencialmente, em",
                          "alternativas":  {
-                                              "a":  "eliminar completamente qualquer variação genética entre diferentes indivíduos da espécie humana",
-                                              "b":  "substituir integralmente o material genético humano original por sequências sintéticas",
-                                              "c":  "criar artificialmente um novo conjunto completo de genes humanos em laboratório",
+                                              "a":  "eliminar completamente qualquer variação genética entre indivíduos da espécie humana, resultado que contraria a diversidade genética observada mesmo após o sequenciamento",
+                                              "b":  "substituir integralmente o material genético humano original por sequências sintéticas, procedimento que não corresponde ao objetivo de leitura do sequenciamento genômico",
+                                              "c":  "criar artificialmente um novo conjunto completo de genes humanos, tarefa distinta da simples leitura da sequência de nucleotídeos já existente no DNA",
                                               "d":  "determinar a ordem exata dos nucleotídeos que compõem o DNA humano, permitindo identificar genes associados a diferentes características e doenças"
                                           },
                          "resposta":  "d",
@@ -1174,7 +1174,7 @@
                          "texto_apoio":  "Autoridades de saúde monitoram constantemente a ocorrência de doenças infecciosas para classificar sua magnitude e adotar medidas adequadas de resposta.",
                          "enunciado":  "Do ponto de vista epidemiológico, a diferença entre um \"surto\", uma \"epidemia\" e uma \"pandemia\" está relacionada, principalmente,",
                          "alternativas":  {
-                                              "a":  "à abrangência geográfica e à escala de disseminação da doença, sendo o surto mais localizado, a epidemia envolvendo maior número de casos em uma região mais ampla, e a pandemia caracterizada pela disseminação em múltiplos países ou continentes",
+                                              "a":  "à abrangência geográfica e à escala de disseminação: o surto é localizado, a epidemia atinge região mais ampla, e a pandemia se espalha por múltiplos países ou continentes",
                                               "b":  "exclusivamente ao tipo de agente infeccioso envolvido, sendo cada termo associado obrigatoriamente a uma categoria diferente de patógeno",
                                               "c":  "ao fato de apenas doenças bacterianas poderem ser classificadas como epidemias, enquanto doenças virais seriam sempre classificadas como pandemias",
                                               "d":  "à gravidade clínica dos sintomas apresentados pelos pacientes infectados, sem qualquer relação com a extensão geográfica da disseminação"
@@ -1189,9 +1189,9 @@
                          "enunciado":  "Em relação a testes diagnósticos para doenças infecciosas, os conceitos de \"sensibilidade\" e \"especificidade\" referem-se, respectivamente,",
                          "alternativas":  {
                                               "a":  "exclusivamente ao custo financeiro do teste e ao tempo necessário para obter o resultado, sem qualquer relação com a precisão diagnóstica",
-                                              "b":  "à capacidade do teste de identificar corretamente indivíduos realmente doentes (sensibilidade) e à capacidade de identificar corretamente indivíduos realmente saudáveis, ou seja, sem a doença (especificidade)",
-                                              "c":  "à cor do reagente utilizado no teste (sensibilidade) e à temperatura de armazenamento da amostra coletada (especificidade)",
-                                              "d":  "à quantidade de testes disponíveis em determinado país e à distância entre laboratórios, respectivamente"
+                                              "b":  "à capacidade de identificar corretamente indivíduos doentes (sensibilidade) e de identificar corretamente indivíduos saudáveis, sem a doença (especificidade)",
+                                              "c":  "à cor do reagente utilizado no teste (sensibilidade) e à temperatura de armazenamento da amostra coletada (especificidade), associação que não corresponde aos parâmetros estatísticos reais",
+                                              "d":  "à quantidade de testes disponíveis em determinado país e à distância entre laboratórios, fatores logísticos que não definem tecnicamente sensibilidade ou especificidade"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A sensibilidade de um teste diagnóstico refere-se à sua capacidade de identificar corretamente indivíduos que realmente têm a doença (evitando falsos negativos), enquanto a especificidade refere-se à capacidade de identificar corretamente indivíduos que realmente não têm a doença (evitando falsos positivos), sendo ambos parâmetros centrais para avaliar a confiabilidade de testes diagnósticos, como os utilizados durante a pandemia de covid-19.",
@@ -1202,10 +1202,10 @@
                          "texto_apoio":  "Assim como bactérias podem desenvolver resistência a antibióticos, algumas populações de insetos-praga podem desenvolver resistência a determinados agrotóxicos utilizados na agricultura.",
                          "enunciado":  "O desenvolvimento de resistência de insetos-praga a determinado agrotóxico aplicado repetidamente em uma lavoura pode ser explicado, do ponto de vista biológico, por um processo de",
                          "alternativas":  {
-                                              "a":  "seleção natural, em que indivíduos com variações genéticas que conferem menor suscetibilidade ao agrotóxico sobrevivem e se reproduzem mais do que os demais, aumentando a frequência dessas variações na população ao longo de gerações",
-                                              "b":  "mutação induzida artificialmente pelo próprio agrotóxico em todos os indivíduos da população de insetos de forma simultânea e idêntica",
-                                              "c":  "ausência completa de qualquer variação genética entre os indivíduos da população de insetos antes da aplicação do agrotóxico",
-                                              "d":  "eliminação definitiva e total de toda a população de insetos-praga após a primeira aplicação do produto"
+                                              "a":  "seleção natural: indivíduos com variações genéticas de menor suscetibilidade sobrevivem e se reproduzem mais, aumentando a frequência dessas variações na população ao longo de gerações",
+                                              "b":  "mutação induzida artificialmente pelo próprio agrotóxico em todos os indivíduos de forma simultânea, hipótese que não corresponde ao caráter aleatório e pré-existente das mutações",
+                                              "c":  "ausência completa de qualquer variação genética entre os indivíduos da população, premissa que contraria a variabilidade genética natural presente em qualquer população",
+                                              "d":  "eliminação definitiva e total de toda a população de insetos-praga após a primeira aplicação, cenário que não explica o surgimento de resistência em aplicações subsequentes"
                                           },
                          "resposta":  "a",
                          "explicacao":  "De forma análoga à resistência bacteriana a antibióticos, a resistência de insetos-praga a agrotóxicos ocorre por seleção natural: indivíduos com variações genéticas que conferem menor suscetibilidade ao produto sobrevivem em maior proporção e se reproduzem, aumentando gradualmente a frequência dessas variações na população ao longo de gerações sucessivas expostas ao mesmo agrotóxico.",
@@ -1216,10 +1216,10 @@
                          "texto_apoio":  "A biopirataria é um termo utilizado para descrever a apropriação indevida de recursos genéticos e conhecimentos tradicionais associados à biodiversidade de determinada região.",
                          "enunciado":  "O termo \"biopirataria\" é utilizado, tipicamente, para descrever situações em que",
                          "alternativas":  {
-                                              "a":  "pesquisadores locais de uma região realizam, com as devidas autorizações, estudos sobre a biodiversidade nativa de seu próprio país",
-                                              "b":  "recursos genéticos de plantas, animais ou microrganismos, muitas vezes associados a conhecimentos tradicionais de povos locais, são coletados e explorados comercialmente sem autorização adequada ou repartição justa dos benefícios com o país ou a comunidade de origem",
-                                              "c":  "há intercâmbio científico plenamente autorizado e regulado entre instituições de pesquisa de diferentes países",
-                                              "d":  "espécies exóticas são deliberadamente introduzidas em um ecossistema com o objetivo de aumentar sua biodiversidade local"
+                                              "a":  "pesquisadores locais de uma região realizam, com as devidas autorizações, estudos sobre a biodiversidade nativa, prática legítima que não configura apropriação indevida de recursos genéticos",
+                                              "b":  "recursos genéticos de plantas, animais ou microrganismos são explorados comercialmente sem autorização adequada ou repartição justa dos benefícios com o país ou a comunidade de origem",
+                                              "c":  "há intercâmbio científico plenamente autorizado e regulado entre instituições de pesquisa de diferentes países, cenário oposto à apropriação irregular que caracteriza a biopirataria",
+                                              "d":  "espécies exóticas são deliberadamente introduzidas em um ecossistema, conceito relacionado à introdução de espécies invasoras, não à apropriação de recursos genéticos"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A biopirataria refere-se à coleta e exploração comercial de recursos genéticos de plantas, animais ou microrganismos — muitas vezes associados a conhecimentos tradicionais de povos e comunidades locais — sem autorização adequada das autoridades competentes ou sem a repartição justa dos benefícios obtidos com o país ou a comunidade detentora original desses recursos e saberes, sendo tema relevante em países megadiversos, como o Brasil.",
@@ -1231,9 +1231,9 @@
                          "enunciado":  "Os relatórios do IPCC têm como principal função",
                          "alternativas":  {
                                               "a":  "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-                                              "b":  "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima",
-                                              "c":  "produzir previsões meteorológicas diárias para diferentes regiões do planeta",
-                                              "d":  "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o estado do conhecimento sobre as mudanças climáticas, seus impactos e possíveis cenários futuros, servindo de base técnica para negociações e políticas públicas"
+                                              "b":  "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+                                              "c":  "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
+                                              "d":  "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os relatórios do IPCC têm como função sintetizar e avaliar, com base em evidências científicas revisadas por pares, o estado do conhecimento sobre as mudanças climáticas, seus impactos observados e projetados, e possíveis cenários futuros, servindo como base técnica de referência para negociações internacionais e formulação de políticas públicas de mitigação e adaptação climática, sem, contudo, ter poder legal vinculante direto sobre os países.",
@@ -1244,10 +1244,10 @@
                          "texto_apoio":  "O conceito de \"pegada de carbono\" tem sido utilizado para estimar o impacto de indivíduos, empresas ou produtos sobre as mudanças climáticas.",
                          "enunciado":  "A \"pegada de carbono\" de uma atividade, produto ou indivíduo corresponde, em termos gerais,",
                          "alternativas":  {
-                                              "a":  "à quantidade total de água consumida ao longo de toda a vida útil de um produto",
-                                              "b":  "exclusivamente à quantidade de resíduos sólidos não recicláveis gerados por uma pessoa ao longo de um ano",
-                                              "c":  "à quantidade total (direta e indireta) de gases de efeito estufa emitida para a atmosfera em razão de determinada atividade, produto ou estilo de vida, geralmente expressa em equivalente de dióxido de carbono",
-                                              "d":  "ao número de árvores plantadas por uma empresa em determinado período, sem relação com suas emissões"
+                                              "a":  "à quantidade total de água consumida ao longo de toda a vida útil de um produto, medida associada, na verdade, à chamada pegada hídrica, não à pegada de carbono",
+                                              "b":  "exclusivamente à quantidade de resíduos sólidos não recicláveis gerados por uma pessoa ao longo de um ano, indicador distinto das emissões de gases de efeito estufa",
+                                              "c":  "à quantidade total, direta e indireta, de gases de efeito estufa emitida por determinada atividade, produto ou estilo de vida, geralmente expressa em equivalente de dióxido de carbono",
+                                              "d":  "ao número de árvores plantadas por uma empresa em determinado período, sem relação com suas emissões, medida de compensação, não de mensuração das emissões em si"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A pegada de carbono corresponde à quantidade total, direta e indireta, de gases de efeito estufa emitida para a atmosfera em decorrência de determinada atividade, produto, empresa ou estilo de vida, geralmente expressa em equivalente de dióxido de carbono (CO2eq), servindo como indicador para orientar estratégias de redução de emissões e mitigação das mudanças climáticas.",
@@ -1259,9 +1259,9 @@
                          "enunciado":  "O modelo de economia circular propõe, entre outros princípios,",
                          "alternativas":  {
                                               "a":  "a manutenção do padrão linear tradicional de produção, extração e descarte, sem qualquer alteração no ciclo de vida dos produtos",
-                                              "b":  "a reutilização, a reciclagem e a extensão da vida útil de produtos e materiais, buscando reduzir a extração de novos recursos naturais e a geração de resíduos ao longo do ciclo produtivo",
+                                              "b":  "a reutilização, a reciclagem e a extensão da vida útil de produtos, reduzindo a extração de recursos naturais e a geração de resíduos",
                                               "c":  "o aumento constante e ilimitado da extração de matérias-primas virgens da natureza, sem qualquer preocupação com reaproveitamento",
-                                              "d":  "a proibição total de qualquer forma de produção industrial em larga escala"
+                                              "d":  "a proibição total de qualquer forma de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A economia circular propõe um modelo de produção e consumo baseado na reutilização, na reciclagem, no reparo e na extensão da vida útil de produtos e materiais, buscando reduzir a extração de novas matérias-primas e a geração de resíduos, em contraste com o modelo linear tradicional de \"extrair, produzir e descartar\".",
@@ -1272,10 +1272,10 @@
                          "texto_apoio":  "O excesso de iluminação artificial noturna em grandes centros urbanos tem sido identificado como uma forma específica de poluição ambiental.",
                          "enunciado":  "A chamada \"poluição luminosa\", associada ao excesso de iluminação artificial noturna, pode gerar impactos como",
                          "alternativas":  {
-                                              "a":  "melhora significativa da visibilidade de corpos celestes no céu noturno das grandes cidades",
-                                              "b":  "ausência completa de qualquer efeito sobre a fauna silvestre presente em áreas urbanas",
-                                              "c":  "redução do consumo total de energia elétrica nas regiões afetadas pelo fenômeno",
-                                              "d":  "interferência nos ciclos biológicos de diversas espécies (como aves migratórias e insetos) e prejuízo à observação astronômica, além de possíveis efeitos sobre o ritmo circadiano de seres humanos"
+                                              "a":  "melhora significativa da visibilidade de corpos celestes no céu noturno, efeito oposto ao ofuscamento causado pelo excesso de luz artificial",
+                                              "b":  "ausência completa de qualquer efeito sobre a fauna silvestre em áreas urbanas, afirmação que ignora a desorientação documentada em aves e insetos noturnos",
+                                              "c":  "redução do consumo total de energia elétrica nas regiões afetadas, quando na verdade o excesso de iluminação tende a aumentar o consumo energético",
+                                              "d":  "interferência nos ciclos biológicos de espécies como aves migratórias e insetos, prejuízo à observação astronômica e possíveis efeitos sobre o ritmo circadiano humano"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A poluição luminosa, causada pelo excesso de iluminação artificial noturna, pode interferir nos ciclos biológicos de diversas espécies, como aves migratórias e insetos que se orientam por referências luminosas naturais, além de prejudicar a observação astronômica em áreas urbanas e ser associada a possíveis efeitos sobre o ritmo circadiano (ciclo de sono-vigília) de seres humanos expostos a excesso de luz artificial durante a noite.",
@@ -1286,10 +1286,10 @@
                          "texto_apoio":  "O forno de micro-ondas é um eletrodoméstico amplamente utilizado para aquecer e cozinhar alimentos rapidamente.",
                          "enunciado":  "O princípio físico de funcionamento do forno de micro-ondas consiste em",
                          "alternativas":  {
-                                              "a":  "emitir radiação ionizante capaz de alterar diretamente a estrutura atômica dos alimentos",
-                                              "b":  "queimar diretamente uma pequena quantidade de combustível fóssil dentro da câmara do forno",
-                                              "c":  "gerar ondas eletromagnéticas que fazem as moléculas de água presentes no alimento vibrarem rapidamente, gerando calor por atrito molecular e aquecendo o alimento de dentro para fora, em certa medida",
-                                              "d":  "resfriar rapidamente o alimento por meio da retirada de calor de seu interior"
+                                              "a":  "emitir radiação ionizante capaz de alterar diretamente a estrutura atômica dos alimentos, classificação incorreta, já que micro-ondas são radiação não ionizante",
+                                              "b":  "queimar diretamente uma pequena quantidade de combustível fóssil dentro da câmara, processo inexistente nesse eletrodoméstico, que opera por radiação, não por combustão",
+                                              "c":  "gerar ondas eletromagnéticas que fazem as moléculas de água do alimento vibrarem rapidamente, gerando calor por atrito molecular",
+                                              "d":  "resfriar rapidamente o alimento pela retirada de calor de seu interior, efeito oposto ao aquecimento efetivamente produzido pelas micro-ondas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O forno de micro-ondas emite ondas eletromagnéticas de determinada frequência que fazem as moléculas de água (e outras moléculas polares) presentes no alimento vibrarem rapidamente, gerando calor por atrito molecular. Diferentemente da radiação ionizante (como raios X), as micro-ondas não possuem energia suficiente para alterar a estrutura atômica dos alimentos, sendo, portanto, classificadas como radiação não ionizante.",
@@ -1301,9 +1301,9 @@
                          "enunciado":  "O conceito físico de \"meia-vida\" de um material radioativo corresponde",
                          "alternativas":  {
                                               "a":  "ao tempo total necessário para que todo o material radioativo se desintegre completamente, sem deixar qualquer resíduo",
-                                              "b":  "ao intervalo de tempo necessário para que metade dos átomos de uma amostra radioativa se desintegre, sendo uma característica constante para cada isótopo radioativo específico",
-                                              "c":  "à metade da temperatura em que o material radioativo se torna estável, deixando de emitir qualquer radiação",
-                                              "d":  "ao tempo de vida útil de um equipamento eletrônico que utiliza baterias radioativas"
+                                              "b":  "ao intervalo de tempo necessário para que metade dos átomos de uma amostra radioativa se desintegre, valor constante para cada isótopo",
+                                              "c":  "à metade da temperatura em que o material radioativo se torna estável, deixando de emitir radiação, grandeza sem relação com o conceito real de meia-vida",
+                                              "d":  "ao tempo de vida útil de um equipamento eletrônico que utiliza baterias radioativas, definição que confunde durabilidade de equipamentos com decaimento radioativo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A meia-vida de um material radioativo corresponde ao intervalo de tempo necessário para que metade dos átomos de determinada amostra radioativa se desintegre espontaneamente, sendo uma característica constante e específica de cada isótopo radioativo, utilizada, por exemplo, em técnicas de datação geológica e arqueológica, além de aplicações médicas e industriais.",
@@ -1314,10 +1314,10 @@
                          "texto_apoio":  "Em regiões com atividade vulcânica ou geotérmica, como a Islândia, é possível aproveitar o calor proveniente do interior da Terra para gerar eletricidade.",
                          "enunciado":  "A energia geotérmica é obtida, essencialmente, a partir do aproveitamento",
                          "alternativas":  {
-                                              "a":  "da luz solar concentrada por espelhos posicionados sobre reservatórios subterrâneos de água",
-                                              "b":  "exclusivamente da energia liberada por reações de fissão nuclear ocorridas no núcleo terrestre",
-                                              "c":  "do calor natural armazenado no interior da Terra, que pode aquecer água ou vapor subterrâneo, posteriormente utilizados para movimentar turbinas e gerar eletricidade ou para aquecimento direto",
-                                              "d":  "do movimento das marés oceânicas em regiões costeiras próximas a vulcões"
+                                              "a":  "da luz solar concentrada por espelhos posicionados sobre reservatórios subterrâneos de água, tecnologia que caracteriza a energia solar concentrada, não a geotérmica",
+                                              "b":  "exclusivamente da energia liberada por reações de fissão nuclear no núcleo terrestre, processo que não corresponde ao decaimento radioativo natural que origina o calor geotérmico",
+                                              "c":  "do calor natural armazenado no interior da Terra, que aquece água ou vapor subterrâneo, usados para movimentar turbinas e gerar eletricidade ou para aquecimento direto",
+                                              "d":  "do movimento das marés oceânicas em regiões costeiras próximas a vulcões, fonte que caracteriza a energia maremotriz, distinta da geotérmica"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia geotérmica é obtida a partir do aproveitamento do calor natural armazenado no interior da Terra, que pode aquecer reservatórios subterrâneos de água ou vapor; esse calor pode ser utilizado diretamente para aquecimento ou para movimentar turbinas que geram eletricidade, sendo especialmente viável em regiões de intensa atividade geológica, como zonas vulcânicas.",
@@ -1329,9 +1329,9 @@
                          "enunciado":  "O conceito de \"determinantes sociais da saúde\", utilizado por organismos como a Organização Mundial da Saúde, refere-se",
                          "alternativas":  {
                                               "a":  "exclusivamente a fatores genéticos e biológicos que influenciam a saúde de um indivíduo, sem qualquer relação com condições sociais",
-                                              "b":  "unicamente ao acesso individual a planos de saúde privados, sem relação com outros fatores sociais",
-                                              "c":  "a fatores exclusivamente climáticos que determinariam, isoladamente, todos os indicadores de saúde de uma população",
-                                              "d":  "às condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, as quais influenciam significativamente seus níveis de saúde e sua vulnerabilidade a diferentes doenças"
+                                              "b":  "unicamente ao acesso individual a planos de saúde privados, visão reducionista que ignora renda, moradia e escolaridade como determinantes",
+                                              "c":  "a fatores exclusivamente climáticos que determinariam, isoladamente, todos os indicadores de saúde, simplificação que desconsidera fatores sociais e econômicos",
+                                              "d":  "às condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, que influenciam seus níveis de saúde e sua vulnerabilidade a doenças"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os determinantes sociais da saúde referem-se ao conjunto de condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem — como renda, escolaridade, moradia, saneamento básico e acesso a serviços de saúde —, que influenciam significativamente seus níveis de saúde e sua vulnerabilidade a diferentes doenças, complementando a compreensão de fatores estritamente biológicos ou genéticos.",
@@ -1342,10 +1342,10 @@
                          "texto_apoio":  "Diversas doenças infecciosas emergentes identificadas nas últimas décadas, incluindo alguns coronavírus e o vírus da febre amarela silvestre, têm origem em animais.",
                          "enunciado":  "Doenças infecciosas que podem ser transmitidas de animais para seres humanos são denominadas",
                          "alternativas":  {
-                                              "a":  "doenças autoimunes, por envolverem exclusivamente reações do próprio sistema imunológico humano",
-                                              "b":  "doenças genéticas hereditárias, transmitidas obrigatoriamente de pais para filhos",
-                                              "c":  "zoonoses, sendo seu surgimento frequentemente associado a fatores como desmatamento, contato próximo entre humanos e animais silvestres e comércio de animais em condições inadequadas",
-                                              "d":  "doenças carenciais, associadas exclusivamente à deficiência de vitaminas e minerais na dieta"
+                                              "a":  "doenças autoimunes, por envolverem exclusivamente reações do próprio sistema imunológico, categoria que não depende de transmissão de agentes infecciosos entre espécies",
+                                              "b":  "doenças genéticas hereditárias, transmitidas obrigatoriamente de pais para filhos, classificação que não envolve agentes infecciosos nem transmissão entre animais e humanos",
+                                              "c":  "zoonoses, associadas frequentemente a fatores como desmatamento, contato próximo entre humanos e animais silvestres e comércio irregular de animais",
+                                              "d":  "doenças carenciais, associadas exclusivamente à deficiência de vitaminas e minerais na dieta, categoria nutricional sem relação com transmissão de patógenos entre espécies"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Zoonoses são doenças infecciosas transmitidas de animais para seres humanos (e, em alguns casos, vice-versa), tendo seu surgimento e disseminação frequentemente associados a fatores como desmatamento e destruição de habitats naturais, maior contato entre humanos e animais silvestres, e comércio de animais em condições sanitárias inadequadas, fatores discutidos como relevantes na origem de diversas doenças infecciosas emergentes.",
@@ -1357,9 +1357,9 @@
                          "enunciado":  "Ao comparar diferentes fontes de energia do ponto de vista ambiental, é importante considerar que",
                          "alternativas":  {
                                               "a":  "a escolha de uma fonte de energia deve ser baseada exclusivamente em seu custo financeiro imediato, sem qualquer outra consideração",
-                                              "b":  "todas as fontes de energia, inclusive as renováveis, apresentam algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida (produção de equipamentos, instalação, operação ou descarte), ainda que em graus e naturezas distintos",
-                                              "c":  "apenas fontes de energia não renováveis, como o petróleo e o carvão, apresentam qualquer tipo de impacto ambiental associado",
-                                              "d":  "fontes renováveis, como a solar e a eólica, não envolvem nenhuma etapa de fabricação ou instalação de equipamentos"
+                                              "b":  "todas as fontes de energia, inclusive as renováveis, apresentam algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida, ainda que em graus e naturezas distintos",
+                                              "c":  "apenas fontes de energia não renováveis, como o petróleo e o carvão, apresentam qualquer tipo de impacto ambiental, visão que ignora os impactos, ainda que menores, das fontes renováveis",
+                                              "d":  "fontes renováveis, como a solar e a eólica, não envolvem nenhuma etapa de fabricação ou instalação, afirmação que desconsidera a produção de painéis, turbinas e demais componentes"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora fontes renováveis, como solar e eólica, apresentem vantagens ambientais significativas em relação a combustíveis fósseis, sobretudo quanto à emissão de gases de efeito estufa durante a geração de energia, é importante reconhecer que toda fonte de energia envolve algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida — como a extração de materiais para fabricação de painéis solares e turbinas eólicas, a ocupação de área ou o descarte de equipamentos —, o que reforça a importância de uma análise de ciclo de vida completa na avaliação de políticas energéticas.",

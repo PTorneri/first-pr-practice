@@ -32,8 +32,8 @@
                          "texto_apoio":  "",
                          "enunciado":  "A economia açucareira, predominante no Brasil colonial entre os séculos XVI e XVII, organizava-se em torno do sistema de plantation, cujas principais características eram:",
                          "alternativas":  {
-                                              "a":  "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno",
-                                              "b":  "Propriedade coletiva indígena e produção diversificada de subsistência",
+                                              "a":  "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno, comum na colonização do Sul",
+                                              "b":  "Propriedade coletiva indígena e produção diversificada de subsistência, padrão anterior à chegada portuguesa",
                                               "c":  "Produção industrial urbana com trabalho livre assalariado, inexistente no contexto agrário colonial da época",
                                               "d":  "Grande propriedade monocultora, mão de obra escrava africana e produção voltada à exportação"
                                           },
@@ -123,10 +123,10 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de crônica jornalística da época) atribuído a um cronista carioca, publicado dias após 15 de novembro de 1889: \u0027O povo, verdadeiramente, assistiu a tudo bestializado, sem saber ao certo o que significava aquilo. Foram os batalhões, e não as ruas, que decidiram a sorte do Império.\u0027",
                          "enunciado":  "Considerando o trecho anterior e o processo histórico da Proclamação da República, em 15 de novembro de 1889, analise as afirmativas a seguir: I. O movimento foi conduzido essencialmente por setores militares, com apoio de parcelas da elite política e cafeicultora. II. A ampla maioria da população, sobretudo nas cidades, participou ativamente e por iniciativa própria da mobilização que derrubou a monarquia. III. A proclamação resultou de um processo eleitoral direto, no qual a população foi consultada sobre a forma de governo. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "a":  "Apenas a afirmativa II estÃ¡ correta",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "Apenas as afirmativas II e III estÃ£o corretas",
+                                              "d":  "Apenas as afirmativas I e II estÃ£o corretas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Proclamação da República foi um movimento essencialmente militar e elitista (I correta), sem ampla participação popular espontânea (II incorreta) e sem qualquer consulta direta à população sobre a forma de governo (III incorreta) — daí a célebre expressão do cronista da época sobre o povo que assistiu \u0027bestializado\u0027 ao acontecimento."
@@ -138,8 +138,8 @@
                          "alternativas":  {
                                               "a":  "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais",
                                               "b":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais, arranjo nunca formalizado na República Velha",
-                                              "c":  "A alternância entre partidos de esquerda e direita no governo federal, e pela ausência de fraudes eleitorais",
-                                              "d":  "Um acordo comercial entre cafeicultores e industriais, e pela centralização total do poder no Executivo federal"
+                                              "c":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
+                                              "d":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento que motivou a criação das capitanias"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A política do café com leite referia-se ao predomínio de São Paulo e Minas Gerais na sucessão presidencial, enquanto o coronelismo era o sistema pelo qual chefes políticos locais (coronéis) controlavam o voto e trocavam favores com o poder estadual e federal."
@@ -149,9 +149,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
                          "alternativas":  {
-                                              "a":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930",
+                                              "a":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930, que se completaria apenas em 1888",
                                               "b":  "A vitória militar do Brasil na Primeira Guerra Mundial, conflito de participação modesta e sem relação com a crise de 1929",
-                                              "c":  "A imediata industrialização plena do país nas décadas anteriores, processo que só se intensificaria após 1930",
+                                              "c":  "A imediata industrialização plena do país nas décadas anteriores, processo que de fato só ganharia impulso com o próprio governo Vargas",
                                               "d":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes"
                                           },
                          "resposta":  "d",
@@ -162,10 +162,10 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de preâmbulo de ato institucional) inspirado no discurso de outorga de uma nova ordem institucional, 1937: \u0027Ao Estado cabe a tarefa de organizar a Nação e conter as paixões partidárias que ameaçam sua unidade, competindo-lhe dispor, com energia, sobre a segurança interna e a disciplina do trabalho.\u0027",
                          "enunciado":  "A partir do trecho anterior e do que se sabe sobre o Estado Novo (1937-1945), avalie as afirmativas: I. O regime concentrou poderes no Executivo, fechou o Congresso Nacional e ampliou a censura e a repressão a opositores políticos. II. Paralelamente ao autoritarismo político, o governo promoveu políticas nacionalistas e trabalhistas, como a criação da CLT. III. O período foi marcado por ampla liberdade de imprensa e pelo funcionamento regular de múltiplos partidos políticos. É correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "a":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Estado Novo combinou centralização do poder, fechamento do Congresso e forte censura e repressão (I correta) com uma agenda trabalhista e nacionalista, como a CLT de 1943 (II correta); não houve, no período, liberdade de imprensa nem pluripartidarismo, extintos justamente pelo caráter autoritário do regime (III incorreta)."
@@ -188,10 +188,10 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de panfleto distribuído por um comitê civil em março de 1964): \u0027Convocamos os cidadãos de bem a comparecer às ruas em defesa da família, da religião e da propriedade, ameaçadas pelo avanço de reformas que, sob disfarce de justiça social, conduziriam o país ao comunismo.\u0027",
                          "enunciado":  "Considerando o panfleto acima e o contexto do golpe civil-militar de 1964, analise as afirmativas: I. Setores civis e militares se mobilizaram em nome do combate ao que percebiam como avanço comunista, associado às reformas de base propostas pelo governo João Goulart. II. A polarização política interna se inseriu no contexto mais amplo da Guerra Fria, com apoio de setores empresariais e do governo dos Estados Unidos ao movimento contra Goulart. III. O golpe resultou de uma crise estritamente econômica, sem qualquer dimensão ideológica ou internacional. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "Apenas a afirmativa II estÃ¡ correta",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O golpe de 1964 combinou mobilização civil-militar contra as reformas de base identificadas ao comunismo (I correta) com o contexto da Guerra Fria e apoio externo e empresarial (II correta); não se tratou de uma crise apenas econômica, mas de uma disputa política e ideológica ampla (III incorreta)."
@@ -201,10 +201,10 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de comunicado oficial de dezembro de 1968): \u0027Ficam suspensas, na forma que a lei determinar, as garantias constitucionais de que gozam os cidadãos, sempre que assim o exigir a segurança nacional e a preservação da ordem pública.\u0027",
                          "enunciado":  "Com base no trecho anterior e nos efeitos do AI-5 (1968), avalie as afirmativas: I. O ato concedeu poderes excepcionais ao Executivo, incluindo o fechamento do Congresso Nacional e a suspensão de garantias constitucionais. II. O AI-5 inaugurou a fase mais repressiva da ditadura, conhecida como \u0027anos de chumbo\u0027, com recrudescimento da censura. III. O ato restabeleceu, já em 1968, as eleições diretas para presidente da República. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O AI-5 concedeu poderes excepcionais ao Executivo, fechando o Congresso e suspendendo garantias constitucionais (I correta), abrindo a fase mais dura da repressão (II correta); as eleições diretas para presidente só seriam restabelecidas décadas depois, em 1989 (III incorreta)."
@@ -214,10 +214,10 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de discurso presidencial de meados dos anos 1970): \u0027A abertura que propomos há de ser lenta, gradual e segura, para que a Nação amadureça suas instituições sem sobressaltos que comprometam a ordem conquistada.\u0027",
                          "enunciado":  "A partir do discurso acima e do processo de redemocratização brasileira ao longo da década de 1980, analise as afirmativas: I. A abertura política foi conduzida, em boa medida, pelos próprios militares no poder, de forma negociada e gradual. II. O processo culminou na eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em 1985. III. A transição ocorreu de forma abrupta e revolucionária, rompendo imediatamente com todas as estruturas do regime militar. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "II, apenas"
+                                              "a":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "d":  "Apenas a afirmativa II estÃ¡ correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A redemocratização foi um processo lento e negociado, iniciado ainda pelos militares (I correta), culminando na eleição indireta de Tancredo Neves em 1985 (II correta); não houve ruptura abrupta e revolucionária, mas uma transição pactuada ao longo de anos (III incorreta)."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "A Constituição de 1988 é conhecida como \u0027Constituição Cidadã\u0027, expressão cunhada pelo então presidente da Assembleia Nacional Constituinte, Ulysses Guimarães.",
                          "enunciado":  "Considerando a informação acima sobre a Constituição de 1988, avalie as afirmativas: I. A denominação \u0027Cidadã\u0027 relaciona-se à ampliação de direitos individuais, sociais e políticos e ao restabelecimento pleno do Estado Democrático de Direito. II. O texto constitucional foi elaborado com participação de emendas populares apresentadas por assinatura de eleitores, além dos parlamentares eleitos. III. A Constituição manteve a censura à imprensa como instrumento de segurança nacional, herdada do regime anterior. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Constituição de 1988 ampliou direitos e restabeleceu o Estado Democrático de Direito (I correta), tendo sido elaborada com participação de emendas populares (II correta); rompeu, e não manteve, a censura à imprensa característica do regime militar anterior (III incorreta)."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "A descoberta de ouro em Minas Gerais, no final do século XVII, deslocou o eixo econômico da colônia.",
                          "enunciado":  "O chamado ciclo do ouro, no século XVIII, teve como uma de suas principais consequências para a colônia:",
                          "alternativas":  {
-                                              "a":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial",
-                                              "b":  "O fim completo da utilização de mão de obra escrava na colônia, o que só ocorreria com a Lei Áurea em 1888",
+                                              "a":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial, situação já superada com o próprio ciclo do ouro",
+                                              "b":  "O fim completo da utilização de mão de obra escrava na colônia, o que só ocorreria com a Lei Áurea de 1888, décadas mais tarde",
                                               "c":  "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais",
-                                              "d":  "A transferência imediata da capital colonial para Vila Rica, mudança que só ocorreria, para o Rio, em 1763"
+                                              "d":  "A transferência imediata da capital colonial para Vila Rica, mudança que só ocorreria, para o Rio de Janeiro, em 1763"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei."
@@ -292,7 +292,7 @@
                          "texto_apoio":  "Muitos oficiais que retornaram da Guerra do Paraguai passaram a integrar ou simpatizar com movimentos políticos de oposição à monarquia.",
                          "enunciado":  "A experiência da Guerra do Paraguai contribuiu para o desgaste da monarquia brasileira sobretudo porque:",
                          "alternativas":  {
-                                              "a":  "Resultou na anexação de novos territórios que fortaleceram economicamente o Império",
+                                              "a":  "Resultou na anexação de novos territórios que fortaleceram economicamente o Império, o que não ocorreu no período",
                                               "b":  "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II, o oposto do desgaste que de fato se seguiu",
                                               "c":  "Aproximou o Exército de ideais republicanos e, em parte, abolicionistas, gerando atritos com o governo imperial",
                                               "d":  "Eliminou qualquer influência política das Forças Armadas na vida nacional, tendência contrária ao tenentismo posterior"
@@ -306,9 +306,9 @@
                          "enunciado":  "A Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885) tinham em comum o fato de:",
                          "alternativas":  {
                                               "a":  "Abolirem imediata e completamente a escravidão em todo o território nacional, o que só ocorreu com a Lei Áurea",
-                                              "b":  "Concederem direitos políticos plenos à população liberta, direito ainda negado à maioria da população pobre",
+                                              "b":  "Concederem direitos políticos plenos à população liberta, direito ainda negado à maioria da população pobre, inclusive após 1888",
                                               "c":  "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna do país",
-                                              "d":  "Representarem medidas graduais e limitadas, que não extinguiam de imediato a condição de escravizado da maior parte da população cativa"
+                                              "d":  "Representarem medidas graduais e limitadas, que não extinguiam de imediato a escravidão da maioria da população cativa"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Essas leis representaram um processo de abolição gradual: a Lei do Ventre Livre libertava os filhos nascidos de mulheres escravizadas a partir de então, e a Lei dos Sexagenários libertava escravizados com mais de 60 anos, mas ambas mantinham a escravidão para a maioria da população cativa até 1888."
@@ -321,7 +321,7 @@
                                               "a":  "Defenderem a manutenção da escravidão como base da economia agroexportadora, o oposto de sua atuação histórica",
                                               "b":  "Atuarem na mobilização política e na imprensa, denunciando os horrores da escravidão e pressionando por sua abolição",
                                               "c":  "Liderarem exclusivamente rebeliões armadas de escravizados nos engenhos, atuação distinta da que de fato tiveram",
-                                              "d":  "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba"
+                                              "d":  "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba, grupo que se opôs abertamente às pautas abolicionistas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Joaquim Nabuco e José do Patrocínio foram figuras centrais do abolicionismo, atuando na política parlamentar, na imprensa e na organização de sociedades abolicionistas, mobilizando a opinião pública em favor do fim da escravidão no Brasil."
@@ -332,8 +332,8 @@
                          "enunciado":  "Esse arranjo, formulado sobretudo no governo de Campos Sales, consistia em:",
                          "alternativas":  {
                                               "a":  "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo em troca de autonomia e recursos",
-                                              "b":  "Um sistema de eleição direta e universal para governadores, sem interferência do governo federal",
-                                              "c":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava o arranjo político",
+                                              "b":  "Um sistema de eleição direta e universal para governadores, sem qualquer interferência do governo federal, o que nunca existiu",
+                                              "c":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava esse arranjo político da República Velha",
                                               "d":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal, o que nunca fez parte do arranjo"
                                           },
                          "resposta":  "a",
@@ -357,10 +357,10 @@
                          "texto_apoio":  "Em julho de 1932, São Paulo pegou em armas contra o governo provisório de Getúlio Vargas.",
                          "enunciado":  "Sobre a Revolução Constitucionalista de 1932, movimento paulista contra o governo provisório de Vargas, analise as afirmativas: I. A principal reivindicação do movimento era a convocação de uma Assembleia Constituinte e o fim do governo provisório instaurado após 1930. II. Apesar da derrota militar de São Paulo, o movimento contribuiu para a convocação da Assembleia que elaborou a Constituição de 1934. III. O movimento defendia a separação definitiva de São Paulo do restante do território nacional. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "d":  "As afirmativas I, II e III estÃ£o corretas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O movimento paulista de 1932 reivindicava a constitucionalização do país e o fim do governo provisório (I correta); apesar da derrota militar, contribuiu para a convocação da Constituinte que resultou na Constituição de 1934 (II correta); não se tratava de um movimento separatista (III incorreta)."
@@ -371,8 +371,8 @@
                          "enunciado":  "Entre os principais desdobramentos da Revolução Constitucionalista de 1932, está:",
                          "alternativas":  {
                                               "a":  "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
-                                              "b":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição",
-                                              "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954",
+                                              "b":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição no horizonte político",
+                                              "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954, já em seu segundo governo",
                                               "d":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito"
                                           },
                          "resposta":  "a",
@@ -385,7 +385,7 @@
                          "alternativas":  {
                                               "a":  "A criação da Petrobras, em 1953, sob o lema \u0027o petróleo é nosso\u0027, estabelecendo o monopólio estatal sobre a exploração do petróleo",
                                               "b":  "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico, instituições mantidas e fortalecidas",
-                                              "c":  "A privatização das principais estatais brasileiras, processo que só ganharia força nos anos 1990",
+                                              "c":  "A privatização das principais estatais brasileiras, processo que só ganharia força décadas depois, já no contexto das reformas dos anos 1990",
                                               "d":  "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia, política oposta ao monopólio criado"
                                           },
                          "resposta":  "a",
@@ -396,10 +396,10 @@
                          "texto_apoio":  "Juscelino Kubitschek governou o Brasil entre 1956 e 1961, sob o lema de campanha \u002750 anos em 5\u0027.",
                          "enunciado":  "O Plano de Metas de seu governo teve como principal símbolo:",
                          "alternativas":  {
-                                              "a":  "A implantação de um regime de economia estritamente planificada nos moldes soviéticos",
+                                              "a":  "A implantação de um regime de economia estritamente planificada nos moldes soviéticos, modelo nunca adotado por nenhum governo brasileiro",
                                               "b":  "A construção de Brasília, nova capital federal, e o incentivo à industrialização com forte participação de capital estrangeiro",
-                                              "c":  "A interrupção da construção de rodovias e da indústria automobilística",
-                                              "d":  "A nacionalização completa de todas as empresas estrangeiras instaladas no país"
+                                              "c":  "A interrupção da construção de rodovias e da indústria automobilística, medida contrária ao próprio Plano de Metas, que ampliou ambos os setores",
+                                              "d":  "A nacionalização completa de todas as empresas estrangeiras instaladas no país, política inversa à execução real do governo JK"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Plano de Metas de JK priorizou a industrialização acelerada, com forte participação de capital estrangeiro em setores como o automobilístico, tendo como símbolo maior a construção de Brasília, inaugurada em 1960 como nova capital federal."
@@ -409,10 +409,10 @@
                          "texto_apoio":  "Vargas e Kubitschek são frequentemente citados como exemplos de líderes populistas na história política brasileira.",
                          "enunciado":  "A partir da informação acima, avalie as afirmativas sobre o populismo brasileiro (1930-1964): I. Caracterizava-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, com discurso nacionalista e desenvolvimentista. II. Combinava, com frequência, políticas sociais e trabalhistas com fraca mediação de partidos políticos programáticos. III. Rejeitava sistematicamente qualquer política trabalhista ou social como forma de angariar apoio popular. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O populismo brasileiro se caracterizou pela relação direta entre líderes carismáticos e massas urbanas com discurso nacionalista (I correta), combinando políticas sociais com fraca mediação partidária (II correta); ao contrário do afirmado em III, o populismo se apoiou justamente em políticas trabalhistas e sociais como instrumento de mobilização popular."
@@ -422,9 +422,9 @@
                          "texto_apoio":  "No início da década de 1990, o Brasil enfrentava um quadro de hiperinflação crônica, com sucessivos planos econômicos fracassados.",
                          "enunciado":  "O Plano Real, lançado em 1994, adotou como estratégia inicial de estabilização:",
                          "alternativas":  {
-                                              "a":  "A adoção do dólar como moeda oficial do país",
-                                              "b":  "O congelamento imediato de preços e salários, sem qualquer mudança na moeda",
-                                              "c":  "A confiscação das poupanças e contas correntes da população",
+                                              "a":  "A adoção do dólar como moeda oficial do país, medida jamais adotada oficialmente por nenhum governo brasileiro no período republicano",
+                                              "b":  "O congelamento imediato de preços e salários, sem qualquer mudança na moeda, estratégia dos planos Cruzado e Collor, não do desenho do Plano Real",
+                                              "c":  "A confiscação das poupanças e contas correntes da população, medida adotada pelo Plano Collor em 1990, não pelo Plano Real de 1994",
                                               "d":  "A criação de um indexador de transição, a URV (Unidade Real de Valor), antes da introdução da nova moeda, o real"
                                           },
                          "resposta":  "d",
@@ -435,10 +435,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Entre os principais resultados do Plano Real nos anos seguintes ao seu lançamento, destaca-se:",
                          "alternativas":  {
-                                              "a":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra, sobretudo para a população de baixa renda",
-                                              "b":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994",
-                                              "c":  "O fim completo da dívida pública brasileira",
-                                              "d":  "A imediata eliminação das desigualdades sociais no país"
+                                              "a":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra da população de baixa renda",
+                                              "b":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994, cenário oposto ao efetivamente observado com a estabilização do Real",
+                                              "c":  "O fim completo da dívida pública brasileira, resultado que não ocorreu, já que a dívida seguiu sendo tema central da política econômica",
+                                              "d":  "A imediata eliminação das desigualdades sociais no país, meta que permaneceu um desafio persistente mesmo após a estabilização de preços"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Plano Real obteve êxito em controlar a hiperinflação que corroía o poder de compra da população, especialmente das camadas mais pobres, trazendo maior estabilidade macroeconômica, embora desafios como dívida pública e desigualdade social tenham persistido."
@@ -448,10 +448,10 @@
                          "texto_apoio":  "Fundado em 1984, o Movimento dos Trabalhadores Rurais Sem Terra (MST) tornou-se um dos principais movimentos sociais do Brasil pós-1988.",
                          "enunciado":  "Sobre o MST e sua atuação no Brasil redemocratizado, analise as afirmativas: I. Sua principal bandeira é a reforma agrária, tendo como tática a ocupação de terras consideradas improdutivas para pressionar por desapropriação e redistribuição. II. O movimento consolidou-se como um dos principais atores da sociedade civil organizada no debate sobre desigualdade fundiária no país. III. O MST defende o fim da agricultura familiar em favor da concentração de terras em grandes propriedades monocultoras. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "Apenas a afirmativa II estÃ¡ correta",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "d":  "As afirmativas I, II e III estÃ£o corretas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O MST luta pela reforma agrária por meio da ocupação de terras improdutivas (I correta), consolidando-se como ator relevante do debate sobre desigualdade fundiária na redemocratização (II correta); o movimento defende, ao contrário do afirmado em III, a redistribuição de terras e o fortalecimento da agricultura familiar."
@@ -461,10 +461,10 @@
                          "texto_apoio":  "Em junho de 2013, manifestações de rua tomaram diversas cidades brasileiras, inicialmente motivadas pelo aumento das tarifas de transporte público.",
                          "enunciado":  "A respeito das Jornadas de Junho de 2013, avalie as afirmativas: I. As manifestações, iniciadas pelo Movimento Passe Livre contra o aumento das tarifas, rapidamente incorporaram outras pautas, como críticas à corrupção e à qualidade dos serviços públicos. II. O movimento se restringiu geograficamente às capitais estaduais, sem repercussão em outras cidades. III. As manifestações foram organizadas exclusivamente por partidos políticos tradicionais. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I, apenas"
+                                              "a":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas as afirmativas II e III estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa I estÃ¡ correta"
                                           },
                          "resposta":  "d",
                          "explicacao":  "As Jornadas de Junho ampliaram rapidamente sua pauta para além do transporte público (I correta); ao contrário do afirmado, o movimento se espalhou por cidades de diferentes portes por todo o país, e não apenas capitais (II incorreta), nem foi conduzido por partidos tradicionais, mas por mobilização horizontal e redes sociais (III incorreta)."
@@ -474,10 +474,10 @@
                          "texto_apoio":  "Assinado em 1494, o Tratado de Tordesilhas dividiu as terras a serem descobertas fora da Europa entre Portugal e Espanha.",
                          "enunciado":  "Esse tratado, posteriormente usado por Portugal para justificar a posse do território brasileiro, estabelecia como critério de partilha:",
                          "alternativas":  {
-                                              "a":  "A divisão das terras conforme a língua falada pelos povos nativos",
+                                              "a":  "A divisão das terras conforme a língua falada pelos povos nativos, critério nunca utilizado em tratados diplomáticos europeus da época",
                                               "b":  "Uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, cabendo a Portugal as terras a leste dessa linha",
-                                              "c":  "A repartição igualitária de todo o continente americano entre as duas coroas",
-                                              "d":  "A submissão de toda a partilha à aprovação do papado, sem qualquer linha geográfica definida"
+                                              "c":  "A repartição igualitária de todo o continente americano entre as duas coroas, ausente do texto de Tordesilhas",
+                                              "d":  "A submissão de toda a partilha à aprovação do papado, sem qualquer linha geográfica definida, ao contrário do meridiano fixado"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Tratado de Tordesilhas estabeleceu um meridiano a 370 léguas a oeste de Cabo Verde: as terras a leste caberiam a Portugal e as a oeste, à Espanha, critério que mais tarde amparou a reivindicação portuguesa sobre parte do território sul-americano.",
@@ -489,9 +489,9 @@
                          "enunciado":  "Essa fase inicial de exploração caracterizou-se, sobretudo, por:",
                          "alternativas":  {
                                               "a":  "Escambo com indígenas, que forneciam a madeira em troca de objetos europeus, sem colonização fixa do território",
-                                              "b":  "Grandes investimentos em povoamento permanente e construção de cidades",
-                                              "c":  "Implantação imediata do sistema de capitanias hereditárias",
-                                              "d":  "Proibição total do contato entre europeus e populações indígenas"
+                                              "b":  "Grandes investimentos em povoamento permanente e construção de cidades, política que só se intensificaria com as capitanias, décadas depois",
+                                              "c":  "Implantação imediata do sistema de capitanias hereditárias, medida adotada apenas a partir de 1534, após o fim do ciclo do pau-brasil",
+                                              "d":  "Proibição total do contato entre europeus e populações indígenas, o oposto do escambo que de fato caracterizou essa fase inicial"
                                           },
                          "resposta":  "a",
                          "explicacao":  "No período de exploração do pau-brasil, portugueses estabeleciam feitorias litorâneas e trocavam mercadorias europeias pelo trabalho indígena de corte e transporte da madeira, sem promover ainda a ocupação e colonização sistemática do território.",
@@ -502,9 +502,9 @@
                          "texto_apoio":  "Herdado do direito português, o sistema de sesmarias regulou a distribuição de terras no Brasil colonial.",
                          "enunciado":  "Esse sistema caracterizava-se por:",
                          "alternativas":  {
-                                              "a":  "Distribuir pequenas propriedades igualitárias a todos os colonos, sem distinção social",
-                                              "b":  "Garantir posse coletiva das terras às comunidades indígenas",
-                                              "c":  "Impedir qualquer forma de propriedade privada da terra na colônia",
+                                              "a":  "Distribuir pequenas propriedades igualitárias a todos os colonos, sem distinção social, modelo que só surgiria com reformas agrárias muito posteriores",
+                                              "b":  "Garantir posse coletiva das terras às comunidades indígenas, direito que as sesmarias, na prática, jamais reconheceram aos povos originários",
+                                              "c":  "Impedir qualquer forma de propriedade privada da terra na colônia, o oposto do que as sesmarias de fato instituíram desde o início",
                                               "d":  "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, o que favoreceu a concentração fundiária desde o período colonial"
                                           },
                          "resposta":  "d",
@@ -516,9 +516,9 @@
                          "texto_apoio":  "A Companhia de Jesus atuou intensamente na catequese dos povos indígenas no Brasil colonial, organizando aldeamentos e missões.",
                          "enunciado":  "A atuação jesuítica junto aos povos indígenas frequentemente gerava conflitos com:",
                          "alternativas":  {
-                                              "a":  "Outras ordens religiosas, que defendiam abertamente a escravização em massa dos povos indígenas",
-                                              "b":  "Os próprios povos indígenas, que rejeitavam integralmente qualquer forma de aldeamento",
-                                              "c":  "A Coroa portuguesa, que se opunha a qualquer forma de contato entre europeus e indígenas",
+                                              "a":  "Outras ordens religiosas, que defendiam abertamente a escravização em massa dos povos indígenas, postura oposta à pregada pelos jesuítas",
+                                              "b":  "Os próprios povos indígenas, que rejeitavam integralmente qualquer forma de aldeamento, quando muitos buscavam proteção jesuítica contra a escravização",
+                                              "c":  "A Coroa portuguesa, que se opunha a qualquer forma de contato entre europeus e indígenas, posição contrária à política oficial de catequese",
                                               "d":  "Colonos e bandeirantes interessados na mão de obra indígena para escravização, já que os jesuítas buscavam proteger os indígenas aldeados dessa exploração"
                                           },
                          "resposta":  "d",
@@ -530,10 +530,10 @@
                          "texto_apoio":  "Entre 1580 e 1640, Portugal e seus domínios coloniais, incluindo o Brasil, ficaram unidos à Coroa espanhola sob um mesmo monarca.",
                          "enunciado":  "Uma das principais consequências desse período para a colônia brasileira foi:",
                          "alternativas":  {
-                                              "a":  "O fim completo do comércio entre o Brasil e Portugal",
-                                              "b":  "A imediata abolição da escravidão africana na colônia",
-                                              "c":  "A exposição do território brasileiro a ataques de inimigos da Espanha, como Holanda e Inglaterra, já que o Brasil passou a ser considerado alvo legítimo desses rivais",
-                                              "d":  "A transferência definitiva da capital colonial para Madri"
+                                              "a":  "O fim completo do comércio entre o Brasil e Portugal, ruptura que não ocorreu durante a União Ibérica, mantida até 1640",
+                                              "b":  "A imediata abolição da escravidão africana na colônia, medida que só se concretizaria dois séculos depois, com a Lei Áurea de 1888",
+                                              "c":  "A exposição do território brasileiro a ataques de inimigos da Espanha, como Holanda e Inglaterra, alvo legítimo desses rivais",
+                                              "d":  "A transferência definitiva da capital colonial para Madri, mudança que jamais foi implementada mesmo sob domínio espanhol"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Durante a União Ibérica, os territórios portugueses, unidos à Coroa espanhola, tornaram-se alvos legítimos das potências rivais da Espanha, o que ajuda a explicar as invasões holandesas ao Nordeste açucareiro ocorridas já no século XVII.",
@@ -544,10 +544,10 @@
                          "texto_apoio":  "Entre 1630 e 1654, os holandeses ocuparam parte do Nordeste açucareiro, com destaque para o governo de Maurício de Nassau em Pernambuco.",
                          "enunciado":  "O governo de Nassau caracterizou-se por:",
                          "alternativas":  {
-                                              "a":  "Transferência da capital da colônia portuguesa para Recife",
-                                              "b":  "Completo isolamento cultural e científico da colônia ocupada",
+                                              "a":  "Transferência da capital da colônia portuguesa para Recife, medida que nunca foi formalizada durante a ocupação holandesa",
+                                              "b":  "Completo isolamento cultural e científico da colônia ocupada, o oposto do mecenato científico e artístico promovido por Nassau",
                                               "c":  "Certa tolerância religiosa, investimentos em urbanização e incentivo às artes e às ciências, ao lado da manutenção da economia açucareira escravista",
-                                              "d":  "Abolição imediata da mão de obra escrava nos engenhos ocupados"
+                                              "d":  "Abolição imediata da mão de obra escrava nos engenhos ocupados, prática que os próprios holandeses mantiveram durante toda a ocupação"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Nassau promoveu obras de urbanização em Recife, relativa tolerância religiosa e incentivou artistas e cientistas que documentaram a fauna, a flora e a sociedade locais, sem, no entanto, romper com a base escravista da economia açucareira que sustentava a ocupação holandesa.",
@@ -558,10 +558,10 @@
                          "texto_apoio":  "A expulsão dos holandeses do Nordeste, concluída em 1654, resultou de um levante que envolveu senhores de engenho, indígenas e população mestiça e negra.",
                          "enunciado":  "Esse movimento é significativo para a historiografia porque:",
                          "alternativas":  {
-                                              "a":  "Foi conduzido exclusivamente por tropas enviadas diretamente de Portugal, sem participação de moradores da colônia",
-                                              "b":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, sendo interpretado por parte da historiografia como expressão de um incipiente sentimento de identidade colonial",
-                                              "c":  "Resultou na manutenção permanente do domínio holandês sobre o Nordeste",
-                                              "d":  "Provocou o fim definitivo da monocultura açucareira na região"
+                                              "a":  "Foi conduzido exclusivamente por tropas enviadas diretamente de Portugal, sem participação de moradores, versão contrariada pela mobilização local",
+                                              "b":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, interpretado como expressão de identidade colonial",
+                                              "c":  "Resultou na manutenção permanente do domínio holandês sobre o Nordeste, quando na verdade a expulsão se completou já em 1654",
+                                              "d":  "Provocou o fim definitivo da monocultura açucareira na região, quando na verdade ela persistiu como base econômica por séculos"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Insurreição Pernambucana mobilizou senhores de engenho, indígenas, mestiços e negros, muitos nascidos na colônia, o que levou historiadores a discutirem esse episódio como um dos primeiros momentos de articulação de interesses coletivos ligados à terra brasileira, distintos dos da metrópole.",
@@ -572,9 +572,9 @@
                          "texto_apoio":  "Em 1710-1711, um conflito opôs a aristocracia rural de Olinda a comerciantes portugueses estabelecidos no Recife.",
                          "enunciado":  "A Guerra dos Mascates expressava, no fundo, uma disputa entre:",
                          "alternativas":  {
-                                              "a":  "A Coroa portuguesa e a Coroa espanhola pela posse de Pernambuco",
-                                              "b":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais",
-                                              "c":  "Católicos e protestantes pelo controle religioso da região",
+                                              "a":  "A Coroa portuguesa e a Coroa espanhola pela posse de Pernambuco, disputa territorial inexistente após o fim da União Ibérica em 1640",
+                                              "b":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais, conflito que remete à Guerra dos Emboabas, não à disputa pernambucana",
+                                              "c":  "Católicos e protestantes pelo controle religioso da região, tensão associada à ocupação holandesa anterior, já encerrada em 1654",
                                               "d":  "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em meio à ascensão econômica deste último em detrimento da antiga vila senhorial"
                                           },
                          "resposta":  "d",
@@ -586,10 +586,10 @@
                          "texto_apoio":  "As expedições conhecidas como bandeiras, organizadas sobretudo a partir de São Paulo, tiveram diferentes objetivos ao longo dos séculos XVI e XVII.",
                          "enunciado":  "Entre os principais objetivos das bandeiras estavam:",
                          "alternativas":  {
-                                              "a":  "A catequese pacífica dos povos indígenas, sem qualquer finalidade econômica",
+                                              "a":  "A catequese pacífica dos povos indígenas, sem qualquer finalidade econômica, missão associada sobretudo à atuação jesuítica, não bandeirante",
                                               "b":  "A captura e escravização de indígenas e, posteriormente, a busca por metais preciosos, contribuindo para a expansão territorial da colônia para além da linha de Tordesilhas",
-                                              "c":  "A defesa exclusiva do litoral brasileiro contra invasões estrangeiras",
-                                              "d":  "O estabelecimento de rotas comerciais marítimas com a Ásia"
+                                              "c":  "A defesa exclusiva do litoral brasileiro contra invasões estrangeiras, tarefa atribuída antes a fortificações e tropas régias costeiras",
+                                              "d":  "O estabelecimento de rotas comerciais marítimas com a Ásia, empreendimento associado à Carreira das Índias portuguesa, não às bandeiras"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As bandeiras combinaram, em momentos distintos, o apresamento de indígenas para escravização e, posteriormente, a busca por ouro e pedras preciosas, processo que, ao adentrar o interior do continente, ampliou de fato os limites da colônia portuguesa para além do que previa o Tratado de Tordesilhas.",
@@ -600,10 +600,10 @@
                          "texto_apoio":  "Localizado na região da atual Alagoas, o Quilombo dos Palmares resistiu por décadas até ser destruído em 1694, sob a liderança final de Zumbi.",
                          "enunciado":  "Palmares é hoje interpretado pela historiografia como:",
                          "alternativas":  {
-                                              "a":  "Uma complexa organização social e política formada majoritariamente por africanos e afrodescendentes fugidos da escravidão, representando a mais duradoura resistência à escravidão no Brasil colonial",
-                                              "b":  "Um pequeno agrupamento isolado, sem organização social relevante",
-                                              "c":  "Uma aldeia fundada por jesuítas para catequese de escravizados fugidos",
-                                              "d":  "Um território reconhecido oficialmente pela Coroa portuguesa desde sua fundação"
+                                              "a":  "Uma complexa organização social e política formada majoritariamente por africanos fugidos da escravidão, a mais duradoura resistência escravista do Brasil colonial",
+                                              "b":  "Um pequeno agrupamento isolado, sem organização social relevante, descrição incompatível com os quase cem anos de resistência de Palmares",
+                                              "c":  "Uma aldeia fundada por jesuítas para catequese de escravizados fugidos, ao contrário da autonomia política que Palmares de fato exerceu",
+                                              "d":  "Um território reconhecido oficialmente pela Coroa portuguesa desde sua fundação, quando na verdade foi alvo de sucessivas expedições militares"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Palmares reuniu, ao longo de quase um século, milhares de pessoas em uma organização social e política própria, com formas de produção, defesa militar e liderança, sendo considerado o mais duradouro e expressivo movimento de resistência à escravidão no Brasil colonial.",
@@ -614,10 +614,10 @@
                          "texto_apoio":  "Em 1684, no Maranhão, colonos liderados por Manuel Beckman se rebelaram contra o monopólio comercial de uma companhia de comércio.",
                          "enunciado":  "Essa revolta dirigia-se especialmente contra:",
                          "alternativas":  {
-                                              "a":  "A escravização de indígenas promovida pelos próprios jesuítas da região",
-                                              "b":  "A cobrança do quinto sobre o ouro extraído na região",
-                                              "c":  "O monopólio da Companhia de Comércio do Maranhão e a escassez de mão de obra escrava africana na região, agravada pela oposição jesuítica à escravização indígena",
-                                              "d":  "A instalação de capitanias hereditárias no Maranhão"
+                                              "a":  "A escravização de indígenas promovida pelos próprios jesuítas da região, prática que os jesuítas do Maranhão, ao contrário, combatiam",
+                                              "b":  "A cobrança do quinto sobre o ouro extraído na região, tributo típico da economia mineradora, inexistente no Maranhão colonial",
+                                              "c":  "O monopólio da Companhia de Comércio do Maranhão e a escassez de mão de obra escrava africana, agravada pela postura jesuítica",
+                                              "d":  "A instalação de capitanias hereditárias no Maranhão, sistema já superado desde o século anterior à revolta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Colonos maranhenses revoltaram-se contra o monopólio comercial imposto por uma companhia privilegiada e contra a falta de braços escravos africanos, situação agravada pela defesa jesuítica da liberdade dos indígenas, que os colonos pretendiam usar como mão de obra.",
@@ -642,10 +642,10 @@
                          "texto_apoio":  "Em 1720, em Vila Rica, Minas Gerais, um levante popular protestou contra a criação das Casas de Fundição.",
                          "enunciado":  "Esse episódio revela que a resistência aos mecanismos fiscais da Coroa sobre o ouro:",
                          "alternativas":  {
-                                              "a":  "Só passou a existir com a Inconfidência Mineira, em 1789",
-                                              "b":  "Já se manifestava décadas antes, em reação direta à instalação das Casas de Fundição, com dura repressão da Coroa, incluindo o esquartejamento do principal líder do movimento",
-                                              "c":  "Nunca existiu ao longo de todo o ciclo do ouro",
-                                              "d":  "Foi liderada exclusivamente por senhores de engenho do litoral açucareiro"
+                                              "a":  "Só passou a existir com a Inconfidência Mineira, em 1789, quando na verdade a Revolta de Vila Rica já ocorrera décadas antes",
+                                              "b":  "Já se manifestava décadas antes, em reação à instalação das Casas de Fundição, com dura repressão da Coroa contra os revoltosos",
+                                              "c":  "Nunca existiu ao longo de todo o ciclo do ouro, afirmação contrariada por diversos episódios de resistência fiscal na região mineradora",
+                                              "d":  "Foi liderada exclusivamente por senhores de engenho do litoral açucareiro, grupo social alheio ao contexto da mineração em Minas Gerais"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Revolta de Vila Rica de 1720, liderada por Filipe dos Santos e duramente reprimida pela Coroa, mostra que a resistência à fiscalização sobre o ouro é anterior em quase sete décadas à Inconfidência Mineira, revelando um padrão recorrente de tensão fiscal entre metrópole e colônia mineradora.",
@@ -656,9 +656,9 @@
                          "texto_apoio":  "Também chamada de Revolta dos Alfaiates, a Conjuração Baiana ocorreu em Salvador em 1798, envolvendo artesãos, soldados e escravizados libertos.",
                          "enunciado":  "Em comparação com a Inconfidência Mineira (1789), a Conjuração Baiana se distingue por:",
                          "alternativas":  {
-                                              "a":  "Ter sido liderada exclusivamente por grandes proprietários de terra da região",
-                                              "b":  "Não ter qualquer relação com ideais iluministas ou republicanos",
-                                              "c":  "Ter ocorrido antes da Inconfidência Mineira",
+                                              "a":  "Ter sido liderada exclusivamente por grandes proprietários de terra da região, quando teve forte presença de artesãos e libertos",
+                                              "b":  "Não ter qualquer relação com ideais iluministas ou republicanos, influência que, ao contrário, esteve bastante presente no movimento",
+                                              "c":  "Ter ocorrido antes da Inconfidência Mineira, quando na verdade a Conjuração Baiana ocorreu quase uma década depois, em 1798",
                                               "d":  "Ter maior participação de setores populares urbanos, como artesãos e libertos, e defender bandeiras mais radicais, como o fim da escravidão"
                                           },
                          "resposta":  "d",
@@ -670,10 +670,10 @@
                          "texto_apoio":  "Em 1815, ainda durante a permanência da corte portuguesa no Brasil, o território colonial foi elevado à categoria de Reino Unido a Portugal e Algarves.",
                          "enunciado":  "Essa medida teve como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Reduzir o status político do Brasil perante as demais nações europeias",
-                                              "b":  "Restabelecer o pacto colonial e o exclusivo metropolitano, extintos em 1808",
-                                              "c":  "Equiparar juridicamente o Brasil a Portugal, fortalecendo a posição de Dom João VI nas negociações do Congresso de Viena, que reorganizava a Europa após as guerras napoleônicas",
-                                              "d":  "Transferir definitivamente a capital do reino para Lisboa"
+                                              "a":  "Reduzir o status político do Brasil perante as demais nações europeias, o oposto do efeito prático buscado com a elevação a Reino Unido",
+                                              "b":  "Restabelecer o pacto colonial e o exclusivo metropolitano, extintos em 1808, medida que contrariaria a própria abertura dos portos daquele ano",
+                                              "c":  "Equiparar juridicamente o Brasil a Portugal, fortalecendo a posição de Dom João VI nas negociações do Congresso de Viena, no cenário europeu pós-napoleônico",
+                                              "d":  "Transferir definitivamente a capital do reino para Lisboa, decisão inversa à permanência da corte portuguesa no Rio de Janeiro"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao elevar o Brasil à condição de Reino Unido, Dom João VI buscava evitar que o Congresso de Viena tratasse o território como uma simples colônia, fortalecendo a posição de Portugal nas negociações diplomáticas que redesenhavam a ordem europeia pós-napoleônica.",
@@ -685,9 +685,9 @@
                          "enunciado":  "Entre as causas dessa revolta estavam:",
                          "alternativas":  {
                                               "a":  "O apoio unânime da população pernambucana à monarquia portuguesa e à corte instalada no Rio de Janeiro",
-                                              "b":  "A chegada da família real ao Brasil em 1808, que teria beneficiado exclusivamente Pernambuco",
-                                              "c":  "A abolição da escravidão decretada por Dom João VI em 1817",
-                                              "d":  "A insatisfação com a carga tributária, o favorecimento comercial concedido a portugueses vindos com a corte e a influência de ideais republicanos"
+                                              "b":  "A chegada da família real ao Brasil em 1808, que teria beneficiado exclusivamente Pernambuco, o que não correspondeu à realidade",
+                                              "c":  "A abolição da escravidão decretada por Dom João VI em 1817, medida que só ocorreria setenta anos depois, com a Lei Áurea",
+                                              "d":  "A insatisfação com a carga tributária, o favorecimento a portugueses vindos com a corte e a influência de ideais republicanos"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Revolução Pernambucana de 1817 resultou da insatisfação de setores das elites locais com a carga tributária, o favorecimento dado a comerciantes portugueses e a influência das ideias republicanas e iluministas, chegando a proclamar um governo republicano provisório antes de ser derrotada.",
@@ -698,10 +698,10 @@
                          "texto_apoio":  "Em janeiro de 1822, pressionado pelas Cortes de Lisboa a retornar a Portugal, Dom Pedro declarou sua permanência no Brasil.",
                          "enunciado":  "Esse episódio, conhecido como Dia do Fico, é interpretado como:",
                          "alternativas":  {
-                                              "a":  "O momento em que o Brasil se tornou oficialmente uma república",
+                                              "a":  "O momento em que o Brasil se tornou oficialmente uma república, regime que só seria instaurado décadas depois, em 1889",
                                               "b":  "Um passo decisivo no processo que levaria à ruptura política com Portugal, meses antes da proclamação da independência",
-                                              "c":  "A assinatura definitiva do tratado de reconhecimento da independência pelo governo português",
-                                              "d":  "A abdicação de Dom Pedro I ao trono do Brasil"
+                                              "c":  "A assinatura definitiva do tratado de reconhecimento da independência pelo governo português, que só ocorreria anos depois",
+                                              "d":  "A abdicação de Dom Pedro I ao trono do Brasil, evento que ocorreria apenas em 1831, quase uma década depois do Dia do Fico"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao recusar a ordem das Cortes portuguesas para retornar a Portugal, Dom Pedro sinalizou sua disposição de romper com a subordinação política à metrópole, episódio que antecedeu em poucos meses a proclamação formal da independência, em setembro de 1822.",
@@ -713,8 +713,8 @@
                          "enunciado":  "A Confederação do Equador foi motivada, sobretudo, por:",
                          "alternativas":  {
                                               "a":  "O apoio da elite nordestina à centralização política prevista na Constituição outorgada por Dom Pedro I em 1824",
-                                              "b":  "A defesa da manutenção da escravidão como única bandeira do movimento",
-                                              "c":  "A vitória militar sobre as tropas imperiais, que garantiu a independência definitiva da região",
+                                              "b":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870, pauta secundária no episódio",
+                                              "c":  "Sua identificação total com os interesses da elite política nacional, o oposto do desgaste que de fato gerou sua abdicação em 1831",
                                               "d":  "A rejeição ao autoritarismo e à centralização da Constituição outorgada em 1824, em favor de um projeto republicano e federalista"
                                           },
                          "resposta":  "d",
@@ -726,10 +726,10 @@
                          "texto_apoio":  "A primeira Constituição brasileira, outorgada por Dom Pedro I em 1824, previa, além dos três poderes clássicos, um quarto poder.",
                          "enunciado":  "Esse poder adicional, exercido privativamente pelo imperador, era o:",
                          "alternativas":  {
-                                              "a":  "Poder Federativo, exercido de forma independente pelas províncias",
+                                              "a":  "Poder Federativo, exercido de forma independente pelas províncias, instância inexistente na estrutura constitucional de 1824",
                                               "b":  "Poder Moderador, que permitia ao imperador dissolver a Câmara dos Deputados, nomear senadores e intervir sobre os demais poderes",
-                                              "c":  "Poder Eclesiástico, exercido diretamente pela Igreja Católica sobre o Estado",
-                                              "d":  "Poder Municipal, exercido de forma autônoma pelas câmaras locais"
+                                              "c":  "Poder Eclesiástico, exercido diretamente pela Igreja Católica sobre o Estado, arranjo que a Constituição de 1824 jamais formalizou dessa forma",
+                                              "d":  "Poder Municipal, exercido de forma autônoma pelas câmaras locais, autonomia que as câmaras só ampliariam plenamente após 1988"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Constituição de 1824 instituiu o Poder Moderador, exercido exclusivamente pelo imperador, que lhe permitia dissolver a Câmara dos Deputados, nomear senadores vitalícios e intervir sobre os demais poderes, concentrando grande autoridade política nas mãos do monarca.",
@@ -740,10 +740,10 @@
                          "texto_apoio":  "Entre 1825 e 1828, o Império do Brasil enfrentou as Províncias Unidas do Rio da Prata pelo controle da Província Cisplatina, anexada ao Brasil em 1821.",
                          "enunciado":  "O desfecho desse conflito foi:",
                          "alternativas":  {
-                                              "a":  "A anexação da região disputada ao território argentino",
-                                              "b":  "A vitória militar decisiva do Brasil, sem qualquer perda territorial",
+                                              "a":  "A anexação da região disputada ao território argentino, desfecho que não correspondeu ao resultado real do conflito",
+                                              "b":  "A vitória militar decisiva do Brasil, sem qualquer perda territorial, quando o conflito gerou desgaste militar",
                                               "c":  "A independência da região, que deu origem ao atual Uruguai, mediada por intervenção diplomática britânica",
-                                              "d":  "A manutenção definitiva da Cisplatina como província do Império brasileiro"
+                                              "d":  "A manutenção definitiva da Cisplatina como província do Império brasileiro, o que a guerra de fato não garantiu"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Guerra da Cisplatina terminou com a mediação britânica, interessada na estabilidade regional para seus negócios, resultando na independência da Província Cisplatina, que se tornou o Uruguai, e representando um desgaste militar e financeiro para o Império recém-fundado.",
@@ -754,10 +754,10 @@
                          "texto_apoio":  "A Constituição de 1824 estabelecia critérios de renda mínima para que um cidadão pudesse votar e, sobretudo, ser votado.",
                          "enunciado":  "Esse sistema, conhecido como voto censitário, tinha como principal efeito:",
                          "alternativas":  {
-                                              "a":  "Garantir a participação política de toda a população livre, independentemente de renda",
-                                              "b":  "Eliminar qualquer influência da riqueza sobre a disputa política do Império",
-                                              "c":  "Restringir a participação política a uma pequena parcela da população, excluindo a maioria dos cidadãos livres pobres, as mulheres e a população escravizada",
-                                              "d":  "Estender o direito de voto à população escravizada"
+                                              "a":  "Garantir a participação política de toda a população livre, independentemente de renda, o que o voto censitário impedia",
+                                              "b":  "Eliminar qualquer influência da riqueza sobre a disputa política do Império, o oposto do que de fato gerava o critério censitário de renda",
+                                              "c":  "Restringir a participação política a uma pequena parcela da população, excluindo pobres, mulheres e escravizados",
+                                              "d":  "Estender o direito de voto à população escravizada, grupo que a Constituição de 1824 excluía integralmente da cidadania política"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O voto censitário, ao vincular o direito de votar e de ser votado a patamares mínimos de renda, restringia a cidadania política ativa a uma parcela reduzida da população, excluindo a maioria dos homens livres pobres, as mulheres e, evidentemente, os escravizados.",
@@ -768,10 +768,10 @@
                          "texto_apoio":  "Entre 1838 e 1841, o Maranhão foi palco de uma das mais amplas revoltas do Período Regencial, reunindo sertanejos pobres, escravizados fugidos e setores da elite local dissidente.",
                          "enunciado":  "A Balaiada é um exemplo de como as revoltas regenciais frequentemente combinavam:",
                          "alternativas":  {
-                                              "a":  "Apenas disputas entre facções da elite política local, sem qualquer participação popular",
-                                              "b":  "Uma revolta estritamente urbana, sem qualquer relação com o mundo rural maranhense",
+                                              "a":  "Apenas disputas entre facções da elite política local, sem qualquer participação popular, leitura que ignora o papel de sertanejos pobres",
+                                              "b":  "Uma revolta estritamente urbana, sem qualquer relação com o mundo rural maranhense, quando na verdade se concentrou no sertão",
                                               "c":  "Tensões entre grupos da elite regional e, ao mesmo tempo, a participação de camadas populares e escravizadas com demandas próprias, como a busca pela liberdade",
-                                              "d":  "Apoio unânime e imediato do governo regencial central às reivindicações dos revoltosos"
+                                              "d":  "Apoio unânime e imediato do governo regencial central às reivindicações dos revoltosos, quando na verdade a revolta foi duramente combatida"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Balaiada reuniu, sob a mesma bandeira, disputas entre facções da elite provincial maranhense e a mobilização de sertanejos pobres e escravizados fugidos, que viram na revolta uma oportunidade de reivindicar melhores condições e a própria liberdade, ilustrando a complexidade social das revoltas regenciais.",
@@ -782,10 +782,10 @@
                          "texto_apoio":  "A Revolução Farroupilha (1835-1845), no Rio Grande do Sul, foi a mais longa revolta do período regencial e dos primeiros anos do Segundo Reinado.",
                          "enunciado":  "Entre as causas desse movimento, destaca-se:",
                          "alternativas":  {
-                                              "a":  "Uma disputa exclusivamente religiosa entre católicos e protestantes na província",
-                                              "b":  "A anexação do Rio Grande do Sul ao território argentino",
-                                              "c":  "A insatisfação de estancieiros gaúchos com a política tarifária do governo central, que taxava o charque importado do Uruguai e da Argentina em condições mais favoráveis do que o produto gaúcho",
-                                              "d":  "O apoio unânime do Rio Grande do Sul à manutenção da escravidão e à centralização monárquica"
+                                              "a":  "Uma disputa exclusivamente religiosa entre católicos e protestantes na província, motivação alheia às causas econômicas do movimento gaúcho",
+                                              "b":  "A anexação do Rio Grande do Sul ao território argentino, hipótese nunca cogitada pelos líderes farroupilhas durante o conflito",
+                                              "c":  "A insatisfação de estancieiros gaúchos com a política tarifária do governo central, que favorecia o charque platino sobre o gaúcho",
+                                              "d":  "O apoio unânime do Rio Grande do Sul à manutenção da escravidão e à centralização monárquica, pauta contrária aos ideais farroupilhas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Revolução Farroupilha teve entre suas causas o descontentamento de estancieiros gaúchos com a política tarifária imperial, que prejudicava o charque produzido no Rio Grande do Sul frente ao produto platino, somando-se a esse fator disputas políticas regionais mais amplas.",
@@ -796,9 +796,9 @@
                          "texto_apoio":  "Em 1848-1849, Pernambuco viveu a última grande revolta do período monárquico anterior à consolidação definitiva do Segundo Reinado.",
                          "enunciado":  "A Revolução Praieira teve inspiração, em parte, nas ideias liberais e:",
                          "alternativas":  {
-                                              "a":  "Defendia a restauração do domínio colonial português sobre o Brasil",
-                                              "b":  "Propunha a manutenção do voto censitário sem qualquer alteração",
-                                              "c":  "Foi organizada exclusivamente por senhores de engenho favoráveis ao imperador",
+                                              "a":  "Defendia a restauração do domínio colonial português sobre o Brasil, bandeira estranha a um movimento de inspiração liberal e nativista",
+                                              "b":  "Propunha a manutenção do voto censitário sem qualquer alteração, posição contrária às reivindicações liberais de ampliação política",
+                                              "c":  "Foi organizada exclusivamente por senhores de engenho favoráveis ao imperador, quando na verdade reuniu setores liberais críticos à monarquia",
                                               "d":  "Reivindicava, entre outros pontos, eleições livres, liberdade de imprensa e restrições ao comércio a varejo exercido por portugueses"
                                           },
                          "resposta":  "d",
@@ -810,10 +810,10 @@
                          "texto_apoio":  "No mesmo ano de 1850, o Brasil aprovou duas leis de grande impacto sobre a estrutura social e econômica do país.",
                          "enunciado":  "A Lei Eusébio de Queirós e a Lei de Terras, ambas de 1850, tiveram como efeito combinado:",
                          "alternativas":  {
-                                              "a":  "Libertar imediatamente todos os escravizados do país e distribuir terras a eles",
-                                              "b":  "Encerrar o tráfico transatlântico de escravizados e dificultar o acesso à terra por parte da população pobre e futuramente liberta, ao exigir a compra como via de aquisição",
-                                              "c":  "Permitir que qualquer pessoa ocupasse livremente terras devolutas, sem necessidade de compra",
-                                              "d":  "Ampliar o tráfico de escravizados para suprir a crescente demanda da lavoura cafeeira"
+                                              "a":  "Libertar imediatamente todos os escravizados do país e distribuir terras a eles, medida que só ocorreria, sem distribuição de terras, em 1888",
+                                              "b":  "Encerrar o tráfico transatlântico de escravizados e dificultar o acesso à terra da população pobre e futuramente liberta",
+                                              "c":  "Permitir que qualquer pessoa ocupasse livremente terras devolutas, sem necessidade de compra, o oposto do que a Lei de Terras estabeleceu",
+                                              "d":  "Ampliar o tráfico de escravizados para suprir a crescente demanda da lavoura cafeeira, tendência revertida pela Lei Eusébio de Queirós"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Lei Eusébio de Queirós pôs fim ao tráfico transatlântico de escravizados, enquanto a Lei de Terras do mesmo ano estabeleceu a compra como única via legal de acesso à terra, dificultando que a futura população liberta e os trabalhadores pobres pudessem se tornar proprietários rurais.",
@@ -824,10 +824,10 @@
                          "texto_apoio":  "Com o fim do tráfico negreiro em 1850 e a proximidade do fim da escravidão, fazendeiros do Sudeste passaram a incentivar a vinda de trabalhadores europeus, sobretudo italianos.",
                          "enunciado":  "A substituição do trabalho escravo pelo trabalho imigrante na cafeicultura paulista, nas últimas décadas do século XIX, esteve associada a:",
                          "alternativas":  {
-                                              "a":  "Políticas de subsídio à imigração, que buscavam garantir mão de obra abundante e barata diante do declínio do tráfico e da proximidade do fim da escravidão",
-                                              "b":  "Uma decisão espontânea dos próprios cafeicultores de abolir a escravidão décadas antes da Lei Áurea",
-                                              "c":  "A ausência completa de qualquer incentivo governamental à vinda de imigrantes",
-                                              "d":  "A proibição legal do trabalho de imigrantes na lavoura cafeeira paulista"
+                                              "a":  "Políticas de subsídio à imigração, que buscavam mão de obra abundante diante do declínio do tráfico e da abolição",
+                                              "b":  "Uma decisão espontânea dos próprios cafeicultores de abolir a escravidão décadas antes da Lei Áurea, o que jamais ocorreu",
+                                              "c":  "A ausência completa de qualquer incentivo governamental à vinda de imigrantes, quando na verdade houve política ativa de subsídio",
+                                              "d":  "A proibição legal do trabalho de imigrantes na lavoura cafeeira paulista, o oposto da política de incentivo migratório adotada pelo Império"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diante do fim do tráfico e da perspectiva de abolição, o governo imperial e os cafeicultores paulistas passaram a subsidiar a vinda de imigrantes europeus, sobretudo italianos, garantindo mão de obra abundante para substituir gradualmente o trabalho escravo nas fazendas de café.",
@@ -838,9 +838,9 @@
                          "texto_apoio":  "Nos primeiros anos da República, entre 1889 e 1891, o governo brasileiro adotou uma política de expansão do crédito e da emissão monetária para estimular a industrialização.",
                          "enunciado":  "Essa política, conhecida como Encilhamento, resultou em:",
                          "alternativas":  {
-                                              "a":  "A eliminação completa da dívida externa brasileira em poucos anos",
-                                              "b":  "O fim definitivo da emissão de moeda pelo governo federal",
-                                              "c":  "Estabilidade monetária duradoura e crescimento industrial sem sobressaltos",
+                                              "a":  "A eliminação completa da dívida externa brasileira em poucos anos, resultado nunca produzido pelo Encilhamento",
+                                              "b":  "O fim definitivo da emissão de moeda pelo governo federal, medida oposta à expansão monetária que caracterizou o Encilhamento",
+                                              "c":  "Estabilidade monetária duradoura e crescimento industrial sem sobressaltos, o oposto do que o Encilhamento gerou",
                                               "d":  "Uma onda especulativa na bolsa de valores seguida de forte crise financeira, com falências e inflação"
                                           },
                          "resposta":  "d",
@@ -852,10 +852,10 @@
                          "texto_apoio":  "Nos primeiros anos da República, o governo de Floriano Peixoto enfrentou revoltas de setores da Marinha e de oposicionistas no Rio Grande do Sul.",
                          "enunciado":  "Esses movimentos, ocorridos entre 1893 e 1895, refletiam, entre outros fatores:",
                          "alternativas":  {
-                                              "a":  "Disputas em torno do grau de centralização do novo regime republicano e resistências ao crescente domínio do Exército sobre a política nacional",
-                                              "b":  "Consenso unânime das Forças Armadas em torno do governo republicano recém-instaurado",
-                                              "c":  "Apoio da Marinha e dos revoltosos gaúchos ao retorno incondicional da monarquia",
-                                              "d":  "Ausência completa de tensões entre civis e militares ao longo da República Velha"
+                                              "a":  "Disputas em torno do grau de centralização do regime republicano e resistências ao domínio do Exército sobre a política",
+                                              "b":  "Consenso unânime das Forças Armadas em torno do governo republicano recém-instaurado, quadro contrariado por essas revoltas",
+                                              "c":  "Apoio da Marinha e dos revoltosos gaúchos ao retorno incondicional da monarquia, pauta ausente de ambos os movimentos revoltosos",
+                                              "d":  "Ausência completa de tensões entre civis e militares ao longo da República Velha, quadro desmentido por essas e outras revoltas do período"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Revolta da Armada e a Revolução Federalista expressaram disputas sobre o desenho institucional da nova República, incluindo o grau de centralização do poder e a resistência de setores da Marinha e de oposicionistas gaúchos ao domínio crescente do Exército sobre a política do país.",
@@ -866,10 +866,10 @@
                          "texto_apoio":  "Entre 1896 e 1897, o arraial de Canudos, no sertão baiano, liderado por Antônio Conselheiro, foi destruído após sucessivas expedições militares do governo republicano.",
                          "enunciado":  "A Guerra de Canudos é frequentemente interpretada como expressão de:",
                          "alternativas":  {
-                                              "a":  "Um movimento plenamente monarquista e financiado pela Inglaterra, conforme concluíram as investigações da época",
-                                              "b":  "Tensões sociais do sertão nordestino, marcadas pela miséria e pelo messianismo religioso, que foram lidas de forma equivocada pelas elites republicanas como ameaça restauracionista",
-                                              "c":  "Uma revolta organizada por cafeicultores paulistas contra o governo federal",
-                                              "d":  "Um levante puramente militar, sem qualquer participação da população sertaneja local"
+                                              "a":  "Um movimento plenamente monarquista e financiado pela Inglaterra, hipótese não confirmada pelas investigações da época",
+                                              "b":  "Tensões sociais do sertão nordestino, marcadas pela miséria e pelo messianismo religioso, lidas como ameaça restauracionista pelas elites",
+                                              "c":  "Uma revolta organizada por cafeicultores paulistas contra o governo federal, grupo alheio à composição predominantemente sertaneja do movimento",
+                                              "d":  "Um levante puramente militar, sem qualquer participação da população sertaneja local, quando Canudos foi majoritariamente formado por civis"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Canudos reuniu sertanejos pobres em torno de uma comunidade religiosa liderada por Antônio Conselheiro; as elites republicanas, porém, interpretaram equivocadamente o movimento como uma conspiração monarquista, o que ajudou a justificar as violentas expedições militares que o destruíram.",
@@ -880,10 +880,10 @@
                          "texto_apoio":  "Em 1904, no Rio de Janeiro, parte da população se rebelou contra medidas sanitárias do governo, incluindo a vacinação obrigatória contra a varíola conduzida por Oswaldo Cruz.",
                          "enunciado":  "Sobre a Revolta da Vacina (1904), analise as afirmativas: I. A revolta expressou insatisfação popular com o autoritarismo das reformas urbanas e sanitárias, que removiam moradores pobres de suas casas sem consulta prévia. II. A vacinação obrigatória, imposta sem diálogo com a população, foi um dos estopins diretos do movimento. III. O episódio contou com pleno apoio popular às reformas urbanas de Pereira Passos, sem qualquer resistência relevante. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "d":  "As afirmativas I, II e III estÃ£o corretas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Revolta da Vacina refletiu a insatisfação com o autoritarismo das reformas sanitárias e urbanas (I correta) e teve na vacinação obrigatória um estopim direto (II correta); ao contrário do afirmado em III, houve forte resistência popular às reformas de Pereira Passos, e não apoio pleno.",
@@ -894,10 +894,10 @@
                          "texto_apoio":  "Em 1910, marinheiros da Marinha brasileira, liderados por João Cândido, se rebelaram contra os castigos físicos aplicados a bordo dos navios de guerra.",
                          "enunciado":  "A Revolta da Chibata denunciava, sobretudo:",
                          "alternativas":  {
-                                              "a":  "A extinção completa da hierarquia militar dentro da Marinha brasileira",
-                                              "b":  "A recusa dos marinheiros em aceitar salários mais altos oferecidos pelo governo",
+                                              "a":  "A extinção completa da hierarquia militar dentro da Marinha brasileira, pauta ausente das reivindicações dos marinheiros revoltosos",
+                                              "b":  "A recusa dos marinheiros em aceitar salários mais altos oferecidos pelo governo, inversão do que de fato motivou o movimento de protesto",
                                               "c":  "A persistência de práticas de punição corporal herdadas do período escravista dentro das Forças Armadas, mesmo após a abolição formal da escravidão",
-                                              "d":  "A defesa, pelos marinheiros revoltosos, da restauração da monarquia no Brasil"
+                                              "d":  "A defesa, pelos marinheiros revoltosos, da restauração da monarquia no Brasil, bandeira estranha às reivindicações trabalhistas do movimento"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Liderada por marinheiros majoritariamente negros e pobres, a Revolta da Chibata denunciou a manutenção de castigos corporais na Marinha, prática que remetia diretamente aos métodos de punição do período escravista, ainda vigente décadas após a abolição formal de 1888.",
@@ -908,10 +908,10 @@
                          "texto_apoio":  "Realizada em São Paulo em fevereiro de 1922, a Semana de Arte Moderna reuniu artistas, escritores e músicos em torno de propostas estéticas inovadoras.",
                          "enunciado":  "Esse evento é relevante para a história política e cultural do Brasil porque:",
                          "alternativas":  {
-                                              "a":  "Impulsionou um movimento de busca por uma identidade cultural brasileira mais autêntica, em sintonia com o clima de questionamento das estruturas oligárquicas da República Velha",
-                                              "b":  "Foi organizada diretamente pelo governo federal como instrumento oficial de propaganda política",
-                                              "c":  "Não teve qualquer relação com o contexto político e social do país na época",
-                                              "d":  "Propôs a manutenção integral dos padrões artísticos acadêmicos europeus do século XIX"
+                                              "a":  "Impulsionou um movimento de busca por identidade cultural brasileira mais autêntica, em sintonia com o questionamento das oligarquias",
+                                              "b":  "Foi organizada diretamente pelo governo federal como instrumento oficial de propaganda política, quando partiu de artistas paulistas independentes",
+                                              "c":  "Não teve qualquer relação com o contexto político e social do país na época, leitura contrariada pela conjuntura de contestação oligárquica",
+                                              "d":  "Propôs a manutenção integral dos padrões artísticos acadêmicos europeus do século XIX, o oposto da ruptura estética buscada pelos modernistas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Semana de Arte Moderna de 1922 ocorreu no mesmo ano em que se intensificavam movimentos de contestação à ordem oligárquica da República Velha, como o tenentismo, e buscou romper com os padrões estéticos herdados da Europa em favor de uma expressão artística e cultural mais identificada com o Brasil.",
@@ -922,10 +922,10 @@
                          "texto_apoio":  "Ao longo da década de 1920, jovens oficiais do Exército protagonizaram levantes contra as oligarquias dominantes na República Velha.",
                          "enunciado":  "Sobre o tenentismo e a Coluna Prestes, analise as afirmativas: I. O movimento defendia reformas políticas como o voto secreto e o combate ao coronelismo e à fraude eleitoral. II. O tenentismo mantinha um programa social pouco definido, priorizando reformas institucionais e maior centralização política. III. O movimento defendia a entrega definitiva do poder político às oligarquias cafeeiras de São Paulo e Minas Gerais. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, apenas"
+                                              "a":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa I estÃ¡ correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O tenentismo defendia reformas como voto secreto e combate ao coronelismo (I correta), com programa social pouco definido e ênfase institucional (II correta); ao contrário do afirmado em III, o movimento se opunha justamente ao domínio das oligarquias cafeeiras sobre a política nacional.",
@@ -937,9 +937,9 @@
                          "enunciado":  "Entre as principais inovações desse código estava:",
                          "alternativas":  {
                                               "a":  "A exclusão definitiva das mulheres de qualquer participação na vida política nacional",
-                                              "b":  "O fim do voto obrigatório para os cidadãos do sexo masculino",
-                                              "c":  "A extensão do direito de voto às mulheres e a instituição do voto secreto",
-                                              "d":  "A manutenção do voto censitário vinculado à renda dos eleitores"
+                                              "b":  "O fim do voto obrigatório para os cidadãos do sexo masculino, regra mantida pelo Código de 1932",
+                                              "c":  "A extensão do direito de voto às mulheres e a instituição do voto secreto no país",
+                                              "d":  "A manutenção do voto censitário vinculado à renda dos eleitores, critério abolido pelo Código de 1932"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Código Eleitoral de 1932 representou avanço significativo ao estender o direito de voto às mulheres e instituir o voto secreto, medidas que buscavam ampliar a participação política e reduzir fraudes eleitorais características da República Velha.",
@@ -950,9 +950,9 @@
                          "texto_apoio":  "Na década de 1930, o Brasil viu surgir movimentos políticos de massa em disputa, entre eles um de inspiração nacionalista e autoritária, liderado por Plínio Salgado.",
                          "enunciado":  "A Ação Integralista Brasileira caracterizava-se por:",
                          "alternativas":  {
-                                              "a":  "Defender o internacionalismo socialista e a revolução proletária mundial",
-                                              "b":  "O apoio irrestrito à democracia liberal e ao parlamentarismo pluripartidário",
-                                              "c":  "A defesa da ampliação irrestrita dos direitos trabalhistas conforme o modelo soviético",
+                                              "a":  "Defender o internacionalismo socialista e a revolução proletária mundial, programa associado à esquerda da Aliança Nacional Libertadora",
+                                              "b":  "O apoio irrestrito à democracia liberal e ao parlamentarismo pluripartidário, posição contrária ao autoritarismo do integralismo",
+                                              "c":  "A defesa da ampliação irrestrita dos direitos trabalhistas conforme o modelo soviético, associação inversa à orientação anticomunista do movimento",
                                               "d":  "Um nacionalismo autoritário, com elementos de inspiração fascista, hierarquia rígida e forte simbologia, como o uso de camisas verdes e saudações padronizadas"
                                           },
                          "resposta":  "d",
@@ -964,10 +964,10 @@
                          "texto_apoio":  "Em contraposição ao integralismo, setores de esquerda organizaram a Aliança Nacional Libertadora, que teve entre seus líderes Luís Carlos Prestes.",
                          "enunciado":  "Sobre a Intentona Comunista de 1935 e seus desdobramentos, analise as afirmativas: I. A derrota do levante foi utilizada pelo governo Vargas para intensificar a repressão a opositores políticos. II. O episódio foi mobilizado como argumento para justificar o golpe que instauraria o Estado Novo em 1937. III. A tentativa de levante resultou no reconhecimento oficial do Partido Comunista como legenda partidária legal. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II, apenas",
-                                              "b":  "III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I e II, apenas"
+                                              "a":  "Apenas a afirmativa II estÃ¡ correta",
+                                              "b":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "c":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "d":  "Apenas as afirmativas I e II estÃ£o corretas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A derrota do levante de 1935 foi usada para intensificar a repressão política (I correta) e pavimentar o caminho para o golpe de 1937 (II correta); o Partido Comunista, ao contrário do afirmado em III, permaneceu na ilegalidade e sob forte perseguição nos anos seguintes.",
@@ -978,10 +978,10 @@
                          "texto_apoio":  "Embora governado por um regime autoritário, o Brasil integrou os Aliados na Segunda Guerra Mundial, enviando tropas para combater na Itália.",
                          "enunciado":  "O envio da Força Expedicionária Brasileira (FEB) para lutar ao lado das democracias aliadas, ainda sob o Estado Novo, é apontado por historiadores como um fator que:",
                          "alternativas":  {
-                                              "a":  "Resultou na anexação de territórios italianos pelo governo brasileiro",
-                                              "b":  "Gerou uma contradição interna crescente entre combater o autoritarismo no exterior e viver sob um regime ditatorial no Brasil, contribuindo para pressões pela redemocratização",
-                                              "c":  "Fortaleceu definitivamente o regime autoritário de Getúlio Vargas perante a população",
-                                              "d":  "Impediu qualquer participação brasileira nos debates internacionais do pós-guerra"
+                                              "a":  "Resultou na anexação de territórios italianos pelo governo brasileiro, desfecho que jamais ocorreu com a participação da FEB na Itália",
+                                              "b":  "Gerou uma contradição entre combater o autoritarismo no exterior e viver sob ditadura no Brasil, alimentando pressões pela redemocratização",
+                                              "c":  "Fortaleceu definitivamente o regime autoritário de Getúlio Vargas perante a população, o oposto do que de fato ocorreu",
+                                              "d":  "Impediu qualquer participação brasileira nos debates internacionais do pós-guerra, o que a atuação da FEB de fato não impediu"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O paradoxo de soldados brasileiros combaterem regimes fascistas na Europa em nome da democracia, enquanto viviam sob a ditadura do Estado Novo, é apontado como fator que fortaleceu o discurso pela redemocratização do país nos anos seguintes, culminando na queda de Vargas em 1945.",
@@ -993,9 +993,9 @@
                          "enunciado":  "Esse movimento, conhecido como queremismo, contribuiu para um paradoxo político da época, no qual:",
                          "alternativas":  {
                                               "a":  "Um líder identificado com o autoritarismo do Estado Novo passou a contar também com apoio popular em nome da redemocratização do país",
-                                              "b":  "Os militares se uniram de forma unânime para manter Vargas no poder de forma indefinida",
-                                              "c":  "A esquerda brasileira se opôs integralmente a qualquer participação de Vargas na vida política nacional",
-                                              "d":  "As eleições presidenciais de 1945 foram canceladas em definitivo"
+                                              "b":  "Os militares se uniram para manter Vargas no poder de forma indefinida, quando foram eles que o depuseram meses depois",
+                                              "c":  "A esquerda brasileira se opôs integralmente a qualquer participação de Vargas na vida política, o oposto de sua base queremista",
+                                              "d":  "As eleições presidenciais de 1945 foram canceladas em definitivo, quando na verdade ocorreram normalmente, com a deposição de Vargas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O queremismo revela o paradoxo pelo qual Vargas, símbolo do autoritarismo do Estado Novo, conseguiu mobilizar apoio popular em nome da continuidade de seu governo, ainda que em um contexto de pressão crescente por eleições livres, até ser deposto pelos militares meses depois.",
@@ -1006,10 +1006,10 @@
                          "texto_apoio":  "Após a queda do Estado Novo, uma nova Assembleia Constituinte elaborou a Constituição promulgada em 1946.",
                          "enunciado":  "Essa Constituição caracterizou-se por:",
                          "alternativas":  {
-                                              "a":  "Manter os poderes excepcionais concedidos ao Executivo durante o Estado Novo",
-                                              "b":  "Extinguir o Poder Legislativo como instância de representação política",
-                                              "c":  "Restabelecer o Estado democrático de Direito, com eleições diretas, separação de poderes e ampliação de garantias individuais, encerrando o período mais autoritário da era Vargas",
-                                              "d":  "Reinstituir a monarquia constitucional no território brasileiro"
+                                              "a":  "Manter os poderes excepcionais concedidos ao Executivo durante o Estado Novo, o oposto do processo de redemocratização consagrado pela nova Carta",
+                                              "b":  "Extinguir o Poder Legislativo como instância de representação política, medida inversa ao restabelecimento pleno do Congresso em 1946",
+                                              "c":  "Restabelecer o Estado democrático de Direito, com eleições diretas e ampliação de garantias individuais, encerrando o Estado Novo",
+                                              "d":  "Reinstituir a monarquia constitucional no território brasileiro, regime encerrado em 1889 com a Proclamação da República"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Constituição de 1946 restabeleceu o Estado democrático de Direito, prevendo eleições diretas, separação de poderes e ampliação de direitos individuais e sociais, encerrando formalmente a fase mais autoritária representada pelo Estado Novo (1937-1945).",
@@ -1020,10 +1020,10 @@
                          "texto_apoio":  "Em agosto de 1954, em meio a uma grave crise política, o presidente Getúlio Vargas suicidou-se no Palácio do Catete.",
                          "enunciado":  "A crise que antecedeu o suicídio de Vargas envolveu, entre outros fatores:",
                          "alternativas":  {
-                                              "a":  "Forte pressão de setores militares e da oposição, agravada por um atentado contra um jornalista opositor que envolveu a guarda pessoal do presidente",
-                                              "b":  "Unanimidade política em torno do governo, sem qualquer oposição relevante à sua administração",
-                                              "c":  "Uma crise causada exclusivamente por fatores externos, sem qualquer relação com a política interna do país",
-                                              "d":  "A derrota militar do Brasil em um conflito internacional recente"
+                                              "a":  "Forte pressão de setores militares e da oposição, agravada por um atentado envolvendo a guarda pessoal do presidente",
+                                              "b":  "Unanimidade política em torno do governo, sem qualquer oposição relevante à sua administração, quadro distante da forte polarização do período",
+                                              "c":  "Uma crise causada exclusivamente por fatores externos, sem qualquer relação com a política interna, o que os fatos desmentem",
+                                              "d":  "A derrota militar do Brasil em um conflito internacional recente, hipótese sem relação com a crise que antecedeu o suicídio de Vargas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crise de 1954 combinou forte pressão de militares e de oposicionistas, agravada pela repercussão de um atentado contra o jornalista Carlos Lacerda, que envolveu a guarda pessoal do presidente, levando Vargas a se suicidar deixando uma carta-testamento de forte impacto político.",
@@ -1034,10 +1034,10 @@
                          "texto_apoio":  "Eleito em 1960 com discurso de moralização da política, Jânio Quadros renunciou à Presidência da República após menos de sete meses de governo, em agosto de 1961.",
                          "enunciado":  "A renúncia de Jânio Quadros, cujas motivações ainda são debatidas por historiadores, desencadeou uma grave crise política porque:",
                          "alternativas":  {
-                                              "a":  "O Brasil ficou sem qualquer sucessor previsto na Constituição então vigente",
+                                              "a":  "O Brasil ficou sem qualquer sucessor previsto na Constituição então vigente, quando a linha sucessória do vice-presidente estava definida",
                                               "b":  "O vice-presidente, João Goulart, era mal visto por setores militares e conservadores, que tentaram impedir sua posse na Presidência",
-                                              "c":  "Resultou na imediata instauração de uma ditadura militar no país",
-                                              "d":  "Provocou o fechamento definitivo do Congresso Nacional pelo próprio Jânio"
+                                              "c":  "Resultou na imediata instauração de uma ditadura militar no país, ruptura que só ocorreria três anos depois, em 1964",
+                                              "d":  "Provocou o fechamento definitivo do Congresso Nacional pelo próprio Jânio, medida que ele não chegou a tomar antes de renunciar"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A renúncia de Jânio Quadros abriu uma crise sucessória, pois o vice-presidente João Goulart, associado a posições nacionalistas e trabalhistas, era visto com desconfiança por setores militares e conservadores, que tentaram, sem sucesso, impedir sua posse na Presidência.",
@@ -1048,10 +1048,10 @@
                          "texto_apoio":  "Diante da resistência de setores militares à posse de João Goulart em 1961, o governador do Rio Grande do Sul, Leonel Brizola, liderou um movimento de resistência civil e militar em defesa da Constituição.",
                          "enunciado":  "Esse movimento, conhecido como Campanha da Legalidade, resultou em uma solução de compromisso pela qual:",
                          "alternativas":  {
-                                              "a":  "O Brasil adotou de imediato um regime presidencialista sem qualquer restrição aos poderes do presidente",
-                                              "b":  "O Congresso Nacional foi fechado por tempo indeterminado como condição para a posse de Goulart",
-                                              "c":  "Goulart tomou posse, mas sob um regime parlamentarista que reduzia os poderes presidenciais, posteriormente revertido por plebiscito popular em 1963",
-                                              "d":  "Goulart foi definitivamente impedido de assumir a Presidência da República"
+                                              "a":  "O Brasil adotou de imediato um regime presidencialista sem qualquer restrição aos poderes do presidente, o que não ocorreu de imediato",
+                                              "b":  "O Congresso Nacional foi fechado por tempo indeterminado como condição para a posse de Goulart, medida que a Campanha da Legalidade rejeitava",
+                                              "c":  "Goulart tomou posse sob regime parlamentarista que reduzia seus poderes, revertido por plebiscito popular em 1963",
+                                              "d":  "Goulart foi definitivamente impedido de assumir a Presidência da República, desfecho evitado pela solução parlamentarista adotada"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Como solução de compromisso diante da resistência militar, Goulart tomou posse sob um regime parlamentarista que limitava seus poderes presidenciais, arranjo que vigorou até ser revertido por plebiscito popular em janeiro de 1963, restabelecendo o presidencialismo pleno.",
@@ -1062,10 +1062,10 @@
                          "texto_apoio":  "No início dos anos 1960, o governo João Goulart defendia um conjunto de mudanças estruturais na sociedade brasileira.",
                          "enunciado":  "Sobre as reformas de base propostas pelo governo João Goulart, analise as afirmativas: I. Incluíam propostas como a reforma agrária, a reforma urbana e mudanças na legislação eleitoral e tributária. II. Foram vistas por setores conservadores e militares como ameaça à ordem social e econômica vigente, contribuindo para o clima que resultou no golpe de 1964. III. Previam a privatização de todas as empresas estatais e a redução do papel do Estado na economia. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "a":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As reformas de base incluíam reforma agrária, urbana e mudanças eleitorais e tributárias (I correta), vistas por conservadores como ameaça à ordem vigente (II correta); ao contrário do afirmado em III, as reformas propunham maior intervenção do Estado, não privatizações.",
@@ -1076,10 +1076,10 @@
                          "texto_apoio":  "Entre 1969 e 1973, durante o regime militar, a economia brasileira registrou altas taxas de crescimento, período conhecido como milagre econômico.",
                          "enunciado":  "Sobre o chamado milagre econômico (1969-1973), analise as afirmativas: I. O crescimento acelerado foi sustentado por forte endividamento externo e investimentos em infraestrutura. II. O período de maior crescimento coincidiu com a fase mais repressiva da ditadura militar, após o AI-5, e com o aumento da concentração de renda. III. O crescimento veio acompanhado de uma distribuição de renda mais equitativa entre a população brasileira. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I, apenas"
+                                              "a":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa I estÃ¡ correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O milagre econômico se apoiou em endividamento externo e investimentos em infraestrutura (I correta), coincidindo com a fase mais repressiva do regime e com maior concentração de renda (II correta); ao contrário do afirmado em III, o período aprofundou, e não reduziu, as desigualdades de renda.",
@@ -1090,10 +1090,10 @@
                          "texto_apoio":  "No final da década de 1970, a região do ABC paulista foi palco de grandes greves operárias, sobretudo no setor metalúrgico.",
                          "enunciado":  "Esse movimento grevista, que teve entre suas lideranças Luiz Inácio Lula da Silva, é considerado relevante porque:",
                          "alternativas":  {
-                                              "a":  "Foi organizado diretamente pelo governo militar como instrumento de propaganda oficial",
-                                              "b":  "Não teve qualquer relação com o processo de redemocratização do país",
-                                              "c":  "Ocorreu no auge da repressão do AI-5, sem qualquer risco para seus organizadores",
-                                              "d":  "Representou a retomada da mobilização sindical independente em meio à abertura política, contribuindo posteriormente para a fundação de novos partidos e centrais sindicais"
+                                              "a":  "Foi organizado diretamente pelo governo militar como instrumento de propaganda oficial, o oposto de sua origem autônoma",
+                                              "b":  "Não teve qualquer relação com o processo de redemocratização do país, quando na verdade impulsionou a organização sindical na abertura",
+                                              "c":  "Ocorreu no auge da repressão do AI-5, sem qualquer risco para seus organizadores, quando se deu já no contexto de abertura política gradual",
+                                              "d":  "Representou a retomada da mobilização sindical independente na abertura política, base para novos partidos e centrais sindicais"
                                           },
                          "resposta":  "d",
                          "explicacao":  "As greves do ABC paulista, no contexto de abertura política gradual, marcaram a retomada da mobilização sindical autônoma frente ao Estado, servindo de base para a organização posterior de novos partidos e centrais sindicais, como o PT e a CUT, já na transição democrática.",
@@ -1104,10 +1104,10 @@
                          "texto_apoio":  "Em 1979, o Congresso Nacional aprovou uma lei que concedia anistia a crimes políticos cometidos desde 1961.",
                          "enunciado":  "Sobre a Lei da Anistia de 1979, analise as afirmativas: I. A lei permitiu o retorno de exilados políticos e a libertação de presos políticos ao país. II. Setores do governo militar interpretaram a lei como anistia recíproca, alcançando também agentes estatais acusados de violações de direitos humanos, interpretação que permanece controversa. III. A lei foi aplicada exclusivamente a opositores do regime militar, sem qualquer benefício a agentes do próprio Estado. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "b":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "c":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "d":  "As afirmativas I, II e III estÃ£o corretas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Lei da Anistia permitiu o retorno de exilados e a libertação de presos políticos (I correta), mas foi interpretada por setores do regime como anistia recíproca, também beneficiando agentes estatais (II correta); essa interpretação contraria diretamente o afirmado em III, sendo tema de debate jurídico e político até hoje.",
@@ -1118,10 +1118,10 @@
                          "texto_apoio":  "Entre 1983 e 1984, o Brasil viveu uma das maiores mobilizações populares de sua história, reivindicando eleições diretas para presidente.",
                          "enunciado":  "Sobre a campanha das Diretas Já (1983-1984), analise as afirmativas: I. Apesar da forte mobilização popular, a emenda não obteve os votos necessários no Congresso Nacional em 1984. II. A derrota da emenda levou à eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em janeiro de 1985. III. A campanha resultou na aprovação imediata do voto direto para presidente ainda em 1984. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Apesar da mobilização popular, a emenda das Diretas Já não obteve os votos necessários no Congresso em 1984 (I correta), levando à eleição indireta de Tancredo Neves em 1985 (II correta); o voto direto para presidente só seria restabelecido para a eleição seguinte, e não imediatamente em 1984 (III incorreta).",
@@ -1133,9 +1133,9 @@
                          "enunciado":  "O surgimento da CUT está associado a:",
                          "alternativas":  {
                                               "a":  "O novo sindicalismo surgido no final dos anos 1970, com maior autonomia frente ao Estado e disposição para greves e negociação direta com patrões",
-                                              "b":  "Uma iniciativa promovida exclusivamente pelo empresariado industrial paulista",
+                                              "b":  "Uma iniciativa promovida exclusivamente pelo empresariado industrial paulista, classe que historicamente se opôs à organização sindical",
                                               "c":  "Um movimento de sindicalismo oficial, plenamente subordinado ao Estado, nos moldes do modelo corporativista da era Vargas",
-                                              "d":  "A extinção de todos os demais sindicatos existentes no país até então"
+                                              "d":  "A extinção de todos os demais sindicatos existentes no país até então, medida que a CUT, na prática, jamais promoveu ou defendeu"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A CUT nasceu do chamado novo sindicalismo, surgido nas greves do final dos anos 1970 e caracterizado por maior autonomia frente ao Estado e disposição para negociação direta e ação grevista, rompendo com o modelo sindical corporativista herdado da era Vargas.",
@@ -1147,9 +1147,9 @@
                          "enunciado":  "Entre as principais bandeiras desse movimento estavam:",
                          "alternativas":  {
                                               "a":  "O combate ao racismo institucional e à discriminação, e a valorização da cultura e da história afro-brasileira",
-                                              "b":  "A defesa da manutenção das desigualdades raciais como fenômeno natural e inevitável",
-                                              "c":  "O apoio explícito à manutenção do regime militar então vigente no país",
-                                              "d":  "A oposição a qualquer forma de política de ação afirmativa"
+                                              "b":  "A defesa da manutenção das desigualdades raciais como fenômeno natural, tese sempre combatida pelo MNU",
+                                              "c":  "O apoio explícito à manutenção do regime militar então vigente no país, postura incompatível com o caráter contestador do MNU",
+                                              "d":  "A oposição a qualquer forma de política de ação afirmativa, posição contrária ao apoio do MNU às cotas raciais"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Movimento Negro Unificado, criado em 1978, mobilizou-se contra o racismo institucional e a discriminação racial, denunciando o chamado mito da democracia racial e defendendo a valorização da cultura e da história afro-brasileira, com influência posterior sobre políticas públicas de igualdade racial.",
@@ -1160,9 +1160,9 @@
                          "texto_apoio":  "Lançado em 1986, no governo José Sarney, o Plano Cruzado buscou combater a inflação por meio do congelamento de preços e da criação de uma nova moeda.",
                          "enunciado":  "Apesar da popularidade inicial, o Plano Cruzado:",
                          "alternativas":  {
-                                              "a":  "Eliminou definitivamente a inflação da economia brasileira nas décadas seguintes",
-                                              "b":  "Foi o primeiro plano de estabilização adotado no Brasil desde a Segunda Guerra Mundial",
-                                              "c":  "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade",
+                                              "a":  "Eliminou definitivamente a inflação da economia brasileira nas décadas seguintes, resultado que só o Plano Real alcançaria quase uma década depois",
+                                              "b":  "Foi o primeiro plano de estabilização adotado no Brasil desde a Segunda Guerra Mundial, quando sucedeu outras tentativas heterodoxas anteriores",
+                                              "c":  "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade, quando teve enorme popularidade inicial em 1986",
                                               "d":  "Fracassou no médio prazo, com o retorno da alta inflacionária, revelando a dificuldade de planos baseados em congelamentos sem ajuste fiscal estrutural"
                                           },
                          "resposta":  "d",
@@ -1175,9 +1175,9 @@
                          "enunciado":  "Esse mecanismo de participação, conhecido como emendas populares, é apontado como evidência de que a Constituinte de 1987-88:",
                          "alternativas":  {
                                               "a":  "Combinou a atuação de parlamentares eleitos com canais de participação social direta, refletindo o clima de mobilização da redemocratização",
-                                              "b":  "Resultou em uma Constituição outorgada, sem qualquer votação parlamentar",
-                                              "c":  "Foi um processo fechado, sem qualquer participação da sociedade civil organizada",
-                                              "d":  "Foi conduzida exclusivamente pelos militares que ainda deixavam o poder"
+                                              "b":  "Resultou em uma Constituição outorgada, sem qualquer votação parlamentar, característica oposta ao processo democrático da Constituinte",
+                                              "c":  "Foi um processo fechado, sem qualquer participação da sociedade civil organizada, o oposto do que as emendas populares de fato permitiram",
+                                              "d":  "Foi conduzida exclusivamente pelos militares que ainda deixavam o poder, quando coube a parlamentares eleitos e à sociedade civil"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao permitir emendas populares apresentadas mediante assinaturas de eleitores, a Constituinte de 1987-88 combinou a representação parlamentar tradicional com canais diretos de participação da sociedade civil, refletindo o intenso clima de mobilização social que marcou a redemocratização.",
@@ -1188,10 +1188,10 @@
                          "texto_apoio":  "Em 1992, Fernando Collor de Mello, primeiro presidente eleito por voto direto após a redemocratização, renunciou ao cargo em meio a um processo de impeachment por denúncias de corrupção.",
                          "enunciado":  "Sobre o processo de impeachment de Fernando Collor, analise as afirmativas: I. O processo foi conduzido com base nos mecanismos constitucionais previstos pela Constituição de 1988. II. A mobilização popular, como o movimento dos \u0027caras-pintadas\u0027, teve papel relevante na pressão pelo impeachment. III. O episódio revelou a fragilidade das instituições democráticas recém-restabelecidas, que não resistiram à crise política. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "a":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "d":  "Apenas as afirmativas I e II estÃ£o corretas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O impeachment de Collor seguiu os mecanismos constitucionais de 1988 (I correta) e contou com forte mobilização popular, como os \u0027caras-pintadas\u0027 (II correta); ao contrário do afirmado em III, o episódio demonstrou justamente a capacidade das instituições democráticas de processar a crise sem ruptura institucional.",
@@ -1202,10 +1202,10 @@
                          "texto_apoio":  "Ao longo da década de 1990, o governo federal promoveu a venda de diversas empresas estatais a grupos privados, no âmbito do Plano Nacional de Desestatização.",
                          "enunciado":  "Entre os argumentos utilizados para justificar essas privatizações estava:",
                          "alternativas":  {
-                                              "a":  "A proibição constitucional de qualquer existência de empresa estatal no Brasil",
-                                              "b":  "A ausência completa de debate público em torno do tema durante a década de 1990",
-                                              "c":  "A necessidade de o Estado ampliar seu controle direto sobre setores considerados estratégicos da economia",
-                                              "d":  "A busca por reduzir o endividamento público e transferir a gestão de setores considerados ineficientes sob controle estatal para a iniciativa privada"
+                                              "a":  "A proibição constitucional de qualquer existência de empresa estatal no Brasil, regra inexistente na Constituição de 1988",
+                                              "b":  "A ausência completa de debate público em torno do tema durante a década de 1990, quando as privatizações geraram intensa controvérsia",
+                                              "c":  "A necessidade de o Estado ampliar seu controle direto sobre setores estratégicos, o oposto do objetivo real das privatizações",
+                                              "d":  "A busca por reduzir o endividamento público e transferir a gestão de setores ineficientes à iniciativa privada"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Plano Nacional de Desestatização foi justificado, entre outros argumentos, pela necessidade de reduzir o endividamento público e transferir à iniciativa privada a gestão de setores considerados ineficientes sob controle estatal, em um contexto internacional de reformas liberalizantes.",
@@ -1216,10 +1216,10 @@
                          "texto_apoio":  "Aprovado em 1990, o Estatuto da Criança e do Adolescente regulamentou os direitos previstos na Constituição de 1988 para esse grupo.",
                          "enunciado":  "O ECA representou uma mudança de paradigma em relação à legislação anterior, sobretudo ao:",
                          "alternativas":  {
-                                              "a":  "Manter crianças e adolescentes como meros objetos de tutela do Estado, sem direitos próprios reconhecidos",
-                                              "b":  "Restringir o acesso de crianças de famílias pobres à educação básica gratuita",
+                                              "a":  "Manter crianças e adolescentes como meros objetos de tutela do Estado, sem direitos próprios, doutrina superada pelo ECA",
+                                              "b":  "Restringir o acesso de crianças de famílias pobres à educação básica gratuita, medida contrária à prioridade absoluta consagrada pelo ECA",
                                               "c":  "Consagrar a doutrina da proteção integral, reconhecendo crianças e adolescentes como sujeitos de direitos e prioridade absoluta",
-                                              "d":  "Eliminar qualquer distinção entre a responsabilidade penal de adultos e de adolescentes"
+                                              "d":  "Eliminar qualquer distinção entre a responsabilidade penal de adultos e adolescentes, distinção mantida nas medidas socioeducativas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O ECA rompeu com a antiga doutrina da situação irregular, que tratava crianças e adolescentes pobres como objetos de tutela e controle estatal, consagrando a doutrina da proteção integral, que os reconhece como sujeitos de direitos e prioridade absoluta nas políticas públicas.",
@@ -1230,10 +1230,10 @@
                          "texto_apoio":  "Desde a redemocratização, o movimento LGBT no Brasil ampliou sua organização e visibilidade, obtendo avanços por via judicial e, em menor medida, legislativa.",
                          "enunciado":  "Sobre o reconhecimento de direitos de casais do mesmo sexo no Brasil, analise as afirmativas: I. O reconhecimento da união estável e, posteriormente, do casamento civil entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do Supremo Tribunal Federal. II. A ausência de lei federal específica aprovada pelo Congresso Nacional sobre o tema evidencia o papel do Judiciário na garantia de direitos ainda não regulados pelo Legislativo. III. O Congresso Nacional aprovou, ainda nos anos 1990, lei específica reconhecendo o casamento entre pessoas do mesmo sexo. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, apenas"
+                                              "a":  "Apenas a afirmativa III estÃ¡ correta",
+                                              "b":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "c":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "d":  "Apenas a afirmativa I estÃ¡ correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O reconhecimento da união estável e do casamento entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do STF (I correta), evidenciando o papel do Judiciário diante da inércia do Legislativo (II correta); não houve, ao contrário do afirmado em III, lei federal específica aprovada pelo Congresso sobre o tema.",
@@ -1244,9 +1244,9 @@
                          "texto_apoio":  "A partir dos anos 2000, universidades públicas brasileiras passaram a adotar, de forma crescente, políticas de reserva de vagas para estudantes negros, indígenas e egressos de escolas públicas.",
                          "enunciado":  "Essas políticas, posteriormente consolidadas em lei federal, têm como principal justificativa:",
                          "alternativas":  {
-                                              "a":  "Reduzir o número total de vagas disponíveis nas universidades públicas brasileiras",
-                                              "b":  "Eliminar por completo qualquer processo seletivo nas universidades públicas do país",
-                                              "c":  "Restringir o acesso de estudantes egressos de escolas públicas ao ensino superior",
+                                              "a":  "Reduzir o número total de vagas disponíveis nas universidades públicas brasileiras, efeito oposto ao da ampliação de acesso buscada pelas cotas",
+                                              "b":  "Eliminar por completo qualquer processo seletivo nas universidades públicas do país, quando os processos seletivos foram mantidos",
+                                              "c":  "Restringir o acesso de estudantes egressos de escolas públicas ao ensino superior, grupo que a política de cotas buscou justamente incluir",
                                               "d":  "Compensar desigualdades históricas de acesso à educação, associadas ao legado da escravidão e a desigualdades socioeconômicas persistentes"
                                           },
                          "resposta":  "d",
@@ -1258,10 +1258,10 @@
                          "texto_apoio":  "Sancionada em 2006, a Lei Maria da Penha recebeu esse nome em homenagem a uma mulher que sofreu tentativas de homicídio por parte do próprio marido.",
                          "enunciado":  "Essa lei representou um marco no combate à violência doméstica porque:",
                          "alternativas":  {
-                                              "a":  "Extinguiu qualquer forma de punição para agressores que atuassem em ambiente doméstico",
-                                              "b":  "Aplicava-se exclusivamente a casos de violência cometida entre pessoas desconhecidas entre si",
-                                              "c":  "Criou mecanismos específicos de proteção à mulher em situação de violência doméstica e familiar, antes tratada de forma mais branda pela legislação penal comum",
-                                              "d":  "Foi a primeira lei brasileira a tratar de violência de gênero, sem qualquer legislação anterior sobre o tema"
+                                              "a":  "Extinguiu qualquer forma de punição para agressores que atuassem em ambiente doméstico, o oposto do endurecimento penal que a lei promoveu",
+                                              "b":  "Aplicava-se exclusivamente a casos de violência cometida entre pessoas desconhecidas entre si, quando a lei trata do âmbito doméstico e familiar",
+                                              "c":  "Criou mecanismos específicos de proteção à mulher em violência doméstica e familiar, antes tratada de forma mais branda pela lei penal",
+                                              "d":  "Foi a primeira lei brasileira a tratar de violência de gênero, quando já havia legislação anterior sobre o tema"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Lei Maria da Penha criou mecanismos específicos de proteção às mulheres em situação de violência doméstica e familiar, como medidas protetivas de urgência, endurecendo o tratamento penal desse tipo de violência, antes frequentemente tratada de forma mais branda pela legislação comum.",
@@ -1272,10 +1272,10 @@
                          "texto_apoio":  "Criado em 2003 a partir da unificação de programas sociais anteriores, o Bolsa Família tornou-se um dos maiores programas de transferência condicionada de renda do mundo.",
                          "enunciado":  "Entre os efeitos mais discutidos por pesquisas sobre esse tipo de programa está:",
                          "alternativas":  {
-                                              "a":  "A substituição integral do sistema previdenciário brasileiro pelo programa",
-                                              "b":  "A redução da pobreza extrema e a melhoria de indicadores de frequência escolar e saúde infantil, associadas ao cumprimento das condicionalidades do programa",
-                                              "c":  "O aumento generalizado da informalidade no mercado de trabalho, sem qualquer impacto observável sobre a pobreza",
-                                              "d":  "A eliminação completa da desigualdade de renda no território brasileiro"
+                                              "a":  "A substituição integral do sistema previdenciário brasileiro pelo programa, função que o Bolsa Família nunca desempenhou na política social",
+                                              "b":  "A redução da pobreza extrema e melhoria de indicadores de frequência escolar e saúde infantil, ligadas às condicionalidades do programa",
+                                              "c":  "O aumento generalizado da informalidade no mercado de trabalho, sem impacto observável sobre a pobreza, o que contraria estudos sobre o programa",
+                                              "d":  "A eliminação completa da desigualdade de renda no território brasileiro, meta que pesquisas mostram não ter sido plenamente alcançada"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Estudos sobre o Bolsa Família apontam para a redução da pobreza extrema e melhorias em indicadores de frequência escolar e saúde infantil, associadas ao cumprimento das condicionalidades exigidas do programa, ainda que desigualdades estruturais mais amplas persistam no país.",
@@ -1286,10 +1286,10 @@
                          "texto_apoio":  "Em 2003, uma lei federal tornou obrigatório o ensino de história e cultura afro-brasileira e africana nas escolas de ensino fundamental e médio do país.",
                          "enunciado":  "Essa medida buscou responder, sobretudo, a:",
                          "alternativas":  {
-                                              "a":  "Reivindicações históricas do movimento negro por reconhecimento da contribuição africana e afro-brasileira na formação da sociedade e da cultura nacionais",
-                                              "b":  "Uma demanda de setores do empresariado por maior qualificação técnica dos estudantes brasileiros",
-                                              "c":  "Uma exigência formal de organismos internacionais de comércio para acesso a novos mercados",
-                                              "d":  "A necessidade de reduzir a carga horária de disciplinas da área de exatas nas escolas"
+                                              "a":  "Reivindicações históricas do movimento negro por reconhecimento da contribuição africana na formação da sociedade nacional",
+                                              "b":  "Uma demanda de setores do empresariado por maior qualificação técnica, motivação alheia às origens da Lei 10.639",
+                                              "c":  "Uma exigência formal de organismos internacionais de comércio para acesso a novos mercados, motivação alheia às origens ligadas ao movimento negro",
+                                              "d":  "A necessidade de reduzir a carga horária de disciplinas da área de exatas nas escolas, justificativa estranha ao propósito da Lei 10.639"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Lei 10.639/2003 respondeu a reivindicações históricas do movimento negro brasileiro por reconhecimento da contribuição africana e afro-brasileira na formação social e cultural do país, buscando combater o apagamento dessa história nos currículos escolares tradicionais.",
@@ -1300,10 +1300,10 @@
                          "texto_apoio":  "A partir de 2014, uma ampla investigação sobre desvio de recursos públicos e corrupção envolvendo estatais e empreiteiras ganhou grande repercussão nacional, resultando em prisões e condenações de agentes públicos e privados.",
                          "enunciado":  "Sobre operações de combate à corrupção conduzidas a partir de 2014, analise as afirmativas: I. Evidenciam o funcionamento de instituições de investigação e controle fortalecidas pela Constituição de 1988, como o Ministério Público e a Polícia Federal. II. Seus métodos e desdobramentos políticos e jurídicos geraram intenso debate público, inclusive sobre limites de atuação do Judiciário e do Ministério Público. III. Representam a criação, pela primeira vez na história republicana, de mecanismos de combate à corrupção no país. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "As afirmativas I, II e III estÃ£o corretas",
+                                              "b":  "Apenas as afirmativas I e II estÃ£o corretas",
+                                              "c":  "Apenas a afirmativa I estÃ¡ correta",
+                                              "d":  "Apenas a afirmativa III estÃ¡ correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As operações evidenciam instituições fortalecidas pela Constituição de 1988 (I correta), com métodos e desdobramentos que geraram intenso debate público (II correta); ao contrário do afirmado em III, mecanismos de combate à corrupção já existiam antes, ainda que menos eficazes.",
@@ -1314,10 +1314,10 @@
                          "texto_apoio":  "Em 2017, o Congresso Nacional aprovou uma ampla reforma na Consolidação das Leis do Trabalho (CLT), alterando regras sobre negociação, jornada e formas de contratação.",
                          "enunciado":  "Um dos principais eixos dessa reforma foi:",
                          "alternativas":  {
-                                              "a":  "A extinção completa da CLT e de qualquer legislação trabalhista de âmbito federal",
+                                              "a":  "A extinção completa da CLT e de qualquer legislação trabalhista de âmbito federal, medida que a reforma de 2017, na verdade, não promoveu",
                                               "b":  "A ampliação da prevalência de acordos coletivos negociados entre patrões e trabalhadores sobre determinados pontos da legislação, o chamado negociado sobre o legislado",
-                                              "c":  "A proibição de qualquer forma de contrato de trabalho em regime de tempo parcial",
-                                              "d":  "A extinção da Justiça do Trabalho como ramo do Poder Judiciário"
+                                              "c":  "A proibição de qualquer forma de contrato de trabalho em regime de tempo parcial, modalidade que a reforma, ao contrário, ampliou",
+                                              "d":  "A extinção da Justiça do Trabalho como ramo do Poder Judiciário, órgão que permaneceu em funcionamento normal após a reforma de 2017"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A reforma trabalhista de 2017 ampliou a prevalência do negociado sobre o legislado em diversos pontos, permitindo que acordos e convenções coletivas entre trabalhadores e empregadores prevalecessem sobre certas disposições da CLT, além de criar novas modalidades de contratação, como o trabalho intermitente.",
@@ -1328,10 +1328,10 @@
                          "texto_apoio":  "Aprovada em 2016, uma emenda constitucional instituiu um novo regime fiscal que limitava o crescimento das despesas públicas federais à variação da inflação do ano anterior.",
                          "enunciado":  "Essa regra, conhecida como teto de gastos, teve como principal justificativa declarada:",
                          "alternativas":  {
-                                              "a":  "Permitir o crescimento ilimitado das despesas públicas federais nos anos seguintes",
+                                              "a":  "Permitir o crescimento ilimitado das despesas públicas federais nos anos seguintes, efeito oposto ao objetivo de contenção fiscal do teto de gastos",
                                               "b":  "Conter a trajetória de crescimento da dívida pública e sinalizar compromisso fiscal de longo prazo aos investidores e à sociedade",
-                                              "c":  "Transferir toda a competência sobre o orçamento federal para estados e municípios",
-                                              "d":  "Eliminar a necessidade de aprovação anual do orçamento pelo Congresso Nacional"
+                                              "c":  "Transferir toda a competência sobre o orçamento federal para estados e municípios, mudança institucional que o teto de gastos não promoveu",
+                                              "d":  "Eliminar a necessidade de aprovação anual do orçamento pelo Congresso Nacional, rito orçamentário que o teto de gastos, na verdade, preservou"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O chamado teto de gastos foi justificado como mecanismo para conter a trajetória de crescimento da dívida pública federal, limitando o aumento das despesas à inflação do ano anterior e buscando sinalizar compromisso fiscal de longo prazo aos investidores e à sociedade em geral.",
@@ -1342,10 +1342,10 @@
                          "texto_apoio":  "Durante a pandemia de Covid-19, iniciada em 2020, houve debates sobre a competência de estados, municípios e da União para adotar medidas sanitárias como o isolamento social.",
                          "enunciado":  "O Supremo Tribunal Federal, ao decidir sobre esse tema, reconheceu que:",
                          "alternativas":  {
-                                              "a":  "Estados e municípios possuíam competência concorrente para adotar medidas sanitárias locais, mesmo em pontos que divergissem de diretrizes do governo federal",
-                                              "b":  "Apenas a União poderia legislar sobre medidas sanitárias durante todo o período da pandemia",
-                                              "c":  "Nenhum ente federativo poderia restringir a circulação de pessoas em qualquer hipótese, mesmo sanitária",
-                                              "d":  "A competência sobre medidas sanitárias seria exclusiva do Poder Judiciário"
+                                              "a":  "Estados e municípios possuíam competência concorrente para medidas sanitárias locais, mesmo divergindo do governo federal",
+                                              "b":  "Apenas a União poderia legislar sobre medidas sanitárias durante todo o período da pandemia, tese rejeitada pelo STF em favor da competência concorrente",
+                                              "c":  "Nenhum ente federativo poderia restringir a circulação de pessoas em qualquer hipótese, nem mesmo por motivo sanitário",
+                                              "d":  "A competência sobre medidas sanitárias seria exclusiva do Poder Judiciário, atribuição que a Constituição de 1988 não confere ao Judiciário"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O STF reconheceu, no contexto da pandemia de Covid-19, a competência concorrente de estados e municípios para adotar medidas sanitárias adequadas à sua realidade local, mesmo quando divergentes de orientações do governo federal, com base no pacto federativo previsto na Constituição de 1988.",
@@ -1356,10 +1356,10 @@
                          "texto_apoio":  "A Constituição de 1988 reconheceu aos povos indígenas o direito originário sobre as terras que tradicionalmente ocupam, cabendo à União demarcá-las.",
                          "enunciado":  "A tese do chamado marco temporal, discutida nos tribunais brasileiros nas últimas décadas, propõe que:",
                          "alternativas":  {
-                                              "a":  "Todas as terras indígenas devem ser imediatamente demarcadas, independentemente de qualquer critério temporal de ocupação",
-                                              "b":  "Os povos indígenas só teriam direito a terras que estivessem sob sua posse no momento da promulgação da Constituição de 1988, tese contestada por indígenas e por parte da doutrina jurídica",
-                                              "c":  "Os direitos territoriais dos povos indígenas foram completamente extintos pela Constituição de 1988",
-                                              "d":  "Apenas terras localizadas na região amazônica podem ser reconhecidas como território indígena"
+                                              "a":  "Todas as terras indígenas devem ser imediatamente demarcadas, sem qualquer critério temporal de ocupação, o que a tese rejeita",
+                                              "b":  "Os povos indígenas só teriam direito a terras sob sua posse na promulgação da Constituição de 1988, tese contestada por indígenas",
+                                              "c":  "Os direitos territoriais dos povos indígenas foram completamente extintos pela Constituição de 1988, quando o texto os reconheceu expressamente",
+                                              "d":  "Apenas terras localizadas na região amazônica podem ser reconhecidas como território indígena, restrição geográfica inexistente no texto constitucional"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A tese do marco temporal sustenta que os povos indígenas teriam direito apenas a terras que ocupavam ou disputavam judicialmente em 5 de outubro de 1988, data da promulgação da Constituição, interpretação questionada por indígenas e parte da doutrina, que argumentam que muitos povos haviam sido expulsos de seus territórios antes dessa data por violência ou remoções forçadas.",

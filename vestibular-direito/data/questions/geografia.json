@@ -46,9 +46,9 @@
                          "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado possui proteção jurídica internacional específica por não poder retornar ao seu país devido a fundado temor de perseguição ou violência.\nII. O migrante econômico se desloca voluntariamente em busca de melhores oportunidades, sem o mesmo amparo jurídico internacional automático do refugiado.\nIII. Essa distinção jurídica deixou de ser aplicada pelos países-membros da ONU depois da crise migratória síria de 2015, que unificou o tratamento das duas categorias.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "III, apenas",
-                                              "d":  "II, apenas"
+                                              "b":  "I, II e III, sem exceção",
+                                              "c":  "Unicamente a III",
+                                              "d":  "Exclusivamente a II"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o status de refugiado, definido pela Convenção de 1951 da ONU, e sua diferença em relação ao migrante econômico. A afirmativa III é falsa: a distinção jurídica entre as categorias permanece vigente no direito internacional; a crise migratória síria intensificou o debate político sobre acolhimento, mas não unificou os regimes jurídicos das duas categorias."
@@ -71,10 +71,10 @@
                          "texto_apoio":  "O Oriente Médio concentra parte expressiva das reservas mundiais de petróleo, o que atraiu historicamente o interesse de potências externas à região.",
                          "enunciado":  "Considere as afirmativas sobre a relação entre reservas de petróleo e conflitos geopolíticos no Oriente Médio:\n\nI. A concentração de vastas reservas de petróleo tornou a região estrategicamente central para a economia mundial, atraindo interesses externos.\nII. Conflitos e tensões na região frequentemente se relacionam, entre outros fatores, ao controle desse recurso estratégico.\nIII. A relevância geopolítica do petróleo no Oriente Médio é um fenômeno recente, surgido apenas após a criação da União Europeia, em 1993.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "II, apenas",
+                                              "a":  "Unicamente a III",
+                                              "b":  "Exclusivamente a II",
                                               "c":  "I e II, apenas",
-                                              "d":  "I, II e III"
+                                              "d":  "I, II e III, sem exceção"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a centralidade estratégica do petróleo na geopolítica do Oriente Médio. A afirmativa III é falsa: essa relevância geopolítica remonta, ao menos, à primeira metade do século XX, sendo anterior e independente da criação da União Europeia, um bloco regional sem relação direta com esse processo."
@@ -201,9 +201,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "As migrações internas no Brasil ao longo do século XX, com destaque para o deslocamento de nordestinos rumo ao Sudeste, estiveram associadas principalmente a:",
                          "alternativas":  {
-                                              "a":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes",
+                                              "a":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes, fenômeno mais expressivo a partir dos anos 1990",
                                               "b":  "A busca por melhores condições climáticas, já que o Sudeste apresenta regime de chuvas mais regular do que todo o Nordeste",
-                                              "c":  "Um programa federal de assentamento que redirecionou trabalhadores rurais nordestinos para a fronteira agrícola amazônica",
+                                              "c":  "Um programa federal de assentamento que redirecionou trabalhadores rurais nordestinos para a fronteira agrícola amazônica, iniciativa conduzida principalmente durante o regime militar",
                                               "d":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste"
                                           },
                          "resposta":  "d",
@@ -448,7 +448,7 @@
                          "texto_apoio":  "A Câmara dos Deputados brasileira distribui suas 513 cadeiras entre os estados de forma proporcional à população, respeitando limites mínimo e máximo por unidade da federação.",
                          "enunciado":  "Esse critério de distribuição, estudado pela geografia eleitoral, resulta em:",
                          "alternativas":  {
-                                              "a":  "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara",
+                                              "a":  "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988",
                                               "b":  "Uma sub-representação relativa de estados populosos e uma super-representação relativa de estados menos populosos, dados os limites mínimo e máximo de cadeiras",
                                               "c":  "Uma vantagem sistemática para os estados do Sudeste, por concentrarem a maior parte das cadeiras mínimas garantidas a cada unidade",
                                               "d":  "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva"
@@ -546,7 +546,7 @@
                          "enunciado":  "Em regiões metropolitanas brasileiras, é comum que municípios periféricos funcionem como \u0027cidades-dormitório\u0027. Esse padrão de ocupação está associado a:",
                          "alternativas":  {
                                               "a":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos",
-                                              "b":  "Uma política de incentivo fiscal que atraiu indústrias de alta tecnologia para esses municípios periféricos, gerando empregos locais qualificados",
+                                              "b":  "Uma política de incentivo fiscal que atraiu indústrias de alta tecnologia para esses municípios periféricos, gerando empregos locais qualificados, padrão observado desde a década de 1990",
                                               "c":  "Uma concentração de sedes de grandes empresas nesses municípios, que atraem moradores de toda a região metropolitana em busca de emprego local",
                                               "d":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários"
                                           },
@@ -617,7 +617,7 @@
                          "alternativas":  {
                                               "a":  "Uma crise econômica generalizada no Sudeste que eliminou por completo as oportunidades de emprego industrial e urbano na região",
                                               "b":  "Uma política federal que exige a repatriação de trabalhadores nascidos no Nordeste após determinada idade, por lei específica",
-                                              "c":  "A escassez de infraestrutura de transporte entre as duas regiões, que passou a inviabilizar viagens de ida ao Sudeste desde os anos 2000",
+                                              "c":  "A escassez de infraestrutura de transporte entre as duas regiões, que passou a inviabilizar viagens de ida ao Sudeste desde os anos 2000, quadro agravado por cortes orçamentários",
                                               "d":  "Melhoria relativa da economia de estados nordestinos, expansão do turismo e do agronegócio irrigado na região, além do desejo de reaproximação com a terra natal"
                                           },
                          "resposta":  "d",
@@ -702,7 +702,7 @@
                                               "a":  "Uma reserva de mercado instituída por lei que impede a entrada de minério importado no comércio internacional",
                                               "b":  "A abundância e a qualidade das reservas brasileiras de minério de ferro, combinadas com investimentos em infraestrutura logística",
                                               "c":  "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
-                                              "d":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul"
+                                              "d":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul, firmado no âmbito do Mercosul em 1995"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Brasil possui extensas e ricas jazidas de minério de ferro, cuja exploração foi viabilizada por investimentos em infraestrutura logística, como ferrovias e portos especializados. A posição brasileira não decorre de reserva de mercado, do esgotamento das reservas australianas (que seguem entre as maiores do mundo) ou de qualquer acordo de exclusividade regional.",
@@ -839,10 +839,10 @@
                          "texto_apoio":  "Nos anos que antecederam o conflito entre Rússia e Ucrânia iniciado em 2022, diversos países europeus dependiam fortemente da importação de gás natural russo.",
                          "enunciado":  "Considere as afirmativas sobre essa dependência energética:\n\nI. Ela reduziu a capacidade da Europa de aplicar sanções econômicas mais duras à Rússia, já que uma ruptura no fornecimento de gás afetaria diretamente sua própria economia.\nII. Após 2022, países europeus intensificaram esforços para diversificar fontes de energia e reduzir a dependência do gás russo.\nIII. Essa dependência energética era compartilhada de forma idêntica por todos os países da União Europeia, sem qualquer variação entre eles.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
+                                              "a":  "Unicamente a III",
                                               "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I, apenas"
+                                              "c":  "I, II e III, sem exceção",
+                                              "d":  "Exclusivamente a I"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente como a dependência energética condicionou a resposta europeia à guerra e como o continente reagiu depois. A afirmativa III é falsa: a dependência do gás russo variava consideravelmente entre os países europeus, sendo mais acentuada em nações como a Alemanha do que em outras com matriz energética mais diversificada.",
@@ -938,7 +938,7 @@
                          "enunciado":  "O conceito de \u0027economia circular\u0027, cada vez mais discutido em políticas ambientais, propõe substituir o modelo linear tradicional de produção e consumo (extrair, produzir, descartar) por um modelo em que:",
                          "alternativas":  {
                                               "a":  "A produção de bens duráveis é substituída integralmente pela produção de bens descartáveis de uso único, sem retorno",
-                                              "b":  "A extração de recursos naturais passa a ser feita em ritmo acelerado, compensada apenas pelo aumento da reciclagem final",
+                                              "b":  "A extração de recursos naturais passa a ser feita em ritmo acelerado, compensada apenas pelo aumento da reciclagem final, modelo adotado por parte da indústria de mineração",
                                               "c":  "Materiais e produtos são reutilizados, reparados, remanufaturados e reciclados, prolongando seu ciclo de vida e reduzindo a extração de recursos",
                                               "d":  "O consumo é redirecionado exclusivamente para produtos importados, reduzindo a produção industrial doméstica do país"
                                           },
@@ -994,8 +994,8 @@
                          "enunciado":  "Cientistas climáticos alertam para o risco de a Amazônia atingir um \u0027ponto de não retorno\u0027 (tipping point), a partir do qual grande parte da floresta poderia se transformar irreversivelmente em um ecossistema semelhante a uma savana. Esse cenário está associado, sobretudo, a:",
                          "alternativas":  {
                                               "a":  "Um ciclo natural e cíclico de savanização que independe totalmente do nível de desmatamento e ocorre a cada poucos séculos",
-                                              "b":  "Uma mudança plenamente reversível em curto prazo, bastando a suspensão do desmatamento por um único ano",
-                                              "c":  "Um patamar de desmatamento e degradação florestal que comprometeria a capacidade da floresta de reciclar umidade suficiente para manter seu próprio regime de chuvas, criando um ciclo de autoperpetuação da degradação",
+                                              "b":  "Uma mudança plenamente reversível em curto prazo, bastando a suspensão do desmatamento por um único ano, desde que não haja novos focos na região",
+                                              "c":  "Um patamar de desmatamento e degradação florestal que comprometeria a capacidade da floresta de reciclar umidade suficiente para manter seu próprio regime de chuvas",
                                               "d":  "Um processo que afetaria exclusivamente a fauna da região, sem qualquer relação com o regime de chuvas ou a vegetação"
                                           },
                          "resposta":  "c",
@@ -1021,10 +1021,10 @@
                          "texto_apoio":  "Dados aproximados do Sistema Nacional de Informações sobre Saneamento (SNIS) indicam que, embora a cobertura de abastecimento de água tratada no Brasil ultrapasse 85% da população, a cobertura de coleta de esgoto é significativamente menor, ficando perto de 55% da população, com disparidades regionais ainda maiores.",
                          "enunciado":  "Considerando esses dados aproximados, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação",
-                                              "b":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação",
-                                              "c":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes, como a contaminação de rios e o aumento de doenças de veiculação hídrica",
-                                              "d":  "A cobertura de coleta de esgoto no Brasil é maior do que a de abastecimento de água tratada em todas as regiões do país"
+                                              "a":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação, sobretudo nos estados do Norte e Nordeste",
+                                              "b":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação, ainda que exijam fontes de financiamento distintas",
+                                              "c":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes",
+                                              "d":  "A cobertura de coleta de esgoto no Brasil é maior do que a de abastecimento de água tratada em todas as regiões do país, sobretudo nas regiões metropolitanas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os dados evidenciam uma defasagem histórica maior no saneamento de esgoto em comparação ao abastecimento de água tratada, contribuindo para contaminação de corpos d\u0027água e doenças de veiculação hídrica. A cobertura de esgoto é, na verdade, menor que a de água (não maior), há disparidades regionais expressivas (não distribuição idêntica), e as duas redes não avançam necessariamente no mesmo ritmo, já que exigem investimentos e tecnologias distintas.",
@@ -1035,10 +1035,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "O uso intensivo de agrotóxicos na agricultura brasileira, sobretudo em grandes monoculturas de exportação, é frequentemente apontado por ambientalistas e pesquisadores como um fator associado a:",
                          "alternativas":  {
-                                              "a":  "Um efeito restrito unicamente às plantações onde são diretamente aplicados, sem qualquer dispersão para solo ou água adjacentes",
+                                              "a":  "Um efeito restrito unicamente às plantações onde são diretamente aplicados, sem qualquer dispersão para solo ou água adjacentes, mesmo em áreas de cultivo irrigado",
                                               "b":  "Contaminação de solos, cursos d\u0027água e alimentos, além de riscos à saúde de trabalhadores rurais e de populações residentes próximas às áreas de cultivo",
-                                              "c":  "Uma melhoria automática da qualidade dos solos, já que compensam a perda de nutrientes causada pela monocultura",
-                                              "d":  "Uma redução comprovada e permanente da produtividade agrícola nas áreas onde são aplicados"
+                                              "c":  "Uma melhoria automática da qualidade dos solos, já que compensam a perda de nutrientes causada pela monocultura, conforme apontam alguns estudos do setor",
+                                              "d":  "Uma redução comprovada e permanente da produtividade agrícola nas áreas onde são aplicados, mesmo com o uso continuado por décadas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O uso intensivo de agrotóxicos é apontado como fator de risco para contaminação de solos e cursos d\u0027água, além de riscos à saúde de trabalhadores rurais e comunidades próximas. Esse uso está historicamente associado a ganhos, não redução, de produtividade no agronegócio; não melhora a qualidade do solo por si só; e seus efeitos podem se dispersar para além da área de aplicação direta, via solo e água.",
@@ -1049,10 +1049,10 @@
                          "texto_apoio":  "O Código Florestal brasileiro estabelece a exigência de manutenção de uma parcela de vegetação nativa em propriedades rurais, conhecida como Reserva Legal, cujo percentual mínimo varia conforme o bioma e a localização do imóvel.",
                          "enunciado":  "Esse instrumento tem como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte",
+                                              "a":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte, independentemente do bioma em que estejam situadas",
                                               "b":  "Aplicar exatamente o mesmo percentual mínimo de vegetação nativa em todos os biomas do país, independentemente da localização do imóvel",
-                                              "c":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União",
-                                              "d":  "Conciliar o uso produtivo da terra pelos proprietários rurais com a conservação de parte da vegetação nativa, buscando equilibrar produção agropecuária e proteção ambiental dentro das próprias propriedades"
+                                              "c":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União, medida prevista para áreas de preservação permanente",
+                                              "d":  "Conciliar o uso produtivo da terra pelos proprietários rurais com a conservação de parte da vegetação nativa, equilibrando produção agropecuária e proteção ambiental"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Reserva Legal exige a manutenção de vegetação nativa dentro das propriedades rurais, com percentuais que variam conforme o bioma, buscando conciliar produção com conservação. O percentual não é idêntico em todos os biomas (é maior na Amazônia Legal, por exemplo), a área de Reserva Legal permanece de propriedade do titular do imóvel, e o instrumento não veda a atividade agropecuária em grandes propriedades, apenas exige a reserva de parte da área.",
@@ -1078,9 +1078,9 @@
                          "enunciado":  "A centralidade do Porto de Santos na logística de exportação brasileira evidencia, sobretudo, um desafio estrutural da economia do país, relacionado a:",
                          "alternativas":  {
                                               "a":  "A exclusividade do Porto de Santos na exportação de produtos industrializados, sem qualquer participação de commodities agrícolas em sua movimentação",
-                                              "b":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras",
-                                              "c":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos",
-                                              "d":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos, especialmente para produtores localizados em regiões distantes do litoral, como o Centro-Oeste"
+                                              "b":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras, modelo distinto do observado em países como os EUA",
+                                              "c":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos, ainda que o Brasil tenha extenso litoral navegável",
+                                              "d":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos para produtores distantes do litoral"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A forte concentração do fluxo de exportação em poucos portos, como Santos, evidencia um desafio logístico: produtores distantes do litoral, como os do Centro-Oeste, enfrentam longos percursos até os portos, elevando custos. Santos não é exclusivo de industrializados (movimenta grande volume de commodities agrícolas), o fluxo logístico brasileiro está longe de equilibrado entre regiões, e existem outros portos relevantes, como os do Arco Norte.",
@@ -1091,9 +1091,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "Nas últimas décadas, tem crescido a utilização do chamado \u0027Arco Norte\u0027 — conjunto de portos localizados nas regiões Norte e Nordeste do Brasil (como Itaqui, Barcarena e Santarém) — para o escoamento da produção de soja do Centro-Oeste. Essa alternativa logística ganhou espaço, sobretudo, porque:",
                          "alternativas":  {
-                                              "a":  "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos",
-                                              "b":  "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos em comparação com o escoamento tradicional pelos portos do Sudeste",
-                                              "c":  "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste",
+                                              "a":  "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos",
+                                              "b":  "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos",
+                                              "c":  "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste, medida nunca efetivamente implementada",
                                               "d":  "Substituiu por completo o Porto de Santos, que deixou de operar com produtos do agronegócio a partir da consolidação do Arco Norte"
                                           },
                          "resposta":  "b",
@@ -1119,10 +1119,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A indústria automobilística brasileira, historicamente concentrada no ABC paulista, passou, nas últimas décadas, por um processo de desconcentração, com a instalação de novas montadoras em estados como Bahia, Paraná, Goiás e Minas Gerais. Esse movimento foi favorecido, entre outros fatores, por:",
                          "alternativas":  {
-                                              "a":  "O encerramento definitivo das atividades de todas as montadoras historicamente instaladas no ABC paulista",
+                                              "a":  "O encerramento definitivo das atividades de todas as montadoras historicamente instaladas no ABC paulista, decisão anunciada pelo setor em 2015",
                                               "b":  "Incentivos fiscais oferecidos por governos estaduais e municipais para atrair essas indústrias (a chamada guerra fiscal), além de custos menores de mão de obra e terrenos",
-                                              "c":  "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero",
-                                              "d":  "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados"
+                                              "c":  "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu por toda a década de 1990",
+                                              "d":  "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados, medida hipotética nunca prevista em lei"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A desconcentração da indústria automobilística foi impulsionada por incentivos fiscais (guerra fiscal) e por custos menores de mão de obra e terrenos fora do ABC paulista, que continua concentrando parcela relevante da produção. Não houve encerramento das montadoras paulistas, nem redistribuição compulsória por determinação federal, e a instalação em novos estados aproveitou, e não ignorou, a infraestrutura rodoviária já existente.",
@@ -1175,10 +1175,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "O conceito de \u0027agronegócio\u0027, usado pela geografia econômica, refere-se não apenas à produção agropecuária em si, mas também:",
                          "alternativas":  {
-                                              "a":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos (como fertilizantes e máquinas), processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários",
-                                              "b":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas",
-                                              "c":  "Unicamente ao segmento financeiro que negocia contratos futuros de commodities agrícolas em bolsas de valores",
-                                              "d":  "Apenas à exportação de produtos agrícolas in natura, sem qualquer etapa de processamento industrial"
+                                              "a":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários",
+                                              "b":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas, realidade que descreve apenas uma pequena parte do setor",
+                                              "c":  "Unicamente ao segmento financeiro que negocia contratos futuros de commodities agrícolas em bolsas de valores, conforme ocorre em algumas bolsas internacionais",
+                                              "d":  "Apenas à exportação de produtos agrícolas in natura, sem qualquer etapa de processamento industrial, prática típica de economias exportadoras de commodities"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O conceito de agronegócio abrange toda a cadeia produtiva relacionada à agropecuária, do fornecimento de insumos ao processamento, armazenamento, transporte e distribuição. Não se limita à exportação in natura sem processamento, não se restringe à agricultura familiar de subsistência, e vai muito além do segmento financeiro de contratos futuros, que é apenas uma faceta do setor.",
@@ -1190,9 +1190,9 @@
                          "enunciado":  "Esse sistema é apontado como uma alternativa relevante para a agropecuária brasileira porque:",
                          "alternativas":  {
                                               "a":  "Exige a abertura simultânea de três novas áreas de vegetação nativa, uma para cada atividade combinada",
-                                              "b":  "Permite aumentar a produtividade e a sustentabilidade do uso da terra já ocupada, reduzindo a necessidade de abertura de novas áreas de vegetação nativa para expansão da produção agropecuária",
-                                              "c":  "É aplicável apenas em propriedades com mais de mil hectares, sendo inviável para pequenos e médios produtores",
-                                              "d":  "Substitui integralmente a pecuária de corte por sistemas exclusivamente florestais em toda propriedade adotante"
+                                              "b":  "Permite aumentar a produtividade e a sustentabilidade do uso da terra já ocupada, reduzindo a necessidade de abertura de novas áreas de vegetação nativa",
+                                              "c":  "É aplicável apenas em propriedades com mais de mil hectares, sendo inviável para pequenos e médios produtores, situação distinta da realidade da maioria dos produtores",
+                                              "d":  "Substitui integralmente a pecuária de corte por sistemas exclusivamente florestais em toda propriedade adotante, alternativa cada vez mais rara no campo brasileiro"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao integrar lavoura, pecuária e floresta em uma mesma área, o ILPF busca recuperar pastagens degradadas e aumentar a produtividade do solo já ocupado, reduzindo a pressão por novas áreas de vegetação nativa. O sistema não exige abertura de novas áreas (ao contrário, recupera as já existentes), não é restrito a grandes propriedades, e não elimina a pecuária, apenas a integra a outras atividades.",
@@ -1231,10 +1231,10 @@
                          "texto_apoio":  "A pecuária de corte brasileira tem se caracterizado historicamente pelo predomínio do sistema extensivo, baseado em pastagens naturais ou plantadas, em contraste com o sistema intensivo (baseado em confinamento e maior uso de tecnologia).",
                          "enunciado":  "O predomínio histórico do sistema extensivo no Brasil está associado, entre outros fatores, a:",
                          "alternativas":  {
-                                              "a":  "Uma demanda internacional por carne bovina historicamente menor do que a demanda interna, o que reduziu o incentivo à intensificação",
+                                              "a":  "Uma demanda internacional por carne bovina historicamente menor do que a demanda interna, o que reduziu o incentivo à intensificação, cenário estável até os anos 2000",
                                               "b":  "A inexistência histórica de tecnologia de confinamento em qualquer país do mundo antes do século XXI",
                                               "c":  "Uma legislação federal que, até a década de 1990, proibia expressamente o sistema de confinamento no país",
-                                              "d":  "Disponibilidade histórica de grandes extensões de terra a custo relativamente baixo, o que tornou economicamente viável a criação de gado em áreas extensas com menor investimento tecnológico por hectare"
+                                              "d":  "Disponibilidade histórica de grandes extensões de terra a custo relativamente baixo, o que tornou economicamente viável a criação de gado em áreas extensas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A disponibilidade histórica de grandes extensões de terra a custo relativamente baixo tornou economicamente viável a criação extensiva de gado, com baixo investimento tecnológico por hectare. Não houve proibição legal do confinamento, a demanda externa por carne bovina brasileira é historicamente relevante (não menor que a interna a ponto de desestimular investimento), e o confinamento já era tecnologia conhecida internacionalmente bem antes do século XXI.",
@@ -1246,7 +1246,7 @@
                          "enunciado":  "A partir desses dados, é correto concluir que o principal fator explicativo do crescimento da produção de grãos no Brasil nesse período foi:",
                          "alternativas":  {
                                               "a":  "Principalmente o ganho de produtividade por hectare (mais grãos produzidos na mesma área), já que a produção cresceu proporcionalmente muito mais do que a área plantada",
-                                              "b":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada",
+                                              "b":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada, padrão repetido em todas as safras",
                                               "c":  "Um erro de medição do IBGE, já que produção e área plantada deveriam crescer sempre na mesma proporção",
                                               "d":  "Uma redução da área plantada, compensada por uma importação recorde de grãos nesse período"
                                           },
@@ -1287,10 +1287,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "O fenômeno conhecido como \u0027fuga de cérebros\u0027 (brain drain) refere-se à:",
                          "alternativas":  {
-                                              "a":  "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) de seus países de origem, geralmente em desenvolvimento, para países mais desenvolvidos, em busca de melhores salários e condições de trabalho e pesquisa",
+                                              "a":  "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho",
                                               "b":  "Um processo que beneficia exclusivamente o país de origem dos migrantes qualificados, por meio do aumento imediato de sua força de trabalho",
                                               "c":  "Migração de trabalhadores de baixa qualificação de países desenvolvidos para países em desenvolvimento, em busca de menor custo de vida",
-                                              "d":  "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional"
+                                              "d":  "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional, ainda que envolva impactos relevantes no país de origem e no de destino"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A fuga de cérebros refere-se à emigração de profissionais altamente qualificados de países em desenvolvimento para países mais desenvolvidos, atraídos por melhores salários e condições de trabalho e pesquisa. Não descreve migração de baixa qualificação em sentido inverso, não beneficia exclusivamente o país de origem (que perde capital humano), e é um fenômeno tipicamente internacional, não interno.",
@@ -1400,9 +1400,9 @@
                          "enunciado":  "O conceito de \u0027bônus demográfico\u0027 refere-se a um período em que:",
                          "alternativas":  {
                                               "a":  "A proporção de crianças e idosos supera, de forma permanente e crescente, a proporção de pessoas em idade ativa",
-                                              "b":  "A proporção de pessoas em idade ativa (potencialmente produtiva) é proporcionalmente maior em relação à população dependente (crianças e idosos), o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados em educação e emprego",
-                                              "c":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária",
-                                              "d":  "A população de um país entra necessariamente em declínio absoluto, independentemente de sua estrutura etária"
+                                              "b":  "A proporção de pessoas em idade ativa é proporcionalmente maior em relação à população dependente, o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados",
+                                              "c":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária, hipótese incompatível com qualquer pirâmide real",
+                                              "d":  "A população de um país entra necessariamente em declínio absoluto, independentemente de sua estrutura etária, cenário observado em países de fecundidade elevada"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O bônus demográfico é o período em que a proporção de pessoas em idade ativa é maior em relação à população dependente, criando uma janela de oportunidade para o crescimento econômico, se acompanhada de investimentos adequados. Não implica ausência total de crianças e idosos, não corresponde a um cenário de predomínio permanente da população dependente, e não implica declínio populacional absoluto.",
@@ -1415,8 +1415,8 @@
                          "alternativas":  {
                                               "a":  "Já se encerrou definitivamente no Brasil na década de 1980, muito antes do início da transição demográfica avançada do país",
                                               "b":  "Garante, por si só, crescimento econômico automático e duradouro, independentemente de investimentos em educação ou emprego",
-                                              "c":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos, sob risco de o país \u0027envelhecer antes de enriquecer\u0027",
-                                              "d":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária da população"
+                                              "c":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos",
+                                              "d":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária, equívoco comum antes da transição demográfica"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O bônus demográfico não garante, por si só, desenvolvimento econômico: é uma janela temporária que depende de políticas públicas adequadas, sob risco de o país \u0027envelhecer antes de enriquecer\u0027. Ele não é permanente nem se repete identicamente, e no Brasil seu período mais favorável já está em processo de estreitamento nas décadas recentes, não encerrado desde os anos 1980.",
@@ -1441,10 +1441,10 @@
                          "texto_apoio":  "Dados aproximados do IBGE indicam que a taxa de fecundidade no Brasil, que era de cerca de 6,3 filhos por mulher em 1960, caiu para aproximadamente 1,6 filho por mulher nas estimativas mais recentes, valor abaixo da taxa de reposição populacional (2,1 filhos por mulher).",
                          "enunciado":  "Considerando esses dados, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A população brasileira continuará crescendo no mesmo ritmo de 1960, já que o tamanho da população não depende da taxa de fecundidade",
+                                              "a":  "A população brasileira continuará crescendo no mesmo ritmo de 1960, já que o tamanho da população não depende da taxa de fecundidade, equívoco que ignora o efeito da fecundidade sobre o crescimento populacional",
                                               "b":  "O Brasil ainda apresenta uma das maiores taxas de fecundidade entre os países da América Latina",
                                               "c":  "A taxa de fecundidade brasileira permaneceu estável desde 1960, com pequenas oscilações sem significado demográfico",
-                                              "d":  "A queda acentuada da fecundidade brasileira para um patamar abaixo da taxa de reposição indica uma tendência, no longo prazo, de estabilização e posterior redução do crescimento populacional do país, associada ao processo de transição demográfica avançada"
+                                              "d":  "A queda acentuada da fecundidade brasileira para um patamar abaixo da taxa de reposição indica uma tendência, no longo prazo, de estabilização e posterior redução do crescimento populacional do país"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A redução da fecundidade de 6,3 para cerca de 1,6 filho por mulher, abaixo da taxa de reposição, evidencia estágio avançado de transição demográfica, associado à urbanização e à maior escolaridade, apontando para futura estabilização e redução do crescimento populacional. A taxa não permaneceu estável, o Brasil não está entre as maiores taxas da América Latina atualmente, e o crescimento populacional está diretamente ligado à taxa de fecundidade, não independente dela.",
@@ -1456,8 +1456,8 @@
                          "enunciado":  "A transição energética, com a substituição progressiva de fontes fósseis por fontes renováveis, é frequentemente discutida também sob a ótica do mercado de trabalho, pois:",
                          "alternativas":  {
                                               "a":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
-                                              "b":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes",
-                                              "c":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que representa desafios de requalificação profissional para trabalhadores de setores fósseis tradicionais, como o carvão e o petróleo",
+                                              "b":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor",
+                                              "c":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais",
                                               "d":  "Beneficia exclusivamente trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável"
                                           },
                          "resposta":  "c",
@@ -1486,7 +1486,7 @@
                                               "a":  "Um investimento público historicamente maior em saneamento nas periferias do que nas áreas centrais das cidades",
                                               "b":  "Ao processo de ocupação irregular e desordenada dessas áreas, que dificulta o planejamento e a extensão de redes formais de água e esgoto pelo poder público",
                                               "c":  "Uma política deliberada e já consolidada de universalização do saneamento nessas áreas, concluída nas últimas décadas",
-                                              "d":  "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas de qualquer tipo"
+                                              "d":  "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas de qualquer tipo, proposta nunca formalizada por qualquer município"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A ocupação irregular e desordenada de favelas e assentamentos precários dificulta o planejamento e a extensão de redes formais de saneamento, resultando em maior vulnerabilidade a doenças e desastres. Não existe legislação que vede saneamento em áreas urbanas, a universalização nessas áreas está longe de concluída, e o investimento público historicamente favoreceu áreas centrais, não as periferias.",
@@ -1498,7 +1498,7 @@
                          "enunciado":  "O aumento da frequência e intensidade de enchentes em diversas cidades brasileiras, mesmo em episódios de chuva que não seriam considerados excepcionais décadas atrás, está relacionado, entre outros fatores, a:",
                          "alternativas":  {
                                               "a":  "Um aumento da vegetação nativa em áreas urbanas, que passou a reter água em excesso e a sobrecarregar a drenagem",
-                                              "b":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes",
+                                              "b":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes, tendência observada apenas no interior",
                                               "c":  "Uma redução comprovada e generalizada do volume total de chuvas nas regiões metropolitanas brasileiras nas últimas décadas",
                                               "d":  "A impermeabilização crescente do solo urbano (por asfalto e construções), a ocupação de áreas de várzea e encostas, e a insuficiência ou obstrução dos sistemas de drenagem urbana"
                                           },
@@ -1512,9 +1512,9 @@
                          "enunciado":  "A poluição de rios que cortam grandes centros urbanos brasileiros, como o Rio Tietê em São Paulo, está relacionada, sobretudo, a:",
                          "alternativas":  {
                                               "a":  "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
-                                              "b":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio",
+                                              "b":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê",
                                               "c":  "Uma política municipal que restringe a poluição a trechos específicos do rio, mantendo o restante do curso d\u0027água preservado",
-                                              "d":  "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado e à insuficiência de infraestrutura de saneamento"
+                                              "d":  "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A poluição de rios urbanos, como o Tietê, decorre principalmente do despejo de esgoto sem tratamento adequado e do descarte irregular de resíduos, agravados pelo crescimento urbano desordenado. O problema não é de origem exclusivamente rural, não é um processo natural de sedimentação, e não existe política que restrinja a poluição a trechos específicos do rio.",
@@ -1526,8 +1526,8 @@
                          "enunciado":  "Com base nesses dados, qual conclusão é mais adequada do ponto de vista da geografia da saúde?",
                          "alternativas":  {
                                               "a":  "A diferença de 40 casos entre os municípios não tem qualquer relevância estatística ou sanitária",
-                                              "b":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde em qualquer contexto",
-                                              "c":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica, embora outros fatores socioeconômicos também possam influenciar esse resultado",
+                                              "b":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde, conclusão amplamente aceita pela literatura epidemiológica atual",
+                                              "c":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica",
                                               "d":  "O Município X tem cobertura de saneamento pior do que o Município Y, já que registrou um número absoluto menor de casos"
                                           },
                          "resposta":  "c",
@@ -1539,8 +1539,8 @@
                          "texto_apoio":  "",
                          "enunciado":  "A diferença entre um aterro sanitário e um lixão (ou vazadouro a céu aberto), do ponto de vista ambiental, está no fato de que o aterro sanitário:",
                          "alternativas":  {
-                                              "a":  "É uma estrutura projetada com técnicas de engenharia (como impermeabilização do solo e tratamento do chorume) para reduzir a contaminação do solo e das águas subterrâneas, diferentemente do lixão, que dispõe os resíduos sem qualquer tratamento ou controle ambiental",
-                                              "b":  "É proibido pela legislação ambiental brasileira, ao contrário do lixão, que segue autorizado em todos os municípios do país",
+                                              "a":  "É uma estrutura projetada com técnicas de engenharia para reduzir a contaminação do solo e das águas subterrâneas, diferentemente do lixão, que dispõe os resíduos sem qualquer tratamento",
+                                              "b":  "É proibido pela legislação ambiental brasileira, ao contrário do lixão, que segue autorizado em todos os municípios do país, suspensão já ocorrida em diversos estados",
                                               "c":  "Recebe apenas resíduos hospitalares, enquanto o lixão recebe exclusivamente resíduos domésticos",
                                               "d":  "É uma denominação alternativa para o mesmo tipo de estrutura, sem qualquer diferença técnica em relação ao lixão"
                                           },
@@ -1553,10 +1553,10 @@
                          "texto_apoio":  "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) instituiu o conceito de \u0027logística reversa\u0027 e de \u0027responsabilidade compartilhada pelo ciclo de vida dos produtos\u0027.",
                          "enunciado":  "Esses conceitos estabelecem que:",
                          "alternativas":  {
-                                              "a":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de determinados resíduos (como pilhas, eletrônicos e embalagens) às empresas para reaproveitamento ou descarte ambientalmente adequado",
-                                              "b":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país",
-                                              "c":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores",
-                                              "d":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens"
+                                              "a":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de resíduos às empresas para reaproveitamento ou descarte adequado",
+                                              "b":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país, leitura que contraria o princípio da responsabilidade compartilhada",
+                                              "c":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores, interpretação equivocada que ainda hoje gera controvérsia entre especialistas",
+                                              "d":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens, engano frequente sobre o alcance real da norma"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Política Nacional de Resíduos Sólidos estabelece responsabilidade compartilhada entre fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público, incluindo a logística reversa de itens como pilhas, eletrônicos e embalagens. A responsabilidade não recai apenas sobre o consumidor, a logística reversa se aplica especialmente a resíduos não orgânicos, como os citados, e o custo não é assumido isoladamente pelo poder público municipal.",
@@ -1567,9 +1567,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "Embora o agronegócio de grandes propriedades seja o principal responsável pelas exportações agrícolas brasileiras, estudos apontam que a agricultura familiar tem papel central em outro aspecto da produção agropecuária nacional, relacionado, sobretudo, a:",
                          "alternativas":  {
-                                              "a":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais",
-                                              "b":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio",
-                                              "c":  "Exportação da maior parte dos grãos produzidos no país, como soja e milho, atividade em que supera o agronegócio de grande escala",
+                                              "a":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais, papel majoritariamente exercido pelo agronegócio de grande escala",
+                                              "b":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio, atividade concentrada em grandes empresas de mineração",
+                                              "c":  "Exportação da maior parte dos grãos produzidos no país, como soja e milho, atividade em que supera o agronegócio de grande escala, segundo dados recentes do setor",
                                               "d":  "Produção de significativa parcela dos alimentos que abastecem o mercado interno brasileiro, como frutas, verduras, legumes, feijão e boa parte da produção leiteira"
                                           },
                          "resposta":  "d",
@@ -1596,9 +1596,9 @@
                          "enunciado":  "A existência de terrenos e imóveis ociosos (não utilizados) em áreas centrais e bem localizadas de grandes cidades brasileiras, mesmo diante da falta de moradia para parte da população, é frequentemente associada, pela geografia urbana, a:",
                          "alternativas":  {
                                               "a":  "Uma escassez real e absoluta de terrenos disponíveis nas áreas centrais das cidades brasileiras",
-                                              "b":  "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano e para a ocupação de áreas periféricas pela população de menor renda",
+                                              "b":  "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano",
                                               "c":  "Uma política pública já consolidada de distribuição igualitária de moradias em áreas centrais valorizadas",
-                                              "d":  "Uma exigência técnica de engenharia que impede a ocupação imediata de qualquer terreno urbano recém-adquirido"
+                                              "d":  "Uma exigência técnica de engenharia que impede a ocupação imediata de qualquer terreno urbano recém-adquirido, equívoco recorrente sobre normas de uso do solo"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A manutenção de imóveis ociosos em áreas centrais bem localizadas, à espera de valorização (especulação imobiliária), contribui para o encarecimento do solo urbano e empurra a população de menor renda para áreas periféricas. Não se trata de escassez real de terrenos (que existem, mas ficam ociosos por opção do proprietário), não há política consolidada de distribuição igualitária, e não é uma exigência técnica de engenharia que explica a ociosidade.",
@@ -1609,9 +1609,9 @@
                          "texto_apoio":  "O Estatuto da Cidade (Lei nº 10.257/2001) prevê instrumentos como o IPTU progressivo no tempo para imóveis urbanos subutilizados ou não utilizados.",
                          "enunciado":  "Esse instrumento tem como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU crescentes ao longo do tempo, desestimulando a manutenção de terrenos vazios com fins puramente especulativos",
+                                              "a":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU progressivas ao longo do tempo",
                                               "b":  "Autorizar a desapropriação imediata, sem qualquer aviso prévio, de qualquer imóvel urbano não utilizado por mais de um ano",
-                                              "c":  "Isentar integralmente do pagamento de IPTU os proprietários de grandes terrenos urbanos ociosos, como incentivo à manutenção de reservas de valor",
+                                              "c":  "Isentar integralmente do pagamento de IPTU os proprietários de grandes terrenos urbanos ociosos, como incentivo à manutenção de reservas de valor, leitura equivocada do instrumento tributário",
                                               "d":  "Elevar a arrecadação municipal de forma linear, aplicando o mesmo percentual de aumento a todos os imóveis do município, utilizados ou não"
                                           },
                          "resposta":  "a",
@@ -1624,9 +1624,9 @@
                          "enunciado":  "O conceito de \u0027hierarquia urbana\u0027, utilizado pela geografia para classificar cidades conforme sua importância econômica, populacional e de oferta de serviços, permite compreender por que:",
                          "alternativas":  {
                                               "a":  "A hierarquia urbana é definida exclusivamente pela extensão territorial do município, sem relação com a oferta de serviços",
-                                              "b":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população",
+                                              "b":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população, padrão desmentido pela distribuição real de serviços entre cidades e metrópoles",
                                               "c":  "Cidades pequenas exercem, em regra, maior influência regional do que metrópoles, por concentrarem serviços mais especializados",
-                                              "d":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados (como hospitais de alta complexidade e universidades), influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços"
+                                              "d":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados, influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A hierarquia urbana descreve como metrópoles regionais concentram serviços mais especializados, exercendo influência sobre cidades menores que dependem desses serviços não disponíveis localmente. Cidades de portes diferentes não oferecem serviços de complexidade equivalente, cidades pequenas não exercem maior influência do que metrópoles, e a hierarquia se define pela oferta de serviços e funções urbanas, não pela extensão territorial do município.",
@@ -1637,9 +1637,9 @@
                          "texto_apoio":  "Um mapa mostra que moradores de diversas cidades pequenas do interior do estado, para realizar tratamentos médicos de alta complexidade (como cirurgias cardíacas), costumam se deslocar a uma cidade média regional, que por sua vez encaminha os casos mais graves à capital do estado, onde estão os hospitais de referência estadual.",
                          "enunciado":  "Esse padrão de deslocamento, descrito no mapa, ilustra o conceito geográfico de:",
                          "alternativas":  {
-                                              "a":  "Reprimarização da economia, processo de aumento da participação de commodities na pauta de exportação regional",
+                                              "a":  "Reprimarização da economia, processo de aumento da participação de commodities na pauta de exportação regional, processo que nada tem a ver com a distribuição hierárquica de serviços urbanos descrita no mapa",
                                               "b":  "Conurbação, processo de fusão física entre cidades vizinhas cujos tecidos urbanos se tornam contínuos",
-                                              "c":  "Região de influência (ou área de polarização), na qual cidades de menor porte dependem de centros urbanos hierarquicamente superiores para acessar serviços mais especializados, formando uma rede urbana hierarquizada em múltiplos níveis",
+                                              "c":  "Região de influência (ou área de polarização), na qual cidades de menor porte dependem de centros urbanos hierarquicamente superiores para acessar serviços mais especializados",
                                               "d":  "Desconcentração industrial, processo de deslocamento de fábricas do litoral para o interior do país"
                                           },
                          "resposta":  "c",
@@ -1680,7 +1680,7 @@
                          "enunciado":  "Apesar desse potencial, a utilização das hidrovias no transporte de cargas no país permanece:",
                          "alternativas":  {
                                               "a":  "Restrita por lei federal, que limita a navegação de cargas a rios de domínio estadual",
-                                              "b":  "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país",
+                                              "b":  "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia, não no país como um todo",
                                               "c":  "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas",
                                               "d":  "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais"
                                           },
@@ -1708,8 +1708,8 @@
                          "enunciado":  "O termo \u0027Custo Brasil\u0027 é frequentemente utilizado para descrever um conjunto de fatores estruturais que elevam os custos de produção e de exportação de empresas instaladas no país, entre os quais se destaca:",
                          "alternativas":  {
                                               "a":  "A ausência de qualquer tributo sobre a produção industrial, o que reduziria artificialmente o custo de bens brasileiros no exterior",
-                                              "b":  "A deficiência histórica de infraestrutura logística (como rodovias mal conservadas e matriz de transportes desequilibrada), somada à elevada carga tributária e à burocracia, que juntos encarecem a produção e a exportação de bens brasileiros",
-                                              "c":  "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país",
+                                              "b":  "A deficiência histórica de infraestrutura logística, somada à elevada carga tributária e à burocracia, que juntos encarecem a produção e a exportação de bens brasileiros",
+                                              "c":  "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país, tese contrariada pelo baixo investimento histórico brasileiro nesses modais",
                                               "d":  "A inexistência de qualquer imposto sobre operações de exportação ou importação no comércio exterior brasileiro"
                                           },
                          "resposta":  "b",
@@ -1778,9 +1778,9 @@
                          "enunciado":  "O conceito de \u0027direito à cidade\u0027, desenvolvido originalmente pelo filósofo Henri Lefebvre e amplamente discutido pela geografia urbana crítica, defende que:",
                          "alternativas":  {
                                               "a":  "O planejamento urbano deve ser decidido exclusivamente por especialistas técnicos, sem qualquer participação da população nas decisões",
-                                              "b":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores",
+                                              "b":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores, leitura que inverte a lógica original do conceito de Lefebvre",
                                               "c":  "O direito à cidade se aplica apenas aos proprietários de imóveis localizados nas áreas centrais e mais valorizadas dos grandes centros urbanos",
-                                              "d":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir plenamente da vida urbana, de seus espaços, serviços e processos de decisão sobre o planejamento da cidade"
+                                              "d":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir de seus espaços e serviços, participando das decisões sobre o planejamento urbano"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O conceito de \u0027direito à cidade\u0027, de Henri Lefebvre, incorporado no Brasil ao Estatuto da Cidade, defende que todos os habitantes urbanos têm direito de usufruir do espaço, dos serviços e de participar das decisões sobre o planejamento urbano. Ele se contrapõe, e não se resume, a um planejamento apenas técnico, a um privilégio de proprietários de áreas centrais, ou à priorização do mercado imobiliário sobre o bem-estar coletivo.",
@@ -1792,9 +1792,9 @@
                          "enunciado":  "O processo de desertificação, observado em algumas áreas do semiárido nordestino brasileiro, refere-se a:",
                          "alternativas":  {
                                               "a":  "Transformação definitiva de qualquer bioma brasileiro em deserto, processo já concluído em toda a extensão do semiárido nordestino",
-                                              "b":  "Degradação de solos em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação de fatores climáticos com práticas humanas inadequadas de uso do solo, como desmatamento excessivo, superpastoreio e manejo agrícola inadequado",
+                                              "b":  "Degradação de solos em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação de fatores climáticos com práticas humanas inadequadas de uso do solo",
                                               "c":  "Um fenômeno restrito a regiões situadas exatamente sobre a linha do Equador, o que exclui o semiárido nordestino brasileiro",
-                                              "d":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido"
+                                              "d":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido, engano frequente que ignora a ação humana associada ao fenômeno"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A desertificação é a degradação de solos em áreas de clima árido, semiárido ou subúmido seco, combinando fatores climáticos com práticas humanas inadequadas, como desmatamento da caatinga e superpastoreio. Não se trata de um processo já concluído em toda a região, não está restrito a áreas equatoriais (o semiárido nordestino fica distante da linha do Equador), e ocorre justamente em áreas de clima semiárido, não em desertos já formados.",
@@ -1806,9 +1806,9 @@
                          "enunciado":  "A identificação desses núcleos específicos, em vez de se referir à desertificação de todo o semiárido de forma homogênea, evidencia que esse processo:",
                          "alternativas":  {
                                               "a":  "Não guarda qualquer relação com práticas humanas de uso do solo, decorrendo apenas de variações climáticas naturais e cíclicas",
-                                              "b":  "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica, o que exige políticas públicas focalizadas nesses núcleos",
+                                              "b":  "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica",
                                               "c":  "Ocorre de maneira absolutamente uniforme em toda a extensão do semiárido nordestino, sem qualquer variação espacial entre os núcleos e o restante da região",
-                                              "d":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões"
+                                              "d":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões, conclusão que contraria os próprios dados de monitoramento ambiental apresentados no mapa"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A identificação de núcleos específicos evidencia que a desertificação não ocorre de forma homogênea, mas se concentra em áreas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica, exigindo políticas focalizadas. O processo não é uniforme em toda a região, não foi revertido nesses núcleos (ao contrário, são as áreas mais críticas), e envolve, sim, práticas humanas de uso do solo, não apenas fatores climáticos naturais.",
@@ -1820,9 +1820,9 @@
                          "enunciado":  "Nas últimas décadas, ganhou espaço, em contraposição a antigas políticas de \u0027combate à seca\u0027, o paradigma da \u0027convivência com o semiárido\u0027, que propõe:",
                          "alternativas":  {
                                               "a":  "A remoção definitiva de toda a população do semiárido nordestino para regiões de clima mais úmido do país",
-                                              "b":  "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva",
-                                              "c":  "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido (como cisternas para captação de água de chuva), permitindo que a população permaneça na região com melhor qualidade de vida",
-                                              "d":  "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região"
+                                              "b":  "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva, medida que contraria a própria noção de convivência com o semiárido",
+                                              "c":  "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido, permitindo que a população permaneça na região com melhor qualidade de vida",
+                                              "d":  "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região, proposta que ignora décadas de tecnologias sociais consolidadas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O paradigma da \u0027convivência com o semiárido\u0027 propõe tecnologias sociais adaptadas, como cisternas para captação de água, permitindo que a população permaneça na região com melhor qualidade de vida, em contraposição ao antigo paradigma do \u0027combate à seca\u0027. Não propõe remoção da população, não substitui as tecnologias sociais por grandes barragens como única saída (pelo contrário, contrapõe-se a essa lógica), e não proíbe a agricultura na região.",
@@ -1861,10 +1861,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Além das favelas, outra forma de habitação precária historicamente presente em grandes cidades brasileiras, sobretudo em áreas centrais, é o cortiço. A principal diferença entre favela e cortiço está no fato de que o cortiço:",
                          "alternativas":  {
-                                              "a":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha, diferentemente da favela, formada por construções autônomas em terrenos ocupados de forma irregular",
-                                              "b":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas",
-                                              "c":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas",
-                                              "d":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades"
+                                              "a":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha",
+                                              "b":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas, equívoco que ignora as condições reais de habitação nesses locais",
+                                              "c":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas, confusão comum mas incorreta sobre a origem do termo",
+                                              "d":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades, engano que inverte o perfil socioeconômico típico dessa habitação"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O cortiço consiste no aproveitamento de uma edificação já existente, subdividida em cômodos alugados a famílias distintas que compartilham áreas comuns, diferentemente da favela, formada por construções autônomas em terrenos ocupados irregularmente. Não é uma moradia de alta renda, frequentemente apresenta superlotação e infraestrutura precária, e é tipicamente urbano, não rural.",
@@ -1875,10 +1875,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Programas habitacionais de interesse social no Brasil, como o Minha Casa Minha Vida, foram criticados por parte de urbanistas por, em muitos casos, construir conjuntos habitacionais em áreas periféricas e distantes dos centros de emprego e serviços das cidades. Essa crítica está relacionada, sobretudo, ao fato de que:",
                          "alternativas":  {
-                                              "a":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários",
+                                              "a":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários, leitura que contraria os relatos de moradores sobre o tempo gasto em deslocamentos",
                                               "b":  "Os conjuntos habitacionais desse programa foram construídos, em sua maioria, em áreas rurais, fora do perímetro urbano dos municípios",
                                               "c":  "O programa construiu a totalidade de suas unidades habitacionais em áreas centrais já consolidadas e bem servidas de infraestrutura",
-                                              "d":  "Terrenos mais baratos, geralmente localizados na periferia, favorecem financeiramente a construção em maior escala, mas podem gerar novas formas de segregação socioespacial, obrigando moradores a longos e caros deslocamentos diários até seus empregos e serviços essenciais"
+                                              "d":  "Terrenos mais baratos, geralmente localizados na periferia, favorecem financeiramente a construção em maior escala, mas podem gerar novas formas de segregação socioespacial"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A construção de conjuntos habitacionais em terrenos periféricos mais baratos é criticada por reproduzir padrões de segregação socioespacial, com longos e custosos deslocamentos diários até empregos e serviços. O programa não se concentrou em áreas centrais consolidadas, a localização periférica tende a aumentar, não eliminar, custos de mobilidade, e os conjuntos foram construídos majoritariamente dentro do perímetro urbano, ainda que em áreas periféricas dele.",
@@ -1892,7 +1892,7 @@
                                               "a":  "Aumentar deliberadamente o tempo médio de deslocamento da população, como forma de desestimular viagens desnecessárias",
                                               "b":  "Eliminar por completo a necessidade de qualquer forma de transporte motorizado nas grandes cidades brasileiras",
                                               "c":  "Reduzir o congestionamento, a poluição do ar e o tempo médio de deslocamento da população, promovendo uma mobilidade urbana mais eficiente, equitativa e sustentável",
-                                              "d":  "Beneficiar exclusivamente famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos"
+                                              "d":  "Beneficiar exclusivamente famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Sistemas de transporte coletivo de qualidade são apontados como estratégia central para reduzir congestionamento, poluição do ar e tempo de deslocamento, além de promover maior equidade na mobilidade urbana. Esses sistemas beneficiam sobretudo a população que não possui automóvel próprio, geralmente de menor renda; não eliminam todo transporte motorizado (o próprio transporte coletivo é motorizado); e visam reduzir, não aumentar, o tempo de deslocamento.",
@@ -1903,8 +1903,8 @@
                          "texto_apoio":  "Um gráfico compara a repartição modal das viagens diárias em duas cidades: na Cidade A, 60% das viagens são feitas de automóvel particular, 25% de transporte coletivo e 15% a pé ou de bicicleta; na Cidade B, 25% das viagens são feitas de automóvel particular, 55% de transporte coletivo e 20% a pé ou de bicicleta.",
                          "enunciado":  "Considerando apenas esses dados de repartição modal, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular, enquanto a Cidade B apresenta um padrão de mobilidade mais dependente do transporte coletivo e de modos ativos",
-                                              "b":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos",
+                                              "a":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular",
+                                              "b":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos, hipótese que os dados claramente desmentem",
                                               "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os percentuais apresentados",
                                               "d":  "Não é possível comparar padrões de mobilidade urbana entre cidades diferentes com base em dados de repartição modal"
                                           },
@@ -1920,7 +1920,7 @@
                                               "a":  "A eliminação de qualquer meta relacionada a moradia, concentrando-se apenas em indicadores de mobilidade urbana",
                                               "b":  "A substituição de todo o transporte público das cidades por veículos particulares individuais, como estratégia de mobilidade",
                                               "c":  "O acesso a moradia digna, transporte público sustentável, espaços públicos seguros e a redução do impacto ambiental das cidades, tornando-as mais inclusivas, seguras, resilientes e sustentáveis",
-                                              "d":  "A restrição do crescimento urbano exclusivamente aos países desenvolvidos, mantendo os países em desenvolvimento predominantemente rurais"
+                                              "d":  "A restrição do crescimento urbano exclusivamente aos países desenvolvidos, mantendo os países em desenvolvimento predominantemente rurais, proposta incompatível com o caráter global do ODS 11"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O ODS 11 busca tornar as cidades mais inclusivas, seguras, resilientes e sustentáveis, incluindo metas de moradia digna, transporte público sustentável e espaços públicos acessíveis. Não restringe a urbanização a países desenvolvidos, não propõe substituir transporte público por veículos particulares (ao contrário, defende o transporte coletivo), e inclui moradia como uma de suas metas centrais, não a exclui.",
@@ -1931,10 +1931,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "O conceito de \u0027cidade inteligente\u0027 (smart city), que propõe o uso intensivo de tecnologia e dados para melhorar a gestão urbana (como semáforos inteligentes, monitoramento de tráfego e serviços públicos digitais), é criticado por parte de geógrafos urbanos porque:",
                          "alternativas":  {
-                                              "a":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão",
-                                              "b":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais caso não sejam acompanhados de políticas que também atendam às periferias urbanas",
-                                              "c":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia",
-                                              "d":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade"
+                                              "a":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão, definição que ignora exatamente o uso intensivo de tecnologia que caracteriza o conceito",
+                                              "b":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais",
+                                              "c":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia, leitura ingênua que ignora as barreiras de acesso entre grupos sociais",
+                                              "d":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade, crítica que desconsidera ganhos reais já obtidos em algumas cidades"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A crítica de parte dos geógrafos urbanos está no risco de que investimentos tecnológicos se concentrem em áreas já privilegiadas, aprofundando desigualdades caso não haja investimento equivalente em infraestrutura básica das periferias. O conceito não elimina desigualdades automaticamente, uma cidade inteligente por definição usa tecnologia digital (é sua característica central), e a crítica não nega todo benefício, mas aponta riscos de desigualdade na sua implementação.",
@@ -1945,10 +1945,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Enquanto grandes metrópoles enfrentam desafios ligados ao crescimento urbano acelerado, muitos pequenos municípios do interior do Brasil, sobretudo em áreas rurais menos dinâmicas economicamente, enfrentam o problema inverso, relacionado a:",
                          "alternativas":  {
-                                              "a":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente e dificuldades para a economia e os serviços públicos locais",
+                                              "a":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente",
                                               "b":  "A ausência de qualquer conexão entre esses municípios e o processo geral de urbanização observado no restante do país",
                                               "c":  "Um crescimento populacional acelerado, motivado pela chegada constante de novos moradores vindos das capitais estaduais",
-                                              "d":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura"
+                                              "d":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura, cenário oposto ao que de fato ocorre nesses municípios"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Muitos pequenos municípios enfrentam esvaziamento populacional, causado pela saída de jovens em busca de oportunidades em cidades maiores, o que acentua o envelhecimento da população remanescente. Não há, nesses municípios, crescimento populacional acelerado nem excesso de oferta de emprego industrial — pelo contrário, a escassez de oportunidades é a causa do esvaziamento, fenômeno que ocorre em paralelo, e não isolado, do processo geral de urbanização do país.",
@@ -1975,7 +1975,7 @@
                          "alternativas":  {
                                               "a":  "Exclusivamente da falta de chuvas, sem qualquer relação com a gestão dos recursos hídricos disponíveis na região metropolitana",
                                               "b":  "Uma redução do consumo de água por parte da população urbana, que teria sobrecarregado os sistemas de tratamento",
-                                              "c":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível",
+                                              "c":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível, hipótese que contraria o padrão observado nas regiões metropolitanas",
                                               "d":  "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água"
                                           },
                          "resposta":  "d",
@@ -2002,7 +2002,7 @@
                          "enunciado":  "Esse processo consiste em:",
                          "alternativas":  {
                                               "a":  "Um processo que remove o excesso de sal e outros minerais da água do mar, tornando-a própria para consumo humano e outros usos que exigem água doce",
-                                              "b":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam",
+                                              "b":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam, afirmação exagerada mesmo nos países que mais a utilizam",
                                               "c":  "Um processo que transforma água doce de rios e lagos em água salgada, para uso industrial em regiões costeiras",
                                               "d":  "Um método exclusivo de purificação de água de rios poluídos, sem qualquer relação com a água do mar"
                                           },
@@ -2015,10 +2015,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Apesar de ser uma solução tecnicamente viável para a escassez de água doce, a dessalinização da água do mar ainda não é amplamente adotada em todas as regiões costeiras do mundo com problemas hídricos, principalmente porque:",
                          "alternativas":  {
-                                              "a":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo",
-                                              "b":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola",
-                                              "c":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia ou dispostos a arcar com esse custo elevado",
-                                              "d":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro"
+                                              "a":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo, equívoco sobre uma tecnologia já consolidada comercialmente",
+                                              "b":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola, afirmação que contraria projetos de irrigação já em operação no Oriente Médio",
+                                              "c":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia",
+                                              "d":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro, restrição inexistente em qualquer acordo ambiental vigente"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A dessalinização exige grande quantidade de energia, o que eleva seu custo frente a fontes tradicionais, tornando sua adoção em larga escala mais viável em países com energia abundante e barata, como os do Golfo Pérsico. A tecnologia já está em operação comercial há décadas (não é experimental), não há tratado internacional que a proíba, e a água dessalinizada pode, sim, ser usada para irrigação, ainda que com custo elevado.",
@@ -2029,10 +2029,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "A chamada \u0027agricultura de precisão\u0027, cada vez mais utilizada no agronegócio brasileiro, envolve o uso de tecnologias como GPS, sensores e imagens de satélite para:",
                          "alternativas":  {
-                                              "a":  "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas, o que pode aumentar a produtividade e reduzir desperdícios",
+                                              "a":  "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas",
                                               "b":  "Eliminar por completo a necessidade de mão de obra humana em todas as etapas da produção agrícola",
-                                              "c":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada",
-                                              "d":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada"
+                                              "c":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada, cenário inviável mesmo com o avanço dessas tecnologias",
+                                              "d":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada, leitura equivocada de uma tecnologia que frequentemente se soma à mecanização existente"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A agricultura de precisão utiliza GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e das lavouras, permitindo aplicação mais eficiente e localizada de insumos, o que aumenta a produtividade e reduz desperdícios. Não elimina a necessidade de insumos (apenas otimiza seu uso), não impede a mecanização (frequentemente depende dela), e não elimina a mão de obra humana em todas as etapas da produção.",
@@ -2059,8 +2059,8 @@
                          "alternativas":  {
                                               "a":  "Reduzir a produção agrícola brasileira a níveis anteriores à década de 1970, como única forma de proteger os biomas nativos do país",
                                               "b":  "Desvincular por completo a expansão agropecuária brasileira de qualquer debate sobre desmatamento ou sustentabilidade ambiental",
-                                              "c":  "Conciliar o papel do Brasil como um dos maiores produtores mundiais de commodities agrícolas com a necessidade de conter o desmatamento de biomas nativos, como o Cerrado e a Amazônia, e de promover um desenvolvimento agropecuário mais sustentável",
-                                              "d":  "Transferir integralmente a produção de commodities agrícolas brasileiras para outros países, eliminando a fronteira agrícola nacional"
+                                              "c":  "Conciliar o papel do Brasil como um dos maiores produtores mundiais de commodities agrícolas com a necessidade de conter o desmatamento de biomas nativos, como o Cerrado e a Amazônia",
+                                              "d":  "Transferir integralmente a produção de commodities agrícolas brasileiras para outros países, eliminando a fronteira agrícola nacional, medida distante das políticas comerciais efetivamente adotadas pelo país"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A posição do Brasil como grande produtor e exportador de commodities agrícolas coloca o país diante do desafio de conciliar essa relevância econômica com a contenção do desmatamento de biomas como o Cerrado e a Amazônia, promovendo práticas mais sustentáveis. O desafio não é reduzir a produção a níveis históricos anteriores, nem transferir a produção a outros países, e o debate ambiental está cada vez mais integrado, não dissociado, das discussões sobre expansão agropecuária.",

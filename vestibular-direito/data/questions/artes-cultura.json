@@ -7,7 +7,7 @@
                          "enunciado":  "Considerando essa característica da arte renascentista, é correto relacioná-la à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "o debate atual sobre projetos que integram arte, ciência e tecnologia (como a bioarte e a visualização de dados), que retomam a aposta renascentista de unir método científico e criação estética",
-                                              "b":  "a antecipação, por Leonardo da Vinci, dos debates atuais sobre autoria e criação de imagens por inteligência artificial, hipótese anacrônica que ignora o contexto tecnológico do Renascimento",
+                                              "b":  "a antecipação, por Leonardo da Vinci, dos debates atuais sobre autoria e criação de imagens por inteligência artificial, hipótese anacrônica que ignora o contexto tecnológico específico do Renascimento",
                                               "c":  "essa integração entre observação empírica e criação artística é um traço definidor da escultura de Aleijadinho no Brasil colonial, marcada antes pela dramaticidade religiosa do Barroco",
                                               "d":  "a ideia de que qualquer obra que represente a figura humana já dialoga com o método científico, independentemente da forma de observação empregada pelo artista"
                                           },
@@ -45,7 +45,7 @@
                          "texto_apoio":  "O \"Manifesto Antropófago\" (1928), de Oswald de Andrade, propôs que a cultura brasileira \"devorasse\" criticamente referências estrangeiras, reelaborando-as de forma original.",
                          "enunciado":  "Essa metáfora da antropofagia cultural permite relacionar o manifesto de Oswald de Andrade à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a ideia de que qualquer obra brasileira que use referências estrangeiras está automaticamente praticando antropofagia cultural, independentemente de haver reelaboração crítica",
+                                              "a":  "a ideia de que qualquer obra brasileira que use referências estrangeiras está automaticamente praticando antropofagia cultural, independentemente de haver reelaboração crítica efetiva",
                                               "b":  "a forma como produtores culturais brasileiros reelaboram criticamente tendências globais de música e internet, misturando-as a referências locais, em vez de apenas reproduzi-las",
                                               "c":  "essa metáfora da devoração crítica de referências estrangeiras é um conceito criado por Mário de Andrade, e não por Oswald de Andrade, autor do Manifesto Antropófago",
                                               "d":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de internet, hipótese que ignora o contexto cultural de 1928 em que o manifesto foi escrito"
@@ -86,7 +86,7 @@
                          "alternativas":  {
                                               "a":  "essa apropriação crítica de ícones da cultura de consumo é um traço definidor do Cubismo, e não da Pop Art de Warhol, voltada à fragmentação geométrica das formas em múltiplos planos simultâneos",
                                               "b":  "a construção de imagem pessoal em redes sociais, em que indivíduos se apropriam de códigos publicitários para produzir e comercializar sua própria imagem como marca, ecoando a lógica que a Pop Art expunha de forma crítica",
-                                              "c":  "a antecipação, por Warhol, do funcionamento técnico específico dos algoritmos de redes sociais, tecnologia inexistente no contexto da Pop Art dos anos 1960, marcado por outros meios de reprodução de imagem",
+                                              "c":  "a antecipação, por Warhol, do funcionamento técnico específico dos algoritmos de redes sociais, tecnologia então completamente inexistente no contexto da Pop Art dos anos 1960, marcado por outros meios de reprodução de imagem",
                                               "d":  "a presença de cores vivas em uma obra, o que basta para relacioná-la à Pop Art, independentemente de haver ou não apropriação crítica de códigos de consumo e mídia de massa"
                                           },
                          "resposta":  "b",
@@ -125,7 +125,7 @@
                          "alternativas":  {
                                               "a":  "iniciativas atuais de orquestras e casas de música erudita que incorporam samba, funk ou música indígena a seu repertório, reabrindo o debate sobre a hierarquia entre \"alta cultura\" e popular",
                                               "b":  "a antecipação, por Villa-Lobos, dos festivais de música eletrônica que fundem gêneros populares contemporâneos, fenômeno tecnológico posterior à sua época",
-                                              "c":  "essa fusão entre técnica erudita europeia e folclore brasileiro é um traço definidor da obra de Chico Buarque, e não de Villa-Lobos, autor das \"Bachianas Brasileiras\"",
+                                              "c":  "essa fusão entre técnica erudita europeia e folclore brasileiro é um traço definidor da obra de Chico Buarque, e não de Villa-Lobos, consagrado autor das \"Bachianas Brasileiras\"",
                                               "d":  "a ideia de que qualquer peça orquestral que mencione o Brasil em seu título já realiza a mesma fusão entre erudito e popular buscada por Villa-Lobos"
                                           },
                          "resposta":  "a",
@@ -151,7 +151,7 @@
                          "alternativas":  {
                                               "a":  "a existência de telas e projeções em uma exposição já basta para classificá-la como arte digital interativa, independentemente da participação efetiva do público",
                                               "b":  "a antecipação, por artistas do início do século XX, do funcionamento técnico específico de sensores de movimento, tecnologia digital inexistente à época",
-                                              "c":  "essa interatividade entre obra e público é um traço definidor da escultura clássica grega, e não da arte digital contemporânea, cuja fruição era predominantemente contemplativa",
+                                              "c":  "essa interatividade entre obra e público é um traço definidor da escultura clássica grega, e não da arte digital contemporânea, cuja fruição era, em geral, predominantemente contemplativa e distante",
                                               "d":  "a interatividade e a circulação em redes digitais deslocam o papel do público, de contemplador distante para participante ativo que, em parte, coautora a experiência estética junto ao artista"
                                           },
                          "resposta":  "d",
@@ -162,7 +162,7 @@
                          "texto_apoio":  "O mercado de arte contemporâneo movimenta bilhões de dólares anualmente em leilões e galerias internacionais.",
                          "enunciado":  "Um dos principais dilemas apontados por críticos em relação à obra de arte contemporânea e o mercado é",
                          "alternativas":  {
-                                              "a":  "a previsão, por artistas do início do século XX, do funcionamento específico dos leilões de arte digital atuais, mercado tecnologicamente inexistente à época",
+                                              "a":  "a previsão, por artistas do início do século XX, do funcionamento específico dos leilões de arte digital atuais, mercado tecnologicamente inexistente à época de sua produção",
                                               "b":  "esse dilema entre valor simbólico e valor de mercado é uma questão restrita exclusivamente às artes visuais, sem equivalente na música ou no cinema",
                                               "c":  "a tensão entre o valor simbólico e crítico da obra e sua transformação em ativo financeiro e objeto de especulação nos grandes leilões internacionais de arte",
                                               "d":  "a existência de leilões internacionais, fato que por si só neutralizaria qualquer potencial crítico de uma obra, independentemente de seu conteúdo"
@@ -229,7 +229,7 @@
                          "alternativas":  {
                                               "a":  "esse uso de narradores irônicos e pouco confiáveis é um traço definidor da obra de José de Alencar, e não de Machado de Assis, autor de \"Dom Casmurro\"",
                                               "b":  "a antecipação, por Machado de Assis, dos formatos de podcast e vídeo em primeira pessoa da internet atual, mídia tecnologicamente inexistente no século XIX",
-                                              "c":  "a presença de um narrador em primeira pessoa, o que já bastaria para aproximar qualquer obra literária da técnica machadiana, independentemente do uso da ironia crítica",
+                                              "c":  "a presença de um narrador em primeira pessoa, o que já bastaria para aproximar qualquer obra literária da técnica machadiana, independentemente do uso efetivamente feito da ironia crítica e social",
                                               "d":  "o papel do humor e da sátira em programas de entretenimento e conteúdos digitais atuais como forma de crítica social indireta às contradições e hipocrisias da vida pública contemporânea"
                                           },
                          "resposta":  "d",
@@ -292,7 +292,7 @@
                          "texto_apoio":  "Glauber Rocha formulou a expressão \"estética da fome\", defendendo que o cinema brasileiro transformasse a pobreza em matéria-prima estética e política, sem os recursos do cinema industrial.",
                          "enunciado":  "Esse princípio da \"estética da fome\" pode ser relacionado à seguinte questão contemporânea sobre produção audiovisual:",
                          "alternativas":  {
-                                              "a":  "a presença de imagens de pobreza em uma produção audiovisual, o que já bastaria para relacioná-la à \"estética da fome\", independentemente de haver ou não uma proposta estética e política associada",
+                                              "a":  "a presença de imagens de pobreza em uma produção audiovisual, o que já bastaria para relacioná-la à \"estética da fome\", independentemente de haver ou não uma proposta estética, política e social claramente associada",
                                               "b":  "esse princípio de transformar a precariedade material em linguagem estética é um traço definidor do cinema de Hollywood, e não do Cinema Novo de Glauber Rocha, de proposta oposta",
                                               "c":  "o debate sobre produções audiovisuais independentes e de baixo orçamento, feitas com celulares e recursos digitais acessíveis, que hoje disputam reconhecimento crítico, atualizando a proposta de Glauber Rocha",
                                               "d":  "a previsão, por Glauber Rocha, das câmeras de celular e das plataformas de streaming que surgiriam décadas depois, tecnologias e mercados ausentes em seu contexto histórico dos anos 1960"
@@ -332,7 +332,7 @@
                          "enunciado":  "Essa proposta de transformar o espectador em agente ativo pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "a previsão, por Augusto Boal, das metodologias de facilitação corporativa usadas hoje em treinamentos empresariais, contexto alheio ao Teatro do Oprimido",
-                                              "b":  "essa proposta de intervenção direta do público na cena é um traço definidor da dramaturgia de Nelson Rodrigues, e não do Teatro do Oprimido de Augusto Boal, de proposta pedagógica distinta.",
+                                              "b":  "essa proposta de intervenção direta do público na cena é um traço definidor da dramaturgia de Nelson Rodrigues, e não do Teatro do Oprimido de Augusto Boal, de proposta pedagógica bastante distinta.",
                                               "c":  "o uso de metodologias participativas em movimentos sociais e educação popular, que buscam, à semelhança do teatro-fórum de Boal, ensaiar coletivamente alternativas de enfrentamento à opressão",
                                               "d":  "a presença de uma plateia assistindo a uma peça, o que já bastaria para relacioná-la ao Teatro do Oprimido, independentemente de haver ou não intervenção efetiva do público na cena"
                                           },
@@ -346,7 +346,7 @@
                          "alternativas":  {
                                               "a":  "o debate sobre até que ponto séries e produções televisivas atuais podem abordar sexualidade, hipocrisia familiar e violência doméstica sem eufemismos, e os limites dessa exposição em grande audiência",
                                               "b":  "a previsão, por Nelson Rodrigues, do formato específico das séries de streaming atuais, mídia tecnologicamente inexistente no Brasil dos anos 1940, época de sua dramaturgia",
-                                              "c":  "a presença de um conflito familiar em uma trama, o que já bastaria para relacioná-la à dramaturgia de Nelson Rodrigues, independentemente de haver ou não ruptura com as convenções do teatro realista",
+                                              "c":  "a presença de um conflito familiar em uma trama, o que já bastaria para relacioná-la à dramaturgia de Nelson Rodrigues, independentemente de haver ou não ruptura com as convenções do teatro realista da época",
                                               "d":  "essa ruptura com a estrutura linear do teatro realista é um traço definidor do Teatro do Oprimido de Augusto Boal, e não da dramaturgia de Nelson Rodrigues, de proposta distinta"
                                           },
                          "resposta":  "a",
@@ -359,7 +359,7 @@
                          "alternativas":  {
                                               "a":  "a previsão, por Niemeyer, dos softwares de modelagem paramétrica usados hoje em arquitetura, ferramenta tecnologicamente inexistente em sua época de atuação profissional.",
                                               "b":  "o debate atual sobre arquitetura paramétrica e softwares que exploram formas orgânicas em edificações contemporâneas, revisitando com nova tecnologia a aposta de Niemeyer na plasticidade do concreto",
-                                              "c":  "essa exploração plástica de formas curvas em concreto armado é um traço definidor do urbanismo de Lúcio Costa, e não da arquitetura de Niemeyer, voltada à plasticidade escultórica do concreto.",
+                                              "c":  "essa exploração plástica de formas curvas em concreto armado é um traço definidor do urbanismo de Lúcio Costa, e não da arquitetura de Niemeyer, voltada centralmente à plasticidade escultórica do concreto.",
                                               "d":  "a presença de uma curva em uma fachada de edifício, o que já bastaria para relacioná-la à arquitetura de Niemeyer, independentemente de haver ou não exploração plástica do concreto armado"
                                           },
                          "resposta":  "b",
@@ -372,7 +372,7 @@
                          "alternativas":  {
                                               "a":  "essa setorização de funções urbanas é um traço definidor do urbanismo colonial das cidades mineiras, e não do plano piloto de Brasília, de lógica orgânica e traçado sinuoso",
                                               "b":  "a previsão, por Lúcio Costa, dos debates específicos sobre mobilidade urbana e aplicativos de transporte, tecnologia inexistente no planejamento de Brasília nas décadas de 1950 e 1960",
-                                              "c":  "a existência de uma avenida larga em uma cidade, o que já bastaria para relacioná-la ao plano piloto de Brasília, independentemente de haver ou não setorização rígida de funções urbanas",
+                                              "c":  "a existência de uma avenida larga em uma cidade, o que já bastaria para relacioná-la ao plano piloto de Brasília, independentemente de haver ou não setorização estritamente rígida de funções urbanas",
                                               "d":  "o debate atual sobre os efeitos da separação rígida entre zonas urbanas na mobilidade, que leva muitas cidades a defender modelos de uso misto do solo como alternativa ao zoneamento modernista"
                                           },
                          "resposta":  "d",
@@ -397,7 +397,7 @@
                          "enunciado":  "Essa leitura semiológica da moda pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "essa leitura da moda como sistema de signos sociais é um conceito formulado por Pierre Bourdieu, e não por Roland Barthes, autor de \"Sistema da Moda\"",
-                                              "b":  "a existência de roupas em uma vitrine, o que já bastaria para relacioná-la à análise semiológica de Barthes, independentemente de haver ou não comunicação de identidade ou posição social",
+                                              "b":  "a existência de roupas em uma vitrine, o que já bastaria para relacioná-la à análise semiológica de Barthes, independentemente de haver ou não comunicação de identidade ou posição social específica",
                                               "c":  "a previsão, por Barthes, das plataformas digitais de venda de roupa e dos aplicativos de moda atuais, tecnologia inexistente em seu contexto teórico",
                                               "d":  "o debate sobre como escolhas de vestuário em redes sociais e ambientes profissionais comunicam posicionamentos identitários e políticos, tão codificados quanto a moda analisada por Barthes"
                                           },
@@ -424,7 +424,7 @@
                          "alternativas":  {
                                               "a":  "a previsão, pelos criadores do IPHAN na década de 1930, dos conflitos específicos entre tombamento e mercado imobiliário das últimas décadas, hipótese anacrônica",
                                               "b":  "o debate sobre conflitos entre o tombamento de imóveis antigos em centros urbanos valorizados e a pressão imobiliária por verticalização e reforma desses espaços para fins comerciais ou residenciais",
-                                              "c":  "a existência de uma placa informativa em frente a um prédio antigo, fato que já bastaria para caracterizá-lo como tombado, independentemente de haver ou não ato administrativo do órgão competente",
+                                              "c":  "a existência de uma placa informativa em frente a um prédio antigo, fato que já bastaria para caracterizá-lo como tombado, independentemente de haver ou não ato administrativo do órgão competente responsável",
                                               "d":  "esse instrumento de restrição à modificação de bens culturais é aplicado exclusivamente a bens materiais indígenas, e não a edificações urbanas tombadas em geral"
                                           },
                          "resposta":  "b",
@@ -437,7 +437,7 @@
                          "alternativas":  {
                                               "a":  "o debate sobre a devolução, por museus europeus, de acervos obtidos em contextos coloniais a seus países de origem, parte da revisão crítica das narrativas contadas por essas instituições",
                                               "b":  "essa ampliação do papel educativo e crítico dos museus é uma tendência restrita exclusivamente a instituições brasileiras, sem paralelo internacional",
-                                              "c":  "a existência de um totem explicativo ao lado de uma obra exposta, fato que já bastaria para caracterizar um museu como renovado e inclusivo, independentemente de sua política curatorial",
+                                              "c":  "a existência de um totem explicativo ao lado de uma obra exposta, fato que já bastaria para caracterizar um museu como renovado e inclusivo, independentemente de sua política curatorial específica",
                                               "d":  "a previsão, pelos fundadores dos grandes museus europeus do século XIX, dos debates contemporâneos sobre restituição de acervos coloniais, tema então inexistente"
                                           },
                          "resposta":  "a",
@@ -476,7 +476,7 @@
                          "alternativas":  {
                                               "a":  "a antecipação, pelos pintores impressionistas, da tecnologia específica das câmeras de smartphone atuais, equipamento inexistente no século XIX",
                                               "b":  "a cultura do registro fotográfico instantâneo em redes sociais, que também busca capturar impressões momentâneas do cotidiano, ainda que com meios técnicos distintos dos impressionistas",
-                                              "c":  "a presença de pinceladas visíveis em uma tela, o que já bastaria para relacioná-la ao Impressionismo, independentemente de haver ou não interesse em captar a luz momentânea",
+                                              "c":  "a presença de pinceladas visíveis em uma tela, o que já bastaria para relacioná-la ao Impressionismo, independentemente de haver ou não interesse em captar a luz e a cor momentâneas da paisagem",
                                               "d":  "esse interesse pela captação do instante e da luz momentânea é um traço definidor do Neoclassicismo, e não do Impressionismo de Monet, Renoir e Degas"
                                           },
                          "resposta":  "b",
@@ -488,7 +488,7 @@
                          "texto_apoio":  "Vincent van Gogh e Paul Cézanne, no pós-impressionismo, buscaram maior estruturação formal ou expressividade simbólica, cada um a seu modo, além da captação objetiva da luz.",
                          "enunciado":  "Essa busca por uma via própria, distinta tanto do Impressionismo quanto da tradição acadêmica, pode ser relacionada à seguinte questão contemporânea sobre produção artística:",
                          "alternativas":  {
-                                              "a":  "a presença de cores fortes em uma tela, o que já bastaria para relacioná-la ao pós-impressionismo, independentemente de haver ou não uma busca por linguagem formal própria",
+                                              "a":  "a presença de cores fortes em uma tela, o que já bastaria para relacioná-la ao pós-impressionismo, independentemente de haver ou não uma busca por linguagem formal e estética própria",
                                               "b":  "a previsão, por van Gogh e Cézanne, dos critérios específicos usados hoje por curadores de bienais de arte contemporânea, prática institucional inexistente à época",
                                               "c":  "o debate sobre a valorização, no mercado e na crítica de arte atuais, de artistas que desenvolvem linguagem visual pessoal e reconhecível, em vez de seguir escolas já consolidadas",
                                               "d":  "essa busca por uma linguagem simbólica e formal própria é um traço definidor do Dadaísmo, e não do pós-impressionismo de van Gogh e Cézanne"
@@ -502,7 +502,7 @@
                          "texto_apoio":  "Marcel Duchamp, com \"A Fonte\" (1917), um urinol assinado e exposto como obra de arte, questionou radicalmente as noções de autoria, originalidade e valor artístico.",
                          "enunciado":  "Essa provocação de Duchamp sobre autoria e valor artístico pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a presença de um objeto industrial em uma exposição, o que já bastaria para relacioná-la à proposta de Duchamp, independentemente de haver ou não questionamento sobre autoria e valor artístico",
+                                              "a":  "a presença de um objeto industrial em uma exposição, o que já bastaria para relacioná-la à proposta de Duchamp, independentemente de haver ou não questionamento sobre autoria e valor artístico da obra",
                                               "b":  "o debate sobre a autoria de obras produzidas com inteligência artificial generativa, que reatualiza a pergunta de Duchamp sobre até que ponto o deslocamento de contexto basta para constituir arte",
                                               "c":  "essa provocação sobre autoria e originalidade é atribuída por historiadores da arte a Filippo Marinetti, e não a Marcel Duchamp, autor de \"A Fonte\" e principal expoente do movimento Dadá.",
                                               "d":  "a previsão exata, por Duchamp, das ferramentas de geração de imagem por inteligência artificial que surgiriam um século depois, tecnologia então inimaginável"
@@ -516,7 +516,7 @@
                          "texto_apoio":  "O Futurismo de Marinetti exaltava a velocidade e as máquinas, propunha a ruptura radical com o passado artístico e chegou a glorificar a guerra como \"higiene do mundo\" em seu manifesto original.",
                          "enunciado":  "Essa glorificação futurista da guerra e da ruptura radical com o passado é frequentemente relacionada, por historiadores, à seguinte questão:",
                          "alternativas":  {
-                                              "a":  "à presença de uma máquina representada em uma pintura futurista, o que já bastaria para relacionar essa obra ao totalitarismo, independentemente do conteúdo político do manifesto",
+                                              "a":  "à presença de uma máquina representada em uma pintura futurista, o que já bastaria para relacionar essa obra ao totalitarismo, independentemente do conteúdo político específico do manifesto",
                                               "b":  "à previsão exata, por Marinetti, dos regimes fascistas que se instalariam na Itália e na Alemanha nas décadas seguintes, hipótese anacrônica para 1909",
                                               "c":  "essa glorificação da guerra e da ruptura com o passado é um traço definidor do Cubismo de Picasso e Braque, e não do Futurismo de Marinetti",
                                               "d":  "à proximidade entre parte da estética futurista e discursos que Hannah Arendt analisaria como constitutivos do totalitarismo, ligados à exaltação da violência e do culto às massas"
@@ -559,7 +559,7 @@
                          "enunciado":  "Essa inspiração do Art Nouveau nas formas orgânicas da natureza pode ser relacionada à seguinte questão contemporânea sobre design:",
                          "alternativas":  {
                                               "a":  "a previsão, pelos designers do Art Nouveau, dos softwares de modelagem biomimética usados hoje em arquitetura, ferramenta tecnologicamente inexistente à época",
-                                              "b":  "a presença de uma linha curva em um objeto de design, o que já bastaria para relacioná-lo ao Art Nouveau, independentemente de haver ou não inspiração direta em formas orgânicas vegetais",
+                                              "b":  "a presença de uma linha curva em um objeto de design, o que já bastaria para relacioná-lo ao Art Nouveau, independentemente de haver ou não inspiração direta em formas orgânicas vegetais da natureza",
                                               "c":  "essa inspiração em formas orgânicas vegetais é um traço definidor do Art Déco, e não do Art Nouveau, movimento anterior de estética geométrica e angulosa bastante diversa.",
                                               "d":  "o debate atual sobre biodesign e arquitetura biomimética, que busca inspiração em estruturas e formas encontradas na natureza para desenvolver soluções funcionais e estéticas contemporâneas"
                                           },
@@ -629,7 +629,7 @@
                          "enunciado":  "Essa disposição de Gregório de Matos em satirizar publicamente a elite de seu tempo pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "a previsão, por Gregório de Matos, dos formatos específicos de humor e sátira política das redes sociais atuais, mídia inexistente no século XVII",
-                                              "b":  "a presença de um poema com rima, o que já bastaria para relacioná-lo à sátira de Gregório de Matos, independentemente de haver ou não crítica direta ao poder de sua época",
+                                              "b":  "a presença de um poema com rima, o que já bastaria para relacioná-lo à sátira de Gregório de Matos, independentemente de haver ou não crítica direta e contundente ao poder estabelecido de sua época",
                                               "c":  "essa sátira contundente contra a elite colonial é um traço definidor do Arcadismo de Tomás Antônio Gonzaga, e não da poesia barroca de Gregório de Matos",
                                               "d":  "o papel de comediantes e criadores de conteúdo digital que hoje utilizam sátira e humor ácido para criticar publicamente figuras de poder, enfrentando, como Gregório de Matos, retaliação"
                                           },
@@ -656,7 +656,7 @@
                          "texto_apoio":  "O Simbolismo, com Cruz e Sousa, valorizava a musicalidade, a sugestão e o símbolo para expressar estados de alma subjetivos, de caráter místico ou onírico.",
                          "enunciado":  "Essa opção simbolista pela sugestão em vez da descrição objetiva pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a presença de uma metáfora em um texto, o que já bastaria para relacioná-lo ao Simbolismo, independentemente de haver ou não busca por sugestão musical e estados de alma subjetivos",
+                                              "a":  "a presença de uma metáfora em um texto, o que já bastaria para relacioná-lo ao Simbolismo, independentemente de haver ou não busca por sugestão musical e estados de alma profundamente subjetivos",
                                               "b":  "essa valorização da sugestão e do símbolo é um traço definidor do Parnasianismo de Olavo Bilac, e não do Simbolismo de Cruz e Sousa, voltado à musicalidade subjetiva",
                                               "c":  "a previsão, por Cruz e Sousa, dos formatos específicos de videoclipe experimental que existem hoje, mídia tecnicamente inexistente no Brasil do final do século XIX",
                                               "d":  "o espaço que videoclipes e produções audiovisuais contemporâneas de caráter mais abstrato e sensorial reservam à sugestão e à atmosfera subjetiva, em vez de uma narrativa linear e explicativa"
@@ -698,7 +698,7 @@
                          "texto_apoio":  "A Geração de 45, com João Cabral de Melo Neto, buscou maior rigor formal e construção racional do poema, em reação à espontaneidade da primeira fase modernista.",
                          "enunciado":  "Esse retorno ao rigor formal em reação à espontaneidade anterior pode ser relacionado à seguinte questão contemporânea sobre movimentos culturais:",
                          "alternativas":  {
-                                              "a":  "a presença de um poema bem estruturado, o que já bastaria para relacioná-lo à Geração de 45, independentemente de haver ou não uma reação deliberada à espontaneidade modernista anterior",
+                                              "a":  "a presença de um poema bem estruturado, o que já bastaria para relacioná-lo à Geração de 45, independentemente de haver ou não uma reação verdadeiramente deliberada e consciente à espontaneidade modernista anterior",
                                               "b":  "o padrão histórico, observado em diferentes momentos culturais, de movimentos que buscam maior contenção e rigor formal como reação a fases anteriores marcadas por ruptura e espontaneidade excessivas",
                                               "c":  "a previsão, por João Cabral de Melo Neto, dos movimentos literários específicos que surgiriam décadas depois no Brasil, hipótese anacrônica para a poesia dos anos 1940",
                                               "d":  "esse retorno ao rigor formal em reação à espontaneidade anterior é um traço definidor do Modernismo de 1922, e não da Geração de 45, de proposta estética distinta e posterior"
@@ -768,7 +768,7 @@
                          "texto_apoio":  "Durante a ditadura militar, Chico Buarque teve canções censuradas e recorreu a metáforas e pseudônimos para expressar críticas veladas ao regime autoritário.",
                          "enunciado":  "Essa estratégia de driblar a censura por meio de linguagem indireta pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a presença de uma metáfora em uma canção, o que já bastaria para relacioná-la à estratégia de Chico Buarque durante a ditadura, independentemente do contexto político de censura em que a obra foi produzida",
+                                              "a":  "a presença de uma metáfora em uma canção, o que já bastaria para relacioná-la à estratégia de Chico Buarque durante a ditadura, independentemente do contexto político específico de censura em que a obra foi produzida",
                                               "b":  "a previsão, por Chico Buarque, dos mecanismos específicos de moderação de conteúdo usados hoje por plataformas digitais, tecnologia inexistente no período da ditadura militar brasileira.",
                                               "c":  "o debate sobre como artistas em países com forte controle estatal de conteúdo ainda hoje desenvolvem linguagens metafóricas e alegóricas para expressar críticas políticas sem sofrer censura ou perseguição direta",
                                               "d":  "essa estratégia de linguagem metafórica para driblar a censura é um traço definidor da obra de Caetano Veloso durante a Tropicália, e não da obra de Chico Buarque, de trajetória e contexto distintos."
@@ -810,7 +810,7 @@
                          "texto_apoio":  "A cultura hip hop, surgida nos Estados Unidos nas décadas de 1970 e 1980, reúne quatro elementos centrais: MCing (rap), DJing, breakdance e grafite, aos quais se acrescenta o \"quinto elemento\", o conhecimento.",
                          "enunciado":  "Essa estrutura multidisciplinar do hip hop permite relacioná-la à seguinte questão contemporânea sobre produção cultural de periferias urbanas:",
                          "alternativas":  {
-                                              "a":  "a presença de um DJ tocando música eletrônica em uma festa, o que já bastaria para relacioná-la à cultura hip hop, independentemente de haver ou não articulação entre os quatro elementos e o quinto elemento do conhecimento",
+                                              "a":  "a presença de um DJ tocando música eletrônica em uma festa, o que já bastaria para relacioná-la à cultura hip hop, independentemente de haver ou não articulação real entre os quatro elementos e o quinto elemento central do conhecimento",
                                               "b":  "a previsão, pelos criadores do hip hop nos Estados Unidos, dos movimentos culturais periféricos específicos que surgiriam no Brasil décadas depois, hipótese anacrônica e pouco plausível.",
                                               "c":  "essa estrutura de quatro elementos complementares é um traço definidor do Cinema Marginal brasileiro, e não da cultura hip hop, movimento de origem norte-americana e matriz afro-diaspórica.",
                                               "d":  "o modo como movimentos culturais de periferia atuais, como o próprio rap e o funk brasileiros, também articulam música, dança, artes visuais e consciência social como frentes complementares de uma mesma proposta cultural e política"
@@ -841,7 +841,7 @@
                                               "a":  "a previsão, por Rogério Sganzerla, dos formatos específicos de crítica cultural em vídeos de internet que existem hoje, hipótese anacrônica dado o contexto do cinema marginal",
                                               "b":  "o debate sobre produções culturais que questionam, de dentro, os próprios movimentos de arte engajada, evitando que a crítica social se torne uma fórmula estética previsível e institucionalizada",
                                               "c":  "essa autocrítica irônica ao cinema engajado tradicional é um traço definidor do Cinema Novo de Glauber Rocha, e não do cinema marginal de Rogério Sganzerla, de proposta radicalizada",
-                                              "d":  "a presença de cenas filmadas com câmera tremida, o que já bastaria para relacionar um filme ao cinema marginal, independentemente de haver ou não ironia em relação ao cinema engajado anterior"
+                                              "d":  "a presença de cenas filmadas com câmera tremida, o que já bastaria para relacionar um filme ao cinema marginal, independentemente de haver ou não ironia em relação ao cinema engajado tradicional anterior"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O cinema marginal ironizava as próprias pretensões do cinema engajado anterior, o que dialoga com produções culturais atuais que questionam de dentro a fórmula da arte engajada — distinto de uma associação genérica pela câmera tremida, de uma antecipação anacrônica de vídeos de internet, ou da confusão com o Cinema Novo.",
@@ -964,7 +964,7 @@
                          "texto_apoio":  "A body art utiliza o próprio corpo do artista como suporte central da obra, explorando-o como território de expressão, identidade e, frequentemente, de questionamento de normas de gênero.",
                          "enunciado":  "Essa exploração do corpo como território de questionamento de normas pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a presença de uma foto do rosto de um artista, o que já bastaria para relacioná-la à body art, independentemente de haver ou não questionamento de normas sociais ligadas ao corpo",
+                                              "a":  "a presença de uma foto do rosto de um artista, o que já bastaria para relacioná-la à body art, independentemente de haver ou não questionamento de normas sociais e culturais ligadas ao corpo",
                                               "b":  "essa exploração do corpo como território de questionamento de normas é um traço definidor da land art, e não da body art, corrente centrada na paisagem natural",
                                               "c":  "a previsão, pelos primeiros artistas da body art, dos filtros digitais de edição corporal usados hoje em redes sociais, tecnologia então inexistente",
                                               "d":  "o debate sobre como artistas contemporâneos usam o próprio corpo, em fotografia e redes sociais, para questionar padrões normativos de gênero, beleza e sexualidade impostos socialmente"
@@ -1006,7 +1006,7 @@
                          "texto_apoio":  "A Bienal de São Paulo, criada em 1951, teve como objetivo inserir o Brasil no circuito internacional de arte contemporânea, promovendo intercâmbio com tendências de outros países.",
                          "enunciado":  "Esse objetivo de inserção internacional da Bienal de São Paulo pode ser relacionado à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a existência de obras de diferentes países em uma mesma exposição, o que já bastaria para caracterizar seu objetivo como equivalente ao da Bienal de São Paulo, independentemente do projeto de inserção internacional por trás do evento",
+                                              "a":  "a existência de obras de diferentes países em uma mesma exposição, o que já bastaria para caracterizar seu objetivo como equivalente ao da Bienal de São Paulo, independentemente do projeto concreto de inserção internacional por trás do evento",
                                               "b":  "esse objetivo de inserir o Brasil no circuito internacional de arte é atribuído tradicionalmente à Semana de Arte Moderna de 1922, e não à criação da Bienal de São Paulo, evento posterior e distinto.",
                                               "c":  "a previsão, pelos criadores da Bienal de São Paulo em 1951, dos debates específicos sobre descolonização curatorial que ocorrem hoje, hipótese anacrônica e implausível para o contexto histórico do período.",
                                               "d":  "o debate sobre até que ponto artistas e curadores brasileiros conseguem hoje pautar temas e narrativas próprias no circuito internacional de arte, em vez de apenas reproduzir agendas e tendências definidas por centros culturais do exterior"
@@ -1035,7 +1035,7 @@
                          "enunciado":  "Essa combinação entre denúncia social e composição imagética elaborada na obra de Salgado pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "o debate sobre como fotografar com apuro estético crises humanitárias e deslocamentos forçados de populações sem transformar o sofrimento retratado em mero espetáculo visual esteticamente consumível",
-                                              "b":  "a existência de fotografias em preto e branco, o que já bastaria para relacioná-las ao trabalho de Salgado, independentemente de haver ou não denúncia social e apuro na composição da imagem",
+                                              "b":  "a existência de fotografias em preto e branco, o que já bastaria para relacioná-las ao trabalho de Salgado, independentemente de haver ou não denúncia social e apuro estético e visual na composição da imagem",
                                               "c":  "essa combinação entre denúncia social e apuro estético fotográfico é um traço definidor do fotojornalismo de guerra do início do século XX, e não da obra de Sebastião Salgado",
                                               "d":  "a previsão, por Sebastião Salgado, das rotas migratórias específicas que marcariam crises humanitárias décadas depois de seus ensaios fotográficos, hipótese anacrônica e pouco plausível."
                                           },
@@ -1120,7 +1120,7 @@
                          "alternativas":  {
                                               "a":  "essa proposta de participação corporal do espectador é um traço definidor do Concretismo paulista mais racionalista, e não do Neoconcretismo carioca de Lygia Clark",
                                               "b":  "a previsão, por Lygia Clark e Hélio Oiticica, dos formatos específicos de exposições interativas com tecnologia digital que existem hoje, tecnologia então inexistente",
-                                              "c":  "a presença de uma peça de tecido colorido em uma exposição, o que já bastaria para relacioná-la aos Parangolés de Oiticica, independentemente de haver ou não convite à participação corporal do espectador",
+                                              "c":  "a presença de uma peça de tecido colorido em uma exposição, o que já bastaria para relacioná-la aos Parangolés de Oiticica, independentemente de haver ou não convite à participação corporal ativa do espectador",
                                               "d":  "o debate sobre exposições e obras contemporâneas que convidam explicitamente o público a tocar, vestir ou manipular elementos da obra, questionando a distância tradicional entre espectador e objeto artístico"
                                           },
                          "resposta":  "d",
@@ -1148,7 +1148,7 @@
                          "alternativas":  {
                                               "a":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época",
                                               "b":  "o debate sobre como estilos arquitetônicos comunicam valores de uma época — o Art Déco expressando otimismo industrial dos anos 1920, tal como estilos atuais buscam expressar sustentabilidade ou inovação.",
-                                              "c":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época em questão.",
+                                              "c":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época histórica em questão.",
                                               "d":  "essa associação com os valores de modernidade e progresso industrial é um traço definidor do Art Nouveau, e não do Art Déco, de estética geométrica e angulosa bastante distinta e oposta."
                                           },
                          "resposta":  "b",
@@ -1204,7 +1204,7 @@
                          "alternativas":  {
                                               "a":  "essa trajetória de perseguição seguida de reconhecimento institucional é atribuída tradicionalmente ao samba, e não à capoeira, manifestação de trajetória histórica e cultural distinta.",
                                               "b":  "o debate sobre como práticas culturais afro-brasileiras, antes criminalizadas por associação com a população negra e pobre, passam por revalorização institucional nem sempre acompanhada de reparação às comunidades que as criaram.",
-                                              "c":  "a existência de movimentos corporais ritmados em uma manifestação cultural, o que já bastaria para relacioná-la à trajetória histórica específica de perseguição da capoeira, independentemente do contexto racial e social envolvido",
+                                              "c":  "a existência de movimentos corporais ritmados em uma manifestação cultural, o que já bastaria para relacioná-la à trajetória histórica específica de perseguição da capoeira, independentemente do contexto racial e social envolvido nela",
                                               "d":  "a previsão, pelos praticantes de capoeira do período colonial, do reconhecimento específico pela UNESCO que ocorreria em 2014, hipótese anacrônica para o contexto histórico da época."
                                           },
                          "resposta":  "b",
@@ -1217,7 +1217,7 @@
                          "enunciado":  "Essa distinção entre patrimônio material e imaterial pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
                                               "a":  "a previsão, pelos criadores do conceito de patrimônio imaterial, das práticas culturais específicas que seriam reconhecidas décadas depois, hipótese anacrônica e pouco plausível.",
-                                              "b":  "a existência de um documento oficial reconhecendo uma prática cultural, o que já bastaria, por si só, para garantir sua preservação efetiva ao longo do tempo, independentemente de mudanças sociais.",
+                                              "b":  "a existência de um documento oficial reconhecendo uma prática cultural, o que já bastaria, por si só, para garantir sua preservação efetiva ao longo do tempo, independentemente de mudanças sociais e culturais.",
                                               "c":  "essa distinção entre patrimônio material e imaterial é aplicada tradicionalmente apenas a bens europeus, sem equivalente em práticas culturais brasileiras historicamente reconhecidas.",
                                               "d":  "o debate sobre como proteger práticas culturais vivas e em constante transformação (línguas, festas, saberes tradicionais) sem congelá-las artificialmente em uma única forma \"autêntica\" ao longo do tempo."
                                           },
@@ -1247,7 +1247,7 @@
                                               "a":  "à forma de distribuição da receita entre plataformas, gravadoras e artistas, frequentemente criticada por resultar em remuneração considerada baixa por reprodução individual, sobretudo para artistas menos conhecidos.",
                                               "b":  "à previsão, pelos criadores das primeiras plataformas de streaming, dos modelos específicos de remuneração por reprodução que vigoram hoje, hipótese anacrônica para o contexto de sua criação.",
                                               "c":  "esse desafio de remuneração por reprodução individual é um debate restrito exclusivamente à indústria cinematográfica, sem equivalente na música, cuja lógica de distribuição é distinta.",
-                                              "d":  "à existência de aplicativos de streaming, fato que já bastaria, por si só, para comprovar que a remuneração de artistas é sempre injusta, independentemente de qualquer análise sobre modelos de distribuição de receita"
+                                              "d":  "à existência de aplicativos de streaming, fato que já bastaria, por si só, para comprovar que a remuneração de artistas é sempre injusta, independentemente de qualquer análise sobre modelos de distribuição de receita entre os envolvidos"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Um dos principais debates sobre direitos autorais na música envolve a forma de distribuição de receita entre plataformas, gravadoras e artistas — distinto de considerar a injustiça um fato automático (superficial), de uma antecipação anacrônica dos modelos de remuneração, ou de restringir indevidamente o debate à indústria cinematográfica.",
@@ -1259,7 +1259,7 @@
                          "enunciado":  "No debate acadêmico e cultural sobre a chamada \"cultura do cancelamento\", um dos pontos de tensão frequentemente discutidos é o equilíbrio entre",
                          "alternativas":  {
                                               "a":  "a previsão, pelos primeiros críticos culturais do século XX, do fenômeno específico do cancelamento nas redes sociais atuais, hipótese anacrônica para o contexto histórico da época.",
-                                              "b":  "a existência de comentários negativos sob uma publicação, fato que já bastaria, por si só, para caracterizar um caso de cancelamento, independentemente da proporção e do contexto da crítica recebida",
+                                              "b":  "a existência de comentários negativos sob uma publicação, fato que já bastaria, por si só, para caracterizar um caso de cancelamento, independentemente da proporção e do contexto da crítica recebida no caso",
                                               "c":  "a necessidade de responsabilização pública por discursos ou condutas prejudiciais e o risco de silenciamento excessivo ou punições desproporcionais promovidas pela pressão coletiva das redes sociais.",
                                               "d":  "esse debate sobre responsabilização pública e risco de punição desproporcional é restrito exclusivamente a figuras políticas, sem equivalente no campo artístico e cultural"
                                           },
@@ -1287,7 +1287,7 @@
                          "enunciado":  "Do ponto de vista dos estudos culturais contemporâneos, os fandoms de fenômenos como o K-pop podem ser analisados como comunidades que",
                          "alternativas":  {
                                               "a":  "existem apenas porque o produto cultural em questão é de boa qualidade musical, sem relação com dinâmicas de sociabilidade ou produção coletiva de conteúdo pelos fãs",
-                                              "b":  "essa produção cultural própria de fãs (fanarts, traduções coletivas) é um fenômeno restrito exclusivamente ao público brasileiro de rock nacional, sem equivalente em outros contextos musicais.",
+                                              "b":  "essa produção cultural própria de fãs (fanarts, traduções coletivas) é um fenômeno restrito exclusivamente ao público brasileiro de rock nacional, sem equivalente algum em outros contextos musicais e culturais.",
                                               "c":  "foram antecipadas, já nos primeiros fã-clubes de música das décadas de 1960 e 1970, em sua forma técnica atual de organização via redes sociais, hipótese anacrônica e implausível.",
                                               "d":  "desenvolvem intensa produção cultural própria (fanarts, traduções, campanhas coletivas) e formas de sociabilidade e identidade coletiva em torno do consumo compartilhado de um produto cultural globalizado"
                                           },

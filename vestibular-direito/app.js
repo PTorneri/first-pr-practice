@@ -1069,6 +1069,34 @@
   }
 
   // ---------- Achado 13: Obras obrigatórias (só FGV) ----------
+  // "Capas" ilustrativas 100% originais (ícone + tipografia), sem usar
+  // nenhuma imagem de capa/pintura/álbum real de terceiros — a lista de
+  // obras cobre autores majoritariamente ainda protegidos por direitos
+  // autorais (vida do autor + 70 anos no Brasil), então reproduzir a arte
+  // real de cada uma aqui não é viável.
+  const OBRA_CATEGORIA_META = {
+    "Ensaio": {
+      cls: "cat-ensaio",
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 3h9l3 3v15H6z"/><path d="M15 3v3h3"/><path d="M9 9h3M9 12h6M9 15h6"/></svg>',
+    },
+    "Literatura": {
+      cls: "cat-literatura",
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 5c2-1 5-1 8 1v13c-3-2-6-2-8-1z"/><path d="M20 5c-2-1-5-1-8 1v13c3-2 6-2 8-1z"/></svg>',
+    },
+    "Artes visuais": {
+      cls: "cat-artes",
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="4" width="18" height="16" rx="1"/><circle cx="8.5" cy="9" r="1.5"/><path d="M3 16l5-5 4 4 3-3 6 6"/></svg>',
+    },
+    "Cinema": {
+      cls: "cat-cinema",
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 9l1.5-4h15L21 9"/><rect x="3" y="9" width="18" height="11" rx="1"/><path d="M3 9l3-4M9 9l3-4M15 9l3-4"/></svg>',
+    },
+    "Música": {
+      cls: "cat-musica",
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="7" cy="17" r="2.5"/><circle cx="16" cy="15" r="2.5"/><path d="M9.5 17V5.5L18.5 4v11"/></svg>',
+    },
+  };
+
   function renderObrasTab() {
     const container = document.getElementById("obras-content");
     container.innerHTML = "";
@@ -1123,7 +1151,16 @@
     const cenaHtml = o.cenaOuTrechoChave
       ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Cena/trecho-chave:</strong> ${escapeHtml(o.cenaOuTrechoChave)}</p>`
       : "";
+    const catMeta = OBRA_CATEGORIA_META[o.categoria] || { cls: "cat-default", icon: "" };
+    const coverHtml = `
+      <div class="obra-cover ${catMeta.cls}">
+        <div class="obra-cover-icon">${catMeta.icon}</div>
+        <div class="obra-cover-title">${escapeHtml(o.titulo)}</div>
+        <div class="obra-cover-autor">${escapeHtml(o.autor)}</div>
+      </div>
+    `;
     card.innerHTML = `
+      ${coverHtml}
       <div class="lesson-eyebrow">${escapeHtml(o.categoria)} · ${escapeHtml(o.origem)}</div>
       <h3>${escapeHtml(o.titulo)}</h3>
       <p class="lesson-desc" style="margin-bottom:8px;">${escapeHtml(o.autor)}</p>

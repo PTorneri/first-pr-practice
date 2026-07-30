@@ -21,6 +21,20 @@
   --bad-soft: #FEE2E2;
   --warn: #C9A227;
   --warn-soft: #FBF1D6;
+
+  /* "Capas" ilustrativas das obras obrigatórias, por categoria — só cor e
+     ícone, nunca imagem de terceiros (ver comentário em app.js). */
+  --cat-ensaio: #4338CA;
+  --cat-ensaio-soft: #E5E3FA;
+  --cat-literatura: #8B5E34;
+  --cat-literatura-soft: #F1E6D8;
+  --cat-artes: #B45309;
+  --cat-artes-soft: #FCE8D2;
+  --cat-cinema: #334155;
+  --cat-cinema-soft: #E4E7EC;
+  --cat-musica: #0E7490;
+  --cat-musica-soft: #DCF2F6;
+
   --radius: 14px;
   --shadow: 0 1px 2px rgba(10,37,64,0.06), 0 8px 24px rgba(10,37,64,0.08);
 }
@@ -44,6 +58,18 @@
     --bad-soft: rgba(248,113,113,0.20);
     --warn: #E0C36B;
     --warn-soft: rgba(201,162,39,0.22);
+
+    --cat-ensaio: #A5A0F5;
+    --cat-ensaio-soft: rgba(165,160,245,0.16);
+    --cat-literatura: #D8B48C;
+    --cat-literatura-soft: rgba(216,180,140,0.16);
+    --cat-artes: #F2AE6C;
+    --cat-artes-soft: rgba(242,174,108,0.16);
+    --cat-cinema: #A7B2C2;
+    --cat-cinema-soft: rgba(167,178,194,0.16);
+    --cat-musica: #6BCBE0;
+    --cat-musica-soft: rgba(107,203,224,0.16);
+
     --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
   }
 }
@@ -378,6 +404,28 @@ body {
 .obras-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-top: 16px; }
 .obra-card { margin-bottom: 0; }
 .obra-card.obra-studied { border-color: var(--good); }
+
+/* "Capa" ilustrativa original (ícone + tipografia) — ver nota em app.js
+   sobre por que não usamos imagens reais de capa/pintura/álbum aqui. */
+.obra-cover {
+  aspect-ratio: 3 / 4; border-radius: 10px; margin-bottom: 14px; padding: 18px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; gap: 10px; background: var(--bg); color: var(--ink-soft);
+  border: 1px solid var(--border); overflow: hidden;
+}
+.obra-cover.cat-ensaio { background: var(--cat-ensaio-soft); color: var(--cat-ensaio); }
+.obra-cover.cat-literatura { background: var(--cat-literatura-soft); color: var(--cat-literatura); }
+.obra-cover.cat-artes { background: var(--cat-artes-soft); color: var(--cat-artes); }
+.obra-cover.cat-cinema { background: var(--cat-cinema-soft); color: var(--cat-cinema); }
+.obra-cover.cat-musica { background: var(--cat-musica-soft); color: var(--cat-musica); }
+.obra-cover-icon { width: 38px; height: 38px; opacity: 0.9; flex-shrink: 0; }
+.obra-cover-icon svg { width: 100%; height: 100%; }
+.obra-cover-title {
+  font-family: ui-serif, Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-weight: 600; font-size: 1.02rem; line-height: 1.28;
+  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;
+}
+.obra-cover-autor { font-size: 0.8rem; font-weight: 600; opacity: 0.85; }
 .obra-detail { margin: 10px 0; padding-top: 10px; border-top: 1px solid var(--border); font-size: 0.9rem; }
 .obra-pontos-chave { margin: 8px 0 0; padding-left: 20px; font-size: 0.9rem; color: var(--ink-soft); }
 .obra-pontos-chave li { margin-bottom: 4px; }

@@ -5,7 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rumo à FGV/Insper — Plano de 90 dias (v2)</title>
 <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
-<link rel="stylesheet" href="styles.css">
+<!-- O GitHub Pages serve os arquivos com Cache-Control: max-age=600, então quem
+     já visitou continua vendo a versão antiga do CSS/JS por até 10 minutos após
+     uma publicação. O ?v= abaixo muda a URL do arquivo e força o navegador a
+     buscar de novo. AO PUBLICAR UMA MUDANÇA EM styles.css OU app.js, INCREMENTE
+     ESTE NÚMERO nos três lugares (aqui e nos dois <script> no fim da página).
+
+     Os módulos internos (sync.js, feedback.js, firebase-init.js) NÃO levam ?v=
+     de propósito: eles são importados por auth.js, e para o navegador cada URL
+     diferente é um módulo diferente — se auth.js e sync.js importassem
+     "firebase-init.js?v=1" e "firebase-init.js?v=2", o Firebase seria
+     inicializado duas vezes e o app quebraria. Mudou um desses três? Espere os
+     10 minutos ou recarregue forçando (Ctrl+Shift+R). -->
+<link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body>
 <div id="app">
@@ -190,7 +202,7 @@
 <script src="../vestibular-direito/data/bundle.js"></script>
 <script src="../vestibular-direito/data/dissertativas.js"></script>
 <script src="../vestibular-direito/schedule.js"></script>
-<script src="app.js"></script>
-<script type="module" src="auth.js"></script>
+<script src="app.js?v=2"></script>
+<script type="module" src="auth.js?v=2"></script>
 </body>
 </html>

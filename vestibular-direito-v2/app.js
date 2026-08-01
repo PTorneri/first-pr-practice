@@ -1476,7 +1476,7 @@
       btn.className = "btn-ghost";
       btn.textContent = "Terminei — puxar mais 10";
       btn.addEventListener("click", () => {
-        const more = pickMoreQuestions(lesson.subtopicId, lesson.visitNumber - 1, day, alreadyShown, 10);
+        const more = pickMoreQuestions(lesson.subtopicId, lesson.visitNumber - 1, day, alreadyShown, 10, lesson.qOffset);
         if (more.length === 0) {
           btn.textContent = "Sem mais questões novas neste banco por enquanto";
           btn.disabled = true;

@@ -1,0 +1,106 @@
+{
+  "_comentario": [
+    "Geografia, lote 1: quinta alternativa para 10 questões em prosa.",
+    "",
+    "As 53 questões de afirmativas I/II/III desta frente já foram convertidas por script,",
+    "porque lá a quinta alternativa é uma combinação que sobra e não precisa ser inventada.",
+    "Aqui não: cada quinta é conteúdo novo, escrito à mão.",
+    "",
+    "Critérios de cada distrator novo:",
+    "1. Corresponde a um erro de raciocínio real de quem estudou pela metade — nunca um",
+    "   absurdo eliminável de imediato.",
+    "2. Sem absolutismo ('sempre', 'nunca', 'exclusivamente'), que entrega a alternativa.",
+    "3. Comprimento próximo ao das demais, para não denunciar por tamanho.",
+    "4. Mesma forma gramatical das outras quatro.",
+    "",
+    "Os melhores desta leva são os que invertem uma verdade: em geografia-15, a alternativa",
+    "nova afirma que o Cerrado tinha solos naturalmente férteis que dispensaram correção —",
+    "o oposto exato do que ocorreu, e uma confusão comum. Em geografia-20, a nova começa",
+    "com uma afirmação correta (cada centímetro equivale a um milhão) e erra só na conclusão.",
+    "",
+    "A letra da resposta foi redistribuída para 2 em cada uma das cinco posições. Sem isso,",
+    "as novas cairiam sempre em 'e' e a letra E nunca seria a correta."
+  ],
+  "questoes": {
+    "geografia-01": {
+      "motivo": "quinta alternativa: crescimento vegetativo como suposto motor isolado da urbanização",
+      "gabarito": { "de": "c", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Uma valorização da pequena propriedade rural, que ampliou o número de postos de trabalho agrícola e reduziu o deslocamento para as cidades",
+        "b": "Uma política federal de fixação do trabalhador no campo por meio de subsídios à agricultura de subsistência",
+        "c": "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo",
+        "d": "O crescimento vegetativo da população já urbana, isoladamente, sem contribuição relevante dos deslocamentos internos no período",
+        "e": "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades"
+      }
+    },
+    "geografia-02": {
+      "motivo": "quinta alternativa: suposta retração do crescimento urbano a partir dos anos 1970",
+      "alternativas": {
+        "e": "A retração do crescimento populacional urbano a partir dos anos 1970, que teria reduzido a pressão sobre o mercado formal de moradia"
+      }
+    },
+    "geografia-07": {
+      "motivo": "quinta alternativa: matriz supostamente nuclear, confusão comum com Angra",
+      "alternativas": {
+        "e": "Uma geração predominantemente nuclear, resultado de investimentos concentrados em usinas construídas nas décadas de 1980 e 1990"
+      }
+    },
+    "geografia-11": {
+      "motivo": "quinta alternativa: mineração licenciada como suposta causa principal",
+      "gabarito": { "de": "b", "para": "d", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "A ampliação das áreas de proteção ambiental na região, que reduz o controle estatal sobre o uso do solo e amplia a fiscalização",
+        "b": "O aumento da demanda internacional por produtos certificados livres de desmatamento, que expandiria as áreas já desmatadas",
+        "c": "O crescimento da renda das populações tradicionais da região, que passaram a investir em pecuária extensiva e monocultura",
+        "d": "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
+        "e": "A expansão da mineração industrial licenciada, responsável pela maior parte da área desmatada anualmente no bioma"
+      }
+    },
+    "geografia-12": {
+      "motivo": "quinta alternativa: confusão entre divisão regional e delimitação de biomas",
+      "alternativas": {
+        "e": "Critérios estritamente físicos, definidos pela delimitação dos grandes biomas brasileiros, que coincidiriam com os limites das cinco regiões"
+      }
+    },
+    "geografia-15": {
+      "motivo": "quinta alternativa: inverte a verdade sobre os solos do Cerrado, que exigiram correção",
+      "gabarito": { "de": "a", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
+        "b": "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
+        "c": "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
+        "d": "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala",
+        "e": "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais"
+      }
+    },
+    "geografia-16": {
+      "motivo": "quinta alternativa: fronteira agrícola do Centro-Oeste como suposto destino principal",
+      "alternativas": {
+        "e": "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX"
+      }
+    },
+    "geografia-19": {
+      "motivo": "quinta alternativa: confusão entre horário de Brasília e fuso único",
+      "alternativas": {
+        "e": "O território brasileiro se distribui em um único fuso, adotado como horário oficial pelos estados desde a criação do sistema no país"
+      }
+    },
+    "geografia-20": {
+      "motivo": "quinta alternativa: parte de uma leitura correta da escala e erra só na conclusão",
+      "alternativas": {
+        "e": "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000"
+      }
+    },
+    "geografia-21": {
+      "motivo": "quinta alternativa: clima de altitude intertropical como distrator",
+      "gabarito": { "de": "a", "para": "c", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Temperaturas amenas e concentração das chuvas apenas nos meses de inverno, como ocorre no clima mediterrâneo do sul da Europa",
+        "b": "Temperaturas elevadas apenas na estação chuvosa, com queda acentuada na estação seca, padrão típico de climas tropicais sazonais",
+        "c": "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
+        "d": "Grande amplitude térmica diária e chuvas escassas, concentradas em poucos dias do ano, como nas regiões desérticas e semiáridas",
+        "e": "Temperaturas médias baixas ao longo de todo o ano e umidade elevada, condição associada a áreas de altitude elevada na faixa intertropical"
+      }
+    }
+  }
+}

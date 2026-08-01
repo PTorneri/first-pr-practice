@@ -51,6 +51,32 @@ foreach ($file in $files) {
             "corrigir um gabarito errado, use o bloco 'gabarito' (de/para/justificativa)."
     }
 
+    # As alternativas são aplicadas ANTES do bloco de gabarito. A ordem importa:
+    # quando o patch acrescenta a quinta alternativa e move a resposta para ela,
+    # a letra precisa existir antes de virar gabarito.
+    $letrasTocadas = @()
+    if ($p.alternativas) {
+      foreach ($prop in $p.alternativas.PSObject.Properties) {
+        $letra = $prop.Name
+        if (-not ($q.alternativas.PSObject.Properties.Name -contains $letra)) {
+          # Uma letra que não existe normalmente é erro de digitação no patch.
+          # A única exceção é acrescentar a quinta alternativa a uma questão que
+          # tem exatamente quatro — que é o alinhamento com o estudo das bancas.
+          # Qualquer outra letra nova continua sendo recusada.
+          $qtdAtual = @($q.alternativas.PSObject.Properties.Name).Count
+          if ($letra -ne "e" -or $qtdAtual -ne 4) {
+            throw "Questão $($q.id) não tem alternativa '$letra' (e tem $qtdAtual alternativas)."
+          }
+          $q.alternativas | Add-Member -NotePropertyName $letra -NotePropertyValue $prop.Value
+          $letrasTocadas += "$letra (nova)"
+          $mudouArquivo = $true
+          continue
+        }
+        $q.alternativas.$letra = $prop.Value
+        $letrasTocadas += $letra
+        $mudouArquivo = $true
+      }
+    }
     # Correção deliberada de gabarito.
     #
     # Existe separada e é verbosa de propósito. Mudar qual alternativa é a
@@ -76,18 +102,6 @@ foreach ($file in $files) {
       Write-Output ("  {0,-32} GABARITO: {1} -> {2}" -f $q.id, $g.de, $g.para)
     }
 
-    $letrasTocadas = @()
-    if ($p.alternativas) {
-      foreach ($prop in $p.alternativas.PSObject.Properties) {
-        $letra = $prop.Name
-        if (-not ($q.alternativas.PSObject.Properties.Name -contains $letra)) {
-          throw "Questão $($q.id) não tem alternativa '$letra'."
-        }
-        $q.alternativas.$letra = $prop.Value
-        $letrasTocadas += $letra
-        $mudouArquivo = $true
-      }
-    }
     if ($p.explicacao) { $q.explicacao = $p.explicacao; $mudouArquivo = $true }
 
     $aplicadas[$q.id] = $true

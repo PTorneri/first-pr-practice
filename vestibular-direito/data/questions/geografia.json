@@ -8,10 +8,11 @@
                          "alternativas":  {
                                               "a":  "Uma valorização da pequena propriedade rural, que ampliou o número de postos de trabalho agrícola e reduziu o deslocamento para as cidades",
                                               "b":  "Uma política federal de fixação do trabalhador no campo por meio de subsídios à agricultura de subsistência",
-                                              "c":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades",
-                                              "d":  "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo"
+                                              "c":  "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo",
+                                              "d":  "O crescimento vegetativo da população já urbana, isoladamente, sem contribuição relevante dos deslocamentos internos no período",
+                                              "e":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "A modernização agrícola reduziu a demanda por mão de obra no campo, enquanto a industrialização concentrada nas cidades atraía trabalhadores em busca de emprego, resultando em intenso êxodo rural. As demais alternativas invertem o sentido do processo histórico: não houve nem valorização da pequena propriedade que retivesse trabalhadores, nem política de fixação rural, nem retorno de indústrias ao campo."
                      },
                      {
@@ -22,7 +23,8 @@
                                               "a":  "A migração de moradores de bairros centrais valorizados para áreas periféricas por preferência de estilo de vida",
                                               "b":  "A insuficiência de políticas habitacionais frente ao intenso crescimento urbano, à especulação imobiliária e à concentração de renda",
                                               "c":  "Uma redistribuição de infraestrutura urbana que priorizou historicamente bairros periféricos em detrimento das áreas centrais",
-                                              "d":  "Um planejamento urbano municipal que previu, desde o início da industrialização, áreas de habitação popular equivalentes às centrais"
+                                              "d":  "Um planejamento urbano municipal que previu, desde o início da industrialização, áreas de habitação popular equivalentes às centrais",
+                                              "e":  "A retração do crescimento populacional urbano a partir dos anos 1970, que teria reduzido a pressão sobre o mercado formal de moradia"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O crescimento urbano acelerado, não acompanhado de políticas habitacionais adequadas, somado à especulação imobiliária e à concentração de renda, empurrou parte da população para ocupações irregulares. As demais alternativas descrevem um cenário inverso ao efetivamente observado: planejamento habitacional equivalente, migração por preferência (não necessidade) e priorização de periferias, nenhum deles condizente com a formação histórica das favelas brasileiras."
@@ -91,7 +93,8 @@
                                               "a":  "Uma participação de fontes renováveis próxima à média mundial, sem destaque em relação a outros países, padrão comum entre economias de industrialização tardia",
                                               "b":  "Uma matriz elétrica baseada majoritariamente em termelétricas a gás natural importado, à semelhança de países sem grande potencial hídrico próprio",
                                               "c":  "Uma participação historicamente elevada de fontes renováveis, especialmente a energia hidrelétrica, na geração de eletricidade",
-                                              "d":  "Uma dependência do carvão mineral equivalente à observada em países como China e Índia, decorrente de reservas domésticas abundantes desse insumo"
+                                              "d":  "Uma dependência do carvão mineral equivalente à observada em países como China e Índia, decorrente de reservas domésticas abundantes desse insumo",
+                                              "e":  "Uma geração predominantemente nuclear, resultado de investimentos concentrados em usinas construídas nas décadas de 1980 e 1990"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diferentemente da maior parte do mundo, cuja matriz elétrica depende fortemente de combustíveis fósseis, o Brasil possui, devido ao seu potencial hídrico, uma matriz elétrica historicamente concentrada em hidrelétricas. As demais alternativas atribuem ao Brasil padrões de outros países (carvão como China/Índia, gás importado) ou nivelam sua matriz à média mundial, o que contraria o traço mais distintivo da matriz elétrica brasileira."
@@ -144,11 +147,12 @@
                          "enunciado":  "Entre os principais fatores que impulsionam o desmatamento na Amazônia brasileira, destacam-se:",
                          "alternativas":  {
                                               "a":  "A ampliação das áreas de proteção ambiental na região, que reduz o controle estatal sobre o uso do solo e amplia a fiscalização",
-                                              "b":  "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
-                                              "c":  "O aumento da demanda internacional por produtos certificados livres de desmatamento, que expandiria as áreas já desmatadas",
-                                              "d":  "O crescimento da renda das populações tradicionais da região, que passaram a investir em pecuária extensiva e monocultura"
+                                              "b":  "O aumento da demanda internacional por produtos certificados livres de desmatamento, que expandiria as áreas já desmatadas",
+                                              "c":  "O crescimento da renda das populações tradicionais da região, que passaram a investir em pecuária extensiva e monocultura",
+                                              "d":  "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
+                                              "e":  "A expansão da mineração industrial licenciada, responsável pela maior parte da área desmatada anualmente no bioma"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "O desmatamento na Amazônia está fortemente associado à expansão da pecuária e da agricultura, à exploração madeireira ilegal e à grilagem de terras públicas. As demais alternativas invertem a lógica do processo: a demanda por produtos certificados tende a reduzir, não ampliar, a pressão por novas áreas; a ampliação de áreas protegidas tende a reforçar, não reduzir, o controle ambiental; e o fenômeno não decorre do enriquecimento de populações tradicionais."
                      },
                      {
@@ -159,7 +163,8 @@
                                               "a":  "Critérios de agregação de estados para fins estatísticos e de planejamento, considerando aspectos físicos, econômicos e sociais",
                                               "b":  "Limites administrativos definidos pela Constituição de 1988, que teria fixado as cinco regiões como entes federativos dotados de autonomia própria",
                                               "c":  "Critérios exclusivamente linguísticos, relacionados a variações regionais do português falado nas diferentes áreas do território nacional",
-                                              "d":  "Fronteiras herdadas diretamente da divisão em capitanias hereditárias do período colonial português, mantidas inalteradas até os dias atuais"
+                                              "d":  "Fronteiras herdadas diretamente da divisão em capitanias hereditárias do período colonial português, mantidas inalteradas até os dias atuais",
+                                              "e":  "Critérios estritamente físicos, definidos pela delimitação dos grandes biomas brasileiros, que coincidiriam com os limites das cinco regiões"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A divisão regional do IBGE é uma construção administrativa e estatística, criada para fins de planejamento e comparação de dados, considerando critérios físicos, econômicos e sociais. As regiões não são entes federativos previstos na Constituição, não correspondem às antigas capitanias e não se baseiam em critérios linguísticos."
@@ -197,12 +202,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
                          "alternativas":  {
-                                              "a":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais",
-                                              "b":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
-                                              "c":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
-                                              "d":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região"
+                                              "a":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
+                                              "b":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
+                                              "c":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
+                                              "d":  "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala",
+                                              "e":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real."
                      },
                      {
@@ -213,7 +219,8 @@
                                               "a":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes, fenômeno mais expressivo a partir dos anos 1990",
                                               "b":  "A busca por melhores condições climáticas, já que o Sudeste apresenta regime de chuvas mais regular do que todo o Nordeste",
                                               "c":  "Um programa federal de assentamento que redirecionou trabalhadores rurais nordestinos para a fronteira agrícola amazônica, iniciativa conduzida principalmente durante o regime militar",
-                                              "d":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste"
+                                              "d":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste",
+                                              "e":  "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios rumo às regiões industrializadas do Sudeste. O fluxo migratório histórico foi predominantemente de trabalhadores em busca de emprego industrial e urbano, não de um programa de assentamento amazônico, nem majoritariamente de estudantes, nem motivado centralmente por diferenças climáticas."
@@ -254,7 +261,8 @@
                                               "a":  "O Brasil, devido à sua grande extensão longitudinal, abrange mais de um fuso horário, com diferença de horário entre Fernando de Noronha e o restante do país",
                                               "b":  "O Brasil possui o mesmo número de fusos horários que a Rússia, o maior país em extensão longitudinal do mundo, já que ambos têm dimensões territoriais comparáveis",
                                               "c":  "Os fusos horários no Brasil são definidos pela latitude de cada região, e não por sua longitude, o que explicaria a diferença entre o Norte e o Sul do país",
-                                              "d":  "O horário de Brasília é definido a partir do meridiano que passa por Fernando de Noronha, arquipélago tomado como referência oficial do país"
+                                              "d":  "O horário de Brasília é definido a partir do meridiano que passa por Fernando de Noronha, arquipélago tomado como referência oficial do país",
+                                              "e":  "O território brasileiro se distribui em um único fuso, adotado como horário oficial pelos estados desde a criação do sistema no país"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Devido à grande extensão leste-oeste do território brasileiro, o país abrange mais de um fuso horário, havendo diferença de horário entre Fernando de Noronha, mais adiantado, e a maior parte do território continental. Fusos horários se relacionam à longitude, não à latitude, e o Brasil possui número de fusos bem menor do que a Rússia."
@@ -267,7 +275,8 @@
                                               "a":  "Representa a mesma área que o mapa de escala 1:10.000, porém com uma legenda de cores distinta e uma paleta cartográfica mais simplificada",
                                               "b":  "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão",
                                               "c":  "Utiliza uma projeção cartográfica diferente, o que alteraria a relação entre distância representada e distância real no terreno",
-                                              "d":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles"
+                                              "d":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles",
+                                              "e":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área."
@@ -277,12 +286,13 @@
                          "texto_apoio":  "A região amazônica apresenta um clima predominantemente equatorial.",
                          "enunciado":  "Esse tipo climático caracteriza-se principalmente por:",
                          "alternativas":  {
-                                              "a":  "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
-                                              "b":  "Temperaturas amenas e concentração das chuvas apenas nos meses de inverno, como ocorre no clima mediterrâneo do sul da Europa",
-                                              "c":  "Temperaturas elevadas apenas na estação chuvosa, com queda acentuada na estação seca, padrão típico de climas tropicais sazonais",
-                                              "d":  "Grande amplitude térmica diária e chuvas escassas, concentradas em poucos dias do ano, como nas regiões desérticas e semiáridas"
+                                              "a":  "Temperaturas amenas e concentração das chuvas apenas nos meses de inverno, como ocorre no clima mediterrâneo do sul da Europa",
+                                              "b":  "Temperaturas elevadas apenas na estação chuvosa, com queda acentuada na estação seca, padrão típico de climas tropicais sazonais",
+                                              "c":  "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
+                                              "d":  "Grande amplitude térmica diária e chuvas escassas, concentradas em poucos dias do ano, como nas regiões desérticas e semiáridas",
+                                              "e":  "Temperaturas médias baixas ao longo de todo o ano e umidade elevada, condição associada a áreas de altitude elevada na faixa intertropical"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "c",
                          "explicacao":  "O clima equatorial caracteriza-se por temperaturas elevadas e relativamente constantes ao longo do ano e por índices pluviométricos altos e bem distribuídos, sem estação seca definida. As demais alternativas descrevem características de outros tipos climáticos (mediterrâneo, semiárido) ou uma variação térmica sazonal que não é típica do clima equatorial."
                      },
                      {

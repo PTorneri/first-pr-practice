@@ -1,0 +1,99 @@
+{
+  "_comentario": [
+    "Geografia, lote 2: quinta alternativa para mais 10 questões em prosa.",
+    "",
+    "Mesmos critérios do lote 1: o distrator novo corresponde a um erro de raciocínio real,",
+    "sem absolutismo, com comprimento e forma gramatical próximos aos das outras quatro.",
+    "",
+    "Nesta leva, a maior parte das novas explora a CONFUSÃO ENTRE CASOS VIZINHOS, que é o",
+    "erro típico de geografia: trocar o Cerrado pelos campos sulinos, a Caatinga pelo",
+    "Pantanal, substituição de importações por modelo exportador. Quem estudou os dois",
+    "assuntos mas não fixou o traço que os separa cai — que é exatamente o candidato que a",
+    "questão deveria distinguir.",
+    "",
+    "Duas fogem desse padrão e testam raciocínio econômico plausível porém errado:",
+    "em geografia-25, a nova argumenta que a dificuldade de escoamento estimularia o",
+    "processamento local dos grãos; em geografia-34, que o envelhecimento reduziria a",
+    "arrecadação sobre consumo. Ambas soam razoáveis e não se sustentam.",
+    "",
+    "Letra da resposta redistribuída em 2 para cada posição, como no lote anterior."
+  ],
+  "questoes": {
+    "geografia-22": {
+      "motivo": "quinta alternativa: campos sulinos no lugar da savana do Cerrado",
+      "gabarito": { "de": "d", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "d": "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
+        "e": "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas"
+      }
+    },
+    "geografia-23": {
+      "motivo": "quinta alternativa: condições do Pantanal atribuídas à Caatinga",
+      "gabarito": { "de": "c", "para": "a", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
+        "c": "Clima equatorial, com chuvas abundantes distribuídas uniformemente ao longo do ano, favorecendo florestas densas",
+        "e": "Solos saturados por inundações sazonais dos rios, condição que favorece espécies de grande porte adaptadas ao alagamento periódico"
+      }
+    },
+    "geografia-24": {
+      "motivo": "quinta alternativa: modal aéreo como suposto predominante em passageiros",
+      "alternativas": {
+        "e": "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país"
+      }
+    },
+    "geografia-25": {
+      "motivo": "quinta alternativa: raciocínio econômico plausível de que o gargalo logístico induziria processamento local",
+      "alternativas": {
+        "e": "Um estímulo à industrialização das regiões produtoras, já que a dificuldade de escoamento incentivaria o processamento local dos grãos"
+      }
+    },
+    "geografia-26": {
+      "motivo": "quinta alternativa: modelo exportador de manufaturados no lugar da substituição de importações",
+      "alternativas": {
+        "e": "Estimular a especialização do país na exportação de manufaturados de alta tecnologia, reduzindo a produção interna de bens de consumo básico"
+      }
+    },
+    "geografia-27": {
+      "motivo": "quinta alternativa: suposta saturação do mercado consumidor paulista",
+      "gabarito": { "de": "c", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "c": "A saturação do mercado consumidor paulista, que teria deixado de absorver a produção industrial e forçado a busca por consumidores em outras regiões",
+        "e": "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes"
+      }
+    },
+    "geografia-28": {
+      "motivo": "quinta alternativa: confunde segurança alimentar com soberania alimentar",
+      "alternativas": {
+        "e": "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos"
+      }
+    },
+    "geografia-29": {
+      "motivo": "quinta alternativa: restaurantes populares como frente isolada do programa",
+      "gabarito": { "de": "c", "para": "a", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar e apoio à agricultura familiar",
+        "c": "A criação de um imposto federal sobre a produção de pequenos agricultores para financiar a distribuição de alimentos à população urbana",
+        "e": "A criação de uma rede estatal de restaurantes populares, concebida como frente isolada e desvinculada de programas de transferência de renda"
+      }
+    },
+    "geografia-33": {
+      "motivo": "quinta alternativa: elevação simultânea de natalidade e mortalidade",
+      "gabarito": { "de": "a", "para": "b", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
+        "b": "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
+        "e": "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas"
+      }
+    },
+    "geografia-34": {
+      "motivo": "quinta alternativa: raciocínio econômico plausível sobre arrecadação e consumo",
+      "gabarito": { "de": "b", "para": "c", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
+        "c": "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
+        "e": "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor"
+      }
+    }
+  }
+}

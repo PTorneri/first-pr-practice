@@ -303,9 +303,10 @@
                                               "a":  "Clima subtropical úmido, com ocorrência frequente de geadas ao longo de todo o ano, semelhante ao observado no extremo Sul do país",
                                               "b":  "Vegetação de mangue, adaptada a áreas de encontro entre rios e o mar, com solo permanentemente encharcado pela maré",
                                               "c":  "Floresta tropical densa e fechada, com dossel contínuo, em tudo semelhante à vegetação amazônica de alta umidade",
-                                              "d":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas"
+                                              "d":  "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
+                                              "e":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado."
                      },
                      {
@@ -313,12 +314,13 @@
                          "texto_apoio":  "A Caatinga é um bioma exclusivamente brasileiro, predominante no interior do Nordeste.",
                          "enunciado":  "A vegetação e o clima característicos da Caatinga adaptaram-se a condições de:",
                          "alternativas":  {
-                                              "a":  "Clima equatorial, com chuvas abundantes distribuídas uniformemente ao longo do ano, favorecendo florestas densas",
+                                              "a":  "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
                                               "b":  "Umidade constante, semelhante à observada na Mata Atlântica, o que favorece espécies de folhas largas e permanentes",
-                                              "c":  "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
-                                              "d":  "Clima tropical de altitude, com temperaturas amenas e chuvas regulares ao longo de todo o ano, como na Mantiqueira"
+                                              "c":  "Clima equatorial, com chuvas abundantes distribuídas uniformemente ao longo do ano, favorecendo florestas densas",
+                                              "d":  "Clima tropical de altitude, com temperaturas amenas e chuvas regulares ao longo de todo o ano, como na Mantiqueira",
+                                              "e":  "Solos saturados por inundações sazonais dos rios, condição que favorece espécies de grande porte adaptadas ao alagamento periódico"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "A Caatinga desenvolveu-se em região de clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila adaptada à escassez hídrica. As demais alternativas descrevem climas (tropical de altitude, equatorial) e condições de umidade (semelhantes à Mata Atlântica) incompatíveis com o regime climático que molda a Caatinga."
                      },
                      {
@@ -329,7 +331,8 @@
                                               "a":  "Concentração do transporte de cargas em hidrovias, dada a extensa rede fluvial do território brasileiro",
                                               "b":  "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias",
                                               "c":  "Predominância do modal ferroviário sobre os demais, herdada de investimentos maciços realizados ao longo de todo o século XX",
-                                              "d":  "Distribuição equilibrada entre os modais rodoviário, ferroviário e hidroviário, semelhante à observada nos Estados Unidos"
+                                              "d":  "Distribuição equilibrada entre os modais rodoviário, ferroviário e hidroviário, semelhante à observada nos Estados Unidos",
+                                              "e":  "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados. O país não teve investimento maciço em ferrovias ao longo do século XX (pelo contrário, houve desinvestimento relativo), não concentra cargas em hidrovias, e sua matriz está longe do equilíbrio observado em países como os Estados Unidos."
@@ -342,7 +345,8 @@
                                               "a":  "Uma concentração ainda maior da produção agrícola nas regiões litorâneas, mais próximas dos portos exportadores tradicionais",
                                               "b":  "Uma vantagem competitiva do Brasil em relação a países que dependem de ferrovias, como os Estados Unidos, por reduzir gargalos logísticos",
                                               "c":  "Maior dependência do transporte rodoviário para escoar grãos, o que eleva custos logísticos e o consumo de combustíveis fósseis",
-                                              "d":  "Uma redução geral dos custos logísticos do escoamento agrícola, já que rodovias exigiriam menos investimento inicial em infraestrutura"
+                                              "d":  "Uma redução geral dos custos logísticos do escoamento agrícola, já que rodovias exigiriam menos investimento inicial em infraestrutura",
+                                              "e":  "Um estímulo à industrialização das regiões produtoras, já que a dificuldade de escoamento incentivaria o processamento local dos grãos"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A subutilização de ferrovias e hidrovias obriga grande parte da produção agrícola brasileira a ser escoada por rodovias, o que eleva os custos logísticos e o consumo de combustível. As demais alternativas invertem a lógica do problema: a dependência rodoviária eleva, não reduz, custos; não concentra a produção no litoral (ao contrário, a fronteira agrícola se expandiu para o interior); e representa uma desvantagem, não vantagem, competitiva frente a países com matriz mais equilibrada."
@@ -355,7 +359,8 @@
                                               "a":  "Transferir para empresas estrangeiras a exploração de setores estratégicos como siderurgia e petróleo, retirando do Estado seu papel histórico de planejador da industrialização nacional",
                                               "b":  "Ampliar a importação de bens de capital e reduzir tarifas alfandegárias para acelerar a modernização tecnológica da indústria nacional, dispensando qualquer protecionismo estatal",
                                               "c":  "Concentrar os investimentos estatais exclusivamente na exportação de produtos primários agrícolas, sem qualquer aporte direto à indústria nacional emergente",
-                                              "d":  "Produzir internamente bens antes importados, com o Estado investindo em setores estratégicos, como siderurgia e petróleo, e protegendo a indústria com barreiras alfandegárias"
+                                              "d":  "Produzir internamente bens antes importados, com o Estado investindo em setores estratégicos, como siderurgia e petróleo, e protegendo a indústria com barreiras alfandegárias",
+                                              "e":  "Estimular a especialização do país na exportação de manufaturados de alta tecnologia, reduzindo a produção interna de bens de consumo básico"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O modelo de substituição de importações buscava reduzir a dependência externa por meio da produção interna de bens antes importados, com forte participação do Estado em setores estratégicos e proteção alfandegária. As demais alternativas descrevem o oposto do modelo: redução de tarifas, transferência a estrangeiros e foco exportador agrícola não correspondem à lógica protecionista e estatizante desse período."
@@ -367,10 +372,11 @@
                          "alternativas":  {
                                               "a":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo, que teria inviabilizado a manutenção das indústrias já instaladas",
                                               "b":  "Uma decisão do governo federal de fechar parques industriais em São Paulo para redistribuir empregos entre as regiões do país",
-                                              "c":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes",
-                                              "d":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões"
+                                              "c":  "A saturação do mercado consumidor paulista, que teria deixado de absorver a produção industrial e forçado a busca por consumidores em outras regiões",
+                                              "d":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões",
+                                              "e":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno."
                      },
                      {
@@ -381,7 +387,8 @@
                                               "a":  "Produzir seus próprios alimentos em regime de agricultura de subsistência, sem depender do mercado ou de programas públicos",
                                               "b":  "Consumir apenas alimentos de origem nacional, independentemente de seu preço ou disponibilidade regional em cada época do ano",
                                               "c":  "Receber cestas básicas doadas pelo Estado como única forma legítima de acesso à alimentação para toda a população",
-                                              "d":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais"
+                                              "d":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
+                                              "e":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar."
@@ -391,12 +398,13 @@
                          "texto_apoio":  "O Programa Fome Zero, lançado no Brasil em 2003, reuniu um conjunto de políticas públicas de combate à fome e à pobreza.",
                          "enunciado":  "Entre as principais estratégias desse programa estava:",
                          "alternativas":  {
-                                              "a":  "A criação de um imposto federal sobre a produção de pequenos agricultores para financiar a distribuição de alimentos à população urbana",
+                                              "a":  "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar e apoio à agricultura familiar",
                                               "b":  "A substituição integral da produção nacional de alimentos por importações subsidiadas vindas de países vizinhos do Mercosul",
-                                              "c":  "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar e apoio à agricultura familiar",
-                                              "d":  "A concentração dos recursos do programa exclusivamente em subsídios à exportação de commodities agrícolas, sem foco no mercado interno"
+                                              "c":  "A criação de um imposto federal sobre a produção de pequenos agricultores para financiar a distribuição de alimentos à população urbana",
+                                              "d":  "A concentração dos recursos do programa exclusivamente em subsídios à exportação de commodities agrícolas, sem foco no mercado interno",
+                                              "e":  "A criação de uma rede estatal de restaurantes populares, concebida como frente isolada e desvinculada de programas de transferência de renda"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "O Fome Zero articulou diferentes frentes de combate à fome, incluindo transferência de renda pelo Bolsa Família, fortalecimento da agricultura familiar e ampliação do acesso à alimentação. O programa não voltou seus recursos à exportação de commodities, não substituiu a produção nacional por importações, nem se financiou por meio de um tributo sobre pequenos agricultores."
                      },
                      {
@@ -446,12 +454,13 @@
                          "texto_apoio":  "A pirâmide etária brasileira vem se transformando nas últimas décadas, refletindo a chamada transição demográfica.",
                          "enunciado":  "Essa transição caracteriza-se, sobretudo, pela:",
                          "alternativas":  {
-                                              "a":  "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
-                                              "b":  "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
+                                              "a":  "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
+                                              "b":  "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
                                               "c":  "Estabilidade da estrutura etária brasileira, comparável à observada no Japão desde o início do século XX, sem mudanças relevantes",
-                                              "d":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira"
+                                              "d":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira",
+                                              "e":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa."
                      },
                      {
@@ -460,11 +469,12 @@
                          "enunciado":  "O envelhecimento populacional em curso no Brasil representa um desafio para políticas públicas, sobretudo porque:",
                          "alternativas":  {
                                               "a":  "Elimina a necessidade de políticas previdenciárias, uma vez que a população idosa já está coberta integralmente pela iniciativa privada",
-                                              "b":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
-                                              "c":  "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
-                                              "d":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa"
+                                              "b":  "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
+                                              "c":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
+                                              "d":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa",
+                                              "e":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional."
                      },
                      {

@@ -1,0 +1,156 @@
+{
+    "_comentario":  "Questões removidas de matematica-rlm.json pelo patch troca-rlm. Guardadas para permitir reverter.",
+    "subtopic":  "matematica-rlm",
+    "questoes":  [
+                     {
+                         "id":  "matematica-rlm-12",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere a proposição: \"Todos os candidatos que fizeram a prova de Direito também fizeram a prova de Redação.\" A negação lógica correta dessa proposição é:",
+                         "alternativas":  {
+                                              "a":  "\"Nenhum candidato que fez a prova de Direito fez a prova de Redação.\"",
+                                              "b":  "\"Todos os candidatos que não fizeram a prova de Direito fizeram a prova de Redação.\"",
+                                              "c":  "\"Todos os candidatos fizeram tanto a prova de Direito quanto a de Redação.\"",
+                                              "d":  "\"Existe pelo menos um candidato que fez a prova de Direito e não fez a prova de Redação.\""
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A negação de uma proposição universal (\"Todo A é B\") é uma proposição existencial que aponta um contraexemplo (\"Existe A que não é B\"). Logo, basta que exista um único candidato que tenha feito a prova de Direito sem ter feito a de Redação."
+                     },
+                     {
+                         "id":  "matematica-rlm-13",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere as proposições p: \"2 + 2 = 4\" e q: \"5 é um número par\". Sabendo que p é verdadeira e q é falsa, qual é o valor lógico da proposição composta p → q (\"se p, então q\")?",
+                         "alternativas":  {
+                                              "a":  "Verdadeira, pois basta que o antecedente p seja verdadeiro para que toda a condicional seja considerada verdadeira",
+                                              "b":  "Verdadeira, pois q é falsa, e uma condicional com consequente falso é sempre considerada verdadeira",
+                                              "c":  "Falsa, pois uma condicional com antecedente verdadeiro e consequente falso é sempre falsa, segundo a tabela-verdade",
+                                              "d":  "Não é possível determinar o valor lógico, pois isso dependeria de informações adicionais sobre p e q"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Na tabela-verdade da condicional (p → q), o único caso em que o resultado é falso ocorre quando o antecedente é verdadeiro e o consequente é falso. Como p é verdadeira e q é falsa, p → q é falsa."
+                     },
+                     {
+                         "id":  "matematica-rlm-14",
+                         "texto_apoio":  "",
+                         "enunciado":  "Sejam p e q duas proposições lógicas. Sabe-se que p é falsa e que a proposição composta (p ∨ q) — \"p ou q\" — é verdadeira. Qual é necessariamente o valor lógico de q?",
+                         "alternativas":  {
+                                              "a":  "Falsa",
+                                              "b":  "Verdadeira",
+                                              "c":  "Indeterminada, pode ser verdadeira ou falsa",
+                                              "d":  "q também deve ser falsa, pois p é falsa"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Na disjunção (p ∨ q), o resultado só é falso quando ambas as proposições são falsas. Como p é falsa e a disjunção é verdadeira, necessariamente q deve ser verdadeira."
+                     },
+                     {
+                         "id":  "matematica-rlm-15",
+                         "texto_apoio":  "",
+                         "enunciado":  "A negação lógica da proposição \"Está chovendo e faz frio\" é logicamente equivalente a qual alternativa abaixo?",
+                         "alternativas":  {
+                                              "a":  "\"Não está chovendo e não faz frio\"",
+                                              "b":  "\"Está chovendo ou faz frio\"",
+                                              "c":  "\"Não está chovendo ou não faz frio\"",
+                                              "d":  "\"Não está chovendo e faz frio\""
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Pela lei de De Morgan, a negação de uma conjunção (p ∧ q) é a disjunção das negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q. Logo, a negação correta é \"Não está chovendo ou não faz frio\"."
+                     },
+                     {
+                         "id":  "matematica-rlm-81",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere as proposições p: \"Um número é múltiplo de 4\" e q: \"Um número é par\". A proposição bicondicional p ↔ q (\"p se, e somente se, q\") é falsa para o número 6 porque, para esse número:",
+                         "alternativas":  {
+                                              "a":  "p é verdadeira e q é falsa, combinação que também tornaria a bicondicional falsa",
+                                              "b":  "p e q são ambas verdadeiras, caso em que a bicondicional seria verdadeira",
+                                              "c":  "p é falsa e q é verdadeira, ou seja, as proposições têm valores lógicos diferentes",
+                                              "d":  "p e q são ambas falsas, caso em que a bicondicional também seria verdadeira"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Para o número 6: p (\"é múltiplo de 4\") é falsa, pois 6÷4 não é exato; q (\"é par\") é verdadeira, pois 6 é divisível por 2. Como a bicondicional só é verdadeira quando as duas proposições têm o mesmo valor lógico, e aqui os valores são diferentes, p ↔ q é falsa para o número 6.",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "matematica-rlm-82",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere a proposição: \"Se um candidato é aprovado no vestibular, então ele estudou regularmente.\" Qual das alternativas abaixo é logicamente equivalente a essa proposição (sua contrapositiva)?",
+                         "alternativas":  {
+                                              "a":  "\"Se um candidato não foi aprovado no vestibular, então ele não estudou regularmente.\"",
+                                              "b":  "\"Se um candidato não estudou regularmente, então ele não foi aprovado no vestibular.\"",
+                                              "c":  "\"Todos os candidatos que não foram aprovados não estudaram regularmente.\"",
+                                              "d":  "\"Se um candidato estudou regularmente, então ele foi aprovado no vestibular.\""
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A contrapositiva de uma condicional p→q é ¬q→¬p, logicamente equivalente à proposição original. Como p=\"foi aprovado\" e q=\"estudou regularmente\", a contrapositiva correta é ¬q→¬p: \"Se um candidato não estudou regularmente, então ele não foi aprovado no vestibular.\" A alternativa (b), que inverte sujeito e nega (¬p→¬q), é a chamada proposição inversa e NÃO é logicamente equivalente à original.",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "matematica-rlm-83",
+                         "texto_apoio":  "",
+                         "enunciado":  "A negação lógica da proposição \"Existe um aluno da turma que não fez a lição de casa\" é:",
+                         "alternativas":  {
+                                              "a":  "\"Nenhum aluno da turma fez a lição de casa\"",
+                                              "b":  "\"Todos os alunos da turma fizeram a lição de casa\"",
+                                              "c":  "\"Existe um aluno da turma que fez a lição de casa\"",
+                                              "d":  "\"Todos os alunos da turma não fizeram a lição de casa\""
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A negação de uma proposição existencial (\"Existe x tal que não-P\") é uma proposição universal afirmando P para todos (\"Para todo x, P\"). Logo, a negação correta é \"Todos os alunos da turma fizeram a lição de casa\".",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "matematica-rlm-84",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere as premissas: (1) \"Todo advogado conhece a Constituição.\" (2) \"Marcos conhece a Constituição.\" A partir dessas duas premissas, é correto concluir logicamente que:",
+                         "alternativas":  {
+                                              "a":  "Marcos é advogado, uma vez que conhece a Constituição, característica atribuída aos advogados na primeira premissa do enunciado",
+                                              "b":  "Marcos não é advogado, já que a segunda premissa informa apenas o conhecimento da Constituição e nada afirma sobre a sua profissão",
+                                              "c":  "Todo aquele que conhece a Constituição é advogado, conclusão que decorre da leitura conjunta das duas premissas apresentadas",
+                                              "d":  "Não é possível concluir, com certeza lógica, que Marcos é advogado, pois outras pessoas também podem conhecer a Constituição"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A premissa (1) afirma que todo advogado conhece a Constituição, mas não afirma que só advogados a conhecem. Concluir que Marcos é advogado por conhecer a Constituição é a falácia da afirmação do consequente — um erro lógico comum, já que conhecer a Constituição é condição necessária, mas não suficiente, para ser advogado, dentro do que as premissas afirmam.",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "matematica-rlm-85",
+                         "texto_apoio":  "",
+                         "enunciado":  "Em um cardápio de restaurante, a promoção do dia oferece \"salada OU sobremesa\" inclusas no prato principal, mas não as duas ao mesmo tempo (o cliente deve escolher apenas uma das duas opções). Esse tipo de conectivo lógico, em que apenas uma das proposições pode ser verdadeira, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "Bicondicional (\"se e somente se\")",
+                                              "b":  "Disjunção exclusiva (ou exclusivo)",
+                                              "c":  "Disjunção inclusiva (\"ou\" usual)",
+                                              "d":  "Conjunção, o conectivo lógico \"e\""
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Quando o conectivo \"ou\" exclui a possibilidade de as duas opções serem verdadeiras simultaneamente, permitindo apenas uma ou outra (mas não ambas), trata-se da disjunção exclusiva, diferente da disjunção inclusiva usual da lógica proposicional, em que \"p ou q\" é verdadeira mesmo que ambas sejam verdadeiras.",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "matematica-rlm-139",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere a proposição composta: \"O candidato não fez a prova de Matemática nem a prova de Português.\" Essa afirmação é logicamente equivalente a dizer que:",
+                         "alternativas":  {
+                                              "a":  "O candidato não fez a prova de Matemática e também não fez a prova de Português",
+                                              "b":  "O candidato fez as duas provas, o que inverteria completamente o sentido da negação original",
+                                              "c":  "É impossível determinar se o candidato fez alguma das provas, dada a ambiguidade da frase",
+                                              "d":  "O candidato fez pelo menos uma das duas provas, mas não necessariamente as duas ao mesmo tempo"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A expressão \"nem A nem B\" equivale, logicamente, à conjunção das negações: ¬A ∧ ¬B, ou seja, \"não fez A e não fez B\". Portanto, o candidato não fez nenhuma das duas provas.",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "matematica-rlm-140",
+                         "texto_apoio":  "",
+                         "enunciado":  "Considere as premissas: (1) \"Se um projeto de lei fere a Constituição, então ele deve ser barrado pelo Judiciário.\" (2) \"Este projeto de lei não foi barrado pelo Judiciário.\" A partir dessas duas premissas, qual conclusão pode ser obtida com certeza lógica?",
+                         "alternativas":  {
+                                              "a":  "O projeto de lei não fere a Constituição",
+                                              "b":  "O projeto de lei fere a Constituição",
+                                              "c":  "Não é possível concluir nada a partir dessas premissas",
+                                              "d":  "O Judiciário cometeu um erro ao não barrar o projeto"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Trata-se de uma aplicação válida do modus tollens: da condicional p→q (\"se fere, então deve ser barrado\") e da negação do consequente (¬q: \"não foi barrado\"), conclui-se validamente a negação do antecedente (¬p: \"não fere a Constituição\"). É uma forma de raciocínio logicamente válida, diferente da falácia de afirmar o consequente.",
+                         "dificuldade":  "dificil"
+                     }
+                 ]
+}

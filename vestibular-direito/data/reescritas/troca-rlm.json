@@ -1,0 +1,189 @@
+{
+  "_comentario": [
+    "Troca as 11 questões de lógica formal da frente matematica-rlm por 11 de matemática.",
+    "",
+    "Saem: 12, 13, 14, 15, 81, 82, 83, 84, 85, 139 e 140 — proposições, tabela-verdade,",
+    "negação lógica, silogismo e conectivos. Eram 7% da frente. Ficam guardadas em",
+    "arquivo-troca-rlm.json, porque a banca cobra raciocínio lógico e essa é uma decisão",
+    "de gosto que pode ser revista.",
+    "",
+    "As substitutas não repetem o que já existe: escolhi lacunas reais do banco de 150.",
+    "Estava coberto à exaustão porcentagem simples, regra de três, combinatória, matrizes e",
+    "probabilidade básica. Estava fraco ou ausente: juros compostos aplicados a decisão,",
+    "inflação acumulada, efeito de valor extremo sobre média e mediana, escala aplicada a",
+    "área, ponto de equilíbrio entre dois planos e depreciação.",
+    "",
+    "Cada questão errada corresponde a um erro de cálculo real, não a um número aleatório —",
+    "somar percentuais em vez de multiplicar, aplicar a escala uma vez só onde ela vale ao",
+    "quadrado, tratar juro composto como simples. Errar deve significar alguma coisa.",
+    "",
+    "As alternativas têm comprimentos próximos, pelo mesmo motivo da reescrita anterior.",
+    "",
+    "A letra que guarda a resposta foi distribuída de propósito (2 em 'a', 3 em 'b', 3 em",
+    "'c', 3 em 'd'). Numa primeira versão deste patch, 8 das 11 caíram em 'a' sem que eu",
+    "percebesse, e o banco inteiro foi para 44 respostas em 'a' contra 35 nas demais — um",
+    "viés de letra é tão explorável quanto o de comprimento que acabamos de corrigir."
+  ],
+  "subtopic": "matematica-rlm",
+  "remover": [
+    "matematica-rlm-12", "matematica-rlm-13", "matematica-rlm-14", "matematica-rlm-15",
+    "matematica-rlm-81", "matematica-rlm-82", "matematica-rlm-83", "matematica-rlm-84",
+    "matematica-rlm-85", "matematica-rlm-139", "matematica-rlm-140"
+  ],
+  "adicionar": [
+    {
+      "id": "matematica-rlm-151",
+      "texto_apoio": "",
+      "enunciado": "A inflação de um país foi de 10% em um ano e de 20% no ano seguinte. Qual foi a inflação acumulada no período de dois anos?",
+      "alternativas": {
+        "a": "30%",
+        "b": "32%",
+        "c": "22%",
+        "d": "15%"
+      },
+      "resposta": "b",
+      "explicacao": "Percentuais sucessivos se multiplicam, não se somam: 1,10 × 1,20 = 1,32, ou seja, 32% de aumento acumulado. Somar 10% + 20% = 30% ignora que o segundo aumento incide sobre um valor já corrigido pelo primeiro.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-152",
+      "texto_apoio": "",
+      "enunciado": "O preço de uma ação caiu 20% em um mês e subiu 20% no mês seguinte. Em relação ao preço do início do período, o preço final ficou:",
+      "alternativas": {
+        "a": "4% maior",
+        "b": "igual ao inicial",
+        "c": "4% menor",
+        "d": "20% menor"
+      },
+      "resposta": "c",
+      "explicacao": "0,80 × 1,20 = 0,96, isto é, 96% do preço inicial — uma queda de 4%. A alta de 20% incide sobre um valor já reduzido, portanto vale menos, em reais, do que a queda de 20% aplicada sobre o valor cheio. Percentuais iguais em sentidos opostos não se anulam.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-153",
+      "texto_apoio": "",
+      "enunciado": "Em uma planta na escala 1:200, um salão retangular ocupa 15 cm². Qual é a área real desse salão?",
+      "alternativas": {
+        "a": "0,3 m²",
+        "b": "3 m²",
+        "c": "60 m²",
+        "d": "600 m²"
+      },
+      "resposta": "c",
+      "explicacao": "A escala 1:200 vale para comprimentos. Para áreas, o fator é o quadrado da escala: 200² = 40.000. Assim, 15 cm² × 40.000 = 600.000 cm², e como 1 m² = 10.000 cm², o resultado é 60 m². Multiplicar a área por 200 uma única vez é o erro mais comum.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "matematica-rlm-154",
+      "texto_apoio": "Os salários mensais de cinco funcionários de uma pequena empresa são, em reais: 2.000, 2.200, 2.400, 2.600 e 12.800.",
+      "enunciado": "Sobre a média e a mediana desse conjunto de salários, é correto afirmar que:",
+      "alternativas": {
+        "a": "a média supera a mediana, porque o salário mais alto desloca a média para cima",
+        "b": "a mediana supera a média, porque há mais salários baixos do que altos no grupo",
+        "c": "média e mediana coincidem, já que o conjunto tem um número ímpar de elementos",
+        "d": "a média descreve melhor o salário típico do grupo do que a mediana descreve"
+      },
+      "resposta": "a",
+      "explicacao": "A média é 22.000 ÷ 5 = R$ 4.400,00, e a mediana é o valor central, R$ 2.400,00. Um único valor muito distante dos demais puxa a média, mas não a mediana, que depende apenas da posição. Por isso, em distribuições com valores extremos, a mediana costuma representar melhor o caso típico.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-155",
+      "texto_apoio": "",
+      "enunciado": "Uma operadora oferece dois planos: o Plano A cobra R$ 40,00 fixos mais R$ 0,50 por minuto; o Plano B cobra R$ 60,00 fixos mais R$ 0,30 por minuto. A partir de quantos minutos de uso mensal o Plano B fica mais barato que o Plano A?",
+      "alternativas": {
+        "a": "50 minutos",
+        "b": "100 minutos",
+        "c": "80 minutos",
+        "d": "200 minutos"
+      },
+      "resposta": "b",
+      "explicacao": "Igualando os custos: 40 + 0,50m = 60 + 0,30m, logo 0,20m = 20 e m = 100. Em 100 minutos os planos custam o mesmo (R$ 90,00); acima disso, o Plano B compensa, porque cobra menos por minuto e a diferença de R$ 20,00 na taxa fixa já foi compensada.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-156",
+      "texto_apoio": "",
+      "enunciado": "Um veículo vale hoje R$ 60.000,00 e perde 20% do seu valor a cada ano. Qual será o valor desse veículo ao final de 2 anos?",
+      "alternativas": {
+        "a": "R$ 36.000,00",
+        "b": "R$ 38.400,00",
+        "c": "R$ 40.000,00",
+        "d": "R$ 48.000,00"
+      },
+      "resposta": "b",
+      "explicacao": "A perda incide sobre o valor do ano anterior: 60.000 × 0,80 = 48.000 no primeiro ano e 48.000 × 0,80 = R$ 38.400,00 no segundo. Somar as perdas (20% + 20% = 40%) daria R$ 36.000,00 e ignora que a segunda depreciação incide sobre um valor já reduzido.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-157",
+      "texto_apoio": "",
+      "enunciado": "A probabilidade de um equipamento apresentar defeito é de 10%. Em um lote de três equipamentos independentes, qual é a probabilidade de pelo menos um apresentar defeito?",
+      "alternativas": {
+        "a": "72,9%",
+        "b": "30,0%",
+        "c": "10,0%",
+        "d": "27,1%"
+      },
+      "resposta": "d",
+      "explicacao": "É mais simples calcular o contrário: nenhum defeito é 0,90³ = 0,729. Logo, pelo menos um defeito é 1 − 0,729 = 0,271, ou 27,1%. Somar 10% + 10% + 10% = 30% conta duas vezes os casos em que mais de um equipamento falha.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "matematica-rlm-158",
+      "texto_apoio": "Uma cidade tem hoje 300.000 habitantes, dos quais 45.000 têm mais de 60 anos.",
+      "enunciado": "Projeta-se que, em dez anos, a população total cresça 20% e o número de habitantes com mais de 60 anos cresça 50%. Qual será, aproximadamente, a participação desse grupo na população total?",
+      "alternativas": {
+        "a": "30,00%",
+        "b": "15,00%",
+        "c": "22,50%",
+        "d": "18,75%"
+      },
+      "resposta": "d",
+      "explicacao": "O grupo passa a 45.000 × 1,5 = 67.500 pessoas e a população total, a 300.000 × 1,2 = 360.000. A participação é 67.500 ÷ 360.000 = 0,1875, ou 18,75% — contra 15% hoje. Note que a participação sobe porque o grupo cresce mais rápido que o todo, e não na proporção do crescimento de 50%.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "matematica-rlm-159",
+      "texto_apoio": "",
+      "enunciado": "Uma liga metálica é formada por cobre e zinco na proporção de 3 para 2, em massa. Para produzir 45 kg dessa liga, quantos quilogramas de cobre são necessários?",
+      "alternativas": {
+        "a": "30 kg",
+        "b": "18 kg",
+        "c": "22,5 kg",
+        "d": "27 kg"
+      },
+      "resposta": "d",
+      "explicacao": "A liga se divide em 3 + 2 = 5 partes iguais, cada uma com 45 ÷ 5 = 9 kg. O cobre corresponde a 3 partes: 3 × 9 = 27 kg (e o zinco, a 2 partes: 18 kg). Dividir a massa ao meio, chegando a 22,5 kg, trataria a proporção como se fosse de 1 para 1.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-160",
+      "texto_apoio": "Vendas trimestrais de uma empresa, em milhares de reais: 1º trimestre, 120; 2º trimestre, 150; 3º trimestre, 135; 4º trimestre, 180.",
+      "enunciado": "Considerando a variação percentual de cada trimestre em relação ao trimestre imediatamente anterior, a maior variação em módulo ocorreu:",
+      "alternativas": {
+        "a": "no 4º trimestre, com alta de aproximadamente 33%",
+        "b": "no 2º trimestre, com alta de exatamente 25%",
+        "c": "no 3º trimestre, com queda de exatamente 10%",
+        "d": "no 2º trimestre, com alta de 30 mil reais"
+      },
+      "resposta": "a",
+      "explicacao": "As variações são: 2º trimestre, 30/120 = +25%; 3º, −15/150 = −10%; 4º, 45/135 ≈ +33,3%. A maior em módulo é a do 4º trimestre. Repare que o 2º e o 4º subiram valores absolutos próximos (30 e 45 mil), mas o percentual depende da base sobre a qual se calcula.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "matematica-rlm-161",
+      "texto_apoio": "",
+      "enunciado": "Em um vestibular, 60% dos candidatos vieram de escola pública e, desse grupo, 25% foram aprovados. Entre os candidatos de escola privada, a taxa de aprovação foi de 40%. Qual foi o percentual de aprovados no total de candidatos?",
+      "alternativas": {
+        "a": "65,0%",
+        "b": "32,5%",
+        "c": "31,0%",
+        "d": "15,0%"
+      },
+      "resposta": "c",
+      "explicacao": "Cada grupo contribui com sua parcela: escola pública, 0,60 × 0,25 = 0,15; escola privada, 0,40 × 0,40 = 0,16. O total é 0,15 + 0,16 = 0,31, ou 31%. Tirar a média simples das duas taxas (25% e 40%), chegando a 32,5%, só valeria se os dois grupos tivessem o mesmo tamanho.",
+      "dificuldade": "dificil"
+    }
+  ]
+}

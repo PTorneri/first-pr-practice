@@ -22773,58 +22773,6 @@ window.QUESTION_BANKS = {
                                "explicacao":  "A média ponderada é: (6,0 × 2 + 7,0 × 3 + 8,0 × 5) ÷ (2 + 3 + 5) = (12 + 21 + 40) ÷ 10 = 73 ÷ 10 = 7,3."
                            },
                            {
-                               "id":  "matematica-rlm-12",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere a proposição: \"Todos os candidatos que fizeram a prova de Direito também fizeram a prova de Redação.\" A negação lógica correta dessa proposição é:",
-                               "alternativas":  {
-                                                    "a":  "\"Nenhum candidato que fez a prova de Direito fez a prova de Redação.\"",
-                                                    "b":  "\"Todos os candidatos que não fizeram a prova de Direito fizeram a prova de Redação.\"",
-                                                    "c":  "\"Todos os candidatos fizeram tanto a prova de Direito quanto a de Redação.\"",
-                                                    "d":  "\"Existe pelo menos um candidato que fez a prova de Direito e não fez a prova de Redação.\""
-                                                },
-                               "resposta":  "d",
-                               "explicacao":  "A negação de uma proposição universal (\"Todo A é B\") é uma proposição existencial que aponta um contraexemplo (\"Existe A que não é B\"). Logo, basta que exista um único candidato que tenha feito a prova de Direito sem ter feito a de Redação."
-                           },
-                           {
-                               "id":  "matematica-rlm-13",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere as proposições p: \"2 + 2 = 4\" e q: \"5 é um número par\". Sabendo que p é verdadeira e q é falsa, qual é o valor lógico da proposição composta p → q (\"se p, então q\")?",
-                               "alternativas":  {
-                                                    "a":  "Verdadeira, pois basta que o antecedente p seja verdadeiro para que toda a condicional seja considerada verdadeira",
-                                                    "b":  "Verdadeira, pois q é falsa, e uma condicional com consequente falso é sempre considerada verdadeira",
-                                                    "c":  "Falsa, pois uma condicional com antecedente verdadeiro e consequente falso é sempre falsa, segundo a tabela-verdade",
-                                                    "d":  "Não é possível determinar o valor lógico, pois isso dependeria de informações adicionais sobre p e q"
-                                                },
-                               "resposta":  "c",
-                               "explicacao":  "Na tabela-verdade da condicional (p → q), o único caso em que o resultado é falso ocorre quando o antecedente é verdadeiro e o consequente é falso. Como p é verdadeira e q é falsa, p → q é falsa."
-                           },
-                           {
-                               "id":  "matematica-rlm-14",
-                               "texto_apoio":  "",
-                               "enunciado":  "Sejam p e q duas proposições lógicas. Sabe-se que p é falsa e que a proposição composta (p ∨ q) — \"p ou q\" — é verdadeira. Qual é necessariamente o valor lógico de q?",
-                               "alternativas":  {
-                                                    "a":  "Falsa",
-                                                    "b":  "Verdadeira",
-                                                    "c":  "Indeterminada, pode ser verdadeira ou falsa",
-                                                    "d":  "q também deve ser falsa, pois p é falsa"
-                                                },
-                               "resposta":  "b",
-                               "explicacao":  "Na disjunção (p ∨ q), o resultado só é falso quando ambas as proposições são falsas. Como p é falsa e a disjunção é verdadeira, necessariamente q deve ser verdadeira."
-                           },
-                           {
-                               "id":  "matematica-rlm-15",
-                               "texto_apoio":  "",
-                               "enunciado":  "A negação lógica da proposição \"Está chovendo e faz frio\" é logicamente equivalente a qual alternativa abaixo?",
-                               "alternativas":  {
-                                                    "a":  "\"Não está chovendo e não faz frio\"",
-                                                    "b":  "\"Está chovendo ou faz frio\"",
-                                                    "c":  "\"Não está chovendo ou não faz frio\"",
-                                                    "d":  "\"Não está chovendo e faz frio\""
-                                                },
-                               "resposta":  "c",
-                               "explicacao":  "Pela lei de De Morgan, a negação de uma conjunção (p ∧ q) é a disjunção das negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q. Logo, a negação correta é \"Não está chovendo ou não faz frio\"."
-                           },
-                           {
                                "id":  "matematica-rlm-16",
                                "texto_apoio":  "A tabela abaixo apresenta o número de candidatos inscritos em um vestibular ao longo de três anos consecutivos: 2022: 12.000 candidatos; 2023: 15.000 candidatos; 2024: 18.000 candidatos.",
                                "enunciado":  "Com base nos dados da tabela, qual foi o crescimento percentual do número de candidatos entre 2022 e 2024?",
@@ -23715,76 +23663,6 @@ window.QUESTION_BANKS = {
                                "dificuldade":  "dificil"
                            },
                            {
-                               "id":  "matematica-rlm-81",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere as proposições p: \"Um número é múltiplo de 4\" e q: \"Um número é par\". A proposição bicondicional p ↔ q (\"p se, e somente se, q\") é falsa para o número 6 porque, para esse número:",
-                               "alternativas":  {
-                                                    "a":  "p é verdadeira e q é falsa, combinação que também tornaria a bicondicional falsa",
-                                                    "b":  "p e q são ambas verdadeiras, caso em que a bicondicional seria verdadeira",
-                                                    "c":  "p é falsa e q é verdadeira, ou seja, as proposições têm valores lógicos diferentes",
-                                                    "d":  "p e q são ambas falsas, caso em que a bicondicional também seria verdadeira"
-                                                },
-                               "resposta":  "c",
-                               "explicacao":  "Para o número 6: p (\"é múltiplo de 4\") é falsa, pois 6÷4 não é exato; q (\"é par\") é verdadeira, pois 6 é divisível por 2. Como a bicondicional só é verdadeira quando as duas proposições têm o mesmo valor lógico, e aqui os valores são diferentes, p ↔ q é falsa para o número 6.",
-                               "dificuldade":  "media"
-                           },
-                           {
-                               "id":  "matematica-rlm-82",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere a proposição: \"Se um candidato é aprovado no vestibular, então ele estudou regularmente.\" Qual das alternativas abaixo é logicamente equivalente a essa proposição (sua contrapositiva)?",
-                               "alternativas":  {
-                                                    "a":  "\"Se um candidato não foi aprovado no vestibular, então ele não estudou regularmente.\"",
-                                                    "b":  "\"Se um candidato não estudou regularmente, então ele não foi aprovado no vestibular.\"",
-                                                    "c":  "\"Todos os candidatos que não foram aprovados não estudaram regularmente.\"",
-                                                    "d":  "\"Se um candidato estudou regularmente, então ele foi aprovado no vestibular.\""
-                                                },
-                               "resposta":  "b",
-                               "explicacao":  "A contrapositiva de uma condicional p→q é ¬q→¬p, logicamente equivalente à proposição original. Como p=\"foi aprovado\" e q=\"estudou regularmente\", a contrapositiva correta é ¬q→¬p: \"Se um candidato não estudou regularmente, então ele não foi aprovado no vestibular.\" A alternativa (b), que inverte sujeito e nega (¬p→¬q), é a chamada proposição inversa e NÃO é logicamente equivalente à original.",
-                               "dificuldade":  "dificil"
-                           },
-                           {
-                               "id":  "matematica-rlm-83",
-                               "texto_apoio":  "",
-                               "enunciado":  "A negação lógica da proposição \"Existe um aluno da turma que não fez a lição de casa\" é:",
-                               "alternativas":  {
-                                                    "a":  "\"Nenhum aluno da turma fez a lição de casa\"",
-                                                    "b":  "\"Todos os alunos da turma fizeram a lição de casa\"",
-                                                    "c":  "\"Existe um aluno da turma que fez a lição de casa\"",
-                                                    "d":  "\"Todos os alunos da turma não fizeram a lição de casa\""
-                                                },
-                               "resposta":  "b",
-                               "explicacao":  "A negação de uma proposição existencial (\"Existe x tal que não-P\") é uma proposição universal afirmando P para todos (\"Para todo x, P\"). Logo, a negação correta é \"Todos os alunos da turma fizeram a lição de casa\".",
-                               "dificuldade":  "media"
-                           },
-                           {
-                               "id":  "matematica-rlm-84",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere as premissas: (1) \"Todo advogado conhece a Constituição.\" (2) \"Marcos conhece a Constituição.\" A partir dessas duas premissas, é correto concluir logicamente que:",
-                               "alternativas":  {
-                                                    "a":  "Marcos é advogado, uma vez que conhece a Constituição, característica atribuída aos advogados na primeira premissa do enunciado",
-                                                    "b":  "Marcos não é advogado, já que a segunda premissa informa apenas o conhecimento da Constituição e nada afirma sobre a sua profissão",
-                                                    "c":  "Todo aquele que conhece a Constituição é advogado, conclusão que decorre da leitura conjunta das duas premissas apresentadas",
-                                                    "d":  "Não é possível concluir, com certeza lógica, que Marcos é advogado, pois outras pessoas também podem conhecer a Constituição"
-                                                },
-                               "resposta":  "d",
-                               "explicacao":  "A premissa (1) afirma que todo advogado conhece a Constituição, mas não afirma que só advogados a conhecem. Concluir que Marcos é advogado por conhecer a Constituição é a falácia da afirmação do consequente — um erro lógico comum, já que conhecer a Constituição é condição necessária, mas não suficiente, para ser advogado, dentro do que as premissas afirmam.",
-                               "dificuldade":  "dificil"
-                           },
-                           {
-                               "id":  "matematica-rlm-85",
-                               "texto_apoio":  "",
-                               "enunciado":  "Em um cardápio de restaurante, a promoção do dia oferece \"salada OU sobremesa\" inclusas no prato principal, mas não as duas ao mesmo tempo (o cliente deve escolher apenas uma das duas opções). Esse tipo de conectivo lógico, em que apenas uma das proposições pode ser verdadeira, é conhecido como:",
-                               "alternativas":  {
-                                                    "a":  "Bicondicional (\"se e somente se\")",
-                                                    "b":  "Disjunção exclusiva (ou exclusivo)",
-                                                    "c":  "Disjunção inclusiva (\"ou\" usual)",
-                                                    "d":  "Conjunção, o conectivo lógico \"e\""
-                                                },
-                               "resposta":  "b",
-                               "explicacao":  "Quando o conectivo \"ou\" exclui a possibilidade de as duas opções serem verdadeiras simultaneamente, permitindo apenas uma ou outra (mas não ambas), trata-se da disjunção exclusiva, diferente da disjunção inclusiva usual da lógica proposicional, em que \"p ou q\" é verdadeira mesmo que ambas sejam verdadeiras.",
-                               "dificuldade":  "media"
-                           },
-                           {
                                "id":  "matematica-rlm-86",
                                "texto_apoio":  "",
                                "enunciado":  "Em uma pesquisa com 100 pessoas, 45 assistem ao noticiário A, 40 assistem ao noticiário B, e 15 assistem a ambos os noticiários. Quantas pessoas assistem a exatamente um dos dois noticiários (ou seja, apenas A, ou apenas B, mas não os dois)?",
@@ -24527,34 +24405,6 @@ window.QUESTION_BANKS = {
                                "dificuldade":  "dificil"
                            },
                            {
-                               "id":  "matematica-rlm-139",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere a proposição composta: \"O candidato não fez a prova de Matemática nem a prova de Português.\" Essa afirmação é logicamente equivalente a dizer que:",
-                               "alternativas":  {
-                                                    "a":  "O candidato não fez a prova de Matemática e também não fez a prova de Português",
-                                                    "b":  "O candidato fez as duas provas, o que inverteria completamente o sentido da negação original",
-                                                    "c":  "É impossível determinar se o candidato fez alguma das provas, dada a ambiguidade da frase",
-                                                    "d":  "O candidato fez pelo menos uma das duas provas, mas não necessariamente as duas ao mesmo tempo"
-                                                },
-                               "resposta":  "a",
-                               "explicacao":  "A expressão \"nem A nem B\" equivale, logicamente, à conjunção das negações: ¬A ∧ ¬B, ou seja, \"não fez A e não fez B\". Portanto, o candidato não fez nenhuma das duas provas.",
-                               "dificuldade":  "media"
-                           },
-                           {
-                               "id":  "matematica-rlm-140",
-                               "texto_apoio":  "",
-                               "enunciado":  "Considere as premissas: (1) \"Se um projeto de lei fere a Constituição, então ele deve ser barrado pelo Judiciário.\" (2) \"Este projeto de lei não foi barrado pelo Judiciário.\" A partir dessas duas premissas, qual conclusão pode ser obtida com certeza lógica?",
-                               "alternativas":  {
-                                                    "a":  "O projeto de lei não fere a Constituição",
-                                                    "b":  "O projeto de lei fere a Constituição",
-                                                    "c":  "Não é possível concluir nada a partir dessas premissas",
-                                                    "d":  "O Judiciário cometeu um erro ao não barrar o projeto"
-                                                },
-                               "resposta":  "a",
-                               "explicacao":  "Trata-se de uma aplicação válida do modus tollens: da condicional p→q (\"se fere, então deve ser barrado\") e da negação do consequente (¬q: \"não foi barrado\"), conclui-se validamente a negação do antecedente (¬p: \"não fere a Constituição\"). É uma forma de raciocínio logicamente válida, diferente da falácia de afirmar o consequente.",
-                               "dificuldade":  "dificil"
-                           },
-                           {
                                "id":  "matematica-rlm-141",
                                "texto_apoio":  "",
                                "enunciado":  "Uma reta é definida pela equação 2x + 3y = 12. Em que ponto essa reta intercepta o eixo y (ou seja, qual é o valor de y quando x = 0)?",
@@ -24692,6 +24542,160 @@ window.QUESTION_BANKS = {
                                                 },
                                "resposta":  "b",
                                "explicacao":  "Na Escola A (PA de razão 30): mensalidade em 2027 = 450+3×30=R$ 540,00. Na Escola B (PG de razão 1,06): mensalidade em 2027 = 450×(1,06)³=450×1,191016≈R$ 535,96. Nesse caso específico, o reajuste fixo da Escola A resultou em mensalidade ligeiramente maior do que o reajuste percentual da Escola B, o que pode surpreender quem assume que reajustes percentuais são sempre mais agressivos no curto prazo.",
+                               "dificuldade":  "dificil"
+                           },
+                           {
+                               "id":  "matematica-rlm-151",
+                               "texto_apoio":  "",
+                               "enunciado":  "A inflação de um país foi de 10% em um ano e de 20% no ano seguinte. Qual foi a inflação acumulada no período de dois anos?",
+                               "alternativas":  {
+                                                    "a":  "30%",
+                                                    "b":  "32%",
+                                                    "c":  "22%",
+                                                    "d":  "15%"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Percentuais sucessivos se multiplicam, não se somam: 1,10 × 1,20 = 1,32, ou seja, 32% de aumento acumulado. Somar 10% + 20% = 30% ignora que o segundo aumento incide sobre um valor já corrigido pelo primeiro.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-152",
+                               "texto_apoio":  "",
+                               "enunciado":  "O preço de uma ação caiu 20% em um mês e subiu 20% no mês seguinte. Em relação ao preço do início do período, o preço final ficou:",
+                               "alternativas":  {
+                                                    "a":  "4% maior",
+                                                    "b":  "igual ao inicial",
+                                                    "c":  "4% menor",
+                                                    "d":  "20% menor"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "0,80 × 1,20 = 0,96, isto é, 96% do preço inicial — uma queda de 4%. A alta de 20% incide sobre um valor já reduzido, portanto vale menos, em reais, do que a queda de 20% aplicada sobre o valor cheio. Percentuais iguais em sentidos opostos não se anulam.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-153",
+                               "texto_apoio":  "",
+                               "enunciado":  "Em uma planta na escala 1:200, um salão retangular ocupa 15 cm². Qual é a área real desse salão?",
+                               "alternativas":  {
+                                                    "a":  "0,3 m²",
+                                                    "b":  "3 m²",
+                                                    "c":  "60 m²",
+                                                    "d":  "600 m²"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A escala 1:200 vale para comprimentos. Para áreas, o fator é o quadrado da escala: 200² = 40.000. Assim, 15 cm² × 40.000 = 600.000 cm², e como 1 m² = 10.000 cm², o resultado é 60 m². Multiplicar a área por 200 uma única vez é o erro mais comum.",
+                               "dificuldade":  "dificil"
+                           },
+                           {
+                               "id":  "matematica-rlm-154",
+                               "texto_apoio":  "Os salários mensais de cinco funcionários de uma pequena empresa são, em reais: 2.000, 2.200, 2.400, 2.600 e 12.800.",
+                               "enunciado":  "Sobre a média e a mediana desse conjunto de salários, é correto afirmar que:",
+                               "alternativas":  {
+                                                    "a":  "a média supera a mediana, porque o salário mais alto desloca a média para cima",
+                                                    "b":  "a mediana supera a média, porque há mais salários baixos do que altos no grupo",
+                                                    "c":  "média e mediana coincidem, já que o conjunto tem um número ímpar de elementos",
+                                                    "d":  "a média descreve melhor o salário típico do grupo do que a mediana descreve"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A média é 22.000 ÷ 5 = R$ 4.400,00, e a mediana é o valor central, R$ 2.400,00. Um único valor muito distante dos demais puxa a média, mas não a mediana, que depende apenas da posição. Por isso, em distribuições com valores extremos, a mediana costuma representar melhor o caso típico.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-155",
+                               "texto_apoio":  "",
+                               "enunciado":  "Uma operadora oferece dois planos: o Plano A cobra R$ 40,00 fixos mais R$ 0,50 por minuto; o Plano B cobra R$ 60,00 fixos mais R$ 0,30 por minuto. A partir de quantos minutos de uso mensal o Plano B fica mais barato que o Plano A?",
+                               "alternativas":  {
+                                                    "a":  "50 minutos",
+                                                    "b":  "100 minutos",
+                                                    "c":  "80 minutos",
+                                                    "d":  "200 minutos"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Igualando os custos: 40 + 0,50m = 60 + 0,30m, logo 0,20m = 20 e m = 100. Em 100 minutos os planos custam o mesmo (R$ 90,00); acima disso, o Plano B compensa, porque cobra menos por minuto e a diferença de R$ 20,00 na taxa fixa já foi compensada.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-156",
+                               "texto_apoio":  "",
+                               "enunciado":  "Um veículo vale hoje R$ 60.000,00 e perde 20% do seu valor a cada ano. Qual será o valor desse veículo ao final de 2 anos?",
+                               "alternativas":  {
+                                                    "a":  "R$ 36.000,00",
+                                                    "b":  "R$ 38.400,00",
+                                                    "c":  "R$ 40.000,00",
+                                                    "d":  "R$ 48.000,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A perda incide sobre o valor do ano anterior: 60.000 × 0,80 = 48.000 no primeiro ano e 48.000 × 0,80 = R$ 38.400,00 no segundo. Somar as perdas (20% + 20% = 40%) daria R$ 36.000,00 e ignora que a segunda depreciação incide sobre um valor já reduzido.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-157",
+                               "texto_apoio":  "",
+                               "enunciado":  "A probabilidade de um equipamento apresentar defeito é de 10%. Em um lote de três equipamentos independentes, qual é a probabilidade de pelo menos um apresentar defeito?",
+                               "alternativas":  {
+                                                    "a":  "72,9%",
+                                                    "b":  "30,0%",
+                                                    "c":  "10,0%",
+                                                    "d":  "27,1%"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "É mais simples calcular o contrário: nenhum defeito é 0,90³ = 0,729. Logo, pelo menos um defeito é 1 − 0,729 = 0,271, ou 27,1%. Somar 10% + 10% + 10% = 30% conta duas vezes os casos em que mais de um equipamento falha.",
+                               "dificuldade":  "dificil"
+                           },
+                           {
+                               "id":  "matematica-rlm-158",
+                               "texto_apoio":  "Uma cidade tem hoje 300.000 habitantes, dos quais 45.000 têm mais de 60 anos.",
+                               "enunciado":  "Projeta-se que, em dez anos, a população total cresça 20% e o número de habitantes com mais de 60 anos cresça 50%. Qual será, aproximadamente, a participação desse grupo na população total?",
+                               "alternativas":  {
+                                                    "a":  "30,00%",
+                                                    "b":  "15,00%",
+                                                    "c":  "22,50%",
+                                                    "d":  "18,75%"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O grupo passa a 45.000 × 1,5 = 67.500 pessoas e a população total, a 300.000 × 1,2 = 360.000. A participação é 67.500 ÷ 360.000 = 0,1875, ou 18,75% — contra 15% hoje. Note que a participação sobe porque o grupo cresce mais rápido que o todo, e não na proporção do crescimento de 50%.",
+                               "dificuldade":  "dificil"
+                           },
+                           {
+                               "id":  "matematica-rlm-159",
+                               "texto_apoio":  "",
+                               "enunciado":  "Uma liga metálica é formada por cobre e zinco na proporção de 3 para 2, em massa. Para produzir 45 kg dessa liga, quantos quilogramas de cobre são necessários?",
+                               "alternativas":  {
+                                                    "a":  "30 kg",
+                                                    "b":  "18 kg",
+                                                    "c":  "22,5 kg",
+                                                    "d":  "27 kg"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A liga se divide em 3 + 2 = 5 partes iguais, cada uma com 45 ÷ 5 = 9 kg. O cobre corresponde a 3 partes: 3 × 9 = 27 kg (e o zinco, a 2 partes: 18 kg). Dividir a massa ao meio, chegando a 22,5 kg, trataria a proporção como se fosse de 1 para 1.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-160",
+                               "texto_apoio":  "Vendas trimestrais de uma empresa, em milhares de reais: 1º trimestre, 120; 2º trimestre, 150; 3º trimestre, 135; 4º trimestre, 180.",
+                               "enunciado":  "Considerando a variação percentual de cada trimestre em relação ao trimestre imediatamente anterior, a maior variação em módulo ocorreu:",
+                               "alternativas":  {
+                                                    "a":  "no 4º trimestre, com alta de aproximadamente 33%",
+                                                    "b":  "no 2º trimestre, com alta de exatamente 25%",
+                                                    "c":  "no 3º trimestre, com queda de exatamente 10%",
+                                                    "d":  "no 2º trimestre, com alta de 30 mil reais"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "As variações são: 2º trimestre, 30/120 = +25%; 3º, −15/150 = −10%; 4º, 45/135 ≈ +33,3%. A maior em módulo é a do 4º trimestre. Repare que o 2º e o 4º subiram valores absolutos próximos (30 e 45 mil), mas o percentual depende da base sobre a qual se calcula.",
+                               "dificuldade":  "media"
+                           },
+                           {
+                               "id":  "matematica-rlm-161",
+                               "texto_apoio":  "",
+                               "enunciado":  "Em um vestibular, 60% dos candidatos vieram de escola pública e, desse grupo, 25% foram aprovados. Entre os candidatos de escola privada, a taxa de aprovação foi de 40%. Qual foi o percentual de aprovados no total de candidatos?",
+                               "alternativas":  {
+                                                    "a":  "65,0%",
+                                                    "b":  "32,5%",
+                                                    "c":  "31,0%",
+                                                    "d":  "15,0%"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Cada grupo contribui com sua parcela: escola pública, 0,60 × 0,25 = 0,15; escola privada, 0,40 × 0,40 = 0,16. O total é 0,15 + 0,16 = 0,31, ou 31%. Tirar a média simples das duas taxas (25% e 40%), chegando a 32,5%, só valeria se os dois grupos tivessem o mesmo tamanho.",
                                "dificuldade":  "dificil"
                            }
                        ]

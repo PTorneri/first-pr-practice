@@ -6,6 +6,12 @@
       "runtimeExecutable": "powershell",
       "runtimeArgs": ["-ExecutionPolicy", "Bypass", "-File", "vestibular-direito/serve.ps1"],
       "port": 8843
+    },
+    {
+      "name": "vestibular-v2",
+      "runtimeExecutable": "powershell",
+      "runtimeArgs": ["-ExecutionPolicy", "Bypass", "-File", "serve-root.ps1"],
+      "port": 8844
     }
   ]
 }

@@ -549,3 +549,30 @@ body {
 .streak-chip[data-state="risco"] { background: rgba(201,162,39,0.22); }
 .streak-chip[data-state="risco"] .streak-count { color: #FDE68A; }
 .streak-chip[data-state="risco"] .streak-flame { opacity: 0.65; }
+
+/* Reportar problema numa questão (v2) — discreto: estudar vem primeiro */
+.q-report { margin-top: 8px; }
+.q-report-btn {
+  background: none; border: none; padding: 2px 0; cursor: pointer;
+  font: inherit; font-size: 0.78rem; color: var(--ink-soft);
+  opacity: 0.6; text-decoration: underline; text-underline-offset: 2px;
+}
+.q-report-btn:hover { opacity: 1; color: var(--accent); }
+
+.q-report-form {
+  margin-top: 8px; padding: 12px; border: 1px solid var(--border);
+  border-radius: 10px; background: var(--bg);
+}
+.q-report-label { display: block; font-size: 0.82rem; font-weight: 600; margin-bottom: 6px; }
+.q-report-tipo, .q-report-comentario {
+  width: 100%; padding: 8px 10px; border: 1px solid var(--border);
+  border-radius: 8px; font: inherit; font-size: 0.88rem;
+  background: var(--surface); color: var(--ink); margin-bottom: 8px;
+}
+.q-report-comentario { resize: vertical; }
+.q-report-actions { display: flex; gap: 8px; align-items: center; }
+.q-report-actions .btn { width: auto; margin-bottom: 0; padding: 7px 14px; font-size: 0.85rem; }
+.q-report-status { margin: 8px 0 0; font-size: 0.82rem; color: var(--bad); }
+.q-report-obrigado {
+  margin: 8px 0 0; font-size: 0.82rem; font-weight: 600; color: var(--good);
+}

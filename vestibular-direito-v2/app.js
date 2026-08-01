@@ -1545,7 +1545,10 @@
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>
       <div class="q-feedback" hidden></div>
+      <div class="q-report"></div>
     `;
+
+    initQuestionReport(wrap, day, subtopicId, q);
 
     if (saved) applyFeedback(wrap, q, saved);
 
@@ -1615,6 +1618,91 @@
     const isCorrect = chosenLetter === q.resposta;
     fb.className = "q-feedback " + (isCorrect ? "correct" : "incorrect");
     fb.textContent = (isCorrect ? "Certo! " : "Não foi dessa vez. ") + q.explicacao;
+  }
+
+  // ---------- Reportar problema numa questão (v2) ----------
+  //
+  // O banco tem 1800 questões originais: erro de gabarito ou enunciado dúbio
+  // é questão de tempo, e sem um canal a pessoa só engole o erro. O botão
+  // fica discreto (o objetivo é estudar, não caçar erro) e o formulário só
+  // aparece quando clicado.
+  const REPORT_TIPOS = [
+    ["gabarito", "O gabarito parece errado"],
+    ["enunciado", "Enunciado confuso ou ambíguo"],
+    ["alternativas", "Problema nas alternativas"],
+    ["escrita", "Erro de português ou digitação"],
+    ["outro", "Outro problema"],
+  ];
+
+  function initQuestionReport(wrap, day, subtopicId, q) {
+    const slot = wrap.querySelector(".q-report");
+    if (!slot) return;
+
+    function mostrarBotao() {
+      slot.innerHTML = `<button type="button" class="q-report-btn">Reportar problema nesta questão</button>`;
+      slot.querySelector(".q-report-btn").addEventListener("click", mostrarFormulario);
+    }
+
+    function mostrarFormulario() {
+      const opcoes = REPORT_TIPOS.map(
+        ([valor, rotulo]) => `<option value="${valor}">${escapeHtml(rotulo)}</option>`
+      ).join("");
+      slot.innerHTML = `
+        <div class="q-report-form">
+          <label class="q-report-label">Qual é o problema?</label>
+          <select class="q-report-tipo">${opcoes}</select>
+          <textarea class="q-report-comentario" rows="2"
+            placeholder="Se quiser, explique em uma linha (opcional)"></textarea>
+          <div class="q-report-actions">
+            <button type="button" class="btn btn-primary q-report-enviar">Enviar</button>
+            <button type="button" class="btn btn-ghost q-report-cancelar">Cancelar</button>
+          </div>
+          <p class="q-report-status" hidden></p>
+        </div>
+      `;
+      slot.querySelector(".q-report-cancelar").addEventListener("click", mostrarBotao);
+      slot.querySelector(".q-report-enviar").addEventListener("click", enviar);
+    }
+
+    async function enviar() {
+      const btn = slot.querySelector(".q-report-enviar");
+      const status = slot.querySelector(".q-report-status");
+      const tipo = slot.querySelector(".q-report-tipo").value;
+      const comentario = slot.querySelector(".q-report-comentario").value.trim();
+
+      btn.disabled = true;
+      btn.textContent = "Enviando…";
+      status.hidden = true;
+
+      try {
+        const answers = getAnswers();
+        const resultado = await window.VD_FEEDBACK.report({
+          questionId: q.id,
+          subtopicId: subtopicId,
+          dia: day,
+          tipo: tipo,
+          comentario: comentario,
+          enunciado: q.enunciado,
+          gabaritoDoApp: q.resposta,
+          respostaDaPessoa: answers[answerKey(subtopicId, q.id)] || null,
+        });
+        slot.innerHTML = `<p class="q-report-obrigado">${
+          resultado.jaEnviado
+            ? "Você já reportou isso — obrigado!"
+            : "Obrigado! Vou revisar essa questão."
+        }</p>`;
+      } catch (err) {
+        btn.disabled = false;
+        btn.textContent = "Enviar";
+        status.hidden = false;
+        status.textContent =
+          err && err.message === "sem-usuario"
+            ? "Entre na sua conta pra reportar."
+            : "Não consegui enviar agora. Verifique sua conexão e tente de novo.";
+      }
+    }
+
+    mostrarBotao();
   }
 
   function updateScoreLabel(card) {

@@ -14,6 +14,7 @@
 
 import { auth } from "./firebase-init.js";
 import "./sync.js"; // define window.VD_SYNC
+import "./feedback.js"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,

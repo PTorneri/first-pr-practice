@@ -24,5 +24,15 @@ service cloud.firestore {
     match /users/{uid} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
     }
+
+    // --- V2: relatos de problema em questões ---
+    // Quem está logado pode CRIAR um relato, e só. Ninguém edita nem apaga o
+    // que já enviou (senão o histórico não serviria de nada), e ninguém lê os
+    // relatos pelo app — você lê no console do Firebase.
+    // A checagem de uid impede alguém relatar se passando por outra pessoa.
+    match /feedback/{docId} {
+      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
+      allow read, update, delete: if false;
+    }
   }
 }

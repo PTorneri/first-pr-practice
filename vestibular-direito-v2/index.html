@@ -21,7 +21,16 @@
      DIFERENTES, o Firebase é inicializado duas vezes e o app quebra. Por isso
      o número tem que ser o MESMO em todos os imports, em todos os arquivos
      (auth.js, sync.js, feedback.js, admin.js). Ao publicar, incremente tudo
-     junto: aqui, nos <script> do fim, no admin.html e nos imports. -->
+     junto: aqui, nos <script> do fim, no admin.html e nos imports.
+
+     O CONTEÚDO usa um contador separado, ?d=, nos scripts de dados no fim da
+     página. São coisas que mudam por motivos diferentes: corrigir uma questão
+     não deveria obrigar ninguém a rebaixar o CSS, e mexer no CSS não deveria
+     obrigar a rebaixar os 3 MB do banco de questões. Corrigiu conteúdo em
+     data/questions/? Rode build-bundle.ps1 e incremente o ?d= (aqui e no
+     admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
+     já visitou, e foi exatamente o que aconteceu na primeira publicação da
+     reescrita das alternativas. -->
 <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
@@ -216,16 +225,16 @@
 
 <!-- Conteúdo compartilhado com o v1: uma base só de questões, teoria, obras e flashcards.
      Corrigir uma questão no v1 corrige nos dois apps. -->
-<script src="../vestibular-direito/data/subtopics.js"></script>
-<script src="../vestibular-direito/data/theory.js"></script>
-<script src="../vestibular-direito/data/obras.js"></script>
-<script src="../vestibular-direito/data/obras-questoes.js"></script>
-<script src="../vestibular-direito/data/flashcards.js"></script>
-<script src="../vestibular-direito/data/priority-weights.js"></script>
-<script src="../vestibular-direito/data/video-topics.js"></script>
-<script src="../vestibular-direito/data/bundle.js"></script>
-<script src="../vestibular-direito/data/dissertativas.js"></script>
-<script src="../vestibular-direito/schedule.js"></script>
+<script src="../vestibular-direito/data/subtopics.js?d=1"></script>
+<script src="../vestibular-direito/data/theory.js?d=1"></script>
+<script src="../vestibular-direito/data/obras.js?d=1"></script>
+<script src="../vestibular-direito/data/obras-questoes.js?d=1"></script>
+<script src="../vestibular-direito/data/flashcards.js?d=1"></script>
+<script src="../vestibular-direito/data/priority-weights.js?d=1"></script>
+<script src="../vestibular-direito/data/video-topics.js?d=1"></script>
+<script src="../vestibular-direito/data/bundle.js?d=1"></script>
+<script src="../vestibular-direito/data/dissertativas.js?d=1"></script>
+<script src="../vestibular-direito/schedule.js?d=1"></script>
 <script src="app.js?v=3"></script>
 <script type="module" src="auth.js?v=3"></script>
 </body>

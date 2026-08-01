@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rumo à FGV/Insper — Plano de 90 dias (v2)</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- LOGIN (v2): porta de entrada. Enquanto não há usuário logado, nada mais aparece. -->
+  <section id="view-login" class="view">
+    <div class="card onboarding-card login-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.svg" alt="Rumo à FGV/Insper Direito">
+      </div>
+      <h1>Rumo à FGV &amp; Insper — Direito</h1>
+      <p class="subtitle">Entre com sua conta Google para salvar seu progresso na nuvem e continuar
+      de onde parou em qualquer aparelho — computador, celular ou tablet.</p>
+      <ul class="pitch-list">
+        <li>Seu progresso fica <strong>salvo na sua conta</strong>, não só neste navegador</li>
+        <li>Estude no computador e revise no celular, <strong>sempre sincronizado</strong></li>
+        <li><strong>Correção por IA</strong> das questões dissertativas, com feedback por critério</li>
+        <li><strong>Ofensiva</strong> diária pra manter o ritmo dos 90 dias</li>
+      </ul>
+      <button id="btn-login-google" class="btn btn-primary btn-google">
+        <svg class="google-icon" viewBox="0 0 18 18" aria-hidden="true">
+          <path fill="#4285F4" d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z"/>
+          <path fill="#34A853" d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.03-3.7H.96v2.33A9 9 0 0 0 9 18z"/>
+          <path fill="#FBBC05" d="M3.97 10.72a5.4 5.4 0 0 1 0-3.44V4.95H.96a9 9 0 0 0 0 8.1l3.01-2.33z"/>
+          <path fill="#EA4335" d="M9 3.58c1.32 0 2.5.45 3.44 1.35l2.58-2.58C13.46.89 11.43 0 9 0A9 9 0 0 0 .96 4.95l3.01 2.33C4.68 5.16 6.66 3.58 9 3.58z"/>
+        </svg>
+        Entrar com Google
+      </button>
+      <p id="login-error" class="login-error" hidden></p>
+      <p class="login-note">Usamos sua conta Google só para identificar seu progresso. Não temos acesso
+      à sua senha nem aos seus e-mails.</p>
+    </div>
+  </section>
+
+  <!-- ONBOARDING -->
+  <section id="view-onboarding" class="view" hidden>
+    <div class="card onboarding-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.svg" alt="Rumo à FGV/Insper Direito">
+      </div>
+      <h1>Rumo à FGV &amp; Insper — Direito</h1>
+      <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
+      Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
+      <ul class="pitch-list">
+        <li>Todo dia: <strong>1 a 2 vídeo-aulas</strong> sugeridas + <strong>20 a 30 exercícios</strong> comentados</li>
+        <li>15 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 dias — com
+        mais frequência para as frentes que mais caem nas provas reais, segundo um estudo de 6 anos de exames</li>
+        <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
+        (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
+        nos dias que você quiser</li>
+        <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, distribuídas
+        entre as 15 frentes por prioridade — e a semana seguinte passa a focar mais nos temas em que você mais
+        errou</li>
+        <li><strong>Caderno de Erros</strong>: toda questão que você errar reaparece numa aba própria pra você
+        treinar de novo, até acertar</li>
+        <li>Teoria (gatilhos e pegadinhas) antes dos exercícios, <strong>flashcards</strong> com repetição
+        espaçada, sessão <strong>SOS</strong> por tema e um <strong>score projetado</strong> pra prova</li>
+        <li>Obras obrigatórias da FGV (Artes e Questões Contemporâneas) numa aba própria, com resumo e análise
+        pelos eixos da banca</li>
+        <li>Progresso salvo na <strong>sua conta Google</strong> — disponível em qualquer aparelho</li>
+      </ul>
+      <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
+      <button id="btn-resume" class="btn btn-secondary" hidden>Continuar meu plano</button>
+    </div>
+  </section>
+
+  <!-- MAIN APP -->
+  <div id="view-main" class="view" hidden>
+    <header class="topbar">
+      <div class="brand">
+        <img class="brand-logo" src="assets/logo.svg" alt="">
+        <span>Rumo à FGV &amp; Insper</span>
+      </div>
+      <nav class="tabs">
+        <button class="tab-btn active" data-tab="hoje">Hoje</button>
+        <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
+        <button class="tab-btn" data-tab="simulados">Simulados</button>
+        <button class="tab-btn" data-tab="cards">Cards</button>
+        <button class="tab-btn" data-tab="obras">Obras</button>
+        <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
+        <button class="tab-btn" data-tab="progresso">Meu progresso</button>
+      </nav>
+      <div class="user-chip" id="user-chip" hidden>
+        <img id="user-avatar" class="user-avatar" alt="" referrerpolicy="no-referrer">
+        <span id="user-name" class="user-name"></span>
+        <button id="btn-logout" class="btn btn-ghost btn-logout">Sair</button>
+      </div>
+    </header>
+
+    <main class="content">
+
+      <!-- TAB: HOJE -->
+      <section id="tab-hoje" class="tab-panel active">
+        <div class="day-nav">
+          <button id="btn-prev-day" class="btn btn-ghost">&larr; Dia anterior</button>
+          <div class="day-label">
+            <span id="day-number">Dia 1</span> de 90
+            <span id="phase-label" class="phase-label"></span>
+            <span id="day-date" class="day-date"></span>
+          </div>
+          <button id="btn-next-day" class="btn btn-ghost">Próximo dia &rarr;</button>
+        </div>
+
+        <div id="day-content"></div>
+      </section>
+
+      <!-- TAB: CALENDARIO -->
+      <section id="tab-calendario" class="tab-panel">
+        <h2>Mapa dos 90 dias</h2>
+        <p class="hint">Cada quadrado é um dia de estudo. A cor indica o quanto você já concluiu. Clique num dia para abri-lo.</p>
+        <div id="calendar-grid" class="calendar-grid"></div>
+        <div class="legend">
+          <span class="legend-item"><i class="dot dot-pending"></i> Não iniciado</span>
+          <span class="legend-item"><i class="dot dot-partial"></i> Em andamento</span>
+          <span class="legend-item"><i class="dot dot-done"></i> Concluído</span>
+          <span class="legend-item"><i class="dot dot-today"></i> Hoje</span>
+          <span class="legend-item"><i class="dot dot-simulado"></i> Domingo = Simulado (borda tracejada)</span>
+        </div>
+      </section>
+
+      <!-- TAB: SIMULADOS -->
+      <section id="tab-simulados" class="tab-panel">
+        <div id="simulados-content"></div>
+      </section>
+
+      <!-- TAB: CARDS (flashcards com repetição espaçada) -->
+      <section id="tab-cards" class="tab-panel">
+        <div id="cards-content"></div>
+      </section>
+
+      <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
+      <section id="tab-obras" class="tab-panel">
+        <div id="obras-content"></div>
+      </section>
+
+      <!-- TAB: CADERNO DE ERROS -->
+      <section id="tab-erros" class="tab-panel">
+        <div id="erros-content"></div>
+      </section>
+
+      <!-- TAB: PROGRESSO -->
+      <section id="tab-progresso" class="tab-panel">
+        <h2>Meu progresso por frente de estudo</h2>
+        <p class="hint">Acompanhe seu desempenho em cada uma das 15 frentes cobradas pelas provas.</p>
+        <div id="projected-score-container"></div>
+        <div id="progress-list" class="progress-list"></div>
+
+        <div class="card official-exams-card">
+          <h3>Provas oficiais anteriores (100% reais)</h3>
+          <p class="lesson-desc">Os exercícios deste app são originais, criados no estilo das provas — não são
+          cópias de provas reais (por direitos autorais). Para treinar com o material 100% autêntico, com gabarito
+          oficial, acesse diretamente os arquivos publicados pelas próprias instituições:</p>
+          <div class="video-links">
+            <a class="btn-link" target="_blank" rel="noopener" href="https://vestibular.fgv.br/provas-gabaritos">▶ Provas e gabaritos oficiais — FGV</a>
+            <a class="btn-link" target="_blank" rel="noopener" href="https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html">▶ Provas e gabaritos oficiais — Insper</a>
+          </div>
+        </div>
+
+        <div id="sync-container"></div>
+
+        <div class="danger-zone">
+          <button id="btn-reset" class="btn btn-danger-outline">Reiniciar todo o progresso</button>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+</div>
+
+<!-- Conteúdo compartilhado com o v1: uma base só de questões, teoria, obras e flashcards.
+     Corrigir uma questão no v1 corrige nos dois apps. -->
+<script src="../vestibular-direito/data/subtopics.js"></script>
+<script src="../vestibular-direito/data/theory.js"></script>
+<script src="../vestibular-direito/data/obras.js"></script>
+<script src="../vestibular-direito/data/obras-questoes.js"></script>
+<script src="../vestibular-direito/data/flashcards.js"></script>
+<script src="../vestibular-direito/data/priority-weights.js"></script>
+<script src="../vestibular-direito/data/video-topics.js"></script>
+<script src="../vestibular-direito/data/bundle.js"></script>
+<script src="../vestibular-direito/data/dissertativas.js"></script>
+<script src="../vestibular-direito/schedule.js"></script>
+<script src="app.js"></script>
+<script type="module" src="auth.js"></script>
+</body>
+</html>

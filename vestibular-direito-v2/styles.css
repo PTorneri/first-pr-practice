@@ -87,9 +87,10 @@ body {
 #app { min-height: 100vh; }
 .view[hidden] { display: none !important; }
 
-/* Onboarding e login: as duas telas de entrada, centralizadas na janela */
+/* Onboarding, login e falha de sync: telas de entrada, centralizadas na janela */
 #view-onboarding,
-#view-login {
+#view-login,
+#view-sync-error {
   min-height: 100vh;
   display: flex;
   align-items: center;

@@ -31,6 +31,7 @@ const provider = new GoogleAuthProvider();
 const viewLogin = document.getElementById("view-login");
 const viewOnboarding = document.getElementById("view-onboarding");
 const viewMain = document.getElementById("view-main");
+const viewSyncError = document.getElementById("view-sync-error");
 const btnLogin = document.getElementById("btn-login-google");
 const btnLogout = document.getElementById("btn-logout");
 const errorBox = document.getElementById("login-error");
@@ -130,18 +131,39 @@ async function showLoggedIn(user) {
   userChip.hidden = false;
 
   // Baixa e mescla o progresso da conta ANTES de montar o plano — é isso que
-  // faz "retomar de onde parou" valer em qualquer aparelho. Se a nuvem estiver
-  // fora do ar, o sync avisa e o app sobe com o que existe neste aparelho.
+  // faz "retomar de onde parou" valer em qualquer aparelho.
+  //
+  // Se a leitura falhar, o app NÃO pode subir. Antes ele subia assim mesmo, e
+  // num aparelho novo isso mostrava a tela de "Começar meu plano hoje": a
+  // pessoa criava uma data de início nova, que virava "Dia 1" e depois
+  // sobrescrevia na nuvem o plano real. Melhor não abrir do que abrir mentindo.
+  let resultado = { ok: false };
   try {
-    await window.VD_SYNC.start(user);
+    resultado = await window.VD_SYNC.start(user);
   } catch (err) {
     console.warn("[auth] sync não pôde iniciar:", err);
   }
 
+  if (!resultado.ok) {
+    mostrarFalhaDeSync();
+    return;
+  }
+
   viewLogin.hidden = true;
+  viewSyncError.hidden = true;
   viewOnboarding.hidden = false;
 
   window.VD_BOOT();
+}
+
+// Tela de bloqueio: não conseguimos ler o progresso da conta. Só oferece tentar
+// de novo ou sair — nada que crie estado novo por cima do que está na nuvem.
+function mostrarFalhaDeSync() {
+  viewLogin.hidden = true;
+  viewOnboarding.hidden = true;
+  viewMain.hidden = true;
+  viewSyncError.hidden = false;
+  userChip.hidden = true;
 }
 
 function showLoggedOut() {
@@ -149,12 +171,15 @@ function showLoggedOut() {
   viewLogin.hidden = false;
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
+  viewSyncError.hidden = true;
   userChip.hidden = true;
   setLoading(false);
 }
 
 btnLogin.addEventListener("click", login);
 btnLogout.addEventListener("click", logout);
+document.getElementById("btn-tentar-sync").addEventListener("click", () => location.reload());
+document.getElementById("btn-sair-sync").addEventListener("click", logout);
 
 // Mantém a sessão entre visitas: quem já entrou uma vez não precisa
 // logar de novo a cada vez que abre o app.

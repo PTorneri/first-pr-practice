@@ -136,6 +136,12 @@ let pushTimer = null;
 let statusEl = null;
 let lastError = null;
 
+// Trava de segurança: só é permitido ESCREVER na nuvem depois de ter LIDO dela
+// com sucesso. Sem isso, um aparelho cujo download falhou sobe o próprio estado
+// (vazio ou desatualizado) como se fosse a verdade e apaga o progresso real —
+// foi exatamente o que aconteceu no bug do primeiro login pelo celular.
+let podeEscrever = false;
+
 function setStatus(state, text) {
   if (!statusEl) statusEl = document.getElementById("sync-status");
   if (!statusEl) return;
@@ -167,14 +173,18 @@ function migrateFromV1() {
   const jaTemV2 = keys.some((k) => localStorage.getItem(k) !== null);
   if (jaTemV2) return false;
 
-  const now = Date.now();
+  // ts = 1 (o mais antigo possível), NÃO Date.now(). O que vem do v1 deste
+  // aparelho é dado ANTIGO, mesmo tendo sido copiado agora: carimbá-lo com a
+  // hora atual faria ele vencer, por "ser mais recente", o progresso real que
+  // está na nuvem — e um celular com um v1 esquecido sobrescreveria o plano
+  // inteiro do computador.
   const meta = loadMeta();
   let copiou = 0;
   keys.forEach((k) => {
     const v1Raw = localStorage.getItem(baseName(k));
     if (v1Raw !== null) {
       localStorage.setItem(k, v1Raw);
-      meta[k] = now;
+      meta[k] = 1;
       copiou++;
     }
   });
@@ -195,17 +205,20 @@ function collectLocal() {
 }
 
 async function pushNow() {
-  if (!currentUid) return;
+  if (!currentUid || !podeEscrever) return;
   clearTimeout(pushTimer);
   pushTimer = null;
   dirtyKeys.clear();
   setStatus("saving", "Salvando…");
   try {
+    // merge:true é essencial: sem ele o setDoc SUBSTITUI o documento inteiro, e
+    // qualquer chave que este aparelho não tenha localmente some da nuvem. Com
+    // merge, cada chave é escrita por cima da sua correspondente e o resto fica.
     await setDoc(doc(db, "users", currentUid), {
       data: collectLocal(),
       updatedAt: Date.now(),
       app: "v2",
-    });
+    }, { merge: true });
     lastError = null;
     setStatus("ok", "Salvo na sua conta");
   } catch (err) {
@@ -216,7 +229,7 @@ async function pushNow() {
 }
 
 function schedulePush() {
-  if (!currentUid) return;
+  if (!currentUid || !podeEscrever) return;
   setStatus("saving", "Salvando…");
   clearTimeout(pushTimer);
   pushTimer = setTimeout(pushNow, PUSH_DEBOUNCE_MS);
@@ -265,20 +278,30 @@ async function pullAndMerge() {
 // é isso que faz "retomar de onde parou" funcionar em qualquer aparelho.
 async function start(user) {
   currentUid = user.uid;
+  podeEscrever = false; // só libera depois de ler a nuvem com sucesso
   setStatus("saving", "Sincronizando…");
 
   const migrou = migrateFromV1();
   const resultado = await pullAndMerge();
 
+  if (!resultado.ok) {
+    // Não conseguimos ler a nuvem. A escrita continua travada e quem chamou
+    // (auth.js) deve impedir o app de subir: deixar a pessoa "começar um plano
+    // novo" aqui seria criar um estado falso que depois sobrescreve o real.
+    return { migrou: migrou, ok: false };
+  }
+
+  podeEscrever = true;
+
   // Sobe se: é a primeira vez desta conta (nuvem vazia), se trouxemos dados
   // do v1, ou se a mesclagem mudou algo — nesse caso a nuvem está defasada.
-  if (resultado.ok && (resultado.primeiraVez || migrou || resultado.mudou)) {
+  if (resultado.primeiraVez || migrou || resultado.mudou) {
     await pushNow();
-  } else if (resultado.ok) {
+  } else {
     setStatus("ok", "Salvo na sua conta");
   }
 
-  return { migrou: migrou, ok: resultado.ok };
+  return { migrou: migrou, ok: true };
 }
 
 function markDirty(key) {
@@ -294,6 +317,7 @@ function stop() {
   clearTimeout(pushTimer);
   pushTimer = null;
   currentUid = null;
+  podeEscrever = false;
   dirtyKeys.clear();
 }
 

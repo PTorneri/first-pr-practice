@@ -17,7 +17,7 @@
      "firebase-init.js?v=1" e "firebase-init.js?v=2", o Firebase seria
      inicializado duas vezes e o app quebraria. Mudou um desses três? Espere os
      10 minutos ou recarregue forçando (Ctrl+Shift+R). -->
-<link rel="stylesheet" href="styles.css?v=2">
+<link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
 <div id="app">
@@ -49,6 +49,23 @@
       <p id="login-error" class="login-error" hidden></p>
       <p class="login-note">Usamos sua conta Google só para identificar seu progresso. Não temos acesso
       à sua senha nem aos seus e-mails.</p>
+    </div>
+  </section>
+
+  <!-- FALHA AO LER O PROGRESSO: bloqueia em vez de deixar começar um plano novo
+       por cima do que está salvo na conta. -->
+  <section id="view-sync-error" class="view" hidden>
+    <div class="card onboarding-card login-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.svg" alt="">
+      </div>
+      <h1>Não consegui carregar seu progresso</h1>
+      <p class="subtitle">Você entrou na conta, mas não deu pra buscar o seu plano na nuvem —
+      normalmente é a conexão. <strong>Seu progresso está seguro</strong>: nada foi alterado.</p>
+      <p class="subtitle">Prefiro não abrir o app agora, porque sem os seus dados ele começaria
+      um plano do zero e isso sim bagunçaria o que está salvo.</p>
+      <button id="btn-tentar-sync" class="btn btn-primary">Tentar de novo</button>
+      <button id="btn-sair-sync" class="btn btn-secondary">Sair da conta</button>
     </div>
   </section>
 
@@ -202,7 +219,7 @@
 <script src="../vestibular-direito/data/bundle.js"></script>
 <script src="../vestibular-direito/data/dissertativas.js"></script>
 <script src="../vestibular-direito/schedule.js"></script>
-<script src="app.js?v=2"></script>
-<script type="module" src="auth.js?v=2"></script>
+<script src="app.js?v=3"></script>
+<script type="module" src="auth.js?v=3"></script>
 </body>
 </html>

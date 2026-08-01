@@ -2181,6 +2181,7 @@
   // ---------- Progress tab ----------
   function renderProgress() {
     rebuildPlan();
+    renderCorrigirInicio();
 
     const list = document.getElementById("progress-list");
     const scoreContainer = document.getElementById("projected-score-container");
@@ -2409,11 +2410,77 @@
   }
 
   function initReset() {
-    document.getElementById("btn-reset").addEventListener("click", () => {
-      if (confirm("Isso vai apagar todo o seu progresso salvo neste navegador. Continuar?")) {
-        SYNCABLE_KEYS.concat([LS_SYNC_CODE]).forEach((k) => localStorage.removeItem(k));
-        location.reload();
+    const btn = document.getElementById("btn-reset");
+    btn.addEventListener("click", async () => {
+      // No v2 o progresso mora na CONTA, não no navegador. Apagar só o
+      // localStorage não reinicia nada: no login seguinte o sync baixa tudo de
+      // volta e parece que o botão não funcionou. Por isso apagamos a nuvem
+      // primeiro, e só limpamos este aparelho se aquilo der certo.
+      if (!confirm(
+        "Isso vai apagar todo o seu progresso da SUA CONTA — em todos os aparelhos, " +
+        "não só neste. Não dá pra desfazer. Continuar?"
+      )) return;
+
+      btn.disabled = true;
+      const textoOriginal = btn.textContent;
+      btn.textContent = "Apagando…";
+
+      const r = await window.VD_SYNC.apagarTudoNaNuvem();
+      if (!r.ok) {
+        btn.disabled = false;
+        btn.textContent = textoOriginal;
+        alert(
+          "Não consegui apagar o progresso da sua conta (" + r.motivo + ").\n\n" +
+          "Nada foi alterado. Verifique sua conexão e tente de novo — se eu limpasse " +
+          "só este aparelho, seu progresso voltaria no próximo login."
+        );
+        return;
       }
+
+      SYNCABLE_KEYS.concat([LS_SYNC_CODE, LS_STUDY_DAYS]).forEach((k) => localStorage.removeItem(k));
+      localStorage.removeItem("v2_syncMeta");
+      location.reload();
+    });
+  }
+
+  // ---------- Corrigir a data de início (v2) ----------
+  //
+  // O dia do plano e as matérias de cada dia saem todos da data de início. Se
+  // ela ficar errada — por um aparelho que começou um plano novo, por exemplo —
+  // o app inteiro passa a mostrar o dia errado, e não havia como consertar.
+  function renderCorrigirInicio() {
+    const container = document.getElementById("corrigir-inicio-container");
+    if (!container) return;
+    const atual = localStorage.getItem(LS_START) || todayISO();
+    const dia = currentDayFromStart();
+
+    container.innerHTML = `
+      <div class="card corrigir-inicio-card">
+        <h3>Data de início do plano</h3>
+        <p class="lesson-desc">Seu plano começou em <strong>${escapeHtml(atual)}</strong>,
+        o que coloca você no <strong>dia ${dia}</strong> de 90. Se essa data estiver errada,
+        corrija aqui — é ela que define o dia atual e quais matérias caem em cada dia.</p>
+        <div class="dissert-actions" style="align-items:center; gap:8px;">
+          <input type="date" id="input-inicio" class="corrigir-inicio-input" value="${escapeHtml(atual)}" max="${todayISO()}">
+          <button id="btn-corrigir-inicio" class="btn btn-secondary" style="width:auto;">Salvar data</button>
+        </div>
+        <p id="corrigir-inicio-status" class="hint" style="margin-top:8px;" hidden></p>
+      </div>
+    `;
+
+    const status = document.getElementById("corrigir-inicio-status");
+    document.getElementById("btn-corrigir-inicio").addEventListener("click", async () => {
+      const nova = document.getElementById("input-inicio").value;
+      if (!nova) return;
+      status.hidden = false;
+      status.textContent = "Salvando…";
+      const r = await window.VD_SYNC.definirDataDeInicio(nova);
+      if (!r.ok) {
+        status.textContent = "Não consegui salvar (" + r.motivo + ").";
+        return;
+      }
+      status.textContent = "Data salva. Recarregando…";
+      setTimeout(() => location.reload(), 600);
     });
   }
 

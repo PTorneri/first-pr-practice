@@ -11,12 +11,17 @@
      buscar de novo. AO PUBLICAR UMA MUDANÇA EM styles.css OU app.js, INCREMENTE
      ESTE NÚMERO nos três lugares (aqui e nos dois <script> no fim da página).
 
-     Os módulos internos (sync.js, feedback.js, firebase-init.js) NÃO levam ?v=
-     de propósito: eles são importados por auth.js, e para o navegador cada URL
-     diferente é um módulo diferente — se auth.js e sync.js importassem
-     "firebase-init.js?v=1" e "firebase-init.js?v=2", o Firebase seria
-     inicializado duas vezes e o app quebraria. Mudou um desses três? Espere os
-     10 minutos ou recarregue forçando (Ctrl+Shift+R). -->
+     Os módulos internos (sync.js, feedback.js, firebase-init.js) TAMBÉM levam
+     ?v=, dentro dos próprios imports. Antes ficavam de fora, e isso escondeu
+     uma correção crítica do sync: auth.js chegava novo, mas importava um
+     sync.js velho, servido do cache.
+
+     A regra que torna isso seguro: para o navegador, cada URL é um módulo
+     diferente — se dois arquivos importarem "firebase-init.js" com ?v=
+     DIFERENTES, o Firebase é inicializado duas vezes e o app quebra. Por isso
+     o número tem que ser o MESMO em todos os imports, em todos os arquivos
+     (auth.js, sync.js, feedback.js, admin.js). Ao publicar, incremente tudo
+     junto: aqui, nos <script> do fim, no admin.html e nos imports. -->
 <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
@@ -194,6 +199,8 @@
             <a class="btn-link" target="_blank" rel="noopener" href="https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html">▶ Provas e gabaritos oficiais — Insper</a>
           </div>
         </div>
+
+        <div id="corrigir-inicio-container"></div>
 
         <div id="sync-container"></div>
 

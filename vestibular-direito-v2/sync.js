@@ -12,17 +12,14 @@
 // entrada (questão por questão, dia por dia), com uma regra por tipo de
 // dado — descritas em MERGE_STRATEGY logo abaixo.
 
-import { doc, getDoc, setDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-import { db } from "./firebase-init.js";
+import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
+import { db } from "./firebase-init.js?v=3";
 
 const META_KEY = "v2_syncMeta"; // { "<chave>": <ms da última escrita local> } — não sobe pra nuvem
 const PUSH_DEBOUNCE_MS = 2500;
 
 // Estratégia de mesclagem por chave. O sufixo é o nome sem o prefixo "v2_".
 //
-//  "primeira"  -> data de início do plano: vence a MAIS ANTIGA. Se o celular
-//                 criasse um "hoje" novo, o plano de 90 dias inteiro se
-//                 deslocaria e a pessoa perderia a contagem real.
 //  "ou"        -> flags que só ligam (teoria vista, obra estudada): uma vez
 //                 true, sempre true. União simples.
 //  "maisRecente" -> datas ISO: vence a mais recente (ex.: última vez que a
@@ -33,7 +30,13 @@ const PUSH_DEBOUNCE_MS = 2500;
 //                 a mesma entrada com valores diferentes, vence o lado que
 //                 escreveu por último.
 const MERGE_STRATEGY = {
-  vd_startDate: "primeira",
+  // vd_startDate NÃO está aqui: usa o padrão "entrada" (vence quem escreveu por
+  // último). Antes valia "a mais antiga vence", como rede de proteção contra um
+  // aparelho novo criar um "hoje" e deslocar o plano inteiro. Essa proteção
+  // agora é feita direito — o app não sobe sem ler a nuvem, e não escreve sem
+  // ter lido — e a regra da mais antiga tinha um efeito perverso: uma data
+  // errada e antiga virava PERMANENTE, porque nenhuma correção conseguia
+  // vencê-la. Corrigir a data precisa ser possível.
   vd_theorySeen: "ou",
   vd_obrasStudied: "ou",
   // Ofensiva: união dos dias estudados. Estudou no celular na terça e no PC
@@ -88,12 +91,6 @@ function mergeValue(key, local, remote, localTs, remoteTs) {
   if (remote === undefined) return local;
 
   const strategy = MERGE_STRATEGY[baseName(key)] || "entrada";
-
-  if (strategy === "primeira") {
-    if (!local) return remote;
-    if (!remote) return local;
-    return String(local) < String(remote) ? local : remote;
-  }
 
   if (!isObject(local) || !isObject(remote)) {
     // Valores simples que não caem nas regras acima: o mais recente vence.
@@ -313,6 +310,39 @@ function markDirty(key) {
   schedulePush();
 }
 
+// Reiniciar de verdade: apaga TAMBÉM o documento da nuvem.
+//
+// Sem isto, "Reiniciar todo o progresso" era uma promessa falsa: limpava só o
+// aparelho e, no login seguinte, o sync baixava tudo de volta da conta — dava a
+// impressão de que o botão não funcionava.
+async function apagarTudoNaNuvem() {
+  if (!currentUid) return { ok: false, motivo: "sem-usuario" };
+  try {
+    await deleteDoc(doc(db, "users", currentUid));
+    podeEscrever = false; // nada a escrever até ler de novo
+    return { ok: true };
+  } catch (err) {
+    console.warn("[sync] falha ao apagar na nuvem:", err.code || err.message);
+    return { ok: false, motivo: err.code || err.message };
+  }
+}
+
+// Correção explícita da data de início, feita pela pessoa.
+//
+// Escreve local e sobe na hora, com carimbo de agora — por isso vence a versão
+// que estiver na nuvem ou em outro aparelho. É a única forma de consertar um
+// plano que começou na data errada.
+async function definirDataDeInicio(iso) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(iso)) return { ok: false, motivo: "data-invalida" };
+  const chave = window.VD_KEYS.START;
+  localStorage.setItem(chave, iso);
+  const meta = loadMeta();
+  meta[chave] = Date.now();
+  saveMeta(meta);
+  if (podeEscrever) await pushNow();
+  return { ok: true };
+}
+
 function stop() {
   clearTimeout(pushTimer);
   pushTimer = null;
@@ -334,6 +364,8 @@ window.VD_SYNC = {
   stop: stop,
   markDirty: markDirty,
   pushNow: pushNow,
+  apagarTudoNaNuvem: apagarTudoNaNuvem,
+  definirDataDeInicio: definirDataDeInicio,
   get erro() {
     return lastError;
   },

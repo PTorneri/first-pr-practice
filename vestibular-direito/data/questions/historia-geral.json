@@ -332,7 +332,7 @@
                          "enunciado":  "A estratégia adotada por Bismarck para unificar os territórios alemães sob liderança prussiana ficou conhecida como política de:",
                          "alternativas":  {
                                               "a":  "Apaziguamento, evitando qualquer confronto militar com potências vizinhas, postura oposta à adotada por Bismarck",
-                                              "b":  "'Sangue e ferro', que combinava fortalecimento militar prussiano e guerras estratégicas até a unificação de 1871",
+                                              "b":  "\u0027Sangue e ferro\u0027, que combinava fortalecimento militar prussiano e guerras estratégicas até a unificação de 1871",
                                               "c":  "Neutralidade absoluta em relação aos conflitos europeus do período, incompatível com as guerras de unificação",
                                               "d":  "Aliança permanente com o Império Austro-Húngaro para dividir o território alemão, aliança nunca de fato firmada"
                                           },
@@ -357,10 +357,10 @@
                          "texto_apoio":  "As unificações da Alemanha e da Itália, concluídas por volta de 1871, alteraram significativamente o equilíbrio de poder europeu.",
                          "enunciado":  "Uma das principais consequências geopolíticas desses processos de unificação foi:",
                          "alternativas":  {
-                                              "a":  "O fim de qualquer disputa territorial na Europa Central, cenário contrariado pelas tensões balcânicas seguintes",
-                                              "b":  "A redução do nacionalismo como força política na Europa, tendência oposta ao observado após as unificações",
+                                              "a":  "A estabilização das disputas territoriais na Europa Central, já que as fronteiras então definidas foram aceitas pelas demais potências e permaneceram sem contestação relevante nas décadas seguintes",
+                                              "b":  "O recuo do nacionalismo como força política, substituído por identidades supranacionais que passaram a orientar a diplomacia europeia e esvaziaram as reivindicações de base étnica no continente",
                                               "c":  "O surgimento de novas potências industriais e militares, intensificando a rivalidade europeia e a disputa colonial",
-                                              "d":  "O enfraquecimento definitivo do Reino Unido como potência mundial, hipótese não confirmada até a Primeira Guerra"
+                                              "d":  "O enfraquecimento do Reino Unido diante das novas potências continentais, que assumiram a liderança industrial e naval europeia ainda na década de 1870 e reduziram o peso britânico nas negociações"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A unificação de Alemanha e Itália criou novas potências industriais e militares no centro da Europa, intensificando a corrida imperialista e as rivalidades entre nações, o que contribuiu para o clima de tensão que resultaria, décadas depois, na Primeira Guerra Mundial."
@@ -1076,9 +1076,9 @@
                          "texto_apoio":  "Em 1979, a União Soviética invadiu o Afeganistão para apoiar um governo comunista ameaçado por grupos rebeldes, iniciando um conflito que se estenderia por quase uma década.",
                          "enunciado":  "Essa guerra teve como um de seus desdobramentos:",
                          "alternativas":  {
-                                              "a":  "O fortalecimento inconteste da posição soviética na Ásia Central, resultado oposto ao desgaste sofrido pela URSS",
-                                              "b":  "A rápida vitória soviética, sem qualquer resistência armada relevante, contrária à resistência mujahidin de quase uma década",
-                                              "c":  "O fortalecimento da aliança entre Estados Unidos e União Soviética, cenário inexistente nesse conflito da Guerra Fria",
+                                              "a":  "A consolidação de um governo alinhado a Moscou em Cabul, que se manteve estável ao longo da década seguinte e reduziu a necessidade de presença militar soviética direta, permitindo concentrar recursos em outras áreas de disputa da Guerra Fria",
+                                              "b":  "Uma reaproximação diplomática entre Washington e Moscou, que trataram o conflito como questão regional e preservaram os acordos de limitação de armas estratégicas negociados na década anterior, sem reflexos sobre a competição entre as superpotências",
+                                              "c":  "O deslocamento do centro da Guerra Fria para a Ásia Central, acompanhado da redução dos compromissos militares norte-americanos na Europa Ocidental e da reorientação da política externa dos Estados Unidos para o Oriente Médio",
                                               "d":  "Um alto desgaste militar, político e econômico para a União Soviética, apontado como fator da crise do regime soviético"
                                           },
                          "resposta":  "d",

@@ -671,9 +671,9 @@
                          "enunciado":  "Um argumento favorável à manutenção do voto obrigatório é:",
                          "alternativas":  {
                                               "a":  "garantir maior participação e representatividade do conjunto da população nas eleições, evitando que só os mais mobilizados decidam o pleito",
-                                              "b":  "reduzir a legitimidade dos resultados eleitorais, ao ampliar a participação de eleitores pouco informados",
-                                              "c":  "eliminar qualquer necessidade de campanhas eleitorais, já que o comparecimento às urnas estaria garantido por lei, dispensando qualquer persuasão",
-                                              "d":  "impedir que qualquer cidadão vote em branco ou anule seu voto, restringindo as opções do eleitor na votação"
+                                              "b":  "assegurar que o resultado da eleição reflita apenas a vontade dos eleitores mais informados sobre as propostas em disputa, elevando a qualidade média das escolhas registradas nas urnas",
+                                              "c":  "reduzir o custo das campanhas eleitorais, já que os partidos deixariam de precisar convencer o eleitorado a comparecer e poderiam concentrar recursos na formação de quadros",
+                                              "d":  "permitir que o eleitor manifeste discordância pelo voto em branco ou nulo, formas de protesto que passariam a produzir efeito jurídico sobre a validade do pleito"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Defensores do voto obrigatório argumentam que essa regra garante maior participação e representatividade do conjunto da população nas eleições, evitando que o resultado seja determinado apenas pelos eleitores mais mobilizados ou ideologicamente engajados, o que poderia ocorrer sob voto exclusivamente facultativo.",

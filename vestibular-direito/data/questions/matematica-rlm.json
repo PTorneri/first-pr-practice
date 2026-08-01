@@ -1091,10 +1091,10 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as proposições p: \"Um número é múltiplo de 4\" e q: \"Um número é par\". A proposição bicondicional p ↔ q (\"p se, e somente se, q\") é falsa para o número 6 porque, para esse número:",
                          "alternativas":  {
-                                              "a":  "p é verdadeira e q é falsa, já que 6 seria múltiplo de 4 mas não seria um número par",
-                                              "b":  "p e q são ambas verdadeiras, pois 6 seria simultaneamente múltiplo de 4 e um número par",
-                                              "c":  "p é falsa e q é verdadeira, pois as duas proposições têm valores lógicos diferentes",
-                                              "d":  "p e q são ambas falsas, já que 6 não seria nem múltiplo de 4 nem um número par"
+                                              "a":  "p é verdadeira e q é falsa, combinação que também tornaria a bicondicional falsa",
+                                              "b":  "p e q são ambas verdadeiras, caso em que a bicondicional seria verdadeira",
+                                              "c":  "p é falsa e q é verdadeira, ou seja, as proposições têm valores lógicos diferentes",
+                                              "d":  "p e q são ambas falsas, caso em que a bicondicional também seria verdadeira"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Para o número 6: p (\"é múltiplo de 4\") é falsa, pois 6÷4 não é exato; q (\"é par\") é verdadeira, pois 6 é divisível por 2. Como a bicondicional só é verdadeira quando as duas proposições têm o mesmo valor lógico, e aqui os valores são diferentes, p ↔ q é falsa para o número 6.",
@@ -1133,9 +1133,9 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as premissas: (1) \"Todo advogado conhece a Constituição.\" (2) \"Marcos conhece a Constituição.\" A partir dessas duas premissas, é correto concluir logicamente que:",
                          "alternativas":  {
-                                              "a":  "Todo advogado é Marcos, já que a premissa afirmaria uma equivalência total entre as duas categorias",
-                                              "b":  "Marcos é advogado, pois conhece a Constituição, e essa premissa seria suficiente para confirmar sua profissão",
-                                              "c":  "Marcos não é advogado, pois conhecer a Constituição não teria nenhuma relação com a profissão de advogado",
+                                              "a":  "Marcos é advogado, uma vez que conhece a Constituição, característica atribuída aos advogados na primeira premissa do enunciado",
+                                              "b":  "Marcos não é advogado, já que a segunda premissa informa apenas o conhecimento da Constituição e nada afirma sobre a sua profissão",
+                                              "c":  "Todo aquele que conhece a Constituição é advogado, conclusão que decorre da leitura conjunta das duas premissas apresentadas",
                                               "d":  "Não é possível concluir, com certeza lógica, que Marcos é advogado, pois outras pessoas também podem conhecer a Constituição"
                                           },
                          "resposta":  "d",

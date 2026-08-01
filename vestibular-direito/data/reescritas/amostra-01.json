@@ -1,0 +1,92 @@
+{
+  "_comentario": [
+    "Amostra 1 da reescrita de distratores, feita à mão para servir de padrão de qualidade.",
+    "",
+    "O problema: em 954 questões a alternativa correta era a mais longa, e quanto mais ela se",
+    "destacava, mais previsível ficava — nas 528 piores, dava pra acertar 97% sem ler o enunciado.",
+    "A causa não era o comprimento em si: as corretas eram longas porque vinham ponderadas e",
+    "completas, e as erradas eram curtas porque eram absolutas e obviamente falsas ('sempre',",
+    "'nunca', 'exclusivamente'). Dois vazamentos, não um.",
+    "",
+    "Critérios usados aqui:",
+    "1. Comprimento comparável ao da correta — de preferência com alguma errada mais longa que ela.",
+    "2. Nenhum absolutismo ('sempre', 'nunca', 'qualquer', 'exclusivamente', 'totalmente').",
+    "3. Erradas plausíveis: cada uma corresponde a um erro real de raciocínio, não a um absurdo.",
+    "4. Mesma forma gramatical da correta, pra que a estrutura também não denuncie.",
+    "5. Nas questões de sigla, a correta perde o nome por extenso (que já está na explicação):",
+    "   com todas as alternativas como siglas puras, o comprimento deixa de dizer qualquer coisa."
+  ],
+  "questoes": {
+    "atualidades-meioambiente-46": {
+      "motivo": "sigla: só a correta trazia o nome por extenso",
+      "alternativas": { "c": "COP" }
+    },
+    "direitos-humanos-65": {
+      "motivo": "sigla: só a correta trazia o nome por extenso",
+      "alternativas": { "a": "CONARE" }
+    },
+    "atualidades-geopolitica-101": {
+      "motivo": "sigla: só a correta trazia o nome por extenso",
+      "alternativas": { "a": "G77" }
+    },
+    "direitos-humanos-51": {
+      "motivo": "erradas eram três substantivos soltos; agora explicam o que alegariam",
+      "alternativas": {
+        "b": "Livre iniciativa econômica, princípio que asseguraria ao indivíduo autonomia para definir os dados constantes de seus documentos",
+        "c": "Anistia política, instituto que permitiria a revisão de registros civis alterados durante períodos de exceção institucional",
+        "d": "Soberania popular, princípio que atribuiria ao cidadão o poder de decidir sobre os efeitos jurídicos do próprio registro civil"
+      }
+    },
+    "historia-geral-80": {
+      "motivo": "erradas curtas e absolutas ('inconteste', 'sem qualquer resistência')",
+      "alternativas": {
+        "a": "A consolidação de um governo alinhado a Moscou em Cabul, que se manteve estável ao longo da década seguinte e reduziu a necessidade de presença militar soviética direta, permitindo concentrar recursos em outras áreas de disputa da Guerra Fria",
+        "b": "Uma reaproximação diplomática entre Washington e Moscou, que trataram o conflito como questão regional e preservaram os acordos de limitação de armas estratégicas negociados na década anterior, sem reflexos sobre a competição entre as superpotências",
+        "c": "O deslocamento do centro da Guerra Fria para a Ásia Central, acompanhado da redução dos compromissos militares norte-americanos na Europa Ocidental e da reorientação da política externa dos Estados Unidos para o Oriente Médio"
+      }
+    },
+    "matematica-rlm-84": {
+      "motivo": "cada errada passa a ser um erro lógico nomeável, com o mesmo peso da correta",
+      "alternativas": {
+        "a": "Marcos é advogado, uma vez que conhece a Constituição, característica atribuída aos advogados na primeira premissa do enunciado",
+        "b": "Marcos não é advogado, já que a segunda premissa informa apenas o conhecimento da Constituição e nada afirma sobre a sua profissão",
+        "c": "Todo aquele que conhece a Constituição é advogado, conclusão que decorre da leitura conjunta das duas premissas apresentadas"
+      }
+    },
+    "gramatica-30": {
+      "motivo": "a correta carregava o exemplo reescrito; ele foi para a explicação",
+      "alternativas": {
+        "a": "a frase está corretamente pontuada, pois as vírgulas bastam para separar tanto os itens quanto as explicações internas de cada um deles",
+        "b": "as vírgulas que introduzem as explicações deveriam virar travessões, reservando-se a vírgula apenas para a separação entre os itens",
+        "c": "o uso de ponto e vírgula entre os itens da enumeração tornaria o texto mais claro, já que cada um deles já contém vírgulas internas",
+        "d": "os itens deveriam ser separados por dois-pontos, sinal indicado para introduzir cada novo elemento de uma enumeração longa"
+      },
+      "explicacao": "Quando os itens de uma enumeração já contêm vírgulas internas, o ponto e vírgula é empregado para separar os itens com mais clareza, evitando ambiguidade na leitura. No caso: 'relevância do projeto, que envolve impacto social; custo de implementação, que inclui recursos humanos e materiais; e prazo de execução.'"
+    },
+    "atualidades-politica-51": {
+      "motivo": "erradas eram absurdos curtos; agora são argumentos plausíveis, porém incorretos",
+      "alternativas": {
+        "b": "assegurar que o resultado da eleição reflita apenas a vontade dos eleitores mais informados sobre as propostas em disputa, elevando a qualidade média das escolhas registradas nas urnas",
+        "c": "reduzir o custo das campanhas eleitorais, já que os partidos deixariam de precisar convencer o eleitorado a comparecer e poderiam concentrar recursos na formação de quadros",
+        "d": "permitir que o eleitor manifeste discordância pelo voto em branco ou nulo, formas de protesto que passariam a produzir efeito jurídico sobre a validade do pleito"
+      }
+    },
+    "matematica-rlm-81": {
+      "motivo": "erradas agora explicitam o valor da bicondicional, ensinando a tabela-verdade",
+      "alternativas": {
+        "a": "p é verdadeira e q é falsa, combinação que também tornaria a bicondicional falsa",
+        "b": "p e q são ambas verdadeiras, caso em que a bicondicional seria verdadeira",
+        "c": "p é falsa e q é verdadeira, ou seja, as proposições têm valores lógicos diferentes",
+        "d": "p e q são ambas falsas, caso em que a bicondicional também seria verdadeira"
+      }
+    },
+    "historia-geral-28": {
+      "motivo": "erradas curtas e absolutas ('fim de qualquer disputa', 'definitivo')",
+      "alternativas": {
+        "a": "A estabilização das disputas territoriais na Europa Central, já que as fronteiras então definidas foram aceitas pelas demais potências e permaneceram sem contestação relevante nas décadas seguintes",
+        "b": "O recuo do nacionalismo como força política, substituído por identidades supranacionais que passaram a orientar a diplomacia europeia e esvaziaram as reivindicações de base étnica no continente",
+        "d": "O enfraquecimento do Reino Unido diante das novas potências continentais, que assumiram a liderança industrial e naval europeia ainda na década de 1870 e reduziram o peso britânico nas negociações"
+      }
+    }
+  }
+}

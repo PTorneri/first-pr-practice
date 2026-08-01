@@ -6,9 +6,9 @@
                          "texto_apoio":  "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
                          "enunciado":  "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
                          "alternativas":  {
-                                              "a":  "aumento da camada de ozÃ´nio na estratosfera, que absorveria mais radiaÃ§Ã£o ultravioleta sem retÃª-la na forma de calor",
-                                              "b":  "reduÃ§Ã£o da atividade vulcÃ¢nica em todo o planeta, o que diminuiria a emissÃ£o natural de aerossÃ³is e gases sulfurosos",
-                                              "c":  "diminuiÃ§Ã£o da radiaÃ§Ã£o solar incidente sobre a Terra, o que reduziria o aquecimento da superfÃ­cie terrestre",
+                                              "a":  "aumento da camada de ozônio na estratosfera, que absorveria mais radiação ultravioleta sem retê-la na forma de calor",
+                                              "b":  "redução da atividade vulcânica em todo o planeta, o que diminuiria a emissão natural de aerossóis e gases sulfurosos",
+                                              "c":  "diminuição da radiação solar incidente sobre a Terra, o que reduziria o aquecimento da superfície terrestre",
                                               "d":  "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis"
                                           },
                          "resposta":  "d",
@@ -19,10 +19,10 @@
                          "texto_apoio":  "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
                          "enunciado":  "A eutrofização de um corpo d\u0027água ocorre quando",
                          "alternativas":  {
-                                              "a":  "a temperatura da Ã¡gua diminui abruptamente, impedindo a fotossÃ­ntese das plantas aquÃ¡ticas e reduzindo a demanda por oxigÃªnio",
-                                              "b":  "hÃ¡ aumento da salinidade da Ã¡gua doce atÃ© nÃ­veis semelhantes aos do mar, inibindo a proliferaÃ§Ã£o de cianobactÃ©rias",
+                                              "a":  "a temperatura da água diminui abruptamente, impedindo a fotossíntese das plantas aquáticas e reduzindo a demanda por oxigênio",
+                                              "b":  "há aumento da salinidade da água doce até níveis semelhantes aos do mar, inibindo a proliferação de cianobactérias",
                                               "c":  "há excesso de nutrientes, como nitrogênio e fósforo, causando proliferação excessiva de algas e posterior redução do oxigênio dissolvido",
-                                              "d":  "ocorre completa ausÃªncia de matÃ©ria orgÃ¢nica dissolvida na Ã¡gua, o que eliminaria o substrato para decomposiÃ§Ã£o bacteriana"
+                                              "d":  "ocorre completa ausência de matéria orgânica dissolvida na água, o que eliminaria o substrato para decomposição bacteriana"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O excesso de nutrientes (nitrogênio e fósforo), provenientes de esgotos e fertilizantes, estimula a proliferação de algas. Quando essas algas morrem e são decompostas, o processo consome grande quantidade de oxigênio dissolvido, prejudicando a vida aquática."
@@ -32,10 +32,10 @@
                          "texto_apoio":  "As arboviroses, como dengue, zika e chikungunya, são transmitidas pelo mosquito Aedes aegypti e representam importante desafio de saúde pública no Brasil.",
                          "enunciado":  "Uma medida eficaz de saúde pública para reduzir a incidência dessas arboviroses é",
                          "alternativas":  {
-                                              "a":  "aumentar a quantidade de Ã¡gua parada acumulada em recipientes domÃ©sticos, favorecendo a oviposiÃ§Ã£o do mosquito",
-                                              "b":  "reduzir a vacinaÃ§Ã£o da populaÃ§Ã£o contra outras doenÃ§as, medida sem qualquer efeito sobre o ciclo de vida do Aedes aegypti",
+                                              "a":  "aumentar a quantidade de água parada acumulada em recipientes domésticos, favorecendo a oviposição do mosquito",
+                                              "b":  "reduzir a vacinação da população contra outras doenças, medida sem qualquer efeito sobre o ciclo de vida do Aedes aegypti",
                                               "c":  "eliminar criadouros do mosquito, evitando o acúmulo de água parada em recipientes e quintais",
-                                              "d":  "aumentar o uso de fertilizantes quÃ­micos nas Ã¡reas urbanas, prÃ¡tica que nÃ£o interfere na reproduÃ§Ã£o do mosquito"
+                                              "d":  "aumentar o uso de fertilizantes químicos nas áreas urbanas, prática que não interfere na reprodução do mosquito"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Aedes aegypti deposita seus ovos em água parada. A eliminação de criadouros (pneus, vasos, caixas d\u0027água destampadas) é a principal medida de controle vetorial recomendada por autoridades de saúde pública para reduzir a proliferação do mosquito."
@@ -45,10 +45,10 @@
                          "texto_apoio":  "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
                          "enunciado":  "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
                          "alternativas":  {
-                                              "a":  "Ã³xidos de enxofre e de nitrogÃªnio, formando Ã¡cidos como o sulfÃºrico e o nÃ­trico, que precipitam na forma de chuva",
-                                              "b":  "vapor de Ã¡gua puro liberado por usinas hidrelÃ©tricas, substÃ¢ncia que nÃ£o reage formando Ã¡cidos na atmosfera",
-                                              "c":  "oxigÃªnio molecular liberado pela fotossÃ­ntese das plantas, gÃ¡s que nÃ£o forma Ã¡cidos ao reagir com a Ã¡gua atmosfÃ©rica",
-                                              "d":  "gases nobres, como o argÃ´nio e o hÃ©lio, elementos quimicamente inertes que nÃ£o reagem para formar Ã¡cidos"
+                                              "a":  "óxidos de enxofre e de nitrogênio, formando ácidos como o sulfúrico e o nítrico, que precipitam na forma de chuva",
+                                              "b":  "vapor de água puro liberado por usinas hidrelétricas, substância que não reage formando ácidos na atmosfera",
+                                              "c":  "oxigênio molecular liberado pela fotossíntese das plantas, gás que não forma ácidos ao reagir com a água atmosférica",
+                                              "d":  "gases nobres, como o argônio e o hélio, elementos quimicamente inertes que não reagem para formar ácidos"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A queima de combustíveis fósseis libera óxidos de enxofre (SOx) e de nitrogênio (NOx), que reagem com a água atmosférica formando ácido sulfúrico e ácido nítrico, os quais precipitam na forma de chuva ácida, prejudicando solos, corpos d\u0027água e construções."
@@ -59,9 +59,9 @@
                          "enunciado":  "Dentre os benefícios ambientais atribuídos à reciclagem de materiais como alumínio, papel e vidro, destaca-se",
                          "alternativas":  {
                                               "a":  "a redução do consumo de energia e de recursos naturais necessários para a produção de novos materiais",
-                                              "b":  "o aumento proporcional da extraÃ§Ã£o de matÃ©rias-primas virgens da natureza, ampliando mineraÃ§Ã£o e desmatamento",
-                                              "c":  "a reduÃ§Ã£o da necessidade de aterros sanitÃ¡rios, obtida pela incineraÃ§Ã£o total do material coletado para reciclagem",
-                                              "d":  "o aumento da emissÃ£o de gases poluentes em relaÃ§Ã£o Ã  produÃ§Ã£o com matÃ©ria-prima virgem, elevando o impacto ambiental"
+                                              "b":  "o aumento proporcional da extração de matérias-primas virgens da natureza, ampliando mineração e desmatamento",
+                                              "c":  "a redução da necessidade de aterros sanitários, obtida pela incineração total do material coletado para reciclagem",
+                                              "d":  "o aumento da emissão de gases poluentes em relação à produção com matéria-prima virgem, elevando o impacto ambiental"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A reciclagem geralmente demanda menos energia e menos extração de recursos naturais do que a produção a partir de matéria-prima virgem, reduzindo impactos ambientais associados à mineração, ao desmatamento e ao consumo energético industrial."
@@ -84,8 +84,8 @@
                          "texto_apoio":  "A vacinação em massa é considerada uma das intervenções de saúde pública mais eficazes da história.",
                          "enunciado":  "O conceito de \"imunidade de rebanho\" (ou imunidade coletiva) refere-se à situação em que",
                          "alternativas":  {
-                                              "a":  "apenas os indivÃ­duos vacinados diretamente ficam protegidos, sem qualquer efeito sobre a transmissÃ£o do patÃ³geno na populaÃ§Ã£o",
-                                              "b":  "a vacinaÃ§Ã£o de uma pequena parcela da populaÃ§Ã£o jÃ¡ Ã© suficiente para erradicar o agente infeccioso do planeta, independentemente da transmissibilidade",
+                                              "a":  "apenas os indivíduos vacinados diretamente ficam protegidos, sem qualquer efeito sobre a transmissão do patógeno na população",
+                                              "b":  "a vacinação de uma pequena parcela da população já é suficiente para erradicar o agente infeccioso do planeta, independentemente da transmissibilidade",
                                               "c":  "uma parcela suficientemente alta da população torna-se imune a uma doença, dificultando sua circulação e protegendo indiretamente até mesmo pessoas não imunizadas",
                                               "d":  "a imunidade individual depende, sobretudo, de fatores genéticos herdados dos pais, e não da exposição prévia a vacinas ou infecções"
                                           },
@@ -97,10 +97,10 @@
                          "texto_apoio":  "A energia solar fotovoltaica tem crescido como alternativa às fontes de energia baseadas em combustíveis fósseis.",
                          "enunciado":  "Uma vantagem ambiental frequentemente associada à energia solar fotovoltaica, em comparação com termelétricas movidas a carvão, é",
                          "alternativas":  {
-                                              "a":  "a garantia de geraÃ§Ã£o de energia constante independentemente da presenÃ§a de luz solar, mesmo durante a noite",
+                                              "a":  "a garantia de geração de energia constante independentemente da presença de luz solar, mesmo durante a noite",
                                               "b":  "o menor custo de instalação em praticamente todos os países, independentemente do nível de irradiação solar local",
-                                              "c":  "a menor emissÃ£o direta de gases de efeito estufa durante a geraÃ§Ã£o de eletricidade, por nÃ£o haver combustÃ£o de combustÃ­vel",
-                                              "d":  "a ausÃªncia total de qualquer impacto ambiental em todas as etapas de produÃ§Ã£o dos painÃ©is, da mineraÃ§Ã£o ao descarte"
+                                              "c":  "a menor emissão direta de gases de efeito estufa durante a geração de eletricidade, por não haver combustão de combustível",
+                                              "d":  "a ausência total de qualquer impacto ambiental em todas as etapas de produção dos painéis, da mineração ao descarte"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A geração de eletricidade por painéis fotovoltaicos não envolve queima de combustíveis, resultando em emissões diretas de gases de efeito estufa muito menores do que as termelétricas a carvão, embora existam impactos ambientais em outras etapas, como fabricação e descarte dos painéis."
@@ -110,10 +110,10 @@
                          "texto_apoio":  "O conceito físico de energia cinética está presente em situações cotidianas, como o deslocamento de veículos.",
                          "enunciado":  "Um automóvel que dobra sua velocidade, mantendo a mesma massa, tem sua energia cinética",
                          "alternativas":  {
-                                              "a":  "reduzida Ã  metade, pois a energia cinÃ©tica seria diretamente proporcional Ã  velocidade, e nÃ£o ao seu quadrado",
-                                              "b":  "mantida exatamente igual, jÃ¡ que a energia cinÃ©tica dependeria apenas da massa do corpo, nÃ£o da velocidade",
-                                              "c":  "multiplicada por 4, uma vez que Ec = mÂ·vÂ²/2 Ã© proporcional ao quadrado da velocidade escalar do corpo",
-                                              "d":  "dobrada, ou seja, multiplicada por 2, na hipÃ³tese de a energia cinÃ©tica variar linearmente com a velocidade"
+                                              "a":  "reduzida à metade, pois a energia cinética seria diretamente proporcional à velocidade, e não ao seu quadrado",
+                                              "b":  "mantida exatamente igual, já que a energia cinética dependeria apenas da massa do corpo, não da velocidade",
+                                              "c":  "multiplicada por 4, uma vez que Ec = m·v²/2 é proporcional ao quadrado da velocidade escalar do corpo",
+                                              "d":  "dobrada, ou seja, multiplicada por 2, na hipótese de a energia cinética variar linearmente com a velocidade"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia cinética é dada por Ec = (m × v²) ÷ 2, sendo proporcional ao quadrado da velocidade. Se a velocidade dobra (v passa a 2v), a energia cinética é multiplicada por 2² = 4, mantendo a massa constante."
@@ -124,9 +124,9 @@
                          "enunciado":  "De acordo com os princípios da termodinâmica, o calor flui espontaneamente",
                          "alternativas":  {
                                               "a":  "de corpos com maior temperatura para corpos com menor temperatura, até que o equilíbrio térmico seja atingido",
-                                              "b":  "de corpos com menor temperatura para corpos com maior temperatura, de forma espontÃ¢nea e sem qualquer trabalho externo",
-                                              "c":  "apenas entre corpos de mesma temperatura, situaÃ§Ã£o em que nÃ£o haveria fluxo de calor por diferenÃ§a tÃ©rmica alguma",
-                                              "d":  "de forma aleatÃ³ria, sem relaÃ§Ã£o com a diferenÃ§a de temperatura, contrariando a segunda lei da termodinÃ¢mica"
+                                              "b":  "de corpos com menor temperatura para corpos com maior temperatura, de forma espontânea e sem qualquer trabalho externo",
+                                              "c":  "apenas entre corpos de mesma temperatura, situação em que não haveria fluxo de calor por diferença térmica alguma",
+                                              "d":  "de forma aleatória, sem relação com a diferença de temperatura, contrariando a segunda lei da termodinâmica"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Pela segunda lei da termodinâmica, o calor flui espontaneamente do corpo mais quente para o mais frio, até que ambos atinjam o equilíbrio térmico, ou seja, a mesma temperatura."
@@ -136,10 +136,10 @@
                          "texto_apoio":  "A separação de resíduos sólidos urbanos em recicláveis e não recicláveis é uma prática incentivada por políticas públicas de gestão ambiental.",
                          "enunciado":  "Do ponto de vista químico, uma das razões pelas quais plásticos comuns, como o PET, demoram muito tempo para se decompor no ambiente é",
                          "alternativas":  {
-                                              "a":  "a ausÃªncia completa de carbono em sua composiÃ§Ã£o molecular, o que o tornaria inerte Ã  aÃ§Ã£o de microrganismos",
+                                              "a":  "a ausência completa de carbono em sua composição molecular, o que o tornaria inerte à ação de microrganismos",
                                               "b":  "a estrutura de longas cadeias poliméricas estáveis, resistentes à ação de microrganismos decompositores",
                                               "c":  "o fato de reagirem rapidamente com o oxigênio do ar, o que geraria compostos ainda mais estáveis do que o plástico original",
-                                              "d":  "a alta reatividade dessas molÃ©culas, que se degradam rapidamente na presenÃ§a de Ã¡gua, como polÃ­meros biodegradÃ¡veis"
+                                              "d":  "a alta reatividade dessas moléculas, que se degradam rapidamente na presença de água, como polímeros biodegradáveis"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Plásticos como o PET são polímeros formados por longas cadeias de moléculas com ligações estáveis, que a maioria dos microrganismos não consegue quebrar eficientemente, resultando em um tempo de degradação muito longo no meio ambiente."
@@ -162,10 +162,10 @@
                          "texto_apoio":  "A camada de ozônio, localizada na estratosfera, desempenha papel fundamental na proteção da vida na Terra.",
                          "enunciado":  "A principal função da camada de ozônio estratosférico é",
                          "alternativas":  {
-                                              "a":  "reter o calor irradiado pela superfÃ­cie terrestre, funÃ§Ã£o na verdade associada aos gases de efeito estufa, como o CO2",
+                                              "a":  "reter o calor irradiado pela superfície terrestre, função na verdade associada aos gases de efeito estufa, como o CO2",
                                               "b":  "absorver parte significativa da radiação ultravioleta proveniente do Sol, protegendo os seres vivos de seus efeitos nocivos",
-                                              "c":  "produzir oxigÃªnio necessÃ¡rio Ã  respiraÃ§Ã£o de todos os seres vivos, processo que ocorre na fotossÃ­ntese, nÃ£o na estratosfera",
-                                              "d":  "impedir a entrada de qualquer radiaÃ§Ã£o solar na atmosfera terrestre, o que bloquearia tambÃ©m a luz visÃ­vel"
+                                              "c":  "produzir oxigênio necessário à respiração de todos os seres vivos, processo que ocorre na fotossíntese, não na estratosfera",
+                                              "d":  "impedir a entrada de qualquer radiação solar na atmosfera terrestre, o que bloquearia também a luz visível"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O ozônio estratosférico absorve grande parte da radiação ultravioleta (UV) emitida pelo Sol, reduzindo a incidência dessa radiação sobre a superfície terrestre e protegendo organismos vivos de danos como mutações genéticas e câncer de pele."
@@ -175,10 +175,10 @@
                          "texto_apoio":  "A obesidade e as doenças cardiovasculares associadas a hábitos alimentares inadequados são temas recorrentes em políticas de saúde pública.",
                          "enunciado":  "Do ponto de vista da saúde pública, o consumo excessivo e frequente de alimentos ultraprocessados, ricos em açúcares, sódio e gorduras, está associado, entre outros fatores, ao(à)",
                          "alternativas":  {
-                                              "a":  "aumento do risco de obesidade, hipertensÃ£o e outras doenÃ§as crÃ´nicas nÃ£o transmissÃ­veis, segundo estudos epidemiolÃ³gicos",
-                                              "b":  "melhora automÃ¡tica da qualidade nutricional da dieta da populaÃ§Ã£o, efeito atribuÃ­do erroneamente a esses alimentos",
-                                              "c":  "reduÃ§Ã£o significativa do risco de doenÃ§as cardiovasculares e metabÃ³licas, associaÃ§Ã£o que contraria evidÃªncias epidemiolÃ³gicas",
-                                              "d":  "eliminaÃ§Ã£o completa da necessidade de atividade fÃ­sica regular, afirmaÃ§Ã£o incompatÃ­vel com recomendaÃ§Ãµes de saÃºde pÃºblica"
+                                              "a":  "aumento do risco de obesidade, hipertensão e outras doenças crônicas não transmissíveis, segundo estudos epidemiológicos",
+                                              "b":  "melhora automática da qualidade nutricional da dieta da população, efeito atribuído erroneamente a esses alimentos",
+                                              "c":  "redução significativa do risco de doenças cardiovasculares e metabólicas, associação que contraria evidências epidemiológicas",
+                                              "d":  "eliminação completa da necessidade de atividade física regular, afirmação incompatível com recomendações de saúde pública"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O consumo frequente de alimentos ultraprocessados está associado, segundo diversos estudos epidemiológicos, ao aumento do risco de obesidade, hipertensão, diabetes tipo 2 e outras doenças crônicas não transmissíveis, sendo tema central de políticas públicas de alimentação saudável."
@@ -188,9 +188,9 @@
                          "texto_apoio":  "O desmatamento de florestas tropicais, como a Amazônia, tem sido associado a diversos impactos ambientais em escala regional e global.",
                          "enunciado":  "Entre os impactos ecológicos diretamente associados ao desmatamento de grandes florestas tropicais está",
                          "alternativas":  {
-                                              "a":  "o aumento da biodiversidade local em razÃ£o da abertura de novas Ã¡reas, com substituiÃ§Ã£o por espÃ©cies invasoras",
-                                              "b":  "o aumento da umidade do solo em todas as Ã¡reas desmatadas, ao contrÃ¡rio do ressecamento observado na prÃ¡tica",
-                                              "c":  "a diminuiÃ§Ã£o da erosÃ£o do solo nas Ã¡reas sem cobertura vegetal, quando na verdade a erosÃ£o tende a se intensificar",
+                                              "a":  "o aumento da biodiversidade local em razão da abertura de novas áreas, com substituição por espécies invasoras",
+                                              "b":  "o aumento da umidade do solo em todas as áreas desmatadas, ao contrário do ressecamento observado na prática",
+                                              "c":  "a diminuição da erosão do solo nas áreas sem cobertura vegetal, quando na verdade a erosão tende a se intensificar",
                                               "d":  "a redução da capacidade de absorção de dióxido de carbono pela vegetação e a alteração dos regimes locais de chuva"
                                           },
                          "resposta":  "d",
@@ -214,10 +214,10 @@
                          "texto_apoio":  "O saneamento básico inadequado ainda é uma realidade em diversas regiões do Brasil, afetando indicadores de saúde pública.",
                          "enunciado":  "A ausência de saneamento básico adequado, incluindo tratamento de esgoto e fornecimento de água potável, está diretamente associada ao aumento da incidência de",
                          "alternativas":  {
-                                              "a":  "doenÃ§as infecciosas de veiculaÃ§Ã£o hÃ­drica, como diarreias, cÃ³lera e hepatite A, transmitidas por Ã¡gua contaminada",
+                                              "a":  "doenças infecciosas de veiculação hídrica, como diarreias, cólera e hepatite A, transmitidas por água contaminada",
                                               "b":  "doenças autoimunes, associadas a reações do próprio sistema de defesa do organismo contra suas células",
-                                              "c":  "doenÃ§as cardiovasculares hereditÃ¡rias, associadas a fatores genÃ©ticos, e nÃ£o Ã  contaminaÃ§Ã£o da Ã¡gua ou do solo",
-                                              "d":  "doenÃ§as cardiovasculares associadas ao consumo excessivo de sÃ³dio, fator dietÃ©tico sem relaÃ§Ã£o com saneamento bÃ¡sico"
+                                              "c":  "doenças cardiovasculares hereditárias, associadas a fatores genéticos, e não à contaminação da água ou do solo",
+                                              "d":  "doenças cardiovasculares associadas ao consumo excessivo de sódio, fator dietético sem relação com saneamento básico"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A falta de saneamento básico favorece a contaminação da água por microrganismos patogênicos presentes em esgoto não tratado, aumentando a incidência de doenças de veiculação hídrica, como diarreias infecciosas, cólera e hepatite A."
@@ -227,10 +227,10 @@
                          "texto_apoio":  "Fenômenos ópticos cotidianos, como o arco-íris e a formação de sombras, são explicados por princípios básicos da física.",
                          "enunciado":  "A formação do arco-íris após uma chuva, quando há incidência de luz solar, é explicada, principalmente, pelo fenômeno físico de",
                          "alternativas":  {
-                                              "a":  "reflexÃ£o total da luz em superfÃ­cies metÃ¡licas, fenÃ´meno que nÃ£o produz separaÃ§Ã£o de cores do espectro",
+                                              "a":  "reflexão total da luz em superfícies metálicas, fenômeno que não produz separação de cores do espectro",
                                               "b":  "reflexão da luz solar diretamente nas nuvens, sem qualquer participação das gotículas de água em suspensão",
-                                              "c":  "emissÃ£o de luz prÃ³pria pelas gotÃ­culas de Ã¡gua presentes na atmosfera, como se fossem fontes luminosas independentes",
-                                              "d":  "refraÃ§Ã£o e dispersÃ£o da luz branca ao atravessar gotÃ­culas de Ã¡gua, separando-a em diferentes cores do espectro"
+                                              "c":  "emissão de luz própria pelas gotículas de água presentes na atmosfera, como se fossem fontes luminosas independentes",
+                                              "d":  "refração e dispersão da luz branca ao atravessar gotículas de água, separando-a em diferentes cores do espectro"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Ao atravessar gotículas de água presentes no ar, a luz branca do Sol sofre refração e dispersão, sendo decomposta em suas diferentes componentes de cor (vermelho, laranja, amarelo, verde, azul, anil e violeta), formando o arco-íris."
@@ -240,10 +240,10 @@
                          "texto_apoio":  "A fotossíntese realizada por plantas, algas e cianobactérias é um dos processos biológicos mais importantes para a manutenção da vida na Terra.",
                          "enunciado":  "Do ponto de vista da composição da atmosfera terrestre, um dos principais efeitos da fotossíntese realizada por organismos fotossintetizantes é",
                          "alternativas":  {
-                                              "a":  "a conversÃ£o de diÃ³xido de carbono e Ã¡gua em glicose e oxigÃªnio, utilizando energia luminosa captada por pigmentos",
-                                              "b":  "a produÃ§Ã£o exclusiva de nitrogÃªnio atmosfÃ©rico a partir de compostos orgÃ¢nicos, processo tÃ­pico da fixaÃ§Ã£o biolÃ³gica",
-                                              "c":  "a eliminaÃ§Ã£o completa do gÃ¡s carbÃ´nico da atmosfera terrestre, cenÃ¡rio irreal dado o equilÃ­brio do ciclo do carbono",
-                                              "d":  "o consumo de oxigÃªnio e a liberaÃ§Ã£o de diÃ³xido de carbono na atmosfera, processo tÃ­pico da respiraÃ§Ã£o celular"
+                                              "a":  "a conversão de dióxido de carbono e água em glicose e oxigênio, utilizando energia luminosa captada por pigmentos",
+                                              "b":  "a produção exclusiva de nitrogênio atmosférico a partir de compostos orgânicos, processo típico da fixação biológica",
+                                              "c":  "a eliminação completa do gás carbônico da atmosfera terrestre, cenário irreal dado o equilíbrio do ciclo do carbono",
+                                              "d":  "o consumo de oxigênio e a liberação de dióxido de carbono na atmosfera, processo típico da respiração celular"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Na fotossíntese, organismos clorofilados captam energia luminosa para converter CO2 e água em glicose e oxigênio (6CO2 + 6H2O + luz → C6H12O6 + 6O2), processo fundamental para a produção de biomassa e para a manutenção dos níveis de oxigênio atmosférico."
@@ -254,9 +254,9 @@
                          "enunciado":  "Em relação ao fluxo de energia entre os níveis tróficos de uma cadeia alimentar, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "a energia se transfere de um nível trófico para o seguinte na mesma proporção em que a matéria orgânica é reciclada pelos decompositores",
-                                              "b":  "os decompositores nÃ£o participam do fluxo de energia em um ecossistema, atuando apenas na reciclagem de nutrientes",
-                                              "c":  "apenas uma fraÃ§Ã£o da energia disponÃ­vel em um nÃ­vel trÃ³fico Ã© transferida ao seguinte, sendo o restante perdido como calor",
-                                              "d":  "a quantidade de energia disponÃ­vel aumenta a cada nÃ­vel trÃ³fico sucessivo, contrariando a segunda lei da termodinÃ¢mica"
+                                              "b":  "os decompositores não participam do fluxo de energia em um ecossistema, atuando apenas na reciclagem de nutrientes",
+                                              "c":  "apenas uma fração da energia disponível em um nível trófico é transferida ao seguinte, sendo o restante perdido como calor",
+                                              "d":  "a quantidade de energia disponível aumenta a cada nível trófico sucessivo, contrariando a segunda lei da termodinâmica"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Em cada transferência entre níveis tróficos, parte significativa da energia é perdida principalmente como calor (processos metabólicos), de modo que apenas uma fração (em geral, cerca de 10%) fica disponível para o nível seguinte, o que limita o número de níveis tróficos em uma cadeia alimentar."
@@ -267,9 +267,9 @@
                          "enunciado":  "Espécies exóticas invasoras podem representar ameaça à biodiversidade nativa de um ecossistema principalmente porque",
                          "alternativas":  {
                                               "a":  "podem competir com espécies nativas por recursos, predá-las ou transmitir doenças, na ausência de predadores naturais que controlariam sua população",
-                                              "b":  "tendem a se extinguir logo apÃ³s a introduÃ§Ã£o, por nÃ£o estarem adaptadas ao clima, ao contrÃ¡rio de invasÃµes bem-sucedidas",
-                                              "c":  "aumentam automaticamente a diversidade genÃ©tica das espÃ©cies nativas locais, efeito oposto ao empobrecimento observado",
-                                              "d":  "sÃ£o incapazes de se reproduzir fora de seu habitat de origem, premissa que contraria o prÃ³prio conceito de invasÃ£o"
+                                              "b":  "tendem a se extinguir logo após a introdução, por não estarem adaptadas ao clima, ao contrário de invasões bem-sucedidas",
+                                              "c":  "aumentam automaticamente a diversidade genética das espécies nativas locais, efeito oposto ao empobrecimento observado",
+                                              "d":  "são incapazes de se reproduzir fora de seu habitat de origem, premissa que contraria o próprio conceito de invasão"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Sem os predadores, parasitas ou competidores naturais que limitariam sua população no ambiente de origem, espécies exóticas invasoras podem se proliferar descontroladamente, competindo com espécies nativas, predando-as ou introduzindo doenças, o que pode levar a desequilíbrios e perda de biodiversidade."
@@ -279,10 +279,10 @@
                          "texto_apoio":  "As vacinas são um dos principais instrumentos de prevenção de doenças infecciosas utilizados pela medicina moderna.",
                          "enunciado":  "O princípio de funcionamento da maioria das vacinas consiste em",
                          "alternativas":  {
-                                              "a":  "eliminar diretamente o agente infeccioso jÃ¡ presente no organismo doente, aÃ§Ã£o tÃ­pica de antivirais, nÃ£o de vacinas",
-                                              "b":  "substituir permanentemente as cÃ©lulas de defesa do organismo por cÃ©lulas artificiais, procedimento inexistente na imunizaÃ§Ã£o",
-                                              "c":  "estimular o sistema imunolÃ³gico a reconhecer e produzir defesas contra um agente infeccioso, preparando resposta mais rÃ¡pida futura",
-                                              "d":  "eliminar diretamente o agente infeccioso circulante no ambiente, efeito que as vacinas nÃ£o produzem no meio externo"
+                                              "a":  "eliminar diretamente o agente infeccioso já presente no organismo doente, ação típica de antivirais, não de vacinas",
+                                              "b":  "substituir permanentemente as células de defesa do organismo por células artificiais, procedimento inexistente na imunização",
+                                              "c":  "estimular o sistema imunológico a reconhecer e produzir defesas contra um agente infeccioso, preparando resposta mais rápida futura",
+                                              "d":  "eliminar diretamente o agente infeccioso circulante no ambiente, efeito que as vacinas não produzem no meio externo"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As vacinas expõem o sistema imunológico a um antígeno (agente enfraquecido, inativado, ou parte dele, como proteínas ou material genético), estimulando a produção de anticorpos e células de memória, o que permite uma resposta imune mais rápida e eficaz em caso de exposição futura ao patógeno real."
@@ -294,8 +294,8 @@
                          "alternativas":  {
                                               "a":  "inserção, em laboratório, de um gene específico (por exemplo, de outra espécie) no genoma da planta, conferindo-lhe a característica desejada",
                                               "b":  "cruzamento seletivo tradicional entre variedades da mesma espécie, técnica utilizada há séculos no melhoramento genético",
-                                              "c":  "aplicaÃ§Ã£o exclusiva de agrotÃ³xicos sobre sementes comuns, sem alteraÃ§Ã£o de seu DNA nem resistÃªncia hereditÃ¡ria",
-                                              "d":  "exposiÃ§Ã£o da planta a altas temperaturas, que alteram aleatoriamente seu DNA, sem direcionamento genÃ©tico algum"
+                                              "c":  "aplicação exclusiva de agrotóxicos sobre sementes comuns, sem alteração de seu DNA nem resistência hereditária",
+                                              "d":  "exposição da planta a altas temperaturas, que alteram aleatoriamente seu DNA, sem direcionamento genético algum"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A transgenia envolve técnicas de engenharia genética que inserem, em laboratório, um ou mais genes de interesse (por vezes de outra espécie) no genoma do organismo receptor, conferindo-lhe características específicas, como resistência a pragas ou a herbicidas."
@@ -308,7 +308,7 @@
                                               "a":  "é retido integralmente pelos pelos e pela mucosa nasal, não avançando para as vias aéreas inferiores",
                                               "b":  "por seu tamanho reduzido, consegue penetrar profundamente nos pulmões e até atingir a corrente sanguínea",
                                               "c":  "fica retido principalmente nas vias aéreas superiores, de forma semelhante às partículas de maior diâmetro (MP10)",
-                                              "d":  "Ã© encontrado somente em ambientes rurais, nÃ£o afetando populaÃ§Ãµes urbanas, contrariando dados de poluiÃ§Ã£o urbana"
+                                              "d":  "é encontrado somente em ambientes rurais, não afetando populações urbanas, contrariando dados de poluição urbana"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Partículas com diâmetro igual ou inferior a 2,5 micrômetros (MP2,5) são pequenas o suficiente para penetrar profundamente no sistema respiratório, alcançando os alvéolos pulmonares e podendo, inclusive, entrar na corrente sanguínea, associando-se a doenças respiratórias e cardiovasculares."
@@ -318,10 +318,10 @@
                          "texto_apoio":  "O manejo do pH do solo é uma prática relevante na agricultura para garantir boa produtividade das culturas.",
                          "enunciado":  "Em relação à escala de pH, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "valores de pH menores que 7 indicam soluÃ§Ãµes bÃ¡sicas (alcalinas), invertendo a relaÃ§Ã£o correta da escala de pH",
+                                              "a":  "valores de pH menores que 7 indicam soluções básicas (alcalinas), invertendo a relação correta da escala de pH",
                                               "b":  "valores de pH menores que 7 indicam soluções ácidas, enquanto valores maiores que 7 indicam soluções básicas",
-                                              "c":  "valores de pH maiores que 7 indicam soluÃ§Ãµes Ã¡cidas, tambÃ©m em sentido invertido em relaÃ§Ã£o Ã  escala correta",
-                                              "d":  "o pH mede a concentraÃ§Ã£o de oxigÃªnio dissolvido em uma soluÃ§Ã£o aquosa, grandeza associada a outro parÃ¢metro"
+                                              "c":  "valores de pH maiores que 7 indicam soluções ácidas, também em sentido invertido em relação à escala correta",
+                                              "d":  "o pH mede a concentração de oxigênio dissolvido em uma solução aquosa, grandeza associada a outro parâmetro"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A escala de pH varia, em geral, de 0 a 14: valores abaixo de 7 indicam soluções ácidas, valores acima de 7 indicam soluções básicas (alcalinas), e o valor 7 corresponde a uma solução neutra, como a água pura."
@@ -344,10 +344,10 @@
                          "texto_apoio":  "O consumo de energia elétrica residencial está relacionado a grandezas físicas básicas, como tensão, corrente e resistência elétrica.",
                          "enunciado":  "De acordo com a Primeira Lei de Ohm, em um resistor ôhmico, mantendo-se a resistência constante, ao dobrar a tensão elétrica aplicada, a corrente elétrica que passa pelo resistor",
                          "alternativas":  {
-                                              "a":  "permanece exatamente a mesma, como se a corrente independesse da tensÃ£o aplicada ao resistor",
-                                              "b":  "cai para a metade do valor original, como ocorreria se a corrente fosse inversamente proporcional Ã  tensÃ£o",
-                                              "c":  "torna-se independente da tensÃ£o aplicada, contrariando a proporcionalidade direta prevista pela Lei de Ohm",
-                                              "d":  "tambÃ©m dobra de valor, pois a corrente Ã© diretamente proporcional Ã  tensÃ£o quando a resistÃªncia Ã© constante"
+                                              "a":  "permanece exatamente a mesma, como se a corrente independesse da tensão aplicada ao resistor",
+                                              "b":  "cai para a metade do valor original, como ocorreria se a corrente fosse inversamente proporcional à tensão",
+                                              "c":  "torna-se independente da tensão aplicada, contrariando a proporcionalidade direta prevista pela Lei de Ohm",
+                                              "d":  "também dobra de valor, pois a corrente é diretamente proporcional à tensão quando a resistência é constante"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Primeira Lei de Ohm estabelece que U = R × i, ou seja, a tensão é diretamente proporcional à corrente quando a resistência é constante. Assim, dobrando a tensão (U) e mantendo R constante, a corrente (i) também dobra."
@@ -357,9 +357,9 @@
                          "texto_apoio":  "A poluição sonora em grandes centros urbanos é reconhecida como um problema de saúde pública, podendo causar estresse e perda auditiva.",
                          "enunciado":  "Do ponto de vista físico, o som é uma onda que necessita de um meio material para se propagar porque",
                          "alternativas":  {
-                                              "a":  "Ã© uma onda eletromagnÃ©tica, como a luz, que se propaga apenas no vÃ¡cuo, sem depender de partÃ­culas materiais",
-                                              "b":  "nÃ£o sofre nenhuma influÃªncia da densidade do meio em que se propaga, tendo velocidade constante em qualquer material",
-                                              "c":  "se propaga com maior velocidade no vÃ¡cuo do que em meios sÃ³lidos ou lÃ­quidos, ao contrÃ¡rio de uma onda mecÃ¢nica real",
+                                              "a":  "é uma onda eletromagnética, como a luz, que se propaga apenas no vácuo, sem depender de partículas materiais",
+                                              "b":  "não sofre nenhuma influência da densidade do meio em que se propaga, tendo velocidade constante em qualquer material",
+                                              "c":  "se propaga com maior velocidade no vácuo do que em meios sólidos ou líquidos, ao contrário de uma onda mecânica real",
                                               "d":  "é uma onda mecânica, que se propaga por meio da vibração de partículas do meio (como ar, água ou sólidos)"
                                           },
                          "resposta":  "d",
@@ -370,8 +370,8 @@
                          "texto_apoio":  "Pesquisas recentes têm destacado o papel do microbioma intestinal — o conjunto de microrganismos que habitam o intestino humano — na saúde geral do organismo.",
                          "enunciado":  "A relação entre o ser humano e a maior parte das bactérias que compõem seu microbioma intestinal é geralmente classificada como",
                          "alternativas":  {
-                                              "a":  "competiÃ§Ã£o, em que ambos sÃ£o prejudicados pela disputa de recursos, relaÃ§Ã£o distinta da observada no microbioma",
-                                              "b":  "predatismo, em que o hospedeiro elimina ativamente todas as bactÃ©rias presentes, eliminando a flora benÃ©fica intestinal",
+                                              "a":  "competição, em que ambos são prejudicados pela disputa de recursos, relação distinta da observada no microbioma",
+                                              "b":  "predatismo, em que o hospedeiro elimina ativamente todas as bactérias presentes, eliminando a flora benéfica intestinal",
                                               "c":  "mutualismo, uma relação em que tanto o hospedeiro quanto os microrganismos obtêm benefícios",
                                               "d":  "parasitismo, relação em que apenas as bactérias obtêm benefícios, em detrimento da saúde do hospedeiro humano"
                                           },
@@ -383,10 +383,10 @@
                          "texto_apoio":  "A contaminação de rios por mercúrio, associada a atividades como o garimpo, é um problema ambiental relevante em algumas regiões brasileiras, como a Amazônia.",
                          "enunciado":  "A contaminação por mercúrio em ecossistemas aquáticos é particularmente preocupante porque esse metal",
                          "alternativas":  {
-                                              "a":  "se degrada rapidamente na Ã¡gua, deixando de representar risco apÃ³s poucos dias, ao contrÃ¡rio de sua persistÃªncia real",
+                                              "a":  "se degrada rapidamente na água, deixando de representar risco após poucos dias, ao contrário de sua persistência real",
                                               "b":  "é convertido pelas algas aquáticas em compostos inofensivos por meio da fotossíntese, interrompendo sua entrada na cadeia alimentar",
-                                              "c":  "nÃ£o Ã© absorvido por nenhum organismo vivo, permanecendo apenas dissolvido na Ã¡gua, sem interaÃ§Ã£o com tecidos biolÃ³gicos",
-                                              "d":  "sofre bioacumulaÃ§Ã£o e biomagnificaÃ§Ã£o ao longo da cadeia alimentar, atingindo concentraÃ§Ãµes mais altas em predadores de topo"
+                                              "c":  "não é absorvido por nenhum organismo vivo, permanecendo apenas dissolvido na água, sem interação com tecidos biológicos",
+                                              "d":  "sofre bioacumulação e biomagnificação ao longo da cadeia alimentar, atingindo concentrações mais altas em predadores de topo"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O mercúrio, ao ser absorvido por organismos aquáticos, tende a se acumular nos tecidos (bioacumulação) e a aumentar de concentração ao longo da cadeia alimentar (biomagnificação), de modo que predadores de topo, como peixes grandes, podem apresentar concentrações muito mais altas do que a água onde vivem, representando risco à saúde humana quando consumidos."
@@ -397,7 +397,7 @@
                          "enunciado":  "Uma diferença relevante entre radiações eletromagnéticas ionizantes (como raios X e gama) e não ionizantes (como ondas de rádio e micro-ondas) é que as ionizantes",
                          "alternativas":  {
                                               "a":  "possuem energia suficiente para remover elétrons de átomos e moléculas, podendo danificar estruturas biológicas como o DNA",
-                                              "b":  "tÃªm, em geral, menor frequÃªncia e menor energia do que as ondas de rÃ¡dio, tornando-as incapazes de ionizar Ã¡tomos",
+                                              "b":  "têm, em geral, menor frequência e menor energia do que as ondas de rádio, tornando-as incapazes de ionizar átomos",
                                               "c":  "correspondem à mesma faixa de frequência utilizada por fornos de micro-ondas domésticos, independentemente de sua origem",
                                               "d":  "possuem efeito apenas térmico sobre os tecidos biológicos, de forma semelhante à radiação não ionizante"
                                           },
@@ -422,9 +422,9 @@
                          "texto_apoio":  "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
                          "enunciado":  "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
                          "alternativas":  {
-                                              "a":  "nÃ£o possui nenhuma capacidade de retenÃ§Ã£o de calor na atmosfera, contrariando seu papel como gÃ¡s de efeito estufa",
-                                              "b":  "possui, molÃ©cula a molÃ©cula, potencial de aquecimento global maior que o CO2 em horizonte de tempo curto, apesar de permanecer menos tempo na atmosfera",
-                                              "c":  "Ã© o Ãºnico gÃ¡s de efeito estufa existente na atmosfera terrestre, desconsiderando a contribuiÃ§Ã£o do CO2 e do vapor d\u0027Ã¡gua",
+                                              "a":  "não possui nenhuma capacidade de retenção de calor na atmosfera, contrariando seu papel como gás de efeito estufa",
+                                              "b":  "possui, molécula a molécula, potencial de aquecimento global maior que o CO2 em horizonte de tempo curto, apesar de permanecer menos tempo na atmosfera",
+                                              "c":  "é o único gás de efeito estufa existente na atmosfera terrestre, desconsiderando a contribuição do CO2 e do vapor d\u0027água",
                                               "d":  "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono"
                                           },
                          "resposta":  "b",
@@ -437,7 +437,7 @@
                          "alternativas":  {
                                               "a":  "fissão nuclear, em que núcleos pesados, como os de urânio, se dividem em núcleos menores, liberando grande quantidade de energia",
                                               "b":  "fusão nuclear, em que núcleos leves se combinam para formar núcleos mais pesados, como ocorre no Sol",
-                                              "c":  "combustÃ£o quÃ­mica direta de Ã¡tomos de urÃ¢nio, semelhante Ã  queima de carvÃ£o, sem divisÃ£o do nÃºcleo atÃ´mico",
+                                              "c":  "combustão química direta de átomos de urânio, semelhante à queima de carvão, sem divisão do núcleo atômico",
                                               "d":  "aquecimento da água do reservatório por meio da queima controlada de urânio, semelhante à queima de carvão em termelétricas"
                                           },
                          "resposta":  "a",
@@ -449,9 +449,9 @@
                          "enunciado":  "A prática de rotação de culturas, alternando diferentes espécies vegetais em uma mesma área ao longo do tempo, contribui para a agricultura sustentável, principalmente, porque",
                          "alternativas":  {
                                               "a":  "ajuda a preservar a fertilidade do solo, reduzindo a proliferação de pragas e doenças específicas de uma única cultura",
-                                              "b":  "esgota rapidamente os nutrientes do solo, forÃ§ando o uso de mais fertilizantes quÃ­micos, efeito oposto ao benefÃ­cio real",
+                                              "b":  "esgota rapidamente os nutrientes do solo, forçando o uso de mais fertilizantes químicos, efeito oposto ao benefício real",
                                               "c":  "substitui integralmente a necessidade de adubação do solo, dispensando qualquer reposição de nutrientes",
-                                              "d":  "aumenta a erosÃ£o do solo em comparaÃ§Ã£o com o cultivo de uma Ãºnica espÃ©cie, quando na prÃ¡tica a rotaÃ§Ã£o reduz a erosÃ£o"
+                                              "d":  "aumenta a erosão do solo em comparação com o cultivo de uma única espécie, quando na prática a rotação reduz a erosão"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A rotação de culturas evita o esgotamento de nutrientes específicos do solo (já que diferentes espécies têm diferentes demandas nutricionais), ajuda a quebrar ciclos de pragas e doenças associadas a uma cultura específica, e pode contribuir para a estrutura e fertilidade do solo ao longo do tempo."
@@ -461,9 +461,9 @@
                          "texto_apoio":  "O descarte inadequado de pilhas, baterias e equipamentos eletrônicos é um problema ambiental crescente relacionado ao consumo de tecnologia.",
                          "enunciado":  "O descarte inadequado de pilhas e baterias no meio ambiente, como em lixões a céu aberto, é preocupante principalmente porque esses materiais podem",
                          "alternativas":  {
-                                              "a":  "se transformar rapidamente em adubo orgÃ¢nico ao entrar em contato com o solo Ãºmido, como resÃ­duo biodegradÃ¡vel comum",
-                                              "b":  "se transformar espontaneamente em compostos orgÃ¢nicos inofensivos, contrariando sua composiÃ§Ã£o quÃ­mica inorgÃ¢nica",
-                                              "c":  "nÃ£o conter nenhuma substÃ¢ncia quÃ­mica de risco Ã  saÃºde humana, quando na verdade contÃªm metais pesados tÃ³xicos",
+                                              "a":  "se transformar rapidamente em adubo orgânico ao entrar em contato com o solo úmido, como resíduo biodegradável comum",
+                                              "b":  "se transformar espontaneamente em compostos orgânicos inofensivos, contrariando sua composição química inorgânica",
+                                              "c":  "não conter nenhuma substância química de risco à saúde humana, quando na verdade contêm metais pesados tóxicos",
                                               "d":  "liberar metais pesados, como chumbo, mercúrio e cádmio, que podem contaminar o solo e os lençóis freáticos"
                                           },
                          "resposta":  "d",
@@ -475,9 +475,9 @@
                          "enunciado":  "No diabetes tipo 2, diferentemente do tipo 1, o principal mecanismo fisiológico envolvido é",
                          "alternativas":  {
                                               "a":  "a destruição autoimune progressiva das células produtoras de insulina no pâncreas, mecanismo típico do diabetes tipo 1",
-                                              "b":  "a ausÃªncia total e congÃªnita do pÃ¢ncreas desde o nascimento, condiÃ§Ã£o rara e distinta do mecanismo do diabetes tipo 2",
+                                              "b":  "a ausência total e congênita do pâncreas desde o nascimento, condição rara e distinta do mecanismo do diabetes tipo 2",
                                               "c":  "a produção excessiva de insulina pelo pâncreas, que se torna mais eficiente em reduzir a glicemia do que em indivíduos saudáveis",
-                                              "d":  "a resistÃªncia progressiva das cÃ©lulas Ã  aÃ§Ã£o da insulina, tornando-a menos eficaz para a entrada de glicose, mesmo com produÃ§Ã£o pancreÃ¡tica mantida"
+                                              "d":  "a resistência progressiva das células à ação da insulina, tornando-a menos eficaz para a entrada de glicose, mesmo com produção pancreática mantida"
                                           },
                          "resposta":  "d",
                          "explicacao":  "No diabetes tipo 2, as células do organismo desenvolvem progressiva resistência à ação da insulina, dificultando a entrada de glicose nas células e elevando a glicemia, mesmo que o pâncreas ainda produza o hormônio, ao menos nas fases iniciais da doença — quadro associado a fatores como obesidade, sedentarismo e predisposição genética, diferentemente do tipo 1, de origem autoimune.",
@@ -488,10 +488,10 @@
                          "texto_apoio":  "A hipertensão arterial é um dos principais fatores de risco para doenças cardiovasculares, como infarto e acidente vascular cerebral (AVC).",
                          "enunciado":  "Entre os fatores associados ao aumento do risco de hipertensão arterial, destacado por campanhas de saúde pública, está o",
                          "alternativas":  {
-                                              "a":  "consumo reduzido de sÃ³dio (sal) na alimentaÃ§Ã£o diÃ¡ria, fator associado Ã  reduÃ§Ã£o, e nÃ£o ao aumento, da pressÃ£o arterial",
-                                              "b":  "aumento do consumo de frutas, verduras e legumes na dieta habitual, hÃ¡bito protetor, e nÃ£o fator de risco cardiovascular",
-                                              "c":  "consumo excessivo e frequente de sÃ³dio (sal), que contribui para retenÃ§Ã£o de lÃ­quidos e aumento da pressÃ£o sobre as artÃ©rias",
-                                              "d":  "prÃ¡tica regular de atividades fÃ­sicas aerÃ³bicas, fator reconhecidamente protetor contra a hipertensÃ£o arterial"
+                                              "a":  "consumo reduzido de sódio (sal) na alimentação diária, fator associado à redução, e não ao aumento, da pressão arterial",
+                                              "b":  "aumento do consumo de frutas, verduras e legumes na dieta habitual, hábito protetor, e não fator de risco cardiovascular",
+                                              "c":  "consumo excessivo e frequente de sódio (sal), que contribui para retenção de líquidos e aumento da pressão sobre as artérias",
+                                              "d":  "prática regular de atividades físicas aeróbicas, fator reconhecidamente protetor contra a hipertensão arterial"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O consumo excessivo de sódio está associado ao aumento da retenção de líquidos no organismo, o que eleva o volume sanguíneo circulante e a pressão exercida sobre as paredes das artérias, sendo um dos principais fatores de risco modificáveis para a hipertensão arterial, ao lado do sedentarismo, da obesidade e do tabagismo.",
@@ -502,7 +502,7 @@
                          "texto_apoio":  "A obesidade é definida, do ponto de vista clínico, como o acúmulo excessivo de gordura corporal, associado a diversos riscos à saúde.",
                          "enunciado":  "Do ponto de vista fisiológico básico, a obesidade está relacionada, principalmente, a um",
                          "alternativas":  {
-                                              "a":  "excesso exclusivo de proteÃ­nas na dieta, independentemente do total calÃ³rico consumido, fator isolado e insuficiente",
+                                              "a":  "excesso exclusivo de proteínas na dieta, independentemente do total calórico consumido, fator isolado e insuficiente",
                                               "b":  "aumento do consumo de água associado à retenção de líquidos, independentemente do total de calorias ingeridas",
                                               "c":  "balanço energético neutro, mantido ao longo do tempo, em que a ingestão calórica tende a se igualar ao gasto energético do organismo",
                                               "d":  "balanço energético positivo prolongado, em que a ingestão calórica excede, de forma sustentada, o gasto energético total do organismo"
@@ -516,8 +516,8 @@
                          "texto_apoio":  "O consumo excessivo e prolongado de bebidas alcoólicas está associado a diversos danos à saúde, sobretudo ao fígado.",
                          "enunciado":  "O consumo crônico e excessivo de álcool está associado ao desenvolvimento de doenças hepáticas porque o fígado",
                          "alternativas":  {
-                                              "a":  "nÃ£o participa de nenhuma forma do processo de metabolizaÃ§Ã£o do Ã¡lcool ingerido, contrariando seu papel central nesse processo",
-                                              "b":  "Ã© o principal Ã³rgÃ£o responsÃ¡vel por metabolizar o Ã¡lcool, e sua exposiÃ§Ã£o excessiva pode causar inflamaÃ§Ã£o, gordura e cirrose",
+                                              "a":  "não participa de nenhuma forma do processo de metabolização do álcool ingerido, contrariando seu papel central nesse processo",
+                                              "b":  "é o principal órgão responsável por metabolizar o álcool, e sua exposição excessiva pode causar inflamação, gordura e cirrose",
                                               "c":  "elimina a maior parte do álcool ingerido pela urina, sem que o fígado participe ativamente de sua metabolização",
                                               "d":  "converte o álcool ingerido diretamente em glicose, armazenando o excedente na forma de glicogênio sem gerar subprodutos"
                                           },
@@ -532,8 +532,8 @@
                          "alternativas":  {
                                               "a":  "por causar diretamente todos os tipos de câncer associados ao tabagismo, sendo a única substância nociva presente no cigarro",
                                               "b":  "por ser a substância mais associada ao desenvolvimento de câncer de pulmão em fumantes, mais até do que o alcatrão",
-                                              "c":  "por nÃ£o gerar qualquer efeito sobre o sistema nervoso central do fumante, contrariando seu papel na dependÃªncia quÃ­mica",
-                                              "d":  "pela dependÃªncia quÃ­mica associada ao tabagismo, atuando no sistema nervoso central, enquanto o alcatrÃ£o se liga mais ao cÃ¢ncer"
+                                              "c":  "por não gerar qualquer efeito sobre o sistema nervoso central do fumante, contrariando seu papel na dependência química",
+                                              "d":  "pela dependência química associada ao tabagismo, atuando no sistema nervoso central, enquanto o alcatrão se liga mais ao câncer"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A nicotina é a substância presente no tabaco associada à dependência química, atuando sobre receptores do sistema nervoso central. Já outras substâncias presentes na fumaça do cigarro, como o alcatrão, estão mais diretamente relacionadas ao desenvolvimento de diferentes tipos de câncer, o que evidencia que os danos do tabagismo decorrem da combinação de diversas substâncias presentes na fumaça, e não apenas da nicotina isoladamente.",
@@ -545,8 +545,8 @@
                          "enunciado":  "Do ponto de vista biológico, o uso de antibióticos não é eficaz no tratamento de infecções virais, como a gripe comum, porque",
                          "alternativas":  {
                                               "a":  "os vírus são organismos maiores e mais complexos do que as bactérias, o que os tornaria naturalmente resistentes a qualquer substância química",
-                                              "b":  "os antibiÃ³ticos atuam sobre estruturas metabÃ³licas tÃ­picas de bactÃ©rias, que os vÃ­rus, sem metabolismo prÃ³prio, nÃ£o possuem",
-                                              "c":  "os antibiÃ³ticos atuam sobre vÃ­rus e bactÃ©rias da mesma forma, o que nÃ£o corresponde Ã  biologia viral real",
+                                              "b":  "os antibióticos atuam sobre estruturas metabólicas típicas de bactérias, que os vírus, sem metabolismo próprio, não possuem",
+                                              "c":  "os antibióticos atuam sobre vírus e bactérias da mesma forma, o que não corresponde à biologia viral real",
                                               "d":  "gripes e resfriados são causados principalmente pela exposição ao frio, sendo os vírus apenas agentes oportunistas secundários"
                                           },
                          "resposta":  "b",
@@ -558,9 +558,9 @@
                          "texto_apoio":  "O sistema imunológico humano é frequentemente dividido, do ponto de vista didático, em dois grandes componentes que atuam de forma complementar.",
                          "enunciado":  "Diferentemente da imunidade inata, presente desde o nascimento e com resposta rápida e pouco específica contra diferentes patógenos, a imunidade adaptativa se caracteriza por",
                          "alternativas":  {
-                                              "a":  "desenvolver resposta mais lenta na primeira exposiÃ§Ã£o a um patÃ³geno, mas gerar memÃ³ria imunolÃ³gica para respostas futuras rÃ¡pidas",
+                                              "a":  "desenvolver resposta mais lenta na primeira exposição a um patógeno, mas gerar memória imunológica para respostas futuras rápidas",
                                               "b":  "estar presente de forma mais desenvolvida em invertebrados do que em vertebrados, incluindo os seres humanos",
-                                              "c":  "nÃ£o envolver a produÃ§Ã£o de anticorpos em nenhuma etapa do processo imunolÃ³gico, contrariando o mecanismo da resposta adaptativa",
+                                              "c":  "não envolver a produção de anticorpos em nenhuma etapa do processo imunológico, contrariando o mecanismo da resposta adaptativa",
                                               "d":  "responder de forma rápida e pouco específica a diferentes agentes infecciosos, como ocorre na imunidade inata"
                                           },
                          "resposta":  "a",
@@ -572,10 +572,10 @@
                          "texto_apoio":  "Doenças como lúpus, artrite reumatoide e diabetes tipo 1 são classificadas, do ponto de vista médico, como doenças autoimunes.",
                          "enunciado":  "De forma geral, uma doença é classificada como autoimune quando",
                          "alternativas":  {
-                                              "a":  "resulta, principalmente, de deficiÃªncias nutricionais na dieta, que decorrem de mÃ¡ nutriÃ§Ã£o, e nÃ£o de ataque imunolÃ³gico",
+                                              "a":  "resulta, principalmente, de deficiências nutricionais na dieta, que decorrem de má nutrição, e não de ataque imunológico",
                                               "b":  "está associada, sobretudo, à exposição a poluentes ambientais, com pouca participação do sistema imunológico do paciente",
                                               "c":  "é causada pela invasão persistente de um agente infeccioso externo ao organismo, como ocorre nas doenças infecciosas crônicas",
-                                              "d":  "o sistema imunolÃ³gico do prÃ³prio indivÃ­duo passa a atacar erroneamente cÃ©lulas e tecidos saudÃ¡veis, reconhecendo-os como ameaÃ§as"
+                                              "d":  "o sistema imunológico do próprio indivíduo passa a atacar erroneamente células e tecidos saudáveis, reconhecendo-os como ameaças"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nas doenças autoimunes, o sistema imunológico do próprio organismo passa a reconhecer erroneamente células, tecidos ou órgãos saudáveis como se fossem estruturas estranhas ou ameaçadoras, atacando-os e provocando inflamação e dano tecidual, como ocorre, por exemplo, na destruição das células produtoras de insulina no diabetes tipo 1.",
@@ -589,7 +589,7 @@
                                               "a":  "reconhece o alérgeno como parte do próprio organismo, deixando de produzir qualquer resposta imunológica a ele",
                                               "b":  "deixa de produzir anticorpos contra o alérgeno após sucessivas exposições, tornando as reações cada vez mais brandas",
                                               "c":  "reage apenas a substâncias de origem animal, como o veneno de insetos, sem qualquer resposta a pólen ou alimentos",
-                                              "d":  "reage de forma exagerada a uma substÃ¢ncia inofensiva, como pÃ³len ou alimento, liberando histamina, que causa coceira e inchaÃ§o"
+                                              "d":  "reage de forma exagerada a uma substância inofensiva, como pólen ou alimento, liberando histamina, que causa coceira e inchaço"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nas reações alérgicas, o sistema imunológico reage de forma exagerada a substâncias geralmente inofensivas para a maioria das pessoas (alérgenos, como pólen, certos alimentos ou veneno de insetos), liberando mediadores químicos como a histamina, responsáveis por sintomas como coceira, inchaço, vermelhidão e, em casos graves, reações sistêmicas como a anafilaxia.",
@@ -629,8 +629,8 @@
                          "enunciado":  "A exposição excessiva e sem proteção à radiação ultravioleta (UV) do sol está associada ao aumento do risco de câncer de pele porque essa radiação",
                          "alternativas":  {
                                               "a":  "é bloqueada integralmente pela camada de ozônio na maior parte do globo, restando expostas apenas as regiões polares",
-                                              "b":  "reduz permanentemente a temperatura da pele exposta, impedindo qualquer inflamaÃ§Ã£o, efeito tÃ©rmico que a radiaÃ§Ã£o UV nÃ£o produz",
-                                              "c":  "pode causar danos ao DNA das cÃ©lulas da pele, favorecendo mutaÃ§Ãµes que, acumuladas ao longo do tempo, podem levar a tumores",
+                                              "b":  "reduz permanentemente a temperatura da pele exposta, impedindo qualquer inflamação, efeito térmico que a radiação UV não produz",
+                                              "c":  "pode causar danos ao DNA das células da pele, favorecendo mutações que, acumuladas ao longo do tempo, podem levar a tumores",
                                               "d":  "estimula, sobretudo, a produção de melanina protetora, efeito que superaria os riscos associados à exposição prolongada"
                                           },
                          "resposta":  "c",
@@ -642,10 +642,10 @@
                          "texto_apoio":  "Na década de 1980, cientistas identificaram um afinamento significativo da camada de ozônio sobre a Antártida, o chamado \"buraco na camada de ozônio\".",
                          "enunciado":  "O afinamento da camada de ozônio observado a partir da década de 1980 foi associado, principalmente, à emissão de",
                          "alternativas":  {
-                                              "a":  "vapor de Ã¡gua liberado por usinas hidrelÃ©tricas, substÃ¢ncia que nÃ£o reage quimicamente com o ozÃ´nio estratosfÃ©rico",
-                                              "b":  "oxigÃªnio molecular produzido pela fotossÃ­ntese em excesso, gÃ¡s que nÃ£o destrÃ³i molÃ©culas de ozÃ´nio na estratosfera",
-                                              "c":  "diÃ³xido de carbono proveniente da queima de combustÃ­veis fÃ³sseis, gÃ¡s associado ao efeito estufa, nÃ£o Ã  destruiÃ§Ã£o do ozÃ´nio",
-                                              "d":  "clorofluorcarbonos (CFCs), substÃ¢ncias usadas em aerossÃ³is e refrigeradores, que destroem molÃ©culas de ozÃ´nio na estratosfera"
+                                              "a":  "vapor de água liberado por usinas hidrelétricas, substância que não reage quimicamente com o ozônio estratosférico",
+                                              "b":  "oxigênio molecular produzido pela fotossíntese em excesso, gás que não destrói moléculas de ozônio na estratosfera",
+                                              "c":  "dióxido de carbono proveniente da queima de combustíveis fósseis, gás associado ao efeito estufa, não à destruição do ozônio",
+                                              "d":  "clorofluorcarbonos (CFCs), substâncias usadas em aerossóis e refrigeradores, que destroem moléculas de ozônio na estratosfera"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O afinamento da camada de ozônio foi associado à emissão de clorofluorcarbonos (CFCs), substâncias então amplamente utilizadas em aerossóis e sistemas de refrigeração, que, ao atingirem a estratosfera, reagem quimicamente destruindo moléculas de ozônio. Esse diagnóstico levou ao Protocolo de Montreal (1987), acordo internacional que restringiu a produção dessas substâncias, resultando em recuperação gradual da camada de ozônio nas décadas seguintes.",
@@ -656,10 +656,10 @@
                          "texto_apoio":  "O derretimento de geleiras e calotas polares é um dos efeitos mais visíveis do aquecimento global observado nas últimas décadas.",
                          "enunciado":  "Entre as consequências associadas ao derretimento acelerado de geleiras e calotas polares está",
                          "alternativas":  {
-                                              "a":  "a reduÃ§Ã£o do nÃ­vel mÃ©dio dos oceanos em todo o planeta, efeito oposto ao derretimento observado nas calotas polares",
-                                              "b":  "o aumento significativo e permanente da Ã¡rea de gelo presente nos polos terrestres, tendÃªncia inversa Ã  observada",
-                                              "c":  "a elevaÃ§Ã£o do nÃ­vel mÃ©dio dos oceanos, ampliando o risco de inundaÃ§Ãµes em regiÃµes costeiras e ilhas de baixa altitude",
-                                              "d":  "a diminuiÃ§Ã£o da temperatura mÃ©dia global do planeta, contrariando o aquecimento associado ao derretimento das geleiras"
+                                              "a":  "a redução do nível médio dos oceanos em todo o planeta, efeito oposto ao derretimento observado nas calotas polares",
+                                              "b":  "o aumento significativo e permanente da área de gelo presente nos polos terrestres, tendência inversa à observada",
+                                              "c":  "a elevação do nível médio dos oceanos, ampliando o risco de inundações em regiões costeiras e ilhas de baixa altitude",
+                                              "d":  "a diminuição da temperatura média global do planeta, contrariando o aquecimento associado ao derretimento das geleiras"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O derretimento de geleiras e calotas polares, associado ao aquecimento global, contribui para a elevação do nível médio dos oceanos, o que amplia o risco de inundações e erosão em regiões costeiras densamente povoadas e em pequenas ilhas de baixa altitude, além de alterar ecossistemas marinhos e de água doce dependentes dessas fontes de gelo.",

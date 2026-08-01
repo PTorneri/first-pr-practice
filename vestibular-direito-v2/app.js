@@ -21,11 +21,12 @@
   const LS_FLASHCARD_STATE = NS + "vd_flashcardState"; // { "<subtopicId>::<questionId>": { interval, reps, dueDate } }, achado 2
   const LS_OBRAS_STUDIED = NS + "vd_obrasStudied"; // { "<obraId>": true }, achado 13 (obras obrigatórias)
   const LS_SYNC_CODE = NS + "vd_syncCode"; // resquício do sync por código do v1; no v2 quem sincroniza é a conta
+  const LS_STUDY_DAYS = NS + "vd_studyDays"; // { "<isoDate>": true } — dias em que houve estudo; a ofensiva é derivada daqui (v2)
 
   const SYNCABLE_KEYS = [
     LS_START, LS_ANSWERS, LS_DAY_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
     LS_DISSERT_CHECKLIST, LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN,
-    LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
+    LS_FLASHCARD_STATE, LS_OBRAS_STUDIED, LS_STUDY_DAYS,
   ];
 
   // sync.js precisa saber exatamente quais chaves sobem pra nuvem, e a
@@ -250,6 +251,7 @@
     renderDay(currentDay);
     renderCalendar();
     renderProgress();
+    renderStreak();
   }
 
   // ---------- Tabs ----------
@@ -931,6 +933,7 @@
       state[key] = { interval: 1, reps: 0, dueDate: addDaysISO(todayISO(), 1) };
     }
     saveJSON(LS_FLASHCARD_STATE, state);
+    registerStudyToday(); // revisar cards também é estudar
   }
 
   function renderCardsTab() {
@@ -1559,6 +1562,7 @@
         current[key] = letter;
         saveJSON(LS_ANSWERS, current);
         touchTopicLastAnswered(subtopicId);
+        registerStudyToday();
         applyFeedback(wrap, q, letter);
         if (!alreadyAnsweredGlobally) {
           bumpTopicState(subtopicId, letter === q.resposta);
@@ -1738,6 +1742,7 @@
           const status2 = getDissertStatus();
           status2[day] = "done";
           saveJSON(LS_DISSERT_STATUS, status2);
+          registerStudyToday();
           renderDissertSection(day);
         });
         card.appendChild(finishWrap);
@@ -1818,6 +1823,85 @@
     const data = loadJSON(LS_TOPIC_LAST_ANSWERED, {});
     data[subtopicId] = todayISO();
     saveJSON(LS_TOPIC_LAST_ANSWERED, data);
+  }
+
+  // ---------- Ofensiva (v2) ----------
+  //
+  // Guardamos apenas o CONJUNTO de dias em que houve estudo; a sequência é
+  // sempre recalculada a partir dele. Isso importa por dois motivos: a
+  // sequência nunca fica "presa" num número errado, e a mesclagem entre
+  // aparelhos vira uma união de dias — se você estudou no celular na terça e
+  // no PC na quarta, os dois dias contam, sem os aparelhos brigarem por um
+  // contador. A contagem usa o relógio do próprio aparelho, o que é
+  // adequado aqui: o app é pessoal e não há nada a ganhar se enganando.
+
+  // Marca hoje como dia estudado. Chamado quando há estudo de verdade —
+  // responder questão, revisar flashcard ou concluir uma dissertativa.
+  function registerStudyToday() {
+    const days = loadJSON(LS_STUDY_DAYS, {});
+    const today = todayISO();
+    if (days[today]) return false; // já contado hoje, nada muda
+    days[today] = true;
+    saveJSON(LS_STUDY_DAYS, days);
+    renderStreak();
+    return true;
+  }
+
+  function shiftISO(iso, deltaDays) {
+    const d = new Date(iso + "T00:00:00");
+    d.setDate(d.getDate() + deltaDays);
+    return d.toISOString().slice(0, 10);
+  }
+
+  // Sequência ATUAL: conta pra trás a partir de hoje. Se ainda não estudou
+  // hoje, a sequência de ontem continua valendo — o dia ainda não acabou, e
+  // zerar antes da meia-noite puniria quem estuda à noite.
+  function computeStreak() {
+    const days = loadJSON(LS_STUDY_DAYS, {});
+    const today = todayISO();
+    const studiedToday = !!days[today];
+
+    let cursor = studiedToday ? today : shiftISO(today, -1);
+    let current = 0;
+    while (days[cursor]) {
+      current++;
+      cursor = shiftISO(cursor, -1);
+    }
+
+    // Recorde: maior sequência de dias consecutivos em todo o histórico.
+    const all = Object.keys(days).filter((d) => days[d]).sort();
+    let longest = 0;
+    let run = 0;
+    let prev = null;
+    all.forEach((d) => {
+      run = prev && shiftISO(prev, 1) === d ? run + 1 : 1;
+      if (run > longest) longest = run;
+      prev = d;
+    });
+
+    return { current: current, longest: longest, studiedToday: studiedToday, total: all.length };
+  }
+
+  function renderStreak() {
+    const el = document.getElementById("streak-chip");
+    if (!el) return;
+    const s = computeStreak();
+
+    if (s.current === 0) {
+      el.hidden = false;
+      el.dataset.state = "off";
+      el.title = "Estude hoje pra começar sua ofensiva";
+      el.innerHTML = `<span class="streak-flame">🔥</span><span class="streak-count">0</span>`;
+      return;
+    }
+
+    const dias = s.current === 1 ? "1 dia seguido" : `${s.current} dias seguidos`;
+    el.hidden = false;
+    el.dataset.state = s.studiedToday ? "on" : "risco";
+    el.title = s.studiedToday
+      ? `Ofensiva de ${dias}. Recorde: ${s.longest}.`
+      : `Ofensiva de ${dias}, mas você ainda não estudou hoje — não perca!`;
+    el.innerHTML = `<span class="streak-flame">🔥</span><span class="streak-count">${s.current}</span>`;
   }
 
   // Nota estimada "se a prova fosse hoje": média do acerto por frente,

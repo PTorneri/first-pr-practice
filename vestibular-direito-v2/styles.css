@@ -521,5 +521,31 @@ body {
 .sync-status[data-state="error"] { color: #FCA5A5; }
 
 @media (max-width: 900px) {
+  /* No celular o cabeçalho é apertado: escondemos o status quando está tudo
+     certo, mas o aviso de "não estou salvando na nuvem" continua aparecendo —
+     é justamente o caso em que a pessoa precisa saber. */
   .sync-status { display: none; }
+  .sync-status[data-state="error"] { display: inline-block; }
 }
+
+/* Ofensiva (streak) — chip no cabeçalho */
+.streak-chip {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 3px 10px 3px 8px; border-radius: 999px;
+  background: rgba(255,255,255,0.12); cursor: default; user-select: none;
+}
+.streak-flame { font-size: 0.95rem; line-height: 1; }
+.streak-count { font-weight: 800; font-size: 0.9rem; color: var(--header-ink); }
+
+/* Sem ofensiva ativa: chama menos atenção */
+.streak-chip[data-state="off"] { opacity: 0.5; }
+.streak-chip[data-state="off"] .streak-flame { filter: grayscale(1); }
+
+/* Ofensiva viva hoje */
+.streak-chip[data-state="on"] { background: rgba(249,115,22,0.22); }
+.streak-chip[data-state="on"] .streak-count { color: #FDBA74; }
+
+/* Ofensiva em risco: existe, mas ainda não estudou hoje */
+.streak-chip[data-state="risco"] { background: rgba(201,162,39,0.22); }
+.streak-chip[data-state="risco"] .streak-count { color: #FDE68A; }
+.streak-chip[data-state="risco"] .streak-flame { opacity: 0.65; }

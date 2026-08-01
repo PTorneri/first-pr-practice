@@ -36,6 +36,10 @@ const MERGE_STRATEGY = {
   vd_startDate: "primeira",
   vd_theorySeen: "ou",
   vd_obrasStudied: "ou",
+  // Ofensiva: união dos dias estudados. Estudou no celular na terça e no PC
+  // na quarta? Os dois dias contam. A sequência é recalculada dessa união,
+  // então ela nunca fica presa num número errado vindo de um aparelho.
+  vd_studyDays: "ou",
   vd_topicLastAnswered: "maisRecente",
   vd_dayState: "maisProgresso",
   vd_topicState: "maisProgresso",

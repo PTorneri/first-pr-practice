@@ -1,0 +1,95 @@
+{
+  "_comentario": [
+    "Geografia, lote 4: quinta alternativa para mais 10 questões — migração, energia e",
+    "recursos minerais.",
+    "",
+    "Duas novas desta leva são as mais afiadas até agora, porque partem de um raciocínio",
+    "que o candidato traz de fora e aplica no lugar errado:",
+    "",
+    "- geografia-53 (minério de ferro): a nova atribui a competitividade brasileira à",
+    "  proximidade dos mercados asiáticos. É plausível como argumento logístico e é",
+    "  exatamente o contrário do fato — a distância até a Ásia é a DESVANTAGEM do Brasil",
+    "  frente à Austrália, compensada por qualidade de reserva e escala.",
+    "- geografia-57 (etanol): a nova afirma que a queima não libera CO2 em nenhuma etapa.",
+    "  Confunde ciclo de carbono aproximadamente neutro com ausência de emissão. A queima",
+    "  emite; o que compensa é o CO2 absorvido pela cana no cultivo.",
+    "",
+    "Em geografia-58, a nova descreve o hidrogênio cinza (subproduto do refino) numa questão",
+    "sobre hidrogênio verde — mesma lógica de conceito vizinho dos lotes anteriores.",
+    "",
+    "Critérios de sempre: sem absolutismo, comprimento e forma próximos, letra da resposta",
+    "em 2 para cada posição."
+  ],
+  "questoes": {
+    "geografia-46": {
+      "motivo": "quinta alternativa: inverte as origens de favela e loteamento irregular",
+      "alternativas": {
+        "e": "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas"
+      }
+    },
+    "geografia-47": {
+      "motivo": "quinta alternativa: expansão universitária como suposto motor principal do retorno",
+      "alternativas": {
+        "e": "A ampliação das vagas em universidades federais no Nordeste, responsável pela maior parte do fluxo de retorno registrado no período"
+      }
+    },
+    "geografia-48": {
+      "motivo": "quinta alternativa: suposta moeda comum autorizada na faixa de fronteira",
+      "gabarito": { "de": "d", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "d": "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
+        "e": "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
+      }
+    },
+    "geografia-49": {
+      "motivo": "quinta alternativa: Acordo de Residência do Mercosul aplicado a países que não o integram",
+      "alternativas": {
+        "e": "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil"
+      }
+    },
+    "geografia-50": {
+      "motivo": "quinta alternativa: concentração em abrigos de fronteira, o oposto da interiorização",
+      "gabarito": { "de": "a", "para": "c", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
+        "c": "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
+        "e": "Concentrar o atendimento aos imigrantes em abrigos federais instalados na faixa de fronteira, sem deslocamento para outros estados"
+      }
+    },
+    "geografia-51": {
+      "motivo": "quinta alternativa: autossuficiência em derivados que o país não alcançou",
+      "gabarito": { "de": "b", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "A viabilização da exportação de petróleo refinado em larga escala, com o país deixando de importar derivados a partir da década de 2010",
+        "e": "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional"
+      }
+    },
+    "geografia-53": {
+      "motivo": "quinta alternativa: inverte a geografia do frete — a distância até a Ásia é desvantagem, não vantagem",
+      "gabarito": { "de": "b", "para": "c", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
+        "c": "A abundância e a qualidade das reservas brasileiras de minério de ferro, combinadas com investimentos em infraestrutura logística",
+        "e": "A proximidade das jazidas em relação aos principais mercados consumidores asiáticos, que reduziria o custo do frete marítimo"
+      }
+    },
+    "geografia-55": {
+      "motivo": "quinta alternativa: relevo montanhoso atribuído ao litoral nordestino",
+      "alternativas": {
+        "e": "O relevo predominantemente montanhoso da faixa litorânea nordestina, que aceleraria as correntes de ar sobre os parques instalados"
+      }
+    },
+    "geografia-57": {
+      "motivo": "quinta alternativa: confunde ciclo de carbono neutro com ausência de emissão na queima",
+      "alternativas": {
+        "e": "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso"
+      }
+    },
+    "geografia-58": {
+      "motivo": "quinta alternativa: descreve o hidrogênio cinza numa questão sobre o verde",
+      "alternativas": {
+        "e": "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas"
+      }
+    }
+  }
+}

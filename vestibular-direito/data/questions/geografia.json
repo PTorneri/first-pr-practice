@@ -649,7 +649,8 @@
                                               "a":  "A favela é sempre formada a partir de um parcelamento legal do solo, posteriormente revogado pela prefeitura por decisão administrativa arbitrária",
                                               "b":  "A favela caracteriza-se pela ocupação espontânea de terrenos sem propriedade formal, enquanto o loteamento irregular envolve venda de lotes sem registro urbanístico",
                                               "c":  "Os dois termos se aplicam apenas a áreas rurais, nunca a contextos urbanos ou a regiões metropolitanas mais densamente povoadas e industrializadas",
-                                              "d":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares"
+                                              "d":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares",
+                                              "e":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A favela resulta de ocupação espontânea de terrenos, sem processo formal de parcelamento; o loteamento irregular refere-se a áreas cujo parcelamento (venda de lotes) não seguiu as exigências legais, mesmo havendo transação comercial. A favela não decorre de revogação de um parcelamento antes legal, o loteamento irregular não se limita a áreas de proteção ambiental, e ambos os termos são tipicamente urbanos, não rurais.",
@@ -663,7 +664,8 @@
                                               "a":  "Uma crise econômica generalizada no Sudeste que eliminou por completo as oportunidades de emprego industrial e urbano na região",
                                               "b":  "Uma política federal que exige a repatriação de trabalhadores nascidos no Nordeste após determinada idade, por lei específica",
                                               "c":  "A escassez de infraestrutura de transporte entre as duas regiões, que passou a inviabilizar viagens de ida ao Sudeste desde os anos 2000, quadro agravado por cortes orçamentários",
-                                              "d":  "Melhoria relativa da economia de estados nordestinos, expansão do turismo e do agronegócio irrigado na região, além do desejo de reaproximação com a terra natal"
+                                              "d":  "Melhoria relativa da economia de estados nordestinos, expansão do turismo e do agronegócio irrigado na região, além do desejo de reaproximação com a terra natal",
+                                              "e":  "A ampliação das vagas em universidades federais no Nordeste, responsável pela maior parte do fluxo de retorno registrado no período"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O fortalecimento de setores como turismo, agronegócio irrigado e polos industriais em estados nordestinos, somado ao desejo de retorno à terra natal, impulsiona esse fluxo. Não houve colapso total das oportunidades no Sudeste, não existe política federal de repatriação compulsória, e a infraestrutura de transporte entre as regiões não se deteriorou a ponto de explicar o fenômeno.",
@@ -677,9 +679,10 @@
                                               "a":  "O fim da necessidade de qualquer controle aduaneiro entre os dois países, dada a simples proximidade física entre as duas cidades-gêmeas",
                                               "b":  "Uma redução do fluxo de pessoas e mercadorias entre os dois lados, em razão da presença de duas moedas e legislações distintas",
                                               "c":  "A fusão jurídica dos dois municípios em um único território soberano, administrado conjuntamente pelos dois países vizinhos",
-                                              "d":  "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
+                                              "d":  "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
+                                              "e":  "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "Cidades-gêmeas fronteiriças mantêm intensos fluxos cotidianos de pessoas, mercadorias e serviços através da fronteira, gerando dinâmicas econômicas integradas, sem que isso implique fusão jurídica dos municípios ou fim do controle aduaneiro. A existência de moedas distintas não impede, e frequentemente estimula, o comércio de fronteira entre as duas cidades.",
                          "dificuldade":  "dificil"
                      },
@@ -691,7 +694,8 @@
                                               "a":  "Crises políticas, econômicas e humanitárias nos países de origem, como o terremoto no Haiti e o colapso econômico na Venezuela, que impulsionaram a migração",
                                               "b":  "A busca por melhores condições climáticas por parte dos imigrantes, já que Roraima apresentaria clima semelhante ao caribenho de origem",
                                               "c":  "Um acordo bilateral entre Brasil e Venezuela que garantiu cidadania automática a venezuelanos que cruzassem a fronteira em Roraima a partir de 2010",
-                                              "d":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais"
+                                              "d":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais",
+                                              "e":  "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil"
                                           },
                          "resposta":  "a",
                          "explicacao":  "A migração haitiana intensificou-se após o terremoto de 2010, enquanto a migração venezuelana decorreu do colapso econômico e da crise política no país, levando à busca por refúgio e melhores condições no Brasil. Não houve acordo de cidadania automática, nem campanha de recrutamento direto por empresas brasileiras, e a motivação central não foi climática.",
@@ -702,12 +706,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Diante do grande fluxo de imigrantes venezuelanos concentrado em Roraima, o governo brasileiro implementou a chamada \u0027interiorização\u0027, por meio da Operação Acolhida. Essa política teve como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
+                                              "a":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
                                               "b":  "Restringir a permanência de imigrantes venezuelanos apenas ao estado de Roraima, impedindo seu deslocamento a outras unidades da federação",
-                                              "c":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
-                                              "d":  "Conceder automaticamente cidadania brasileira a todo imigrante venezuelano que aceitasse se mudar para outro estado da federação brasileira"
+                                              "c":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
+                                              "d":  "Conceder automaticamente cidadania brasileira a todo imigrante venezuelano que aceitasse se mudar para outro estado da federação brasileira",
+                                              "e":  "Concentrar o atendimento aos imigrantes em abrigos federais instalados na faixa de fronteira, sem deslocamento para outros estados"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "c",
                          "explicacao":  "A Operação Acolhida, iniciada em 2018, buscou prestar assistência humanitária e promover a interiorização voluntária de imigrantes venezuelanos para outros estados, aliviando a sobrecarga sobre Roraima e ampliando as chances de inserção social e no mercado de trabalho. A política não restringiu a permanência a Roraima, não concedeu cidadania automática, nem teve como objetivo o retorno ao país de origem.",
                          "dificuldade":  "dificil"
                      },
@@ -717,11 +722,12 @@
                          "enunciado":  "A descoberta e exploração das reservas de petróleo do pré-sal, localizadas em águas profundas do litoral brasileiro, representou:",
                          "alternativas":  {
                                               "a":  "A descoberta de reservas de gás de xisto em substituição às reservas convencionais de petróleo do país, alterando a matriz energética",
-                                              "b":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional",
+                                              "b":  "A viabilização da exportação de petróleo refinado em larga escala, com o país deixando de importar derivados a partir da década de 2010",
                                               "c":  "Uma redução da participação do petróleo na matriz energética brasileira, em favor de fontes renováveis e do gás natural",
-                                              "d":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica"
+                                              "d":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica",
+                                              "e":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "O pré-sal corresponde a reservas de petróleo e gás natural em águas muito profundas do litoral brasileiro, cuja exploração ampliou significativamente as reservas provadas do país. Não se trata de gás de xisto, não reduziu a participação do petróleo na matriz energética (ao contrário, reforçou-a), e as reservas do pré-sal estão concentradas no litoral sudeste, não na Bacia Amazônica.",
                          "dificuldade":  "media"
                      },
@@ -746,11 +752,12 @@
                          "enunciado":  "O Brasil é um dos maiores exportadores mundiais de minério de ferro, com destaque para as jazidas localizadas em Minas Gerais e no Pará (Serra dos Carajás). Essa posição de destaque no comércio internacional está relacionada, entre outros fatores, a:",
                          "alternativas":  {
                                               "a":  "Uma reserva de mercado instituída por lei que impede a entrada de minério importado no comércio internacional",
-                                              "b":  "A abundância e a qualidade das reservas brasileiras de minério de ferro, combinadas com investimentos em infraestrutura logística",
-                                              "c":  "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
-                                              "d":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul, firmado no âmbito do Mercosul em 1995"
+                                              "b":  "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
+                                              "c":  "A abundância e a qualidade das reservas brasileiras de minério de ferro, combinadas com investimentos em infraestrutura logística",
+                                              "d":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul, firmado no âmbito do Mercosul em 1995",
+                                              "e":  "A proximidade das jazidas em relação aos principais mercados consumidores asiáticos, que reduziria o custo do frete marítimo"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "O Brasil possui extensas e ricas jazidas de minério de ferro, cuja exploração foi viabilizada por investimentos em infraestrutura logística, como ferrovias e portos especializados. A posição brasileira não decorre de reserva de mercado, do esgotamento das reservas australianas (que seguem entre as maiores do mundo) ou de qualquer acordo de exclusividade regional.",
                          "dificuldade":  "media"
                      },
@@ -777,7 +784,8 @@
                                               "a":  "Um incentivo fiscal federal que restringe a instalação de parques eólicos exclusivamente aos estados nordestinos",
                                               "b":  "Condições climáticas favoráveis, com ventos constantes e intensos ao longo do ano, especialmente na faixa litorânea",
                                               "c":  "A menor densidade populacional do Nordeste em comparação às demais regiões, fator determinante para a escolha dos locais de instalação",
-                                              "d":  "Uma legislação federal que proibiu a instalação de novas hidrelétricas na região Nordeste a partir da década de 2000"
+                                              "d":  "Uma legislação federal que proibiu a instalação de novas hidrelétricas na região Nordeste a partir da década de 2000",
+                                              "e":  "O relevo predominantemente montanhoso da faixa litorânea nordestina, que aceleraria as correntes de ar sobre os parques instalados"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A região Nordeste apresenta condições naturais favoráveis à geração eólica, com ventos constantes e intensos, especialmente na faixa litorânea. Não há restrição fiscal exclusiva à região, não houve proibição legal de hidrelétricas no Nordeste, e a densidade populacional não é o fator determinante para a escolha dos parques eólicos — o regime de ventos é o fator central.",
@@ -806,7 +814,8 @@
                                               "a":  "Biocombustível renovável, alternativo aos combustíveis fósseis, amplamente utilizado na frota de veículos flex",
                                               "b":  "Insumo cuja produção foi oficialmente proibida no Brasil após a popularização dos veículos elétricos",
                                               "c":  "Fonte de energia utilizada exclusivamente na geração de eletricidade em usinas termelétricas a gás",
-                                              "d":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro"
+                                              "d":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro",
+                                              "e":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O etanol produzido a partir da cana-de-açúcar é um biocombustível renovável, alternativo à gasolina, amplamente utilizado no Brasil, sobretudo após a popularização dos veículos flex. Não é um combustível fóssil, não se restringe à geração termelétrica de eletricidade, e sua produção não foi proibida com a chegada dos veículos elétricos.",
@@ -820,7 +829,8 @@
                                               "a":  "Depende exclusivamente de reservas de gás natural para sua obtenção em escala industrial, dispensando o processo de eletrólise",
                                               "b":  "É produzido a partir da queima direta de carvão mineral em altas temperaturas, sem qualquer uso de eletricidade no processo",
                                               "c":  "Substitui integralmente a necessidade de qualquer fonte de energia elétrica em todos os setores da economia nacional e industrial",
-                                              "d":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono"
+                                              "d":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono",
+                                              "e":  "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O hidrogênio verde é obtido pela eletrólise da água usando eletricidade de fontes renováveis, sem emitir gases de efeito estufa, podendo ser usado em setores difíceis de eletrificar diretamente, como a indústria pesada e o transporte marítimo. Não substitui toda fonte elétrica, não decorre da queima de carvão, e não depende de gás natural para sua produção característica.",

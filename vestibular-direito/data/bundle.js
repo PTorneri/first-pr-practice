@@ -9164,13 +9164,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O art. 7º, inciso XXXIII, da Constituição Federal trata da proteção ao trabalho de crianças e adolescentes.",
                                  "enunciado":  "De acordo com a Constituição Federal, é vedado qualquer trabalho a menores de:",
                                  "alternativas":  {
-                                                      "a":  "16 anos, exceto trabalho noturno, perigoso ou insalubre",
-                                                      "b":  "12 anos, sem qualquer exceção admitida pela lei trabalhista",
-                                                      "c":  "14 anos, salvo na condição de aprendiz a partir dessa idade, conforme art. 7º, XXXIII, da CF",
-                                                      "d":  "18 anos, inclusive na condição de aprendiz, segundo a CLT"
+                                                      "a":  "16 anos, salvo na condição de aprendiz a partir dos 14 anos",
+                                                      "b":  "12 anos, desde que haja autorização dos responsáveis legais",
+                                                      "c":  "14 anos, idade a partir da qual se admite o trabalho em qualquer condição",
+                                                      "d":  "18 anos, inclusive na condição de aprendiz e de estagiário"
                                                   },
-                                 "resposta":  "c",
-                                 "explicacao":  "A Constituição proíbe qualquer trabalho a menores de 14 anos, admitindo a partir dessa idade apenas a condição de aprendiz; o trabalho noturno, perigoso ou insalubre é vedado a menores de 18 anos, e o trabalho comum é permitido a partir dos 16 anos."
+                                 "resposta":  "a",
+                                 "explicacao":  "A Constituição veda qualquer trabalho a menores de 16 anos, abrindo uma única exceção: a condição de aprendiz, admitida a partir dos 14. O limite dos 18 anos é outro e vale para o trabalho noturno, perigoso ou insalubre. O erro mais comum é tomar os 14 anos como idade mínima geral, quando eles marcam apenas o início da exceção do aprendiz (art. 7º, XXXIII, da CF)."
                              },
                              {
                                  "id":  "direitos-humanos-22",

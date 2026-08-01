@@ -1,0 +1,43 @@
+{
+  "_comentario": [
+    "Correção de gabarito: direitos-humanos-21.",
+    "",
+    "A questão pergunta a idade abaixo da qual é vedado QUALQUER trabalho e apontava",
+    "14 anos. O art. 7º, XXXIII da Constituição diz:",
+    "",
+    "  'proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de",
+    "   qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz,",
+    "   a partir de quatorze anos'",
+    "",
+    "São três idades distintas, e a questão confundia duas delas: 18 é o limite para",
+    "trabalho noturno/perigoso/insalubre; 16 é o limite para qualquer trabalho; 14 é a",
+    "idade a partir da qual se admite a exceção do aprendiz. A resposta é 16 anos.",
+    "",
+    "A explicação também estava errada, e ainda se contradizia: abria com 'proíbe",
+    "qualquer trabalho a menores de 14 anos' e fechava com 'o trabalho comum é permitido",
+    "a partir dos 16 anos'.",
+    "",
+    "As alternativas foram refeitas: a antiga 'a' dizia '16 anos, exceto trabalho",
+    "noturno, perigoso ou insalubre', o que inverte a regra (sugere que abaixo de 16 se",
+    "poderia trabalhar em condição perigosa). A antiga 'c', que era o gabarito, vira um",
+    "distrator legítimo — 14 anos é uma idade que aparece de fato no dispositivo, só que",
+    "como início da exceção do aprendiz, e é justamente aí que a maioria erra."
+  ],
+  "questoes": {
+    "direitos-humanos-21": {
+      "motivo": "gabarito errado: confundia o limite dos 16 anos com o início da exceção do aprendiz, aos 14",
+      "gabarito": {
+        "de": "c",
+        "para": "a",
+        "justificativa": "Art. 7º, XXXIII da CF veda qualquer trabalho a menores de 16 anos, admitindo aprendiz a partir de 14. A resposta correta é 16 anos, não 14."
+      },
+      "alternativas": {
+        "a": "16 anos, salvo na condição de aprendiz a partir dos 14 anos",
+        "b": "12 anos, desde que haja autorização dos responsáveis legais",
+        "c": "14 anos, idade a partir da qual se admite o trabalho em qualquer condição",
+        "d": "18 anos, inclusive na condição de aprendiz e de estagiário"
+      },
+      "explicacao": "A Constituição veda qualquer trabalho a menores de 16 anos, abrindo uma única exceção: a condição de aprendiz, admitida a partir dos 14. O limite dos 18 anos é outro e vale para o trabalho noturno, perigoso ou insalubre. O erro mais comum é tomar os 14 anos como idade mínima geral, quando eles marcam apenas o início da exceção do aprendiz (art. 7º, XXXIII, da CF)."
+    }
+  }
+}

@@ -46,7 +46,34 @@ foreach ($file in $files) {
     $p = $patchDaQuestao.Value
 
     if ($p.PSObject.Properties.Name -contains "resposta") {
-      throw "O patch tenta alterar a resposta de $($q.id). Reescrever distratores não pode mudar o gabarito."
+      throw "O patch tenta alterar a resposta de $($q.id) pelo campo 'resposta'. " +
+            "Reescrever distratores não pode mudar o gabarito. Se a intenção é MESMO " +
+            "corrigir um gabarito errado, use o bloco 'gabarito' (de/para/justificativa)."
+    }
+
+    # Correção deliberada de gabarito.
+    #
+    # Existe separada e é verbosa de propósito. Mudar qual alternativa é a
+    # certa é a alteração mais perigosa possível num banco de questões: se
+    # passar despercebida, o app ensina errado e ninguém nota. Por isso exige
+    # declarar de qual letra para qual, e o script confere que a questão está
+    # mesmo na letra declarada — assim um patch reaplicado ou desatualizado
+    # falha em vez de virar o gabarito de outra coisa. A justificativa fica
+    # registrada no patch, que é versionado.
+    if ($p.gabarito) {
+      $g = $p.gabarito
+      if (-not $g.de -or -not $g.para) { throw "Bloco 'gabarito' de $($q.id) precisa de 'de' e 'para'." }
+      if (-not $g.justificativa) { throw "Bloco 'gabarito' de $($q.id) precisa de 'justificativa'." }
+      if ($q.resposta -ne $g.de) {
+        throw "Gabarito de $($q.id) e '$($q.resposta)', mas o patch declara vir de '$($g.de)'. " +
+              "Nada foi alterado."
+      }
+      if (-not ($q.alternativas.PSObject.Properties.Name -contains $g.para)) {
+        throw "Questão $($q.id) não tem alternativa '$($g.para)' para virar gabarito."
+      }
+      $q.resposta = $g.para
+      $mudouArquivo = $true
+      Write-Output ("  {0,-32} GABARITO: {1} -> {2}" -f $q.id, $g.de, $g.para)
     }
 
     $letrasTocadas = @()

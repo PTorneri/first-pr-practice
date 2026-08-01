@@ -1,0 +1,118 @@
+{
+  "_comentario": [
+    "Geografia, lote 5: quinta alternativa para 19 questões — clima, ambiente, saneamento,",
+    "logística portuária e economia agrária.",
+    "",
+    "Destaques desta leva, pelo tipo de erro que capturam:",
+    "- #85 (superávit comercial): a nova descreve saldo em TRANSAÇÕES CORRENTES, que inclui",
+    "  serviços e rendas. É o conceito vizinho mais confundido em economia, e quem só decorou",
+    "  'exportou mais que importou' não distingue.",
+    "- #73 (rios voadores): a nova troca o transporte atmosférico por correntes marítimas.",
+    "- #74 (ponto de não retorno): a nova confunde o limiar ecológico da floresta com a meta",
+    "  de temperatura do Acordo de Paris.",
+    "- #80 (Porto de Santos): a nova defende a concentração portuária como vantagem de custo",
+    "  unitário — argumento econômico coerente aplicado a um enunciado que trata de gargalo.",
+    "",
+    "Letra da resposta redistribuída em 4/4/4/4/3 entre as cinco posições."
+  ],
+  "questoes": {
+    "geografia-59": {
+      "motivo": "quinta alternativa: nuclear supostamente já superior à eólica",
+      "alternativas": { "e": "Crescente e já superior à da energia eólica na geração nacional, resultado da entrada em operação de novas unidades" }
+    },
+    "geografia-66": {
+      "motivo": "quinta alternativa: nega qualquer inferência sobre eventos individuais",
+      "alternativas": { "e": "A ciência do clima relaciona o aquecimento apenas a médias de longo prazo, sem fazer inferências sobre eventos individuais" }
+    },
+    "geografia-67": {
+      "motivo": "quinta alternativa: confunde pegada de carbono com teto de emissões",
+      "alternativas": { "e": "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções" }
+    },
+    "geografia-70": {
+      "motivo": "quinta alternativa: gestão de resíduos em aterro no lugar de economia circular",
+      "alternativas": { "e": "Os resíduos gerados passam a ser destinados a aterros controlados, com tratamento prévio antes da disposição final" }
+    },
+    "geografia-71": {
+      "motivo": "quinta alternativa: inverte a ordem entre queimada e remoção da vegetação",
+      "alternativas": { "e": "A queimada corresponde à etapa que antecede a remoção mecânica da vegetação, sendo ambas fases de um mesmo processo produtivo" }
+    },
+    "geografia-72": {
+      "motivo": "quinta alternativa: erro de soma sobre os dados do gráfico",
+      "alternativas": { "e": "A soma dos quatro anos supera 40.000 km², o que indica média anual acima de 10.000 km² no período analisado" }
+    },
+    "geografia-73": {
+      "motivo": "quinta alternativa: correntes marítimas no lugar do transporte atmosférico de umidade",
+      "gabarito": { "de": "a", "para": "c", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Um fenômeno observado apenas durante a estação seca, quando a evapotranspiração da floresta é interrompida",
+        "c": "Grandes volumes de vapor d'água liberados pela floresta amazônica por evapotranspiração, transportados pelos ventos até o Centro-Sul",
+        "e": "Correntes marítimas do Atlântico que transportam umidade da costa norte até o interior do continente, alimentando as chuvas do Centro-Sul"
+      }
+    },
+    "geografia-74": {
+      "motivo": "quinta alternativa: confunde limiar ecológico com meta de temperatura do Acordo de Paris",
+      "alternativas": { "e": "Um limite de temperatura média global definido pelo Acordo de Paris, a partir do qual a floresta perderia proteção jurídica" }
+    },
+    "geografia-75": {
+      "motivo": "quinta alternativa: poluição como suposta redutora de doenças infecciosas",
+      "alternativas": { "e": "Uma redução da incidência de doenças infecciosas, já que os poluentes atmosféricos inibiriam a proliferação de vetores urbanos" }
+    },
+    "geografia-76": {
+      "motivo": "quinta alternativa: atribui a defasagem a uma suposta divisão de competências entre União e municípios",
+      "gabarito": { "de": "c", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "c": "O avanço do esgoto depende apenas de investimento municipal, enquanto o da água tratada é atribuição federal, o que explicaria a diferença observada",
+        "e": "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes"
+      }
+    },
+    "geografia-77": {
+      "motivo": "quinta alternativa: risco supostamente dissipado após o período de carência",
+      "alternativas": { "e": "Um risco concentrado no momento da aplicação, que se dissiparia após o período de carência definido para cada cultura" }
+    },
+    "geografia-78": {
+      "motivo": "quinta alternativa: confunde Reserva Legal com unidade de conservação de proteção integral",
+      "alternativas": { "e": "Assegurar que a vegetação nativa remanescente seja convertida em unidades de conservação de proteção integral" }
+    },
+    "geografia-80": {
+      "motivo": "quinta alternativa: concentração portuária defendida como vantagem de custo unitário",
+      "alternativas": { "e": "A vantagem competitiva de concentrar a exportação em poucos terminais, o que reduziria o custo unitário de operação portuária" }
+    },
+    "geografia-81": {
+      "motivo": "quinta alternativa: inverte a pauta do Arco Norte",
+      "alternativas": { "e": "Prioriza a exportação de manufaturados de alto valor agregado, deixando as commodities agrícolas para os portos do Sudeste" }
+    },
+    "geografia-83": {
+      "motivo": "quinta alternativa: proximidade das jazidas de minério como suposto fator locacional",
+      "alternativas": { "e": "A proximidade das novas plantas em relação às jazidas de minério de ferro, insumo principal da produção de veículos" }
+    },
+    "geografia-85": {
+      "motivo": "quinta alternativa: descreve saldo em transações correntes, conceito vizinho do saldo comercial",
+      "alternativas": { "e": "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens" }
+    },
+    "geografia-87": {
+      "motivo": "quinta alternativa: confunde agronegócio com classificação de grande propriedade",
+      "gabarito": { "de": "a", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Ao conjunto das propriedades rurais com área superior a quinze módulos fiscais, independentemente da atividade nelas desenvolvida",
+        "e": "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários"
+      }
+    },
+    "geografia-88": {
+      "motivo": "quinta alternativa: ganho de produtividade exagerado e dispensa da rotação",
+      "gabarito": { "de": "b", "para": "d", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Substitui integralmente a pecuária de corte por sistemas exclusivamente florestais em toda propriedade adotante, alternativa cada vez mais rara no campo brasileiro",
+        "d": "Permite aumentar a produtividade e a sustentabilidade do uso da terra já ocupada, reduzindo a necessidade de abertura de novas áreas de vegetação nativa",
+        "e": "Permite triplicar a produtividade da área em um único ciclo produtivo, dispensando a rotação entre as atividades integradas"
+      }
+    },
+    "geografia-91": {
+      "motivo": "quinta alternativa: clima tropical úmido como suposto impedimento técnico ao confinamento",
+      "gabarito": { "de": "d", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "d": "O clima tropical úmido predominante, que impediria tecnicamente o confinamento de bovinos na maior parte do território",
+        "e": "Disponibilidade histórica de grandes extensões de terra a custo relativamente baixo, o que tornou economicamente viável a criação de gado em áreas extensas"
+      }
+    }
+  }
+}

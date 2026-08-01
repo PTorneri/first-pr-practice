@@ -1,0 +1,96 @@
+{
+  "_comentario": [
+    "Geografia, lote 6 — o último: quinta alternativa para as 38 questões restantes.",
+    "Com este lote a frente fica inteira com cinco alternativas, alinhada ao estudo das bancas.",
+    "",
+    "Padrões usados, os mesmos dos lotes anteriores:",
+    "- Conceito vizinho descrito corretamente no lugar errado: em #95, a nova descreve a",
+    "  imigração de mão de obra pouco qualificada, o oposto da fuga de cérebros; em #99,",
+    "  descreve o refugiado, que tem nacionalidade e por isso não é apátrida; em #120,",
+    "  descreve conurbação no lugar de região de influência; em #136, descreve o loteamento",
+    "  irregular no lugar do cortiço; em #146, descreve o tratamento de esgoto no lugar da",
+    "  dessalinização.",
+    "- Raciocínio plausível porém falso: em #137, a nova atribui a localização periférica dos",
+    "  conjuntos habitacionais a uma exigência legal de área verde mínima; em #147, atribui o",
+    "  custo da dessalinização ao descarte da salmoura, e não ao consumo de energia.",
+    "- Inversão de relação: em #104, a nova trata o bônus demográfico como permanente; em",
+    "  #141, apresenta a cidade inteligente como redutora automática de desigualdade.",
+    "",
+    "Letra da resposta redistribuída em 8/8/8/7/7 entre as cinco posições."
+  ],
+  "questoes": {
+    "geografia-92":  { "motivo": "quinta: expansão de área como suposto fator principal", "alternativas": { "e": "Principalmente a incorporação de novas áreas de plantio, já que a produtividade por hectare teria permanecido estável no período" } },
+    "geografia-95":  { "motivo": "quinta: descreve o fluxo inverso, de mão de obra pouco qualificada",
+      "gabarito": { "de": "a", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Entrada de trabalhadores pouco qualificados vindos de países vizinhos, atraídos por vagas em setores de baixa remuneração",
+        "e": "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho"
+      } },
+    "geografia-99":  { "motivo": "quinta: descreve o refugiado, que possui nacionalidade", "alternativas": { "e": "Deixou seu país de origem por fundado temor de perseguição, mantendo, porém, a nacionalidade de origem" } },
+    "geografia-102": { "motivo": "quinta: inverte a leitura das pirâmides", "alternativas": { "e": "A Pirâmide 1 ao Brasil e a Pirâmide 2 ao Japão, dado o alargamento da base observada na primeira" } },
+    "geografia-103": { "motivo": "quinta: confunde bônus demográfico com crescimento populacional total", "alternativas": { "e": "A população total do país cresce em ritmo acelerado, ampliando simultaneamente todas as faixas etárias da pirâmide" } },
+    "geografia-104": { "motivo": "quinta: trata o bônus como condição permanente", "alternativas": { "e": "Tende a se manter de forma permanente uma vez alcançado, já que decorre da estrutura etária consolidada do país" } },
+    "geografia-105": { "motivo": "quinta: 2,0 é o valor intuitivo (substituir o casal) e ignora a mortalidade antes da idade reprodutiva — as alternativas aqui são só números, então a nova acompanha esse formato", "alternativas": { "e": "2,0 filhos por mulher" } },
+    "geografia-106": { "motivo": "quinta: confunde queda da fecundidade com queda imediata da população", "alternativas": { "e": "A queda da fecundidade abaixo da reposição implica redução imediata da população total, já observada no país" } },
+    "geografia-107": { "motivo": "quinta: transição energética sem qualquer efeito sobre o emprego", "alternativas": { "e": "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções" } },
+    "geografia-109": { "motivo": "quinta: atribui a precariedade apenas ao relevo", "alternativas": { "e": "Ao relevo acidentado dessas áreas, único fator a inviabilizar tecnicamente a instalação de redes de saneamento" } },
+    "geografia-110": { "motivo": "quinta: atribui as enchentes apenas ao aumento das chuvas", "alternativas": { "e": "O aumento isolado do volume de chuvas nas últimas décadas, sem relação com a forma de ocupação do solo urbano" } },
+    "geografia-111": { "motivo": "quinta: atribui a poluição dos rios à mineração a montante",
+      "gabarito": { "de": "d", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "d": "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
+        "e": "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado"
+      } },
+    "geografia-112": { "motivo": "quinta: confunde correlação com ausência de relação", "alternativas": { "e": "A diferença observada decorre apenas do acaso amostral, não sendo possível relacioná-la às condições de saneamento" } },
+    "geografia-113": { "motivo": "quinta: atribui a diferença apenas ao tamanho da área", "alternativas": { "e": "Difere do lixão apenas pela extensão da área ocupada, sendo idênticos os métodos de disposição dos resíduos" } },
+    "geografia-114": { "motivo": "quinta: concentra a responsabilidade apenas no poder público", "alternativas": { "e": "A responsabilidade pelo destino final dos resíduos cabe ao poder público municipal, sem obrigações para fabricantes e comerciantes" } },
+    "geografia-115": { "motivo": "quinta: reduz a agricultura familiar à produção de commodities", "alternativas": { "e": "Produção majoritária das commodities agrícolas exportadas pelo país, como soja e milho destinados ao mercado externo" } },
+    "geografia-117": { "motivo": "quinta: atribui a ociosidade a impedimento legal de uso", "alternativas": { "e": "Restrições legais que impedem o uso residencial de imóveis situados em áreas centrais, obrigando sua manutenção sem ocupação" } },
+    "geografia-118": { "motivo": "quinta: confunde o instrumento com desapropriação imediata", "alternativas": { "e": "Promover a desapropriação imediata dos imóveis ociosos, transferindo-os ao patrimônio municipal sem etapas prévias" } },
+    "geografia-119": { "motivo": "quinta: define hierarquia urbana apenas por população", "alternativas": { "e": "A posição de uma cidade na hierarquia é definida apenas por seu número de habitantes, sem considerar os serviços que oferece" } },
+    "geografia-120": { "motivo": "quinta: descreve conurbação no lugar de região de influência", "alternativas": { "e": "Conurbação, em que os tecidos urbanos de cidades vizinhas se tornam fisicamente contínuos ao longo do crescimento" } },
+    "geografia-123": { "motivo": "quinta: atribui a subutilização à ausência de rios navegáveis",
+      "gabarito": { "de": "c", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "c": "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
+        "e": "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas"
+      } },
+    "geografia-125": { "motivo": "quinta: reduz o Custo Brasil ao câmbio", "alternativas": { "e": "A valorização cambial do real frente ao dólar, apontada como causa isolada da perda de competitividade da produção nacional" } },
+    "geografia-130": { "motivo": "quinta: reduz o direito à cidade ao direito de propriedade", "alternativas": { "e": "O direito de adquirir e manter a propriedade de um imóvel urbano é assegurado a todos, sendo essa a base do conceito" } },
+    "geografia-131": { "motivo": "quinta: confunde desertificação com avanço natural de deserto existente", "alternativas": { "e": "Avanço das areias de um deserto já existente sobre áreas vizinhas, processo determinado por dinâmicas naturais de longo prazo" } },
+    "geografia-132": { "motivo": "quinta: afirma distribuição homogênea da degradação no semiárido",
+      "gabarito": { "de": "b", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Distribui-se de maneira homogênea por todo o semiárido, já que a região partilha as mesmas condições climáticas em toda a sua extensão",
+        "e": "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica"
+      } },
+    "geografia-133": { "motivo": "quinta: mantém a lógica de transposição como única resposta", "alternativas": { "e": "A ampliação de obras de transposição e de grandes açudes como via principal, mantendo a lógica das políticas anteriores" } },
+    "geografia-136": { "motivo": "quinta: descreve loteamento irregular no lugar do cortiço", "alternativas": { "e": "Consiste no parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico regular junto ao município" } },
+    "geografia-137": { "motivo": "quinta: atribui a periferização a uma exigência legal de área verde", "alternativas": { "e": "Uma exigência legal de área verde mínima por unidade habitacional, que inviabilizaria empreendimentos em terrenos centrais" } },
+    "geografia-138": { "motivo": "quinta: transporte coletivo apresentado como substituto integral do individual", "alternativas": { "e": "Eliminar a circulação de automóveis particulares nas áreas centrais, condição apontada como necessária para o sistema funcionar" } },
+    "geografia-139": { "motivo": "quinta: inverte a leitura da repartição modal", "alternativas": { "e": "A Cidade A tende a apresentar menores níveis de emissão, já que a maior participação do transporte individual reduz o número de viagens" } },
+    "geografia-140": { "motivo": "quinta: restringe o ODS 11 ao saneamento", "alternativas": { "e": "A universalização do saneamento básico como meta única do objetivo, sem previsão de outras dimensões da vida urbana" } },
+    "geografia-141": { "motivo": "quinta: apresenta a cidade inteligente como redutora automática de desigualdade", "alternativas": { "e": "A adoção de tecnologia urbana reduz por si só as desigualdades socioespaciais, independentemente de onde os sistemas são instalados" } },
+    "geografia-142": { "motivo": "quinta: atribui o esvaziamento à mecanização apenas", "alternativas": { "e": "Crescimento populacional acelerado, decorrente do retorno de famílias que deixaram as metrópoles em busca de menor custo de vida" } },
+    "geografia-144": { "motivo": "quinta: atribui a escassez urbana apenas ao consumo industrial",
+      "gabarito": { "de": "d", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "d": "O consumo industrial concentrado nas regiões metropolitanas, responsável isoladamente pela redução da água disponível à população",
+        "e": "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água"
+      } },
+    "geografia-146": { "motivo": "quinta: descreve tratamento de esgoto no lugar da dessalinização", "alternativas": { "e": "Um processo que remove matéria orgânica e agentes patogênicos de águas residuais, devolvendo-as tratadas aos cursos d'água" } },
+    "geografia-147": { "motivo": "quinta: atribui o custo ao descarte da salmoura, e não à energia", "alternativas": { "e": "O descarte da salmoura resultante exige transporte terrestre a longas distâncias, sendo esse o principal componente do custo" } },
+    "geografia-148": { "motivo": "quinta: confunde agricultura de precisão com transgenia",
+      "gabarito": { "de": "a", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "a": "Desenvolver variedades geneticamente modificadas resistentes a pragas, dispensando o monitoramento das condições do solo",
+        "e": "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas"
+      } },
+    "geografia-150": { "motivo": "quinta: apresenta produção e conservação como objetivos incompatíveis",
+      "gabarito": { "de": "c", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "c": "Escolher entre manter a posição de grande produtor de commodities ou conservar os biomas nativos, objetivos tidos como incompatíveis entre si",
+        "e": "Conciliar o papel do Brasil como um dos maiores produtores mundiais de commodities agrícolas com a necessidade de conter o desmatamento de biomas nativos, como o Cerrado e a Amazônia"
+      } }
+  }
+}

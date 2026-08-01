@@ -485,7 +485,8 @@
                                               "a":  "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988",
                                               "b":  "Uma sub-representação relativa de estados populosos e uma super-representação relativa de estados menos populosos, dados os limites mínimo e máximo de cadeiras",
                                               "c":  "Uma vantagem sistemática para os estados do Sudeste, por concentrarem a maior parte das cadeiras mínimas garantidas a cada unidade",
-                                              "d":  "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva"
+                                              "d":  "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva",
+                                              "e":  "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados"
                                           },
                          "resposta":  "b",
                          "explicacao":  "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país."
@@ -496,11 +497,12 @@
                          "enunciado":  "Esse campo de estudo busca, sobretudo, analisar:",
                          "alternativas":  {
                                               "a":  "A localização física das sedes administrativas dos partidos políticos registrados no Tribunal Superior Eleitoral, sem relação com o eleitorado",
-                                              "b":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
+                                              "b":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores",
                                               "c":  "Exclusivamente a trajetória pessoal de candidatos a cargos eletivos, sem relação com a distribuição territorial dos votos ou fatores regionais",
-                                              "d":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores"
+                                              "d":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
+                                              "e":  "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, identificando padrões territoriais do comportamento eleitoral. Não se limita a aspectos jurídicos, não trata da localização de sedes partidárias, nem se resume à biografia de candidatos.",
                          "dificuldade":  "media"
                      },
@@ -510,11 +512,12 @@
                          "enunciado":  "O fenômeno da conurbação, observado por exemplo na Região Metropolitana de São Paulo, refere-se a:",
                          "alternativas":  {
                                               "a":  "Separação administrativa entre bairros de um mesmo município, criada para facilitar a cobrança de tributos",
-                                              "b":  "Fusão física entre duas ou mais cidades vizinhas que crescem até seus tecidos urbanos se tornarem contínuos",
+                                              "b":  "Deslocamento diário de trabalhadores entre municípios vizinhos de uma mesma região metropolitana, sem fusão de seus tecidos urbanos",
                                               "c":  "Criação de uma nova capital administrativa para substituir uma metrópole congestionada e superpovoada",
-                                              "d":  "Redução da população urbana em favor do campo, observada em municípios vizinhos a uma capital em expansão"
+                                              "d":  "Redução da população urbana em favor do campo, observada em municípios vizinhos a uma capital em expansão",
+                                              "e":  "Fusão física entre duas ou mais cidades vizinhas que crescem até seus tecidos urbanos se tornarem contínuos"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "A conurbação ocorre quando o crescimento urbano de municípios vizinhos se funde, formando uma malha urbana contínua, como entre São Paulo e municípios como Guarulhos e Osasco. As demais alternativas descrevem processos distintos (divisão tributária interna, êxodo urbano, mudança de capital) que não correspondem ao conceito de conurbação.",
                          "dificuldade":  "media"
                      },
@@ -526,7 +529,8 @@
                                               "a":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
                                               "b":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas",
                                               "c":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais",
-                                              "d":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização"
+                                              "d":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
+                                              "e":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
@@ -540,7 +544,8 @@
                                               "a":  "Abundância de terrenos baratos nas áreas centrais, que reduziria o custo de construção em altura nesses bairros",
                                               "b":  "Uma exigência legal que obriga novas construções a superarem determinada altura mínima nos centros urbanos",
                                               "c":  "Ausência de demanda por moradia nas áreas centrais, o que levou construtoras a investir em edifícios como reserva",
-                                              "d":  "Valorização do solo urbano nas áreas centrais e bem localizadas, que estimula o aproveitamento em altura"
+                                              "d":  "Valorização do solo urbano nas áreas centrais e bem localizadas, que estimula o aproveitamento em altura",
+                                              "e":  "A escassez de mão de obra para obras horizontais de grande extensão, que teria tornado a construção em altura a alternativa mais viável"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Em áreas urbanas valorizadas e bem servidas por infraestrutura, o alto preço do solo estimula a construção vertical, pois maximiza o aproveitamento de terrenos caros. Não há exigência legal de altura mínima, os terrenos centrais valorizados não são baratos, e a verticalização decorre da demanda por moradia bem localizada, não de sua ausência.",
@@ -554,7 +559,8 @@
                                               "a":  "As áreas urbanas, com grande concentração de asfalto, concreto e pouca vegetação, retêm e irradiam mais calor do que áreas rurais ou arborizadas ao redor",
                                               "b":  "As cidades brasileiras estão, em sua maioria, situadas em altitudes mais baixas do que suas áreas rurais vizinhas, o que explicaria sua temperatura mais alta",
                                               "c":  "O campo produz mais calor do que as cidades devido à decomposição de matéria orgânica na agricultura, processo mais intenso do que a retenção térmica do asfalto",
-                                              "d":  "As cidades recebem, em média, mais radiação solar direta do que as áreas rurais vizinhas, independentemente do tipo de superfície ou cobertura vegetal"
+                                              "d":  "As cidades recebem, em média, mais radiação solar direta do que as áreas rurais vizinhas, independentemente do tipo de superfície ou cobertura vegetal",
+                                              "e":  "A concentração de veículos e indústrias eleva o teor de ozônio na baixa atmosfera, sendo essa a causa direta da diferença de temperatura"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Superfícies impermeabilizadas como asfalto e concreto absorvem e retêm mais calor do que a vegetação, e a escassez de áreas verdes reduz a evapotranspiração que ajudaria a resfriar o ambiente. A radiação solar recebida não difere significativamente entre cidade e campo; o campo não produz mais calor por decomposição orgânica; e a diferença de temperatura não decorre de altitude, mas do tipo de superfície e ocupação do solo.",
@@ -566,11 +572,12 @@
                          "enunciado":  "O movimento pendular, estudado pela geografia urbana, refere-se a:",
                          "alternativas":  {
                                               "a":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados, sem intenção de retornar ao país de origem",
-                                              "b":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia",
+                                              "b":  "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
                                               "c":  "Migração sazonal de trabalhadores rurais entre diferentes regiões do país conforme o calendário de colheitas de cada safra agrícola",
-                                              "d":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum"
+                                              "d":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum",
+                                              "e":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "O movimento pendular caracteriza-se pelo deslocamento diário (ida e volta) de pessoas entre seu município de residência e outro, geralmente para trabalho ou estudo. As demais alternativas descrevem outros fenômenos migratórios (migração definitiva, migração sazonal agrícola, deslocamento de refugiados) que não envolvem o retorno diário característico do movimento pendular.",
                          "dificuldade":  "media"
                      },
@@ -582,7 +589,8 @@
                                               "a":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos",
                                               "b":  "Uma política de incentivo fiscal que atraiu indústrias de alta tecnologia para esses municípios periféricos, gerando empregos locais qualificados, padrão observado desde a década de 1990",
                                               "c":  "Uma concentração de sedes de grandes empresas nesses municípios, que atraem moradores de toda a região metropolitana em busca de emprego local",
-                                              "d":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários"
+                                              "d":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários",
+                                              "e":  "Um processo de desconcentração industrial planejado, que transferiu plantas produtivas do município-polo para a periferia metropolitana"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Cidades-dormitório concentram grande parte de sua população trabalhadora, mas oferecem poucas oportunidades de emprego e serviços especializados, refletindo a segregação socioespacial que obriga a deslocamentos pendulares diários. Não há concentração de sedes empresariais, nem oferta de emprego equivalente ao polo metropolitano, nem indústrias de alta tecnologia atraídas por incentivo fiscal nesses municípios.",
@@ -596,7 +604,8 @@
                                               "a":  "Queda constante do valor dos imóveis em áreas centrais, causada pela saída de comércios, serviços e moradores tradicionais do bairro",
                                               "b":  "Valorização imobiliária de uma área, associada à chegada de moradores de maior renda e à expulsão dos moradores originais de menor renda",
                                               "c":  "Construção de conjuntos habitacionais populares em bairros nobres, financiada integralmente por incorporadoras privadas do setor imobiliário",
-                                              "d":  "Uma política pública que reserva legalmente bairros centrais para moradia exclusiva de famílias de baixa renda, vedando qualquer outro uso"
+                                              "d":  "Uma política pública que reserva legalmente bairros centrais para moradia exclusiva de famílias de baixa renda, vedando qualquer outro uso",
+                                              "e":  "Ocupação de imóveis centrais desocupados por movimentos de moradia, que passam a reivindicar a função social da propriedade urbana"
                                           },
                          "resposta":  "b",
                          "explicacao":  "A gentrificação é o processo pelo qual bairros populares atraem investimentos, comércios e moradores de maior poder aquisitivo, elevando o custo de vida e o preço dos imóveis a ponto de expulsar, direta ou indiretamente, a população originalmente residente. As demais alternativas descrevem processos opostos ou não relacionados: reserva legal para baixa renda, queda de valor imobiliário, ou construção popular em bairros nobres.",
@@ -625,7 +634,8 @@
                                               "a":  "Uma determinação legal que limita o crescimento populacional das capitais estaduais brasileiras desde meados da década de 1990",
                                               "b":  "Uma redução da oferta de empregos industriais nas cidades médias, que passaram a depender exclusivamente do setor primário e do comércio local",
                                               "c":  "Busca por melhor qualidade de vida, menor custo e problemas de mobilidade e segurança nas grandes metrópoles, associada à desconcentração de atividades econômicas",
-                                              "d":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas"
+                                              "d":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas",
+                                              "e":  "A transferência de capitais estaduais para cidades do interior, política adotada por diversos estados a partir dos anos 2000"
                                           },
                          "resposta":  "c",
                          "explicacao":  "Cidades médias vêm atraindo moradores e empresas que buscam fugir de problemas típicos das grandes metrópoles, como trânsito e alto custo de vida, ao mesmo tempo em que a desconcentração de atividades amplia oportunidades nesses centros. Não existe limite legal ao crescimento das capitais, as cidades médias não perderam empregos industriais em favor do setor primário, e a população total do país não está em queda.",

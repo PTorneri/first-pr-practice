@@ -1,0 +1,90 @@
+{
+  "_comentario": [
+    "Geografia, lote 3: quinta alternativa para mais 10 questões, quase todas de geografia",
+    "urbana e eleitoral.",
+    "",
+    "Este bloco é o terreno mais fértil para o tipo de distrator que realmente separa quem",
+    "sabe: os conceitos são vizinhos e frequentemente trocados entre si. Três das novas são",
+    "exatamente isso, e cada uma descreve corretamente OUTRO conceito do próprio bloco:",
+    "- em geografia-37 (conurbação), a nova descreve movimento pendular;",
+    "- em geografia-41 (movimento pendular), descreve a periferização por valorização;",
+    "- em geografia-43 (gentrificação), descreve ocupação de imóveis por movimentos de moradia.",
+    "Quem decorou os nomes soltos erra; quem entendeu o que cada um significa, não.",
+    "",
+    "As demais testam raciocínio plausível porém incorreto — como em geografia-40, em que a",
+    "nova atribui a ilha de calor à poluição atmosférica, e não às propriedades térmicas das",
+    "superfícies. É um erro comum justamente porque a poluição de fato existe no cenário.",
+    "",
+    "Critérios de sempre: sem absolutismo, comprimento e forma próximos aos das demais,",
+    "letra da resposta em 2 para cada posição."
+  ],
+  "questoes": {
+    "geografia-35": {
+      "motivo": "quinta alternativa: suposta correção automática da proporcionalidade a cada censo",
+      "alternativas": {
+        "e": "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados"
+      }
+    },
+    "geografia-36": {
+      "motivo": "quinta alternativa: confunde geografia eleitoral com previsão estatística de resultados",
+      "gabarito": { "de": "b", "para": "d", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores",
+        "d": "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
+        "e": "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado"
+      }
+    },
+    "geografia-37": {
+      "motivo": "quinta alternativa: descreve movimento pendular, conceito vizinho da conurbação",
+      "gabarito": { "de": "b", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Deslocamento diário de trabalhadores entre municípios vizinhos de uma mesma região metropolitana, sem fusão de seus tecidos urbanos",
+        "e": "Fusão física entre duas ou mais cidades vizinhas que crescem até seus tecidos urbanos se tornarem contínuos"
+      }
+    },
+    "geografia-38": {
+      "motivo": "quinta alternativa: crescimento das cidades médias como suposta definição de macrocefalia",
+      "alternativas": {
+        "e": "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população"
+      }
+    },
+    "geografia-39": {
+      "motivo": "quinta alternativa: escassez de mão de obra como suposta causa da verticalização",
+      "alternativas": {
+        "e": "A escassez de mão de obra para obras horizontais de grande extensão, que teria tornado a construção em altura a alternativa mais viável"
+      }
+    },
+    "geografia-40": {
+      "motivo": "quinta alternativa: atribui a ilha de calor à poluição, e não às superfícies",
+      "alternativas": {
+        "e": "A concentração de veículos e indústrias eleva o teor de ozônio na baixa atmosfera, sendo essa a causa direta da diferença de temperatura"
+      }
+    },
+    "geografia-41": {
+      "motivo": "quinta alternativa: descreve periferização por valorização, não o movimento pendular",
+      "gabarito": { "de": "b", "para": "e", "justificativa": "Redistribuição de letra ao acrescentar a quinta alternativa. O texto da correta é o mesmo, apenas mudou de posição." },
+      "alternativas": {
+        "b": "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
+        "e": "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia"
+      }
+    },
+    "geografia-42": {
+      "motivo": "quinta alternativa: desconcentração industrial planejada como suposta origem das cidades-dormitório",
+      "alternativas": {
+        "e": "Um processo de desconcentração industrial planejado, que transferiu plantas produtivas do município-polo para a periferia metropolitana"
+      }
+    },
+    "geografia-43": {
+      "motivo": "quinta alternativa: descreve ocupação por movimentos de moradia, fenômeno oposto à gentrificação",
+      "alternativas": {
+        "e": "Ocupação de imóveis centrais desocupados por movimentos de moradia, que passam a reivindicar a função social da propriedade urbana"
+      }
+    },
+    "geografia-45": {
+      "motivo": "quinta alternativa: transferência de capitais estaduais como suposta causa",
+      "alternativas": {
+        "e": "A transferência de capitais estaduais para cidades do interior, política adotada por diversos estados a partir dos anos 2000"
+      }
+    }
+  }
+}

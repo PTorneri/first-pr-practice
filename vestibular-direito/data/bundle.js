@@ -1385,12 +1385,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "",
                                         "enunciado":  "Considere as afirmativas sobre a Tarifa Externa Comum (TEC) do Mercosul e sua classificação como bloco econômico:\n\nI. A TEC padroniza a alíquota de importação cobrada pelos países-membros sobre produtos vindos de fora do bloco.\nII. A existência de diversas exceções nacionais à TEC faz do Mercosul uma união aduaneira imperfeita, ainda distante de um mercado comum pleno.\nIII. Por já adotar uma tarifa externa comum, ainda que incompleta, o Mercosul equivale, do ponto de vista da integração econômica, a uma união monetária.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "I e II, apenas",
-                                                             "b":  "I, II e III",
-                                                             "c":  "II e III, apenas",
-                                                             "d":  "I e III, apenas"
+                                                             "a":  "I, II e III",
+                                                             "b":  "II e III, apenas",
+                                                             "c":  "I e III, apenas",
+                                                             "d":  "I e II, apenas",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "d",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a função da TEC e a classificação do Mercosul como união aduaneira imperfeita, dada a persistência de exceções nacionais. A afirmativa III é falsa: uma união aduaneira, mesmo incompleta, é um estágio de integração bem anterior a uma união monetária, que exigiria moeda comum e política monetária unificada, o que o Mercosul não possui."
                                     },
                                     {
@@ -1425,11 +1426,12 @@ window.QUESTION_BANKS = {
                                         "enunciado":  "Considere as afirmativas sobre agrupamentos de economias emergentes como o BRICS, em comparação com blocos econômicos como o Mercosul ou a União Europeia:\n\nI. O BRICS funciona principalmente como fórum de cooperação e concertação política entre potências emergentes, sem o mesmo grau de institucionalização econômica formal.\nII. Diferentemente do Mercosul, o BRICS não possui tarifa externa comum nem união aduaneira consolidada entre seus membros.\nIII. Por reunir economias emergentes de peso considerável, o BRICS já opera como uma união monetária, com moeda própria compartilhada entre seus membros.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
                                                              "a":  "I, II e III",
-                                                             "b":  "I e II, apenas",
-                                                             "c":  "I, apenas",
-                                                             "d":  "II e III, apenas"
+                                                             "b":  "I, apenas",
+                                                             "c":  "II e III, apenas",
+                                                             "d":  "II, apenas",
+                                                             "e":  "I e II, apenas"
                                                          },
-                                        "resposta":  "b",
+                                        "resposta":  "e",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente o caráter do BRICS como espaço de diálogo político e financeiro entre economias emergentes, sem o grau de institucionalização econômica de blocos como o Mercosul. A afirmativa III é falsa: o BRICS não possui moeda própria compartilhada nem união monetária entre seus membros, apesar de debates sobre mecanismos financeiros alternativos."
                                     },
                                     {
@@ -1476,12 +1478,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Analistas de relações internacionais frequentemente contrastam períodos históricos em que o poder mundial se concentra em uma única potência com períodos em que diversos polos de poder disputam influência global e regional.",
                                         "enunciado":  "Considere as afirmativas sobre as configurações de poder no sistema internacional:\n\nI. A unipolaridade caracteriza-se pela concentração do poder político, econômico e militar em uma única potência hegemônica.\nII. A multipolaridade caracteriza-se pela existência de diversos centros de poder relevantes, sem que um único polo exerça hegemonia incontestável.\nIII. A bipolaridade, observada durante a Guerra Fria, e a multipolaridade descrevem exatamente a mesma distribuição de poder entre os Estados.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "I e III, apenas",
-                                                             "b":  "II e III, apenas",
-                                                             "c":  "I, II e III",
-                                                             "d":  "I e II, apenas"
+                                                             "a":  "I e II, apenas",
+                                                             "b":  "I e III, apenas",
+                                                             "c":  "II e III, apenas",
+                                                             "d":  "I, II e III",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "d",
+                                        "resposta":  "a",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a unipolaridade e a multipolaridade como configurações distintas de distribuição de poder internacional. A afirmativa III é falsa: a bipolaridade (dois polos de poder, como na Guerra Fria) e a multipolaridade (múltiplos polos) descrevem distribuições de poder distintas entre si, não sendo sinônimas."
                                     },
                                     {
@@ -1606,12 +1609,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Conflitos armados, perseguições políticas e desastres ambientais forçam milhões de pessoas a deixar seus países todos os anos, buscando proteção em Estados vizinhos ou mais distantes.",
                                         "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado foge de fundado temor de perseguição, conflito armado ou grave violação de direitos, tendo direito a proteção internacional específica.\nII. O migrante econômico se desloca voluntariamente em busca de melhores oportunidades, sem o mesmo amparo jurídico internacional automático do refugiado.\nIII. Um refugiado reconhecido permanece, em caráter permanente e por definição jurídica, impedido de solicitar a cidadania do país que lhe concedeu acolhida.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "I e II, apenas",
-                                                             "b":  "II e III, apenas",
+                                                             "a":  "II e III, apenas",
+                                                             "b":  "I e II, apenas",
                                                              "c":  "I, II e III",
-                                                             "d":  "I e III, apenas"
+                                                             "d":  "I e III, apenas",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "b",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção jurídica entre refugiado e migrante econômico, reconhecida por convenções internacionais. A afirmativa III é falsa: nada impede, em princípio, que um refugiado solicite e obtenha a cidadania do país de acolhida ao longo do tempo, inclusive como parte do processo de integração local, uma das soluções duradouras reconhecidas para a situação de refugiados."
                                     },
                                     {
@@ -1647,10 +1651,11 @@ window.QUESTION_BANKS = {
                                         "alternativas":  {
                                                              "a":  "I, II e III",
                                                              "b":  "I, apenas",
-                                                             "c":  "II e III, apenas",
-                                                             "d":  "I e II, apenas"
+                                                             "c":  "I e II, apenas",
+                                                             "d":  "II e III, apenas",
+                                                             "e":  "II, apenas"
                                                          },
-                                        "resposta":  "d",
+                                        "resposta":  "c",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza restrita e não vinculante de fóruns como G7 e G20. A afirmativa III é falsa: esses fóruns não substituem o Conselho de Segurança da ONU, que possui prerrogativas jurídicas específicas, como a autorização do uso da força, que não são exercidas por fóruns informais de coordenação econômica."
                                     },
                                     {
@@ -1871,7 +1876,8 @@ window.QUESTION_BANKS = {
                                                              "a":  "II e III, apenas",
                                                              "b":  "I, II e III",
                                                              "c":  "I e III, apenas",
-                                                             "d":  "I e II, apenas"
+                                                             "d":  "I e II, apenas",
+                                                             "e":  "I, apenas"
                                                          },
                                         "resposta":  "d",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente o conteúdo e a controvérsia em torno da R2P. A afirmativa III é falsa: a R2P é um princípio debatido a partir do início dos anos 2000, sem previsão na Carta de 1945, e sua aplicação prática permanece incerta e seletiva. O próprio debate remete a uma preocupação de fundo já formulada por autores como Hannah Arendt sobre os limites da soberania estatal diante de regimes que voltam o aparato do Estado contra a própria população — questão central de sua reflexão sobre o totalitarismo.",
@@ -1925,11 +1931,12 @@ window.QUESTION_BANKS = {
                                         "enunciado":  "Considere as afirmativas sobre o modelo de decisão por consenso e não interferência adotado por esse bloco regional do Sudeste Asiático:\n\nI. Esse modelo favorece a adesão de países com grande diversidade política e econômica, ao respeitar a soberania decisória de cada membro.\nII. Esse mesmo modelo pode dificultar respostas rápidas e unificadas do bloco diante de crises regionais que exigem posicionamento conjunto.\nIII. Esse modelo de decisão por consenso torna o bloco mais ágil do que blocos com maior institucionalização supranacional, como a União Europeia.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
                                                              "a":  "I, II e III",
-                                                             "b":  "I e II, apenas",
-                                                             "c":  "I, apenas",
-                                                             "d":  "II e III, apenas"
+                                                             "b":  "I, apenas",
+                                                             "c":  "II e III, apenas",
+                                                             "d":  "II, apenas",
+                                                             "e":  "I e II, apenas"
                                                          },
-                                        "resposta":  "b",
+                                        "resposta":  "e",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente as vantagens e os limites do modelo de consenso e não interferência. A afirmativa III é falsa: esse modelo tende a tornar as decisões mais lentas, e não mais ágeis, já que qualquer membro pode, na prática, travar decisões que não lhe sejam favoráveis, ao contrário de blocos com elementos de supranacionalidade.",
                                         "dificuldade":  "media"
                                     },
@@ -1938,12 +1945,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Enquanto um bloco econômico asiático mantém decisões condicionadas ao consenso entre seus membros e preserva a soberania decisória de cada Estado, outro bloco, localizado na Europa, criou instituições cujas normas podem prevalecer sobre a legislação nacional dos países-membros.",
                                         "enunciado":  "Considere as afirmativas sobre a diferença estrutural entre um modelo de integração regional intergovernamental, como o do bloco asiático descrito, e um modelo com elementos de supranacionalidade, como o da União Europeia:\n\nI. No modelo intergovernamental, as decisões dependem do consenso entre Estados soberanos, que mantêm plena autonomia decisória.\nII. No modelo com elementos de supranacionalidade, normas de instituições comuns podem prevalecer sobre a legislação nacional dos países-membros.\nIII. Ambos os modelos de integração regional produzem exatamente o mesmo grau de vinculação jurídica sobre os Estados-membros.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "II e III, apenas",
-                                                             "b":  "I, II e III",
-                                                             "c":  "I e III, apenas",
-                                                             "d":  "I e II, apenas"
+                                                             "a":  "I e II, apenas",
+                                                             "b":  "II e III, apenas",
+                                                             "c":  "I, II e III",
+                                                             "d":  "I e III, apenas",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "d",
+                                        "resposta":  "a",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção entre um modelo intergovernamental, baseado em consenso, e um modelo com elementos de supranacionalidade, no qual normas comuns podem prevalecer sobre a legislação doméstica. A afirmativa III é falsa: o grau de vinculação jurídica sobre os Estados-membros é justamente o que diferencia os dois modelos, sendo bem maior no caso da supranacionalidade.",
                                         "dificuldade":  "dificil"
                                     },
@@ -2009,11 +2017,12 @@ window.QUESTION_BANKS = {
                                         "enunciado":  "Considere as afirmativas sobre o processo de saída de um país-membro de um bloco de integração econômica profunda, como no caso analisado:\n\nI. Esse tipo de processo costuma exigir anos de negociação para definir novas regras de comércio, circulação de pessoas e cooperação regulatória entre as partes.\nII. Esse processo evidencia os custos de transição e a complexidade jurídica associados à saída de blocos com alto grau de integração.\nIII. A saída de um país-membro obriga automaticamente os demais integrantes do bloco a também se retirarem em seguida.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
                                                              "a":  "II e III, apenas",
-                                                             "b":  "I, apenas",
-                                                             "c":  "I e II, apenas",
-                                                             "d":  "I, II e III"
+                                                             "b":  "I e II, apenas",
+                                                             "c":  "I, apenas",
+                                                             "d":  "I, II e III",
+                                                             "e":  "II, apenas"
                                                          },
-                                        "resposta":  "c",
+                                        "resposta":  "b",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente os desafios de desintegração de blocos com alto grau de integração econômica. A afirmativa III é falsa: a saída de um país-membro não obriga os demais integrantes a também se retirarem, sendo uma decisão soberana e individual de cada Estado-membro.",
                                         "dificuldade":  "dificil"
                                     },
@@ -2150,10 +2159,11 @@ window.QUESTION_BANKS = {
                                         "alternativas":  {
                                                              "a":  "I, II e III",
                                                              "b":  "I e III, apenas",
-                                                             "c":  "II e III, apenas",
-                                                             "d":  "I e II, apenas"
+                                                             "c":  "I e II, apenas",
+                                                             "d":  "II e III, apenas",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "d",
+                                        "resposta":  "c",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente o artigo 5 do tratado fundador da OTAN, que estabelece o princípio de defesa coletiva. A afirmativa III é falsa: a União Europeia e o Mercosul são blocos de integração essencialmente econômica, sem uma cláusula de defesa coletiva automática equivalente à da OTAN.",
                                         "dificuldade":  "media"
                                     },
@@ -2431,7 +2441,8 @@ window.QUESTION_BANKS = {
                                                              "a":  "I, apenas",
                                                              "b":  "II e III, apenas",
                                                              "c":  "I, II e III",
-                                                             "d":  "I e II, apenas"
+                                                             "d":  "I e II, apenas",
+                                                             "e":  "II, apenas"
                                                          },
                                         "resposta":  "d",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e o alcance das sanções secundárias. A afirmativa III é falsa: sanções secundárias são, em regra, medidas unilaterais impostas por um país ou bloco, sem depender de aprovação do Conselho de Segurança da ONU, o que é justamente uma das razões de sua controvérsia no direito internacional.",
@@ -2500,10 +2511,11 @@ window.QUESTION_BANKS = {
                                         "alternativas":  {
                                                              "a":  "I e III, apenas",
                                                              "b":  "I, II e III",
-                                                             "c":  "I e II, apenas",
-                                                             "d":  "II e III, apenas"
+                                                             "c":  "II e III, apenas",
+                                                             "d":  "I, apenas",
+                                                             "e":  "I e II, apenas"
                                                          },
-                                        "resposta":  "c",
+                                        "resposta":  "e",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a crítica de países em desenvolvimento aos subsídios agrícolas e a centralidade do tema nas negociações da OMC. A afirmativa III é falsa: o tema permanece controverso e sem consenso pleno, como evidenciado pelo próprio impasse prolongado da Rodada Doha, iniciada em 2001 e ainda sem conclusão plena.",
                                         "dificuldade":  "media"
                                     },
@@ -2694,12 +2706,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "O derretimento de gelo em uma região polar, associado à mudança climática, tem tornado mais acessíveis tanto novas rotas de navegação quanto reservas de petróleo, gás e minerais até então de difícil exploração, atraindo o interesse de diversos países com litoral ou reivindicações na região.",
                                         "enunciado":  "Considere as afirmativas sobre a geopolítica do Ártico diante da mudança climática:\n\nI. O degelo associado à mudança climática ampliou o acesso a novas rotas de navegação e a recursos naturais antes de difícil exploração na região.\nII. Esse cenário tem gerado crescente competição estratégica e disputas por delimitação de fronteiras marítimas entre os países com interesses na região.\nIII. Os países com litoral no Ártico já unificaram formalmente sua soberania sobre a região sob um único tratado, encerrando qualquer disputa territorial.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "II e III, apenas",
-                                                             "b":  "I e II, apenas",
+                                                             "a":  "I e II, apenas",
+                                                             "b":  "II e III, apenas",
                                                              "c":  "I, apenas",
-                                                             "d":  "I, II e III"
+                                                             "d":  "I, II e III",
+                                                             "e":  "II, apenas"
                                                          },
-                                        "resposta":  "b",
+                                        "resposta":  "a",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente os efeitos do degelo ártico sobre rotas de navegação, recursos naturais e disputas geopolíticas na região. A afirmativa III é falsa: não existe tratado único que unifique a soberania sobre o Ártico; a região é regida por reivindicações nacionais distintas e por convenções de direito do mar, com disputas de fronteiras marítimas ainda não plenamente resolvidas.",
                                         "dificuldade":  "dificil"
                                     },
@@ -2960,12 +2973,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Como resposta a determinadas ações de outro país, um governo pode restringir o comércio de produtos específicos com o país-alvo, mantendo outras relações comerciais normais, ou pode proibir de forma praticamente total qualquer transação comercial com esse país.",
                                         "enunciado":  "Considere as afirmativas sobre os instrumentos de restrição comercial usados como resposta a ações de outro país:\n\nI. Uma sanção comercial setorial restringe o comércio de produtos ou setores específicos, mantendo outras relações comerciais normais.\nII. Um embargo comercial abrangente proíbe de forma praticamente total qualquer transação comercial com o país-alvo, representando grau mais severo de restrição.\nIII. Sanções setoriais e embargos abrangentes produzem exatamente o mesmo impacto econômico sobre o país-alvo, sem qualquer diferença de intensidade.\n\nEstá correto o que se afirma em:",
                                         "alternativas":  {
-                                                             "a":  "I e II, apenas",
-                                                             "b":  "I e III, apenas",
+                                                             "a":  "I e III, apenas",
+                                                             "b":  "I e II, apenas",
                                                              "c":  "I, II e III",
-                                                             "d":  "II e III, apenas"
+                                                             "d":  "II e III, apenas",
+                                                             "e":  "I, apenas"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "b",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de escopo entre sanções comerciais setoriais e embargos comerciais abrangentes. A afirmativa III é falsa: a diferença de escopo entre as duas medidas implica, justamente, diferentes graus de intensidade e impacto econômico sobre o país-alvo, sendo o embargo abrangente tipicamente mais severo.",
                                         "dificuldade":  "media"
                                     },
@@ -3369,7 +3383,8 @@ window.QUESTION_BANKS = {
                                                              "a":  "II e III, apenas",
                                                              "b":  "I, apenas",
                                                              "c":  "I e II, apenas",
-                                                             "d":  "I, II e III"
+                                                             "d":  "I, II e III",
+                                                             "e":  "II, apenas"
                                                          },
                                         "resposta":  "c",
                                         "explicacao":  "As afirmativas I e II descrevem corretamente a assimetria na acolhida de refugiados e o debate internacional sobre repartição de responsabilidades. A afirmativa III é falsa: não existe mecanismo vinculante que obrigue a acolhida de um número fixo e idêntico de refugiados por país; a repartição de encargos permanece um debate político em aberto, sem solução institucional definitiva.",
@@ -11663,12 +11678,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Convenção de 1951 da ONU relativa ao Estatuto dos Refugiados distingue juridicamente quem foge de perseguição, guerra ou violência generalizada de quem migra por outros motivos.",
                           "enunciado":  "Considere as afirmativas sobre migrações internacionais contemporâneas:\n\nI. Estudantes que buscam universidades estrangeiras de prestígio e trabalhadores que se mudam por melhores salários são exemplos de migração econômica voluntária.\nII. Pessoas que fogem de conflitos armados ou de perseguição política, étnica ou religiosa se enquadram, do ponto de vista jurídico internacional, na categoria de refugiados.\nIII. A distinção entre migração econômica e refúgio é apenas simbólica, já que ambas as categorias recebem exatamente a mesma proteção jurídica internacional.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, apenas",
+                                               "c":  "I, II e III",
+                                               "d":  "II e III, apenas",
+                                               "e":  "II, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente, respectivamente, a migração econômica voluntária e o refúgio (migração forçada). A afirmativa III está incorreta: a distinção não é simbólica, pois o status de refugiado garante proteção jurídica internacional específica, prevista na Convenção de 1951, que não se estende automaticamente ao migrante econômico."
                       },
                       {
@@ -11676,12 +11692,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado possui proteção jurídica internacional específica por não poder retornar ao seu país devido a fundado temor de perseguição ou violência.\nII. O migrante econômico se desloca voluntariamente em busca de melhores oportunidades, sem o mesmo amparo jurídico internacional automático do refugiado.\nIII. Essa distinção jurídica deixou de ser aplicada pelos países-membros da ONU depois da crise migratória síria de 2015, que unificou o tratamento das duas categorias.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III, sem exceção",
+                                               "a":  "I, II e III, sem exceção",
+                                               "b":  "I e II, apenas",
                                                "c":  "Unicamente a III",
-                                               "d":  "Exclusivamente a II"
+                                               "d":  "Exclusivamente a II",
+                                               "e":  "Unicamente a I"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o status de refugiado, definido pela Convenção de 1951 da ONU, e sua diferença em relação ao migrante econômico. A afirmativa III é falsa: a distinção jurídica entre as categorias permanece vigente no direito internacional; a crise migratória síria intensificou o debate político sobre acolhimento, mas não unificou os regimes jurídicos das duas categorias."
                       },
                       {
@@ -11692,7 +11709,8 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "I e II, apenas",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "c",
                           "explicacao":  "As afirmativas I e II são coerentes com a crescente relevância estratégica de recursos hídricos compartilhados. A afirmativa III é falsa: embora renovável, a água doce tem distribuição desigual entre regiões, e essa desigualdade — não a uniformidade — é justamente o que gera tensões geopolíticas em torno de aquíferos e bacias transfronteiriças."
@@ -11704,10 +11722,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Unicamente a III",
                                                "b":  "Exclusivamente a II",
-                                               "c":  "I e II, apenas",
-                                               "d":  "I, II e III, sem exceção"
+                                               "c":  "I, II e III, sem exceção",
+                                               "d":  "I e II, apenas",
+                                               "e":  "Unicamente a I"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a centralidade estratégica do petróleo na geopolítica do Oriente Médio. A afirmativa III é falsa: essa relevância geopolítica remonta, ao menos, à primeira metade do século XX, sendo anterior e independente da criação da União Europeia, um bloco regional sem relação direta com esse processo."
                       },
                       {
@@ -11728,12 +11747,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Mercosul foi criado em 1991 pelo Tratado de Assunção, reunindo inicialmente Brasil, Argentina, Paraguai e Uruguai.",
                           "enunciado":  "Considere as afirmativas sobre o estágio de integração econômica do Mercosul:\n\nI. O bloco caracteriza-se como uma união aduaneira, combinando livre comércio entre membros plenos com tarifa externa comum em relação a terceiros países.\nII. O Mercosul ainda não alcançou o nível de integração política e monetária de blocos como a União Europeia.\nIII. Por ser uma união aduaneira, o Mercosul já adota moeda única entre seus membros plenos, à semelhança do euro na União Europeia.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "III, apenas",
-                                               "c":  "I e III, apenas",
-                                               "d":  "I, II e III"
+                                               "a":  "III, apenas",
+                                               "b":  "I e III, apenas",
+                                               "c":  "I, II e III",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o estágio de integração do Mercosul como união aduaneira, sem os avanços políticos e monetários da União Europeia. A afirmativa III é falsa: a adoção de moeda única não é característica de uma união aduaneira, mas sim de estágios mais avançados de integração, como o alcançado por parte dos membros da União Europeia com o euro — o Mercosul não possui moeda comum entre seus membros."
                       },
                       {
@@ -11741,12 +11761,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Considere as afirmativas comparando os estágios de integração econômica do Mercosul e da União Europeia:\n\nI. A União Europeia avançou além da união aduaneira ao adotar moeda comum entre parte de seus membros e ao criar instituições supranacionais com poder de influência sobre políticas dos Estados-membros.\nII. O Mercosul permite a livre circulação de pessoas e capitais em nível equivalente ao praticado pela União Europeia desde sua fundação.\nIII. Ambos os blocos mantêm tarifa externa comum em relação a terceiros países, mas apenas a União Europeia avançou para uma integração política supranacional.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "II, apenas",
-                                               "d":  "I e III, apenas"
+                                               "a":  "I e III, apenas",
+                                               "b":  "I e II, apenas",
+                                               "c":  "I, II e III",
+                                               "d":  "II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e III descrevem corretamente o estágio mais avançado de integração da União Europeia frente ao Mercosul, inclusive quanto à tarifa externa comum de ambos. A afirmativa II é falsa: a livre circulação de pessoas e capitais no Mercosul nunca alcançou o nível institucionalizado praticado pela União Europeia, um dos principais indicadores da diferença de estágio entre os dois blocos."
                       },
                       {
@@ -11754,12 +11775,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Acordo de Paris, firmado em 2015 no âmbito da ONU, estabeleceu metas para a redução das emissões de gases de efeito estufa.",
                           "enunciado":  "Considere as afirmativas sobre o Acordo de Paris:\n\nI. Seu principal objetivo é limitar o aumento da temperatura média global, buscando mantê-lo bem abaixo de 2°C em relação aos níveis pré-industriais.\nII. O acordo se baseia em compromissos voluntários de redução de emissões assumidos por praticamente todos os países signatários.\nIII. O acordo transferiu a responsabilidade exclusiva pela redução de emissões aos países em desenvolvimento, isentando os países desenvolvidos de metas.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "II e III, apenas",
+                                               "a":  "II e III, apenas",
+                                               "b":  "I e II, apenas",
                                                "c":  "III, apenas",
-                                               "d":  "I, II e III"
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a meta central do acordo e seu mecanismo de contribuições voluntárias nacionalmente determinadas. A afirmativa III é falsa: o Acordo de Paris ampliou a responsabilidade para praticamente todos os países, desenvolvidos e em desenvolvimento, ao contrário do modelo do Protocolo de Kyoto, que concentrava metas obrigatórias apenas nos países desenvolvidos."
                       },
                       {
@@ -11796,7 +11818,8 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "I e II, apenas",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "c",
                           "explicacao":  "As afirmativas I e II são consistentes com a origem histórica das desigualdades regionais e com as políticas criadas para reduzi-las. A afirmativa III é falsa: a distribuição de recursos naturais é resultado de processos geológicos e climáticos, não de uma definição jurídica constitucional, e as desigualdades regionais têm raízes econômicas e históricas, não legais."
@@ -11806,12 +11829,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A região Sudeste concentra a maior parcela do PIB industrial brasileiro.",
                           "enunciado":  "Considere as afirmativas sobre a concentração industrial no Sudeste brasileiro:\n\nI. A riqueza acumulada com o café financiou parte da industrialização paulista, somada à concentração de infraestrutura, mão de obra e mercado consumidor.\nII. O processo de concentração industrial no Sudeste é anterior à expansão do café, remontando ao período das capitanias hereditárias.\nIII. Nas últimas décadas, observa-se um processo de desconcentração industrial, com expansão de polos fora do eixo tradicional Sudeste.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e III, apenas",
-                                               "b":  "II e III, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "II, apenas"
+                                               "a":  "II e III, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "II, apenas",
+                                               "d":  "I e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e III descrevem corretamente a origem cafeeira da industrialização paulista e o processo mais recente de desconcentração industrial. A afirmativa II é falsa: a concentração industrial no Sudeste é um fenômeno dos séculos XIX e XX, ligado à cafeicultura e à industrialização, não ao período colonial das capitanias hereditárias."
                       },
                       {
@@ -11848,9 +11872,10 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os mecanismos distintos de cada fenômeno. A afirmativa III é falsa: apesar de ambos envolverem gases atmosféricos, são fenômenos distintos, com gases, mecanismos e soluções técnicas diferentes — daí a importância de não confundi-los, um erro comum entre estudantes."
                       },
                       {
@@ -11858,12 +11883,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A globalização, consolidada nas últimas décadas do século XX, reorganizou a produção mundial em cadeias globais de valor.",
                           "enunciado":  "Considere as afirmativas sobre a nova divisão internacional do trabalho:\n\nI. Houve fragmentação das etapas produtivas entre diferentes países, com deslocamento de indústrias intensivas em mão de obra para países em desenvolvimento.\nII. Países centrais tenderam a concentrar atividades de maior valor agregado, como tecnologia, pesquisa e serviços avançados.\nIII. Esse processo eliminou por completo as diferenças de renda e de tecnologia entre países centrais e periféricos.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "III, apenas",
-                                               "b":  "II e III, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "I e II, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "III, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de fragmentação produtiva da globalização. A afirmativa III é falsa: a nova divisão internacional do trabalho não eliminou as diferenças de renda e tecnologia entre países centrais e periféricos — ao contrário, ela reorganizou, mas manteve, hierarquias econômicas entre eles."
                       },
                       {
@@ -12015,11 +12041,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre a criação de organismos como a OTCA:\n\nI. Buscam promover cooperação regional entre países amazônicos em temas como preservação ambiental e desenvolvimento sustentável.\nII. Reafirmam a soberania de cada Estado-membro sobre seu respectivo território amazônico.\nIII. Têm como objetivo transferir a soberania sobre a Amazônia para um órgão supranacional único, à semelhança da União Europeia.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "I, II e III",
-                                               "b":  "III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "b":  "I e II, apenas",
+                                               "c":  "III, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os objetivos de cooperação regional e a reafirmação de soberania nacional que orientam a OTCA. A afirmativa III é falsa: a organização não transfere soberania a um órgão supranacional, ao contrário do discurso de internacionalização da Amazônia, que a OTCA justamente contesta ao reafirmar a soberania de cada país membro."
                       },
                       {
@@ -12028,11 +12055,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre a relevância geopolítica da Amazônia no cenário internacional:\n\nI. Sua enorme biodiversidade e suas reservas de água doce atraem interesse econômico e científico internacional.\nII. Seu papel na regulação do clima regional e global reforça sua relevância estratégica, inclusive para países fora da América do Sul.\nIII. Essa relevância decorre sobretudo de reservas de petróleo já comprovadas em larga escala no subsolo amazônico.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "III, apenas",
-                                               "b":  "I e II, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I, II e III"
+                                               "b":  "II e III, apenas",
+                                               "c":  "I e II, apenas",
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os fatores centrais da relevância geopolítica da Amazônia: biodiversidade, água doce e papel climático. A afirmativa III é falsa: a relevância estratégica da região não decorre de reservas petrolíferas comprovadas em larga escala, mas dos recursos hídricos, da biodiversidade e da regulação climática."
                       },
                       {
@@ -12040,12 +12068,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A presença de garimpo ilegal e conflitos fundiários é um desafio recorrente na Amazônia brasileira, inclusive em terras indígenas.",
                           "enunciado":  "Considere as afirmativas sobre os conflitos fundiários na Amazônia:\n\nI. Envolvem disputas pelo uso da terra e de recursos naturais entre atividades como garimpo ilegal, grilagem e populações tradicionais e indígenas.\nII. Frequentemente ocorrem em áreas de proteção ambiental, o que dificulta ainda mais a fiscalização estatal.\nIII. Deixaram de existir após a promulgação da Constituição de 1988, que extinguiu qualquer disputa sobre terras indígenas na região.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "III, apenas",
-                                               "d":  "II e III, apenas"
+                                               "a":  "I, II e III",
+                                               "b":  "III, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a natureza e o contexto dos conflitos fundiários na Amazônia. A afirmativa III é falsa: a Constituição de 1988 garantiu direitos territoriais aos povos indígenas, mas não eliminou as disputas fundiárias — pelo contrário, elas persistem e, em muitos casos, se intensificaram em áreas de interesse do garimpo e da grilagem."
                       },
                       {
@@ -12207,9 +12236,10 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "A população urbana do Sudeste é 0,93×89≈82,8 milhões, e a do Nordeste é 0,75×57≈42,8 milhões, confirmando I e II. A afirmativa III é falsa como regra geral: taxa percentual menor não implica necessariamente população urbana absoluta menor, pois isso depende também da população total de cada região — nesse caso específico o Sudeste supera o Nordeste também em número absoluto, mas não por decorrência automática da taxa percentual, e sim pela combinação dela com a população total.",
                           "dificuldade":  "dificil"
                       },
@@ -12316,12 +12346,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O chamado \u0027triângulo do lítio\u0027, formado por Argentina, Bolívia e Chile, concentra a maior parte das reservas mundiais conhecidas de lítio, mineral essencial para a fabricação de baterias.",
                           "enunciado":  "Considere as afirmativas sobre a crescente relevância geopolítica do lítio:\n\nI. A expansão da demanda por baterias para veículos elétricos e dispositivos eletrônicos, no contexto da transição energética global, torna o controle dessas reservas estrategicamente relevante.\nII. A concentração de reservas em poucos países sul-americanos amplia o interesse de potências industriais externas sobre a região.\nIII. Por ser abundante e de baixo custo de extração em qualquer país do mundo, o lítio nunca foi tema de disputa geopolítica.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, II e III",
-                                               "b":  "III, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "III, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente por que o lítio se tornou estrategicamente relevante e por que a região andina atrai interesse externo. A afirmativa III é falsa: o lítio não é abundante e de baixo custo em qualquer país — suas reservas de alta concentração e viabilidade econômica estão geograficamente restritas, o que é exatamente o que gera sua relevância geopolítica.",
                           "dificuldade":  "dificil"
                       },
@@ -12347,7 +12378,8 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "I e II, apenas",
                                                "c":  "I, II e III",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a importância estratégica desses minerais e a concentração de sua cadeia produtiva em poucos países. A afirmativa III é falsa: é justamente a forte concentração geográfica da extração e, sobretudo, do refino — não uma distribuição equilibrada — que torna esses minerais uma questão geopolítica sensível.",
@@ -12374,10 +12406,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "I, II e III",
                                                "b":  "II e III, apenas",
-                                               "c":  "III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "c":  "I e II, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a distinção conceitual entre matriz elétrica e matriz energética total. A afirmativa III é falsa: mesmo com uma matriz elétrica majoritariamente renovável, a matriz energética total do Brasil ainda depende significativamente de fontes fósseis, sobretudo o petróleo usado no setor de transportes — distinção conceitual frequentemente cobrada.",
                           "dificuldade":  "dificil"
                       },
@@ -12429,11 +12462,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas com base nesses dados aproximados:\n\nI. A matriz elétrica brasileira é proporcionalmente mais dependente de fontes renováveis do que a da União Europeia e do que a média mundial.\nII. Esse resultado se deve, sobretudo, ao grande potencial hidrelétrico do território brasileiro.\nIII. Como o Brasil supera a União Europeia na participação de renováveis, isso significa que o bloco europeu não investe em nenhuma fonte renovável de energia.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "II e III, apenas",
-                                               "b":  "I e II, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "III, apenas"
+                                               "b":  "I, II e III",
+                                               "c":  "III, apenas",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "d",
                           "explicacao":  "Os dados confirmam I e II: o Brasil (83%) supera a União Europeia (40%) e a média mundial (30%) na participação renovável, resultado historicamente ligado ao potencial hidrelétrico brasileiro. A afirmativa III é falsa: os 40% da União Europeia mostram investimento relevante em fontes renováveis, apenas em proporção menor do que a brasileira — não ausência de investimento.",
                           "dificuldade":  "media"
                       },
@@ -12442,12 +12476,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Considere as afirmativas sobre rios que atravessam ou fazem fronteira entre diferentes países, como o Rio Paraná (compartilhado por Brasil, Paraguai e Argentina) ou o Rio Nilo (compartilhado por diversos países africanos):\n\nI. O uso da água por um país (para energia, irrigação ou abastecimento) pode afetar a disponibilidade e a qualidade da água para os países vizinhos da mesma bacia.\nII. Essa interdependência hidrográfica frequentemente exige negociação diplomática entre os países que compartilham a bacia.\nIII. Como a água doce é considerada patrimônio da humanidade pelo direito internacional, todo rio internacional tem sua vazão dividida em partes iguais entre os países banhados por ele.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "III, apenas",
-                                               "d":  "II e III, apenas"
+                                               "a":  "I, II e III",
+                                               "b":  "III, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a interdependência hidrográfica e a necessidade de negociação diplomática entre países de uma mesma bacia. A afirmativa III é falsa: não existe regra de direito internacional que divida automaticamente a vazão de rios internacionais em partes iguais — a gestão depende de tratados específicos entre os países envolvidos, muitas vezes conflituosos.",
                           "dificuldade":  "media"
                       },
@@ -12459,7 +12494,8 @@ window.QUESTION_BANKS = {
                                                "a":  "I e II, apenas",
                                                "b":  "III, apenas",
                                                "c":  "I, II e III",
-                                               "d":  "II e III, apenas"
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os interesses do Egito (segurança hídrica) e da Etiópia (energia e desenvolvimento) nesse conflito. A afirmativa III é falsa: a Etiópia, construtora da barragem, é parte central das negociações — o conflito envolve os três países (Etiópia, Sudão e Egito), não apenas dois deles.",
@@ -12473,7 +12509,8 @@ window.QUESTION_BANKS = {
                                                "a":  "Unicamente a III",
                                                "b":  "I e II, apenas",
                                                "c":  "I, II e III, sem exceção",
-                                               "d":  "Exclusivamente a I"
+                                               "d":  "Exclusivamente a I",
+                                               "e":  "Unicamente a II"
                                            },
                           "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente como a dependência energética condicionou a resposta europeia à guerra e como o continente reagiu depois. A afirmativa III é falsa: a dependência do gás russo variava consideravelmente entre os países europeus, sendo mais acentuada em nações como a Alemanha do que em outras com matriz energética mais diversificada.",
@@ -12485,11 +12522,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre o mercado de créditos de carbono, mecanismo cada vez mais relevante nas políticas climáticas:\n\nI. Agentes que reduzem emissões além de metas estabelecidas podem gerar créditos correspondentes a essa redução.\nII. Esses créditos podem ser vendidos a outros agentes que precisam compensar suas próprias emissões, incluindo créditos ligados a projetos de conservação florestal.\nIII. O mercado de créditos de carbono elimina totalmente a necessidade de qualquer redução direta de emissões por parte das empresas compradoras.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "III, apenas",
-                                               "b":  "I e II, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I, II e III"
+                                               "b":  "II e III, apenas",
+                                               "c":  "I e II, apenas",
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de geração e comercialização de créditos de carbono, incluindo projetos florestais. A afirmativa III é falsa: o mercado de créditos é pensado como complemento, não substituto, das metas de redução direta de emissões, que continuam sendo cobradas das empresas.",
                           "dificuldade":  "dificil"
                       },
@@ -12500,10 +12538,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "III, apenas",
                                                "b":  "II e III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "I, II e III"
+                                               "c":  "I, II e III",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a função científica do IPCC e sua influência sobre negociações internacionais. A afirmativa III é falsa: o IPCC é um organismo científico, sem poder de aplicar sanções econômicas a países — sua influência é indireta, por meio da base científica que fornece a negociações políticas.",
                           "dificuldade":  "media"
                       },
@@ -12542,10 +12581,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "I, II e III",
                                                "b":  "III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "c":  "II e III, apenas",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de modelo entre os dois acordos climáticos. A afirmativa III é falsa: o Acordo de Paris não eliminou o princípio de responsabilidades históricas — ele permanece como referência, ainda que combinado a um modelo mais amplo de participação voluntária de todos os países.",
                           "dificuldade":  "dificil"
                       },
@@ -12554,12 +12594,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Os Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela ONU em 2015, compõem uma agenda que busca, até 2030, transformações sociais, econômicas e ambientais.",
                           "enunciado":  "Considere as afirmativas sobre os ODS:\n\nI. Integram metas sociais, econômicas e ambientais, como erradicação da pobreza, redução das desigualdades e ação climática.\nII. Devem ser perseguidos por todos os países-membros da ONU, e não apenas pelos países mais pobres.\nIII. Substituíram integralmente o Acordo de Paris, que deixou de ter vigência após a criação dos ODS.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, II e III",
-                                               "b":  "I e II, apenas",
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, II e III",
                                                "c":  "III, apenas",
-                                               "d":  "II e III, apenas"
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a natureza integrada e universal da agenda dos ODS. A afirmativa III é falsa: os ODS e o Acordo de Paris são agendas complementares e coexistentes, ambos vigentes, cada um com seu próprio escopo — os ODS não substituíram o acordo climático.",
                           "dificuldade":  "media"
                       },
@@ -12695,11 +12736,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre os objetivos dessa política:\n\nI. Buscou atrair investimentos industriais para a Amazônia por meio de incentivos fiscais, como isenção de impostos.\nII. Contribuiu para gerar empregos urbanos como alternativa a atividades extrativistas predatórias na floresta.\nIII. Resultou na proibição de qualquer atividade industrial fora da região amazônica a partir de sua criação.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "I, II e III",
-                                               "b":  "III, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "b":  "I e II, apenas",
+                                               "c":  "III, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os incentivos fiscais e o objetivo de gerar alternativas econômicas à exploração predatória. A afirmativa III é falsa: a Zona Franca não proibiu a atividade industrial em outras regiões do país — o Sudeste e o Sul continuaram concentrando a maior parte da produção industrial brasileira após 1967.",
                           "dificuldade":  "media"
                       },
@@ -12737,11 +12779,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre a expansão dessa fronteira agrícola:\n\nI. Foi favorecida por preços de terra mais baixos e pela disponibilidade de áreas de Cerrado passíveis de correção do solo com tecnologia.\nII. Gera preocupações ambientais quanto ao desmatamento do Cerrado, bioma com proteção legal historicamente menor do que a da Amazônia.\nIII. Ocorreu sem qualquer desafio logístico, já que a região já contava, desde sua criação, com infraestrutura portuária e rodoviária equivalente à do Sudeste.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "II e III, apenas",
-                                               "b":  "I e II, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "III, apenas"
+                                               "b":  "I, II e III",
+                                               "c":  "I e II, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os fatores de atração e as preocupações ambientais ligadas à expansão do Matopiba. A afirmativa III é falsa: a região enfrentou e ainda enfrenta desafios logísticos relevantes, sendo justamente a carência de infraestrutura portuária e rodoviária um dos principais obstáculos ao desenvolvimento pleno dessa fronteira agrícola.",
                           "dificuldade":  "dificil"
                       },
@@ -12764,12 +12807,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Dados aproximados da balança comercial brasileira mostram que, nas últimas duas décadas, a participação de commodities primárias (como minério de ferro, soja e petróleo) no total das exportações do país cresceu de forma expressiva, superando a participação de produtos manufaturados.",
                           "enunciado":  "Considere as afirmativas sobre esse fenômeno, conhecido como \u0027reprimarização\u0027 da pauta exportadora:\n\nI. Ele está associado a maior vulnerabilidade da economia brasileira a oscilações de preços internacionais de commodities.\nII. Reduz o peso relativo da indústria de transformação, de maior valor agregado, na pauta de exportações do país.\nIII. Como commodities agrícolas e minerais têm alto valor agregado, a reprimarização representa um ganho automático de sofisticação tecnológica para a economia brasileira.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "III, apenas",
-                                               "d":  "II e III, apenas"
+                                               "a":  "I, II e III",
+                                               "b":  "III, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os riscos associados à reprimarização: vulnerabilidade a preços internacionais e perda de espaço da indústria de transformação. A afirmativa III é falsa: commodities primárias têm justamente menor valor agregado do que produtos manufaturados, de modo que a reprimarização representa o oposto de um ganho de sofisticação tecnológica na pauta exportadora.",
                           "dificuldade":  "dificil"
                       },
@@ -12794,10 +12838,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "III, apenas",
                                                "b":  "II e III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "I, II e III"
+                                               "c":  "I, II e III",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "No agronegócio, o saldo é 120−10=110 (superávit); em combustíveis e minérios, 60−20=40 (superávit); na indústria de transformação, 90−130=−40 (déficit de 40 bilhões), confirmando I e II. A afirmativa III é falsa: esse padrão — superávit em commodities e déficit em manufaturados — é justamente citado como evidência do fenômeno de reprimarização da pauta comercial brasileira, não uma exceção a ele.",
                           "dificuldade":  "dificil"
                       },
@@ -12834,12 +12879,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O índice de Gini da terra é utilizado para medir a concentração fundiária de um território.",
                           "enunciado":  "Considere as afirmativas sobre a estrutura fundiária brasileira, historicamente marcada por elevada concentração de terras:\n\nI. Uma parcela relativamente pequena de grandes propriedades ocupa uma fração expressiva da área rural total do país.\nII. Essa concentração fundiária tem raízes históricas que remontam ao sistema colonial de capitanias e sesmarias.\nIII. Apesar da concentração, o número de pequenos e médios produtores é menor do que o de grandes proprietários no Brasil.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, II e III",
-                                               "b":  "II e III, apenas",
-                                               "c":  "III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "II e III, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o padrão histórico de concentração fundiária brasileira e sua origem colonial. A afirmativa III é falsa: o número de pequenos e médios produtores é, na verdade, muito maior do que o de grandes proprietários — a concentração fundiária está na área ocupada por poucas grandes propriedades, não no número de proprietários envolvidos.",
                           "dificuldade":  "media"
                       },
@@ -12849,11 +12895,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre a distinção entre \u0027reforma agrária\u0027 e \u0027regularização fundiária\u0027:\n\nI. A reforma agrária envolve a redistribuição de terras (geralmente griladas, improdutivas ou desapropriadas) a famílias sem-terra.\nII. A regularização fundiária consiste em garantir título de propriedade legal a quem já ocupa uma área, sem necessariamente redistribuir terras entre famílias diferentes.\nIII. Por envolverem terras rurais, os dois processos resultam sempre na mesma consequência jurídica: a transferência da terra para um novo titular.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "I, II e III",
-                                               "b":  "II e III, apenas",
-                                               "c":  "III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "b":  "I e II, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os dois processos, distintos entre si. A afirmativa III é falsa: na regularização fundiária, o título costuma ser concedido a quem já ocupa a área (sem transferência a um novo titular), diferentemente da reforma agrária, que redistribui terras a famílias diferentes das que a ocupavam antes.",
                           "dificuldade":  "media"
                       },
@@ -12893,7 +12940,8 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente as tensões geradas pela crise migratória síria dentro da União Europeia. A afirmativa III é falsa: a crise gerou divergências políticas relevantes entre Estados-membros favoráveis a uma recepção mais aberta e outros mais restritivos, e não uma recepção unânime e consensual.",
@@ -12907,7 +12955,8 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "II e III, apenas",
                                                "c":  "I e II, apenas",
-                                               "d":  "I, II e III"
+                                               "d":  "I, II e III",
+                                               "e":  "I e III, apenas"
                                            },
                           "resposta":  "d",
                           "explicacao":  "As três afirmativas descrevem corretamente o fenômeno migratório regional: origem múltipla no México e no Triângulo Norte centro-americano (I), fatores de expulsão como violência e instabilidade (II), e a rota que atravessa o México antes de chegar aos Estados Unidos (III) — um fluxo migratório regional complexo, e não restrito a um único país de origem.",
@@ -12935,9 +12984,10 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a relevância das remessas para certas economias em desenvolvimento e o duplo efeito da emigração de trabalhadores. A afirmativa III é falsa: esse padrão não é universal — a proporção entre remessas, investimento estrangeiro direto e ajuda internacional varia bastante conforme o perfil econômico de cada país.",
                           "dificuldade":  "dificil"
                       },
@@ -12946,12 +12996,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Um mapa-múndi com setas indica os principais fluxos migratórios internacionais contemporâneos: uma seta grossa parte do Norte da África em direção à Europa; outra parte da América Central em direção à América do Norte; e outra parte do Sul da Ásia em direção ao Oriente Médio (Golfo Pérsico).",
                           "enunciado":  "Considere as afirmativas com base na descrição desse mapa:\n\nI. Os três fluxos seguem um padrão de deslocamento de regiões com menor oferta de emprego e renda em direção a regiões com maior demanda por mão de obra, um padrão amplo conhecido como fluxo Sul-Norte.\nII. O Golfo Pérsico, embora não seja tecnicamente parte do \u0027Norte global\u0027, funciona como polo econômico regional que atrai trabalhadores do Sul da Ásia.\nIII. Os três fluxos representados no mapa ocorrem exclusivamente entre países vizinhos de fronteira terrestre comum.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, II e III",
-                                               "b":  "III, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "III, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o padrão geral Sul-Norte desses fluxos e a posição peculiar do Golfo Pérsico nesse esquema. A afirmativa III é falsa: o fluxo do Sul da Ásia ao Golfo Pérsico, por exemplo, não envolve países de fronteira terrestre comum, mostrando que o padrão migratório descrito não se restringe a deslocamentos entre vizinhos diretos.",
                           "dificuldade":  "media"
                       },
@@ -12961,11 +13012,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre esse sistema, criticado por organizações de direitos humanos:\n\nI. Vincula juridicamente o trabalhador migrante a um empregador específico, que controla aspectos como mudança de emprego e, por vezes, a saída do país.\nII. Pode gerar relações de trabalho precárias e situações de vulnerabilidade para o trabalhador migrante.\nIII. Garante ao trabalhador migrante direitos trabalhistas superiores aos concedidos aos cidadãos nativos desses países.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "I, II e III",
-                                               "b":  "II e III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "III, apenas"
+                                               "b":  "I e II, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e as críticas ao sistema kafala. A afirmativa III é falsa: o sistema é criticado justamente por conceder ao trabalhador migrante direitos e proteções inferiores, não superiores, aos dos cidadãos nativos, criando forte dependência do trabalhador em relação ao empregador patrocinador.",
                           "dificuldade":  "dificil"
                       },
@@ -12991,7 +13043,8 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "I e II, apenas",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a combinação de apatridia, perseguição étnico-religiosa e a caracterização jurídica de refúgio nesse caso. A afirmativa III é falsa: a crise dos Rohingya permanece sem solução definitiva, com grande contingente ainda vivendo em campos de refugiados, sobretudo em Bangladesh, muito tempo depois do deslocamento em massa.",
@@ -13002,12 +13055,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Diversos países europeus, além do Japão, enfrentam acentuado envelhecimento populacional e baixas taxas de natalidade.",
                           "enunciado":  "Considere as afirmativas sobre a imigração de trabalhadores estrangeiros como resposta a esse contexto:\n\nI. Poderia ajudar a repor parte da força de trabalho em idade ativa, sustentando sistemas previdenciários pressionados pelo envelhecimento.\nII. É um tema que gera controvérsias políticas e sociais relevantes nesses países, sem consenso automático sobre sua adoção.\nIII. É uma solução tecnicamente equivalente ao aumento da taxa de natalidade, já que ambas produzem exatamente o mesmo efeito imediato sobre a pirâmide etária.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "III, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "II e III, apenas"
+                                               "a":  "III, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o potencial da imigração para repor força de trabalho e a controvérsia política que o tema gera. A afirmativa III é falsa: imigração de adultos em idade ativa e aumento da natalidade produzem efeitos distintos e em prazos diferentes sobre a pirâmide etária — a chegada de imigrantes adultos tem impacto mais imediato sobre a força de trabalho, enquanto a natalidade leva décadas para gerar o mesmo efeito.",
                           "dificuldade":  "media"
                       },
@@ -13103,9 +13157,10 @@ window.QUESTION_BANKS = {
                                                "a":  "II e III, apenas",
                                                "b":  "III, apenas",
                                                "c":  "I, II e III",
-                                               "d":  "I e II, apenas"
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o conceito e os fatores associados à maldição dos recursos naturais. A afirmativa III é falsa: o conceito é discutido em relação a diversos recursos, como minérios e outras commodities de exportação, não se restringindo exclusivamente a países produtores de petróleo.",
                           "dificuldade":  "dificil"
                       },
@@ -13212,12 +13267,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Uma tabela apresenta dados aproximados sobre a agricultura brasileira: a agricultura familiar responde por cerca de 23% do valor total da produção agropecuária, mas por aproximadamente 70% dos alimentos que chegam à mesa dos brasileiros (feijão, mandioca, hortaliças e parte do leite e de carnes), enquanto o agronegócio de grande escala responde pelos 77% restantes do valor da produção, concentrados majoritariamente em commodities voltadas à exportação.",
                           "enunciado":  "Considere as afirmativas com base nesses dados aproximados:\n\nI. A agricultura familiar tem papel desproporcionalmente maior no abastecimento direto de alimentos ao mercado interno do que sua participação no valor total da produção.\nII. O agronegócio de grande escala concentra-se mais em commodities de exportação do que em alimentos de consumo interno direto.\nIII. Como a agricultura familiar responde por apenas 23% do valor da produção, ela é irrelevante para a segurança alimentar do país.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I, II e III",
-                                               "b":  "III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "a":  "I e II, apenas",
+                                               "b":  "I, II e III",
+                                               "c":  "III, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "a",
                           "explicacao":  "Os dados mostram um descompasso relevante: a agricultura familiar responde por apenas 23% do valor da produção, mas por cerca de 70% dos alimentos que chegam à mesa da população, confirmando I e II. A afirmativa III é falsa: é exatamente esse descompasso que evidencia a relevância estratégica da agricultura familiar para a segurança alimentar interna, e não sua irrelevância.",
                           "dificuldade":  "dificil"
                       },
@@ -13283,11 +13339,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre essa predominância global de fontes fósseis:\n\nI. Está relacionada ao menor custo histórico de exploração e à infraestrutura já consolidada em torno dos combustíveis fósseis.\nII. A alta densidade energética desses recursos dificulta uma transição energética rápida em escala global.\nIII. Essa predominância decorre do fato de apenas o Brasil possuir potencial técnico para gerar energia a partir de fontes renováveis.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "III, apenas",
-                                               "b":  "II e III, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "I e II, apenas"
+                                               "b":  "I e II, apenas",
+                                               "c":  "II e III, apenas",
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os fatores históricos e técnicos que explicam a predominância global de fontes fósseis. A afirmativa III é falsa: diversos países possuem potencial técnico relevante para energias renováveis (como a solar no Norte da África e a eólica na Europa) — o Brasil se destaca por seu potencial hídrico específico, mas não é o único país com potencial renovável.",
                           "dificuldade":  "media"
                       },
@@ -13298,10 +13355,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
-                                               "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "c":  "I e II, apenas",
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os fatores que explicam a dependência de carvão nesses países. A afirmativa III é falsa: China e Índia estão, na verdade, entre os países que mais investem em termos absolutos em energia solar e eólica no mundo — a dependência de carvão convive com, e não exclui, investimentos crescentes em fontes renováveis.",
                           "dificuldade":  "dificil"
                       },
@@ -13327,7 +13385,8 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "II e III, apenas",
-                                               "d":  "I e II, apenas"
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "d",
                           "explicacao":  "Os dados confirmam I e II: o Brasil concentra 65% do transporte de cargas no modal rodoviário, contra 30% nos Estados Unidos, que utilizam mais o ferroviário (40% contra 15% no Brasil), apesar de ambos os países terem grandes extensões territoriais. A afirmativa III inverte os dados da tabela: são os Estados Unidos que dependem proporcionalmente menos do modal rodoviário, não mais, em comparação ao Brasil.",
@@ -13353,11 +13412,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre esses conflitos:\n\nI. Áreas de interesse para demarcação indígena frequentemente se sobrepõem a áreas de interesse do agronegócio, da mineração ou de outras atividades econômicas.\nII. Esses conflitos envolvem disputa entre os direitos constitucionais dos povos indígenas e interesses econômicos sobre o mesmo território.\nIII. A demarcação de terras indígenas é um processo automático, concluído em qualquer caso em menos de um ano, sem etapas de estudo antropológico.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "II e III, apenas",
-                                               "b":  "I e II, apenas",
-                                               "c":  "I, II e III",
-                                               "d":  "III, apenas"
+                                               "b":  "I, II e III",
+                                               "c":  "III, apenas",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a sobreposição de interesses e a natureza do conflito entre direitos constitucionais indígenas e interesses econômicos. A afirmativa III é falsa: a demarcação envolve etapas de estudo antropológico, identificação e disputas administrativas e judiciais que frequentemente se estendem por muitos anos, não sendo um processo automático e rápido.",
                           "dificuldade":  "dificil"
                       },
@@ -13369,7 +13429,8 @@ window.QUESTION_BANKS = {
                                                "a":  "I e II, apenas",
                                                "b":  "II e III, apenas",
                                                "c":  "I, II e III",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o objetivo e o fundamento constitucional do direito à titulação quilombola. A afirmativa III é falsa: o direito alcança tanto comunidades rurais quanto urbanas, sendo a maior parte dos territórios quilombolas reconhecidos, historicamente, de natureza rural.",
@@ -13380,12 +13441,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O fenômeno da \u0027grilagem de terras\u0027 é recorrente em áreas de fronteira agrícola e na Amazônia.",
                           "enunciado":  "Considere as afirmativas sobre esse fenômeno:\n\nI. Consiste na apropriação ilegal de terras públicas ou devolutas, frequentemente por meio da falsificação de documentos de propriedade.\nII. Está entre os principais fatores associados a conflitos fundiários e ao desmatamento ilegal em áreas de fronteira agrícola.\nIII. Corresponde a uma prática legal de compra e venda de terras, desde que devidamente registrada em cartório após a aquisição.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
+                                               "a":  "I, II e III",
+                                               "b":  "I e II, apenas",
                                                "c":  "II e III, apenas",
-                                               "d":  "III, apenas"
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o mecanismo da grilagem e sua relação com conflitos fundiários e desmatamento ilegal. A afirmativa III é falsa: a grilagem é, por definição, uma apropriação ilegal de terras públicas, baseada em fraude documental — não se confunde com a compra e venda legal e regular de terras devidamente registradas.",
                           "dificuldade":  "dificil"
                       },
@@ -13395,11 +13457,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considere as afirmativas sobre esse padrão comum entre diferentes países:\n\nI. Revela um padrão global de urbanização acelerada em países em desenvolvimento, frequentemente não acompanhada de planejamento urbano adequado.\nII. Está associado à insuficiência de políticas habitacionais para toda a população que migra para as cidades em busca de oportunidades.\nIII. Demonstra que a favelização é uma característica cultural exclusiva do Brasil, sem equivalentes em outros países do mundo.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
                                                "a":  "I, II e III",
-                                               "b":  "I e II, apenas",
-                                               "c":  "II e III, apenas",
-                                               "d":  "III, apenas"
+                                               "b":  "II e III, apenas",
+                                               "c":  "I e II, apenas",
+                                               "d":  "III, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "As afirmativas I e II descrevem corretamente o padrão global de urbanização acelerada e sua relação com políticas habitacionais insuficientes. A afirmativa III é falsa: a existência de townships, slums e favelas em diferentes países evidencia justamente o oposto — um padrão global compartilhado por diversos países em desenvolvimento, não uma particularidade exclusivamente brasileira.",
                           "dificuldade":  "media"
                       },
@@ -13464,12 +13527,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A obra de transposição (ou integração) do Rio São Francisco com bacias hidrográficas do semiárido nordestino é um dos maiores projetos de infraestrutura hídrica do país, objeto de controvérsia entre especialistas e movimentos sociais.",
                           "enunciado":  "Considere as afirmativas sobre essa controvérsia:\n\nI. O governo defende a obra como forma de garantir abastecimento de água para milhões de pessoas em áreas historicamente afetadas pela seca.\nII. Críticos questionam impactos ambientais sobre o próprio Rio São Francisco e se a obra prioriza grandes projetos de irrigação empresarial em detrimento de soluções mais descentralizadas.\nIII. A obra é unanimemente aprovada por especialistas e movimentos sociais, sem qualquer questionamento técnico, social ou ambiental.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "I e II, apenas",
-                                               "b":  "I, II e III",
-                                               "c":  "II e III, apenas",
-                                               "d":  "III, apenas"
+                                               "a":  "I, II e III",
+                                               "b":  "II e III, apenas",
+                                               "c":  "III, apenas",
+                                               "d":  "I e II, apenas",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os argumentos favoráveis do governo e as críticas de parte dos especialistas e movimentos sociais. A afirmativa III é falsa: a obra é justamente um dos temas mais debatidos e controversos da geografia hídrica brasileira, longe de haver aprovação unânime entre especialistas e movimentos sociais.",
                           "dificuldade":  "dificil"
                       },
@@ -13480,10 +13544,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "I, II e III",
                                                "b":  "II e III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "III, apenas"
+                                               "c":  "III, apenas",
+                                               "d":  "I, apenas",
+                                               "e":  "I e II, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "As afirmativas I e II descrevem corretamente as posições em disputa entre estados produtores e não produtores na partilha dos royalties. A afirmativa III é falsa: essa distribuição gerou disputas legislativas e judiciais relevantes ao longo dos anos, não tendo sido encerrada de forma unânime e definitiva.",
                           "dificuldade":  "dificil"
                       },
@@ -13590,12 +13655,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Um mapa de fluxos migratórios internos recentes no Brasil mostra setas partindo das regiões metropolitanas de São Paulo e Rio de Janeiro em direção a cidades médias do interior paulista, mineiro e do Sul do país, além de setas partindo dessas mesmas metrópoles em direção a estados do Nordeste, como Ceará e Bahia.",
                           "enunciado":  "Considere as afirmativas sobre esse padrão de fluxos, diferente do êxodo rural clássico do século XX:\n\nI. Sugere influência de fatores como busca por melhor qualidade de vida, menor custo de vida e trabalho remoto, favorecendo cidades médias do interior e, em alguns casos, estados nordestinos.\nII. Contraria o padrão histórico de fluxo unidirecional rumo às grandes metrópoles do Sudeste, predominante ao longo do século XX.\nIII. Indica que a migração interna no Brasil contemporâneo segue sendo motivada, sobretudo, pela busca por emprego industrial, exatamente como ocorria até meados do século XX.\n\nEstá correto o que se afirma em:",
                           "alternativas":  {
-                                               "a":  "II e III, apenas",
-                                               "b":  "III, apenas",
-                                               "c":  "I e II, apenas",
-                                               "d":  "I, II e III"
+                                               "a":  "I e II, apenas",
+                                               "b":  "II e III, apenas",
+                                               "c":  "III, apenas",
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "a",
                           "explicacao":  "As afirmativas I e II descrevem corretamente os novos fatores de atração e a inversão do padrão migratório histórico. A afirmativa III é falsa: os fluxos recentes são cada vez mais influenciados por qualidade de vida, custo de vida e trabalho remoto (acelerado após a pandemia), e não mais, predominantemente, pela busca de emprego industrial nas grandes metrópoles, como ocorria até meados do século XX.",
                           "dificuldade":  "dificil"
                       },
@@ -13621,7 +13687,8 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I e II, apenas",
                                                "c":  "II e III, apenas",
-                                               "d":  "I, II e III"
+                                               "d":  "I, II e III",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "b",
                           "explicacao":  "As afirmativas I e II descrevem corretamente a implicação do dado: reduzir perdas amplia a disponibilidade efetiva de água tratada sem necessidade de novas fontes. A afirmativa III é falsa: um índice de perdas de 40% é considerado elevado, muito acima do patamar desejável por organismos de saneamento, e não um valor ideal — é justamente esse problema que torna a redução de perdas uma estratégia relevante.",
@@ -13677,7 +13744,8 @@ window.QUESTION_BANKS = {
                                                "a":  "III, apenas",
                                                "b":  "I, II e III",
                                                "c":  "I e II, apenas",
-                                               "d":  "II e III, apenas"
+                                               "d":  "II e III, apenas",
+                                               "e":  "I, apenas"
                                            },
                           "resposta":  "c",
                           "explicacao":  "A produção de cada década é área × produtividade: 10×2,0=20; 20×2,8=56; 40×3,5=140 milhões de toneladas, confirmando I. Da Década 1 para a 2, a produção multiplicou-se por 2,8 vezes; da 2 para a 3, por 2,5 vezes, mas com ganho absoluto maior (84 milhões de toneladas, contra 36), confirmando II. A afirmativa III é falsa: embora a área plantada tenha dobrado em cada transição, a produção não dobrou exatamente, pois a produtividade por hectare também variou entre as décadas, alterando o resultado final.",
@@ -15888,11 +15956,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Considerando o trecho anterior e o processo histórico da Proclamação da República, em 15 de novembro de 1889, analise as afirmativas a seguir: I. O movimento foi conduzido essencialmente por setores militares, com apoio de parcelas da elite política e cafeicultora. II. A ampla maioria da população, sobretudo nas cidades, participou ativamente e por iniciativa própria da mobilização que derrubou a monarquia. III. A proclamação resultou de um processo eleitoral direto, no qual a população foi consultada sobre a forma de governo. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa II está correta",
-                                                     "b":  "Apenas a afirmativa I está correta",
-                                                     "c":  "Apenas as afirmativas II e III estão corretas",
-                                                     "d":  "Apenas as afirmativas I e II estão corretas"
+                                                     "b":  "Apenas as afirmativas II e III estão corretas",
+                                                     "c":  "Apenas as afirmativas I e II estão corretas",
+                                                     "d":  "Apenas a afirmativa I está correta",
+                                                     "e":  "Apenas as afirmativas I e III estão corretas"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "A Proclamação da República foi um movimento essencialmente militar e elitista (I correta), sem ampla participação popular espontânea (II incorreta) e sem qualquer consulta direta à população sobre a forma de governo (III incorreta) — daí a célebre expressão do cronista da época sobre o povo que assistiu \u0027bestializado\u0027 ao acontecimento."
                             },
                             {
@@ -15926,12 +15995,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Trecho (recriação livre, no estilo de preâmbulo de ato institucional) inspirado no discurso de outorga de uma nova ordem institucional, 1937: \u0027Ao Estado cabe a tarefa de organizar a Nação e conter as paixões partidárias que ameaçam sua unidade, competindo-lhe dispor, com energia, sobre a segurança interna e a disciplina do trabalho.\u0027",
                                 "enunciado":  "A partir do trecho anterior e do que se sabe sobre o Estado Novo (1937-1945), avalie as afirmativas: I. O regime concentrou poderes no Executivo, fechou o Congresso Nacional e ampliou a censura e a repressão a opositores políticos. II. Paralelamente ao autoritarismo político, o governo promoveu políticas nacionalistas e trabalhistas, como a criação da CLT. III. O período foi marcado por ampla liberdade de imprensa e pelo funcionamento regular de múltiplos partidos políticos. É correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas as afirmativas I e II estão corretas",
-                                                     "b":  "Apenas a afirmativa I está correta",
-                                                     "c":  "As afirmativas I, II e III estão corretas",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "a":  "Apenas a afirmativa I está correta",
+                                                     "b":  "As afirmativas I, II e III estão corretas",
+                                                     "c":  "Apenas a afirmativa III está correta",
+                                                     "d":  "Apenas a afirmativa II está correta",
+                                                     "e":  "Apenas as afirmativas I e II estão corretas"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "O Estado Novo combinou centralização do poder, fechamento do Congresso e forte censura e repressão (I correta) com uma agenda trabalhista e nacionalista, como a CLT de 1943 (II correta); não houve, no período, liberdade de imprensa nem pluripartidarismo, extintos justamente pelo caráter autoritário do regime (III incorreta)."
                             },
                             {
@@ -15952,12 +16022,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Trecho (recriação livre, no estilo de panfleto distribuído por um comitê civil em março de 1964): \u0027Convocamos os cidadãos de bem a comparecer às ruas em defesa da família, da religião e da propriedade, ameaçadas pelo avanço de reformas que, sob disfarce de justiça social, conduziriam o país ao comunismo.\u0027",
                                 "enunciado":  "Considerando o panfleto acima e o contexto do golpe civil-militar de 1964, analise as afirmativas: I. Setores civis e militares se mobilizaram em nome do combate ao que percebiam como avanço comunista, associado às reformas de base propostas pelo governo João Goulart. II. A polarização política interna se inseriu no contexto mais amplo da Guerra Fria, com apoio de setores empresariais e do governo dos Estados Unidos ao movimento contra Goulart. III. O golpe resultou de uma crise estritamente econômica, sem qualquer dimensão ideológica ou internacional. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas a afirmativa II está correta",
-                                                     "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas as afirmativas I e II estão corretas",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "a":  "Apenas as afirmativas I e II estão corretas",
+                                                     "b":  "Apenas a afirmativa II está correta",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa I está correta"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "a",
                                 "explicacao":  "O golpe de 1964 combinou mobilização civil-militar contra as reformas de base identificadas ao comunismo (I correta) com o contexto da Guerra Fria e apoio externo e empresarial (II correta); não se tratou de uma crise apenas econômica, mas de uma disputa política e ideológica ampla (III incorreta)."
                             },
                             {
@@ -15968,7 +16039,8 @@ window.QUESTION_BANKS = {
                                                      "a":  "As afirmativas I, II e III estão corretas",
                                                      "b":  "Apenas as afirmativas I e II estão corretas",
                                                      "c":  "Apenas a afirmativa I está correta",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
                                 "resposta":  "b",
                                 "explicacao":  "O AI-5 concedeu poderes excepcionais ao Executivo, fechando o Congresso e suspendendo garantias constitucionais (I correta), abrindo a fase mais dura da repressão (II correta); as eleições diretas para presidente só seriam restabelecidas décadas depois, em 1989 (III incorreta)."
@@ -15979,11 +16051,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A partir do discurso acima e do processo de redemocratização brasileira ao longo da década de 1980, analise as afirmativas: I. A abertura política foi conduzida, em boa medida, pelos próprios militares no poder, de forma negociada e gradual. II. O processo culminou na eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em 1985. III. A transição ocorreu de forma abrupta e revolucionária, rompendo imediatamente com todas as estruturas do regime militar. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "As afirmativas I, II e III estão corretas",
-                                                     "b":  "Apenas as afirmativas I e II estão corretas",
-                                                     "c":  "Apenas a afirmativa III está correta",
-                                                     "d":  "Apenas a afirmativa II está correta"
+                                                     "b":  "Apenas a afirmativa III está correta",
+                                                     "c":  "Apenas as afirmativas I e II estão corretas",
+                                                     "d":  "Apenas a afirmativa II está correta",
+                                                     "e":  "Apenas a afirmativa I está correta"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "A redemocratização foi um processo lento e negociado, iniciado ainda pelos militares (I correta), culminando na eleição indireta de Tancredo Neves em 1985 (II correta); não houve ruptura abrupta e revolucionária, mas uma transição pactuada ao longo de anos (III incorreta)."
                             },
                             {
@@ -15993,10 +16066,11 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa I está correta",
                                                      "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas as afirmativas I e II estão corretas",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "c":  "Apenas a afirmativa III está correta",
+                                                     "d":  "Apenas as afirmativas I e II estão corretas",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "d",
                                 "explicacao":  "A Constituição de 1988 ampliou direitos e restabeleceu o Estado Democrático de Direito (I correta), tendo sido elaborada com participação de emendas populares (II correta); rompeu, e não manteve, a censura à imprensa característica do regime militar anterior (III incorreta)."
                             },
                             {
@@ -16121,12 +16195,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em julho de 1932, São Paulo pegou em armas contra o governo provisório de Getúlio Vargas.",
                                 "enunciado":  "Sobre a Revolução Constitucionalista de 1932, movimento paulista contra o governo provisório de Vargas, analise as afirmativas: I. A principal reivindicação do movimento era a convocação de uma Assembleia Constituinte e o fim do governo provisório instaurado após 1930. II. Apesar da derrota militar de São Paulo, o movimento contribuiu para a convocação da Assembleia que elaborou a Constituição de 1934. III. O movimento defendia a separação definitiva de São Paulo do restante do território nacional. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas as afirmativas I e II estão corretas",
-                                                     "b":  "Apenas a afirmativa I está correta",
-                                                     "c":  "Apenas a afirmativa III está correta",
-                                                     "d":  "As afirmativas I, II e III estão corretas"
+                                                     "a":  "Apenas a afirmativa I está correta",
+                                                     "b":  "Apenas a afirmativa III está correta",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas a afirmativa II está correta",
+                                                     "e":  "Apenas as afirmativas I e II estão corretas"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "O movimento paulista de 1932 reivindicava a constitucionalização do país e o fim do governo provisório (I correta); apesar da derrota militar, contribuiu para a convocação da Constituinte que resultou na Constituição de 1934 (II correta); não se tratava de um movimento separatista (III incorreta)."
                             },
                             {
@@ -16173,12 +16248,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Vargas e Kubitschek são frequentemente citados como exemplos de líderes populistas na história política brasileira.",
                                 "enunciado":  "A partir da informação acima, avalie as afirmativas sobre o populismo brasileiro (1930-1964): I. Caracterizava-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, com discurso nacionalista e desenvolvimentista. II. Combinava, com frequência, políticas sociais e trabalhistas com fraca mediação de partidos políticos programáticos. III. Rejeitava sistematicamente qualquer política trabalhista ou social como forma de angariar apoio popular. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "As afirmativas I, II e III estão corretas",
-                                                     "b":  "Apenas a afirmativa I está correta",
-                                                     "c":  "Apenas as afirmativas I e II estão corretas",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "a":  "Apenas as afirmativas I e II estão corretas",
+                                                     "b":  "As afirmativas I, II e III estão corretas",
+                                                     "c":  "Apenas a afirmativa I está correta",
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "a",
                                 "explicacao":  "O populismo brasileiro se caracterizou pela relação direta entre líderes carismáticos e massas urbanas com discurso nacionalista (I correta), combinando políticas sociais com fraca mediação partidária (II correta); ao contrário do afirmado em III, o populismo se apoiou justamente em políticas trabalhistas e sociais como instrumento de mobilização popular."
                             },
                             {
@@ -16215,7 +16291,8 @@ window.QUESTION_BANKS = {
                                                      "a":  "Apenas a afirmativa II está correta",
                                                      "b":  "Apenas as afirmativas I e II estão corretas",
                                                      "c":  "Apenas a afirmativa III está correta",
-                                                     "d":  "As afirmativas I, II e III estão corretas"
+                                                     "d":  "As afirmativas I, II e III estão corretas",
+                                                     "e":  "Apenas a afirmativa I está correta"
                                                  },
                                 "resposta":  "b",
                                 "explicacao":  "O MST luta pela reforma agrária por meio da ocupação de terras improdutivas (I correta), consolidando-se como ator relevante do debate sobre desigualdade fundiária na redemocratização (II correta); o movimento defende, ao contrário do afirmado em III, a redistribuição de terras e o fortalecimento da agricultura familiar."
@@ -16227,10 +16304,11 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "As afirmativas I, II e III estão corretas",
                                                      "b":  "Apenas as afirmativas I e II estão corretas",
-                                                     "c":  "Apenas as afirmativas II e III estão corretas",
-                                                     "d":  "Apenas a afirmativa I está correta"
+                                                     "c":  "Apenas a afirmativa I está correta",
+                                                     "d":  "Apenas as afirmativas II e III estão corretas",
+                                                     "e":  "Apenas as afirmativas I e III estão corretas"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "As Jornadas de Junho ampliaram rapidamente sua pauta para além do transporte público (I correta); ao contrário do afirmado, o movimento se espalhou por cidades de diferentes portes por todo o país, e não apenas capitais (II incorreta), nem foi conduzido por partidos tradicionais, mas por mobilização horizontal e redes sociais (III incorreta)."
                             },
                             {
@@ -16645,11 +16723,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Sobre a Revolta da Vacina (1904), analise as afirmativas: I. A revolta expressou insatisfação popular com o autoritarismo das reformas urbanas e sanitárias, que removiam moradores pobres de suas casas sem consulta prévia. II. A vacinação obrigatória, imposta sem diálogo com a população, foi um dos estopins diretos do movimento. III. O episódio contou com pleno apoio popular às reformas urbanas de Pereira Passos, sem qualquer resistência relevante. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa III está correta",
-                                                     "b":  "Apenas as afirmativas I e II estão corretas",
-                                                     "c":  "Apenas a afirmativa I está correta",
-                                                     "d":  "As afirmativas I, II e III estão corretas"
+                                                     "b":  "Apenas a afirmativa I está correta",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas as afirmativas I e II estão corretas",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "A Revolta da Vacina refletiu a insatisfação com o autoritarismo das reformas sanitárias e urbanas (I correta) e teve na vacinação obrigatória um estopim direto (II correta); ao contrário do afirmado em III, houve forte resistência popular às reformas de Pereira Passos, e não apoio pleno.",
                                 "dificuldade":  "media"
                             },
@@ -16688,10 +16767,11 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa III está correta",
                                                      "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas as afirmativas I e II estão corretas",
-                                                     "d":  "Apenas a afirmativa I está correta"
+                                                     "c":  "Apenas a afirmativa I está correta",
+                                                     "d":  "Apenas a afirmativa II está correta",
+                                                     "e":  "Apenas as afirmativas I e II estão corretas"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "e",
                                 "explicacao":  "O tenentismo defendia reformas como voto secreto e combate ao coronelismo (I correta), com programa social pouco definido e ênfase institucional (II correta); ao contrário do afirmado em III, o movimento se opunha justamente ao domínio das oligarquias cafeeiras sobre a política nacional.",
                                 "dificuldade":  "media"
                             },
@@ -16728,12 +16808,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em contraposição ao integralismo, setores de esquerda organizaram a Aliança Nacional Libertadora, que teve entre seus líderes Luís Carlos Prestes.",
                                 "enunciado":  "Sobre a Intentona Comunista de 1935 e seus desdobramentos, analise as afirmativas: I. A derrota do levante foi utilizada pelo governo Vargas para intensificar a repressão a opositores políticos. II. O episódio foi mobilizado como argumento para justificar o golpe que instauraria o Estado Novo em 1937. III. A tentativa de levante resultou no reconhecimento oficial do Partido Comunista como legenda partidária legal. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas a afirmativa II está correta",
-                                                     "b":  "Apenas a afirmativa III está correta",
-                                                     "c":  "As afirmativas I, II e III estão corretas",
-                                                     "d":  "Apenas as afirmativas I e II estão corretas"
+                                                     "a":  "Apenas as afirmativas I e II estão corretas",
+                                                     "b":  "Apenas a afirmativa II está correta",
+                                                     "c":  "Apenas a afirmativa III está correta",
+                                                     "d":  "As afirmativas I, II e III estão corretas",
+                                                     "e":  "Apenas a afirmativa I está correta"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "a",
                                 "explicacao":  "A derrota do levante de 1935 foi usada para intensificar a repressão política (I correta) e pavimentar o caminho para o golpe de 1937 (II correta); o Partido Comunista, ao contrário do afirmado em III, permaneceu na ilegalidade e sob forte perseguição nos anos seguintes.",
                                 "dificuldade":  "dificil"
                             },
@@ -16826,12 +16907,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "No início dos anos 1960, o governo João Goulart defendia um conjunto de mudanças estruturais na sociedade brasileira.",
                                 "enunciado":  "Sobre as reformas de base propostas pelo governo João Goulart, analise as afirmativas: I. Incluíam propostas como a reforma agrária, a reforma urbana e mudanças na legislação eleitoral e tributária. II. Foram vistas por setores conservadores e militares como ameaça à ordem social e econômica vigente, contribuindo para o clima que resultou no golpe de 1964. III. Previam a privatização de todas as empresas estatais e a redução do papel do Estado na economia. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas as afirmativas I e II estão corretas",
-                                                     "b":  "Apenas a afirmativa I está correta",
+                                                     "a":  "Apenas a afirmativa I está correta",
+                                                     "b":  "Apenas as afirmativas I e II estão corretas",
                                                      "c":  "As afirmativas I, II e III estão corretas",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "b",
                                 "explicacao":  "As reformas de base incluíam reforma agrária, urbana e mudanças eleitorais e tributárias (I correta), vistas por conservadores como ameaça à ordem vigente (II correta); ao contrário do afirmado em III, as reformas propunham maior intervenção do Estado, não privatizações.",
                                 "dificuldade":  "media"
                             },
@@ -16841,11 +16923,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Sobre o chamado milagre econômico (1969-1973), analise as afirmativas: I. O crescimento acelerado foi sustentado por forte endividamento externo e investimentos em infraestrutura. II. O período de maior crescimento coincidiu com a fase mais repressiva da ditadura militar, após o AI-5, e com o aumento da concentração de renda. III. O crescimento veio acompanhado de uma distribuição de renda mais equitativa entre a população brasileira. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa III está correta",
-                                                     "b":  "Apenas as afirmativas I e II estão corretas",
-                                                     "c":  "As afirmativas I, II e III estão corretas",
-                                                     "d":  "Apenas a afirmativa I está correta"
+                                                     "b":  "As afirmativas I, II e III estão corretas",
+                                                     "c":  "Apenas as afirmativas I e II estão corretas",
+                                                     "d":  "Apenas a afirmativa I está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "O milagre econômico se apoiou em endividamento externo e investimentos em infraestrutura (I correta), coincidindo com a fase mais repressiva do regime e com maior concentração de renda (II correta); ao contrário do afirmado em III, o período aprofundou, e não reduziu, as desigualdades de renda.",
                                 "dificuldade":  "dificil"
                             },
@@ -16868,12 +16951,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1979, o Congresso Nacional aprovou uma lei que concedia anistia a crimes políticos cometidos desde 1961.",
                                 "enunciado":  "Sobre a Lei da Anistia de 1979, analise as afirmativas: I. A lei permitiu o retorno de exilados políticos e a libertação de presos políticos ao país. II. Setores do governo militar interpretaram a lei como anistia recíproca, alcançando também agentes estatais acusados de violações de direitos humanos, interpretação que permanece controversa. III. A lei foi aplicada exclusivamente a opositores do regime militar, sem qualquer benefício a agentes do próprio Estado. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas as afirmativas I e II estão corretas",
-                                                     "b":  "Apenas a afirmativa I está correta",
-                                                     "c":  "Apenas a afirmativa III está correta",
-                                                     "d":  "As afirmativas I, II e III estão corretas"
+                                                     "a":  "Apenas a afirmativa I está correta",
+                                                     "b":  "Apenas a afirmativa III está correta",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas as afirmativas I e II estão corretas",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "d",
                                 "explicacao":  "A Lei da Anistia permitiu o retorno de exilados e a libertação de presos políticos (I correta), mas foi interpretada por setores do regime como anistia recíproca, também beneficiando agentes estatais (II correta); essa interpretação contraria diretamente o afirmado em III, sendo tema de debate jurídico e político até hoje.",
                                 "dificuldade":  "dificil"
                             },
@@ -16882,12 +16966,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1983 e 1984, o Brasil viveu uma das maiores mobilizações populares de sua história, reivindicando eleições diretas para presidente.",
                                 "enunciado":  "Sobre a campanha das Diretas Já (1983-1984), analise as afirmativas: I. Apesar da forte mobilização popular, a emenda não obteve os votos necessários no Congresso Nacional em 1984. II. A derrota da emenda levou à eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em janeiro de 1985. III. A campanha resultou na aprovação imediata do voto direto para presidente ainda em 1984. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas as afirmativas I e II estão corretas",
-                                                     "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas a afirmativa I está correta",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "a":  "As afirmativas I, II e III estão corretas",
+                                                     "b":  "Apenas a afirmativa I está correta",
+                                                     "c":  "Apenas a afirmativa III está correta",
+                                                     "d":  "Apenas a afirmativa II está correta",
+                                                     "e":  "Apenas as afirmativas I e II estão corretas"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "Apesar da mobilização popular, a emenda das Diretas Já não obteve os votos necessários no Congresso em 1984 (I correta), levando à eleição indireta de Tancredo Neves em 1985 (II correta); o voto direto para presidente só seria restabelecido para a eleição seguinte, e não imediatamente em 1984 (III incorreta).",
                                 "dificuldade":  "media"
                             },
@@ -16952,12 +17037,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1992, Fernando Collor de Mello, primeiro presidente eleito por voto direto após a redemocratização, renunciou ao cargo em meio a um processo de impeachment por denúncias de corrupção.",
                                 "enunciado":  "Sobre o processo de impeachment de Fernando Collor, analise as afirmativas: I. O processo foi conduzido com base nos mecanismos constitucionais previstos pela Constituição de 1988. II. A mobilização popular, como o movimento dos \u0027caras-pintadas\u0027, teve papel relevante na pressão pelo impeachment. III. O episódio revelou a fragilidade das instituições democráticas recém-restabelecidas, que não resistiram à crise política. Está correto o que se afirma em:",
                                 "alternativas":  {
-                                                     "a":  "Apenas a afirmativa I está correta",
-                                                     "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas a afirmativa III está correta",
-                                                     "d":  "Apenas as afirmativas I e II estão corretas"
+                                                     "a":  "Apenas as afirmativas I e II estão corretas",
+                                                     "b":  "Apenas a afirmativa I está correta",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "a",
                                 "explicacao":  "O impeachment de Collor seguiu os mecanismos constitucionais de 1988 (I correta) e contou com forte mobilização popular, como os \u0027caras-pintadas\u0027 (II correta); ao contrário do afirmado em III, o episódio demonstrou justamente a capacidade das instituições democráticas de processar a crise sem ruptura institucional.",
                                 "dificuldade":  "media"
                             },
@@ -16995,11 +17081,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Sobre o reconhecimento de direitos de casais do mesmo sexo no Brasil, analise as afirmativas: I. O reconhecimento da união estável e, posteriormente, do casamento civil entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do Supremo Tribunal Federal. II. A ausência de lei federal específica aprovada pelo Congresso Nacional sobre o tema evidencia o papel do Judiciário na garantia de direitos ainda não regulados pelo Legislativo. III. O Congresso Nacional aprovou, ainda nos anos 1990, lei específica reconhecendo o casamento entre pessoas do mesmo sexo. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "Apenas a afirmativa III está correta",
-                                                     "b":  "As afirmativas I, II e III estão corretas",
-                                                     "c":  "Apenas as afirmativas I e II estão corretas",
-                                                     "d":  "Apenas a afirmativa I está correta"
+                                                     "b":  "Apenas as afirmativas I e II estão corretas",
+                                                     "c":  "As afirmativas I, II e III estão corretas",
+                                                     "d":  "Apenas a afirmativa I está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "b",
                                 "explicacao":  "O reconhecimento da união estável e do casamento entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do STF (I correta), evidenciando o papel do Judiciário diante da inércia do Legislativo (II correta); não houve, ao contrário do afirmado em III, lei federal específica aprovada pelo Congresso sobre o tema.",
                                 "dificuldade":  "dificil"
                             },
@@ -17065,11 +17152,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Sobre operações de combate à corrupção conduzidas a partir de 2014, analise as afirmativas: I. Evidenciam o funcionamento de instituições de investigação e controle fortalecidas pela Constituição de 1988, como o Ministério Público e a Polícia Federal. II. Seus métodos e desdobramentos políticos e jurídicos geraram intenso debate público, inclusive sobre limites de atuação do Judiciário e do Ministério Público. III. Representam a criação, pela primeira vez na história republicana, de mecanismos de combate à corrupção no país. Está correto o que se afirma em:",
                                 "alternativas":  {
                                                      "a":  "As afirmativas I, II e III estão corretas",
-                                                     "b":  "Apenas as afirmativas I e II estão corretas",
-                                                     "c":  "Apenas a afirmativa I está correta",
-                                                     "d":  "Apenas a afirmativa III está correta"
+                                                     "b":  "Apenas a afirmativa I está correta",
+                                                     "c":  "Apenas as afirmativas I e II estão corretas",
+                                                     "d":  "Apenas a afirmativa III está correta",
+                                                     "e":  "Apenas a afirmativa II está correta"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "As operações evidenciam instituições fortalecidas pela Constituição de 1988 (I correta), com métodos e desdobramentos que geraram intenso debate público (II correta); ao contrário do afirmado em III, mecanismos de combate à corrupção já existiam antes, ainda que menos eficazes.",
                                 "dificuldade":  "dificil"
                             },
@@ -17139,7 +17227,8 @@ window.QUESTION_BANKS = {
                                                     "a":  "I, II e III estão corretas",
                                                     "b":  "Apenas I está correta",
                                                     "c":  "Apenas III está correta",
-                                                    "d":  "I e II estão corretas"
+                                                    "d":  "I e II estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
                                "resposta":  "d",
                                "explicacao":  "A crise do Antigo Regime combinou privilégios estamentais e crise fiscal (I correta) com a ascensão de uma burguesia sem poder político correspondente, integrando o Terceiro Estado (II correta); ao contrário do afirmado em III, a Revolução emergiu justamente de desigualdades sociais profundas e historicamente documentadas."
@@ -17202,11 +17291,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A partir do trecho acima e dos fatores estruturais que levaram à Primeira Guerra Mundial, analise as afirmativas: I. O sistema de alianças militares rígidas transformou uma crise regional nos Bálcãs em um conflito de escala continental. II. A corrida armamentista e as rivalidades imperialistas entre as potências europeias também contribuíram para a escalada do conflito. III. A ausência de disputas coloniais entre as potências europeias foi um dos principais fatores que evitaram, até 1914, qualquer tensão internacional. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas III está correta",
-                                                    "b":  "I e II estão corretas",
-                                                    "c":  "I, II e III estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "b":  "I, II e III estão corretas",
+                                                    "c":  "Apenas I está correta",
+                                                    "d":  "Apenas II está correta",
+                                                    "e":  "I e II estão corretas"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "O sistema de alianças ampliou um conflito regional (I correta), somando-se à corrida armamentista e às rivalidades imperialistas (II correta); ao contrário do afirmado em III, as disputas coloniais eram justamente um dos fatores de tensão entre as potências antes de 1914."
                            },
                            {
@@ -17217,7 +17307,8 @@ window.QUESTION_BANKS = {
                                                     "a":  "I e II estão corretas",
                                                     "b":  "Apenas I está correta",
                                                     "c":  "Apenas III está correta",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "d":  "I, II e III estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
                                "resposta":  "a",
                                "explicacao":  "As duras condições de Versalhes alimentaram o ressentimento nacionalista alemão (I correta), posteriormente explorado pela propaganda nazista (II correta); ao contrário do afirmado em III, o tratado não garantiu paz duradoura, sendo apontado como fator de instabilidade que contribuiria para a Segunda Guerra Mundial."
@@ -17228,11 +17319,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A partir do trecho acima e do contexto da Revolução Russa de 1917, avalie as afirmativas: I. O desgaste do czarismo pelas perdas na Primeira Guerra Mundial e a crise econômica contribuíram para a insatisfação popular crescente. II. A fome e as dificuldades cotidianas da população, somadas ao desgaste militar, abriram caminho para as revoluções de fevereiro e outubro de 1917. III. A Rússia czarista vivia, às vésperas de 1917, uma situação de prosperidade econômica generalizada e forte apoio popular ao czar. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas III está correta",
-                                                    "b":  "I, II e III estão corretas",
-                                                    "c":  "I e II estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "b":  "I e II estão corretas",
+                                                    "c":  "I, II e III estão corretas",
+                                                    "d":  "Apenas I está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "b",
                                "explicacao":  "O desgaste do czarismo pela guerra e a crise econômica geraram insatisfação crescente (I correta), com a fome e o cansaço popular abrindo caminho às revoluções de 1917 (II correta); ao contrário do afirmado em III, a Rússia vivia justamente uma grave crise, não prosperidade."
                            },
                            {
@@ -17241,11 +17333,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Sobre os fatores que explicam a Crise de 1929, analise as afirmativas: I. A superprodução industrial e agrícola, aliada à intensa especulação no mercado de ações, esteve entre as principais causas da crise. II. O estouro da bolha especulativa gerou falências em cadeia e uma profunda recessão de alcance global. III. A crise resultou exclusivamente da escassez generalizada de bens de consumo nos Estados Unidos. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas I está correta",
-                                                    "b":  "I e II estão corretas",
-                                                    "c":  "Apenas III está correta",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "b":  "Apenas III está correta",
+                                                    "c":  "I e II estão corretas",
+                                                    "d":  "I, II e III estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "c",
                                "explicacao":  "A crise resultou da combinação entre superprodução e especulação excessiva (I correta), gerando falências em cadeia e recessão global (II correta); ao contrário do afirmado em III, o problema era justamente o excesso de oferta em relação à capacidade de consumo, não a escassez de bens."
                            },
                            {
@@ -17255,10 +17348,11 @@ window.QUESTION_BANKS = {
                                "alternativas":  {
                                                     "a":  "I, II e III estão corretas",
                                                     "b":  "Apenas III está correta",
-                                                    "c":  "I e II estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "c":  "Apenas I está correta",
+                                                    "d":  "I e II estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "d",
                                "explicacao":  "A crise econômica e o desemprego em massa após 1929 criaram terreno fértil para o nazismo (I correta), que também explorou o ressentimento com Versalhes (II correta); ao contrário do afirmado em III, a República de Weimar enfrentava justamente grave instabilidade econômica nesse período."
                            },
                            {
@@ -17267,11 +17361,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Sobre os fatores que desencadearam a Segunda Guerra Mundial, avalie as afirmativas: I. A política de apaziguamento adotada por potências como Reino Unido e França diante do expansionismo alemão não conteve Hitler. II. Anexações como a da Áustria e dos Sudetos, toleradas pelas potências ocidentais, precederam a invasão da Polônia em 1939. III. A democracia se fortaleceu em toda a Europa ao longo dos anos 1930, o que ajuda a explicar a ausência de conflitos até 1939. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "I, II e III estão corretas",
-                                                    "b":  "I e II estão corretas",
-                                                    "c":  "Apenas I está correta",
-                                                    "d":  "Apenas III está correta"
+                                                    "b":  "Apenas I está correta",
+                                                    "c":  "Apenas III está correta",
+                                                    "d":  "Apenas II está correta",
+                                                    "e":  "I e II estão corretas"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "A política de apaziguamento não conteve o expansionismo alemão (I correta), que incluiu anexações toleradas antes da invasão da Polônia (II correta); ao contrário do afirmado em III, os anos 1930 foram marcados pelo avanço de regimes autoritários na Europa, não pelo fortalecimento generalizado da democracia."
                            },
                            {
@@ -17279,12 +17374,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "Sobre o Holocausto promovido pelo regime nazista, avalie as afirmativas: I. Consistiu no extermínio sistemático de aproximadamente seis milhões de judeus europeus. II. Atingiu também outros grupos perseguidos pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos. III. Restringiu-se exclusivamente a membros de partidos comunistas europeus, sem atingir outros grupos sociais. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "I, II e III estão corretas",
-                                                    "b":  "Apenas III está correta",
-                                                    "c":  "I e II estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "a":  "I e II estão corretas",
+                                                    "b":  "I, II e III estão corretas",
+                                                    "c":  "Apenas III está correta",
+                                                    "d":  "Apenas I está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "a",
                                "explicacao":  "O Holocausto exterminou sistematicamente cerca de seis milhões de judeus (I correta) e também outros grupos considerados \u0027indesejáveis\u0027 pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos (II correta), o que contraria a restrição afirmada em III."
                            },
                            {
@@ -17527,11 +17623,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Sobre o sistema de apartheid na África do Sul, analise as afirmativas: I. Separava legalmente a população por critérios raciais, restringindo direitos políticos, de moradia e de circulação da maioria negra sul-africana. II. Era um sistema institucionalizado por lei, e não uma prática apenas informal ou social. III. Garantia direitos civis e políticos iguais a todos os grupos raciais do país. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas I está correta",
-                                                    "b":  "Apenas III está correta",
-                                                    "c":  "I e II estão corretas",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "b":  "I e II estão corretas",
+                                                    "c":  "Apenas III está correta",
+                                                    "d":  "I, II e III estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "b",
                                "explicacao":  "O apartheid segregava legalmente a população por critérios raciais (I correta), sendo institucionalizado por lei (II correta); ao contrário do afirmado em III, o sistema restringia gravemente os direitos da maioria negra, sem qualquer igualdade civil ou política."
                            },
                            {
@@ -17539,12 +17636,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Nelson Mandela, líder do Congresso Nacional Africano (CNA), foi preso por quase três décadas por sua luta contra o apartheid.",
                                "enunciado":  "Sobre a libertação de Nelson Mandela, em 1990, e sua eleição em 1994, avalie as afirmativas: I. Esses eventos marcaram o fim formal do apartheid e a transição para um regime democrático multirracial na África do Sul. II. A eleição de 1994 foi a primeira com participação de todas as raças na história sul-africana. III. Esses eventos representaram a manutenção do apartheid sob uma nova liderança política. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "I e II estão corretas",
-                                                    "b":  "I, II e III estão corretas",
-                                                    "c":  "Apenas III está correta",
-                                                    "d":  "Apenas I está correta"
+                                                    "a":  "I, II e III estão corretas",
+                                                    "b":  "Apenas III está correta",
+                                                    "c":  "I e II estão corretas",
+                                                    "d":  "Apenas I está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "c",
                                "explicacao":  "A libertação e eleição de Mandela marcaram o fim formal do apartheid e a transição democrática multirracial (I correta), com a eleição de 1994 sendo a primeira com participação de todas as raças (II correta); não houve, ao contrário do afirmado em III, manutenção do regime segregacionista."
                            },
                            {
@@ -17552,12 +17650,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A chamada Primavera Árabe teve início na Tunísia, no final de 2010, espalhando-se por diversos países do Oriente Médio e do Norte da África.",
                                "enunciado":  "Sobre os fatores que impulsionaram a Primavera Árabe, analise as afirmativas: I. O desemprego, sobretudo entre os jovens, e o autoritarismo político prolongado estiveram entre os principais fatores dos protestos. II. As redes sociais tiveram papel relevante na mobilização e organização dos protestos em diversos países. III. Os protestos contaram com amplo apoio popular aos governos autoritários então vigentes na região. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "I e II estão corretas",
-                                                    "b":  "Apenas III está correta",
-                                                    "c":  "I, II e III estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "a":  "Apenas III está correta",
+                                                    "b":  "I, II e III estão corretas",
+                                                    "c":  "Apenas I está correta",
+                                                    "d":  "I e II estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "d",
                                "explicacao":  "O desemprego juvenil e o autoritarismo prolongado impulsionaram os protestos (I correta), com forte uso das redes sociais na mobilização (II correta); ao contrário do afirmado em III, os protestos expressavam justamente rejeição aos governos autoritários, não apoio a eles."
                            },
                            {
@@ -17566,11 +17665,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Sobre os desdobramentos da Primavera Árabe na Síria, avalie as afirmativas: I. Os protestos iniciais transformaram-se em uma guerra civil prolongada, com graves consequências humanitárias. II. O conflito sírio gerou um dos maiores fluxos de refugiados do século XXI. III. Os protestos na Síria levaram a uma rápida e pacífica transição democrática, sem qualquer conflito armado. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas III está correta",
-                                                    "b":  "I e II estão corretas",
-                                                    "c":  "Apenas I está correta",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "b":  "Apenas I está correta",
+                                                    "c":  "I, II e III estão corretas",
+                                                    "d":  "Apenas II está correta",
+                                                    "e":  "I e II estão corretas"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "Os protestos na Síria degeneraram em guerra civil prolongada (I correta), gerando um dos maiores fluxos de refugiados do século (II correta); ao contrário do afirmado em III, não houve transição pacífica, mas um conflito armado de longa duração."
                            },
                            {
@@ -17870,12 +17970,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre 1936 e 1939, a Espanha viveu um sangrento conflito entre as forças republicanas, de orientação mais à esquerda, e as forças nacionalistas lideradas pelo general Francisco Franco.",
                                "enunciado":  "Sobre a Guerra Civil Espanhola (1936-1939) e seu papel como prenúncio da Segunda Guerra Mundial, analise as afirmativas: I. A Alemanha nazista e a Itália fascista apoiaram militarmente as forças franquistas, enquanto a União Soviética apoiou as forças republicanas. II. O conflito funcionou como um campo de testes para armamentos, táticas e alianças que seriam usados na Segunda Guerra Mundial. III. A guerra não envolveu qualquer participação ou interesse de potências estrangeiras, tratando-se de um conflito estritamente interno. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "Apenas I está correta",
-                                                    "b":  "I, II e III estão corretas",
-                                                    "c":  "I e II estão corretas",
-                                                    "d":  "Apenas III está correta"
+                                                    "a":  "I e II estão corretas",
+                                                    "b":  "Apenas I está correta",
+                                                    "c":  "I, II e III estão corretas",
+                                                    "d":  "Apenas III está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "a",
                                "explicacao":  "A Guerra Civil Espanhola contou com apoio militar direto de Alemanha e Itália a Franco e da URSS aos republicanos (I correta), funcionando como ensaio geral para a Segunda Guerra Mundial (II correta); ao contrário do afirmado em III, o conflito teve intensa participação e interesse de potências estrangeiras.",
                                "dificuldade":  "dificil"
                            },
@@ -17884,12 +17985,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em agosto de 1939, dias antes da invasão da Polônia, Alemanha nazista e União Soviética assinaram um pacto de não agressão que surpreendeu a comunidade internacional.",
                                "enunciado":  "Sobre o Pacto Molotov-Ribbentrop (1939), analise as afirmativas: I. Revelou convergências táticas de curto prazo entre Alemanha nazista e União Soviética, apesar da rivalidade ideológica entre os dois regimes. II. Incluía cláusulas secretas de partilha de territórios no Leste Europeu entre as duas potências. III. Estabeleceu uma aliança militar permanente entre nazismo e comunismo, mantida até o fim da Segunda Guerra Mundial. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "I e II estão corretas",
-                                                    "b":  "Apenas I está correta",
+                                                    "a":  "Apenas I está correta",
+                                                    "b":  "I e II estão corretas",
                                                     "c":  "I, II e III estão corretas",
-                                                    "d":  "Apenas III está correta"
+                                                    "d":  "Apenas III está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "b",
                                "explicacao":  "O pacto revelou convergências táticas apesar da rivalidade ideológica (I correta), incluindo cláusulas secretas de partilha territorial (II correta); ao contrário do afirmado em III, a aliança foi rompida já em 1941, com a invasão alemã à União Soviética, não sendo permanente.",
                                "dificuldade":  "dificil"
                            },
@@ -18069,7 +18171,8 @@ window.QUESTION_BANKS = {
                                                     "a":  "I e II estão corretas",
                                                     "b":  "Apenas III está correta",
                                                     "c":  "I, II e III estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "d":  "Apenas I está correta",
+                                                    "e":  "I e III estão corretas"
                                                 },
                                "resposta":  "c",
                                "explicacao":  "A Primavera de Praga foi de fato interrompida por intervenção militar do Pacto de Varsóvia (I correta), com o objetivo de restabelecer o controle soviético e reprimir as reformas (II correta), evidenciando os limites impostos pela URSS a experiências de abertura dentro do bloco socialista (III correta) — as três afirmativas estão corretas.",
@@ -18249,11 +18352,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Sobre os conflitos que fragmentaram a Iugoslávia na década de 1990, analise as afirmativas: I. O enfraquecimento de estruturas estatais multiétnicas, no contexto do fim do socialismo no Leste Europeu, contribuiu para reacender rivalidades nacionais e religiosas antigas. II. Os conflitos resultaram na formação de diversos novos Estados independentes na região dos Bálcãs. III. O fim da Guerra Fria eliminou automaticamente quaisquer tensões étnicas e nacionalistas na Europa. Está correto o que se afirma em:",
                                "alternativas":  {
                                                     "a":  "Apenas III está correta",
-                                                    "b":  "I e II estão corretas",
-                                                    "c":  "Apenas I está correta",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "b":  "Apenas I está correta",
+                                                    "c":  "I, II e III estão corretas",
+                                                    "d":  "I e II estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "O enfraquecimento de estruturas multiétnicas reacendeu rivalidades antigas (I correta), resultando em novos Estados independentes nos Bálcãs (II correta); ao contrário do afirmado em III, o fim da Guerra Fria não eliminou, mas em certos contextos reacendeu, tensões étnicas e nacionalistas na Europa.",
                                "dificuldade":  "dificil"
                            },
@@ -18265,9 +18369,10 @@ window.QUESTION_BANKS = {
                                                     "a":  "Apenas III está correta",
                                                     "b":  "I, II e III estão corretas",
                                                     "c":  "Apenas I está correta",
-                                                    "d":  "I e II estão corretas"
+                                                    "d":  "Apenas II está correta",
+                                                    "e":  "I e II estão corretas"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "e",
                                "explicacao":  "O genocídio esteve associado a tensões étnicas aprofundadas no período colonial belga (I correta), com a comunidade internacional apontada por sua omissão (II correta); ao contrário do afirmado em III, o conflito teve componente étnico e colonial central, não religioso.",
                                "dificuldade":  "dificil"
                            },
@@ -18332,12 +18437,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Durante a Primavera Árabe, o Egito viveu, em 2011, protestos em massa que resultaram na renúncia do presidente Hosni Mubarak, no poder havia quase três décadas.",
                                "enunciado":  "Sobre os anos seguintes à queda de Mubarak no Egito, analise as afirmativas: I. O país viveu eleições e um governo civil eleito nos anos seguintes à queda de Mubarak. II. Poucos anos após a eleição de um governo civil, o Egito viveu um novo golpe militar, evidenciando a instabilidade prolongada do processo. III. A transição democrática egípcia ocorreu de forma linear e sem qualquer novo episódio de instabilidade política. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "Apenas III está correta",
-                                                    "b":  "Apenas I está correta",
-                                                    "c":  "I, II e III estão corretas",
-                                                    "d":  "I e II estão corretas"
+                                                    "a":  "I e II estão corretas",
+                                                    "b":  "Apenas III está correta",
+                                                    "c":  "Apenas I está correta",
+                                                    "d":  "I, II e III estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "a",
                                "explicacao":  "O Egito viveu eleições e um governo civil após 2011 (I correta), seguido de um novo golpe militar poucos anos depois (II correta); ao contrário do afirmado em III, a transição foi marcada por instabilidade prolongada, e não por linearidade.",
                                "dificuldade":  "dificil"
                            },
@@ -18444,12 +18550,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1973, um golpe militar depôs o presidente chileno Salvador Allende, eleito democraticamente, dando início a um longo regime ditatorial no país.",
                                "enunciado":  "Sobre o golpe de 1973 no Chile, analise as afirmativas: I. Tensões da Guerra Fria também se manifestaram na América Latina, com setores internos e apoio externo contribuindo para a deposição de governos vistos como ameaça aos interesses ocidentais. II. O golpe depôs um presidente eleito democraticamente, dando início a um longo regime autoritário no país. III. Os Estados Unidos jamais demonstraram qualquer interesse pela política interna de países latino-americanos durante a Guerra Fria. Está correto o que se afirma em:",
                                "alternativas":  {
-                                                    "a":  "I e II estão corretas",
-                                                    "b":  "Apenas III está correta",
+                                                    "a":  "Apenas III está correta",
+                                                    "b":  "I e II estão corretas",
                                                     "c":  "I, II e III estão corretas",
-                                                    "d":  "Apenas I está correta"
+                                                    "d":  "Apenas I está correta",
+                                                    "e":  "Apenas II está correta"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "b",
                                "explicacao":  "O golpe no Chile refletiu tensões da Guerra Fria na América Latina, com apoio externo a setores opositores (I correta), depondo um presidente eleito e instaurando ditadura (II correta); ao contrário do afirmado em III, há amplo registro histórico do interesse e da atuação dos Estados Unidos na política interna latino-americana durante o período.",
                                "dificuldade":  "dificil"
                            },
@@ -18461,7 +18568,8 @@ window.QUESTION_BANKS = {
                                                     "a":  "Apenas III está correta",
                                                     "b":  "Apenas I está correta",
                                                     "c":  "I e II estão corretas",
-                                                    "d":  "I, II e III estão corretas"
+                                                    "d":  "I, II e III estão corretas",
+                                                    "e":  "Apenas II está correta"
                                                 },
                                "resposta":  "c",
                                "explicacao":  "A Operação Condor evidencia o compartilhamento de informações de inteligência entre regimes autoritários sul-americanos (I correta) e a cooperação na perseguição e eliminação de opositores além das fronteiras (II correta); ao contrário do afirmado em III, houve articulação sistemática, e não isolamento, entre esses regimes.",

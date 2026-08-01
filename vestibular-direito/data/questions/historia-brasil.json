@@ -124,11 +124,12 @@
                          "enunciado":  "Considerando o trecho anterior e o processo histórico da Proclamação da República, em 15 de novembro de 1889, analise as afirmativas a seguir: I. O movimento foi conduzido essencialmente por setores militares, com apoio de parcelas da elite política e cafeicultora. II. A ampla maioria da população, sobretudo nas cidades, participou ativamente e por iniciativa própria da mobilização que derrubou a monarquia. III. A proclamação resultou de um processo eleitoral direto, no qual a população foi consultada sobre a forma de governo. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa II está correta",
-                                              "b":  "Apenas a afirmativa I está correta",
-                                              "c":  "Apenas as afirmativas II e III estão corretas",
-                                              "d":  "Apenas as afirmativas I e II estão corretas"
+                                              "b":  "Apenas as afirmativas II e III estão corretas",
+                                              "c":  "Apenas as afirmativas I e II estão corretas",
+                                              "d":  "Apenas a afirmativa I está correta",
+                                              "e":  "Apenas as afirmativas I e III estão corretas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "A Proclamação da República foi um movimento essencialmente militar e elitista (I correta), sem ampla participação popular espontânea (II incorreta) e sem qualquer consulta direta à população sobre a forma de governo (III incorreta) — daí a célebre expressão do cronista da época sobre o povo que assistiu \u0027bestializado\u0027 ao acontecimento."
                      },
                      {
@@ -162,12 +163,13 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de preâmbulo de ato institucional) inspirado no discurso de outorga de uma nova ordem institucional, 1937: \u0027Ao Estado cabe a tarefa de organizar a Nação e conter as paixões partidárias que ameaçam sua unidade, competindo-lhe dispor, com energia, sobre a segurança interna e a disciplina do trabalho.\u0027",
                          "enunciado":  "A partir do trecho anterior e do que se sabe sobre o Estado Novo (1937-1945), avalie as afirmativas: I. O regime concentrou poderes no Executivo, fechou o Congresso Nacional e ampliou a censura e a repressão a opositores políticos. II. Paralelamente ao autoritarismo político, o governo promoveu políticas nacionalistas e trabalhistas, como a criação da CLT. III. O período foi marcado por ampla liberdade de imprensa e pelo funcionamento regular de múltiplos partidos políticos. É correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas as afirmativas I e II estão corretas",
-                                              "b":  "Apenas a afirmativa I está correta",
-                                              "c":  "As afirmativas I, II e III estão corretas",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "a":  "Apenas a afirmativa I está correta",
+                                              "b":  "As afirmativas I, II e III estão corretas",
+                                              "c":  "Apenas a afirmativa III está correta",
+                                              "d":  "Apenas a afirmativa II está correta",
+                                              "e":  "Apenas as afirmativas I e II estão corretas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "O Estado Novo combinou centralização do poder, fechamento do Congresso e forte censura e repressão (I correta) com uma agenda trabalhista e nacionalista, como a CLT de 1943 (II correta); não houve, no período, liberdade de imprensa nem pluripartidarismo, extintos justamente pelo caráter autoritário do regime (III incorreta)."
                      },
                      {
@@ -188,12 +190,13 @@
                          "texto_apoio":  "Trecho (recriação livre, no estilo de panfleto distribuído por um comitê civil em março de 1964): \u0027Convocamos os cidadãos de bem a comparecer às ruas em defesa da família, da religião e da propriedade, ameaçadas pelo avanço de reformas que, sob disfarce de justiça social, conduziriam o país ao comunismo.\u0027",
                          "enunciado":  "Considerando o panfleto acima e o contexto do golpe civil-militar de 1964, analise as afirmativas: I. Setores civis e militares se mobilizaram em nome do combate ao que percebiam como avanço comunista, associado às reformas de base propostas pelo governo João Goulart. II. A polarização política interna se inseriu no contexto mais amplo da Guerra Fria, com apoio de setores empresariais e do governo dos Estados Unidos ao movimento contra Goulart. III. O golpe resultou de uma crise estritamente econômica, sem qualquer dimensão ideológica ou internacional. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas a afirmativa II está correta",
-                                              "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas as afirmativas I e II estão corretas",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "a":  "Apenas as afirmativas I e II estão corretas",
+                                              "b":  "Apenas a afirmativa II está correta",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa I está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "O golpe de 1964 combinou mobilização civil-militar contra as reformas de base identificadas ao comunismo (I correta) com o contexto da Guerra Fria e apoio externo e empresarial (II correta); não se tratou de uma crise apenas econômica, mas de uma disputa política e ideológica ampla (III incorreta)."
                      },
                      {
@@ -204,7 +207,8 @@
                                               "a":  "As afirmativas I, II e III estão corretas",
                                               "b":  "Apenas as afirmativas I e II estão corretas",
                                               "c":  "Apenas a afirmativa I está correta",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O AI-5 concedeu poderes excepcionais ao Executivo, fechando o Congresso e suspendendo garantias constitucionais (I correta), abrindo a fase mais dura da repressão (II correta); as eleições diretas para presidente só seriam restabelecidas décadas depois, em 1989 (III incorreta)."
@@ -215,11 +219,12 @@
                          "enunciado":  "A partir do discurso acima e do processo de redemocratização brasileira ao longo da década de 1980, analise as afirmativas: I. A abertura política foi conduzida, em boa medida, pelos próprios militares no poder, de forma negociada e gradual. II. O processo culminou na eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em 1985. III. A transição ocorreu de forma abrupta e revolucionária, rompendo imediatamente com todas as estruturas do regime militar. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "As afirmativas I, II e III estão corretas",
-                                              "b":  "Apenas as afirmativas I e II estão corretas",
-                                              "c":  "Apenas a afirmativa III está correta",
-                                              "d":  "Apenas a afirmativa II está correta"
+                                              "b":  "Apenas a afirmativa III está correta",
+                                              "c":  "Apenas as afirmativas I e II estão corretas",
+                                              "d":  "Apenas a afirmativa II está correta",
+                                              "e":  "Apenas a afirmativa I está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "A redemocratização foi um processo lento e negociado, iniciado ainda pelos militares (I correta), culminando na eleição indireta de Tancredo Neves em 1985 (II correta); não houve ruptura abrupta e revolucionária, mas uma transição pactuada ao longo de anos (III incorreta)."
                      },
                      {
@@ -229,10 +234,11 @@
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa I está correta",
                                               "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas as afirmativas I e II estão corretas",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "c":  "Apenas a afirmativa III está correta",
+                                              "d":  "Apenas as afirmativas I e II estão corretas",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "d",
                          "explicacao":  "A Constituição de 1988 ampliou direitos e restabeleceu o Estado Democrático de Direito (I correta), tendo sido elaborada com participação de emendas populares (II correta); rompeu, e não manteve, a censura à imprensa característica do regime militar anterior (III incorreta)."
                      },
                      {
@@ -357,12 +363,13 @@
                          "texto_apoio":  "Em julho de 1932, São Paulo pegou em armas contra o governo provisório de Getúlio Vargas.",
                          "enunciado":  "Sobre a Revolução Constitucionalista de 1932, movimento paulista contra o governo provisório de Vargas, analise as afirmativas: I. A principal reivindicação do movimento era a convocação de uma Assembleia Constituinte e o fim do governo provisório instaurado após 1930. II. Apesar da derrota militar de São Paulo, o movimento contribuiu para a convocação da Assembleia que elaborou a Constituição de 1934. III. O movimento defendia a separação definitiva de São Paulo do restante do território nacional. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas as afirmativas I e II estão corretas",
-                                              "b":  "Apenas a afirmativa I está correta",
-                                              "c":  "Apenas a afirmativa III está correta",
-                                              "d":  "As afirmativas I, II e III estão corretas"
+                                              "a":  "Apenas a afirmativa I está correta",
+                                              "b":  "Apenas a afirmativa III está correta",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas a afirmativa II está correta",
+                                              "e":  "Apenas as afirmativas I e II estão corretas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "O movimento paulista de 1932 reivindicava a constitucionalização do país e o fim do governo provisório (I correta); apesar da derrota militar, contribuiu para a convocação da Constituinte que resultou na Constituição de 1934 (II correta); não se tratava de um movimento separatista (III incorreta)."
                      },
                      {
@@ -409,12 +416,13 @@
                          "texto_apoio":  "Vargas e Kubitschek são frequentemente citados como exemplos de líderes populistas na história política brasileira.",
                          "enunciado":  "A partir da informação acima, avalie as afirmativas sobre o populismo brasileiro (1930-1964): I. Caracterizava-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, com discurso nacionalista e desenvolvimentista. II. Combinava, com frequência, políticas sociais e trabalhistas com fraca mediação de partidos políticos programáticos. III. Rejeitava sistematicamente qualquer política trabalhista ou social como forma de angariar apoio popular. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "As afirmativas I, II e III estão corretas",
-                                              "b":  "Apenas a afirmativa I está correta",
-                                              "c":  "Apenas as afirmativas I e II estão corretas",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "a":  "Apenas as afirmativas I e II estão corretas",
+                                              "b":  "As afirmativas I, II e III estão corretas",
+                                              "c":  "Apenas a afirmativa I está correta",
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "O populismo brasileiro se caracterizou pela relação direta entre líderes carismáticos e massas urbanas com discurso nacionalista (I correta), combinando políticas sociais com fraca mediação partidária (II correta); ao contrário do afirmado em III, o populismo se apoiou justamente em políticas trabalhistas e sociais como instrumento de mobilização popular."
                      },
                      {
@@ -451,7 +459,8 @@
                                               "a":  "Apenas a afirmativa II está correta",
                                               "b":  "Apenas as afirmativas I e II estão corretas",
                                               "c":  "Apenas a afirmativa III está correta",
-                                              "d":  "As afirmativas I, II e III estão corretas"
+                                              "d":  "As afirmativas I, II e III estão corretas",
+                                              "e":  "Apenas a afirmativa I está correta"
                                           },
                          "resposta":  "b",
                          "explicacao":  "O MST luta pela reforma agrária por meio da ocupação de terras improdutivas (I correta), consolidando-se como ator relevante do debate sobre desigualdade fundiária na redemocratização (II correta); o movimento defende, ao contrário do afirmado em III, a redistribuição de terras e o fortalecimento da agricultura familiar."
@@ -463,10 +472,11 @@
                          "alternativas":  {
                                               "a":  "As afirmativas I, II e III estão corretas",
                                               "b":  "Apenas as afirmativas I e II estão corretas",
-                                              "c":  "Apenas as afirmativas II e III estão corretas",
-                                              "d":  "Apenas a afirmativa I está correta"
+                                              "c":  "Apenas a afirmativa I está correta",
+                                              "d":  "Apenas as afirmativas II e III estão corretas",
+                                              "e":  "Apenas as afirmativas I e III estão corretas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "c",
                          "explicacao":  "As Jornadas de Junho ampliaram rapidamente sua pauta para além do transporte público (I correta); ao contrário do afirmado, o movimento se espalhou por cidades de diferentes portes por todo o país, e não apenas capitais (II incorreta), nem foi conduzido por partidos tradicionais, mas por mobilização horizontal e redes sociais (III incorreta)."
                      },
                      {
@@ -881,11 +891,12 @@
                          "enunciado":  "Sobre a Revolta da Vacina (1904), analise as afirmativas: I. A revolta expressou insatisfação popular com o autoritarismo das reformas urbanas e sanitárias, que removiam moradores pobres de suas casas sem consulta prévia. II. A vacinação obrigatória, imposta sem diálogo com a população, foi um dos estopins diretos do movimento. III. O episódio contou com pleno apoio popular às reformas urbanas de Pereira Passos, sem qualquer resistência relevante. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa III está correta",
-                                              "b":  "Apenas as afirmativas I e II estão corretas",
-                                              "c":  "Apenas a afirmativa I está correta",
-                                              "d":  "As afirmativas I, II e III estão corretas"
+                                              "b":  "Apenas a afirmativa I está correta",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas as afirmativas I e II estão corretas",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "A Revolta da Vacina refletiu a insatisfação com o autoritarismo das reformas sanitárias e urbanas (I correta) e teve na vacinação obrigatória um estopim direto (II correta); ao contrário do afirmado em III, houve forte resistência popular às reformas de Pereira Passos, e não apoio pleno.",
                          "dificuldade":  "media"
                      },
@@ -924,10 +935,11 @@
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa III está correta",
                                               "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas as afirmativas I e II estão corretas",
-                                              "d":  "Apenas a afirmativa I está correta"
+                                              "c":  "Apenas a afirmativa I está correta",
+                                              "d":  "Apenas a afirmativa II está correta",
+                                              "e":  "Apenas as afirmativas I e II estão corretas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "O tenentismo defendia reformas como voto secreto e combate ao coronelismo (I correta), com programa social pouco definido e ênfase institucional (II correta); ao contrário do afirmado em III, o movimento se opunha justamente ao domínio das oligarquias cafeeiras sobre a política nacional.",
                          "dificuldade":  "media"
                      },
@@ -964,12 +976,13 @@
                          "texto_apoio":  "Em contraposição ao integralismo, setores de esquerda organizaram a Aliança Nacional Libertadora, que teve entre seus líderes Luís Carlos Prestes.",
                          "enunciado":  "Sobre a Intentona Comunista de 1935 e seus desdobramentos, analise as afirmativas: I. A derrota do levante foi utilizada pelo governo Vargas para intensificar a repressão a opositores políticos. II. O episódio foi mobilizado como argumento para justificar o golpe que instauraria o Estado Novo em 1937. III. A tentativa de levante resultou no reconhecimento oficial do Partido Comunista como legenda partidária legal. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas a afirmativa II está correta",
-                                              "b":  "Apenas a afirmativa III está correta",
-                                              "c":  "As afirmativas I, II e III estão corretas",
-                                              "d":  "Apenas as afirmativas I e II estão corretas"
+                                              "a":  "Apenas as afirmativas I e II estão corretas",
+                                              "b":  "Apenas a afirmativa II está correta",
+                                              "c":  "Apenas a afirmativa III está correta",
+                                              "d":  "As afirmativas I, II e III estão corretas",
+                                              "e":  "Apenas a afirmativa I está correta"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "A derrota do levante de 1935 foi usada para intensificar a repressão política (I correta) e pavimentar o caminho para o golpe de 1937 (II correta); o Partido Comunista, ao contrário do afirmado em III, permaneceu na ilegalidade e sob forte perseguição nos anos seguintes.",
                          "dificuldade":  "dificil"
                      },
@@ -1062,12 +1075,13 @@
                          "texto_apoio":  "No início dos anos 1960, o governo João Goulart defendia um conjunto de mudanças estruturais na sociedade brasileira.",
                          "enunciado":  "Sobre as reformas de base propostas pelo governo João Goulart, analise as afirmativas: I. Incluíam propostas como a reforma agrária, a reforma urbana e mudanças na legislação eleitoral e tributária. II. Foram vistas por setores conservadores e militares como ameaça à ordem social e econômica vigente, contribuindo para o clima que resultou no golpe de 1964. III. Previam a privatização de todas as empresas estatais e a redução do papel do Estado na economia. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas as afirmativas I e II estão corretas",
-                                              "b":  "Apenas a afirmativa I está correta",
+                                              "a":  "Apenas a afirmativa I está correta",
+                                              "b":  "Apenas as afirmativas I e II estão corretas",
                                               "c":  "As afirmativas I, II e III estão corretas",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "As reformas de base incluíam reforma agrária, urbana e mudanças eleitorais e tributárias (I correta), vistas por conservadores como ameaça à ordem vigente (II correta); ao contrário do afirmado em III, as reformas propunham maior intervenção do Estado, não privatizações.",
                          "dificuldade":  "media"
                      },
@@ -1077,11 +1091,12 @@
                          "enunciado":  "Sobre o chamado milagre econômico (1969-1973), analise as afirmativas: I. O crescimento acelerado foi sustentado por forte endividamento externo e investimentos em infraestrutura. II. O período de maior crescimento coincidiu com a fase mais repressiva da ditadura militar, após o AI-5, e com o aumento da concentração de renda. III. O crescimento veio acompanhado de uma distribuição de renda mais equitativa entre a população brasileira. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa III está correta",
-                                              "b":  "Apenas as afirmativas I e II estão corretas",
-                                              "c":  "As afirmativas I, II e III estão corretas",
-                                              "d":  "Apenas a afirmativa I está correta"
+                                              "b":  "As afirmativas I, II e III estão corretas",
+                                              "c":  "Apenas as afirmativas I e II estão corretas",
+                                              "d":  "Apenas a afirmativa I está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "O milagre econômico se apoiou em endividamento externo e investimentos em infraestrutura (I correta), coincidindo com a fase mais repressiva do regime e com maior concentração de renda (II correta); ao contrário do afirmado em III, o período aprofundou, e não reduziu, as desigualdades de renda.",
                          "dificuldade":  "dificil"
                      },
@@ -1104,12 +1119,13 @@
                          "texto_apoio":  "Em 1979, o Congresso Nacional aprovou uma lei que concedia anistia a crimes políticos cometidos desde 1961.",
                          "enunciado":  "Sobre a Lei da Anistia de 1979, analise as afirmativas: I. A lei permitiu o retorno de exilados políticos e a libertação de presos políticos ao país. II. Setores do governo militar interpretaram a lei como anistia recíproca, alcançando também agentes estatais acusados de violações de direitos humanos, interpretação que permanece controversa. III. A lei foi aplicada exclusivamente a opositores do regime militar, sem qualquer benefício a agentes do próprio Estado. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas as afirmativas I e II estão corretas",
-                                              "b":  "Apenas a afirmativa I está correta",
-                                              "c":  "Apenas a afirmativa III está correta",
-                                              "d":  "As afirmativas I, II e III estão corretas"
+                                              "a":  "Apenas a afirmativa I está correta",
+                                              "b":  "Apenas a afirmativa III está correta",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas as afirmativas I e II estão corretas",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "A Lei da Anistia permitiu o retorno de exilados e a libertação de presos políticos (I correta), mas foi interpretada por setores do regime como anistia recíproca, também beneficiando agentes estatais (II correta); essa interpretação contraria diretamente o afirmado em III, sendo tema de debate jurídico e político até hoje.",
                          "dificuldade":  "dificil"
                      },
@@ -1118,12 +1134,13 @@
                          "texto_apoio":  "Entre 1983 e 1984, o Brasil viveu uma das maiores mobilizações populares de sua história, reivindicando eleições diretas para presidente.",
                          "enunciado":  "Sobre a campanha das Diretas Já (1983-1984), analise as afirmativas: I. Apesar da forte mobilização popular, a emenda não obteve os votos necessários no Congresso Nacional em 1984. II. A derrota da emenda levou à eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em janeiro de 1985. III. A campanha resultou na aprovação imediata do voto direto para presidente ainda em 1984. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas as afirmativas I e II estão corretas",
-                                              "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas a afirmativa I está correta",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "a":  "As afirmativas I, II e III estão corretas",
+                                              "b":  "Apenas a afirmativa I está correta",
+                                              "c":  "Apenas a afirmativa III está correta",
+                                              "d":  "Apenas a afirmativa II está correta",
+                                              "e":  "Apenas as afirmativas I e II estão corretas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "Apesar da mobilização popular, a emenda das Diretas Já não obteve os votos necessários no Congresso em 1984 (I correta), levando à eleição indireta de Tancredo Neves em 1985 (II correta); o voto direto para presidente só seria restabelecido para a eleição seguinte, e não imediatamente em 1984 (III incorreta).",
                          "dificuldade":  "media"
                      },
@@ -1188,12 +1205,13 @@
                          "texto_apoio":  "Em 1992, Fernando Collor de Mello, primeiro presidente eleito por voto direto após a redemocratização, renunciou ao cargo em meio a um processo de impeachment por denúncias de corrupção.",
                          "enunciado":  "Sobre o processo de impeachment de Fernando Collor, analise as afirmativas: I. O processo foi conduzido com base nos mecanismos constitucionais previstos pela Constituição de 1988. II. A mobilização popular, como o movimento dos \u0027caras-pintadas\u0027, teve papel relevante na pressão pelo impeachment. III. O episódio revelou a fragilidade das instituições democráticas recém-restabelecidas, que não resistiram à crise política. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas a afirmativa I está correta",
-                                              "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas a afirmativa III está correta",
-                                              "d":  "Apenas as afirmativas I e II estão corretas"
+                                              "a":  "Apenas as afirmativas I e II estão corretas",
+                                              "b":  "Apenas a afirmativa I está correta",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "O impeachment de Collor seguiu os mecanismos constitucionais de 1988 (I correta) e contou com forte mobilização popular, como os \u0027caras-pintadas\u0027 (II correta); ao contrário do afirmado em III, o episódio demonstrou justamente a capacidade das instituições democráticas de processar a crise sem ruptura institucional.",
                          "dificuldade":  "media"
                      },
@@ -1231,11 +1249,12 @@
                          "enunciado":  "Sobre o reconhecimento de direitos de casais do mesmo sexo no Brasil, analise as afirmativas: I. O reconhecimento da união estável e, posteriormente, do casamento civil entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do Supremo Tribunal Federal. II. A ausência de lei federal específica aprovada pelo Congresso Nacional sobre o tema evidencia o papel do Judiciário na garantia de direitos ainda não regulados pelo Legislativo. III. O Congresso Nacional aprovou, ainda nos anos 1990, lei específica reconhecendo o casamento entre pessoas do mesmo sexo. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas a afirmativa III está correta",
-                                              "b":  "As afirmativas I, II e III estão corretas",
-                                              "c":  "Apenas as afirmativas I e II estão corretas",
-                                              "d":  "Apenas a afirmativa I está correta"
+                                              "b":  "Apenas as afirmativas I e II estão corretas",
+                                              "c":  "As afirmativas I, II e III estão corretas",
+                                              "d":  "Apenas a afirmativa I está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "b",
                          "explicacao":  "O reconhecimento da união estável e do casamento entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do STF (I correta), evidenciando o papel do Judiciário diante da inércia do Legislativo (II correta); não houve, ao contrário do afirmado em III, lei federal específica aprovada pelo Congresso sobre o tema.",
                          "dificuldade":  "dificil"
                      },
@@ -1301,11 +1320,12 @@
                          "enunciado":  "Sobre operações de combate à corrupção conduzidas a partir de 2014, analise as afirmativas: I. Evidenciam o funcionamento de instituições de investigação e controle fortalecidas pela Constituição de 1988, como o Ministério Público e a Polícia Federal. II. Seus métodos e desdobramentos políticos e jurídicos geraram intenso debate público, inclusive sobre limites de atuação do Judiciário e do Ministério Público. III. Representam a criação, pela primeira vez na história republicana, de mecanismos de combate à corrupção no país. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "As afirmativas I, II e III estão corretas",
-                                              "b":  "Apenas as afirmativas I e II estão corretas",
-                                              "c":  "Apenas a afirmativa I está correta",
-                                              "d":  "Apenas a afirmativa III está correta"
+                                              "b":  "Apenas a afirmativa I está correta",
+                                              "c":  "Apenas as afirmativas I e II estão corretas",
+                                              "d":  "Apenas a afirmativa III está correta",
+                                              "e":  "Apenas a afirmativa II está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "As operações evidenciam instituições fortalecidas pela Constituição de 1988 (I correta), com métodos e desdobramentos que geraram intenso debate público (II correta); ao contrário do afirmado em III, mecanismos de combate à corrupção já existiam antes, ainda que menos eficazes.",
                          "dificuldade":  "dificil"
                      },

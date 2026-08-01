@@ -9,7 +9,8 @@
                                               "a":  "I, II e III estão corretas",
                                               "b":  "Apenas I está correta",
                                               "c":  "Apenas III está correta",
-                                              "d":  "I e II estão corretas"
+                                              "d":  "I e II estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
                          "resposta":  "d",
                          "explicacao":  "A crise do Antigo Regime combinou privilégios estamentais e crise fiscal (I correta) com a ascensão de uma burguesia sem poder político correspondente, integrando o Terceiro Estado (II correta); ao contrário do afirmado em III, a Revolução emergiu justamente de desigualdades sociais profundas e historicamente documentadas."
@@ -72,11 +73,12 @@
                          "enunciado":  "A partir do trecho acima e dos fatores estruturais que levaram à Primeira Guerra Mundial, analise as afirmativas: I. O sistema de alianças militares rígidas transformou uma crise regional nos Bálcãs em um conflito de escala continental. II. A corrida armamentista e as rivalidades imperialistas entre as potências europeias também contribuíram para a escalada do conflito. III. A ausência de disputas coloniais entre as potências europeias foi um dos principais fatores que evitaram, até 1914, qualquer tensão internacional. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas III está correta",
-                                              "b":  "I e II estão corretas",
-                                              "c":  "I, II e III estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "b":  "I, II e III estão corretas",
+                                              "c":  "Apenas I está correta",
+                                              "d":  "Apenas II está correta",
+                                              "e":  "I e II estão corretas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "O sistema de alianças ampliou um conflito regional (I correta), somando-se à corrida armamentista e às rivalidades imperialistas (II correta); ao contrário do afirmado em III, as disputas coloniais eram justamente um dos fatores de tensão entre as potências antes de 1914."
                      },
                      {
@@ -87,7 +89,8 @@
                                               "a":  "I e II estão corretas",
                                               "b":  "Apenas I está correta",
                                               "c":  "Apenas III está correta",
-                                              "d":  "I, II e III estão corretas"
+                                              "d":  "I, II e III estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As duras condições de Versalhes alimentaram o ressentimento nacionalista alemão (I correta), posteriormente explorado pela propaganda nazista (II correta); ao contrário do afirmado em III, o tratado não garantiu paz duradoura, sendo apontado como fator de instabilidade que contribuiria para a Segunda Guerra Mundial."
@@ -98,11 +101,12 @@
                          "enunciado":  "A partir do trecho acima e do contexto da Revolução Russa de 1917, avalie as afirmativas: I. O desgaste do czarismo pelas perdas na Primeira Guerra Mundial e a crise econômica contribuíram para a insatisfação popular crescente. II. A fome e as dificuldades cotidianas da população, somadas ao desgaste militar, abriram caminho para as revoluções de fevereiro e outubro de 1917. III. A Rússia czarista vivia, às vésperas de 1917, uma situação de prosperidade econômica generalizada e forte apoio popular ao czar. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas III está correta",
-                                              "b":  "I, II e III estão corretas",
-                                              "c":  "I e II estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "b":  "I e II estão corretas",
+                                              "c":  "I, II e III estão corretas",
+                                              "d":  "Apenas I está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "b",
                          "explicacao":  "O desgaste do czarismo pela guerra e a crise econômica geraram insatisfação crescente (I correta), com a fome e o cansaço popular abrindo caminho às revoluções de 1917 (II correta); ao contrário do afirmado em III, a Rússia vivia justamente uma grave crise, não prosperidade."
                      },
                      {
@@ -111,11 +115,12 @@
                          "enunciado":  "Sobre os fatores que explicam a Crise de 1929, analise as afirmativas: I. A superprodução industrial e agrícola, aliada à intensa especulação no mercado de ações, esteve entre as principais causas da crise. II. O estouro da bolha especulativa gerou falências em cadeia e uma profunda recessão de alcance global. III. A crise resultou exclusivamente da escassez generalizada de bens de consumo nos Estados Unidos. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas I está correta",
-                                              "b":  "I e II estão corretas",
-                                              "c":  "Apenas III está correta",
-                                              "d":  "I, II e III estão corretas"
+                                              "b":  "Apenas III está correta",
+                                              "c":  "I e II estão corretas",
+                                              "d":  "I, II e III estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "A crise resultou da combinação entre superprodução e especulação excessiva (I correta), gerando falências em cadeia e recessão global (II correta); ao contrário do afirmado em III, o problema era justamente o excesso de oferta em relação à capacidade de consumo, não a escassez de bens."
                      },
                      {
@@ -125,10 +130,11 @@
                          "alternativas":  {
                                               "a":  "I, II e III estão corretas",
                                               "b":  "Apenas III está correta",
-                                              "c":  "I e II estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "c":  "Apenas I está correta",
+                                              "d":  "I e II estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "d",
                          "explicacao":  "A crise econômica e o desemprego em massa após 1929 criaram terreno fértil para o nazismo (I correta), que também explorou o ressentimento com Versalhes (II correta); ao contrário do afirmado em III, a República de Weimar enfrentava justamente grave instabilidade econômica nesse período."
                      },
                      {
@@ -137,11 +143,12 @@
                          "enunciado":  "Sobre os fatores que desencadearam a Segunda Guerra Mundial, avalie as afirmativas: I. A política de apaziguamento adotada por potências como Reino Unido e França diante do expansionismo alemão não conteve Hitler. II. Anexações como a da Áustria e dos Sudetos, toleradas pelas potências ocidentais, precederam a invasão da Polônia em 1939. III. A democracia se fortaleceu em toda a Europa ao longo dos anos 1930, o que ajuda a explicar a ausência de conflitos até 1939. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III estão corretas",
-                                              "b":  "I e II estão corretas",
-                                              "c":  "Apenas I está correta",
-                                              "d":  "Apenas III está correta"
+                                              "b":  "Apenas I está correta",
+                                              "c":  "Apenas III está correta",
+                                              "d":  "Apenas II está correta",
+                                              "e":  "I e II estão corretas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "A política de apaziguamento não conteve o expansionismo alemão (I correta), que incluiu anexações toleradas antes da invasão da Polônia (II correta); ao contrário do afirmado em III, os anos 1930 foram marcados pelo avanço de regimes autoritários na Europa, não pelo fortalecimento generalizado da democracia."
                      },
                      {
@@ -149,12 +156,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Sobre o Holocausto promovido pelo regime nazista, avalie as afirmativas: I. Consistiu no extermínio sistemático de aproximadamente seis milhões de judeus europeus. II. Atingiu também outros grupos perseguidos pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos. III. Restringiu-se exclusivamente a membros de partidos comunistas europeus, sem atingir outros grupos sociais. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III estão corretas",
-                                              "b":  "Apenas III está correta",
-                                              "c":  "I e II estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "a":  "I e II estão corretas",
+                                              "b":  "I, II e III estão corretas",
+                                              "c":  "Apenas III está correta",
+                                              "d":  "Apenas I está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "O Holocausto exterminou sistematicamente cerca de seis milhões de judeus (I correta) e também outros grupos considerados \u0027indesejáveis\u0027 pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos (II correta), o que contraria a restrição afirmada em III."
                      },
                      {
@@ -397,11 +405,12 @@
                          "enunciado":  "Sobre o sistema de apartheid na África do Sul, analise as afirmativas: I. Separava legalmente a população por critérios raciais, restringindo direitos políticos, de moradia e de circulação da maioria negra sul-africana. II. Era um sistema institucionalizado por lei, e não uma prática apenas informal ou social. III. Garantia direitos civis e políticos iguais a todos os grupos raciais do país. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas I está correta",
-                                              "b":  "Apenas III está correta",
-                                              "c":  "I e II estão corretas",
-                                              "d":  "I, II e III estão corretas"
+                                              "b":  "I e II estão corretas",
+                                              "c":  "Apenas III está correta",
+                                              "d":  "I, II e III estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "b",
                          "explicacao":  "O apartheid segregava legalmente a população por critérios raciais (I correta), sendo institucionalizado por lei (II correta); ao contrário do afirmado em III, o sistema restringia gravemente os direitos da maioria negra, sem qualquer igualdade civil ou política."
                      },
                      {
@@ -409,12 +418,13 @@
                          "texto_apoio":  "Nelson Mandela, líder do Congresso Nacional Africano (CNA), foi preso por quase três décadas por sua luta contra o apartheid.",
                          "enunciado":  "Sobre a libertação de Nelson Mandela, em 1990, e sua eleição em 1994, avalie as afirmativas: I. Esses eventos marcaram o fim formal do apartheid e a transição para um regime democrático multirracial na África do Sul. II. A eleição de 1994 foi a primeira com participação de todas as raças na história sul-africana. III. Esses eventos representaram a manutenção do apartheid sob uma nova liderança política. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II estão corretas",
-                                              "b":  "I, II e III estão corretas",
-                                              "c":  "Apenas III está correta",
-                                              "d":  "Apenas I está correta"
+                                              "a":  "I, II e III estão corretas",
+                                              "b":  "Apenas III está correta",
+                                              "c":  "I e II estão corretas",
+                                              "d":  "Apenas I está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "c",
                          "explicacao":  "A libertação e eleição de Mandela marcaram o fim formal do apartheid e a transição democrática multirracial (I correta), com a eleição de 1994 sendo a primeira com participação de todas as raças (II correta); não houve, ao contrário do afirmado em III, manutenção do regime segregacionista."
                      },
                      {
@@ -422,12 +432,13 @@
                          "texto_apoio":  "A chamada Primavera Árabe teve início na Tunísia, no final de 2010, espalhando-se por diversos países do Oriente Médio e do Norte da África.",
                          "enunciado":  "Sobre os fatores que impulsionaram a Primavera Árabe, analise as afirmativas: I. O desemprego, sobretudo entre os jovens, e o autoritarismo político prolongado estiveram entre os principais fatores dos protestos. II. As redes sociais tiveram papel relevante na mobilização e organização dos protestos em diversos países. III. Os protestos contaram com amplo apoio popular aos governos autoritários então vigentes na região. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II estão corretas",
-                                              "b":  "Apenas III está correta",
-                                              "c":  "I, II e III estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "a":  "Apenas III está correta",
+                                              "b":  "I, II e III estão corretas",
+                                              "c":  "Apenas I está correta",
+                                              "d":  "I e II estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "O desemprego juvenil e o autoritarismo prolongado impulsionaram os protestos (I correta), com forte uso das redes sociais na mobilização (II correta); ao contrário do afirmado em III, os protestos expressavam justamente rejeição aos governos autoritários, não apoio a eles."
                      },
                      {
@@ -436,11 +447,12 @@
                          "enunciado":  "Sobre os desdobramentos da Primavera Árabe na Síria, avalie as afirmativas: I. Os protestos iniciais transformaram-se em uma guerra civil prolongada, com graves consequências humanitárias. II. O conflito sírio gerou um dos maiores fluxos de refugiados do século XXI. III. Os protestos na Síria levaram a uma rápida e pacífica transição democrática, sem qualquer conflito armado. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas III está correta",
-                                              "b":  "I e II estão corretas",
-                                              "c":  "Apenas I está correta",
-                                              "d":  "I, II e III estão corretas"
+                                              "b":  "Apenas I está correta",
+                                              "c":  "I, II e III estão corretas",
+                                              "d":  "Apenas II está correta",
+                                              "e":  "I e II estão corretas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "Os protestos na Síria degeneraram em guerra civil prolongada (I correta), gerando um dos maiores fluxos de refugiados do século (II correta); ao contrário do afirmado em III, não houve transição pacífica, mas um conflito armado de longa duração."
                      },
                      {
@@ -740,12 +752,13 @@
                          "texto_apoio":  "Entre 1936 e 1939, a Espanha viveu um sangrento conflito entre as forças republicanas, de orientação mais à esquerda, e as forças nacionalistas lideradas pelo general Francisco Franco.",
                          "enunciado":  "Sobre a Guerra Civil Espanhola (1936-1939) e seu papel como prenúncio da Segunda Guerra Mundial, analise as afirmativas: I. A Alemanha nazista e a Itália fascista apoiaram militarmente as forças franquistas, enquanto a União Soviética apoiou as forças republicanas. II. O conflito funcionou como um campo de testes para armamentos, táticas e alianças que seriam usados na Segunda Guerra Mundial. III. A guerra não envolveu qualquer participação ou interesse de potências estrangeiras, tratando-se de um conflito estritamente interno. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas I está correta",
-                                              "b":  "I, II e III estão corretas",
-                                              "c":  "I e II estão corretas",
-                                              "d":  "Apenas III está correta"
+                                              "a":  "I e II estão corretas",
+                                              "b":  "Apenas I está correta",
+                                              "c":  "I, II e III estão corretas",
+                                              "d":  "Apenas III está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "A Guerra Civil Espanhola contou com apoio militar direto de Alemanha e Itália a Franco e da URSS aos republicanos (I correta), funcionando como ensaio geral para a Segunda Guerra Mundial (II correta); ao contrário do afirmado em III, o conflito teve intensa participação e interesse de potências estrangeiras.",
                          "dificuldade":  "dificil"
                      },
@@ -754,12 +767,13 @@
                          "texto_apoio":  "Em agosto de 1939, dias antes da invasão da Polônia, Alemanha nazista e União Soviética assinaram um pacto de não agressão que surpreendeu a comunidade internacional.",
                          "enunciado":  "Sobre o Pacto Molotov-Ribbentrop (1939), analise as afirmativas: I. Revelou convergências táticas de curto prazo entre Alemanha nazista e União Soviética, apesar da rivalidade ideológica entre os dois regimes. II. Incluía cláusulas secretas de partilha de territórios no Leste Europeu entre as duas potências. III. Estabeleceu uma aliança militar permanente entre nazismo e comunismo, mantida até o fim da Segunda Guerra Mundial. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II estão corretas",
-                                              "b":  "Apenas I está correta",
+                                              "a":  "Apenas I está correta",
+                                              "b":  "I e II estão corretas",
                                               "c":  "I, II e III estão corretas",
-                                              "d":  "Apenas III está correta"
+                                              "d":  "Apenas III está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "O pacto revelou convergências táticas apesar da rivalidade ideológica (I correta), incluindo cláusulas secretas de partilha territorial (II correta); ao contrário do afirmado em III, a aliança foi rompida já em 1941, com a invasão alemã à União Soviética, não sendo permanente.",
                          "dificuldade":  "dificil"
                      },
@@ -939,7 +953,8 @@
                                               "a":  "I e II estão corretas",
                                               "b":  "Apenas III está correta",
                                               "c":  "I, II e III estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "d":  "Apenas I está correta",
+                                              "e":  "I e III estão corretas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Primavera de Praga foi de fato interrompida por intervenção militar do Pacto de Varsóvia (I correta), com o objetivo de restabelecer o controle soviético e reprimir as reformas (II correta), evidenciando os limites impostos pela URSS a experiências de abertura dentro do bloco socialista (III correta) — as três afirmativas estão corretas.",
@@ -1119,11 +1134,12 @@
                          "enunciado":  "Sobre os conflitos que fragmentaram a Iugoslávia na década de 1990, analise as afirmativas: I. O enfraquecimento de estruturas estatais multiétnicas, no contexto do fim do socialismo no Leste Europeu, contribuiu para reacender rivalidades nacionais e religiosas antigas. II. Os conflitos resultaram na formação de diversos novos Estados independentes na região dos Bálcãs. III. O fim da Guerra Fria eliminou automaticamente quaisquer tensões étnicas e nacionalistas na Europa. Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "Apenas III está correta",
-                                              "b":  "I e II estão corretas",
-                                              "c":  "Apenas I está correta",
-                                              "d":  "I, II e III estão corretas"
+                                              "b":  "Apenas I está correta",
+                                              "c":  "I, II e III estão corretas",
+                                              "d":  "I e II estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "O enfraquecimento de estruturas multiétnicas reacendeu rivalidades antigas (I correta), resultando em novos Estados independentes nos Bálcãs (II correta); ao contrário do afirmado em III, o fim da Guerra Fria não eliminou, mas em certos contextos reacendeu, tensões étnicas e nacionalistas na Europa.",
                          "dificuldade":  "dificil"
                      },
@@ -1135,9 +1151,10 @@
                                               "a":  "Apenas III está correta",
                                               "b":  "I, II e III estão corretas",
                                               "c":  "Apenas I está correta",
-                                              "d":  "I e II estão corretas"
+                                              "d":  "Apenas II está correta",
+                                              "e":  "I e II estão corretas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "O genocídio esteve associado a tensões étnicas aprofundadas no período colonial belga (I correta), com a comunidade internacional apontada por sua omissão (II correta); ao contrário do afirmado em III, o conflito teve componente étnico e colonial central, não religioso.",
                          "dificuldade":  "dificil"
                      },
@@ -1202,12 +1219,13 @@
                          "texto_apoio":  "Durante a Primavera Árabe, o Egito viveu, em 2011, protestos em massa que resultaram na renúncia do presidente Hosni Mubarak, no poder havia quase três décadas.",
                          "enunciado":  "Sobre os anos seguintes à queda de Mubarak no Egito, analise as afirmativas: I. O país viveu eleições e um governo civil eleito nos anos seguintes à queda de Mubarak. II. Poucos anos após a eleição de um governo civil, o Egito viveu um novo golpe militar, evidenciando a instabilidade prolongada do processo. III. A transição democrática egípcia ocorreu de forma linear e sem qualquer novo episódio de instabilidade política. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "Apenas III está correta",
-                                              "b":  "Apenas I está correta",
-                                              "c":  "I, II e III estão corretas",
-                                              "d":  "I e II estão corretas"
+                                              "a":  "I e II estão corretas",
+                                              "b":  "Apenas III está correta",
+                                              "c":  "Apenas I está correta",
+                                              "d":  "I, II e III estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "O Egito viveu eleições e um governo civil após 2011 (I correta), seguido de um novo golpe militar poucos anos depois (II correta); ao contrário do afirmado em III, a transição foi marcada por instabilidade prolongada, e não por linearidade.",
                          "dificuldade":  "dificil"
                      },
@@ -1314,12 +1332,13 @@
                          "texto_apoio":  "Em 1973, um golpe militar depôs o presidente chileno Salvador Allende, eleito democraticamente, dando início a um longo regime ditatorial no país.",
                          "enunciado":  "Sobre o golpe de 1973 no Chile, analise as afirmativas: I. Tensões da Guerra Fria também se manifestaram na América Latina, com setores internos e apoio externo contribuindo para a deposição de governos vistos como ameaça aos interesses ocidentais. II. O golpe depôs um presidente eleito democraticamente, dando início a um longo regime autoritário no país. III. Os Estados Unidos jamais demonstraram qualquer interesse pela política interna de países latino-americanos durante a Guerra Fria. Está correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II estão corretas",
-                                              "b":  "Apenas III está correta",
+                                              "a":  "Apenas III está correta",
+                                              "b":  "I e II estão corretas",
                                               "c":  "I, II e III estão corretas",
-                                              "d":  "Apenas I está correta"
+                                              "d":  "Apenas I está correta",
+                                              "e":  "Apenas II está correta"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "O golpe no Chile refletiu tensões da Guerra Fria na América Latina, com apoio externo a setores opositores (I correta), depondo um presidente eleito e instaurando ditadura (II correta); ao contrário do afirmado em III, há amplo registro histórico do interesse e da atuação dos Estados Unidos na política interna latino-americana durante o período.",
                          "dificuldade":  "dificil"
                      },
@@ -1331,7 +1350,8 @@
                                               "a":  "Apenas III está correta",
                                               "b":  "Apenas I está correta",
                                               "c":  "I e II estão corretas",
-                                              "d":  "I, II e III estão corretas"
+                                              "d":  "I, II e III estão corretas",
+                                              "e":  "Apenas II está correta"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Operação Condor evidencia o compartilhamento de informações de inteligência entre regimes autoritários sul-americanos (I correta) e a cooperação na perseguição e eliminação de opositores além das fronteiras (II correta); ao contrário do afirmado em III, houve articulação sistemática, e não isolamento, entre esses regimes.",

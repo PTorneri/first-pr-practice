@@ -1,0 +1,650 @@
+[
+    {
+        "id":  "geografia-03",
+        "nova":  "II, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-04",
+        "nova":  "Unicamente a I",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-05",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-06",
+        "nova":  "Unicamente a I",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-08",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-09",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e III, apenas"
+    },
+    {
+        "id":  "geografia-10",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-13",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-14",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e III, apenas"
+    },
+    {
+        "id":  "geografia-17",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-18",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-30",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-31",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-32",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-44",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-52",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-54",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-56",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-60",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-61",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-62",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-63",
+        "nova":  "Unicamente a II",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-64",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-65",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-68",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-69",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-79",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-82",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-84",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-86",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-89",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-90",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-93",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-94",
+        "nova":  "I e III, apenas",
+        "resposta":  "d",
+        "correta":  "I, II e III"
+    },
+    {
+        "id":  "geografia-96",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-97",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-98",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-100",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-101",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-108",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-116",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-121",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-122",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-124",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-126",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-127",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-128",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-129",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-134",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-135",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-143",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-145",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "geografia-149",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "historia-brasil-10",
+        "nova":  "Apenas as afirmativas I e III estão corretas",
+        "resposta":  "d",
+        "correta":  "Apenas a afirmativa I está correta"
+    },
+    {
+        "id":  "historia-brasil-13",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "e",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-15",
+        "nova":  "Apenas a afirmativa I está correta",
+        "resposta":  "a",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-16",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "b",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-17",
+        "nova":  "Apenas a afirmativa I está correta",
+        "resposta":  "c",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-18",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "d",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-28",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "e",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-32",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "a",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-35",
+        "nova":  "Apenas a afirmativa I está correta",
+        "resposta":  "b",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-36",
+        "nova":  "Apenas as afirmativas I e III estão corretas",
+        "resposta":  "c",
+        "correta":  "Apenas a afirmativa I está correta"
+    },
+    {
+        "id":  "historia-brasil-66",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "d",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-69",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "e",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-72",
+        "nova":  "Apenas a afirmativa I está correta",
+        "resposta":  "a",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-79",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "b",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-80",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "c",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-82",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "d",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-83",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "e",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-88",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "a",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-91",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "b",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-brasil-96",
+        "nova":  "Apenas a afirmativa II está correta",
+        "resposta":  "c",
+        "correta":  "Apenas as afirmativas I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-01",
+        "nova":  "Apenas II está correta",
+        "resposta":  "d",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-06",
+        "nova":  "Apenas II está correta",
+        "resposta":  "e",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-07",
+        "nova":  "Apenas II está correta",
+        "resposta":  "a",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-08",
+        "nova":  "Apenas II está correta",
+        "resposta":  "b",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-09",
+        "nova":  "Apenas II está correta",
+        "resposta":  "c",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-10",
+        "nova":  "Apenas II está correta",
+        "resposta":  "d",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-11",
+        "nova":  "Apenas II está correta",
+        "resposta":  "e",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-12",
+        "nova":  "Apenas II está correta",
+        "resposta":  "a",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-31",
+        "nova":  "Apenas II está correta",
+        "resposta":  "b",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-32",
+        "nova":  "Apenas II está correta",
+        "resposta":  "c",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-33",
+        "nova":  "Apenas II está correta",
+        "resposta":  "d",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-34",
+        "nova":  "Apenas II está correta",
+        "resposta":  "e",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-56",
+        "nova":  "Apenas II está correta",
+        "resposta":  "a",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-57",
+        "nova":  "Apenas II está correta",
+        "resposta":  "b",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-70",
+        "nova":  "I e III estão corretas",
+        "resposta":  "c",
+        "correta":  "I, II e III estão corretas"
+    },
+    {
+        "id":  "historia-geral-83",
+        "nova":  "Apenas II está correta",
+        "resposta":  "d",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-84",
+        "nova":  "Apenas II está correta",
+        "resposta":  "e",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-89",
+        "nova":  "Apenas II está correta",
+        "resposta":  "a",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-97",
+        "nova":  "Apenas II está correta",
+        "resposta":  "b",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "historia-geral-98",
+        "nova":  "Apenas II está correta",
+        "resposta":  "c",
+        "correta":  "I e II estão corretas"
+    },
+    {
+        "id":  "atualidades-geopolitica-02",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-05",
+        "nova":  "II, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-09",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-19",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-22",
+        "nova":  "II, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-39",
+        "nova":  "I, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-43",
+        "nova":  "II, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-44",
+        "nova":  "I, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-49",
+        "nova":  "II, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-59",
+        "nova":  "I, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-79",
+        "nova":  "II, apenas",
+        "resposta":  "d",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-84",
+        "nova":  "I, apenas",
+        "resposta":  "e",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-98",
+        "nova":  "II, apenas",
+        "resposta":  "a",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-117",
+        "nova":  "I, apenas",
+        "resposta":  "b",
+        "correta":  "I e II, apenas"
+    },
+    {
+        "id":  "atualidades-geopolitica-146",
+        "nova":  "II, apenas",
+        "resposta":  "c",
+        "correta":  "I e II, apenas"
+    }
+]

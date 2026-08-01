@@ -32,12 +32,13 @@
                          "texto_apoio":  "A Convenção de 1951 da ONU relativa ao Estatuto dos Refugiados distingue juridicamente quem foge de perseguição, guerra ou violência generalizada de quem migra por outros motivos.",
                          "enunciado":  "Considere as afirmativas sobre migrações internacionais contemporâneas:\n\nI. Estudantes que buscam universidades estrangeiras de prestígio e trabalhadores que se mudam por melhores salários são exemplos de migração econômica voluntária.\nII. Pessoas que fogem de conflitos armados ou de perseguição política, étnica ou religiosa se enquadram, do ponto de vista jurídico internacional, na categoria de refugiados.\nIII. A distinção entre migração econômica e refúgio é apenas simbólica, já que ambas as categorias recebem exatamente a mesma proteção jurídica internacional.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, apenas",
+                                              "c":  "I, II e III",
+                                              "d":  "II e III, apenas",
+                                              "e":  "II, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente, respectivamente, a migração econômica voluntária e o refúgio (migração forçada). A afirmativa III está incorreta: a distinção não é simbólica, pois o status de refugiado garante proteção jurídica internacional específica, prevista na Convenção de 1951, que não se estende automaticamente ao migrante econômico."
                      },
                      {
@@ -45,12 +46,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado possui proteção jurídica internacional específica por não poder retornar ao seu país devido a fundado temor de perseguição ou violência.\nII. O migrante econômico se desloca voluntariamente em busca de melhores oportunidades, sem o mesmo amparo jurídico internacional automático do refugiado.\nIII. Essa distinção jurídica deixou de ser aplicada pelos países-membros da ONU depois da crise migratória síria de 2015, que unificou o tratamento das duas categorias.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III, sem exceção",
+                                              "a":  "I, II e III, sem exceção",
+                                              "b":  "I e II, apenas",
                                               "c":  "Unicamente a III",
-                                              "d":  "Exclusivamente a II"
+                                              "d":  "Exclusivamente a II",
+                                              "e":  "Unicamente a I"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o status de refugiado, definido pela Convenção de 1951 da ONU, e sua diferença em relação ao migrante econômico. A afirmativa III é falsa: a distinção jurídica entre as categorias permanece vigente no direito internacional; a crise migratória síria intensificou o debate político sobre acolhimento, mas não unificou os regimes jurídicos das duas categorias."
                      },
                      {
@@ -61,7 +63,8 @@
                                               "a":  "II e III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II são coerentes com a crescente relevância estratégica de recursos hídricos compartilhados. A afirmativa III é falsa: embora renovável, a água doce tem distribuição desigual entre regiões, e essa desigualdade — não a uniformidade — é justamente o que gera tensões geopolíticas em torno de aquíferos e bacias transfronteiriças."
@@ -73,10 +76,11 @@
                          "alternativas":  {
                                               "a":  "Unicamente a III",
                                               "b":  "Exclusivamente a II",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, II e III, sem exceção"
+                                              "c":  "I, II e III, sem exceção",
+                                              "d":  "I e II, apenas",
+                                              "e":  "Unicamente a I"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a centralidade estratégica do petróleo na geopolítica do Oriente Médio. A afirmativa III é falsa: essa relevância geopolítica remonta, ao menos, à primeira metade do século XX, sendo anterior e independente da criação da União Europeia, um bloco regional sem relação direta com esse processo."
                      },
                      {
@@ -97,12 +101,13 @@
                          "texto_apoio":  "O Mercosul foi criado em 1991 pelo Tratado de Assunção, reunindo inicialmente Brasil, Argentina, Paraguai e Uruguai.",
                          "enunciado":  "Considere as afirmativas sobre o estágio de integração econômica do Mercosul:\n\nI. O bloco caracteriza-se como uma união aduaneira, combinando livre comércio entre membros plenos com tarifa externa comum em relação a terceiros países.\nII. O Mercosul ainda não alcançou o nível de integração política e monetária de blocos como a União Europeia.\nIII. Por ser uma união aduaneira, o Mercosul já adota moeda única entre seus membros plenos, à semelhança do euro na União Europeia.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "III, apenas",
-                                              "c":  "I e III, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "III, apenas",
+                                              "b":  "I e III, apenas",
+                                              "c":  "I, II e III",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o estágio de integração do Mercosul como união aduaneira, sem os avanços políticos e monetários da União Europeia. A afirmativa III é falsa: a adoção de moeda única não é característica de uma união aduaneira, mas sim de estágios mais avançados de integração, como o alcançado por parte dos membros da União Europeia com o euro — o Mercosul não possui moeda comum entre seus membros."
                      },
                      {
@@ -110,12 +115,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as afirmativas comparando os estágios de integração econômica do Mercosul e da União Europeia:\n\nI. A União Europeia avançou além da união aduaneira ao adotar moeda comum entre parte de seus membros e ao criar instituições supranacionais com poder de influência sobre políticas dos Estados-membros.\nII. O Mercosul permite a livre circulação de pessoas e capitais em nível equivalente ao praticado pela União Europeia desde sua fundação.\nIII. Ambos os blocos mantêm tarifa externa comum em relação a terceiros países, mas apenas a União Europeia avançou para uma integração política supranacional.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "II, apenas",
-                                              "d":  "I e III, apenas"
+                                              "a":  "I e III, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "I, II e III",
+                                              "d":  "II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e III descrevem corretamente o estágio mais avançado de integração da União Europeia frente ao Mercosul, inclusive quanto à tarifa externa comum de ambos. A afirmativa II é falsa: a livre circulação de pessoas e capitais no Mercosul nunca alcançou o nível institucionalizado praticado pela União Europeia, um dos principais indicadores da diferença de estágio entre os dois blocos."
                      },
                      {
@@ -123,12 +129,13 @@
                          "texto_apoio":  "O Acordo de Paris, firmado em 2015 no âmbito da ONU, estabeleceu metas para a redução das emissões de gases de efeito estufa.",
                          "enunciado":  "Considere as afirmativas sobre o Acordo de Paris:\n\nI. Seu principal objetivo é limitar o aumento da temperatura média global, buscando mantê-lo bem abaixo de 2°C em relação aos níveis pré-industriais.\nII. O acordo se baseia em compromissos voluntários de redução de emissões assumidos por praticamente todos os países signatários.\nIII. O acordo transferiu a responsabilidade exclusiva pela redução de emissões aos países em desenvolvimento, isentando os países desenvolvidos de metas.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "II e III, apenas",
+                                              "a":  "II e III, apenas",
+                                              "b":  "I e II, apenas",
                                               "c":  "III, apenas",
-                                              "d":  "I, II e III"
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a meta central do acordo e seu mecanismo de contribuições voluntárias nacionalmente determinadas. A afirmativa III é falsa: o Acordo de Paris ampliou a responsabilidade para praticamente todos os países, desenvolvidos e em desenvolvimento, ao contrário do modelo do Protocolo de Kyoto, que concentrava metas obrigatórias apenas nos países desenvolvidos."
                      },
                      {
@@ -165,7 +172,8 @@
                                               "a":  "II e III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II são consistentes com a origem histórica das desigualdades regionais e com as políticas criadas para reduzi-las. A afirmativa III é falsa: a distribuição de recursos naturais é resultado de processos geológicos e climáticos, não de uma definição jurídica constitucional, e as desigualdades regionais têm raízes econômicas e históricas, não legais."
@@ -175,12 +183,13 @@
                          "texto_apoio":  "A região Sudeste concentra a maior parcela do PIB industrial brasileiro.",
                          "enunciado":  "Considere as afirmativas sobre a concentração industrial no Sudeste brasileiro:\n\nI. A riqueza acumulada com o café financiou parte da industrialização paulista, somada à concentração de infraestrutura, mão de obra e mercado consumidor.\nII. O processo de concentração industrial no Sudeste é anterior à expansão do café, remontando ao período das capitanias hereditárias.\nIII. Nas últimas décadas, observa-se um processo de desconcentração industrial, com expansão de polos fora do eixo tradicional Sudeste.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e III, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "II, apenas"
+                                              "a":  "II e III, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "II, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e III descrevem corretamente a origem cafeeira da industrialização paulista e o processo mais recente de desconcentração industrial. A afirmativa II é falsa: a concentração industrial no Sudeste é um fenômeno dos séculos XIX e XX, ligado à cafeicultura e à industrialização, não ao período colonial das capitanias hereditárias."
                      },
                      {
@@ -217,9 +226,10 @@
                                               "a":  "II e III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os mecanismos distintos de cada fenômeno. A afirmativa III é falsa: apesar de ambos envolverem gases atmosféricos, são fenômenos distintos, com gases, mecanismos e soluções técnicas diferentes — daí a importância de não confundi-los, um erro comum entre estudantes."
                      },
                      {
@@ -227,12 +237,13 @@
                          "texto_apoio":  "A globalização, consolidada nas últimas décadas do século XX, reorganizou a produção mundial em cadeias globais de valor.",
                          "enunciado":  "Considere as afirmativas sobre a nova divisão internacional do trabalho:\n\nI. Houve fragmentação das etapas produtivas entre diferentes países, com deslocamento de indústrias intensivas em mão de obra para países em desenvolvimento.\nII. Países centrais tenderam a concentrar atividades de maior valor agregado, como tecnologia, pesquisa e serviços avançados.\nIII. Esse processo eliminou por completo as diferenças de renda e de tecnologia entre países centrais e periféricos.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "III, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I e II, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "III, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de fragmentação produtiva da globalização. A afirmativa III é falsa: a nova divisão internacional do trabalho não eliminou as diferenças de renda e tecnologia entre países centrais e periféricos — ao contrário, ela reorganizou, mas manteve, hierarquias econômicas entre eles."
                      },
                      {
@@ -384,11 +395,12 @@
                          "enunciado":  "Considere as afirmativas sobre a criação de organismos como a OTCA:\n\nI. Buscam promover cooperação regional entre países amazônicos em temas como preservação ambiental e desenvolvimento sustentável.\nII. Reafirmam a soberania de cada Estado-membro sobre seu respectivo território amazônico.\nIII. Têm como objetivo transferir a soberania sobre a Amazônia para um órgão supranacional único, à semelhança da União Europeia.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III",
-                                              "b":  "III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os objetivos de cooperação regional e a reafirmação de soberania nacional que orientam a OTCA. A afirmativa III é falsa: a organização não transfere soberania a um órgão supranacional, ao contrário do discurso de internacionalização da Amazônia, que a OTCA justamente contesta ao reafirmar a soberania de cada país membro."
                      },
                      {
@@ -397,11 +409,12 @@
                          "enunciado":  "Considere as afirmativas sobre a relevância geopolítica da Amazônia no cenário internacional:\n\nI. Sua enorme biodiversidade e suas reservas de água doce atraem interesse econômico e científico internacional.\nII. Seu papel na regulação do clima regional e global reforça sua relevância estratégica, inclusive para países fora da América do Sul.\nIII. Essa relevância decorre sobretudo de reservas de petróleo já comprovadas em larga escala no subsolo amazônico.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I, II e III"
+                                              "b":  "II e III, apenas",
+                                              "c":  "I e II, apenas",
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores centrais da relevância geopolítica da Amazônia: biodiversidade, água doce e papel climático. A afirmativa III é falsa: a relevância estratégica da região não decorre de reservas petrolíferas comprovadas em larga escala, mas dos recursos hídricos, da biodiversidade e da regulação climática."
                      },
                      {
@@ -409,12 +422,13 @@
                          "texto_apoio":  "A presença de garimpo ilegal e conflitos fundiários é um desafio recorrente na Amazônia brasileira, inclusive em terras indígenas.",
                          "enunciado":  "Considere as afirmativas sobre os conflitos fundiários na Amazônia:\n\nI. Envolvem disputas pelo uso da terra e de recursos naturais entre atividades como garimpo ilegal, grilagem e populações tradicionais e indígenas.\nII. Frequentemente ocorrem em áreas de proteção ambiental, o que dificulta ainda mais a fiscalização estatal.\nIII. Deixaram de existir após a promulgação da Constituição de 1988, que extinguiu qualquer disputa sobre terras indígenas na região.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "III, apenas",
-                                              "d":  "II e III, apenas"
+                                              "a":  "I, II e III",
+                                              "b":  "III, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a natureza e o contexto dos conflitos fundiários na Amazônia. A afirmativa III é falsa: a Constituição de 1988 garantiu direitos territoriais aos povos indígenas, mas não eliminou as disputas fundiárias — pelo contrário, elas persistem e, em muitos casos, se intensificaram em áreas de interesse do garimpo e da grilagem."
                      },
                      {
@@ -576,9 +590,10 @@
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "A população urbana do Sudeste é 0,93×89≈82,8 milhões, e a do Nordeste é 0,75×57≈42,8 milhões, confirmando I e II. A afirmativa III é falsa como regra geral: taxa percentual menor não implica necessariamente população urbana absoluta menor, pois isso depende também da população total de cada região — nesse caso específico o Sudeste supera o Nordeste também em número absoluto, mas não por decorrência automática da taxa percentual, e sim pela combinação dela com a população total.",
                          "dificuldade":  "dificil"
                      },
@@ -685,12 +700,13 @@
                          "texto_apoio":  "O chamado \u0027triângulo do lítio\u0027, formado por Argentina, Bolívia e Chile, concentra a maior parte das reservas mundiais conhecidas de lítio, mineral essencial para a fabricação de baterias.",
                          "enunciado":  "Considere as afirmativas sobre a crescente relevância geopolítica do lítio:\n\nI. A expansão da demanda por baterias para veículos elétricos e dispositivos eletrônicos, no contexto da transição energética global, torna o controle dessas reservas estrategicamente relevante.\nII. A concentração de reservas em poucos países sul-americanos amplia o interesse de potências industriais externas sobre a região.\nIII. Por ser abundante e de baixo custo de extração em qualquer país do mundo, o lítio nunca foi tema de disputa geopolítica.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "III, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente por que o lítio se tornou estrategicamente relevante e por que a região andina atrai interesse externo. A afirmativa III é falsa: o lítio não é abundante e de baixo custo em qualquer país — suas reservas de alta concentração e viabilidade econômica estão geograficamente restritas, o que é exatamente o que gera sua relevância geopolítica.",
                          "dificuldade":  "dificil"
                      },
@@ -716,7 +732,8 @@
                                               "a":  "II e III, apenas",
                                               "b":  "I e II, apenas",
                                               "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a importância estratégica desses minerais e a concentração de sua cadeia produtiva em poucos países. A afirmativa III é falsa: é justamente a forte concentração geográfica da extração e, sobretudo, do refino — não uma distribuição equilibrada — que torna esses minerais uma questão geopolítica sensível.",
@@ -743,10 +760,11 @@
                          "alternativas":  {
                                               "a":  "I, II e III",
                                               "b":  "II e III, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "c":  "I e II, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a distinção conceitual entre matriz elétrica e matriz energética total. A afirmativa III é falsa: mesmo com uma matriz elétrica majoritariamente renovável, a matriz energética total do Brasil ainda depende significativamente de fontes fósseis, sobretudo o petróleo usado no setor de transportes — distinção conceitual frequentemente cobrada.",
                          "dificuldade":  "dificil"
                      },
@@ -798,11 +816,12 @@
                          "enunciado":  "Considere as afirmativas com base nesses dados aproximados:\n\nI. A matriz elétrica brasileira é proporcionalmente mais dependente de fontes renováveis do que a da União Europeia e do que a média mundial.\nII. Esse resultado se deve, sobretudo, ao grande potencial hidrelétrico do território brasileiro.\nIII. Como o Brasil supera a União Europeia na participação de renováveis, isso significa que o bloco europeu não investe em nenhuma fonte renovável de energia.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "II e III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "b":  "I, II e III",
+                                              "c":  "III, apenas",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "d",
                          "explicacao":  "Os dados confirmam I e II: o Brasil (83%) supera a União Europeia (40%) e a média mundial (30%) na participação renovável, resultado historicamente ligado ao potencial hidrelétrico brasileiro. A afirmativa III é falsa: os 40% da União Europeia mostram investimento relevante em fontes renováveis, apenas em proporção menor do que a brasileira — não ausência de investimento.",
                          "dificuldade":  "media"
                      },
@@ -811,12 +830,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Considere as afirmativas sobre rios que atravessam ou fazem fronteira entre diferentes países, como o Rio Paraná (compartilhado por Brasil, Paraguai e Argentina) ou o Rio Nilo (compartilhado por diversos países africanos):\n\nI. O uso da água por um país (para energia, irrigação ou abastecimento) pode afetar a disponibilidade e a qualidade da água para os países vizinhos da mesma bacia.\nII. Essa interdependência hidrográfica frequentemente exige negociação diplomática entre os países que compartilham a bacia.\nIII. Como a água doce é considerada patrimônio da humanidade pelo direito internacional, todo rio internacional tem sua vazão dividida em partes iguais entre os países banhados por ele.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "III, apenas",
-                                              "d":  "II e III, apenas"
+                                              "a":  "I, II e III",
+                                              "b":  "III, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a interdependência hidrográfica e a necessidade de negociação diplomática entre países de uma mesma bacia. A afirmativa III é falsa: não existe regra de direito internacional que divida automaticamente a vazão de rios internacionais em partes iguais — a gestão depende de tratados específicos entre os países envolvidos, muitas vezes conflituosos.",
                          "dificuldade":  "media"
                      },
@@ -828,7 +848,8 @@
                                               "a":  "I e II, apenas",
                                               "b":  "III, apenas",
                                               "c":  "I, II e III",
-                                              "d":  "II e III, apenas"
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os interesses do Egito (segurança hídrica) e da Etiópia (energia e desenvolvimento) nesse conflito. A afirmativa III é falsa: a Etiópia, construtora da barragem, é parte central das negociações — o conflito envolve os três países (Etiópia, Sudão e Egito), não apenas dois deles.",
@@ -842,7 +863,8 @@
                                               "a":  "Unicamente a III",
                                               "b":  "I e II, apenas",
                                               "c":  "I, II e III, sem exceção",
-                                              "d":  "Exclusivamente a I"
+                                              "d":  "Exclusivamente a I",
+                                              "e":  "Unicamente a II"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente como a dependência energética condicionou a resposta europeia à guerra e como o continente reagiu depois. A afirmativa III é falsa: a dependência do gás russo variava consideravelmente entre os países europeus, sendo mais acentuada em nações como a Alemanha do que em outras com matriz energética mais diversificada.",
@@ -854,11 +876,12 @@
                          "enunciado":  "Considere as afirmativas sobre o mercado de créditos de carbono, mecanismo cada vez mais relevante nas políticas climáticas:\n\nI. Agentes que reduzem emissões além de metas estabelecidas podem gerar créditos correspondentes a essa redução.\nII. Esses créditos podem ser vendidos a outros agentes que precisam compensar suas próprias emissões, incluindo créditos ligados a projetos de conservação florestal.\nIII. O mercado de créditos de carbono elimina totalmente a necessidade de qualquer redução direta de emissões por parte das empresas compradoras.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I, II e III"
+                                              "b":  "II e III, apenas",
+                                              "c":  "I e II, apenas",
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de geração e comercialização de créditos de carbono, incluindo projetos florestais. A afirmativa III é falsa: o mercado de créditos é pensado como complemento, não substituto, das metas de redução direta de emissões, que continuam sendo cobradas das empresas.",
                          "dificuldade":  "dificil"
                      },
@@ -869,10 +892,11 @@
                          "alternativas":  {
                                               "a":  "III, apenas",
                                               "b":  "II e III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, II e III"
+                                              "c":  "I, II e III",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a função científica do IPCC e sua influência sobre negociações internacionais. A afirmativa III é falsa: o IPCC é um organismo científico, sem poder de aplicar sanções econômicas a países — sua influência é indireta, por meio da base científica que fornece a negociações políticas.",
                          "dificuldade":  "media"
                      },
@@ -911,10 +935,11 @@
                          "alternativas":  {
                                               "a":  "I, II e III",
                                               "b":  "III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "c":  "II e III, apenas",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de modelo entre os dois acordos climáticos. A afirmativa III é falsa: o Acordo de Paris não eliminou o princípio de responsabilidades históricas — ele permanece como referência, ainda que combinado a um modelo mais amplo de participação voluntária de todos os países.",
                          "dificuldade":  "dificil"
                      },
@@ -923,12 +948,13 @@
                          "texto_apoio":  "Os Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela ONU em 2015, compõem uma agenda que busca, até 2030, transformações sociais, econômicas e ambientais.",
                          "enunciado":  "Considere as afirmativas sobre os ODS:\n\nI. Integram metas sociais, econômicas e ambientais, como erradicação da pobreza, redução das desigualdades e ação climática.\nII. Devem ser perseguidos por todos os países-membros da ONU, e não apenas pelos países mais pobres.\nIII. Substituíram integralmente o Acordo de Paris, que deixou de ter vigência após a criação dos ODS.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, II e III",
                                               "c":  "III, apenas",
-                                              "d":  "II e III, apenas"
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a natureza integrada e universal da agenda dos ODS. A afirmativa III é falsa: os ODS e o Acordo de Paris são agendas complementares e coexistentes, ambos vigentes, cada um com seu próprio escopo — os ODS não substituíram o acordo climático.",
                          "dificuldade":  "media"
                      },
@@ -1064,11 +1090,12 @@
                          "enunciado":  "Considere as afirmativas sobre os objetivos dessa política:\n\nI. Buscou atrair investimentos industriais para a Amazônia por meio de incentivos fiscais, como isenção de impostos.\nII. Contribuiu para gerar empregos urbanos como alternativa a atividades extrativistas predatórias na floresta.\nIII. Resultou na proibição de qualquer atividade industrial fora da região amazônica a partir de sua criação.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III",
-                                              "b":  "III, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os incentivos fiscais e o objetivo de gerar alternativas econômicas à exploração predatória. A afirmativa III é falsa: a Zona Franca não proibiu a atividade industrial em outras regiões do país — o Sudeste e o Sul continuaram concentrando a maior parte da produção industrial brasileira após 1967.",
                          "dificuldade":  "media"
                      },
@@ -1106,11 +1133,12 @@
                          "enunciado":  "Considere as afirmativas sobre a expansão dessa fronteira agrícola:\n\nI. Foi favorecida por preços de terra mais baixos e pela disponibilidade de áreas de Cerrado passíveis de correção do solo com tecnologia.\nII. Gera preocupações ambientais quanto ao desmatamento do Cerrado, bioma com proteção legal historicamente menor do que a da Amazônia.\nIII. Ocorreu sem qualquer desafio logístico, já que a região já contava, desde sua criação, com infraestrutura portuária e rodoviária equivalente à do Sudeste.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "II e III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "b":  "I, II e III",
+                                              "c":  "I e II, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores de atração e as preocupações ambientais ligadas à expansão do Matopiba. A afirmativa III é falsa: a região enfrentou e ainda enfrenta desafios logísticos relevantes, sendo justamente a carência de infraestrutura portuária e rodoviária um dos principais obstáculos ao desenvolvimento pleno dessa fronteira agrícola.",
                          "dificuldade":  "dificil"
                      },
@@ -1133,12 +1161,13 @@
                          "texto_apoio":  "Dados aproximados da balança comercial brasileira mostram que, nas últimas duas décadas, a participação de commodities primárias (como minério de ferro, soja e petróleo) no total das exportações do país cresceu de forma expressiva, superando a participação de produtos manufaturados.",
                          "enunciado":  "Considere as afirmativas sobre esse fenômeno, conhecido como \u0027reprimarização\u0027 da pauta exportadora:\n\nI. Ele está associado a maior vulnerabilidade da economia brasileira a oscilações de preços internacionais de commodities.\nII. Reduz o peso relativo da indústria de transformação, de maior valor agregado, na pauta de exportações do país.\nIII. Como commodities agrícolas e minerais têm alto valor agregado, a reprimarização representa um ganho automático de sofisticação tecnológica para a economia brasileira.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "III, apenas",
-                                              "d":  "II e III, apenas"
+                                              "a":  "I, II e III",
+                                              "b":  "III, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os riscos associados à reprimarização: vulnerabilidade a preços internacionais e perda de espaço da indústria de transformação. A afirmativa III é falsa: commodities primárias têm justamente menor valor agregado do que produtos manufaturados, de modo que a reprimarização representa o oposto de um ganho de sofisticação tecnológica na pauta exportadora.",
                          "dificuldade":  "dificil"
                      },
@@ -1163,10 +1192,11 @@
                          "alternativas":  {
                                               "a":  "III, apenas",
                                               "b":  "II e III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, II e III"
+                                              "c":  "I, II e III",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "No agronegócio, o saldo é 120−10=110 (superávit); em combustíveis e minérios, 60−20=40 (superávit); na indústria de transformação, 90−130=−40 (déficit de 40 bilhões), confirmando I e II. A afirmativa III é falsa: esse padrão — superávit em commodities e déficit em manufaturados — é justamente citado como evidência do fenômeno de reprimarização da pauta comercial brasileira, não uma exceção a ele.",
                          "dificuldade":  "dificil"
                      },
@@ -1203,12 +1233,13 @@
                          "texto_apoio":  "O índice de Gini da terra é utilizado para medir a concentração fundiária de um território.",
                          "enunciado":  "Considere as afirmativas sobre a estrutura fundiária brasileira, historicamente marcada por elevada concentração de terras:\n\nI. Uma parcela relativamente pequena de grandes propriedades ocupa uma fração expressiva da área rural total do país.\nII. Essa concentração fundiária tem raízes históricas que remontam ao sistema colonial de capitanias e sesmarias.\nIII. Apesar da concentração, o número de pequenos e médios produtores é menor do que o de grandes proprietários no Brasil.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "II e III, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "II e III, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão histórico de concentração fundiária brasileira e sua origem colonial. A afirmativa III é falsa: o número de pequenos e médios produtores é, na verdade, muito maior do que o de grandes proprietários — a concentração fundiária está na área ocupada por poucas grandes propriedades, não no número de proprietários envolvidos.",
                          "dificuldade":  "media"
                      },
@@ -1218,11 +1249,12 @@
                          "enunciado":  "Considere as afirmativas sobre a distinção entre \u0027reforma agrária\u0027 e \u0027regularização fundiária\u0027:\n\nI. A reforma agrária envolve a redistribuição de terras (geralmente griladas, improdutivas ou desapropriadas) a famílias sem-terra.\nII. A regularização fundiária consiste em garantir título de propriedade legal a quem já ocupa uma área, sem necessariamente redistribuir terras entre famílias diferentes.\nIII. Por envolverem terras rurais, os dois processos resultam sempre na mesma consequência jurídica: a transferência da terra para um novo titular.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III",
-                                              "b":  "II e III, apenas",
-                                              "c":  "III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os dois processos, distintos entre si. A afirmativa III é falsa: na regularização fundiária, o título costuma ser concedido a quem já ocupa a área (sem transferência a um novo titular), diferentemente da reforma agrária, que redistribui terras a famílias diferentes das que a ocupavam antes.",
                          "dificuldade":  "media"
                      },
@@ -1262,7 +1294,8 @@
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente as tensões geradas pela crise migratória síria dentro da União Europeia. A afirmativa III é falsa: a crise gerou divergências políticas relevantes entre Estados-membros favoráveis a uma recepção mais aberta e outros mais restritivos, e não uma recepção unânime e consensual.",
@@ -1276,7 +1309,8 @@
                                               "a":  "III, apenas",
                                               "b":  "II e III, apenas",
                                               "c":  "I e II, apenas",
-                                              "d":  "I, II e III"
+                                              "d":  "I, II e III",
+                                              "e":  "I e III, apenas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "As três afirmativas descrevem corretamente o fenômeno migratório regional: origem múltipla no México e no Triângulo Norte centro-americano (I), fatores de expulsão como violência e instabilidade (II), e a rota que atravessa o México antes de chegar aos Estados Unidos (III) — um fluxo migratório regional complexo, e não restrito a um único país de origem.",
@@ -1304,9 +1338,10 @@
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a relevância das remessas para certas economias em desenvolvimento e o duplo efeito da emigração de trabalhadores. A afirmativa III é falsa: esse padrão não é universal — a proporção entre remessas, investimento estrangeiro direto e ajuda internacional varia bastante conforme o perfil econômico de cada país.",
                          "dificuldade":  "dificil"
                      },
@@ -1315,12 +1350,13 @@
                          "texto_apoio":  "Um mapa-múndi com setas indica os principais fluxos migratórios internacionais contemporâneos: uma seta grossa parte do Norte da África em direção à Europa; outra parte da América Central em direção à América do Norte; e outra parte do Sul da Ásia em direção ao Oriente Médio (Golfo Pérsico).",
                          "enunciado":  "Considere as afirmativas com base na descrição desse mapa:\n\nI. Os três fluxos seguem um padrão de deslocamento de regiões com menor oferta de emprego e renda em direção a regiões com maior demanda por mão de obra, um padrão amplo conhecido como fluxo Sul-Norte.\nII. O Golfo Pérsico, embora não seja tecnicamente parte do \u0027Norte global\u0027, funciona como polo econômico regional que atrai trabalhadores do Sul da Ásia.\nIII. Os três fluxos representados no mapa ocorrem exclusivamente entre países vizinhos de fronteira terrestre comum.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "III, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão geral Sul-Norte desses fluxos e a posição peculiar do Golfo Pérsico nesse esquema. A afirmativa III é falsa: o fluxo do Sul da Ásia ao Golfo Pérsico, por exemplo, não envolve países de fronteira terrestre comum, mostrando que o padrão migratório descrito não se restringe a deslocamentos entre vizinhos diretos.",
                          "dificuldade":  "media"
                      },
@@ -1330,11 +1366,12 @@
                          "enunciado":  "Considere as afirmativas sobre esse sistema, criticado por organizações de direitos humanos:\n\nI. Vincula juridicamente o trabalhador migrante a um empregador específico, que controla aspectos como mudança de emprego e, por vezes, a saída do país.\nII. Pode gerar relações de trabalho precárias e situações de vulnerabilidade para o trabalhador migrante.\nIII. Garante ao trabalhador migrante direitos trabalhistas superiores aos concedidos aos cidadãos nativos desses países.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e as críticas ao sistema kafala. A afirmativa III é falsa: o sistema é criticado justamente por conceder ao trabalhador migrante direitos e proteções inferiores, não superiores, aos dos cidadãos nativos, criando forte dependência do trabalhador em relação ao empregador patrocinador.",
                          "dificuldade":  "dificil"
                      },
@@ -1360,7 +1397,8 @@
                                               "a":  "II e III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a combinação de apatridia, perseguição étnico-religiosa e a caracterização jurídica de refúgio nesse caso. A afirmativa III é falsa: a crise dos Rohingya permanece sem solução definitiva, com grande contingente ainda vivendo em campos de refugiados, sobretudo em Bangladesh, muito tempo depois do deslocamento em massa.",
@@ -1371,12 +1409,13 @@
                          "texto_apoio":  "Diversos países europeus, além do Japão, enfrentam acentuado envelhecimento populacional e baixas taxas de natalidade.",
                          "enunciado":  "Considere as afirmativas sobre a imigração de trabalhadores estrangeiros como resposta a esse contexto:\n\nI. Poderia ajudar a repor parte da força de trabalho em idade ativa, sustentando sistemas previdenciários pressionados pelo envelhecimento.\nII. É um tema que gera controvérsias políticas e sociais relevantes nesses países, sem consenso automático sobre sua adoção.\nIII. É uma solução tecnicamente equivalente ao aumento da taxa de natalidade, já que ambas produzem exatamente o mesmo efeito imediato sobre a pirâmide etária.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "II e III, apenas"
+                                              "a":  "III, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o potencial da imigração para repor força de trabalho e a controvérsia política que o tema gera. A afirmativa III é falsa: imigração de adultos em idade ativa e aumento da natalidade produzem efeitos distintos e em prazos diferentes sobre a pirâmide etária — a chegada de imigrantes adultos tem impacto mais imediato sobre a força de trabalho, enquanto a natalidade leva décadas para gerar o mesmo efeito.",
                          "dificuldade":  "media"
                      },
@@ -1472,9 +1511,10 @@
                                               "a":  "II e III, apenas",
                                               "b":  "III, apenas",
                                               "c":  "I, II e III",
-                                              "d":  "I e II, apenas"
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o conceito e os fatores associados à maldição dos recursos naturais. A afirmativa III é falsa: o conceito é discutido em relação a diversos recursos, como minérios e outras commodities de exportação, não se restringindo exclusivamente a países produtores de petróleo.",
                          "dificuldade":  "dificil"
                      },
@@ -1581,12 +1621,13 @@
                          "texto_apoio":  "Uma tabela apresenta dados aproximados sobre a agricultura brasileira: a agricultura familiar responde por cerca de 23% do valor total da produção agropecuária, mas por aproximadamente 70% dos alimentos que chegam à mesa dos brasileiros (feijão, mandioca, hortaliças e parte do leite e de carnes), enquanto o agronegócio de grande escala responde pelos 77% restantes do valor da produção, concentrados majoritariamente em commodities voltadas à exportação.",
                          "enunciado":  "Considere as afirmativas com base nesses dados aproximados:\n\nI. A agricultura familiar tem papel desproporcionalmente maior no abastecimento direto de alimentos ao mercado interno do que sua participação no valor total da produção.\nII. O agronegócio de grande escala concentra-se mais em commodities de exportação do que em alimentos de consumo interno direto.\nIII. Como a agricultura familiar responde por apenas 23% do valor da produção, ela é irrelevante para a segurança alimentar do país.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "a":  "I e II, apenas",
+                                              "b":  "I, II e III",
+                                              "c":  "III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "Os dados mostram um descompasso relevante: a agricultura familiar responde por apenas 23% do valor da produção, mas por cerca de 70% dos alimentos que chegam à mesa da população, confirmando I e II. A afirmativa III é falsa: é exatamente esse descompasso que evidencia a relevância estratégica da agricultura familiar para a segurança alimentar interna, e não sua irrelevância.",
                          "dificuldade":  "dificil"
                      },
@@ -1652,11 +1693,12 @@
                          "enunciado":  "Considere as afirmativas sobre essa predominância global de fontes fósseis:\n\nI. Está relacionada ao menor custo histórico de exploração e à infraestrutura já consolidada em torno dos combustíveis fósseis.\nII. A alta densidade energética desses recursos dificulta uma transição energética rápida em escala global.\nIII. Essa predominância decorre do fato de apenas o Brasil possuir potencial técnico para gerar energia a partir de fontes renováveis.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "III, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I e II, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores históricos e técnicos que explicam a predominância global de fontes fósseis. A afirmativa III é falsa: diversos países possuem potencial técnico relevante para energias renováveis (como a solar no Norte da África e a eólica na Europa) — o Brasil se destaca por seu potencial hídrico específico, mas não é o único país com potencial renovável.",
                          "dificuldade":  "media"
                      },
@@ -1667,10 +1709,11 @@
                          "alternativas":  {
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
-                                              "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "c":  "I e II, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "d",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores que explicam a dependência de carvão nesses países. A afirmativa III é falsa: China e Índia estão, na verdade, entre os países que mais investem em termos absolutos em energia solar e eólica no mundo — a dependência de carvão convive com, e não exclui, investimentos crescentes em fontes renováveis.",
                          "dificuldade":  "dificil"
                      },
@@ -1696,7 +1739,8 @@
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "II e III, apenas",
-                                              "d":  "I e II, apenas"
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os dados confirmam I e II: o Brasil concentra 65% do transporte de cargas no modal rodoviário, contra 30% nos Estados Unidos, que utilizam mais o ferroviário (40% contra 15% no Brasil), apesar de ambos os países terem grandes extensões territoriais. A afirmativa III inverte os dados da tabela: são os Estados Unidos que dependem proporcionalmente menos do modal rodoviário, não mais, em comparação ao Brasil.",
@@ -1722,11 +1766,12 @@
                          "enunciado":  "Considere as afirmativas sobre esses conflitos:\n\nI. Áreas de interesse para demarcação indígena frequentemente se sobrepõem a áreas de interesse do agronegócio, da mineração ou de outras atividades econômicas.\nII. Esses conflitos envolvem disputa entre os direitos constitucionais dos povos indígenas e interesses econômicos sobre o mesmo território.\nIII. A demarcação de terras indígenas é um processo automático, concluído em qualquer caso em menos de um ano, sem etapas de estudo antropológico.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "II e III, apenas",
-                                              "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "b":  "I, II e III",
+                                              "c":  "III, apenas",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a sobreposição de interesses e a natureza do conflito entre direitos constitucionais indígenas e interesses econômicos. A afirmativa III é falsa: a demarcação envolve etapas de estudo antropológico, identificação e disputas administrativas e judiciais que frequentemente se estendem por muitos anos, não sendo um processo automático e rápido.",
                          "dificuldade":  "dificil"
                      },
@@ -1738,7 +1783,8 @@
                                               "a":  "I e II, apenas",
                                               "b":  "II e III, apenas",
                                               "c":  "I, II e III",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o objetivo e o fundamento constitucional do direito à titulação quilombola. A afirmativa III é falsa: o direito alcança tanto comunidades rurais quanto urbanas, sendo a maior parte dos territórios quilombolas reconhecidos, historicamente, de natureza rural.",
@@ -1749,12 +1795,13 @@
                          "texto_apoio":  "O fenômeno da \u0027grilagem de terras\u0027 é recorrente em áreas de fronteira agrícola e na Amazônia.",
                          "enunciado":  "Considere as afirmativas sobre esse fenômeno:\n\nI. Consiste na apropriação ilegal de terras públicas ou devolutas, frequentemente por meio da falsificação de documentos de propriedade.\nII. Está entre os principais fatores associados a conflitos fundiários e ao desmatamento ilegal em áreas de fronteira agrícola.\nIII. Corresponde a uma prática legal de compra e venda de terras, desde que devidamente registrada em cartório após a aquisição.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
+                                              "a":  "I, II e III",
+                                              "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "III, apenas"
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o mecanismo da grilagem e sua relação com conflitos fundiários e desmatamento ilegal. A afirmativa III é falsa: a grilagem é, por definição, uma apropriação ilegal de terras públicas, baseada em fraude documental — não se confunde com a compra e venda legal e regular de terras devidamente registradas.",
                          "dificuldade":  "dificil"
                      },
@@ -1764,11 +1811,12 @@
                          "enunciado":  "Considere as afirmativas sobre esse padrão comum entre diferentes países:\n\nI. Revela um padrão global de urbanização acelerada em países em desenvolvimento, frequentemente não acompanhada de planejamento urbano adequado.\nII. Está associado à insuficiência de políticas habitacionais para toda a população que migra para as cidades em busca de oportunidades.\nIII. Demonstra que a favelização é uma característica cultural exclusiva do Brasil, sem equivalentes em outros países do mundo.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, II e III",
-                                              "b":  "I e II, apenas",
-                                              "c":  "II e III, apenas",
-                                              "d":  "III, apenas"
+                                              "b":  "II e III, apenas",
+                                              "c":  "I e II, apenas",
+                                              "d":  "III, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "b",
+                         "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão global de urbanização acelerada e sua relação com políticas habitacionais insuficientes. A afirmativa III é falsa: a existência de townships, slums e favelas em diferentes países evidencia justamente o oposto — um padrão global compartilhado por diversos países em desenvolvimento, não uma particularidade exclusivamente brasileira.",
                          "dificuldade":  "media"
                      },
@@ -1833,12 +1881,13 @@
                          "texto_apoio":  "A obra de transposição (ou integração) do Rio São Francisco com bacias hidrográficas do semiárido nordestino é um dos maiores projetos de infraestrutura hídrica do país, objeto de controvérsia entre especialistas e movimentos sociais.",
                          "enunciado":  "Considere as afirmativas sobre essa controvérsia:\n\nI. O governo defende a obra como forma de garantir abastecimento de água para milhões de pessoas em áreas historicamente afetadas pela seca.\nII. Críticos questionam impactos ambientais sobre o próprio Rio São Francisco e se a obra prioriza grandes projetos de irrigação empresarial em detrimento de soluções mais descentralizadas.\nIII. A obra é unanimemente aprovada por especialistas e movimentos sociais, sem qualquer questionamento técnico, social ou ambiental.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "II e III, apenas",
-                                              "d":  "III, apenas"
+                                              "a":  "I, II e III",
+                                              "b":  "II e III, apenas",
+                                              "c":  "III, apenas",
+                                              "d":  "I e II, apenas",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "a",
+                         "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os argumentos favoráveis do governo e as críticas de parte dos especialistas e movimentos sociais. A afirmativa III é falsa: a obra é justamente um dos temas mais debatidos e controversos da geografia hídrica brasileira, longe de haver aprovação unânime entre especialistas e movimentos sociais.",
                          "dificuldade":  "dificil"
                      },
@@ -1849,10 +1898,11 @@
                          "alternativas":  {
                                               "a":  "I, II e III",
                                               "b":  "II e III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "III, apenas"
+                                              "c":  "III, apenas",
+                                              "d":  "I, apenas",
+                                              "e":  "I e II, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente as posições em disputa entre estados produtores e não produtores na partilha dos royalties. A afirmativa III é falsa: essa distribuição gerou disputas legislativas e judiciais relevantes ao longo dos anos, não tendo sido encerrada de forma unânime e definitiva.",
                          "dificuldade":  "dificil"
                      },
@@ -1959,12 +2009,13 @@
                          "texto_apoio":  "Um mapa de fluxos migratórios internos recentes no Brasil mostra setas partindo das regiões metropolitanas de São Paulo e Rio de Janeiro em direção a cidades médias do interior paulista, mineiro e do Sul do país, além de setas partindo dessas mesmas metrópoles em direção a estados do Nordeste, como Ceará e Bahia.",
                          "enunciado":  "Considere as afirmativas sobre esse padrão de fluxos, diferente do êxodo rural clássico do século XX:\n\nI. Sugere influência de fatores como busca por melhor qualidade de vida, menor custo de vida e trabalho remoto, favorecendo cidades médias do interior e, em alguns casos, estados nordestinos.\nII. Contraria o padrão histórico de fluxo unidirecional rumo às grandes metrópoles do Sudeste, predominante ao longo do século XX.\nIII. Indica que a migração interna no Brasil contemporâneo segue sendo motivada, sobretudo, pela busca por emprego industrial, exatamente como ocorria até meados do século XX.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II e III, apenas",
-                                              "b":  "III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, II e III"
+                                              "a":  "I e II, apenas",
+                                              "b":  "II e III, apenas",
+                                              "c":  "III, apenas",
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
-                         "resposta":  "c",
+                         "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os novos fatores de atração e a inversão do padrão migratório histórico. A afirmativa III é falsa: os fluxos recentes são cada vez mais influenciados por qualidade de vida, custo de vida e trabalho remoto (acelerado após a pandemia), e não mais, predominantemente, pela busca de emprego industrial nas grandes metrópoles, como ocorria até meados do século XX.",
                          "dificuldade":  "dificil"
                      },
@@ -1990,7 +2041,8 @@
                                               "a":  "III, apenas",
                                               "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "I, II e III"
+                                              "d":  "I, II e III",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a implicação do dado: reduzir perdas amplia a disponibilidade efetiva de água tratada sem necessidade de novas fontes. A afirmativa III é falsa: um índice de perdas de 40% é considerado elevado, muito acima do patamar desejável por organismos de saneamento, e não um valor ideal — é justamente esse problema que torna a redução de perdas uma estratégia relevante.",
@@ -2046,7 +2098,8 @@
                                               "a":  "III, apenas",
                                               "b":  "I, II e III",
                                               "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas"
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, apenas"
                                           },
                          "resposta":  "c",
                          "explicacao":  "A produção de cada década é área × produtividade: 10×2,0=20; 20×2,8=56; 40×3,5=140 milhões de toneladas, confirmando I. Da Década 1 para a 2, a produção multiplicou-se por 2,8 vezes; da 2 para a 3, por 2,5 vezes, mas com ganho absoluto maior (84 milhões de toneladas, contra 36), confirmando II. A afirmativa III é falsa: embora a área plantada tenha dobrado em cada transição, a produção não dobrou exatamente, pois a produtividade por hectare também variou entre as décadas, alterando o resultado final.",

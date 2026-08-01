@@ -1,0 +1,126 @@
+{
+  "_comentario": [
+    "Amostra 2: as questões de direitos-humanos que sobraram na faixa crítica.",
+    "",
+    "Depois de regerar o bundle, restaram 35 questões com uma alternativa muito destacada.",
+    "Filtrando as que não têm viés real (21 em que a correta NÃO é a mais longa) e as de",
+    "matemática, cujas alternativas são números — '3' contra '2' dá 44% de margem relativa e",
+    "não entrega nada —, sobraram 12, e todas na mesma frente. Direitos humanos ficou de fora",
+    "da rodada anterior de reescrita.",
+    "",
+    "O vazamento aqui tem uma forma própria: são questões de 'identifique o termo', e a",
+    "alternativa certa vinha com um aposto que repetia o enunciado ou citava a fonte —",
+    "'…incorporado pela LBI', '…conforme a proteção integral', '…segundo dados oficiais',",
+    "'…apesar da escolaridade formal concluída'. Esse aposto não ajuda a discriminar: ele",
+    "confirma. Nas erradas, o oposto — 'sem qualquer exceção', 'total ausência de',",
+    "'exclusivamente', 'em qualquer hipótese'.",
+    "",
+    "O conserto: a certa perde o aposto (a fonte já está na explicação) e as erradas viram",
+    "termos plausíveis do mesmo campo, sem absolutismos. Quem não souber o conteúdo passa a",
+    "ter quatro candidatos verossímeis.",
+    "",
+    "NÃO INCLUÍDA AQUI: direitos-humanos-21. O gabarito dela parece errado — pergunta a idade",
+    "abaixo da qual é vedado QUALQUER trabalho e responde 14 anos, mas o art. 7º, XXXIII da",
+    "Constituição veda qualquer trabalho a menores de 16, admitindo aprendiz a partir de 14.",
+    "Corrigir gabarito é decisão de conteúdo, não de formatação — fica para revisão."
+  ],
+  "questoes": {
+    "direitos-humanos-04": {
+      "motivo": "a certa explicava a distinção; agora as quatro são pares de conceitos",
+      "alternativas": {
+        "c": "Direitos individuais e direitos coletivos",
+        "d": "Igualdade formal e igualdade material"
+      }
+    },
+    "direitos-humanos-28": {
+      "motivo": "a certa citava o Relatório Brundtland; erradas eram absurdos absolutos",
+      "alternativas": {
+        "a": "O crescimento econômico com a redução da regulação ambiental sobre os setores produtivos",
+        "b": "A industrialização acelerada dos países em desenvolvimento, com compensação ambiental posterior",
+        "c": "O desenvolvimento econômico e social com a preservação ambiental para as gerações futuras",
+        "d": "A redução das atividades produtivas nos países em desenvolvimento, mediante metas de decrescimento"
+      }
+    },
+    "direitos-humanos-31": {
+      "motivo": "a certa citava o Marco Civil; erradas tinham 'totalmente', 'exclusivamente', 'integralmente'",
+      "alternativas": {
+        "a": "Ponderar a liberdade de expressão com a necessidade de coibir discursos de ódio contra grupos vulneráveis",
+        "b": "Suprimir a moderação feita pelas plataformas, deixando toda remoção de conteúdo a cargo do Judiciário",
+        "c": "Transferir ao Estado o controle editorial prévio do conteúdo publicado por particulares na internet",
+        "d": "Restringir a discussão aos veículos de imprensa tradicionais, deixando as redes sociais fora do debate"
+      }
+    },
+    "direitos-humanos-40": {
+      "motivo": "a certa citava o INAF e repetia 'escolaridade formal'; 'iletrismo compulsório' era termo inventado",
+      "alternativas": {
+        "a": "Evasão escolar, medida pela taxa de abandono no ensino básico",
+        "b": "Defasagem idade-série, medida pela distorção entre idade e ano cursado",
+        "c": "Analfabetismo funcional, identificado por avaliações amostrais",
+        "d": "Analfabetismo digital, restrito ao uso de equipamentos e da internet"
+      }
+    },
+    "direitos-humanos-46": {
+      "motivo": "a certa terminava em 'segundo dados oficiais', o que só confirmava a escolha",
+      "alternativas": {
+        "a": "Ação afirmativa aplicada ao ingresso no serviço público",
+        "b": "Igualdade material já efetivada entre os grupos raciais",
+        "c": "Neutralidade racial no funcionamento das instituições",
+        "d": "Racismo institucional na atuação da segurança pública"
+      }
+    },
+    "direitos-humanos-56": {
+      "motivo": "a certa explicava 'com base em papéis de gênero'; erradas eram termos inventados",
+      "alternativas": {
+        "a": "Divisão técnica do trabalho",
+        "b": "Segregação ocupacional setorial",
+        "c": "Divisão sexual do trabalho",
+        "d": "Mobilidade social intergeracional"
+      }
+    },
+    "direitos-humanos-61": {
+      "motivo": "a certa citava a LBI, que já estava no enunciado",
+      "alternativas": {
+        "a": "Modelo médico centrado no diagnóstico",
+        "b": "Tutela permanente exercida pelo Estado",
+        "c": "Adaptação individual sob demanda",
+        "d": "Desenho universal de produtos e ambientes"
+      }
+    },
+    "direitos-humanos-85": {
+      "motivo": "a certa repetia 'reavaliação periódica' do enunciado; erradas eram absolutas",
+      "alternativas": {
+        "a": "Aplicada por prazo indeterminado, até que o adolescente atinja a maioridade",
+        "b": "Vedada pela legislação brasileira, mesmo diante de atos infracionais graves",
+        "c": "Excepcional e breve, reservada aos casos mais graves previstos em lei",
+        "d": "A medida socioeducativa preferencial, aplicável a qualquer ato infracional"
+      }
+    },
+    "direitos-humanos-90": {
+      "motivo": "sigla: só a certa trazia a descrição do serviço; agora todas trazem só o nome",
+      "alternativas": {
+        "a": "UPA (Unidade de Pronto Atendimento)",
+        "b": "UBS (Unidade Básica de Saúde)",
+        "c": "CAPS (Centro de Atenção Psicossocial)",
+        "d": "CRAS (Centro de Referência de Assistência Social)"
+      }
+    },
+    "direitos-humanos-95": {
+      "motivo": "a certa citava a Comissão Nacional da Verdade como exemplo",
+      "alternativas": {
+        "a": "Tribunais militares de caráter permanente",
+        "b": "Conselhos de fiscalização administrativa",
+        "c": "Cortes constitucionais de transição",
+        "d": "Comissões da verdade de caráter temporário"
+      }
+    },
+    "direitos-humanos-97": {
+      "motivo": "a certa citava a justiça de transição; 'direito de picada agrícola' era absurdo eliminável de imediato",
+      "alternativas": {
+        "a": "Direito à reparação econômica individual",
+        "b": "Direito à informação de interesse privado",
+        "c": "Direito de petição aos poderes públicos",
+        "d": "Direito à verdade e à memória histórica"
+      }
+    }
+  }
+}

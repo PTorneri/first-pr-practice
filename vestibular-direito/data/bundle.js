@@ -8945,8 +8945,8 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Direitos civis e direitos políticos",
                                                       "b":  "Cidadania ativa e cidadania passiva",
-                                                      "c":  "Direitos individuais e coletivos",
-                                                      "d":  "Igualdade formal e igualdade material perante a lei e na prática"
+                                                      "c":  "Direitos individuais e direitos coletivos",
+                                                      "d":  "Igualdade formal e igualdade material"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "A igualdade formal trata todos de modo idêntico perante a lei; a igualdade material reconhece desigualdades reais e busca compensá-las por meio de políticas específicas, como ações afirmativas."
@@ -9255,10 +9255,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992 (Eco-92), consolidou o conceito de desenvolvimento sustentável.",
                                  "enunciado":  "Esse conceito busca conciliar, principalmente:",
                                  "alternativas":  {
-                                                      "a":  "O crescimento econômico ilimitado com a total ausência de qualquer regulação ambiental estatal",
-                                                      "b":  "A industrialização acelerada dos países em desenvolvimento, independentemente de seus impactos ambientais",
-                                                      "c":  "O desenvolvimento econômico e social com a preservação ambiental, atendendo às necessidades presentes sem comprometer o futuro (Relatório Brundtland, 1987)",
-                                                      "d":  "A interrupção total das atividades produtivas em países em desenvolvimento, decisão do Protocolo de Kyoto"
+                                                      "a":  "O crescimento econômico com a redução da regulação ambiental sobre os setores produtivos",
+                                                      "b":  "A industrialização acelerada dos países em desenvolvimento, com compensação ambiental posterior",
+                                                      "c":  "O desenvolvimento econômico e social com a preservação ambiental para as gerações futuras",
+                                                      "d":  "A redução das atividades produtivas nos países em desenvolvimento, mediante metas de decrescimento"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "O desenvolvimento sustentável, definido pelo Relatório Brundtland (1987) e consolidado na Eco-92, propõe atender às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas próprias necessidades, articulando desenvolvimento e proteção ambiental."
@@ -9294,10 +9294,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
                                  "enunciado":  "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
                                  "alternativas":  {
-                                                      "a":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de violência ou ódio contra grupos vulneráveis, no âmbito do Marco Civil da Internet",
-                                                      "b":  "Eliminar totalmente qualquer forma de moderação de conteúdo nas redes sociais e aplicativos, tese rejeitada pelo CNJ",
-                                                      "c":  "Transferir ao Estado o controle editorial direto de todo conteúdo publicado por particulares",
-                                                      "d":  "Aplicar-se exclusivamente a veículos de imprensa tradicionais, excluindo integralmente as redes sociais"
+                                                      "a":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de ódio contra grupos vulneráveis",
+                                                      "b":  "Suprimir a moderação feita pelas plataformas, deixando toda remoção de conteúdo a cargo do Judiciário",
+                                                      "c":  "Transferir ao Estado o controle editorial prévio do conteúdo publicado por particulares na internet",
+                                                      "d":  "Restringir a discussão aos veículos de imprensa tradicionais, deixando as redes sociais fora do debate"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O debate sobre liberdade de expressão no ambiente digital busca equilibrar a proteção a esse direito fundamental com a necessidade de coibir abusos, como discursos que incitam violência ou discriminação, sem que isso resulte em censura prévia indevida."
@@ -9415,10 +9415,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela significativa da população brasileira adulta, mesmo tendo concluído anos de escolarização formal, apresenta dificuldade para interpretar textos simples e realizar operações matemáticas básicas do cotidiano.",
                                  "enunciado":  "Esse fenômeno, distinto do analfabetismo absoluto (incapacidade de ler e escrever), é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Evasão escolar, medida pela taxa de abandono",
-                                                      "b":  "Iletrismo compulsório, imposto por decreto administrativo",
-                                                      "c":  "Analfabetismo funcional, identificado por avaliações como o INAF, apesar da escolaridade formal concluída",
-                                                      "d":  "Analfabetismo digital, restrito à ausência de acesso à internet"
+                                                      "a":  "Evasão escolar, medida pela taxa de abandono no ensino básico",
+                                                      "b":  "Defasagem idade-série, medida pela distorção entre idade e ano cursado",
+                                                      "c":  "Analfabetismo funcional, identificado por avaliações amostrais",
+                                                      "d":  "Analfabetismo digital, restrito ao uso de equipamentos e da internet"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "O analfabetismo funcional descreve a situação de pessoas que, embora tenham frequentado a escola e sejam capazes de decodificar palavras, têm dificuldade para compreender e interpretar textos simples ou realizar operações matemáticas básicas do cotidiano, revelando que o direito à educação não se esgota no acesso formal à matrícula, mas exige também qualidade do ensino oferecido.",
@@ -9499,10 +9499,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Levantamentos sobre abordagens policiais em diferentes cidades brasileiras apontam maior probabilidade de pessoas negras serem abordadas, revistadas ou terem veículos parados por policiais em comparação a pessoas brancas em situações comparáveis.",
                                  "enunciado":  "Esse padrão de diferenciação no tratamento dado por uma instituição a diferentes grupos, com base em critérios como raça, é analisado por meio do conceito de:",
                                  "alternativas":  {
-                                                      "a":  "Ação afirmativa compulsória em concursos públicos",
-                                                      "b":  "Igualdade material efetiva entre grupos raciais",
-                                                      "c":  "Neutralidade racial das instituições",
-                                                      "d":  "Racismo institucional na atuação da segurança pública, segundo dados oficiais"
+                                                      "a":  "Ação afirmativa aplicada ao ingresso no serviço público",
+                                                      "b":  "Igualdade material já efetivada entre os grupos raciais",
+                                                      "c":  "Neutralidade racial no funcionamento das instituições",
+                                                      "d":  "Racismo institucional na atuação da segurança pública"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O racismo institucional refere-se ao tratamento diferenciado dispensado por instituições públicas ou privadas — como órgãos de segurança pública — a diferentes grupos raciais, evidenciado, por exemplo, em disparidades estatísticas de abordagem policial entre pessoas negras e brancas em situações comparáveis, o que caracteriza uma forma de discriminação incorporada ao funcionamento cotidiano de uma instituição.",
@@ -9639,10 +9639,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisas sobre uso do tempo mostram que mulheres dedicam, em média, número significativamente maior de horas semanais a afazeres domésticos e cuidado de familiares do que homens, mesmo quando ambos exercem, simultaneamente, trabalho remunerado fora de casa.",
                                  "enunciado":  "Esse padrão desigual de distribuição do trabalho doméstico não remunerado entre homens e mulheres é analisado pelo conceito de:",
                                  "alternativas":  {
-                                                      "a":  "Ação afirmativa doméstica",
-                                                      "b":  "Efeito de rede doméstico comum",
-                                                      "c":  "Divisão sexual do trabalho, com base em papéis de gênero",
-                                                      "d":  "Economia circular familiar"
+                                                      "a":  "Divisão técnica do trabalho",
+                                                      "b":  "Segregação ocupacional setorial",
+                                                      "c":  "Divisão sexual do trabalho",
+                                                      "d":  "Mobilidade social intergeracional"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "A divisão sexual do trabalho refere-se à distribuição desigual de tarefas entre homens e mulheres com base em papéis de gênero social e historicamente construídos, evidenciada, entre outros dados, pela maior carga de trabalho doméstico não remunerado atribuída às mulheres mesmo quando exercem, paralelamente, trabalho remunerado fora de casa, o que impacta sua disponibilidade de tempo, renda e ascensão profissional.",
@@ -9709,10 +9709,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em vez de criar soluções específicas e segregadas apenas para pessoas com deficiência, determinada abordagem de projeto propõe que produtos, ambientes e serviços sejam concebidos, desde o início, para serem utilizáveis pelo maior número possível de pessoas, com ou sem deficiência.",
                                  "enunciado":  "Essa abordagem de projeto, incorporada pela Lei Brasileira de Inclusão, é conhecida como:",
                                  "alternativas":  {
-                                                      "a":  "Modelo médico exclusivo da deficiência",
-                                                      "b":  "Tutela plena e permanente do Estado",
-                                                      "c":  "Segregação compensatória obrigatória",
-                                                      "d":  "Desenho universal aplicado a ambientes e serviços, incorporado pela LBI"
+                                                      "a":  "Modelo médico centrado no diagnóstico",
+                                                      "b":  "Tutela permanente exercida pelo Estado",
+                                                      "c":  "Adaptação individual sob demanda",
+                                                      "d":  "Desenho universal de produtos e ambientes"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O desenho universal é a abordagem de projeto que busca conceber produtos, ambientes e serviços de modo a serem utilizáveis pelo maior número possível de pessoas, com ou sem deficiência, sem necessidade de adaptação posterior, evitando soluções segregadas e específicas apenas para pessoas com deficiência, princípio incorporado pela Lei Brasileira de Inclusão.",
@@ -10045,10 +10045,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Entre as medidas socioeducativas previstas no ECA, a internação em unidade especializada é a mais restritiva, aplicável apenas em hipóteses específicas, como ato infracional cometido mediante grave ameaça ou violência à pessoa, ou reiteração de outras infrações graves.",
                                  "enunciado":  "A previsão de que a internação seja aplicada apenas em hipóteses específicas e por prazo determinado, sujeito a reavaliação periódica, reflete o princípio de que a privação de liberdade de adolescentes deve ser:",
                                  "alternativas":  {
-                                                      "a":  "Aplicada sem qualquer limite de prazo, até que o adolescente complete a maioridade civil",
-                                                      "b":  "Vedada em qualquer hipótese pela legislação brasileira, inclusive para atos infracionais graves",
-                                                      "c":  "Excepcional e breve, sujeita a reavaliação periódica, reservada aos casos mais graves previstos em lei, conforme a proteção integral",
-                                                      "d":  "A medida socioeducativa preferencial, aplicada sempre que possível a qualquer ato infracional"
+                                                      "a":  "Aplicada por prazo indeterminado, até que o adolescente atinja a maioridade",
+                                                      "b":  "Vedada pela legislação brasileira, mesmo diante de atos infracionais graves",
+                                                      "c":  "Excepcional e breve, reservada aos casos mais graves previstos em lei",
+                                                      "d":  "A medida socioeducativa preferencial, aplicável a qualquer ato infracional"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "A internação, como medida socioeducativa mais restritiva, deve ser excepcional e breve, aplicada apenas às hipóteses mais graves previstas em lei e sujeita a reavaliação periódica, em consonância com o princípio da proteção integral e com padrões internacionais de direitos humanos que recomendam a privação de liberdade de adolescentes como último recurso e pelo menor tempo possível.",
@@ -10115,10 +10115,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Serviços territoriais de saúde mental, com equipe multiprofissional, oferecem atendimento diário ou ambulatorial a pessoas com transtornos mentais, como alternativa comunitária à internação psiquiátrica prolongada.",
                                  "enunciado":  "Esses serviços, criados no âmbito da Reforma Psiquiátrica brasileira, são conhecidos pela sigla:",
                                  "alternativas":  {
-                                                      "a":  "UPA (Unidade de Pronto Atendimento) de urgência",
-                                                      "b":  "UBS (Unidade Básica de Saúde) exclusivamente",
-                                                      "c":  "CAPS (Centro de Atenção Psicossocial), serviço territorial diário da Reforma Psiquiátrica",
-                                                      "d":  "CRAS (Centro de Referência de Assistência Social) exclusivamente"
+                                                      "a":  "UPA (Unidade de Pronto Atendimento)",
+                                                      "b":  "UBS (Unidade Básica de Saúde)",
+                                                      "c":  "CAPS (Centro de Atenção Psicossocial)",
+                                                      "d":  "CRAS (Centro de Referência de Assistência Social)"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "Os Centros de Atenção Psicossocial (CAPS) são serviços territoriais de saúde mental, com equipe multiprofissional, criados no âmbito da Reforma Psiquiátrica brasileira como alternativa comunitária à internação psiquiátrica prolongada, buscando oferecer cuidado próximo à residência e à rede social e familiar do paciente.",
@@ -10185,10 +10185,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Após o fim de regimes autoritários ou de conflitos internos marcados por graves violações de direitos humanos, alguns países criaram órgãos oficiais, com participação da sociedade civil, encarregados de investigar e tornar públicos os fatos ocorridos durante esse período.",
                                  "enunciado":  "Esses órgãos, voltados a apurar e divulgar violações de direitos humanos cometidas no passado, ainda que sem competência para aplicar sanções penais, são conhecidos como:",
                                  "alternativas":  {
-                                                      "a":  "Tribunais militares permanentes",
-                                                      "b":  "Conselhos tutelares municipais ampliados",
-                                                      "c":  "Cortes constitucionais permanentes",
-                                                      "d":  "Comissões da verdade e da memória ad hoc, como a Comissão Nacional da Verdade"
+                                                      "a":  "Tribunais militares de caráter permanente",
+                                                      "b":  "Conselhos de fiscalização administrativa",
+                                                      "c":  "Cortes constitucionais de transição",
+                                                      "d":  "Comissões da verdade de caráter temporário"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "Comissões da verdade são órgãos oficiais criados após períodos de regime autoritário ou conflito interno, com o objetivo de investigar e tornar públicas graves violações de direitos humanos cometidas no passado, contribuindo para o direito à verdade e à memória das vítimas, ainda que, em geral, não tenham competência para aplicar sanções penais aos responsáveis, tarefa que caberia a outros mecanismos de justiça de transição.",
@@ -10213,10 +10213,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Familiares de vítimas de graves violações de direitos humanos ocorridas em períodos de exceção frequentemente reivindicam não apenas a punição dos responsáveis, mas também o esclarecimento oficial das circunstâncias em que os fatos ocorreram e a preservação de registros históricos sobre o período.",
                                  "enunciado":  "Essa reivindicação por esclarecimento oficial dos fatos e preservação de sua memória histórica é reconhecida, no campo dos direitos humanos, como:",
                                  "alternativas":  {
-                                                      "a":  "Direito de picada agrícola tradicional",
-                                                      "b":  "Direito à livre concorrência econômica",
-                                                      "c":  "Direito de resposta eleitoral",
-                                                      "d":  "Direito à verdade e à memória histórica, componente da justiça de transição"
+                                                      "a":  "Direito à reparação econômica individual",
+                                                      "b":  "Direito à informação de interesse privado",
+                                                      "c":  "Direito de petição aos poderes públicos",
+                                                      "d":  "Direito à verdade e à memória histórica"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O direito à verdade e à memória reconhece a reivindicação de vítimas e familiares de graves violações de direitos humanos ao esclarecimento oficial das circunstâncias em que os fatos ocorreram e à preservação de registros históricos sobre esse período, sendo considerado componente essencial da justiça de transição, ao lado da responsabilização, da reparação e de garantias de não repetição.",

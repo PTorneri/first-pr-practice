@@ -87,8 +87,9 @@ body {
 #app { min-height: 100vh; }
 .view[hidden] { display: none !important; }
 
-/* Onboarding */
-#view-onboarding {
+/* Onboarding e login: as duas telas de entrada, centralizadas na janela */
+#view-onboarding,
+#view-login {
   min-height: 100vh;
   display: flex;
   align-items: center;

@@ -11,6 +11,12 @@ Este repositório hospeda **duas versões do app**, publicadas ao mesmo tempo pe
 O v1 é mantido no ar de propósito, como versão de referência para voltar. A tag
 `v1-estatico` marca o estado dele antes de o v2 existir.
 
+Há também um **painel de administração** em
+[/vestibular-direito-v2/admin.html](https://ptorneri.github.io/first-pr-practice/vestibular-direito-v2/admin.html):
+relatos enviados pelos alunos, números de uso, acerto médio por frente e as questões mais
+erradas. Quem autoriza o acesso é a regra do Firestore — o painel não guarda lista de UIDs.
+Entrando com uma conta sem permissão, ele mostra o UID e gera as regras prontas para colar.
+
 Os detalhes do plano de estudos (as 15 frentes, o cronograma, os simulados, os flashcards,
 as obras obrigatórias) estão em [vestibular-direito/README.md](vestibular-direito/README.md).
 

@@ -3,15 +3,25 @@
 // COMO APLICAR: Firebase Console > Firestore Database > Regras > colar tudo
 // isto por cima do que está lá > Publicar.
 //
-// ATENÇÃO: o bloco `syncCodes` abaixo é o que o V1 (o app que está no ar hoje)
-// usa pra sincronizar por código. Ele PRECISA continuar existindo — se você
-// colar só a regra de `users`, a sincronização do v1 para de funcionar.
+// TROQUE `COLE_SEU_UID_AQUI` pelo UID da sua conta. O painel (admin.html)
+// mostra o seu UID e gera estas regras já preenchidas — é mais seguro copiar
+// de lá do que editar à mão.
+//
+// ATENÇÃO: os blocos abaixo servem a coisas diferentes e TODOS precisam
+// existir. `syncCodes` é a sincronização por código do v1 (o app que está no
+// ar); sem ele, o v1 quebra.
 
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
 
-    // --- V1: sincronização por código (mantida como está) ---
+    // Só o dono do app. É a única fonte da verdade sobre quem é admin —
+    // o painel não guarda lista de UIDs, ele apenas tenta ler.
+    function isAdmin() {
+      return request.auth != null && request.auth.uid == 'COLE_SEU_UID_AQUI';
+    }
+
+    // --- V1: sincronização por código ---
     // O "código" de 8+ caracteres funciona como senha: só quem tem o código
     // exato lê/escreve aquele documento. Não há login neste modelo.
     match /syncCodes/{code} {
@@ -19,20 +29,23 @@ service cloud.firestore {
     }
 
     // --- V2: progresso por conta ---
-    // Cada usuário só enxerga e escreve o PRÓPRIO documento. Ninguém lê o
-    // progresso de outra pessoa, nem sem estar logado.
+    // Cada pessoa lê e escreve só o próprio documento. O admin lê todos (é o
+    // que alimenta as abas de uso, frentes e questões do painel), mas não
+    // escreve no progresso de ninguém.
     match /users/{uid} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
+      allow read: if isAdmin();
     }
 
     // --- V2: relatos de problema em questões ---
-    // Quem está logado pode CRIAR um relato, e só. Ninguém edita nem apaga o
-    // que já enviou (senão o histórico não serviria de nada), e ninguém lê os
-    // relatos pelo app — você lê no console do Firebase.
-    // A checagem de uid impede alguém relatar se passando por outra pessoa.
+    // Quem está logado pode CRIAR um relato, e só com o próprio uid (ninguém
+    // relata se passando por outra pessoa). O admin lê e atualiza — o update
+    // existe para marcar como resolvido no painel. Ninguém apaga: um relato
+    // apagável não serviria de histórico.
     match /feedback/{docId} {
       allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
-      allow read, update, delete: if false;
+      allow read, update: if isAdmin();
+      allow delete: if false;
     }
   }
 }

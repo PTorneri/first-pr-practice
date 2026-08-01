@@ -510,3 +510,16 @@ body {
 @media (max-width: 720px) {
   .user-name { display: none; }
 }
+
+/* Indicador de sincronização, ao lado do nome do usuário */
+.sync-status {
+  font-size: 0.72rem; font-weight: 600; padding: 3px 8px; border-radius: 999px;
+  white-space: nowrap; background: var(--header-pill-bg); color: var(--header-ink-soft);
+}
+.sync-status[data-state="ok"] { color: #86EFAC; }
+.sync-status[data-state="saving"] { color: var(--header-ink-soft); }
+.sync-status[data-state="error"] { color: #FCA5A5; }
+
+@media (max-width: 900px) {
+  .sync-status { display: none; }
+}

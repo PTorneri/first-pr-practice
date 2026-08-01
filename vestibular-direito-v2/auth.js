@@ -4,18 +4,17 @@
 // logado, só a tela de login aparece. Quando o Firebase confirma o usuário,
 // chamamos window.VD_BOOT() (definido em app.js) pra subir o plano de estudos.
 //
-// A configuração abaixo é a MESMA do projeto Firebase já usado pelo v1
-// (app-fgv-insper). Essas chaves são públicas por design do Firebase — quem
-// protege os dados são as regras do Firestore e o Auth, não o segredo da chave.
+// A configuração do Firebase fica em firebase-init.js, compartilhada com o
+// sync.js (o mesmo app Firebase serve o login e o progresso na nuvem).
 //
 // Antes de funcionar, o provedor Google precisa estar ligado no console:
 //   Firebase Console > Authentication > Sign-in method > Google > Ativar
 //   Firebase Console > Authentication > Settings > Authorized domains
 //     -> incluir "ptorneri.github.io" (e "localhost" pra testar na sua máquina)
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
+import { auth } from "./firebase-init.js";
+import "./sync.js"; // define window.VD_SYNC
 import {
-  getAuth,
   GoogleAuthProvider,
   signInWithPopup,
   signInWithRedirect,
@@ -26,18 +25,6 @@ import {
   setPersistence,
 } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
 
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDR63dF7wg4GuLzdy8CGSrsQ4iqP746sWU",
-  authDomain: "app-fgv-insper.firebaseapp.com",
-  projectId: "app-fgv-insper",
-  storageBucket: "app-fgv-insper.firebasestorage.app",
-  messagingSenderId: "839136778312",
-  appId: "1:839136778312:web:51410c2af78abefa7de07d",
-  measurementId: "G-TND3FJDK2F",
-};
-
-const app = initializeApp(FIREBASE_CONFIG);
-const auth = getAuth(app);
 const provider = new GoogleAuthProvider();
 
 const viewLogin = document.getElementById("view-login");
@@ -114,6 +101,12 @@ async function login() {
 
 async function logout() {
   try {
+    // Sobe o que estiver pendente antes de encerrar a sessão, pra não perder
+    // os últimos minutos de estudo.
+    if (window.VD_SYNC) {
+      await window.VD_SYNC.pushNow();
+      window.VD_SYNC.stop();
+    }
     await signOut(auth);
     // Recarrega pra limpar o estado do plano na memória e voltar ao login
     // sem sobras da sessão anterior.
@@ -123,7 +116,7 @@ async function logout() {
   }
 }
 
-function showLoggedIn(user) {
+async function showLoggedIn(user) {
   window.VD_AUTH.user = user;
 
   userName.textContent = user.displayName || user.email || "Minha conta";
@@ -134,6 +127,15 @@ function showLoggedIn(user) {
     userAvatar.hidden = true;
   }
   userChip.hidden = false;
+
+  // Baixa e mescla o progresso da conta ANTES de montar o plano — é isso que
+  // faz "retomar de onde parou" valer em qualquer aparelho. Se a nuvem estiver
+  // fora do ar, o sync avisa e o app sobe com o que existe neste aparelho.
+  try {
+    await window.VD_SYNC.start(user);
+  } catch (err) {
+    console.warn("[auth] sync não pôde iniciar:", err);
+  }
 
   viewLogin.hidden = true;
   viewOnboarding.hidden = false;

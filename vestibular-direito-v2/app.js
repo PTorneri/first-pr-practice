@@ -1,25 +1,36 @@
 (function () {
-  const LS_START = "vd_startDate";
-  const LS_ANSWERS = "vd_answers"; // { "<subtopicId>::<questionId>": "a" } — última resposta, GLOBAL (usada pra stats de frente/Caderno de Erros, "vale a mais recente")
-  const LS_DAY_ANSWERS = "vd_dayAnswers"; // { "<day>::<subtopicId>::<questionId>": "a" } — resposta ESPECÍFICA daquela ocorrência do dia, corrige bug de bancos maiores fazendo a mesma questão reaparecer em dias diferentes
-  const LS_DAY_STATE = "vd_dayState"; // { "<day>": { answered: n, correct: n, total: n } }
-  const LS_TOPIC_STATE = "vd_topicState"; // { "<subtopicId>": { answered: n, correct: n } }
-  const LS_DISSERT_STATUS = "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
-  const LS_DISSERT_ANSWERS = "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
-  const LS_DISSERT_CHECKLIST = "vd_dissertChecklist"; // { "<day>::<questionId>::<pointIndex>": true }, autoavaliação dos pontos esperados
-  const LS_CYCLE_WEIGHTS = "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
-  const LS_SCORE_HISTORY = "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
-  const LS_TOPIC_LAST_ANSWERED = "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
-  const LS_THEORY_SEEN = "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
-  const LS_FLASHCARD_STATE = "vd_flashcardState"; // { "<subtopicId>::<questionId>": { interval, reps, dueDate } }, achado 2
-  const LS_OBRAS_STUDIED = "vd_obrasStudied"; // { "<obraId>": true }, achado 13 (obras obrigatórias)
-  const LS_SYNC_CODE = "vd_syncCode"; // último código de sincronização usado neste aparelho, achado 10
+  // O v1 e o v2 moram no MESMO domínio (ptorneri.github.io), e o localStorage
+  // é compartilhado por domínio — não por pasta. Sem um prefixo próprio, o v2
+  // escreveria por cima do progresso que o v1 mostra, e o v1 deixaria de ser
+  // uma cópia estável pra voltar. Por isso toda chave do v2 vive em "v2_".
+  // A primeira entrada copia o progresso do v1 uma única vez (ver sync.js),
+  // então ninguém começa do zero — mas a partir daí os dois são independentes.
+  const NS = "v2_";
+  const LS_START = NS + "vd_startDate";
+  const LS_ANSWERS = NS + "vd_answers"; // { "<subtopicId>::<questionId>": "a" } — última resposta, GLOBAL (usada pra stats de frente/Caderno de Erros, "vale a mais recente")
+  const LS_DAY_ANSWERS = NS + "vd_dayAnswers"; // { "<day>::<subtopicId>::<questionId>": "a" } — resposta ESPECÍFICA daquela ocorrência do dia, corrige bug de bancos maiores fazendo a mesma questão reaparecer em dias diferentes
+  const LS_DAY_STATE = NS + "vd_dayState"; // { "<day>": { answered: n, correct: n, total: n } }
+  const LS_TOPIC_STATE = NS + "vd_topicState"; // { "<subtopicId>": { answered: n, correct: n } }
+  const LS_DISSERT_STATUS = NS + "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
+  const LS_DISSERT_ANSWERS = NS + "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
+  const LS_DISSERT_CHECKLIST = NS + "vd_dissertChecklist"; // { "<day>::<questionId>::<pointIndex>": true }, autoavaliação dos pontos esperados
+  const LS_CYCLE_WEIGHTS = NS + "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
+  const LS_SCORE_HISTORY = NS + "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
+  const LS_TOPIC_LAST_ANSWERED = NS + "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
+  const LS_THEORY_SEEN = NS + "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
+  const LS_FLASHCARD_STATE = NS + "vd_flashcardState"; // { "<subtopicId>::<questionId>": { interval, reps, dueDate } }, achado 2
+  const LS_OBRAS_STUDIED = NS + "vd_obrasStudied"; // { "<obraId>": true }, achado 13 (obras obrigatórias)
+  const LS_SYNC_CODE = NS + "vd_syncCode"; // resquício do sync por código do v1; no v2 quem sincroniza é a conta
 
   const SYNCABLE_KEYS = [
     LS_START, LS_ANSWERS, LS_DAY_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
     LS_DISSERT_CHECKLIST, LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN,
     LS_FLASHCARD_STATE, LS_OBRAS_STUDIED,
   ];
+
+  // sync.js precisa saber exatamente quais chaves sobem pra nuvem, e a
+  // estratégia de mesclagem de cada uma quando dois aparelhos divergem.
+  window.VD_KEYS = { NS: NS, SYNCABLE: SYNCABLE_KEYS, START: LS_START };
 
   const DISSERT_WEEK_TARGET = 4;
   const DISSERT_WEEK_SIZE = 7;
@@ -48,6 +59,9 @@
   }
   function saveJSON(key, value) {
     localStorage.setItem(key, JSON.stringify(value));
+    // Avisa o motor de sync que essa chave mudou. Ele agrupa as mudanças e
+    // sobe pra nuvem alguns segundos depois, em vez de a cada clique.
+    if (window.VD_SYNC) window.VD_SYNC.markDirty(key);
   }
 
   function getAnswers() { return loadJSON(LS_ANSWERS, {}); }
@@ -221,6 +235,7 @@
     document.getElementById("btn-start").addEventListener("click", () => {
       if (!localStorage.getItem(LS_START)) {
         localStorage.setItem(LS_START, todayISO());
+        if (window.VD_SYNC) window.VD_SYNC.markDirty(LS_START);
       }
       enterApp();
     });

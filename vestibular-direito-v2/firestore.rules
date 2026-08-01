@@ -1,0 +1,28 @@
+// Regras do Firestore para o projeto app-fgv-insper.
+//
+// COMO APLICAR: Firebase Console > Firestore Database > Regras > colar tudo
+// isto por cima do que está lá > Publicar.
+//
+// ATENÇÃO: o bloco `syncCodes` abaixo é o que o V1 (o app que está no ar hoje)
+// usa pra sincronizar por código. Ele PRECISA continuar existindo — se você
+// colar só a regra de `users`, a sincronização do v1 para de funcionar.
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // --- V1: sincronização por código (mantida como está) ---
+    // O "código" de 8+ caracteres funciona como senha: só quem tem o código
+    // exato lê/escreve aquele documento. Não há login neste modelo.
+    match /syncCodes/{code} {
+      allow read, write: if code.size() >= 8;
+    }
+
+    // --- V2: progresso por conta ---
+    // Cada usuário só enxerga e escreve o PRÓPRIO documento. Ninguém lê o
+    // progresso de outra pessoa, nem sem estar logado.
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

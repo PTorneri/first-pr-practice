@@ -1,0 +1,62 @@
+{
+    "artes-cultura":  {
+                          "total":  100,
+                          "cinco":  0
+                      },
+    "interpretacao-texto":  {
+                                "total":  150,
+                                "cinco":  0
+                            },
+    "atualidades-geopolitica":  {
+                                    "total":  150,
+                                    "cinco":  15
+                                },
+    "ciencias-natureza":  {
+                              "total":  100,
+                              "cinco":  0
+                          },
+    "filosofia-sociologia":  {
+                                 "total":  100,
+                                 "cinco":  0
+                             },
+    "atualidades-meioambiente":  {
+                                     "total":  100,
+                                     "cinco":  0
+                                 },
+    "historia-brasil":  {
+                            "total":  100,
+                            "cinco":  100
+                        },
+    "atualidades-tecnologia":  {
+                                   "total":  100,
+                                   "cinco":  0
+                               },
+    "direitos-humanos":  {
+                             "total":  100,
+                             "cinco":  0
+                         },
+    "historia-geral":  {
+                           "total":  100,
+                           "cinco":  100
+                       },
+    "gramatica":  {
+                      "total":  150,
+                      "cinco":  0
+                  },
+    "ingles":  {
+                   "total":  150,
+                   "cinco":  0
+               },
+    "matematica-rlm":  {
+                           "total":  150,
+                           "cinco":  0
+                       },
+    "geografia":  {
+                      "total":  150,
+                      "cinco":  150
+                  },
+    "atualidades-politica":  {
+                                 "total":  100,
+                                 "cinco":  0
+                             }
+}

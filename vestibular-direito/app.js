@@ -7,6 +7,9 @@
   const LS_DISSERT_STATUS = "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
   const LS_DISSERT_ANSWERS = "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
   const LS_DISSERT_CHECKLIST = "vd_dissertChecklist"; // { "<day>::<questionId>::<pointIndex>": true }, autoavaliação dos pontos esperados
+  const LS_REDACAO_ANSWERS = "vd_redacaoAnswers"; // { "<redacaoId>": "texto do usuário" }, aba Redação (prova à parte, não é dissertativa)
+  const LS_REDACAO_CHECKLIST = "vd_redacaoChecklist"; // { "<redacaoId>::<pointIndex>": true }, autoavaliação pela grade oficial
+  const LS_REDACAO_DONE = "vd_redacaoDone"; // { "<redacaoId>": true }, propostas já treinadas
   const LS_CYCLE_WEIGHTS = "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
   const LS_SCORE_HISTORY = "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
   const LS_TOPIC_LAST_ANSWERED = "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
@@ -249,6 +252,7 @@
         if (btn.dataset.tab === "progresso") renderProgress();
         if (btn.dataset.tab === "simulados") renderSimuladosTab();
         if (btn.dataset.tab === "cards") renderCardsTab();
+        if (btn.dataset.tab === "redacao") renderRedacaoTab();
         if (btn.dataset.tab === "obras") renderObrasTab();
         if (btn.dataset.tab === "erros") renderErrosTab();
       });
@@ -1100,6 +1104,146 @@
     },
   };
 
+  // ---------- Aba Redação ----------
+  // A Redação é prova separada nas duas bancas: na FGV ela é uma das provas
+  // discursivas do 1º dia (20 a 30 linhas, dissertativo-argumentativo em prosa)
+  // e no Insper é o único componente discursivo. Por isso fica fora do sorteio
+  // diário das dissertativas, em aba própria, e o usuário escolhe a proposta.
+  let redacaoAbertaId = null;
+
+  function getRedacaoAnswers() { return loadJSON(LS_REDACAO_ANSWERS, {}); }
+  function getRedacaoChecklist() { return loadJSON(LS_REDACAO_CHECKLIST, {}); }
+  function getRedacaoDone() { return loadJSON(LS_REDACAO_DONE, {}); }
+
+  function renderRedacaoTab() {
+    const container = document.getElementById("redacao-content");
+    container.innerHTML = "";
+    const propostas = window.REDACOES || [];
+    const done = getRedacaoDone();
+    const feitas = propostas.filter((p) => done[p.id]).length;
+
+    const intro = document.createElement("div");
+    intro.className = "card";
+    intro.innerHTML = `
+      <div class="lesson-eyebrow">Prova de Redação</div>
+      <h2 style="margin-top:4px;">Redação em Língua Portuguesa</h2>
+      <p class="lesson-desc">Texto <strong>dissertativo-argumentativo, em prosa, de 20 a 30 linhas</strong>, como
+      pedem os editais da FGV e do Insper. A correção considera três quesitos: <strong>tema e estrutura</strong>,
+      <strong>articulação e argumentação</strong> e <strong>correção gramatical e adequação vocabular</strong>.</p>
+      <p class="hint">Nenhuma das duas bancas exige proposta de intervenção — isso é regra do ENEM. Aqui o que
+      conta é defender uma tese com clareza e sustentá-la até o fim.</p>
+      <div class="dissert-counter"><strong>Propostas já treinadas:</strong> ${feitas}/${propostas.length}</div>
+    `;
+    container.appendChild(intro);
+
+    propostas.forEach((p) => {
+      const card = document.createElement("div");
+      card.className = "card";
+      const aberta = redacaoAbertaId === p.id;
+      const badge = done[p.id] ? ` <span class="visit-badge">✓ treinada</span>` : "";
+
+      if (!aberta) {
+        card.innerHTML = `
+          <div class="lesson-eyebrow">Proposta · ~${p.tempoSugerido} min</div>
+          <h3 style="margin:4px 0 10px;">${escapeHtml(p.tema)}${badge}</h3>
+          <button class="btn btn-secondary redacao-abrir" style="width:auto">Abrir proposta</button>
+        `;
+        card.querySelector(".redacao-abrir").addEventListener("click", () => {
+          redacaoAbertaId = p.id;
+          renderRedacaoTab();
+        });
+        container.appendChild(card);
+        return;
+      }
+
+      const answers = getRedacaoAnswers();
+      const checklist = getRedacaoChecklist();
+      const keyFor = (i) => p.id + "::" + i;
+      const marcados = p.pontosEsperados.filter((_, i) => checklist[keyFor(i)]).length;
+      const pontosHtml = p.pontosEsperados.map((pt, i) => `
+        <li>
+          <label>
+            <input type="checkbox" data-point="${i}" ${checklist[keyFor(i)] ? "checked" : ""}>
+            <span>${escapeHtml(pt)}</span>
+          </label>
+        </li>
+      `).join("");
+
+      card.innerHTML = `
+        <div class="lesson-eyebrow">Proposta · ~${p.tempoSugerido} min</div>
+        <h3 style="margin:4px 0 10px;">${escapeHtml(p.tema)}${badge}</h3>
+        <div class="q-support">${escapeHtml(p.texto_apoio)}</div>
+        <div class="q-enunciado">${escapeHtml(p.comando)}</div>
+        <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(answers[p.id] || "")}</textarea>
+        <div class="hint redacao-contador"></div>
+        <button class="btn-link redacao-toggle-grade" type="button">Ver grade de correção</button>
+        <div class="redacao-grade-wrap" hidden>
+          <div class="dissert-gabarito-counter">${marcados}/${p.pontosEsperados.length} critérios marcados</div>
+          <p class="hint" style="margin:0 0 8px;">Releia o que você escreveu e marque os critérios que realmente
+          cumpriu — é autoavaliação, não há correção automática.</p>
+          <ul class="dissert-gabarito">${pontosHtml}</ul>
+        </div>
+        <div class="dissert-actions">
+          <button class="btn btn-primary redacao-concluir" style="width:auto">${done[p.id] ? "Marcar como não treinada" : "Marcar como treinada"}</button>
+          <button class="btn btn-secondary redacao-fechar" style="width:auto">Fechar</button>
+        </div>
+      `;
+
+      const textarea = card.querySelector(".dissert-textarea");
+      const contador = card.querySelector(".redacao-contador");
+      // Palavras, não linhas: o limite do edital é em linhas manuscritas, que
+      // não têm equivalente exato aqui. ~9 palavras por linha é a referência
+      // usual, então 20-30 linhas ficam por volta de 180 a 270 palavras.
+      const atualizaContador = () => {
+        const palavras = textarea.value.trim() ? textarea.value.trim().split(/\s+/).length : 0;
+        let situacao = "";
+        if (palavras > 0 && palavras < 180) situacao = " — ainda abaixo das 20 linhas";
+        else if (palavras > 270) situacao = " — provavelmente acima das 30 linhas";
+        else if (palavras >= 180) situacao = " — dentro da faixa esperada";
+        contador.textContent = `${palavras} palavras${situacao}`;
+      };
+      atualizaContador();
+      textarea.addEventListener("input", () => {
+        const atuais = getRedacaoAnswers();
+        atuais[p.id] = textarea.value;
+        saveJSON(LS_REDACAO_ANSWERS, atuais);
+        atualizaContador();
+      });
+
+      const toggle = card.querySelector(".redacao-toggle-grade");
+      const gradeWrap = card.querySelector(".redacao-grade-wrap");
+      toggle.addEventListener("click", () => {
+        gradeWrap.hidden = !gradeWrap.hidden;
+        toggle.textContent = gradeWrap.hidden ? "Ver grade de correção" : "Ocultar grade de correção";
+      });
+
+      const counterEl = card.querySelector(".dissert-gabarito-counter");
+      card.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
+        cb.addEventListener("change", () => {
+          const estado = getRedacaoChecklist();
+          const k = keyFor(cb.dataset.point);
+          if (cb.checked) estado[k] = true; else delete estado[k];
+          saveJSON(LS_REDACAO_CHECKLIST, estado);
+          const n = p.pontosEsperados.filter((_, i) => estado[keyFor(i)]).length;
+          counterEl.textContent = `${n}/${p.pontosEsperados.length} critérios marcados`;
+        });
+      });
+
+      card.querySelector(".redacao-concluir").addEventListener("click", () => {
+        const estado = getRedacaoDone();
+        if (estado[p.id]) delete estado[p.id]; else estado[p.id] = true;
+        saveJSON(LS_REDACAO_DONE, estado);
+        renderRedacaoTab();
+      });
+      card.querySelector(".redacao-fechar").addEventListener("click", () => {
+        redacaoAbertaId = null;
+        renderRedacaoTab();
+      });
+
+      container.appendChild(card);
+    });
+  }
+
   function renderObrasTab() {
     const container = document.getElementById("obras-content");
     container.innerHTML = "";
@@ -1107,13 +1251,21 @@
     const studied = loadJSON(LS_OBRAS_STUDIED, {});
     const studiedCount = obras.filter((o) => studied[o.id]).length;
 
+    // Duas listas: o que consta da lista oficial do edital 2027.1 e o que sobrou
+    // de ciclos anteriores. Manter tudo junto sob o rótulo "obrigatórias" daria
+    // ao candidato a impressão de que precisa estudar obras que não vão cair.
+    const obrigatorias = obras.filter((o) => !o.foraDoEdital2027);
+    const complementares = obras.filter((o) => o.foraDoEdital2027);
+    const studiedObrig = obrigatorias.filter((o) => studied[o.id]).length;
+
     const header = document.createElement("div");
     header.innerHTML = `
       <h2>Obras obrigatórias (FGV)</h2>
       <p class="hint">A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de
       obras, ligadas aos dois eixos da banca (globalização / modernidade → pós-modernidade) — não é decoreba de
       enredo. Sem equivalente na prova do Insper.</p>
-      <div class="dissert-counter"><strong>${studiedCount}/${obras.length}</strong> estudadas</div>
+      <div class="dissert-counter"><strong>${studiedObrig}/${obrigatorias.length}</strong> estudadas
+      &nbsp;·&nbsp; lista do edital 2027.1</div>
       <div class="area-filter" id="obras-filter"></div>
     `;
     container.appendChild(header);
@@ -1135,11 +1287,32 @@
       filterEl.appendChild(pill);
     });
 
+    const aplicaFiltro = (lista) => obrasFilterCategoria
+      ? lista.filter((o) => o.categoria === obrasFilterCategoria)
+      : lista;
+
     const grid = document.createElement("div");
     grid.className = "obras-grid";
-    const filtered = obrasFilterCategoria ? obras.filter((o) => o.categoria === obrasFilterCategoria) : obras;
-    filtered.forEach((o) => grid.appendChild(renderObraCard(o, studied)));
+    aplicaFiltro(obrigatorias).forEach((o) => grid.appendChild(renderObraCard(o, studied)));
     container.appendChild(grid);
+
+    const extras = aplicaFiltro(complementares);
+    if (extras.length) {
+      const subHeader = document.createElement("div");
+      subHeader.style.marginTop = "32px";
+      subHeader.innerHTML = `
+        <h2>Leituras complementares</h2>
+        <p class="hint">Estas obras <strong>não constam da lista oficial do edital 2027.1</strong> — vieram de
+        ciclos anteriores do vestibular. Não são cobradas, mas continuam úteis como repertório para a redação e
+        para as questões discursivas. Priorize a lista de cima.</p>
+      `;
+      container.appendChild(subHeader);
+
+      const gridExtras = document.createElement("div");
+      gridExtras.className = "obras-grid";
+      extras.forEach((o) => gridExtras.appendChild(renderObraCard(o, studied)));
+      container.appendChild(gridExtras);
+    }
   }
 
   function renderObraCard(o, studied) {
@@ -1690,6 +1863,9 @@
       const doneBadge = status === "done"
         ? `<span class="visit-badge">✓ concluído hoje</span>`
         : "";
+      // As três provas discursivas por disciplina da FGV Direito SP (edital 2027):
+      // Ciências Humanas (História e Geografia), Língua Portuguesa e Artes e
+      // Questões Contemporâneas. A Redação é prova à parte, na aba própria.
       const areas = ["Humanas", "Linguagens", "Artes"];
       const filterPillsHtml = areas.map((a) => `
         <button type="button" class="area-pill${areaFilter === a ? " active" : ""}" data-area="${a}">${a}</button>

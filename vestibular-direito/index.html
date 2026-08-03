@@ -26,6 +26,8 @@
         <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
         (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
         nos dias que você quiser</li>
+        <li>Aba <strong>Redação</strong> à parte, com 15 propostas dissertativo-argumentativas de 20 a 30 linhas e a
+        grade de correção oficial da FGV e do Insper</li>
         <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, distribuídas
         entre as 15 frentes por prioridade — e a semana seguinte passa a focar mais nos temas em que você mais
         errou</li>
@@ -54,6 +56,7 @@
         <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
         <button class="tab-btn" data-tab="simulados">Simulados</button>
         <button class="tab-btn" data-tab="cards">Cards</button>
+        <button class="tab-btn" data-tab="redacao">Redação</button>
         <button class="tab-btn" data-tab="obras">Obras</button>
         <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
         <button class="tab-btn" data-tab="progresso">Meu progresso</button>
@@ -99,6 +102,11 @@
       <!-- TAB: CARDS (flashcards com repetição espaçada) -->
       <section id="tab-cards" class="tab-panel">
         <div id="cards-content"></div>
+      </section>
+
+      <!-- TAB: REDAÇÃO (prova própria, separada das dissertativas) -->
+      <section id="tab-redacao" class="tab-panel">
+        <div id="redacao-content"></div>
       </section>
 
       <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
@@ -151,6 +159,7 @@
 <script src="data/video-topics.js"></script>
 <script src="data/bundle.js"></script>
 <script src="data/dissertativas.js"></script>
+<script src="data/redacoes.js"></script>
 <script src="schedule.js"></script>
 <script src="app.js"></script>
 </body>

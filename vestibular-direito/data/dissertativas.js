@@ -109,6 +109,97 @@ window.DISSERTATIVAS = [
       "Conclui retomando a tese apresentada"
     ]
   },
+  {
+    "id": "dissert-humanas-09",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "A Declaração dos Direitos do Homem e do Cidadão, de 1789, proclamou a liberdade e a igualdade como direitos naturais e imprescritíveis. Poucos anos depois, a Constituição francesa de 1791 dividiu os cidadãos entre \"ativos\" e \"passivos\", reservando o direito de voto aos homens que pagassem certo valor em impostos.",
+    "comando": "Explique a contradição entre o universalismo proclamado pelas revoluções liberais do fim do século XVIII e os limites concretos de cidadania que elas estabeleceram, e discuta como esse descompasso foi contestado ao longo do século XIX.",
+    "pontosEsperados": [
+      "Explica o princípio universalista da Declaração: direitos apresentados como naturais e válidos para todos",
+      "Identifica limites concretos (voto censitário, exclusão das mulheres, manutenção da escravidão nas colônias)",
+      "Aponta ao menos um movimento posterior de contestação (abolicionismo, sufragismo, movimento operário)",
+      "Trata a contradição como problema histórico a ser explicado, e não como simples hipocrisia dos revolucionários"
+    ]
+  },
+  {
+    "id": "dissert-humanas-10",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "Entre 1945 e 1975, dezenas de colônias na África e na Ásia tornaram-se Estados independentes. Boa parte delas conquistou a independência no auge da disputa entre Estados Unidos e União Soviética, e várias se tornaram palco de conflitos armados apoiados por uma das duas potências.",
+    "comando": "Explique de que forma a Guerra Fria influenciou os processos de descolonização afro-asiática e discuta, com um exemplo, por que a independência formal nem sempre significou autonomia política e econômica real.",
+    "pontosEsperados": [
+      "Relaciona a descolonização ao enfraquecimento das metrópoles europeias após a Segunda Guerra",
+      "Explica como a disputa bipolar converteu países recém-independentes em área de disputa por influência",
+      "Apresenta um exemplo concreto de autonomia limitada (dependência econômica, guerra por procuração, elites ligadas à antiga metrópole)",
+      "Menciona uma alternativa buscada pelos próprios países, como a Conferência de Bandung ou o Movimento dos Não Alinhados"
+    ]
+  },
+  {
+    "id": "dissert-humanas-11",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "Na Primeira República (1889-1930), o voto era aberto e não havia Justiça Eleitoral independente: comissões do próprio Congresso decidiam quais eleitos tomariam posse, prática que ficou conhecida como \"degola\".",
+    "comando": "Explique como o coronelismo e as regras eleitorais da Primeira República se sustentavam mutuamente e discuta uma mudança institucional posterior que buscou romper esse arranjo.",
+    "pontosEsperados": [
+      "Explica o coronelismo como troca de favores e proteção por apoio eleitoral, articulando poder local, estadual e federal",
+      "Relaciona o voto aberto e a verificação de poderes pelo próprio Congresso à perpetuação das oligarquias",
+      "Cita uma mudança institucional posterior (voto secreto, Justiça Eleitoral e voto feminino, no Código Eleitoral de 1932 e na Constituição de 1934)",
+      "Explica por que essa mudança atingia o mecanismo descrito, em vez de apenas mencioná-la"
+    ]
+  },
+  {
+    "id": "dissert-humanas-12",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "A Lei de Anistia de 1979 permitiu o retorno de exilados políticos, mas passou a ser interpretada também como impedimento à responsabilização de agentes do Estado por tortura e desaparecimentos. Em 2010, o Supremo Tribunal Federal manteve essa interpretação; no mesmo ano, a Corte Interamericana de Direitos Humanos condenou o Brasil no caso Gomes Lund, sobre a Guerrilha do Araguaia.",
+    "comando": "Explique o que se entende por justiça de transição e discuta a tensão entre a interpretação dada à Lei de Anistia no Brasil e os compromissos internacionais assumidos pelo país em matéria de direitos humanos.",
+    "pontosEsperados": [
+      "Explica justiça de transição como o conjunto de medidas adotadas por um país que sai de um regime autoritário (verdade, memória, reparação, responsabilização, reformas institucionais)",
+      "Descreve corretamente a controvérsia sobre o alcance da Lei de Anistia de 1979",
+      "Relaciona a questão a um compromisso internacional do Brasil, como a jurisdição da Corte Interamericana",
+      "Reconhece a existência de argumentos consistentes dos dois lados, em vez de tratar a resposta como evidente"
+    ]
+  },
+  {
+    "id": "dissert-humanas-13",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "A partir dos anos 1970, o Cerrado passou a ser incorporado à produção de grãos em larga escala, com correção da acidez do solo e cultivares adaptadas. Mais recentemente, a expansão se deslocou para a região conhecida como MATOPIBA, que reúne áreas do Maranhão, Tocantins, Piauí e Bahia.",
+    "comando": "Explique os fatores técnicos e econômicos que viabilizaram a incorporação do Cerrado como fronteira agrícola e discuta uma tensão socioambiental associada a esse processo.",
+    "pontosEsperados": [
+      "Aponta fatores técnicos concretos (correção e adubação do solo, melhoramento genético, mecanização)",
+      "Relaciona a expansão a fatores econômicos (demanda internacional por grãos, preço da terra, logística de escoamento)",
+      "Discute uma tensão socioambiental concreta (supressão de vegetação nativa, disputas fundiárias, impacto sobre recursos hídricos, concentração de terra)",
+      "Evita tratar o tema apenas como sucesso produtivo ou apenas como devastação, reconhecendo o conflito entre os dois lados"
+    ]
+  },
+  {
+    "id": "dissert-humanas-14",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "A matriz elétrica brasileira é uma das mais limpas do mundo, com forte predomínio da geração hidrelétrica. Ainda assim, o país enfrenta acionamento de termelétricas em períodos de estiagem prolongada e discute a ampliação de fontes eólica e solar.",
+    "comando": "Explique a diferença entre matriz elétrica e matriz energética e discuta por que uma matriz elétrica limpa não elimina, por si só, o desafio da transição energética brasileira.",
+    "pontosEsperados": [
+      "Distingue corretamente matriz elétrica (fontes de geração de eletricidade) de matriz energética (todo o consumo de energia, incluindo transportes e indústria)",
+      "Explica a vulnerabilidade hídrica e o acionamento de termelétricas em períodos de estiagem",
+      "Argumenta que o peso dos combustíveis fósseis no transporte e na indústria mantém o desafio da transição",
+      "Usa os conceitos com precisão, sem tratar \"limpa\" e \"renovável\" como sinônimos"
+    ]
+  },
+  {
+    "id": "dissert-humanas-15",
+    "area": "Humanas",
+    "tempoSugerido": 25,
+    "texto_apoio": "A Lei de Migração brasileira, de 2017, substituiu o antigo Estatuto do Estrangeiro, que tratava o tema sob a ótica da segurança nacional, por uma abordagem centrada nos direitos do migrante. Nos anos seguintes, o país recebeu fluxos expressivos vindos de países vizinhos e do Caribe.",
+    "comando": "Explique a diferença entre refugiado e migrante econômico e discuta por que essa distinção jurídica, embora necessária, é insuficiente para dar conta de parte dos deslocamentos contemporâneos.",
+    "pontosEsperados": [
+      "Define refugiado a partir do fundado temor de perseguição ou de grave violação de direitos humanos, com proteção internacional específica",
+      "Define migrante econômico como quem se desloca em busca de melhores condições de vida, sem essa proteção",
+      "Aponta situações que tensionam a fronteira entre as categorias (colapso econômico, desastres ambientais, violência generalizada)",
+      "Relaciona a discussão à mudança de paradigma trazida pela Lei de Migração de 2017"
+    ]
+  },
 
   // ---------- LINGUAGENS ----------
   {
@@ -215,6 +306,97 @@ window.DISSERTATIVAS = [
       "Texto organizado e objetivo"
     ]
   },
+  {
+    "id": "dissert-linguagens-09",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "Dois textos publicados no mesmo jornal defendem posições sobre um projeto de lei. O primeiro não é assinado e ocupa a seção institucional do veículo. O segundo traz o nome e a qualificação profissional de quem escreve.",
+    "comando": "Explique a diferença entre os gêneros editorial e artigo de opinião e discuta como o leitor deve considerar essa diferença ao avaliar a autoridade e os interesses por trás de cada texto.",
+    "pontosEsperados": [
+      "Identifica o editorial como posição institucional do veículo, sem assinatura individual",
+      "Identifica o artigo de opinião como texto assinado, que responsabiliza um autor determinado",
+      "Relaciona a diferença de autoria a uma consequência prática de leitura crítica (interesses do veículo x autoridade do especialista)",
+      "Não confunde os dois com notícia ou reportagem, gêneros cujo compromisso é o relato dos fatos"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-10",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "\"A empresa anunciou a demissão de 300 funcionários. Isso gerou reação imediata do sindicato. Ele convocou assembleia para a semana seguinte. A medida, porém, ainda não foi revertida.\"",
+    "comando": "Identifique os mecanismos de coesão referencial usados no trecho, indicando a que cada elemento se refere, e explique como esses mecanismos garantem a progressão do texto sem repetição desnecessária.",
+    "pontosEsperados": [
+      "Identifica os referentes: \"isso\" retoma o anúncio das demissões, \"ele\" retoma o sindicato e \"a medida\" retoma a demissão",
+      "Nomeia o mecanismo como coesão referencial, por retomada anafórica",
+      "Explica a função de evitar repetição e encadear as informações já apresentadas",
+      "Observa o valor adversativo de \"porém\" e, como ganho adicional, nota que \"a medida\" poderia gerar ambiguidade com a assembleia"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-11",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "I. Campanha de trânsito: \"Se beber, não dirija.\"\nII. Verbete de dicionário: \"Dirigir. Verbo transitivo. Conduzir veículo.\"\nIII. Locutor ao microfone: \"Alô, alô, está me ouvindo?\"",
+    "comando": "Identifique a função da linguagem predominante em cada um dos três enunciados e explique que marca concreta da construção de cada um permite reconhecê-la.",
+    "pontosEsperados": [
+      "Identifica a função conativa (apelativa) em I, centrada no receptor, com verbo no imperativo",
+      "Identifica a função metalinguística em II, em que a linguagem explica a própria linguagem",
+      "Identifica a função fática em III, voltada a testar ou manter o canal de contato",
+      "Justifica cada identificação por uma marca do enunciado, em vez de apenas nomear a função"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-12",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "I. \"O vento sussurrava segredos entre as folhas.\"\nII. \"Era um silêncio ensurdecedor.\"\nIII. \"Li Machado de Assis inteiro nas férias.\"",
+    "comando": "Nomeie a figura de linguagem predominante em cada enunciado, classifique-a quanto ao tipo (figura de palavra, de pensamento ou de sintaxe) e explique o efeito de sentido que cada uma produz.",
+    "pontosEsperados": [
+      "Identifica a prosopopeia (personificação) em I e a reconhece como figura de pensamento",
+      "Identifica o paradoxo (ou oximoro) em II, reconhecendo a união de termos contraditórios",
+      "Identifica a metonímia em III, explicando a relação de contiguidade entre autor e obra",
+      "Explica o efeito de sentido de cada figura, e não apenas a nomeia"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-13",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "\"Fazem cinco anos que a lei foi aprovada, mas a maioria dos municípios ainda não se adequou à ela, o que tem gerado insegurança jurídica.\"",
+    "comando": "Reescreva o período corrigindo os desvios em relação à norma culta e explique, para cada correção, qual regra a justifica.",
+    "pontosEsperados": [
+      "Corrige \"Fazem\" para \"Faz\", reconhecendo que o verbo fazer indicando tempo decorrido é impessoal e fica na terceira pessoa do singular",
+      "Corrige \"à ela\" para \"a ela\", explicando que não há crase antes de pronome pessoal, que não admite artigo",
+      "Preserva o sentido original do período na reescrita",
+      "Justifica cada correção pela regra, em vez de apenas apresentar a versão corrigida"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-14",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "\"Ela olhou o relógio na parede da sala. Não podia mais adiar aquilo. Por que sempre lhe faltava coragem na hora exata? Levantou-se e foi até a porta.\"",
+    "comando": "Identifique o tipo de discurso empregado no trecho destacado pela pergunta e explique como o discurso indireto livre se distingue do discurso direto e do indireto, indicando o efeito que produz na narrativa.",
+    "pontosEsperados": [
+      "Reconhece o discurso indireto livre na pergunta, sem verbo de elocução nem marca gráfica",
+      "Distingue do discurso direto (fala reproduzida literalmente, com travessão ou aspas) e do indireto (fala recontada pelo narrador, com verbo introdutor)",
+      "Explica o efeito de fusão entre a voz do narrador e a consciência da personagem",
+      "Relaciona o recurso ao acesso à subjetividade da personagem sem mediação explícita"
+    ]
+  },
+  {
+    "id": "dissert-linguagens-15",
+    "area": "Linguagens",
+    "tempoSugerido": 20,
+    "texto_apoio": "I. Campanha publicitária de banco: \"Ser ou ter, eis a questão.\"\nII. Cartaz em protesto estudantil: \"No meio do caminho tinha uma taxa.\"",
+    "comando": "Explique o recurso de intertextualidade presente em cada enunciado e discuta o efeito de sentido produzido pela retomada do texto de origem em cada caso.",
+    "pontosEsperados": [
+      "Reconhece a retomada de Shakespeare em I e de Carlos Drummond de Andrade em II",
+      "Nomeia o recurso como intertextualidade e identifica a paródia, que retoma o texto de origem para desviá-lo",
+      "Explica que o efeito depende de o leitor reconhecer o texto retomado, o que torna o repertório parte do argumento",
+      "Discute a diferença de propósito entre a apropriação publicitária e a apropriação de protesto"
+    ]
+  },
 
   // ---------- ARTES ----------
   {
@@ -319,6 +501,97 @@ window.DISSERTATIVAS = [
       "Apresenta um argumento consistente a favor do desenvolvimento (moradia, mobilidade, crescimento econômico)",
       "Não trata o tema de forma unilateral",
       "Conclui com posição própria fundamentada, eventualmente propondo conciliação entre os dois lados"
+    ]
+  },
+  {
+    "id": "dissert-artes-09",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "Eduardo Coutinho começou a filmar, em 1964, a história de um líder camponês assassinado na Paraíba. O golpe militar interrompeu as filmagens. Dezessete anos depois, o diretor retomou o projeto, reencontrou os antigos participantes e incorporou ao filme a própria história de sua interrupção.",
+    "comando": "Explique como a estrutura de \"Cabra marcado para morrer\" transforma a interrupção do projeto em matéria do próprio filme e discuta o que essa escolha revela sobre a relação entre documentário, memória e história política.",
+    "pontosEsperados": [
+      "Descreve a estrutura em duas camadas temporais: o filme interrompido em 1964 e o reencontro nos anos 1980",
+      "Explica que o documentário assume a própria interrupção como tema, em vez de escondê-la",
+      "Relaciona a obra à ditadura militar e ao trabalho de memória sobre esse período",
+      "Discute o documentário como construção de um ponto de vista, e não como registro neutro do real"
+    ]
+  },
+  {
+    "id": "dissert-artes-10",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "\"Cidade de Deus\" (2002), de Fernando Meirelles e Kátia Lund, retrata a formação do crime organizado em um conjunto habitacional do Rio de Janeiro usando montagem acelerada, câmera nervosa e cores saturadas. O filme foi elogiado pela potência estética e criticado por, segundo alguns analistas, tornar a violência atraente ao espectador.",
+    "comando": "Discuta a tensão entre denúncia social e espetacularização da violência no cinema, posicionando-se sobre em que condições a elaboração estética da violência fortalece ou enfraquece a crítica social pretendida.",
+    "pontosEsperados": [
+      "Relaciona escolhas concretas de linguagem (montagem, câmera, cor, trilha) ao efeito produzido no espectador",
+      "Apresenta o argumento da denúncia: dar visibilidade a uma realidade social sistematicamente ignorada",
+      "Apresenta o argumento crítico: o tratamento estético pode converter sofrimento em produto de consumo",
+      "Assume posição própria e a sustenta, em vez de apenas expor os dois lados"
+    ]
+  },
+  {
+    "id": "dissert-artes-11",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "Em \"Dom Casmurro\", de Machado de Assis, toda a história do suposto adultério de Capitu chega ao leitor pela voz de Bentinho, que narra décadas depois, já convencido da traição, e é ao mesmo tempo parte interessada no julgamento que apresenta.",
+    "comando": "Explique o que é um narrador não confiável e discuta como essa construção narrativa transforma a leitura da obra e a posição atribuída ao leitor.",
+    "pontosEsperados": [
+      "Define narrador não confiável como aquele cuja versão o próprio texto dá motivos para questionar",
+      "Identifica os elementos que tornam Bentinho suspeito: narração em primeira pessoa, parte interessada, distância temporal, ausência de contraprova",
+      "Explica o deslocamento do leitor, convertido em juiz da narrativa",
+      "Evita reduzir a obra à pergunta \"Capitu traiu ou não\", reconhecendo que a construção da narração é o próprio tema"
+    ]
+  },
+  {
+    "id": "dissert-artes-12",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "\"Vidas secas\" (1938), de Graciliano Ramos, acompanha uma família de retirantes cuja linguagem é reduzida ao mínimo, quase animal. \"Torto Arado\" (2019), de Itamar Vieira Junior, narra a vida de trabalhadoras de uma comunidade rural na Chapada Diamantina, presas a uma relação de trabalho que se perpetua muito depois da abolição.",
+    "comando": "Compare as duas obras quanto ao modo como articulam trabalho, terra e desigualdade, e discuta o que a distância de oitenta anos entre elas revela sobre a permanência do tema na literatura brasileira.",
+    "pontosEsperados": [
+      "Caracteriza corretamente cada obra quanto a ambientação, personagens e conflito central",
+      "Identifica um procedimento estético distinto em cada uma (a linguagem seca e o foco narrativo em Graciliano; a narração em vozes femininas e o registro da oralidade em Itamar Vieira Junior)",
+      "Estabelece comparação explícita, e não duas descrições paralelas",
+      "Discute a permanência da questão agrária e do trabalho precário como tema da literatura brasileira, sem tratar as obras como equivalentes"
+    ]
+  },
+  {
+    "id": "dissert-artes-13",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "Em \"As Origens do Totalitarismo\" (1951), Hannah Arendt sustenta que o totalitarismo não é apenas uma tirania mais violenta, mas uma forma inédita de dominação, que combina ideologia total e terror para tornar os seres humanos supérfluos e destruir a espontaneidade e a pluralidade.",
+    "comando": "Explique por que Arendt considera o totalitarismo uma forma de dominação inédita e discuta a pertinência de usar esse conceito para analisar regimes autoritários contemporâneos.",
+    "pontosEsperados": [
+      "Explica com precisão o que distingue o totalitarismo de uma ditadura convencional: ideologia total, terror e a supressão da pluralidade",
+      "Explica o sentido de tornar os seres humanos \"supérfluos\", ligado à destruição da capacidade de agir e de iniciar algo novo",
+      "Discute com cuidado a aplicação do conceito ao presente, reconhecendo o risco de esvaziá-lo pelo uso genérico",
+      "Trabalha o conceito com precisão, em vez de usar \"totalitarismo\" como sinônimo de autoritarismo"
+    ]
+  },
+  {
+    "id": "dissert-artes-14",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "Em \"Racismo, sexismo e desigualdade no Brasil\", Sueli Carneiro argumenta que raça e gênero não podem ser tratados como eixos separados de desigualdade no país, e critica tanto um feminismo que ignora a experiência das mulheres negras quanto um antirracismo que ignora a desigualdade de gênero.",
+    "comando": "Explique por que, segundo essa perspectiva, tratar raça e gênero separadamente produz uma análise insuficiente da desigualdade brasileira, e discuta uma consequência prática dessa articulação para a formulação de políticas públicas.",
+    "pontosEsperados": [
+      "Explica que raça e gênero se combinam e produzem uma posição social específica, não sendo desvantagens meramente somadas",
+      "Relaciona o argumento ao mito da democracia racial e à crítica de que ele mascara desigualdades reais",
+      "Aponta uma consequência prática concreta para políticas públicas (desenho de dados desagregados, critérios de ações afirmativas, políticas de saúde ou de trabalho)",
+      "Atribui corretamente as ideias: Sueli Carneiro é a principal referência brasileira dessa articulação, enquanto o termo interseccionalidade foi cunhado por Kimberlé Crenshaw em 1989"
+    ]
+  },
+  {
+    "id": "dissert-artes-15",
+    "area": "Artes",
+    "tempoSugerido": 25,
+    "texto_apoio": "\"Guernica\" (1937), de Pablo Picasso, responde ao bombardeio de uma cidade basca durante a Guerra Civil Espanhola com figuras fragmentadas, em preto, branco e cinza, sem qualquer referência realista ao episódio. \"Abaporu\" (1928), de Tarsila do Amaral, apresenta uma figura de proporções desconformes em uma paisagem de cores planas e saturadas.",
+    "comando": "Explique como cada obra constrói sentido por meio da deformação da figura humana e discuta de que modo cada uma se vincula ao contexto histórico e cultural em que foi produzida.",
+    "pontosEsperados": [
+      "Analisa procedimentos plásticos concretos (fragmentação e ausência de cor em Picasso; desproporção e cor saturada em Tarsila)",
+      "Relaciona \"Guernica\" ao bombardeio de 1937 e à denúncia da violência da guerra",
+      "Relaciona \"Abaporu\" ao modernismo brasileiro e ao projeto antropofágico de deglutir influências estrangeiras",
+      "Argumenta que a deformação é escolha expressiva deliberada, e não falha de representação"
     ]
   }
 ];

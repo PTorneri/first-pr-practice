@@ -1,0 +1,90 @@
+{
+  "_comentario": [
+    "Cinco questoes em sequencia V/F para historia-brasil. Complementa",
+    "vf-geografia.json; ha um terceiro lote para historia-geral.",
+    "",
+    "Formato usado pela FGV em 2026.1 (questao 48 do bloco de Humanas) e ausente",
+    "do banco inteiro ate aqui. Diferente da escada, exige julgar as tres",
+    "afirmativas de forma independente -- nao ha jogo fixo de alternativas que",
+    "permita atalho."
+  ],
+  "subtopic": "historia-brasil",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "historia-brasil-101",
+      "formato": "vf",
+      "texto_apoio": "Durante o Período Regencial (1831-1840), o Brasil foi governado por regentes em nome de D. Pedro II, menor de idade, num contexto de revoltas provinciais e de disputas sobre o grau de centralização do Estado.",
+      "enunciado": "Sobre o Período Regencial, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O Ato Adicional de 1834 ampliou a autonomia das províncias, criando assembleias legislativas provinciais.\n( ) As revoltas do período tiveram causas exclusivamente separatistas, sem pautas sociais ou raciais.\n( ) A antecipação da maioridade de D. Pedro II foi apresentada como solução para a instabilidade política.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - F - V",
+        "b": "V - V - F",
+        "c": "F - F - V",
+        "d": "V - V - V",
+        "e": "F - V - F"
+      },
+      "resposta": "a",
+      "explicacao": "O Ato Adicional de fato descentralizou, criando as assembleias provinciais, e o Golpe da Maioridade foi justificado como saída para a instabilidade. A afirmativa do meio é falsa e é a armadilha: revoltas como a Cabanagem e a Balaiada tinham fortes pautas sociais e participação de populações pobres, indígenas e negras — reduzi-las a separatismo apaga o essencial."
+    },
+    {
+      "id": "historia-brasil-102",
+      "formato": "vf",
+      "texto_apoio": "A Consolidação das Leis do Trabalho (CLT) foi sancionada em 1º de maio de 1943, durante o Estado Novo.",
+      "enunciado": "Sobre a CLT e seu contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A legislação reuniu num único corpo normas trabalhistas já esparsas, estabelecendo jornada, férias e proteção ao trabalho de menores e de mulheres.\n( ) A estrutura sindical prevista vinculava os sindicatos ao Estado, com unicidade sindical e imposto compulsório.\n( ) O conjunto da legislação estendeu-se de imediato aos trabalhadores rurais, equiparando campo e cidade.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - F - F"
+      },
+      "resposta": "a",
+      "explicacao": "A consolidação de normas dispersas e o modelo sindical corporativo atrelado ao Estado estão corretos. A terceira é falsa e o ponto é decisivo: o trabalhador rural ficou de fora, e a extensão de direitos ao campo só viria décadas depois — exclusão que revela a quem a política trabalhista do Estado Novo se dirigia."
+    },
+    {
+      "id": "historia-brasil-103",
+      "formato": "vf",
+      "texto_apoio": "O governo Médici (1969-1974) foi o período mais repressivo da ditadura militar brasileira, e coincidiu com forte crescimento econômico conhecido como \"milagre\".",
+      "enunciado": "Sobre esse período, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O crescimento econômico acelerado conviveu com concentração de renda e arrocho salarial.\n( ) A censura à imprensa e a propaganda oficial atuaram de forma articulada na construção da imagem do governo.\n( ) O bipartidarismo então vigente garantia à oposição meios efetivos de interferir na sucessão presidencial.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "F - V - V",
+        "c": "V - F - V",
+        "d": "V - V - V",
+        "e": "F - F - V"
+      },
+      "resposta": "a",
+      "explicacao": "Crescimento com concentração de renda e a articulação entre censura e propaganda descrevem bem o período. A terceira é falsa: a sucessão era decidida dentro do círculo militar, e o MDB não dispunha de meios efetivos de interferir — foi exatamente o que a charge de 1970 sobre a sucessão satirizou."
+    },
+    {
+      "id": "historia-brasil-104",
+      "formato": "vf",
+      "texto_apoio": "A escravidão urbana no Brasil oitocentista incluía o trabalho ao ganho, em que pessoas escravizadas circulavam pela cidade prestando serviços e entregando parte dos rendimentos a seus proprietários.",
+      "enunciado": "Sobre a escravidão urbana, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O trabalho ao ganho permitia alguma acumulação de pecúlio, por vezes usada na compra da própria alforria.\n( ) As irmandades negras e as festas de coroação de reis e rainhas funcionavam como espaços de sociabilidade e de reelaboração de identidades africanas.\n( ) A mobilidade pelas ruas equivalia a liberdade jurídica, retirando essas pessoas da condição de propriedade.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - F",
+        "d": "V - V - V",
+        "e": "F - F - V"
+      },
+      "resposta": "a",
+      "explicacao": "Pecúlio e alforria por compra são bem documentados, assim como o papel das irmandades. A terceira confunde mobilidade física com condição jurídica: circular pela cidade não alterava o estatuto de propriedade, e a vigilância sobre esses deslocamentos era constante."
+    },
+    {
+      "id": "historia-brasil-105",
+      "formato": "vf",
+      "texto_apoio": "A Primeira República (1889-1930) caracterizou-se pelo predomínio político das oligarquias estaduais e por um sistema eleitoral de alcance restrito.",
+      "enunciado": "Sobre a Primeira República, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O voto era aberto e restrito a homens alfabetizados, o que reduzia drasticamente o eleitorado.\n( ) A política dos governadores articulava o poder federal aos chefes políticos estaduais, garantindo apoio recíproco.\n( ) As normas sociais do período incentivavam a livre circulação de mulheres de camadas médias e altas pelos espaços públicos, desacompanhadas.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - F - F"
+      },
+      "resposta": "a",
+      "explicacao": "Voto aberto e censo alfabético reduziam o eleitorado a uma fração pequena da população, e a política dos governadores é a engrenagem clássica do período. A terceira inverte as prescrições da época, que associavam a mulher honesta à esfera doméstica e exigiam acompanhamento na rua."
+    }
+  ]
+}

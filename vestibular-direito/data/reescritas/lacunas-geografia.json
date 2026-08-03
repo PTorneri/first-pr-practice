@@ -1,0 +1,196 @@
+{
+  "_comentario": [
+    "Doze questoes de DUAS LACUNAS para geografia, fechando em 27 o total do",
+    "formato no banco (15 em ciencias-natureza + 12 aqui).",
+    "",
+    "Mesma regra de construcao dos distratores: o distrator tipico ACERTA o",
+    "primeiro elemento do par e ERRA o segundo, para que marcar pela primeira",
+    "lacuna seja a armadilha e o item exija dois julgamentos independentes.",
+    "",
+    "A Insper usa esse formato em Geografia nos dois cadernos lidos."
+  ],
+  "subtopic": "geografia",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "geografia-156",
+      "formato": "lacunas",
+      "texto_apoio": "Uma fotografia mostra uma obra de contenção construída na encosta de uma área rural degradada, onde a água de escoamento superficial havia aberto um sulco profundo e ramificado no terreno.",
+      "enunciado": "A feição erosiva combatida pela obra é ____________ , e ela se forma quando ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a voçoroca - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático",
+        "b": "a voçoroca - a água do mar avança sobre a linha de costa",
+        "c": "a voçoroca - o solo é compactado pelo pisoteio do gado",
+        "d": "a laterização - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático",
+        "e": "a salinização - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático"
+      },
+      "resposta": "a",
+      "explicacao": "Voçoroca é o estágio avançado da erosão linear, quando o sulco atinge o lençol freático e passa a se ampliar sozinho. Duas opções acertam \"voçoroca\" e erram o processo, e duas trocam a feição mantendo a descrição correta — o item só se resolve julgando as duas lacunas."
+    },
+    {
+      "id": "geografia-157",
+      "formato": "lacunas",
+      "texto_apoio": "Uma figura ilustra a determinação da posição de um receptor na superfície terrestre a partir de sinais emitidos por uma constelação de satélites.",
+      "enunciado": "A tecnologia representada é ____________ , e ela se distingue de um Sistema de Informação Geográfica porque este último ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais de fontes diversas",
+        "b": "o Sistema de Posicionamento Global - capta imagens da superfície por sensores orbitais",
+        "c": "o Sistema de Posicionamento Global - registra o relevo a partir de fotografias aéreas sobrepostas",
+        "d": "a aerofotogrametria - integra, armazena e analisa dados espaciais de fontes diversas",
+        "e": "o sensoriamento remoto - integra, armazena e analisa dados espaciais de fontes diversas"
+      },
+      "resposta": "a",
+      "explicacao": "O GPS determina posição; o SIG integra e analisa camadas de dados espaciais. Duas opções acertam o GPS e descrevem, na segunda lacuna, sensoriamento remoto e aerofotogrametria — tecnologias vizinhas que costumam ser confundidas com o SIG."
+    },
+    {
+      "id": "geografia-158",
+      "formato": "lacunas",
+      "texto_apoio": "Um mapa do Censo Demográfico indicava fluxos de população saindo das regiões Sudeste e Sul em direção ao Nordeste, invertendo o sentido predominante das décadas anteriores.",
+      "enunciado": "A tendência representada é ____________ , e ela se explica sobretudo por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a migração de retorno - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem",
+        "b": "a migração de retorno - aumento da taxa de fecundidade no Nordeste",
+        "c": "a migração de retorno - abertura de novas fronteiras agrícolas na Amazônia",
+        "d": "o êxodo rural - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem",
+        "e": "a transição demográfica - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem"
+      },
+      "resposta": "a",
+      "explicacao": "Migração de retorno é o regresso do migrante à região de origem, e ela se intensifica quando o destino perde capacidade de absorver mão de obra. Duas opções acertam o fenômeno e oferecem causas que não o explicam — fecundidade e fronteira agrícola são outros processos."
+    },
+    {
+      "id": "geografia-159",
+      "formato": "lacunas",
+      "texto_apoio": "Um mapa do IBGE mostra o percentual de domicílios ligados à rede geral de abastecimento de água, com desempenho mais baixo na região Norte.",
+      "enunciado": "O padrão observado indica que a cobertura de saneamento no Brasil é ____________ , e o caso do Norte mostra que ela ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos, e sim de investimento em infraestrutura",
+        "b": "desigual entre as regiões - acompanha diretamente a disponibilidade de água superficial de cada região",
+        "c": "desigual entre as regiões - é maior onde a densidade demográfica é menor",
+        "d": "homogênea entre as regiões - não decorre automaticamente da abundância de recursos hídricos",
+        "e": "determinada pelo clima - não decorre automaticamente da abundância de recursos hídricos"
+      },
+      "resposta": "a",
+      "explicacao": "A região com maior disponibilidade hídrica do país tem a menor cobertura de rede: água disponível não é o mesmo que água distribuída. Duas opções acertam \"desigual\" e depois afirmam justamente a correlação que o mapa desmente."
+    },
+    {
+      "id": "geografia-160",
+      "formato": "lacunas",
+      "texto_apoio": "Um projeto saudita prevê erguer uma megacidade ultratecnológica em área desértica, com aeroportos, marinas, trens de alta velocidade e centros de negócios voltados a atrair capital internacional.",
+      "enunciado": "O empreendimento é expressão de ____________ , e seu objetivo econômico central é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "uma reestruturação produtiva associada à globalização - reduzir a dependência da renda do petróleo diversificando a economia",
+        "b": "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção do país",
+        "c": "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado já existente",
+        "d": "uma industrialização clássica de concentração fabril - reduzir a dependência da renda do petróleo",
+        "e": "uma retração dos investimentos estatais - reduzir a dependência da renda do petróleo"
+      },
+      "resposta": "a",
+      "explicacao": "Cidades planejadas para atrair capital e serviços são típicas da reestruturação produtiva sob globalização, e o objetivo declarado é diversificar uma economia dependente do petróleo. Note que o projeto envolve investimento estatal massivo, e não retração."
+    },
+    {
+      "id": "geografia-161",
+      "formato": "lacunas",
+      "texto_apoio": "Em municípios de Porto Rico, microrredes solares mantêm casas e serviços funcionando durante os frequentes apagões provocados por furacões e por problemas de gestão do setor elétrico.",
+      "enunciado": "A característica natural que favorece essa solução é ____________ , e a vantagem técnica da microrrede em relação ao sistema centralizado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a elevada incidência de radiação solar no clima tropical - continuar operando de forma autônoma quando a rede principal falha",
+        "b": "a elevada incidência de radiação solar no clima tropical - dispensar qualquer forma de armazenamento de energia",
+        "c": "a elevada incidência de radiação solar no clima tropical - eliminar a necessidade de manutenção dos equipamentos",
+        "d": "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede principal falha",
+        "e": "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede principal falha"
+      },
+      "resposta": "a",
+      "explicacao": "A ilha está em latitude tropical, com radiação alta e constante, e a vantagem da microrrede é a autonomia diante da queda da rede principal. Duas opções acertam a causa natural e atribuem à microrrede virtudes que ela não tem — armazenamento é justamente o que a torna viável à noite."
+    },
+    {
+      "id": "geografia-162",
+      "formato": "lacunas",
+      "texto_apoio": "A produção de criptomoedas exige computadores que consomem grandes quantidades de energia elétrica para resolver problemas matemáticos, e algumas operações têm migrado para regiões com energia renovável abundante e barata.",
+      "enunciado": "Do ponto de vista ambiental, o uso dessas fontes permite ____________ , e do ponto de vista econômico o fenômeno ilustra ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "reduzir a pegada de carbono da atividade - a redefinição de centralidades a partir do custo da energia",
+        "b": "reduzir a pegada de carbono da atividade - o fim dos impactos ambientais da mineração digital",
+        "c": "reduzir a pegada de carbono da atividade - o equilíbrio automático na distribuição de renda",
+        "d": "eliminar integralmente as emissões do setor - a redefinição de centralidades a partir do custo da energia",
+        "e": "desvalorizar os créditos de carbono - a redefinição de centralidades a partir do custo da energia"
+      },
+      "resposta": "a",
+      "explicacao": "Fonte renovável reduz a pegada de carbono, mas não zera impactos — há uso de solo, água e equipamentos. E o deslocamento da atividade para onde a energia é barata é um caso claro de nova centralidade definida por custo de insumo."
+    },
+    {
+      "id": "geografia-163",
+      "formato": "lacunas",
+      "texto_apoio": "A Região Metropolitana de São Paulo passou, desde os anos 1980, a integrar um conjunto urbano de limites imprecisos que se estende por cerca de 200 km a partir da capital, articulando várias regiões metropolitanas.",
+      "enunciado": "Essa configuração é designada como ____________ , e ela resulta sobretudo de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "macrometrópole - reestruturação econômica e intensificação dos fluxos de pessoas, mercadorias e informações",
+        "b": "macrometrópole - crescimento vegetativo da população da capital",
+        "c": "macrometrópole - retorno da indústria ao centro da capital",
+        "d": "conurbação simples - reestruturação econômica e intensificação dos fluxos",
+        "e": "megalópole litorânea - reestruturação econômica e intensificação dos fluxos"
+      },
+      "resposta": "a",
+      "explicacao": "Macrometrópole descreve o território descontínuo e de limites imprecisos formado pela articulação de várias regiões metropolitanas, e o motor é a reestruturação econômica com intensificação de fluxos. Duas opções acertam o termo e apontam causas que não sustentam a escala descrita."
+    },
+    {
+      "id": "geografia-164",
+      "formato": "lacunas",
+      "texto_apoio": "Um sistema agrícola caracteriza-se por grandes extensões cultivadas com um único produto, substituição intensiva de trabalho por máquinas e aplicação localizada de insumos, com alta produtividade por trabalhador.",
+      "enunciado": "O sistema descrito é ____________ , e o traço que melhor o distingue da agricultura de subsistência é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados, e não pelo consumo da própria unidade produtora",
+        "b": "a agricultura empresarial - o uso exclusivo de mão de obra familiar",
+        "c": "a agricultura empresarial - a rotação de culturas em pequenas parcelas",
+        "d": "a plantation colonial - a produção ser orientada pelo lucro e pela inserção em mercados",
+        "e": "a rizicultura submersa - a produção ser orientada pelo lucro e pela inserção em mercados"
+      },
+      "resposta": "a",
+      "explicacao": "Monocultura extensiva, mecanização e alta produtividade por trabalhador caracterizam a agricultura empresarial, cuja lógica é o mercado. Duas opções acertam o sistema e descrevem traços da agricultura familiar ou de subsistência, que é justamente o contraponto pedido."
+    },
+    {
+      "id": "geografia-165",
+      "formato": "lacunas",
+      "texto_apoio": "O Pantanal ocupa parte dos estados de Mato Grosso e Mato Grosso do Sul e constitui a maior área úmida continental do planeta, com dinâmica governada pelo pulso anual de inundação.",
+      "enunciado": "A principal ameaça antrópica ao bioma, entre as listadas, é ____________ , e o dano mais direto que ela provoca é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a pecuária não sustentável associada ao desmatamento das cabeceiras - a alteração do regime de inundação da planície",
+        "b": "a pecuária não sustentável associada ao desmatamento das cabeceiras - a elevação do nível do mar na região",
+        "c": "a pecuária não sustentável associada ao desmatamento das cabeceiras - a salinização dos solos por irrigação",
+        "d": "a extração de petróleo em alto-mar - a alteração do regime de inundação da planície",
+        "e": "a expansão de polos industriais de base pesada - a alteração do regime de inundação da planície"
+      },
+      "resposta": "a",
+      "explicacao": "O que sustenta o Pantanal é o pulso de inundação, e ele depende das nascentes no planalto do entorno: desmatá-las altera todo o regime. Duas opções acertam a ameaça e apontam danos que não se aplicam a um bioma continental e sem irrigação intensiva."
+    },
+    {
+      "id": "geografia-166",
+      "formato": "lacunas",
+      "texto_apoio": "Um mapa divulgado em redes sociais destacava rotas de navegação ligando portos ao longo do litoral brasileiro, com ênfase no transporte de cargas de grande volume entre regiões do país.",
+      "enunciado": "O modal representado é ____________ , e sua principal vantagem para o tipo de carga indicado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a cabotagem - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado",
+        "b": "a cabotagem - a maior velocidade de entrega em relação ao modal aéreo",
+        "c": "a cabotagem - a independência em relação à infraestrutura portuária",
+        "d": "o transporte dutoviário - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado",
+        "e": "o transporte ferroviário - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado"
+      },
+      "resposta": "a",
+      "explicacao": "Navegação entre portos do mesmo país é cabotagem, e sua vantagem é o custo baixo para grandes volumes de baixo valor agregado. Duas opções acertam o modal e lhe atribuem qualidades que ele não tem — cabotagem é lenta e depende inteiramente de portos."
+    },
+    {
+      "id": "geografia-167",
+      "formato": "lacunas",
+      "texto_apoio": "O relevo brasileiro apresenta estruturas geológicas antigas, mas formas de relevo relativamente recentes, produzidas e continuamente refeitas por processos erosivos.",
+      "enunciado": "A unidade de relevo de maior extensão no território nacional é ____________ , e a aparente contradição entre estruturas antigas e formas recentes explica-se porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas formadas há muito mais tempo",
+        "b": "o conjunto dos planaltos - as rochas brasileiras se formaram em período geológico recente",
+        "c": "o conjunto dos planaltos - o território passou por intensa atividade tectônica no Quaternário",
+        "d": "a Planície Amazônica - a erosão remodela continuamente a superfície de rochas antigas",
+        "e": "a Planície Litorânea - a erosão remodela continuamente a superfície de rochas antigas"
+      },
+      "resposta": "a",
+      "explicacao": "Planaltos ocupam a maior parte do território, e a chave está em separar estrutura de forma: a rocha é antiga, o modelado é recente porque a erosão nunca para. Duas opções acertam a unidade e explicam a contradição negando a antiguidade das rochas ou inventando tectonismo recente."
+    }
+  ]
+}

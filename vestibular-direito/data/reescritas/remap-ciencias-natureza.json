@@ -1,0 +1,59 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027ciencias-natureza\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "ciencias-natureza",
+    "questoes":  {
+                     "ciencias-natureza-102":  {
+                                                   "de":  "a",
+                                                   "para":  "d"
+                                               },
+                     "ciencias-natureza-103":  {
+                                                   "de":  "a",
+                                                   "para":  "b"
+                                               },
+                     "ciencias-natureza-104":  {
+                                                   "de":  "a",
+                                                   "para":  "b"
+                                               },
+                     "ciencias-natureza-105":  {
+                                                   "de":  "a",
+                                                   "para":  "c"
+                                               },
+                     "ciencias-natureza-106":  {
+                                                   "de":  "a",
+                                                   "para":  "e"
+                                               },
+                     "ciencias-natureza-107":  {
+                                                   "de":  "a",
+                                                   "para":  "c"
+                                               },
+                     "ciencias-natureza-110":  {
+                                                   "de":  "a",
+                                                   "para":  "d"
+                                               },
+                     "ciencias-natureza-111":  {
+                                                   "de":  "a",
+                                                   "para":  "e"
+                                               },
+                     "ciencias-natureza-112":  {
+                                                   "de":  "a",
+                                                   "para":  "b"
+                                               },
+                     "ciencias-natureza-113":  {
+                                                   "de":  "a",
+                                                   "para":  "c"
+                                               },
+                     "ciencias-natureza-114":  {
+                                                   "de":  "a",
+                                                   "para":  "e"
+                                               },
+                     "ciencias-natureza-115":  {
+                                                   "de":  "a",
+                                                   "para":  "d"
+                                               }
+                 }
+}

@@ -1,0 +1,246 @@
+{
+  "_comentario": [
+    "Quinze questoes de DUAS LACUNAS para ciencias-natureza. O banco tinha zero",
+    "questoes nesse formato, que e a assinatura da Insper: nos dois cadernos",
+    "lidos ele aparece em Biologia, Quimica e Geografia (2026.1 q49; 2026.2 q46,",
+    "q48, q51, q53).",
+    "",
+    "REGRA DE CONSTRUCAO DOS DISTRATORES, copiada da banca: o distrator tipico",
+    "ACERTA o primeiro elemento do par e ERRA o segundo. Marcar pelo primeiro",
+    "elemento e a armadilha desenhada, e o item so e resolvido por quem faz os",
+    "DOIS julgamentos de forma independente. Em cada questao abaixo ha pelo",
+    "menos dois distratores com o primeiro elemento correto.",
+    "",
+    "Estas questoes entram com CINCO alternativas num banco que ainda esta em",
+    "quatro -- a mistura e temporaria e some quando a Fase 5 converter o resto."
+  ],
+  "subtopic": "ciencias-natureza",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "ciencias-natureza-101",
+      "formato": "lacunas",
+      "texto_apoio": "Em uma população de roedores de laboratório, o cruzamento entre dois animais de pelagem escura gerou descendentes de pelagem escura e de pelagem branca, na proporção aproximada de três para um.",
+      "enunciado": "A pelagem escura é determinada por um alelo ____________ . Isso é reconhecido porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "dominante - do cruzamento de dois animais escuros nasceram filhotes brancos",
+        "b": "dominante - todos os filhotes do cruzamento têm pelagem escura",
+        "c": "dominante - a pelagem branca aparece apenas nos machos",
+        "d": "recessivo - do cruzamento de dois animais escuros nasceram filhotes brancos",
+        "e": "recessivo - a proporção observada foi de três para um"
+      },
+      "resposta": "a",
+      "explicacao": "Se dois animais escuros geram filhotes brancos, o branco estava escondido nos pais: é o recessivo, e o escuro é o dominante. Três das opções acertam \"dominante\" e erram a justificativa, e duas acertam a justificativa e erram o alelo — o item só se resolve julgando as duas lacunas separadamente."
+    },
+    {
+      "id": "ciencias-natureza-102",
+      "formato": "lacunas",
+      "texto_apoio": "Uma cooperativa triturou juntos dois polímeros de densidades diferentes e precisa separá-los antes de encaminhá-los a processos de reciclagem distintos.",
+      "enunciado": "O procedimento adequado consiste em preparar uma solução de ____________ apropriada, permitindo separar os materiais por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "densidade - flotação",
+        "b": "densidade - destilação",
+        "c": "densidade - filtração simples",
+        "d": "acidez - dissolução seletiva",
+        "e": "temperatura de fusão - flotação"
+      },
+      "resposta": "a",
+      "explicacao": "Ajustando a densidade da solução entre as densidades dos dois polímeros, um flutua e o outro afunda. Três opções acertam \"densidade\" e erram o método — destilação separa líquidos por ebulição e filtração separa sólido de líquido, nenhuma das duas distingue dois sólidos triturados."
+    },
+    {
+      "id": "ciencias-natureza-103",
+      "formato": "lacunas",
+      "texto_apoio": "Peças de ferro podem ser protegidas contra a oxidação recobrindo-as inteiramente com outro metal ou acoplando a elas, em pontos estratégicos, um metal que se oxida preferencialmente. Considere os potenciais de redução: Mg²⁺/Mg = −2,37 V; Zn²⁺/Zn = −0,76 V; Fe²⁺/Fe = −0,44 V; Sn²⁺/Sn = −0,14 V.",
+      "enunciado": "O metal que oferece apenas proteção por barreira física é o ____________ , e o que oferece também proteção catódica é o ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "estanho - zinco",
+        "b": "estanho - cobre",
+        "c": "estanho - ouro",
+        "d": "zinco - estanho",
+        "e": "magnésio - estanho"
+      },
+      "resposta": "a",
+      "explicacao": "O estanho tem potencial de redução maior que o do ferro, então não se oxida no lugar dele: se o recobrimento é riscado, o ferro corrói. O zinco, com potencial menor, oxida-se preferencialmente e protege mesmo com a barreira rompida. Três opções acertam \"estanho\" na primeira lacuna e erram na segunda."
+    },
+    {
+      "id": "ciencias-natureza-104",
+      "formato": "lacunas",
+      "texto_apoio": "A oeste do rio Parnaíba, uma paisagem combina elementos fisionômicos de Cerrado com os de floresta úmida, e apresenta ampla presença de palmeiras, especialmente babaçuais.",
+      "enunciado": "A área descrita corresponde ____________ , e a designação técnica para uma faixa de transição entre dois ou mais ecossistemas é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "à Mata dos Cocais - ecótono",
+        "b": "à Mata dos Cocais - bioma clímax",
+        "c": "à Mata dos Cocais - nicho ecológico",
+        "d": "à Caatinga - ecótono",
+        "e": "ao Pampa - ecótono"
+      },
+      "resposta": "a",
+      "explicacao": "Babaçuais entre Cerrado e floresta úmida caracterizam a Mata dos Cocais, e a faixa de transição entre ecossistemas chama-se ecótono. Duas opções acertam a área e erram o conceito: nicho ecológico é o papel funcional de uma espécie, não uma região."
+    },
+    {
+      "id": "ciencias-natureza-105",
+      "formato": "lacunas",
+      "texto_apoio": "Um paciente com tipo sanguíneo B negativo precisa receber transfusão. O banco de sangue dispõe de bolsas de tipos variados.",
+      "enunciado": "Além do próprio B negativo, esse paciente pode receber sangue do tipo ____________ , porque o critério que restringe a doação nesse caso é a presença de ____________ no sangue do doador.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "O negativo - aglutinogênios A e do fator Rh",
+        "b": "O negativo - aglutininas anti-B no plasma do receptor",
+        "c": "O negativo - hemoglobina fetal",
+        "d": "O positivo - aglutinogênios A e do fator Rh",
+        "e": "AB negativo - aglutinogênios A e do fator Rh"
+      },
+      "resposta": "a",
+      "explicacao": "O receptor B negativo aceita B negativo e O negativo: o doador não pode ter aglutinogênio A nem fator Rh. Duas opções acertam \"O negativo\" e erram a justificativa, e uma troca para O positivo — que introduziria justamente o Rh que precisa ser evitado."
+    },
+    {
+      "id": "ciencias-natureza-106",
+      "formato": "lacunas",
+      "texto_apoio": "Uma tirinha mostra uma aranha caminhando sobre a superfície da água de uma piscina; ao ser adicionado sabão, ela afunda.",
+      "enunciado": "A aranha se sustentava graças à ____________ da água, e o sabão provoca o afundamento porque rompe interações do tipo ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "tensão superficial - ligação de hidrogênio entre moléculas de água",
+        "b": "tensão superficial - ligação covalente polar dentro da molécula de água",
+        "c": "tensão superficial - iônica entre átomos de hidrogênio e oxigênio",
+        "d": "densidade menor que a da água - ligação de hidrogênio entre moléculas de água",
+        "e": "capilaridade - forças de London entre moléculas de água"
+      },
+      "resposta": "a",
+      "explicacao": "A tensão superficial resulta das ligações de hidrogênio entre moléculas de água na superfície, e o sabão as desorganiza. Duas opções acertam \"tensão superficial\" e erram a interação — atenção à confusão mais comum: covalente e iônica são intramoleculares, e o que sustenta a aranha é intermolecular."
+    },
+    {
+      "id": "ciencias-natureza-107",
+      "formato": "lacunas",
+      "texto_apoio": "A figura de um heredograma mostra que uma condição aparece em vários homens de uma família e em nenhuma mulher, e que homens afetados têm mães não afetadas.",
+      "enunciado": "O padrão descrito sugere herança ____________ , e a evidência decisiva para isso é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "recessiva ligada ao cromossomo X - a condição manifestar-se quase só em homens, filhos de mães portadoras não afetadas",
+        "b": "recessiva ligada ao cromossomo X - homens e mulheres serem afetados em igual proporção",
+        "c": "recessiva ligada ao cromossomo X - todos os filhos de pais afetados serem afetados",
+        "d": "autossômica dominante - a condição manifestar-se quase só em homens",
+        "e": "autossômica recessiva - a condição pular gerações"
+      },
+      "resposta": "a",
+      "explicacao": "Homem tem um único X, então basta um alelo recessivo nele para manifestar; a mãe portadora tem o segundo X que a protege. Duas opções acertam o tipo de herança e oferecem evidências que não sustentam — inclusive uma que descreveria herança autossômica."
+    },
+    {
+      "id": "ciencias-natureza-108",
+      "formato": "lacunas",
+      "texto_apoio": "Uma indústria precisa preparar solução diluída de um ácido a partir de uma solução estoque mais concentrada, mantendo constante a quantidade de matéria do soluto.",
+      "enunciado": "O procedimento descrito é uma ____________ , e a grandeza que permanece constante nele é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "diluição - a quantidade de matéria do soluto",
+        "b": "diluição - a concentração da solução",
+        "c": "diluição - o volume da solução",
+        "d": "titulação - a quantidade de matéria do soluto",
+        "e": "neutralização - o volume do solvente"
+      },
+      "resposta": "a",
+      "explicacao": "Diluir é acrescentar solvente: o soluto não muda de quantidade, mas concentração e volume mudam necessariamente. Duas opções acertam \"diluição\" e apontam como constante justamente o que varia — a armadilha de marcar pela primeira lacuna."
+    },
+    {
+      "id": "ciencias-natureza-109",
+      "formato": "lacunas",
+      "texto_apoio": "Nuvens de grande desenvolvimento vertical formam-se quando ar quente e úmido próximo à superfície sobe na atmosfera.",
+      "enunciado": "O mecanismo de transporte de calor descrito é a ____________ , e ele ocorre porque o ar aquecido apresenta ____________ em relação ao ar mais frio ao redor.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "convecção - menor densidade",
+        "b": "convecção - maior densidade",
+        "c": "convecção - maior calor específico",
+        "d": "condução - menor densidade",
+        "e": "irradiação - menor densidade"
+      },
+      "resposta": "a",
+      "explicacao": "Ar aquecido se expande, fica menos denso e sobe: é convecção. Duas opções acertam \"convecção\" e erram a causa — se o ar quente fosse mais denso, ele desceria, e não haveria nuvem de desenvolvimento vertical."
+    },
+    {
+      "id": "ciencias-natureza-110",
+      "formato": "lacunas",
+      "texto_apoio": "Determinada massa de chumbo sólido recebe calor de uma fonte de potência constante. A temperatura sobe até certo valor e permanece constante enquanto o material passa ao estado líquido.",
+      "enunciado": "Durante o patamar, o calor recebido é chamado de ____________ , e a energia fornecida está sendo usada para ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "calor latente - romper as ligações que mantêm a estrutura do sólido",
+        "b": "calor latente - aumentar a energia cinética média das partículas",
+        "c": "calor latente - elevar a temperatura do material",
+        "d": "calor sensível - romper as ligações que mantêm a estrutura do sólido",
+        "e": "calor específico - reduzir a massa do material"
+      },
+      "resposta": "a",
+      "explicacao": "No patamar a temperatura não varia, então a energia não está aumentando a agitação média: está desmontando a estrutura cristalina. Duas opções acertam \"calor latente\" e oferecem justificativas que descreveriam calor sensível — que é o que ocorre fora do patamar."
+    },
+    {
+      "id": "ciencias-natureza-111",
+      "formato": "lacunas",
+      "texto_apoio": "Plantas de soja, milho e algodão geneticamente modificadas foram liberadas para plantio comercial no Brasil após avaliação técnica.",
+      "enunciado": "Essas plantas são chamadas de ____________ , e a característica que as define é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "transgênicas - expressarem genes provenientes de outras espécies",
+        "b": "transgênicas - resultarem de cruzamentos sucessivos entre variedades da mesma espécie",
+        "c": "transgênicas - terem sido selecionadas naturalmente a partir de linhagens silvestres",
+        "d": "híbridas - expressarem genes provenientes de outras espécies",
+        "e": "clonadas - expressarem genes provenientes de outras espécies"
+      },
+      "resposta": "a",
+      "explicacao": "Transgenia é a introdução de gene de outra espécie por técnica de DNA recombinante. Duas opções acertam \"transgênicas\" e descrevem melhoramento clássico ou seleção natural, que são justamente os processos dos quais a transgenia se distingue."
+    },
+    {
+      "id": "ciencias-natureza-112",
+      "formato": "lacunas",
+      "texto_apoio": "Um tatu-canastra tem hábitos noturnos e semifossoriais, alimenta-se predominantemente de cupins e formigas e constrói tocas próximas aos locais onde vivem esses insetos.",
+      "enunciado": "O conjunto de informações sobre alimentação, hábitos e relações do animal com o ambiente corresponde ao conceito de ____________ , enquanto o lugar físico onde ele vive corresponde ao de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "nicho ecológico - hábitat",
+        "b": "nicho ecológico - ecótono",
+        "c": "nicho ecológico - bioma",
+        "d": "hábitat - nicho ecológico",
+        "e": "comunidade - hábitat"
+      },
+      "resposta": "a",
+      "explicacao": "Nicho é o papel funcional — o que come, quando age, como se relaciona; hábitat é o endereço. Duas opções acertam \"nicho ecológico\" e erram o par, e uma inverte os dois conceitos, que é a confusão clássica."
+    },
+    {
+      "id": "ciencias-natureza-113",
+      "formato": "lacunas",
+      "texto_apoio": "Uma figura representa uma fase da mitose em que os cromossomos, já duplicados, encontram-se alinhados no plano equatorial da célula.",
+      "enunciado": "A fase representada é a ____________ , e o evento imediatamente seguinte é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "metáfase - a separação das cromátides-irmãs em direção aos polos",
+        "b": "metáfase - o pareamento dos cromossomos homólogos",
+        "c": "metáfase - a descondensação cromossômica e a reorganização dos núcleos",
+        "d": "anáfase - a separação das cromátides-irmãs em direção aos polos",
+        "e": "prófase - a separação das cromátides-irmãs em direção aos polos"
+      },
+      "resposta": "a",
+      "explicacao": "Cromossomos alinhados no equador definem a metáfase, e o que vem a seguir é a anáfase, com separação das cromátides. Duas opções acertam \"metáfase\" e erram a sequência — o pareamento de homólogos, aliás, ocorre na meiose, não na mitose."
+    },
+    {
+      "id": "ciencias-natureza-114",
+      "formato": "lacunas",
+      "texto_apoio": "As pregas vocais femininas tendem a ser menos densas e a apresentar menos tecido do que as masculinas.",
+      "enunciado": "Em consequência, a voz feminina tende a apresentar maior ____________ , o que corresponde a um menor ____________ da onda sonora.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "frequência - comprimento de onda",
+        "b": "frequência - amplitude",
+        "c": "frequência - velocidade de propagação",
+        "d": "amplitude - comprimento de onda",
+        "e": "intensidade - comprimento de onda"
+      },
+      "resposta": "a",
+      "explicacao": "Pregas menos densas vibram mais rápido: maior frequência, som mais agudo. Como a velocidade do som no ar é praticamente constante, maior frequência implica menor comprimento de onda. Duas opções acertam \"frequência\" e erram o par — amplitude se relaciona à intensidade, não à altura do som."
+    },
+    {
+      "id": "ciencias-natureza-115",
+      "formato": "lacunas",
+      "texto_apoio": "Um radiofármaco contendo nitrogênio-13 decai por emissão de pósitron e apresenta meia-vida de dez minutos.",
+      "enunciado": "No decaimento descrito, o número de massa do núcleo ____________ , e após trinta minutos a atividade radioativa inicial estará reduzida a ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "permanece o mesmo - um oitavo",
+        "b": "permanece o mesmo - um terço",
+        "c": "permanece o mesmo - um sexto",
+        "d": "diminui em uma unidade - um oitavo",
+        "e": "diminui em quatro unidades - um oitavo"
+      },
+      "resposta": "a",
+      "explicacao": "Na emissão de pósitron um próton vira nêutron: o número atômico cai uma unidade, mas o de massa não muda. E trinta minutos são três meias-vidas, então a atividade cai pela metade três vezes — um oitavo, não um terço. Duas opções acertam a primeira lacuna e erram justamente essa conta."
+    }
+  ]
+}

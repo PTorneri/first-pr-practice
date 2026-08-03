@@ -1,0 +1,363 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027geografia\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "geografia",
+    "questoes":  {
+                     "geografia-02":  {
+                                          "de":  "b",
+                                          "para":  "c"
+                                      },
+                     "geografia-07":  {
+                                          "de":  "c",
+                                          "para":  "b"
+                                      },
+                     "geografia-11":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "geografia-12":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "geografia-15":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "geografia-16":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "geografia-19":  {
+                                          "de":  "a",
+                                          "para":  "b"
+                                      },
+                     "geografia-20":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "geografia-21":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "geografia-22":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "geografia-23":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "geografia-24":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "geografia-25":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "geografia-26":  {
+                                          "de":  "d",
+                                          "para":  "c"
+                                      },
+                     "geografia-27":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "geografia-28":  {
+                                          "de":  "d",
+                                          "para":  "c"
+                                      },
+                     "geografia-29":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "geografia-34":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "geografia-35":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "geografia-36":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "geografia-37":  {
+                                          "de":  "e",
+                                          "para":  "a"
+                                      },
+                     "geografia-38":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "geografia-39":  {
+                                          "de":  "d",
+                                          "para":  "c"
+                                      },
+                     "geografia-41":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "geografia-42":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "geografia-45":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "geografia-46":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "geografia-49":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "geografia-50":  {
+                                          "de":  "c",
+                                          "para":  "b"
+                                      },
+                     "geografia-51":  {
+                                          "de":  "e",
+                                          "para":  "a"
+                                      },
+                     "geografia-57":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "geografia-58":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "geografia-59":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "geografia-67":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "geografia-71":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "geografia-72":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "geografia-73":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "geografia-76":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "geografia-77":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "geografia-80":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "geografia-81":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "geografia-83":  {
+                                          "de":  "b",
+                                          "para":  "d"
+                                      },
+                     "geografia-85":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "geografia-87":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "geografia-88":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "geografia-91":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "geografia-95":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "geografia-99":  {
+                                          "de":  "d",
+                                          "para":  "b"
+                                      },
+                     "geografia-102":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "geografia-103":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "geografia-104":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-105":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "geografia-107":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "geografia-109":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "geografia-110":  {
+                                           "de":  "d",
+                                           "para":  "b"
+                                       },
+                     "geografia-112":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-113":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "geografia-114":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "geografia-117":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "geografia-118":  {
+                                           "de":  "a",
+                                           "para":  "e"
+                                       },
+                     "geografia-119":  {
+                                           "de":  "d",
+                                           "para":  "b"
+                                       },
+                     "geografia-120":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-123":  {
+                                           "de":  "e",
+                                           "para":  "c"
+                                       },
+                     "geografia-125":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "geografia-130":  {
+                                           "de":  "d",
+                                           "para":  "a"
+                                       },
+                     "geografia-133":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-136":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "geografia-138":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-139":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "geografia-140":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "geografia-141":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "geografia-142":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "geografia-144":  {
+                                           "de":  "e",
+                                           "para":  "c"
+                                       },
+                     "geografia-147":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "geografia-150":  {
+                                           "de":  "e",
+                                           "para":  "d"
+                                       },
+                     "geografia-154":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "geografia-155":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "geografia-156":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "geografia-157":  {
+                                           "de":  "a",
+                                           "para":  "e"
+                                       },
+                     "geografia-158":  {
+                                           "de":  "a",
+                                           "para":  "e"
+                                       },
+                     "geografia-159":  {
+                                           "de":  "a",
+                                           "para":  "e"
+                                       },
+                     "geografia-160":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "geografia-161":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "geografia-163":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "geografia-164":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "geografia-165":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "geografia-166":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "geografia-167":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       }
+                 }
+}

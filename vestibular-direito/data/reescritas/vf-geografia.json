@@ -1,0 +1,95 @@
+{
+  "_comentario": [
+    "Cinco questoes em sequencia V/F para geografia. O banco inteiro tinha zero",
+    "questoes nesse formato, que a FGV usa (2026.1, questao 48 do bloco de",
+    "Humanas): tres afirmativas a marcar como verdadeira ou falsa, e as",
+    "alternativas sao as sequencias possiveis.",
+    "",
+    "O formato exige julgamento independente de cada afirmativa -- diferente da",
+    "escada, onde o jogo fixo de alternativas permite decidir a questao julgando",
+    "so a primeira. Vale treinar os dois separadamente.",
+    "",
+    "As sequencias oferecidas incluem sempre V-V-V ou F-F-F entre as opcoes,",
+    "como a banca faz, para que a alternativa comoda nao seja automaticamente",
+    "descartavel."
+  ],
+  "subtopic": "geografia",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "geografia-151",
+      "formato": "vf",
+      "texto_apoio": "A matriz elétrica brasileira é majoritariamente renovável, com predomínio histórico da geração hidrelétrica e expansão recente das fontes eólica e solar, sobretudo no Nordeste.",
+      "enunciado": "Sobre a matriz elétrica brasileira, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A predominância hidrelétrica torna a geração sensível a regimes de chuva, o que explica o acionamento de termelétricas em períodos de seca.\n( ) A expansão eólica no Nordeste aproveita a regularidade dos ventos alísios, o que confere ao parque gerador da região fator de capacidade elevado.\n( ) Por ser majoritariamente renovável, a matriz elétrica brasileira dispensa investimentos em linhas de transmissão de longa distância.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - F - V"
+      },
+      "resposta": "a",
+      "explicacao": "As duas primeiras são corretas: a dependência hidrelétrica de fato explica o acionamento térmico na seca, e a regularidade dos alísios dá ao Nordeste um dos melhores fatores de capacidade eólica do mundo. A terceira inverte a realidade — como a geração está longe dos centros de consumo, a matriz renovável brasileira exige mais transmissão, não menos."
+    },
+    {
+      "id": "geografia-152",
+      "formato": "vf",
+      "texto_apoio": "A urbanização brasileira acelerou-se a partir da segunda metade do século XX, acompanhada de metropolização, periferização e, mais recentemente, do crescimento de cidades médias.",
+      "enunciado": "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A rapidez do processo fez coincidir no tempo o êxodo rural, a concentração populacional nas grandes cidades e a metropolização.\n( ) O crescimento das periferias reflete, principalmente, a segregação socioespacial produzida pelo preço da terra urbana.\n( ) O espraiamento associado ao transporte individual ampliou o acesso da população pobre às áreas centrais dotadas de infraestrutura.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "F - V - V",
+        "b": "V - V - F",
+        "c": "V - F - F",
+        "d": "F - F - V",
+        "e": "V - V - V"
+      },
+      "resposta": "b",
+      "explicacao": "A simultaneidade dos três processos e a segregação pelo preço da terra são corretas. A terceira afirmativa inverte o efeito: a cidade do automóvel afastou a população pobre das áreas centrais, encarecendo o deslocamento em vez de facilitar o acesso."
+    },
+    {
+      "id": "geografia-153",
+      "formato": "vf",
+      "texto_apoio": "O agronegócio brasileiro concentra parte expressiva das exportações nacionais, e o escoamento da produção depende de uma infraestrutura de transporte historicamente rodoviária.",
+      "enunciado": "Sobre a logística de escoamento agrícola no Brasil, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O predomínio do modal rodoviário eleva o custo por tonelada-quilômetro em cargas de baixo valor agregado e longas distâncias.\n( ) A ampliação do uso dos portos do Arco Norte encurta o trajeto da produção do Centro-Oeste em direção a parte dos mercados externos.\n( ) A intermodalidade é desaconselhável para commodities, por exigir transbordo e elevar perdas.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - F",
+        "d": "V - V - V",
+        "e": "F - F - F"
+      },
+      "resposta": "a",
+      "explicacao": "As duas primeiras são corretas: rodovia é o modal mais caro para granel a longa distância, e o Arco Norte encurta a rota do Centro-Oeste. A terceira inverte o consenso logístico — justamente para commodities, ferrovia e hidrovia são mais eficientes, e o transbordo é compensado pelo ganho de escala."
+    },
+    {
+      "id": "geografia-154",
+      "formato": "vf",
+      "texto_apoio": "As projeções cartográficas transformam a superfície curva da Terra num plano, e toda projeção implica algum tipo de deformação.",
+      "enunciado": "Sobre projeções cartográficas, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A projeção de Mercator preserva os ângulos, o que a tornou útil à navegação, mas deforma progressivamente as áreas em direção aos polos.\n( ) Projeções equivalentes preservam as proporções de área, ao custo de distorcer as formas.\n( ) É possível construir uma projeção que preserve simultaneamente ângulos, áreas e distâncias.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - V",
+        "b": "V - V - F",
+        "c": "F - V - F",
+        "d": "V - F - V",
+        "e": "F - F - F"
+      },
+      "resposta": "b",
+      "explicacao": "Mercator é conforme, e sua utilidade náutica vem justamente da preservação dos ângulos; projeções equivalentes trocam forma por área. A terceira é o ponto central: nenhuma projeção preserva tudo ao mesmo tempo, e é por isso que a escolha da projeção é sempre uma decisão sobre o que se aceita perder."
+    },
+    {
+      "id": "geografia-155",
+      "formato": "vf",
+      "texto_apoio": "A dinâmica das placas tectônicas explica a distribuição de cadeias montanhosas, vulcões, fossas e atividade sísmica na superfície terrestre.",
+      "enunciado": "Sobre limites de placas tectônicas, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) Limites divergentes produzem vales em fenda e dorsais oceânicas, onde nova crosta é gerada.\n( ) A colisão entre duas placas continentais tende a formar cadeias montanhosas por dobramento, sem subducção expressiva.\n( ) O território brasileiro situa-se em zona de contato entre placas, o que explica sua intensa atividade sísmica.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - V - F"
+      },
+      "resposta": "a",
+      "explicacao": "Divergência gera crosta nova em dorsais e riftes; colisão continente-continente dobra e ergue montanhas sem subducção significativa, já que as duas placas têm densidade semelhante. A terceira é falsa: o Brasil está em posição intraplaca, longe das bordas, e por isso tem sismicidade baixa."
+    }
+  ]
+}

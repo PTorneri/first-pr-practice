@@ -33,7 +33,8 @@
 
 param(
   [Parameter(Mandatory = $true)][string]$Frente,
-  [switch]$Simular
+  [switch]$Simular,
+  [switch]$SomenteCinco
 )
 
 $ErrorActionPreference = "Stop"
@@ -110,10 +111,22 @@ $puladas = $questoes.Count - $elegiveis.Count
 
 $quatro = @($elegiveis | Where-Object { @($_.alternativas.PSObject.Properties.Name).Count -ne 5 }).Count
 if ($quatro -gt 0) {
-  Write-Output "AVISO: $quatro questões elegíveis ainda têm 4 alternativas."
-  Write-Output "       O rebalanceamento deve rodar DEPOIS da conversão completa da frente,"
-  Write-Output "       senão a distribuição-alvo de 5 letras não se sustenta."
-  throw "Frente '$Frente' não está pronta para rebalanceamento."
+  if ($SomenteCinco) {
+    # Um lote novo entra com cinco alternativas num banco que ainda está em
+    # quatro. Sem esta opção, o lote ficaria com o gabarito enviesado até a
+    # conversão da frente inteira — e um lote de quinze questões respondendo
+    # todas "a" ensina exatamente o hábito errado. Aqui só o subconjunto já
+    # convertido é redistribuído; as de quatro alternativas ficam intactas e
+    # esperam a conversão.
+    $elegiveis = @($elegiveis | Where-Object { @($_.alternativas.PSObject.Properties.Name).Count -eq 5 })
+    Write-Output "Modo -SomenteCinco: $quatro questões de 4 alternativas ficam de fora."
+  } else {
+    Write-Output "AVISO: $quatro questões elegíveis ainda têm 4 alternativas."
+    Write-Output "       O rebalanceamento deve rodar DEPOIS da conversão completa da frente,"
+    Write-Output "       senão a distribuição-alvo de 5 letras não se sustenta."
+    Write-Output "       Para equilibrar só o subconjunto já convertido, use -SomenteCinco."
+    throw "Frente '$Frente' não está pronta para rebalanceamento."
+  }
 }
 
 $n = $elegiveis.Count

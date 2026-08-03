@@ -9561,6 +9561,231 @@ window.QUESTION_BANKS = {
                                   "explicacao":  "Embora fontes renováveis, como solar e eólica, apresentem vantagens ambientais significativas em relação a combustíveis fósseis, sobretudo quanto à emissão de gases de efeito estufa durante a geração de energia, é importante reconhecer que toda fonte de energia envolve algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida — como a extração de materiais para fabricação de painéis solares e turbinas eólicas, a ocupação de área ou o descarte de equipamentos —, o que reforça a importância de uma análise de ciclo de vida completa na avaliação de políticas energéticas.",
                                   "dificuldade":  "dificil",
                                   "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-101",
+                                  "texto_apoio":  "Em uma população de roedores de laboratório, o cruzamento entre dois animais de pelagem escura gerou descendentes de pelagem escura e de pelagem branca, na proporção aproximada de três para um.",
+                                  "enunciado":  "A pelagem escura é determinada por um alelo ____________ . Isso é reconhecido porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "dominante - do cruzamento de dois animais escuros nasceram filhotes brancos",
+                                                       "b":  "recessivo - a proporção observada foi de três para um",
+                                                       "c":  "dominante - todos os filhotes do cruzamento têm pelagem escura",
+                                                       "d":  "recessivo - do cruzamento de dois animais escuros nasceram filhotes brancos",
+                                                       "e":  "dominante - a pelagem branca aparece apenas nos machos"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "Se dois animais escuros geram filhotes brancos, o branco estava escondido nos pais: é o recessivo, e o escuro é o dominante. Três das opções acertam \"dominante\" e erram a justificativa, e duas acertam a justificativa e erram o alelo — o item só se resolve julgando as duas lacunas separadamente.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-102",
+                                  "texto_apoio":  "Uma cooperativa triturou juntos dois polímeros de densidades diferentes e precisa separá-los antes de encaminhá-los a processos de reciclagem distintos.",
+                                  "enunciado":  "O procedimento adequado consiste em preparar uma solução de ____________ apropriada, permitindo separar os materiais por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "acidez - dissolução seletiva",
+                                                       "b":  "densidade - destilação",
+                                                       "c":  "temperatura de fusão - flotação",
+                                                       "d":  "densidade - flotação",
+                                                       "e":  "densidade - filtração simples"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "Ajustando a densidade da solução entre as densidades dos dois polímeros, um flutua e o outro afunda. Três opções acertam \"densidade\" e erram o método — destilação separa líquidos por ebulição e filtração separa sólido de líquido, nenhuma das duas distingue dois sólidos triturados.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-103",
+                                  "texto_apoio":  "Peças de ferro podem ser protegidas contra a oxidação recobrindo-as inteiramente com outro metal ou acoplando a elas, em pontos estratégicos, um metal que se oxida preferencialmente. Considere os potenciais de redução: Mg²⁺/Mg = −2,37 V; Zn²⁺/Zn = −0,76 V; Fe²⁺/Fe = −0,44 V; Sn²⁺/Sn = −0,14 V.",
+                                  "enunciado":  "O metal que oferece apenas proteção por barreira física é o ____________ , e o que oferece também proteção catódica é o ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "magnésio - estanho",
+                                                       "b":  "estanho - zinco",
+                                                       "c":  "estanho - ouro",
+                                                       "d":  "zinco - estanho",
+                                                       "e":  "estanho - cobre"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "O estanho tem potencial de redução maior que o do ferro, então não se oxida no lugar dele: se o recobrimento é riscado, o ferro corrói. O zinco, com potencial menor, oxida-se preferencialmente e protege mesmo com a barreira rompida. Três opções acertam \"estanho\" na primeira lacuna e erram na segunda.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-104",
+                                  "texto_apoio":  "A oeste do rio Parnaíba, uma paisagem combina elementos fisionômicos de Cerrado com os de floresta úmida, e apresenta ampla presença de palmeiras, especialmente babaçuais.",
+                                  "enunciado":  "A área descrita corresponde ____________ , e a designação técnica para uma faixa de transição entre dois ou mais ecossistemas é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "à Mata dos Cocais - nicho ecológico",
+                                                       "b":  "à Mata dos Cocais - ecótono",
+                                                       "c":  "à Caatinga - ecótono",
+                                                       "d":  "à Mata dos Cocais - bioma clímax",
+                                                       "e":  "ao Pampa - ecótono"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "Babaçuais entre Cerrado e floresta úmida caracterizam a Mata dos Cocais, e a faixa de transição entre ecossistemas chama-se ecótono. Duas opções acertam a área e erram o conceito: nicho ecológico é o papel funcional de uma espécie, não uma região.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-105",
+                                  "texto_apoio":  "Um paciente com tipo sanguíneo B negativo precisa receber transfusão. O banco de sangue dispõe de bolsas de tipos variados.",
+                                  "enunciado":  "Além do próprio B negativo, esse paciente pode receber sangue do tipo ____________ , porque o critério que restringe a doação nesse caso é a presença de ____________ no sangue do doador.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "O negativo - aglutininas anti-B no plasma do receptor",
+                                                       "b":  "O negativo - hemoglobina fetal",
+                                                       "c":  "O negativo - aglutinogênios A e do fator Rh",
+                                                       "d":  "AB negativo - aglutinogênios A e do fator Rh",
+                                                       "e":  "O positivo - aglutinogênios A e do fator Rh"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "O receptor B negativo aceita B negativo e O negativo: o doador não pode ter aglutinogênio A nem fator Rh. Duas opções acertam \"O negativo\" e erram a justificativa, e uma troca para O positivo — que introduziria justamente o Rh que precisa ser evitado.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-106",
+                                  "texto_apoio":  "Uma tirinha mostra uma aranha caminhando sobre a superfície da água de uma piscina; ao ser adicionado sabão, ela afunda.",
+                                  "enunciado":  "A aranha se sustentava graças à ____________ da água, e o sabão provoca o afundamento porque rompe interações do tipo ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "capilaridade - forças de London entre moléculas de água",
+                                                       "b":  "densidade menor que a da água - ligação de hidrogênio entre moléculas de água",
+                                                       "c":  "tensão superficial - ligação covalente polar dentro da molécula de água",
+                                                       "d":  "tensão superficial - iônica entre átomos de hidrogênio e oxigênio",
+                                                       "e":  "tensão superficial - ligação de hidrogênio entre moléculas de água"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "A tensão superficial resulta das ligações de hidrogênio entre moléculas de água na superfície, e o sabão as desorganiza. Duas opções acertam \"tensão superficial\" e erram a interação — atenção à confusão mais comum: covalente e iônica são intramoleculares, e o que sustenta a aranha é intermolecular.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-107",
+                                  "texto_apoio":  "A figura de um heredograma mostra que uma condição aparece em vários homens de uma família e em nenhuma mulher, e que homens afetados têm mães não afetadas.",
+                                  "enunciado":  "O padrão descrito sugere herança ____________ , e a evidência decisiva para isso é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "recessiva ligada ao cromossomo X - homens e mulheres serem afetados em igual proporção",
+                                                       "b":  "autossômica dominante - a condição manifestar-se quase só em homens",
+                                                       "c":  "recessiva ligada ao cromossomo X - a condição manifestar-se quase só em homens, filhos de mães portadoras não afetadas",
+                                                       "d":  "recessiva ligada ao cromossomo X - todos os filhos de pais afetados serem afetados",
+                                                       "e":  "autossômica recessiva - a condição pular gerações"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "Homem tem um único X, então basta um alelo recessivo nele para manifestar; a mãe portadora tem o segundo X que a protege. Duas opções acertam o tipo de herança e oferecem evidências que não sustentam — inclusive uma que descreveria herança autossômica.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-108",
+                                  "texto_apoio":  "Uma indústria precisa preparar solução diluída de um ácido a partir de uma solução estoque mais concentrada, mantendo constante a quantidade de matéria do soluto.",
+                                  "enunciado":  "O procedimento descrito é uma ____________ , e a grandeza que permanece constante nele é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "diluição - a quantidade de matéria do soluto",
+                                                       "b":  "diluição - a concentração da solução",
+                                                       "c":  "diluição - o volume da solução",
+                                                       "d":  "titulação - a quantidade de matéria do soluto",
+                                                       "e":  "neutralização - o volume do solvente"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "Diluir é acrescentar solvente: o soluto não muda de quantidade, mas concentração e volume mudam necessariamente. Duas opções acertam \"diluição\" e apontam como constante justamente o que varia — a armadilha de marcar pela primeira lacuna.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-109",
+                                  "texto_apoio":  "Nuvens de grande desenvolvimento vertical formam-se quando ar quente e úmido próximo à superfície sobe na atmosfera.",
+                                  "enunciado":  "O mecanismo de transporte de calor descrito é a ____________ , e ele ocorre porque o ar aquecido apresenta ____________ em relação ao ar mais frio ao redor.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "convecção - menor densidade",
+                                                       "b":  "convecção - maior densidade",
+                                                       "c":  "convecção - maior calor específico",
+                                                       "d":  "irradiação - menor densidade",
+                                                       "e":  "condução - menor densidade"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "Ar aquecido se expande, fica menos denso e sobe: é convecção. Duas opções acertam \"convecção\" e erram a causa — se o ar quente fosse mais denso, ele desceria, e não haveria nuvem de desenvolvimento vertical.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-110",
+                                  "texto_apoio":  "Determinada massa de chumbo sólido recebe calor de uma fonte de potência constante. A temperatura sobe até certo valor e permanece constante enquanto o material passa ao estado líquido.",
+                                  "enunciado":  "Durante o patamar, o calor recebido é chamado de ____________ , e a energia fornecida está sendo usada para ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "calor latente - elevar a temperatura do material",
+                                                       "b":  "calor latente - aumentar a energia cinética média das partículas",
+                                                       "c":  "calor sensível - romper as ligações que mantêm a estrutura do sólido",
+                                                       "d":  "calor latente - romper as ligações que mantêm a estrutura do sólido",
+                                                       "e":  "calor específico - reduzir a massa do material"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "No patamar a temperatura não varia, então a energia não está aumentando a agitação média: está desmontando a estrutura cristalina. Duas opções acertam \"calor latente\" e oferecem justificativas que descreveriam calor sensível — que é o que ocorre fora do patamar.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-111",
+                                  "texto_apoio":  "Plantas de soja, milho e algodão geneticamente modificadas foram liberadas para plantio comercial no Brasil após avaliação técnica.",
+                                  "enunciado":  "Essas plantas são chamadas de ____________ , e a característica que as define é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "híbridas - expressarem genes provenientes de outras espécies",
+                                                       "b":  "transgênicas - terem sido selecionadas naturalmente a partir de linhagens silvestres",
+                                                       "c":  "transgênicas - resultarem de cruzamentos sucessivos entre variedades da mesma espécie",
+                                                       "d":  "clonadas - expressarem genes provenientes de outras espécies",
+                                                       "e":  "transgênicas - expressarem genes provenientes de outras espécies"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "Transgenia é a introdução de gene de outra espécie por técnica de DNA recombinante. Duas opções acertam \"transgênicas\" e descrevem melhoramento clássico ou seleção natural, que são justamente os processos dos quais a transgenia se distingue.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-112",
+                                  "texto_apoio":  "Um tatu-canastra tem hábitos noturnos e semifossoriais, alimenta-se predominantemente de cupins e formigas e constrói tocas próximas aos locais onde vivem esses insetos.",
+                                  "enunciado":  "O conjunto de informações sobre alimentação, hábitos e relações do animal com o ambiente corresponde ao conceito de ____________ , enquanto o lugar físico onde ele vive corresponde ao de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "comunidade - hábitat",
+                                                       "b":  "nicho ecológico - hábitat",
+                                                       "c":  "hábitat - nicho ecológico",
+                                                       "d":  "nicho ecológico - bioma",
+                                                       "e":  "nicho ecológico - ecótono"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "Nicho é o papel funcional — o que come, quando age, como se relaciona; hábitat é o endereço. Duas opções acertam \"nicho ecológico\" e erram o par, e uma inverte os dois conceitos, que é a confusão clássica.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-113",
+                                  "texto_apoio":  "Uma figura representa uma fase da mitose em que os cromossomos, já duplicados, encontram-se alinhados no plano equatorial da célula.",
+                                  "enunciado":  "A fase representada é a ____________ , e o evento imediatamente seguinte é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "anáfase - a separação das cromátides-irmãs em direção aos polos",
+                                                       "b":  "metáfase - a descondensação cromossômica e a reorganização dos núcleos",
+                                                       "c":  "metáfase - a separação das cromátides-irmãs em direção aos polos",
+                                                       "d":  "prófase - a separação das cromátides-irmãs em direção aos polos",
+                                                       "e":  "metáfase - o pareamento dos cromossomos homólogos"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "Cromossomos alinhados no equador definem a metáfase, e o que vem a seguir é a anáfase, com separação das cromátides. Duas opções acertam \"metáfase\" e erram a sequência — o pareamento de homólogos, aliás, ocorre na meiose, não na mitose.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-114",
+                                  "texto_apoio":  "As pregas vocais femininas tendem a ser menos densas e a apresentar menos tecido do que as masculinas.",
+                                  "enunciado":  "Em consequência, a voz feminina tende a apresentar maior ____________ , o que corresponde a um menor ____________ da onda sonora.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "frequência - velocidade de propagação",
+                                                       "b":  "intensidade - comprimento de onda",
+                                                       "c":  "amplitude - comprimento de onda",
+                                                       "d":  "frequência - amplitude",
+                                                       "e":  "frequência - comprimento de onda"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "Pregas menos densas vibram mais rápido: maior frequência, som mais agudo. Como a velocidade do som no ar é praticamente constante, maior frequência implica menor comprimento de onda. Duas opções acertam \"frequência\" e erram o par — amplitude se relaciona à intensidade, não à altura do som.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-115",
+                                  "texto_apoio":  "Um radiofármaco contendo nitrogênio-13 decai por emissão de pósitron e apresenta meia-vida de dez minutos.",
+                                  "enunciado":  "No decaimento descrito, o número de massa do núcleo ____________ , e após trinta minutos a atividade radioativa inicial estará reduzida a ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                                  "alternativas":  {
+                                                       "a":  "permanece o mesmo - um sexto",
+                                                       "b":  "diminui em uma unidade - um oitavo",
+                                                       "c":  "permanece o mesmo - um terço",
+                                                       "d":  "permanece o mesmo - um oitavo",
+                                                       "e":  "diminui em quatro unidades - um oitavo"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "Na emissão de pósitron um próton vira nêutron: o número atômico cai uma unidade, mas o de massa não muda. E trinta minutos são três meias-vidas, então a atividade cai pela metade três vezes — um oitavo, não um terço. Duas opções acertam a primeira lacuna e erram justamente essa conta.",
+                                  "formato":  "lacunas"
                               }
                           ],
     "direitos-humanos":  [
@@ -12503,9 +12728,9 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O intenso processo de urbanização brasileira, acelerado a partir da segunda metade do século XX, esteve diretamente relacionado a:",
                           "alternativas":  {
                                                "a":  "Uma valorização da pequena propriedade rural, que ampliou o número de postos de trabalho agrícola e reduziu o deslocamento para as cidades",
-                                               "b":  "Uma política federal de fixação do trabalhador no campo por meio de subsídios à agricultura de subsistência",
-                                               "c":  "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo",
-                                               "d":  "O crescimento vegetativo da população já urbana, isoladamente, sem contribuição relevante dos deslocamentos internos no período",
+                                               "b":  "O crescimento vegetativo da população já urbana, isoladamente, sem contribuição relevante dos deslocamentos internos no período",
+                                               "c":  "Uma política federal de fixação do trabalhador no campo por meio de subsídios à agricultura de subsistência",
+                                               "d":  "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo",
                                                "e":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades"
                                            },
                           "resposta":  "e",
@@ -12517,13 +12742,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A formação de favelas nas grandes cidades brasileiras está associada, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "A migração de moradores de bairros centrais valorizados para áreas periféricas por preferência de estilo de vida",
-                                               "b":  "A insuficiência de políticas habitacionais frente ao intenso crescimento urbano, à especulação imobiliária e à concentração de renda",
-                                               "c":  "Uma redistribuição de infraestrutura urbana que priorizou historicamente bairros periféricos em detrimento das áreas centrais",
-                                               "d":  "Um planejamento urbano municipal que previu, desde o início da industrialização, áreas de habitação popular equivalentes às centrais",
-                                               "e":  "A retração do crescimento populacional urbano a partir dos anos 1970, que teria reduzido a pressão sobre o mercado formal de moradia"
+                                               "a":  "A retração do crescimento populacional urbano a partir dos anos 1970, que teria reduzido a pressão sobre o mercado formal de moradia",
+                                               "b":  "Um planejamento urbano municipal que previu, desde o início da industrialização, áreas de habitação popular equivalentes às centrais",
+                                               "c":  "A insuficiência de políticas habitacionais frente ao intenso crescimento urbano, à especulação imobiliária e à concentração de renda",
+                                               "d":  "Uma redistribuição de infraestrutura urbana que priorizou historicamente bairros periféricos em detrimento das áreas centrais",
+                                               "e":  "A migração de moradores de bairros centrais valorizados para áreas periféricas por preferência de estilo de vida"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "O crescimento urbano acelerado, não acompanhado de políticas habitacionais adequadas, somado à especulação imobiliária e à concentração de renda, empurrou parte da população para ocupações irregulares. As demais alternativas descrevem um cenário inverso ao efetivamente observado: planejamento habitacional equivalente, migração por preferência (não necessidade) e priorização de periferias, nenhum deles condizente com a formação histórica das favelas brasileiras.",
                           "formato":  "direta"
                       },
@@ -12592,13 +12817,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A matriz energética elétrica brasileira se diferencia da maioria dos países por apresentar:",
                           "alternativas":  {
-                                               "a":  "Uma participação de fontes renováveis próxima à média mundial, sem destaque em relação a outros países, padrão comum entre economias de industrialização tardia",
-                                               "b":  "Uma matriz elétrica baseada majoritariamente em termelétricas a gás natural importado, à semelhança de países sem grande potencial hídrico próprio",
-                                               "c":  "Uma participação historicamente elevada de fontes renováveis, especialmente a energia hidrelétrica, na geração de eletricidade",
-                                               "d":  "Uma dependência do carvão mineral equivalente à observada em países como China e Índia, decorrente de reservas domésticas abundantes desse insumo",
-                                               "e":  "Uma geração predominantemente nuclear, resultado de investimentos concentrados em usinas construídas nas décadas de 1980 e 1990"
+                                               "a":  "Uma geração predominantemente nuclear, resultado de investimentos concentrados em usinas construídas nas décadas de 1980 e 1990",
+                                               "b":  "Uma participação historicamente elevada de fontes renováveis, especialmente a energia hidrelétrica, na geração de eletricidade",
+                                               "c":  "Uma dependência do carvão mineral equivalente à observada em países como China e Índia, decorrente de reservas domésticas abundantes desse insumo",
+                                               "d":  "Uma participação de fontes renováveis próxima à média mundial, sem destaque em relação a outros países, padrão comum entre economias de industrialização tardia",
+                                               "e":  "Uma matriz elétrica baseada majoritariamente em termelétricas a gás natural importado, à semelhança de países sem grande potencial hídrico próprio"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "Diferentemente da maior parte do mundo, cuja matriz elétrica depende fortemente de combustíveis fósseis, o Brasil possui, devido ao seu potencial hídrico, uma matriz elétrica historicamente concentrada em hidrelétricas. As demais alternativas atribuem ao Brasil padrões de outros países (carvão como China/Índia, gás importado) ou nivelam sua matriz à média mundial, o que contraria o traço mais distintivo da matriz elétrica brasileira.",
                           "formato":  "direta"
                       },
@@ -12652,13 +12877,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Entre os principais fatores que impulsionam o desmatamento na Amazônia brasileira, destacam-se:",
                           "alternativas":  {
-                                               "a":  "A ampliação das áreas de proteção ambiental na região, que reduz o controle estatal sobre o uso do solo e amplia a fiscalização",
-                                               "b":  "O aumento da demanda internacional por produtos certificados livres de desmatamento, que expandiria as áreas já desmatadas",
-                                               "c":  "O crescimento da renda das populações tradicionais da região, que passaram a investir em pecuária extensiva e monocultura",
-                                               "d":  "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
-                                               "e":  "A expansão da mineração industrial licenciada, responsável pela maior parte da área desmatada anualmente no bioma"
+                                               "a":  "A expansão da pecuária e da agricultura, a exploração madeireira ilegal e a grilagem de terras públicas",
+                                               "b":  "O crescimento da renda das populações tradicionais da região, que passaram a investir em pecuária extensiva e monocultura",
+                                               "c":  "O aumento da demanda internacional por produtos certificados livres de desmatamento, que expandiria as áreas já desmatadas",
+                                               "d":  "A expansão da mineração industrial licenciada, responsável pela maior parte da área desmatada anualmente no bioma",
+                                               "e":  "A ampliação das áreas de proteção ambiental na região, que reduz o controle estatal sobre o uso do solo e amplia a fiscalização"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "O desmatamento na Amazônia está fortemente associado à expansão da pecuária e da agricultura, à exploração madeireira ilegal e à grilagem de terras públicas. As demais alternativas invertem a lógica do processo: a demanda por produtos certificados tende a reduzir, não ampliar, a pressão por novas áreas; a ampliação de áreas protegidas tende a reforçar, não reduzir, o controle ambiental; e o fenômeno não decorre do enriquecimento de populações tradicionais.",
                           "formato":  "direta"
                       },
@@ -12667,13 +12892,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A divisão do território brasileiro em cinco regiões (Norte, Nordeste, Centro-Oeste, Sudeste e Sul), adotada pelo IBGE, baseia-se principalmente em:",
                           "alternativas":  {
-                                               "a":  "Critérios de agregação de estados para fins estatísticos e de planejamento, considerando aspectos físicos, econômicos e sociais",
-                                               "b":  "Limites administrativos definidos pela Constituição de 1988, que teria fixado as cinco regiões como entes federativos dotados de autonomia própria",
-                                               "c":  "Critérios exclusivamente linguísticos, relacionados a variações regionais do português falado nas diferentes áreas do território nacional",
-                                               "d":  "Fronteiras herdadas diretamente da divisão em capitanias hereditárias do período colonial português, mantidas inalteradas até os dias atuais",
+                                               "a":  "Critérios exclusivamente linguísticos, relacionados a variações regionais do português falado nas diferentes áreas do território nacional",
+                                               "b":  "Fronteiras herdadas diretamente da divisão em capitanias hereditárias do período colonial português, mantidas inalteradas até os dias atuais",
+                                               "c":  "Critérios de agregação de estados para fins estatísticos e de planejamento, considerando aspectos físicos, econômicos e sociais",
+                                               "d":  "Limites administrativos definidos pela Constituição de 1988, que teria fixado as cinco regiões como entes federativos dotados de autonomia própria",
                                                "e":  "Critérios estritamente físicos, definidos pela delimitação dos grandes biomas brasileiros, que coincidiriam com os limites das cinco regiões"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "c",
                           "explicacao":  "A divisão regional do IBGE é uma construção administrativa e estatística, criada para fins de planejamento e comparação de dados, considerando critérios físicos, econômicos e sociais. As regiões não são entes federativos previstos na Constituição, não correspondem às antigas capitanias e não se baseiam em critérios linguísticos.",
                           "formato":  "direta"
                       },
@@ -12712,13 +12937,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
                           "alternativas":  {
-                                               "a":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
-                                               "b":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
-                                               "c":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
-                                               "d":  "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala",
-                                               "e":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais"
+                                               "a":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
+                                               "b":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
+                                               "c":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais",
+                                               "d":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
+                                               "e":  "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "c",
                           "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real.",
                           "formato":  "direta"
                       },
@@ -12728,12 +12953,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "As migrações internas no Brasil ao longo do século XX, com destaque para o deslocamento de nordestinos rumo ao Sudeste, estiveram associadas principalmente a:",
                           "alternativas":  {
                                                "a":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes, fenômeno mais expressivo a partir dos anos 1990",
-                                               "b":  "A busca por melhores condições climáticas, já que o Sudeste apresenta regime de chuvas mais regular do que todo o Nordeste",
+                                               "b":  "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX",
                                                "c":  "Um programa federal de assentamento que redirecionou trabalhadores rurais nordestinos para a fronteira agrícola amazônica, iniciativa conduzida principalmente durante o regime militar",
-                                               "d":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste",
-                                               "e":  "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX"
+                                               "d":  "A busca por melhores condições climáticas, já que o Sudeste apresenta regime de chuvas mais regular do que todo o Nordeste",
+                                               "e":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios rumo às regiões industrializadas do Sudeste. O fluxo migratório histórico foi predominantemente de trabalhadores em busca de emprego industrial e urbano, não de um programa de assentamento amazônico, nem majoritariamente de estudantes, nem motivado centralmente por diferenças climáticas.",
                           "formato":  "direta"
                       },
@@ -12772,13 +12997,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Terra é dividida em 24 fusos horários, cada um correspondendo a 15° de longitude, tendo o Meridiano de Greenwich como referência inicial.",
                           "enunciado":  "Sobre os fusos horários no território brasileiro, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "O Brasil, devido à sua grande extensão longitudinal, abrange mais de um fuso horário, com diferença de horário entre Fernando de Noronha e o restante do país",
-                                               "b":  "O Brasil possui o mesmo número de fusos horários que a Rússia, o maior país em extensão longitudinal do mundo, já que ambos têm dimensões territoriais comparáveis",
-                                               "c":  "Os fusos horários no Brasil são definidos pela latitude de cada região, e não por sua longitude, o que explicaria a diferença entre o Norte e o Sul do país",
-                                               "d":  "O horário de Brasília é definido a partir do meridiano que passa por Fernando de Noronha, arquipélago tomado como referência oficial do país",
-                                               "e":  "O território brasileiro se distribui em um único fuso, adotado como horário oficial pelos estados desde a criação do sistema no país"
+                                               "a":  "O Brasil possui o mesmo número de fusos horários que a Rússia, o maior país em extensão longitudinal do mundo, já que ambos têm dimensões territoriais comparáveis",
+                                               "b":  "O Brasil, devido à sua grande extensão longitudinal, abrange mais de um fuso horário, com diferença de horário entre Fernando de Noronha e o restante do país",
+                                               "c":  "O território brasileiro se distribui em um único fuso, adotado como horário oficial pelos estados desde a criação do sistema no país",
+                                               "d":  "Os fusos horários no Brasil são definidos pela latitude de cada região, e não por sua longitude, o que explicaria a diferença entre o Norte e o Sul do país",
+                                               "e":  "O horário de Brasília é definido a partir do meridiano que passa por Fernando de Noronha, arquipélago tomado como referência oficial do país"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "Devido à grande extensão leste-oeste do território brasileiro, o país abrange mais de um fuso horário, havendo diferença de horário entre Fernando de Noronha, mais adiantado, e a maior parte do território continental. Fusos horários se relacionam à longitude, não à latitude, e o Brasil possui número de fusos bem menor do que a Rússia.",
                           "formato":  "direta"
                       },
@@ -12787,13 +13012,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A escala cartográfica indica a relação entre as distâncias representadas em um mapa e as distâncias reais no terreno.",
                           "enunciado":  "Um mapa de escala 1:1.000.000 é considerado de pequena escala em relação a um mapa de escala 1:10.000 porque:",
                           "alternativas":  {
-                                               "a":  "Representa a mesma área que o mapa de escala 1:10.000, porém com uma legenda de cores distinta e uma paleta cartográfica mais simplificada",
-                                               "b":  "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão",
+                                               "a":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000",
+                                               "b":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles",
                                                "c":  "Utiliza uma projeção cartográfica diferente, o que alteraria a relação entre distância representada e distância real no terreno",
-                                               "d":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles",
-                                               "e":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000"
+                                               "d":  "Representa a mesma área que o mapa de escala 1:10.000, porém com uma legenda de cores distinta e uma paleta cartográfica mais simplificada",
+                                               "e":  "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área.",
                           "formato":  "direta"
                       },
@@ -12802,13 +13027,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A região amazônica apresenta um clima predominantemente equatorial.",
                           "enunciado":  "Esse tipo climático caracteriza-se principalmente por:",
                           "alternativas":  {
-                                               "a":  "Temperaturas amenas e concentração das chuvas apenas nos meses de inverno, como ocorre no clima mediterrâneo do sul da Europa",
-                                               "b":  "Temperaturas elevadas apenas na estação chuvosa, com queda acentuada na estação seca, padrão típico de climas tropicais sazonais",
-                                               "c":  "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
-                                               "d":  "Grande amplitude térmica diária e chuvas escassas, concentradas em poucos dias do ano, como nas regiões desérticas e semiáridas",
-                                               "e":  "Temperaturas médias baixas ao longo de todo o ano e umidade elevada, condição associada a áreas de altitude elevada na faixa intertropical"
+                                               "a":  "Temperaturas elevadas o ano todo e alta pluviosidade bem distribuída ao longo do ano, sem estação seca definida",
+                                               "b":  "Temperaturas amenas e concentração das chuvas apenas nos meses de inverno, como ocorre no clima mediterrâneo do sul da Europa",
+                                               "c":  "Temperaturas elevadas apenas na estação chuvosa, com queda acentuada na estação seca, padrão típico de climas tropicais sazonais",
+                                               "d":  "Temperaturas médias baixas ao longo de todo o ano e umidade elevada, condição associada a áreas de altitude elevada na faixa intertropical",
+                                               "e":  "Grande amplitude térmica diária e chuvas escassas, concentradas em poucos dias do ano, como nas regiões desérticas e semiáridas"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "a",
                           "explicacao":  "O clima equatorial caracteriza-se por temperaturas elevadas e relativamente constantes ao longo do ano e por índices pluviométricos altos e bem distribuídos, sem estação seca definida. As demais alternativas descrevem características de outros tipos climáticos (mediterrâneo, semiárido) ou uma variação térmica sazonal que não é típica do clima equatorial.",
                           "formato":  "direta"
                       },
@@ -12817,13 +13042,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Cerrado é o segundo maior bioma brasileiro em extensão, ocupando parte significativa do Centro-Oeste do país.",
                           "enunciado":  "Esse bioma caracteriza-se por:",
                           "alternativas":  {
-                                               "a":  "Clima subtropical úmido, com ocorrência frequente de geadas ao longo de todo o ano, semelhante ao observado no extremo Sul do país",
-                                               "b":  "Vegetação de mangue, adaptada a áreas de encontro entre rios e o mar, com solo permanentemente encharcado pela maré",
-                                               "c":  "Floresta tropical densa e fechada, com dossel contínuo, em tudo semelhante à vegetação amazônica de alta umidade",
-                                               "d":  "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
-                                               "e":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas"
+                                               "a":  "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
+                                               "b":  "Floresta tropical densa e fechada, com dossel contínuo, em tudo semelhante à vegetação amazônica de alta umidade",
+                                               "c":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas",
+                                               "d":  "Vegetação de mangue, adaptada a áreas de encontro entre rios e o mar, com solo permanentemente encharcado pela maré",
+                                               "e":  "Clima subtropical úmido, com ocorrência frequente de geadas ao longo de todo o ano, semelhante ao observado no extremo Sul do país"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "c",
                           "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado.",
                           "formato":  "direta"
                       },
@@ -12832,13 +13057,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Caatinga é um bioma exclusivamente brasileiro, predominante no interior do Nordeste.",
                           "enunciado":  "A vegetação e o clima característicos da Caatinga adaptaram-se a condições de:",
                           "alternativas":  {
-                                               "a":  "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
+                                               "a":  "Clima equatorial, com chuvas abundantes distribuídas uniformemente ao longo do ano, favorecendo florestas densas",
                                                "b":  "Umidade constante, semelhante à observada na Mata Atlântica, o que favorece espécies de folhas largas e permanentes",
-                                               "c":  "Clima equatorial, com chuvas abundantes distribuídas uniformemente ao longo do ano, favorecendo florestas densas",
-                                               "d":  "Clima tropical de altitude, com temperaturas amenas e chuvas regulares ao longo de todo o ano, como na Mantiqueira",
-                                               "e":  "Solos saturados por inundações sazonais dos rios, condição que favorece espécies de grande porte adaptadas ao alagamento periódico"
+                                               "c":  "Clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila, adaptada à escassez de água",
+                                               "d":  "Solos saturados por inundações sazonais dos rios, condição que favorece espécies de grande porte adaptadas ao alagamento periódico",
+                                               "e":  "Clima tropical de altitude, com temperaturas amenas e chuvas regulares ao longo de todo o ano, como na Mantiqueira"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "c",
                           "explicacao":  "A Caatinga desenvolveu-se em região de clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila adaptada à escassez hídrica. As demais alternativas descrevem climas (tropical de altitude, equatorial) e condições de umidade (semelhantes à Mata Atlântica) incompatíveis com o regime climático que molda a Caatinga.",
                           "formato":  "direta"
                       },
@@ -12848,12 +13073,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Esse desequilíbrio se manifesta, sobretudo, pela:",
                           "alternativas":  {
                                                "a":  "Concentração do transporte de cargas em hidrovias, dada a extensa rede fluvial do território brasileiro",
-                                               "b":  "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias",
+                                               "b":  "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país",
                                                "c":  "Predominância do modal ferroviário sobre os demais, herdada de investimentos maciços realizados ao longo de todo o século XX",
                                                "d":  "Distribuição equilibrada entre os modais rodoviário, ferroviário e hidroviário, semelhante à observada nos Estados Unidos",
-                                               "e":  "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país"
+                                               "e":  "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados. O país não teve investimento maciço em ferrovias ao longo do século XX (pelo contrário, houve desinvestimento relativo), não concentra cargas em hidrovias, e sua matriz está longe do equilíbrio observado em países como os Estados Unidos.",
                           "formato":  "direta"
                       },
@@ -12862,13 +13087,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Ferrovias e hidrovias são apontadas como modais mais eficientes para o transporte de grandes volumes de carga a longas distâncias.",
                           "enunciado":  "No Brasil, a subutilização desses modais em relação ao potencial existente resulta, principalmente, em:",
                           "alternativas":  {
-                                               "a":  "Uma concentração ainda maior da produção agrícola nas regiões litorâneas, mais próximas dos portos exportadores tradicionais",
-                                               "b":  "Uma vantagem competitiva do Brasil em relação a países que dependem de ferrovias, como os Estados Unidos, por reduzir gargalos logísticos",
-                                               "c":  "Maior dependência do transporte rodoviário para escoar grãos, o que eleva custos logísticos e o consumo de combustíveis fósseis",
-                                               "d":  "Uma redução geral dos custos logísticos do escoamento agrícola, já que rodovias exigiriam menos investimento inicial em infraestrutura",
-                                               "e":  "Um estímulo à industrialização das regiões produtoras, já que a dificuldade de escoamento incentivaria o processamento local dos grãos"
+                                               "a":  "Uma vantagem competitiva do Brasil em relação a países que dependem de ferrovias, como os Estados Unidos, por reduzir gargalos logísticos",
+                                               "b":  "Uma redução geral dos custos logísticos do escoamento agrícola, já que rodovias exigiriam menos investimento inicial em infraestrutura",
+                                               "c":  "Um estímulo à industrialização das regiões produtoras, já que a dificuldade de escoamento incentivaria o processamento local dos grãos",
+                                               "d":  "Maior dependência do transporte rodoviário para escoar grãos, o que eleva custos logísticos e o consumo de combustíveis fósseis",
+                                               "e":  "Uma concentração ainda maior da produção agrícola nas regiões litorâneas, mais próximas dos portos exportadores tradicionais"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "d",
                           "explicacao":  "A subutilização de ferrovias e hidrovias obriga grande parte da produção agrícola brasileira a ser escoada por rodovias, o que eleva os custos logísticos e o consumo de combustível. As demais alternativas invertem a lógica do problema: a dependência rodoviária eleva, não reduz, custos; não concentra a produção no litoral (ao contrário, a fronteira agrícola se expandiu para o interior); e representa uma desvantagem, não vantagem, competitiva frente a países com matriz mais equilibrada.",
                           "formato":  "direta"
                       },
@@ -12877,13 +13102,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A industrialização brasileira, sobretudo entre as décadas de 1930 e 1970, contou com forte participação do Estado.",
                           "enunciado":  "Esse processo, conhecido como modelo de substituição de importações, caracterizava-se por:",
                           "alternativas":  {
-                                               "a":  "Transferir para empresas estrangeiras a exploração de setores estratégicos como siderurgia e petróleo, retirando do Estado seu papel histórico de planejador da industrialização nacional",
+                                               "a":  "Estimular a especialização do país na exportação de manufaturados de alta tecnologia, reduzindo a produção interna de bens de consumo básico",
                                                "b":  "Ampliar a importação de bens de capital e reduzir tarifas alfandegárias para acelerar a modernização tecnológica da indústria nacional, dispensando qualquer protecionismo estatal",
-                                               "c":  "Concentrar os investimentos estatais exclusivamente na exportação de produtos primários agrícolas, sem qualquer aporte direto à indústria nacional emergente",
-                                               "d":  "Produzir internamente bens antes importados, com o Estado investindo em setores estratégicos, como siderurgia e petróleo, e protegendo a indústria com barreiras alfandegárias",
-                                               "e":  "Estimular a especialização do país na exportação de manufaturados de alta tecnologia, reduzindo a produção interna de bens de consumo básico"
+                                               "c":  "Produzir internamente bens antes importados, com o Estado investindo em setores estratégicos, como siderurgia e petróleo, e protegendo a indústria com barreiras alfandegárias",
+                                               "d":  "Concentrar os investimentos estatais exclusivamente na exportação de produtos primários agrícolas, sem qualquer aporte direto à indústria nacional emergente",
+                                               "e":  "Transferir para empresas estrangeiras a exploração de setores estratégicos como siderurgia e petróleo, retirando do Estado seu papel histórico de planejador da industrialização nacional"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "c",
                           "explicacao":  "O modelo de substituição de importações buscava reduzir a dependência externa por meio da produção interna de bens antes importados, com forte participação do Estado em setores estratégicos e proteção alfandegária. As demais alternativas descrevem o oposto do modelo: redução de tarifas, transferência a estrangeiros e foco exportador agrícola não correspondem à lógica protecionista e estatizante desse período.",
                           "formato":  "direta"
                       },
@@ -12892,13 +13117,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Nas últimas décadas, observa-se um processo de desconcentração industrial no Brasil, com a expansão de polos industriais fora do eixo tradicional Sudeste.",
                           "enunciado":  "Esse processo de desconcentração relaciona-se, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo, que teria inviabilizado a manutenção das indústrias já instaladas",
-                                               "b":  "Uma decisão do governo federal de fechar parques industriais em São Paulo para redistribuir empregos entre as regiões do país",
+                                               "a":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões",
+                                               "b":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo, que teria inviabilizado a manutenção das indústrias já instaladas",
                                                "c":  "A saturação do mercado consumidor paulista, que teria deixado de absorver a produção industrial e forçado a busca por consumidores em outras regiões",
-                                               "d":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões",
-                                               "e":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes"
+                                               "d":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes",
+                                               "e":  "Uma decisão do governo federal de fechar parques industriais em São Paulo para redistribuir empregos entre as regiões do país"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "d",
                           "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno.",
                           "formato":  "direta"
                       },
@@ -12907,13 +13132,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A segurança alimentar e nutricional é um conceito central nos estudos sobre geografia da fome, como os de Josué de Castro.",
                           "enunciado":  "Esse conceito refere-se ao direito de todas as pessoas a:",
                           "alternativas":  {
-                                               "a":  "Produzir seus próprios alimentos em regime de agricultura de subsistência, sem depender do mercado ou de programas públicos",
-                                               "b":  "Consumir apenas alimentos de origem nacional, independentemente de seu preço ou disponibilidade regional em cada época do ano",
-                                               "c":  "Receber cestas básicas doadas pelo Estado como única forma legítima de acesso à alimentação para toda a população",
-                                               "d":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
-                                               "e":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos"
+                                               "a":  "Receber cestas básicas doadas pelo Estado como única forma legítima de acesso à alimentação para toda a população",
+                                               "b":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos",
+                                               "c":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
+                                               "d":  "Consumir apenas alimentos de origem nacional, independentemente de seu preço ou disponibilidade regional em cada época do ano",
+                                               "e":  "Produzir seus próprios alimentos em regime de agricultura de subsistência, sem depender do mercado ou de programas públicos"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "c",
                           "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar.",
                           "formato":  "direta"
                       },
@@ -12922,13 +13147,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Programa Fome Zero, lançado no Brasil em 2003, reuniu um conjunto de políticas públicas de combate à fome e à pobreza.",
                           "enunciado":  "Entre as principais estratégias desse programa estava:",
                           "alternativas":  {
-                                               "a":  "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar e apoio à agricultura familiar",
-                                               "b":  "A substituição integral da produção nacional de alimentos por importações subsidiadas vindas de países vizinhos do Mercosul",
-                                               "c":  "A criação de um imposto federal sobre a produção de pequenos agricultores para financiar a distribuição de alimentos à população urbana",
-                                               "d":  "A concentração dos recursos do programa exclusivamente em subsídios à exportação de commodities agrícolas, sem foco no mercado interno",
-                                               "e":  "A criação de uma rede estatal de restaurantes populares, concebida como frente isolada e desvinculada de programas de transferência de renda"
+                                               "a":  "A substituição integral da produção nacional de alimentos por importações subsidiadas vindas de países vizinhos do Mercosul",
+                                               "b":  "A concentração dos recursos do programa exclusivamente em subsídios à exportação de commodities agrícolas, sem foco no mercado interno",
+                                               "c":  "A criação de uma rede estatal de restaurantes populares, concebida como frente isolada e desvinculada de programas de transferência de renda",
+                                               "d":  "A combinação de programas de transferência de renda, como o Bolsa Família, com ações de segurança alimentar e apoio à agricultura familiar",
+                                               "e":  "A criação de um imposto federal sobre a produção de pequenos agricultores para financiar a distribuição de alimentos à população urbana"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "O Fome Zero articulou diferentes frentes de combate à fome, incluindo transferência de renda pelo Bolsa Família, fortalecimento da agricultura familiar e ampliação do acesso à alimentação. O programa não voltou seus recursos à exportação de commodities, não substituiu a produção nacional por importações, nem se financiou por meio de um tributo sobre pequenos agricultores.",
                           "formato":  "direta"
                       },
@@ -12985,8 +13210,8 @@ window.QUESTION_BANKS = {
                                                "a":  "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
                                                "b":  "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
                                                "c":  "Estabilidade da estrutura etária brasileira, comparável à observada no Japão desde o início do século XX, sem mudanças relevantes",
-                                               "d":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira",
-                                               "e":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas"
+                                               "d":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas",
+                                               "e":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira"
                                            },
                           "resposta":  "b",
                           "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa.",
@@ -12997,13 +13222,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O envelhecimento populacional em curso no Brasil representa um desafio para políticas públicas, sobretudo porque:",
                           "alternativas":  {
-                                               "a":  "Elimina a necessidade de políticas previdenciárias, uma vez que a população idosa já está coberta integralmente pela iniciativa privada",
+                                               "a":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor",
                                                "b":  "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
-                                               "c":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
-                                               "d":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa",
-                                               "e":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor"
+                                               "c":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa",
+                                               "d":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
+                                               "e":  "Elimina a necessidade de políticas previdenciárias, uma vez que a população idosa já está coberta integralmente pela iniciativa privada"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "d",
                           "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional.",
                           "formato":  "direta"
                       },
@@ -13012,13 +13237,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Câmara dos Deputados brasileira distribui suas 513 cadeiras entre os estados de forma proporcional à população, respeitando limites mínimo e máximo por unidade da federação.",
                           "enunciado":  "Esse critério de distribuição, estudado pela geografia eleitoral, resulta em:",
                           "alternativas":  {
-                                               "a":  "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988",
-                                               "b":  "Uma sub-representação relativa de estados populosos e uma super-representação relativa de estados menos populosos, dados os limites mínimo e máximo de cadeiras",
+                                               "a":  "Uma sub-representação relativa de estados populosos e uma super-representação relativa de estados menos populosos, dados os limites mínimo e máximo de cadeiras",
+                                               "b":  "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados",
                                                "c":  "Uma vantagem sistemática para os estados do Sudeste, por concentrarem a maior parte das cadeiras mínimas garantidas a cada unidade",
                                                "d":  "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva",
-                                               "e":  "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados"
+                                               "e":  "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país.",
                           "formato":  "direta"
                       },
@@ -13027,13 +13252,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A geografia eleitoral estuda a distribuição espacial do comportamento e dos resultados eleitorais em um território.",
                           "enunciado":  "Esse campo de estudo busca, sobretudo, analisar:",
                           "alternativas":  {
-                                               "a":  "A localização física das sedes administrativas dos partidos políticos registrados no Tribunal Superior Eleitoral, sem relação com o eleitorado",
-                                               "b":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores",
-                                               "c":  "Exclusivamente a trajetória pessoal de candidatos a cargos eletivos, sem relação com a distribuição territorial dos votos ou fatores regionais",
-                                               "d":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
-                                               "e":  "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado"
+                                               "a":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
+                                               "b":  "Exclusivamente a trajetória pessoal de candidatos a cargos eletivos, sem relação com a distribuição territorial dos votos ou fatores regionais",
+                                               "c":  "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado",
+                                               "d":  "A localização física das sedes administrativas dos partidos políticos registrados no Tribunal Superior Eleitoral, sem relação com o eleitorado",
+                                               "e":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, identificando padrões territoriais do comportamento eleitoral. Não se limita a aspectos jurídicos, não trata da localização de sedes partidárias, nem se resume à biografia de candidatos.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13043,13 +13268,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O fenômeno da conurbação, observado por exemplo na Região Metropolitana de São Paulo, refere-se a:",
                           "alternativas":  {
-                                               "a":  "Separação administrativa entre bairros de um mesmo município, criada para facilitar a cobrança de tributos",
+                                               "a":  "Fusão física entre duas ou mais cidades vizinhas que crescem até seus tecidos urbanos se tornarem contínuos",
                                                "b":  "Deslocamento diário de trabalhadores entre municípios vizinhos de uma mesma região metropolitana, sem fusão de seus tecidos urbanos",
                                                "c":  "Criação de uma nova capital administrativa para substituir uma metrópole congestionada e superpovoada",
                                                "d":  "Redução da população urbana em favor do campo, observada em municípios vizinhos a uma capital em expansão",
-                                               "e":  "Fusão física entre duas ou mais cidades vizinhas que crescem até seus tecidos urbanos se tornarem contínuos"
+                                               "e":  "Separação administrativa entre bairros de um mesmo município, criada para facilitar a cobrança de tributos"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "a",
                           "explicacao":  "A conurbação ocorre quando o crescimento urbano de municípios vizinhos se funde, formando uma malha urbana contínua, como entre São Paulo e municípios como Guarulhos e Osasco. As demais alternativas descrevem processos distintos (divisão tributária interna, êxodo urbano, mudança de capital) que não correspondem ao conceito de conurbação.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13059,13 +13284,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de macrocefalia urbana descreve situações em que:",
                           "alternativas":  {
-                                               "a":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
-                                               "b":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas",
-                                               "c":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais",
-                                               "d":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
-                                               "e":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população"
+                                               "a":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas",
+                                               "b":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
+                                               "c":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população",
+                                               "d":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
+                                               "e":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13076,12 +13301,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A verticalização das grandes cidades brasileiras, marcada pela construção de edifícios cada vez mais altos, está relacionada, entre outros fatores, a:",
                           "alternativas":  {
                                                "a":  "Abundância de terrenos baratos nas áreas centrais, que reduziria o custo de construção em altura nesses bairros",
-                                               "b":  "Uma exigência legal que obriga novas construções a superarem determinada altura mínima nos centros urbanos",
-                                               "c":  "Ausência de demanda por moradia nas áreas centrais, o que levou construtoras a investir em edifícios como reserva",
-                                               "d":  "Valorização do solo urbano nas áreas centrais e bem localizadas, que estimula o aproveitamento em altura",
-                                               "e":  "A escassez de mão de obra para obras horizontais de grande extensão, que teria tornado a construção em altura a alternativa mais viável"
+                                               "b":  "A escassez de mão de obra para obras horizontais de grande extensão, que teria tornado a construção em altura a alternativa mais viável",
+                                               "c":  "Valorização do solo urbano nas áreas centrais e bem localizadas, que estimula o aproveitamento em altura",
+                                               "d":  "Uma exigência legal que obriga novas construções a superarem determinada altura mínima nos centros urbanos",
+                                               "e":  "Ausência de demanda por moradia nas áreas centrais, o que levou construtoras a investir em edifícios como reserva"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "c",
                           "explicacao":  "Em áreas urbanas valorizadas e bem servidas por infraestrutura, o alto preço do solo estimula a construção vertical, pois maximiza o aproveitamento de terrenos caros. Não há exigência legal de altura mínima, os terrenos centrais valorizados não são baratos, e a verticalização decorre da demanda por moradia bem localizada, não de sua ausência.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13092,10 +13317,10 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O fenômeno da \u0027ilha de calor urbana\u0027 ocorre porque:",
                           "alternativas":  {
                                                "a":  "As áreas urbanas, com grande concentração de asfalto, concreto e pouca vegetação, retêm e irradiam mais calor do que áreas rurais ou arborizadas ao redor",
-                                               "b":  "As cidades brasileiras estão, em sua maioria, situadas em altitudes mais baixas do que suas áreas rurais vizinhas, o que explicaria sua temperatura mais alta",
-                                               "c":  "O campo produz mais calor do que as cidades devido à decomposição de matéria orgânica na agricultura, processo mais intenso do que a retenção térmica do asfalto",
-                                               "d":  "As cidades recebem, em média, mais radiação solar direta do que as áreas rurais vizinhas, independentemente do tipo de superfície ou cobertura vegetal",
-                                               "e":  "A concentração de veículos e indústrias eleva o teor de ozônio na baixa atmosfera, sendo essa a causa direta da diferença de temperatura"
+                                               "b":  "A concentração de veículos e indústrias eleva o teor de ozônio na baixa atmosfera, sendo essa a causa direta da diferença de temperatura",
+                                               "c":  "As cidades recebem, em média, mais radiação solar direta do que as áreas rurais vizinhas, independentemente do tipo de superfície ou cobertura vegetal",
+                                               "d":  "O campo produz mais calor do que as cidades devido à decomposição de matéria orgânica na agricultura, processo mais intenso do que a retenção térmica do asfalto",
+                                               "e":  "As cidades brasileiras estão, em sua maioria, situadas em altitudes mais baixas do que suas áreas rurais vizinhas, o que explicaria sua temperatura mais alta"
                                            },
                           "resposta":  "a",
                           "explicacao":  "Superfícies impermeabilizadas como asfalto e concreto absorvem e retêm mais calor do que a vegetação, e a escassez de áreas verdes reduz a evapotranspiração que ajudaria a resfriar o ambiente. A radiação solar recebida não difere significativamente entre cidade e campo; o campo não produz mais calor por decomposição orgânica; e a diferença de temperatura não decorre de altitude, mas do tipo de superfície e ocupação do solo.",
@@ -13107,13 +13332,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O movimento pendular, estudado pela geografia urbana, refere-se a:",
                           "alternativas":  {
-                                               "a":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados, sem intenção de retornar ao país de origem",
-                                               "b":  "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
-                                               "c":  "Migração sazonal de trabalhadores rurais entre diferentes regiões do país conforme o calendário de colheitas de cada safra agrícola",
-                                               "d":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum",
-                                               "e":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia"
+                                               "a":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum",
+                                               "b":  "Migração sazonal de trabalhadores rurais entre diferentes regiões do país conforme o calendário de colheitas de cada safra agrícola",
+                                               "c":  "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
+                                               "d":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia",
+                                               "e":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados, sem intenção de retornar ao país de origem"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "d",
                           "explicacao":  "O movimento pendular caracteriza-se pelo deslocamento diário (ida e volta) de pessoas entre seu município de residência e outro, geralmente para trabalho ou estudo. As demais alternativas descrevem outros fenômenos migratórios (migração definitiva, migração sazonal agrícola, deslocamento de refugiados) que não envolvem o retorno diário característico do movimento pendular.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13123,13 +13348,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Em regiões metropolitanas brasileiras, é comum que municípios periféricos funcionem como \u0027cidades-dormitório\u0027. Esse padrão de ocupação está associado a:",
                           "alternativas":  {
-                                               "a":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos",
+                                               "a":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários",
                                                "b":  "Uma política de incentivo fiscal que atraiu indústrias de alta tecnologia para esses municípios periféricos, gerando empregos locais qualificados, padrão observado desde a década de 1990",
-                                               "c":  "Uma concentração de sedes de grandes empresas nesses municípios, que atraem moradores de toda a região metropolitana em busca de emprego local",
-                                               "d":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários",
-                                               "e":  "Um processo de desconcentração industrial planejado, que transferiu plantas produtivas do município-polo para a periferia metropolitana"
+                                               "c":  "Um processo de desconcentração industrial planejado, que transferiu plantas produtivas do município-polo para a periferia metropolitana",
+                                               "d":  "Uma concentração de sedes de grandes empresas nesses municípios, que atraem moradores de toda a região metropolitana em busca de emprego local",
+                                               "e":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "e",
                           "explicacao":  "Cidades-dormitório concentram grande parte de sua população trabalhadora, mas oferecem poucas oportunidades de emprego e serviços especializados, refletindo a segregação socioespacial que obriga a deslocamentos pendulares diários. Não há concentração de sedes empresariais, nem oferta de emprego equivalente ao polo metropolitano, nem indústrias de alta tecnologia atraídas por incentivo fiscal nesses municípios.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13142,8 +13367,8 @@ window.QUESTION_BANKS = {
                                                "a":  "Queda constante do valor dos imóveis em áreas centrais, causada pela saída de comércios, serviços e moradores tradicionais do bairro",
                                                "b":  "Valorização imobiliária de uma área, associada à chegada de moradores de maior renda e à expulsão dos moradores originais de menor renda",
                                                "c":  "Construção de conjuntos habitacionais populares em bairros nobres, financiada integralmente por incorporadoras privadas do setor imobiliário",
-                                               "d":  "Uma política pública que reserva legalmente bairros centrais para moradia exclusiva de famílias de baixa renda, vedando qualquer outro uso",
-                                               "e":  "Ocupação de imóveis centrais desocupados por movimentos de moradia, que passam a reivindicar a função social da propriedade urbana"
+                                               "d":  "Ocupação de imóveis centrais desocupados por movimentos de moradia, que passam a reivindicar a função social da propriedade urbana",
+                                               "e":  "Uma política pública que reserva legalmente bairros centrais para moradia exclusiva de famílias de baixa renda, vedando qualquer outro uso"
                                            },
                           "resposta":  "b",
                           "explicacao":  "A gentrificação é o processo pelo qual bairros populares atraem investimentos, comércios e moradores de maior poder aquisitivo, elevando o custo de vida e o preço dos imóveis a ponto de expulsar, direta ou indiretamente, a população originalmente residente. As demais alternativas descrevem processos opostos ou não relacionados: reserva legal para baixa renda, queda de valor imobiliário, ou construção popular em bairros nobres.",
@@ -13171,13 +13396,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Nas últimas décadas, observa-se no Brasil um crescimento relativamente maior das chamadas \u0027cidades médias\u0027 (com população entre cerca de 100 mil e 500 mil habitantes) em comparação com as grandes metrópoles. Esse fenômeno está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma determinação legal que limita o crescimento populacional das capitais estaduais brasileiras desde meados da década de 1990",
+                                               "a":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas",
                                                "b":  "Uma redução da oferta de empregos industriais nas cidades médias, que passaram a depender exclusivamente do setor primário e do comércio local",
-                                               "c":  "Busca por melhor qualidade de vida, menor custo e problemas de mobilidade e segurança nas grandes metrópoles, associada à desconcentração de atividades econômicas",
-                                               "d":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas",
+                                               "c":  "Uma determinação legal que limita o crescimento populacional das capitais estaduais brasileiras desde meados da década de 1990",
+                                               "d":  "Busca por melhor qualidade de vida, menor custo e problemas de mobilidade e segurança nas grandes metrópoles, associada à desconcentração de atividades econômicas",
                                                "e":  "A transferência de capitais estaduais para cidades do interior, política adotada por diversos estados a partir dos anos 2000"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "d",
                           "explicacao":  "Cidades médias vêm atraindo moradores e empresas que buscam fugir de problemas típicos das grandes metrópoles, como trânsito e alto custo de vida, ao mesmo tempo em que a desconcentração de atividades amplia oportunidades nesses centros. Não existe limite legal ao crescimento das capitais, as cidades médias não perderam empregos industriais em favor do setor primário, e a população total do país não está em queda.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13187,13 +13412,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Embora frequentemente associados, \u0027favela\u0027 e \u0027loteamento irregular\u0027 não são sinônimos na geografia urbana. A principal diferença conceitual entre eles está no fato de que:",
                           "alternativas":  {
-                                               "a":  "A favela é sempre formada a partir de um parcelamento legal do solo, posteriormente revogado pela prefeitura por decisão administrativa arbitrária",
-                                               "b":  "A favela caracteriza-se pela ocupação espontânea de terrenos sem propriedade formal, enquanto o loteamento irregular envolve venda de lotes sem registro urbanístico",
+                                               "a":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas",
+                                               "b":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares",
                                                "c":  "Os dois termos se aplicam apenas a áreas rurais, nunca a contextos urbanos ou a regiões metropolitanas mais densamente povoadas e industrializadas",
-                                               "d":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares",
-                                               "e":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas"
+                                               "d":  "A favela é sempre formada a partir de um parcelamento legal do solo, posteriormente revogado pela prefeitura por decisão administrativa arbitrária",
+                                               "e":  "A favela caracteriza-se pela ocupação espontânea de terrenos sem propriedade formal, enquanto o loteamento irregular envolve venda de lotes sem registro urbanístico"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "A favela resulta de ocupação espontânea de terrenos, sem processo formal de parcelamento; o loteamento irregular refere-se a áreas cujo parcelamento (venda de lotes) não seguiu as exigências legais, mesmo havendo transação comercial. A favela não decorre de revogação de um parcelamento antes legal, o loteamento irregular não se limita a áreas de proteção ambiental, e ambos os termos são tipicamente urbanos, não rurais.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13203,11 +13428,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Nas últimas décadas, tem-se observado um fluxo de \u0027migração de retorno\u0027, em que descendentes de nordestinos que migraram para o Sudeste no século XX passam a retornar ao Nordeste. Esse movimento está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma crise econômica generalizada no Sudeste que eliminou por completo as oportunidades de emprego industrial e urbano na região",
+                                               "a":  "A ampliação das vagas em universidades federais no Nordeste, responsável pela maior parte do fluxo de retorno registrado no período",
                                                "b":  "Uma política federal que exige a repatriação de trabalhadores nascidos no Nordeste após determinada idade, por lei específica",
-                                               "c":  "A escassez de infraestrutura de transporte entre as duas regiões, que passou a inviabilizar viagens de ida ao Sudeste desde os anos 2000, quadro agravado por cortes orçamentários",
+                                               "c":  "Uma crise econômica generalizada no Sudeste que eliminou por completo as oportunidades de emprego industrial e urbano na região",
                                                "d":  "Melhoria relativa da economia de estados nordestinos, expansão do turismo e do agronegócio irrigado na região, além do desejo de reaproximação com a terra natal",
-                                               "e":  "A ampliação das vagas em universidades federais no Nordeste, responsável pela maior parte do fluxo de retorno registrado no período"
+                                               "e":  "A escassez de infraestrutura de transporte entre as duas regiões, que passou a inviabilizar viagens de ida ao Sudeste desde os anos 2000, quadro agravado por cortes orçamentários"
                                            },
                           "resposta":  "d",
                           "explicacao":  "O fortalecimento de setores como turismo, agronegócio irrigado e polos industriais em estados nordestinos, somado ao desejo de retorno à terra natal, impulsiona esse fluxo. Não houve colapso total das oportunidades no Sudeste, não existe política federal de repatriação compulsória, e a infraestrutura de transporte entre as regiões não se deteriorou a ponto de explicar o fenômeno.",
@@ -13220,9 +13445,9 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Esse tipo de conurbação internacional favorece, entre outros fenômenos:",
                           "alternativas":  {
                                                "a":  "O fim da necessidade de qualquer controle aduaneiro entre os dois países, dada a simples proximidade física entre as duas cidades-gêmeas",
-                                               "b":  "Uma redução do fluxo de pessoas e mercadorias entre os dois lados, em razão da presença de duas moedas e legislações distintas",
-                                               "c":  "A fusão jurídica dos dois municípios em um único território soberano, administrado conjuntamente pelos dois países vizinhos",
-                                               "d":  "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
+                                               "b":  "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
+                                               "c":  "Uma redução do fluxo de pessoas e mercadorias entre os dois lados, em razão da presença de duas moedas e legislações distintas",
+                                               "d":  "A fusão jurídica dos dois municípios em um único território soberano, administrado conjuntamente pelos dois países vizinhos",
                                                "e":  "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
                                            },
                           "resposta":  "e",
@@ -13235,13 +13460,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A partir da década de 2010, o Brasil recebeu fluxos significativos de imigrantes haitianos e, posteriormente, venezuelanos, este último grupo sobretudo pela fronteira com Roraima. Esses movimentos migratórios foram motivados, entre outros fatores, por:",
                           "alternativas":  {
-                                               "a":  "Crises políticas, econômicas e humanitárias nos países de origem, como o terremoto no Haiti e o colapso econômico na Venezuela, que impulsionaram a migração",
-                                               "b":  "A busca por melhores condições climáticas por parte dos imigrantes, já que Roraima apresentaria clima semelhante ao caribenho de origem",
+                                               "a":  "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil",
+                                               "b":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais",
                                                "c":  "Um acordo bilateral entre Brasil e Venezuela que garantiu cidadania automática a venezuelanos que cruzassem a fronteira em Roraima a partir de 2010",
-                                               "d":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais",
-                                               "e":  "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil"
+                                               "d":  "Crises políticas, econômicas e humanitárias nos países de origem, como o terremoto no Haiti e o colapso econômico na Venezuela, que impulsionaram a migração",
+                                               "e":  "A busca por melhores condições climáticas por parte dos imigrantes, já que Roraima apresentaria clima semelhante ao caribenho de origem"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "A migração haitiana intensificou-se após o terremoto de 2010, enquanto a migração venezuelana decorreu do colapso econômico e da crise política no país, levando à busca por refúgio e melhores condições no Brasil. Não houve acordo de cidadania automática, nem campanha de recrutamento direto por empresas brasileiras, e a motivação central não foi climática.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13251,13 +13476,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Diante do grande fluxo de imigrantes venezuelanos concentrado em Roraima, o governo brasileiro implementou a chamada \u0027interiorização\u0027, por meio da Operação Acolhida. Essa política teve como principal objetivo:",
                           "alternativas":  {
-                                               "a":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
-                                               "b":  "Restringir a permanência de imigrantes venezuelanos apenas ao estado de Roraima, impedindo seu deslocamento a outras unidades da federação",
-                                               "c":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
+                                               "a":  "Restringir a permanência de imigrantes venezuelanos apenas ao estado de Roraima, impedindo seu deslocamento a outras unidades da federação",
+                                               "b":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
+                                               "c":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
                                                "d":  "Conceder automaticamente cidadania brasileira a todo imigrante venezuelano que aceitasse se mudar para outro estado da federação brasileira",
                                                "e":  "Concentrar o atendimento aos imigrantes em abrigos federais instalados na faixa de fronteira, sem deslocamento para outros estados"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "A Operação Acolhida, iniciada em 2018, buscou prestar assistência humanitária e promover a interiorização voluntária de imigrantes venezuelanos para outros estados, aliviando a sobrecarga sobre Roraima e ampliando as chances de inserção social e no mercado de trabalho. A política não restringiu a permanência a Roraima, não concedeu cidadania automática, nem teve como objetivo o retorno ao país de origem.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13267,13 +13492,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A descoberta e exploração das reservas de petróleo do pré-sal, localizadas em águas profundas do litoral brasileiro, representou:",
                           "alternativas":  {
-                                               "a":  "A descoberta de reservas de gás de xisto em substituição às reservas convencionais de petróleo do país, alterando a matriz energética",
+                                               "a":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional",
                                                "b":  "A viabilização da exportação de petróleo refinado em larga escala, com o país deixando de importar derivados a partir da década de 2010",
-                                               "c":  "Uma redução da participação do petróleo na matriz energética brasileira, em favor de fontes renováveis e do gás natural",
-                                               "d":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica",
-                                               "e":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional"
+                                               "c":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica",
+                                               "d":  "Uma redução da participação do petróleo na matriz energética brasileira, em favor de fontes renováveis e do gás natural",
+                                               "e":  "A descoberta de reservas de gás de xisto em substituição às reservas convencionais de petróleo do país, alterando a matriz energética"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "a",
                           "explicacao":  "O pré-sal corresponde a reservas de petróleo e gás natural em águas muito profundas do litoral brasileiro, cuja exploração ampliou significativamente as reservas provadas do país. Não se trata de gás de xisto, não reduziu a participação do petróleo na matriz energética (ao contrário, reforçou-a), e as reservas do pré-sal estão concentradas no litoral sudeste, não na Bacia Amazônica.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13299,10 +13524,10 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O Brasil é um dos maiores exportadores mundiais de minério de ferro, com destaque para as jazidas localizadas em Minas Gerais e no Pará (Serra dos Carajás). Essa posição de destaque no comércio internacional está relacionada, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma reserva de mercado instituída por lei que impede a entrada de minério importado no comércio internacional",
-                                               "b":  "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
+                                               "a":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul, firmado no âmbito do Mercosul em 1995",
+                                               "b":  "Uma reserva de mercado instituída por lei que impede a entrada de minério importado no comércio internacional",
                                                "c":  "A abundância e a qualidade das reservas brasileiras de minério de ferro, combinadas com investimentos em infraestrutura logística",
-                                               "d":  "Um acordo internacional que concede ao Brasil exclusividade na exploração de minério de ferro na América do Sul, firmado no âmbito do Mercosul em 1995",
+                                               "d":  "O esgotamento simultâneo das principais reservas de minério de ferro na Austrália, maior concorrente do Brasil",
                                                "e":  "A proximidade das jazidas em relação aos principais mercados consumidores asiáticos, que reduziria o custo do frete marítimo"
                                            },
                           "resposta":  "c",
@@ -13331,11 +13556,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O Brasil, sobretudo a região Nordeste, tem se destacado na geração de energia eólica nas últimas décadas. Esse destaque está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Um incentivo fiscal federal que restringe a instalação de parques eólicos exclusivamente aos estados nordestinos",
+                                               "a":  "A menor densidade populacional do Nordeste em comparação às demais regiões, fator determinante para a escolha dos locais de instalação",
                                                "b":  "Condições climáticas favoráveis, com ventos constantes e intensos ao longo do ano, especialmente na faixa litorânea",
-                                               "c":  "A menor densidade populacional do Nordeste em comparação às demais regiões, fator determinante para a escolha dos locais de instalação",
+                                               "c":  "O relevo predominantemente montanhoso da faixa litorânea nordestina, que aceleraria as correntes de ar sobre os parques instalados",
                                                "d":  "Uma legislação federal que proibiu a instalação de novas hidrelétricas na região Nordeste a partir da década de 2000",
-                                               "e":  "O relevo predominantemente montanhoso da faixa litorânea nordestina, que aceleraria as correntes de ar sobre os parques instalados"
+                                               "e":  "Um incentivo fiscal federal que restringe a instalação de parques eólicos exclusivamente aos estados nordestinos"
                                            },
                           "resposta":  "b",
                           "explicacao":  "A região Nordeste apresenta condições naturais favoráveis à geração eólica, com ventos constantes e intensos, especialmente na faixa litorânea. Não há restrição fiscal exclusiva à região, não houve proibição legal de hidrelétricas no Nordeste, e a densidade populacional não é o fator determinante para a escolha dos parques eólicos — o regime de ventos é o fator central.",
@@ -13363,13 +13588,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A produção brasileira de etanol a partir da cana-de-açúcar é apontada como um exemplo de:",
                           "alternativas":  {
-                                               "a":  "Biocombustível renovável, alternativo aos combustíveis fósseis, amplamente utilizado na frota de veículos flex",
-                                               "b":  "Insumo cuja produção foi oficialmente proibida no Brasil após a popularização dos veículos elétricos",
-                                               "c":  "Fonte de energia utilizada exclusivamente na geração de eletricidade em usinas termelétricas a gás",
-                                               "d":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro",
-                                               "e":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso"
+                                               "a":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro",
+                                               "b":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso",
+                                               "c":  "Biocombustível renovável, alternativo aos combustíveis fósseis, amplamente utilizado na frota de veículos flex",
+                                               "d":  "Fonte de energia utilizada exclusivamente na geração de eletricidade em usinas termelétricas a gás",
+                                               "e":  "Insumo cuja produção foi oficialmente proibida no Brasil após a popularização dos veículos elétricos"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "c",
                           "explicacao":  "O etanol produzido a partir da cana-de-açúcar é um biocombustível renovável, alternativo à gasolina, amplamente utilizado no Brasil, sobretudo após a popularização dos veículos flex. Não é um combustível fóssil, não se restringe à geração termelétrica de eletricidade, e sua produção não foi proibida com a chegada dos veículos elétricos.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13379,13 +13604,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O chamado \u0027hidrogênio verde\u0027, produzido a partir da eletrólise da água utilizando energia renovável (como a eólica e a solar), tem sido apontado como uma tecnologia promissora para a transição energética porque:",
                           "alternativas":  {
-                                               "a":  "Depende exclusivamente de reservas de gás natural para sua obtenção em escala industrial, dispensando o processo de eletrólise",
-                                               "b":  "É produzido a partir da queima direta de carvão mineral em altas temperaturas, sem qualquer uso de eletricidade no processo",
-                                               "c":  "Substitui integralmente a necessidade de qualquer fonte de energia elétrica em todos os setores da economia nacional e industrial",
-                                               "d":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono",
-                                               "e":  "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas"
+                                               "a":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono",
+                                               "b":  "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas",
+                                               "c":  "Depende exclusivamente de reservas de gás natural para sua obtenção em escala industrial, dispensando o processo de eletrólise",
+                                               "d":  "Substitui integralmente a necessidade de qualquer fonte de energia elétrica em todos os setores da economia nacional e industrial",
+                                               "e":  "É produzido a partir da queima direta de carvão mineral em altas temperaturas, sem qualquer uso de eletricidade no processo"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "O hidrogênio verde é obtido pela eletrólise da água usando eletricidade de fontes renováveis, sem emitir gases de efeito estufa, podendo ser usado em setores difíceis de eletrificar diretamente, como a indústria pesada e o transporte marítimo. Não substitui toda fonte elétrica, não decorre da queima de carvão, e não depende de gás natural para sua produção característica.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13395,13 +13620,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O Brasil possui usinas nucleares em operação, localizadas em Angra dos Reis (RJ). Apesar de sua relevância tecnológica, a energia nuclear representa uma parcela:",
                           "alternativas":  {
-                                               "a":  "Pequena da matriz elétrica brasileira, que é majoritariamente composta por fontes hidrelétricas e outras renováveis",
-                                               "b":  "Equivalente à participação da energia nuclear na matriz elétrica da França, um dos países mais dependentes dessa fonte",
-                                               "c":  "Majoritária da matriz elétrica brasileira, superior à soma de todas as demais fontes combinadas, inclusive a hidrelétrica",
-                                               "d":  "Exclusiva, sendo Angra a única usina de geração de eletricidade em operação em todo o território nacional",
-                                               "e":  "Crescente e já superior à da energia eólica na geração nacional, resultado da entrada em operação de novas unidades"
+                                               "a":  "Majoritária da matriz elétrica brasileira, superior à soma de todas as demais fontes combinadas, inclusive a hidrelétrica",
+                                               "b":  "Crescente e já superior à da energia eólica na geração nacional, resultado da entrada em operação de novas unidades",
+                                               "c":  "Equivalente à participação da energia nuclear na matriz elétrica da França, um dos países mais dependentes dessa fonte",
+                                               "d":  "Pequena da matriz elétrica brasileira, que é majoritariamente composta por fontes hidrelétricas e outras renováveis",
+                                               "e":  "Exclusiva, sendo Angra a única usina de geração de eletricidade em operação em todo o território nacional"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "Apesar de o Brasil dominar a tecnologia nuclear e operar Angra 1 e Angra 2, essa fonte representa uma parcela pequena da matriz elétrica nacional, majoritariamente composta por fontes renováveis. A participação nuclear brasileira está longe de ser majoritária, é muito inferior à da França (um dos países mais dependentes dessa fonte no mundo), e o país opera diversas outras usinas além de Angra.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13510,8 +13735,8 @@ window.QUESTION_BANKS = {
                                                "a":  "O aquecimento global aumenta a probabilidade e a intensidade média de eventos extremos, mesmo que um evento isolado tenha múltiplas causas",
                                                "b":  "Eventos extremos estão se tornando cada vez mais raros à medida que a temperatura média do planeta aumenta globalmente",
                                                "c":  "A frequência de eventos extremos varia de forma aleatória, sem qualquer relação estatística com o aquecimento global",
-                                               "d":  "Todo evento climático extremo recente decorre exclusivamente do aquecimento global, sem qualquer outro fator meteorológico envolvido",
-                                               "e":  "A ciência do clima relaciona o aquecimento apenas a médias de longo prazo, sem fazer inferências sobre eventos individuais"
+                                               "d":  "A ciência do clima relaciona o aquecimento apenas a médias de longo prazo, sem fazer inferências sobre eventos individuais",
+                                               "e":  "Todo evento climático extremo recente decorre exclusivamente do aquecimento global, sem qualquer outro fator meteorológico envolvido"
                                            },
                           "resposta":  "a",
                           "explicacao":  "A relação entre um evento extremo isolado e o aquecimento global é estatística: o aquecimento aumenta a probabilidade e, em muitos casos, a intensidade média de eventos como ondas de calor e chuvas extremas ao longo do tempo, ainda que um evento específico possa ter múltiplas causas locais. Não é correto afirmar causa exclusiva, nem que eventos extremos estão ficando mais raros, nem que não há relação estatística alguma com o aquecimento.",
@@ -13523,13 +13748,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027pegada de carbono\u0027 refere-se a:",
                           "alternativas":  {
-                                               "a":  "Uma unidade oficial de medida de temperatura, adotada por climatologistas em substituição ao grau Celsius",
-                                               "b":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões",
-                                               "c":  "Um índice que mede apenas as emissões de carbono provenientes do transporte aéreo internacional",
-                                               "d":  "Uma medida da quantidade total de gases de efeito estufa emitidos, direta ou indiretamente, por uma atividade ou produto",
-                                               "e":  "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções"
+                                               "a":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões",
+                                               "b":  "Uma unidade oficial de medida de temperatura, adotada por climatologistas em substituição ao grau Celsius",
+                                               "c":  "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções",
+                                               "d":  "Um índice que mede apenas as emissões de carbono provenientes do transporte aéreo internacional",
+                                               "e":  "Uma medida da quantidade total de gases de efeito estufa emitidos, direta ou indiretamente, por uma atividade ou produto"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "e",
                           "explicacao":  "A pegada de carbono é um indicador que estima o total de gases de efeito estufa emitidos, direta ou indiretamente, por uma pessoa, empresa, produto ou atividade. Não é uma unidade de temperatura, não se limita à área desmatada, e não se restringe às emissões do transporte aéreo — abrange qualquer fonte de emissão.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13571,11 +13796,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027economia circular\u0027, cada vez mais discutido em políticas ambientais, propõe substituir o modelo linear tradicional de produção e consumo (extrair, produzir, descartar) por um modelo em que:",
                           "alternativas":  {
-                                               "a":  "A produção de bens duráveis é substituída integralmente pela produção de bens descartáveis de uso único, sem retorno",
-                                               "b":  "A extração de recursos naturais passa a ser feita em ritmo acelerado, compensada apenas pelo aumento da reciclagem final, modelo adotado por parte da indústria de mineração",
+                                               "a":  "O consumo é redirecionado exclusivamente para produtos importados, reduzindo a produção industrial doméstica do país",
+                                               "b":  "Os resíduos gerados passam a ser destinados a aterros controlados, com tratamento prévio antes da disposição final",
                                                "c":  "Materiais e produtos são reutilizados, reparados, remanufaturados e reciclados, prolongando seu ciclo de vida e reduzindo a extração de recursos",
-                                               "d":  "O consumo é redirecionado exclusivamente para produtos importados, reduzindo a produção industrial doméstica do país",
-                                               "e":  "Os resíduos gerados passam a ser destinados a aterros controlados, com tratamento prévio antes da disposição final"
+                                               "d":  "A extração de recursos naturais passa a ser feita em ritmo acelerado, compensada apenas pelo aumento da reciclagem final, modelo adotado por parte da indústria de mineração",
+                                               "e":  "A produção de bens duráveis é substituída integralmente pela produção de bens descartáveis de uso único, sem retorno"
                                            },
                           "resposta":  "c",
                           "explicacao":  "A economia circular propõe romper com o modelo linear de extrair, produzir e descartar, mantendo produtos e materiais em uso pelo maior tempo possível por meio de reutilização, reparo, remanufatura e reciclagem. Não propõe mais descartáveis, não aceita extração acelerada compensada só ao final do ciclo, e não trata da origem nacional ou importada dos produtos.",
@@ -13587,13 +13812,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Embora frequentemente associados, \u0027desmatamento\u0027 e \u0027queimada\u0027 não são sinônimos. A distinção entre esses dois conceitos está no fato de que:",
                           "alternativas":  {
-                                               "a":  "O desmatamento só pode ser identificado por satélite quando acompanhado simultaneamente de queimada visível no mesmo local",
-                                               "b":  "O desmatamento é a remoção completa da cobertura florestal, enquanto a queimada é o uso do fogo, que ocorre também em floresta ainda em pé",
-                                               "c":  "A queimada é sempre um fenômeno espontâneo da vegetação nativa, sem qualquer intervenção humana direta ou indireta local",
-                                               "d":  "Os dois processos ocorrem exclusivamente em biomas de vegetação rasteira, como o Cerrado e o Pampa gaúcho, nunca em florestas",
-                                               "e":  "A queimada corresponde à etapa que antecede a remoção mecânica da vegetação, sendo ambas fases de um mesmo processo produtivo"
+                                               "a":  "A queimada é sempre um fenômeno espontâneo da vegetação nativa, sem qualquer intervenção humana direta ou indireta local",
+                                               "b":  "Os dois processos ocorrem exclusivamente em biomas de vegetação rasteira, como o Cerrado e o Pampa gaúcho, nunca em florestas",
+                                               "c":  "O desmatamento só pode ser identificado por satélite quando acompanhado simultaneamente de queimada visível no mesmo local",
+                                               "d":  "A queimada corresponde à etapa que antecede a remoção mecânica da vegetação, sendo ambas fases de um mesmo processo produtivo",
+                                               "e":  "O desmatamento é a remoção completa da cobertura florestal, enquanto a queimada é o uso do fogo, que ocorre também em floresta ainda em pé"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "O desmatamento é a remoção completa e geralmente definitiva da cobertura florestal; a queimada é o uso do fogo, que pode ocorrer em áreas já desmatadas (manejo de pastagens) ou, ilegalmente, para acelerar o próprio desmatamento de floresta em pé. Queimadas nem sempre são espontâneas (muitas são criminosas), o desmatamento pode ser monitorado por satélite mesmo sem queimada simultânea, e ambos os processos ocorrem também em florestas densas, como a Amazônia.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13603,13 +13828,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Um gráfico de linhas mostra a taxa anual de desmatamento na Amazônia Legal brasileira (em km² desmatados por ano), medida pelo sistema de monitoramento do INPE, ao longo de 4 anos consecutivos: Ano 1: 10.000 km²; Ano 2: 8.000 km²; Ano 3: 7.000 km²; Ano 4: 9.000 km².",
                           "enunciado":  "Com base nesse gráfico, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "A área total de floresta desmatada ao longo desses 4 anos foi de 34.000 km², e houve novo aumento no Ano 4 após a redução até o Ano 3",
-                                               "b":  "A área de floresta amazônica aumentou ao longo desses 4 anos, já que todos os valores do gráfico são positivos",
+                                               "a":  "A soma dos quatro anos supera 40.000 km², o que indica média anual acima de 10.000 km² no período analisado",
+                                               "b":  "O valor do Ano 3 (7.000 km²) representa o menor patamar de desmatamento já registrado na série histórica da Amazônia Legal",
                                                "c":  "A queda registrada entre o Ano 1 e o Ano 3 garante que a tendência de redução do desmatamento se manterá nos anos seguintes",
-                                               "d":  "O valor do Ano 3 (7.000 km²) representa o menor patamar de desmatamento já registrado na série histórica da Amazônia Legal",
-                                               "e":  "A soma dos quatro anos supera 40.000 km², o que indica média anual acima de 10.000 km² no período analisado"
+                                               "d":  "A área total de floresta desmatada ao longo desses 4 anos foi de 34.000 km², e houve novo aumento no Ano 4 após a redução até o Ano 3",
+                                               "e":  "A área de floresta amazônica aumentou ao longo desses 4 anos, já que todos os valores do gráfico são positivos"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "Somando os valores anuais: 10.000+8.000+7.000+9.000=34.000 km² de área desmatada. Embora a taxa tenha caído do Ano 1 ao Ano 3, ela voltou a subir no Ano 4, mostrando que uma tendência recente de queda não garante continuidade — o que invalida a alternativa que assume continuidade automática da tendência. O gráfico mostra desmatamento positivo em todos os anos, não crescimento florestal, e nada nos dados apresentados permite afirmar que o Ano 3 é o menor valor de toda a série histórica, apenas dessa amostra de 4 anos.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13620,12 +13845,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O desmatamento da Amazônia é frequentemente associado a impactos que vão além da própria região, relacionados ao fenômeno conhecido como \u0027rios voadores\u0027. Esse fenômeno refere-se a:",
                           "alternativas":  {
                                                "a":  "Um fenômeno observado apenas durante a estação seca, quando a evapotranspiração da floresta é interrompida",
-                                               "b":  "Um sistema de canais artificiais construídos para permitir a navegação aérea de embarcações sobre a floresta amazônica",
-                                               "c":  "Grandes volumes de vapor d\u0027água liberados pela floresta amazônica por evapotranspiração, transportados pelos ventos até o Centro-Sul",
-                                               "d":  "Rios subterrâneos amazônicos que desaguam diretamente na atmosfera por meio de gêiseres naturais",
-                                               "e":  "Correntes marítimas do Atlântico que transportam umidade da costa norte até o interior do continente, alimentando as chuvas do Centro-Sul"
+                                               "b":  "Rios subterrâneos amazônicos que desaguam diretamente na atmosfera por meio de gêiseres naturais",
+                                               "c":  "Um sistema de canais artificiais construídos para permitir a navegação aérea de embarcações sobre a floresta amazônica",
+                                               "d":  "Correntes marítimas do Atlântico que transportam umidade da costa norte até o interior do continente, alimentando as chuvas do Centro-Sul",
+                                               "e":  "Grandes volumes de vapor d\u0027água liberados pela floresta amazônica por evapotranspiração, transportados pelos ventos até o Centro-Sul"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "Os \u0027rios voadores\u0027 são grandes massas de vapor d\u0027água liberadas pela floresta amazônica por evapotranspiração, transportadas pelos ventos e que contribuem para o regime de chuvas em regiões distantes, como o Centro-Sul do Brasil. Não se trata de canais artificiais, nem de rios subterrâneos ligados a gêiseres, e o fenômeno é mais intenso durante o período de maior atividade da floresta, não interrompido na estação seca.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13651,11 +13876,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A poluição do ar em grandes centros urbanos, causada principalmente pela emissão de gases por veículos automotores e indústrias, está associada a:",
                           "alternativas":  {
-                                               "a":  "Uma redução da temperatura média das cidades, já que partículas em suspensão bloqueiam parte da radiação solar durante todo o ano",
+                                               "a":  "Uma redução da incidência de doenças infecciosas, já que os poluentes atmosféricos inibiriam a proliferação de vetores urbanos",
                                                "b":  "Um fenômeno restrito a cidades de clima frio, sem relevância em centros urbanos de clima tropical",
                                                "c":  "Aumento de doenças respiratórias e cardiovasculares na população exposta, além de contribuir para o efeito estufa e o aquecimento global",
-                                               "d":  "Uma melhoria geral da qualidade do ar em áreas centrais, em comparação às áreas rurais adjacentes",
-                                               "e":  "Uma redução da incidência de doenças infecciosas, já que os poluentes atmosféricos inibiriam a proliferação de vetores urbanos"
+                                               "d":  "Uma redução da temperatura média das cidades, já que partículas em suspensão bloqueiam parte da radiação solar durante todo o ano",
+                                               "e":  "Uma melhoria geral da qualidade do ar em áreas centrais, em comparação às áreas rurais adjacentes"
                                            },
                           "resposta":  "c",
                           "explicacao":  "A poluição atmosférica urbana está associada ao aumento de doenças respiratórias e cardiovasculares, além de conter gases de efeito estufa que contribuem para o aquecimento global. O efeito de resfriamento por aerossóis é local e temporário, não um padrão geral; a qualidade do ar em centros urbanos costuma ser pior, não melhor, do que em áreas rurais; e o problema afeta cidades de clima tropical tanto quanto as de clima frio.",
@@ -13667,13 +13892,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Dados aproximados do Sistema Nacional de Informações sobre Saneamento (SNIS) indicam que, embora a cobertura de abastecimento de água tratada no Brasil ultrapasse 85% da população, a cobertura de coleta de esgoto é significativamente menor, ficando perto de 55% da população, com disparidades regionais ainda maiores.",
                           "enunciado":  "Considerando esses dados aproximados, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação, sobretudo nos estados do Norte e Nordeste",
-                                               "b":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação, ainda que exijam fontes de financiamento distintas",
-                                               "c":  "O avanço do esgoto depende apenas de investimento municipal, enquanto o da água tratada é atribuição federal, o que explicaria a diferença observada",
+                                               "a":  "O avanço do esgoto depende apenas de investimento municipal, enquanto o da água tratada é atribuição federal, o que explicaria a diferença observada",
+                                               "b":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes",
+                                               "c":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação, sobretudo nos estados do Norte e Nordeste",
                                                "d":  "A cobertura de coleta de esgoto no Brasil é maior do que a de abastecimento de água tratada em todas as regiões do país, sobretudo nas regiões metropolitanas",
-                                               "e":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes"
+                                               "e":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação, ainda que exijam fontes de financiamento distintas"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "b",
                           "explicacao":  "Os dados evidenciam uma defasagem histórica maior no saneamento de esgoto em comparação ao abastecimento de água tratada, contribuindo para contaminação de corpos d\u0027água e doenças de veiculação hídrica. A cobertura de esgoto é, na verdade, menor que a de água (não maior), há disparidades regionais expressivas (não distribuição idêntica), e as duas redes não avançam necessariamente no mesmo ritmo, já que exigem investimentos e tecnologias distintas.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13683,13 +13908,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O uso intensivo de agrotóxicos na agricultura brasileira, sobretudo em grandes monoculturas de exportação, é frequentemente apontado por ambientalistas e pesquisadores como um fator associado a:",
                           "alternativas":  {
-                                               "a":  "Um efeito restrito unicamente às plantações onde são diretamente aplicados, sem qualquer dispersão para solo ou água adjacentes, mesmo em áreas de cultivo irrigado",
-                                               "b":  "Contaminação de solos, cursos d\u0027água e alimentos, além de riscos à saúde de trabalhadores rurais e de populações residentes próximas às áreas de cultivo",
-                                               "c":  "Uma melhoria automática da qualidade dos solos, já que compensam a perda de nutrientes causada pela monocultura, conforme apontam alguns estudos do setor",
-                                               "d":  "Uma redução comprovada e permanente da produtividade agrícola nas áreas onde são aplicados, mesmo com o uso continuado por décadas",
-                                               "e":  "Um risco concentrado no momento da aplicação, que se dissiparia após o período de carência definido para cada cultura"
+                                               "a":  "Contaminação de solos, cursos d\u0027água e alimentos, além de riscos à saúde de trabalhadores rurais e de populações residentes próximas às áreas de cultivo",
+                                               "b":  "Uma redução comprovada e permanente da produtividade agrícola nas áreas onde são aplicados, mesmo com o uso continuado por décadas",
+                                               "c":  "Um risco concentrado no momento da aplicação, que se dissiparia após o período de carência definido para cada cultura",
+                                               "d":  "Um efeito restrito unicamente às plantações onde são diretamente aplicados, sem qualquer dispersão para solo ou água adjacentes, mesmo em áreas de cultivo irrigado",
+                                               "e":  "Uma melhoria automática da qualidade dos solos, já que compensam a perda de nutrientes causada pela monocultura, conforme apontam alguns estudos do setor"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "O uso intensivo de agrotóxicos é apontado como fator de risco para contaminação de solos e cursos d\u0027água, além de riscos à saúde de trabalhadores rurais e comunidades próximas. Esse uso está historicamente associado a ganhos, não redução, de produtividade no agronegócio; não melhora a qualidade do solo por si só; e seus efeitos podem se dispersar para além da área de aplicação direta, via solo e água.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13699,11 +13924,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Código Florestal brasileiro estabelece a exigência de manutenção de uma parcela de vegetação nativa em propriedades rurais, conhecida como Reserva Legal, cujo percentual mínimo varia conforme o bioma e a localização do imóvel.",
                           "enunciado":  "Esse instrumento tem como principal objetivo:",
                           "alternativas":  {
-                                               "a":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte, independentemente do bioma em que estejam situadas",
-                                               "b":  "Aplicar exatamente o mesmo percentual mínimo de vegetação nativa em todos os biomas do país, independentemente da localização do imóvel",
-                                               "c":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União, medida prevista para áreas de preservação permanente",
+                                               "a":  "Assegurar que a vegetação nativa remanescente seja convertida em unidades de conservação de proteção integral",
+                                               "b":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte, independentemente do bioma em que estejam situadas",
+                                               "c":  "Aplicar exatamente o mesmo percentual mínimo de vegetação nativa em todos os biomas do país, independentemente da localização do imóvel",
                                                "d":  "Conciliar o uso produtivo da terra pelos proprietários rurais com a conservação de parte da vegetação nativa, equilibrando produção agropecuária e proteção ambiental",
-                                               "e":  "Assegurar que a vegetação nativa remanescente seja convertida em unidades de conservação de proteção integral"
+                                               "e":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União, medida prevista para áreas de preservação permanente"
                                            },
                           "resposta":  "d",
                           "explicacao":  "A Reserva Legal exige a manutenção de vegetação nativa dentro das propriedades rurais, com percentuais que variam conforme o bioma, buscando conciliar produção com conservação. O percentual não é idêntico em todos os biomas (é maior na Amazônia Legal, por exemplo), a área de Reserva Legal permanece de propriedade do titular do imóvel, e o instrumento não veda a atividade agropecuária em grandes propriedades, apenas exige a reserva de parte da área.",
@@ -13731,13 +13956,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Porto de Santos (SP) é o maior porto da América Latina em movimentação de cargas, respondendo por parcela expressiva das exportações brasileiras, incluindo commodities agrícolas como soja e açúcar.",
                           "enunciado":  "A centralidade do Porto de Santos na logística de exportação brasileira evidencia, sobretudo, um desafio estrutural da economia do país, relacionado a:",
                           "alternativas":  {
-                                               "a":  "A exclusividade do Porto de Santos na exportação de produtos industrializados, sem qualquer participação de commodities agrícolas em sua movimentação",
-                                               "b":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras, modelo distinto do observado em países como os EUA",
-                                               "c":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos, ainda que o Brasil tenha extenso litoral navegável",
-                                               "d":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos para produtores distantes do litoral",
-                                               "e":  "A vantagem competitiva de concentrar a exportação em poucos terminais, o que reduziria o custo unitário de operação portuária"
+                                               "a":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos para produtores distantes do litoral",
+                                               "b":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos, ainda que o Brasil tenha extenso litoral navegável",
+                                               "c":  "A vantagem competitiva de concentrar a exportação em poucos terminais, o que reduziria o custo unitário de operação portuária",
+                                               "d":  "A exclusividade do Porto de Santos na exportação de produtos industrializados, sem qualquer participação de commodities agrícolas em sua movimentação",
+                                               "e":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras, modelo distinto do observado em países como os EUA"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "A forte concentração do fluxo de exportação em poucos portos, como Santos, evidencia um desafio logístico: produtores distantes do litoral, como os do Centro-Oeste, enfrentam longos percursos até os portos, elevando custos. Santos não é exclusivo de industrializados (movimenta grande volume de commodities agrícolas), o fluxo logístico brasileiro está longe de equilibrado entre regiões, e existem outros portos relevantes, como os do Arco Norte.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13747,13 +13972,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Nas últimas décadas, tem crescido a utilização do chamado \u0027Arco Norte\u0027 — conjunto de portos localizados nas regiões Norte e Nordeste do Brasil (como Itaqui, Barcarena e Santarém) — para o escoamento da produção de soja do Centro-Oeste. Essa alternativa logística ganhou espaço, sobretudo, porque:",
                           "alternativas":  {
-                                               "a":  "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos",
-                                               "b":  "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos",
-                                               "c":  "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste, medida nunca efetivamente implementada",
-                                               "d":  "Substituiu por completo o Porto de Santos, que deixou de operar com produtos do agronegócio a partir da consolidação do Arco Norte",
-                                               "e":  "Prioriza a exportação de manufaturados de alto valor agregado, deixando as commodities agrícolas para os portos do Sudeste"
+                                               "a":  "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos",
+                                               "b":  "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos",
+                                               "c":  "Prioriza a exportação de manufaturados de alto valor agregado, deixando as commodities agrícolas para os portos do Sudeste",
+                                               "d":  "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste, medida nunca efetivamente implementada",
+                                               "e":  "Substituiu por completo o Porto de Santos, que deixou de operar com produtos do agronegócio a partir da consolidação do Arco Norte"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "Para produtores do norte do Centro-Oeste e do Matopiba, o escoamento pelo Arco Norte reduz a distância de transporte terrestre em comparação com o trajeto até portos do Sudeste, diminuindo custos logísticos. Santos continua operando normalmente com o agronegócio, não há legislação que restrinja a exportação exclusivamente ao Arco Norte, e o trajeto até esses portos ainda depende fortemente de rodovias, não apenas de ferrovias.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13780,12 +14005,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A indústria automobilística brasileira, historicamente concentrada no ABC paulista, passou, nas últimas décadas, por um processo de desconcentração, com a instalação de novas montadoras em estados como Bahia, Paraná, Goiás e Minas Gerais. Esse movimento foi favorecido, entre outros fatores, por:",
                           "alternativas":  {
                                                "a":  "O encerramento definitivo das atividades de todas as montadoras historicamente instaladas no ABC paulista, decisão anunciada pelo setor em 2015",
-                                               "b":  "Incentivos fiscais oferecidos por governos estaduais e municipais para atrair essas indústrias (a chamada guerra fiscal), além de custos menores de mão de obra e terrenos",
-                                               "c":  "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu por toda a década de 1990",
-                                               "d":  "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados, medida hipotética nunca prevista em lei",
+                                               "b":  "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu por toda a década de 1990",
+                                               "c":  "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados, medida hipotética nunca prevista em lei",
+                                               "d":  "Incentivos fiscais oferecidos por governos estaduais e municipais para atrair essas indústrias (a chamada guerra fiscal), além de custos menores de mão de obra e terrenos",
                                                "e":  "A proximidade das novas plantas em relação às jazidas de minério de ferro, insumo principal da produção de veículos"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "d",
                           "explicacao":  "A desconcentração da indústria automobilística foi impulsionada por incentivos fiscais (guerra fiscal) e por custos menores de mão de obra e terrenos fora do ABC paulista, que continua concentrando parcela relevante da produção. Não houve encerramento das montadoras paulistas, nem redistribuição compulsória por determinação federal, e a instalação em novos estados aproveitou, e não ignorou, a infraestrutura rodoviária já existente.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13811,13 +14036,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Quando o valor total das exportações de um país supera o valor total de suas importações em determinado período, diz-se que esse país apresentou, em sua balança comercial:",
                           "alternativas":  {
-                                               "a":  "Um superávit comercial",
-                                               "b":  "Uma balança de pagamentos necessariamente equilibrada em todas as suas contas",
-                                               "c":  "Um déficit comercial, já que exportar representa uma saída de mercadorias do território nacional",
-                                               "d":  "Uma recessão econômica automática, independentemente de outros indicadores da economia",
-                                               "e":  "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens"
+                                               "a":  "Uma recessão econômica automática, independentemente de outros indicadores da economia",
+                                               "b":  "Um déficit comercial, já que exportar representa uma saída de mercadorias do território nacional",
+                                               "c":  "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens",
+                                               "d":  "Uma balança de pagamentos necessariamente equilibrada em todas as suas contas",
+                                               "e":  "Um superávit comercial"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "e",
                           "explicacao":  "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. Déficit é o oposto do superávit, superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13843,13 +14068,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027agronegócio\u0027, usado pela geografia econômica, refere-se não apenas à produção agropecuária em si, mas também:",
                           "alternativas":  {
-                                               "a":  "Ao conjunto das propriedades rurais com área superior a quinze módulos fiscais, independentemente da atividade nelas desenvolvida",
-                                               "b":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas, realidade que descreve apenas uma pequena parte do setor",
+                                               "a":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas, realidade que descreve apenas uma pequena parte do setor",
+                                               "b":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários",
                                                "c":  "Unicamente ao segmento financeiro que negocia contratos futuros de commodities agrícolas em bolsas de valores, conforme ocorre em algumas bolsas internacionais",
                                                "d":  "Apenas à exportação de produtos agrícolas in natura, sem qualquer etapa de processamento industrial, prática típica de economias exportadoras de commodities",
-                                               "e":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários"
+                                               "e":  "Ao conjunto das propriedades rurais com área superior a quinze módulos fiscais, independentemente da atividade nelas desenvolvida"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "b",
                           "explicacao":  "O conceito de agronegócio abrange toda a cadeia produtiva relacionada à agropecuária, do fornecimento de insumos ao processamento, armazenamento, transporte e distribuição. Não se limita à exportação in natura sem processamento, não se restringe à agricultura familiar de subsistência, e vai muito além do segmento financeiro de contratos futuros, que é apenas uma faceta do setor.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13859,13 +14084,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O sistema de Integração Lavoura-Pecuária-Floresta (ILPF), incentivado por políticas públicas e pesquisas da Embrapa, propõe combinar, em uma mesma área ou de forma rotacionada, atividades agrícolas, pecuárias e florestais.",
                           "enunciado":  "Esse sistema é apontado como uma alternativa relevante para a agropecuária brasileira porque:",
                           "alternativas":  {
-                                               "a":  "Exige a abertura simultânea de três novas áreas de vegetação nativa, uma para cada atividade combinada",
+                                               "a":  "Permite aumentar a produtividade e a sustentabilidade do uso da terra já ocupada, reduzindo a necessidade de abertura de novas áreas de vegetação nativa",
                                                "b":  "Substitui integralmente a pecuária de corte por sistemas exclusivamente florestais em toda propriedade adotante, alternativa cada vez mais rara no campo brasileiro",
-                                               "c":  "É aplicável apenas em propriedades com mais de mil hectares, sendo inviável para pequenos e médios produtores, situação distinta da realidade da maioria dos produtores",
-                                               "d":  "Permite aumentar a produtividade e a sustentabilidade do uso da terra já ocupada, reduzindo a necessidade de abertura de novas áreas de vegetação nativa",
-                                               "e":  "Permite triplicar a produtividade da área em um único ciclo produtivo, dispensando a rotação entre as atividades integradas"
+                                               "c":  "Exige a abertura simultânea de três novas áreas de vegetação nativa, uma para cada atividade combinada",
+                                               "d":  "Permite triplicar a produtividade da área em um único ciclo produtivo, dispensando a rotação entre as atividades integradas",
+                                               "e":  "É aplicável apenas em propriedades com mais de mil hectares, sendo inviável para pequenos e médios produtores, situação distinta da realidade da maioria dos produtores"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "Ao integrar lavoura, pecuária e floresta em uma mesma área, o ILPF busca recuperar pastagens degradadas e aumentar a produtividade do solo já ocupado, reduzindo a pressão por novas áreas de vegetação nativa. O sistema não exige abertura de novas áreas (ao contrário, recupera as já existentes), não é restrito a grandes propriedades, e não elimina a pecuária, apenas a integra a outras atividades.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -13907,13 +14132,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A pecuária de corte brasileira tem se caracterizado historicamente pelo predomínio do sistema extensivo, baseado em pastagens naturais ou plantadas, em contraste com o sistema intensivo (baseado em confinamento e maior uso de tecnologia).",
                           "enunciado":  "O predomínio histórico do sistema extensivo no Brasil está associado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma demanda internacional por carne bovina historicamente menor do que a demanda interna, o que reduziu o incentivo à intensificação, cenário estável até os anos 2000",
-                                               "b":  "A inexistência histórica de tecnologia de confinamento em qualquer país do mundo antes do século XXI",
-                                               "c":  "Uma legislação federal que, até a década de 1990, proibia expressamente o sistema de confinamento no país",
-                                               "d":  "O clima tropical úmido predominante, que impediria tecnicamente o confinamento de bovinos na maior parte do território",
-                                               "e":  "Disponibilidade histórica de grandes extensões de terra a custo relativamente baixo, o que tornou economicamente viável a criação de gado em áreas extensas"
+                                               "a":  "O clima tropical úmido predominante, que impediria tecnicamente o confinamento de bovinos na maior parte do território",
+                                               "b":  "Uma demanda internacional por carne bovina historicamente menor do que a demanda interna, o que reduziu o incentivo à intensificação, cenário estável até os anos 2000",
+                                               "c":  "Disponibilidade histórica de grandes extensões de terra a custo relativamente baixo, o que tornou economicamente viável a criação de gado em áreas extensas",
+                                               "d":  "Uma legislação federal que, até a década de 1990, proibia expressamente o sistema de confinamento no país",
+                                               "e":  "A inexistência histórica de tecnologia de confinamento em qualquer país do mundo antes do século XXI"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "c",
                           "explicacao":  "A disponibilidade histórica de grandes extensões de terra a custo relativamente baixo tornou economicamente viável a criação extensiva de gado, com baixo investimento tecnológico por hectare. Não houve proibição legal do confinamento, a demanda externa por carne bovina brasileira é historicamente relevante (não menor que a interna a ponto de desestimular investimento), e o confinamento já era tecnologia conhecida internacionalmente bem antes do século XXI.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -13924,10 +14149,10 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A partir desses dados, é correto concluir que o principal fator explicativo do crescimento da produção de grãos no Brasil nesse período foi:",
                           "alternativas":  {
                                                "a":  "Principalmente o ganho de produtividade por hectare (mais grãos produzidos na mesma área), já que a produção cresceu proporcionalmente muito mais do que a área plantada",
-                                               "b":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada, padrão repetido em todas as safras",
+                                               "b":  "Principalmente a incorporação de novas áreas de plantio, já que a produtividade por hectare teria permanecido estável no período",
                                                "c":  "Um erro de medição do IBGE, já que produção e área plantada deveriam crescer sempre na mesma proporção",
-                                               "d":  "Uma redução da área plantada, compensada por uma importação recorde de grãos nesse período",
-                                               "e":  "Principalmente a incorporação de novas áreas de plantio, já que a produtividade por hectare teria permanecido estável no período"
+                                               "d":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada, padrão repetido em todas as safras",
+                                               "e":  "Uma redução da área plantada, compensada por uma importação recorde de grãos nesse período"
                                            },
                           "resposta":  "a",
                           "explicacao":  "Se a área plantada cresceu 40% e a produção 150%, o crescimento não pode ser explicado apenas pela expansão da área — decorre principalmente do aumento de produtividade por hectare, via melhoramento genético, fertilizantes e técnicas mais avançadas. Produção e área não crescem necessariamente na mesma proporção (não há erro de medição nisso), e os dados não mencionam redução de área nem importação de grãos.",
@@ -13971,13 +14196,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O fenômeno conhecido como \u0027fuga de cérebros\u0027 (brain drain) refere-se à:",
                           "alternativas":  {
-                                               "a":  "Entrada de trabalhadores pouco qualificados vindos de países vizinhos, atraídos por vagas em setores de baixa remuneração",
-                                               "b":  "Um processo que beneficia exclusivamente o país de origem dos migrantes qualificados, por meio do aumento imediato de sua força de trabalho",
+                                               "a":  "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional, ainda que envolva impactos relevantes no país de origem e no de destino",
+                                               "b":  "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho",
                                                "c":  "Migração de trabalhadores de baixa qualificação de países desenvolvidos para países em desenvolvimento, em busca de menor custo de vida",
-                                               "d":  "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional, ainda que envolva impactos relevantes no país de origem e no de destino",
-                                               "e":  "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho"
+                                               "d":  "Entrada de trabalhadores pouco qualificados vindos de países vizinhos, atraídos por vagas em setores de baixa remuneração",
+                                               "e":  "Um processo que beneficia exclusivamente o país de origem dos migrantes qualificados, por meio do aumento imediato de sua força de trabalho"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "b",
                           "explicacao":  "A fuga de cérebros refere-se à emigração de profissionais altamente qualificados de países em desenvolvimento para países mais desenvolvidos, atraídos por melhores salários e condições de trabalho e pesquisa. Não descreve migração de baixa qualificação em sentido inverso, não beneficia exclusivamente o país de origem (que perde capital humano), e é um fenômeno tipicamente internacional, não interno.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14035,13 +14260,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027apátrida\u0027, no direito internacional, refere-se a uma pessoa que:",
                           "alternativas":  {
-                                               "a":  "Vive fora de seu país de nascimento, mas mantém plenamente sua cidadania original e seus direitos políticos nele",
-                                               "b":  "Obteve refúgio permanente em um único país estrangeiro, renunciando formalmente à sua nacionalidade de origem",
-                                               "c":  "Possui dupla cidadania, de dois países diferentes, reconhecida simultaneamente por ambos os Estados",
-                                               "d":  "Não é reconhecida como cidadã por nenhum país, não possuindo, portanto, nacionalidade formal reconhecida em nenhum Estado",
+                                               "a":  "Obteve refúgio permanente em um único país estrangeiro, renunciando formalmente à sua nacionalidade de origem",
+                                               "b":  "Não é reconhecida como cidadã por nenhum país, não possuindo, portanto, nacionalidade formal reconhecida em nenhum Estado",
+                                               "c":  "Vive fora de seu país de nascimento, mas mantém plenamente sua cidadania original e seus direitos políticos nele",
+                                               "d":  "Possui dupla cidadania, de dois países diferentes, reconhecida simultaneamente por ambos os Estados",
                                                "e":  "Deixou seu país de origem por fundado temor de perseguição, mantendo, porém, a nacionalidade de origem"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "Apátrida é a pessoa não reconhecida como nacional por nenhum Estado, situação que pode decorrer de conflitos entre legislações de nacionalidade, dissolução de Estados ou discriminação legal contra certos grupos. As demais alternativas descrevem situações distintas: refúgio com nacionalidade preservada, dupla cidadania, ou emigração sem perda de cidadania — nenhuma equivale à apatridia.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14083,13 +14308,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Duas pirâmides etárias são descritas: a Pirâmide 1 tem base estreita e topo largo, com predomínio de faixas etárias mais velhas; a Pirâmide 2 tem base mais larga que o topo, ainda que já apresente um estreitamento progressivo em relação a décadas anteriores.",
                           "enunciado":  "Considerando os perfis demográficos do Japão (um dos países mais envelhecidos do mundo) e do Brasil (país em transição demográfica avançada, mas ainda mais jovem que o Japão), é correto associar:",
                           "alternativas":  {
-                                               "a":  "A Pirâmide 1 ao Brasil e a Pirâmide 2 ao Japão",
-                                               "b":  "A Pirâmide 1 ao Japão e a Pirâmide 2 ao Brasil",
+                                               "a":  "As duas pirâmides a países europeus, já que o Japão e o Brasil têm perfis etários idênticos entre si",
+                                               "b":  "A Pirâmide 1 ao Brasil e a Pirâmide 2 ao Japão, dado o alargamento da base observada na primeira",
                                                "c":  "As duas pirâmides ao Japão, já que o Brasil ainda não iniciou sua transição demográfica",
-                                               "d":  "As duas pirâmides a países europeus, já que o Japão e o Brasil têm perfis etários idênticos entre si",
-                                               "e":  "A Pirâmide 1 ao Brasil e a Pirâmide 2 ao Japão, dado o alargamento da base observada na primeira"
+                                               "d":  "A Pirâmide 1 ao Japão e a Pirâmide 2 ao Brasil",
+                                               "e":  "A Pirâmide 1 ao Brasil e a Pirâmide 2 ao Japão"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "d",
                           "explicacao":  "A Pirâmide 1, com base estreita e topo largo, é característica de populações fortemente envelhecidas, como a do Japão; a Pirâmide 2, ainda com base mais larga que o topo, é mais compatível com o perfil brasileiro atual, em transição demográfica avançada mas ainda mais jovem. O Brasil já está em transição demográfica há décadas, e os perfis etários de Japão e Brasil são bastante diferentes entre si, não idênticos.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14099,13 +14324,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027bônus demográfico\u0027 refere-se a um período em que:",
                           "alternativas":  {
-                                               "a":  "A proporção de crianças e idosos supera, de forma permanente e crescente, a proporção de pessoas em idade ativa",
-                                               "b":  "A proporção de pessoas em idade ativa é proporcionalmente maior em relação à população dependente, o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados",
-                                               "c":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária, hipótese incompatível com qualquer pirâmide real",
+                                               "a":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária, hipótese incompatível com qualquer pirâmide real",
+                                               "b":  "A população total do país cresce em ritmo acelerado, ampliando simultaneamente todas as faixas etárias da pirâmide",
+                                               "c":  "A proporção de pessoas em idade ativa é proporcionalmente maior em relação à população dependente, o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados",
                                                "d":  "A população de um país entra necessariamente em declínio absoluto, independentemente de sua estrutura etária, cenário observado em países de fecundidade elevada",
-                                               "e":  "A população total do país cresce em ritmo acelerado, ampliando simultaneamente todas as faixas etárias da pirâmide"
+                                               "e":  "A proporção de crianças e idosos supera, de forma permanente e crescente, a proporção de pessoas em idade ativa"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "c",
                           "explicacao":  "O bônus demográfico é o período em que a proporção de pessoas em idade ativa é maior em relação à população dependente, criando uma janela de oportunidade para o crescimento econômico, se acompanhada de investimentos adequados. Não implica ausência total de crianças e idosos, não corresponde a um cenário de predomínio permanente da população dependente, e não implica declínio populacional absoluto.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14115,13 +14340,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Brasil atravessou, nas últimas décadas, seu período de bônus demográfico, com elevada proporção de população em idade ativa.",
                           "enunciado":  "Entretanto, estudiosos alertam que esse bônus demográfico:",
                           "alternativas":  {
-                                               "a":  "Já se encerrou definitivamente no Brasil na década de 1980, muito antes do início da transição demográfica avançada do país",
-                                               "b":  "Garante, por si só, crescimento econômico automático e duradouro, independentemente de investimentos em educação ou emprego",
-                                               "c":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos",
-                                               "d":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária, equívoco comum antes da transição demográfica",
-                                               "e":  "Tende a se manter de forma permanente uma vez alcançado, já que decorre da estrutura etária consolidada do país"
+                                               "a":  "Garante, por si só, crescimento econômico automático e duradouro, independentemente de investimentos em educação ou emprego",
+                                               "b":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos",
+                                               "c":  "Tende a se manter de forma permanente uma vez alcançado, já que decorre da estrutura etária consolidada do país",
+                                               "d":  "Já se encerrou definitivamente no Brasil na década de 1980, muito antes do início da transição demográfica avançada do país",
+                                               "e":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária, equívoco comum antes da transição demográfica"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "O bônus demográfico não garante, por si só, desenvolvimento econômico: é uma janela temporária que depende de políticas públicas adequadas, sob risco de o país \u0027envelhecer antes de enriquecer\u0027. Ele não é permanente nem se repete identicamente, e no Brasil seu período mais favorável já está em processo de estreitamento nas décadas recentes, não encerrado desde os anos 1980.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14131,13 +14356,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A taxa de fecundidade de reposição, ou seja, o número médio de filhos por mulher necessário para manter estável o tamanho da população ao longo do tempo (sem considerar migração), é estimada em aproximadamente:",
                           "alternativas":  {
-                                               "a":  "1,0 filho por mulher",
-                                               "b":  "2,1 filhos por mulher",
-                                               "c":  "3,5 filhos por mulher",
-                                               "d":  "5,0 filhos por mulher",
+                                               "a":  "2,1 filhos por mulher",
+                                               "b":  "3,5 filhos por mulher",
+                                               "c":  "5,0 filhos por mulher",
+                                               "d":  "1,0 filho por mulher",
                                                "e":  "2,0 filhos por mulher"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "A taxa de fecundidade de reposição é estimada em aproximadamente 2,1 filhos por mulher, valor que garante, em média, a substituição geracional considerando também a mortalidade infantil. Valores muito abaixo (como 1,0) indicam tendência de redução populacional, enquanto valores muito acima (3,5 ou 5,0) correspondem a padrões históricos anteriores à transição demográfica, não à taxa de reposição.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14148,10 +14373,10 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Considerando esses dados, é correto afirmar que:",
                           "alternativas":  {
                                                "a":  "A população brasileira continuará crescendo no mesmo ritmo de 1960, já que o tamanho da população não depende da taxa de fecundidade, equívoco que ignora o efeito da fecundidade sobre o crescimento populacional",
-                                               "b":  "O Brasil ainda apresenta uma das maiores taxas de fecundidade entre os países da América Latina",
-                                               "c":  "A taxa de fecundidade brasileira permaneceu estável desde 1960, com pequenas oscilações sem significado demográfico",
+                                               "b":  "A queda da fecundidade abaixo da reposição implica redução imediata da população total, já observada no país",
+                                               "c":  "O Brasil ainda apresenta uma das maiores taxas de fecundidade entre os países da América Latina",
                                                "d":  "A queda acentuada da fecundidade brasileira para um patamar abaixo da taxa de reposição indica uma tendência, no longo prazo, de estabilização e posterior redução do crescimento populacional do país",
-                                               "e":  "A queda da fecundidade abaixo da reposição implica redução imediata da população total, já observada no país"
+                                               "e":  "A taxa de fecundidade brasileira permaneceu estável desde 1960, com pequenas oscilações sem significado demográfico"
                                            },
                           "resposta":  "d",
                           "explicacao":  "A redução da fecundidade de 6,3 para cerca de 1,6 filho por mulher, abaixo da taxa de reposição, evidencia estágio avançado de transição demográfica, associado à urbanização e à maior escolaridade, apontando para futura estabilização e redução do crescimento populacional. A taxa não permaneceu estável, o Brasil não está entre as maiores taxas da América Latina atualmente, e o crescimento populacional está diretamente ligado à taxa de fecundidade, não independente dela.",
@@ -14163,13 +14388,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A transição energética, com a substituição progressiva de fontes fósseis por fontes renováveis, é frequentemente discutida também sob a ótica do mercado de trabalho, pois:",
                           "alternativas":  {
-                                               "a":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
-                                               "b":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor",
-                                               "c":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais",
+                                               "a":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor",
+                                               "b":  "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções",
+                                               "c":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
                                                "d":  "Beneficia exclusivamente trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
-                                               "e":  "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções"
+                                               "e":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "A transição energética tende a gerar empregos em setores emergentes, como eólica, solar e hidrogênio verde, mas também impõe desafios de requalificação para trabalhadores de setores fósseis tradicionais. O processo gera, e não apenas elimina, empregos em novos setores; não beneficia exclusivamente exportadores de petróleo; e tem impacto direto e relevante sobre o mercado de trabalho, não sendo neutro.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14195,13 +14420,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A precariedade de infraestrutura de saneamento básico em muitas favelas e assentamentos irregulares brasileiros está associada, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Um investimento público historicamente maior em saneamento nas periferias do que nas áreas centrais das cidades",
-                                               "b":  "Ao processo de ocupação irregular e desordenada dessas áreas, que dificulta o planejamento e a extensão de redes formais de água e esgoto pelo poder público",
-                                               "c":  "Uma política deliberada e já consolidada de universalização do saneamento nessas áreas, concluída nas últimas décadas",
+                                               "a":  "Ao processo de ocupação irregular e desordenada dessas áreas, que dificulta o planejamento e a extensão de redes formais de água e esgoto pelo poder público",
+                                               "b":  "Um investimento público historicamente maior em saneamento nas periferias do que nas áreas centrais das cidades",
+                                               "c":  "Ao relevo acidentado dessas áreas, único fator a inviabilizar tecnicamente a instalação de redes de saneamento",
                                                "d":  "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas de qualquer tipo, proposta nunca formalizada por qualquer município",
-                                               "e":  "Ao relevo acidentado dessas áreas, único fator a inviabilizar tecnicamente a instalação de redes de saneamento"
+                                               "e":  "Uma política deliberada e já consolidada de universalização do saneamento nessas áreas, concluída nas últimas décadas"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "A ocupação irregular e desordenada de favelas e assentamentos precários dificulta o planejamento e a extensão de redes formais de saneamento, resultando em maior vulnerabilidade a doenças e desastres. Não existe legislação que vede saneamento em áreas urbanas, a universalização nessas áreas está longe de concluída, e o investimento público historicamente favoreceu áreas centrais, não as periferias.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14211,13 +14436,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O aumento da frequência e intensidade de enchentes em diversas cidades brasileiras, mesmo em episódios de chuva que não seriam considerados excepcionais décadas atrás, está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Um aumento da vegetação nativa em áreas urbanas, que passou a reter água em excesso e a sobrecarregar a drenagem",
-                                               "b":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes, tendência observada apenas no interior",
-                                               "c":  "Uma redução comprovada e generalizada do volume total de chuvas nas regiões metropolitanas brasileiras nas últimas décadas",
-                                               "d":  "A impermeabilização crescente do solo urbano (por asfalto e construções), a ocupação de áreas de várzea e encostas, e a insuficiência ou obstrução dos sistemas de drenagem urbana",
+                                               "a":  "Uma redução comprovada e generalizada do volume total de chuvas nas regiões metropolitanas brasileiras nas últimas décadas",
+                                               "b":  "A impermeabilização crescente do solo urbano (por asfalto e construções), a ocupação de áreas de várzea e encostas, e a insuficiência ou obstrução dos sistemas de drenagem urbana",
+                                               "c":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes, tendência observada apenas no interior",
+                                               "d":  "Um aumento da vegetação nativa em áreas urbanas, que passou a reter água em excesso e a sobrecarregar a drenagem",
                                                "e":  "O aumento isolado do volume de chuvas nas últimas décadas, sem relação com a forma de ocupação do solo urbano"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "A impermeabilização do solo urbano, a ocupação de várzeas e encostas e a insuficiência de drenagem reduzem a capacidade das cidades de absorver e escoar a água da chuva, tornando as enchentes mais frequentes. Não houve redução geral do volume de chuvas, o problema não decorre de excesso de vegetação (que ajudaria a absorver água), e a taxa de urbanização das grandes cidades brasileiras não está em queda.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14227,10 +14452,10 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A poluição de rios que cortam grandes centros urbanos brasileiros, como o Rio Tietê em São Paulo, está relacionada, sobretudo, a:",
                           "alternativas":  {
-                                               "a":  "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
-                                               "b":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê",
+                                               "a":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê",
+                                               "b":  "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
                                                "c":  "Uma política municipal que restringe a poluição a trechos específicos do rio, mantendo o restante do curso d\u0027água preservado",
-                                               "d":  "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
+                                               "d":  "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
                                                "e":  "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado"
                                            },
                           "resposta":  "e",
@@ -14243,13 +14468,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Uma tabela comparativa apresenta dados aproximados de dois municípios hipotéticos: Município X, com 90% de cobertura de saneamento básico, registrou 5 casos de doenças de veiculação hídrica por 10 mil habitantes no ano; Município Y, com 40% de cobertura de saneamento básico, registrou 45 casos de doenças de veiculação hídrica por 10 mil habitantes no mesmo ano.",
                           "enunciado":  "Com base nesses dados, qual conclusão é mais adequada do ponto de vista da geografia da saúde?",
                           "alternativas":  {
-                                               "a":  "A diferença de 40 casos entre os municípios não tem qualquer relevância estatística ou sanitária",
-                                               "b":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde, conclusão amplamente aceita pela literatura epidemiológica atual",
-                                               "c":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica",
-                                               "d":  "O Município X tem cobertura de saneamento pior do que o Município Y, já que registrou um número absoluto menor de casos",
-                                               "e":  "A diferença observada decorre apenas do acaso amostral, não sendo possível relacioná-la às condições de saneamento"
+                                               "a":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde, conclusão amplamente aceita pela literatura epidemiológica atual",
+                                               "b":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica",
+                                               "c":  "O Município X tem cobertura de saneamento pior do que o Município Y, já que registrou um número absoluto menor de casos",
+                                               "d":  "A diferença observada decorre apenas do acaso amostral, não sendo possível relacioná-la às condições de saneamento",
+                                               "e":  "A diferença de 40 casos entre os municípios não tem qualquer relevância estatística ou sanitária"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "A incidência de doenças no Município Y é 45÷5=9 vezes maior que no Município X, o que é consistente com a associação, documentada pela geografia da saúde, entre menor cobertura de saneamento e maior risco de doenças hídricas, sem que isso configure prova definitiva e universal de causalidade (fatores socioeconômicos também influenciam). A cobertura do Município X é maior, não menor, e a diferença de 40 casos por 10 mil habitantes é estatisticamente relevante, não desprezível.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14259,13 +14484,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A diferença entre um aterro sanitário e um lixão (ou vazadouro a céu aberto), do ponto de vista ambiental, está no fato de que o aterro sanitário:",
                           "alternativas":  {
-                                               "a":  "É uma estrutura projetada com técnicas de engenharia para reduzir a contaminação do solo e das águas subterrâneas, diferentemente do lixão, que dispõe os resíduos sem qualquer tratamento",
-                                               "b":  "É proibido pela legislação ambiental brasileira, ao contrário do lixão, que segue autorizado em todos os municípios do país, suspensão já ocorrida em diversos estados",
-                                               "c":  "Recebe apenas resíduos hospitalares, enquanto o lixão recebe exclusivamente resíduos domésticos",
+                                               "a":  "Difere do lixão apenas pela extensão da área ocupada, sendo idênticos os métodos de disposição dos resíduos",
+                                               "b":  "É uma estrutura projetada com técnicas de engenharia para reduzir a contaminação do solo e das águas subterrâneas, diferentemente do lixão, que dispõe os resíduos sem qualquer tratamento",
+                                               "c":  "É proibido pela legislação ambiental brasileira, ao contrário do lixão, que segue autorizado em todos os municípios do país, suspensão já ocorrida em diversos estados",
                                                "d":  "É uma denominação alternativa para o mesmo tipo de estrutura, sem qualquer diferença técnica em relação ao lixão",
-                                               "e":  "Difere do lixão apenas pela extensão da área ocupada, sendo idênticos os métodos de disposição dos resíduos"
+                                               "e":  "Recebe apenas resíduos hospitalares, enquanto o lixão recebe exclusivamente resíduos domésticos"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "O aterro sanitário é projetado com técnicas de engenharia, como impermeabilização e tratamento do chorume, para reduzir a contaminação ambiental, diferentemente do lixão, sem qualquer controle. Não são a mesma estrutura com nomes diferentes, nenhum dos dois se restringe a resíduos hospitalares, e é o lixão, não o aterro, que a legislação ambiental brasileira busca eliminar.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14275,13 +14500,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) instituiu o conceito de \u0027logística reversa\u0027 e de \u0027responsabilidade compartilhada pelo ciclo de vida dos produtos\u0027.",
                           "enunciado":  "Esses conceitos estabelecem que:",
                           "alternativas":  {
-                                               "a":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de resíduos às empresas para reaproveitamento ou descarte adequado",
-                                               "b":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país, leitura que contraria o princípio da responsabilidade compartilhada",
-                                               "c":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores, interpretação equivocada que ainda hoje gera controvérsia entre especialistas",
-                                               "d":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens, engano frequente sobre o alcance real da norma",
-                                               "e":  "A responsabilidade pelo destino final dos resíduos cabe ao poder público municipal, sem obrigações para fabricantes e comerciantes"
+                                               "a":  "A responsabilidade pelo destino final dos resíduos cabe ao poder público municipal, sem obrigações para fabricantes e comerciantes",
+                                               "b":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores, interpretação equivocada que ainda hoje gera controvérsia entre especialistas",
+                                               "c":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de resíduos às empresas para reaproveitamento ou descarte adequado",
+                                               "d":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país, leitura que contraria o princípio da responsabilidade compartilhada",
+                                               "e":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens, engano frequente sobre o alcance real da norma"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "c",
                           "explicacao":  "A Política Nacional de Resíduos Sólidos estabelece responsabilidade compartilhada entre fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público, incluindo a logística reversa de itens como pilhas, eletrônicos e embalagens. A responsabilidade não recai apenas sobre o consumidor, a logística reversa se aplica especialmente a resíduos não orgânicos, como os citados, e o custo não é assumido isoladamente pelo poder público municipal.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14291,11 +14516,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Embora o agronegócio de grandes propriedades seja o principal responsável pelas exportações agrícolas brasileiras, estudos apontam que a agricultura familiar tem papel central em outro aspecto da produção agropecuária nacional, relacionado, sobretudo, a:",
                           "alternativas":  {
-                                               "a":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais, papel majoritariamente exercido pelo agronegócio de grande escala",
-                                               "b":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio, atividade concentrada em grandes empresas de mineração",
+                                               "a":  "Produção majoritária das commodities agrícolas exportadas pelo país, como soja e milho destinados ao mercado externo",
+                                               "b":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais, papel majoritariamente exercido pelo agronegócio de grande escala",
                                                "c":  "Exportação da maior parte dos grãos produzidos no país, como soja e milho, atividade em que supera o agronegócio de grande escala, segundo dados recentes do setor",
                                                "d":  "Produção de significativa parcela dos alimentos que abastecem o mercado interno brasileiro, como frutas, verduras, legumes, feijão e boa parte da produção leiteira",
-                                               "e":  "Produção majoritária das commodities agrícolas exportadas pelo país, como soja e milho destinados ao mercado externo"
+                                               "e":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio, atividade concentrada em grandes empresas de mineração"
                                            },
                           "resposta":  "d",
                           "explicacao":  "Apesar de o agronegócio de grande escala liderar as exportações de commodities como soja e carne bovina, a agricultura familiar responde por parcela significativa da produção de alimentos voltados ao mercado interno. A exportação de grãos como soja e milho é liderada pelo agronegócio de grande escala, não pela agricultura familiar, que tampouco tem relação com produção mineral ou mercado financeiro de commodities.",
@@ -14323,13 +14548,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A existência de terrenos e imóveis ociosos (não utilizados) em áreas centrais e bem localizadas de grandes cidades brasileiras, mesmo diante da falta de moradia para parte da população, é frequentemente associada, pela geografia urbana, a:",
                           "alternativas":  {
-                                               "a":  "Uma escassez real e absoluta de terrenos disponíveis nas áreas centrais das cidades brasileiras",
-                                               "b":  "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano",
+                                               "a":  "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano",
+                                               "b":  "Uma escassez real e absoluta de terrenos disponíveis nas áreas centrais das cidades brasileiras",
                                                "c":  "Uma política pública já consolidada de distribuição igualitária de moradias em áreas centrais valorizadas",
                                                "d":  "Uma exigência técnica de engenharia que impede a ocupação imediata de qualquer terreno urbano recém-adquirido, equívoco recorrente sobre normas de uso do solo",
                                                "e":  "Restrições legais que impedem o uso residencial de imóveis situados em áreas centrais, obrigando sua manutenção sem ocupação"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "A manutenção de imóveis ociosos em áreas centrais bem localizadas, à espera de valorização (especulação imobiliária), contribui para o encarecimento do solo urbano e empurra a população de menor renda para áreas periféricas. Não se trata de escassez real de terrenos (que existem, mas ficam ociosos por opção do proprietário), não há política consolidada de distribuição igualitária, e não é uma exigência técnica de engenharia que explica a ociosidade.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14339,13 +14564,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Estatuto da Cidade (Lei nº 10.257/2001) prevê instrumentos como o IPTU progressivo no tempo para imóveis urbanos subutilizados ou não utilizados.",
                           "enunciado":  "Esse instrumento tem como principal objetivo:",
                           "alternativas":  {
-                                               "a":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU progressivas ao longo do tempo",
-                                               "b":  "Autorizar a desapropriação imediata, sem qualquer aviso prévio, de qualquer imóvel urbano não utilizado por mais de um ano",
+                                               "a":  "Promover a desapropriação imediata dos imóveis ociosos, transferindo-os ao patrimônio municipal sem etapas prévias",
+                                               "b":  "Elevar a arrecadação municipal de forma linear, aplicando o mesmo percentual de aumento a todos os imóveis do município, utilizados ou não",
                                                "c":  "Isentar integralmente do pagamento de IPTU os proprietários de grandes terrenos urbanos ociosos, como incentivo à manutenção de reservas de valor, leitura equivocada do instrumento tributário",
-                                               "d":  "Elevar a arrecadação municipal de forma linear, aplicando o mesmo percentual de aumento a todos os imóveis do município, utilizados ou não",
-                                               "e":  "Promover a desapropriação imediata dos imóveis ociosos, transferindo-os ao patrimônio municipal sem etapas prévias"
+                                               "d":  "Autorizar a desapropriação imediata, sem qualquer aviso prévio, de qualquer imóvel urbano não utilizado por mais de um ano",
+                                               "e":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU progressivas ao longo do tempo"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "e",
                           "explicacao":  "O IPTU progressivo no tempo permite ao poder público municipal aumentar progressivamente a alíquota sobre imóveis subutilizados, incentivando os proprietários a dar-lhes função social. Não isenta proprietários de terrenos ociosos (ao contrário, penaliza-os), não autoriza desapropriação imediata sem processo prévio, e não se aplica de forma linear a todos os imóveis — apenas aos subutilizados ou não utilizados.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14355,13 +14580,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027hierarquia urbana\u0027, utilizado pela geografia para classificar cidades conforme sua importância econômica, populacional e de oferta de serviços, permite compreender por que:",
                           "alternativas":  {
-                                               "a":  "A hierarquia urbana é definida exclusivamente pela extensão territorial do município, sem relação com a oferta de serviços",
-                                               "b":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população, padrão desmentido pela distribuição real de serviços entre cidades e metrópoles",
-                                               "c":  "Cidades pequenas exercem, em regra, maior influência regional do que metrópoles, por concentrarem serviços mais especializados",
-                                               "d":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados, influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços",
-                                               "e":  "A posição de uma cidade na hierarquia é definida apenas por seu número de habitantes, sem considerar os serviços que oferece"
+                                               "a":  "A posição de uma cidade na hierarquia é definida apenas por seu número de habitantes, sem considerar os serviços que oferece",
+                                               "b":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados, influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços",
+                                               "c":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população, padrão desmentido pela distribuição real de serviços entre cidades e metrópoles",
+                                               "d":  "Cidades pequenas exercem, em regra, maior influência regional do que metrópoles, por concentrarem serviços mais especializados",
+                                               "e":  "A hierarquia urbana é definida exclusivamente pela extensão territorial do município, sem relação com a oferta de serviços"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "b",
                           "explicacao":  "A hierarquia urbana descreve como metrópoles regionais concentram serviços mais especializados, exercendo influência sobre cidades menores que dependem desses serviços não disponíveis localmente. Cidades de portes diferentes não oferecem serviços de complexidade equivalente, cidades pequenas não exercem maior influência do que metrópoles, e a hierarquia se define pela oferta de serviços e funções urbanas, não pela extensão territorial do município.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14371,13 +14596,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Um mapa mostra que moradores de diversas cidades pequenas do interior do estado, para realizar tratamentos médicos de alta complexidade (como cirurgias cardíacas), costumam se deslocar a uma cidade média regional, que por sua vez encaminha os casos mais graves à capital do estado, onde estão os hospitais de referência estadual.",
                           "enunciado":  "Esse padrão de deslocamento, descrito no mapa, ilustra o conceito geográfico de:",
                           "alternativas":  {
-                                               "a":  "Reprimarização da economia, processo de aumento da participação de commodities na pauta de exportação regional, processo que nada tem a ver com a distribuição hierárquica de serviços urbanos descrita no mapa",
-                                               "b":  "Conurbação, processo de fusão física entre cidades vizinhas cujos tecidos urbanos se tornam contínuos",
-                                               "c":  "Região de influência (ou área de polarização), na qual cidades de menor porte dependem de centros urbanos hierarquicamente superiores para acessar serviços mais especializados",
-                                               "d":  "Desconcentração industrial, processo de deslocamento de fábricas do litoral para o interior do país",
-                                               "e":  "Conurbação, em que os tecidos urbanos de cidades vizinhas se tornam fisicamente contínuos ao longo do crescimento"
+                                               "a":  "Conurbação, em que os tecidos urbanos de cidades vizinhas se tornam fisicamente contínuos ao longo do crescimento",
+                                               "b":  "Região de influência (ou área de polarização), na qual cidades de menor porte dependem de centros urbanos hierarquicamente superiores para acessar serviços mais especializados",
+                                               "c":  "Desconcentração industrial, processo de deslocamento de fábricas do litoral para o interior do país",
+                                               "d":  "Conurbação, processo de fusão física entre cidades vizinhas cujos tecidos urbanos se tornam contínuos",
+                                               "e":  "Reprimarização da economia, processo de aumento da participação de commodities na pauta de exportação regional, processo que nada tem a ver com a distribuição hierárquica de serviços urbanos descrita no mapa"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "O padrão descrito ilustra o conceito de região de influência e a hierarquia urbana em múltiplos níveis: cada centro urbano oferece serviços de complexidade crescente conforme sua posição na hierarquia. O caso não envolve deslocamento de fábricas (desconcentração industrial), não descreve fusão física entre cidades (conurbação), e não trata de composição da pauta exportadora (reprimarização) — conceitos de outras áreas da geografia econômica e urbana.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14419,13 +14644,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "O Brasil possui uma extensa rede hidrográfica com potencial para o transporte de cargas por hidrovias, como a Hidrovia Tietê-Paraná.",
                           "enunciado":  "Apesar desse potencial, a utilização das hidrovias no transporte de cargas no país permanece:",
                           "alternativas":  {
-                                               "a":  "Restrita por lei federal, que limita a navegação de cargas a rios de domínio estadual",
-                                               "b":  "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia, não no país como um todo",
-                                               "c":  "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
-                                               "d":  "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais",
-                                               "e":  "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas"
+                                               "a":  "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia, não no país como um todo",
+                                               "b":  "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais",
+                                               "c":  "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas",
+                                               "d":  "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
+                                               "e":  "Restrita por lei federal, que limita a navegação de cargas a rios de domínio estadual"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "c",
                           "explicacao":  "Apesar do relevante potencial hidrográfico brasileiro, a utilização das hidrovias no transporte de cargas permanece proporcionalmente pequena, resultado de investimentos históricos insuficientes em dragagem, eclusas e terminais fluviais. As hidrovias estão longe de superar o modal rodoviário, não há restrição legal federal desse tipo, e seu uso, quando existe, é voltado majoritariamente a cargas, não a cruzeiros de passageiros.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14451,13 +14676,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O termo \u0027Custo Brasil\u0027 é frequentemente utilizado para descrever um conjunto de fatores estruturais que elevam os custos de produção e de exportação de empresas instaladas no país, entre os quais se destaca:",
                           "alternativas":  {
-                                               "a":  "A ausência de qualquer tributo sobre a produção industrial, o que reduziria artificialmente o custo de bens brasileiros no exterior",
-                                               "b":  "A deficiência histórica de infraestrutura logística, somada à elevada carga tributária e à burocracia, que juntos encarecem a produção e a exportação de bens brasileiros",
-                                               "c":  "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país, tese contrariada pelo baixo investimento histórico brasileiro nesses modais",
+                                               "a":  "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país, tese contrariada pelo baixo investimento histórico brasileiro nesses modais",
+                                               "b":  "A valorização cambial do real frente ao dólar, apontada como causa isolada da perda de competitividade da produção nacional",
+                                               "c":  "A ausência de qualquer tributo sobre a produção industrial, o que reduziria artificialmente o custo de bens brasileiros no exterior",
                                                "d":  "A inexistência de qualquer imposto sobre operações de exportação ou importação no comércio exterior brasileiro",
-                                               "e":  "A valorização cambial do real frente ao dólar, apontada como causa isolada da perda de competitividade da produção nacional"
+                                               "e":  "A deficiência histórica de infraestrutura logística, somada à elevada carga tributária e à burocracia, que juntos encarecem a produção e a exportação de bens brasileiros"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "e",
                           "explicacao":  "O \u0027Custo Brasil\u0027 refere-se a fatores estruturais — infraestrutura logística deficiente, elevada carga tributária, burocracia e insegurança jurídica — que encarecem a produção e a exportação de bens no país. O Brasil não investiu excessivamente em ferrovias e hidrovias (pelo contrário, investiu pouco), a carga tributária sobre a produção é elevada, não ausente, e o comércio exterior brasileiro é, sim, tributado.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14531,13 +14756,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027direito à cidade\u0027, desenvolvido originalmente pelo filósofo Henri Lefebvre e amplamente discutido pela geografia urbana crítica, defende que:",
                           "alternativas":  {
-                                               "a":  "O planejamento urbano deve ser decidido exclusivamente por especialistas técnicos, sem qualquer participação da população nas decisões",
-                                               "b":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores, leitura que inverte a lógica original do conceito de Lefebvre",
-                                               "c":  "O direito à cidade se aplica apenas aos proprietários de imóveis localizados nas áreas centrais e mais valorizadas dos grandes centros urbanos",
-                                               "d":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir de seus espaços e serviços, participando das decisões sobre o planejamento urbano",
-                                               "e":  "O direito de adquirir e manter a propriedade de um imóvel urbano é assegurado a todos, sendo essa a base do conceito"
+                                               "a":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir de seus espaços e serviços, participando das decisões sobre o planejamento urbano",
+                                               "b":  "O direito de adquirir e manter a propriedade de um imóvel urbano é assegurado a todos, sendo essa a base do conceito",
+                                               "c":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores, leitura que inverte a lógica original do conceito de Lefebvre",
+                                               "d":  "O planejamento urbano deve ser decidido exclusivamente por especialistas técnicos, sem qualquer participação da população nas decisões",
+                                               "e":  "O direito à cidade se aplica apenas aos proprietários de imóveis localizados nas áreas centrais e mais valorizadas dos grandes centros urbanos"
                                            },
-                          "resposta":  "d",
+                          "resposta":  "a",
                           "explicacao":  "O conceito de \u0027direito à cidade\u0027, de Henri Lefebvre, incorporado no Brasil ao Estatuto da Cidade, defende que todos os habitantes urbanos têm direito de usufruir do espaço, dos serviços e de participar das decisões sobre o planejamento urbano. Ele se contrapõe, e não se resume, a um planejamento apenas técnico, a um privilégio de proprietários de áreas centrais, ou à priorização do mercado imobiliário sobre o bem-estar coletivo.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14547,11 +14772,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O processo de desertificação, observado em algumas áreas do semiárido nordestino brasileiro, refere-se a:",
                           "alternativas":  {
-                                               "a":  "Transformação definitiva de qualquer bioma brasileiro em deserto, processo já concluído em toda a extensão do semiárido nordestino",
+                                               "a":  "Avanço das areias de um deserto já existente sobre áreas vizinhas, processo determinado por dinâmicas naturais de longo prazo",
                                                "b":  "Degradação de solos em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação de fatores climáticos com práticas humanas inadequadas de uso do solo",
-                                               "c":  "Um fenômeno restrito a regiões situadas exatamente sobre a linha do Equador, o que exclui o semiárido nordestino brasileiro",
-                                               "d":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido, engano frequente que ignora a ação humana associada ao fenômeno",
-                                               "e":  "Avanço das areias de um deserto já existente sobre áreas vizinhas, processo determinado por dinâmicas naturais de longo prazo"
+                                               "c":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido, engano frequente que ignora a ação humana associada ao fenômeno",
+                                               "d":  "Um fenômeno restrito a regiões situadas exatamente sobre a linha do Equador, o que exclui o semiárido nordestino brasileiro",
+                                               "e":  "Transformação definitiva de qualquer bioma brasileiro em deserto, processo já concluído em toda a extensão do semiárido nordestino"
                                            },
                           "resposta":  "b",
                           "explicacao":  "A desertificação é a degradação de solos em áreas de clima árido, semiárido ou subúmido seco, combinando fatores climáticos com práticas humanas inadequadas, como desmatamento da caatinga e superpastoreio. Não se trata de um processo já concluído em toda a região, não está restrito a áreas equatoriais (o semiárido nordestino fica distante da linha do Equador), e ocorre justamente em áreas de clima semiárido, não em desertos já formados.",
@@ -14563,10 +14788,10 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Estudos do Ministério do Meio Ambiente identificam, no semiárido brasileiro, \u0027núcleos de desertificação\u0027 — áreas mais críticas de degradação do solo —, entre os quais se destacam regiões como o Seridó (Rio Grande do Norte e Paraíba), Gilbués (Piauí) e Cabrobó (Pernambuco).",
                           "enunciado":  "A identificação desses núcleos específicos, em vez de se referir à desertificação de todo o semiárido de forma homogênea, evidencia que esse processo:",
                           "alternativas":  {
-                                               "a":  "Não guarda qualquer relação com práticas humanas de uso do solo, decorrendo apenas de variações climáticas naturais e cíclicas",
-                                               "b":  "Distribui-se de maneira homogênea por todo o semiárido, já que a região partilha as mesmas condições climáticas em toda a sua extensão",
-                                               "c":  "Ocorre de maneira absolutamente uniforme em toda a extensão do semiárido nordestino, sem qualquer variação espacial entre os núcleos e o restante da região",
-                                               "d":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões, conclusão que contraria os próprios dados de monitoramento ambiental apresentados no mapa",
+                                               "a":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões, conclusão que contraria os próprios dados de monitoramento ambiental apresentados no mapa",
+                                               "b":  "Não guarda qualquer relação com práticas humanas de uso do solo, decorrendo apenas de variações climáticas naturais e cíclicas",
+                                               "c":  "Distribui-se de maneira homogênea por todo o semiárido, já que a região partilha as mesmas condições climáticas em toda a sua extensão",
+                                               "d":  "Ocorre de maneira absolutamente uniforme em toda a extensão do semiárido nordestino, sem qualquer variação espacial entre os núcleos e o restante da região",
                                                "e":  "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica"
                                            },
                           "resposta":  "e",
@@ -14579,13 +14804,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Nas últimas décadas, ganhou espaço, em contraposição a antigas políticas de \u0027combate à seca\u0027, o paradigma da \u0027convivência com o semiárido\u0027, que propõe:",
                           "alternativas":  {
-                                               "a":  "A remoção definitiva de toda a população do semiárido nordestino para regiões de clima mais úmido do país",
-                                               "b":  "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva, medida que contraria a própria noção de convivência com o semiárido",
-                                               "c":  "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido, permitindo que a população permaneça na região com melhor qualidade de vida",
-                                               "d":  "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região, proposta que ignora décadas de tecnologias sociais consolidadas",
+                                               "a":  "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva, medida que contraria a própria noção de convivência com o semiárido",
+                                               "b":  "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido, permitindo que a população permaneça na região com melhor qualidade de vida",
+                                               "c":  "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região, proposta que ignora décadas de tecnologias sociais consolidadas",
+                                               "d":  "A remoção definitiva de toda a população do semiárido nordestino para regiões de clima mais úmido do país",
                                                "e":  "A ampliação de obras de transposição e de grandes açudes como via principal, mantendo a lógica das políticas anteriores"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "O paradigma da \u0027convivência com o semiárido\u0027 propõe tecnologias sociais adaptadas, como cisternas para captação de água, permitindo que a população permaneça na região com melhor qualidade de vida, em contraposição ao antigo paradigma do \u0027combate à seca\u0027. Não propõe remoção da população, não substitui as tecnologias sociais por grandes barragens como única saída (pelo contrário, contrapõe-se a essa lógica), e não proíbe a agricultura na região.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14627,13 +14852,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Além das favelas, outra forma de habitação precária historicamente presente em grandes cidades brasileiras, sobretudo em áreas centrais, é o cortiço. A principal diferença entre favela e cortiço está no fato de que o cortiço:",
                           "alternativas":  {
-                                               "a":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha",
-                                               "b":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas, equívoco que ignora as condições reais de habitação nesses locais",
-                                               "c":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas, confusão comum mas incorreta sobre a origem do termo",
-                                               "d":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades, engano que inverte o perfil socioeconômico típico dessa habitação",
+                                               "a":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas, confusão comum mas incorreta sobre a origem do termo",
+                                               "b":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades, engano que inverte o perfil socioeconômico típico dessa habitação",
+                                               "c":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha",
+                                               "d":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas, equívoco que ignora as condições reais de habitação nesses locais",
                                                "e":  "Consiste no parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico regular junto ao município"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "c",
                           "explicacao":  "O cortiço consiste no aproveitamento de uma edificação já existente, subdividida em cômodos alugados a famílias distintas que compartilham áreas comuns, diferentemente da favela, formada por construções autônomas em terrenos ocupados irregularmente. Não é uma moradia de alta renda, frequentemente apresenta superlotação e infraestrutura precária, e é tipicamente urbano, não rural.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14643,11 +14868,11 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Programas habitacionais de interesse social no Brasil, como o Minha Casa Minha Vida, foram criticados por parte de urbanistas por, em muitos casos, construir conjuntos habitacionais em áreas periféricas e distantes dos centros de emprego e serviços das cidades. Essa crítica está relacionada, sobretudo, ao fato de que:",
                           "alternativas":  {
-                                               "a":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários, leitura que contraria os relatos de moradores sobre o tempo gasto em deslocamentos",
-                                               "b":  "Os conjuntos habitacionais desse programa foram construídos, em sua maioria, em áreas rurais, fora do perímetro urbano dos municípios",
-                                               "c":  "O programa construiu a totalidade de suas unidades habitacionais em áreas centrais já consolidadas e bem servidas de infraestrutura",
+                                               "a":  "Uma exigência legal de área verde mínima por unidade habitacional, que inviabilizaria empreendimentos em terrenos centrais",
+                                               "b":  "O programa construiu a totalidade de suas unidades habitacionais em áreas centrais já consolidadas e bem servidas de infraestrutura",
+                                               "c":  "Os conjuntos habitacionais desse programa foram construídos, em sua maioria, em áreas rurais, fora do perímetro urbano dos municípios",
                                                "d":  "Terrenos mais baratos, geralmente localizados na periferia, favorecem financeiramente a construção em maior escala, mas podem gerar novas formas de segregação socioespacial",
-                                               "e":  "Uma exigência legal de área verde mínima por unidade habitacional, que inviabilizaria empreendimentos em terrenos centrais"
+                                               "e":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários, leitura que contraria os relatos de moradores sobre o tempo gasto em deslocamentos"
                                            },
                           "resposta":  "d",
                           "explicacao":  "A construção de conjuntos habitacionais em terrenos periféricos mais baratos é criticada por reproduzir padrões de segregação socioespacial, com longos e custosos deslocamentos diários até empregos e serviços. O programa não se concentrou em áreas centrais consolidadas, a localização periférica tende a aumentar, não eliminar, custos de mobilidade, e os conjuntos foram construídos majoritariamente dentro do perímetro urbano, ainda que em áreas periféricas dele.",
@@ -14659,13 +14884,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A priorização de sistemas de transporte coletivo de qualidade (como metrôs, trens urbanos e corredores de ônibus) em detrimento do incentivo ao uso do automóvel particular é frequentemente defendida, na geografia urbana, como estratégia para:",
                           "alternativas":  {
-                                               "a":  "Aumentar deliberadamente o tempo médio de deslocamento da população, como forma de desestimular viagens desnecessárias",
-                                               "b":  "Eliminar por completo a necessidade de qualquer forma de transporte motorizado nas grandes cidades brasileiras",
-                                               "c":  "Reduzir o congestionamento, a poluição do ar e o tempo médio de deslocamento da população, promovendo uma mobilidade urbana mais eficiente, equitativa e sustentável",
+                                               "a":  "Eliminar a circulação de automóveis particulares nas áreas centrais, condição apontada como necessária para o sistema funcionar",
+                                               "b":  "Reduzir o congestionamento, a poluição do ar e o tempo médio de deslocamento da população, promovendo uma mobilidade urbana mais eficiente, equitativa e sustentável",
+                                               "c":  "Eliminar por completo a necessidade de qualquer forma de transporte motorizado nas grandes cidades brasileiras",
                                                "d":  "Beneficiar exclusivamente famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público",
-                                               "e":  "Eliminar a circulação de automóveis particulares nas áreas centrais, condição apontada como necessária para o sistema funcionar"
+                                               "e":  "Aumentar deliberadamente o tempo médio de deslocamento da população, como forma de desestimular viagens desnecessárias"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "Sistemas de transporte coletivo de qualidade são apontados como estratégia central para reduzir congestionamento, poluição do ar e tempo de deslocamento, além de promover maior equidade na mobilidade urbana. Esses sistemas beneficiam sobretudo a população que não possui automóvel próprio, geralmente de menor renda; não eliminam todo transporte motorizado (o próprio transporte coletivo é motorizado); e visam reduzir, não aumentar, o tempo de deslocamento.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14675,13 +14900,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Um gráfico compara a repartição modal das viagens diárias em duas cidades: na Cidade A, 60% das viagens são feitas de automóvel particular, 25% de transporte coletivo e 15% a pé ou de bicicleta; na Cidade B, 25% das viagens são feitas de automóvel particular, 55% de transporte coletivo e 20% a pé ou de bicicleta.",
                           "enunciado":  "Considerando apenas esses dados de repartição modal, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular",
-                                               "b":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos, hipótese que os dados claramente desmentem",
+                                               "a":  "A Cidade A tende a apresentar menores níveis de emissão, já que a maior participação do transporte individual reduz o número de viagens",
+                                               "b":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular",
                                                "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os percentuais apresentados",
                                                "d":  "Não é possível comparar padrões de mobilidade urbana entre cidades diferentes com base em dados de repartição modal",
-                                               "e":  "A Cidade A tende a apresentar menores níveis de emissão, já que a maior participação do transporte individual reduz o número de viagens"
+                                               "e":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos, hipótese que os dados claramente desmentem"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "b",
                           "explicacao":  "Com 60% das viagens de automóvel particular, a Cidade A apresenta padrão de mobilidade mais dependente de veículos individuais, tendendo a maior congestionamento e emissão de poluentes; a Cidade B, com 25% de automóvel e 55% de transporte coletivo, apresenta padrão mais sustentável. As duas cidades não têm o mesmo padrão, é a Cidade A, não a B, que depende mais do automóvel, e a comparação entre cidades com base em repartição modal é exatamente o tipo de análise feita pela geografia dos transportes urbanos.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14692,12 +14917,12 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O Objetivo de Desenvolvimento Sustentável (ODS) número 11 da ONU, intitulado \u0027Cidades e Comunidades Sustentáveis\u0027, busca, entre outras metas, promover:",
                           "alternativas":  {
                                                "a":  "A eliminação de qualquer meta relacionada a moradia, concentrando-se apenas em indicadores de mobilidade urbana",
-                                               "b":  "A substituição de todo o transporte público das cidades por veículos particulares individuais, como estratégia de mobilidade",
-                                               "c":  "O acesso a moradia digna, transporte público sustentável, espaços públicos seguros e a redução do impacto ambiental das cidades, tornando-as mais inclusivas, seguras, resilientes e sustentáveis",
-                                               "d":  "A restrição do crescimento urbano exclusivamente aos países desenvolvidos, mantendo os países em desenvolvimento predominantemente rurais, proposta incompatível com o caráter global do ODS 11",
-                                               "e":  "A universalização do saneamento básico como meta única do objetivo, sem previsão de outras dimensões da vida urbana"
+                                               "b":  "A universalização do saneamento básico como meta única do objetivo, sem previsão de outras dimensões da vida urbana",
+                                               "c":  "A restrição do crescimento urbano exclusivamente aos países desenvolvidos, mantendo os países em desenvolvimento predominantemente rurais, proposta incompatível com o caráter global do ODS 11",
+                                               "d":  "A substituição de todo o transporte público das cidades por veículos particulares individuais, como estratégia de mobilidade",
+                                               "e":  "O acesso a moradia digna, transporte público sustentável, espaços públicos seguros e a redução do impacto ambiental das cidades, tornando-as mais inclusivas, seguras, resilientes e sustentáveis"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "e",
                           "explicacao":  "O ODS 11 busca tornar as cidades mais inclusivas, seguras, resilientes e sustentáveis, incluindo metas de moradia digna, transporte público sustentável e espaços públicos acessíveis. Não restringe a urbanização a países desenvolvidos, não propõe substituir transporte público por veículos particulares (ao contrário, defende o transporte coletivo), e inclui moradia como uma de suas metas centrais, não a exclui.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14707,13 +14932,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "O conceito de \u0027cidade inteligente\u0027 (smart city), que propõe o uso intensivo de tecnologia e dados para melhorar a gestão urbana (como semáforos inteligentes, monitoramento de tráfego e serviços públicos digitais), é criticado por parte de geógrafos urbanos porque:",
                           "alternativas":  {
-                                               "a":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão, definição que ignora exatamente o uso intensivo de tecnologia que caracteriza o conceito",
-                                               "b":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais",
-                                               "c":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia, leitura ingênua que ignora as barreiras de acesso entre grupos sociais",
-                                               "d":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade, crítica que desconsidera ganhos reais já obtidos em algumas cidades",
-                                               "e":  "A adoção de tecnologia urbana reduz por si só as desigualdades socioespaciais, independentemente de onde os sistemas são instalados"
+                                               "a":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais",
+                                               "b":  "A adoção de tecnologia urbana reduz por si só as desigualdades socioespaciais, independentemente de onde os sistemas são instalados",
+                                               "c":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade, crítica que desconsidera ganhos reais já obtidos em algumas cidades",
+                                               "d":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão, definição que ignora exatamente o uso intensivo de tecnologia que caracteriza o conceito",
+                                               "e":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia, leitura ingênua que ignora as barreiras de acesso entre grupos sociais"
                                            },
-                          "resposta":  "b",
+                          "resposta":  "a",
                           "explicacao":  "A crítica de parte dos geógrafos urbanos está no risco de que investimentos tecnológicos se concentrem em áreas já privilegiadas, aprofundando desigualdades caso não haja investimento equivalente em infraestrutura básica das periferias. O conceito não elimina desigualdades automaticamente, uma cidade inteligente por definição usa tecnologia digital (é sua característica central), e a crítica não nega todo benefício, mas aponta riscos de desigualdade na sua implementação.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14723,13 +14948,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Enquanto grandes metrópoles enfrentam desafios ligados ao crescimento urbano acelerado, muitos pequenos municípios do interior do Brasil, sobretudo em áreas rurais menos dinâmicas economicamente, enfrentam o problema inverso, relacionado a:",
                           "alternativas":  {
-                                               "a":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente",
-                                               "b":  "A ausência de qualquer conexão entre esses municípios e o processo geral de urbanização observado no restante do país",
-                                               "c":  "Um crescimento populacional acelerado, motivado pela chegada constante de novos moradores vindos das capitais estaduais",
-                                               "d":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura, cenário oposto ao que de fato ocorre nesses municípios",
+                                               "a":  "A ausência de qualquer conexão entre esses municípios e o processo geral de urbanização observado no restante do país",
+                                               "b":  "Um crescimento populacional acelerado, motivado pela chegada constante de novos moradores vindos das capitais estaduais",
+                                               "c":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura, cenário oposto ao que de fato ocorre nesses municípios",
+                                               "d":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente",
                                                "e":  "Crescimento populacional acelerado, decorrente do retorno de famílias que deixaram as metrópoles em busca de menor custo de vida"
                                            },
-                          "resposta":  "a",
+                          "resposta":  "d",
                           "explicacao":  "Muitos pequenos municípios enfrentam esvaziamento populacional, causado pela saída de jovens em busca de oportunidades em cidades maiores, o que acentua o envelhecimento da população remanescente. Não há, nesses municípios, crescimento populacional acelerado nem excesso de oferta de emprego industrial — pelo contrário, a escassez de oportunidades é a causa do esvaziamento, fenômeno que ocorre em paralelo, e não isolado, do processo geral de urbanização do país.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14757,11 +14982,11 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Exclusivamente da falta de chuvas, sem qualquer relação com a gestão dos recursos hídricos disponíveis na região metropolitana",
                                                "b":  "Uma redução do consumo de água por parte da população urbana, que teria sobrecarregado os sistemas de tratamento",
-                                               "c":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível, hipótese que contraria o padrão observado nas regiões metropolitanas",
+                                               "c":  "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água",
                                                "d":  "O consumo industrial concentrado nas regiões metropolitanas, responsável isoladamente pela redução da água disponível à população",
-                                               "e":  "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água"
+                                               "e":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível, hipótese que contraria o padrão observado nas regiões metropolitanas"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "c",
                           "explicacao":  "Crises hídricas metropolitanas geralmente resultam da combinação entre fatores climáticos e fatores de gestão, como crescimento da demanda urbana e perdas na rede de distribuição. Não decorrem apenas da falta de chuvas isoladamente, não são causadas por excesso de investimento em infraestrutura (pelo contrário, a subutilização é o problema comum), e não se relacionam a uma redução do consumo, mas sim ao crescimento da demanda.",
                           "dificuldade":  "media",
                           "formato":  "direta"
@@ -14788,10 +15013,10 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Esse processo consiste em:",
                           "alternativas":  {
                                                "a":  "Um processo que remove o excesso de sal e outros minerais da água do mar, tornando-a própria para consumo humano e outros usos que exigem água doce",
-                                               "b":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam, afirmação exagerada mesmo nos países que mais a utilizam",
-                                               "c":  "Um processo que transforma água doce de rios e lagos em água salgada, para uso industrial em regiões costeiras",
-                                               "d":  "Um método exclusivo de purificação de água de rios poluídos, sem qualquer relação com a água do mar",
-                                               "e":  "Um processo que remove matéria orgânica e agentes patogênicos de águas residuais, devolvendo-as tratadas aos cursos d\u0027água"
+                                               "b":  "Um método exclusivo de purificação de água de rios poluídos, sem qualquer relação com a água do mar",
+                                               "c":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam, afirmação exagerada mesmo nos países que mais a utilizam",
+                                               "d":  "Um processo que remove matéria orgânica e agentes patogênicos de águas residuais, devolvendo-as tratadas aos cursos d\u0027água",
+                                               "e":  "Um processo que transforma água doce de rios e lagos em água salgada, para uso industrial em regiões costeiras"
                                            },
                           "resposta":  "a",
                           "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar (ou salobra), tornando-a própria para consumo humano, irrigação e uso industrial. Não transforma água doce em salgada, não se limita à purificação de rios poluídos, e mesmo países que a adotam em larga escala normalmente combinam essa fonte com outras, não a utilizam como única solução hídrica.",
@@ -14803,13 +15028,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "Apesar de ser uma solução tecnicamente viável para a escassez de água doce, a dessalinização da água do mar ainda não é amplamente adotada em todas as regiões costeiras do mundo com problemas hídricos, principalmente porque:",
                           "alternativas":  {
-                                               "a":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo, equívoco sobre uma tecnologia já consolidada comercialmente",
-                                               "b":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola, afirmação que contraria projetos de irrigação já em operação no Oriente Médio",
-                                               "c":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia",
-                                               "d":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro, restrição inexistente em qualquer acordo ambiental vigente",
-                                               "e":  "O descarte da salmoura resultante exige transporte terrestre a longas distâncias, sendo esse o principal componente do custo"
+                                               "a":  "O descarte da salmoura resultante exige transporte terrestre a longas distâncias, sendo esse o principal componente do custo",
+                                               "b":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia",
+                                               "c":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola, afirmação que contraria projetos de irrigação já em operação no Oriente Médio",
+                                               "d":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo, equívoco sobre uma tecnologia já consolidada comercialmente",
+                                               "e":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro, restrição inexistente em qualquer acordo ambiental vigente"
                                            },
-                          "resposta":  "c",
+                          "resposta":  "b",
                           "explicacao":  "A dessalinização exige grande quantidade de energia, o que eleva seu custo frente a fontes tradicionais, tornando sua adoção em larga escala mais viável em países com energia abundante e barata, como os do Golfo Pérsico. A tecnologia já está em operação comercial há décadas (não é experimental), não há tratado internacional que a proíba, e a água dessalinizada pode, sim, ser usada para irrigação, ainda que com custo elevado.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
@@ -14819,10 +15044,10 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A chamada \u0027agricultura de precisão\u0027, cada vez mais utilizada no agronegócio brasileiro, envolve o uso de tecnologias como GPS, sensores e imagens de satélite para:",
                           "alternativas":  {
-                                               "a":  "Desenvolver variedades geneticamente modificadas resistentes a pragas, dispensando o monitoramento das condições do solo",
+                                               "a":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada, leitura equivocada de uma tecnologia que frequentemente se soma à mecanização existente",
                                                "b":  "Eliminar por completo a necessidade de mão de obra humana em todas as etapas da produção agrícola",
-                                               "c":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada, cenário inviável mesmo com o avanço dessas tecnologias",
-                                               "d":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada, leitura equivocada de uma tecnologia que frequentemente se soma à mecanização existente",
+                                               "c":  "Desenvolver variedades geneticamente modificadas resistentes a pragas, dispensando o monitoramento das condições do solo",
+                                               "d":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada, cenário inviável mesmo com o avanço dessas tecnologias",
                                                "e":  "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas"
                                            },
                           "resposta":  "e",
@@ -14851,16 +15076,271 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A expansão da fronteira agrícola brasileira nas últimas décadas, combinando ganhos de produtividade com aumento da área plantada, ilustra um dos principais desafios da geografia econômica e ambiental contemporânea do país, que é:",
                           "alternativas":  {
-                                               "a":  "Reduzir a produção agrícola brasileira a níveis anteriores à década de 1970, como única forma de proteger os biomas nativos do país",
-                                               "b":  "Desvincular por completo a expansão agropecuária brasileira de qualquer debate sobre desmatamento ou sustentabilidade ambiental",
-                                               "c":  "Escolher entre manter a posição de grande produtor de commodities ou conservar os biomas nativos, objetivos tidos como incompatíveis entre si",
-                                               "d":  "Transferir integralmente a produção de commodities agrícolas brasileiras para outros países, eliminando a fronteira agrícola nacional, medida distante das políticas comerciais efetivamente adotadas pelo país",
-                                               "e":  "Conciliar o papel do Brasil como um dos maiores produtores mundiais de commodities agrícolas com a necessidade de conter o desmatamento de biomas nativos, como o Cerrado e a Amazônia"
+                                               "a":  "Transferir integralmente a produção de commodities agrícolas brasileiras para outros países, eliminando a fronteira agrícola nacional, medida distante das políticas comerciais efetivamente adotadas pelo país",
+                                               "b":  "Escolher entre manter a posição de grande produtor de commodities ou conservar os biomas nativos, objetivos tidos como incompatíveis entre si",
+                                               "c":  "Reduzir a produção agrícola brasileira a níveis anteriores à década de 1970, como única forma de proteger os biomas nativos do país",
+                                               "d":  "Conciliar o papel do Brasil como um dos maiores produtores mundiais de commodities agrícolas com a necessidade de conter o desmatamento de biomas nativos, como o Cerrado e a Amazônia",
+                                               "e":  "Desvincular por completo a expansão agropecuária brasileira de qualquer debate sobre desmatamento ou sustentabilidade ambiental"
                                            },
-                          "resposta":  "e",
+                          "resposta":  "d",
                           "explicacao":  "A posição do Brasil como grande produtor e exportador de commodities agrícolas coloca o país diante do desafio de conciliar essa relevância econômica com a contenção do desmatamento de biomas como o Cerrado e a Amazônia, promovendo práticas mais sustentáveis. O desafio não é reduzir a produção a níveis históricos anteriores, nem transferir a produção a outros países, e o debate ambiental está cada vez mais integrado, não dissociado, das discussões sobre expansão agropecuária.",
                           "dificuldade":  "media",
                           "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-151",
+                          "texto_apoio":  "A matriz elétrica brasileira é majoritariamente renovável, com predomínio histórico da geração hidrelétrica e expansão recente das fontes eólica e solar, sobretudo no Nordeste.",
+                          "enunciado":  "Sobre a matriz elétrica brasileira, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A predominância hidrelétrica torna a geração sensível a regimes de chuva, o que explica o acionamento de termelétricas em períodos de seca.\n( ) A expansão eólica no Nordeste aproveita a regularidade dos ventos alísios, o que confere ao parque gerador da região fator de capacidade elevado.\n( ) Por ser majoritariamente renovável, a matriz elétrica brasileira dispensa investimentos em linhas de transmissão de longa distância.\nA sequência correta, na ordem apresentada, é",
+                          "alternativas":  {
+                                               "a":  "V - V - F",
+                                               "b":  "F - V - V",
+                                               "c":  "F - F - V",
+                                               "d":  "V - F - V",
+                                               "e":  "V - V - V"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "As duas primeiras são corretas: a dependência hidrelétrica de fato explica o acionamento térmico na seca, e a regularidade dos alísios dá ao Nordeste um dos melhores fatores de capacidade eólica do mundo. A terceira inverte a realidade — como a geração está longe dos centros de consumo, a matriz renovável brasileira exige mais transmissão, não menos.",
+                          "formato":  "vf"
+                      },
+                      {
+                          "id":  "geografia-152",
+                          "texto_apoio":  "A urbanização brasileira acelerou-se a partir da segunda metade do século XX, acompanhada de metropolização, periferização e, mais recentemente, do crescimento de cidades médias.",
+                          "enunciado":  "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A rapidez do processo fez coincidir no tempo o êxodo rural, a concentração populacional nas grandes cidades e a metropolização.\n( ) O crescimento das periferias reflete, principalmente, a segregação socioespacial produzida pelo preço da terra urbana.\n( ) O espraiamento associado ao transporte individual ampliou o acesso da população pobre às áreas centrais dotadas de infraestrutura.\nA sequência correta, na ordem apresentada, é",
+                          "alternativas":  {
+                                               "a":  "V - V - V",
+                                               "b":  "V - V - F",
+                                               "c":  "F - V - V",
+                                               "d":  "F - F - V",
+                                               "e":  "V - F - F"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A simultaneidade dos três processos e a segregação pelo preço da terra são corretas. A terceira afirmativa inverte o efeito: a cidade do automóvel afastou a população pobre das áreas centrais, encarecendo o deslocamento em vez de facilitar o acesso.",
+                          "formato":  "vf"
+                      },
+                      {
+                          "id":  "geografia-153",
+                          "texto_apoio":  "O agronegócio brasileiro concentra parte expressiva das exportações nacionais, e o escoamento da produção depende de uma infraestrutura de transporte historicamente rodoviária.",
+                          "enunciado":  "Sobre a logística de escoamento agrícola no Brasil, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O predomínio do modal rodoviário eleva o custo por tonelada-quilômetro em cargas de baixo valor agregado e longas distâncias.\n( ) A ampliação do uso dos portos do Arco Norte encurta o trajeto da produção do Centro-Oeste em direção a parte dos mercados externos.\n( ) A intermodalidade é desaconselhável para commodities, por exigir transbordo e elevar perdas.\nA sequência correta, na ordem apresentada, é",
+                          "alternativas":  {
+                                               "a":  "V - V - F",
+                                               "b":  "F - F - F",
+                                               "c":  "V - F - V",
+                                               "d":  "F - V - F",
+                                               "e":  "V - V - V"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "As duas primeiras são corretas: rodovia é o modal mais caro para granel a longa distância, e o Arco Norte encurta a rota do Centro-Oeste. A terceira inverte o consenso logístico — justamente para commodities, ferrovia e hidrovia são mais eficientes, e o transbordo é compensado pelo ganho de escala.",
+                          "formato":  "vf"
+                      },
+                      {
+                          "id":  "geografia-154",
+                          "texto_apoio":  "As projeções cartográficas transformam a superfície curva da Terra num plano, e toda projeção implica algum tipo de deformação.",
+                          "enunciado":  "Sobre projeções cartográficas, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A projeção de Mercator preserva os ângulos, o que a tornou útil à navegação, mas deforma progressivamente as áreas em direção aos polos.\n( ) Projeções equivalentes preservam as proporções de área, ao custo de distorcer as formas.\n( ) É possível construir uma projeção que preserve simultaneamente ângulos, áreas e distâncias.\nA sequência correta, na ordem apresentada, é",
+                          "alternativas":  {
+                                               "a":  "V - V - V",
+                                               "b":  "F - V - F",
+                                               "c":  "V - V - F",
+                                               "d":  "V - F - V",
+                                               "e":  "F - F - F"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Mercator é conforme, e sua utilidade náutica vem justamente da preservação dos ângulos; projeções equivalentes trocam forma por área. A terceira é o ponto central: nenhuma projeção preserva tudo ao mesmo tempo, e é por isso que a escolha da projeção é sempre uma decisão sobre o que se aceita perder.",
+                          "formato":  "vf"
+                      },
+                      {
+                          "id":  "geografia-155",
+                          "texto_apoio":  "A dinâmica das placas tectônicas explica a distribuição de cadeias montanhosas, vulcões, fossas e atividade sísmica na superfície terrestre.",
+                          "enunciado":  "Sobre limites de placas tectônicas, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) Limites divergentes produzem vales em fenda e dorsais oceânicas, onde nova crosta é gerada.\n( ) A colisão entre duas placas continentais tende a formar cadeias montanhosas por dobramento, sem subducção expressiva.\n( ) O território brasileiro situa-se em zona de contato entre placas, o que explica sua intensa atividade sísmica.\nA sequência correta, na ordem apresentada, é",
+                          "alternativas":  {
+                                               "a":  "F - V - F",
+                                               "b":  "V - V - V",
+                                               "c":  "V - F - V",
+                                               "d":  "V - V - F",
+                                               "e":  "F - V - V"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Divergência gera crosta nova em dorsais e riftes; colisão continente-continente dobra e ergue montanhas sem subducção significativa, já que as duas placas têm densidade semelhante. A terceira é falsa: o Brasil está em posição intraplaca, longe das bordas, e por isso tem sismicidade baixa.",
+                          "formato":  "vf"
+                      },
+                      {
+                          "id":  "geografia-156",
+                          "texto_apoio":  "Uma fotografia mostra uma obra de contenção construída na encosta de uma área rural degradada, onde a água de escoamento superficial havia aberto um sulco profundo e ramificado no terreno.",
+                          "enunciado":  "A feição erosiva combatida pela obra é ____________ , e ela se forma quando ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a voçoroca - o solo é compactado pelo pisoteio do gado",
+                                               "b":  "a laterização - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático",
+                                               "c":  "a voçoroca - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático",
+                                               "d":  "a salinização - o escoamento superficial concentrado aprofunda sulcos até atingir o lençol freático",
+                                               "e":  "a voçoroca - a água do mar avança sobre a linha de costa"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Voçoroca é o estágio avançado da erosão linear, quando o sulco atinge o lençol freático e passa a se ampliar sozinho. Duas opções acertam \"voçoroca\" e erram o processo, e duas trocam a feição mantendo a descrição correta — o item só se resolve julgando as duas lacunas.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-157",
+                          "texto_apoio":  "Uma figura ilustra a determinação da posição de um receptor na superfície terrestre a partir de sinais emitidos por uma constelação de satélites.",
+                          "enunciado":  "A tecnologia representada é ____________ , e ela se distingue de um Sistema de Informação Geográfica porque este último ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a aerofotogrametria - integra, armazena e analisa dados espaciais de fontes diversas",
+                                               "b":  "o Sistema de Posicionamento Global - capta imagens da superfície por sensores orbitais",
+                                               "c":  "o sensoriamento remoto - integra, armazena e analisa dados espaciais de fontes diversas",
+                                               "d":  "o Sistema de Posicionamento Global - registra o relevo a partir de fotografias aéreas sobrepostas",
+                                               "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais de fontes diversas"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O GPS determina posição; o SIG integra e analisa camadas de dados espaciais. Duas opções acertam o GPS e descrevem, na segunda lacuna, sensoriamento remoto e aerofotogrametria — tecnologias vizinhas que costumam ser confundidas com o SIG.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-158",
+                          "texto_apoio":  "Um mapa do Censo Demográfico indicava fluxos de população saindo das regiões Sudeste e Sul em direção ao Nordeste, invertendo o sentido predominante das décadas anteriores.",
+                          "enunciado":  "A tendência representada é ____________ , e ela se explica sobretudo por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a migração de retorno - aumento da taxa de fecundidade no Nordeste",
+                                               "b":  "a transição demográfica - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem",
+                                               "c":  "a migração de retorno - abertura de novas fronteiras agrícolas na Amazônia",
+                                               "d":  "o êxodo rural - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem",
+                                               "e":  "a migração de retorno - retração das oportunidades nas áreas de destino e vínculos mantidos com a região de origem"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Migração de retorno é o regresso do migrante à região de origem, e ela se intensifica quando o destino perde capacidade de absorver mão de obra. Duas opções acertam o fenômeno e oferecem causas que não o explicam — fecundidade e fronteira agrícola são outros processos.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-159",
+                          "texto_apoio":  "Um mapa do IBGE mostra o percentual de domicílios ligados à rede geral de abastecimento de água, com desempenho mais baixo na região Norte.",
+                          "enunciado":  "O padrão observado indica que a cobertura de saneamento no Brasil é ____________ , e o caso do Norte mostra que ela ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "desigual entre as regiões - acompanha diretamente a disponibilidade de água superficial de cada região",
+                                               "b":  "homogênea entre as regiões - não decorre automaticamente da abundância de recursos hídricos",
+                                               "c":  "determinada pelo clima - não decorre automaticamente da abundância de recursos hídricos",
+                                               "d":  "desigual entre as regiões - é maior onde a densidade demográfica é menor",
+                                               "e":  "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos, e sim de investimento em infraestrutura"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A região com maior disponibilidade hídrica do país tem a menor cobertura de rede: água disponível não é o mesmo que água distribuída. Duas opções acertam \"desigual\" e depois afirmam justamente a correlação que o mapa desmente.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-160",
+                          "texto_apoio":  "Um projeto saudita prevê erguer uma megacidade ultratecnológica em área desértica, com aeroportos, marinas, trens de alta velocidade e centros de negócios voltados a atrair capital internacional.",
+                          "enunciado":  "O empreendimento é expressão de ____________ , e seu objetivo econômico central é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção do país",
+                                               "b":  "uma industrialização clássica de concentração fabril - reduzir a dependência da renda do petróleo",
+                                               "c":  "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado já existente",
+                                               "d":  "uma reestruturação produtiva associada à globalização - reduzir a dependência da renda do petróleo diversificando a economia",
+                                               "e":  "uma retração dos investimentos estatais - reduzir a dependência da renda do petróleo"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Cidades planejadas para atrair capital e serviços são típicas da reestruturação produtiva sob globalização, e o objetivo declarado é diversificar uma economia dependente do petróleo. Note que o projeto envolve investimento estatal massivo, e não retração.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-161",
+                          "texto_apoio":  "Em municípios de Porto Rico, microrredes solares mantêm casas e serviços funcionando durante os frequentes apagões provocados por furacões e por problemas de gestão do setor elétrico.",
+                          "enunciado":  "A característica natural que favorece essa solução é ____________ , e a vantagem técnica da microrrede em relação ao sistema centralizado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede principal falha",
+                                               "b":  "a elevada incidência de radiação solar no clima tropical - eliminar a necessidade de manutenção dos equipamentos",
+                                               "c":  "a elevada incidência de radiação solar no clima tropical - continuar operando de forma autônoma quando a rede principal falha",
+                                               "d":  "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede principal falha",
+                                               "e":  "a elevada incidência de radiação solar no clima tropical - dispensar qualquer forma de armazenamento de energia"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A ilha está em latitude tropical, com radiação alta e constante, e a vantagem da microrrede é a autonomia diante da queda da rede principal. Duas opções acertam a causa natural e atribuem à microrrede virtudes que ela não tem — armazenamento é justamente o que a torna viável à noite.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-162",
+                          "texto_apoio":  "A produção de criptomoedas exige computadores que consomem grandes quantidades de energia elétrica para resolver problemas matemáticos, e algumas operações têm migrado para regiões com energia renovável abundante e barata.",
+                          "enunciado":  "Do ponto de vista ambiental, o uso dessas fontes permite ____________ , e do ponto de vista econômico o fenômeno ilustra ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "reduzir a pegada de carbono da atividade - a redefinição de centralidades a partir do custo da energia",
+                                               "b":  "reduzir a pegada de carbono da atividade - o equilíbrio automático na distribuição de renda",
+                                               "c":  "desvalorizar os créditos de carbono - a redefinição de centralidades a partir do custo da energia",
+                                               "d":  "eliminar integralmente as emissões do setor - a redefinição de centralidades a partir do custo da energia",
+                                               "e":  "reduzir a pegada de carbono da atividade - o fim dos impactos ambientais da mineração digital"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Fonte renovável reduz a pegada de carbono, mas não zera impactos — há uso de solo, água e equipamentos. E o deslocamento da atividade para onde a energia é barata é um caso claro de nova centralidade definida por custo de insumo.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-163",
+                          "texto_apoio":  "A Região Metropolitana de São Paulo passou, desde os anos 1980, a integrar um conjunto urbano de limites imprecisos que se estende por cerca de 200 km a partir da capital, articulando várias regiões metropolitanas.",
+                          "enunciado":  "Essa configuração é designada como ____________ , e ela resulta sobretudo de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "macrometrópole - retorno da indústria ao centro da capital",
+                                               "b":  "macrometrópole - reestruturação econômica e intensificação dos fluxos de pessoas, mercadorias e informações",
+                                               "c":  "macrometrópole - crescimento vegetativo da população da capital",
+                                               "d":  "conurbação simples - reestruturação econômica e intensificação dos fluxos",
+                                               "e":  "megalópole litorânea - reestruturação econômica e intensificação dos fluxos"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Macrometrópole descreve o território descontínuo e de limites imprecisos formado pela articulação de várias regiões metropolitanas, e o motor é a reestruturação econômica com intensificação de fluxos. Duas opções acertam o termo e apontam causas que não sustentam a escala descrita.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-164",
+                          "texto_apoio":  "Um sistema agrícola caracteriza-se por grandes extensões cultivadas com um único produto, substituição intensiva de trabalho por máquinas e aplicação localizada de insumos, com alta produtividade por trabalhador.",
+                          "enunciado":  "O sistema descrito é ____________ , e o traço que melhor o distingue da agricultura de subsistência é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a agricultura empresarial - a rotação de culturas em pequenas parcelas",
+                                               "b":  "a rizicultura submersa - a produção ser orientada pelo lucro e pela inserção em mercados",
+                                               "c":  "a agricultura empresarial - o uso exclusivo de mão de obra familiar",
+                                               "d":  "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados, e não pelo consumo da própria unidade produtora",
+                                               "e":  "a plantation colonial - a produção ser orientada pelo lucro e pela inserção em mercados"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Monocultura extensiva, mecanização e alta produtividade por trabalhador caracterizam a agricultura empresarial, cuja lógica é o mercado. Duas opções acertam o sistema e descrevem traços da agricultura familiar ou de subsistência, que é justamente o contraponto pedido.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-165",
+                          "texto_apoio":  "O Pantanal ocupa parte dos estados de Mato Grosso e Mato Grosso do Sul e constitui a maior área úmida continental do planeta, com dinâmica governada pelo pulso anual de inundação.",
+                          "enunciado":  "A principal ameaça antrópica ao bioma, entre as listadas, é ____________ , e o dano mais direto que ela provoca é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a elevação do nível do mar na região",
+                                               "b":  "a expansão de polos industriais de base pesada - a alteração do regime de inundação da planície",
+                                               "c":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a alteração do regime de inundação da planície",
+                                               "d":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a salinização dos solos por irrigação",
+                                               "e":  "a extração de petróleo em alto-mar - a alteração do regime de inundação da planície"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O que sustenta o Pantanal é o pulso de inundação, e ele depende das nascentes no planalto do entorno: desmatá-las altera todo o regime. Duas opções acertam a ameaça e apontam danos que não se aplicam a um bioma continental e sem irrigação intensiva.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-166",
+                          "texto_apoio":  "Um mapa divulgado em redes sociais destacava rotas de navegação ligando portos ao longo do litoral brasileiro, com ênfase no transporte de cargas de grande volume entre regiões do país.",
+                          "enunciado":  "O modal representado é ____________ , e sua principal vantagem para o tipo de carga indicado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "o transporte ferroviário - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado",
+                                               "b":  "a cabotagem - a independência em relação à infraestrutura portuária",
+                                               "c":  "a cabotagem - a maior velocidade de entrega em relação ao modal aéreo",
+                                               "d":  "a cabotagem - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado",
+                                               "e":  "o transporte dutoviário - o baixo custo por tonelada-quilômetro em produtos de baixo valor agregado"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Navegação entre portos do mesmo país é cabotagem, e sua vantagem é o custo baixo para grandes volumes de baixo valor agregado. Duas opções acertam o modal e lhe atribuem qualidades que ele não tem — cabotagem é lenta e depende inteiramente de portos.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-167",
+                          "texto_apoio":  "O relevo brasileiro apresenta estruturas geológicas antigas, mas formas de relevo relativamente recentes, produzidas e continuamente refeitas por processos erosivos.",
+                          "enunciado":  "A unidade de relevo de maior extensão no território nacional é ____________ , e a aparente contradição entre estruturas antigas e formas recentes explica-se porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "a Planície Litorânea - a erosão remodela continuamente a superfície de rochas antigas",
+                                               "b":  "o conjunto dos planaltos - as rochas brasileiras se formaram em período geológico recente",
+                                               "c":  "o conjunto dos planaltos - o território passou por intensa atividade tectônica no Quaternário",
+                                               "d":  "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas formadas há muito mais tempo",
+                                               "e":  "a Planície Amazônica - a erosão remodela continuamente a superfície de rochas antigas"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Planaltos ocupam a maior parte do território, e a chave está em separar estrutura de forma: a rocha é antiga, o modelado é recente porque a erosão nunca para. Duas opções acertam a unidade e explicam a contradição negando a antiguidade das rochas ou inventando tectonismo recente.",
+                          "formato":  "lacunas"
                       }
                   ],
     "gramatica":  [
@@ -18643,6 +19123,81 @@ window.QUESTION_BANKS = {
                                 "explicacao":  "A tese do marco temporal sustenta que os povos indígenas teriam direito apenas a terras que ocupavam ou disputavam judicialmente em 5 de outubro de 1988, data da promulgação da Constituição, interpretação questionada por indígenas e parte da doutrina, que argumentam que muitos povos haviam sido expulsos de seus territórios antes dessa data por violência ou remoções forçadas.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
+                            },
+                            {
+                                "id":  "historia-brasil-101",
+                                "texto_apoio":  "Durante o Período Regencial (1831-1840), o Brasil foi governado por regentes em nome de D. Pedro II, menor de idade, num contexto de revoltas provinciais e de disputas sobre o grau de centralização do Estado.",
+                                "enunciado":  "Sobre o Período Regencial, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O Ato Adicional de 1834 ampliou a autonomia das províncias, criando assembleias legislativas provinciais.\n( ) As revoltas do período tiveram causas exclusivamente separatistas, sem pautas sociais ou raciais.\n( ) A antecipação da maioridade de D. Pedro II foi apresentada como solução para a instabilidade política.\nA sequência correta, na ordem apresentada, é",
+                                "alternativas":  {
+                                                     "a":  "V - F - V",
+                                                     "b":  "V - V - F",
+                                                     "c":  "F - F - V",
+                                                     "d":  "V - V - V",
+                                                     "e":  "F - V - F"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "O Ato Adicional de fato descentralizou, criando as assembleias provinciais, e o Golpe da Maioridade foi justificado como saída para a instabilidade. A afirmativa do meio é falsa e é a armadilha: revoltas como a Cabanagem e a Balaiada tinham fortes pautas sociais e participação de populações pobres, indígenas e negras — reduzi-las a separatismo apaga o essencial.",
+                                "formato":  "vf"
+                            },
+                            {
+                                "id":  "historia-brasil-102",
+                                "texto_apoio":  "A Consolidação das Leis do Trabalho (CLT) foi sancionada em 1º de maio de 1943, durante o Estado Novo.",
+                                "enunciado":  "Sobre a CLT e seu contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A legislação reuniu num único corpo normas trabalhistas já esparsas, estabelecendo jornada, férias e proteção ao trabalho de menores e de mulheres.\n( ) A estrutura sindical prevista vinculava os sindicatos ao Estado, com unicidade sindical e imposto compulsório.\n( ) O conjunto da legislação estendeu-se de imediato aos trabalhadores rurais, equiparando campo e cidade.\nA sequência correta, na ordem apresentada, é",
+                                "alternativas":  {
+                                                     "a":  "V - V - F",
+                                                     "b":  "V - F - V",
+                                                     "c":  "F - V - V",
+                                                     "d":  "V - V - V",
+                                                     "e":  "F - F - F"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "A consolidação de normas dispersas e o modelo sindical corporativo atrelado ao Estado estão corretos. A terceira é falsa e o ponto é decisivo: o trabalhador rural ficou de fora, e a extensão de direitos ao campo só viria décadas depois — exclusão que revela a quem a política trabalhista do Estado Novo se dirigia.",
+                                "formato":  "vf"
+                            },
+                            {
+                                "id":  "historia-brasil-103",
+                                "texto_apoio":  "O governo Médici (1969-1974) foi o período mais repressivo da ditadura militar brasileira, e coincidiu com forte crescimento econômico conhecido como \"milagre\".",
+                                "enunciado":  "Sobre esse período, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O crescimento econômico acelerado conviveu com concentração de renda e arrocho salarial.\n( ) A censura à imprensa e a propaganda oficial atuaram de forma articulada na construção da imagem do governo.\n( ) O bipartidarismo então vigente garantia à oposição meios efetivos de interferir na sucessão presidencial.\nA sequência correta, na ordem apresentada, é",
+                                "alternativas":  {
+                                                     "a":  "V - V - F",
+                                                     "b":  "F - V - V",
+                                                     "c":  "V - F - V",
+                                                     "d":  "V - V - V",
+                                                     "e":  "F - F - V"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Crescimento com concentração de renda e a articulação entre censura e propaganda descrevem bem o período. A terceira é falsa: a sucessão era decidida dentro do círculo militar, e o MDB não dispunha de meios efetivos de interferir — foi exatamente o que a charge de 1970 sobre a sucessão satirizou.",
+                                "formato":  "vf"
+                            },
+                            {
+                                "id":  "historia-brasil-104",
+                                "texto_apoio":  "A escravidão urbana no Brasil oitocentista incluía o trabalho ao ganho, em que pessoas escravizadas circulavam pela cidade prestando serviços e entregando parte dos rendimentos a seus proprietários.",
+                                "enunciado":  "Sobre a escravidão urbana, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O trabalho ao ganho permitia alguma acumulação de pecúlio, por vezes usada na compra da própria alforria.\n( ) As irmandades negras e as festas de coroação de reis e rainhas funcionavam como espaços de sociabilidade e de reelaboração de identidades africanas.\n( ) A mobilidade pelas ruas equivalia a liberdade jurídica, retirando essas pessoas da condição de propriedade.\nA sequência correta, na ordem apresentada, é",
+                                "alternativas":  {
+                                                     "a":  "V - V - F",
+                                                     "b":  "V - F - V",
+                                                     "c":  "F - V - F",
+                                                     "d":  "V - V - V",
+                                                     "e":  "F - F - V"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Pecúlio e alforria por compra são bem documentados, assim como o papel das irmandades. A terceira confunde mobilidade física com condição jurídica: circular pela cidade não alterava o estatuto de propriedade, e a vigilância sobre esses deslocamentos era constante.",
+                                "formato":  "vf"
+                            },
+                            {
+                                "id":  "historia-brasil-105",
+                                "texto_apoio":  "A Primeira República (1889-1930) caracterizou-se pelo predomínio político das oligarquias estaduais e por um sistema eleitoral de alcance restrito.",
+                                "enunciado":  "Sobre a Primeira República, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O voto era aberto e restrito a homens alfabetizados, o que reduzia drasticamente o eleitorado.\n( ) A política dos governadores articulava o poder federal aos chefes políticos estaduais, garantindo apoio recíproco.\n( ) As normas sociais do período incentivavam a livre circulação de mulheres de camadas médias e altas pelos espaços públicos, desacompanhadas.\nA sequência correta, na ordem apresentada, é",
+                                "alternativas":  {
+                                                     "a":  "V - V - F",
+                                                     "b":  "V - F - V",
+                                                     "c":  "F - V - V",
+                                                     "d":  "V - V - V",
+                                                     "e":  "F - F - F"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Voto aberto e censo alfabético reduziam o eleitorado a uma fração pequena da população, e a política dos governadores é a engrenagem clássica do período. A terceira inverte as prescrições da época, que associavam a mulher honesta à esfera doméstica e exigiam acompanhamento na rua.",
+                                "formato":  "vf"
                             }
                         ],
     "historia-geral":  [
@@ -24646,7 +25201,6 @@ window.QUESTION_BANKS = {
     "literatura":  [
                        {
                            "id":  "literatura-01",
-                           "formato":  "direta",
                            "texto_apoio":  "\"E Jerônimo não aparecia. Ela ergueu-se finalmente, foi lá fora ao capinzal, pôs-se a andar agitada, falando sozinha, a gesticular forte. E nos seus movimentos de desespero, quando levantava para o céu os punhos fechados, dir-se-ia que não era contra o marido que se revoltava, mas sim contra aquela amaldiçoada luz alucinadora, contra aquele sol crapuloso, que fazia ferver o sangue aos homens.\" (Aluísio Azevedo, O Cortiço)",
                            "enunciado":  "No trecho, a revolta da personagem é deslocada do marido para o clima. Esse deslocamento é a marca de qual concepção, central no Naturalismo?",
                            "alternativas":  {
@@ -24657,11 +25211,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "O subjetivismo simbolista, que dissolve o mundo exterior nas impressões íntimas do eu"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O Naturalismo trata o ser humano como produto de meio, raça e momento. Ao transferir a culpa do marido para o sol e o clima, o narrador não está poupando ninguém por delicadeza: está afirmando que a conduta é efeito de forças externas. A leitura ufanista da natureza tropical inverte o sinal — aqui o clima é força degradante, não motivo de orgulho nacional."
+                           "explicacao":  "O Naturalismo trata o ser humano como produto de meio, raça e momento. Ao transferir a culpa do marido para o sol e o clima, o narrador não está poupando ninguém por delicadeza: está afirmando que a conduta é efeito de forças externas. A leitura ufanista da natureza tropical inverte o sinal — aqui o clima é força degradante, não motivo de orgulho nacional.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-02",
-                           "formato":  "direta",
                            "texto_apoio":  "\"E o mugido lúgubre daquela pobre criatura abandonada antepunha à rude agitação do cortiço uma nota lamentosa e tristonha de uma vaca chamando ao longe (...) E Piedade, assentada à soleira de sua porta, paciente e ululante como um cão que espera pelo dono.\" (Aluísio Azevedo, O Cortiço)",
                            "enunciado":  "As comparações usadas para descrever a personagem revelam um procedimento reiterado na obra. Esse procedimento consiste em",
                            "alternativas":  {
@@ -24672,11 +25226,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "individualizar cada morador, destacando o que o separa da massa do cortiço"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "\"Mugido\", \"ululante como um cão\": o narrador descreve a dor por meio do repertório animal. A zoomorfização é sistemática em O Cortiço e sustenta a tese naturalista de que o homem é, antes de tudo, organismo. Dizer que o romance individualiza cada morador é o oposto do que ele faz — a tendência é dissolver o indivíduo no coletivo, tratado como um único corpo que ferve."
+                           "explicacao":  "\"Mugido\", \"ululante como um cão\": o narrador descreve a dor por meio do repertório animal. A zoomorfização é sistemática em O Cortiço e sustenta a tese naturalista de que o homem é, antes de tudo, organismo. Dizer que o romance individualiza cada morador é o oposto do que ele faz — a tendência é dissolver o indivíduo no coletivo, tratado como um único corpo que ferve.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-03",
-                           "formato":  "direta",
                            "texto_apoio":  "Em O Cortiço, a habitação coletiva é descrita como algo que cresce, fermenta e se multiplica por conta própria, com vida que não se reduz à soma dos moradores.",
                            "enunciado":  "Esse tratamento dado ao cortiço produz, na economia do romance, o seguinte efeito:",
                            "alternativas":  {
@@ -24687,11 +25241,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o romance assume forma epistolar, em que cada morador narra sua própria versão dos fatos"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Personificar o cortiço não é ornamento de estilo: é o modo de tornar visível a tese determinista. Se o meio age sobre as pessoas, ele precisa ter agência narrativa — e por isso cresce, ferve e engole. Fluxo de consciência e forma epistolar são técnicas que a obra não usa em momento algum."
+                           "explicacao":  "Personificar o cortiço não é ornamento de estilo: é o modo de tornar visível a tese determinista. Se o meio age sobre as pessoas, ele precisa ter agência narrativa — e por isso cresce, ferve e engole. Fluxo de consciência e forma epistolar são técnicas que a obra não usa em momento algum.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-04",
-                           "formato":  "direta",
                            "texto_apoio":  "Em O Cortiço, o português João Romão enriquece pela exploração sistemática do trabalho alheio e pela apropriação das economias de Bertoleza, mulher escravizada que ele mantém iludida com a promessa da alforria.",
                            "enunciado":  "A trajetória de João Romão e o destino reservado a Bertoleza articulam-se para expor",
                            "alternativas":  {
@@ -24702,11 +25256,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o conflito entre gerações de imigrantes portugueses disputando o mesmo comércio"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O enriquecimento de João Romão é inseparável do trabalho de Bertoleza, e o desfecho dela — entregue como escrava fugida justamente quando ele precisa de respeitabilidade — mostra que a exclusão não é acidente de percurso, e sim condição do sucesso. Ler a trajetória como recompensa natural do mérito e da poupança é precisamente a leitura que o romance desmonta."
+                           "explicacao":  "O enriquecimento de João Romão é inseparável do trabalho de Bertoleza, e o desfecho dela — entregue como escrava fugida justamente quando ele precisa de respeitabilidade — mostra que a exclusão não é acidente de percurso, e sim condição do sucesso. Ler a trajetória como recompensa natural do mérito e da poupança é precisamente a leitura que o romance desmonta.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-05",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Espiar a vida alheia, inquirir dos escravos o que se passava no interior das casas, era naquele tempo coisa tão comum e enraizada nos costumes, que ainda hoje, depois de passados tantos anos, restam grandes vestígios desse belo hábito.\" (Manuel Antônio de Almeida, Memórias de um sargento de milícias)",
                            "enunciado":  "Ao qualificar o costume de \"belo hábito\" e ao afirmar que ele persiste, o narrador emprega",
                            "alternativas":  {
@@ -24717,11 +25271,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "eufemismo, suavizando uma prática que considera indefensável"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "\"Belo hábito\" é elogio de fachada para uma prática de vigilância e delação. E o narrador não deixa a crítica no passado: ao dizer que restam vestígios \"ainda hoje\", puxa o leitor para dentro do julgamento. É a ironia como método, não como pontuação isolada."
+                           "explicacao":  "\"Belo hábito\" é elogio de fachada para uma prática de vigilância e delação. E o narrador não deixa a crítica no passado: ao dizer que restam vestígios \"ainda hoje\", puxa o leitor para dentro do julgamento. É a ironia como método, não como pontuação isolada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-06",
-                           "formato":  "direta",
                            "texto_apoio":  "As cenas de Memórias de um sargento de milícias movem-se entre a casa, a rua e a repartição, e as mesmas personagens transitam com naturalidade entre a conduta aceita e a conduta condenada, sem que a narrativa as puna com rigor.",
                            "enunciado":  "Essa circulação constante entre o permitido e o proibido levou a crítica a caracterizar o universo do romance como",
                            "alternativas":  {
@@ -24732,11 +25286,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "um meio social em que se transita com frequência entre a ordem e a desordem"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "É a leitura consagrada por Antonio Candido em \"Dialética da malandragem\": o romance não opõe bons e maus, e sim descreve um vaivém em que as mesmas figuras ora cumprem, ora burlam a norma — sem tragédia e sem punição exemplar."
+                           "explicacao":  "É a leitura consagrada por Antonio Candido em \"Dialética da malandragem\": o romance não opõe bons e maus, e sim descreve um vaivém em que as mesmas figuras ora cumprem, ora burlam a norma — sem tragédia e sem punição exemplar.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-07",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias de um sargento de milícias, o protagonista e os que o cercam vivem de expedientes, de favores e da proteção de padrinhos, numa cidade em que o trabalho regular não é o caminho da ascensão.",
                            "enunciado":  "As personagens que povoam esse universo pertencem, sobretudo, ao grupo social dos",
                            "alternativas":  {
@@ -24747,11 +25301,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "funcionários de alto escalão da administração imperial"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O romance retrata a camada que não é nem senhor nem escravizado: gente livre e pobre, sem posse e sem trabalho estável, cuja sobrevivência depende de apadrinhamento. Reconhecer esse lugar social é o que permite entender por que o favor, e não o mérito, move a narrativa."
+                           "explicacao":  "O romance retrata a camada que não é nem senhor nem escravizado: gente livre e pobre, sem posse e sem trabalho estável, cuja sobrevivência depende de apadrinhamento. Reconhecer esse lugar social é o que permite entender por que o favor, e não o mérito, move a narrativa.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-08",
-                           "formato":  "direta",
                            "texto_apoio":  "\"— Honra!... honra de meirinho... ora!\" e \"Honra de meirinho é como fidelidade de saloia.\" (Manuel Antônio de Almeida, Memórias de um sargento de milícias)",
                            "enunciado":  "O tratamento dado ao conflito conjugal nessas passagens indica que o narrador imprime à cena um caráter",
                            "alternativas":  {
@@ -24762,11 +25316,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "cômico, rebaixando a retórica da honra pelo ridículo"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "A honra invocada com solenidade é imediatamente desqualificada por um dito popular sobre saloias. O procedimento é o rebaixamento cômico: a linguagem elevada encontra a resposta chã e desaba. Nada na cena caminha para a catástrofe irreparável que definiria o trágico."
+                           "explicacao":  "A honra invocada com solenidade é imediatamente desqualificada por um dito popular sobre saloias. O procedimento é o rebaixamento cômico: a linguagem elevada encontra a resposta chã e desaba. Nada na cena caminha para a catástrofe irreparável que definiria o trágico.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-09",
-                           "formato":  "direta",
                            "texto_apoio":  "Brás Cubas anuncia, logo no início de suas memórias, que escreve depois de morto — condição que o libera de qualquer prestação de contas aos vivos.",
                            "enunciado":  "Essa escolha narrativa produz como efeito principal",
                            "alternativas":  {
@@ -24777,11 +25331,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a garantia de imparcialidade absoluta, já que o morto nada mais tem a ganhar com a mentira"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A armadilha é supor que a morte garanta imparcialidade. O defunto autor não é mais confiável por estar morto — é mais desimpedido: a morte não garante verdade, garante impunidade, e é dela que nasce a corrosão irônica do relato. Pela mesma razão, a ironia não é suspensa pela gravidade do além-túmulo; ela aumenta."
+                           "explicacao":  "A armadilha é supor que a morte garanta imparcialidade. O defunto autor não é mais confiável por estar morto — é mais desimpedido: a morte não garante verdade, garante impunidade, e é dela que nasce a corrosão irônica do relato. Pela mesma razão, a ironia não é suspensa pela gravidade do além-túmulo; ela aumenta.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-10",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Dom Casmurro, tudo o que o leitor sabe sobre a suposta traição de Capitu chega por intermédio de Bentinho, que narra na velhice, movido pelo ciúme, e sem apresentar prova alguma.",
                            "enunciado":  "A crítica costuma designar esse tipo de narrador como",
                            "alternativas":  {
@@ -24792,11 +25346,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "narrador onisciente neutro, que acessa a interioridade de todas as personagens"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "O romance transfere ao leitor o trabalho do júri: a única testemunha é parte interessada e narra movida pelo ciúme, décadas depois. Cuidado com a figura do narrador intruso — Machado de fato interrompe a ação para falar com o leitor, mas o que está em jogo aqui é a credibilidade do relato, não a interpelação."
+                           "explicacao":  "O romance transfere ao leitor o trabalho do júri: a única testemunha é parte interessada e narra movida pelo ciúme, décadas depois. Cuidado com a figura do narrador intruso — Machado de fato interrompe a ação para falar com o leitor, mas o que está em jogo aqui é a credibilidade do relato, não a interpelação.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-11",
-                           "formato":  "direta",
                            "texto_apoio":  "Nas obras de Machado da fase madura, o narrador interrompe a ação para conversar com o leitor, comentar o próprio livro e até censurá-lo por impaciência.",
                            "enunciado":  "Esse procedimento caracteriza-se como",
                            "alternativas":  {
@@ -24807,11 +25361,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "sinestesia, pois cruza sensações de sentidos diferentes"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Quando o livro fala do livro e o narrador discute com quem o lê, o objeto do discurso passa a ser o próprio discurso. É metalinguagem — e, em Machado, também um modo de manter o leitor em desconfiança permanente."
+                           "explicacao":  "Quando o livro fala do livro e o narrador discute com quem o lê, o objeto do discurso passa a ser o próprio discurso. É metalinguagem — e, em Machado, também um modo de manter o leitor em desconfiança permanente.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-12",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Pouco importa que os fatos sejam físicos ou morais; eles sempre têm as suas causas. Tanto existem causas para a ambição, a coragem, a veracidade, como para a digestão, o movimento muscular e o calor animal. O vício e a virtude são produtos químicos como o açúcar e o ácido sulfúrico.\" (Hippolyte Taine)",
                            "enunciado":  "A visão de mundo expressa nesse trecho fundamenta a estética",
                            "alternativas":  {
@@ -24822,11 +25376,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "realista e naturalista"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Reduzir virtude e vício a produtos químicos é o gesto cientificista que sustenta o Realismo e, levado ao extremo, o Naturalismo. Note que a questão não pede o nome do autor do trecho: pede que se reconheça a escola pelo traço de pensamento, que é como as duas bancas costumam cobrar."
+                           "explicacao":  "Reduzir virtude e vício a produtos químicos é o gesto cientificista que sustenta o Realismo e, levado ao extremo, o Naturalismo. Note que a questão não pede o nome do autor do trecho: pede que se reconheça a escola pelo traço de pensamento, que é como as duas bancas costumam cobrar.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-13",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema apresenta metro rigorosamente regular, rimas raras, vocabulário culto e um tema tirado da estatuária greco-latina, tratado com distanciamento emocional e atenção minuciosa à superfície descrita.",
                            "enunciado":  "Esses traços permitem identificar o poema como",
                            "alternativas":  {
@@ -24837,11 +25391,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "simbolista, pela musicalidade sugestiva e pela vaguidão"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Metro exato, rima rara, tema clássico e frieza deliberada formam o retrato do Parnasianismo. O contraste decisivo é com o Simbolismo: ele também preza o som, mas para sugerir o indefinido, não para lapidar o contorno visível do objeto."
+                           "explicacao":  "Metro exato, rima rara, tema clássico e frieza deliberada formam o retrato do Parnasianismo. O contraste decisivo é com o Simbolismo: ele também preza o som, mas para sugerir o indefinido, não para lapidar o contorno visível do objeto.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-14",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto exalta a natureza brasileira como cenário grandioso, elege o indígena como figura nobre e fundadora da nacionalidade e narra em tom exaltado um amor impossível que termina em sacrifício.",
                            "enunciado":  "O conjunto desses traços é característico do",
                            "alternativas":  {
@@ -24852,11 +25406,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Romantismo, em sua vertente indianista e nacionalista"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Idealização da natureza, herói indígena como mito de origem e amor sacrificial compõem o programa indianista do Romantismo brasileiro, que buscava fundar uma identidade nacional após a Independência."
+                           "explicacao":  "Idealização da natureza, herói indígena como mito de origem e amor sacrificial compõem o programa indianista do Romantismo brasileiro, que buscava fundar uma identidade nacional após a Independência.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-15",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema de 1922 abandona a métrica fixa e a rima, incorpora a fala coloquial brasileira, admite o humor e trata de um assunto trivial do cotidiano urbano.",
                            "enunciado":  "Esses procedimentos filiam o poema ao",
                            "alternativas":  {
@@ -24867,11 +25421,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Modernismo de primeira geração, pela ruptura formal e pela linguagem coloquial"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Verso livre, coloquialidade, humor e assunto prosaico são o núcleo do programa de 1922, que rompe justamente com o repertório parnasiano da perfeição formal — daí a data ser um dado decisivo do enunciado, e não um detalhe."
+                           "explicacao":  "Verso livre, coloquialidade, humor e assunto prosaico são o núcleo do programa de 1922, que rompe justamente com o repertório parnasiano da perfeição formal — daí a data ser um dado decisivo do enunciado, e não um detalhe.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-16",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Estou farto do lirismo comedido / Do lirismo bem-comportado / Do lirismo funcionário público com livro de ponto (...) / Estou farto do lirismo que para e vai averiguar no dicionário o cunho vernáculo de um vocábulo / Abaixo os puristas\" (Manuel Bandeira, \"Poética\", 1930)",
                            "enunciado":  "Ao acumular essas recusas, o eu lírico dirige sua crítica, sobretudo, ao",
                            "alternativas":  {
@@ -24882,11 +25436,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Romantismo e ao seu excesso de sentimentalismo"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "\"Comedido\", \"bem-comportado\", conferir o \"cunho vernáculo\" no dicionário e o grito \"abaixo os puristas\" apontam para o culto da forma correta — território parnasiano. O poema é um manifesto modernista contra ele."
+                           "explicacao":  "\"Comedido\", \"bem-comportado\", conferir o \"cunho vernáculo\" no dicionário e o grito \"abaixo os puristas\" apontam para o culto da forma correta — território parnasiano. O poema é um manifesto modernista contra ele.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-17",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Quero antes o lirismo dos loucos / O lirismo dos bêbados / O lirismo difícil e pungente dos bêbados / O lirismo dos clowns de Shakespeare / — Não quero mais saber do lirismo que não é libertação.\" (Manuel Bandeira, \"Poética\")",
                            "enunciado":  "Para o eu lírico, o fazer poético deve ser uma atividade",
                            "alternativas":  {
@@ -24897,11 +25451,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "disciplinada, regida por regras claras de composição"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Loucos, bêbados e bufões são figuras que escapam ao decoro; e o verso final define o lirismo desejado como libertação. A oposição estruturante do poema é contenção contra liberdade, e o eu lírico fica com a segunda."
+                           "explicacao":  "Loucos, bêbados e bufões são figuras que escapam ao decoro; e o verso final define o lirismo desejado como libertação. A oposição estruturante do poema é contenção contra liberdade, e o eu lírico fica com a segunda.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-18",
-                           "formato":  "direta",
                            "texto_apoio":  "Um soneto dirige-se a um interlocutor a quem chama de \"homem prudente\", aconselha-o a não desejar uma alma diferente da sua e conclui que a felicidade está em \"deixar-se ser\", sem interpretar o enigma da existência.",
                            "enunciado":  "A temática desse soneto pode ser caracterizada como",
                            "alternativas":  {
@@ -24912,11 +25466,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "satírica"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O poema discute o modo de existir e a relação entre natureza própria e felicidade — matéria de reflexão sobre a vida, não de queixa amorosa nem de crítica de costumes. Reconhecer o assunto dominante é o tipo de item que a Insper repete em todo caderno."
+                           "explicacao":  "O poema discute o modo de existir e a relação entre natureza própria e felicidade — matéria de reflexão sobre a vida, não de queixa amorosa nem de crítica de costumes. Reconhecer o assunto dominante é o tipo de item que a Insper repete em todo caderno.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-19",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Vidas Secas, os capítulos podem ser lidos com relativa independência, o discurso indireto livre aproxima o narrador da consciência rudimentar das personagens e a linguagem é seca, reduzida ao essencial.",
                            "enunciado":  "A relação entre essa forma e o assunto do romance pode ser descrita assim:",
                            "alternativas":  {
@@ -24927,11 +25481,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a fragmentação dos capítulos indica que a obra ficou inacabada"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Personagens que quase não dispõem de palavras são narradas por uma prosa que também economiza palavras. Atenção ao inverso: o discurso indireto livre não serve para emprestar eloquência a elas, e sim para dar acesso a um pensamento que não chega a virar fala articulada."
+                           "explicacao":  "Personagens que quase não dispõem de palavras são narradas por uma prosa que também economiza palavras. Atenção ao inverso: o discurso indireto livre não serve para emprestar eloquência a elas, e sim para dar acesso a um pensamento que não chega a virar fala articulada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-20",
-                           "formato":  "direta",
                            "texto_apoio":  "Antonio Candido distingue, na cultura brasileira, uma fase de \"consciência amena de atraso\", ligada à ideia de \"país novo\", e uma fase de \"consciência catastrófica de atraso\", ligada à noção de \"país subdesenvolvido\".",
                            "enunciado":  "Vidas Secas (1938) inscreve-se nessa segunda fase porque",
                            "alternativas":  {
@@ -24942,11 +25496,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "apresenta a miséria como condição estrutural e sem horizonte de superação, não como estágio a ser vencido"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Tratar o sertão como paisagem pitoresca descreve exatamente a fase anterior, do regionalismo de encanto e curiosidade, que Candido opõe a essa. Em Vidas Secas o retorno da seca no fim do livro fecha o ciclo sem promessa: o atraso não é etapa a vencer, é condição."
+                           "explicacao":  "Tratar o sertão como paisagem pitoresca descreve exatamente a fase anterior, do regionalismo de encanto e curiosidade, que Candido opõe a essa. Em Vidas Secas o retorno da seca no fim do livro fecha o ciclo sem promessa: o atraso não é etapa a vencer, é condição.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-21",
-                           "formato":  "direta",
                            "texto_apoio":  "Um conto narra o percurso de uma formiga que entra num cinema, conversa com uma espectadora e termina capturada por um colecionador — tudo relatado com naturalidade, sem que a narrativa comente a estranheza da situação.",
                            "enunciado":  "O recurso expressivo dominante na construção desse conto é",
                            "alternativas":  {
@@ -24957,11 +25511,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o eufemismo, que atenua a violência do desfecho"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A formiga delibera, recusa pipoca por luto e muda de poltrona: atributos humanos em um animal. O efeito depende de o narrador tratar isso como banal — é a naturalidade que produz o humor."
+                           "explicacao":  "A formiga delibera, recusa pipoca por luto e muda de poltrona: atributos humanos em um animal. O efeito depende de o narrador tratar isso como banal — é a naturalidade que produz o humor.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-22",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Só na Vida a expressão límpida e exata / Do teu temperamento, homem prudente; / Como a árvore espontânea que retrata / Todas as qualidades da semente!\" (Raul de Leoni, \"Exortação\")",
                            "enunciado":  "Na comparação estabelecida nessa estrofe, a semente equivale",
                            "alternativas":  {
@@ -24972,11 +25526,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "ao homem"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A árvore retrata as qualidades da semente assim como a vida exprime o temperamento. Alinhando os termos: árvore está para vida, e semente está para temperamento — o que já estava na semente é o que a árvore mostra."
+                           "explicacao":  "A árvore retrata as qualidades da semente assim como a vida exprime o temperamento. Alinhando os termos: árvore está para vida, e semente está para temperamento — o que já estava na semente é o que a árvore mostra.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-23",
-                           "formato":  "direta",
                            "texto_apoio":  "No Manifesto Antropófago (1928), Oswald de Andrade propõe que a cultura brasileira devore a produção estrangeira e a transforme em matéria própria, em vez de imitá-la ou recusá-la.",
                            "enunciado":  "A metáfora da devoração serve, nesse contexto, para defender",
                            "alternativas":  {
@@ -24987,11 +25541,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o retorno à cultura indígena pré-colonial em sua forma original"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A antropofagia recusa tanto o isolamento cultural quanto a cópia fiel dos modelos europeus. Devorar é assimilar transformando: o estrangeiro entra, mas sai outra coisa. E ler o manifesto como pregação de retorno à cultura pré-colonial confunde o símbolo escolhido com um programa de volta ao passado."
+                           "explicacao":  "A antropofagia recusa tanto o isolamento cultural quanto a cópia fiel dos modelos europeus. Devorar é assimilar transformando: o estrangeiro entra, mas sai outra coisa. E ler o manifesto como pregação de retorno à cultura pré-colonial confunde o símbolo escolhido com um programa de volta ao passado.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-24",
-                           "formato":  "direta",
                            "texto_apoio":  "Em A Hora da Estrela, o narrador Rodrigo S. M. interrompe repetidamente a história de Macabéa para expor suas dúvidas sobre o direito de narrar a vida de uma mulher pobre do Nordeste a partir de sua posição de escritor.",
                            "enunciado":  "Essa insistência do narrador em discutir a própria escrita cumpre a função de",
                            "alternativas":  {
@@ -25002,11 +25556,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "expor a distância social entre quem narra e quem é narrado, tornando essa distância parte do problema do livro"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O livro não esconde que Macabéa é falada por alguém que não é ela, e que ocupa outra posição social. Ao tornar visível esse desnível, a obra transforma a própria legitimidade da representação em assunto — não se trata de exibir domínio técnico sobre a construção romanesca."
+                           "explicacao":  "O livro não esconde que Macabéa é falada por alguém que não é ela, e que ocupa outra posição social. Ao tornar visível esse desnível, a obra transforma a própria legitimidade da representação em assunto — não se trata de exibir domínio técnico sobre a construção romanesca.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-25",
-                           "formato":  "direta",
                            "texto_apoio":  "Uma canção brasileira do início dos anos 1970 recorre a uma imagem religiosa — o cálice que se pede afastar — para falar de silenciamento, apoiando-se na proximidade sonora entre o substantivo e a forma verbal \"cale-se\".",
                            "enunciado":  "O recurso que sustenta a construção do sentido nessa canção é",
                            "alternativas":  {
@@ -25017,11 +25571,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a elipse, que omite um termo recuperável pelo contexto"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "\"Cálice\" e \"cale-se\" soam quase igual e significam coisas diferentes: é paronomásia. O trocadilho permitia que o pedido de silêncio atravessasse a censura sob a aparência de citação bíblica — a forma é, aqui, a própria estratégia política."
+                           "explicacao":  "\"Cálice\" e \"cale-se\" soam quase igual e significam coisas diferentes: é paronomásia. O trocadilho permitia que o pedido de silêncio atravessasse a censura sob a aparência de citação bíblica — a forma é, aqui, a própria estratégia política.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-26",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias Póstumas.\" (Machado de Assis, Memórias Póstumas de Brás Cubas)",
                            "enunciado":  "A dedicatória que abre o romance produz efeito de sentido porque",
                            "alternativas":  {
@@ -25032,11 +25586,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "indica que o livro foi escrito por encomenda de um herdeiro do falecido"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A dedicatória é o lugar da reverência, e Machado a entrega a um verme. O choque entre a fórmula solene e o destinatário abjeto avisa ao leitor, antes do primeiro capítulo, que a seriedade do relato será sistematicamente corroída. Ler a passagem como tom grave e reverente é tomar a moldura pelo conteúdo."
+                           "explicacao":  "A dedicatória é o lugar da reverência, e Machado a entrega a um verme. O choque entre a fórmula solene e o destinatário abjeto avisa ao leitor, antes do primeiro capítulo, que a seriedade do relato será sistematicamente corroída. Ler a passagem como tom grave e reverente é tomar a moldura pelo conteúdo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-27",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias Póstumas de Brás Cubas, o narrador conclui o balanço da própria vida observando que não teve filhos e que, por isso, não transmitiu a ninguém o legado da miséria humana.",
                            "enunciado":  "Esse fecho confere ao romance um sentido",
                            "alternativas":  {
@@ -25047,11 +25601,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "épico, pois inscreve a trajetória individual na história coletiva da nação"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O balanço é feito por subtração: nada foi construído, e a ausência de descendência vira o único lucro. É pessimismo, mas passado pelo filtro da ironia — a forma de um saldo contábil positivo para dizer que a vida não valeu a pena."
+                           "explicacao":  "O balanço é feito por subtração: nada foi construído, e a ausência de descendência vira o único lucro. É pessimismo, mas passado pelo filtro da ironia — a forma de um saldo contábil positivo para dizer que a vida não valeu a pena.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-28",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Dom Casmurro, Bentinho descreve os olhos de Capitu recorrendo a uma imagem de força de sucção, que arrasta e engole quem os encara.",
                            "enunciado":  "Essa construção da imagem revela, sobretudo,",
                            "alternativas":  {
@@ -25062,11 +25616,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "uma descrição objetiva dos traços físicos da personagem, sem interferência do observador"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A imagem não descreve olhos, descreve o que Bentinho sente diante deles. Como toda a informação sobre Capitu passa por esse narrador, a metáfora funciona menos como retrato dela e mais como sintoma dele — que é o mecanismo central do romance."
+                           "explicacao":  "A imagem não descreve olhos, descreve o que Bentinho sente diante deles. Como toda a informação sobre Capitu passa por esse narrador, a metáfora funciona menos como retrato dela e mais como sintoma dele — que é o mecanismo central do romance.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-29",
-                           "formato":  "excecao",
                            "texto_apoio":  "A prosa madura de Machado de Assis, iniciada com Memórias Póstumas de Brás Cubas (1881), rompe com os procedimentos que ele próprio praticara na fase anterior.",
                            "enunciado":  "As alternativas apresentam procedimentos característicos dessa prosa madura, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -25077,11 +25631,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Capítulos curtos, que fragmentam a narrativa e quebram a ilusão de continuidade"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Idealizar a heroína e premiar a virtude com casamento é receita romântica, justamente o que a fase madura abandona. Os outros quatro procedimentos — fragmentação, interpelação, ironia e digressão — são a assinatura dessa prosa. Repare que o comando pede a exceção: quatro alternativas estão certas."
+                           "explicacao":  "Idealizar a heroína e premiar a virtude com casamento é receita romântica, justamente o que a fase madura abandona. Os outros quatro procedimentos — fragmentação, interpelação, ironia e digressão — são a assinatura dessa prosa. Repare que o comando pede a exceção: quatro alternativas estão certas.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-30",
-                           "formato":  "direta",
                            "texto_apoio":  "No conto \"A Cartomante\", de Machado de Assis, o narrador informa ao leitor, antes do desfecho, aquilo que as personagens ainda ignoram sobre o destino que as aguarda.",
                            "enunciado":  "Esse desnível de informação entre leitor e personagem produz",
                            "alternativas":  {
@@ -25092,11 +25646,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "ambiguidade, pois o desfecho admite duas leituras igualmente sustentáveis"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Quando o público sabe o que a personagem não sabe, cada gesto confiante dela ganha um segundo sentido, sinistro. É ironia dramática — e não suspense, que exigiria manter o leitor tão ignorante quanto as personagens."
+                           "explicacao":  "Quando o público sabe o que a personagem não sabe, cada gesto confiante dela ganha um segundo sentido, sinistro. É ironia dramática — e não suspense, que exigiria manter o leitor tão ignorante quanto as personagens.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-31",
-                           "formato":  "direta",
                            "texto_apoio":  "Machado de Assis situa a maior parte de suas narrativas entre proprietários, bacharéis e funcionários do Rio de Janeiro do Segundo Reinado, e trata a dependência dos agregados e a presença de escravizados como parte natural da paisagem doméstica.",
                            "enunciado":  "Essa opção de recorte social permite ao autor",
                            "alternativas":  {
@@ -25107,11 +25661,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "abandonar a análise social em favor de uma investigação puramente psicológica"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "A crítica machadiana não é de púlpito: ela opera mostrando a naturalidade com que o favor e a hierarquia funcionam para quem se beneficia deles. Dizer que ele abandona a análise social pelo psicológico é uma leitura antiga — os dois planos são o mesmo em Machado."
+                           "explicacao":  "A crítica machadiana não é de púlpito: ela opera mostrando a naturalidade com que o favor e a hierarquia funcionam para quem se beneficia deles. Dizer que ele abandona a análise social pelo psicológico é uma leitura antiga — os dois planos são o mesmo em Machado.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-32",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias Póstumas, o capítulo dedicado ao \"delírio\" apresenta uma alegoria em que uma figura feminina se identifica como Natureza ou Pandora e declara ser, ao mesmo tempo, mãe e inimiga do narrador.",
                            "enunciado":  "A função dessa passagem no conjunto do romance é",
                            "alternativas":  {
@@ -25122,11 +25676,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "oferecer uma explicação científica para a doença que vitimou o protagonista"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O delírio é a única passagem em que o romance enuncia sua metafísica sem disfarce. Mãe e inimiga ao mesmo tempo: a natureza produz a vida e a consome com a mesma indiferença. Não há aí lição moral a extrair da mitologia, e sim o contrário."
+                           "explicacao":  "O delírio é a única passagem em que o romance enuncia sua metafísica sem disfarce. Mãe e inimiga ao mesmo tempo: a natureza produz a vida e a consome com a mesma indiferença. Não há aí lição moral a extrair da mitologia, e sim o contrário.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-33",
-                           "formato":  "direta",
                            "texto_apoio":  "Em vários contos e romances de Machado, o narrador interrompe o relato para observar que poderia ter contado a história de outra maneira, ou para se desculpar pela demora em chegar ao ponto.",
                            "enunciado":  "Ao expor assim o próprio ato de narrar, o autor consegue",
                            "alternativas":  {
@@ -25137,11 +25691,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "transformar o romance em ensaio, abandonando de vez o enredo"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Cada lembrete de que a história poderia ser outra desfaz o encantamento e devolve o leitor à consciência de que há alguém escolhendo o que contar. É o oposto de aumentar a ilusão de realidade — e é também o que torna o narrador machadiano digno de desconfiança."
+                           "explicacao":  "Cada lembrete de que a história poderia ser outra desfaz o encantamento e devolve o leitor à consciência de que há alguém escolhendo o que contar. É o oposto de aumentar a ilusão de realidade — e é também o que torna o narrador machadiano digno de desconfiança.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-34",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Dom Casmurro, o narrador afirma que seu propósito ao escrever é \"atar as duas pontas da vida\" e restaurar na velhice a adolescência perdida.",
                            "enunciado":  "O fracasso desse propósito, ao longo do livro, indica que",
                            "alternativas":  {
@@ -25152,11 +25706,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a memória reconstrói o passado a partir do presente, e o ressentimento do velho contamina o que ele diz ter vivido"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A casa reconstruída no Engenho Novo não devolve a juventude, e a narrativa tampouco. O que a memória entrega é uma versão modelada pelo que o narrador se tornou — o que retira toda garantia de exatidão do relato sobre Capitu."
+                           "explicacao":  "A casa reconstruída no Engenho Novo não devolve a juventude, e a narrativa tampouco. O que a memória entrega é uma versão modelada pelo que o narrador se tornou — o que retira toda garantia de exatidão do relato sobre Capitu.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-35",
-                           "formato":  "direta",
                            "texto_apoio":  "A crítica costuma dividir a obra de Machado de Assis em duas fases, tomando Memórias Póstumas de Brás Cubas (1881) como marco divisor.",
                            "enunciado":  "O traço que melhor caracteriza a passagem de uma fase à outra é",
                            "alternativas":  {
@@ -25167,11 +25721,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a adoção do determinismo biológico como chave de explicação das personagens"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O que muda não é gênero, cenário nem registro: é o olhar. Sai a moldura romântica, entra a desconfiança sistemática das razões que as pessoas dão para o que fazem. Note que o determinismo biológico pertence ao Naturalismo, que Machado nunca abraçou."
+                           "explicacao":  "O que muda não é gênero, cenário nem registro: é o olhar. Sai a moldura romântica, entra a desconfiança sistemática das razões que as pessoas dão para o que fazem. Note que o determinismo biológico pertence ao Naturalismo, que Machado nunca abraçou.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-36",
-                           "formato":  "direta",
                            "texto_apoio":  "No conto \"A Terceira Margem do Rio\", de Guimarães Rosa, o pai manda fazer uma canoa, entra nela e passa a viver no meio do rio, sem nunca desembarcar nem se explicar, enquanto o filho narra o episódio décadas depois.",
                            "enunciado":  "A ausência de explicação para o gesto do pai cumpre, na narrativa, a função de",
                            "alternativas":  {
@@ -25182,11 +25736,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "indicar que o narrador mentiu sobre o episódio, que nunca teria ocorrido"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Se houvesse motivo declarado, o conto acabaria na primeira página. O silêncio do pai é o que obriga o filho — e o leitor — a conviver com o inexplicável, e é dessa convivência que o texto trata."
+                           "explicacao":  "Se houvesse motivo declarado, o conto acabaria na primeira página. O silêncio do pai é o que obriga o filho — e o leitor — a conviver com o inexplicável, e é dessa convivência que o texto trata.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-37",
-                           "formato":  "direta",
                            "texto_apoio":  "Nos contos de Guimarães Rosa, é frequente o emprego de palavras inventadas, de inversões sintáticas incomuns e de construções que aproximam a prosa do ritmo do verso.",
                            "enunciado":  "Esses procedimentos indicam que, para o autor,",
                            "alternativas":  {
@@ -25197,11 +25751,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a literatura deve renunciar ao trabalho formal em favor da mensagem social"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Inventar palavra e torcer sintaxe só faz sentido para quem trata a língua como matéria a ser moldada. Atenção à armadilha do registro documental: a fala do sertão em Rosa é ponto de partida estilizado, não transcrição."
+                           "explicacao":  "Inventar palavra e torcer sintaxe só faz sentido para quem trata a língua como matéria a ser moldada. Atenção à armadilha do registro documental: a fala do sertão em Rosa é ponto de partida estilizado, não transcrição.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-38",
-                           "formato":  "direta",
                            "texto_apoio":  "Em \"Amor\", de Clarice Lispector, a personagem Ana leva uma vida doméstica organizada até que a visão de um cego mascando chicletes num ponto de bonde desencadeia nela uma crise que desarranja a percepção de tudo o que a cerca.",
                            "enunciado":  "O procedimento narrativo central nesse conto é",
                            "alternativas":  {
@@ -25212,11 +25766,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o realismo documental, voltado ao registro das condições materiais da vida urbana"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Nada de extraordinário acontece: um cego mastiga chiclete. É justamente a desproporção entre a banalidade do estímulo e a magnitude do abalo que caracteriza a epifania clariciana — o extraordinário está no olhar, não no fato."
+                           "explicacao":  "Nada de extraordinário acontece: um cego mastiga chiclete. É justamente a desproporção entre a banalidade do estímulo e a magnitude do abalo que caracteriza a epifania clariciana — o extraordinário está no olhar, não no fato.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-39",
-                           "formato":  "direta",
                            "texto_apoio":  "Os contos de Clarice Lispector reunidos em Laços de Família tratam com frequência de mulheres de classe média cuja rotina doméstica é subitamente posta em questão.",
                            "enunciado":  "Esse recorte permite que a obra explore",
                            "alternativas":  {
@@ -25227,11 +25781,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a superioridade moral da vida doméstica sobre a vida pública"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "As personagens não denunciam nada em voz alta: elas simplesmente deixam de conseguir sustentar o papel. O conto expõe o preço interno de uma naturalidade que só parecia natural — o que é diferente de fazer história do feminismo."
+                           "explicacao":  "As personagens não denunciam nada em voz alta: elas simplesmente deixam de conseguir sustentar o papel. O conto expõe o preço interno de uma naturalidade que só parecia natural — o que é diferente de fazer história do feminismo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-40",
-                           "formato":  "direta",
                            "texto_apoio":  "Num conto contemporâneo, a narração em primeira pessoa é feita por alguém que participou dos fatos e cujo interesse na versão apresentada é evidente para o leitor.",
                            "enunciado":  "Diante desse arranjo, a leitura adequada exige que o leitor",
                            "alternativas":  {
@@ -25242,11 +25796,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "descarte a narração e reconstrua os fatos apenas pelos diálogos"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Testemunha direta não é sinônimo de testemunha isenta — é o contrário: quem participou tem o que perder. A leitura produtiva não busca a confissão da mentira, e sim avalia o que a posição do narrador torna conveniente contar."
+                           "explicacao":  "Testemunha direta não é sinônimo de testemunha isenta — é o contrário: quem participou tem o que perder. A leitura produtiva não busca a confissão da mentira, e sim avalia o que a posição do narrador torna conveniente contar.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-41",
-                           "formato":  "direta",
                            "texto_apoio":  "Num conto, a mesma cena é narrada duas vezes: primeiro pelo empregado de uma casa, depois pela patroa. Os fatos coincidem, mas o sentido atribuído a cada gesto muda completamente.",
                            "enunciado":  "Esse recurso de composição serve para",
                            "alternativas":  {
@@ -25257,11 +25811,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "eliminar a ambiguidade, fixando a interpretação correta da cena"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Os fatos não mudam — muda quem os interpreta e de que lugar. O recurso não busca desmascarar mentirosos nem fixar a versão certa: ele mostra que o sentido não está no fato, está na posição de quem o lê."
+                           "explicacao":  "Os fatos não mudam — muda quem os interpreta e de que lugar. O recurso não busca desmascarar mentirosos nem fixar a versão certa: ele mostra que o sentido não está no fato, está na posição de quem o lê.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-42",
-                           "formato":  "excecao",
                            "texto_apoio":  "O conto, como forma literária, distingue-se do romance por um conjunto de características de composição.",
                            "enunciado":  "As alternativas apresentam características usuais do conto, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -25272,11 +25826,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Concentração da ação em torno de um número reduzido de personagens"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Acompanhar várias gerações ao longo de décadas é matéria de romance, e de romance longo — exige exatamente a amplitude que o conto recusa. As demais características descrevem a forma breve com precisão."
+                           "explicacao":  "Acompanhar várias gerações ao longo de décadas é matéria de romance, e de romance longo — exige exatamente a amplitude que o conto recusa. As demais características descrevem a forma breve com precisão.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-43",
-                           "formato":  "direta",
                            "texto_apoio":  "\"No meio do caminho tinha uma pedra / tinha uma pedra no meio do caminho / tinha uma pedra / no meio do caminho tinha uma pedra\" (Carlos Drummond de Andrade, \"No meio do caminho\", 1928)",
                            "enunciado":  "A repetição obsessiva dos mesmos termos no poema produz o efeito de",
                            "alternativas":  {
@@ -25287,11 +25841,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "narrar uma sequência de acontecimentos em ordem cronológica"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "A pedra volta no verso como volta na lembrança: o poema não descreve o obstáculo, ele o executa. Quando o escândalo de 1928 acusou o texto de pobreza, confundiu procedimento deliberado com falta de recurso."
+                           "explicacao":  "A pedra volta no verso como volta na lembrança: o poema não descreve o obstáculo, ele o executa. Quando o escândalo de 1928 acusou o texto de pobreza, confundiu procedimento deliberado com falta de recurso.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-44",
-                           "formato":  "direta",
                            "texto_apoio":  "Em \"José\", de Drummond, o eu lírico interpela um interlocutor pelo nome, enumera aquilo que lhe falta — festa, mulher, discurso, doçura — e repete a pergunta sobre o que fazer agora.",
                            "enunciado":  "A estrutura de perguntas sem resposta, nesse poema, constrói",
                            "alternativas":  {
@@ -25302,11 +25856,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "um enigma cuja solução é revelada na última estrofe"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "As perguntas se acumulam sem que nenhuma seja respondida, e é isso que dá forma ao impasse: não há para onde ir e não é possível ficar. O poema não guarda solução na última estrofe — a ausência de saída é o assunto."
+                           "explicacao":  "As perguntas se acumulam sem que nenhuma seja respondida, e é isso que dá forma ao impasse: não há para onde ir e não é possível ficar. O poema não guarda solução na última estrofe — a ausência de saída é o assunto.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-45",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema de Cecília Meireles emprega versos curtos, vocabulário simples, imagens de água, vento e espelho, e trata da fugacidade das coisas sem nomear diretamente a morte.",
                            "enunciado":  "A relação entre a forma escolhida e o assunto do poema pode ser descrita como",
                            "alternativas":  {
@@ -25317,11 +25871,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "indiferença, pois a forma é convenção do gênero e não dialoga com o assunto"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa. Forma e assunto dizem a mesma coisa por meios diferentes — não há contraste entre leveza e peso, há coincidência."
+                           "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa. Forma e assunto dizem a mesma coisa por meios diferentes — não há contraste entre leveza e peso, há coincidência.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-46",
-                           "formato":  "direta",
                            "texto_apoio":  "Num soneto, os dois quartetos descrevem uma situação concreta e os dois tercetos extraem dela uma conclusão de alcance geral, introduzida por um conectivo conclusivo.",
                            "enunciado":  "Essa organização corresponde a um procedimento clássico do soneto, que consiste em",
                            "alternativas":  {
@@ -25332,11 +25886,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "repetir nos tercetos, com outras palavras, exatamente o conteúdo dos quartetos"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A arquitetura do soneto trabalha por acúmulo e virada: os quartetos montam o caso, os tercetos o interpretam. Reconhecer onde está a chave é o que permite ler o poema como argumento, e não como sequência de imagens."
+                           "explicacao":  "A arquitetura do soneto trabalha por acúmulo e virada: os quartetos montam o caso, os tercetos o interpretam. Reconhecer onde está a chave é o que permite ler o poema como argumento, e não como sequência de imagens.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-47",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico dirige-se a uma cidade, atribui-lhe a capacidade de dormir, de mentir e de esquecer, e cobra dela uma resposta que não vem.",
                            "enunciado":  "O recurso empregado na construção desse interlocutor é",
                            "alternativas":  {
@@ -25347,11 +25901,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a antítese, que aproxima termos de sentido oposto"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Dormir, mentir e esquecer são ações de gente, atribuídas a uma cidade. O interlocutor é construído por personificação — e é ela que permite ao poema cobrar da cidade uma resposta, gesto que exigiria um sujeito capaz de dar."
+                           "explicacao":  "Dormir, mentir e esquecer são ações de gente, atribuídas a uma cidade. O interlocutor é construído por personificação — e é ela que permite ao poema cobrar da cidade uma resposta, gesto que exigiria um sujeito capaz de dar.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-48",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema da segunda geração modernista brasileira combina verso livre com um tema social explícito — a fome, o trabalho, a desigualdade — mantendo linguagem despojada e sem apelo sentimental.",
                            "enunciado":  "Essa combinação é característica da produção poética dos anos 1930 porque",
                            "alternativas":  {
@@ -25362,11 +25916,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "substitui a poesia pela prosa de ficção como forma de intervenção política"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "A geração de 1930 não refaz a ruptura formal: ela a recebe pronta de 1922 e a emprega para tratar do país. A distinção útil é essa — a primeira geração conquista a liberdade, a segunda a usa para dizer alguma coisa sobre a realidade brasileira."
+                           "explicacao":  "A geração de 1930 não refaz a ruptura formal: ela a recebe pronta de 1922 e a emprega para tratar do país. A distinção útil é essa — a primeira geração conquista a liberdade, a segunda a usa para dizer alguma coisa sobre a realidade brasileira.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-49",
-                           "formato":  "excecao",
                            "texto_apoio":  "A análise de um poema costuma considerar tanto o plano do conteúdo quanto o plano da expressão.",
                            "enunciado":  "As alternativas apresentam elementos que pertencem ao plano da expressão de um poema, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -25377,11 +25931,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "O contexto histórico em que a obra foi produzida e recebida"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Rima, metro, sonoridade e disposição gráfica são matéria da expressão — o como. O contexto histórico é externo ao poema e pertence a outro plano de análise, ainda que ilumine a leitura. Lembre que o comando pede a exceção."
+                           "explicacao":  "Rima, metro, sonoridade e disposição gráfica são matéria da expressão — o como. O contexto histórico é externo ao poema e pertence a outro plano de análise, ainda que ilumine a leitura. Lembre que o comando pede a exceção.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-50",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico afirma que prefere a palavra imperfeita e viva à palavra correta e morta, e recusa explicitamente a autoridade dos gramáticos.",
                            "enunciado":  "Essa recusa filia o poema a uma posição estética que",
                            "alternativas":  {
@@ -25392,11 +25946,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "defende o retorno ao latim como língua da alta literatura"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Preferir o vivo ao correto não equivale a abrir mão do trabalho com a linguagem — é escolher outra matéria-prima. Confundir as duas coisas leva à leitura de que o poema pregaria espontaneidade absoluta, que é justamente o oposto de um poema construído para dizer isso."
+                           "explicacao":  "Preferir o vivo ao correto não equivale a abrir mão do trabalho com a linguagem — é escolher outra matéria-prima. Confundir as duas coisas leva à leitura de que o poema pregaria espontaneidade absoluta, que é justamente o oposto de um poema construído para dizer isso.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-51",
-                           "formato":  "direta",
                            "texto_apoio":  "O Romantismo brasileiro consolida-se nas décadas seguintes à Independência, e sua vertente indianista elege como herói uma figura que já havia sido dizimada ou expulsa das regiões onde se concentrava a população do Império.",
                            "enunciado":  "Essa escolha do indígena como herói nacional cumpria a função ideológica de",
                            "alternativas":  {
@@ -25407,11 +25961,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "atacar diretamente a monarquia e propor a instauração da república"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "O indianismo funciona porque escolhe um fundador simbólico que não disputa nada no presente. Elogia-se o indígena do passado enquanto a escravidão segue intocada — e é essa conveniência que distingue o gesto ideológico de qualquer defesa concreta de direitos territoriais."
+                           "explicacao":  "O indianismo funciona porque escolhe um fundador simbólico que não disputa nada no presente. Elogia-se o indígena do passado enquanto a escravidão segue intocada — e é essa conveniência que distingue o gesto ideológico de qualquer defesa concreta de direitos territoriais.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-52",
-                           "formato":  "direta",
                            "texto_apoio":  "O Realismo e o Naturalismo brasileiros surgem nas décadas de 1870 e 1880, período em que se difundem no país o positivismo, o evolucionismo e as teorias raciais europeias, e em que se acirra o debate sobre o fim da escravidão.",
                            "enunciado":  "A relação entre esse contexto e a produção literária do período pode ser descrita assim:",
                            "alternativas":  {
@@ -25422,11 +25976,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a literatura ignorou o debate científico, mantendo-se fiel aos temas românticos"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O cientificismo entra na literatura como ferramenta e como bagagem: dá o método da observação e da causalidade, e junto vêm as teorias raciais do período. Reconhecer as duas coisas ao mesmo tempo é o que permite ler essas obras historicamente, sem nem endossá-las nem descartá-las."
+                           "explicacao":  "O cientificismo entra na literatura como ferramenta e como bagagem: dá o método da observação e da causalidade, e junto vêm as teorias raciais do período. Reconhecer as duas coisas ao mesmo tempo é o que permite ler essas obras historicamente, sem nem endossá-las nem descartá-las.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-53",
-                           "formato":  "direta",
                            "texto_apoio":  "Nos romances urbanos brasileiros do século XIX, a figura do agregado — parente pobre, afilhado ou protegido que vive na casa de uma família abastada — aparece com frequência.",
                            "enunciado":  "A recorrência dessa figura indica que a sociedade retratada organizava-se, em boa parte, pelo",
                            "alternativas":  {
@@ -25437,11 +25991,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "mérito individual, que permitia ascensão independentemente da origem"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O agregado não tem direito: tem protetor. É a relação de favor que explica sua posição, e ela ocupa exatamente o lugar que, numa sociedade de trabalho livre, seria do contrato. Notar isso é o que permite ler essas casas como estrutura social, e não como detalhe de cenário."
+                           "explicacao":  "O agregado não tem direito: tem protetor. É a relação de favor que explica sua posição, e ela ocupa exatamente o lugar que, numa sociedade de trabalho livre, seria do contrato. Notar isso é o que permite ler essas casas como estrutura social, e não como detalhe de cenário.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-54",
-                           "formato":  "direta",
                            "texto_apoio":  "A Semana de Arte Moderna ocorre em 1922, ano do centenário da Independência, num São Paulo enriquecido pelo café e em plena expansão industrial e imigratória.",
                            "enunciado":  "A relação entre esse contexto e o programa modernista pode ser descrita assim:",
                            "alternativas":  {
@@ -25452,11 +26006,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a Semana teve recepção unânime e imediata, consagrando seus participantes"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Não é coincidência que a ruptura tenha vindo da cidade que mais rapidamente se transformava, e com apoio de mecenas ligados ao café. E vale corrigir dois mitos: os modernistas dialogavam intensamente com as vanguardas europeias, e a recepção da Semana foi de vaia, não de consagração."
+                           "explicacao":  "Não é coincidência que a ruptura tenha vindo da cidade que mais rapidamente se transformava, e com apoio de mecenas ligados ao café. E vale corrigir dois mitos: os modernistas dialogavam intensamente com as vanguardas europeias, e a recepção da Semana foi de vaia, não de consagração.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-55",
-                           "formato":  "direta",
                            "texto_apoio":  "O romance regionalista brasileiro dos anos 1930 desloca o foco do pitoresco para a denúncia das condições materiais de vida no campo e nas cidades pequenas, em plena crise do café e sob o governo Vargas.",
                            "enunciado":  "Esse deslocamento significa que a literatura do período passou a tratar o atraso como",
                            "alternativas":  {
@@ -25467,11 +26021,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "traço de cor local a ser preservado como patrimônio folclórico"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A mudança está em atribuir causa. Enquanto o atraso é pitoresco ou climático, não há a quem responsabilizar; quando passa a ser efeito de relações de propriedade e trabalho, a literatura vira instrumento de análise social."
+                           "explicacao":  "A mudança está em atribuir causa. Enquanto o atraso é pitoresco ou climático, não há a quem responsabilizar; quando passa a ser efeito de relações de propriedade e trabalho, a literatura vira instrumento de análise social.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-56",
-                           "formato":  "direta",
                            "texto_apoio":  "Escritores que produziram sob a ditadura militar brasileira recorreram com frequência à alegoria, ao fantástico e a ambientações deslocadas no tempo ou no espaço.",
                            "enunciado":  "Esse conjunto de escolhas formais explica-se, sobretudo, por",
                            "alternativas":  {
@@ -25482,11 +26036,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "imposição legal de que toda obra de ficção se ambientasse no passado"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A alegoria não é ornamento nesse contexto: é técnica de sobrevivência. Deslocar o assunto no tempo ou no espaço permitia publicar. Ler essas obras como escolha estética desligada da política é perder o que as motivou."
+                           "explicacao":  "A alegoria não é ornamento nesse contexto: é técnica de sobrevivência. Deslocar o assunto no tempo ou no espaço permitia publicar. Ler essas obras como escolha estética desligada da política é perder o que as motivou.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-57",
-                           "formato":  "direta",
                            "texto_apoio":  "Em romances brasileiros do século XIX, personagens escravizadas costumam aparecer sem nome próprio, sem fala em discurso direto e sem acesso à interioridade que o narrador concede às demais.",
                            "enunciado":  "Essa assimetria no tratamento narrativo revela que",
                            "alternativas":  {
@@ -25497,11 +26051,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "essas personagens eram consideradas mais complexas e por isso ficavam preservadas do olhar do narrador"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Quem fala e quem é falado, dentro do romance, reproduz quem manda e quem obedece fora dele. Perceber a desigualdade no plano da forma — e não só no dos temas — é exatamente o tipo de leitura que a FGV cobrou em 2026.1."
+                           "explicacao":  "Quem fala e quem é falado, dentro do romance, reproduz quem manda e quem obedece fora dele. Perceber a desigualdade no plano da forma — e não só no dos temas — é exatamente o tipo de leitura que a FGV cobrou em 2026.1.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-58",
-                           "formato":  "direta",
                            "texto_apoio":  "A crítica de Antonio Candido propõe ler a forma literária como algo que internaliza o processo social, em vez de tratar forma e conteúdo social como planos separados.",
                            "enunciado":  "Aplicar esse método à leitura de um romance significa",
                            "alternativas":  {
@@ -25512,11 +26066,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "buscar no texto apenas os temas sociais explicitamente mencionados pelas personagens"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A proposta não é procurar o social no assunto, e sim na construção. Ponto de vista, ritmo e estrutura já são, eles próprios, matéria histórica — e é por isso que o método dispensa tanto o resumo temático quanto a biografia do autor."
+                           "explicacao":  "A proposta não é procurar o social no assunto, e sim na construção. Ponto de vista, ritmo e estrutura já são, eles próprios, matéria histórica — e é por isso que o método dispensa tanto o resumo temático quanto a biografia do autor.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-59",
-                           "formato":  "direta",
                            "texto_apoio":  "Um romance brasileiro do século XIX apresenta protagonista que enriquece na cidade sem herança nem instrução formal, valendo-se de trabalho não pago de terceiros e de expedientes à margem da lei.",
                            "enunciado":  "A permanência dessa figura na literatura do período indica que",
                            "alternativas":  {
@@ -25527,11 +26081,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a literatura do período evitava tratar de dinheiro e de trabalho"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A recorrência do tipo não é acaso de enredo: aponta para o mecanismo real de formação das fortunas urbanas. A leitura de que a ascensão estaria franqueada a qualquer um ignora que a condição jurídica das pessoas era, ela mesma, um dos ativos em jogo."
+                           "explicacao":  "A recorrência do tipo não é acaso de enredo: aponta para o mecanismo real de formação das fortunas urbanas. A leitura de que a ascensão estaria franqueada a qualquer um ignora que a condição jurídica das pessoas era, ela mesma, um dos ativos em jogo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-60",
-                           "formato":  "direta",
                            "texto_apoio":  "Autoras negras brasileiras contemporâneas têm publicado obras que narram, em primeira pessoa, experiências de racismo e de trabalho doméstico, ocupando espaço editorial antes praticamente fechado a elas.",
                            "enunciado":  "A relevância literária dessa produção está em",
                            "alternativas":  {
@@ -25542,11 +26096,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "substituir a análise estética pelo testemunho, dispensando qualquer trabalho de forma"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O que muda não é o assunto — trabalho doméstico e racismo já apareciam na literatura brasileira — mas a posição de quem enuncia. Sair da representação de fora para a construção de dentro é uma questão de forma, não só de tema, e é o que dá a essa produção seu peso literário."
+                           "explicacao":  "O que muda não é o assunto — trabalho doméstico e racismo já apareciam na literatura brasileira — mas a posição de quem enuncia. Sair da representação de fora para a construção de dentro é uma questão de forma, não só de tema, e é o que dá a essa produção seu peso literário.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-61",
-                           "formato":  "direta",
                            "texto_apoio":  "O Arcadismo brasileiro desenvolve-se em Minas Gerais na segunda metade do século XVIII, entre letrados que ocupavam cargos na administração colonial e que, em parte, participaram da Inconfidência Mineira.",
                            "enunciado":  "A coexistência entre o ideal árcade de vida simples no campo e a posição social desses autores revela",
                            "alternativas":  {
@@ -25557,11 +26111,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "que a Inconfidência Mineira não teve participação de letrados"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Pastores e rebanhos são repertório herdado, não autobiografia: quem escrevia ocupava cargo na administração colonial. Distinguir convenção literária de descrição de vida evita tomar o cenário bucólico como documento."
+                           "explicacao":  "Pastores e rebanhos são repertório herdado, não autobiografia: quem escrevia ocupava cargo na administração colonial. Distinguir convenção literária de descrição de vida evita tomar o cenário bucólico como documento.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-62",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto literário apresenta antíteses e paradoxos frequentes, jogos conceituais elaborados, sintaxe invertida e a tensão entre o apelo dos sentidos e o temor da danação.",
                            "enunciado":  "Esses traços caracterizam a estética",
                            "alternativas":  {
@@ -25572,11 +26126,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "barroca"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Antítese, paradoxo, sintaxe torcida e o conflito entre carne e espírito formam o núcleo do Barroco. O contraste útil é com o Arcadismo, que reage justamente contra esse rebuscamento em nome da clareza e do equilíbrio."
+                           "explicacao":  "Antítese, paradoxo, sintaxe torcida e o conflito entre carne e espírito formam o núcleo do Barroco. O contraste útil é com o Arcadismo, que reage justamente contra esse rebuscamento em nome da clareza e do equilíbrio.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-63",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema privilegia a sugestão em vez da nomeação direta, explora aliterações e assonâncias, recorre a sinestesias e trata de estados de alma imprecisos, sem contorno definido.",
                            "enunciado":  "Esses procedimentos filiam o poema ao",
                            "alternativas":  {
@@ -25587,11 +26141,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Simbolismo"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Musicalidade que sugere em vez de nomear, sinestesia e imprecisão deliberada são a assinatura simbolista. O contraste decisivo é com o Parnasianismo, que também cuida do som mas para lapidar contornos nítidos, não para dissolvê-los."
+                           "explicacao":  "Musicalidade que sugere em vez de nomear, sinestesia e imprecisão deliberada são a assinatura simbolista. O contraste decisivo é com o Parnasianismo, que também cuida do som mas para lapidar contornos nítidos, não para dissolvê-los.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-64",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto em prosa do início do século XX apresenta um Brasil distante do discurso oficial de progresso: doença endêmica, abandono do interior, burocracia paralisante e uma linguagem que mistura registro culto e fala popular.",
                            "enunciado":  "Esses traços situam o texto no",
                            "alternativas":  {
@@ -25602,11 +26156,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Barroco, pelo jogo de contrários"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O Pré-Modernismo se define por essa fratura: contra a fachada de progresso, o país doente e burocratizado do interior. E a mistura de registros já antecipa a liberdade que 1922 tornaria programa."
+                           "explicacao":  "O Pré-Modernismo se define por essa fratura: contra a fachada de progresso, o país doente e burocratizado do interior. E a mistura de registros já antecipa a liberdade que 1922 tornaria programa.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-65",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema dispõe as palavras pelo espaço da página de modo deliberado, explora o valor visual dos caracteres e dispensa a sintaxe discursiva tradicional.",
                            "enunciado":  "Esses procedimentos caracterizam a produção",
                            "alternativas":  {
@@ -25617,11 +26171,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "romântica"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Quando a página deixa de ser suporte neutro e vira parte do poema, e a sintaxe discursiva é abandonada, está-se diante do Concretismo, que trata a palavra como objeto visual além de verbal."
+                           "explicacao":  "Quando a página deixa de ser suporte neutro e vira parte do poema, e a sintaxe discursiva é abandonada, está-se diante do Concretismo, que trata a palavra como objeto visual além de verbal.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-66",
-                           "formato":  "direta",
                            "texto_apoio":  "Uma narrativa apresenta herói de virtudes excepcionais, amor idealizado e inalcançável, natureza grandiosa em harmonia com os sentimentos das personagens e desfecho marcado pelo sacrifício.",
                            "enunciado":  "Esse conjunto caracteriza a prosa",
                            "alternativas":  {
@@ -25632,11 +26186,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "pré-modernista"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Herói excepcional, amor impossível, natureza que espelha a alma e sacrifício final compõem a receita romântica. O Realismo, que vem depois, desmonta cada um desses elementos — daí a oposição ser o melhor teste."
+                           "explicacao":  "Herói excepcional, amor impossível, natureza que espelha a alma e sacrifício final compõem a receita romântica. O Realismo, que vem depois, desmonta cada um desses elementos — daí a oposição ser o melhor teste.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-67",
-                           "formato":  "excecao",
                            "texto_apoio":  "O Modernismo brasileiro de primeira geração (1922-1930) definiu-se por um conjunto de rupturas com a estética anterior.",
                            "enunciado":  "As alternativas apresentam traços dessa primeira geração modernista, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -25647,11 +26201,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Adoção do verso livre e recusa da métrica fixa"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Perfeição formal e vocabulário raro são bandeira parnasiana — exatamente o alvo que o Modernismo escolheu para atacar. Os outros quatro traços são o próprio programa de 1922. O comando pede a exceção: quatro estão corretas."
+                           "explicacao":  "Perfeição formal e vocabulário raro são bandeira parnasiana — exatamente o alvo que o Modernismo escolheu para atacar. Os outros quatro traços são o próprio programa de 1922. O comando pede a exceção: quatro estão corretas.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-68",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se dois textos sobre a seca no Nordeste: no primeiro, a paisagem é descrita com admiração pelo que tem de singular e os habitantes aparecem como tipos curiosos; no segundo, a mesma paisagem é descrita pela falta, e os habitantes pela impossibilidade de permanecer.",
                            "enunciado":  "A diferença entre os dois tratamentos corresponde à passagem de",
                            "alternativas":  {
@@ -25662,11 +26216,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "uma perspectiva urbana para uma perspectiva rural"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "É a distinção formulada por Antonio Candido. O regionalismo de curiosidade trata o atraso como singularidade encantadora; a virada dos anos 1930 o trata como catástrofe sem horizonte. A diferença está no juízo sobre o mesmo objeto, não no gênero nem na pessoa gramatical."
+                           "explicacao":  "É a distinção formulada por Antonio Candido. O regionalismo de curiosidade trata o atraso como singularidade encantadora; a virada dos anos 1930 o trata como catástrofe sem horizonte. A diferença está no juízo sobre o mesmo objeto, não no gênero nem na pessoa gramatical.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-69",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto narrativo do século XIX descreve minuciosamente a hereditariedade, o ambiente e os hábitos de uma personagem antes de relatar seus atos, sugerindo que estes decorrem daqueles.",
                            "enunciado":  "Essa ordem de exposição é típica do",
                            "alternativas":  {
@@ -25677,11 +26231,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Romantismo, que atribui os atos ao livre arbítrio do herói"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Apresentar hereditariedade e ambiente antes dos atos não é ordem casual: é a demonstração da tese. Primeiro as causas, depois o efeito — o oposto exato do herói romântico, que age por vontade própria."
+                           "explicacao":  "Apresentar hereditariedade e ambiente antes dos atos não é ordem casual: é a demonstração da tese. Primeiro as causas, depois o efeito — o oposto exato do herói romântico, que age por vontade própria.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-70",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema recorre a formas fixas tradicionais, vocabulário elevado e temas da Antiguidade clássica, mas foi publicado no Brasil no final do século XIX, quando a República acabara de ser proclamada.",
                            "enunciado":  "A distância entre a matéria do poema e o momento histórico em que foi escrito sugere que a estética parnasiana",
                            "alternativas":  {
@@ -25692,11 +26246,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "havia sido criada especificamente para celebrar a Proclamação da República"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O Parnasianismo faz da arte um território próprio, regido por critérios internos de perfeição, e não um comentário da atualidade. Essa autonomia deliberada é o que explica o descompasso entre a matéria clássica e o momento republicano."
+                           "explicacao":  "O Parnasianismo faz da arte um território próprio, regido por critérios internos de perfeição, e não um comentário da atualidade. Essa autonomia deliberada é o que explica o descompasso entre a matéria clássica e o momento republicano.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-71",
-                           "formato":  "direta",
                            "texto_apoio":  "Um manifesto de vanguarda propõe que a produção artística nacional deixe de imitar modelos importados e passe a devorá-los, transformando-os em matéria própria.",
                            "enunciado":  "Essa proposta situa-se no",
                            "alternativas":  {
@@ -25707,11 +26261,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Realismo, pela crítica às instituições"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A metáfora da devoração é a assinatura da Antropofagia, dentro do Modernismo. Note que a busca de identidade nacional também move o Romantismo — o que distingue os dois é o método: o romântico funda um mito de origem, o antropófago digere o alheio."
+                           "explicacao":  "A metáfora da devoração é a assinatura da Antropofagia, dentro do Modernismo. Note que a busca de identidade nacional também move o Romantismo — o que distingue os dois é o método: o romântico funda um mito de origem, o antropófago digere o alheio.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-72",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto teatral brasileiro dos anos 1960 usa canções, dirige-se diretamente à plateia e interrompe a ação para comentar politicamente o que está sendo encenado.",
                            "enunciado":  "Esses procedimentos aproximam a peça de uma concepção de teatro que",
                            "alternativas":  {
@@ -25722,11 +26276,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "restringe a encenação ao repertório clássico greco-latino"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Canção, interpelação da plateia e interrupção do enredo servem para quebrar a ilusão e devolver o espectador à posição de quem julga. É o oposto da identificação emocional plena — e a escolha é política, não apenas formal."
+                           "explicacao":  "Canção, interpelação da plateia e interrupção do enredo servem para quebrar a ilusão e devolver o espectador à posição de quem julga. É o oposto da identificação emocional plena — e a escolha é política, não apenas formal.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-73",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se duas obras sobre o mesmo tema social, separadas por cerca de oitenta anos: a primeira o trata como episódio a ser superado pelo progresso; a segunda, como estrutura que se reproduz.",
                            "enunciado":  "A comparação entre as duas permite concluir que",
                            "alternativas":  {
@@ -25737,11 +26291,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a segunda obra copia a primeira, sem acrescentar leitura própria"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Quando o mesmo problema reaparece oitenta anos depois, e agora descrito como estrutura em vez de episódio, a própria distância temporal vira argumento: o que se supunha transitório mostrou-se permanente."
+                           "explicacao":  "Quando o mesmo problema reaparece oitenta anos depois, e agora descrito como estrutura em vez de episódio, a própria distância temporal vira argumento: o que se supunha transitório mostrou-se permanente.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-74",
-                           "formato":  "direta",
                            "texto_apoio":  "Um romance brasileiro contemporâneo alterna vozes de personagens de diferentes gerações de uma família do campo, recorrendo a registros linguísticos distintos para cada uma.",
                            "enunciado":  "A alternância de vozes e registros, nesse caso, funciona como",
                            "alternativas":  {
@@ -25752,11 +26306,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "marca de que o romance é, na verdade, uma coletânea de contos independentes"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Dar a cada geração um registro próprio é fazer a forma carregar a diferença social e histórica entre elas. A alternância não é ruído a ser corrigido: é o meio pelo qual o romance mostra, sem explicar, que aquelas experiências não são intercambiáveis."
+                           "explicacao":  "Dar a cada geração um registro próprio é fazer a forma carregar a diferença social e histórica entre elas. A alternância não é ruído a ser corrigido: é o meio pelo qual o romance mostra, sem explicar, que aquelas experiências não são intercambiáveis.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-75",
-                           "formato":  "direta",
                            "texto_apoio":  "Ao estudar uma obra literária, é possível considerar o momento em que foi escrita, o momento em que é lida e as transformações de sentido que ocorrem entre um e outro.",
                            "enunciado":  "Levar em conta essa distância entre produção e recepção permite ao leitor",
                            "alternativas":  {
@@ -25767,11 +26321,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "concluir que o sentido de uma obra é fixado definitivamente por seu autor"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Os dois extremos falham: congelar o sentido na intenção do autor e julgar tudo só por critérios de hoje. Sustentar as duas pontas — o contexto de origem e o de leitura — é o que mantém a obra viva sem torná-la anacrônica."
+                           "explicacao":  "Os dois extremos falham: congelar o sentido na intenção do autor e julgar tudo só por critérios de hoje. Sustentar as duas pontas — o contexto de origem e o de leitura — é o que mantém a obra viva sem torná-la anacrônica.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-76",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Os Lusíadas, a narrativa da viagem de Vasco da Gama é interrompida por episódios em que personagens censuram a própria empresa marítima — o Velho do Restelo adverte contra a cobiça e a vaidade que movem a expedição.",
                            "enunciado":  "A presença dessa voz dissonante dentro do poema épico indica que a obra",
                            "alternativas":  {
@@ -25782,11 +26336,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "abandona o gênero épico e se converte em texto de denúncia política"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O elogio e a advertência convivem no mesmo poema, e é essa tensão que o torna mais interessante do que uma celebração simples. Ler o Velho do Restelo como ruptura do gênero é forte demais: a epopeia continua sendo epopeia, mas com consciência do preço do que exalta."
+                           "explicacao":  "O elogio e a advertência convivem no mesmo poema, e é essa tensão que o torna mais interessante do que uma celebração simples. Ler o Velho do Restelo como ruptura do gênero é forte demais: a epopeia continua sendo epopeia, mas com consciência do preço do que exalta.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-77",
-                           "formato":  "direta",
                            "texto_apoio":  "\"Amor é fogo que arde sem se ver; / É ferida que dói e não se sente; / É um contentamento descontente; / É dor que desatina sem doer.\" (Luís de Camões)",
                            "enunciado":  "A construção do soneto assenta-se, sobretudo, em",
                            "alternativas":  {
@@ -25797,11 +26351,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "comparações com elementos da natureza rural"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Arder sem se ver, doer sem se sentir, contentamento descontente: cada verso define por contradição. O procedimento não é ornamento — é a tese de que o amor só pode ser dito por aquilo que ele nega."
+                           "explicacao":  "Arder sem se ver, doer sem se sentir, contentamento descontente: cada verso define por contradição. O procedimento não é ornamento — é a tese de que o amor só pode ser dito por aquilo que ele nega.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-78",
-                           "formato":  "direta",
                            "texto_apoio":  "O teatro de Gil Vicente, produzido no início do século XVI, coloca em cena tipos sociais reconhecíveis — o fidalgo, o frade, o sapateiro, a alcoviteira — e os submete a julgamento numa situação alegórica.",
                            "enunciado":  "Esse procedimento serve para",
                            "alternativas":  {
@@ -25812,11 +26366,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "abandonar o teatro religioso em favor da tragédia clássica greco-latina"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O tipo funciona como atalho: quem vê o fidalgo em cena reconhece a classe inteira. E a alegoria dá a cobertura necessária — pode-se julgar todo mundo se o julgamento acontece num plano simbólico. Note que a sátira não poupa camada alguma, inclusive a popular."
+                           "explicacao":  "O tipo funciona como atalho: quem vê o fidalgo em cena reconhece a classe inteira. E a alegoria dá a cobertura necessária — pode-se julgar todo mundo se o julgamento acontece num plano simbólico. Note que a sátira não poupa camada alguma, inclusive a popular.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-79",
-                           "formato":  "direta",
                            "texto_apoio":  "Nos romances de Eça de Queirós, personagens da burguesia e do clero portugueses do século XIX são apresentadas com detalhamento de hábitos, discursos e ambientes, e o narrador expõe a distância entre o que elas dizem professar e o que efetivamente fazem.",
                            "enunciado":  "Essa distância, explorada sistematicamente, caracteriza a obra como",
                            "alternativas":  {
@@ -25827,11 +26381,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "trovadoresca, pela convenção do amor cortês"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Observar de perto para expor a hipocrisia é o programa realista, e Eça o aplica à burguesia e ao clero. A distância entre discurso e prática só se torna visível porque o narrador acumulou antes o detalhe do cotidiano — método, não maldade."
+                           "explicacao":  "Observar de perto para expor a hipocrisia é o programa realista, e Eça o aplica à burguesia e ao clero. A distância entre discurso e prática só se torna visível porque o narrador acumulou antes o detalhe do cotidiano — método, não maldade.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-80",
-                           "formato":  "direta",
                            "texto_apoio":  "A poesia de Cesário Verde, na segunda metade do século XIX, toma como matéria a cidade de Lisboa — o comércio, as ruas, os trabalhadores, o cansaço do corpo urbano — em vez dos temas líricos convencionais.",
                            "enunciado":  "Essa escolha temática faz do poeta um precursor porque",
                            "alternativas":  {
@@ -25842,11 +26396,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "antecipa a atenção modernista ao cotidiano urbano e ao olhar do observador na rua"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A cidade como assunto legítimo da poesia, vista por quem caminha nela, é o que várias vanguardas do século seguinte tomariam como ponto de partida. Daí a posição de precursor — a matéria já está lá antes de haver programa que a justifique."
+                           "explicacao":  "A cidade como assunto legítimo da poesia, vista por quem caminha nela, é o que várias vanguardas do século seguinte tomariam como ponto de partida. Daí a posição de precursor — a matéria já está lá antes de haver programa que a justifique.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-81",
-                           "formato":  "direta",
                            "texto_apoio":  "Fernando Pessoa criou heterônimos — Alberto Caeiro, Ricardo Reis, Álvaro de Campos — atribuindo a cada um biografia, estilo e visão de mundo próprios, por vezes incompatíveis entre si.",
                            "enunciado":  "A heteronímia distingue-se do simples uso de pseudônimo porque",
                            "alternativas":  {
@@ -25857,11 +26411,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "reúne sob um nome único textos escritos por vários autores reais"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Pseudônimo troca a assinatura; heterônimo cria outro poeta, com estilo e ideias que podem contradizer os do criador. É por isso que a heteronímia não é truque biográfico, e sim uma tese sobre a impossibilidade de um eu único."
+                           "explicacao":  "Pseudônimo troca a assinatura; heterônimo cria outro poeta, com estilo e ideias que podem contradizer os do criador. É por isso que a heteronímia não é truque biográfico, e sim uma tese sobre a impossibilidade de um eu único.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-82",
-                           "formato":  "direta",
                            "texto_apoio":  "Um dos heterônimos de Pessoa recusa a metafísica e afirma que pensar sobre as coisas é deixar de vê-las; sua poesia privilegia a percepção direta, o verso sem ornamento e a recusa do simbolismo.",
                            "enunciado":  "Essa poética corresponde à de",
                            "alternativas":  {
@@ -25872,11 +26426,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Fernando Pessoa ortônimo, do intelectualismo e do jogo entre razão e sentimento"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Recusar o pensamento em favor da percepção direta é exatamente o programa de Caeiro, apresentado pelos demais como mestre. Reis é clássico e resignado, Campos é o excesso futurista — as três poéticas coexistem sem se resolver."
+                           "explicacao":  "Recusar o pensamento em favor da percepção direta é exatamente o programa de Caeiro, apresentado pelos demais como mestre. Reis é clássico e resignado, Campos é o excesso futurista — as três poéticas coexistem sem se resolver.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-83",
-                           "formato":  "direta",
                            "texto_apoio":  "Outro heterônimo de Pessoa escreve odes de métrica regular, evoca deuses pagãos e prega a aceitação serena do destino e o gozo moderado do instante presente.",
                            "enunciado":  "Essa poética filia-se a uma tradição",
                            "alternativas":  {
@@ -25887,11 +26441,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "futurista, pela exaltação da velocidade e da máquina"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Métrica regular, deuses pagãos e gozo moderado do instante compõem a herança clássica passada pelo estoicismo e pelo epicurismo. É o polo oposto ao do heterônimo que celebra máquina e excesso, e a distância entre os dois é deliberada."
+                           "explicacao":  "Métrica regular, deuses pagãos e gozo moderado do instante compõem a herança clássica passada pelo estoicismo e pelo epicurismo. É o polo oposto ao do heterônimo que celebra máquina e excesso, e a distância entre os dois é deliberada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-84",
-                           "formato":  "direta",
                            "texto_apoio":  "Um terceiro heterônimo de Pessoa escreve versos longos e acumulativos, celebra a energia das máquinas e das multidões e, em outra fase, expressa esgotamento e sensação de fracasso.",
                            "enunciado":  "A convivência dessas duas fases numa mesma obra revela",
                            "alternativas":  {
@@ -25902,11 +26456,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "que o poeta abandonou definitivamente a poesia após a primeira fase"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A euforia com a máquina e o cansaço diante dela não se contradizem: são momentos de uma mesma relação com a modernidade. Tratar a segunda fase como erro ou falsificação seria apagar justamente o que a obra tem de mais honesto."
+                           "explicacao":  "A euforia com a máquina e o cansaço diante dela não se contradizem: são momentos de uma mesma relação com a modernidade. Tratar a segunda fase como erro ou falsificação seria apagar justamente o que a obra tem de mais honesto.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-85",
-                           "formato":  "direta",
                            "texto_apoio":  "Na prosa de José Saramago, os diálogos costumam vir integrados ao parágrafo, sem travessão nem aspas, separados apenas por vírgulas e por maiúsculas que marcam a mudança de falante.",
                            "enunciado":  "Esse procedimento de pontuação produz o efeito de",
                            "alternativas":  {
@@ -25917,11 +26471,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "eliminar as personagens, restando apenas a voz do narrador"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Sem travessão, não há fronteira nítida entre quem narra e quem fala, e o texto ganha o andamento de alguém contando em voz alta. O efeito é de continuidade, não de apagamento das personagens — elas continuam lá, apenas sem moldura tipográfica."
+                           "explicacao":  "Sem travessão, não há fronteira nítida entre quem narra e quem fala, e o texto ganha o andamento de alguém contando em voz alta. O efeito é de continuidade, não de apagamento das personagens — elas continuam lá, apenas sem moldura tipográfica.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-86",
-                           "formato":  "direta",
                            "texto_apoio":  "Na prosa de Mia Couto, aparecem palavras inventadas a partir de radicais do português cruzados com estruturas de línguas moçambicanas, além de provérbios e formas de narrar herdadas da tradição oral.",
                            "enunciado":  "Esse trabalho com a língua indica que, para o autor,",
                            "alternativas":  {
@@ -25932,11 +26486,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a literatura moçambicana deve abandonar o português e escrever apenas em línguas locais"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Não é nem submissão ao padrão europeu nem recusa da língua: é apropriação. Reinventar o português a partir de estruturas e saberes locais transforma a herança colonial em ferramenta, e a oralidade em matéria de escrita."
+                           "explicacao":  "Não é nem submissão ao padrão europeu nem recusa da língua: é apropriação. Reinventar o português a partir de estruturas e saberes locais transforma a herança colonial em ferramenta, e a oralidade em matéria de escrita.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-87",
-                           "formato":  "direta",
                            "texto_apoio":  "Boa parte da ficção angolana e moçambicana produzida após as independências, alcançadas em 1975, trata da guerra, da reconstrução nacional e da distância entre as promessas da libertação e a vida cotidiana que se seguiu.",
                            "enunciado":  "Esse conjunto temático caracteriza uma literatura que",
                            "alternativas":  {
@@ -25947,11 +26501,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "evita qualquer referência ao período colonial e à guerra"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas. Sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil e sua força."
+                           "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas. Sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil e sua força.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-88",
-                           "formato":  "direta",
                            "texto_apoio":  "Escritoras africanas de língua portuguesa têm tratado da condição feminina articulando questões de gênero a heranças coloniais, a tradições locais e a transformações econômicas recentes.",
                            "enunciado":  "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
                            "alternativas":  {
@@ -25962,11 +26516,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "tema secundário, subordinado à narrativa de guerra"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Ler gênero isoladamente nessas obras é perder o essencial: as personagens são atravessadas ao mesmo tempo por tradição, colonização e economia. É a interseção, e não um fator único, que dá forma à experiência narrada."
+                           "explicacao":  "Ler gênero isoladamente nessas obras é perder o essencial: as personagens são atravessadas ao mesmo tempo por tradição, colonização e economia. É a interseção, e não um fator único, que dá forma à experiência narrada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-89",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema de autor africano de língua portuguesa reivindica a identidade negra e africana usando a língua do colonizador, e faz dessa escolha um tema explícito do próprio texto.",
                            "enunciado":  "A tensão produzida por essa escolha consiste em",
                            "alternativas":  {
@@ -25977,11 +26531,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "afirmar uma identidade recorrendo ao idioma imposto por quem a negou, transformando a contradição em matéria do poema"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto. Usar a língua do colonizador para afirmar o que ele negou é um gesto que o poema realiza e comenta ao mesmo tempo."
+                           "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto. Usar a língua do colonizador para afirmar o que ele negou é um gesto que o poema realiza e comenta ao mesmo tempo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-90",
-                           "formato":  "direta",
                            "texto_apoio":  "Em narrativas africanas de língua portuguesa é frequente a presença de um contador de histórias, de fórmulas de abertura e fechamento e de repetições rítmicas que remetem à performance oral.",
                            "enunciado":  "A incorporação desses elementos à obra escrita cumpre a função de",
                            "alternativas":  {
@@ -25992,11 +26546,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "inscrever na forma escrita uma tradição de transmissão do saber que a colonização tratou como inferior"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Trazer o contador, as fórmulas e o ritmo para dentro do livro é reconhecer valor literário a um modo de transmissão que foi historicamente desqualificado. Não se trata de transcrição documental nem de simplificação: é estilização deliberada."
+                           "explicacao":  "Trazer o contador, as fórmulas e o ritmo para dentro do livro é reconhecer valor literário a um modo de transmissão que foi historicamente desqualificado. Não se trata de transcrição documental nem de simplificação: é estilização deliberada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-91",
-                           "formato":  "excecao",
                            "texto_apoio":  "As literaturas africanas de língua portuguesa constituíram-se em contextos marcados pela colonização, pelas guerras de independência e pela construção de Estados nacionais recentes.",
                            "enunciado":  "As alternativas apresentam traços recorrentes dessas literaturas, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -26007,11 +26561,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Reinvenção do português a partir de línguas e culturas locais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Tomar a assimilação europeia como horizonte desejável é justamente o que essas literaturas recusam — a assimilação foi política colonial, não projeto delas. Os outros quatro traços são recorrentes. O comando pede a exceção."
+                           "explicacao":  "Tomar a assimilação europeia como horizonte desejável é justamente o que essas literaturas recusam — a assimilação foi política colonial, não projeto delas. Os outros quatro traços são recorrentes. O comando pede a exceção.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-92",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Vidas Secas, um dos capítulos é narrado da perspectiva da cadela Baleia, e sua morte recebe tratamento tão detido quanto o dado às personagens humanas.",
                            "enunciado":  "Essa escolha narrativa produz o efeito de",
                            "alternativas":  {
@@ -26022,11 +26576,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "demonstrar que os animais possuem linguagem articulada igual à humana"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez. É o procedimento que torna o capítulo devastador sem precisar de nenhum comentário do narrador."
+                           "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez. É o procedimento que torna o capítulo devastador sem precisar de nenhum comentário do narrador.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-93",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Vidas Secas, as personagens têm vocabulário reduzido, e o narrador frequentemente descreve pensamentos que elas não conseguiriam formular em palavras.",
                            "enunciado":  "Essa relação entre narrador e personagens indica que",
                            "alternativas":  {
@@ -26037,11 +26591,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o narrador empresta às personagens uma articulação que elas não possuem, tornando visível uma interioridade que a própria condição social lhes impede de expressar"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna. Não é falha de verossimilhança: é o modo de mostrar que a pobreza também é pobreza de palavra."
+                           "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna. Não é falha de verossimilhança: é o modo de mostrar que a pobreza também é pobreza de palavra.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-94",
-                           "formato":  "direta",
                            "texto_apoio":  "Vidas Secas começa com a família em fuga da seca e termina com a família novamente em fuga da seca, rumo ao sul.",
                            "enunciado":  "Essa estrutura circular contribui para o sentido da obra ao",
                            "alternativas":  {
@@ -26052,11 +26606,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "demonstrar que o romance ficou inacabado"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Terminar onde começou não é falta de enredo: é o enredo. A circularidade formaliza a ausência de horizonte, que é a diferença entre tratar o atraso como etapa a vencer e tratá-lo como condição."
+                           "explicacao":  "Terminar onde começou não é falta de enredo: é o enredo. A circularidade formaliza a ausência de horizonte, que é a diferença entre tratar o atraso como etapa a vencer e tratá-lo como condição.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-95",
-                           "formato":  "direta",
                            "texto_apoio":  "Na obra de Mário de Andrade, um mesmo protagonista transita entre regiões distantes do Brasil, acumula traços culturais de origens diversas e não se fixa em nenhuma identidade estável.",
                            "enunciado":  "Essa construção da personagem serve ao projeto modernista de",
                            "alternativas":  {
@@ -26067,11 +26621,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "defender a superioridade de uma das regiões brasileiras sobre as demais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A personagem sem caráter fixo é o argumento: o país que ela atravessa também não tem essência única. A proposta modernista aqui é substituir a busca de uma raiz pura pela aceitação da mistura como forma."
+                           "explicacao":  "A personagem sem caráter fixo é o argumento: o país que ela atravessa também não tem essência única. A proposta modernista aqui é substituir a busca de uma raiz pura pela aceitação da mistura como forma.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-96",
-                           "formato":  "direta",
                            "texto_apoio":  "A produção literária brasileira da terceira geração modernista, a partir dos anos 1940, retoma o cuidado com a construção do verso e da frase, sem abandonar as conquistas de liberdade formal de 1922.",
                            "enunciado":  "Essa combinação caracteriza-se por",
                            "alternativas":  {
@@ -26082,11 +26636,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "repetir sem alterações o programa da primeira geração modernista"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não é volta ao parnasianismo nem repetição de 1922: é a forma reaberta como questão. A liberdade conquistada permanece, mas deixa de ser bandeira e passa a ser material de trabalho consciente."
+                           "explicacao":  "Não é volta ao parnasianismo nem repetição de 1922: é a forma reaberta como questão. A liberdade conquistada permanece, mas deixa de ser bandeira e passa a ser material de trabalho consciente.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-97",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se dois momentos do Modernismo brasileiro: no primeiro, predominam o manifesto, a paródia e o escândalo público; no segundo, a investigação social e a densidade psicológica em romances e poemas.",
                            "enunciado":  "A diferença entre os dois momentos pode ser explicada porque",
                            "alternativas":  {
@@ -26097,11 +26651,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "as duas fases foram produzidas pelos mesmos autores, sem mudança de projeto"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Ver a segunda fase como retorno ao século XIX confunde o interesse social renovado com a estética que o Modernismo havia superado."
+                           "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Ver a segunda fase como retorno ao século XIX confunde o interesse social renovado com a estética que o Modernismo havia superado.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-98",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto modernista brasileiro incorpora erros de concordância, marcas de oralidade e construções da fala popular, mantendo-as deliberadamente na versão publicada.",
                            "enunciado":  "Essa decisão deve ser lida como",
                            "alternativas":  {
@@ -26112,11 +26666,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "exigência da censura do período"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Manter o desvio é escolha, não falha: afirma que a língua falada no Brasil tem estatuto literário. A decisão é estética e política ao mesmo tempo, e é indissociável do projeto de repensar a identidade nacional."
+                           "explicacao":  "Manter o desvio é escolha, não falha: afirma que a língua falada no Brasil tem estatuto literário. A decisão é estética e política ao mesmo tempo, e é indissociável do projeto de repensar a identidade nacional.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-99",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se uma obra do Romantismo brasileiro e uma do Modernismo, ambas empenhadas em definir o que seria a identidade nacional.",
                            "enunciado":  "A diferença essencial entre os dois projetos está em que",
                            "alternativas":  {
@@ -26127,11 +26681,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o Modernismo defende o retorno aos modelos coloniais portugueses"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Dizer que só um deles se interessa pelo tema apaga a continuidade do problema."
+                           "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Dizer que só um deles se interessa pelo tema apaga a continuidade do problema.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-100",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema modernista brasileiro trata de um objeto banal — uma pedra, um relógio, uma cadeira — sem atribuir-lhe valor simbólico elevado, mantendo-o na sua concretude.",
                            "enunciado":  "Essa recusa da elevação simbólica indica",
                            "alternativas":  {
@@ -26142,11 +26696,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o retorno à alegoria barroca, em que todo objeto representa outra coisa"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O objeto não precisa virar símbolo para entrar no poema. Essa suficiência do comum é uma conquista modernista, e é o oposto tanto da dissolução simbolista quanto da alegoria barroca, em que nada vale por si."
+                           "explicacao":  "O objeto não precisa virar símbolo para entrar no poema. Essa suficiência do comum é uma conquista modernista, e é o oposto tanto da dissolução simbolista quanto da alegoria barroca, em que nada vale por si.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-101",
-                           "formato":  "direta",
                            "texto_apoio":  "Em O Cortiço, a chegada de Rita Baiana provoca em Jerônimo, imigrante português trabalhador e regrado, uma transformação progressiva: ele muda de hábitos alimentares, de música, de ritmo de trabalho e abandona a família.",
                            "enunciado":  "Segundo a lógica naturalista do romance, essa transformação é apresentada como resultado de",
                            "alternativas":  {
@@ -26157,11 +26711,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "uma doença diagnosticada por um médico no curso da narrativa"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O romance encena a tese: transplantado para o trópico, o organismo cede e a disciplina europeia se dissolve. Atribuir a mudança a uma decisão moral é justamente o que o Naturalismo recusa — a personagem não escolhe, ela é modificada."
+                           "explicacao":  "O romance encena a tese: transplantado para o trópico, o organismo cede e a disciplina europeia se dissolve. Atribuir a mudança a uma decisão moral é justamente o que o Naturalismo recusa — a personagem não escolhe, ela é modificada.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-102",
-                           "formato":  "direta",
                            "texto_apoio":  "O Cortiço apresenta, em paralelo ao cortiço de João Romão, o sobrado do comendador Miranda, separado dele por um muro, e a narrativa acompanha os dois espaços simultaneamente.",
                            "enunciado":  "A construção desse paralelo permite ao romance",
                            "alternativas":  {
@@ -26172,11 +26726,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "abandonar o cortiço na segunda metade do livro para acompanhar apenas a elite"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O muro separa e liga: são dois mundos vizinhos cuja relação é de dependência, não de contraste decorativo. O sobrado só é o que é porque o cortiço existe do outro lado, e é isso que a estrutura em paralelo torna visível."
+                           "explicacao":  "O muro separa e liga: são dois mundos vizinhos cuja relação é de dependência, não de contraste decorativo. O sobrado só é o que é porque o cortiço existe do outro lado, e é isso que a estrutura em paralelo torna visível.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-103",
-                           "formato":  "direta",
                            "texto_apoio":  "Em O Cortiço, o narrador descreve o despertar coletivo dos moradores de manhã como um único movimento, em que vozes, corpos e ruídos se confundem numa massa em fermentação.",
                            "enunciado":  "Essa opção descritiva revela que, na obra, o coletivo é tratado como",
                            "alternativas":  {
@@ -26187,11 +26741,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "comunidade religiosa unida por uma mesma fé"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A descrição funde vozes e corpos numa coisa só que ferve e cresce. Tratar o cortiço como organismo, e não como soma de indivíduos, é o que sustenta a ideia de que ali as leis em ação são biológicas antes de serem morais."
+                           "explicacao":  "A descrição funde vozes e corpos numa coisa só que ferve e cresce. Tratar o cortiço como organismo, e não como soma de indivíduos, é o que sustenta a ideia de que ali as leis em ação são biológicas antes de serem morais.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-104",
-                           "formato":  "direta",
                            "texto_apoio":  "Ao longo de O Cortiço, personagens são reiteradamente descritas por meio de comparações com animais, e o próprio cortiço é apresentado como algo que se reproduz e se alastra.",
                            "enunciado":  "O efeito acumulado desse procedimento sobre a leitura é",
                            "alternativas":  {
@@ -26202,11 +26756,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "sugerir que o autor desconhecia o vocabulário adequado para descrever pessoas"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "A comparação animal, repetida sistematicamente, não é imagem isolada: é argumento. Quanto mais o texto insiste, mais firme fica a tese determinista — o que é diferente de dizer que as personagens sejam bichos na ficção."
+                           "explicacao":  "A comparação animal, repetida sistematicamente, não é imagem isolada: é argumento. Quanto mais o texto insiste, mais firme fica a tese determinista — o que é diferente de dizer que as personagens sejam bichos na ficção.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-105",
-                           "formato":  "direta",
                            "texto_apoio":  "Em O Cortiço, o desfecho reserva a João Romão o casamento vantajoso e a ascensão social definitiva, enquanto Bertoleza, ao ser cercada pelos agentes que a levariam de volta ao cativeiro, se mata.",
                            "enunciado":  "A justaposição desses dois desfechos funciona como",
                            "alternativas":  {
@@ -26217,11 +26771,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "coincidência sem relação de causa entre os dois acontecimentos"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: ele sobe porque ela é descartada. Ler como recompensa da virtude inverteria o romance, que não trata João Romão como virtuoso em momento algum."
+                           "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: ele sobe porque ela é descartada. Ler como recompensa da virtude inverteria o romance, que não trata João Romão como virtuoso em momento algum.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-106",
-                           "formato":  "direta",
                            "texto_apoio":  "O Cortiço foi publicado em 1890, dois anos após a Abolição e um ano após a Proclamação da República, num Rio de Janeiro que recebia levas de imigrantes e de ex-escravizados em busca de trabalho urbano.",
                            "enunciado":  "A relação entre esse contexto e a matéria do romance pode ser descrita assim:",
                            "alternativas":  {
@@ -26232,11 +26786,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o romance ignora o contexto e ambienta-se num passado colonial remoto"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A habitação coletiva reúne exatamente quem esses processos jogaram na cidade: imigrantes, libertos, trabalhadores sem posse. O romance não celebra nem ignora o contexto — ele o toma como assunto."
+                           "explicacao":  "A habitação coletiva reúne exatamente quem esses processos jogaram na cidade: imigrantes, libertos, trabalhadores sem posse. O romance não celebra nem ignora o contexto — ele o toma como assunto.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-107",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se dois romances brasileiros do fim do século XIX: um investiga as motivações íntimas de um narrador que se contradiz; o outro descreve uma coletividade cujas ações são explicadas por meio, raça e clima.",
                            "enunciado":  "A diferença entre os dois corresponde à distinção entre",
                            "alternativas":  {
@@ -26247,11 +26801,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no grau de determinismo"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Os dois recusam a idealização romântica, mas o Naturalismo vai além: aplica ao humano um determinismo de laboratório. Guardar essa distinção evita tratar como sinônimos duas estéticas contemporâneas e vizinhas."
+                           "explicacao":  "Os dois recusam a idealização romântica, mas o Naturalismo vai além: aplica ao humano um determinismo de laboratório. Guardar essa distinção evita tratar como sinônimos duas estéticas contemporâneas e vizinhas.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-108",
-                           "formato":  "excecao",
                            "texto_apoio":  "O Naturalismo brasileiro define-se por um conjunto de procedimentos e pressupostos que o distinguem das estéticas anteriores.",
                            "enunciado":  "As alternativas apresentam traços do Naturalismo, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -26262,11 +26816,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "Determinismo de meio, raça e momento na explicação da conduta"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Idealizar a mulher amada é procedimento romântico, e o Naturalismo faz o oposto: descreve corpo, apetite e doença. Os outros quatro traços são o núcleo da estética. O comando pede a exceção — quatro alternativas estão corretas."
+                           "explicacao":  "Idealizar a mulher amada é procedimento romântico, e o Naturalismo faz o oposto: descreve corpo, apetite e doença. Os outros quatro traços são o núcleo da estética. O comando pede a exceção — quatro alternativas estão corretas.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-109",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias de um sargento de milícias, o compadre barbeiro, padrinho do protagonista, exerce papel decisivo em momentos de dificuldade, obtendo favores, intercedendo junto a autoridades e abrigando o afilhado.",
                            "enunciado":  "A importância dessa figura na trama indica que, na sociedade retratada,",
                            "alternativas":  {
@@ -26277,11 +26831,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o trabalho assalariado regular era o caminho normal de ascensão"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Não há direito a acionar: há padrinho a procurar. O compadrio ocupa o lugar que, numa sociedade de instituições impessoais, caberia à lei — e é por isso que ele move o enredo tanto quanto o protagonista."
+                           "explicacao":  "Não há direito a acionar: há padrinho a procurar. O compadrio ocupa o lugar que, numa sociedade de instituições impessoais, caberia à lei — e é por isso que ele move o enredo tanto quanto o protagonista.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-110",
-                           "formato":  "direta",
                            "texto_apoio":  "O protagonista de Memórias de um sargento de milícias passa a infância aprontando travessuras, foge de estudos e obrigações, e ainda assim termina o romance empregado, casado e socialmente acomodado.",
                            "enunciado":  "Esse desfecho, sem punição nem arrependimento, indica que a narrativa",
                            "alternativas":  {
@@ -26292,11 +26846,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "deixa o destino do protagonista indefinido, sem desfecho"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O malandro não é corrigido nem castigado: ele se acomoda. A ausência de moral da história é a própria posição do livro sobre como aquela sociedade funciona — por arranjo e proteção, não por mérito."
+                           "explicacao":  "O malandro não é corrigido nem castigado: ele se acomoda. A ausência de moral da história é a própria posição do livro sobre como aquela sociedade funciona — por arranjo e proteção, não por mérito.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-111",
-                           "formato":  "direta",
                            "texto_apoio":  "Memórias de um sargento de milícias foi publicado originalmente em folhetim, em capítulos curtos e semanais destinados a um público amplo de leitores de jornal.",
                            "enunciado":  "Essa origem ajuda a explicar, na obra,",
                            "alternativas":  {
@@ -26307,11 +26861,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a extensão de cada capítulo, que ultrapassa cem páginas"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Publicar semanalmente para leitor de jornal impõe episódio fechado, ritmo rápido e gancho. As características que às vezes se leem como falta de profundidade são, na origem, exigências do meio de publicação."
+                           "explicacao":  "Publicar semanalmente para leitor de jornal impõe episódio fechado, ritmo rápido e gancho. As características que às vezes se leem como falta de profundidade são, na origem, exigências do meio de publicação.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-112",
-                           "formato":  "direta",
                            "texto_apoio":  "O narrador de Memórias de um sargento de milícias situa a ação \"no tempo do rei\", referindo-se ao período da corte de D. João VI no Rio de Janeiro, e comenta os costumes daquela época a partir de um presente posterior.",
                            "enunciado":  "Esse distanciamento temporal permite ao narrador",
                            "alternativas":  {
@@ -26322,11 +26876,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "atribuir a narração a uma personagem que viveu os acontecimentos"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O intervalo entre o tempo narrado e o tempo da narração é o que abre espaço para a ironia. E o narrador usa esse espaço não para se distanciar, mas para aproximar: o que ele descreve do passado continua reconhecível no presente do leitor."
+                           "explicacao":  "O intervalo entre o tempo narrado e o tempo da narração é o que abre espaço para a ironia. E o narrador usa esse espaço não para se distanciar, mas para aproximar: o que ele descreve do passado continua reconhecível no presente do leitor.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-113",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias de um sargento de milícias, a figura do major Vidigal concentra a autoridade policial, e sua atuação mistura rigor arbitrário com acomodações negociadas caso a caso.",
                            "enunciado":  "Essa caracterização da autoridade contribui para o retrato de uma sociedade em que",
                            "alternativas":  {
@@ -26337,11 +26891,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a autoridade opera por arbítrio e negociação pessoal, e não por norma previsível"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Vidigal ora aperta, ora afrouxa, conforme quem está diante dele. É autoridade sem previsibilidade — o que combina exatamente com um mundo em que se transita entre a ordem e a desordem sem que a fronteira seja fixa."
+                           "explicacao":  "Vidigal ora aperta, ora afrouxa, conforme quem está diante dele. É autoridade sem previsibilidade — o que combina exatamente com um mundo em que se transita entre a ordem e a desordem sem que a fronteira seja fixa.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-114",
-                           "formato":  "direta",
                            "texto_apoio":  "Comparam-se dois romances brasileiros do século XIX: em um, o protagonista pobre se acomoda por meio de favores e esperteza; em outro, o protagonista imigrante enriquece explorando trabalho não pago.",
                            "enunciado":  "A aproximação entre as duas trajetórias mostra que ambos os romances tratam de",
                            "alternativas":  {
@@ -26352,11 +26906,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "conflitos entre nações europeias transpostos para o Brasil"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Um se arranja pelo favor, o outro acumula pela exploração — mas nenhum dos dois ascende pelo salário, porque o salário não era o mecanismo dominante. A comparação ilumina a estrutura comum por baixo de trajetórias distintas."
+                           "explicacao":  "Um se arranja pelo favor, o outro acumula pela exploração — mas nenhum dos dois ascende pelo salário, porque o salário não era o mecanismo dominante. A comparação ilumina a estrutura comum por baixo de trajetórias distintas.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-115",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Memórias de um sargento de milícias, cenas de conflito doméstico e de violência física são narradas em tom leve, com atenção ao ridículo dos gestos e sem que o narrador se detenha no sofrimento das vítimas.",
                            "enunciado":  "Esse tratamento produz no leitor contemporâneo",
                            "alternativas":  {
@@ -26367,11 +26921,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a impressão de que o romance é uma denúncia explícita da violência doméstica"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O riso do narrador não é o nosso, e é justamente aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Ler o livro como denúncia explícita seria projetar sobre ele uma intenção que não tem."
+                           "explicacao":  "O riso do narrador não é o nosso, e é justamente aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Ler o livro como denúncia explícita seria projetar sobre ele uma intenção que não tem.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-116",
-                           "formato":  "direta",
                            "texto_apoio":  "Antonio Candido observa que, em Memórias de um sargento de milícias, quase não aparecem escravizados em primeiro plano, embora a ação transcorra numa cidade escravista.",
                            "enunciado":  "Essa ausência é significativa porque",
                            "alternativas":  {
@@ -26382,11 +26936,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "indica que o romance se passa em outro país"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O que o romance não mostra também informa: seu foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo. A ausência não nega a escravidão — delimita o recorte."
+                           "explicacao":  "O que o romance não mostra também informa: seu foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo. A ausência não nega a escravidão — delimita o recorte.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-117",
-                           "formato":  "direta",
                            "texto_apoio":  "Num conto, o desfecho é apresentado numa única frase final que reinterpreta retroativamente tudo o que foi narrado antes.",
                            "enunciado":  "Esse procedimento corresponde ao que se costuma chamar de",
                            "alternativas":  {
@@ -26397,11 +26951,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "clímax dilatado, distribuído ao longo de toda a narrativa"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "A frase final não acrescenta um episódio: ela obriga a reler o que já se leu. É o efeito de virada, e depende da economia do conto — num romance, a distância entre início e fim dissolveria o impacto."
+                           "explicacao":  "A frase final não acrescenta um episódio: ela obriga a reler o que já se leu. É o efeito de virada, e depende da economia do conto — num romance, a distância entre início e fim dissolveria o impacto.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-118",
-                           "formato":  "direta",
                            "texto_apoio":  "Num conto brasileiro contemporâneo ambientado numa periferia urbana, a violência é narrada em primeira pessoa, com vocabulário e sintaxe da fala local, sem que o narrador explique os termos ao leitor de fora.",
                            "enunciado":  "A recusa em explicar produz o efeito de",
                            "alternativas":  {
@@ -26412,11 +26966,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "afirmar a legitimidade daquele modo de falar, colocando o leitor de fora na posição de quem precisa se aproximar"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Explicar seria colocar o leitor de fora no centro e a comunidade narrada na posição de objeto. Ao não explicar, o conto inverte a hierarquia: quem não conhece é que se desloca. É decisão de forma com consequência política."
+                           "explicacao":  "Explicar seria colocar o leitor de fora no centro e a comunidade narrada na posição de objeto. Ao não explicar, o conto inverte a hierarquia: quem não conhece é que se desloca. É decisão de forma com consequência política.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-119",
-                           "formato":  "direta",
                            "texto_apoio":  "Um conto é construído inteiramente a partir de diálogo, sem descrição de ambiente nem acesso à interioridade das personagens.",
                            "enunciado":  "Nesse arranjo, a caracterização das personagens é feita",
                            "alternativas":  {
@@ -26427,11 +26981,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "de forma impossível, já que sem narrador não há caracterização"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Sem narrador que descreva ou explique, tudo o que se sabe vem da fala — vocabulário, hesitações, o que se evita dizer. O trabalho de composição é transferido ao leitor, que precisa inferir de dentro do diálogo."
+                           "explicacao":  "Sem narrador que descreva ou explique, tudo o que se sabe vem da fala — vocabulário, hesitações, o que se evita dizer. O trabalho de composição é transferido ao leitor, que precisa inferir de dentro do diálogo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-120",
-                           "formato":  "direta",
                            "texto_apoio":  "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
                            "enunciado":  "Esse procedimento caracteriza",
                            "alternativas":  {
@@ -26442,11 +26996,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a crônica jornalística, presa ao acontecimento do dia"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O que define o procedimento não é o sobrenatural em si, mas a ausência de espanto diante dele. Se o narrador se surpreendesse, o efeito seria fantástico; como não se surpreende, o extraordinário passa a integrar a ordem das coisas."
+                           "explicacao":  "O que define o procedimento não é o sobrenatural em si, mas a ausência de espanto diante dele. Se o narrador se surpreendesse, o efeito seria fantástico; como não se surpreende, o extraordinário passa a integrar a ordem das coisas.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-121",
-                           "formato":  "direta",
                            "texto_apoio":  "Num conto, o narrador afirma, no meio da narrativa, que talvez esteja se enganando quanto a um detalhe importante, e prossegue sem esclarecê-lo.",
                            "enunciado":  "Essa admissão de incerteza serve para",
                            "alternativas":  {
@@ -26457,11 +27011,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "provar que o narrador é integralmente confiável, já que admite limites"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Admitir dúvida não restaura a confiança — instala a incerteza no centro da leitura. O leitor deixa de receber a história pronta e passa a ter de julgá-la, que é exatamente o efeito buscado."
+                           "explicacao":  "Admitir dúvida não restaura a confiança — instala a incerteza no centro da leitura. O leitor deixa de receber a história pronta e passa a ter de julgá-la, que é exatamente o efeito buscado.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-122",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema é composto por uma única frase distribuída ao longo de vários versos, com o sentido só se completando no último deles.",
                            "enunciado":  "O recurso responsável por essa distribuição é",
                            "alternativas":  {
@@ -26472,11 +27026,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o enjambement, em que a unidade sintática ultrapassa o limite do verso"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Quando a frase não cabe no verso e transborda para o seguinte, o poema cria suspensão: o leitor precisa continuar para completar o sentido. É o enjambement, e a tensão entre a pausa do verso e a continuidade da sintaxe é o efeito procurado."
+                           "explicacao":  "Quando a frase não cabe no verso e transborda para o seguinte, o poema cria suspensão: o leitor precisa continuar para completar o sentido. É o enjambement, e a tensão entre a pausa do verso e a continuidade da sintaxe é o efeito procurado.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-123",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico se dirige a um \"tu\" que nunca é identificado e que não responde em nenhum momento.",
                            "enunciado":  "A permanência desse interlocutor mudo e indefinido faz com que",
                            "alternativas":  {
@@ -26487,11 +27041,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "o leitor possa ocupar esse lugar vazio, tornando-se o destinatário da fala"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O lugar vazio do interlocutor é convite, não falha. Como ninguém o preenche dentro do poema, quem lê acaba ocupando a posição — e a fala passa a ser dirigida a si."
+                           "explicacao":  "O lugar vazio do interlocutor é convite, não falha. Como ninguém o preenche dentro do poema, quem lê acaba ocupando a posição — e a fala passa a ser dirigida a si.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-124",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, versos curtos e cortados alternam-se com versos longos e fluidos, acompanhando a alternância entre momentos de tensão e momentos de distensão no que é dito.",
                            "enunciado":  "Essa correspondência entre ritmo e conteúdo é um exemplo de",
                            "alternativas":  {
@@ -26502,11 +27056,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "erro de composição, que deveria ter sido uniformizado na revisão"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Verso curto para a tensão, verso longo para a distensão: o poema não descreve o ritmo do que sente, ele o executa. Reconhecer essa convergência é o que separa a leitura formal da simples paráfrase do conteúdo."
+                           "explicacao":  "Verso curto para a tensão, verso longo para a distensão: o poema não descreve o ritmo do que sente, ele o executa. Reconhecer essa convergência é o que separa a leitura formal da simples paráfrase do conteúdo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-125",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema retoma explicitamente versos conhecidos de outro poema, alterando-lhes o contexto e produzindo sentido diverso do original.",
                            "enunciado":  "Esse procedimento denomina-se",
                            "alternativas":  {
@@ -26517,11 +27071,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "plágio, apropriação indevida sem indicação da fonte"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Isso separa a intertextualidade do plágio, que depende justamente de a origem não ser percebida."
+                           "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Isso separa a intertextualidade do plágio, que depende justamente de a origem não ser percebida.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-126",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico descreve uma paisagem e, ao final, revela que a descrição corresponde a um estado interior seu, e não a um lugar existente.",
                            "enunciado":  "A relação entre paisagem e estado interior, nesse caso, denomina-se",
                            "alternativas":  {
@@ -26532,11 +27086,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "paisagem-estado de alma, em que o mundo exterior é figura do interior"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Quando a paisagem só existe como figura do que se sente, ela deixa de ser cenário e vira linguagem. É um procedimento que o Romantismo consagra e que a poesia posterior continua usando, agora com consciência do artifício."
+                           "explicacao":  "Quando a paisagem só existe como figura do que se sente, ela deixa de ser cenário e vira linguagem. É um procedimento que o Romantismo consagra e que a poesia posterior continua usando, agora com consciência do artifício.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-127",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
                            "enunciado":  "O efeito produzido por essa repetição com deslocamento é",
                            "alternativas":  {
@@ -26547,11 +27101,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "garantir a rima regular exigida pelas formas fixas"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca. O poema não repete por pobreza, e sim para mostrar que o sentido não está fixo na palavra — está no lugar que ela ocupa."
+                           "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca. O poema não repete por pobreza, e sim para mostrar que o sentido não está fixo na palavra — está no lugar que ela ocupa.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-128",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico fala no plural — \"nós\" — e assume a posição de quem enuncia em nome de um grupo, e não de si próprio.",
                            "enunciado":  "Essa escolha de pessoa gramatical indica que o poema",
                            "alternativas":  {
@@ -26562,11 +27116,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "foi escrito por vários autores em conjunto"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Trocar o eu pelo nós não elimina o lirismo: reposiciona-o. O sentimento deixa de ser propriedade de um sujeito e passa a ser condição de um grupo, o que costuma vir acompanhado de intenção social."
+                           "explicacao":  "Trocar o eu pelo nós não elimina o lirismo: reposiciona-o. O sentimento deixa de ser propriedade de um sujeito e passa a ser condição de um grupo, o que costuma vir acompanhado de intenção social.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-129",
-                           "formato":  "direta",
                            "texto_apoio":  "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
                            "enunciado":  "A escolha entre uma forma e outra é significativa porque",
                            "alternativas":  {
@@ -26577,11 +27131,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a escolha depende exclusivamente da editora que publica o poema"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Tratar a forma como neutra é justamente o que a análise literária existe para evitar."
+                           "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Tratar a forma como neutra é justamente o que a análise literária existe para evitar.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-130",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico afirma que escreve para não esquecer, e ao longo do texto vai corrigindo as próprias lembranças, substituindo detalhes já enunciados.",
                            "enunciado":  "Esse movimento de correção sugere que, no poema, a memória é apresentada como",
                            "alternativas":  {
@@ -26592,11 +27146,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "faculdade exclusiva da velhice"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Se a lembrança precisa ser corrigida enquanto é dita, ela não estava guardada pronta: está sendo feita agora. O poema encena a memória como processo, não como arquivo."
+                           "explicacao":  "Se a lembrança precisa ser corrigida enquanto é dita, ela não estava guardada pronta: está sendo feita agora. O poema encena a memória como processo, não como arquivo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-131",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, a disposição das palavras cria pausas longas no meio dos versos, por meio de espaços em branco e de sinais de pontuação incomuns.",
                            "enunciado":  "Esses recursos gráficos funcionam, no poema, como",
                            "alternativas":  {
@@ -26607,11 +27161,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "convenção obrigatória das formas fixas tradicionais"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O branco na página não é ausência: é duração. Ao controlar onde o leitor para e por quanto tempo, o poema incorpora o silêncio ao seu material, do mesmo modo que a música incorpora a pausa."
+                           "explicacao":  "O branco na página não é ausência: é duração. Ao controlar onde o leitor para e por quanto tempo, o poema incorpora o silêncio ao seu material, do mesmo modo que a música incorpora a pausa.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-132",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
                            "enunciado":  "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
                            "alternativas":  {
@@ -26622,11 +27176,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "onomatopeia, reprodução de sons do mundo real"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Uma comparação isolada é figura pontual; sustentada do início ao fim, ela vira estrutura e passa a organizar o poema inteiro. É a diferença entre usar uma imagem e construir sobre ela."
+                           "explicacao":  "Uma comparação isolada é figura pontual; sustentada do início ao fim, ela vira estrutura e passa a organizar o poema inteiro. É a diferença entre usar uma imagem e construir sobre ela.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-133",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
                            "enunciado":  "O choque entre os dois registros produz",
                            "alternativas":  {
@@ -26637,11 +27191,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "efeito puramente decorativo, sem consequência para o sentido"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O contraste não é falha de unidade: é o argumento. Colocar a delicadeza ao lado do trabalho duro produz um sentido que nenhum dos dois registros alcançaria isolado — e ler isso como incoerência é perder o poema."
+                           "explicacao":  "O contraste não é falha de unidade: é o argumento. Colocar a delicadeza ao lado do trabalho duro produz um sentido que nenhum dos dois registros alcançaria isolado — e ler isso como incoerência é perder o poema.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-134",
-                           "formato":  "direta",
                            "texto_apoio":  "Num poema, o eu lírico dirige perguntas a si mesmo e responde a algumas delas, deixando outras em aberto.",
                            "enunciado":  "Esse diálogo interno caracteriza",
                            "alternativas":  {
@@ -26652,11 +27206,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "um diálogo teatral entre duas personagens distintas"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Não há duas personagens: há um sujeito dividido, e o poema mostra a divisão em vez de escondê-la sob uma conclusão. Deixar perguntas sem resposta é parte do procedimento, não descuido."
+                           "explicacao":  "Não há duas personagens: há um sujeito dividido, e o poema mostra a divisão em vez de escondê-la sob uma conclusão. Deixar perguntas sem resposta é parte do procedimento, não descuido.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-135",
-                           "formato":  "direta",
                            "texto_apoio":  "Um poema descreve com atenção minuciosa um objeto — sua superfície, seu peso, o modo como reflete a luz — sem em nenhum momento declarar sentimentos do eu lírico.",
                            "enunciado":  "Nesse tipo de construção, a emoção",
                            "alternativas":  {
@@ -26667,11 +27221,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "é substituída por argumentação lógica"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não dizer o sentimento não é não tê-lo: a demora do olhar sobre o objeto já é a emoção. O poema desloca o afeto do enunciado para o modo de enunciar, o que costuma torná-lo mais eficaz do que a declaração direta."
+                           "explicacao":  "Não dizer o sentimento não é não tê-lo: a demora do olhar sobre o objeto já é a emoção. O poema desloca o afeto do enunciado para o modo de enunciar, o que costuma torná-lo mais eficaz do que a declaração direta.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-136",
-                           "formato":  "excecao",
                            "texto_apoio":  "A análise de um poema costuma considerar o eu lírico, o interlocutor, o tema, o tom e os recursos formais.",
                            "enunciado":  "As alternativas apresentam afirmações corretas sobre o eu lírico, à exceção de uma. Assinale-a.",
                            "alternativas":  {
@@ -26682,11 +27236,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "É uma construção do texto, e não necessariamente a voz biográfica do autor"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Identificar o eu lírico com o autor é o erro mais comum na leitura de poesia: o eu lírico é papel construído no texto, e pode ser qualquer um. As outras quatro afirmações estão corretas — o comando pede a exceção."
+                           "explicacao":  "Identificar o eu lírico com o autor é o erro mais comum na leitura de poesia: o eu lírico é papel construído no texto, e pode ser qualquer um. As outras quatro afirmações estão corretas — o comando pede a exceção.",
+                           "formato":  "excecao"
                        },
                        {
                            "id":  "literatura-137",
-                           "formato":  "direta",
                            "texto_apoio":  "A crítica literária brasileira consolidou-se como disciplina universitária a partir de meados do século XX, produzindo interpretações que passaram a orientar a leitura escolar do cânone nacional.",
                            "enunciado":  "Reconhecer que uma interpretação consagrada é fruto de trabalho crítico datado permite ao leitor",
                            "alternativas":  {
@@ -26697,11 +27251,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "usar a interpretação como ferramenta, sabendo que ela ilumina certos aspectos da obra e deixa outros na sombra"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite. Saber de onde veio permite usá-la sem ser usado por ela — e sem confundir o comentário com a obra."
+                           "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite. Saber de onde veio permite usá-la sem ser usado por ela — e sem confundir o comentário com a obra.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-138",
-                           "formato":  "direta",
                            "texto_apoio":  "Obras literárias de um mesmo período histórico podem apresentar posições divergentes sobre os mesmos processos sociais — a escravidão, a industrialização, a urbanização.",
                            "enunciado":  "Essa divergência mostra que a literatura de um período",
                            "alternativas":  {
@@ -26712,11 +27266,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "é sempre alheia aos processos sociais de seu tempo"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Uma época não tem uma voz só. Tratar a literatura de um período como espelho de uma mentalidade única apaga exatamente o que ela tem de mais informativo: o desacordo entre quem viveu o mesmo processo."
+                           "explicacao":  "Uma época não tem uma voz só. Tratar a literatura de um período como espelho de uma mentalidade única apaga exatamente o que ela tem de mais informativo: o desacordo entre quem viveu o mesmo processo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-139",
-                           "formato":  "direta",
                            "texto_apoio":  "A definição do que integra o cânone literário nacional foi historicamente decidida por instituições — academias, universidades, editoras, programas escolares — cuja composição excluía mulheres, pessoas negras e autores de fora do eixo Rio-São Paulo.",
                            "enunciado":  "Reconhecer isso implica compreender que o cânone",
                            "alternativas":  {
@@ -26727,11 +27281,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "resulta de critérios puramente estéticos, isentos de determinação social"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Nem lista natural nem lixo a descartar: o cânone é resultado de decisões situadas, e por isso pode ser revisto. Reconhecer quem decidiu não invalida as obras — permite perguntar quem ficou de fora e por quê."
+                           "explicacao":  "Nem lista natural nem lixo a descartar: o cânone é resultado de decisões situadas, e por isso pode ser revisto. Reconhecer quem decidiu não invalida as obras — permite perguntar quem ficou de fora e por quê.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-140",
-                           "formato":  "direta",
                            "texto_apoio":  "Ao longo do século XX, obras literárias brasileiras foram adaptadas para cinema, televisão e teatro, alcançando públicos muito maiores do que os do livro.",
                            "enunciado":  "Do ponto de vista dos estudos literários, essas adaptações",
                            "alternativas":  {
@@ -26742,11 +27296,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "constituem leituras da obra, com escolhas próprias de linguagem, que dialogam com o original em vez de substituí-lo"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Cobrar fidelidade literal ignora que cinema e teatro têm linguagem própria, com recursos que o livro não tem e sem os que ele tem. A adaptação é uma interpretação materializada — e vale ser lida como tal."
+                           "explicacao":  "Cobrar fidelidade literal ignora que cinema e teatro têm linguagem própria, com recursos que o livro não tem e sem os que ele tem. A adaptação é uma interpretação materializada — e vale ser lida como tal.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-141",
-                           "formato":  "direta",
                            "texto_apoio":  "Um romance brasileiro do século XX ambienta-se numa cidade do interior e acompanha o declínio de uma família tradicional diante da chegada de novas formas de produção e de novos grupos sociais.",
                            "enunciado":  "Esse enredo permite ao romance tratar de",
                            "alternativas":  {
@@ -26757,11 +27311,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "acontecimentos sem qualquer relação com transformações históricas"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A família funciona como escala reduzida do processo: o que acontece na casa é a forma sensível do que acontece na sociedade. É um dos procedimentos mais estáveis do romance para tornar visível uma transformação histórica."
+                           "explicacao":  "A família funciona como escala reduzida do processo: o que acontece na casa é a forma sensível do que acontece na sociedade. É um dos procedimentos mais estáveis do romance para tornar visível uma transformação histórica.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-142",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto literário apresenta enredo linear, narrador onisciente que tudo explica, personagens de caráter definido desde o início e desfecho que resolve todos os conflitos.",
                            "enunciado":  "Esse conjunto de traços aproxima o texto da",
                            "alternativas":  {
@@ -26772,11 +27326,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "prosa modernista, marcada pela fragmentação e pela ambiguidade"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Linearidade, onisciência plena, caráter fixo e conflito resolvido formam o modelo que o século XX desmonta. Reconhecer esse conjunto é o que permite datar um texto pela construção, sem precisar da data de publicação."
+                           "explicacao":  "Linearidade, onisciência plena, caráter fixo e conflito resolvido formam o modelo que o século XX desmonta. Reconhecer esse conjunto é o que permite datar um texto pela construção, sem precisar da data de publicação.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-143",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto narrativo alterna, sem aviso, entre o tempo presente da ação e episódios do passado das personagens, exigindo do leitor a reconstrução da ordem cronológica.",
                            "enunciado":  "Esse procedimento de organização temporal denomina-se",
                            "alternativas":  {
@@ -26787,11 +27341,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "moldura narrativa, história que contém outra história"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Quando o texto abandona a ordem dos fatos, ele passa a obedecer a outra: a da memória ou a do sentido que quer construir. Cabe ao leitor remontar a cronologia, e esse trabalho é parte do que a obra pede."
+                           "explicacao":  "Quando o texto abandona a ordem dos fatos, ele passa a obedecer a outra: a da memória ou a do sentido que quer construir. Cabe ao leitor remontar a cronologia, e esse trabalho é parte do que a obra pede.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-144",
-                           "formato":  "direta",
                            "texto_apoio":  "Um texto literário do século XX apresenta frases longas, sem pontuação convencional, acompanhando o encadeamento associativo dos pensamentos de uma personagem.",
                            "enunciado":  "Esse procedimento é conhecido como",
                            "alternativas":  {
@@ -26802,11 +27356,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "narração onisciente neutra, que se mantém fora das personagens"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A pontuação convencional organiza o pensamento depois de pensado; abrir mão dela é tentar apanhá-lo antes disso. O fluxo de consciência é essa aposta — e é o oposto da narração que observa de fora."
+                           "explicacao":  "A pontuação convencional organiza o pensamento depois de pensado; abrir mão dela é tentar apanhá-lo antes disso. O fluxo de consciência é essa aposta — e é o oposto da narração que observa de fora.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-145",
-                           "formato":  "direta",
                            "texto_apoio":  "Numa crônica, um acontecimento trivial do cotidiano — uma fila, um encontro casual, um atraso — serve de ponto de partida para uma reflexão de alcance mais amplo.",
                            "enunciado":  "Esse movimento caracteriza o gênero crônica porque",
                            "alternativas":  {
@@ -26817,11 +27371,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a crônica é um gênero exclusivamente ficcional, sem relação com o cotidiano"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O gênero vive dessa desproporção entre o pretexto pequeno e o alcance da reflexão, e do tom de conversa que a torna possível. Exigir dela fato histórico relevante seria confundi-la com o registro cronístico antigo."
+                           "explicacao":  "O gênero vive dessa desproporção entre o pretexto pequeno e o alcance da reflexão, e do tom de conversa que a torna possível. Exigir dela fato histórico relevante seria confundi-la com o registro cronístico antigo.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-146",
-                           "formato":  "direta",
                            "texto_apoio":  "Em Machado de Assis, é frequente que o narrador atribua a uma personagem uma qualidade elogiosa e, na frase seguinte, apresente um fato que a desmente.",
                            "enunciado":  "Esse arranjo produz",
                            "alternativas":  {
@@ -26832,11 +27386,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "contradição involuntária, resultante de descuido na composição"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O narrador não retira o elogio: apenas coloca ao lado dele o fato que o desmonta, e deixa o leitor concluir. Essa demolição por justaposição é a forma mais característica da ironia machadiana."
+                           "explicacao":  "O narrador não retira o elogio: apenas coloca ao lado dele o fato que o desmonta, e deixa o leitor concluir. Essa demolição por justaposição é a forma mais característica da ironia machadiana.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-147",
-                           "formato":  "direta",
                            "texto_apoio":  "Em contos e romances de Machado, personagens explicam suas ações por motivos nobres, e o desenrolar da narrativa revela interesses bem menos elevados operando por baixo.",
                            "enunciado":  "Essa recorrência indica que a obra se interessa, sobretudo, por",
                            "alternativas":  {
@@ -26847,11 +27401,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "reproduzir o modelo do romance de aventuras"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O assunto não é o costume nem a hereditariedade: é o descompasso entre motivo alegado e motivo real. Note que explicar a conduta por hereditariedade e clima seria Naturalismo, caminho que Machado recusou."
+                           "explicacao":  "O assunto não é o costume nem a hereditariedade: é o descompasso entre motivo alegado e motivo real. Note que explicar a conduta por hereditariedade e clima seria Naturalismo, caminho que Machado recusou.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-148",
-                           "formato":  "direta",
                            "texto_apoio":  "Numa obra modernista brasileira, elementos de cultura popular — festas, ritmos, provérbios, narrativas orais — são incorporados a uma composição de estrutura complexa e deliberadamente artificial.",
                            "enunciado":  "Essa combinação indica que, para o projeto modernista,",
                            "alternativas":  {
@@ -26862,11 +27416,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "a cultura popular é objeto de estudo apenas para a antropologia"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não é coleta folclórica nem recusa da forma: é uso da matéria popular como matéria-prima de construção sofisticada. A tensão entre origem popular e elaboração erudita é justamente o que o projeto busca."
+                           "explicacao":  "Não é coleta folclórica nem recusa da forma: é uso da matéria popular como matéria-prima de construção sofisticada. A tensão entre origem popular e elaboração erudita é justamente o que o projeto busca.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-149",
-                           "formato":  "direta",
                            "texto_apoio":  "As vanguardas europeias do início do século XX — futurismo, cubismo, dadaísmo, surrealismo — chegaram ao Brasil por meio de artistas que estudaram ou viveram na Europa.",
                            "enunciado":  "A relação do Modernismo brasileiro com essas vanguardas caracteriza-se por",
                            "alternativas":  {
@@ -26877,11 +27431,11 @@ window.QUESTION_BANKS = {
                                                 "e":  "desconhecimento dessas vanguardas por parte dos modernistas brasileiros"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Nem cópia nem recusa: seleção e recombinação. É exatamente o gesto que a Antropofagia nomearia, e ele explica por que o Modernismo brasileiro é reconhecivelmente aparentado às vanguardas sem ser redutível a elas."
+                           "explicacao":  "Nem cópia nem recusa: seleção e recombinação. É exatamente o gesto que a Antropofagia nomearia, e ele explica por que o Modernismo brasileiro é reconhecivelmente aparentado às vanguardas sem ser redutível a elas.",
+                           "formato":  "direta"
                        },
                        {
                            "id":  "literatura-150",
-                           "formato":  "direta",
                            "texto_apoio":  "Ao comparar uma obra literária com o contexto histórico em que foi produzida, um leitor pode concluir que a obra confirma esse contexto, o critica, ou faz as duas coisas em planos diferentes.",
                            "enunciado":  "Essa possibilidade indica que a relação entre obra e contexto",
                            "alternativas":  {
@@ -26892,7 +27446,8 @@ window.QUESTION_BANKS = {
                                                 "e":  "só pode ser estabelecida quando a obra menciona acontecimentos históricos pelo nome"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Nem espelho nem ilha: entre a obra e a época há a forma, e é ela que permite à obra fazer coisas diferentes ao mesmo tempo. Depender das declarações do autor seria trocar a análise da obra pela biografia dele."
+                           "explicacao":  "Nem espelho nem ilha: entre a obra e a época há a forma, e é ela que permite à obra fazer coisas diferentes ao mesmo tempo. Depender das declarações do autor seria trocar a análise da obra pela biografia dele.",
+                           "formato":  "direta"
                        }
                    ],
     "matematica-rlm":  [

@@ -1,0 +1,398 @@
+{
+  "_comentario": [
+    "Lote 03 da frente literatura: 25 questoes. Cobre o vazamento",
+    "literatura+Historia (13) e reconhecimento de escola pelo traco (12).",
+    "",
+    "O vazamento e o achado mais acionavel do estudo: na FGV 2026.1, dentro do",
+    "bloco de PORTUGUES, tres questoes cobravam de fato Historia e teoria",
+    "literaria -- o grupo social das personagens numa sociedade escravista, a",
+    "leitura do meio como transito entre ordem e desordem, e o determinismo",
+    "geografico no Naturalismo. Quem estudou os romances so como enredo perde",
+    "as tres sem perceber que estava sendo cobrado de outra coisa.",
+    "",
+    "Escola pelo traco: nenhuma questao da o nome do autor nem da obra. Pede",
+    "reconhecer a estetica pela concepcao de mundo, pelo procedimento formal ou",
+    "pelo tratamento dado ao tema -- que e como as duas bancas cobram.",
+    "",
+    "Regra de autoria: nenhuma explicacao cita alternativa por letra."
+  ],
+  "subtopic": "literatura",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "literatura-51",
+      "formato": "direta",
+      "texto_apoio": "O Romantismo brasileiro consolida-se nas décadas seguintes à Independência, e sua vertente indianista elege como herói uma figura que já havia sido dizimada ou expulsa das regiões onde se concentrava a população do Império.",
+      "enunciado": "Essa escolha do indígena como herói nacional cumpria a função ideológica de",
+      "alternativas": {
+        "a": "fornecer ao país recém-independente um mito de origem próprio, distinto do português, sem confrontar a ordem escravista vigente",
+        "b": "defender a devolução das terras às populações indígenas então existentes",
+        "c": "documentar com precisão etnográfica os costumes dos povos originários",
+        "d": "atacar diretamente a monarquia e propor a instauração da república",
+        "e": "substituir a língua portuguesa pelas línguas indígenas na literatura nacional"
+      },
+      "resposta": "a",
+      "explicacao": "O indianismo funciona porque escolhe um fundador simbólico que não disputa nada no presente. Elogia-se o indígena do passado enquanto a escravidão segue intocada — e é essa conveniência que distingue o gesto ideológico de qualquer defesa concreta de direitos territoriais."
+    },
+    {
+      "id": "literatura-52",
+      "formato": "direta",
+      "texto_apoio": "O Realismo e o Naturalismo brasileiros surgem nas décadas de 1870 e 1880, período em que se difundem no país o positivismo, o evolucionismo e as teorias raciais europeias, e em que se acirra o debate sobre o fim da escravidão.",
+      "enunciado": "A relação entre esse contexto e a produção literária do período pode ser descrita assim:",
+      "alternativas": {
+        "a": "a literatura ignorou o debate científico, mantendo-se fiel aos temas românticos",
+        "b": "as teorias científicas em circulação forneceram à literatura tanto um método de análise quanto pressupostos que hoje se reconhecem como racistas",
+        "c": "os romances do período defenderam a manutenção da escravidão como instituição científica",
+        "d": "a produção literária limitou-se a traduzir romances europeus, sem obra original",
+        "e": "o debate abolicionista permaneceu restrito à imprensa, sem qualquer repercussão literária"
+      },
+      "resposta": "b",
+      "explicacao": "O cientificismo entra na literatura como ferramenta e como bagagem: dá o método da observação e da causalidade, e junto vêm as teorias raciais do período. Reconhecer as duas coisas ao mesmo tempo é o que permite ler essas obras historicamente, sem nem endossá-las nem descartá-las."
+    },
+    {
+      "id": "literatura-53",
+      "formato": "direta",
+      "texto_apoio": "Nos romances urbanos brasileiros do século XIX, a figura do agregado — parente pobre, afilhado ou protegido que vive na casa de uma família abastada — aparece com frequência.",
+      "enunciado": "A recorrência dessa figura indica que a sociedade retratada organizava-se, em boa parte, pelo",
+      "alternativas": {
+        "a": "contrato de trabalho assalariado, regulado por lei e livremente pactuado",
+        "b": "mérito individual, que permitia ascensão independentemente da origem",
+        "c": "favor, relação pessoal de dependência que substituía direitos por proteção",
+        "d": "sufrágio universal, que igualava politicamente todos os habitantes",
+        "e": "sistema de castas hereditárias, juridicamente fixado e imutável"
+      },
+      "resposta": "c",
+      "explicacao": "O agregado não tem direito: tem protetor. É a relação de favor que explica sua posição, e ela ocupa exatamente o lugar que, numa sociedade de trabalho livre, seria do contrato. Notar isso é o que permite ler essas casas como estrutura social, e não como detalhe de cenário."
+    },
+    {
+      "id": "literatura-54",
+      "formato": "direta",
+      "texto_apoio": "A Semana de Arte Moderna ocorre em 1922, ano do centenário da Independência, num São Paulo enriquecido pelo café e em plena expansão industrial e imigratória.",
+      "enunciado": "A relação entre esse contexto e o programa modernista pode ser descrita assim:",
+      "alternativas": {
+        "a": "o movimento nasceu no Rio de Janeiro e só depois se transferiu para São Paulo",
+        "b": "a modernização material da cidade e o dinheiro do café criaram as condições para uma vanguarda que reivindicava atualizar a arte brasileira e repensar a identidade nacional",
+        "c": "o movimento foi financiado pelo Estado como política oficial de comemoração do centenário",
+        "d": "os modernistas recusaram qualquer diálogo com as vanguardas europeias",
+        "e": "a Semana teve recepção unânime e imediata, consagrando seus participantes"
+      },
+      "resposta": "b",
+      "explicacao": "Não é coincidência que a ruptura tenha vindo da cidade que mais rapidamente se transformava, e com apoio de mecenas ligados ao café. E vale corrigir dois mitos: os modernistas dialogavam intensamente com as vanguardas europeias, e a recepção da Semana foi de vaia, não de consagração."
+    },
+    {
+      "id": "literatura-55",
+      "formato": "direta",
+      "texto_apoio": "O romance regionalista brasileiro dos anos 1930 desloca o foco do pitoresco para a denúncia das condições materiais de vida no campo e nas cidades pequenas, em plena crise do café e sob o governo Vargas.",
+      "enunciado": "Esse deslocamento significa que a literatura do período passou a tratar o atraso como",
+      "alternativas": {
+        "a": "curiosidade regional, digna de registro pelo que tem de exótico",
+        "b": "traço de cor local a ser preservado como patrimônio folclórico",
+        "c": "problema estrutural, produzido por relações sociais concretas e não por natureza ou destino",
+        "d": "consequência inevitável do clima, sem responsabilidade humana envolvida",
+        "e": "assunto secundário, subordinado à investigação psicológica das personagens"
+      },
+      "resposta": "c",
+      "explicacao": "A mudança está em atribuir causa. Enquanto o atraso é pitoresco ou climático, não há a quem responsabilizar; quando passa a ser efeito de relações de propriedade e trabalho, a literatura vira instrumento de análise social."
+    },
+    {
+      "id": "literatura-56",
+      "formato": "direta",
+      "texto_apoio": "Escritores que produziram sob a ditadura militar brasileira recorreram com frequência à alegoria, ao fantástico e a ambientações deslocadas no tempo ou no espaço.",
+      "enunciado": "Esse conjunto de escolhas formais explica-se, sobretudo, por",
+      "alternativas": {
+        "a": "uma preferência estética espontânea, sem relação com as condições de publicação",
+        "b": "exigência editorial de aproximar a literatura brasileira do realismo mágico hispano-americano",
+        "c": "necessidade de driblar a censura, dizendo pelo desvio o que não podia ser dito diretamente",
+        "d": "desinteresse dos autores pelos acontecimentos políticos do período",
+        "e": "imposição legal de que toda obra de ficção se ambientasse no passado"
+      },
+      "resposta": "c",
+      "explicacao": "A alegoria não é ornamento nesse contexto: é técnica de sobrevivência. Deslocar o assunto no tempo ou no espaço permitia publicar. Ler essas obras como escolha estética desligada da política é perder o que as motivou."
+    },
+    {
+      "id": "literatura-57",
+      "formato": "direta",
+      "texto_apoio": "Em romances brasileiros do século XIX, personagens escravizadas costumam aparecer sem nome próprio, sem fala em discurso direto e sem acesso à interioridade que o narrador concede às demais.",
+      "enunciado": "Essa assimetria no tratamento narrativo revela que",
+      "alternativas": {
+        "a": "os autores desconheciam a existência da escravidão nas cidades onde ambientavam suas obras",
+        "b": "a hierarquia social da época se reproduz na própria distribuição da palavra dentro do texto",
+        "c": "essas personagens eram consideradas mais complexas e por isso ficavam preservadas do olhar do narrador",
+        "d": "a técnica narrativa do período não dispunha de recursos para representar mais de uma consciência",
+        "e": "tais personagens não aparecem em nenhuma obra do período"
+      },
+      "resposta": "b",
+      "explicacao": "Quem fala e quem é falado, dentro do romance, reproduz quem manda e quem obedece fora dele. Perceber a desigualdade no plano da forma — e não só no dos temas — é exatamente o tipo de leitura que a FGV cobrou em 2026.1."
+    },
+    {
+      "id": "literatura-58",
+      "formato": "direta",
+      "texto_apoio": "A crítica de Antonio Candido propõe ler a forma literária como algo que internaliza o processo social, em vez de tratar forma e conteúdo social como planos separados.",
+      "enunciado": "Aplicar esse método à leitura de um romance significa",
+      "alternativas": {
+        "a": "buscar no texto apenas os temas sociais explicitamente mencionados pelas personagens",
+        "b": "investigar como procedimentos formais — ponto de vista, estrutura, ritmo — carregam em si a estrutura social de que a obra nasce",
+        "c": "descartar a análise formal e concentrar-se na biografia do autor",
+        "d": "avaliar a obra exclusivamente pelo grau de engajamento político declarado do escritor",
+        "e": "comparar a obra apenas com outras do mesmo gênero, sem referência à história"
+      },
+      "resposta": "b",
+      "explicacao": "A proposta não é procurar o social no assunto, e sim na construção. Ponto de vista, ritmo e estrutura já são, eles próprios, matéria histórica — e é por isso que o método dispensa tanto o resumo temático quanto a biografia do autor."
+    },
+    {
+      "id": "literatura-59",
+      "formato": "direta",
+      "texto_apoio": "Um romance brasileiro do século XIX apresenta protagonista que enriquece na cidade sem herança nem instrução formal, valendo-se de trabalho não pago de terceiros e de expedientes à margem da lei.",
+      "enunciado": "A permanência dessa figura na literatura do período indica que",
+      "alternativas": {
+        "a": "a acumulação urbana no Brasil oitocentista dependia de trabalho não remunerado e de arranjos informais, e não apenas da poupança individual",
+        "b": "o país já dispunha de um mercado de trabalho plenamente assalariado e regulado",
+        "c": "a ascensão econômica estava franqueada a qualquer pessoa, independentemente de condição jurídica",
+        "d": "a literatura do período evitava tratar de dinheiro e de trabalho",
+        "e": "as fortunas urbanas provinham exclusivamente de heranças da nobreza portuguesa"
+      },
+      "resposta": "a",
+      "explicacao": "A recorrência do tipo não é acaso de enredo: aponta para o mecanismo real de formação das fortunas urbanas. A leitura de que a ascensão estaria franqueada a qualquer um ignora que a condição jurídica das pessoas era, ela mesma, um dos ativos em jogo."
+    },
+    {
+      "id": "literatura-60",
+      "formato": "direta",
+      "texto_apoio": "Autoras negras brasileiras contemporâneas têm publicado obras que narram, em primeira pessoa, experiências de racismo e de trabalho doméstico, ocupando espaço editorial antes praticamente fechado a elas.",
+      "enunciado": "A relevância literária dessa produção está em",
+      "alternativas": {
+        "a": "substituir a análise estética pelo testemunho, dispensando qualquer trabalho de forma",
+        "b": "deslocar o lugar de quem narra, fazendo com que experiências antes narradas de fora passem a ser construídas de dentro",
+        "c": "confirmar que a literatura brasileira já representava adequadamente essas experiências desde o século XIX",
+        "d": "restringir o alcance da obra ao público que compartilha a mesma experiência",
+        "e": "abandonar o português culto como língua literária"
+      },
+      "resposta": "b",
+      "explicacao": "O que muda não é o assunto — trabalho doméstico e racismo já apareciam na literatura brasileira — mas a posição de quem enuncia. Sair da representação de fora para a construção de dentro é uma questão de forma, não só de tema, e é o que dá a essa produção seu peso literário."
+    },
+    {
+      "id": "literatura-61",
+      "formato": "direta",
+      "texto_apoio": "O Arcadismo brasileiro desenvolve-se em Minas Gerais na segunda metade do século XVIII, entre letrados que ocupavam cargos na administração colonial e que, em parte, participaram da Inconfidência Mineira.",
+      "enunciado": "A coexistência entre o ideal árcade de vida simples no campo e a posição social desses autores revela",
+      "alternativas": {
+        "a": "que o ideal pastoril era convenção literária herdada da tradição europeia, e não descrição da vida efetivamente levada por eles",
+        "b": "que todos os poetas árcades abandonaram seus cargos e passaram a viver como pastores",
+        "c": "que o Arcadismo brasileiro não teve qualquer relação com modelos europeus",
+        "d": "que a poesia do período recusava o uso de referências da mitologia clássica",
+        "e": "que a Inconfidência Mineira não teve participação de letrados"
+      },
+      "resposta": "a",
+      "explicacao": "Pastores e rebanhos são repertório herdado, não autobiografia: quem escrevia ocupava cargo na administração colonial. Distinguir convenção literária de descrição de vida evita tomar o cenário bucólico como documento."
+    },
+    {
+      "id": "literatura-62",
+      "formato": "direta",
+      "texto_apoio": "Um texto literário apresenta antíteses e paradoxos frequentes, jogos conceituais elaborados, sintaxe invertida e a tensão entre o apelo dos sentidos e o temor da danação.",
+      "enunciado": "Esses traços caracterizam a estética",
+      "alternativas": {
+        "a": "árcade",
+        "b": "barroca",
+        "c": "realista",
+        "d": "parnasiana",
+        "e": "modernista"
+      },
+      "resposta": "b",
+      "explicacao": "Antítese, paradoxo, sintaxe torcida e o conflito entre carne e espírito formam o núcleo do Barroco. O contraste útil é com o Arcadismo, que reage justamente contra esse rebuscamento em nome da clareza e do equilíbrio."
+    },
+    {
+      "id": "literatura-63",
+      "formato": "direta",
+      "texto_apoio": "Um poema privilegia a sugestão em vez da nomeação direta, explora aliterações e assonâncias, recorre a sinestesias e trata de estados de alma imprecisos, sem contorno definido.",
+      "enunciado": "Esses procedimentos filiam o poema ao",
+      "alternativas": {
+        "a": "Parnasianismo",
+        "b": "Realismo",
+        "c": "Simbolismo",
+        "d": "Arcadismo",
+        "e": "Concretismo"
+      },
+      "resposta": "c",
+      "explicacao": "Musicalidade que sugere em vez de nomear, sinestesia e imprecisão deliberada são a assinatura simbolista. O contraste decisivo é com o Parnasianismo, que também cuida do som mas para lapidar contornos nítidos, não para dissolvê-los."
+    },
+    {
+      "id": "literatura-64",
+      "formato": "direta",
+      "texto_apoio": "Um texto em prosa do início do século XX apresenta um Brasil distante do discurso oficial de progresso: doença endêmica, abandono do interior, burocracia paralisante e uma linguagem que mistura registro culto e fala popular.",
+      "enunciado": "Esses traços situam o texto no",
+      "alternativas": {
+        "a": "Romantismo, pela idealização da nação",
+        "b": "Pré-Modernismo, pela denúncia do Brasil real contra o Brasil oficial",
+        "c": "Arcadismo, pelo elogio da vida rural",
+        "d": "Barroco, pelo jogo de contrários",
+        "e": "Concretismo, pela experimentação gráfica"
+      },
+      "resposta": "b",
+      "explicacao": "O Pré-Modernismo se define por essa fratura: contra a fachada de progresso, o país doente e burocratizado do interior. E a mistura de registros já antecipa a liberdade que 1922 tornaria programa."
+    },
+    {
+      "id": "literatura-65",
+      "formato": "direta",
+      "texto_apoio": "Um poema dispõe as palavras pelo espaço da página de modo deliberado, explora o valor visual dos caracteres e dispensa a sintaxe discursiva tradicional.",
+      "enunciado": "Esses procedimentos caracterizam a produção",
+      "alternativas": {
+        "a": "concretista",
+        "b": "romântica",
+        "c": "naturalista",
+        "d": "árcade",
+        "e": "simbolista"
+      },
+      "resposta": "a",
+      "explicacao": "Quando a página deixa de ser suporte neutro e vira parte do poema, e a sintaxe discursiva é abandonada, está-se diante do Concretismo, que trata a palavra como objeto visual além de verbal."
+    },
+    {
+      "id": "literatura-66",
+      "formato": "direta",
+      "texto_apoio": "Uma narrativa apresenta herói de virtudes excepcionais, amor idealizado e inalcançável, natureza grandiosa em harmonia com os sentimentos das personagens e desfecho marcado pelo sacrifício.",
+      "enunciado": "Esse conjunto caracteriza a prosa",
+      "alternativas": {
+        "a": "realista",
+        "b": "naturalista",
+        "c": "romântica",
+        "d": "modernista",
+        "e": "pré-modernista"
+      },
+      "resposta": "c",
+      "explicacao": "Herói excepcional, amor impossível, natureza que espelha a alma e sacrifício final compõem a receita romântica. O Realismo, que vem depois, desmonta cada um desses elementos — daí a oposição ser o melhor teste."
+    },
+    {
+      "id": "literatura-67",
+      "formato": "excecao",
+      "texto_apoio": "O Modernismo brasileiro de primeira geração (1922-1930) definiu-se por um conjunto de rupturas com a estética anterior.",
+      "enunciado": "As alternativas apresentam traços dessa primeira geração modernista, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Adoção do verso livre e recusa da métrica fixa",
+        "b": "Incorporação da fala coloquial brasileira à linguagem literária",
+        "c": "Uso do humor, da paródia e da irreverência como procedimentos",
+        "d": "Culto à perfeição formal e ao vocabulário raro como valores centrais",
+        "e": "Interesse por temas do cotidiano urbano e por uma identidade nacional repensada"
+      },
+      "resposta": "d",
+      "explicacao": "Perfeição formal e vocabulário raro são bandeira parnasiana — exatamente o alvo que o Modernismo escolheu para atacar. Os outros quatro traços são o próprio programa de 1922. O comando pede a exceção: quatro estão corretas."
+    },
+    {
+      "id": "literatura-68",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se dois textos sobre a seca no Nordeste: no primeiro, a paisagem é descrita com admiração pelo que tem de singular e os habitantes aparecem como tipos curiosos; no segundo, a mesma paisagem é descrita pela falta, e os habitantes pela impossibilidade de permanecer.",
+      "enunciado": "A diferença entre os dois tratamentos corresponde à passagem de",
+      "alternativas": {
+        "a": "uma consciência amena de atraso para uma consciência catastrófica de atraso",
+        "b": "uma perspectiva urbana para uma perspectiva rural",
+        "c": "uma escrita em prosa para uma escrita em verso",
+        "d": "uma narrativa em terceira pessoa para uma narrativa em primeira pessoa",
+        "e": "um texto ficcional para um texto jornalístico"
+      },
+      "resposta": "a",
+      "explicacao": "É a distinção formulada por Antonio Candido. O regionalismo de curiosidade trata o atraso como singularidade encantadora; a virada dos anos 1930 o trata como catástrofe sem horizonte. A diferença está no juízo sobre o mesmo objeto, não no gênero nem na pessoa gramatical."
+    },
+    {
+      "id": "literatura-69",
+      "formato": "direta",
+      "texto_apoio": "Um texto narrativo do século XIX descreve minuciosamente a hereditariedade, o ambiente e os hábitos de uma personagem antes de relatar seus atos, sugerindo que estes decorrem daqueles.",
+      "enunciado": "Essa ordem de exposição é típica do",
+      "alternativas": {
+        "a": "Romantismo, que atribui os atos ao livre arbítrio do herói",
+        "b": "Naturalismo, que trata a conduta como resultado de causas biológicas e ambientais",
+        "c": "Barroco, que organiza o texto por contrastes conceituais",
+        "d": "Concretismo, que dispensa a narrativa em favor do arranjo visual",
+        "e": "Arcadismo, que subordina a ação ao ideal de equilíbrio pastoril"
+      },
+      "resposta": "b",
+      "explicacao": "Apresentar hereditariedade e ambiente antes dos atos não é ordem casual: é a demonstração da tese. Primeiro as causas, depois o efeito — o oposto exato do herói romântico, que age por vontade própria."
+    },
+    {
+      "id": "literatura-70",
+      "formato": "direta",
+      "texto_apoio": "Um poema recorre a formas fixas tradicionais, vocabulário elevado e temas da Antiguidade clássica, mas foi publicado no Brasil no final do século XIX, quando a República acabara de ser proclamada.",
+      "enunciado": "A distância entre a matéria do poema e o momento histórico em que foi escrito sugere que a estética parnasiana",
+      "alternativas": {
+        "a": "buscava deliberadamente registrar os acontecimentos políticos contemporâneos",
+        "b": "adotava a arte como domínio autônomo, avesso ao compromisso com a atualidade imediata",
+        "c": "era proibida de tratar de assuntos brasileiros por censura oficial",
+        "d": "desconhecia a existência das formas fixas tradicionais",
+        "e": "havia sido criada especificamente para celebrar a Proclamação da República"
+      },
+      "resposta": "b",
+      "explicacao": "O Parnasianismo faz da arte um território próprio, regido por critérios internos de perfeição, e não um comentário da atualidade. Essa autonomia deliberada é o que explica o descompasso entre a matéria clássica e o momento republicano."
+    },
+    {
+      "id": "literatura-71",
+      "formato": "direta",
+      "texto_apoio": "Um manifesto de vanguarda propõe que a produção artística nacional deixe de imitar modelos importados e passe a devorá-los, transformando-os em matéria própria.",
+      "enunciado": "Essa proposta situa-se no",
+      "alternativas": {
+        "a": "Romantismo, pela busca de uma identidade nacional",
+        "b": "Modernismo, em sua vertente antropofágica",
+        "c": "Realismo, pela crítica às instituições",
+        "d": "Simbolismo, pela valorização da sugestão",
+        "e": "Parnasianismo, pelo culto à forma"
+      },
+      "resposta": "b",
+      "explicacao": "A metáfora da devoração é a assinatura da Antropofagia, dentro do Modernismo. Note que a busca de identidade nacional também move o Romantismo — o que distingue os dois é o método: o romântico funda um mito de origem, o antropófago digere o alheio."
+    },
+    {
+      "id": "literatura-72",
+      "formato": "direta",
+      "texto_apoio": "Um texto teatral brasileiro dos anos 1960 usa canções, dirige-se diretamente à plateia e interrompe a ação para comentar politicamente o que está sendo encenado.",
+      "enunciado": "Esses procedimentos aproximam a peça de uma concepção de teatro que",
+      "alternativas": {
+        "a": "busca a identificação emocional plena do espectador com as personagens",
+        "b": "procura manter o espectador em estado crítico, impedindo que se dissolva na ilusão da cena",
+        "c": "elimina o texto verbal em favor da pura expressão corporal",
+        "d": "restringe a encenação ao repertório clássico greco-latino",
+        "e": "recusa qualquer relação entre teatro e política"
+      },
+      "resposta": "b",
+      "explicacao": "Canção, interpelação da plateia e interrupção do enredo servem para quebrar a ilusão e devolver o espectador à posição de quem julga. É o oposto da identificação emocional plena — e a escolha é política, não apenas formal."
+    },
+    {
+      "id": "literatura-73",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se duas obras sobre o mesmo tema social, separadas por cerca de oitenta anos: a primeira o trata como episódio a ser superado pelo progresso; a segunda, como estrutura que se reproduz.",
+      "enunciado": "A comparação entre as duas permite concluir que",
+      "alternativas": {
+        "a": "a permanência do tema ao longo do tempo evidencia a persistência da estrutura social que o produz",
+        "b": "a segunda obra copia a primeira, sem acrescentar leitura própria",
+        "c": "o tema deixou de ser relevante no período posterior",
+        "d": "a literatura é incapaz de tratar de temas sociais",
+        "e": "as duas obras pertencem necessariamente à mesma escola literária"
+      },
+      "resposta": "a",
+      "explicacao": "Quando o mesmo problema reaparece oitenta anos depois, e agora descrito como estrutura em vez de episódio, a própria distância temporal vira argumento: o que se supunha transitório mostrou-se permanente."
+    },
+    {
+      "id": "literatura-74",
+      "formato": "direta",
+      "texto_apoio": "Um romance brasileiro contemporâneo alterna vozes de personagens de diferentes gerações de uma família do campo, recorrendo a registros linguísticos distintos para cada uma.",
+      "enunciado": "A alternância de vozes e registros, nesse caso, funciona como",
+      "alternativas": {
+        "a": "recurso de composição que inscreve na forma do romance as diferenças de posição e de experiência entre as personagens",
+        "b": "descuido de revisão, que deveria ter uniformizado a linguagem",
+        "c": "exigência editorial de tornar o texto mais longo",
+        "d": "marca de que o romance é, na verdade, uma coletânea de contos independentes",
+        "e": "indicação de que todas as personagens compartilham a mesma visão de mundo"
+      },
+      "resposta": "a",
+      "explicacao": "Dar a cada geração um registro próprio é fazer a forma carregar a diferença social e histórica entre elas. A alternância não é ruído a ser corrigido: é o meio pelo qual o romance mostra, sem explicar, que aquelas experiências não são intercambiáveis."
+    },
+    {
+      "id": "literatura-75",
+      "formato": "direta",
+      "texto_apoio": "Ao estudar uma obra literária, é possível considerar o momento em que foi escrita, o momento em que é lida e as transformações de sentido que ocorrem entre um e outro.",
+      "enunciado": "Levar em conta essa distância entre produção e recepção permite ao leitor",
+      "alternativas": {
+        "a": "concluir que o sentido de uma obra é fixado definitivamente por seu autor",
+        "b": "reconhecer que obras continuam a produzir sentido em contextos novos, sem que isso anule o contexto em que nasceram",
+        "c": "descartar o contexto histórico como irrelevante para a leitura",
+        "d": "avaliar a obra apenas pelos critérios estéticos vigentes hoje",
+        "e": "concluir que obras antigas não podem ser lidas no presente"
+      },
+      "resposta": "b",
+      "explicacao": "Os dois extremos falham: congelar o sentido na intenção do autor e julgar tudo só por critérios de hoje. Sustentar as duas pontas — o contexto de origem e o de leitura — é o que mantém a obra viva sem torná-la anacrônica."
+    }
+  ]
+}

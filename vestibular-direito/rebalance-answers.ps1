@@ -144,15 +144,20 @@ foreach ($l in $letras) { $dist[$l] = 0 }
 foreach ($q in $questoes) { if ($dist.ContainsKey($q.resposta)) { $dist[$q.resposta]++ } }
 $distTxt = ($letras | ForEach-Object { "$_=$($dist[$_])" }) -join "  "
 
-Write-Output "$Frente : $n questões rebalanceadas, $puladas escadas puladas, $movidas mudaram de letra"
-Write-Output "Gabarito final: $distTxt"
-
 if ($Simular) {
-  Write-Output ""
+  Write-Output "$Frente : $n questões seriam rebalanceadas, $puladas escadas puladas, $movidas mudariam de letra"
+  Write-Output "Gabarito final: $distTxt"
   Write-Output "(-Simular: nada foi gravado)"
   return
 }
 
+# A gravação vem ANTES de qualquer Write-Output do resumo, de propósito.
+# Encanar a saída deste script por `Select-Object -First N` faz o PowerShell
+# sinalizar parada ao processo assim que junta N objetos — e o processo morre
+# no meio. Com o resumo impresso primeiro, um `-First 2` matava o script
+# exatamente entre o cálculo e a escrita: ele anunciava um gabarito
+# equilibrado e deixava o arquivo intacto, sem erro visível. Escrevendo
+# primeiro, truncar a saída no máximo esconde o relatório.
 [System.IO.File]::WriteAllText($arquivo, ($json | ConvertTo-Json -Depth 20), [System.Text.UTF8Encoding]::new($false))
 
 # O acerto não é guardado: o app salva a LETRA marcada (vd_answers) e

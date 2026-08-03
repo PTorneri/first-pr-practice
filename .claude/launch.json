@@ -5,7 +5,8 @@
       "name": "vestibular-direito",
       "runtimeExecutable": "powershell",
       "runtimeArgs": ["-ExecutionPolicy", "Bypass", "-File", "vestibular-direito/serve.ps1"],
-      "port": 8843
+      "port": 8843,
+      "autoPort": true
     },
     {
       "name": "vestibular-v2",

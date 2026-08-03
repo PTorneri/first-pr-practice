@@ -54,6 +54,13 @@ $ESCADA_FGV = [ordered]@{
 # a FGV nunca oferece uma opção com uma asserção isolada que não seja a I.
 $ESCADA_PROIBIDAS = @("III, apenas", "II, apenas")
 
+# Assinatura de UTF-8 lido como CP-1252: um C3/C2 seguido de um byte de
+# continuacao. Montado a partir dos codigos de proposito — o intervalo comeca em
+# U+0080, invisivel, e escrito literalmente se perde na primeira edicao do
+# arquivo. Foi assim que a primeira versao dessa trava no build-bundle.ps1 virou
+# um padrao vazio e deixou passar tudo (build-bundle.ps1:20-23).
+$MOJIBAKE_RX = "[$([char]0xC3)$([char]0xC2)][$([char]0x80)-$([char]0xBF)]"
+
 # ---------------------------------------------------------------- validação
 
 function Test-Questao {
@@ -122,6 +129,49 @@ function Test-Questao {
   return @{ erros = $erros; escada = $escadaFora }
 }
 
+# ------------------------------------------------------- banco das obras
+
+# O data/obras-questoes.js não passa por build nenhum: é editado à mão e vai
+# direto pro <script> do index.html. Até aqui nada o validava — id duplicado,
+# resposta fora das alternativas e acento corrompido passavam iguais. As três
+# funções abaixo dão a esse banco a mesma rede que os data/questions/*.json já
+# têm, reaproveitando o Test-Questao acima.
+
+function ConvertFrom-ObrasQuestoesJs {
+  param([string]$raw)
+
+  # O que sobra depois de tirar o comentário do topo, o 'window.OBRAS_QUESTOES ='
+  # e o ';' final é JSON válido, porque as chaves do objeto vêm entre aspas.
+  # Entrada nova que largue as aspas da chave quebra aqui — de propósito.
+  $corpo = [regex]::Replace($raw, '(?s)^.*?window\.OBRAS_QUESTOES\s*=\s*', '')
+  $corpo = [regex]::Replace($corpo, '(?s);\s*$', '')
+  return ($corpo | ConvertFrom-Json)
+}
+
+function Get-ObrasIds {
+  param([string]$path)
+
+  # obras.js é objeto JS com chaves sem aspas, então ConvertFrom-Json não serve.
+  # A varredura linha a linha basta porque cada obra é um bloco contíguo: o 'id:'
+  # abre o registro e o 'foraDoEdital2027:' que vier depois pertence a ele.
+  $ordem = New-Object System.Collections.Generic.List[string]
+  $fora = @{}
+  $atual = $null
+  foreach ($linha in (Get-Content -Encoding UTF8 $path)) {
+    $m = [regex]::Match($linha, '^\s*id:\s*"([^"]+)"')
+    if ($m.Success) { $atual = $m.Groups[1].Value; $ordem.Add($atual); continue }
+    if ($atual -and $linha -match '^\s*foraDoEdital2027:\s*true') { $fora[$atual] = $true }
+  }
+  return @{ ordem = $ordem; fora = $fora }
+}
+
+# O erro mais provável ao escrever cinco questões seguidas à mão é arrastar o id
+# da obra anterior. Como nada no app lê o id, o estrago seria invisível.
+function Test-ObraQuestaoId {
+  param([string]$id, [string]$obraId, [int]$pos)
+  return ($id -eq "$obraId-q$pos")
+}
+
 # ---------------------------------------------------------------- self-test
 
 function Invoke-SelfTest {
@@ -147,6 +197,16 @@ function Invoke-SelfTest {
 
   $visualSemDesc = '{"id":"x-07","enunciado":"e","visual":{"tipo":"charge","arquivo":"assets/v/a.svg"},"alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
   if ((Test-Questao $visualSemDesc $true).erros.Count -eq 0) { throw "self-test: visual sem descricao passou" }
+
+  # obras: id tem que casar com a chave da obra E com a posição na lista
+  if (-not (Test-ObraQuestaoId "obra-macbeth-q3" "obra-macbeth" 3)) { throw "self-test: id de obra válido foi reprovado" }
+  if (Test-ObraQuestaoId "obra-tar-q1" "obra-macbeth" 1) { throw "self-test: id com a obra trocada passou" }
+  if (Test-ObraQuestaoId "obra-macbeth-q2" "obra-macbeth" 3) { throw "self-test: id fora de posição passou" }
+
+  # obras: a extração do objeto JS tem que sobreviver ao comentário do topo
+  $amostraJs = "// gerado`nwindow.OBRAS_QUESTOES = {`n  `"obra-x`": []`n};`n"
+  $amostra = ConvertFrom-ObrasQuestoesJs $amostraJs
+  if (@($amostra.PSObject.Properties.Name) -ne "obra-x") { throw "self-test: extração do OBRAS_QUESTOES falhou" }
 }
 
 Invoke-SelfTest
@@ -274,6 +334,94 @@ foreach ($file in $files) {
   $cincoGeral += $cinco
 }
 
+# ------------------------------------------------- varredura das obras
+
+# Fica fora do -Frente porque as obras não são uma frente de data/questions/.
+$obrasLinha = ""
+if (-not $Frente) {
+  $obrasPath = Join-Path $root "data\obras.js"
+  $obrasQPath = Join-Path $root "data\obras-questoes.js"
+
+  if (-not (Test-Path $obrasPath)) { $falhas += "obras : data/obras.js não encontrado" }
+  elseif (-not (Test-Path $obrasQPath)) { $falhas += "obras : data/obras-questoes.js não encontrado" }
+  else {
+    $obras = Get-ObrasIds $obrasPath
+    $rawO = Get-Content -Raw -Encoding UTF8 $obrasQPath
+
+    # Mesma trava do build-bundle.ps1, medida no texto cru. O padrao e montado a
+    # partir dos codigos porque o intervalo comeca em U+0080, invisivel: escrito
+    # literalmente, ele se perde na primeira vez que alguem editar este arquivo.
+    $mojO = [regex]::Matches($rawO, $MOJIBAKE_RX).Count
+    if ($mojO -gt 0) { $falhas += "obras : $mojO sequências de acento corrompido (rode fix-encoding.ps1)" }
+
+    $banco = $null
+    try { $banco = ConvertFrom-ObrasQuestoesJs $rawO }
+    catch { $falhas += "obras : obras-questoes.js não é JSON válido depois do 'window.OBRAS_QUESTOES =' — $($_.Exception.Message)" }
+
+    if ($banco) {
+      $chavesO = @($banco.PSObject.Properties.Name)
+      $obraSet = @{}
+      foreach ($o in $obras.ordem) { $obraSet[$o] = $true }
+
+      foreach ($k in $chavesO) {
+        if (-not $obraSet.ContainsKey($k)) {
+          $falhas += "obras : chave '$k' não corresponde a nenhuma obra de obras.js"
+        }
+      }
+
+      $idsO = @{}
+      $totalO = 0
+      $cincoO = 0
+      $distO = @{}
+      foreach ($l in $LETRAS) { $distO[$l] = 0 }
+
+      foreach ($k in $chavesO) {
+        $pos = 0
+        foreach ($q in @($banco.$k)) {
+          $pos++
+          $totalO++
+
+          # $false e não [bool]$Estrito: as 225 questões antigas ainda estão em 4
+          # alternativas, e reprovar por elas afogaria a regressão de verdade.
+          $r = Test-Questao $q $false
+          foreach ($e in $r.erros) { $falhas += "obras/$k : $e" }
+          foreach ($e in $r.escada) { $avisos += "obras/$k : $e" }
+
+          if ($q.alternativas -and @($q.alternativas.PSObject.Properties.Name).Count -eq 5) { $cincoO++ }
+
+          if ($q.id) {
+            if ($idsO.ContainsKey($q.id)) { $falhas += "obras : id duplicado '$($q.id)'" }
+            $idsO[$q.id] = $true
+            if (-not (Test-ObraQuestaoId $q.id $k $pos)) {
+              $falhas += "obras/$k : id '$($q.id)' fora do padrão, esperava '$k-q$pos'"
+            }
+          }
+
+          if ($q.resposta -and $distO.ContainsKey($q.resposta)) { $distO[$q.resposta]++ }
+        }
+      }
+
+      # A checagem que teria pego, no dia em que apareceu, a lacuna das 11 obras
+      # acrescentadas pelo edital 2027.1: o card promete "Praticar (5 questões)"
+      # com texto fixo (app.js), sem consultar o banco. Obra sem
+      # 'foraDoEdital2027' é obrigatória e precisa ter as cinco.
+      foreach ($o in $obras.ordem) {
+        if ($obras.fora.ContainsKey($o)) { continue }
+        $n = 0
+        if ($chavesO -contains $o) { $n = @($banco.$o).Count }
+        if ($n -ne 5) { $falhas += "obras : '$o' tem $n questões de fixação, esperava 5" }
+      }
+
+      $resumo += [pscustomobject]@{
+        Banco = "obras"; Total = $totalO; Cinco = $cincoO; Quatro = ($totalO - $cincoO)
+        Gabarito = (($LETRAS | ForEach-Object { "$_=$($distO[$_])" }) -join " "); Formato = "(n/a)"
+      }
+      $contagemNova["obras"] = @{ total = $totalO; cinco = $cincoO }
+      $obrasLinha = "OBRAS: $totalO questões em $($chavesO.Count) obras, $cincoO com 5 alternativas, $($totalO - $cincoO) ainda com 4"
+    }
+  }
+}
+
 # ------------------------------------------------- tripwire de regressão
 
 # O rebalance-answers.ps1 tinha um bug que apagava silenciosamente uma
@@ -301,6 +449,7 @@ if ($baseline) {
 Write-Output ""
 $resumo | Format-Table -AutoSize
 Write-Output "TOTAL: $totalGeral questões, $cincoGeral com 5 alternativas, $($totalGeral - $cincoGeral) ainda com 4"
+if ($obrasLinha) { Write-Output $obrasLinha }
 if ($escadasFora -gt 0 -and -not $EscadaEstrita) {
   Write-Output "PENDENTE: $escadasFora desvios do jogo fixo da FGV em questões de escada (Fase 6). Use -EscadaEstrita para reprovar por eles."
 }

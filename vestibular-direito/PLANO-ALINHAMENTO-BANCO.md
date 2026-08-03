@@ -397,7 +397,9 @@ genéricos. Algumas já acertam o formato (Arendt, interseccionalidade, *Cabra M
 Mudanças:
 
 1. Reescrever ao menos 10 das 15 no formato `[excerto teórico] + [obra da lista] → posicionamento`.
-2. Adicionar **Macbeth** a `data/obras.js` — foi usada na FGV 2026.1 e não está na lista das 45.
+2. ~~Adicionar **Macbeth** a `data/obras.js` — foi usada na FGV 2026.1 e não está na lista das 45.~~
+   Feito: Macbeth entrou junto com as outras 10 obras do edital 2027.1, e as 11 já têm as 5
+   questões de fixação (`data/obras-questoes.js`).
 3. Conferir a lista inteira contra o conteúdo programático do ciclo 2027, como o próprio comentário
    no topo de `obras.js` já recomenda.
 
@@ -487,7 +489,7 @@ de 30 a 40 questões novas a partir das fontes que as bancas de fato usam — pa
 | 8 | Rebalanceamento (§5.2) | cada arquivo entre 17% e 23% por letra, excluídas as de escada |
 | 9 | V/F e duas lacunas (§5.4) | ≥15 V/F, ≥40 duas lacunas |
 | 10 | Dissertativas e redação (§6) | 15/15 Humanas com a)/b); ≥8 subitens com `quantidadeExigida`; 15/15 redações no comando FGV |
-| 11 | Artes + Macbeth (§6.4) | ≥10 no formato teoria+obra; 46 obras |
+| 11 | Artes + Macbeth (§6.4) | ≥10 no formato teoria+obra; 56 obras (47 obrigatórias + 9 complementares), cada obrigatória com 5 questões de fixação — cobrado pelo `verify-banco.ps1` |
 | 12 | Pesos e simulado (§7) | pesos por banca; modo simulado oficial de 60 em 4 blocos |
 | 13 | `build-bundle` e verificação no navegador | bundle regenerado, app carrega sem erro de console |
 

@@ -35,6 +35,10 @@
                              "total":  100,
                              "cinco":  0
                          },
+    "literatura":  {
+                       "total":  75,
+                       "cinco":  75
+                   },
     "historia-geral":  {
                            "total":  100,
                            "cinco":  100
@@ -51,6 +55,10 @@
                            "total":  150,
                            "cinco":  0
                        },
+    "obras":  {
+                  "total":  280,
+                  "cinco":  55
+              },
     "geografia":  {
                       "total":  150,
                       "cinco":  150

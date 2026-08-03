@@ -1329,6 +1329,13 @@
     const cenaHtml = o.cenaOuTrechoChave
       ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Cena/trecho-chave:</strong> ${escapeHtml(o.cenaOuTrechoChave)}</p>`
       : "";
+    // O rótulo sai do banco em vez de ser fixo: quando faltavam as questões das
+    // obras do edital 2027.1, o botão prometia cinco e abria uma div vazia.
+    const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
+    const quizHtml = bank.length
+      ? `<button type="button" class="btn-link obra-quiz-toggle">Praticar (${bank.length} ${bank.length === 1 ? "questão" : "questões"})</button>
+      <div class="obra-questoes" hidden></div>`
+      : "";
     const catMeta = OBRA_CATEGORIA_META[o.categoria] || { cls: "cat-default", icon: "" };
     const coverHtml = `
       <div class="obra-cover ${catMeta.cls}">
@@ -1350,8 +1357,7 @@
         ${cenaHtml}
         <p class="theory-resumo" style="margin-top:8px;"><strong>Eixo da banca:</strong> ${escapeHtml(o.analiseEixos)}</p>
       </div>
-      <button type="button" class="btn-link obra-quiz-toggle">Praticar (5 questões)</button>
-      <div class="obra-questoes" hidden></div>
+      ${quizHtml}
       <label class="obra-studied-check">
         <input type="checkbox" ${studied[o.id] ? "checked" : ""}> Já estudei essa obra
       </label>
@@ -1361,8 +1367,7 @@
     });
     const quizBtn = card.querySelector(".obra-quiz-toggle");
     const quizContainer = card.querySelector(".obra-questoes");
-    quizBtn.addEventListener("click", () => {
-      const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
+    if (quizBtn) quizBtn.addEventListener("click", () => {
       if (!quizContainer.hidden) {
         quizContainer.hidden = true;
         return;

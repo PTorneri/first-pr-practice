@@ -180,15 +180,19 @@ específica direto na aba.
 A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de
 obras (literatura, artes visuais, cinema, música, ensaios), sempre ligadas aos dois eixos da
 banca (globalização / transição da modernidade para a pós-modernidade) — não é decoreba de
-enredo. `data/obras.js` traz as 45 obras da lista oficial mais recente (edital em
-vestibular.fgv.br, conferido em julho/2026 — vale checar contra a versão mais nova quando o
-próximo edital sair), cada uma com resumo, contexto histórico/biográfico, pontos-chave
+enredo. `data/obras.js` traz 56 obras: as 47 obrigatórias do edital 2027.1 mais 9 leituras
+complementares, que caíram da lista oficial e ficam marcadas com `foraDoEdital2027: true` (edital
+em vestibular.fgv.br, conferido em julho/2026 — vale checar contra a versão mais nova quando o
+próximo edital sair). Cada uma tem resumo, contexto histórico/biográfico, pontos-chave
 (personagens/técnica/estrutura conforme a categoria), uma cena ou trecho-chave e análise pelos
 eixos da banca (tudo comentário crítico original, não reprodução de trechos das obras nem de
-letras de música). Filtro por categoria, contador "X/45 estudadas" e marcação individual de "já
-estudei". Cada obra também tem um bloco "Praticar (5 questões)" com questões de múltipla escolha
-de fixação, no mesmo formato do banco de questões principal (`data/obras-questoes.js`). Sem
-equivalente na prova do Insper.
+letras de música). Filtro por categoria, contador de estudadas sobre as obrigatórias e marcação
+individual de "já estudei". Cada obra também tem um bloco "Praticar (5 questões)" com questões de
+múltipla escolha de fixação, no mesmo formato do banco de questões principal
+(`data/obras-questoes.js`) — as 55 questões das obras acrescentadas pelo edital 2027.1 já nascem
+com 5 alternativas, enquanto as 225 anteriores seguem em 4 até a migração. O `verify-banco.ps1`
+cobre esse banco junto com os de `data/questions/` e reprova se alguma obra obrigatória ficar sem
+as cinco. Sem equivalente na prova do Insper.
 
 ## Sincronização entre aparelhos / backup
 

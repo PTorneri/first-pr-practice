@@ -2809,5 +2809,748 @@ window.OBRAS_QUESTOES = {
                                      "resposta":  "b",
                                      "explicacao":  "A canção combina fascínio e certo distanciamento crítico, típico de um artista britânico absorvendo e comentando, a partir de fora, aspectos da cultura e da juventude norte-americanas de meados dos anos 1970."
                                  }
-                             ]
+                             ],
+  "obra-racismo-sexismo-desigualdade": [
+    {
+      "id": "obra-racismo-sexismo-desigualdade-q1",
+      "texto_apoio": "Sueli Carneiro fundou o Geledés — Instituto da Mulher Negra em 1988, ano em que o Brasil marcava o centenário da abolição da escravidão. Os ensaios reunidos em \"Racismo, sexismo e desigualdade no Brasil\" foram escritos ao longo de décadas de atuação no movimento negro e no feminismo negro e publicados em livro em 2011.",
+      "enunciado": "Essa trajetória é relevante para situar o lugar de onde a autora escreve porque:",
+      "alternativas": {
+        "a": "vincula sua produção intelectual à militância organizada do movimento negro e do feminismo negro brasileiro, e não a uma reflexão puramente acadêmica sobre um objeto distante",
+        "b": "indica que a autora abandonou a formação em filosofia para se dedicar exclusivamente à atuação partidária a partir daquele ano",
+        "c": "mostra que o livro foi encomendado pelo governo federal como documento oficial das comemorações do centenário da abolição",
+        "d": "revela que a autora se opunha à existência de organizações negras autônomas e defendia sua substituição por políticas de Estado",
+        "e": "demonstra que a autora só passou a tratar de desigualdade de gênero depois de 2011, quando os ensaios foram reunidos"
+      },
+      "resposta": "a",
+      "explicacao": "Carneiro é filósofa formada pela USP e fundadora do Geledés (1988): os ensaios nascem de décadas de militância, o que dá ao livro a forma de intervenção política e não de estudo distanciado. O livro não é peça oficial do centenário, ela não abandonou a filosofia, não se opôs às organizações negras — fundou uma — e a articulação entre raça e gênero é anterior à publicação de 2011."
+    },
+    {
+      "id": "obra-racismo-sexismo-desigualdade-q2",
+      "enunciado": "A crítica de Sueli Carneiro ao sujeito universal do feminismo interessa ao eixo modernidade/pós-modernidade porque a autora:",
+      "alternativas": {
+        "a": "defende o abandono completo das categorias \"mulher\" e \"negro\", por entender que toda identidade é ficção sem qualquer efeito político",
+        "b": "propõe substituir a análise de gênero pela de classe, tratando o racismo como consequência secundária da exploração econômica",
+        "c": "mostra que categorias tratadas como homogêneas pela modernidade descrevem experiências muito distintas conforme raça, gênero e classe se combinem entre si",
+        "d": "sustenta que a modernidade europeia já havia resolvido a questão racial, restando ao Brasil importar o modelo e aplicá-lo",
+        "e": "afirma que a desigualdade racial brasileira decorre exclusivamente da globalização financeira do fim do século XX"
+      },
+      "resposta": "c",
+      "explicacao": "O argumento central é que \"mulher\" e \"negro\", tomados como categorias universais pela modernidade, escondem experiências muito diferentes conforme se cruzem — daí a proposta de \"enegrecer o feminismo\". Ela não descarta as categorias, nem hierarquiza classe sobre raça, nem trata o racismo brasileiro como importação ou como efeito recente da globalização."
+    },
+    {
+      "id": "obra-racismo-sexismo-desigualdade-q3",
+      "enunciado": "Sobre a relação entre a obra de Sueli Carneiro e o conceito de interseccionalidade, é correto afirmar que:",
+      "alternativas": {
+        "a": "o termo foi cunhado por Sueli Carneiro em 2011, na publicação deste livro, e depois adotado pela produção acadêmica estrangeira",
+        "b": "o termo foi cunhado por Angela Davis nos anos 1970 e reproduzido por Carneiro sem qualquer alteração de sentido",
+        "c": "o termo não guarda relação com a obra, que se ocupa apenas de desigualdade de renda entre regiões brasileiras",
+        "d": "Carneiro rejeita expressamente a articulação entre raça e gênero, defendendo que cada eixo seja analisado em separado",
+        "e": "o termo foi cunhado por Kimberlé Crenshaw, em 1989, e Carneiro é a principal referência brasileira dessa articulação, com formulação própria e anterior ao uso corrente da palavra no país"
+      },
+      "resposta": "e",
+      "explicacao": "A autoria do termo é de Kimberlé Crenshaw (1989); Carneiro é a referência brasileira da articulação entre raça, gênero e classe, com elaboração própria que antecede a circulação da palavra no Brasil. É exatamente essa atribuição que a banca costuma trocar. Angela Davis é outra referência do feminismo negro, mas não cunhou o termo, e Carneiro defende justamente a articulação, não a separação dos eixos."
+    },
+    {
+      "id": "obra-racismo-sexismo-desigualdade-q4",
+      "enunciado": "Comparando \"Racismo, sexismo e desigualdade no Brasil\" com \"O Olho Mais Azul\", de Toni Morrison, também da lista, a diferença de abordagem é que:",
+      "alternativas": {
+        "a": "as duas são narrativas ficcionais que acompanham a infância de meninas negras em contextos urbanos, variando apenas o país retratado",
+        "b": "Carneiro constrói argumentação ensaística sobre as estruturas que produzem a desigualdade racial, enquanto Morrison constrói, em ficção, os efeitos subjetivos de um padrão de beleza branco sobre uma menina negra",
+        "c": "ambas são pesquisas de sociologia empírica baseadas em levantamentos estatísticos de renda e escolaridade da população negra",
+        "d": "Morrison escreve sobre o racismo brasileiro e Carneiro sobre o racismo norte-americano, invertendo os contextos nacionais de origem das autoras",
+        "e": "as duas autoras assinam em conjunto o volume publicado em 2011, reunindo ensaio e ficção no mesmo livro"
+      },
+      "resposta": "b",
+      "explicacao": "São registros distintos sobre um problema próximo: Carneiro argumenta em ensaio sobre as estruturas do racismo e do sexismo no Brasil; Morrison narra em romance como o padrão estético branco se instala na subjetividade de uma menina negra nos Estados Unidos. Não há ficção em Carneiro, nem levantamento estatístico em nenhuma das duas, nem inversão de contextos ou coautoria."
+    },
+    {
+      "id": "obra-racismo-sexismo-desigualdade-q5",
+      "enunciado": "Um dos argumentos mais retomados do livro observa que reivindicações apresentadas como universais pelo feminismo — como a saída do espaço doméstico rumo ao trabalho remunerado — não descrevem a trajetória das mulheres negras brasileiras. Esse argumento sustenta que:",
+      "alternativas": {
+        "a": "as mulheres negras nunca participaram do mercado de trabalho brasileiro, permanecendo restritas ao espaço doméstico até o século XX",
+        "b": "a pauta do trabalho remunerado deve ser abandonada pelo feminismo, por ser incompatível com qualquer projeto de igualdade",
+        "c": "a experiência das mulheres brancas de classe média é a única capaz de fundamentar reivindicações realmente universais",
+        "d": "as mulheres negras brasileiras já estavam inseridas no trabalho desde a escravidão, de modo que a pauta apresentada como universal descreve, na verdade, a trajetória de um grupo específico",
+        "e": "a escravidão não produziu efeitos duradouros sobre a inserção das mulheres negras no mercado de trabalho brasileiro"
+      },
+      "resposta": "d",
+      "explicacao": "O argumento não nega o trabalho às mulheres negras — afirma o contrário: elas sempre trabalharam, desde a escravidão, e por isso \"sair de casa para trabalhar\" nunca foi promessa de emancipação para elas. A conclusão é que a pauta dita universal descrevia a experiência de um grupo particular, o que obriga a perguntar de quem se fala quando se fala em \"a mulher\"."
+    }
+  ],
+  "obra-dom-casmurro": [
+    {
+      "id": "obra-dom-casmurro-q1",
+      "enunciado": "\"Dom Casmurro\" foi publicado em 1899, na fase madura de Machado de Assis. Sobre esse contexto, é correto afirmar que:",
+      "alternativas": {
+        "a": "o romance abre a fase madura do autor, sendo anterior a \"Memórias Póstumas de Brás Cubas\" e a \"Quincas Borba\"",
+        "b": "Machado escreveu o livro no exílio em Portugal, onde vivia desde a Proclamação da República",
+        "c": "o romance foi imediatamente lido pela crítica como a história de um homem que constrói uma acusação, leitura que só depois seria contestada",
+        "d": "o romance integra a fase madura ao lado de \"Memórias Póstumas de Brás Cubas\" (1881) e \"Quincas Borba\" (1891), e seu autor foi o primeiro presidente da Academia Brasileira de Letras, fundada em 1897",
+        "e": "Machado era filho da aristocracia cafeeira fluminense e teve formação universitária em direito em Coimbra"
+      },
+      "resposta": "d",
+      "explicacao": "\"Dom Casmurro\" (1899) fecha o trio da fase madura iniciado por \"Memórias Póstumas\" (1881) e \"Quincas Borba\" (1891), e Machado presidiu a ABL desde sua fundação, em 1897. Ele era neto de escravizados alforriados e autodidata, não aristocrata nem formado em Coimbra, nunca se exilou, e a leitura do romance como construção de uma acusação é posterior — por décadas o livro foi lido como a história de uma traição."
+    },
+    {
+      "id": "obra-dom-casmurro-q2",
+      "enunciado": "A construção do narrador em \"Dom Casmurro\" é mobilizada no eixo modernidade/pós-modernidade porque:",
+      "alternativas": {
+        "a": "a única fonte disponível sobre os fatos é o próprio acusador, o que desloca a questão da traição para a construção da verdade por quem detém o poder de narrar",
+        "b": "o romance apresenta provas documentais independentes da traição, permitindo ao leitor confirmar objetivamente a culpa de Capitu",
+        "c": "a narrativa é conduzida por um narrador onisciente e neutro, que acompanha igualmente a perspectiva de Bentinho e a de Capitu",
+        "d": "Machado antecipa o realismo socialista ao subordinar a psicologia das personagens à denúncia das condições econômicas do Segundo Reinado",
+        "e": "o livro abandona a linguagem literária em favor do registro jurídico, apresentando-se como peça processual de um julgamento real"
+      },
+      "resposta": "a",
+      "explicacao": "O romance é o exemplo canônico de narrador não confiável em língua portuguesa: tudo o que se sabe vem de Bento Santiago, que é parte interessada e juiz da causa ao mesmo tempo. Essa suspeita em relação à voz que organiza o relato antecipa, ainda no século XIX, um traço da sensibilidade pós-moderna. Não há narrador onisciente, prova independente, projeto de realismo socialista nem forma processual."
+    },
+    {
+      "id": "obra-dom-casmurro-q3",
+      "enunciado": "Assinale a alternativa que descreve corretamente um elemento do enredo de \"Dom Casmurro\":",
+      "alternativas": {
+        "a": "Bentinho e Capitu se conhecem já adultos, durante a temporada do protagonista no seminário, para onde ele fora por vontade própria",
+        "b": "o agregado José Dias é quem denuncia o adultério a Bentinho, apresentando-lhe cartas trocadas entre Capitu e Escobar",
+        "c": "a promessa de dona Glória de enviar o filho ao seminário é o obstáculo inicial ao amor de Bentinho e Capitu, e Escobar é o amigo de quem ele virá a suspeitar",
+        "d": "Escobar é irmão de Capitu, o que explica a semelhança física entre ele e o menino Ezequiel",
+        "e": "Capitu confessa a traição no último capítulo, encerrando a dúvida que o romance havia sustentado"
+      },
+      "resposta": "c",
+      "explicacao": "A promessa materna de dona Glória é o obstáculo que organiza a primeira parte do romance, e é de Escobar, o amigo, que Bentinho passa a suspeitar. Os dois se conhecem crianças, como vizinhos; José Dias é agregado da casa e não apresenta prova nenhuma; Escobar não é parente de Capitu; e não há confissão — a dúvida permanece por construção."
+    },
+    {
+      "id": "obra-dom-casmurro-q4",
+      "enunciado": "\"Dom Casmurro\" e \"Memórias Póstumas de Brás Cubas\", ambos de Machado de Assis e ambos narrados em primeira pessoa, distinguem-se porque:",
+      "alternativas": {
+        "a": "\"Memórias Póstumas\" é narrado por uma personagem feminina, enquanto \"Dom Casmurro\" tem narrador masculino",
+        "b": "\"Dom Casmurro\" pertence à fase romântica do autor e \"Memórias Póstumas\" à fase realista, separadas por quase quarenta anos",
+        "c": "em \"Memórias Póstumas\" o leitor tem acesso a documentos que comprovam o relato, o que não ocorre em \"Dom Casmurro\"",
+        "d": "os dois narradores são inteiramente confiáveis, e a diferença está apenas no tom, cômico num caso e melancólico no outro",
+        "e": "Brás Cubas narra da posição de defunto autor, com ironia sobre a própria vida já encerrada, enquanto Bentinho narra na velhice como parte interessada numa acusação que quer sustentar"
+      },
+      "resposta": "e",
+      "explicacao": "Os dois narram em primeira pessoa e nenhum é confiável, mas por razões distintas: Brás Cubas fala de além-túmulo, sem nada a perder, e ironiza a própria trajetória; Bentinho escreve vivo, com interesse direto no veredicto sobre Capitu. Ambos integram a fase madura, nenhum é narrado por mulher, e em nenhum dos dois há documentação que corrobore o relato."
+    },
+    {
+      "id": "obra-dom-casmurro-q5",
+      "enunciado": "A comparação dos olhos de Capitu com \"olhos de ressaca\", formulada pelo próprio Bentinho ainda na juventude, costuma ser lida como:",
+      "alternativas": {
+        "a": "prova textual objetiva do adultério, uma vez que a imagem é atribuída no romance a uma testemunha externa ao casal",
+        "b": "o momento em que o narrador fixa a imagem de mulher enigmática e perigosa que sustentará, décadas depois, a própria acusação que ele constrói",
+        "c": "uma descrição neutra e sem consequências narrativas, incluída apenas para caracterizar fisicamente a personagem",
+        "d": "uma citação de Escobar, que assim revelaria a intimidade que mantinha com Capitu desde a adolescência",
+        "e": "a primeira manifestação do arrependimento de Bentinho, que reconhece ali ter julgado a esposa injustamente"
+      },
+      "resposta": "b",
+      "explicacao": "A imagem é do próprio Bentinho e é ele quem a fixa muito antes de qualquer suspeita: a suposta prova do adultério já estava contida na forma como ele escolheu descrever Capitu. Não é fala de testemunha nem de Escobar, não é descrição neutra — é peça central da acusação — e não há arrependimento no relato."
+    }
+  ],
+  "obra-caminho-de-pedras": [
+    {
+      "id": "obra-caminho-de-pedras-q1",
+      "texto_apoio": "Rachel de Queiroz estreou aos 20 anos com \"O Quinze\" (1930), aproximou-se do Partido Comunista e depois se afastou dele, chegou a ser presa e a ter livros apreendidos na década de 1930, e em 1977 tornou-se a primeira mulher eleita para a Academia Brasileira de Letras.",
+      "enunciado": "\"Caminho de Pedras\" foi publicado em 1937. A relevância dessa data para a leitura do romance está em que:",
+      "alternativas": {
+        "a": "1937 é o ano da Proclamação da República, e o romance acompanha a transição do regime monárquico para o republicano no Ceará",
+        "b": "1937 é o ano da instauração do Estado Novo por Getúlio Vargas, período de forte repressão a militantes de esquerda, clima de clandestinidade e vigilância com que o enredo dialoga diretamente",
+        "c": "1937 é o ano da eleição da autora para a Academia Brasileira de Letras, o que explica o tom celebratório do livro",
+        "d": "1937 marca o fim da Era Vargas e a redemocratização do país, contexto que permite ao romance retratar a militância comunista sem risco",
+        "e": "1937 é o ano da publicação de \"O Quinze\", romance de estreia da autora, do qual \"Caminho de Pedras\" é continuação direta"
+      },
+      "resposta": "b",
+      "explicacao": "1937 é o ano do golpe do Estado Novo, e o romance é contemporâneo da repressão que retrata — a própria autora foi presa e teve livros apreendidos naquela década. A Proclamação da República é de 1889, a eleição para a ABL de 1977, o fim da Era Vargas de 1945 e \"O Quinze\" de 1930."
+    },
+    {
+      "id": "obra-caminho-de-pedras-q2",
+      "enunciado": "No eixo modernidade/pós-modernidade, \"Caminho de Pedras\" é especialmente mobilizado porque o romance:",
+      "alternativas": {
+        "a": "defende que a modernização industrial do Nordeste bastaria, por si só, para dissolver as hierarquias de classe e de gênero da região",
+        "b": "trata a militância política como assunto masculino, deixando as personagens femininas restritas ao espaço doméstico",
+        "c": "recusa qualquer denúncia social, concentrando-se na descrição da paisagem sertaneja e no drama individual dos protagonistas",
+        "d": "situa a ação num futuro imaginado, em que a organização operária já teria vencido a repressão do Estado",
+        "e": "articula duas opressões que a literatura da época costumava tratar em separado — a exploração de classe e a sujeição das mulheres a papéis domésticos —, expondo a defasagem entre transformação econômica e permanência conservadora"
+      },
+      "resposta": "e",
+      "explicacao": "O romance junta o que a geração de 30 costumava separar: Noemi é perseguida politicamente e julgada moralmente, e as duas condenações caminham juntas. É essa defasagem — o operariado se organiza mas é reprimido, a mulher trabalha e milita mas responde pelo abandono do lar — que interessa ao eixo. Não há confiança na modernização automática, nem ausência de denúncia, nem protagonismo masculino exclusivo, nem projeção futurista."
+    },
+    {
+      "id": "obra-caminho-de-pedras-q3",
+      "enunciado": "Sobre o enredo de \"Caminho de Pedras\", é correto afirmar que:",
+      "alternativas": {
+        "a": "Noemi deixa o marido, João Jacques, passa a viver com o militante Roberto e colabora com a produção clandestina de um jornal operário em Fortaleza",
+        "b": "Noemi permanece casada com João Jacques durante todo o romance, e é ele quem a introduz na militância comunista",
+        "c": "a ação se passa no Rio de Janeiro, para onde a protagonista se muda após a seca de 1915 relatada em \"O Quinze\"",
+        "d": "o grupo militante escapa ileso da repressão policial, e o romance termina com a legalização do jornal operário",
+        "e": "Noemi é operária de fábrica e nunca chega a ser mãe, o que a isenta do julgamento moral da vizinhança"
+      },
+      "resposta": "a",
+      "explicacao": "Noemi é mulher casada e mãe em Fortaleza; rompe com João Jacques, passa a viver com Roberto e colabora com o jornal clandestino. O envolvimento político e o afetivo caminham juntos, e é justamente por ser mãe e esposa que ela sofre a condenação moral. A repressão desmonta o grupo — há prisões e delações —, e o desfecho recusa qualquer redenção fácil."
+    },
+    {
+      "id": "obra-caminho-de-pedras-q4",
+      "enunciado": "\"Caminho de Pedras\" e \"Vidas Secas\", de Graciliano Ramos, integram a chamada geração de 30 do romance social brasileiro. A comparação entre as duas obras permite observar que:",
+      "alternativas": {
+        "a": "as duas narram a mesma história a partir de pontos de vista opostos, sendo \"Vidas Secas\" a versão masculina do enredo de \"Caminho de Pedras\"",
+        "b": "nenhuma das duas se ocupa de denúncia social, tratando a seca e a militância apenas como pano de fundo de dramas amorosos",
+        "c": "\"Vidas Secas\" é anterior à geração de 30 e pertence ao primeiro momento do modernismo brasileiro, ao lado do \"Manifesto Antropófago\"",
+        "d": "ambas se voltam para a denúncia das condições sociais brasileiras, mas Graciliano acompanha uma família de retirantes expulsa pela seca, enquanto Rachel de Queiroz situa o conflito na cidade e cruza a questão de classe com a condição da mulher",
+        "e": "as duas obras foram censuradas e só puderam ser publicadas depois de 1945, com o fim do Estado Novo"
+      },
+      "resposta": "d",
+      "explicacao": "Os dois romances compartilham o projeto de denúncia social da geração de 30, mas recortam objetos diferentes: o deslocamento forçado da família sertaneja em Graciliano; o operariado urbano e a condição feminina em Rachel de Queiroz. Não há enredo comum entre eles, o \"Manifesto Antropófago\" é de 1928 e de outro momento modernista, e ambos os livros foram publicados nos anos 1930."
+    },
+    {
+      "id": "obra-caminho-de-pedras-q5",
+      "enunciado": "O trabalho noturno de composição do jornal operário — feito às escondidas, com recursos precários e sob risco de denúncia — funciona no romance como:",
+      "alternativas": {
+        "a": "episódio isolado e sem consequência, já que o jornal nunca chega a circular entre os trabalhadores",
+        "b": "prova de que a organização clandestina era tolerada pelas autoridades locais, que preferiam vigiá-la a reprimi-la",
+        "c": "imagem central do livro, por ser ali que Noemi encontra ao mesmo tempo um projeto coletivo e a origem da perseguição que recairá sobre ela nos planos político e moral",
+        "d": "recurso cômico que alivia a tensão da narrativa antes do desfecho trágico",
+        "e": "momento em que a protagonista abandona a militância e retorna à vida doméstica ao lado do marido"
+      },
+      "resposta": "c",
+      "explicacao": "A cena condensa os dois planos que o romance mantém entrelaçados: é no jornal clandestino que Noemi encontra pertencimento coletivo e é dele que decorre a perseguição — policial, de um lado, e moral, de outro. Não é episódio isolado nem cômico, a repressão é real e não tolerada, e Noemi não volta ao casamento."
+    }
+  ],
+  "obra-macbeth": [
+    {
+      "id": "obra-macbeth-q1",
+      "enunciado": "\"Macbeth\" foi escrita por volta de 1606, no início do reinado de Jaime I da Inglaterra. Esse contexto ajuda a explicar:",
+      "alternativas": {
+        "a": "a ambientação da peça na Roma antiga, período de interesse do monarca por repúblicas clássicas",
+        "b": "a decisão de Shakespeare de escrever a peça em prosa, abandonando o verso usado em suas tragédias anteriores",
+        "c": "o fato de a peça ter sido encomendada pelo Parlamento inglês como advertência contra a monarquia hereditária",
+        "d": "a ausência de qualquer elemento sobrenatural no enredo, exigência da censura religiosa do período",
+        "e": "o interesse do monarca — que era também Jaime VI da Escócia e se dizia descendente de Banquo — por bruxaria, e a tensão política posterior à Conspiração da Pólvora, de 1605"
+      },
+      "resposta": "e",
+      "explicacao": "Jaime I acumulava a coroa escocesa, dizia-se descendente de Banquo e tinha interesse declarado por bruxaria; a peça é de 1606, logo após a tentativa frustrada de explodir o Parlamento. A ação se passa numa Escócia medieval, não em Roma; a peça é em verso; as bruxas são centrais, não suprimidas; e não houve encomenda parlamentar contra a monarquia."
+    },
+    {
+      "id": "obra-macbeth-q2",
+      "enunciado": "A tensão entre profecia e responsabilidade individual em \"Macbeth\" interessa ao eixo modernidade/pós-modernidade porque:",
+      "alternativas": {
+        "a": "as bruxas obrigam Macbeth a agir por meio de um feitiço, o que isenta o protagonista de qualquer responsabilidade moral pelos crimes",
+        "b": "a peça demonstra que o destino é integralmente determinado, e que nenhuma escolha das personagens altera o curso dos acontecimentos",
+        "c": "Shakespeare rejeita a existência de vida interior nas personagens, apresentando-as apenas por meio de suas ações públicas",
+        "d": "as bruxas anunciam mas não obrigam, e a tragédia nasce da decisão de Macbeth de agir para realizar a profecia — deslocamento que marca a passagem para uma subjetividade moderna, responsável pelos próprios atos e atormentada por eles",
+        "e": "a peça atribui os crimes exclusivamente a Lady Macbeth, retirando do protagonista qualquer participação nas decisões"
+      },
+      "resposta": "d",
+      "explicacao": "O ponto é que a profecia anuncia sem determinar: Macbeth escolhe agir, e é essa escolha que o torna responsável e o atormenta. Os monólogos do protagonista e o sonambulismo culpado de Lady Macbeth são exemplos célebres dessa interioridade — que a peça, longe de recusar, coloca no centro. Lady Macbeth é incentivo decisivo, mas não substitui a decisão dele."
+    },
+    {
+      "id": "obra-macbeth-q3",
+      "enunciado": "Sobre as profecias que dão a Macbeth uma falsa sensação de segurança na segunda metade da peça, é correto afirmar que:",
+      "alternativas": {
+        "a": "anunciam que ele reinaria por cem anos e morreria de causas naturais, previsão que se cumpre integralmente",
+        "b": "anunciam que ele só cairia quando a floresta de Birnam marchasse contra ele e nas mãos de alguém não nascido de mulher — condições que se cumprem de modo literal e inesperado",
+        "c": "são feitas por Banquo pouco antes de ser assassinado, como vingança contra o antigo amigo",
+        "d": "afirmam que Lady Macbeth reinaria sozinha após a morte do marido, o que de fato ocorre ao final",
+        "e": "não chegam a ser formuladas na peça, sendo apenas mencionadas em relatos posteriores das personagens secundárias"
+      },
+      "resposta": "b",
+      "explicacao": "As duas garantias — a floresta de Birnam e o homem não nascido de mulher — parecem impossíveis e por isso tranquilizam Macbeth; ambas se realizam de forma literal e inesperada, e é Macduff quem as cumpre. As profecias vêm das bruxas, não de Banquo, e Lady Macbeth morre antes do protagonista, tomada pela culpa."
+    },
+    {
+      "id": "obra-macbeth-q4",
+      "enunciado": "\"Macbeth\" e \"A Mandrágora\", de Nicolau Maquiavel, também da lista, tratam do poder de maneiras distintas. Sobre essa comparação, é correto afirmar que:",
+      "alternativas": {
+        "a": "as duas são tragédias que terminam com a morte violenta do protagonista e a restauração da ordem legítima",
+        "b": "\"A Mandrágora\" é anterior em cerca de dois séculos e trata da usurpação de tronos na Escócia medieval, tema que Shakespeare retomaria",
+        "c": "\"Macbeth\" é tragédia e expõe o custo interior da usurpação — a culpa que corrói quem conquista o trono pelo crime —, enquanto \"A Mandrágora\" é comédia e mostra, sem punição nem remorso, a eficácia do engano para obter o que se quer",
+        "d": "ambas defendem explicitamente que o governante deve agir de acordo com a moral cristã, sob pena de ruína política",
+        "e": "nenhuma das duas se ocupa de questões de poder, tratando exclusivamente de conflitos amorosos entre particulares"
+      },
+      "resposta": "c",
+      "explicacao": "A oposição de gênero organiza a comparação: a tragédia de Shakespeare cobra o preço interno do crime, com Macbeth e Lady Macbeth destruídos pela culpa; a comédia de Maquiavel exibe a manipulação bem-sucedida e impune. \"A Mandrágora\" é do início do século XVI, ambientada em Florença, e nenhuma das duas prega submissão do governante à moral cristã."
+    },
+    {
+      "id": "obra-macbeth-q5",
+      "enunciado": "Na cena do sonambulismo, Lady Macbeth esfrega compulsivamente as mãos tentando limpar um sangue que já não está ali. A cena condensa o argumento moral da peça porque:",
+      "alternativas": {
+        "a": "mostra que o crime não deixa marca apenas no mundo, mas na consciência de quem o comete, e é essa marca interna que a tragédia persegue",
+        "b": "prova que a personagem era inocente dos crimes, já que o sangue não está de fato em suas mãos",
+        "c": "indica que a culpa pode ser removida por rituais de purificação, motivo pelo qual a personagem sobrevive ao final da peça",
+        "d": "revela que Lady Macbeth desconhecia os planos do marido até aquele momento da narrativa",
+        "e": "funciona como alívio cômico antes do confronto final entre Macbeth e Macduff"
+      },
+      "resposta": "a",
+      "explicacao": "O sangue invisível é a imagem exata do que a peça persegue: a mancha que sobra não é física, é da consciência. A cena confirma a participação de Lady Macbeth — ela foi o incentivo decisivo ao assassinato de Duncan —, e a culpa não se lava: a personagem enlouquece e morre antes do desfecho."
+    }
+  ],
+  "obra-dejeuner-sur-lherbe": [
+    {
+      "id": "obra-dejeuner-sur-lherbe-q1",
+      "texto_apoio": "Em 1863, diante do volume de obras recusadas pelo júri do Salão oficial de Paris — controlado pela Academia de Belas-Artes e praticamente a única via de reconhecimento para um pintor —, Napoleão III autorizou a criação de uma mostra paralela.",
+      "enunciado": "Essa mostra, em que \"Le Déjeuner sur l'herbe\" foi exibida, é conhecida como:",
+      "alternativas": {
+        "a": "a primeira exposição impressionista, organizada pelo próprio Manet como resposta institucional à Academia",
+        "b": "a Semana de Arte Moderna, que reuniu na França os artistas rejeitados pelos salões oficiais europeus",
+        "c": "o Salão dos Recusados, criado naquele mesmo ano por decisão do imperador diante do número de recusas",
+        "d": "a Bienal de Paris, mostra periódica destinada a premiar os quadros aprovados pela Academia de Belas-Artes",
+        "e": "o Armory Show, exposição que apresentou ao público europeu a pintura de vanguarda norte-americana"
+      },
+      "resposta": "c",
+      "explicacao": "O Salão dos Recusados foi criado em 1863 por decisão de Napoleão III, e é ali que a tela foi exposta, provocando escândalo imediato. A primeira mostra impressionista é de 1874 e Manet nunca expôs com o grupo; a Semana de Arte Moderna é brasileira, de 1922; e o Armory Show é norte-americano, de 1913."
+    },
+    {
+      "id": "obra-dejeuner-sur-lherbe-q2",
+      "enunciado": "No eixo modernidade/pós-modernidade, o escândalo provocado pela tela em 1863 é mobilizado sobretudo para mostrar que:",
+      "alternativas": {
+        "a": "o público parisiense rejeitava qualquer representação do nu, tema até então inédito na pintura europeia",
+        "b": "o mesmo nu era aceitável quando rotulado de mitológico e inaceitável quando trazido para um cenário contemporâneo, o que expõe o caráter convencional, e não natural, dos critérios do bom gosto",
+        "c": "a recusa da tela decorreu exclusivamente de sua má qualidade técnica, reconhecida mais tarde pelo próprio pintor",
+        "d": "o incômodo se deveu ao tamanho reduzido da obra, incompatível com as dimensões exigidas pelo Salão oficial",
+        "e": "a pintura acadêmica francesa já havia abandonado a mitologia como assunto décadas antes de 1863"
+      },
+      "resposta": "b",
+      "explicacao": "A nudez era corrente na pintura acadêmica — desde que amparada por deuses e ninfas. Manet retira esse álibi ao colocar uma parisiense identificável ao lado de homens em trajes contemporâneos, e o escândalo revela que o critério do bom gosto era institucional, não natural. A tela é de grandes dimensões e sua recusa não teve a ver com técnica deficiente."
+    },
+    {
+      "id": "obra-dejeuner-sur-lherbe-q3",
+      "enunciado": "Sobre a composição e a técnica de \"Le Déjeuner sur l'herbe\", é correto afirmar que:",
+      "alternativas": {
+        "a": "todas as figuras aparecem nuas, em cena explicitamente ambientada na Grécia antiga",
+        "b": "a tela adota a modelagem suave e a profundidade ilusionista da tradição acadêmica, diferenciando-se apenas pelo assunto escolhido",
+        "c": "a obra foi pintada em afresco sobre a parede de um edifício público parisiense, o que explica suas grandes dimensões",
+        "d": "a composição retoma esquemas da pintura renascentista, mas substitui deuses e ninfas por parisienses em roupas contemporâneas, e adota contrastes bruscos de luz e áreas de cor achatadas que chamam atenção para a superfície pintada",
+        "e": "a mulher nua aparece de costas para o observador, o que atenuava o desconforto do público diante da cena"
+      },
+      "resposta": "d",
+      "explicacao": "Manet mantém o esquema compositivo herdado do Renascimento e troca o repertório: os personagens são burgueses parisienses reconhecíveis. No tratamento pictórico ele abandona o acabamento acadêmico — luz em contraste brusco, cor achatada, superfície assumida como superfície —, gesto que abre caminho para o impressionismo. É óleo sobre tela, os homens estão vestidos, e a figura feminina encara o espectador."
+    },
+    {
+      "id": "obra-dejeuner-sur-lherbe-q4",
+      "enunciado": "A recepção de \"Le Déjeuner sur l'herbe\" (1863) e a de \"La Rentrée\", de Anita Malfatti, também da lista, permitem uma comparação porque:",
+      "alternativas": {
+        "a": "nos dois casos uma obra formalmente inovadora provocou reação hostil da crítica estabelecida, evidenciando o papel das instituições e da opinião consagrada na definição do que conta como arte legítima",
+        "b": "as duas telas foram recusadas pelo mesmo júri do Salão de Paris, com poucos anos de diferença",
+        "c": "ambas retratam cenas de piquenique burguês ao ar livre, tema recorrente na pintura do século XIX",
+        "d": "as duas pintoras integraram o grupo impressionista francês e expuseram juntas a partir de 1874",
+        "e": "nenhuma das duas gerou controvérsia, tendo sido celebradas pela crítica desde a primeira exibição"
+      },
+      "resposta": "a",
+      "explicacao": "O paralelo é de recepção, não de assunto: em Paris, em 1863, e em São Paulo, em 1917, uma proposta formal nova foi rejeitada pela crítica autorizada, o que mostra como a legitimidade artística depende de instituições e não apenas da obra. Malfatti é brasileira e nunca expôs em salões parisienses, os temas das telas são distintos e ambas as recepções foram polêmicas."
+    },
+    {
+      "id": "obra-dejeuner-sur-lherbe-q5",
+      "enunciado": "O olhar direto da figura feminina nua para fora do quadro é apontado como o elemento que mais escandalizou o público de 1863 porque:",
+      "alternativas": {
+        "a": "revela que a modelo era uma figura mitológica disfarçada, o que a crítica considerou desrespeitoso com a tradição clássica",
+        "b": "indica que a cena se passa à noite, contrariando o título da obra e confundindo o observador",
+        "c": "constitui erro anatômico grosseiro, apontado pelos críticos da Academia como prova da falta de formação do pintor",
+        "d": "demonstra que a personagem observava outro quadro da mesma sala, recurso então inédito na pintura europeia",
+        "e": "em vez de se oferecer passivamente à contemplação, como nas Vênus acadêmicas, ela devolve o olhar e coloca o próprio espectador na posição de ser observado"
+      },
+      "resposta": "e",
+      "explicacao": "A convenção acadêmica oferecia o nu ao olhar sem que a figura respondesse; aqui ela encara o espectador e inverte a relação, tornando visível quem olha. Não há disfarce mitológico — é justamente a falta dele que incomoda —, nem erro anatômico, nem ambientação noturna."
+    }
+  ],
+  "obra-cidade-de-deus": [
+    {
+      "id": "obra-cidade-de-deus-q1",
+      "texto_apoio": "O romance de Paulo Lins, publicado em 1997, nasceu de uma pesquisa antropológica conduzida na própria Cidade de Deus, onde o autor cresceu. Para o filme, Fernando Meirelles e Kátia Lund trabalharam com um elenco majoritariamente formado por jovens moradores de comunidades cariocas, preparados em oficinas de atuação.",
+      "enunciado": "Sobre esse processo de produção, é correto afirmar que:",
+      "alternativas": {
+        "a": "as oficinas de preparação originaram o grupo Nós do Morro e projetos posteriores de formação audiovisual em favelas, e o filme, lançado em 2002, recebeu quatro indicações ao Oscar em 2004",
+        "b": "o roteiro foi escrito antes do romance, que só seria publicado depois do sucesso internacional do filme, em 2002",
+        "c": "o elenco foi integralmente formado por atores profissionais já consagrados, escolha que os diretores justificaram pela complexidade dos papéis",
+        "d": "Paulo Lins dirigiu o filme ao lado de Kátia Lund, tendo Fernando Meirelles atuado apenas como produtor",
+        "e": "o filme venceu o Oscar de melhor filme internacional, tornando-se a primeira produção brasileira premiada na categoria"
+      },
+      "resposta": "a",
+      "explicacao": "O trabalho com jovens de comunidades cariocas em oficinas originou o Nós do Morro e desdobramentos posteriores de formação audiovisual; o filme é de 2002 e teve quatro indicações ao Oscar em 2004 — indicações, não prêmio. O romance de Paulo Lins é anterior (1997), ele não dirigiu o filme, e o Oscar de filme internacional para o Brasil veio com \"Ainda Estou Aqui\", em 2025."
+    },
+    {
+      "id": "obra-cidade-de-deus-q2",
+      "enunciado": "\"Cidade de Deus\" é caso privilegiado para discutir a tensão entre denúncia social e espetacularização da violência porque:",
+      "alternativas": {
+        "a": "o filme evita qualquer estilização, adotando câmera fixa e montagem lenta para não estetizar o sofrimento retratado",
+        "b": "a crítica foi unânime em ler a obra como denúncia, sem que houvesse controvérsia sobre sua linguagem visual",
+        "c": "o filme apresenta o crime como desvio moral individual dos personagens, dispensando qualquer referência à ausência do Estado",
+        "d": "de um lado dá visibilidade a uma população ausente do cinema brasileiro e mostra o crime como efeito de abandono estatal; de outro, a linguagem publicitária e videoclíptica levou parte da crítica a acusá-lo de estetizar o sofrimento e convertê-lo em produto de consumo internacional",
+        "e": "a obra foi produzida fora do Brasil, com equipe estrangeira, o que a impede de participar do debate sobre representação da favela"
+      },
+      "resposta": "d",
+      "explicacao": "É a coexistência das duas leituras que torna o filme incontornável na prova: visibilidade e explicação estrutural da violência de um lado; acusação de estetização e consumo internacional da imagem da periferia de outro. A montagem é acelerada e a câmera móvel, a crítica foi dividida, o crime aparece como resultado de abandono e a produção é brasileira."
+    },
+    {
+      "id": "obra-cidade-de-deus-q3",
+      "enunciado": "Sobre a estrutura narrativa do filme, é correto afirmar que:",
+      "alternativas": {
+        "a": "a narração é feita por Zé Pequeno, que relata em flashback sua ascensão no controle do tráfico local",
+        "b": "a história se concentra em um único ano, o de 1980, sem qualquer recuo temporal",
+        "c": "Mané Galinha é o chefe do tráfico desde o início do filme, e Bené é quem o desafia pelo controle do conjunto habitacional",
+        "d": "Buscapé abandona a fotografia para integrar o grupo de Zé Pequeno na segunda metade do filme",
+        "e": "a narração é de Buscapé, morador que sonha em ser fotógrafo e atravessa a história como observador, acompanhando três décadas de formação do crime organizado no conjunto habitacional"
+      },
+      "resposta": "e",
+      "explicacao": "Buscapé narra e observa sem se envolver diretamente com o crime, e é essa posição que permite ao filme cobrir dos anos 1960 aos 1980. Dadinho é quem se torna Zé Pequeno e assume o tráfico; Bené é a figura conciliadora cuja morte precipita a guerra; Mané Galinha é trabalhador que pega em armas depois de sofrer violência dos homens de Zé Pequeno."
+    },
+    {
+      "id": "obra-cidade-de-deus-q4",
+      "enunciado": "\"Cidade de Deus\" e \"Que Horas Ela Volta?\", de Anna Muylaert, também da lista, tratam da desigualdade brasileira de formas distintas. Sobre essa comparação, é correto afirmar que:",
+      "alternativas": {
+        "a": "os dois filmes adotam a mesma linguagem acelerada e a mesma estrutura de narração em primeira pessoa",
+        "b": "\"Cidade de Deus\" situa o conflito no território da favela e na violência do tráfico, enquanto \"Que Horas Ela Volta?\" o desloca para dentro da casa da classe média, onde a hierarquia social se manifesta em regras de convivência e no uso dos espaços",
+        "c": "ambos foram indicados ao Oscar de melhor filme internacional no mesmo ano e disputaram a premiação entre si",
+        "d": "nenhum dos dois se ocupa de desigualdade social, tratando apenas de conflitos familiares sem dimensão de classe",
+        "e": "\"Que Horas Ela Volta?\" é anterior a \"Cidade de Deus\" e influenciou diretamente sua concepção visual"
+      },
+      "resposta": "b",
+      "explicacao": "Os dois filmes recortam a mesma desigualdade em escalas diferentes: a violência armada no território segregado, em Meirelles e Lund; a hierarquia doméstica cotidiana — quem usa a piscina, quem come na cozinha —, em Muylaert. As linguagens são distintas, \"Que Horas Ela Volta?\" é de 2015, portanto posterior, e não houve disputa comum no Oscar."
+    },
+    {
+      "id": "obra-cidade-de-deus-q5",
+      "enunciado": "A sequência em que a câmera acompanha a sucessão de donos de um mesmo apartamento usado para o tráfico, condensando anos em poucos minutos, é significativa porque:",
+      "alternativas": {
+        "a": "demonstra que o tráfico local foi desarticulado pela ação policial ao longo das três décadas retratadas",
+        "b": "serve apenas como transição técnica entre dois atos, sem carga interpretativa relevante para o filme",
+        "c": "mostra como o filme organiza o tempo: a violência aparece como engrenagem que se repete e substitui indivíduos, e não como escolha de um ou outro personagem",
+        "d": "identifica o responsável individual pela origem do crime organizado no conjunto habitacional",
+        "e": "revela que os moradores do apartamento eram todos parentes entre si, o que explicaria a continuidade do tráfico"
+      },
+      "resposta": "c",
+      "explicacao": "Ao trocar de ocupante sem que a função do espaço mude, a sequência mostra que o lugar sobrevive às pessoas: os indivíduos são intercambiáveis dentro de uma engrenagem que se reproduz. Não há desarticulação do tráfico, nem culpado único, nem laço de parentesco — e a cena é justamente uma das mais carregadas de sentido do filme."
+    }
+  ],
+  "obra-ainda-estou-aqui": [
+    {
+      "id": "obra-ainda-estou-aqui-q1",
+      "enunciado": "Sobre o caso real que o filme de Walter Salles reconstitui, é correto afirmar que:",
+      "alternativas": {
+        "a": "Rubens Paiva foi preso em 1964, no dia do golpe militar, e libertado poucos meses depois, tendo vivido no exterior até 1979",
+        "b": "o corpo de Rubens Paiva foi devolvido à família ainda na década de 1970, o que permitiu a emissão imediata do atestado de óbito",
+        "c": "o livro de memórias que originou o filme foi escrito pela própria Eunice Paiva e publicado postumamente em 2015",
+        "d": "os agentes envolvidos no caso foram julgados e condenados na década de 1990, após a revisão da Lei de Anistia pelo Supremo Tribunal Federal",
+        "e": "Rubens Paiva, engenheiro e ex-deputado federal cassado em 1964, foi preso em janeiro de 1971 e morto sob tortura sem que o corpo fosse entregue; o atestado de óbito só saiu em 1996, e a responsabilização segue bloqueada pela interpretação dada à Lei de Anistia de 1979"
+      },
+      "resposta": "e",
+      "explicacao": "Cassado em 1964, Rubens Paiva foi preso em janeiro de 1971 e morto sob tortura; o corpo nunca foi entregue e o atestado de óbito só veio em 1996. A responsabilização permanece obstruída pela leitura dada à Lei de Anistia de 1979 — não houve julgamento nem condenação. O livro de memórias é de Marcelo Rubens Paiva, filho do casal, publicado em 2015."
+    },
+    {
+      "id": "obra-ainda-estou-aqui-q2",
+      "enunciado": "Ao escolher o ponto de vista de Eunice Paiva, e não o do preso político, o filme desloca a memória da ditadura porque:",
+      "alternativas": {
+        "a": "atribui a responsabilidade pelo desaparecimento à própria família, que teria deixado de procurar as autoridades competentes",
+        "b": "trata o desaparecimento forçado como episódio encerrado em 1971, sem desdobramentos posteriores na vida familiar",
+        "c": "tira o foco da figura heroica do militante e o coloca no cotidiano de quem precisa seguir vivendo sem resposta, apresentando o desaparecimento como ausência que se prolonga por décadas",
+        "d": "substitui a discussão sobre justiça de transição por uma reflexão sobre a modernização econômica do país nos anos 1970",
+        "e": "adota o ponto de vista dos agentes do Estado, buscando compreender as razões institucionais da repressão"
+      },
+      "resposta": "c",
+      "explicacao": "O filme acompanha quem fica: a detenção da própria Eunice e dos filhos, o silêncio oficial e a reconstrução da vida sob uma ausência que o Estado se recusa a reconhecer. É esse prolongamento — até a certidão de óbito de 1996 — que sustenta a discussão sobre memória, verdade e reparação, e não uma transferência de culpa nem o ponto de vista da repressão."
+    },
+    {
+      "id": "obra-ainda-estou-aqui-q3",
+      "enunciado": "Sobre a construção do filme e sua repercussão, é correto afirmar que:",
+      "alternativas": {
+        "a": "a primeira parte retrata a vida familiar no Rio de Janeiro de forma deliberadamente luminosa e cotidiana, para que a irrupção da violência de Estado se dê contra esse fundo de normalidade; Eunice é vivida por Fernanda Torres, premiada com o Globo de Ouro de melhor atriz em drama",
+        "b": "o filme adota do início ao fim uma estética sombria e claustrofóbica, evitando qualquer cena de convívio familiar antes da prisão",
+        "c": "Eunice Paiva é personagem ficcional criada para o roteiro, sem correspondente na história real do caso",
+        "d": "a narrativa se encerra em 1971, no momento da prisão, sem acompanhar os anos seguintes da família",
+        "e": "o filme foi produzido nos Estados Unidos, com elenco norte-americano, e concorreu ao Oscar como produção estrangeira"
+      },
+      "resposta": "a",
+      "explicacao": "O contraste é deliberado: a luminosidade da vida familiar torna mais violenta a irrupção do Estado, e o filme segue por décadas, até a formação de Eunice em Direito e sua atuação em causas de direitos humanos e indígenas. Fernanda Torres levou o Globo de Ouro e o filme, brasileiro, venceu o Oscar de melhor filme internacional em 2025. Eunice Paiva existiu."
+    },
+    {
+      "id": "obra-ainda-estou-aqui-q4",
+      "enunciado": "\"Ainda Estou Aqui\" e \"Cabra Marcado para Morrer\", de Eduardo Coutinho, também da lista, tratam da ditadura militar brasileira. Sobre a comparação, é correto afirmar que:",
+      "alternativas": {
+        "a": "os dois são documentários que reconstroem, com material de arquivo, a repressão a movimentos camponeses no Nordeste",
+        "b": "nenhum dos dois se ocupa da ditadura, tratando apenas de conflitos familiares sem dimensão política",
+        "c": "ambos foram lançados durante o regime militar e sofreram censura prévia, só chegando ao público após 1985",
+        "d": "\"Cabra Marcado para Morrer\" é documentário e traz para dentro do filme a própria interrupção causada pelo golpe de 1964, ao retomar décadas depois uma filmagem suspensa; \"Ainda Estou Aqui\" é ficção e reconstrói um caso real de desaparecimento forçado a partir de quem ficou",
+        "e": "os dois filmes foram dirigidos por Walter Salles em momentos distintos de sua carreira"
+      },
+      "resposta": "d",
+      "explicacao": "São regimes narrativos diferentes diante da mesma história: Coutinho faz documentário e incorpora ao filme a própria ruptura de 1964, retomando anos depois um trabalho interrompido; Salles faz ficção sobre um caso real, narrado do ponto de vista da família do desaparecido. \"Ainda Estou Aqui\" é de 2024, portanto muito posterior ao regime, e os diretores são distintos."
+    },
+    {
+      "id": "obra-ainda-estou-aqui-q5",
+      "enunciado": "A decisão de Eunice de posar com os filhos para uma fotografia de revista sorrindo, em vez de aparecer de luto, é um dos gestos mais comentados do filme porque:",
+      "alternativas": {
+        "a": "demonstra que a família havia superado o desaparecimento e desejava encerrar publicamente o assunto",
+        "b": "recusar a imagem da viúva conformada é, ali, uma forma de afirmar publicamente que não há morte reconhecida a ser chorada, e sim um crime de Estado a ser cobrado",
+        "c": "indica que Eunice acreditava que o marido continuava vivo e retornaria em breve, hipótese confirmada ao final do filme",
+        "d": "revela a intenção da personagem de se afastar da vida pública e evitar qualquer exposição na imprensa",
+        "e": "atende a uma exigência da própria revista, que se recusava a publicar imagens de famílias de presos políticos"
+      },
+      "resposta": "b",
+      "explicacao": "O luto pressuporia uma morte reconhecida — exatamente o que o Estado se recusava a admitir. Ao não posar como viúva, Eunice mantém pública a exigência de resposta: o que há é um desaparecimento não reconhecido, e não um óbito a ser lamentado. O gesto é de exposição deliberada, não de recolhimento, e não indica superação nem expectativa de retorno."
+    }
+  ],
+  "obra-tar": [
+    {
+      "id": "obra-tar-q1",
+      "texto_apoio": "Lançado em 2022, \"Tár\" surge no rastro do movimento MeToo, iniciado em 2017, e de discussões sobre a persistente sub-representação de mulheres na regência de grandes orquestras.",
+      "enunciado": "Sobre esse contexto e a concepção do filme, é correto afirmar que:",
+      "alternativas": {
+        "a": "o filme é uma biografia autorizada da primeira mulher a reger a Filarmônica de Berlim, produzida com colaboração da própria maestrina",
+        "b": "o roteiro foi escrito por Todd Field tendo Cate Blanchett em mente, e a atriz preparou-se estudando regência e piano para o papel",
+        "c": "o filme antecede o movimento MeToo e é apontado como uma de suas influências diretas no debate sobre instituições culturais",
+        "d": "a protagonista é apresentada como regente de uma orquestra popular, e não de uma orquestra sinfônica europeia",
+        "e": "Cate Blanchett recusou o papel inicialmente, tendo a personagem sido interpretada por uma maestrina profissional sem experiência em cinema"
+      },
+      "resposta": "b",
+      "explicacao": "Field escreveu o roteiro para Blanchett, que se preparou estudando regência e piano — parte do que produz a verossimilhança do filme. Não há biografia autorizada porque não há biografada real; o filme é de 2022, posterior ao MeToo de 2017; e a personagem é apresentada como regente da Filarmônica de Berlim."
+    },
+    {
+      "id": "obra-tar-q2",
+      "enunciado": "\"Tár\" é material direto para discutir poder, abuso e responsabilização em instituições culturais porque o filme:",
+      "alternativas": {
+        "a": "recusa a posição confortável: constrói uma protagonista brilhante e sedutora, mostra o dano que ela causa e, ao mesmo tempo, expõe a violência do julgamento público baseado em fragmentos descontextualizados",
+        "b": "apresenta a protagonista como vítima inocente de uma acusação inteiramente falsa, defendendo que nenhuma responsabilização é legítima",
+        "c": "condena a personagem desde a primeira cena, sem lhe conceder qualquer atributo positivo, de modo a não gerar ambiguidade no espectador",
+        "d": "trata o assédio no meio musical como problema exclusivamente jurídico, resolvido pelos tribunais ao final da narrativa",
+        "e": "defende que obra e autor devem ser sempre separados, encerrando o debate sobre mérito artístico e assimetria de poder"
+      },
+      "resposta": "a",
+      "explicacao": "A força do filme está em sustentar as duas coisas ao mesmo tempo: o dano real que a protagonista causa a quem depende dela e a violência de um julgamento montado sobre recortes fora de contexto. Essa ambiguidade é o que permite discutir separação entre obra e autor sem que o filme decida a questão — e o processo que a derruba é público, não judicial."
+    },
+    {
+      "id": "obra-tar-q3",
+      "enunciado": "Sobre Lydia Tár, é correto afirmar que:",
+      "alternativas": {
+        "a": "foi a primeira mulher a reger de fato a Filarmônica de Berlim, cargo que ocupou entre 2013 e 2020",
+        "b": "é maestrina austríaca cuja trajetória foi reconstruída pelo filme com autorização de sua família",
+        "c": "existiu e teve carreira interrompida por um processo judicial nos anos 1990, retomado pelo roteiro de Todd Field",
+        "d": "é personagem inteiramente ficcional, embora a verossimilhança do filme — entrevistas, vocabulário técnico, referências a maestros reais — tenha levado parte do público a tomá-la por figura histórica",
+        "e": "é a versão ficcional de uma regente brasileira, cuja identidade foi preservada por acordo com a produção"
+      },
+      "resposta": "d",
+      "explicacao": "Lydia Tár não existiu. O filme constrói a ilusão do contrário com uma longa entrevista pública inicial, vocabulário técnico preciso e referências a maestros reais, e parte do público de fato a tomou por personagem histórica — confusão que a banca pode explorar diretamente."
+    },
+    {
+      "id": "obra-tar-q4",
+      "enunciado": "\"Tár\" e \"Arte\", de Yasmina Reza, também da lista, tomam o meio artístico como objeto. A comparação permite observar que:",
+      "alternativas": {
+        "a": "as duas obras defendem que o valor de uma obra de arte é objetivo e independe das relações sociais entre quem a julga",
+        "b": "ambas são filmes sobre música erudita, diferindo apenas quanto ao período histórico retratado",
+        "c": "\"Arte\" é peça teatral e usa a discussão sobre um quadro para expor as hierarquias e os ressentimentos dentro de um grupo de amigos, enquanto \"Tár\" é filme e examina como a autoridade artística se converte em poder sobre pessoas dentro de uma instituição",
+        "d": "nenhuma das duas trata de julgamento estético, concentrando-se em conflitos amorosos entre os protagonistas",
+        "e": "as duas foram escritas pela mesma autora, em momentos distintos de sua carreira"
+      },
+      "resposta": "c",
+      "explicacao": "As duas mostram que o julgamento sobre arte é inseparável das relações de poder e afeto entre quem julga: em Reza, no plano da amizade e do gosto declarado; em Field, no plano institucional, onde o prestígio artístico vira autoridade sobre carreiras. \"Arte\" é teatro e \"Tár\" é cinema, e as autorias são distintas."
+    },
+    {
+      "id": "obra-tar-q5",
+      "enunciado": "A longa cena em que Tár humilha um aluno numa aula magistral, ridicularizando sua recusa em reger Bach por razões identitárias, é apontada como o eixo moral do filme porque:",
+      "alternativas": {
+        "a": "encerra a discussão a favor do aluno, demonstrando que a protagonista não tinha argumentos consistentes a apresentar",
+        "b": "é a única cena do filme em que a protagonista aparece fora do ambiente institucional da orquestra",
+        "c": "mostra que a personagem havia abandonado a docência anos antes, o que torna o episódio uma projeção imaginária",
+        "d": "apresenta a aula como espaço neutro, em que professor e aluno dispõem dos mesmos recursos para sustentar suas posições",
+        "e": "filmada em plano contínuo, dá razões plausíveis à protagonista e ao mesmo tempo mostra o peso do poder que ela exerce sobre alguém sem meios de responder — e é justamente essa cena que, recortada, servirá para destruí-la"
+      },
+      "resposta": "e",
+      "explicacao": "O plano contínuo impede o corte que daria razão a um dos lados: o espectador ouve os argumentos dela e vê, ao mesmo tempo, a assimetria brutal da situação. A cena é o eixo moral porque é também o instrumento da queda — editada em fragmentos, circula como prova contra a protagonista. A aula não é espaço neutro, e é justamente isso que está em jogo."
+    }
+  ],
+  "obra-o-tempo-nao-para": [
+    {
+      "id": "obra-o-tempo-nao-para-q1",
+      "enunciado": "Sobre o contexto de lançamento de \"O Tempo Não Para\", é correto afirmar que:",
+      "alternativas": {
+        "a": "o álbum foi lançado em 1985, ano em que Cazuza ainda integrava o Barão Vermelho, do qual sairia apenas na década seguinte",
+        "b": "a canção foi composta durante o exílio do artista na Europa, para onde fora após a decretação do AI-5",
+        "c": "o disco é de 1978 e antecede a Lei da Anistia, o que explica o uso de linguagem cifrada na letra",
+        "d": "o álbum é de 1988, ano da promulgação da Constituição Cidadã e véspera da primeira eleição presidencial direta desde 1960; Cazuza havia deixado o Barão Vermelho em 1985 para seguir carreira solo e morreu em 1990, aos 32 anos",
+        "e": "a canção foi lançada postumamente, em 1991, a partir de gravações inacabadas encontradas após a morte do artista"
+      },
+      "resposta": "d",
+      "explicacao": "O disco é de 1988, mesmo ano da Constituição, com a eleição direta de 1989 no horizonte; Cazuza saíra do Barão Vermelho em 1985 e morreria em julho de 1990. Não houve exílio, nem lançamento póstumo, nem data anterior à anistia."
+    },
+    {
+      "id": "obra-o-tempo-nao-para-q2",
+      "enunciado": "No eixo modernidade/pós-modernidade, a canção é mobilizada porque:",
+      "alternativas": {
+        "a": "celebra a redemocratização como ruptura completa com as estruturas de poder do regime anterior",
+        "b": "defende o retorno ao regime militar como resposta à crise econômica do final dos anos 1980",
+        "c": "trata exclusivamente da vida privada do compositor, sem qualquer referência ao momento político do país",
+        "d": "apresenta a globalização financeira como única causa dos problemas brasileiros, isentando a política nacional",
+        "e": "documenta a frustração que acompanhou a transição democrática, expressando a desconfiança de que a mudança institucional não alteraria as estruturas de poder — distância entre modernização formal e permanência de práticas antigas"
+      },
+      "resposta": "e",
+      "explicacao": "A letra é contemporânea da Constituição de 1988 e desconfia dela: o eu lírico vê o futuro repetir o passado, o que expressa a percepção de que a mudança das regras não muda quem manda. É esse descompasso entre forma nova e conteúdo antigo que interessa ao eixo — não celebração, nem nostalgia autoritária, nem recorte apenas privado."
+    },
+    {
+      "id": "obra-o-tempo-nao-para-q3",
+      "enunciado": "Sobre a canção e o artista, é correto afirmar que:",
+      "alternativas": {
+        "a": "é faixa de um álbum coletivo do Barão Vermelho, sem indicação de autoria individual",
+        "b": "foi composta integralmente por Arnaldo Brandão, tendo Cazuza atuado apenas como intérprete",
+        "c": "é a faixa-título do álbum lançado em 1988, composta por Cazuza com Arnaldo Brandão, e ganhou uma segunda camada de leitura por ter sido gravada quando o artista já convivia publicamente com o diagnóstico de aids",
+        "d": "a condição de saúde do artista só se tornou pública após sua morte, em 1990, sem repercussão sobre a recepção da canção",
+        "e": "a canção nunca foi lançada em álbum, tendo circulado apenas em apresentações ao vivo"
+      },
+      "resposta": "c",
+      "explicacao": "É a faixa-título do disco de 1988, parceria de Cazuza com Arnaldo Brandão. Como o artista já vivia publicamente com o diagnóstico de aids, a urgência diante do tempo deixou de ser só metáfora política e passou a ser lida também em chave biográfica — sua condição era pública em vida e acompanhada de perto pela imprensa."
+    },
+    {
+      "id": "obra-o-tempo-nao-para-q4",
+      "enunciado": "\"O Tempo Não Para\" (1988) e \"Que País é Esse?\", da Legião Urbana, são frequentemente aproximadas porque:",
+      "alternativas": {
+        "a": "as duas expressam o desencanto com a redemocratização brasileira em seu próprio momento, apontando a permanência de práticas antigas sob instituições renovadas",
+        "b": "ambas foram compostas durante o regime militar e censuradas pelo DIP, só podendo circular após 1985",
+        "c": "as duas canções celebram o processo de abertura política e a eficácia das novas instituições democráticas",
+        "d": "ambas foram gravadas pelo mesmo artista, em discos lançados com um ano de diferença",
+        "e": "nenhuma das duas trata de política, sendo composições exclusivamente amorosas do período"
+      },
+      "resposta": "a",
+      "explicacao": "As duas são do fim dos anos 1980 e recusam o tom celebratório da transição: apontam corrupção, desigualdade e continuidade das elites sob o regime novo. São de artistas diferentes, não celebram a abertura e o DIP é órgão do Estado Novo, muito anterior."
+    },
+    {
+      "id": "obra-o-tempo-nao-para-q5",
+      "enunciado": "A imagem do país como um museu de grandes novidades, presente na letra, resume a ironia central da canção porque descreve:",
+      "alternativas": {
+        "a": "um país que investiu maciçamente em equipamentos culturais durante a redemocratização, ao contrário do que ocorrera no regime anterior",
+        "b": "um lugar onde o novo é imediatamente transformado em peça de exposição, admirada e inofensiva, em vez de produzir mudança real — leitura que a canção aplica tanto à política quanto à indústria cultural que a consome",
+        "c": "a preferência do eu lírico pelo passado, apresentado como período preferível ao presente democrático",
+        "d": "o atraso tecnológico brasileiro frente aos países centrais, tema principal da letra",
+        "e": "a ausência de museus e instituições de memória no Brasil do final dos anos 1980"
+      },
+      "resposta": "b",
+      "explicacao": "A ironia está em juntar \"museu\" e \"novidades\": o que deveria transformar vira peça exposta, contemplada e neutralizada. A imagem serve tanto à política — mudanças que se tornam vitrine sem alterar nada — quanto à própria indústria cultural que absorve a crítica e a vende. Não há elogio ao passado nem tema de atraso tecnológico."
+    }
+  ],
+  "obra-disseram-que-voltei-americanizada": [
+    {
+      "id": "obra-disseram-que-voltei-americanizada-q1",
+      "texto_apoio": "Carmen Miranda já era a maior estrela do rádio brasileiro quando partiu para os Estados Unidos em 1939. Ao voltar ao Brasil em 1940 e se apresentar no Cassino da Urca, foi recebida com frieza por parte da plateia da elite carioca.",
+      "enunciado": "Esse episódio é relevante para a canção porque:",
+      "alternativas": {
+        "a": "levou a artista a se afastar definitivamente da música brasileira e a gravar apenas em inglês a partir daquele ano",
+        "b": "demonstra que a cantora havia perdido popularidade no rádio brasileiro antes mesmo de viajar aos Estados Unidos",
+        "c": "motivou a gravação do samba, que funciona como peça de defesa pública em resposta às acusações de que ela teria se descaracterizado ao fazer sucesso no exterior",
+        "d": "comprova que a artista nasceu nos Estados Unidos e por isso nunca foi reconhecida como brasileira pelo público",
+        "e": "resultou na proibição de suas apresentações no Brasil durante toda a década de 1940"
+      },
+      "resposta": "c",
+      "explicacao": "A recepção fria no Cassino da Urca, em 1940, é a origem direta da canção: o samba responde em público à cobrança de autenticidade que lhe era feita. Carmen Miranda nasceu em Portugal e foi criada no Rio de Janeiro, seguiu gravando em português e não foi proibida de se apresentar — ao contrário, tornou-se a artista latino-americana mais bem paga de Hollywood na década seguinte."
+    },
+    {
+      "id": "obra-disseram-que-voltei-americanizada-q2",
+      "enunciado": "A canção é caso exemplar do eixo globalização porque mostra:",
+      "alternativas": {
+        "a": "uma artista estrangeira que se estabelece no Brasil e é acolhida sem qualquer resistência pelo público local",
+        "b": "uma artista brasileira convertida em produto cultural de exportação, moldada pelo mercado norte-americano — que a transformou em estereótipo latino genérico — e depois cobrada, em seu país, por essa mesma transformação",
+        "c": "que a circulação internacional de bens culturais ocorre em condições simétricas, com igual poder de definição entre os países envolvidos",
+        "d": "que a indústria cultural norte-americana preservou integralmente as características regionais da artista, sem qualquer adaptação",
+        "e": "que a noção de autenticidade cultural é objetiva e pode ser medida sem controvérsia por critérios técnicos"
+      },
+      "resposta": "b",
+      "explicacao": "O caso expõe a assimetria: o mercado norte-americano remodela a artista num estereótipo latino genérico — turbante de frutas, sotaque acentuado — e o Brasil a cobra pela transformação que não foi ela quem definiu. É justamente por isso que a noção de autenticidade aparece como problema político: quem decide o que é ser suficientemente brasileira, e a serviço de quem."
+    },
+    {
+      "id": "obra-disseram-que-voltei-americanizada-q3",
+      "enunciado": "Sobre a canção e seu contexto de produção, é correto afirmar que:",
+      "alternativas": {
+        "a": "trata-se de uma marchinha de carnaval composta pela própria Carmen Miranda em parceria com Vicente Paiva",
+        "b": "é uma canção norte-americana traduzida para o português, gravada pela artista a pedido do estúdio de Hollywood",
+        "c": "foi gravada em 1939, antes da primeira viagem da artista aos Estados Unidos, como despedida do público brasileiro",
+        "d": "a ida da artista aos Estados Unidos ocorreu à revelia do governo brasileiro, que a considerava representante inadequada do país",
+        "e": "é um samba composto por Vicente Paiva e Luiz Peixoto, gravado em 1940, no contexto da política da Boa Vizinhança entre Estados Unidos e América Latina"
+      },
+      "resposta": "e",
+      "explicacao": "O samba é de Vicente Paiva e Luiz Peixoto e foi gravado em 1940, logo após o retorno da primeira temporada nos Estados Unidos — viagem que coincide com a política da Boa Vizinhança, pela qual o governo norte-americano buscava aproximação cultural com a América Latina no contexto da Segunda Guerra. Não é composição da intérprete, nem versão de canção estrangeira, nem anterior à viagem."
+    },
+    {
+      "id": "obra-disseram-que-voltei-americanizada-q4",
+      "enunciado": "A canção pode ser aproximada do \"Manifesto Antropófago\", de Oswald de Andrade, também da lista, porque as duas:",
+      "alternativas": {
+        "a": "tratam da relação entre cultura brasileira e influência estrangeira, ainda que o manifesto proponha a devoração ativa do que vem de fora como método de criação, enquanto a canção reage à acusação de ter sido devorada pelo mercado externo",
+        "b": "defendem o isolamento cultural do Brasil e a recusa integral de qualquer elemento vindo do exterior",
+        "c": "foram produzidas no mesmo ano e integraram o mesmo movimento artístico organizado",
+        "d": "sustentam que a cultura brasileira não possui traços próprios e deve ser inteiramente substituída por modelos europeus",
+        "e": "são textos teóricos sem circulação popular, dirigidos exclusivamente a um público acadêmico"
+      },
+      "resposta": "a",
+      "explicacao": "As duas obras enfrentam a mesma questão pela via oposta: Oswald propõe deglutir criticamente o estrangeiro para produzir algo próprio; a canção responde de dentro de uma situação em que foi a artista quem foi absorvida e remodelada pelo mercado estrangeiro. O manifesto é de 1928 e a canção de 1940, e nenhuma das duas defende isolamento nem submissão cultural."
+    },
+    {
+      "id": "obra-disseram-que-voltei-americanizada-q5",
+      "enunciado": "O momento em que a letra enumera os elementos brasileiros que a cantora afirma não ter abandonado funciona como:",
+      "alternativas": {
+        "a": "confissão de que a artista havia de fato rompido com a cultura brasileira durante a temporada no exterior",
+        "b": "descrição objetiva do repertório musical gravado por ela nos Estados Unidos entre 1939 e 1940",
+        "c": "pedido de desculpas dirigido à plateia do Cassino da Urca, encerrando a polêmica sobre sua imagem pública",
+        "d": "inventário irônico de autenticidade: ao precisar listar provas de brasilidade, a canção expõe o caráter arbitrário da cobrança que lhe é feita",
+        "e": "homenagem à política da Boa Vizinhança e ao papel diplomático que a artista desempenhava no exterior"
+      },
+      "resposta": "d",
+      "explicacao": "A ironia está na própria necessidade da lista: se é preciso enumerar provas de que se continua brasileira, a cobrança já se revelou arbitrária — não há critério estável para o que basta. A canção não confessa ruptura nem pede desculpas; rebate a acusação e a devolve a quem a formulou."
+    }
+  ],
+  "obra-everybody-knows": [
+    {
+      "id": "obra-everybody-knows-q1",
+      "enunciado": "Sobre Leonard Cohen e o álbum em que \"Everybody Knows\" foi lançada, é correto afirmar que:",
+      "alternativas": {
+        "a": "Cohen era poeta e romancista canadense antes de se tornar cantor, e \"I'm Your Man\" (1988) marcou sua reinvenção estética, com uso intenso de sintetizadores e vocais femininos de apoio; a canção foi escrita em parceria com Sharon Robinson",
+        "b": "Cohen era músico de formação clássica norte-americana e o álbum de 1988 foi seu trabalho de estreia na carreira fonográfica",
+        "c": "a canção foi composta individualmente por Sharon Robinson e apenas interpretada por Cohen, que não participou da autoria",
+        "d": "\"I'm Your Man\" representou um retorno do artista à instrumentação acústica de seus primeiros discos, abandonando qualquer recurso eletrônico",
+        "e": "a canção permaneceu inédita até a morte do artista, em 2016, quando foi lançada em coletânea póstuma"
+      },
+      "resposta": "a",
+      "explicacao": "Cohen publicou poesia e romance antes de gravar, e \"I'm Your Man\" (1988) é justamente o disco da virada eletrônica que reabilitou sua carreira comercial. \"Everybody Knows\" é parceria com Sharon Robinson, colaboradora frequente do artista, e ganhou ampla circulação em cinema e televisão nas décadas seguintes — não é inédita nem póstuma."
+    },
+    {
+      "id": "obra-everybody-knows-q2",
+      "enunciado": "A canção é útil para discutir o esgotamento das grandes narrativas e o cinismo como disposição contemporânea porque o problema que ela formula é:",
+      "alternativas": {
+        "a": "a ignorância generalizada da população sobre as injustiças econômicas de seu tempo",
+        "b": "a dificuldade técnica de obter informação confiável sobre a distribuição de renda nos países centrais",
+        "c": "a ocultação deliberada da verdade por parte de governos e empresas, que a canção se propõe a denunciar",
+        "d": "o conhecimento sem ação — todos sabem, e nada muda —, figura que antecipa debates atuais sobre desinformação em uma chave menos óbvia: o obstáculo não seria apenas a mentira, mas a naturalização do que já se sabe ser injusto",
+        "e": "a impossibilidade de qualquer juízo moral sobre fatos sociais, dado que toda avaliação seria puramente subjetiva"
+      },
+      "resposta": "d",
+      "explicacao": "A canção não revela segredo nenhum: ela constata que as injustiças são de conhecimento comum e mesmo assim toleradas. O deslocamento é esse — do problema da mentira para o do saber que não produz consequência —, e é por isso que a ausência de indignação no tom é efeito buscado, e não descuido."
+    },
+    {
+      "id": "obra-everybody-knows-q3",
+      "enunciado": "Sobre a construção formal de \"Everybody Knows\", é correto afirmar que:",
+      "alternativas": {
+        "a": "a letra é estruturada como diálogo entre duas personagens que discordam sobre a interpretação dos fatos narrados",
+        "b": "a letra se organiza pela repetição da fórmula \"todo mundo sabe\", que encadeia uma enumeração em tom de constatação resignada",
+        "c": "a canção abandona a estrutura de refrão e adota forma livre, sem qualquer elemento recorrente",
+        "d": "o texto é construído como sequência de perguntas dirigidas ao ouvinte, que permanecem sem resposta ao final",
+        "e": "a letra alterna trechos em inglês e em francês, refletindo a origem canadense do compositor"
+      },
+      "resposta": "b",
+      "explicacao": "A fórmula repetida é o próprio motor do texto: cada retomada acrescenta um item à lista do que é sabido e tolerado, e a acumulação — sempre no mesmo tom — é o que produz o efeito de resignação. Não há diálogo, interrogação nem alternância de idiomas."
+    },
+    {
+      "id": "obra-everybody-knows-q4",
+      "enunciado": "Comparando \"Everybody Knows\" com \"1984\", de George Orwell, também da lista, é correto afirmar que:",
+      "alternativas": {
+        "a": "as duas obras descrevem regimes totalitários explícitos, em que a informação é controlada por um aparato estatal centralizado",
+        "b": "ambas defendem que o acesso à informação, por si só, é suficiente para produzir transformação política",
+        "c": "nenhuma das duas se ocupa da relação entre verdade e poder, tratando apenas de conflitos individuais",
+        "d": "as duas foram produzidas no mesmo contexto histórico, no imediato pós-Segunda Guerra",
+        "e": "em \"1984\" o obstáculo é a falsificação da verdade por um poder que reescreve o passado, enquanto na canção a verdade está disponível e mesmo assim não gera consequência — duas formas distintas de neutralizar o conhecimento"
+      },
+      "resposta": "e",
+      "explicacao": "Orwell imagina um poder que produz a mentira e apaga o registro do passado; Cohen descreve uma situação em que ninguém precisa mentir, porque saber já não obriga a nada. A canção é de 1988, o romance de 1949, e ambas tratam centralmente da relação entre verdade e poder — por caminhos opostos."
+    },
+    {
+      "id": "obra-everybody-knows-q5",
+      "enunciado": "A passagem em que a canção desloca a enumeração das injustiças econômicas e políticas para a traição amorosa doméstica, sem mudar o tom nem o ritmo, é apontada como o achado central do texto porque:",
+      "alternativas": {
+        "a": "estabelece que os problemas privados são mais graves que os públicos e devem ter prioridade na atenção do ouvinte",
+        "b": "indica uma mudança de gênero musical no interior da canção, que passa da crítica social à balada romântica",
+        "c": "coloca no mesmo plano o escândalo público e o privado, sugerindo que ambos são sustentados pela mesma cumplicidade silenciosa",
+        "d": "revela que a letra tratava desde o início apenas de uma relação amorosa, sendo as referências sociais meras metáforas",
+        "e": "rompe a estrutura de repetição que organizava a canção até aquele ponto, marcando seu encerramento"
+      },
+      "resposta": "c",
+      "explicacao": "A continuidade de tom é o argumento: ao listar a traição íntima com a mesma naturalidade com que listou o jogo viciado, a canção sugere que o mecanismo é o mesmo — todos sabem e ninguém enfrenta. Não há hierarquia entre as esferas, nem mudança de gênero, nem quebra da estrutura de repetição."
+    }
+  ]
 };

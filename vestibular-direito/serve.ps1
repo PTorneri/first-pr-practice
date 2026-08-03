@@ -1,5 +1,7 @@
 $root = $PSScriptRoot
-$port = 8843
+# 8843 continua sendo o padrao; a variavel PORT existe pra poder subir uma
+# segunda instancia sem brigar com a que ja estiver rodando na porta fixa.
+$port = if ($env:PORT) { [int]$env:PORT } else { 8843 }
 $listener = New-Object System.Net.HttpListener
 $listener.Prefixes.Add("http://localhost:$port/")
 $listener.Start()

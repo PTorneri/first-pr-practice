@@ -24643,6 +24643,383 @@ window.QUESTION_BANKS = {
                                     "formato":  "direta"
                                 }
                             ],
+    "literatura":  [
+                       {
+                           "id":  "literatura-01",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"E Jerônimo não aparecia. Ela ergueu-se finalmente, foi lá fora ao capinzal, pôs-se a andar agitada, falando sozinha, a gesticular forte. E nos seus movimentos de desespero, quando levantava para o céu os punhos fechados, dir-se-ia que não era contra o marido que se revoltava, mas sim contra aquela amaldiçoada luz alucinadora, contra aquele sol crapuloso, que fazia ferver o sangue aos homens.\" (Aluísio Azevedo, O Cortiço)",
+                           "enunciado":  "No trecho, a revolta da personagem é deslocada do marido para o clima. Esse deslocamento é a marca de qual concepção, central no Naturalismo?",
+                           "alternativas":  {
+                                                "a":  "O subjetivismo simbolista, que dissolve o mundo exterior nas impressões íntimas do eu",
+                                                "b":  "A crítica religiosa, que atribui a uma punição divina o sofrimento das personagens pobres",
+                                                "c":  "O nacionalismo ufanista, que exalta a natureza tropical como símbolo positivo da identidade brasileira",
+                                                "d":  "A idealização do amor romântico, que preserva a figura do amado de qualquer culpa",
+                                                "e":  "O determinismo, segundo o qual o meio físico age sobre o comportamento humano como uma força que o indivíduo não controla"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O Naturalismo trata o ser humano como produto de meio, raça e momento. Ao transferir a culpa do marido para o sol e o clima, o narrador não está poupando ninguém por delicadeza: está afirmando que a conduta é efeito de forças externas. A leitura ufanista da natureza tropical inverte o sinal — aqui o clima é força degradante, não motivo de orgulho nacional."
+                       },
+                       {
+                           "id":  "literatura-02",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"E o mugido lúgubre daquela pobre criatura abandonada antepunha à rude agitação do cortiço uma nota lamentosa e tristonha de uma vaca chamando ao longe (...) E Piedade, assentada à soleira de sua porta, paciente e ululante como um cão que espera pelo dono.\" (Aluísio Azevedo, O Cortiço)",
+                           "enunciado":  "As comparações usadas para descrever a personagem revelam um procedimento reiterado na obra. Esse procedimento consiste em",
+                           "alternativas":  {
+                                                "a":  "elevar a personagem à condição heroica por meio de comparações com figuras míticas",
+                                                "b":  "animalizar os seres humanos, aproximando seus gestos e sons dos de bichos",
+                                                "c":  "atenuar o sofrimento por meio de eufemismos, poupando o leitor das cenas mais duras",
+                                                "d":  "individualizar cada morador, destacando o que o separa da massa do cortiço",
+                                                "e":  "suspender o julgamento moral, deixando ao leitor toda a interpretação da cena"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "\"Mugido\", \"ululante como um cão\": o narrador descreve a dor por meio do repertório animal. A zoomorfização é sistemática em O Cortiço e sustenta a tese naturalista de que o homem é, antes de tudo, organismo. Dizer que o romance individualiza cada morador é o oposto do que ele faz — a tendência é dissolver o indivíduo no coletivo, tratado como um único corpo que ferve."
+                       },
+                       {
+                           "id":  "literatura-03",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em O Cortiço, a habitação coletiva é descrita como algo que cresce, fermenta e se multiplica por conta própria, com vida que não se reduz à soma dos moradores.",
+                           "enunciado":  "Esse tratamento dado ao cortiço produz, na economia do romance, o seguinte efeito:",
+                           "alternativas":  {
+                                                "a":  "o romance assume forma epistolar, em que cada morador narra sua própria versão dos fatos",
+                                                "b":  "o espaço deixa de ser cenário e passa a funcionar como personagem, exercendo influência sobre quem nele vive",
+                                                "c":  "a narrativa abandona a descrição e se concentra no fluxo de consciência dos moradores",
+                                                "d":  "a obra passa a ter caráter alegórico, sem qualquer compromisso com a observação social",
+                                                "e":  "o espaço se torna irrelevante, já que o destino das personagens é decidido apenas por suas escolhas morais"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Personificar o cortiço não é ornamento de estilo: é o modo de tornar visível a tese determinista. Se o meio age sobre as pessoas, ele precisa ter agência narrativa — e por isso cresce, ferve e engole. Fluxo de consciência e forma epistolar são técnicas que a obra não usa em momento algum."
+                       },
+                       {
+                           "id":  "literatura-04",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em O Cortiço, o português João Romão enriquece pela exploração sistemática do trabalho alheio e pela apropriação das economias de Bertoleza, mulher escravizada que ele mantém iludida com a promessa da alforria.",
+                           "enunciado":  "A trajetória de João Romão e o destino reservado a Bertoleza articulam-se para expor",
+                           "alternativas":  {
+                                                "a":  "a ascensão social como recompensa natural do mérito e da poupança individual",
+                                                "b":  "o conflito entre gerações de imigrantes portugueses disputando o mesmo comércio",
+                                                "c":  "a acumulação de capital assentada sobre trabalho não pago e sobre a exclusão racial, descartada quando deixa de ser útil",
+                                                "d":  "a irrelevância da escravidão na formação das fortunas urbanas do fim do Império",
+                                                "e":  "a superação das hierarquias raciais pelo enriquecimento, que igualaria todos os que prosperam"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O enriquecimento de João Romão é inseparável do trabalho de Bertoleza, e o desfecho dela — entregue como escrava fugida justamente quando ele precisa de respeitabilidade — mostra que a exclusão não é acidente de percurso, e sim condição do sucesso. Ler a trajetória como recompensa natural do mérito e da poupança é precisamente a leitura que o romance desmonta."
+                       },
+                       {
+                           "id":  "literatura-05",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"Espiar a vida alheia, inquirir dos escravos o que se passava no interior das casas, era naquele tempo coisa tão comum e enraizada nos costumes, que ainda hoje, depois de passados tantos anos, restam grandes vestígios desse belo hábito.\" (Manuel Antônio de Almeida, Memórias de um sargento de milícias)",
+                           "enunciado":  "Ao qualificar o costume de \"belo hábito\" e ao afirmar que ele persiste, o narrador emprega",
+                           "alternativas":  {
+                                                "a":  "hipérbole, exagerando a dimensão de um comportamento trivial",
+                                                "b":  "ironia, dizendo o oposto do que pensa e estendendo a crítica ao presente do leitor",
+                                                "c":  "eufemismo, suavizando uma prática que considera indefensável",
+                                                "d":  "prosopopeia, atribuindo intenção a um costume abstrato",
+                                                "e":  "paradoxo, sustentando ao mesmo tempo duas afirmações contraditórias"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "\"Belo hábito\" é elogio de fachada para uma prática de vigilância e delação. E o narrador não deixa a crítica no passado: ao dizer que restam vestígios \"ainda hoje\", puxa o leitor para dentro do julgamento. É a ironia como método, não como pontuação isolada."
+                       },
+                       {
+                           "id":  "literatura-06",
+                           "formato":  "direta",
+                           "texto_apoio":  "As cenas de Memórias de um sargento de milícias movem-se entre a casa, a rua e a repartição, e as mesmas personagens transitam com naturalidade entre a conduta aceita e a conduta condenada, sem que a narrativa as puna com rigor.",
+                           "enunciado":  "Essa circulação constante entre o permitido e o proibido levou a crítica a caracterizar o universo do romance como",
+                           "alternativas":  {
+                                                "a":  "um mundo maniqueísta, em que virtude e vício ocupam campos rigidamente separados",
+                                                "b":  "uma sociedade aristocrática, regida por um código de honra que ninguém ousa transgredir",
+                                                "c":  "um espaço utópico, onde as diferenças sociais foram abolidas",
+                                                "d":  "um meio social em que se transita com frequência entre a ordem e a desordem",
+                                                "e":  "um ambiente trágico, em que toda transgressão é seguida de castigo irreversível"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "É a leitura consagrada por Antonio Candido em \"Dialética da malandragem\": o romance não opõe bons e maus, e sim descreve um vaivém em que as mesmas figuras ora cumprem, ora burlam a norma — sem tragédia e sem punição exemplar."
+                       },
+                       {
+                           "id":  "literatura-07",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em Memórias de um sargento de milícias, o protagonista e os que o cercam vivem de expedientes, de favores e da proteção de padrinhos, numa cidade em que o trabalho regular não é o caminho da ascensão.",
+                           "enunciado":  "As personagens que povoam esse universo pertencem, sobretudo, ao grupo social dos",
+                           "alternativas":  {
+                                                "a":  "comerciantes estrangeiros enriquecidos pelo tráfico atlântico",
+                                                "b":  "escravizados urbanos que negociam a própria alforria",
+                                                "c":  "homens livres pobres, dependentes do favor, numa sociedade escravista",
+                                                "d":  "grandes proprietários rurais que passam a temporada na Corte",
+                                                "e":  "funcionários de alto escalão da administração imperial"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O romance retrata a camada que não é nem senhor nem escravizado: gente livre e pobre, sem posse e sem trabalho estável, cuja sobrevivência depende de apadrinhamento. Reconhecer esse lugar social é o que permite entender por que o favor, e não o mérito, move a narrativa."
+                       },
+                       {
+                           "id":  "literatura-08",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"— Honra!... honra de meirinho... ora!\" e \"Honra de meirinho é como fidelidade de saloia.\" (Manuel Antônio de Almeida, Memórias de um sargento de milícias)",
+                           "enunciado":  "O tratamento dado ao conflito conjugal nessas passagens indica que o narrador imprime à cena um caráter",
+                           "alternativas":  {
+                                                "a":  "cômico, rebaixando a retórica da honra pelo ridículo",
+                                                "b":  "melancólico, marcado pela contemplação resignada da perda",
+                                                "c":  "didático, extraindo da cena uma lição moral explícita",
+                                                "d":  "épico, elevando as personagens acima da condição comum",
+                                                "e":  "trágico, conduzindo a um desfecho de destruição irreparável"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A honra invocada com solenidade é imediatamente desqualificada por um dito popular sobre saloias. O procedimento é o rebaixamento cômico: a linguagem elevada encontra a resposta chã e desaba. Nada na cena caminha para a catástrofe irreparável que definiria o trágico."
+                       },
+                       {
+                           "id":  "literatura-09",
+                           "formato":  "direta",
+                           "texto_apoio":  "Brás Cubas anuncia, logo no início de suas memórias, que escreve depois de morto — condição que o libera de qualquer prestação de contas aos vivos.",
+                           "enunciado":  "Essa escolha narrativa produz como efeito principal",
+                           "alternativas":  {
+                                                "a":  "a supressão da ironia, substituída pela gravidade própria de quem fala do além-túmulo",
+                                                "b":  "a liberdade para expor sem constrangimento a mesquinharia própria e alheia, minando a autoridade moral do relato",
+                                                "c":  "a garantia de imparcialidade absoluta, já que o morto nada mais tem a ganhar com a mentira",
+                                                "d":  "a adesão ao cientificismo naturalista, que trata a consciência como fenômeno fisiológico",
+                                                "e":  "a construção de um herói exemplar, cuja trajetória serve de modelo ao leitor"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A armadilha é supor que a morte garanta imparcialidade. O defunto autor não é mais confiável por estar morto — é mais desimpedido: a morte não garante verdade, garante impunidade, e é dela que nasce a corrosão irônica do relato. Pela mesma razão, a ironia não é suspensa pela gravidade do além-túmulo; ela aumenta."
+                       },
+                       {
+                           "id":  "literatura-10",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em Dom Casmurro, tudo o que o leitor sabe sobre a suposta traição de Capitu chega por intermédio de Bentinho, que narra na velhice, movido pelo ciúme, e sem apresentar prova alguma.",
+                           "enunciado":  "A crítica costuma designar esse tipo de narrador como",
+                           "alternativas":  {
+                                                "a":  "narrador observador, que se limita a registrar o que vê de fora",
+                                                "b":  "narrador intruso, que interrompe a ação para dirigir-se ao leitor sem alterar os fatos",
+                                                "c":  "narrador não confiável, cuja versão o leitor precisa julgar em vez de aceitar",
+                                                "d":  "narrador coletivo, que fala em nome de um grupo social",
+                                                "e":  "narrador onisciente neutro, que acessa a interioridade de todas as personagens"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O romance transfere ao leitor o trabalho do júri: a única testemunha é parte interessada e narra movida pelo ciúme, décadas depois. Cuidado com a figura do narrador intruso — Machado de fato interrompe a ação para falar com o leitor, mas o que está em jogo aqui é a credibilidade do relato, não a interpelação."
+                       },
+                       {
+                           "id":  "literatura-11",
+                           "formato":  "direta",
+                           "texto_apoio":  "Nas obras de Machado da fase madura, o narrador interrompe a ação para conversar com o leitor, comentar o próprio livro e até censurá-lo por impaciência.",
+                           "enunciado":  "Esse procedimento caracteriza-se como",
+                           "alternativas":  {
+                                                "a":  "hipérbato, pois inverte a ordem sintática usual",
+                                                "b":  "sinestesia, pois cruza sensações de sentidos diferentes",
+                                                "c":  "metalinguagem, pois a narrativa toma a si mesma como assunto",
+                                                "d":  "intertextualidade, pois remete a outras obras literárias",
+                                                "e":  "catacrese, pois emprega um termo fora de seu sentido próprio por falta de outro"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Quando o livro fala do livro e o narrador discute com quem o lê, o objeto do discurso passa a ser o próprio discurso. É metalinguagem — e, em Machado, também um modo de manter o leitor em desconfiança permanente."
+                       },
+                       {
+                           "id":  "literatura-12",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"Pouco importa que os fatos sejam físicos ou morais; eles sempre têm as suas causas. Tanto existem causas para a ambição, a coragem, a veracidade, como para a digestão, o movimento muscular e o calor animal. O vício e a virtude são produtos químicos como o açúcar e o ácido sulfúrico.\" (Hippolyte Taine)",
+                           "enunciado":  "A visão de mundo expressa nesse trecho fundamenta a estética",
+                           "alternativas":  {
+                                                "a":  "simbolista",
+                                                "b":  "barroca",
+                                                "c":  "realista e naturalista",
+                                                "d":  "árcade",
+                                                "e":  "romântica"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Reduzir virtude e vício a produtos químicos é o gesto cientificista que sustenta o Realismo e, levado ao extremo, o Naturalismo. Note que a questão não pede o nome do autor do trecho: pede que se reconheça a escola pelo traço de pensamento, que é como as duas bancas costumam cobrar."
+                       },
+                       {
+                           "id":  "literatura-13",
+                           "formato":  "direta",
+                           "texto_apoio":  "Um poema apresenta metro rigorosamente regular, rimas raras, vocabulário culto e um tema tirado da estatuária greco-latina, tratado com distanciamento emocional e atenção minuciosa à superfície descrita.",
+                           "enunciado":  "Esses traços permitem identificar o poema como",
+                           "alternativas":  {
+                                                "a":  "modernista de primeira geração, pela liberdade formal",
+                                                "b":  "concretista, pela exploração do espaço gráfico da página",
+                                                "c":  "romântico, pela efusão sentimental",
+                                                "d":  "simbolista, pela musicalidade sugestiva e pela vaguidão",
+                                                "e":  "parnasiano, pelo culto à forma e pela objetividade descritiva"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Metro exato, rima rara, tema clássico e frieza deliberada formam o retrato do Parnasianismo. O contraste decisivo é com o Simbolismo: ele também preza o som, mas para sugerir o indefinido, não para lapidar o contorno visível do objeto."
+                       },
+                       {
+                           "id":  "literatura-14",
+                           "formato":  "direta",
+                           "texto_apoio":  "Um texto exalta a natureza brasileira como cenário grandioso, elege o indígena como figura nobre e fundadora da nacionalidade e narra em tom exaltado um amor impossível que termina em sacrifício.",
+                           "enunciado":  "O conjunto desses traços é característico do",
+                           "alternativas":  {
+                                                "a":  "Pré-Modernismo, pela denúncia do Brasil não oficial",
+                                                "b":  "Arcadismo, pelo ideal de vida simples no campo",
+                                                "c":  "Naturalismo, pela ênfase nos determinismos biológicos",
+                                                "d":  "Realismo, pela análise crítica das instituições",
+                                                "e":  "Romantismo, em sua vertente indianista e nacionalista"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Idealização da natureza, herói indígena como mito de origem e amor sacrificial compõem o programa indianista do Romantismo brasileiro, que buscava fundar uma identidade nacional após a Independência."
+                       },
+                       {
+                           "id":  "literatura-15",
+                           "formato":  "direta",
+                           "texto_apoio":  "Um poema de 1922 abandona a métrica fixa e a rima, incorpora a fala coloquial brasileira, admite o humor e trata de um assunto trivial do cotidiano urbano.",
+                           "enunciado":  "Esses procedimentos filiam o poema ao",
+                           "alternativas":  {
+                                                "a":  "Simbolismo, pela dissolução das fronteiras entre som e sentido",
+                                                "b":  "Parnasianismo, pela busca da perfeição formal",
+                                                "c":  "Barroco, pelo gosto do contraste e do jogo conceitual",
+                                                "d":  "Modernismo de primeira geração, pela ruptura formal e pela linguagem coloquial",
+                                                "e":  "Romantismo, pela primazia da emoção sobre a razão"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Verso livre, coloquialidade, humor e assunto prosaico são o núcleo do programa de 1922, que rompe justamente com o repertório parnasiano da perfeição formal — daí a data ser um dado decisivo do enunciado, e não um detalhe."
+                       },
+                       {
+                           "id":  "literatura-16",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"Estou farto do lirismo comedido / Do lirismo bem-comportado / Do lirismo funcionário público com livro de ponto (...) / Estou farto do lirismo que para e vai averiguar no dicionário o cunho vernáculo de um vocábulo / Abaixo os puristas\" (Manuel Bandeira, \"Poética\", 1930)",
+                           "enunciado":  "Ao acumular essas recusas, o eu lírico dirige sua crítica, sobretudo, ao",
+                           "alternativas":  {
+                                                "a":  "Parnasianismo e ao purismo gramatical que ele representa",
+                                                "b":  "Naturalismo e à sua pretensão científica",
+                                                "c":  "Romantismo e ao seu excesso de sentimentalismo",
+                                                "d":  "Simbolismo e à sua musicalidade hermética",
+                                                "e":  "Barroco e ao seu gosto pelo rebuscamento conceitual"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "\"Comedido\", \"bem-comportado\", conferir o \"cunho vernáculo\" no dicionário e o grito \"abaixo os puristas\" apontam para o culto da forma correta — território parnasiano. O poema é um manifesto modernista contra ele."
+                       },
+                       {
+                           "id":  "literatura-17",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"Quero antes o lirismo dos loucos / O lirismo dos bêbados / O lirismo difícil e pungente dos bêbados / O lirismo dos clowns de Shakespeare / — Não quero mais saber do lirismo que não é libertação.\" (Manuel Bandeira, \"Poética\")",
+                           "enunciado":  "Para o eu lírico, o fazer poético deve ser uma atividade",
+                           "alternativas":  {
+                                                "a":  "diplomática, empenhada em conciliar tendências opostas",
+                                                "b":  "disciplinada, regida por regras claras de composição",
+                                                "c":  "doutrinária, posta a serviço de uma causa política definida",
+                                                "d":  "desinteressada, indiferente ao efeito sobre o leitor",
+                                                "e":  "desregrada, avessa a qualquer forma de contenção"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Loucos, bêbados e bufões são figuras que escapam ao decoro; e o verso final define o lirismo desejado como libertação. A oposição estruturante do poema é contenção contra liberdade, e o eu lírico fica com a segunda."
+                       },
+                       {
+                           "id":  "literatura-18",
+                           "formato":  "direta",
+                           "texto_apoio":  "Um soneto dirige-se a um interlocutor a quem chama de \"homem prudente\", aconselha-o a não desejar uma alma diferente da sua e conclui que a felicidade está em \"deixar-se ser\", sem interpretar o enigma da existência.",
+                           "enunciado":  "A temática desse soneto pode ser caracterizada como",
+                           "alternativas":  {
+                                                "a":  "social",
+                                                "b":  "satírica",
+                                                "c":  "nostálgica",
+                                                "d":  "filosófica",
+                                                "e":  "lírico-amorosa"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O poema discute o modo de existir e a relação entre natureza própria e felicidade — matéria de reflexão sobre a vida, não de queixa amorosa nem de crítica de costumes. Reconhecer o assunto dominante é o tipo de item que a Insper repete em todo caderno."
+                       },
+                       {
+                           "id":  "literatura-19",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em Vidas Secas, os capítulos podem ser lidos com relativa independência, o discurso indireto livre aproxima o narrador da consciência rudimentar das personagens e a linguagem é seca, reduzida ao essencial.",
+                           "enunciado":  "A relação entre essa forma e o assunto do romance pode ser descrita assim:",
+                           "alternativas":  {
+                                                "a":  "a escassez da linguagem reproduz, no plano formal, a escassez material e verbal das personagens",
+                                                "b":  "a forma é indiferente ao assunto, funcionando apenas como convenção do gênero romance",
+                                                "c":  "a fragmentação dos capítulos indica que a obra ficou inacabada",
+                                                "d":  "o discurso indireto livre serve para atribuir às personagens uma eloquência que elas não teriam",
+                                                "e":  "a forma contrasta deliberadamente com o assunto, criando efeito irônico"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Personagens que quase não dispõem de palavras são narradas por uma prosa que também economiza palavras. Atenção ao inverso: o discurso indireto livre não serve para emprestar eloquência a elas, e sim para dar acesso a um pensamento que não chega a virar fala articulada."
+                       },
+                       {
+                           "id":  "literatura-20",
+                           "formato":  "direta",
+                           "texto_apoio":  "Antonio Candido distingue, na cultura brasileira, uma fase de \"consciência amena de atraso\", ligada à ideia de \"país novo\", e uma fase de \"consciência catastrófica de atraso\", ligada à noção de \"país subdesenvolvido\".",
+                           "enunciado":  "Vidas Secas (1938) inscreve-se nessa segunda fase porque",
+                           "alternativas":  {
+                                                "a":  "substitui a análise social pela exaltação da religiosidade popular",
+                                                "b":  "adota o ponto de vista do proprietário de terras, cuja prosperidade contrasta com a seca",
+                                                "c":  "trata o sertão como paisagem pitoresca, digna de curiosidade e encanto",
+                                                "d":  "projeta no futuro a promessa de grandeza de uma nação ainda jovem",
+                                                "e":  "apresenta a miséria como condição estrutural e sem horizonte de superação, não como estágio a ser vencido"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Tratar o sertão como paisagem pitoresca descreve exatamente a fase anterior, do regionalismo de encanto e curiosidade, que Candido opõe a essa. Em Vidas Secas o retorno da seca no fim do livro fecha o ciclo sem promessa: o atraso não é etapa a vencer, é condição."
+                       },
+                       {
+                           "id":  "literatura-21",
+                           "formato":  "direta",
+                           "texto_apoio":  "Um conto narra o percurso de uma formiga que entra num cinema, conversa com uma espectadora e termina capturada por um colecionador — tudo relatado com naturalidade, sem que a narrativa comente a estranheza da situação.",
+                           "enunciado":  "O recurso expressivo dominante na construção desse conto é",
+                           "alternativas":  {
+                                                "a":  "a metalinguagem, que toma a própria narrativa como tema",
+                                                "b":  "o pleonasmo, que reforça a ideia por redundância",
+                                                "c":  "o eufemismo, que atenua a violência do desfecho",
+                                                "d":  "a personificação, que atribui a um animal comportamento e fala humanos",
+                                                "e":  "a antítese, que opõe termos de sentido contrário"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A formiga delibera, recusa pipoca por luto e muda de poltrona: atributos humanos em um animal. O efeito depende de o narrador tratar isso como banal — é a naturalidade que produz o humor."
+                       },
+                       {
+                           "id":  "literatura-22",
+                           "formato":  "direta",
+                           "texto_apoio":  "\"Só na Vida a expressão límpida e exata / Do teu temperamento, homem prudente; / Como a árvore espontânea que retrata / Todas as qualidades da semente!\" (Raul de Leoni, \"Exortação\")",
+                           "enunciado":  "Na comparação estabelecida nessa estrofe, a semente equivale",
+                           "alternativas":  {
+                                                "a":  "à vida",
+                                                "b":  "ao temperamento",
+                                                "c":  "à expressão",
+                                                "d":  "à árvore",
+                                                "e":  "ao homem"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A árvore retrata as qualidades da semente assim como a vida exprime o temperamento. Alinhando os termos: árvore está para vida, e semente está para temperamento — o que já estava na semente é o que a árvore mostra."
+                       },
+                       {
+                           "id":  "literatura-23",
+                           "formato":  "direta",
+                           "texto_apoio":  "No Manifesto Antropófago (1928), Oswald de Andrade propõe que a cultura brasileira devore a produção estrangeira e a transforme em matéria própria, em vez de imitá-la ou recusá-la.",
+                           "enunciado":  "A metáfora da devoração serve, nesse contexto, para defender",
+                           "alternativas":  {
+                                                "a":  "a cópia fiel dos modelos europeus como caminho de modernização",
+                                                "b":  "o isolamento cultural do país, protegido de qualquer influência externa",
+                                                "c":  "o retorno à cultura indígena pré-colonial em sua forma original",
+                                                "d":  "a apropriação crítica do que vem de fora, digerido e refeito segundo necessidades locais",
+                                                "e":  "a substituição da literatura pela antropologia como forma de conhecimento"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A antropofagia recusa tanto o isolamento cultural quanto a cópia fiel dos modelos europeus. Devorar é assimilar transformando: o estrangeiro entra, mas sai outra coisa. E ler o manifesto como pregação de retorno à cultura pré-colonial confunde o símbolo escolhido com um programa de volta ao passado."
+                       },
+                       {
+                           "id":  "literatura-24",
+                           "formato":  "direta",
+                           "texto_apoio":  "Em A Hora da Estrela, o narrador Rodrigo S. M. interrompe repetidamente a história de Macabéa para expor suas dúvidas sobre o direito de narrar a vida de uma mulher pobre do Nordeste a partir de sua posição de escritor.",
+                           "enunciado":  "Essa insistência do narrador em discutir a própria escrita cumpre a função de",
+                           "alternativas":  {
+                                                "a":  "expor a distância social entre quem narra e quem é narrado, tornando essa distância parte do problema do livro",
+                                                "b":  "demonstrar erudição, exibindo o domínio técnico do autor sobre a construção romanesca",
+                                                "c":  "atribuir à protagonista a autoria do relato, que assim narra a si mesma",
+                                                "d":  "atrasar o desfecho, criando suspense sobre o destino da protagonista",
+                                                "e":  "atenuar a dureza da história, oferecendo ao leitor pausas de alívio cômico"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O livro não esconde que Macabéa é falada por alguém que não é ela, e que ocupa outra posição social. Ao tornar visível esse desnível, a obra transforma a própria legitimidade da representação em assunto — não se trata de exibir domínio técnico sobre a construção romanesca."
+                       },
+                       {
+                           "id":  "literatura-25",
+                           "formato":  "direta",
+                           "texto_apoio":  "Uma canção brasileira do início dos anos 1970 recorre a uma imagem religiosa — o cálice que se pede afastar — para falar de silenciamento, apoiando-se na proximidade sonora entre o substantivo e a forma verbal \"cale-se\".",
+                           "enunciado":  "O recurso que sustenta a construção do sentido nessa canção é",
+                           "alternativas":  {
+                                                "a":  "a paronomásia, que aproxima palavras de sons semelhantes e sentidos distintos",
+                                                "b":  "a hipérbole, que amplia desmedidamente a dimensão do que se descreve",
+                                                "c":  "a anáfora, que repete um termo no início de versos sucessivos",
+                                                "d":  "a elipse, que omite um termo recuperável pelo contexto",
+                                                "e":  "a onomatopeia, que reproduz sons do mundo real"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "\"Cálice\" e \"cale-se\" soam quase igual e significam coisas diferentes: é paronomásia. O trocadilho permitia que o pedido de silêncio atravessasse a censura sob a aparência de citação bíblica — a forma é, aqui, a própria estratégia política."
+                       }
+                   ],
     "matematica-rlm":  [
                            {
                                "id":  "matematica-rlm-01",

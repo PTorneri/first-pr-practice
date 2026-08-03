@@ -1,0 +1,398 @@
+{
+  "_comentario": [
+    "Lote 02 da frente literatura: 25 questoes. Cobre Machado de Assis (10),",
+    "conto brasileiro (8) e poesia/eu lirico (7).",
+    "",
+    "Inclui os TRES PRIMEIROS itens de excecao do banco inteiro. A auditoria da",
+    "Fase 2 mostrou que o banco tinha zero, embora as duas bancas usem o formato",
+    "(na FGV 2026.1, uma em Humanas e duas em Ingles). Usam o comando canonico",
+    "da FGV -- 'a excecao de uma. Assinale-a.' -- para que o tag-formato.ps1 os",
+    "reconheca.",
+    "",
+    "Regra de autoria fixada no lote 01: NENHUMA explicacao cita alternativa por",
+    "letra. O distrator e sempre nomeado pelo conteudo, senao a explicacao",
+    "quebra no primeiro rebalanceamento de gabarito.",
+    "",
+    "Nenhuma questao pede ficha tecnica: pedem traco, funcao do narrador, efeito",
+    "de sentido e vinculo com o contexto, que e como as duas bancas cobram."
+  ],
+  "subtopic": "literatura",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "literatura-26",
+      "formato": "direta",
+      "texto_apoio": "\"Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias Póstumas.\" (Machado de Assis, Memórias Póstumas de Brás Cubas)",
+      "enunciado": "A dedicatória que abre o romance produz efeito de sentido porque",
+      "alternativas": {
+        "a": "presta homenagem sincera a um benfeitor do narrador, conforme a convenção do gênero",
+        "b": "substitui o destinatário nobre esperado numa dedicatória por um verme, rebaixando de saída toda solenidade",
+        "c": "anuncia que a obra pertence ao gênero fúnebre, de tom grave e reverente",
+        "d": "indica que o livro foi escrito por encomenda de um herdeiro do falecido",
+        "e": "revela o assassino do protagonista logo na primeira página"
+      },
+      "resposta": "b",
+      "explicacao": "A dedicatória é o lugar da reverência, e Machado a entrega a um verme. O choque entre a fórmula solene e o destinatário abjeto avisa ao leitor, antes do primeiro capítulo, que a seriedade do relato será sistematicamente corroída. Ler a passagem como tom grave e reverente é tomar a moldura pelo conteúdo."
+    },
+    {
+      "id": "literatura-27",
+      "formato": "direta",
+      "texto_apoio": "Em Memórias Póstumas de Brás Cubas, o narrador conclui o balanço da própria vida observando que não teve filhos e que, por isso, não transmitiu a ninguém o legado da miséria humana.",
+      "enunciado": "Esse fecho confere ao romance um sentido",
+      "alternativas": {
+        "a": "otimista, pois celebra a superação das dificuldades por meio do esforço pessoal",
+        "b": "pedagógico, pois oferece ao leitor um modelo de conduta a ser imitado",
+        "c": "pessimista e irônico, pois o único saldo positivo de uma vida é não a ter perpetuado",
+        "d": "religioso, pois deposita na vida eterna a compensação dos sofrimentos terrenos",
+        "e": "épico, pois inscreve a trajetória individual na história coletiva da nação"
+      },
+      "resposta": "c",
+      "explicacao": "O balanço é feito por subtração: nada foi construído, e a ausência de descendência vira o único lucro. É pessimismo, mas passado pelo filtro da ironia — a forma de um saldo contábil positivo para dizer que a vida não valeu a pena."
+    },
+    {
+      "id": "literatura-28",
+      "formato": "direta",
+      "texto_apoio": "Em Dom Casmurro, Bentinho descreve os olhos de Capitu recorrendo a uma imagem de força de sucção, que arrasta e engole quem os encara.",
+      "enunciado": "Essa construção da imagem revela, sobretudo,",
+      "alternativas": {
+        "a": "uma descrição objetiva dos traços físicos da personagem, sem interferência do observador",
+        "b": "a projeção do desejo e do temor do narrador sobre a mulher descrita, que só nos chega filtrada por ele",
+        "c": "a adesão do narrador aos preceitos científicos do Naturalismo na análise dos tipos humanos",
+        "d": "o ponto de vista da própria Capitu sobre a impressão que causa nos outros",
+        "e": "a influência do Simbolismo, que dissolve o contorno das figuras em correspondências sonoras"
+      },
+      "resposta": "b",
+      "explicacao": "A imagem não descreve olhos, descreve o que Bentinho sente diante deles. Como toda a informação sobre Capitu passa por esse narrador, a metáfora funciona menos como retrato dela e mais como sintoma dele — que é o mecanismo central do romance."
+    },
+    {
+      "id": "literatura-29",
+      "formato": "excecao",
+      "texto_apoio": "A prosa madura de Machado de Assis, iniciada com Memórias Póstumas de Brás Cubas (1881), rompe com os procedimentos que ele próprio praticara na fase anterior.",
+      "enunciado": "As alternativas apresentam procedimentos característicos dessa prosa madura, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Capítulos curtos, que fragmentam a narrativa e quebram a ilusão de continuidade",
+        "b": "Interpelação direta ao leitor, que é chamado ao livro e por vezes repreendido",
+        "c": "Ironia dirigida às convenções sociais e à própria autoridade do narrador",
+        "d": "Idealização da heroína e desfecho que premia a virtude com o casamento feliz",
+        "e": "Digressões que interrompem a ação para comentar a natureza humana"
+      },
+      "resposta": "d",
+      "explicacao": "Idealizar a heroína e premiar a virtude com casamento é receita romântica, justamente o que a fase madura abandona. Os outros quatro procedimentos — fragmentação, interpelação, ironia e digressão — são a assinatura dessa prosa. Repare que o comando pede a exceção: quatro alternativas estão certas."
+    },
+    {
+      "id": "literatura-30",
+      "formato": "direta",
+      "texto_apoio": "No conto \"A Cartomante\", de Machado de Assis, o narrador informa ao leitor, antes do desfecho, aquilo que as personagens ainda ignoram sobre o destino que as aguarda.",
+      "enunciado": "Esse desnível de informação entre leitor e personagem produz",
+      "alternativas": {
+        "a": "ironia dramática, pois o leitor assiste às personagens caminharem confiantes para o que ele já sabe",
+        "b": "suspense puro, pois nem leitor nem personagem dispõem de qualquer informação sobre o final",
+        "c": "metalinguagem, pois o conto passa a discutir as regras de sua própria construção",
+        "d": "verossimilhança realista, pois o narrador se limita ao que uma testemunha poderia saber",
+        "e": "ambiguidade, pois o desfecho admite duas leituras igualmente sustentáveis"
+      },
+      "resposta": "a",
+      "explicacao": "Quando o público sabe o que a personagem não sabe, cada gesto confiante dela ganha um segundo sentido, sinistro. É ironia dramática — e não suspense, que exigiria manter o leitor tão ignorante quanto as personagens."
+    },
+    {
+      "id": "literatura-31",
+      "formato": "direta",
+      "texto_apoio": "Machado de Assis situa a maior parte de suas narrativas entre proprietários, bacharéis e funcionários do Rio de Janeiro do Segundo Reinado, e trata a dependência dos agregados e a presença de escravizados como parte natural da paisagem doméstica.",
+      "enunciado": "Essa opção de recorte social permite ao autor",
+      "alternativas": {
+        "a": "denunciar explicitamente a escravidão por meio de discursos abolicionistas das personagens",
+        "b": "expor, de dentro, os mecanismos de favor e de hierarquia que sustentam a elite, sem precisar denunciá-los em voz alta",
+        "c": "documentar a vida do trabalhador urbano livre, protagonista de suas tramas",
+        "d": "reconstituir o cotidiano rural das fazendas de café do Vale do Paraíba",
+        "e": "abandonar a análise social em favor de uma investigação puramente psicológica"
+      },
+      "resposta": "b",
+      "explicacao": "A crítica machadiana não é de púlpito: ela opera mostrando a naturalidade com que o favor e a hierarquia funcionam para quem se beneficia deles. Dizer que ele abandona a análise social pelo psicológico é uma leitura antiga — os dois planos são o mesmo em Machado."
+    },
+    {
+      "id": "literatura-32",
+      "formato": "direta",
+      "texto_apoio": "Em Memórias Póstumas, o capítulo dedicado ao \"delírio\" apresenta uma alegoria em que uma figura feminina se identifica como Natureza ou Pandora e declara ser, ao mesmo tempo, mãe e inimiga do narrador.",
+      "enunciado": "A função dessa passagem no conjunto do romance é",
+      "alternativas": {
+        "a": "oferecer uma explicação científica para a doença que vitimou o protagonista",
+        "b": "condensar numa imagem a visão de mundo do livro: uma natureza indiferente, que gera e destrói sem propósito",
+        "c": "introduzir o realismo mágico como procedimento dominante da narrativa",
+        "d": "narrar um sonho premonitório que anuncia o casamento do protagonista",
+        "e": "prestar homenagem à mitologia grega como fonte de valores morais exemplares"
+      },
+      "resposta": "b",
+      "explicacao": "O delírio é a única passagem em que o romance enuncia sua metafísica sem disfarce. Mãe e inimiga ao mesmo tempo: a natureza produz a vida e a consome com a mesma indiferença. Não há aí lição moral a extrair da mitologia, e sim o contrário."
+    },
+    {
+      "id": "literatura-33",
+      "formato": "direta",
+      "texto_apoio": "Em vários contos e romances de Machado, o narrador interrompe o relato para observar que poderia ter contado a história de outra maneira, ou para se desculpar pela demora em chegar ao ponto.",
+      "enunciado": "Ao expor assim o próprio ato de narrar, o autor consegue",
+      "alternativas": {
+        "a": "aumentar a ilusão de realidade, fazendo o leitor esquecer que lê uma ficção",
+        "b": "quebrar a ilusão de realidade, lembrando o leitor de que tudo ali é construção deliberada",
+        "c": "suprimir a figura do narrador, que passa a não interferir na história",
+        "d": "transformar o romance em ensaio, abandonando de vez o enredo",
+        "e": "garantir a objetividade do relato, que passa a depender apenas dos fatos"
+      },
+      "resposta": "b",
+      "explicacao": "Cada lembrete de que a história poderia ser outra desfaz o encantamento e devolve o leitor à consciência de que há alguém escolhendo o que contar. É o oposto de aumentar a ilusão de realidade — e é também o que torna o narrador machadiano digno de desconfiança."
+    },
+    {
+      "id": "literatura-34",
+      "formato": "direta",
+      "texto_apoio": "Em Dom Casmurro, o narrador afirma que seu propósito ao escrever é \"atar as duas pontas da vida\" e restaurar na velhice a adolescência perdida.",
+      "enunciado": "O fracasso desse propósito, ao longo do livro, indica que",
+      "alternativas": {
+        "a": "a memória reconstrói o passado a partir do presente, e o ressentimento do velho contamina o que ele diz ter vivido",
+        "b": "o narrador recupera com exatidão os fatos da juventude, o que confirma sua versão dos acontecimentos",
+        "c": "o romance abandona a primeira pessoa na segunda metade, cedendo a palavra a outras personagens",
+        "d": "a passagem do tempo é irrelevante para a construção do relato",
+        "e": "o autor pretendia escrever uma autobiografia factual e desistiu no meio do caminho"
+      },
+      "resposta": "a",
+      "explicacao": "A casa reconstruída no Engenho Novo não devolve a juventude, e a narrativa tampouco. O que a memória entrega é uma versão modelada pelo que o narrador se tornou — o que retira toda garantia de exatidão do relato sobre Capitu."
+    },
+    {
+      "id": "literatura-35",
+      "formato": "direta",
+      "texto_apoio": "A crítica costuma dividir a obra de Machado de Assis em duas fases, tomando Memórias Póstumas de Brás Cubas (1881) como marco divisor.",
+      "enunciado": "O traço que melhor caracteriza a passagem de uma fase à outra é",
+      "alternativas": {
+        "a": "a substituição do romance pelo conto como gênero preferencial",
+        "b": "o abandono do ambiente carioca em favor de cenários europeus",
+        "c": "a passagem de enredos de convenção romântica para a análise irônica e desiludida das motivações humanas",
+        "d": "a adoção do determinismo biológico como chave de explicação das personagens",
+        "e": "a troca do português culto pela linguagem coloquial e regional"
+      },
+      "resposta": "c",
+      "explicacao": "O que muda não é gênero, cenário nem registro: é o olhar. Sai a moldura romântica, entra a desconfiança sistemática das razões que as pessoas dão para o que fazem. Note que o determinismo biológico pertence ao Naturalismo, que Machado nunca abraçou."
+    },
+    {
+      "id": "literatura-36",
+      "formato": "direta",
+      "texto_apoio": "No conto \"A Terceira Margem do Rio\", de Guimarães Rosa, o pai manda fazer uma canoa, entra nela e passa a viver no meio do rio, sem nunca desembarcar nem se explicar, enquanto o filho narra o episódio décadas depois.",
+      "enunciado": "A ausência de explicação para o gesto do pai cumpre, na narrativa, a função de",
+      "alternativas": {
+        "a": "sugerir que o conto ficou inacabado, faltando-lhe o capítulo de esclarecimento",
+        "b": "deslocar o interesse do motivo para o efeito, transformando o pai em enigma que organiza a vida do filho",
+        "c": "indicar que o narrador mentiu sobre o episódio, que nunca teria ocorrido",
+        "d": "cumprir a exigência realista de narrar apenas o que uma testemunha poderia comprovar",
+        "e": "preparar uma revelação final que atribui o gesto a uma doença diagnosticada"
+      },
+      "resposta": "b",
+      "explicacao": "Se houvesse motivo declarado, o conto acabaria na primeira página. O silêncio do pai é o que obriga o filho — e o leitor — a conviver com o inexplicável, e é dessa convivência que o texto trata."
+    },
+    {
+      "id": "literatura-37",
+      "formato": "direta",
+      "texto_apoio": "Nos contos de Guimarães Rosa, é frequente o emprego de palavras inventadas, de inversões sintáticas incomuns e de construções que aproximam a prosa do ritmo do verso.",
+      "enunciado": "Esses procedimentos indicam que, para o autor,",
+      "alternativas": {
+        "a": "a linguagem é matéria de trabalho e invenção, não veículo transparente para transmitir um conteúdo",
+        "b": "a fala sertaneja deve ser reproduzida com fidelidade documental, sem qualquer estilização",
+        "c": "a norma culta é a única forma legítima de escrita literária",
+        "d": "a literatura deve renunciar ao trabalho formal em favor da mensagem social",
+        "e": "o texto literário se distingue do texto científico apenas pelo assunto que trata"
+      },
+      "resposta": "a",
+      "explicacao": "Inventar palavra e torcer sintaxe só faz sentido para quem trata a língua como matéria a ser moldada. Atenção à armadilha do registro documental: a fala do sertão em Rosa é ponto de partida estilizado, não transcrição."
+    },
+    {
+      "id": "literatura-38",
+      "formato": "direta",
+      "texto_apoio": "Em \"Amor\", de Clarice Lispector, a personagem Ana leva uma vida doméstica organizada até que a visão de um cego mascando chicletes num ponto de bonde desencadeia nela uma crise que desarranja a percepção de tudo o que a cerca.",
+      "enunciado": "O procedimento narrativo central nesse conto é",
+      "alternativas": {
+        "a": "a epifania, em que um episódio banal desencadeia uma revelação que desorganiza a vida da personagem",
+        "b": "a alegoria política, em que cada personagem representa uma classe social",
+        "c": "o realismo documental, voltado ao registro das condições materiais da vida urbana",
+        "d": "a paródia, que retoma um texto anterior para ridicularizá-lo",
+        "e": "o relato memorialístico, em que a narradora reconstrói a própria infância"
+      },
+      "resposta": "a",
+      "explicacao": "Nada de extraordinário acontece: um cego mastiga chiclete. É justamente a desproporção entre a banalidade do estímulo e a magnitude do abalo que caracteriza a epifania clariciana — o extraordinário está no olhar, não no fato."
+    },
+    {
+      "id": "literatura-39",
+      "formato": "direta",
+      "texto_apoio": "Os contos de Clarice Lispector reunidos em Laços de Família tratam com frequência de mulheres de classe média cuja rotina doméstica é subitamente posta em questão.",
+      "enunciado": "Esse recorte permite que a obra explore",
+      "alternativas": {
+        "a": "o custo subjetivo de papéis sociais que se apresentam como naturais e escolhidos",
+        "b": "a luta armada como via de transformação das estruturas familiares",
+        "c": "a superioridade moral da vida doméstica sobre a vida pública",
+        "d": "a reconstituição histórica das lutas feministas do início do século XX",
+        "e": "a irrelevância da experiência feminina como matéria literária"
+      },
+      "resposta": "a",
+      "explicacao": "As personagens não denunciam nada em voz alta: elas simplesmente deixam de conseguir sustentar o papel. O conto expõe o preço interno de uma naturalidade que só parecia natural — o que é diferente de fazer história do feminismo."
+    },
+    {
+      "id": "literatura-40",
+      "formato": "direta",
+      "texto_apoio": "Num conto contemporâneo, a narração em primeira pessoa é feita por alguém que participou dos fatos e cujo interesse na versão apresentada é evidente para o leitor.",
+      "enunciado": "Diante desse arranjo, a leitura adequada exige que o leitor",
+      "alternativas": {
+        "a": "aceite o relato como verdade estabelecida, já que provém de testemunha direta",
+        "b": "considere o relato como uma versão entre outras possíveis, avaliando o que o interesse do narrador pode ter moldado",
+        "c": "conclua que o conto é falho, por não dispor de narrador onisciente",
+        "d": "procure no texto marcas explícitas em que o narrador confesse ter mentido",
+        "e": "descarte a narração e reconstrua os fatos apenas pelos diálogos"
+      },
+      "resposta": "b",
+      "explicacao": "Testemunha direta não é sinônimo de testemunha isenta — é o contrário: quem participou tem o que perder. A leitura produtiva não busca a confissão da mentira, e sim avalia o que a posição do narrador torna conveniente contar."
+    },
+    {
+      "id": "literatura-41",
+      "formato": "direta",
+      "texto_apoio": "Num conto, a mesma cena é narrada duas vezes: primeiro pelo empregado de uma casa, depois pela patroa. Os fatos coincidem, mas o sentido atribuído a cada gesto muda completamente.",
+      "enunciado": "Esse recurso de composição serve para",
+      "alternativas": {
+        "a": "corrigir erros factuais cometidos na primeira versão",
+        "b": "demonstrar que a posição social de quem narra determina o sentido atribuído aos mesmos fatos",
+        "c": "alongar artificialmente o conto, sem acréscimo de sentido",
+        "d": "provar que uma das personagens está mentindo deliberadamente",
+        "e": "eliminar a ambiguidade, fixando a interpretação correta da cena"
+      },
+      "resposta": "b",
+      "explicacao": "Os fatos não mudam — muda quem os interpreta e de que lugar. O recurso não busca desmascarar mentirosos nem fixar a versão certa: ele mostra que o sentido não está no fato, está na posição de quem o lê."
+    },
+    {
+      "id": "literatura-42",
+      "formato": "excecao",
+      "texto_apoio": "O conto, como forma literária, distingue-se do romance por um conjunto de características de composição.",
+      "enunciado": "As alternativas apresentam características usuais do conto, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Concentração da ação em torno de um número reduzido de personagens",
+        "b": "Unidade de efeito, com a narrativa convergindo para um único ponto",
+        "c": "Extensão que permite a leitura em uma sentada",
+        "d": "Desenvolvimento amplo de várias gerações de uma mesma família ao longo de décadas",
+        "e": "Economia de recursos, com poucos elementos descritivos dispensáveis"
+      },
+      "resposta": "d",
+      "explicacao": "Acompanhar várias gerações ao longo de décadas é matéria de romance, e de romance longo — exige exatamente a amplitude que o conto recusa. As demais características descrevem a forma breve com precisão."
+    },
+    {
+      "id": "literatura-43",
+      "formato": "direta",
+      "texto_apoio": "\"No meio do caminho tinha uma pedra / tinha uma pedra no meio do caminho / tinha uma pedra / no meio do caminho tinha uma pedra\" (Carlos Drummond de Andrade, \"No meio do caminho\", 1928)",
+      "enunciado": "A repetição obsessiva dos mesmos termos no poema produz o efeito de",
+      "alternativas": {
+        "a": "reproduzir formalmente o próprio obstáculo, que retorna e bloqueia a passagem do verso",
+        "b": "demonstrar pobreza de vocabulário, indicando descuido na composição",
+        "c": "criar rima interna regular, aproximando o poema do soneto clássico",
+        "d": "narrar uma sequência de acontecimentos em ordem cronológica",
+        "e": "estabelecer diálogo direto com um interlocutor identificado no texto"
+      },
+      "resposta": "a",
+      "explicacao": "A pedra volta no verso como volta na lembrança: o poema não descreve o obstáculo, ele o executa. Quando o escândalo de 1928 acusou o texto de pobreza, confundiu procedimento deliberado com falta de recurso."
+    },
+    {
+      "id": "literatura-44",
+      "formato": "direta",
+      "texto_apoio": "Em \"José\", de Drummond, o eu lírico interpela um interlocutor pelo nome, enumera aquilo que lhe falta — festa, mulher, discurso, doçura — e repete a pergunta sobre o que fazer agora.",
+      "enunciado": "A estrutura de perguntas sem resposta, nesse poema, constrói",
+      "alternativas": {
+        "a": "um convite ao otimismo, já que toda pergunta pressupõe uma saída disponível",
+        "b": "a expressão de um impasse existencial e social, em que a marcha não pode seguir nem parar",
+        "c": "um enigma cuja solução é revelada na última estrofe",
+        "d": "um diálogo real entre duas personagens que se revezam na fala",
+        "e": "uma sequência narrativa que relata a biografia completa do interlocutor"
+      },
+      "resposta": "b",
+      "explicacao": "As perguntas se acumulam sem que nenhuma seja respondida, e é isso que dá forma ao impasse: não há para onde ir e não é possível ficar. O poema não guarda solução na última estrofe — a ausência de saída é o assunto."
+    },
+    {
+      "id": "literatura-45",
+      "formato": "direta",
+      "texto_apoio": "Um poema de Cecília Meireles emprega versos curtos, vocabulário simples, imagens de água, vento e espelho, e trata da fugacidade das coisas sem nomear diretamente a morte.",
+      "enunciado": "A relação entre a forma escolhida e o assunto do poema pode ser descrita como",
+      "alternativas": {
+        "a": "contraste deliberado, pois a leveza formal contradiz o peso do tema",
+        "b": "convergência, pois a fluidez das imagens e a leveza do verso encenam a própria transitoriedade de que o poema fala",
+        "c": "indiferença, pois a forma é convenção do gênero e não dialoga com o assunto",
+        "d": "subordinação da forma à mensagem, que é enunciada de modo direto e explícito",
+        "e": "ruptura modernista, pois o poema recusa qualquer regularidade rítmica"
+      },
+      "resposta": "b",
+      "explicacao": "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa. Forma e assunto dizem a mesma coisa por meios diferentes — não há contraste entre leveza e peso, há coincidência."
+    },
+    {
+      "id": "literatura-46",
+      "formato": "direta",
+      "texto_apoio": "Num soneto, os dois quartetos descrevem uma situação concreta e os dois tercetos extraem dela uma conclusão de alcance geral, introduzida por um conectivo conclusivo.",
+      "enunciado": "Essa organização corresponde a um procedimento clássico do soneto, que consiste em",
+      "alternativas": {
+        "a": "distribuir a mesma imagem igualmente pelas quatro estrofes, sem hierarquia",
+        "b": "reservar aos tercetos a chave interpretativa do que os quartetos apresentaram",
+        "c": "abandonar a métrica nos tercetos para marcar a mudança de assunto",
+        "d": "repetir nos tercetos, com outras palavras, exatamente o conteúdo dos quartetos",
+        "e": "interromper o poema antes da conclusão, deixando-o deliberadamente aberto"
+      },
+      "resposta": "b",
+      "explicacao": "A arquitetura do soneto trabalha por acúmulo e virada: os quartetos montam o caso, os tercetos o interpretam. Reconhecer onde está a chave é o que permite ler o poema como argumento, e não como sequência de imagens."
+    },
+    {
+      "id": "literatura-47",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico dirige-se a uma cidade, atribui-lhe a capacidade de dormir, de mentir e de esquecer, e cobra dela uma resposta que não vem.",
+      "enunciado": "O recurso empregado na construção desse interlocutor é",
+      "alternativas": {
+        "a": "a personificação, que atribui a uma entidade não humana faculdades humanas",
+        "b": "a metonímia, que substitui o todo pela parte",
+        "c": "a hipérbole, que amplia desmedidamente uma qualidade",
+        "d": "a antítese, que aproxima termos de sentido oposto",
+        "e": "a aliteração, que repete sons consonantais próximos"
+      },
+      "resposta": "a",
+      "explicacao": "Dormir, mentir e esquecer são ações de gente, atribuídas a uma cidade. O interlocutor é construído por personificação — e é ela que permite ao poema cobrar da cidade uma resposta, gesto que exigiria um sujeito capaz de dar."
+    },
+    {
+      "id": "literatura-48",
+      "formato": "direta",
+      "texto_apoio": "Um poema da segunda geração modernista brasileira combina verso livre com um tema social explícito — a fome, o trabalho, a desigualdade — mantendo linguagem despojada e sem apelo sentimental.",
+      "enunciado": "Essa combinação é característica da produção poética dos anos 1930 porque",
+      "alternativas": {
+        "a": "recupera as regras métricas parnasianas para tratar de assunto contemporâneo",
+        "b": "herda a liberdade formal conquistada em 1922 e a coloca a serviço de uma preocupação social explícita",
+        "c": "abandona o verso livre e retorna ao soneto como forma dominante",
+        "d": "renuncia a qualquer assunto extraliterário, concentrando-se na palavra em si",
+        "e": "substitui a poesia pela prosa de ficção como forma de intervenção política"
+      },
+      "resposta": "b",
+      "explicacao": "A geração de 1930 não refaz a ruptura formal: ela a recebe pronta de 1922 e a emprega para tratar do país. A distinção útil é essa — a primeira geração conquista a liberdade, a segunda a usa para dizer alguma coisa sobre a realidade brasileira."
+    },
+    {
+      "id": "literatura-49",
+      "formato": "excecao",
+      "texto_apoio": "A análise de um poema costuma considerar tanto o plano do conteúdo quanto o plano da expressão.",
+      "enunciado": "As alternativas apresentam elementos que pertencem ao plano da expressão de um poema, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "O esquema de rimas e sua regularidade ou irregularidade",
+        "b": "A metrificação dos versos e o ritmo que dela resulta",
+        "c": "A recorrência de sons consonantais ou vocálicos ao longo das estrofes",
+        "d": "O contexto histórico em que a obra foi produzida e recebida",
+        "e": "A disposição das estrofes e o modo como os versos se distribuem na página"
+      },
+      "resposta": "d",
+      "explicacao": "Rima, metro, sonoridade e disposição gráfica são matéria da expressão — o como. O contexto histórico é externo ao poema e pertence a outro plano de análise, ainda que ilumine a leitura. Lembre que o comando pede a exceção."
+    },
+    {
+      "id": "literatura-50",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico afirma que prefere a palavra imperfeita e viva à palavra correta e morta, e recusa explicitamente a autoridade dos gramáticos.",
+      "enunciado": "Essa recusa filia o poema a uma posição estética que",
+      "alternativas": {
+        "a": "identifica o valor literário com a obediência à norma culta escrita",
+        "b": "toma a língua viva, inclusive em seus desvios, como matéria legítima da poesia",
+        "c": "defende o retorno ao latim como língua da alta literatura",
+        "d": "considera a poesia um exercício exclusivamente técnico de versificação",
+        "e": "recusa qualquer trabalho consciente com a linguagem em nome da espontaneidade absoluta"
+      },
+      "resposta": "b",
+      "explicacao": "Preferir o vivo ao correto não equivale a abrir mão do trabalho com a linguagem — é escolher outra matéria-prima. Confundir as duas coisas leva à leitura de que o poema pregaria espontaneidade absoluta, que é justamente o oposto de um poema construído para dizer isso."
+    }
+  ]
+}

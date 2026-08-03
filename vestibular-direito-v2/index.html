@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -31,7 +31,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=4">
+<link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
 <div id="app">
@@ -99,6 +99,8 @@
         <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
         (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
         nos dias que você quiser</li>
+        <li>Aba <strong>Redação</strong> à parte, com 15 propostas dissertativo-argumentativas de 20 a 30 linhas e a
+        grade de correção oficial da FGV e do Insper</li>
         <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, distribuídas
         entre as 15 frentes por prioridade — e a semana seguinte passa a focar mais nos temas em que você mais
         errou</li>
@@ -127,6 +129,7 @@
         <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
         <button class="tab-btn" data-tab="simulados">Simulados</button>
         <button class="tab-btn" data-tab="cards">Cards</button>
+        <button class="tab-btn" data-tab="redacao">Redação</button>
         <button class="tab-btn" data-tab="obras">Obras</button>
         <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
         <button class="tab-btn" data-tab="progresso">Meu progresso</button>
@@ -182,6 +185,11 @@
       </section>
 
       <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
+      <!-- TAB: REDAÇÃO (prova própria, separada das dissertativas) -->
+      <section id="tab-redacao" class="tab-panel">
+        <div id="redacao-content"></div>
+      </section>
+
       <section id="tab-obras" class="tab-panel">
         <div id="obras-content"></div>
       </section>
@@ -225,17 +233,18 @@
 
 <!-- Conteúdo compartilhado com o v1: uma base só de questões, teoria, obras e flashcards.
      Corrigir uma questão no v1 corrige nos dois apps. -->
-<script src="../vestibular-direito/data/subtopics.js?d=11"></script>
-<script src="../vestibular-direito/data/theory.js?d=11"></script>
-<script src="../vestibular-direito/data/obras.js?d=11"></script>
-<script src="../vestibular-direito/data/obras-questoes.js?d=11"></script>
-<script src="../vestibular-direito/data/flashcards.js?d=11"></script>
-<script src="../vestibular-direito/data/priority-weights.js?d=11"></script>
-<script src="../vestibular-direito/data/video-topics.js?d=11"></script>
-<script src="../vestibular-direito/data/bundle.js?d=11"></script>
-<script src="../vestibular-direito/data/dissertativas.js?d=11"></script>
-<script src="schedule.js?v=4"></script>
-<script src="app.js?v=4"></script>
-<script type="module" src="auth.js?v=4"></script>
+<script src="../vestibular-direito/data/subtopics.js?d=12"></script>
+<script src="../vestibular-direito/data/theory.js?d=12"></script>
+<script src="../vestibular-direito/data/obras.js?d=12"></script>
+<script src="../vestibular-direito/data/obras-questoes.js?d=12"></script>
+<script src="../vestibular-direito/data/flashcards.js?d=12"></script>
+<script src="../vestibular-direito/data/priority-weights.js?d=12"></script>
+<script src="../vestibular-direito/data/video-topics.js?d=12"></script>
+<script src="../vestibular-direito/data/bundle.js?d=12"></script>
+<script src="../vestibular-direito/data/dissertativas.js?d=12"></script>
+<script src="../vestibular-direito/data/redacoes.js?d=12"></script>
+<script src="schedule.js?v=5"></script>
+<script src="app.js?v=5"></script>
+<script type="module" src="auth.js?v=5"></script>
 </body>
 </html>

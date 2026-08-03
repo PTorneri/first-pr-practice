@@ -17565,13 +17565,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "O sistema de \u0027pacto colonial\u0027 (ou exclusivo metropolitano), que regeu as relações entre Portugal e o Brasil durante o período colonial, caracterizava-se por:",
                                 "alternativas":  {
-                                                     "a":  "Livre comércio entre a colônia e qualquer nação europeia, como ocorria nas colônias espanholas da América",
-                                                     "b":  "Autonomia política total das capitanias hereditárias, o que jamais ocorreu sob a tutela direta da Coroa",
+                                                     "a":  "Liberdade de comércio entre a colônia e as demais nações europeias, mediante pagamento de tarifa à Coroa portuguesa",
+                                                     "b":  "Monopólio comercial da metrópole sobre a colônia, restringindo as trocas comerciais coloniais",
                                                      "c":  "Proibição de qualquer atividade agrícola voltada à exportação, medida nunca aplicada à cana-de-açúcar colonial",
-                                                     "d":  "Monopólio comercial da metrópole sobre a colônia, restringindo as trocas comerciais coloniais",
-                                                     "e":  "Liberdade de comércio entre a colônia e as demais nações europeias, mediante pagamento de tarifa à Coroa portuguesa"
+                                                     "d":  "Livre comércio entre a colônia e qualquer nação europeia, como ocorria nas colônias espanholas da América",
+                                                     "e":  "Autonomia política total das capitanias hereditárias, o que jamais ocorreu sob a tutela direta da Coroa"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "b",
                                 "explicacao":  "O pacto colonial garantia à metrópole portuguesa o monopólio do comércio com sua colônia, impedindo o Brasil de comerciar livremente com outras nações, o que gerava riqueza para Portugal e dependência econômica da colônia.",
                                 "formato":  "direta"
                             },
@@ -17583,8 +17583,8 @@ window.QUESTION_BANKS = {
                                                      "a":  "Centralizar toda a administração colonial nas mãos do rei, modelo que só se consolidaria com o Governo-Geral em 1549",
                                                      "b":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
                                                      "c":  "Ocupar e defender o território sem grandes custos diretos para a metrópole, delegando essa tarefa a donatários",
-                                                     "d":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento da Coroa",
-                                                     "e":  "Centralizar a administração colonial sob um governador-geral, retirando dos donatários a autonomia sobre suas áreas"
+                                                     "d":  "Centralizar a administração colonial sob um governador-geral, retirando dos donatários a autonomia sobre suas áreas",
+                                                     "e":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento da Coroa"
                                                  },
                                 "resposta":  "c",
                                 "explicacao":  "Diante da ameaça de invasões estrangeiras e da falta de recursos para colonizar diretamente, Portugal dividiu o território em capitanias hereditárias, transferindo a donatários particulares o custo e a responsabilidade da colonização.",
@@ -17595,13 +17595,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "A economia açucareira, predominante no Brasil colonial entre os séculos XVI e XVII, organizava-se em torno do sistema de plantation, cujas principais características eram:",
                                 "alternativas":  {
-                                                     "a":  "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno, comum na colonização do Sul",
-                                                     "b":  "Propriedade coletiva indígena e produção diversificada de subsistência, padrão anterior à chegada portuguesa",
-                                                     "c":  "Produção industrial urbana com trabalho livre assalariado, inexistente no contexto agrário colonial da época",
-                                                     "d":  "Grande propriedade monocultora, mão de obra escrava africana e produção voltada à exportação",
+                                                     "a":  "Propriedade coletiva indígena e produção diversificada de subsistência, padrão anterior à chegada portuguesa",
+                                                     "b":  "Pequenas propriedades, mão de obra assalariada e produção voltada ao mercado interno, comum na colonização do Sul",
+                                                     "c":  "Grande propriedade monocultora, mão de obra escrava africana e produção voltada à exportação",
+                                                     "d":  "Produção industrial urbana com trabalho livre assalariado, inexistente no contexto agrário colonial da época",
                                                      "e":  "Pequenas propriedades policultoras trabalhadas por famílias de colonos livres, com produção destinada ao mercado interno"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "O modelo de plantation combinava latifúndio, monocultura (cana-de-açúcar), trabalho escravo africano e destinação da produção ao mercado externo, estrutura que marcou profundamente a formação social e econômica do Brasil.",
                                 "formato":  "direta"
                             },
@@ -17611,12 +17611,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Entre os fatores que contribuíram para essa conspiração, destaca-se:",
                                 "alternativas":  {
                                                      "a":  "A abolição imediata da escravidão pela Coroa portuguesa, medida que só ocorreria um século depois, em 1888",
-                                                     "b":  "A chegada da família real portuguesa ao Brasil, fato ocorrido quase duas décadas após a conspiração de 1789",
-                                                     "c":  "A ameaça de cobrança da derrama, mecanismo de cobrança forçada de impostos atrasados sobre o ouro",
-                                                     "d":  "A proclamação da independência dos Estados Unidos, sem qualquer influência iluminista",
-                                                     "e":  "A circulação de ideias iluministas entre artesãos e soldados de baixa patente, que defendiam o fim da escravidão e a república"
+                                                     "b":  "A circulação de ideias iluministas entre artesãos e soldados de baixa patente, que defendiam o fim da escravidão e a república",
+                                                     "c":  "A chegada da família real portuguesa ao Brasil, fato ocorrido quase duas décadas após a conspiração de 1789",
+                                                     "d":  "A ameaça de cobrança da derrama, mecanismo de cobrança forçada de impostos atrasados sobre o ouro",
+                                                     "e":  "A proclamação da independência dos Estados Unidos, sem qualquer influência iluminista"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "d",
                                 "explicacao":  "O declínio da produção aurífera aumentou a pressão fiscal de Portugal sobre Minas Gerais, com a ameaça da derrama, o que, somado às ideias iluministas e ao exemplo da independência americana, motivou a conspiração de 1789.",
                                 "formato":  "direta"
                             },
@@ -17625,13 +17625,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1808, a família real portuguesa transferiu-se para o Brasil, fugindo das tropas de Napoleão Bonaparte.",
                                 "enunciado":  "Uma das primeiras e mais importantes medidas de Dom João, ainda em 1808, foi:",
                                 "alternativas":  {
-                                                     "a":  "A promulgação da primeira Constituição brasileira, outorgada por Dom Pedro I somente em 1824",
-                                                     "b":  "A abolição da escravidão no território brasileiro, processo que só se completaria com a Lei Áurea de 1888",
-                                                     "c":  "A convocação de eleições diretas para a formação de um parlamento, medida estranha ao contexto absolutista joanino",
-                                                     "d":  "A abertura dos portos brasileiros às nações amigas, rompendo o monopólio comercial português",
-                                                     "e":  "A criação de um banco emissor com monopólio sobre o crédito colonial, medida destinada a financiar a corte recém-chegada"
+                                                     "a":  "A criação de um banco emissor com monopólio sobre o crédito colonial, medida destinada a financiar a corte recém-chegada",
+                                                     "b":  "A abertura dos portos brasileiros às nações amigas, rompendo o monopólio comercial português",
+                                                     "c":  "A abolição da escravidão no território brasileiro, processo que só se completaria com a Lei Áurea de 1888",
+                                                     "d":  "A convocação de eleições diretas para a formação de um parlamento, medida estranha ao contexto absolutista joanino",
+                                                     "e":  "A promulgação da primeira Constituição brasileira, outorgada por Dom Pedro I somente em 1824"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "b",
                                 "explicacao":  "A Abertura dos Portos às Nações Amigas, decretada em 1808, encerrou o exclusivo metropolitano e permitiu que o Brasil comerciasse diretamente com outros países, atendendo sobretudo aos interesses da Inglaterra.",
                                 "formato":  "direta"
                             },
@@ -17640,13 +17640,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Historiadores costumam destacar que a independência do Brasil, em 1822, apresentou fortes elementos de continuidade em relação ao período colonial. Isso se evidencia principalmente por:",
                                 "alternativas":  {
-                                                     "a":  "O fim total das relações econômicas com Portugal, ruptura que só ocorreria décadas depois da independência",
+                                                     "a":  "A ruptura com a ordem escravista e a redistribuição das terras da antiga elite colonial entre os que apoiaram a emancipação",
                                                      "b":  "A distribuição de terras para a população liberta, medida nunca implementada no processo de 1822",
-                                                     "c":  "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia sob o herdeiro da dinastia portuguesa",
+                                                     "c":  "O fim total das relações econômicas com Portugal, ruptura que só ocorreria décadas depois da independência",
                                                      "d":  "A imediata implantação de uma república democrática, regime que só seria adotado em 1889",
-                                                     "e":  "A ruptura com a ordem escravista e a redistribuição das terras da antiga elite colonial entre os que apoiaram a emancipação"
+                                                     "e":  "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia sob o herdeiro da dinastia portuguesa"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "e",
                                 "explicacao":  "Diferentemente de outros processos de independência na América, o Brasil manteve a monarquia, a escravidão e a estrutura social e econômica herdada da colônia, sendo a independência conduzida pelo próprio príncipe herdeiro, Dom Pedro.",
                                 "formato":  "direta"
                             },
@@ -17655,13 +17655,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "A abdicação de Dom Pedro I ao trono brasileiro, em 1831, foi resultado, entre outros fatores, de:",
                                 "alternativas":  {
-                                                     "a":  "Pressão popular para transformar o Brasil em uma república, bandeira que só ganharia força décadas depois, em 1889",
-                                                     "b":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870",
-                                                     "c":  "Sua identificação total com os interesses da elite política nacional, o oposto do que de fato gerou sua abdicação",
-                                                     "d":  "A derrota militar na Guerra da Cisplatina, único fator apontado para a perda de sustentação política do imperador",
-                                                     "e":  "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica, agravados pelo chamado \u0027partido português\u0027"
+                                                     "a":  "A derrota militar na Guerra da Cisplatina, único fator apontado para a perda de sustentação política do imperador",
+                                                     "b":  "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica, agravados pelo chamado \u0027partido português\u0027",
+                                                     "c":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870",
+                                                     "d":  "Pressão popular para transformar o Brasil em uma república, bandeira que só ganharia força décadas depois, em 1889",
+                                                     "e":  "Sua identificação total com os interesses da elite política nacional, o oposto do que de fato gerou sua abdicação"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "b",
                                 "explicacao":  "Dom Pedro I perdeu apoio político por ser visto como excessivamente ligado a Portugal, por conflitos com parlamentares brasileiros e por dificuldades econômicas, o que culminou em sua abdicação em favor do filho, ainda criança.",
                                 "formato":  "direta"
                             },
@@ -17670,13 +17670,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "O Período Regencial (1831-1840) foi marcado por diversas revoltas em várias regiões do país, como a Cabanagem e a Sabinada. Essas revoltas expressavam, em grande medida:",
                                 "alternativas":  {
-                                                     "a":  "Tensões sociais, econômicas e regionais, com disputas de poder local e insatisfação de camadas populares excluídas",
-                                                     "b":  "Apoio unânime ao retorno de Dom Pedro I ao trono, hipótese incompatível com o clima de disputas do período regencial",
-                                                     "c":  "A ausência completa de conflitos durante a menoridade de Dom Pedro II, quadro desmentido pelas próprias revoltas regenciais",
-                                                     "d":  "Um consenso nacional em torno da centralização monárquica, ideia contrária às tensões regionais da época regencial",
-                                                     "e":  "Uma estabilidade institucional incomum, com as elites regionais apoiando o governo central durante toda a menoridade"
+                                                     "a":  "Apoio unânime ao retorno de Dom Pedro I ao trono, hipótese incompatível com o clima de disputas do período regencial",
+                                                     "b":  "Tensões sociais, econômicas e regionais, com disputas de poder local e insatisfação de camadas populares excluídas",
+                                                     "c":  "Uma estabilidade institucional incomum, com as elites regionais apoiando o governo central durante toda a menoridade",
+                                                     "d":  "A ausência completa de conflitos durante a menoridade de Dom Pedro II, quadro desmentido pelas próprias revoltas regenciais",
+                                                     "e":  "Um consenso nacional em torno da centralização monárquica, ideia contrária às tensões regionais da época regencial"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "b",
                                 "explicacao":  "As revoltas regenciais refletiram a fragilidade do poder central diante de tensões sociais, econômicas e regionais acumuladas, envolvendo desde elites locais insatisfeitas até camadas populares e escravizadas em busca de melhores condições.",
                                 "formato":  "direta"
                             },
@@ -17685,13 +17685,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Durante o Segundo Reinado, a economia cafeeira tornou-se o principal eixo da economia brasileira. A crise final da monarquia, na década de 1880, esteve associada a:",
                                 "alternativas":  {
-                                                     "a":  "A ausência total de qualquer movimento republicano no país, o que contraria a existência do Partido Republicano desde 1870",
-                                                     "b":  "A anexação de novos territórios que fortaleceu o poder do imperador, fato que não ocorreu nas décadas finais do Império",
-                                                     "c":  "O fortalecimento definitivo da mão de obra escrava como base da lavoura cafeeira, tendência revertida pela imigração europeia",
-                                                     "d":  "O apoio dos cafeicultores à Coroa até o fim do regime, rompido apenas pela proclamação militar de 1889",
-                                                     "e":  "O desgaste das relações entre a monarquia e cafeicultores, militares e abolicionistas, somado ao fim da escravidão em 1888"
+                                                     "a":  "O fortalecimento definitivo da mão de obra escrava como base da lavoura cafeeira, tendência revertida pela imigração europeia",
+                                                     "b":  "A ausência total de qualquer movimento republicano no país, o que contraria a existência do Partido Republicano desde 1870",
+                                                     "c":  "A anexação de novos territórios que fortaleceu o poder do imperador, fato que não ocorreu nas décadas finais do Império",
+                                                     "d":  "O desgaste das relações entre a monarquia e cafeicultores, militares e abolicionistas, somado ao fim da escravidão em 1888",
+                                                     "e":  "O apoio dos cafeicultores à Coroa até o fim do regime, rompido apenas pela proclamação militar de 1889"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "A crise da monarquia resultou da soma de diversos fatores: insatisfação de cafeicultores paulistas com a falta de apoio à transição para o trabalho livre, atrito com os militares após a Guerra do Paraguai e o impacto da abolição de 1888, que rompeu com setores da elite escravista.",
                                 "formato":  "direta"
                             },
@@ -17715,13 +17715,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Durante a chamada República Velha (1889-1930), a política do \u0027café com leite\u0027 e o coronelismo caracterizavam-se, respectivamente, por:",
                                 "alternativas":  {
-                                                     "a":  "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais",
-                                                     "b":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais, arranjo nunca formalizado na República Velha",
-                                                     "c":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
-                                                     "d":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento que motivou a criação das capitanias",
-                                                     "e":  "A alternância entre os partidos Liberal e Conservador no gabinete, arbitrada pelo Poder Moderador do imperador"
+                                                     "a":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento que motivou a criação das capitanias",
+                                                     "b":  "A alternância entre os partidos Liberal e Conservador no gabinete, arbitrada pelo Poder Moderador do imperador",
+                                                     "c":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais, arranjo nunca formalizado na República Velha",
+                                                     "d":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
+                                                     "e":  "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "A política do café com leite referia-se ao predomínio de São Paulo e Minas Gerais na sucessão presidencial, enquanto o coronelismo era o sistema pelo qual chefes políticos locais (coronéis) controlavam o voto e trocavam favores com o poder estadual e federal.",
                                 "formato":  "direta"
                             },
@@ -17730,13 +17730,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
                                 "alternativas":  {
-                                                     "a":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930, que se completaria apenas em 1888",
-                                                     "b":  "A vitória militar do Brasil na Primeira Guerra Mundial, conflito de participação modesta e sem relação com a crise de 1929",
-                                                     "c":  "A imediata industrialização plena do país nas décadas anteriores, processo que de fato só ganharia impulso com o próprio governo Vargas",
-                                                     "d":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes",
-                                                     "e":  "A pressão de movimentos operários urbanos organizados, que impuseram a substituição do governo por via revolucionária"
+                                                     "a":  "A pressão de movimentos operários urbanos organizados, que impuseram a substituição do governo por via revolucionária",
+                                                     "b":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930, que se completaria apenas em 1888",
+                                                     "c":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes",
+                                                     "d":  "A imediata industrialização plena do país nas décadas anteriores, processo que de fato só ganharia impulso com o próprio governo Vargas",
+                                                     "e":  "A vitória militar do Brasil na Primeira Guerra Mundial, conflito de participação modesta e sem relação com a crise de 1929"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "A crise econômica de 1929 afetou duramente a economia cafeeira, e a ruptura da aliança São Paulo-Minas Gerais, quando Washington Luís apoiou Júlio Prestes (paulista) em vez de um mineiro, gerou a Aliança Liberal e o movimento armado que levou Vargas ao poder.",
                                 "formato":  "direta"
                             },
@@ -17761,10 +17761,10 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A Consolidação das Leis do Trabalho (CLT), promulgada em 1943 durante o Estado Novo, é um exemplo do chamado \u0027trabalhismo\u0027 varguista, que se caracterizava por:",
                                 "alternativas":  {
                                                      "a":  "Ampliar direitos sociais aos trabalhadores urbanos, ao mesmo tempo em que atrelava os sindicatos ao controle do Estado",
-                                                     "b":  "Conceder direitos trabalhistas de forma autônoma e independente do controle estatal sobre os sindicatos",
-                                                     "c":  "Excluir completamente os trabalhadores urbanos de qualquer proteção legal, o oposto do que de fato previu a CLT",
+                                                     "b":  "Garantir autonomia plena aos sindicatos frente ao Estado, seguindo o modelo de negociação coletiva livre então vigente",
+                                                     "c":  "Conceder direitos trabalhistas de forma autônoma e independente do controle estatal sobre os sindicatos",
                                                      "d":  "Beneficiar exclusivamente os trabalhadores rurais, categoria só amparada pelo Estatuto do Trabalhador Rural em 1963",
-                                                     "e":  "Garantir autonomia plena aos sindicatos frente ao Estado, seguindo o modelo de negociação coletiva livre então vigente"
+                                                     "e":  "Excluir completamente os trabalhadores urbanos de qualquer proteção legal, o oposto do que de fato previu a CLT"
                                                  },
                                 "resposta":  "a",
                                 "explicacao":  "O trabalhismo de Vargas combinava a concessão de direitos sociais (férias, jornada de trabalho, salário mínimo) com o controle estatal sobre os sindicatos, em uma lógica de conciliação de classes sob tutela do Estado.",
@@ -17835,13 +17835,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A descoberta de ouro em Minas Gerais, no final do século XVII, deslocou o eixo econômico da colônia.",
                                 "enunciado":  "O chamado ciclo do ouro, no século XVIII, teve como uma de suas principais consequências para a colônia:",
                                 "alternativas":  {
-                                                     "a":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial, situação já superada com o próprio ciclo do ouro",
+                                                     "a":  "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais",
                                                      "b":  "O fim completo da utilização de mão de obra escrava na colônia, o que só ocorreria com a Lei Áurea de 1888, décadas mais tarde",
                                                      "c":  "A transferência imediata da capital colonial para Vila Rica, mudança que só ocorreria, para o Rio de Janeiro, em 1763",
                                                      "d":  "A consolidação do Nordeste açucareiro como centro econômico da colônia, reforçada pelo capital vindo das minas",
-                                                     "e":  "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais"
+                                                     "e":  "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial, situação já superada com o próprio ciclo do ouro"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "a",
                                 "explicacao":  "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei.",
                                 "formato":  "direta"
                             },
@@ -17850,13 +17850,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Coroa portuguesa criou mecanismos rígidos para fiscalizar e arrecadar tributos sobre o ouro extraído no Brasil colonial.",
                                 "enunciado":  "Entre os instrumentos de controle fiscal da metrópole sobre a produção aurífera estavam o quinto (tributo de 20% sobre o ouro extraído) e:",
                                 "alternativas":  {
-                                                     "a":  "A distribuição gratuita de terras auríferas a qualquer colono, sem cobrança de tributos",
-                                                     "b":  "A proibição total da extração de ouro por particulares, o que jamais vigorou na prática colonial",
-                                                     "c":  "A isenção fiscal concedida aos mineradores durante todo o século XVIII, contrária à lógica do quinto real",
-                                                     "d":  "As Casas de Fundição, que transformavam o ouro em barras já com o quinto descontado",
-                                                     "e":  "Os entrepostos comerciais da Companhia das Índias, que centralizavam a compra do ouro extraído pelos mineradores"
+                                                     "a":  "Os entrepostos comerciais da Companhia das Índias, que centralizavam a compra do ouro extraído pelos mineradores",
+                                                     "b":  "A isenção fiscal concedida aos mineradores durante todo o século XVIII, contrária à lógica do quinto real",
+                                                     "c":  "A proibição total da extração de ouro por particulares, o que jamais vigorou na prática colonial",
+                                                     "d":  "A distribuição gratuita de terras auríferas a qualquer colono, sem cobrança de tributos",
+                                                     "e":  "As Casas de Fundição, que transformavam o ouro em barras já com o quinto descontado"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "e",
                                 "explicacao":  "As Casas de Fundição, criadas no início do século XVIII, centralizavam a fundição do ouro em barras já com o desconto do quinto devido à Coroa, mecanismo que buscava coibir o contrabando e garantir a arrecadação fiscal sobre a mineração.",
                                 "formato":  "direta"
                             },
@@ -17865,13 +17865,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Guerra do Paraguai (1864-1870) envolveu o Paraguai contra a Tríplice Aliança, formada por Brasil, Argentina e Uruguai.",
                                 "enunciado":  "Entre os fatores que contribuíram para a eclosão do conflito estão:",
                                 "alternativas":  {
-                                                     "a":  "Uma aliança militar entre Brasil e Paraguai contra a Argentina, o oposto da aliança que de fato se formou em 1864",
-                                                     "b":  "Disputas pela livre navegação dos rios da Bacia do Prata e rivalidades de influência política na região do Uruguai",
-                                                     "c":  "A disputa pelo controle do território amazônico, região alheia ao teatro de operações do conflito",
-                                                     "d":  "A recusa brasileira em reconhecer a independência do Paraguai, reconhecida pelo Brasil ainda em 1844",
-                                                     "e":  "A disputa pela posse das Missões Jesuíticas, que opunha as Coroas ibéricas desde os tratados de limites do século XVIII"
+                                                     "a":  "A recusa brasileira em reconhecer a independência do Paraguai, reconhecida pelo Brasil ainda em 1844",
+                                                     "b":  "A disputa pelo controle do território amazônico, região alheia ao teatro de operações do conflito",
+                                                     "c":  "A disputa pela posse das Missões Jesuíticas, que opunha as Coroas ibéricas desde os tratados de limites do século XVIII",
+                                                     "d":  "Disputas pela livre navegação dos rios da Bacia do Prata e rivalidades de influência política na região do Uruguai",
+                                                     "e":  "Uma aliança militar entre Brasil e Paraguai contra a Argentina, o oposto da aliança que de fato se formou em 1864"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "O conflito teve entre suas causas a disputa pelo controle da navegação nos rios da Bacia do Prata, estratégica para o comércio regional, e as rivalidades pela influência política no Uruguai, que envolveram Brasil, Argentina e Paraguai em sucessivas crises diplomáticas.",
                                 "formato":  "direta"
                             },
@@ -17880,13 +17880,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Entre as principais consequências da Guerra do Paraguai para o Brasil, destaca-se:",
                                 "alternativas":  {
-                                                     "a":  "A imediata abolição da escravidão como recompensa aos soldados, medida que só ocorreria décadas depois, em 1888",
-                                                     "b":  "O fortalecimento econômico do Paraguai, vencedor do conflito, quando na verdade o país foi devastado pela derrota",
-                                                     "c":  "O fortalecimento político e institucional do Exército e o aumento da dívida externa brasileira, contraída sobretudo com a Inglaterra",
-                                                     "d":  "A redução do prestígio e do poder político do Exército brasileiro, o oposto do que de fato ocorreu após 1870",
-                                                     "e":  "A redução do peso político do Exército, que voltou aos quartéis sem interferir na vida institucional do Império"
+                                                     "a":  "O fortalecimento econômico do Paraguai, vencedor do conflito, quando na verdade o país foi devastado pela derrota",
+                                                     "b":  "A redução do peso político do Exército, que voltou aos quartéis sem interferir na vida institucional do Império",
+                                                     "c":  "A imediata abolição da escravidão como recompensa aos soldados, medida que só ocorreria décadas depois, em 1888",
+                                                     "d":  "O fortalecimento político e institucional do Exército e o aumento da dívida externa brasileira, contraída sobretudo com a Inglaterra",
+                                                     "e":  "A redução do prestígio e do poder político do Exército brasileiro, o oposto do que de fato ocorreu após 1870"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "d",
                                 "explicacao":  "A guerra fortaleceu o Exército brasileiro como instituição política, ampliando sua influência posterior na vida pública, e elevou substancialmente a dívida externa do país, contraída em grande parte com bancos ingleses para financiar o esforço de guerra.",
                                 "formato":  "direta"
                             },
@@ -17896,12 +17896,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A experiência da Guerra do Paraguai contribuiu para o desgaste da monarquia brasileira sobretudo porque:",
                                 "alternativas":  {
                                                      "a":  "Resultou na anexação de novos territórios que fortaleceram economicamente o Império, o que não ocorreu no período",
-                                                     "b":  "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II, o oposto do desgaste que de fato se seguiu",
-                                                     "c":  "Eliminou qualquer influência política das Forças Armadas na vida nacional, tendência contrária ao tenentismo posterior",
-                                                     "d":  "Estreitou os laços entre a oficialidade e a Coroa, que passou a contar com o Exército como sustentáculo do trono",
-                                                     "e":  "Aproximou o Exército de ideais republicanos e, em parte, abolicionistas, gerando atritos com o governo imperial"
+                                                     "b":  "Eliminou qualquer influência política das Forças Armadas na vida nacional, tendência contrária ao tenentismo posterior",
+                                                     "c":  "Consolidou definitivamente o apoio dos militares à figura de Dom Pedro II, o oposto do desgaste que de fato se seguiu",
+                                                     "d":  "Aproximou o Exército de ideais republicanos e, em parte, abolicionistas, gerando atritos com o governo imperial",
+                                                     "e":  "Estreitou os laços entre a oficialidade e a Coroa, que passou a contar com o Exército como sustentáculo do trono"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "Após a guerra, parte da oficialidade militar, influenciada por ideias republicanas e positivistas, e sensibilizada pela participação de escravizados e libertos no conflito, aproximou-se de causas como o abolicionismo e o republicanismo, contribuindo para o desgaste das relações com a monarquia.",
                                 "formato":  "direta"
                             },
@@ -17910,13 +17910,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Antes da Lei Áurea de 1888, o Brasil aprovou leis que sinalizavam o fim gradual da escravidão.",
                                 "enunciado":  "A Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885) tinham em comum o fato de:",
                                 "alternativas":  {
-                                                     "a":  "Abolirem imediata e completamente a escravidão em todo o território nacional, o que só ocorreu com a Lei Áurea",
-                                                     "b":  "Concederem direitos políticos plenos à população liberta, direito ainda negado à maioria da população pobre, inclusive após 1888",
-                                                     "c":  "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna do país",
-                                                     "d":  "Representarem medidas graduais e limitadas, que não extinguiam de imediato a escravidão da maioria da população cativa",
-                                                     "e":  "Terem promovido a libertação imediata de todos os escravizados nas províncias onde foram aplicadas, antes de 1888"
+                                                     "a":  "Concederem direitos políticos plenos à população liberta, direito ainda negado à maioria da população pobre, inclusive após 1888",
+                                                     "b":  "Representarem medidas graduais e limitadas, que não extinguiam de imediato a escravidão da maioria da população cativa",
+                                                     "c":  "Abolirem imediata e completamente a escravidão em todo o território nacional, o que só ocorreu com a Lei Áurea",
+                                                     "d":  "Terem promovido a libertação imediata de todos os escravizados nas províncias onde foram aplicadas, antes de 1888",
+                                                     "e":  "Serem aprovadas por pressão exclusiva do governo britânico, sem qualquer mobilização interna do país"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "b",
                                 "explicacao":  "Essas leis representaram um processo de abolição gradual: a Lei do Ventre Livre libertava os filhos nascidos de mulheres escravizadas a partir de então, e a Lei dos Sexagenários libertava escravizados com mais de 60 anos, mas ambas mantinham a escravidão para a maioria da população cativa até 1888.",
                                 "formato":  "direta"
                             },
@@ -17925,13 +17925,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "O movimento abolicionista brasileiro reuniu políticos, jornalistas e ex-escravizados na luta pelo fim da escravidão.",
                                 "enunciado":  "Joaquim Nabuco e José do Patrocínio destacaram-se nesse movimento, sobretudo, por:",
                                 "alternativas":  {
-                                                     "a":  "Defenderem a manutenção da escravidão como base da economia agroexportadora, o oposto de sua atuação histórica",
-                                                     "b":  "Atuarem na mobilização política e na imprensa, denunciando os horrores da escravidão e pressionando por sua abolição",
+                                                     "a":  "Atuarem na mobilização política e na imprensa, denunciando os horrores da escravidão e pressionando por sua abolição",
+                                                     "b":  "Defenderem a manutenção da escravidão como base da economia agroexportadora, o oposto de sua atuação histórica",
                                                      "c":  "Liderarem exclusivamente rebeliões armadas de escravizados nos engenhos, atuação distinta da que de fato tiveram",
-                                                     "d":  "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba, grupo que se opôs abertamente às pautas abolicionistas",
-                                                     "e":  "Terem defendido a indenização dos proprietários como condição para a abolição, posição adotada pela Lei Áurea"
+                                                     "d":  "Terem defendido a indenização dos proprietários como condição para a abolição, posição adotada pela Lei Áurea",
+                                                     "e":  "Representarem os interesses dos grandes cafeicultores escravistas do Vale do Paraíba, grupo que se opôs abertamente às pautas abolicionistas"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "a",
                                 "explicacao":  "Joaquim Nabuco e José do Patrocínio foram figuras centrais do abolicionismo, atuando na política parlamentar, na imprensa e na organização de sociedades abolicionistas, mobilizando a opinião pública em favor do fim da escravidão no Brasil.",
                                 "formato":  "direta"
                             },
@@ -17941,10 +17941,10 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Esse arranjo, formulado sobretudo no governo de Campos Sales, consistia em:",
                                 "alternativas":  {
                                                      "a":  "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo em troca de autonomia e recursos",
-                                                     "b":  "Um sistema de eleição direta e universal para governadores, sem qualquer interferência do governo federal, o que nunca existiu",
-                                                     "c":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava esse arranjo político da República Velha",
-                                                     "d":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal, o que nunca fez parte do arranjo",
-                                                     "e":  "Um sistema de eleições diretas com apuração independente, que reduziu a influência dos coronéis sobre o voto rural"
+                                                     "b":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava esse arranjo político da República Velha",
+                                                     "c":  "Um sistema de eleição direta e universal para governadores, sem qualquer interferência do governo federal, o que nunca existiu",
+                                                     "d":  "Um sistema de eleições diretas com apuração independente, que reduziu a influência dos coronéis sobre o voto rural",
+                                                     "e":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal, o que nunca fez parte do arranjo"
                                                  },
                                 "resposta":  "a",
                                 "explicacao":  "A política dos governadores consistia em um acordo entre o presidente da República e as oligarquias estaduais dominantes: o governo federal reconhecia e apoiava os grupos no poder em cada estado em troca de apoio político no Congresso Nacional, fortalecendo o controle oligárquico regional.",
@@ -17956,12 +17956,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A prática de anular mandatos de candidatos da oposição por meio dessa Comissão ficou conhecida como:",
                                 "alternativas":  {
                                                      "a":  "Voto de cabresto (controle do voto de eleitores dependentes por chefes locais)",
-                                                     "b":  "Coronelismo (sistema de trocas de favores entre poder local e poder estadual)",
-                                                     "c":  "Salvacionismo (intervenções federais para repor situações políticas estaduais aliadas)",
-                                                     "d":  "Voto de cabresto, controle exercido pelos coronéis sobre o eleitorado rural dependente de suas terras",
-                                                     "e":  "Degola (invalidação de mandatos de opositores pela Comissão de Verificação de Poderes)"
+                                                     "b":  "Degola (invalidação de mandatos de opositores pela Comissão de Verificação de Poderes)",
+                                                     "c":  "Voto de cabresto, controle exercido pelos coronéis sobre o eleitorado rural dependente de suas terras",
+                                                     "d":  "Coronelismo (sistema de trocas de favores entre poder local e poder estadual)",
+                                                     "e":  "Salvacionismo (intervenções federais para repor situações políticas estaduais aliadas)"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "b",
                                 "explicacao":  "A \u0027degola\u0027 era a prática pela qual a Comissão de Verificação de Poderes, controlada pela situação política dominante, invalidava o diploma de candidatos eleitos pela oposição, garantindo o predomínio dos grupos oligárquicos no Congresso durante a República Velha.",
                                 "formato":  "direta"
                             },
@@ -17986,10 +17986,10 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Entre os principais desdobramentos da Revolução Constitucionalista de 1932, está:",
                                 "alternativas":  {
                                                      "a":  "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
-                                                     "b":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição no horizonte político",
+                                                     "b":  "A convocação de eleições diretas para a presidência, atendendo à principal reivindicação do movimento paulista",
                                                      "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954, já em seu segundo governo",
-                                                     "d":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito",
-                                                     "e":  "A convocação de eleições diretas para a presidência, atendendo à principal reivindicação do movimento paulista"
+                                                     "d":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição no horizonte político",
+                                                     "e":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito"
                                                  },
                                 "resposta":  "a",
                                 "explicacao":  "Apesar da derrota militar de São Paulo, o governo Vargas atendeu, em parte, às reivindicações do movimento ao convocar eleições para uma Assembleia Nacional Constituinte, que resultou na promulgação da Constituição de 1934.",
@@ -18000,13 +18000,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "No segundo governo Vargas (1951-1954), eleito diretamente pelo voto popular, destacou-se a política de nacionalismo econômico.",
                                 "enunciado":  "O principal símbolo dessa política nacionalista foi:",
                                 "alternativas":  {
-                                                     "a":  "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico, instituições mantidas e fortalecidas",
-                                                     "b":  "A privatização das principais estatais brasileiras, processo que só ganharia força décadas depois, já no contexto das reformas dos anos 1990",
-                                                     "c":  "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia, política oposta ao monopólio criado",
-                                                     "d":  "A criação da Companhia Siderúrgica Nacional, em Volta Redonda, símbolo maior da política nacionalista do período",
-                                                     "e":  "A criação da Petrobras, em 1953, sob o lema \u0027o petróleo é nosso\u0027, estabelecendo o monopólio estatal sobre a exploração do petróleo"
+                                                     "a":  "A criação da Petrobras, em 1953, sob o lema \u0027o petróleo é nosso\u0027, estabelecendo o monopólio estatal sobre a exploração do petróleo",
+                                                     "b":  "A criação da Companhia Siderúrgica Nacional, em Volta Redonda, símbolo maior da política nacionalista do período",
+                                                     "c":  "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico, instituições mantidas e fortalecidas",
+                                                     "d":  "A privatização das principais estatais brasileiras, processo que só ganharia força décadas depois, já no contexto das reformas dos anos 1990",
+                                                     "e":  "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia, política oposta ao monopólio criado"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "a",
                                 "explicacao":  "A criação da Petrobras em 1953, resultado da campanha popular \u0027o petróleo é nosso\u0027, simbolizou o nacionalismo econômico do segundo governo Vargas, que buscava fortalecer o controle estatal sobre setores estratégicos da economia brasileira.",
                                 "formato":  "direta"
                             },
@@ -18015,13 +18015,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Juscelino Kubitschek governou o Brasil entre 1956 e 1961, sob o lema de campanha \u002750 anos em 5\u0027.",
                                 "enunciado":  "O Plano de Metas de seu governo teve como principal símbolo:",
                                 "alternativas":  {
-                                                     "a":  "A implantação de um regime de economia estritamente planificada nos moldes soviéticos, modelo nunca adotado por nenhum governo brasileiro",
-                                                     "b":  "A construção de Brasília, nova capital federal, e o incentivo à industrialização com forte participação de capital estrangeiro",
-                                                     "c":  "A interrupção da construção de rodovias e da indústria automobilística, medida contrária ao próprio Plano de Metas, que ampliou ambos os setores",
-                                                     "d":  "A nacionalização completa de todas as empresas estrangeiras instaladas no país, política inversa à execução real do governo JK",
-                                                     "e":  "A estatização das concessionárias estrangeiras de energia e transporte, base declarada do programa de desenvolvimento"
+                                                     "a":  "A estatização das concessionárias estrangeiras de energia e transporte, base declarada do programa de desenvolvimento",
+                                                     "b":  "A nacionalização completa de todas as empresas estrangeiras instaladas no país, política inversa à execução real do governo JK",
+                                                     "c":  "A construção de Brasília, nova capital federal, e o incentivo à industrialização com forte participação de capital estrangeiro",
+                                                     "d":  "A implantação de um regime de economia estritamente planificada nos moldes soviéticos, modelo nunca adotado por nenhum governo brasileiro",
+                                                     "e":  "A interrupção da construção de rodovias e da indústria automobilística, medida contrária ao próprio Plano de Metas, que ampliou ambos os setores"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "O Plano de Metas de JK priorizou a industrialização acelerada, com forte participação de capital estrangeiro em setores como o automobilístico, tendo como símbolo maior a construção de Brasília, inaugurada em 1960 como nova capital federal.",
                                 "formato":  "direta"
                             },
@@ -18045,13 +18045,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "No início da década de 1990, o Brasil enfrentava um quadro de hiperinflação crônica, com sucessivos planos econômicos fracassados.",
                                 "enunciado":  "O Plano Real, lançado em 1994, adotou como estratégia inicial de estabilização:",
                                 "alternativas":  {
-                                                     "a":  "A adoção do dólar como moeda oficial do país, medida jamais adotada oficialmente por nenhum governo brasileiro no período republicano",
-                                                     "b":  "O congelamento imediato de preços e salários, sem qualquer mudança na moeda, estratégia dos planos Cruzado e Collor, não do desenho do Plano Real",
-                                                     "c":  "A confiscação das poupanças e contas correntes da população, medida adotada pelo Plano Collor em 1990, não pelo Plano Real de 1994",
-                                                     "d":  "A criação de um indexador de transição, a URV (Unidade Real de Valor), antes da introdução da nova moeda, o real",
-                                                     "e":  "O congelamento imediato de preços e salários, acompanhado da troca da moeda sem período de transição"
+                                                     "a":  "A confiscação das poupanças e contas correntes da população, medida adotada pelo Plano Collor em 1990, não pelo Plano Real de 1994",
+                                                     "b":  "A adoção do dólar como moeda oficial do país, medida jamais adotada oficialmente por nenhum governo brasileiro no período republicano",
+                                                     "c":  "O congelamento imediato de preços e salários, sem qualquer mudança na moeda, estratégia dos planos Cruzado e Collor, não do desenho do Plano Real",
+                                                     "d":  "O congelamento imediato de preços e salários, acompanhado da troca da moeda sem período de transição",
+                                                     "e":  "A criação de um indexador de transição, a URV (Unidade Real de Valor), antes da introdução da nova moeda, o real"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "e",
                                 "explicacao":  "Diferentemente de planos anteriores baseados em congelamentos abruptos, o Plano Real utilizou a URV como unidade de referência de valor para reequilibrar preços gradualmente, antes de instituir o real como nova moeda nacional em julho de 1994.",
                                 "formato":  "direta"
                             },
@@ -18060,13 +18060,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Entre os principais resultados do Plano Real nos anos seguintes ao seu lançamento, destaca-se:",
                                 "alternativas":  {
-                                                     "a":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra da população de baixa renda",
-                                                     "b":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994, cenário oposto ao efetivamente observado com a estabilização do Real",
-                                                     "c":  "O fim completo da dívida pública brasileira, resultado que não ocorreu, já que a dívida seguiu sendo tema central da política econômica",
-                                                     "d":  "A imediata eliminação das desigualdades sociais no país, meta que permaneceu um desafio persistente mesmo após a estabilização de preços",
+                                                     "a":  "A imediata eliminação das desigualdades sociais no país, meta que permaneceu um desafio persistente mesmo após a estabilização de preços",
+                                                     "b":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra da população de baixa renda",
+                                                     "c":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994, cenário oposto ao efetivamente observado com a estabilização do Real",
+                                                     "d":  "O fim completo da dívida pública brasileira, resultado que não ocorreu, já que a dívida seguiu sendo tema central da política econômica",
                                                      "e":  "Uma redução transitória da inflação, seguida da retomada dos índices anteriores em menos de dois anos"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "b",
                                 "explicacao":  "O Plano Real obteve êxito em controlar a hiperinflação que corroía o poder de compra da população, especialmente das camadas mais pobres, trazendo maior estabilidade macroeconômica, embora desafios como dívida pública e desigualdade social tenham persistido.",
                                 "formato":  "direta"
                             },
@@ -18105,13 +18105,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Assinado em 1494, o Tratado de Tordesilhas dividiu as terras a serem descobertas fora da Europa entre Portugal e Espanha.",
                                 "enunciado":  "Esse tratado, posteriormente usado por Portugal para justificar a posse do território brasileiro, estabelecia como critério de partilha:",
                                 "alternativas":  {
-                                                     "a":  "A divisão das terras conforme a língua falada pelos povos nativos, critério nunca utilizado em tratados diplomáticos europeus da época",
-                                                     "b":  "A repartição igualitária de todo o continente americano entre as duas coroas, ausente do texto de Tordesilhas",
-                                                     "c":  "A submissão de toda a partilha à aprovação do papado, sem qualquer linha geográfica definida, ao contrário do meridiano fixado",
-                                                     "d":  "Uma linha imaginária a 100 léguas a oeste de Cabo Verde, definida pela bula papal anterior ao acordo entre as Coroas",
-                                                     "e":  "Uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, cabendo a Portugal as terras a leste dessa linha"
+                                                     "a":  "A repartição igualitária de todo o continente americano entre as duas coroas, ausente do texto de Tordesilhas",
+                                                     "b":  "Uma linha imaginária a 100 léguas a oeste de Cabo Verde, definida pela bula papal anterior ao acordo entre as Coroas",
+                                                     "c":  "A divisão das terras conforme a língua falada pelos povos nativos, critério nunca utilizado em tratados diplomáticos europeus da época",
+                                                     "d":  "Uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, cabendo a Portugal as terras a leste dessa linha",
+                                                     "e":  "A submissão de toda a partilha à aprovação do papado, sem qualquer linha geográfica definida, ao contrário do meridiano fixado"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "O Tratado de Tordesilhas estabeleceu um meridiano a 370 léguas a oeste de Cabo Verde: as terras a leste caberiam a Portugal e as a oeste, à Espanha, critério que mais tarde amparou a reivindicação portuguesa sobre parte do território sul-americano.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18121,13 +18121,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Nas primeiras décadas após 1500, antes do início da colonização efetiva, a exploração do território português na América baseou-se na extração do pau-brasil.",
                                 "enunciado":  "Essa fase inicial de exploração caracterizou-se, sobretudo, por:",
                                 "alternativas":  {
-                                                     "a":  "Escambo com indígenas, que forneciam a madeira em troca de objetos europeus, sem colonização fixa do território",
-                                                     "b":  "Grandes investimentos em povoamento permanente e construção de cidades, política que só se intensificaria com as capitanias, décadas depois",
+                                                     "a":  "Grandes investimentos em povoamento permanente e construção de cidades, política que só se intensificaria com as capitanias, décadas depois",
+                                                     "b":  "Instalação imediata de engenhos e vilas litorâneas, com uso de mão de obra africana desde as primeiras décadas",
                                                      "c":  "Implantação imediata do sistema de capitanias hereditárias, medida adotada apenas a partir de 1534, após o fim do ciclo do pau-brasil",
                                                      "d":  "Proibição total do contato entre europeus e populações indígenas, o oposto do escambo que de fato caracterizou essa fase inicial",
-                                                     "e":  "Instalação imediata de engenhos e vilas litorâneas, com uso de mão de obra africana desde as primeiras décadas"
+                                                     "e":  "Escambo com indígenas, que forneciam a madeira em troca de objetos europeus, sem colonização fixa do território"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "No período de exploração do pau-brasil, portugueses estabeleciam feitorias litorâneas e trocavam mercadorias europeias pelo trabalho indígena de corte e transporte da madeira, sem promover ainda a ocupação e colonização sistemática do território.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18137,13 +18137,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Herdado do direito português, o sistema de sesmarias regulou a distribuição de terras no Brasil colonial.",
                                 "enunciado":  "Esse sistema caracterizava-se por:",
                                 "alternativas":  {
-                                                     "a":  "Distribuir pequenas propriedades igualitárias a todos os colonos, sem distinção social, modelo que só surgiria com reformas agrárias muito posteriores",
-                                                     "b":  "Garantir posse coletiva das terras às comunidades indígenas, direito que as sesmarias, na prática, jamais reconheceram aos povos originários",
-                                                     "c":  "Impedir qualquer forma de propriedade privada da terra na colônia, o oposto do que as sesmarias de fato instituíram desde o início",
-                                                     "d":  "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, o que favoreceu a concentração fundiária desde o período colonial",
+                                                     "a":  "Garantir posse coletiva das terras às comunidades indígenas, direito que as sesmarias, na prática, jamais reconheceram aos povos originários",
+                                                     "b":  "Distribuir pequenas propriedades igualitárias a todos os colonos, sem distinção social, modelo que só surgiria com reformas agrárias muito posteriores",
+                                                     "c":  "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, o que favoreceu a concentração fundiária desde o período colonial",
+                                                     "d":  "Impedir qualquer forma de propriedade privada da terra na colônia, o oposto do que as sesmarias de fato instituíram desde o início",
                                                      "e":  "Distribuir pequenos lotes a colonos pobres mediante pagamento em prestações, favorecendo a divisão da propriedade"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "As sesmarias eram concessões de grandes extensões de terra feitas pela Coroa a colonos com recursos para explorá-las, prática que lançou as bases da estrutura fundiária concentrada que marcaria a história agrária brasileira por séculos.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18153,13 +18153,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Companhia de Jesus atuou intensamente na catequese dos povos indígenas no Brasil colonial, organizando aldeamentos e missões.",
                                 "enunciado":  "A atuação jesuítica junto aos povos indígenas frequentemente gerava conflitos com:",
                                 "alternativas":  {
-                                                     "a":  "Outras ordens religiosas, que defendiam abertamente a escravização em massa dos povos indígenas, postura oposta à pregada pelos jesuítas",
-                                                     "b":  "Os próprios povos indígenas, que rejeitavam integralmente qualquer forma de aldeamento, quando muitos buscavam proteção jesuítica contra a escravização",
-                                                     "c":  "A Coroa portuguesa, que se opunha a qualquer forma de contato entre europeus e indígenas, posição contrária à política oficial de catequese",
-                                                     "d":  "Autoridades metropolitanas contrárias à catequese, que viam nas missões um obstáculo à conversão religiosa dos indígenas",
-                                                     "e":  "Colonos e bandeirantes interessados na mão de obra indígena para escravização, já que os jesuítas buscavam proteger os indígenas aldeados dessa exploração"
+                                                     "a":  "Os próprios povos indígenas, que rejeitavam integralmente qualquer forma de aldeamento, quando muitos buscavam proteção jesuítica contra a escravização",
+                                                     "b":  "Colonos e bandeirantes interessados na mão de obra indígena para escravização, já que os jesuítas buscavam proteger os indígenas aldeados dessa exploração",
+                                                     "c":  "Outras ordens religiosas, que defendiam abertamente a escravização em massa dos povos indígenas, postura oposta à pregada pelos jesuítas",
+                                                     "d":  "A Coroa portuguesa, que se opunha a qualquer forma de contato entre europeus e indígenas, posição contrária à política oficial de catequese",
+                                                     "e":  "Autoridades metropolitanas contrárias à catequese, que viam nas missões um obstáculo à conversão religiosa dos indígenas"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "b",
                                 "explicacao":  "Ao organizar aldeamentos e defender a catequese em vez da escravização, os jesuítas frequentemente entravam em choque com colonos e bandeirantes que dependiam do trabalho compulsório indígena, gerando disputas recorrentes ao longo do período colonial, sobretudo em São Paulo.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18169,13 +18169,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1580 e 1640, Portugal e seus domínios coloniais, incluindo o Brasil, ficaram unidos à Coroa espanhola sob um mesmo monarca.",
                                 "enunciado":  "Uma das principais consequências desse período para a colônia brasileira foi:",
                                 "alternativas":  {
-                                                     "a":  "O fim completo do comércio entre o Brasil e Portugal, ruptura que não ocorreu durante a União Ibérica, mantida até 1640",
-                                                     "b":  "A imediata abolição da escravidão africana na colônia, medida que só se concretizaria dois séculos depois, com a Lei Áurea de 1888",
-                                                     "c":  "A exposição do território brasileiro a ataques de inimigos da Espanha, como Holanda e Inglaterra, alvo legítimo desses rivais",
-                                                     "d":  "A transferência definitiva da capital colonial para Madri, mudança que jamais foi implementada mesmo sob domínio espanhol",
+                                                     "a":  "A transferência definitiva da capital colonial para Madri, mudança que jamais foi implementada mesmo sob domínio espanhol",
+                                                     "b":  "O fim completo do comércio entre o Brasil e Portugal, ruptura que não ocorreu durante a União Ibérica, mantida até 1640",
+                                                     "c":  "A imediata abolição da escravidão africana na colônia, medida que só se concretizaria dois séculos depois, com a Lei Áurea de 1888",
+                                                     "d":  "A exposição do território brasileiro a ataques de inimigos da Espanha, como Holanda e Inglaterra, alvo legítimo desses rivais",
                                                      "e":  "A ampliação do monopólio comercial português, reforçado pela administração espanhola sobre as rotas atlânticas"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "d",
                                 "explicacao":  "Durante a União Ibérica, os territórios portugueses, unidos à Coroa espanhola, tornaram-se alvos legítimos das potências rivais da Espanha, o que ajuda a explicar as invasões holandesas ao Nordeste açucareiro ocorridas já no século XVII.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18185,13 +18185,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1630 e 1654, os holandeses ocuparam parte do Nordeste açucareiro, com destaque para o governo de Maurício de Nassau em Pernambuco.",
                                 "enunciado":  "O governo de Nassau caracterizou-se por:",
                                 "alternativas":  {
-                                                     "a":  "Transferência da capital da colônia portuguesa para Recife, medida que nunca foi formalizada durante a ocupação holandesa",
-                                                     "b":  "Completo isolamento cultural e científico da colônia ocupada, o oposto do mecenato científico e artístico promovido por Nassau",
-                                                     "c":  "Abolição imediata da mão de obra escrava nos engenhos ocupados, prática que os próprios holandeses mantiveram durante toda a ocupação",
-                                                     "d":  "A imposição da uniformidade religiosa e a expulsão de comerciantes estrangeiros do território sob domínio holandês",
-                                                     "e":  "Certa tolerância religiosa, investimentos em urbanização e incentivo às artes e às ciências, ao lado da manutenção da economia açucareira escravista"
+                                                     "a":  "Certa tolerância religiosa, investimentos em urbanização e incentivo às artes e às ciências, ao lado da manutenção da economia açucareira escravista",
+                                                     "b":  "Abolição imediata da mão de obra escrava nos engenhos ocupados, prática que os próprios holandeses mantiveram durante toda a ocupação",
+                                                     "c":  "A imposição da uniformidade religiosa e a expulsão de comerciantes estrangeiros do território sob domínio holandês",
+                                                     "d":  "Completo isolamento cultural e científico da colônia ocupada, o oposto do mecenato científico e artístico promovido por Nassau",
+                                                     "e":  "Transferência da capital da colônia portuguesa para Recife, medida que nunca foi formalizada durante a ocupação holandesa"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "a",
                                 "explicacao":  "Nassau promoveu obras de urbanização em Recife, relativa tolerância religiosa e incentivou artistas e cientistas que documentaram a fauna, a flora e a sociedade locais, sem, no entanto, romper com a base escravista da economia açucareira que sustentava a ocupação holandesa.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18201,13 +18201,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A expulsão dos holandeses do Nordeste, concluída em 1654, resultou de um levante que envolveu senhores de engenho, indígenas e população mestiça e negra.",
                                 "enunciado":  "Esse movimento é significativo para a historiografia porque:",
                                 "alternativas":  {
-                                                     "a":  "Foi conduzido exclusivamente por tropas enviadas diretamente de Portugal, sem participação de moradores, versão contrariada pela mobilização local",
-                                                     "b":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, interpretado como expressão de identidade colonial",
-                                                     "c":  "Resultou na manutenção permanente do domínio holandês sobre o Nordeste, quando na verdade a expulsão se completou já em 1654",
-                                                     "d":  "Provocou o fim definitivo da monocultura açucareira na região, quando na verdade ela persistiu como base econômica por séculos",
-                                                     "e":  "Proclamou uma república separatista no Nordeste, com governo provisório e bandeira própria, sufocada pelas tropas reais"
+                                                     "a":  "Provocou o fim definitivo da monocultura açucareira na região, quando na verdade ela persistiu como base econômica por séculos",
+                                                     "b":  "Foi conduzido exclusivamente por tropas enviadas diretamente de Portugal, sem participação de moradores, versão contrariada pela mobilização local",
+                                                     "c":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, interpretado como expressão de identidade colonial",
+                                                     "d":  "Proclamou uma república separatista no Nordeste, com governo provisório e bandeira própria, sufocada pelas tropas reais",
+                                                     "e":  "Resultou na manutenção permanente do domínio holandês sobre o Nordeste, quando na verdade a expulsão se completou já em 1654"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "A Insurreição Pernambucana mobilizou senhores de engenho, indígenas, mestiços e negros, muitos nascidos na colônia, o que levou historiadores a discutirem esse episódio como um dos primeiros momentos de articulação de interesses coletivos ligados à terra brasileira, distintos dos da metrópole.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18217,13 +18217,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1710-1711, um conflito opôs a aristocracia rural de Olinda a comerciantes portugueses estabelecidos no Recife.",
                                 "enunciado":  "A Guerra dos Mascates expressava, no fundo, uma disputa entre:",
                                 "alternativas":  {
-                                                     "a":  "A Coroa portuguesa e a Coroa espanhola pela posse de Pernambuco, disputa territorial inexistente após o fim da União Ibérica em 1640",
-                                                     "b":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais, conflito que remete à Guerra dos Emboabas, não à disputa pernambucana",
-                                                     "c":  "Católicos e protestantes pelo controle religioso da região, tensão associada à ocupação holandesa anterior, já encerrada em 1654",
-                                                     "d":  "Paulistas descobridores das jazidas e forasteiros vindos de outras capitanias, em disputa pelo acesso às minas",
-                                                     "e":  "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em meio à ascensão econômica deste último em detrimento da antiga vila senhorial"
+                                                     "a":  "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em meio à ascensão econômica deste último em detrimento da antiga vila senhorial",
+                                                     "b":  "Católicos e protestantes pelo controle religioso da região, tensão associada à ocupação holandesa anterior, já encerrada em 1654",
+                                                     "c":  "Paulistas descobridores das jazidas e forasteiros vindos de outras capitanias, em disputa pelo acesso às minas",
+                                                     "d":  "A Coroa portuguesa e a Coroa espanhola pela posse de Pernambuco, disputa territorial inexistente após o fim da União Ibérica em 1640",
+                                                     "e":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais, conflito que remete à Guerra dos Emboabas, não à disputa pernambucana"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "a",
                                 "explicacao":  "A Guerra dos Mascates refletiu o desgaste da elite senhorial de Olinda diante da crescente pujança econômica dos comerciantes portugueses radicados no Recife, cuja prosperidade, ligada ao comércio, ameaçava o prestígio tradicional da aristocracia açucareira.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18233,13 +18233,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "As expedições conhecidas como bandeiras, organizadas sobretudo a partir de São Paulo, tiveram diferentes objetivos ao longo dos séculos XVI e XVII.",
                                 "enunciado":  "Entre os principais objetivos das bandeiras estavam:",
                                 "alternativas":  {
-                                                     "a":  "A catequese pacífica dos povos indígenas, sem qualquer finalidade econômica, missão associada sobretudo à atuação jesuítica, não bandeirante",
-                                                     "b":  "A captura e escravização de indígenas e, posteriormente, a busca por metais preciosos, contribuindo para a expansão territorial da colônia para além da linha de Tordesilhas",
-                                                     "c":  "A defesa exclusiva do litoral brasileiro contra invasões estrangeiras, tarefa atribuída antes a fortificações e tropas régias costeiras",
-                                                     "d":  "O estabelecimento de rotas comerciais marítimas com a Ásia, empreendimento associado à Carreira das Índias portuguesa, não às bandeiras",
-                                                     "e":  "A ocupação do litoral sul e a fundação de vilas portuárias voltadas ao comércio com as colônias espanholas do Prata"
+                                                     "a":  "O estabelecimento de rotas comerciais marítimas com a Ásia, empreendimento associado à Carreira das Índias portuguesa, não às bandeiras",
+                                                     "b":  "A catequese pacífica dos povos indígenas, sem qualquer finalidade econômica, missão associada sobretudo à atuação jesuítica, não bandeirante",
+                                                     "c":  "A ocupação do litoral sul e a fundação de vilas portuárias voltadas ao comércio com as colônias espanholas do Prata",
+                                                     "d":  "A captura e escravização de indígenas e, posteriormente, a busca por metais preciosos, contribuindo para a expansão territorial da colônia para além da linha de Tordesilhas",
+                                                     "e":  "A defesa exclusiva do litoral brasileiro contra invasões estrangeiras, tarefa atribuída antes a fortificações e tropas régias costeiras"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "As bandeiras combinaram, em momentos distintos, o apresamento de indígenas para escravização e, posteriormente, a busca por ouro e pedras preciosas, processo que, ao adentrar o interior do continente, ampliou de fato os limites da colônia portuguesa para além do que previa o Tratado de Tordesilhas.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18249,13 +18249,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Localizado na região da atual Alagoas, o Quilombo dos Palmares resistiu por décadas até ser destruído em 1694, sob a liderança final de Zumbi.",
                                 "enunciado":  "Palmares é hoje interpretado pela historiografia como:",
                                 "alternativas":  {
-                                                     "a":  "Uma complexa organização social e política formada majoritariamente por africanos fugidos da escravidão, a mais duradoura resistência escravista do Brasil colonial",
+                                                     "a":  "Uma aldeia fundada por jesuítas para catequese de escravizados fugidos, ao contrário da autonomia política que Palmares de fato exerceu",
                                                      "b":  "Um pequeno agrupamento isolado, sem organização social relevante, descrição incompatível com os quase cem anos de resistência de Palmares",
-                                                     "c":  "Uma aldeia fundada por jesuítas para catequese de escravizados fugidos, ao contrário da autonomia política que Palmares de fato exerceu",
+                                                     "c":  "Um assentamento de colonos livres pobres, tolerado pela Coroa como área de amortecimento contra invasões estrangeiras",
                                                      "d":  "Um território reconhecido oficialmente pela Coroa portuguesa desde sua fundação, quando na verdade foi alvo de sucessivas expedições militares",
-                                                     "e":  "Um assentamento de colonos livres pobres, tolerado pela Coroa como área de amortecimento contra invasões estrangeiras"
+                                                     "e":  "Uma complexa organização social e política formada majoritariamente por africanos fugidos da escravidão, a mais duradoura resistência escravista do Brasil colonial"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "Palmares reuniu, ao longo de quase um século, milhares de pessoas em uma organização social e política própria, com formas de produção, defesa militar e liderança, sendo considerado o mais duradouro e expressivo movimento de resistência à escravidão no Brasil colonial.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18265,11 +18265,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1684, no Maranhão, colonos liderados por Manuel Beckman se rebelaram contra o monopólio comercial de uma companhia de comércio.",
                                 "enunciado":  "Essa revolta dirigia-se especialmente contra:",
                                 "alternativas":  {
-                                                     "a":  "A escravização de indígenas promovida pelos próprios jesuítas da região, prática que os jesuítas do Maranhão, ao contrário, combatiam",
-                                                     "b":  "A cobrança do quinto sobre o ouro extraído na região, tributo típico da economia mineradora, inexistente no Maranhão colonial",
+                                                     "a":  "A cobrança do quinto sobre o ouro extraído na região, tributo típico da economia mineradora, inexistente no Maranhão colonial",
+                                                     "b":  "A escravização de indígenas promovida pelos próprios jesuítas da região, prática que os jesuítas do Maranhão, ao contrário, combatiam",
                                                      "c":  "O monopólio da Companhia de Comércio do Maranhão e a escassez de mão de obra escrava africana, agravada pela postura jesuítica",
-                                                     "d":  "A instalação de capitanias hereditárias no Maranhão, sistema já superado desde o século anterior à revolta",
-                                                     "e":  "A obrigatoriedade de fundir o ouro em barras nas casas oficiais, medida que motivou a reação armada dos mineradores"
+                                                     "d":  "A obrigatoriedade de fundir o ouro em barras nas casas oficiais, medida que motivou a reação armada dos mineradores",
+                                                     "e":  "A instalação de capitanias hereditárias no Maranhão, sistema já superado desde o século anterior à revolta"
                                                  },
                                 "resposta":  "c",
                                 "explicacao":  "Colonos maranhenses revoltaram-se contra o monopólio comercial imposto por uma companhia privilegiada e contra a falta de braços escravos africanos, situação agravada pela defesa jesuítica da liberdade dos indígenas, que os colonos pretendiam usar como mão de obra.",
@@ -18281,13 +18281,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1708 e 1709, disputas pelo controle das áreas auríferas de Minas Gerais opuseram paulistas, que haviam descoberto o ouro, a forasteiros vindos de outras regiões e de Portugal.",
                                 "enunciado":  "Esse conflito pela posse das jazidas de ouro recém-descobertas é conhecido como:",
                                 "alternativas":  {
-                                                     "a":  "Guerra dos Mascates",
-                                                     "b":  "Revolta de Vila Rica",
-                                                     "c":  "Confederação do Equador",
-                                                     "d":  "Revolta de Beckman",
-                                                     "e":  "Guerra dos Emboabas"
+                                                     "a":  "Guerra dos Emboabas",
+                                                     "b":  "Revolta de Beckman",
+                                                     "c":  "Revolta de Vila Rica",
+                                                     "d":  "Guerra dos Mascates",
+                                                     "e":  "Confederação do Equador"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "a",
                                 "explicacao":  "A Guerra dos Emboabas opôs paulistas, que reivindicavam prioridade sobre as áreas de mineração que haviam descoberto, a forasteiros (\u0027emboabas\u0027) vindos de outras regiões da colônia e de Portugal, atraídos pela riqueza aurífera de Minas Gerais.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18298,12 +18298,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Esse episódio revela que a resistência aos mecanismos fiscais da Coroa sobre o ouro:",
                                 "alternativas":  {
                                                      "a":  "Só passou a existir com a Inconfidência Mineira, em 1789, quando na verdade a Revolta de Vila Rica já ocorrera décadas antes",
-                                                     "b":  "Já se manifestava décadas antes, em reação à instalação das Casas de Fundição, com dura repressão da Coroa contra os revoltosos",
-                                                     "c":  "Nunca existiu ao longo de todo o ciclo do ouro, afirmação contrariada por diversos episódios de resistência fiscal na região mineradora",
-                                                     "d":  "Foi liderada exclusivamente por senhores de engenho do litoral açucareiro, grupo social alheio ao contexto da mineração em Minas Gerais",
-                                                     "e":  "Só se manifestou ao final do século, quando a ameaça da derrama uniu setores letrados da elite mineira"
+                                                     "b":  "Nunca existiu ao longo de todo o ciclo do ouro, afirmação contrariada por diversos episódios de resistência fiscal na região mineradora",
+                                                     "c":  "Só se manifestou ao final do século, quando a ameaça da derrama uniu setores letrados da elite mineira",
+                                                     "d":  "Já se manifestava décadas antes, em reação à instalação das Casas de Fundição, com dura repressão da Coroa contra os revoltosos",
+                                                     "e":  "Foi liderada exclusivamente por senhores de engenho do litoral açucareiro, grupo social alheio ao contexto da mineração em Minas Gerais"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "A Revolta de Vila Rica de 1720, liderada por Filipe dos Santos e duramente reprimida pela Coroa, mostra que a resistência à fiscalização sobre o ouro é anterior em quase sete décadas à Inconfidência Mineira, revelando um padrão recorrente de tensão fiscal entre metrópole e colônia mineradora.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18313,13 +18313,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Também chamada de Revolta dos Alfaiates, a Conjuração Baiana ocorreu em Salvador em 1798, envolvendo artesãos, soldados e escravizados libertos.",
                                 "enunciado":  "Em comparação com a Inconfidência Mineira (1789), a Conjuração Baiana se distingue por:",
                                 "alternativas":  {
-                                                     "a":  "Ter sido liderada exclusivamente por grandes proprietários de terra da região, quando teve forte presença de artesãos e libertos",
-                                                     "b":  "Não ter qualquer relação com ideais iluministas ou republicanos, influência que, ao contrário, esteve bastante presente no movimento",
-                                                     "c":  "Ter ocorrido antes da Inconfidência Mineira, quando na verdade a Conjuração Baiana ocorreu quase uma década depois, em 1798",
-                                                     "d":  "Ter maior participação de setores populares urbanos, como artesãos e libertos, e defender bandeiras mais radicais, como o fim da escravidão",
-                                                     "e":  "Ter sido conduzida por proprietários de terras e letrados, que defendiam a manutenção da ordem escravista após a ruptura"
+                                                     "a":  "Não ter qualquer relação com ideais iluministas ou republicanos, influência que, ao contrário, esteve bastante presente no movimento",
+                                                     "b":  "Ter maior participação de setores populares urbanos, como artesãos e libertos, e defender bandeiras mais radicais, como o fim da escravidão",
+                                                     "c":  "Ter sido conduzida por proprietários de terras e letrados, que defendiam a manutenção da ordem escravista após a ruptura",
+                                                     "d":  "Ter ocorrido antes da Inconfidência Mineira, quando na verdade a Conjuração Baiana ocorreu quase uma década depois, em 1798",
+                                                     "e":  "Ter sido liderada exclusivamente por grandes proprietários de terra da região, quando teve forte presença de artesãos e libertos"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "b",
                                 "explicacao":  "Diferentemente da Inconfidência Mineira, conduzida majoritariamente por elites letradas, a Conjuração Baiana teve forte presença de setores populares urbanos, como alfaiates, soldados e libertos, e chegou a propor bandeiras mais radicais para a época, como o fim da escravidão e maior igualdade social.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18329,13 +18329,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1815, ainda durante a permanência da corte portuguesa no Brasil, o território colonial foi elevado à categoria de Reino Unido a Portugal e Algarves.",
                                 "enunciado":  "Essa medida teve como principal objetivo:",
                                 "alternativas":  {
-                                                     "a":  "Equiparar juridicamente o Brasil a Portugal, fortalecendo a posição de Dom João VI nas negociações do Congresso de Viena, no cenário europeu pós-napoleônico",
-                                                     "b":  "Reduzir o status político do Brasil perante as demais nações europeias, o oposto do efeito prático buscado com a elevação a Reino Unido",
-                                                     "c":  "Restabelecer o pacto colonial e o exclusivo metropolitano, extintos em 1808, medida que contrariaria a própria abertura dos portos daquele ano",
-                                                     "d":  "Transferir definitivamente a capital do reino para Lisboa, decisão inversa à permanência da corte portuguesa no Rio de Janeiro",
-                                                     "e":  "Transferir a sede da monarquia portuguesa de volta a Lisboa, encerrando o período joanino no território brasileiro"
+                                                     "a":  "Reduzir o status político do Brasil perante as demais nações europeias, o oposto do efeito prático buscado com a elevação a Reino Unido",
+                                                     "b":  "Transferir definitivamente a capital do reino para Lisboa, decisão inversa à permanência da corte portuguesa no Rio de Janeiro",
+                                                     "c":  "Transferir a sede da monarquia portuguesa de volta a Lisboa, encerrando o período joanino no território brasileiro",
+                                                     "d":  "Restabelecer o pacto colonial e o exclusivo metropolitano, extintos em 1808, medida que contrariaria a própria abertura dos portos daquele ano",
+                                                     "e":  "Equiparar juridicamente o Brasil a Portugal, fortalecendo a posição de Dom João VI nas negociações do Congresso de Viena, no cenário europeu pós-napoleônico"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "Ao elevar o Brasil à condição de Reino Unido, Dom João VI buscava evitar que o Congresso de Viena tratasse o território como uma simples colônia, fortalecendo a posição de Portugal nas negociações diplomáticas que redesenhavam a ordem europeia pós-napoleônica.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18345,13 +18345,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1817, um movimento republicano e separatista eclodiu em Pernambuco, reunindo setores das elites locais insatisfeitos com o governo joanino.",
                                 "enunciado":  "Entre as causas dessa revolta estavam:",
                                 "alternativas":  {
-                                                     "a":  "O apoio unânime da população pernambucana à monarquia portuguesa e à corte instalada no Rio de Janeiro",
-                                                     "b":  "A insatisfação com a carga tributária, o favorecimento a portugueses vindos com a corte e a influência de ideais republicanos",
-                                                     "c":  "A chegada da família real ao Brasil em 1808, que teria beneficiado exclusivamente Pernambuco, o que não correspondeu à realidade",
-                                                     "d":  "A abolição da escravidão decretada por Dom João VI em 1817, medida que só ocorreria setenta anos depois, com a Lei Áurea",
-                                                     "e":  "A recusa da Coroa em conceder autonomia às províncias do Sul, que haviam aderido ao movimento constitucionalista"
+                                                     "a":  "A insatisfação com a carga tributária, o favorecimento a portugueses vindos com a corte e a influência de ideais republicanos",
+                                                     "b":  "A recusa da Coroa em conceder autonomia às províncias do Sul, que haviam aderido ao movimento constitucionalista",
+                                                     "c":  "A abolição da escravidão decretada por Dom João VI em 1817, medida que só ocorreria setenta anos depois, com a Lei Áurea",
+                                                     "d":  "A chegada da família real ao Brasil em 1808, que teria beneficiado exclusivamente Pernambuco, o que não correspondeu à realidade",
+                                                     "e":  "O apoio unânime da população pernambucana à monarquia portuguesa e à corte instalada no Rio de Janeiro"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "a",
                                 "explicacao":  "A Revolução Pernambucana de 1817 resultou da insatisfação de setores das elites locais com a carga tributária, o favorecimento dado a comerciantes portugueses e a influência das ideias republicanas e iluministas, chegando a proclamar um governo republicano provisório antes de ser derrotada.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18361,13 +18361,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em janeiro de 1822, pressionado pelas Cortes de Lisboa a retornar a Portugal, Dom Pedro declarou sua permanência no Brasil.",
                                 "enunciado":  "Esse episódio, conhecido como Dia do Fico, é interpretado como:",
                                 "alternativas":  {
-                                                     "a":  "O momento em que o Brasil se tornou oficialmente uma república, regime que só seria instaurado décadas depois, em 1889",
-                                                     "b":  "A assinatura definitiva do tratado de reconhecimento da independência pelo governo português, que só ocorreria anos depois",
-                                                     "c":  "Um passo decisivo no processo que levaria à ruptura política com Portugal, meses antes da proclamação da independência",
-                                                     "d":  "A abdicação de Dom Pedro I ao trono do Brasil, evento que ocorreria apenas em 1831, quase uma década depois do Dia do Fico",
-                                                     "e":  "Uma manobra das Cortes portuguesas para manter o herdeiro no Brasil sob tutela militar direta de Lisboa"
+                                                     "a":  "A assinatura definitiva do tratado de reconhecimento da independência pelo governo português, que só ocorreria anos depois",
+                                                     "b":  "O momento em que o Brasil se tornou oficialmente uma república, regime que só seria instaurado décadas depois, em 1889",
+                                                     "c":  "Uma manobra das Cortes portuguesas para manter o herdeiro no Brasil sob tutela militar direta de Lisboa",
+                                                     "d":  "Um passo decisivo no processo que levaria à ruptura política com Portugal, meses antes da proclamação da independência",
+                                                     "e":  "A abdicação de Dom Pedro I ao trono do Brasil, evento que ocorreria apenas em 1831, quase uma década depois do Dia do Fico"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "d",
                                 "explicacao":  "Ao recusar a ordem das Cortes portuguesas para retornar a Portugal, Dom Pedro sinalizou sua disposição de romper com a subordinação política à metrópole, episódio que antecedeu em poucos meses a proclamação formal da independência, em setembro de 1822.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18378,12 +18378,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A Confederação do Equador foi motivada, sobretudo, por:",
                                 "alternativas":  {
                                                      "a":  "O apoio da elite nordestina à centralização política prevista na Constituição outorgada por Dom Pedro I em 1824",
-                                                     "b":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870, pauta secundária no episódio",
-                                                     "c":  "Sua identificação total com os interesses da elite política nacional, o oposto do desgaste que de fato gerou sua abdicação em 1831",
-                                                     "d":  "A rejeição ao autoritarismo e à centralização da Constituição outorgada em 1824, em favor de um projeto republicano e federalista",
-                                                     "e":  "A defesa da manutenção do trabalho escravo diante das pressões britânicas pela extinção do tráfico atlântico"
+                                                     "b":  "Sua identificação total com os interesses da elite política nacional, o oposto do desgaste que de fato gerou sua abdicação em 1831",
+                                                     "c":  "A defesa da manutenção do trabalho escravo diante das pressões britânicas pela extinção do tráfico atlântico",
+                                                     "d":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870, pauta secundária no episódio",
+                                                     "e":  "A rejeição ao autoritarismo e à centralização da Constituição outorgada em 1824, em favor de um projeto republicano e federalista"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "e",
                                 "explicacao":  "A Confederação do Equador surgiu da insatisfação de setores nordestinos com a outorga unilateral e centralizadora da Constituição de 1824, propondo um projeto alternativo de cunho republicano e federalista, sendo duramente reprimida pelo governo imperial.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18393,13 +18393,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A primeira Constituição brasileira, outorgada por Dom Pedro I em 1824, previa, além dos três poderes clássicos, um quarto poder.",
                                 "enunciado":  "Esse poder adicional, exercido privativamente pelo imperador, era o:",
                                 "alternativas":  {
-                                                     "a":  "Poder Federativo, exercido de forma independente pelas províncias, instância inexistente na estrutura constitucional de 1824",
-                                                     "b":  "Poder Eclesiástico, exercido diretamente pela Igreja Católica sobre o Estado, arranjo que a Constituição de 1824 jamais formalizou dessa forma",
-                                                     "c":  "Poder Municipal, exercido de forma autônoma pelas câmaras locais, autonomia que as câmaras só ampliariam plenamente após 1988",
-                                                     "d":  "Poder Executivo, exercido pelo imperador com auxílio de ministros de Estado responsáveis perante a Câmara",
-                                                     "e":  "Poder Moderador, que permitia ao imperador dissolver a Câmara dos Deputados, nomear senadores e intervir sobre os demais poderes"
+                                                     "a":  "Poder Eclesiástico, exercido diretamente pela Igreja Católica sobre o Estado, arranjo que a Constituição de 1824 jamais formalizou dessa forma",
+                                                     "b":  "Poder Municipal, exercido de forma autônoma pelas câmaras locais, autonomia que as câmaras só ampliariam plenamente após 1988",
+                                                     "c":  "Poder Federativo, exercido de forma independente pelas províncias, instância inexistente na estrutura constitucional de 1824",
+                                                     "d":  "Poder Moderador, que permitia ao imperador dissolver a Câmara dos Deputados, nomear senadores e intervir sobre os demais poderes",
+                                                     "e":  "Poder Executivo, exercido pelo imperador com auxílio de ministros de Estado responsáveis perante a Câmara"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "A Constituição de 1824 instituiu o Poder Moderador, exercido exclusivamente pelo imperador, que lhe permitia dissolver a Câmara dos Deputados, nomear senadores vitalícios e intervir sobre os demais poderes, concentrando grande autoridade política nas mãos do monarca.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18409,9 +18409,9 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1825 e 1828, o Império do Brasil enfrentou as Províncias Unidas do Rio da Prata pelo controle da Província Cisplatina, anexada ao Brasil em 1821.",
                                 "enunciado":  "O desfecho desse conflito foi:",
                                 "alternativas":  {
-                                                     "a":  "A anexação da região disputada ao território argentino, desfecho que não correspondeu ao resultado real do conflito",
+                                                     "a":  "A manutenção definitiva da Cisplatina como província do Império brasileiro, o que a guerra de fato não garantiu",
                                                      "b":  "A vitória militar decisiva do Brasil, sem qualquer perda territorial, quando o conflito gerou desgaste militar",
-                                                     "c":  "A manutenção definitiva da Cisplatina como província do Império brasileiro, o que a guerra de fato não garantiu",
+                                                     "c":  "A anexação da região disputada ao território argentino, desfecho que não correspondeu ao resultado real do conflito",
                                                      "d":  "A anexação definitiva da região ao Império do Brasil, mantida como província até a proclamação da República",
                                                      "e":  "A independência da região, que deu origem ao atual Uruguai, mediada por intervenção diplomática britânica"
                                                  },
@@ -18425,13 +18425,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Constituição de 1824 estabelecia critérios de renda mínima para que um cidadão pudesse votar e, sobretudo, ser votado.",
                                 "enunciado":  "Esse sistema, conhecido como voto censitário, tinha como principal efeito:",
                                 "alternativas":  {
-                                                     "a":  "Restringir a participação política a uma pequena parcela da população, excluindo pobres, mulheres e escravizados",
-                                                     "b":  "Garantir a participação política de toda a população livre, independentemente de renda, o que o voto censitário impedia",
-                                                     "c":  "Eliminar qualquer influência da riqueza sobre a disputa política do Império, o oposto do que de fato gerava o critério censitário de renda",
-                                                     "d":  "Estender o direito de voto à população escravizada, grupo que a Constituição de 1824 excluía integralmente da cidadania política",
-                                                     "e":  "Assegurar o voto a todos os homens livres maiores de idade, sem exigência de renda, excluindo apenas os escravizados"
+                                                     "a":  "Assegurar o voto a todos os homens livres maiores de idade, sem exigência de renda, excluindo apenas os escravizados",
+                                                     "b":  "Estender o direito de voto à população escravizada, grupo que a Constituição de 1824 excluía integralmente da cidadania política",
+                                                     "c":  "Garantir a participação política de toda a população livre, independentemente de renda, o que o voto censitário impedia",
+                                                     "d":  "Eliminar qualquer influência da riqueza sobre a disputa política do Império, o oposto do que de fato gerava o critério censitário de renda",
+                                                     "e":  "Restringir a participação política a uma pequena parcela da população, excluindo pobres, mulheres e escravizados"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "O voto censitário, ao vincular o direito de votar e de ser votado a patamares mínimos de renda, restringia a cidadania política ativa a uma parcela reduzida da população, excluindo a maioria dos homens livres pobres, as mulheres e, evidentemente, os escravizados.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18441,13 +18441,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1838 e 1841, o Maranhão foi palco de uma das mais amplas revoltas do Período Regencial, reunindo sertanejos pobres, escravizados fugidos e setores da elite local dissidente.",
                                 "enunciado":  "A Balaiada é um exemplo de como as revoltas regenciais frequentemente combinavam:",
                                 "alternativas":  {
-                                                     "a":  "Apenas disputas entre facções da elite política local, sem qualquer participação popular, leitura que ignora o papel de sertanejos pobres",
-                                                     "b":  "Tensões entre grupos da elite regional e, ao mesmo tempo, a participação de camadas populares e escravizadas com demandas próprias, como a busca pela liberdade",
-                                                     "c":  "Uma revolta estritamente urbana, sem qualquer relação com o mundo rural maranhense, quando na verdade se concentrou no sertão",
-                                                     "d":  "Apoio unânime e imediato do governo regencial central às reivindicações dos revoltosos, quando na verdade a revolta foi duramente combatida",
-                                                     "e":  "Um movimento restrito ao meio militar, conduzido por oficiais da guarnição provincial sem adesão de camadas populares"
+                                                     "a":  "Uma revolta estritamente urbana, sem qualquer relação com o mundo rural maranhense, quando na verdade se concentrou no sertão",
+                                                     "b":  "Apoio unânime e imediato do governo regencial central às reivindicações dos revoltosos, quando na verdade a revolta foi duramente combatida",
+                                                     "c":  "Apenas disputas entre facções da elite política local, sem qualquer participação popular, leitura que ignora o papel de sertanejos pobres",
+                                                     "d":  "Um movimento restrito ao meio militar, conduzido por oficiais da guarnição provincial sem adesão de camadas populares",
+                                                     "e":  "Tensões entre grupos da elite regional e, ao mesmo tempo, a participação de camadas populares e escravizadas com demandas próprias, como a busca pela liberdade"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "e",
                                 "explicacao":  "A Balaiada reuniu, sob a mesma bandeira, disputas entre facções da elite provincial maranhense e a mobilização de sertanejos pobres e escravizados fugidos, que viram na revolta uma oportunidade de reivindicar melhores condições e a própria liberdade, ilustrando a complexidade social das revoltas regenciais.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18457,11 +18457,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Revolução Farroupilha (1835-1845), no Rio Grande do Sul, foi a mais longa revolta do período regencial e dos primeiros anos do Segundo Reinado.",
                                 "enunciado":  "Entre as causas desse movimento, destaca-se:",
                                 "alternativas":  {
-                                                     "a":  "Uma disputa exclusivamente religiosa entre católicos e protestantes na província, motivação alheia às causas econômicas do movimento gaúcho",
-                                                     "b":  "A anexação do Rio Grande do Sul ao território argentino, hipótese nunca cogitada pelos líderes farroupilhas durante o conflito",
+                                                     "a":  "A anexação do Rio Grande do Sul ao território argentino, hipótese nunca cogitada pelos líderes farroupilhas durante o conflito",
+                                                     "b":  "A defesa da abolição imediata da escravidão na província, bandeira central proclamada pelos líderes do movimento",
                                                      "c":  "A insatisfação de estancieiros gaúchos com a política tarifária do governo central, que favorecia o charque platino sobre o gaúcho",
-                                                     "d":  "O apoio unânime do Rio Grande do Sul à manutenção da escravidão e à centralização monárquica, pauta contrária aos ideais farroupilhas",
-                                                     "e":  "A defesa da abolição imediata da escravidão na província, bandeira central proclamada pelos líderes do movimento"
+                                                     "d":  "Uma disputa exclusivamente religiosa entre católicos e protestantes na província, motivação alheia às causas econômicas do movimento gaúcho",
+                                                     "e":  "O apoio unânime do Rio Grande do Sul à manutenção da escravidão e à centralização monárquica, pauta contrária aos ideais farroupilhas"
                                                  },
                                 "resposta":  "c",
                                 "explicacao":  "A Revolução Farroupilha teve entre suas causas o descontentamento de estancieiros gaúchos com a política tarifária imperial, que prejudicava o charque produzido no Rio Grande do Sul frente ao produto platino, somando-se a esse fator disputas políticas regionais mais amplas.",
@@ -18473,13 +18473,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1848-1849, Pernambuco viveu a última grande revolta do período monárquico anterior à consolidação definitiva do Segundo Reinado.",
                                 "enunciado":  "A Revolução Praieira teve inspiração, em parte, nas ideias liberais e:",
                                 "alternativas":  {
-                                                     "a":  "Defendia a restauração do domínio colonial português sobre o Brasil, bandeira estranha a um movimento de inspiração liberal e nativista",
+                                                     "a":  "Defendia a restauração do poder absoluto do imperador e a extinção das assembleias provinciais eletivas",
                                                      "b":  "Propunha a manutenção do voto censitário sem qualquer alteração, posição contrária às reivindicações liberais de ampliação política",
-                                                     "c":  "Foi organizada exclusivamente por senhores de engenho favoráveis ao imperador, quando na verdade reuniu setores liberais críticos à monarquia",
-                                                     "d":  "Reivindicava, entre outros pontos, eleições livres, liberdade de imprensa e restrições ao comércio a varejo exercido por portugueses",
-                                                     "e":  "Defendia a restauração do poder absoluto do imperador e a extinção das assembleias provinciais eletivas"
+                                                     "c":  "Reivindicava, entre outros pontos, eleições livres, liberdade de imprensa e restrições ao comércio a varejo exercido por portugueses",
+                                                     "d":  "Defendia a restauração do domínio colonial português sobre o Brasil, bandeira estranha a um movimento de inspiração liberal e nativista",
+                                                     "e":  "Foi organizada exclusivamente por senhores de engenho favoráveis ao imperador, quando na verdade reuniu setores liberais críticos à monarquia"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "A Revolução Praieira, de inspiração liberal, reivindicava eleições livres, liberdade de imprensa e a restrição do comércio varejista a brasileiros, entre outras bandeiras, sendo o último grande movimento armado de contestação regional antes da consolidação do Segundo Reinado.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18489,13 +18489,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "No mesmo ano de 1850, o Brasil aprovou duas leis de grande impacto sobre a estrutura social e econômica do país.",
                                 "enunciado":  "A Lei Eusébio de Queirós e a Lei de Terras, ambas de 1850, tiveram como efeito combinado:",
                                 "alternativas":  {
-                                                     "a":  "Libertar imediatamente todos os escravizados do país e distribuir terras a eles, medida que só ocorreria, sem distribuição de terras, em 1888",
-                                                     "b":  "Permitir que qualquer pessoa ocupasse livremente terras devolutas, sem necessidade de compra, o oposto do que a Lei de Terras estabeleceu",
-                                                     "c":  "Ampliar o tráfico de escravizados para suprir a crescente demanda da lavoura cafeeira, tendência revertida pela Lei Eusébio de Queirós",
+                                                     "a":  "Ampliar o tráfico de escravizados para suprir a crescente demanda da lavoura cafeeira, tendência revertida pela Lei Eusébio de Queirós",
+                                                     "b":  "Encerrar o tráfico transatlântico de escravizados e dificultar o acesso à terra da população pobre e futuramente liberta",
+                                                     "c":  "Permitir que qualquer pessoa ocupasse livremente terras devolutas, sem necessidade de compra, o oposto do que a Lei de Terras estabeleceu",
                                                      "d":  "Ampliar o acesso à propriedade rural por meio da doação de lotes a libertos e a imigrantes recém-chegados",
-                                                     "e":  "Encerrar o tráfico transatlântico de escravizados e dificultar o acesso à terra da população pobre e futuramente liberta"
+                                                     "e":  "Libertar imediatamente todos os escravizados do país e distribuir terras a eles, medida que só ocorreria, sem distribuição de terras, em 1888"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "b",
                                 "explicacao":  "A Lei Eusébio de Queirós pôs fim ao tráfico transatlântico de escravizados, enquanto a Lei de Terras do mesmo ano estabeleceu a compra como única via legal de acesso à terra, dificultando que a futura população liberta e os trabalhadores pobres pudessem se tornar proprietários rurais.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18506,12 +18506,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A substituição do trabalho escravo pelo trabalho imigrante na cafeicultura paulista, nas últimas décadas do século XIX, esteve associada a:",
                                 "alternativas":  {
                                                      "a":  "Uma decisão espontânea dos próprios cafeicultores de abolir a escravidão décadas antes da Lei Áurea, o que jamais ocorreu",
-                                                     "b":  "A ausência completa de qualquer incentivo governamental à vinda de imigrantes, quando na verdade houve política ativa de subsídio",
-                                                     "c":  "A proibição legal do trabalho de imigrantes na lavoura cafeeira paulista, o oposto da política de incentivo migratório adotada pelo Império",
-                                                     "d":  "A proibição legal do trabalho de libertos nas lavouras de café, que obrigou os fazendeiros a recorrer a estrangeiros",
-                                                     "e":  "Políticas de subsídio à imigração, que buscavam mão de obra abundante diante do declínio do tráfico e da abolição"
+                                                     "b":  "Políticas de subsídio à imigração, que buscavam mão de obra abundante diante do declínio do tráfico e da abolição",
+                                                     "c":  "A ausência completa de qualquer incentivo governamental à vinda de imigrantes, quando na verdade houve política ativa de subsídio",
+                                                     "d":  "A proibição legal do trabalho de imigrantes na lavoura cafeeira paulista, o oposto da política de incentivo migratório adotada pelo Império",
+                                                     "e":  "A proibição legal do trabalho de libertos nas lavouras de café, que obrigou os fazendeiros a recorrer a estrangeiros"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "b",
                                 "explicacao":  "Diante do fim do tráfico e da perspectiva de abolição, o governo imperial e os cafeicultores paulistas passaram a subsidiar a vinda de imigrantes europeus, sobretudo italianos, garantindo mão de obra abundante para substituir gradualmente o trabalho escravo nas fazendas de café.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18521,13 +18521,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Nos primeiros anos da República, entre 1889 e 1891, o governo brasileiro adotou uma política de expansão do crédito e da emissão monetária para estimular a industrialização.",
                                 "enunciado":  "Essa política, conhecida como Encilhamento, resultou em:",
                                 "alternativas":  {
-                                                     "a":  "Uma onda especulativa na bolsa de valores seguida de forte crise financeira, com falências e inflação",
+                                                     "a":  "Estabilidade monetária duradoura e crescimento industrial sem sobressaltos, o oposto do que o Encilhamento gerou",
                                                      "b":  "A eliminação completa da dívida externa brasileira em poucos anos, resultado nunca produzido pelo Encilhamento",
-                                                     "c":  "O fim definitivo da emissão de moeda pelo governo federal, medida oposta à expansão monetária que caracterizou o Encilhamento",
-                                                     "d":  "Estabilidade monetária duradoura e crescimento industrial sem sobressaltos, o oposto do que o Encilhamento gerou",
+                                                     "c":  "Uma onda especulativa na bolsa de valores seguida de forte crise financeira, com falências e inflação",
+                                                     "d":  "O fim definitivo da emissão de moeda pelo governo federal, medida oposta à expansão monetária que caracterizou o Encilhamento",
                                                      "e":  "Uma década de estabilidade monetária, sustentada pela conversibilidade da moeda em ouro adotada no início da República"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "c",
                                 "explicacao":  "A política de expansão monetária e crédito facilitado do início da República, conhecida como Encilhamento, gerou intensa especulação na bolsa de valores, seguida de uma grave crise financeira, marcada por falências em massa e inflação elevada.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18537,11 +18537,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Nos primeiros anos da República, o governo de Floriano Peixoto enfrentou revoltas de setores da Marinha e de oposicionistas no Rio Grande do Sul.",
                                 "enunciado":  "Esses movimentos, ocorridos entre 1893 e 1895, refletiam, entre outros fatores:",
                                 "alternativas":  {
-                                                     "a":  "Consenso unânime das Forças Armadas em torno do governo republicano recém-instaurado, quadro contrariado por essas revoltas",
+                                                     "a":  "A disputa entre monarquistas e republicanos pela sucessão dinástica, encerrada com a restauração do trono no país",
                                                      "b":  "Disputas em torno do grau de centralização do regime republicano e resistências ao domínio do Exército sobre a política",
                                                      "c":  "Apoio da Marinha e dos revoltosos gaúchos ao retorno incondicional da monarquia, pauta ausente de ambos os movimentos revoltosos",
-                                                     "d":  "Ausência completa de tensões entre civis e militares ao longo da República Velha, quadro desmentido por essas e outras revoltas do período",
-                                                     "e":  "A disputa entre monarquistas e republicanos pela sucessão dinástica, encerrada com a restauração do trono no país"
+                                                     "d":  "Consenso unânime das Forças Armadas em torno do governo republicano recém-instaurado, quadro contrariado por essas revoltas",
+                                                     "e":  "Ausência completa de tensões entre civis e militares ao longo da República Velha, quadro desmentido por essas e outras revoltas do período"
                                                  },
                                 "resposta":  "b",
                                 "explicacao":  "A Revolta da Armada e a Revolução Federalista expressaram disputas sobre o desenho institucional da nova República, incluindo o grau de centralização do poder e a resistência de setores da Marinha e de oposicionistas gaúchos ao domínio crescente do Exército sobre a política do país.",
@@ -18553,11 +18553,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1896 e 1897, o arraial de Canudos, no sertão baiano, liderado por Antônio Conselheiro, foi destruído após sucessivas expedições militares do governo republicano.",
                                 "enunciado":  "A Guerra de Canudos é frequentemente interpretada como expressão de:",
                                 "alternativas":  {
-                                                     "a":  "Um movimento plenamente monarquista e financiado pela Inglaterra, hipótese não confirmada pelas investigações da época",
-                                                     "b":  "Uma revolta organizada por cafeicultores paulistas contra o governo federal, grupo alheio à composição predominantemente sertaneja do movimento",
+                                                     "a":  "Uma revolta organizada por cafeicultores paulistas contra o governo federal, grupo alheio à composição predominantemente sertaneja do movimento",
+                                                     "b":  "Um levante puramente militar, sem qualquer participação da população sertaneja local, quando Canudos foi majoritariamente formado por civis",
                                                      "c":  "Tensões sociais do sertão nordestino, marcadas pela miséria e pelo messianismo religioso, lidas como ameaça restauracionista pelas elites",
-                                                     "d":  "Um levante puramente militar, sem qualquer participação da população sertaneja local, quando Canudos foi majoritariamente formado por civis",
-                                                     "e":  "Um levante organizado por antigos senhores de engenho contra a abolição, que buscava restaurar a ordem escravista"
+                                                     "d":  "Um levante organizado por antigos senhores de engenho contra a abolição, que buscava restaurar a ordem escravista",
+                                                     "e":  "Um movimento plenamente monarquista e financiado pela Inglaterra, hipótese não confirmada pelas investigações da época"
                                                  },
                                 "resposta":  "c",
                                 "explicacao":  "Canudos reuniu sertanejos pobres em torno de uma comunidade religiosa liderada por Antônio Conselheiro; as elites republicanas, porém, interpretaram equivocadamente o movimento como uma conspiração monarquista, o que ajudou a justificar as violentas expedições militares que o destruíram.",
@@ -18586,12 +18586,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A Revolta da Chibata denunciava, sobretudo:",
                                 "alternativas":  {
                                                      "a":  "A extinção completa da hierarquia militar dentro da Marinha brasileira, pauta ausente das reivindicações dos marinheiros revoltosos",
-                                                     "b":  "A recusa dos marinheiros em aceitar salários mais altos oferecidos pelo governo, inversão do que de fato motivou o movimento de protesto",
-                                                     "c":  "A defesa, pelos marinheiros revoltosos, da restauração da monarquia no Brasil, bandeira estranha às reivindicações trabalhistas do movimento",
-                                                     "d":  "A persistência de práticas de punição corporal herdadas do período escravista dentro das Forças Armadas, mesmo após a abolição formal da escravidão",
-                                                     "e":  "A exigência de participação dos marinheiros na escolha do comando naval, apresentada como pauta central dos revoltosos"
+                                                     "b":  "A exigência de participação dos marinheiros na escolha do comando naval, apresentada como pauta central dos revoltosos",
+                                                     "c":  "A recusa dos marinheiros em aceitar salários mais altos oferecidos pelo governo, inversão do que de fato motivou o movimento de protesto",
+                                                     "d":  "A defesa, pelos marinheiros revoltosos, da restauração da monarquia no Brasil, bandeira estranha às reivindicações trabalhistas do movimento",
+                                                     "e":  "A persistência de práticas de punição corporal herdadas do período escravista dentro das Forças Armadas, mesmo após a abolição formal da escravidão"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "e",
                                 "explicacao":  "Liderada por marinheiros majoritariamente negros e pobres, a Revolta da Chibata denunciou a manutenção de castigos corporais na Marinha, prática que remetia diretamente aos métodos de punição do período escravista, ainda vigente décadas após a abolição formal de 1888.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18602,12 +18602,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Esse evento é relevante para a história política e cultural do Brasil porque:",
                                 "alternativas":  {
                                                      "a":  "Foi organizada diretamente pelo governo federal como instrumento oficial de propaganda política, quando partiu de artistas paulistas independentes",
-                                                     "b":  "Impulsionou um movimento de busca por identidade cultural brasileira mais autêntica, em sintonia com o questionamento das oligarquias",
-                                                     "c":  "Não teve qualquer relação com o contexto político e social do país na época, leitura contrariada pela conjuntura de contestação oligárquica",
-                                                     "d":  "Propôs a manutenção integral dos padrões artísticos acadêmicos europeus do século XIX, o oposto da ruptura estética buscada pelos modernistas",
-                                                     "e":  "Consolidou o academicismo como linguagem oficial das artes brasileiras, com apoio direto do governo federal"
+                                                     "b":  "Não teve qualquer relação com o contexto político e social do país na época, leitura contrariada pela conjuntura de contestação oligárquica",
+                                                     "c":  "Consolidou o academicismo como linguagem oficial das artes brasileiras, com apoio direto do governo federal",
+                                                     "d":  "Impulsionou um movimento de busca por identidade cultural brasileira mais autêntica, em sintonia com o questionamento das oligarquias",
+                                                     "e":  "Propôs a manutenção integral dos padrões artísticos acadêmicos europeus do século XIX, o oposto da ruptura estética buscada pelos modernistas"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "d",
                                 "explicacao":  "A Semana de Arte Moderna de 1922 ocorreu no mesmo ano em que se intensificavam movimentos de contestação à ordem oligárquica da República Velha, como o tenentismo, e buscou romper com os padrões estéticos herdados da Europa em favor de uma expressão artística e cultural mais identificada com o Brasil.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18633,13 +18633,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "O Código Eleitoral de 1932, editado no governo provisório de Getúlio Vargas, trouxe mudanças significativas às regras eleitorais brasileiras.",
                                 "enunciado":  "Entre as principais inovações desse código estava:",
                                 "alternativas":  {
-                                                     "a":  "A exclusão definitiva das mulheres de qualquer participação na vida política nacional",
-                                                     "b":  "O fim do voto obrigatório para os cidadãos do sexo masculino, regra mantida pelo Código de 1932",
-                                                     "c":  "A extensão do direito de voto às mulheres e a instituição do voto secreto no país",
-                                                     "d":  "A manutenção do voto censitário vinculado à renda dos eleitores, critério abolido pelo Código de 1932",
+                                                     "a":  "A extensão do direito de voto às mulheres e a instituição do voto secreto no país",
+                                                     "b":  "A exclusão definitiva das mulheres de qualquer participação na vida política nacional",
+                                                     "c":  "A manutenção do voto censitário vinculado à renda dos eleitores, critério abolido pelo Código de 1932",
+                                                     "d":  "O fim do voto obrigatório para os cidadãos do sexo masculino, regra mantida pelo Código de 1932",
                                                      "e":  "A adoção do voto distrital misto e o fim da representação proporcional nas eleições para o Legislativo"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "a",
                                 "explicacao":  "O Código Eleitoral de 1932 representou avanço significativo ao estender o direito de voto às mulheres e instituir o voto secreto, medidas que buscavam ampliar a participação política e reduzir fraudes eleitorais características da República Velha.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18649,13 +18649,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Na década de 1930, o Brasil viu surgir movimentos políticos de massa em disputa, entre eles um de inspiração nacionalista e autoritária, liderado por Plínio Salgado.",
                                 "enunciado":  "A Ação Integralista Brasileira caracterizava-se por:",
                                 "alternativas":  {
-                                                     "a":  "Um nacionalismo autoritário, com elementos de inspiração fascista, hierarquia rígida e forte simbologia, como o uso de camisas verdes e saudações padronizadas",
-                                                     "b":  "Defender o internacionalismo socialista e a revolução proletária mundial, programa associado à esquerda da Aliança Nacional Libertadora",
+                                                     "a":  "A defesa da ampliação irrestrita dos direitos trabalhistas conforme o modelo soviético, associação inversa à orientação anticomunista do movimento",
+                                                     "b":  "Um projeto de inspiração anarquista, com organização horizontal e recusa de qualquer hierarquia partidária",
                                                      "c":  "O apoio irrestrito à democracia liberal e ao parlamentarismo pluripartidário, posição contrária ao autoritarismo do integralismo",
-                                                     "d":  "A defesa da ampliação irrestrita dos direitos trabalhistas conforme o modelo soviético, associação inversa à orientação anticomunista do movimento",
-                                                     "e":  "Um projeto de inspiração anarquista, com organização horizontal e recusa de qualquer hierarquia partidária"
+                                                     "d":  "Defender o internacionalismo socialista e a revolução proletária mundial, programa associado à esquerda da Aliança Nacional Libertadora",
+                                                     "e":  "Um nacionalismo autoritário, com elementos de inspiração fascista, hierarquia rígida e forte simbologia, como o uso de camisas verdes e saudações padronizadas"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "A Ação Integralista Brasileira defendia um nacionalismo autoritário de inspiração fascista, com hierarquia rígida, culto ao líder e forte simbologia própria, disputando espaço político com movimentos de esquerda como a Aliança Nacional Libertadora na conturbada década de 1930.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18681,13 +18681,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Embora governado por um regime autoritário, o Brasil integrou os Aliados na Segunda Guerra Mundial, enviando tropas para combater na Itália.",
                                 "enunciado":  "O envio da Força Expedicionária Brasileira (FEB) para lutar ao lado das democracias aliadas, ainda sob o Estado Novo, é apontado por historiadores como um fator que:",
                                 "alternativas":  {
-                                                     "a":  "Resultou na anexação de territórios italianos pelo governo brasileiro, desfecho que jamais ocorreu com a participação da FEB na Itália",
-                                                     "b":  "Fortaleceu definitivamente o regime autoritário de Getúlio Vargas perante a população, o oposto do que de fato ocorreu",
-                                                     "c":  "Impediu qualquer participação brasileira nos debates internacionais do pós-guerra, o que a atuação da FEB de fato não impediu",
-                                                     "d":  "Gerou uma contradição entre combater o autoritarismo no exterior e viver sob ditadura no Brasil, alimentando pressões pela redemocratização",
-                                                     "e":  "Consolidou o apoio interno ao Estado Novo, que saiu fortalecido do conflito e se prolongou por mais uma década"
+                                                     "a":  "Impediu qualquer participação brasileira nos debates internacionais do pós-guerra, o que a atuação da FEB de fato não impediu",
+                                                     "b":  "Resultou na anexação de territórios italianos pelo governo brasileiro, desfecho que jamais ocorreu com a participação da FEB na Itália",
+                                                     "c":  "Gerou uma contradição entre combater o autoritarismo no exterior e viver sob ditadura no Brasil, alimentando pressões pela redemocratização",
+                                                     "d":  "Consolidou o apoio interno ao Estado Novo, que saiu fortalecido do conflito e se prolongou por mais uma década",
+                                                     "e":  "Fortaleceu definitivamente o regime autoritário de Getúlio Vargas perante a população, o oposto do que de fato ocorreu"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "c",
                                 "explicacao":  "O paradoxo de soldados brasileiros combaterem regimes fascistas na Europa em nome da democracia, enquanto viviam sob a ditadura do Estado Novo, é apontado como fator que fortaleceu o discurso pela redemocratização do país nos anos seguintes, culminando na queda de Vargas em 1945.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18698,12 +18698,12 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Esse movimento, conhecido como queremismo, contribuiu para um paradoxo político da época, no qual:",
                                 "alternativas":  {
                                                      "a":  "Os militares se uniram para manter Vargas no poder de forma indefinida, quando foram eles que o depuseram meses depois",
-                                                     "b":  "Um líder identificado com o autoritarismo do Estado Novo passou a contar também com apoio popular em nome da redemocratização do país",
-                                                     "c":  "A esquerda brasileira se opôs integralmente a qualquer participação de Vargas na vida política, o oposto de sua base queremista",
-                                                     "d":  "As eleições presidenciais de 1945 foram canceladas em definitivo, quando na verdade ocorreram normalmente, com a deposição de Vargas",
-                                                     "e":  "A oposição organizada de setores liberais, que exigiam a saída imediata de Vargas e eleições sem sua candidatura"
+                                                     "b":  "A oposição organizada de setores liberais, que exigiam a saída imediata de Vargas e eleições sem sua candidatura",
+                                                     "c":  "As eleições presidenciais de 1945 foram canceladas em definitivo, quando na verdade ocorreram normalmente, com a deposição de Vargas",
+                                                     "d":  "A esquerda brasileira se opôs integralmente a qualquer participação de Vargas na vida política, o oposto de sua base queremista",
+                                                     "e":  "Um líder identificado com o autoritarismo do Estado Novo passou a contar também com apoio popular em nome da redemocratização do país"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "e",
                                 "explicacao":  "O queremismo revela o paradoxo pelo qual Vargas, símbolo do autoritarismo do Estado Novo, conseguiu mobilizar apoio popular em nome da continuidade de seu governo, ainda que em um contexto de pressão crescente por eleições livres, até ser deposto pelos militares meses depois.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18713,13 +18713,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Após a queda do Estado Novo, uma nova Assembleia Constituinte elaborou a Constituição promulgada em 1946.",
                                 "enunciado":  "Essa Constituição caracterizou-se por:",
                                 "alternativas":  {
-                                                     "a":  "Manter os poderes excepcionais concedidos ao Executivo durante o Estado Novo, o oposto do processo de redemocratização consagrado pela nova Carta",
-                                                     "b":  "Extinguir o Poder Legislativo como instância de representação política, medida inversa ao restabelecimento pleno do Congresso em 1946",
-                                                     "c":  "Restabelecer o Estado democrático de Direito, com eleições diretas e ampliação de garantias individuais, encerrando o Estado Novo",
-                                                     "d":  "Reinstituir a monarquia constitucional no território brasileiro, regime encerrado em 1889 com a Proclamação da República",
-                                                     "e":  "Manter os poderes excepcionais do Executivo instituídos em 1937, apenas transferindo-os a um conselho de ministros"
+                                                     "a":  "Extinguir o Poder Legislativo como instância de representação política, medida inversa ao restabelecimento pleno do Congresso em 1946",
+                                                     "b":  "Restabelecer o Estado democrático de Direito, com eleições diretas e ampliação de garantias individuais, encerrando o Estado Novo",
+                                                     "c":  "Manter os poderes excepcionais do Executivo instituídos em 1937, apenas transferindo-os a um conselho de ministros",
+                                                     "d":  "Manter os poderes excepcionais concedidos ao Executivo durante o Estado Novo, o oposto do processo de redemocratização consagrado pela nova Carta",
+                                                     "e":  "Reinstituir a monarquia constitucional no território brasileiro, regime encerrado em 1889 com a Proclamação da República"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "b",
                                 "explicacao":  "A Constituição de 1946 restabeleceu o Estado democrático de Direito, prevendo eleições diretas, separação de poderes e ampliação de direitos individuais e sociais, encerrando formalmente a fase mais autoritária representada pelo Estado Novo (1937-1945).",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18729,13 +18729,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em agosto de 1954, em meio a uma grave crise política, o presidente Getúlio Vargas suicidou-se no Palácio do Catete.",
                                 "enunciado":  "A crise que antecedeu o suicídio de Vargas envolveu, entre outros fatores:",
                                 "alternativas":  {
-                                                     "a":  "Unanimidade política em torno do governo, sem qualquer oposição relevante à sua administração, quadro distante da forte polarização do período",
-                                                     "b":  "Uma crise causada exclusivamente por fatores externos, sem qualquer relação com a política interna, o que os fatos desmentem",
-                                                     "c":  "A derrota militar do Brasil em um conflito internacional recente, hipótese sem relação com a crise que antecedeu o suicídio de Vargas",
-                                                     "d":  "Forte pressão de setores militares e da oposição, agravada por um atentado envolvendo a guarda pessoal do presidente",
-                                                     "e":  "Uma derrota eleitoral que retirou a base parlamentar do governo, seguida de processo de impedimento no Congresso"
+                                                     "a":  "Uma derrota eleitoral que retirou a base parlamentar do governo, seguida de processo de impedimento no Congresso",
+                                                     "b":  "Forte pressão de setores militares e da oposição, agravada por um atentado envolvendo a guarda pessoal do presidente",
+                                                     "c":  "Uma crise causada exclusivamente por fatores externos, sem qualquer relação com a política interna, o que os fatos desmentem",
+                                                     "d":  "A derrota militar do Brasil em um conflito internacional recente, hipótese sem relação com a crise que antecedeu o suicídio de Vargas",
+                                                     "e":  "Unanimidade política em torno do governo, sem qualquer oposição relevante à sua administração, quadro distante da forte polarização do período"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "b",
                                 "explicacao":  "A crise de 1954 combinou forte pressão de militares e de oposicionistas, agravada pela repercussão de um atentado contra o jornalista Carlos Lacerda, que envolveu a guarda pessoal do presidente, levando Vargas a se suicidar deixando uma carta-testamento de forte impacto político.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18747,11 +18747,11 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "O Brasil ficou sem qualquer sucessor previsto na Constituição então vigente, quando a linha sucessória do vice-presidente estava definida",
                                                      "b":  "Resultou na imediata instauração de uma ditadura militar no país, ruptura que só ocorreria três anos depois, em 1964",
-                                                     "c":  "Provocou o fechamento definitivo do Congresso Nacional pelo próprio Jânio, medida que ele não chegou a tomar antes de renunciar",
-                                                     "d":  "O vice-presidente havia renunciado semanas antes, deixando a sucessão indefinida e abrindo espaço para intervenção militar",
-                                                     "e":  "O vice-presidente, João Goulart, era mal visto por setores militares e conservadores, que tentaram impedir sua posse na Presidência"
+                                                     "c":  "O vice-presidente havia renunciado semanas antes, deixando a sucessão indefinida e abrindo espaço para intervenção militar",
+                                                     "d":  "O vice-presidente, João Goulart, era mal visto por setores militares e conservadores, que tentaram impedir sua posse na Presidência",
+                                                     "e":  "Provocou o fechamento definitivo do Congresso Nacional pelo próprio Jânio, medida que ele não chegou a tomar antes de renunciar"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "A renúncia de Jânio Quadros abriu uma crise sucessória, pois o vice-presidente João Goulart, associado a posições nacionalistas e trabalhistas, era visto com desconfiança por setores militares e conservadores, que tentaram, sem sucesso, impedir sua posse na Presidência.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18761,13 +18761,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Diante da resistência de setores militares à posse de João Goulart em 1961, o governador do Rio Grande do Sul, Leonel Brizola, liderou um movimento de resistência civil e militar em defesa da Constituição.",
                                 "enunciado":  "Esse movimento, conhecido como Campanha da Legalidade, resultou em uma solução de compromisso pela qual:",
                                 "alternativas":  {
-                                                     "a":  "O Brasil adotou de imediato um regime presidencialista sem qualquer restrição aos poderes do presidente, o que não ocorreu de imediato",
-                                                     "b":  "O Congresso Nacional foi fechado por tempo indeterminado como condição para a posse de Goulart, medida que a Campanha da Legalidade rejeitava",
+                                                     "a":  "O Congresso Nacional foi fechado por tempo indeterminado como condição para a posse de Goulart, medida que a Campanha da Legalidade rejeitava",
+                                                     "b":  "O Brasil adotou de imediato um regime presidencialista sem qualquer restrição aos poderes do presidente, o que não ocorreu de imediato",
                                                      "c":  "Goulart foi definitivamente impedido de assumir a Presidência da República, desfecho evitado pela solução parlamentarista adotada",
-                                                     "d":  "Goulart foi impedido de assumir, e o país passou a ser governado por uma junta militar até as eleições seguintes",
-                                                     "e":  "Goulart tomou posse sob regime parlamentarista que reduzia seus poderes, revertido por plebiscito popular em 1963"
+                                                     "d":  "Goulart tomou posse sob regime parlamentarista que reduzia seus poderes, revertido por plebiscito popular em 1963",
+                                                     "e":  "Goulart foi impedido de assumir, e o país passou a ser governado por uma junta militar até as eleições seguintes"
                                                  },
-                                "resposta":  "e",
+                                "resposta":  "d",
                                 "explicacao":  "Como solução de compromisso diante da resistência militar, Goulart tomou posse sob um regime parlamentarista que limitava seus poderes presidenciais, arranjo que vigorou até ser revertido por plebiscito popular em janeiro de 1963, restabelecendo o presidencialismo pleno.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18809,13 +18809,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "No final da década de 1970, a região do ABC paulista foi palco de grandes greves operárias, sobretudo no setor metalúrgico.",
                                 "enunciado":  "Esse movimento grevista, que teve entre suas lideranças Luiz Inácio Lula da Silva, é considerado relevante porque:",
                                 "alternativas":  {
-                                                     "a":  "Representou a retomada da mobilização sindical independente na abertura política, base para novos partidos e centrais sindicais",
+                                                     "a":  "Marcou a adesão do sindicalismo à estrutura corporativa herdada do Estado Novo, sob tutela do Ministério do Trabalho",
                                                      "b":  "Foi organizado diretamente pelo governo militar como instrumento de propaganda oficial, o oposto de sua origem autônoma",
-                                                     "c":  "Não teve qualquer relação com o processo de redemocratização do país, quando na verdade impulsionou a organização sindical na abertura",
+                                                     "c":  "Representou a retomada da mobilização sindical independente na abertura política, base para novos partidos e centrais sindicais",
                                                      "d":  "Ocorreu no auge da repressão do AI-5, sem qualquer risco para seus organizadores, quando se deu já no contexto de abertura política gradual",
-                                                     "e":  "Marcou a adesão do sindicalismo à estrutura corporativa herdada do Estado Novo, sob tutela do Ministério do Trabalho"
+                                                     "e":  "Não teve qualquer relação com o processo de redemocratização do país, quando na verdade impulsionou a organização sindical na abertura"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "c",
                                 "explicacao":  "As greves do ABC paulista, no contexto de abertura política gradual, marcaram a retomada da mobilização sindical autônoma frente ao Estado, servindo de base para a organização posterior de novos partidos e centrais sindicais, como o PT e a CUT, já na transição democrática.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18857,13 +18857,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Fundada em 1983, a Central Única dos Trabalhadores tornou-se uma das principais organizações sindicais do Brasil.",
                                 "enunciado":  "O surgimento da CUT está associado a:",
                                 "alternativas":  {
-                                                     "a":  "Uma iniciativa promovida exclusivamente pelo empresariado industrial paulista, classe que historicamente se opôs à organização sindical",
-                                                     "b":  "O novo sindicalismo surgido no final dos anos 1970, com maior autonomia frente ao Estado e disposição para greves e negociação direta com patrões",
+                                                     "a":  "O novo sindicalismo surgido no final dos anos 1970, com maior autonomia frente ao Estado e disposição para greves e negociação direta com patrões",
+                                                     "b":  "A extinção de todos os demais sindicatos existentes no país até então, medida que a CUT, na prática, jamais promoveu ou defendeu",
                                                      "c":  "Um movimento de sindicalismo oficial, plenamente subordinado ao Estado, nos moldes do modelo corporativista da era Vargas",
-                                                     "d":  "A extinção de todos os demais sindicatos existentes no país até então, medida que a CUT, na prática, jamais promoveu ou defendeu",
-                                                     "e":  "A reorganização dos sindicatos rurais sob coordenação estatal, promovida pelo governo militar na década de 1970"
+                                                     "d":  "A reorganização dos sindicatos rurais sob coordenação estatal, promovida pelo governo militar na década de 1970",
+                                                     "e":  "Uma iniciativa promovida exclusivamente pelo empresariado industrial paulista, classe que historicamente se opôs à organização sindical"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "a",
                                 "explicacao":  "A CUT nasceu do chamado novo sindicalismo, surgido nas greves do final dos anos 1970 e caracterizado por maior autonomia frente ao Estado e disposição para negociação direta e ação grevista, rompendo com o modelo sindical corporativista herdado da era Vargas.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18873,13 +18873,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Fundado em 1978, o Movimento Negro Unificado surgiu em um contexto de redemocratização e de denúncia do chamado mito da democracia racial brasileira.",
                                 "enunciado":  "Entre as principais bandeiras desse movimento estavam:",
                                 "alternativas":  {
-                                                     "a":  "A defesa da manutenção das desigualdades raciais como fenômeno natural, tese sempre combatida pelo MNU",
-                                                     "b":  "O apoio explícito à manutenção do regime militar então vigente no país, postura incompatível com o caráter contestador do MNU",
-                                                     "c":  "O combate ao racismo institucional e à discriminação, e a valorização da cultura e da história afro-brasileira",
+                                                     "a":  "O apoio explícito à manutenção do regime militar então vigente no país, postura incompatível com o caráter contestador do MNU",
+                                                     "b":  "A defesa da assimilação cultural como via de integração social, em oposição à valorização de identidades específicas",
+                                                     "c":  "A defesa da manutenção das desigualdades raciais como fenômeno natural, tese sempre combatida pelo MNU",
                                                      "d":  "A oposição a qualquer forma de política de ação afirmativa, posição contrária ao apoio do MNU às cotas raciais",
-                                                     "e":  "A defesa da assimilação cultural como via de integração social, em oposição à valorização de identidades específicas"
+                                                     "e":  "O combate ao racismo institucional e à discriminação, e a valorização da cultura e da história afro-brasileira"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "e",
                                 "explicacao":  "O Movimento Negro Unificado, criado em 1978, mobilizou-se contra o racismo institucional e a discriminação racial, denunciando o chamado mito da democracia racial e defendendo a valorização da cultura e da história afro-brasileira, com influência posterior sobre políticas públicas de igualdade racial.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18889,13 +18889,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Lançado em 1986, no governo José Sarney, o Plano Cruzado buscou combater a inflação por meio do congelamento de preços e da criação de uma nova moeda.",
                                 "enunciado":  "Apesar da popularidade inicial, o Plano Cruzado:",
                                 "alternativas":  {
-                                                     "a":  "Eliminou definitivamente a inflação da economia brasileira nas décadas seguintes, resultado que só o Plano Real alcançaria quase uma década depois",
-                                                     "b":  "Foi o primeiro plano de estabilização adotado no Brasil desde a Segunda Guerra Mundial, quando sucedeu outras tentativas heterodoxas anteriores",
-                                                     "c":  "Fracassou no médio prazo, com o retorno da alta inflacionária, revelando a dificuldade de planos baseados em congelamentos sem ajuste fiscal estrutural",
-                                                     "d":  "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade, quando teve enorme popularidade inicial em 1986",
+                                                     "a":  "Fracassou no médio prazo, com o retorno da alta inflacionária, revelando a dificuldade de planos baseados em congelamentos sem ajuste fiscal estrutural",
+                                                     "b":  "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade, quando teve enorme popularidade inicial em 1986",
+                                                     "c":  "Foi o primeiro plano de estabilização adotado no Brasil desde a Segunda Guerra Mundial, quando sucedeu outras tentativas heterodoxas anteriores",
+                                                     "d":  "Eliminou definitivamente a inflação da economia brasileira nas décadas seguintes, resultado que só o Plano Real alcançaria quase uma década depois",
                                                      "e":  "Consolidou a estabilidade de preços por mais de uma década, servindo de base para os planos econômicos seguintes"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "a",
                                 "explicacao":  "Apesar do sucesso inicial e da grande popularidade, o Plano Cruzado fracassou no médio prazo diante do retorno da inflação, evidenciando que congelamentos de preços sem correção dos desequilíbrios fiscais estruturais não eram suficientes para estabilizar a economia de forma duradoura.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -18905,13 +18905,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Assembleia Nacional Constituinte que elaborou a Constituição de 1988 permitiu a apresentação de propostas por meio de assinaturas de eleitores.",
                                 "enunciado":  "Esse mecanismo de participação, conhecido como emendas populares, é apontado como evidência de que a Constituinte de 1987-88:",
                                 "alternativas":  {
-                                                     "a":  "Resultou em uma Constituição outorgada, sem qualquer votação parlamentar, característica oposta ao processo democrático da Constituinte",
-                                                     "b":  "Foi um processo fechado, sem qualquer participação da sociedade civil organizada, o oposto do que as emendas populares de fato permitiram",
+                                                     "a":  "Foi um processo fechado, sem qualquer participação da sociedade civil organizada, o oposto do que as emendas populares de fato permitiram",
+                                                     "b":  "Restringiu a elaboração constitucional aos parlamentares eleitos, sem canais formais de participação da sociedade",
                                                      "c":  "Foi conduzida exclusivamente pelos militares que ainda deixavam o poder, quando coube a parlamentares eleitos e à sociedade civil",
-                                                     "d":  "Combinou a atuação de parlamentares eleitos com canais de participação social direta, refletindo o clima de mobilização da redemocratização",
-                                                     "e":  "Restringiu a elaboração constitucional aos parlamentares eleitos, sem canais formais de participação da sociedade"
+                                                     "d":  "Resultou em uma Constituição outorgada, sem qualquer votação parlamentar, característica oposta ao processo democrático da Constituinte",
+                                                     "e":  "Combinou a atuação de parlamentares eleitos com canais de participação social direta, refletindo o clima de mobilização da redemocratização"
                                                  },
-                                "resposta":  "d",
+                                "resposta":  "e",
                                 "explicacao":  "Ao permitir emendas populares apresentadas mediante assinaturas de eleitores, a Constituinte de 1987-88 combinou a representação parlamentar tradicional com canais diretos de participação da sociedade civil, refletindo o intenso clima de mobilização social que marcou a redemocratização.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18937,11 +18937,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Ao longo da década de 1990, o governo federal promoveu a venda de diversas empresas estatais a grupos privados, no âmbito do Plano Nacional de Desestatização.",
                                 "enunciado":  "Entre os argumentos utilizados para justificar essas privatizações estava:",
                                 "alternativas":  {
-                                                     "a":  "A proibição constitucional de qualquer existência de empresa estatal no Brasil, regra inexistente na Constituição de 1988",
-                                                     "b":  "A ausência completa de debate público em torno do tema durante a década de 1990, quando as privatizações geraram intensa controvérsia",
-                                                     "c":  "A necessidade de o Estado ampliar seu controle direto sobre setores estratégicos, o oposto do objetivo real das privatizações",
+                                                     "a":  "A necessidade de ampliar o número de estatais em setores estratégicos, revertendo a tendência das décadas anteriores",
+                                                     "b":  "A necessidade de o Estado ampliar seu controle direto sobre setores estratégicos, o oposto do objetivo real das privatizações",
+                                                     "c":  "A ausência completa de debate público em torno do tema durante a década de 1990, quando as privatizações geraram intensa controvérsia",
                                                      "d":  "A busca por reduzir o endividamento público e transferir a gestão de setores ineficientes à iniciativa privada",
-                                                     "e":  "A necessidade de ampliar o número de estatais em setores estratégicos, revertendo a tendência das décadas anteriores"
+                                                     "e":  "A proibição constitucional de qualquer existência de empresa estatal no Brasil, regra inexistente na Constituição de 1988"
                                                  },
                                 "resposta":  "d",
                                 "explicacao":  "O Plano Nacional de Desestatização foi justificado, entre outros argumentos, pela necessidade de reduzir o endividamento público e transferir à iniciativa privada a gestão de setores considerados ineficientes sob controle estatal, em um contexto internacional de reformas liberalizantes.",
@@ -18953,13 +18953,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Aprovado em 1990, o Estatuto da Criança e do Adolescente regulamentou os direitos previstos na Constituição de 1988 para esse grupo.",
                                 "enunciado":  "O ECA representou uma mudança de paradigma em relação à legislação anterior, sobretudo ao:",
                                 "alternativas":  {
-                                                     "a":  "Consagrar a doutrina da proteção integral, reconhecendo crianças e adolescentes como sujeitos de direitos e prioridade absoluta",
-                                                     "b":  "Manter crianças e adolescentes como meros objetos de tutela do Estado, sem direitos próprios, doutrina superada pelo ECA",
-                                                     "c":  "Restringir o acesso de crianças de famílias pobres à educação básica gratuita, medida contrária à prioridade absoluta consagrada pelo ECA",
-                                                     "d":  "Eliminar qualquer distinção entre a responsabilidade penal de adultos e adolescentes, distinção mantida nas medidas socioeducativas",
+                                                     "a":  "Restringir o acesso de crianças de famílias pobres à educação básica gratuita, medida contrária à prioridade absoluta consagrada pelo ECA",
+                                                     "b":  "Consagrar a doutrina da proteção integral, reconhecendo crianças e adolescentes como sujeitos de direitos e prioridade absoluta",
+                                                     "c":  "Eliminar qualquer distinção entre a responsabilidade penal de adultos e adolescentes, distinção mantida nas medidas socioeducativas",
+                                                     "d":  "Manter crianças e adolescentes como meros objetos de tutela do Estado, sem direitos próprios, doutrina superada pelo ECA",
                                                      "e":  "Manter a doutrina da situação irregular, tratando crianças e adolescentes como objeto de tutela e vigilância do Estado"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "b",
                                 "explicacao":  "O ECA rompeu com a antiga doutrina da situação irregular, que tratava crianças e adolescentes pobres como objetos de tutela e controle estatal, consagrando a doutrina da proteção integral, que os reconhece como sujeitos de direitos e prioridade absoluta nas políticas públicas.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -18985,13 +18985,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A partir dos anos 2000, universidades públicas brasileiras passaram a adotar, de forma crescente, políticas de reserva de vagas para estudantes negros, indígenas e egressos de escolas públicas.",
                                 "enunciado":  "Essas políticas, posteriormente consolidadas em lei federal, têm como principal justificativa:",
                                 "alternativas":  {
-                                                     "a":  "Reduzir o número total de vagas disponíveis nas universidades públicas brasileiras, efeito oposto ao da ampliação de acesso buscada pelas cotas",
-                                                     "b":  "Compensar desigualdades históricas de acesso à educação, associadas ao legado da escravidão e a desigualdades socioeconômicas persistentes",
-                                                     "c":  "Eliminar por completo qualquer processo seletivo nas universidades públicas do país, quando os processos seletivos foram mantidos",
-                                                     "d":  "Restringir o acesso de estudantes egressos de escolas públicas ao ensino superior, grupo que a política de cotas buscou justamente incluir",
-                                                     "e":  "Substituir o critério racial pelo critério de renda familiar, adotado como parâmetro único na seleção dos beneficiários"
+                                                     "a":  "Restringir o acesso de estudantes egressos de escolas públicas ao ensino superior, grupo que a política de cotas buscou justamente incluir",
+                                                     "b":  "Reduzir o número total de vagas disponíveis nas universidades públicas brasileiras, efeito oposto ao da ampliação de acesso buscada pelas cotas",
+                                                     "c":  "Compensar desigualdades históricas de acesso à educação, associadas ao legado da escravidão e a desigualdades socioeconômicas persistentes",
+                                                     "d":  "Substituir o critério racial pelo critério de renda familiar, adotado como parâmetro único na seleção dos beneficiários",
+                                                     "e":  "Eliminar por completo qualquer processo seletivo nas universidades públicas do país, quando os processos seletivos foram mantidos"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "As políticas de cotas raciais e sociais nas universidades públicas buscam compensar desigualdades históricas de acesso à educação, associadas tanto ao legado da escravidão quanto a desigualdades socioeconômicas persistentes na sociedade brasileira contemporânea.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -19001,13 +19001,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Sancionada em 2006, a Lei Maria da Penha recebeu esse nome em homenagem a uma mulher que sofreu tentativas de homicídio por parte do próprio marido.",
                                 "enunciado":  "Essa lei representou um marco no combate à violência doméstica porque:",
                                 "alternativas":  {
-                                                     "a":  "Extinguiu qualquer forma de punição para agressores que atuassem em ambiente doméstico, o oposto do endurecimento penal que a lei promoveu",
-                                                     "b":  "Aplicava-se exclusivamente a casos de violência cometida entre pessoas desconhecidas entre si, quando a lei trata do âmbito doméstico e familiar",
-                                                     "c":  "Criou mecanismos específicos de proteção à mulher em violência doméstica e familiar, antes tratada de forma mais branda pela lei penal",
-                                                     "d":  "Foi a primeira lei brasileira a tratar de violência de gênero, quando já havia legislação anterior sobre o tema",
-                                                     "e":  "Ampliou as penas para crimes patrimoniais cometidos no ambiente doméstico, sem tratar especificamente da violência de gênero"
+                                                     "a":  "Ampliou as penas para crimes patrimoniais cometidos no ambiente doméstico, sem tratar especificamente da violência de gênero",
+                                                     "b":  "Criou mecanismos específicos de proteção à mulher em violência doméstica e familiar, antes tratada de forma mais branda pela lei penal",
+                                                     "c":  "Aplicava-se exclusivamente a casos de violência cometida entre pessoas desconhecidas entre si, quando a lei trata do âmbito doméstico e familiar",
+                                                     "d":  "Extinguiu qualquer forma de punição para agressores que atuassem em ambiente doméstico, o oposto do endurecimento penal que a lei promoveu",
+                                                     "e":  "Foi a primeira lei brasileira a tratar de violência de gênero, quando já havia legislação anterior sobre o tema"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "b",
                                 "explicacao":  "A Lei Maria da Penha criou mecanismos específicos de proteção às mulheres em situação de violência doméstica e familiar, como medidas protetivas de urgência, endurecendo o tratamento penal desse tipo de violência, antes frequentemente tratada de forma mais branda pela legislação comum.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -19017,13 +19017,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Criado em 2003 a partir da unificação de programas sociais anteriores, o Bolsa Família tornou-se um dos maiores programas de transferência condicionada de renda do mundo.",
                                 "enunciado":  "Entre os efeitos mais discutidos por pesquisas sobre esse tipo de programa está:",
                                 "alternativas":  {
-                                                     "a":  "A substituição integral do sistema previdenciário brasileiro pelo programa, função que o Bolsa Família nunca desempenhou na política social",
-                                                     "b":  "O aumento generalizado da informalidade no mercado de trabalho, sem impacto observável sobre a pobreza, o que contraria estudos sobre o programa",
-                                                     "c":  "A redução da pobreza extrema e melhoria de indicadores de frequência escolar e saúde infantil, ligadas às condicionalidades do programa",
-                                                     "d":  "A eliminação completa da desigualdade de renda no território brasileiro, meta que pesquisas mostram não ter sido plenamente alcançada",
-                                                     "e":  "O aumento do abandono escolar entre os beneficiários, atribuído à substituição da renda antes obtida com trabalho infantil"
+                                                     "a":  "A redução da pobreza extrema e melhoria de indicadores de frequência escolar e saúde infantil, ligadas às condicionalidades do programa",
+                                                     "b":  "A eliminação completa da desigualdade de renda no território brasileiro, meta que pesquisas mostram não ter sido plenamente alcançada",
+                                                     "c":  "O aumento generalizado da informalidade no mercado de trabalho, sem impacto observável sobre a pobreza, o que contraria estudos sobre o programa",
+                                                     "d":  "O aumento do abandono escolar entre os beneficiários, atribuído à substituição da renda antes obtida com trabalho infantil",
+                                                     "e":  "A substituição integral do sistema previdenciário brasileiro pelo programa, função que o Bolsa Família nunca desempenhou na política social"
                                                  },
-                                "resposta":  "c",
+                                "resposta":  "a",
                                 "explicacao":  "Estudos sobre o Bolsa Família apontam para a redução da pobreza extrema e melhorias em indicadores de frequência escolar e saúde infantil, associadas ao cumprimento das condicionalidades exigidas do programa, ainda que desigualdades estruturais mais amplas persistam no país.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -19033,13 +19033,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 2003, uma lei federal tornou obrigatório o ensino de história e cultura afro-brasileira e africana nas escolas de ensino fundamental e médio do país.",
                                 "enunciado":  "Essa medida buscou responder, sobretudo, a:",
                                 "alternativas":  {
-                                                     "a":  "Uma demanda de setores do empresariado por maior qualificação técnica, motivação alheia às origens da Lei 10.639",
-                                                     "b":  "Reivindicações históricas do movimento negro por reconhecimento da contribuição africana na formação da sociedade nacional",
+                                                     "a":  "Reivindicações históricas do movimento negro por reconhecimento da contribuição africana na formação da sociedade nacional",
+                                                     "b":  "A necessidade de reduzir a carga horária de disciplinas da área de exatas nas escolas, justificativa estranha ao propósito da Lei 10.639",
                                                      "c":  "Uma exigência formal de organismos internacionais de comércio para acesso a novos mercados, motivação alheia às origens ligadas ao movimento negro",
-                                                     "d":  "A necessidade de reduzir a carga horária de disciplinas da área de exatas nas escolas, justificativa estranha ao propósito da Lei 10.639",
-                                                     "e":  "Reivindicações de entidades educacionais pela redução da carga horária de História, redistribuída entre outras disciplinas"
+                                                     "d":  "Reivindicações de entidades educacionais pela redução da carga horária de História, redistribuída entre outras disciplinas",
+                                                     "e":  "Uma demanda de setores do empresariado por maior qualificação técnica, motivação alheia às origens da Lei 10.639"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "a",
                                 "explicacao":  "A Lei 10.639/2003 respondeu a reivindicações históricas do movimento negro brasileiro por reconhecimento da contribuição africana e afro-brasileira na formação social e cultural do país, buscando combater o apagamento dessa história nos currículos escolares tradicionais.",
                                 "dificuldade":  "media",
                                 "formato":  "direta"
@@ -19067,9 +19067,9 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "A ampliação da prevalência de acordos coletivos negociados entre patrões e trabalhadores sobre determinados pontos da legislação, o chamado negociado sobre o legislado",
                                                      "b":  "A extinção completa da CLT e de qualquer legislação trabalhista de âmbito federal, medida que a reforma de 2017, na verdade, não promoveu",
-                                                     "c":  "A proibição de qualquer forma de contrato de trabalho em regime de tempo parcial, modalidade que a reforma, ao contrário, ampliou",
+                                                     "c":  "A ampliação da proteção contra demissão sem justa causa, com exigência de autorização sindical prévia para o desligamento",
                                                      "d":  "A extinção da Justiça do Trabalho como ramo do Poder Judiciário, órgão que permaneceu em funcionamento normal após a reforma de 2017",
-                                                     "e":  "A ampliação da proteção contra demissão sem justa causa, com exigência de autorização sindical prévia para o desligamento"
+                                                     "e":  "A proibição de qualquer forma de contrato de trabalho em regime de tempo parcial, modalidade que a reforma, ao contrário, ampliou"
                                                  },
                                 "resposta":  "a",
                                 "explicacao":  "A reforma trabalhista de 2017 ampliou a prevalência do negociado sobre o legislado em diversos pontos, permitindo que acordos e convenções coletivas entre trabalhadores e empregadores prevalecessem sobre certas disposições da CLT, além de criar novas modalidades de contratação, como o trabalho intermitente.",
@@ -19081,11 +19081,11 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Aprovada em 2016, uma emenda constitucional instituiu um novo regime fiscal que limitava o crescimento das despesas públicas federais à variação da inflação do ano anterior.",
                                 "enunciado":  "Essa regra, conhecida como teto de gastos, teve como principal justificativa declarada:",
                                 "alternativas":  {
-                                                     "a":  "Permitir o crescimento ilimitado das despesas públicas federais nos anos seguintes, efeito oposto ao objetivo de contenção fiscal do teto de gastos",
-                                                     "b":  "Transferir toda a competência sobre o orçamento federal para estados e municípios, mudança institucional que o teto de gastos não promoveu",
+                                                     "a":  "Eliminar a necessidade de aprovação anual do orçamento pelo Congresso Nacional, rito orçamentário que o teto de gastos, na verdade, preservou",
+                                                     "b":  "Permitir o crescimento ilimitado das despesas públicas federais nos anos seguintes, efeito oposto ao objetivo de contenção fiscal do teto de gastos",
                                                      "c":  "Conter a trajetória de crescimento da dívida pública e sinalizar compromisso fiscal de longo prazo aos investidores e à sociedade",
-                                                     "d":  "Eliminar a necessidade de aprovação anual do orçamento pelo Congresso Nacional, rito orçamentário que o teto de gastos, na verdade, preservou",
-                                                     "e":  "Vincular o crescimento das despesas ao aumento da arrecadação, permitindo expansão proporcional ao desempenho da economia"
+                                                     "d":  "Vincular o crescimento das despesas ao aumento da arrecadação, permitindo expansão proporcional ao desempenho da economia",
+                                                     "e":  "Transferir toda a competência sobre o orçamento federal para estados e municípios, mudança institucional que o teto de gastos não promoveu"
                                                  },
                                 "resposta":  "c",
                                 "explicacao":  "O chamado teto de gastos foi justificado como mecanismo para conter a trajetória de crescimento da dívida pública federal, limitando o aumento das despesas à inflação do ano anterior e buscando sinalizar compromisso fiscal de longo prazo aos investidores e à sociedade em geral.",
@@ -19099,9 +19099,9 @@ window.QUESTION_BANKS = {
                                 "alternativas":  {
                                                      "a":  "Apenas a União poderia legislar sobre medidas sanitárias durante todo o período da pandemia, tese rejeitada pelo STF em favor da competência concorrente",
                                                      "b":  "Estados e municípios possuíam competência concorrente para medidas sanitárias locais, mesmo divergindo do governo federal",
-                                                     "c":  "Nenhum ente federativo poderia restringir a circulação de pessoas em qualquer hipótese, nem mesmo por motivo sanitário",
-                                                     "d":  "A competência sobre medidas sanitárias seria exclusiva do Poder Judiciário, atribuição que a Constituição de 1988 não confere ao Judiciário",
-                                                     "e":  "A competência para medidas sanitárias era privativa da União, cabendo a estados e municípios apenas executar as diretrizes federais"
+                                                     "c":  "A competência para medidas sanitárias era privativa da União, cabendo a estados e municípios apenas executar as diretrizes federais",
+                                                     "d":  "Nenhum ente federativo poderia restringir a circulação de pessoas em qualquer hipótese, nem mesmo por motivo sanitário",
+                                                     "e":  "A competência sobre medidas sanitárias seria exclusiva do Poder Judiciário, atribuição que a Constituição de 1988 não confere ao Judiciário"
                                                  },
                                 "resposta":  "b",
                                 "explicacao":  "O STF reconheceu, no contexto da pandemia de Covid-19, a competência concorrente de estados e municípios para adotar medidas sanitárias adequadas à sua realidade local, mesmo quando divergentes de orientações do governo federal, com base no pacto federativo previsto na Constituição de 1988.",
@@ -19113,13 +19113,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Constituição de 1988 reconheceu aos povos indígenas o direito originário sobre as terras que tradicionalmente ocupam, cabendo à União demarcá-las.",
                                 "enunciado":  "A tese do chamado marco temporal, discutida nos tribunais brasileiros nas últimas décadas, propõe que:",
                                 "alternativas":  {
-                                                     "a":  "Todas as terras indígenas devem ser imediatamente demarcadas, sem qualquer critério temporal de ocupação, o que a tese rejeita",
-                                                     "b":  "Os povos indígenas só teriam direito a terras sob sua posse na promulgação da Constituição de 1988, tese contestada por indígenas",
-                                                     "c":  "Os direitos territoriais dos povos indígenas foram completamente extintos pela Constituição de 1988, quando o texto os reconheceu expressamente",
+                                                     "a":  "Os direitos territoriais dos povos indígenas foram completamente extintos pela Constituição de 1988, quando o texto os reconheceu expressamente",
+                                                     "b":  "Os povos indígenas teriam direito às terras tradicionalmente ocupadas, independentemente da data em que a posse se verificava",
+                                                     "c":  "Os povos indígenas só teriam direito a terras sob sua posse na promulgação da Constituição de 1988, tese contestada por indígenas",
                                                      "d":  "Apenas terras localizadas na região amazônica podem ser reconhecidas como território indígena, restrição geográfica inexistente no texto constitucional",
-                                                     "e":  "Os povos indígenas teriam direito às terras tradicionalmente ocupadas, independentemente da data em que a posse se verificava"
+                                                     "e":  "Todas as terras indígenas devem ser imediatamente demarcadas, sem qualquer critério temporal de ocupação, o que a tese rejeita"
                                                  },
-                                "resposta":  "b",
+                                "resposta":  "c",
                                 "explicacao":  "A tese do marco temporal sustenta que os povos indígenas teriam direito apenas a terras que ocupavam ou disputavam judicialmente em 5 de outubro de 1988, data da promulgação da Constituição, interpretação questionada por indígenas e parte da doutrina, que argumentam que muitos povos haviam sido expulsos de seus territórios antes dessa data por violência ou remoções forçadas.",
                                 "dificuldade":  "dificil",
                                 "formato":  "direta"
@@ -19130,9 +19130,9 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "Sobre o Período Regencial, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O Ato Adicional de 1834 ampliou a autonomia das províncias, criando assembleias legislativas provinciais.\n( ) As revoltas do período tiveram causas exclusivamente separatistas, sem pautas sociais ou raciais.\n( ) A antecipação da maioridade de D. Pedro II foi apresentada como solução para a instabilidade política.\nA sequência correta, na ordem apresentada, é",
                                 "alternativas":  {
                                                      "a":  "V - F - V",
-                                                     "b":  "V - V - F",
-                                                     "c":  "F - F - V",
-                                                     "d":  "V - V - V",
+                                                     "b":  "F - F - V",
+                                                     "c":  "V - V - V",
+                                                     "d":  "V - V - F",
                                                      "e":  "F - V - F"
                                                  },
                                 "resposta":  "a",
@@ -19144,13 +19144,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Consolidação das Leis do Trabalho (CLT) foi sancionada em 1º de maio de 1943, durante o Estado Novo.",
                                 "enunciado":  "Sobre a CLT e seu contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A legislação reuniu num único corpo normas trabalhistas já esparsas, estabelecendo jornada, férias e proteção ao trabalho de menores e de mulheres.\n( ) A estrutura sindical prevista vinculava os sindicatos ao Estado, com unicidade sindical e imposto compulsório.\n( ) O conjunto da legislação estendeu-se de imediato aos trabalhadores rurais, equiparando campo e cidade.\nA sequência correta, na ordem apresentada, é",
                                 "alternativas":  {
-                                                     "a":  "V - V - F",
+                                                     "a":  "V - V - V",
                                                      "b":  "V - F - V",
-                                                     "c":  "F - V - V",
-                                                     "d":  "V - V - V",
-                                                     "e":  "F - F - F"
+                                                     "c":  "F - F - F",
+                                                     "d":  "V - V - F",
+                                                     "e":  "F - V - V"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "d",
                                 "explicacao":  "A consolidação de normas dispersas e o modelo sindical corporativo atrelado ao Estado estão corretos. A terceira é falsa e o ponto é decisivo: o trabalhador rural ficou de fora, e a extensão de direitos ao campo só viria décadas depois — exclusão que revela a quem a política trabalhista do Estado Novo se dirigia.",
                                 "formato":  "vf"
                             },
@@ -19159,13 +19159,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "O governo Médici (1969-1974) foi o período mais repressivo da ditadura militar brasileira, e coincidiu com forte crescimento econômico conhecido como \"milagre\".",
                                 "enunciado":  "Sobre esse período, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O crescimento econômico acelerado conviveu com concentração de renda e arrocho salarial.\n( ) A censura à imprensa e a propaganda oficial atuaram de forma articulada na construção da imagem do governo.\n( ) O bipartidarismo então vigente garantia à oposição meios efetivos de interferir na sucessão presidencial.\nA sequência correta, na ordem apresentada, é",
                                 "alternativas":  {
-                                                     "a":  "V - V - F",
-                                                     "b":  "F - V - V",
-                                                     "c":  "V - F - V",
-                                                     "d":  "V - V - V",
+                                                     "a":  "V - V - V",
+                                                     "b":  "V - F - V",
+                                                     "c":  "F - V - V",
+                                                     "d":  "V - V - F",
                                                      "e":  "F - F - V"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "d",
                                 "explicacao":  "Crescimento com concentração de renda e a articulação entre censura e propaganda descrevem bem o período. A terceira é falsa: a sucessão era decidida dentro do círculo militar, e o MDB não dispunha de meios efetivos de interferir — foi exatamente o que a charge de 1970 sobre a sucessão satirizou.",
                                 "formato":  "vf"
                             },
@@ -19174,13 +19174,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A escravidão urbana no Brasil oitocentista incluía o trabalho ao ganho, em que pessoas escravizadas circulavam pela cidade prestando serviços e entregando parte dos rendimentos a seus proprietários.",
                                 "enunciado":  "Sobre a escravidão urbana, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O trabalho ao ganho permitia alguma acumulação de pecúlio, por vezes usada na compra da própria alforria.\n( ) As irmandades negras e as festas de coroação de reis e rainhas funcionavam como espaços de sociabilidade e de reelaboração de identidades africanas.\n( ) A mobilidade pelas ruas equivalia a liberdade jurídica, retirando essas pessoas da condição de propriedade.\nA sequência correta, na ordem apresentada, é",
                                 "alternativas":  {
-                                                     "a":  "V - V - F",
-                                                     "b":  "V - F - V",
-                                                     "c":  "F - V - F",
-                                                     "d":  "V - V - V",
-                                                     "e":  "F - F - V"
+                                                     "a":  "F - V - F",
+                                                     "b":  "F - F - V",
+                                                     "c":  "V - V - V",
+                                                     "d":  "V - F - V",
+                                                     "e":  "V - V - F"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "e",
                                 "explicacao":  "Pecúlio e alforria por compra são bem documentados, assim como o papel das irmandades. A terceira confunde mobilidade física com condição jurídica: circular pela cidade não alterava o estatuto de propriedade, e a vigilância sobre esses deslocamentos era constante.",
                                 "formato":  "vf"
                             },
@@ -19189,13 +19189,13 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Primeira República (1889-1930) caracterizou-se pelo predomínio político das oligarquias estaduais e por um sistema eleitoral de alcance restrito.",
                                 "enunciado":  "Sobre a Primeira República, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O voto era aberto e restrito a homens alfabetizados, o que reduzia drasticamente o eleitorado.\n( ) A política dos governadores articulava o poder federal aos chefes políticos estaduais, garantindo apoio recíproco.\n( ) As normas sociais do período incentivavam a livre circulação de mulheres de camadas médias e altas pelos espaços públicos, desacompanhadas.\nA sequência correta, na ordem apresentada, é",
                                 "alternativas":  {
-                                                     "a":  "V - V - F",
-                                                     "b":  "V - F - V",
-                                                     "c":  "F - V - V",
-                                                     "d":  "V - V - V",
+                                                     "a":  "V - F - V",
+                                                     "b":  "V - V - V",
+                                                     "c":  "V - V - F",
+                                                     "d":  "F - V - V",
                                                      "e":  "F - F - F"
                                                  },
-                                "resposta":  "a",
+                                "resposta":  "c",
                                 "explicacao":  "Voto aberto e censo alfabético reduziam o eleitorado a uma fração pequena da população, e a política dos governadores é a engrenagem clássica do período. A terceira inverte as prescrições da época, que associavam a mulher honesta à esfera doméstica e exigiam acompanhamento na rua.",
                                 "formato":  "vf"
                             }
@@ -19221,11 +19221,11 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Aprovada em agosto de 1789, logo no início da Revolução Francesa.",
                                "enunciado":  "A Declaração dos Direitos do Homem e do Cidadão consagrou princípios que se tornariam centrais para o mundo ocidental moderno, como:",
                                "alternativas":  {
-                                                    "a":  "A manutenção dos privilégios hereditários da nobreza, pilar central da sociedade estamental do Antigo Regime",
+                                                    "a":  "A defesa da propriedade coletiva dos meios de produção e a supressão das distinções de classe na ordem jurídica",
                                                     "b":  "A liberdade, a igualdade perante a lei e a soberania popular",
-                                                    "c":  "A união indissolúvel entre Igreja e Estado, retomando o modelo do Antigo Regime absolutista",
-                                                    "d":  "A escravidão como instituição legítima e universal, prática ainda vigente em diversas colônias americanas",
-                                                    "e":  "A defesa da propriedade coletiva dos meios de produção e a supressão das distinções de classe na ordem jurídica"
+                                                    "c":  "A escravidão como instituição legítima e universal, prática ainda vigente em diversas colônias americanas",
+                                                    "d":  "A manutenção dos privilégios hereditários da nobreza, pilar central da sociedade estamental do Antigo Regime",
+                                                    "e":  "A união indissolúvel entre Igreja e Estado, retomando o modelo do Antigo Regime absolutista"
                                                 },
                                "resposta":  "b",
                                "explicacao":  "A Declaração de 1789 estabeleceu princípios como liberdade, igualdade jurídica entre os cidadãos e a soberania popular como fonte do poder político, tornando-se referência para constituições liberais posteriores.",
@@ -19236,13 +19236,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A Revolução Industrial teve início na Inglaterra, no século XVIII, favorecida por fatores como:",
                                "alternativas":  {
-                                                    "a":  "Acúmulo de capital do comércio colonial, disponibilidade de carvão e ferro e mão de obra livre no campo",
-                                                    "b":  "Ausência de recursos minerais e de capital disponível para investimentos produtivos, situação de economias periféricas do período",
-                                                    "c":  "Manutenção rígida do sistema de servidão feudal, ainda predominante no Leste Europeu ao longo do século XVIII",
-                                                    "d":  "Isolamento comercial em relação às demais potências europeias, política adotada por impérios fechados como o Japão Tokugawa",
-                                                    "e":  "O emprego de mão de obra escravizada nas próprias fábricas inglesas, principal fator a reduzir os custos da produção têxtil"
+                                                    "a":  "Ausência de recursos minerais e de capital disponível para investimentos produtivos, situação de economias periféricas do período",
+                                                    "b":  "Manutenção rígida do sistema de servidão feudal, ainda predominante no Leste Europeu ao longo do século XVIII",
+                                                    "c":  "Acúmulo de capital do comércio colonial, disponibilidade de carvão e ferro e mão de obra livre no campo",
+                                                    "d":  "O emprego de mão de obra escravizada nas próprias fábricas inglesas, principal fator a reduzir os custos da produção têxtil",
+                                                    "e":  "Isolamento comercial em relação às demais potências europeias, política adotada por impérios fechados como o Japão Tokugawa"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "c",
                                "explicacao":  "A Inglaterra reunia condições favoráveis à industrialização: capital acumulado com o comércio (inclusive colonial e atlântico), abundância de carvão e ferro, mão de obra livre disponibilizada pelos cercamentos de terras (enclosures) e um sistema financeiro e político estável.",
                                "formato":  "direta"
                            },
@@ -19251,8 +19251,8 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "Entre as principais consequências sociais da primeira fase da Revolução Industrial, destaca-se:",
                                "alternativas":  {
-                                                    "a":  "A melhoria imediata das condições de vida de todos os trabalhadores urbanos, cenário desmentido pelos relatos operários da época",
-                                                    "b":  "O fim do trabalho infantil nas fábricas já no século XVIII, medida que só se generalizaria com leis trabalhistas do século seguinte",
+                                                    "a":  "O fim do trabalho infantil nas fábricas já no século XVIII, medida que só se generalizaria com leis trabalhistas do século seguinte",
+                                                    "b":  "A melhoria imediata das condições de vida de todos os trabalhadores urbanos, cenário desmentido pelos relatos operários da época",
                                                     "c":  "A formação de um proletariado urbano submetido a jornadas exaustivas, baixos salários e moradias precárias",
                                                     "d":  "A redução da migração do campo para as cidades, tendência típica de economias ainda predominantemente agrárias",
                                                     "e":  "A rápida formação de uma classe média industrial com acesso a moradia e jornada regulada desde as primeiras décadas do processo"
@@ -19267,10 +19267,10 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A Conferência de Berlim estabeleceu, sobretudo, o princípio de que:",
                                "alternativas":  {
                                                     "a":  "A África deveria ser governada por seus próprios líderes, sem interferência estrangeira",
-                                                    "b":  "As fronteiras coloniais respeitariam as divisões étnicas e culturais locais, princípio jamais aplicado na partilha de Berlim",
-                                                    "c":  "Nenhuma potência europeia poderia possuir mais de uma colônia no continente, regra ausente dos acordos firmados em 1885",
+                                                    "b":  "A repartição da África segundo as fronteiras étnicas e linguísticas já existentes no continente, respeitadas pelos negociadores",
+                                                    "c":  "As fronteiras coloniais respeitariam as divisões étnicas e culturais locais, princípio jamais aplicado na partilha de Berlim",
                                                     "d":  "A ocupação efetiva do território seria o critério para reconhecimento da posse colonial europeia",
-                                                    "e":  "A repartição da África segundo as fronteiras étnicas e linguísticas já existentes no continente, respeitadas pelos negociadores"
+                                                    "e":  "Nenhuma potência europeia poderia possuir mais de uma colônia no continente, regra ausente dos acordos firmados em 1885"
                                                 },
                                "resposta":  "d",
                                "explicacao":  "A Conferência de Berlim definiu que a posse de territórios africanos por potências europeias dependeria da ocupação efetiva, o que acelerou a partilha do continente e resultou em fronteiras artificiais, sem respeito às divisões étnicas e culturais preexistentes.",
@@ -19386,13 +19386,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A Guerra Fria, que se estendeu de meados da década de 1940 até o final da década de 1980, caracterizou-se principalmente por:",
                                "alternativas":  {
-                                                    "a":  "Um confronto militar direto e declarado entre Estados Unidos e União Soviética",
-                                                    "b":  "A unificação política do mundo sob um único bloco econômico, cenário só esboçado décadas depois, com a globalização",
-                                                    "c":  "O desaparecimento completo de conflitos armados regionais, o que não se verificou nas guerras por procuração do período",
-                                                    "d":  "Um confronto militar direto e contínuo entre tropas norte-americanas e soviéticas em território europeu ao longo do período",
-                                                    "e":  "Uma disputa ideológica, política, econômica e militar entre EUA e URSS, sem confronto direto entre as potências"
+                                                    "a":  "Um confronto militar direto e contínuo entre tropas norte-americanas e soviéticas em território europeu ao longo do período",
+                                                    "b":  "Uma disputa ideológica, política, econômica e militar entre EUA e URSS, sem confronto direto entre as potências",
+                                                    "c":  "A unificação política do mundo sob um único bloco econômico, cenário só esboçado décadas depois, com a globalização",
+                                                    "d":  "O desaparecimento completo de conflitos armados regionais, o que não se verificou nas guerras por procuração do período",
+                                                    "e":  "Um confronto militar direto e declarado entre Estados Unidos e União Soviética"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "A Guerra Fria caracterizou-se pela disputa entre o bloco capitalista, liderado pelos EUA, e o bloco socialista, liderado pela URSS, expressa em corrida armamentista, espacial e conflitos indiretos (guerras por procuração), mas sem confronto militar direto entre as duas potências.",
                                "formato":  "direta"
                            },
@@ -19401,13 +19401,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A corrida espacial, um dos símbolos da disputa entre Estados Unidos e União Soviética durante a Guerra Fria, teve como marco inicial:",
                                "alternativas":  {
-                                                    "a":  "O lançamento do primeiro foguete alemão, na Segunda Guerra Mundial",
-                                                    "b":  "O lançamento do satélite soviético Sputnik, em 1957, primeiro artefato a orbitar a Terra",
-                                                    "c":  "O pouso do homem na Lua pelos americanos, em 1969, marco posterior ao lançamento do Sputnik",
+                                                    "a":  "A chegada da missão Apollo 11 à Lua, em 1969, marco que abriu a disputa tecnológica entre as duas superpotências",
+                                                    "b":  "O pouso do homem na Lua pelos americanos, em 1969, marco posterior ao lançamento do Sputnik",
+                                                    "c":  "O lançamento do primeiro foguete alemão, na Segunda Guerra Mundial",
                                                     "d":  "A criação da NASA, em 1958, resposta institucional americana ao avanço soviético no espaço",
-                                                    "e":  "A chegada da missão Apollo 11 à Lua, em 1969, marco que abriu a disputa tecnológica entre as duas superpotências"
+                                                    "e":  "O lançamento do satélite soviético Sputnik, em 1957, primeiro artefato a orbitar a Terra"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "O lançamento do Sputnik pela União Soviética em 1957, primeiro satélite artificial a orbitar a Terra, surpreendeu os Estados Unidos e deu início à corrida espacial, que culminaria com a chegada do homem à Lua em 1969.",
                                "formato":  "direta"
                            },
@@ -19416,13 +19416,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após 1945, dezenas de países da África e da Ásia conquistaram sua independência em relação às potências coloniais europeias.",
                                "enunciado":  "Esse processo de descolonização foi impulsionado, entre outros fatores, por:",
                                "alternativas":  {
-                                                    "a":  "O enfraquecimento das potências coloniais europeias e o crescimento de movimentos nacionalistas nas colônias",
-                                                    "b":  "O fortalecimento militar e econômico das metrópoles europeias após a Segunda Guerra Mundial",
+                                                    "a":  "Uma decisão coordenada das potências europeias na Conferência de Bandung, que estabeleceu o calendário das independências",
+                                                    "b":  "O enfraquecimento das potências coloniais europeias e o crescimento de movimentos nacionalistas nas colônias",
                                                     "c":  "A ausência completa de movimentos de resistência nas colônias, quadro contrariado por décadas de lutas anticoloniais",
-                                                    "d":  "A anexação das colônias pelos Estados Unidos, hipótese sem respaldo nos processos de descolonização registrados",
-                                                    "e":  "Uma decisão coordenada das potências europeias na Conferência de Bandung, que estabeleceu o calendário das independências"
+                                                    "d":  "O fortalecimento militar e econômico das metrópoles europeias após a Segunda Guerra Mundial",
+                                                    "e":  "A anexação das colônias pelos Estados Unidos, hipótese sem respaldo nos processos de descolonização registrados"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "b",
                                "explicacao":  "A Segunda Guerra Mundial enfraqueceu econômica e militarmente as potências coloniais europeias, ao mesmo tempo em que fortaleceu movimentos nacionalistas locais, criando condições favoráveis às independências afro-asiáticas nas décadas seguintes.",
                                "formato":  "direta"
                            },
@@ -19433,9 +19433,9 @@ window.QUESTION_BANKS = {
                                "alternativas":  {
                                                     "a":  "A luta armada revolucionária contra o exército britânico, estratégia associada a outros movimentos anticoloniais do século XX",
                                                     "b":  "A resistência não violenta e a desobediência civil, com boicotes e marchas pacíficas",
-                                                    "c":  "A aliança militar direta com a União Soviética, aproximação inexistente na trajetória política de Gandhi",
-                                                    "d":  "A aceitação integral do domínio colonial britânico, postura oposta à defendida pelo Congresso Nacional Indiano",
-                                                    "e":  "A organização de uma guerrilha rural apoiada por potências estrangeiras, que forçou a retirada britânica do subcontinente"
+                                                    "c":  "A organização de uma guerrilha rural apoiada por potências estrangeiras, que forçou a retirada britânica do subcontinente",
+                                                    "d":  "A aliança militar direta com a União Soviética, aproximação inexistente na trajetória política de Gandhi",
+                                                    "e":  "A aceitação integral do domínio colonial britânico, postura oposta à defendida pelo Congresso Nacional Indiano"
                                                 },
                                "resposta":  "b",
                                "explicacao":  "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo.",
@@ -19446,9 +19446,9 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1989, o Muro de Berlim, símbolo da divisão entre o bloco capitalista e o bloco socialista, foi derrubado.",
                                "enunciado":  "Esse evento, seguido pela dissolução da União Soviética em 1991, marcou:",
                                "alternativas":  {
-                                                    "a":  "O início da Guerra Fria, processo já encerrado décadas antes da queda do Muro de Berlim",
-                                                    "b":  "A criação do bloco socialista na Europa Oriental, ocorrida logo após a Segunda Guerra Mundial",
-                                                    "c":  "O fortalecimento do Pacto de Varsóvia, aliança dissolvida justamente no início dos anos 1990",
+                                                    "a":  "O fortalecimento do Pacto de Varsóvia, aliança dissolvida justamente no início dos anos 1990",
+                                                    "b":  "O início da Guerra Fria, processo já encerrado décadas antes da queda do Muro de Berlim",
+                                                    "c":  "A criação do bloco socialista na Europa Oriental, ocorrida logo após a Segunda Guerra Mundial",
                                                     "d":  "O fim da Guerra Fria e o início de uma nova configuração geopolítica sob hegemonia dos Estados Unidos",
                                                     "e":  "O início de um período de bipolaridade renovada, com a China assumindo o papel antes ocupado pela União Soviética"
                                                 },
@@ -19461,10 +19461,10 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A globalização contemporânea, intensificada a partir do final do século XX, caracteriza-se por:",
                                "alternativas":  {
-                                                    "a":  "O isolamento crescente das economias nacionais, com redução do comércio internacional, tendência oposta à globalização",
-                                                    "b":  "A eliminação total das desigualdades econômicas entre os países, resultado nunca observado nas últimas décadas de globalização",
-                                                    "c":  "O fim das organizações econômicas internacionais e blocos regionais, tendência contrária ao observado desde os anos 1990",
-                                                    "d":  "A redução dos fluxos internacionais de capital, contida pela retomada de barreiras alfandegárias nas principais economias",
+                                                    "a":  "O fim das organizações econômicas internacionais e blocos regionais, tendência contrária ao observado desde os anos 1990",
+                                                    "b":  "A redução dos fluxos internacionais de capital, contida pela retomada de barreiras alfandegárias nas principais economias",
+                                                    "c":  "O isolamento crescente das economias nacionais, com redução do comércio internacional, tendência oposta à globalização",
+                                                    "d":  "A eliminação total das desigualdades econômicas entre os países, resultado nunca observado nas últimas décadas de globalização",
                                                     "e":  "A intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços tecnológicos"
                                                 },
                                "resposta":  "e",
@@ -19476,11 +19476,11 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "O feudalismo foi o sistema social, político e econômico predominante na Europa Ocidental durante boa parte da Idade Média.",
                                "enunciado":  "A relação de vassalagem, típica da organização feudal, caracterizava-se por:",
                                "alternativas":  {
-                                                    "a":  "Um contrato comercial entre mercadores de diferentes regiões, prática típica do comércio urbano medieval",
-                                                    "b":  "Uma relação exclusivamente religiosa entre o papa e os reis europeus, sem qualquer vínculo de terra ou fidelidade",
+                                                    "a":  "Um contrato de trabalho assalariado entre o senhor e o camponês, com remuneração fixada em moeda e prazo determinado",
+                                                    "b":  "Um contrato comercial entre mercadores de diferentes regiões, prática típica do comércio urbano medieval",
                                                     "c":  "Um vínculo de fidelidade e proteção mútua entre suserano e vassalo, envolvendo a concessão de um feudo",
                                                     "d":  "Um sistema de eleição de autoridades locais pelos camponeses, prática estranha à hierarquia feudal",
-                                                    "e":  "Um contrato de trabalho assalariado entre o senhor e o camponês, com remuneração fixada em moeda e prazo determinado"
+                                                    "e":  "Uma relação exclusivamente religiosa entre o papa e os reis europeus, sem qualquer vínculo de terra ou fidelidade"
                                                 },
                                "resposta":  "c",
                                "explicacao":  "A vassalagem era o vínculo de fidelidade entre um suserano, que concedia proteção e um feudo (terra), e um vassalo, que em troca prestava auxílio militar e outros serviços, estruturando as relações de poder na sociedade feudal.",
@@ -19491,13 +19491,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A economia feudal, predominante entre os séculos IX e XIII na Europa, tinha como característica central:",
                                "alternativas":  {
-                                                    "a":  "Uma economia industrial urbana voltada à exportação de manufaturados",
-                                                    "b":  "Uma economia agrária, de autoconsumo, organizada em torno dos feudos e baseada no trabalho servil",
-                                                    "c":  "O predomínio do comércio marítimo de longa distância sobre a produção agrícola, característica posterior, da expansão comercial",
+                                                    "a":  "Uma economia agrária, de autoconsumo, organizada em torno dos feudos e baseada no trabalho servil",
+                                                    "b":  "Uma economia integrada por mercados monetários regionais, com produção voltada à exportação de manufaturas entre os feudos",
+                                                    "c":  "Uma economia industrial urbana voltada à exportação de manufaturados",
                                                     "d":  "A ausência completa de relações de troca entre os feudos, quadro contrariado pelas feiras medievais regionais",
-                                                    "e":  "Uma economia integrada por mercados monetários regionais, com produção voltada à exportação de manufaturas entre os feudos"
+                                                    "e":  "O predomínio do comércio marítimo de longa distância sobre a produção agrícola, característica posterior, da expansão comercial"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "a",
                                "explicacao":  "A economia feudal baseava-se principalmente na agricultura de subsistência realizada nos feudos, com baixa circulação monetária e forte dependência do trabalho dos servos, que cultivavam a terra em troca de proteção do senhor feudal.",
                                "formato":  "direta"
                            },
@@ -19506,13 +19506,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1517, o monge alemão Martinho Lutero afixou suas 95 teses contra práticas da Igreja Católica, dando início à Reforma Protestante.",
                                "enunciado":  "Entre as principais críticas de Lutero à Igreja estava:",
                                "alternativas":  {
-                                                    "a":  "A proposta de fortalecimento do poder político do papado sobre os reinos europeus",
+                                                    "a":  "A condenação da venda de indulgências e a defesa da salvação pela fé, com a Bíblia como autoridade religiosa central",
                                                     "b":  "A defesa da manutenção do latim como única língua permitida nos textos religiosos",
-                                                    "c":  "A condenação da venda de indulgências e a defesa da salvação pela fé, com a Bíblia como autoridade religiosa central",
-                                                    "d":  "A defesa da venda de indulgências como forma legítima de perdão dos pecados, prática mantida pela hierarquia católica romana",
-                                                    "e":  "A defesa da autoridade exclusiva dos concílios sobre a interpretação bíblica, subordinando a leitura individual ao clero"
+                                                    "c":  "A defesa da venda de indulgências como forma legítima de perdão dos pecados, prática mantida pela hierarquia católica romana",
+                                                    "d":  "A defesa da autoridade exclusiva dos concílios sobre a interpretação bíblica, subordinando a leitura individual ao clero",
+                                                    "e":  "A proposta de fortalecimento do poder político do papado sobre os reinos europeus"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "a",
                                "explicacao":  "Lutero criticava sobretudo a venda de indulgências, prática pela qual a Igreja perdoava pecados mediante pagamento, defendendo a salvação pela fé (sola fide) e a Bíblia como fonte central de autoridade religiosa, princípios que fundaram o protestantismo.",
                                "formato":  "direta"
                            },
@@ -19521,13 +19521,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "João Calvino desenvolveu, na Suíça, uma vertente própria do protestantismo que teve grande influência posterior.",
                                "enunciado":  "Um elemento central da doutrina calvinista, com repercussões na ética econômica de países protestantes, foi:",
                                "alternativas":  {
-                                                    "a":  "A rejeição total ao trabalho e ao acúmulo de riquezas, postura associada a ordens monásticas medievais, não ao calvinismo",
-                                                    "b":  "A defesa da manutenção da autoridade papal sobre todas as igrejas reformadas, posição oposta à ruptura calvinista com Roma",
-                                                    "c":  "A proibição da leitura da Bíblia por leigos, prática associada à Igreja Católica pré-tridentina, não ao calvinismo",
-                                                    "d":  "A predestinação, segundo a qual Deus já determinaria quem seria salvo, associada à ética do trabalho disciplinado",
-                                                    "e":  "O livre-arbítrio como via de salvação, alcançada pelo acúmulo de boas obras reconhecidas pela autoridade eclesiástica"
+                                                    "a":  "O livre-arbítrio como via de salvação, alcançada pelo acúmulo de boas obras reconhecidas pela autoridade eclesiástica",
+                                                    "b":  "A proibição da leitura da Bíblia por leigos, prática associada à Igreja Católica pré-tridentina, não ao calvinismo",
+                                                    "c":  "A defesa da manutenção da autoridade papal sobre todas as igrejas reformadas, posição oposta à ruptura calvinista com Roma",
+                                                    "d":  "A rejeição total ao trabalho e ao acúmulo de riquezas, postura associada a ordens monásticas medievais, não ao calvinismo",
+                                                    "e":  "A predestinação, segundo a qual Deus já determinaria quem seria salvo, associada à ética do trabalho disciplinado"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "e",
                                "explicacao":  "O calvinismo, com sua doutrina da predestinação, associou o sucesso material e o trabalho disciplinado a sinais de graça divina, influência que o sociólogo Max Weber relacionou ao desenvolvimento posterior da chamada \u0027ética protestante\u0027 e do capitalismo em regiões de maioria calvinista.",
                                "formato":  "direta"
                            },
@@ -19536,13 +19536,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A Igreja Católica reagiu à Reforma Protestante por meio de um conjunto de medidas conhecido como Contrarreforma.",
                                "enunciado":  "O Concílio de Trento (1545-1563), principal marco da Contrarreforma, teve como objetivo:",
                                "alternativas":  {
-                                                    "a":  "Reafirmar dogmas católicos, combater abusos internos e reorganizar a disciplina eclesiástica frente ao avanço protestante",
-                                                    "b":  "Aceitar integralmente as teses protestantes sobre a salvação pela fé, ideia central da doutrina luterana de Wittenberg",
-                                                    "c":  "Extinguir definitivamente o cargo de papa na hierarquia católica, medida jamais cogitada pelo Concílio de Trento",
-                                                    "d":  "Transferir a sede da Igreja Católica para a Alemanha, região justamente marcada pela ruptura protestante",
-                                                    "e":  "Aproximar-se das igrejas reformadas por meio da revisão de dogmas contestados, buscando a reunificação da cristandade"
+                                                    "a":  "Transferir a sede da Igreja Católica para a Alemanha, região justamente marcada pela ruptura protestante",
+                                                    "b":  "Extinguir definitivamente o cargo de papa na hierarquia católica, medida jamais cogitada pelo Concílio de Trento",
+                                                    "c":  "Aproximar-se das igrejas reformadas por meio da revisão de dogmas contestados, buscando a reunificação da cristandade",
+                                                    "d":  "Reafirmar dogmas católicos, combater abusos internos e reorganizar a disciplina eclesiástica frente ao avanço protestante",
+                                                    "e":  "Aceitar integralmente as teses protestantes sobre a salvação pela fé, ideia central da doutrina luterana de Wittenberg"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "d",
                                "explicacao":  "O Concílio de Trento reafirmou dogmas centrais do catolicismo, buscou corrigir abusos internos (como a venda de indulgências) e reorganizou a disciplina eclesiástica, sendo o principal instrumento doutrinário da Contrarreforma católica diante do avanço protestante.",
                                "formato":  "direta"
                            },
@@ -19551,11 +19551,11 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "O Iluminismo foi um movimento intelectual que floresceu na Europa, sobretudo na França, ao longo do século XVIII.",
                                "enunciado":  "Entre os princípios centrais defendidos pelos pensadores iluministas estava:",
                                "alternativas":  {
-                                                    "a":  "A defesa do direito divino dos reis como fundamento único e incontestável do poder político",
-                                                    "b":  "A manutenção da sociedade estamental e dos privilégios hereditários da nobreza",
-                                                    "c":  "A rejeição de qualquer forma de conhecimento científico, postura oposta ao método defendido por pensadores como Newton e Voltaire",
+                                                    "a":  "A manutenção da sociedade estamental e dos privilégios hereditários da nobreza",
+                                                    "b":  "A defesa do sufrágio universal e da igualdade econômica entre as classes como fundamento da ordem política a ser construída",
+                                                    "c":  "A defesa do direito divino dos reis como fundamento único e incontestável do poder político",
                                                     "d":  "O uso da razão para compreender e transformar a sociedade, associado a direitos naturais e à separação dos poderes",
-                                                    "e":  "A defesa do sufrágio universal e da igualdade econômica entre as classes como fundamento da ordem política a ser construída"
+                                                    "e":  "A rejeição de qualquer forma de conhecimento científico, postura oposta ao método defendido por pensadores como Newton e Voltaire"
                                                 },
                                "resposta":  "d",
                                "explicacao":  "Os iluministas defendiam o uso da razão contra dogmas e privilégios, propondo ideias como direitos naturais, contrato social e separação dos poderes (esta última sistematizada por Montesquieu), que se tornariam referência para as revoluções liberais dos séculos XVIII e XIX.",
@@ -19567,12 +19567,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "As ideias iluministas exerceram influência direta sobre:",
                                "alternativas":  {
                                                     "a":  "A consolidação do feudalismo na Europa medieval, processo anterior em séculos ao movimento iluminista",
-                                                    "b":  "A expansão do Império Romano na Antiguidade, fenômeno muito anterior à formulação das ideias iluministas",
-                                                    "c":  "A independência dos Estados Unidos (1776) e a Revolução Francesa (1789), que incorporaram direitos naturais e soberania popular",
-                                                    "d":  "A unificação do Sacro Império Romano-Germânico no século X, evento sem relação com o pensamento setecentista",
+                                                    "b":  "A unificação do Sacro Império Romano-Germânico no século X, evento sem relação com o pensamento setecentista",
+                                                    "c":  "A expansão do Império Romano na Antiguidade, fenômeno muito anterior à formulação das ideias iluministas",
+                                                    "d":  "A independência dos Estados Unidos (1776) e a Revolução Francesa (1789), que incorporaram direitos naturais e soberania popular",
                                                     "e":  "A unificação alemã e a italiana, processos conduzidos sob inspiração direta dos princípios de soberania popular iluministas"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "d",
                                "explicacao":  "Os princípios iluministas de direitos naturais, soberania popular, contrato social e separação de poderes influenciaram diretamente os documentos e discursos políticos da independência dos Estados Unidos e da Revolução Francesa, fundamentando as revoluções liberais do final do século XVIII.",
                                "formato":  "direta"
                            },
@@ -19581,11 +19581,11 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Otto von Bismarck, chanceler da Prússia, conduziu o processo de unificação alemã, concluído em 1871.",
                                "enunciado":  "A estratégia adotada por Bismarck para unificar os territórios alemães sob liderança prussiana ficou conhecida como política de:",
                                "alternativas":  {
-                                                    "a":  "Apaziguamento, evitando qualquer confronto militar com potências vizinhas, postura oposta à adotada por Bismarck",
+                                                    "a":  "Neutralidade absoluta em relação aos conflitos europeus do período, incompatível com as guerras de unificação",
                                                     "b":  "\u0027Sangue e ferro\u0027, que combinava fortalecimento militar prussiano e guerras estratégicas até a unificação de 1871",
-                                                    "c":  "Neutralidade absoluta em relação aos conflitos europeus do período, incompatível com as guerras de unificação",
-                                                    "d":  "Aliança permanente com o Império Austro-Húngaro para dividir o território alemão, aliança nunca de fato firmada",
-                                                    "e":  "A convocação de plebiscitos nos estados alemães, que aprovaram a adesão voluntária à Prússia sem recurso à força militar"
+                                                    "c":  "Apaziguamento, evitando qualquer confronto militar com potências vizinhas, postura oposta à adotada por Bismarck",
+                                                    "d":  "A convocação de plebiscitos nos estados alemães, que aprovaram a adesão voluntária à Prússia sem recurso à força militar",
+                                                    "e":  "Aliança permanente com o Império Austro-Húngaro para dividir o território alemão, aliança nunca de fato firmada"
                                                 },
                                "resposta":  "b",
                                "explicacao":  "Bismarck conduziu a unificação alemã por meio da chamada política de \u0027sangue e ferro\u0027, que priorizava o fortalecimento militar e uma sequência de guerras (contra a Dinamarca, a Áustria e a França), sendo a vitória na Guerra Franco-Prussiana o marco final da proclamação do Império Alemão, em 1871.",
@@ -19596,13 +19596,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "O processo de unificação italiana, concluído em 1870-71, envolveu figuras como Camillo di Cavour e Giuseppe Garibaldi.",
                                "enunciado":  "Nesse processo, conhecido como Risorgimento, coube a Garibaldi principalmente:",
                                "alternativas":  {
-                                                    "a":  "A negociação exclusiva com o papado pela anexação dos Estados Pontifícios, tarefa atribuída antes a Cavour",
-                                                    "b":  "A condução da diplomacia que articulou alianças internacionais em favor da unificação",
-                                                    "c":  "A criação do primeiro parlamento eleito da Itália unificada, feito posterior à sua atuação militar",
+                                                    "a":  "A liderança de campanhas militares, como a expedição dos Mil Camisas Vermelhas, no sul da península italiana",
+                                                    "b":  "A negociação exclusiva com o papado pela anexação dos Estados Pontifícios, tarefa atribuída antes a Cavour",
+                                                    "c":  "A condução da diplomacia que articulou alianças internacionais em favor da unificação",
                                                     "d":  "A condução das negociações diplomáticas com a Áustria e a França, que asseguraram a anexação pacífica dos territórios do norte",
-                                                    "e":  "A liderança de campanhas militares, como a expedição dos Mil Camisas Vermelhas, no sul da península italiana"
+                                                    "e":  "A criação do primeiro parlamento eleito da Itália unificada, feito posterior à sua atuação militar"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "a",
                                "explicacao":  "Enquanto Cavour, primeiro-ministro do Piemonte-Sardenha, articulava a diplomacia da unificação, Garibaldi liderou campanhas militares populares, como a expedição dos Mil (Camisas Vermelhas), que conquistou o Reino das Duas Sicílias e contribuiu decisivamente para a unificação italiana.",
                                "formato":  "direta"
                            },
@@ -19611,13 +19611,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "As unificações da Alemanha e da Itália, concluídas por volta de 1871, alteraram significativamente o equilíbrio de poder europeu.",
                                "enunciado":  "Uma das principais consequências geopolíticas desses processos de unificação foi:",
                                "alternativas":  {
-                                                    "a":  "A estabilização das disputas territoriais na Europa Central, já que as fronteiras então definidas foram aceitas pelas demais potências e permaneceram sem contestação relevante nas décadas seguintes",
+                                                    "a":  "O surgimento de novas potências industriais e militares, intensificando a rivalidade europeia e a disputa colonial",
                                                     "b":  "O recuo do nacionalismo como força política, substituído por identidades supranacionais que passaram a orientar a diplomacia europeia e esvaziaram as reivindicações de base étnica no continente",
-                                                    "c":  "O surgimento de novas potências industriais e militares, intensificando a rivalidade europeia e a disputa colonial",
-                                                    "d":  "O enfraquecimento do Reino Unido diante das novas potências continentais, que assumiram a liderança industrial e naval europeia ainda na década de 1870 e reduziram o peso britânico nas negociações",
-                                                    "e":  "A consolidação de um equilíbrio duradouro entre as potências europeias, que reduziu a competição por colônias na África e na Ásia"
+                                                    "c":  "A estabilização das disputas territoriais na Europa Central, já que as fronteiras então definidas foram aceitas pelas demais potências e permaneceram sem contestação relevante nas décadas seguintes",
+                                                    "d":  "A consolidação de um equilíbrio duradouro entre as potências europeias, que reduziu a competição por colônias na África e na Ásia",
+                                                    "e":  "O enfraquecimento do Reino Unido diante das novas potências continentais, que assumiram a liderança industrial e naval europeia ainda na década de 1870 e reduziram o peso britânico nas negociações"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "a",
                                "explicacao":  "A unificação de Alemanha e Itália criou novas potências industriais e militares no centro da Europa, intensificando a corrida imperialista e as rivalidades entre nações, o que contribuiu para o clima de tensão que resultaria, décadas depois, na Primeira Guerra Mundial.",
                                "formato":  "direta"
                            },
@@ -19627,12 +19627,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Esse processo culminou, em 1949, na:",
                                "alternativas":  {
                                                     "a":  "Restauração da dinastia imperial chinesa, hipótese encerrada definitivamente já em 1912, com a Revolução Xinhai",
-                                                    "b":  "Anexação da China ao território soviético, cenário nunca ocorrido apesar da aliança entre Mao e Stálin",
-                                                    "c":  "Independência da China em relação ao domínio colonial britânico, formulação que ignora a soberania chinesa sobre seu território",
-                                                    "d":  "Proclamação da República Popular da China, sob liderança comunista, com as forças nacionalistas refugiadas em Taiwan",
-                                                    "e":  "Longa Marcha, deslocamento das forças comunistas pelo interior do país que consolidou a liderança de Mao sobre o partido"
+                                                    "b":  "Proclamação da República Popular da China, sob liderança comunista, com as forças nacionalistas refugiadas em Taiwan",
+                                                    "c":  "Longa Marcha, deslocamento das forças comunistas pelo interior do país que consolidou a liderança de Mao sobre o partido",
+                                                    "d":  "Anexação da China ao território soviético, cenário nunca ocorrido apesar da aliança entre Mao e Stálin",
+                                                    "e":  "Independência da China em relação ao domínio colonial britânico, formulação que ignora a soberania chinesa sobre seu território"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "b",
                                "explicacao":  "A vitória comunista na guerra civil chinesa culminou na proclamação da República Popular da China em outubro de 1949, sob liderança de Mao Tsé-Tung, enquanto as forças nacionalistas derrotadas do Kuomintang, lideradas por Chiang Kai-shek, refugiaram-se na ilha de Taiwan.",
                                "formato":  "direta"
                            },
@@ -19641,13 +19641,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Já no poder, Mao Tsé-Tung promoveu campanhas de transformação radical da sociedade chinesa, como o Grande Salto Adiante (1958) e a Revolução Cultural (1966-1976).",
                                "enunciado":  "Essas campanhas tinham como objetivo declarado, respectivamente:",
                                "alternativas":  {
-                                                    "a":  "Restaurar o capitalismo de mercado e reaproximar a China do Ocidente, meta que só surgiria com Deng Xiaoping",
-                                                    "b":  "Estabelecer uma monarquia constitucional na China, projeto sem relação com o ideário maoista da época",
-                                                    "c":  "Integrar a China à Organização das Nações Unidas pela primeira vez, o que só ocorreria efetivamente em 1971",
-                                                    "d":  "Abrir a economia ao investimento estrangeiro e descentralizar as decisões produtivas para as províncias e cooperativas rurais",
-                                                    "e":  "Acelerar a industrialização e a coletivização agrícola do país, e depois eliminar elementos ditos burgueses no partido"
+                                                    "a":  "Acelerar a industrialização e a coletivização agrícola do país, e depois eliminar elementos ditos burgueses no partido",
+                                                    "b":  "Abrir a economia ao investimento estrangeiro e descentralizar as decisões produtivas para as províncias e cooperativas rurais",
+                                                    "c":  "Estabelecer uma monarquia constitucional na China, projeto sem relação com o ideário maoista da época",
+                                                    "d":  "Restaurar o capitalismo de mercado e reaproximar a China do Ocidente, meta que só surgiria com Deng Xiaoping",
+                                                    "e":  "Integrar a China à Organização das Nações Unidas pela primeira vez, o que só ocorreria efetivamente em 1971"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "a",
                                "explicacao":  "O Grande Salto Adiante buscava acelerar a industrialização e a coletivização agrícola chinesa, mas resultou em grave crise econômica e fome; já a Revolução Cultural visava eliminar opositores internos e elementos tidos como burgueses, gerando forte instabilidade política e social no país.",
                                "formato":  "direta"
                            },
@@ -19716,13 +19716,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A partir de 1978, sob a liderança de Deng Xiaoping, a China iniciou um processo de reformas econômicas.",
                                "enunciado":  "Essas reformas caracterizaram-se principalmente por:",
                                "alternativas":  {
-                                                    "a":  "O fechamento total da economia chinesa ao comércio internacional, política oposta à adotada a partir de 1978",
-                                                    "b":  "A introdução de mecanismos de mercado e abertura ao investimento estrangeiro, mantendo o controle político do partido",
-                                                    "c":  "A extinção do Partido Comunista Chinês como força política, cenário nunca cogitado por Deng Xiaoping",
-                                                    "d":  "A adoção plena do modelo democrático liberal ocidental, ausente das reformas conduzidas por Deng Xiaoping",
-                                                    "e":  "A privatização integral das empresas estatais e a adoção do multipartidarismo como contrapartida da abertura econômica"
+                                                    "a":  "A introdução de mecanismos de mercado e abertura ao investimento estrangeiro, mantendo o controle político do partido",
+                                                    "b":  "A privatização integral das empresas estatais e a adoção do multipartidarismo como contrapartida da abertura econômica",
+                                                    "c":  "O fechamento total da economia chinesa ao comércio internacional, política oposta à adotada a partir de 1978",
+                                                    "d":  "A extinção do Partido Comunista Chinês como força política, cenário nunca cogitado por Deng Xiaoping",
+                                                    "e":  "A adoção plena do modelo democrático liberal ocidental, ausente das reformas conduzidas por Deng Xiaoping"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "a",
                                "explicacao":  "As reformas de Deng Xiaoping combinaram a introdução de mecanismos de mercado, zonas econômicas especiais e abertura ao capital estrangeiro com a manutenção do monopólio político do Partido Comunista, configurando o que passou a ser chamado de \u0027socialismo de mercado com características chinesas\u0027.",
                                "formato":  "direta"
                            },
@@ -19731,11 +19731,11 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "No século XXI, a China consolidou-se como uma das maiores potências econômicas do mundo.",
                                "enunciado":  "Um dos principais instrumentos utilizados pela China para expandir sua influência econômica e geopolítica global nas últimas décadas é:",
                                "alternativas":  {
-                                                    "a":  "A proibição de investimentos chineses em portos e ferrovias no exterior, medida contrária à política externa chinesa",
-                                                    "b":  "O isolamento comercial deliberado em relação a países em desenvolvimento, postura oposta à busca chinesa por influência",
+                                                    "a":  "A criação de uma moeda comum asiática, adotada pelos países participantes como alternativa ao dólar no comércio regional",
+                                                    "b":  "A retirada unilateral da Organização Mundial do Comércio, decisão nunca tomada pela diplomacia chinesa",
                                                     "c":  "A Nova Rota da Seda, programa de investimentos em infraestrutura em países da Ásia, África e Europa",
-                                                    "d":  "A retirada unilateral da Organização Mundial do Comércio, decisão nunca tomada pela diplomacia chinesa",
-                                                    "e":  "A criação de uma moeda comum asiática, adotada pelos países participantes como alternativa ao dólar no comércio regional"
+                                                    "d":  "A proibição de investimentos chineses em portos e ferrovias no exterior, medida contrária à política externa chinesa",
+                                                    "e":  "O isolamento comercial deliberado em relação a países em desenvolvimento, postura oposta à busca chinesa por influência"
                                                 },
                                "resposta":  "c",
                                "explicacao":  "A Nova Rota da Seda, lançada em 2013, é uma ampla iniciativa chinesa de investimento em infraestrutura de transporte, energia e comunicações em dezenas de países, ampliando a influência econômica e geopolítica da China em escala global no século XXI.",
@@ -19746,13 +19746,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "O reinado de Luís XIV na França (1643-1715) é considerado o apogeu do absolutismo monárquico europeu, sintetizado na frase atribuída ao rei: \u0027o Estado sou eu\u0027.",
                                "enunciado":  "O modelo de absolutismo praticado por Luís XIV baseava-se, sobretudo, em:",
                                "alternativas":  {
-                                                    "a":  "A concentração do poder nas mãos do monarca, justificada pelo direito divino, e o enfraquecimento da nobreza",
+                                                    "a":  "A eliminação completa da monarquia em favor de uma república centralizada, cenário só ocorrido séculos depois",
                                                     "b":  "A subordinação total do rei às decisões dos parlamentos regionais franceses, arranjo oposto ao praticado por Luís XIV",
                                                     "c":  "A divisão do poder entre o rei e um parlamento eleito com amplos poderes de veto, modelo estranho à França do período",
-                                                    "d":  "A eliminação completa da monarquia em favor de uma república centralizada, cenário só ocorrido séculos depois",
-                                                    "e":  "A partilha do poder com os Estados Gerais, convocados regularmente para aprovar tributos e validar as decisões do monarca"
+                                                    "d":  "A partilha do poder com os Estados Gerais, convocados regularmente para aprovar tributos e validar as decisões do monarca",
+                                                    "e":  "A concentração do poder nas mãos do monarca, justificada pelo direito divino, e o enfraquecimento da nobreza"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19762,13 +19762,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1688-1689, a Inglaterra viveu um processo político que resultou na deposição do rei Jaime II e na aprovação da Declaração de Direitos (Bill of Rights).",
                                "enunciado":  "A Revolução Gloriosa é considerada um marco histórico por:",
                                "alternativas":  {
-                                                    "a":  "Abolir definitivamente a monarquia inglesa, transformando o país em república, o que não ocorreu em 1688",
-                                                    "b":  "Eliminar qualquer limitação ao poder do rei sobre os súditos, resultado oposto ao produzido pela revolução",
-                                                    "c":  "Restaurar o absolutismo monárquico na Inglaterra, hipótese contrária ao próprio sentido do evento",
-                                                    "d":  "Instaurar uma república sob Cromwell após a execução do rei, período em que a monarquia foi abolida na Inglaterra",
-                                                    "e":  "Consolidar a supremacia do Parlamento sobre o poder real, com a Declaração de Direitos limitando a Coroa"
+                                                    "a":  "Restaurar o absolutismo monárquico na Inglaterra, hipótese contrária ao próprio sentido do evento",
+                                                    "b":  "Consolidar a supremacia do Parlamento sobre o poder real, com a Declaração de Direitos limitando a Coroa",
+                                                    "c":  "Abolir definitivamente a monarquia inglesa, transformando o país em república, o que não ocorreu em 1688",
+                                                    "d":  "Eliminar qualquer limitação ao poder do rei sobre os súditos, resultado oposto ao produzido pela revolução",
+                                                    "e":  "Instaurar uma república sob Cromwell após a execução do rei, período em que a monarquia foi abolida na Inglaterra"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "A Revolução Gloriosa consolidou a supremacia do Parlamento sobre a Coroa, com a Declaração de Direitos limitando formalmente os poderes reais, estabelecendo as bases da monarquia parlamentar que caracterizaria o sistema político inglês nos séculos seguintes.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19778,13 +19778,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1776, as treze colônias britânicas na América do Norte declararam sua independência da metrópole.",
                                "enunciado":  "Entre os fatores que motivaram esse processo estava:",
                                "alternativas":  {
-                                                    "a":  "O apoio irrestrito da Coroa britânica à autonomia política e fiscal das colônias, cenário oposto ao vivido pelas Treze Colônias",
-                                                    "b":  "A insatisfação colonial com a tributação sem representação no Parlamento, resumida no lema ‘no taxation without representation’",
-                                                    "c":  "A ausência completa de influência das ideias iluministas sobre os líderes coloniais, o que contraria fontes documentais do período",
-                                                    "d":  "A decisão da metrópole de abolir todos os impostos cobrados das colônias, medida nunca adotada pela Coroa britânica",
-                                                    "e":  "A recusa da Coroa em manter o monopólio comercial com as colônias, que perderam mercado garantido para seus produtos"
+                                                    "a":  "A ausência completa de influência das ideias iluministas sobre os líderes coloniais, o que contraria fontes documentais do período",
+                                                    "b":  "A recusa da Coroa em manter o monopólio comercial com as colônias, que perderam mercado garantido para seus produtos",
+                                                    "c":  "O apoio irrestrito da Coroa britânica à autonomia política e fiscal das colônias, cenário oposto ao vivido pelas Treze Colônias",
+                                                    "d":  "A insatisfação colonial com a tributação sem representação no Parlamento, resumida no lema ‘no taxation without representation’",
+                                                    "e":  "A decisão da metrópole de abolir todos os impostos cobrados das colônias, medida nunca adotada pela Coroa britânica"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "A insatisfação com impostos como os da Lei do Selo e do Chá, cobrados sem que as colônias tivessem representação no Parlamento britânico, alimentou o lema \u0027no taxation without representation\u0027, um dos principais motores da mobilização que levou à independência dos Estados Unidos.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19794,13 +19794,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre 1791 e 1804, a colônia francesa de Saint-Domingue foi palco de uma revolta de escravizados que resultou na criação do Haiti, primeira nação independente da América Latina e primeiro país a abolir a escravidão em seu território.",
                                "enunciado":  "A Revolução Haitiana é considerada singular na história das revoluções atlânticas porque:",
                                "alternativas":  {
-                                                    "a":  "Resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram independência e abolição",
-                                                    "b":  "Foi conduzida exclusivamente por proprietários de terra brancos interessados em maior autonomia comercial no Caribe",
+                                                    "a":  "Foi conduzida exclusivamente por proprietários de terra brancos interessados em maior autonomia comercial no Caribe",
+                                                    "b":  "Foi conduzida pela elite colonial de proprietários, que manteve a estrutura escravista após romper com a metrópole francesa",
                                                     "c":  "Manteve a escravidão mesmo após a independência do território, hipótese contrária ao próprio marco histórico do Haiti",
                                                     "d":  "Não teve qualquer relação com os acontecimentos revolucionários da França do mesmo período histórico",
-                                                    "e":  "Foi conduzida pela elite colonial de proprietários, que manteve a estrutura escravista após romper com a metrópole francesa"
+                                                    "e":  "Resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram independência e abolição"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "A Revolução Haitiana combinou a luta por independência política com a abolição da escravidão, sendo protagonizada por pessoas escravizadas que se apropriaram dos ideais de liberdade e igualdade difundidos pela Revolução Francesa para romper simultaneamente com o domínio colonial e com a escravidão.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -19810,13 +19810,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após ascender ao poder na França e conduzir sucessivas campanhas militares pela Europa, Napoleão Bonaparte foi derrotado definitivamente em 1815, dando início a uma reorganização do continente.",
                                "enunciado":  "O Congresso de Viena (1814-1815), reunido após a derrota de Napoleão, teve como principal objetivo:",
                                "alternativas":  {
-                                                    "a":  "Expandir os ideais revolucionários franceses por toda a Europa, objetivo oposto ao das potências reunidas em Viena",
-                                                    "b":  "Estabelecer uma república federativa europeia, modelo estranho às monarquias então reunidas no congresso",
-                                                    "c":  "Abolir definitivamente todas as monarquias do continente, resultado contrário ao propósito conservador do congresso",
-                                                    "d":  "Repartir as zonas de influência europeias na África, definindo critérios para o reconhecimento das posses coloniais",
-                                                    "e":  "Restaurar o equilíbrio de poder entre as potências e reverter mudanças territoriais provocadas pela era napoleônica"
+                                                    "a":  "Estabelecer uma república federativa europeia, modelo estranho às monarquias então reunidas no congresso",
+                                                    "b":  "Expandir os ideais revolucionários franceses por toda a Europa, objetivo oposto ao das potências reunidas em Viena",
+                                                    "c":  "Restaurar o equilíbrio de poder entre as potências e reverter mudanças territoriais provocadas pela era napoleônica",
+                                                    "d":  "Abolir definitivamente todas as monarquias do continente, resultado contrário ao propósito conservador do congresso",
+                                                    "e":  "Repartir as zonas de influência europeias na África, definindo critérios para o reconhecimento das posses coloniais"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "c",
                                "explicacao":  "O Congresso de Viena reuniu as principais potências europeias para redesenhar o mapa do continente e restaurar, sob o princípio do equilíbrio de poder, monarquias e fronteiras alteradas pelas conquistas napoleônicas, buscando conter a difusão de ideias liberais e revolucionárias.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19826,13 +19826,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após o Congresso de Viena, potências como Áustria, Rússia e Prússia formaram uma aliança para conter a difusão de ideias liberais e revolucionárias na Europa.",
                                "enunciado":  "Essa aliança, conhecida como Santa Aliança, tinha como principal objetivo:",
                                "alternativas":  {
-                                                    "a":  "Garantir o status quo monárquico, intervindo militarmente para reprimir revoltas liberais em diferentes países europeus",
-                                                    "b":  "Apoiar movimentos liberais e nacionalistas em toda a Europa, postura oposta à defendida pelas monarquias signatárias",
-                                                    "c":  "Promover a independência das colônias americanas ainda sob domínio europeu, objetivo alheio ao pacto conservador",
+                                                    "a":  "Promover a independência das colônias americanas ainda sob domínio europeu, objetivo alheio ao pacto conservador",
+                                                    "b":  "Garantir o status quo monárquico, intervindo militarmente para reprimir revoltas liberais em diferentes países europeus",
+                                                    "c":  "Apoiar movimentos liberais e nacionalistas em toda a Europa, postura oposta à defendida pelas monarquias signatárias",
                                                     "d":  "Instituir parlamentos eleitos em todos os países signatários, medida contrária ao ideário absolutista da aliança",
                                                     "e":  "Promover a adoção de constituições liberais nos Estados membros, consolidando as conquistas do período napoleônico"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "b",
                                "explicacao":  "A Santa Aliança buscava preservar o status quo conservador estabelecido pelo Congresso de Viena, autorizando intervenções militares conjuntas para reprimir revoltas liberais e nacionalistas em diferentes pontos da Europa ao longo da primeira metade do século XIX.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19842,13 +19842,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1848, uma onda de revoltas liberais e nacionalistas, conhecida como Primavera dos Povos, atingiu diversos países europeus quase simultaneamente.",
                                "enunciado":  "Essas revoltas reivindicavam, entre outras pautas:",
                                "alternativas":  {
-                                                    "a":  "A manutenção integral do sistema estabelecido pelo Congresso de Viena, pauta oposta à das revoltas de 1848",
-                                                    "b":  "O retorno ao absolutismo monárquico em toda a Europa, demanda contrária ao ideário liberal de 1848",
-                                                    "c":  "A extinção de qualquer forma de nacionalismo no continente, resultado oposto ao observado na Primavera dos Povos",
-                                                    "d":  "A restauração das monarquias absolutistas derrubadas nas décadas anteriores e o retorno das fronteiras do Antigo Regime",
-                                                    "e":  "Constituições liberais, participação política e, em várias regiões, a unificação ou autonomia de povos subordinados"
+                                                    "a":  "A extinção de qualquer forma de nacionalismo no continente, resultado oposto ao observado na Primavera dos Povos",
+                                                    "b":  "A manutenção integral do sistema estabelecido pelo Congresso de Viena, pauta oposta à das revoltas de 1848",
+                                                    "c":  "O retorno ao absolutismo monárquico em toda a Europa, demanda contrária ao ideário liberal de 1848",
+                                                    "d":  "Constituições liberais, participação política e, em várias regiões, a unificação ou autonomia de povos subordinados",
+                                                    "e":  "A restauração das monarquias absolutistas derrubadas nas décadas anteriores e o retorno das fronteiras do Antigo Regime"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "d",
                                "explicacao":  "As revoltas de 1848 reivindicavam constituições liberais, ampliação da participação política e, em regiões como os territórios alemães e italianos, maior unidade ou autonomia nacional, questionando diretamente a ordem conservadora estabelecida pelo Congresso de Viena.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19858,13 +19858,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A partir da segunda metade do século XIX, um novo conjunto de inovações tecnológicas, associado à eletricidade, ao aço e ao petróleo, impulsionou uma nova fase da industrialização.",
                                "enunciado":  "Em relação à primeira Revolução Industrial, a chamada Segunda Revolução Industrial caracterizou-se, sobretudo, por:",
                                "alternativas":  {
-                                                    "a":  "Eliminar por completo a utilização de mão de obra assalariada na indústria, hipótese contrária ao próprio processo industrial",
-                                                    "b":  "Ampliar a base tecnológica da produção, com eletricidade, aço e petróleo, favorecendo a concentração em cartéis",
-                                                    "c":  "Manter o carvão e o ferro como únicas fontes relevantes, quadro típico apenas da primeira Revolução Industrial",
-                                                    "d":  "Reduzir drasticamente a escala da produção industrial, tendência oposta à concentração empresarial do período",
-                                                    "e":  "Retomar a produção artesanal em pequenas oficinas, revertendo a concentração fabril característica da fase anterior"
+                                                    "a":  "Ampliar a base tecnológica da produção, com eletricidade, aço e petróleo, favorecendo a concentração em cartéis",
+                                                    "b":  "Reduzir drasticamente a escala da produção industrial, tendência oposta à concentração empresarial do período",
+                                                    "c":  "Retomar a produção artesanal em pequenas oficinas, revertendo a concentração fabril característica da fase anterior",
+                                                    "d":  "Manter o carvão e o ferro como únicas fontes relevantes, quadro típico apenas da primeira Revolução Industrial",
+                                                    "e":  "Eliminar por completo a utilização de mão de obra assalariada na indústria, hipótese contrária ao próprio processo industrial"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "a",
                                "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica e energética da produção, incorporando eletricidade, aço e petróleo, e favoreceu a formação de grandes corporações, trustes e cartéis, alterando a escala e a organização da atividade industrial em relação à primeira fase.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19874,13 +19874,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Na segunda metade do século XIX, potências europeias intensificaram a corrida por colônias na África e na Ásia, em um processo conhecido como Novo Imperialismo.",
                                "enunciado":  "Entre os fatores que justificaram ideologicamente essa expansão estava:",
                                "alternativas":  {
-                                                    "a":  "A rejeição unânime das teorias científicas do período às diferenças entre povos, quadro contrário ao darwinismo social",
-                                                    "b":  "O desinteresse europeu por matérias-primas e mercados fora do continente, contrário à lógica do Novo Imperialismo",
-                                                    "c":  "A defesa, pelas potências europeias, da autodeterminação dos povos colonizados, postura oposta à prática colonial",
+                                                    "a":  "A defesa, pelas potências europeias, da autodeterminação dos povos colonizados, postura oposta à prática colonial",
+                                                    "b":  "A rejeição unânime das teorias científicas do período às diferenças entre povos, quadro contrário ao darwinismo social",
+                                                    "c":  "O darwinismo social, que hierarquizava povos e justificava a dominação europeia como superioridade civilizacional",
                                                     "d":  "O princípio da autodeterminação dos povos, invocado para justificar a tutela europeia até que as colônias se tornassem aptas",
-                                                    "e":  "O darwinismo social, que hierarquizava povos e justificava a dominação europeia como superioridade civilizacional"
+                                                    "e":  "O desinteresse europeu por matérias-primas e mercados fora do continente, contrário à lógica do Novo Imperialismo"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "c",
                                "explicacao":  "O darwinismo social, aplicação equivocada de conceitos biológicos às relações entre povos, foi utilizado para justificar ideologicamente o domínio colonial europeu como expressão de uma suposta superioridade civilizacional e racial, somando-se a interesses econômicos concretos na expansão imperialista.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19890,13 +19890,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre 1899 e 1902, o Reino Unido enfrentou colonos de origem holandesa, os bôeres, pelo controle de territórios ricos em ouro e diamantes no sul da África.",
                                "enunciado":  "Esse conflito é um exemplo de como o Novo Imperialismo:",
                                "alternativas":  {
-                                                    "a":  "Restringiu-se exclusivamente a disputas diplomáticas, sem qualquer confronto militar entre os envolvidos",
-                                                    "b":  "Eliminou qualquer disputa entre potências europeias pelo controle de territórios africanos, o que não ocorreu na prática",
-                                                    "c":  "Resultou sempre em ocupação pacífica e sem resistência armada por parte dos colonos locais estabelecidos",
-                                                    "d":  "Envolveu confrontos entre europeus na África e metrópoles interessadas em recursos minerais estratégicos",
-                                                    "e":  "Restringiu-se à disputa por mercados consumidores, sem envolver o controle de jazidas minerais ou de rotas estratégicas"
+                                                    "a":  "Envolveu confrontos entre europeus na África e metrópoles interessadas em recursos minerais estratégicos",
+                                                    "b":  "Resultou sempre em ocupação pacífica e sem resistência armada por parte dos colonos locais estabelecidos",
+                                                    "c":  "Restringiu-se à disputa por mercados consumidores, sem envolver o controle de jazidas minerais ou de rotas estratégicas",
+                                                    "d":  "Restringiu-se exclusivamente a disputas diplomáticas, sem qualquer confronto militar entre os envolvidos",
+                                                    "e":  "Eliminou qualquer disputa entre potências europeias pelo controle de territórios africanos, o que não ocorreu na prática"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "a",
                                "explicacao":  "A Guerra dos Bôeres opôs o Reino Unido a colonos holandeses já estabelecidos havia gerações no sul da África, revelando que a expansão imperialista também gerava conflitos entre europeus, motivados pelo controle de recursos minerais estratégicos como ouro e diamantes.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -19906,13 +19906,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1904-1905, o Japão derrotou a Rússia em um conflito pela influência sobre a Manchúria e a Coreia.",
                                "enunciado":  "A vitória japonesa nessa guerra é considerada historicamente relevante porque:",
                                "alternativas":  {
-                                                    "a":  "Consolidou a Rússia como a principal potência asiática do início do século XX, o que a derrota militar contradiz",
-                                                    "b":  "Impediu qualquer expansão territorial japonesa nas décadas seguintes, hipótese desmentida pela história posterior",
-                                                    "c":  "Resultou na anexação do Japão pela Rússia, desfecho oposto ao verificado após o conflito de 1904-1905",
-                                                    "d":  "Consolidou a aliança entre Japão e Rússia contra as potências ocidentais presentes no Extremo Oriente no início do século",
-                                                    "e":  "Representou a primeira grande vitória de uma potência asiática sobre uma europeia na era moderna, após a Era Meiji"
+                                                    "a":  "Resultou na anexação do Japão pela Rússia, desfecho oposto ao verificado após o conflito de 1904-1905",
+                                                    "b":  "Consolidou a Rússia como a principal potência asiática do início do século XX, o que a derrota militar contradiz",
+                                                    "c":  "Consolidou a aliança entre Japão e Rússia contra as potências ocidentais presentes no Extremo Oriente no início do século",
+                                                    "d":  "Representou a primeira grande vitória de uma potência asiática sobre uma europeia na era moderna, após a Era Meiji",
+                                                    "e":  "Impediu qualquer expansão territorial japonesa nas décadas seguintes, hipótese desmentida pela história posterior"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "d",
                                "explicacao":  "A vitória japonesa na Guerra Russo-Japonesa surpreendeu o mundo por representar a primeira grande derrota de uma potência europeia diante de uma nação asiática na era moderna, evidenciando os efeitos da rápida modernização militar e industrial promovida pelo Japão desde a Era Meiji (a partir de 1868).",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -19922,13 +19922,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "No início do século XX, a região dos Bálcãs era marcada por intensas rivalidades entre nacionalismos locais e a influência de impérios multinacionais em declínio, como o Otomano e o Austro-Húngaro.",
                                "enunciado":  "Essa região ficou conhecida como o \u0027barril de pólvora da Europa\u0027 porque:",
                                "alternativas":  {
-                                                    "a":  "Concentrava a maior parte da produção industrial europeia do período, quadro alheio à realidade balcânica",
-                                                    "b":  "Era uma região de completa estabilidade política, sem qualquer conflito relevante até 1914",
-                                                    "c":  "Reunia tensões nacionalistas, disputas territoriais e rivalidades entre potências, estopim da Primeira Guerra",
+                                                    "a":  "Era uma região de completa estabilidade política, sem qualquer conflito relevante até 1914",
+                                                    "b":  "Concentrava a maior parte da produção industrial europeia do período, quadro alheio à realidade balcânica",
+                                                    "c":  "Concentrava as principais reservas de carvão e ferro do continente, disputadas pelas potências industriais europeias",
                                                     "d":  "Estava isolada das disputas entre as principais potências europeias da época, o que os fatos contradizem",
-                                                    "e":  "Concentrava as principais reservas de carvão e ferro do continente, disputadas pelas potências industriais europeias"
+                                                    "e":  "Reunia tensões nacionalistas, disputas territoriais e rivalidades entre potências, estopim da Primeira Guerra"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "e",
                                "explicacao":  "Os Bálcãs concentravam disputas territoriais, rivalidades entre potências como Áustria-Hungria e Rússia, e fortes nacionalismos locais em conflito com impérios multinacionais em declínio, contexto que tornou a região o estopim direto da Primeira Guerra Mundial, com o atentado de Sarajevo em 1914.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19938,13 +19938,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A Primeira Guerra Mundial (1914-1918) ficou marcada pelo uso extensivo de trincheiras na Frente Ocidental, onde os exércitos permaneceram por longos períodos em posições fixas.",
                                "enunciado":  "Esse tipo de combate, associado ao conceito de guerra total, caracterizou-se por:",
                                "alternativas":  {
-                                                    "a":  "A ausência completa de avanços tecnológicos militares em relação a conflitos anteriores, o que os fatos contrariam",
-                                                    "b":  "A exclusão das populações civis de qualquer envolvimento com o esforço de guerra, quadro oposto ao da guerra total",
-                                                    "c":  "Movimentos rápidos e decisivos, que resultavam em poucos meses de conflito, ao contrário do impasse nas trincheiras",
-                                                    "d":  "Um desgaste prolongado, alto número de baixas, mobilização total da população e novas tecnologias bélicas",
-                                                    "e":  "Deslocamentos rápidos de tropas blindadas apoiadas por aviação, que encurtaram a duração média dos confrontos no front"
+                                                    "a":  "A exclusão das populações civis de qualquer envolvimento com o esforço de guerra, quadro oposto ao da guerra total",
+                                                    "b":  "A ausência completa de avanços tecnológicos militares em relação a conflitos anteriores, o que os fatos contrariam",
+                                                    "c":  "Um desgaste prolongado, alto número de baixas, mobilização total da população e novas tecnologias bélicas",
+                                                    "d":  "Deslocamentos rápidos de tropas blindadas apoiadas por aviação, que encurtaram a duração média dos confrontos no front",
+                                                    "e":  "Movimentos rápidos e decisivos, que resultavam em poucos meses de conflito, ao contrário do impasse nas trincheiras"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "A guerra de trincheiras simbolizou o conceito de guerra total da Primeira Guerra Mundial: desgaste prolongado, altíssimo número de baixas, mobilização de toda a economia e da população civil para o esforço bélico, e uso de novas e mortíferas tecnologias militares, como gás venenoso, metralhadoras e tanques.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -19954,13 +19954,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Apesar de inicialmente neutros, os Estados Unidos entraram na Primeira Guerra Mundial em 1917, ao lado da Tríplice Entente.",
                                "enunciado":  "Entre os fatores que motivaram essa entrada estavam:",
                                "alternativas":  {
-                                                    "a":  "Um ataque surpresa alemão ao território continental americano, episódio que não ocorreu na Primeira Guerra",
-                                                    "b":  "A recusa alemã em qualquer forma de guerra submarina, ao contrário da guerra submarina irrestrita retomada em 1917",
-                                                    "c":  "Um pedido direto do governo russo para que os EUA substituíssem sua participação no conflito europeu",
-                                                    "d":  "Ataques de submarinos alemães a navios americanos e o Telegrama Zimmermann, propondo aliança entre Alemanha e México",
-                                                    "e":  "A eclosão da Revolução Russa e a saída da Rússia do conflito, que levaram os Estados Unidos a substituir o aliado no front oriental"
+                                                    "a":  "Ataques de submarinos alemães a navios americanos e o Telegrama Zimmermann, propondo aliança entre Alemanha e México",
+                                                    "b":  "A eclosão da Revolução Russa e a saída da Rússia do conflito, que levaram os Estados Unidos a substituir o aliado no front oriental",
+                                                    "c":  "A recusa alemã em qualquer forma de guerra submarina, ao contrário da guerra submarina irrestrita retomada em 1917",
+                                                    "d":  "Um ataque surpresa alemão ao território continental americano, episódio que não ocorreu na Primeira Guerra",
+                                                    "e":  "Um pedido direto do governo russo para que os EUA substituíssem sua participação no conflito europeu"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "a",
                                "explicacao":  "A retomada da guerra submarina irrestrita pela Alemanha, que afundou navios com cidadãos americanos, somada à revelação do Telegrama Zimmermann, no qual a Alemanha propunha uma aliança com o México contra os Estados Unidos, foram fatores decisivos para a entrada americana na guerra em 1917.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -19970,13 +19970,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Criada em 1920 como parte dos acordos que encerraram a Primeira Guerra Mundial, a Liga das Nações tinha como objetivo principal preservar a paz internacional.",
                                "enunciado":  "Entre as principais fragilidades desse organismo estava:",
                                "alternativas":  {
-                                                    "a":  "A ausência dos EUA, que não ratificaram sua adesão, e a falta de mecanismos de coerção contra Estados agressores",
-                                                    "b":  "A participação de todas as grandes potências mundiais, sem qualquer exceção, o que os fatos históricos contradizem",
-                                                    "c":  "Seu excesso de poder militar, que ameaçava a soberania de todos os países membros, hipótese sem fundamento histórico",
-                                                    "d":  "A inexistência de qualquer instância de negociação diplomática entre os países, contrária ao próprio propósito da Liga",
-                                                    "e":  "A concentração de poder de decisão em um conselho com direito de veto, que paralisava as deliberações da assembleia geral"
+                                                    "a":  "A participação de todas as grandes potências mundiais, sem qualquer exceção, o que os fatos históricos contradizem",
+                                                    "b":  "Seu excesso de poder militar, que ameaçava a soberania de todos os países membros, hipótese sem fundamento histórico",
+                                                    "c":  "A concentração de poder de decisão em um conselho com direito de veto, que paralisava as deliberações da assembleia geral",
+                                                    "d":  "A ausência dos EUA, que não ratificaram sua adesão, e a falta de mecanismos de coerção contra Estados agressores",
+                                                    "e":  "A inexistência de qualquer instância de negociação diplomática entre os países, contrária ao próprio propósito da Liga"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "d",
                                "explicacao":  "A ausência dos Estados Unidos, cujo Congresso não ratificou a adesão do país, e a falta de mecanismos efetivos de coerção militar ou econômica contra Estados agressores enfraqueceram estruturalmente a Liga das Nações, que se mostrou incapaz de impedir a escalada de agressões que resultariam na Segunda Guerra Mundial.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -19986,13 +19986,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após a Revolução de Outubro de 1917, a Rússia mergulhou em uma guerra civil entre as forças bolcheviques (o Exército Vermelho) e seus opositores (o Exército Branco).",
                                "enunciado":  "Durante esse conflito, o governo bolchevique adotou uma política econômica de emergência conhecida como comunismo de guerra, que se caracterizava por:",
                                "alternativas":  {
-                                                    "a":  "Ampla liberdade de mercado e incentivo à iniciativa privada no campo, cenário oposto ao comunismo de guerra",
-                                                    "b":  "Abertura da economia soviética ao capital estrangeiro, política ausente da fase revolucionária inicial",
-                                                    "c":  "Manutenção da propriedade privada da terra sem qualquer intervenção estatal, contrária às medidas bolcheviques",
-                                                    "d":  "A abertura ao capital estrangeiro e a devolução das indústrias a proprietários privados como forma de recuperar a produção",
-                                                    "e":  "Confisco de excedentes agrícolas, nacionalização de indústrias e centralização estatal da economia de guerra"
+                                                    "a":  "Abertura da economia soviética ao capital estrangeiro, política ausente da fase revolucionária inicial",
+                                                    "b":  "Confisco de excedentes agrícolas, nacionalização de indústrias e centralização estatal da economia de guerra",
+                                                    "c":  "A abertura ao capital estrangeiro e a devolução das indústrias a proprietários privados como forma de recuperar a produção",
+                                                    "d":  "Manutenção da propriedade privada da terra sem qualquer intervenção estatal, contrária às medidas bolcheviques",
+                                                    "e":  "Ampla liberdade de mercado e incentivo à iniciativa privada no campo, cenário oposto ao comunismo de guerra"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "O comunismo de guerra, adotado durante a Guerra Civil Russa, envolveu confisco de excedentes agrícolas dos camponeses, nacionalização ampla da indústria e centralização estatal da economia, medidas emergenciais voltadas a sustentar o Exército Vermelho no confronto contra as forças contrarrevolucionárias.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20002,13 +20002,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1921, diante do colapso econômico provocado pela guerra civil e pelo comunismo de guerra, Lênin implementou uma nova política econômica na União Soviética.",
                                "enunciado":  "A Nova Política Econômica (NEP) caracterizou-se por:",
                                "alternativas":  {
-                                                    "a":  "Permitir certa liberdade de mercado e pequena propriedade privada, mantendo o Estado nos setores estratégicos",
-                                                    "b":  "Aprofundar ainda mais a estatização completa da economia soviética, direção oposta à adotada por Lênin em 1921",
-                                                    "c":  "Restaurar integralmente o capitalismo czarista anterior à revolução, hipótese contrária ao próprio ideário bolchevique",
-                                                    "d":  "Abolir de vez qualquer forma de planejamento estatal na economia soviética, o que a NEP jamais fez",
-                                                    "e":  "Coletivizar a produção agrícola e suprimir o comércio privado como etapa imediata da transição socialista"
+                                                    "a":  "Aprofundar ainda mais a estatização completa da economia soviética, direção oposta à adotada por Lênin em 1921",
+                                                    "b":  "Abolir de vez qualquer forma de planejamento estatal na economia soviética, o que a NEP jamais fez",
+                                                    "c":  "Coletivizar a produção agrícola e suprimir o comércio privado como etapa imediata da transição socialista",
+                                                    "d":  "Restaurar integralmente o capitalismo czarista anterior à revolução, hipótese contrária ao próprio ideário bolchevique",
+                                                    "e":  "Permitir certa liberdade de mercado e pequena propriedade privada, mantendo o Estado nos setores estratégicos"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "A NEP representou um recuo tático em relação ao comunismo de guerra, permitindo certa liberdade de mercado e pequena propriedade privada no campo e no pequeno comércio, enquanto o Estado soviético mantinha o controle dos setores considerados estratégicos, como a grande indústria e o sistema bancário.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20018,13 +20018,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após a morte de Lênin, Josef Stalin consolidou-se no poder e promoveu profundas transformações econômicas na União Soviética a partir do final dos anos 1920.",
                                "enunciado":  "Os planos quinquenais soviéticos, sob Stalin, tinham como principais eixos:",
                                "alternativas":  {
-                                                    "a":  "A manutenção da NEP e da pequena propriedade privada no campo, política revertida pelos planos quinquenais",
-                                                    "b":  "A abertura da economia soviética ao investimento privado estrangeiro, ausente da política stalinista da época",
+                                                    "a":  "A industrialização acelerada e a coletivização forçada da agricultura, com repressão a camponeses na Ucrânia",
+                                                    "b":  "Priorizar a produção de bens de consumo e elevar o padrão de vida da população antes de investir na indústria pesada",
                                                     "c":  "A redução da produção industrial em favor exclusivo da agricultura de subsistência, contrária à industrialização",
-                                                    "d":  "A industrialização acelerada e a coletivização forçada da agricultura, com repressão a camponeses na Ucrânia",
-                                                    "e":  "Priorizar a produção de bens de consumo e elevar o padrão de vida da população antes de investir na indústria pesada"
+                                                    "d":  "A abertura da economia soviética ao investimento privado estrangeiro, ausente da política stalinista da época",
+                                                    "e":  "A manutenção da NEP e da pequena propriedade privada no campo, política revertida pelos planos quinquenais"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "a",
                                "explicacao":  "Os planos quinquenais stalinistas priorizaram a industrialização acelerada e a coletivização forçada da agricultura, processo que encontrou forte resistência camponesa, reprimida com violência, e que resultou em graves crises de fome, sobretudo na Ucrânia, no início da década de 1930.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20034,13 +20034,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Diante dos efeitos devastadores da Crise de 1929 sobre a economia americana, o presidente Franklin Roosevelt lançou, a partir de 1933, um conjunto de políticas públicas conhecido como New Deal.",
                                "enunciado":  "O New Deal caracterizou-se, sobretudo, por:",
                                "alternativas":  {
-                                                    "a":  "Reduzir drasticamente a intervenção do Estado na economia, deixando a recuperação a cargo exclusivo do mercado",
-                                                    "b":  "Ampliar a intervenção estatal na economia, com obras públicas, regulação financeira e programas sociais",
-                                                    "c":  "Eliminar qualquer forma de regulação sobre o sistema bancário americano, direção oposta à do New Deal",
-                                                    "d":  "Restringir a atuação do governo federal a questões exclusivamente militares, o que o New Deal não fez",
-                                                    "e":  "Reduzir a presença do Estado na economia e cortar gastos públicos, confiando na recuperação espontânea do mercado"
+                                                    "a":  "Eliminar qualquer forma de regulação sobre o sistema bancário americano, direção oposta à do New Deal",
+                                                    "b":  "Reduzir drasticamente a intervenção do Estado na economia, deixando a recuperação a cargo exclusivo do mercado",
+                                                    "c":  "Reduzir a presença do Estado na economia e cortar gastos públicos, confiando na recuperação espontânea do mercado",
+                                                    "d":  "Ampliar a intervenção estatal na economia, com obras públicas, regulação financeira e programas sociais",
+                                                    "e":  "Restringir a atuação do governo federal a questões exclusivamente militares, o que o New Deal não fez"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "O New Deal ampliou significativamente a intervenção do Estado norte-americano na economia, com obras públicas para geração de empregos, regulação do sistema financeiro e criação de programas de seguridade social, em uma resposta keynesiana à crise gerada pelo crash de 1929.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20083,12 +20083,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Esse ataque teve como principal consequência:",
                                "alternativas":  {
                                                     "a":  "A manutenção da neutralidade norte-americana na Segunda Guerra Mundial, postura encerrada pelo próprio ataque",
-                                                    "b":  "A entrada formal dos Estados Unidos na Segunda Guerra Mundial, tanto no Pacífico quanto na frente europeia",
-                                                    "c":  "A rendição imediata do Japão às forças aliadas, desfecho que só ocorreria quase quatro anos depois",
-                                                    "d":  "O rompimento da aliança entre Japão, Alemanha e Itália, o que não decorreu do ataque a Pearl Harbor",
-                                                    "e":  "A assinatura de um armistício no Pacífico, que manteve os Estados Unidos fora do conflito até o desembarque na Normandia"
+                                                    "b":  "O rompimento da aliança entre Japão, Alemanha e Itália, o que não decorreu do ataque a Pearl Harbor",
+                                                    "c":  "A assinatura de um armistício no Pacífico, que manteve os Estados Unidos fora do conflito até o desembarque na Normandia",
+                                                    "d":  "A rendição imediata do Japão às forças aliadas, desfecho que só ocorreria quase quatro anos depois",
+                                                    "e":  "A entrada formal dos Estados Unidos na Segunda Guerra Mundial, tanto no Pacífico quanto na frente europeia"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "O ataque a Pearl Harbor precipitou a entrada formal dos Estados Unidos na Segunda Guerra Mundial, o que teve impacto decisivo tanto na frente do Pacífico, contra o Japão, quanto na frente europeia, contra a Alemanha nazista e a Itália fascista.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20098,13 +20098,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Ainda durante e logo após o fim da Segunda Guerra Mundial, os líderes das principais potências aliadas se reuniram para discutir os rumos do pós-guerra.",
                                "enunciado":  "As conferências de Yalta (1945) e Potsdam (1945) tiveram como um de seus principais resultados:",
                                "alternativas":  {
-                                                    "a":  "A manutenção da Alemanha unificada e sem qualquer ocupação estrangeira, contrária à divisão em zonas de ocupação",
-                                                    "b":  "A definição das áreas de influência das potências vencedoras, lançando as bases da divisão da Guerra Fria",
-                                                    "c":  "A dissolução imediata de todas as fronteiras nacionais europeias, medida nunca proposta nessas conferências",
-                                                    "d":  "A criação de um único governo mundial para a reconstrução do pós-guerra, ideia alheia aos acordos de Yalta",
+                                                    "a":  "A dissolução imediata de todas as fronteiras nacionais europeias, medida nunca proposta nessas conferências",
+                                                    "b":  "A criação de um único governo mundial para a reconstrução do pós-guerra, ideia alheia aos acordos de Yalta",
+                                                    "c":  "A manutenção da Alemanha unificada e sem qualquer ocupação estrangeira, contrária à divisão em zonas de ocupação",
+                                                    "d":  "A definição das áreas de influência das potências vencedoras, lançando as bases da divisão da Guerra Fria",
                                                     "e":  "A criação de um sistema monetário internacional com paridade fixa em relação ao dólar e a fundação do Fundo Monetário Internacional"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "As conferências de Yalta e Potsdam definiram as áreas de influência das potências vencedoras na Europa, incluindo a divisão da Alemanha em zonas de ocupação, lançando as bases geopolíticas para a divisão do continente que caracterizaria o início da Guerra Fria.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20114,13 +20114,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em agosto de 1945, os Estados Unidos lançaram bombas atômicas sobre as cidades japonesas de Hiroshima e Nagasaki.",
                                "enunciado":  "Esse episódio é significativo na história do século XX porque:",
                                "alternativas":  {
-                                                    "a":  "Precipitou a rendição japonesa e inaugurou a era nuclear, que marcaria as relações internacionais na Guerra Fria",
-                                                    "b":  "Resultou na ocupação permanente do Japão pela União Soviética, o que não ocorreu no pós-guerra japonês",
-                                                    "c":  "Marcou o início, e não o fim, da participação japonesa na Segunda Guerra Mundial, cronologia invertida",
-                                                    "d":  "Não teve qualquer relação com o encerramento do conflito no Pacífico, contrariando o registro histórico",
-                                                    "e":  "Levou à assinatura imediata de um tratado de não proliferação, que impediu novos testes nucleares nas décadas seguintes"
+                                                    "a":  "Não teve qualquer relação com o encerramento do conflito no Pacífico, contrariando o registro histórico",
+                                                    "b":  "Marcou o início, e não o fim, da participação japonesa na Segunda Guerra Mundial, cronologia invertida",
+                                                    "c":  "Resultou na ocupação permanente do Japão pela União Soviética, o que não ocorreu no pós-guerra japonês",
+                                                    "d":  "Levou à assinatura imediata de um tratado de não proliferação, que impediu novos testes nucleares nas décadas seguintes",
+                                                    "e":  "Precipitou a rendição japonesa e inaugurou a era nuclear, que marcaria as relações internacionais na Guerra Fria"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "Os bombardeios atômicos de Hiroshima e Nagasaki precipitaram a rendição japonesa e o fim da Segunda Guerra Mundial, ao mesmo tempo em que inauguraram a era nuclear, cujo potencial destrutivo passaria a moldar as relações internacionais e a lógica da dissuasão durante toda a Guerra Fria.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20130,13 +20130,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1945, ao final da Segunda Guerra Mundial, foi fundada a Organização das Nações Unidas, sucessora da fracassada Liga das Nações.",
                                "enunciado":  "Uma das principais diferenças estruturais entre a ONU e a antiga Liga das Nações é:",
                                "alternativas":  {
-                                                    "a":  "A ausência de qualquer órgão com poder de decisão sobre segurança internacional, o que o Conselho contradiz",
-                                                    "b":  "A exclusão de todas as grandes potências mundiais de seus quadros, oposto ao Conselho de Segurança da ONU",
-                                                    "c":  "A criação do Conselho de Segurança, com membros permanentes e poder de veto, garantindo a participação das potências",
-                                                    "d":  "Sua atuação restrita exclusivamente a questões econômicas, sem papel político, o que a Carta da ONU contradiz",
-                                                    "e":  "A adoção da regra de unanimidade entre todos os membros, que substituiu o modelo decisório da organização anterior"
+                                                    "a":  "A adoção da regra de unanimidade entre todos os membros, que substituiu o modelo decisório da organização anterior",
+                                                    "b":  "Sua atuação restrita exclusivamente a questões econômicas, sem papel político, o que a Carta da ONU contradiz",
+                                                    "c":  "A ausência de qualquer órgão com poder de decisão sobre segurança internacional, o que o Conselho contradiz",
+                                                    "d":  "A exclusão de todas as grandes potências mundiais de seus quadros, oposto ao Conselho de Segurança da ONU",
+                                                    "e":  "A criação do Conselho de Segurança, com membros permanentes e poder de veto, garantindo a participação das potências"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "e",
                                "explicacao":  "Diferentemente da Liga das Nações, a ONU criou um Conselho de Segurança com membros permanentes dotados de poder de veto, mecanismo pensado para garantir o envolvimento contínuo das grandes potências vencedoras da guerra na manutenção da paz internacional, evitando a fragilidade que marcou a organização anterior.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20146,9 +20146,9 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A partir de 1948, os Estados Unidos lançaram um amplo programa de ajuda financeira para a reconstrução da Europa Ocidental devastada pela Segunda Guerra Mundial.",
                                "enunciado":  "O Plano Marshall, além de contribuir para a recuperação econômica europeia, tinha também como objetivo estratégico:",
                                "alternativas":  {
-                                                    "a":  "Fortalecer a influência soviética sobre os países da Europa Ocidental, objetivo oposto ao do Plano Marshall",
-                                                    "b":  "Financiar exclusivamente a reconstrução da própria União Soviética, o que o Plano Marshall jamais fez",
-                                                    "c":  "Eliminar qualquer forma de cooperação econômica entre os países europeus, contrário ao propósito do plano",
+                                                    "a":  "Financiar exclusivamente a reconstrução da própria União Soviética, o que o Plano Marshall jamais fez",
+                                                    "b":  "Eliminar qualquer forma de cooperação econômica entre os países europeus, contrário ao propósito do plano",
+                                                    "c":  "Fortalecer a influência soviética sobre os países da Europa Ocidental, objetivo oposto ao do Plano Marshall",
                                                     "d":  "Coordenar a cooperação econômica entre os países socialistas do Leste Europeu sob direção soviética",
                                                     "e":  "Conter o avanço do comunismo, associando reconstrução econômica a governos alinhados aos EUA na Guerra Fria"
                                                 },
@@ -20162,13 +20162,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Ao longo da década de 1940 e 1950, o mundo assistiu à formação de duas grandes alianças militares antagônicas.",
                                "enunciado":  "A criação da OTAN (1949), liderada pelos Estados Unidos, e do Pacto de Varsóvia (1955), liderado pela União Soviética, expressou, sobretudo:",
                                "alternativas":  {
-                                                    "a":  "A criação de um exército único sob comando da ONU, arranjo distinto do adotado pelas duas alianças militares",
-                                                    "b":  "A busca por unificação militar entre as duas superpotências da Guerra Fria, o que as alianças rivais contradizem",
-                                                    "c":  "O fim de qualquer disputa militar entre capitalismo e socialismo, contrário à própria lógica das alianças",
-                                                    "d":  "A institucionalização da divisão bipolar do mundo em blocos militares rivais, traço central da Guerra Fria",
-                                                    "e":  "A superação da divisão bipolar por meio de um sistema de segurança coletiva que reunia os dois blocos sob a mesma estrutura"
+                                                    "a":  "A busca por unificação militar entre as duas superpotências da Guerra Fria, o que as alianças rivais contradizem",
+                                                    "b":  "A superação da divisão bipolar por meio de um sistema de segurança coletiva que reunia os dois blocos sob a mesma estrutura",
+                                                    "c":  "A institucionalização da divisão bipolar do mundo em blocos militares rivais, traço central da Guerra Fria",
+                                                    "d":  "A criação de um exército único sob comando da ONU, arranjo distinto do adotado pelas duas alianças militares",
+                                                    "e":  "O fim de qualquer disputa militar entre capitalismo e socialismo, contrário à própria lógica das alianças"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "A formação de alianças militares antagônicas, a OTAN e o Pacto de Varsóvia, institucionalizou a divisão bipolar do mundo em blocos rivais, um dos traços estruturais mais marcantes da Guerra Fria, refletindo a lógica de contenção e dissuasão mútua entre capitalismo e socialismo.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20178,13 +20178,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1947, o presidente norte-americano Harry Truman anunciou uma política externa voltada a apoiar países ameaçados pela expansão do comunismo.",
                                "enunciado":  "Essa política, conhecida como Doutrina Truman, é considerada um marco porque:",
                                "alternativas":  {
-                                                    "a":  "Formalizou a política de contenção norte-americana ao comunismo, pilar da postura dos EUA na Guerra Fria",
-                                                    "b":  "Resultou na retirada completa dos Estados Unidos dos assuntos europeus, o oposto do que a doutrina propôs",
-                                                    "c":  "Expressava a disposição soviética de apoiar movimentos capitalistas ao redor do mundo, inversão dos fatos",
-                                                    "d":  "Encerrou definitivamente qualquer tensão entre Estados Unidos e União Soviética, o que os anos seguintes desmentem",
-                                                    "e":  "Inaugurou a política de coexistência pacífica, baseada no reconhecimento mútuo das áreas de influência das duas potências"
+                                                    "a":  "Inaugurou a política de coexistência pacífica, baseada no reconhecimento mútuo das áreas de influência das duas potências",
+                                                    "b":  "Expressava a disposição soviética de apoiar movimentos capitalistas ao redor do mundo, inversão dos fatos",
+                                                    "c":  "Formalizou a política de contenção norte-americana ao comunismo, pilar da postura dos EUA na Guerra Fria",
+                                                    "d":  "Resultou na retirada completa dos Estados Unidos dos assuntos europeus, o oposto do que a doutrina propôs",
+                                                    "e":  "Encerrou definitivamente qualquer tensão entre Estados Unidos e União Soviética, o que os anos seguintes desmentem"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "c",
                                "explicacao":  "A Doutrina Truman formalizou a política de contenção (containment) ao comunismo, comprometendo os Estados Unidos a apoiar governos e movimentos ameaçados pela expansão soviética, tornando-se um dos pilares ideológicos da atuação americana ao longo de toda a Guerra Fria.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20194,13 +20194,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1948-1949, a União Soviética bloqueou o acesso terrestre das potências ocidentais a Berlim Ocidental, situada dentro do território sob administração soviética.",
                                "enunciado":  "A resposta das potências ocidentais a esse bloqueio foi:",
                                "alternativas":  {
-                                                    "a":  "A declaração formal de guerra à União Soviética, resposta que as potências ocidentais evitaram deliberadamente",
-                                                    "b":  "A entrega de Berlim Ocidental à administração soviética, desfecho oposto ao ocorrido na crise de 1948",
-                                                    "c":  "A retirada imediata de toda a população de Berlim Ocidental, medida nunca adotada pelos aliados ocidentais",
+                                                    "a":  "A retirada imediata de toda a população de Berlim Ocidental, medida nunca adotada pelos aliados ocidentais",
+                                                    "b":  "A organização de uma ponte aérea para abastecer a cidade, evitando confronto militar direto com a URSS",
+                                                    "c":  "A entrega de Berlim Ocidental à administração soviética, desfecho oposto ao ocorrido na crise de 1948",
                                                     "d":  "A construção de um muro dividindo a cidade, que interrompeu a circulação entre os setores ocidental e oriental",
-                                                    "e":  "A organização de uma ponte aérea para abastecer a cidade, evitando confronto militar direto com a URSS"
+                                                    "e":  "A declaração formal de guerra à União Soviética, resposta que as potências ocidentais evitaram deliberadamente"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "Diante do bloqueio terrestre soviético, as potências ocidentais organizaram uma ponte aérea para abastecer Berlim Ocidental por quase um ano, resolvendo a crise sem confronto militar direto e demonstrando, já nos primeiros anos da Guerra Fria, a lógica de disputa sem guerra aberta entre as superpotências.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20226,10 +20226,10 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1959, um movimento guerrilheiro liderado por Fidel Castro derrubou o governo de Fulgencio Batista em Cuba.",
                                "enunciado":  "Nos anos seguintes à vitória revolucionária, o alinhamento de Cuba à União Soviética resultou em:",
                                "alternativas":  {
-                                                    "a":  "Maior aproximação diplomática e comercial entre Cuba e os Estados Unidos, cenário oposto ao rompimento ocorrido",
-                                                    "b":  "A manutenção de Cuba como aliada incondicional dos Estados Unidos, papel encerrado com a Revolução Cubana",
+                                                    "a":  "O desinteresse soviético em qualquer aproximação com o novo governo cubano, contrariado pelo apoio soviético à ilha",
+                                                    "b":  "Maior aproximação diplomática e comercial entre Cuba e os Estados Unidos, cenário oposto ao rompimento ocorrido",
                                                     "c":  "Um embargo econômico norte-americano a Cuba e sua transformação em um dos focos de tensão da Guerra Fria nas Américas",
-                                                    "d":  "O desinteresse soviético em qualquer aproximação com o novo governo cubano, contrariado pelo apoio soviético à ilha",
+                                                    "d":  "A manutenção de Cuba como aliada incondicional dos Estados Unidos, papel encerrado com a Revolução Cubana",
                                                     "e":  "A adesão de Cuba à Organização dos Estados Americanos e a normalização de suas relações comerciais com Washington"
                                                 },
                                "resposta":  "c",
@@ -20242,13 +20242,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em outubro de 1962, a descoberta de mísseis soviéticos instalados em Cuba levou o mundo a um dos momentos de maior tensão da Guerra Fria.",
                                "enunciado":  "A Crise dos Mísseis de Cuba foi resolvida por meio de:",
                                "alternativas":  {
-                                                    "a":  "A expulsão de Cuba da Organização das Nações Unidas, medida jamais adotada durante a crise de 1962",
-                                                    "b":  "Um confronto militar direto entre Estados Unidos e União Soviética em território cubano, cenário evitado pelas partes",
-                                                    "c":  "A ocupação militar permanente de Cuba pelas forças armadas dos Estados Unidos, desfecho que não se concretizou",
-                                                    "d":  "Uma operação militar de desembarque apoiada pelos Estados Unidos, derrotada pelas forças cubanas na costa da ilha",
-                                                    "e":  "Negociações diplomáticas que resultaram na retirada dos mísseis soviéticos, em troca do compromisso de não invadir Cuba"
+                                                    "a":  "Uma operação militar de desembarque apoiada pelos Estados Unidos, derrotada pelas forças cubanas na costa da ilha",
+                                                    "b":  "Negociações diplomáticas que resultaram na retirada dos mísseis soviéticos, em troca do compromisso de não invadir Cuba",
+                                                    "c":  "Um confronto militar direto entre Estados Unidos e União Soviética em território cubano, cenário evitado pelas partes",
+                                                    "d":  "A expulsão de Cuba da Organização das Nações Unidas, medida jamais adotada durante a crise de 1962",
+                                                    "e":  "A ocupação militar permanente de Cuba pelas forças armadas dos Estados Unidos, desfecho que não se concretizou"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "A Crise dos Mísseis de Cuba, um dos momentos mais tensos da Guerra Fria, foi resolvida por meio de negociações diplomáticas: a União Soviética retirou seus mísseis de Cuba em troca do compromisso americano de não invadir a ilha e da retirada, mantida em sigilo por algum tempo, de mísseis americanos instalados na Turquia.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20258,13 +20258,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre as décadas de 1950 e 1970, o Vietnã foi palco de um longo conflito que opôs o Vietnã do Norte, comunista, e o Vietnã do Sul, apoiado pelos Estados Unidos.",
                                "enunciado":  "A Guerra do Vietnã teve como um de seus principais desdobramentos:",
                                "alternativas":  {
-                                                    "a":  "A manutenção indefinida da presença militar americana no Vietnã até os dias atuais, cenário desmentido pela retirada de 1973",
-                                                    "b":  "O desgaste militar, político e social dos EUA, com forte oposição interna, culminando na retirada das tropas e na reunificação do Vietnã",
-                                                    "c":  "A vitória militar decisiva dos Estados Unidos, que garantiu a divisão permanente do país, desfecho oposto ao ocorrido",
-                                                    "d":  "A ausência completa de mobilização da opinião pública americana sobre o conflito, contrariada pelos protestos da época",
-                                                    "e":  "A consolidação da presença militar norte-americana no Sudeste Asiático, sustentada por amplo apoio da opinião pública interna"
+                                                    "a":  "A vitória militar decisiva dos Estados Unidos, que garantiu a divisão permanente do país, desfecho oposto ao ocorrido",
+                                                    "b":  "A ausência completa de mobilização da opinião pública americana sobre o conflito, contrariada pelos protestos da época",
+                                                    "c":  "O desgaste militar, político e social dos EUA, com forte oposição interna, culminando na retirada das tropas e na reunificação do Vietnã",
+                                                    "d":  "A consolidação da presença militar norte-americana no Sudeste Asiático, sustentada por amplo apoio da opinião pública interna",
+                                                    "e":  "A manutenção indefinida da presença militar americana no Vietnã até os dias atuais, cenário desmentido pela retirada de 1973"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "c",
                                "explicacao":  "A Guerra do Vietnã provocou grande desgaste militar, político e social para os Estados Unidos, que enfrentaram forte oposição interna, especialmente entre jovens, o que contribuiu para a retirada das tropas americanas em 1973 e para a posterior reunificação do Vietnã sob o regime comunista, em 1975.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20290,13 +20290,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em maio de 1968, a França viveu uma onda de protestos estudantis e greves operárias que chegou a paralisar o país.",
                                "enunciado":  "O movimento de Maio de 1968 é interpretado como expressão de:",
                                "alternativas":  {
-                                                    "a":  "Um questionamento mais amplo das estruturas sociais e políticas tradicionais, unindo demandas estudantis e trabalhistas",
-                                                    "b":  "Um movimento organizado exclusivamente pelo governo francês da época, hipótese contrária à sua origem popular",
+                                                    "a":  "Um movimento organizado exclusivamente pelo governo francês da época, hipótese contrária à sua origem popular",
+                                                    "b":  "Uma disputa restrita ao meio sindical pela recomposição salarial, sem articulação com pautas estudantis ou culturais",
                                                     "c":  "A ausência completa de qualquer repercussão internacional do movimento, o que os protestos semelhantes contrariam",
                                                     "d":  "Uma crise estritamente econômica, sem qualquer dimensão cultural ou comportamental, leitura que ignora seu caráter contestatório",
-                                                    "e":  "Uma disputa restrita ao meio sindical pela recomposição salarial, sem articulação com pautas estudantis ou culturais"
+                                                    "e":  "Um questionamento mais amplo das estruturas sociais e políticas tradicionais, unindo demandas estudantis e trabalhistas"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "Maio de 1968 uniu demandas estudantis por reformas educacionais e comportamentais a reivindicações trabalhistas, expressando um questionamento mais amplo das estruturas sociais, culturais e políticas tradicionais da sociedade francesa, com repercussões que influenciaram movimentos semelhantes em outros países.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20307,12 +20307,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Essa cisão sino-soviética evidencia que:",
                                "alternativas":  {
                                                     "a":  "Não houve qualquer consequência geopolítica dessa divergência, leitura contrariada pelos conflitos de fronteira posteriores",
-                                                    "b":  "Divergências sobre o marxismo, disputas de liderança do movimento comunista e questões de fronteira dividiam o bloco socialista",
-                                                    "c":  "O bloco socialista durante a Guerra Fria era um grupo perfeitamente unificado e sem divergências internas",
-                                                    "d":  "A União Soviética e a China mantiveram uma aliança militar inabalável durante toda a Guerra Fria, o que a cisão desmente",
-                                                    "e":  "O bloco socialista manteve unidade doutrinária e estratégica ao longo do período, com divergências limitadas a questões táticas"
+                                                    "b":  "O bloco socialista durante a Guerra Fria era um grupo perfeitamente unificado e sem divergências internas",
+                                                    "c":  "O bloco socialista manteve unidade doutrinária e estratégica ao longo do período, com divergências limitadas a questões táticas",
+                                                    "d":  "Divergências sobre o marxismo, disputas de liderança do movimento comunista e questões de fronteira dividiam o bloco socialista",
+                                                    "e":  "A União Soviética e a China mantiveram uma aliança militar inabalável durante toda a Guerra Fria, o que a cisão desmente"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "A cisão sino-soviética revela que o próprio bloco socialista era atravessado por divergências ideológicas, disputas pela liderança do movimento comunista internacional e tensões de fronteira, o que relativiza a ideia simplificada de um mundo bipolar plenamente coeso durante a Guerra Fria.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20324,8 +20324,8 @@ window.QUESTION_BANKS = {
                                "alternativas":  {
                                                     "a":  "Acordos de controle de armamentos, como os tratados SALT, e maior diálogo diplomático entre os dois blocos rivais",
                                                     "b":  "O início, e não a redução, da corrida armamentista entre as duas potências, leitura invertida quanto à détente",
-                                                    "c":  "O fim definitivo de qualquer rivalidade entre as duas superpotências, o que a retomada da tensão nos anos 1980 contradiz",
-                                                    "d":  "O rompimento total das relações diplomáticas entre Estados Unidos e União Soviética, o que não ocorreu durante a détente",
+                                                    "c":  "O rompimento total das relações diplomáticas entre Estados Unidos e União Soviética, o que não ocorreu durante a détente",
+                                                    "d":  "O fim definitivo de qualquer rivalidade entre as duas superpotências, o que a retomada da tensão nos anos 1980 contradiz",
                                                     "e":  "O rompimento das negociações de desarmamento e a retomada dos testes nucleares atmosféricos pelas duas superpotências"
                                                 },
                                "resposta":  "a",
@@ -20338,13 +20338,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A independência da Índia em relação ao Reino Unido, em 1947, foi acompanhada da divisão do território em dois países.",
                                "enunciado":  "Essa divisão, conhecida como Partição da Índia, resultou na criação da Índia e do Paquistão, tendo como um de seus efeitos mais dramáticos:",
                                "alternativas":  {
-                                                    "a":  "Uma transição pacífica e sem qualquer deslocamento populacional, cenário desmentido pelos relatos históricos da partição",
-                                                    "b":  "Intensos deslocamentos populacionais entre hindus, muçulmanos e sikhs, com violência em massa entre comunidades religiosas",
+                                                    "a":  "O fim de qualquer tensão entre Índia e Paquistão desde então, o que os conflitos posteriores pela Caxemira desmentem",
+                                                    "b":  "Uma transição negociada sem deslocamentos significativos de população, com as minorias permanecendo em seus locais de origem",
                                                     "c":  "A manutenção da Índia como colônia britânica por mais várias décadas, hipótese contrária à independência de 1947",
-                                                    "d":  "O fim de qualquer tensão entre Índia e Paquistão desde então, o que os conflitos posteriores pela Caxemira desmentem",
-                                                    "e":  "Uma transição negociada sem deslocamentos significativos de população, com as minorias permanecendo em seus locais de origem"
+                                                    "d":  "Uma transição pacífica e sem qualquer deslocamento populacional, cenário desmentido pelos relatos históricos da partição",
+                                                    "e":  "Intensos deslocamentos populacionais entre hindus, muçulmanos e sikhs, com violência em massa entre comunidades religiosas"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "e",
                                "explicacao":  "A Partição da Índia, que criou a Índia e o Paquistão com base em critérios predominantemente religiosos, provocou um dos maiores deslocamentos populacionais forçados da história, acompanhado de violência em massa entre comunidades hindus, muçulmanas e sikhs, e lançou as bases de tensões entre os dois países que persistem até hoje.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20354,13 +20354,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre 1954 e 1962, a Argélia travou uma longa e violenta guerra pela independência em relação à França, que considerava o território parte integrante de seu Estado.",
                                "enunciado":  "A Guerra da Argélia é um exemplo de como os processos de descolonização, no contexto pós-1945, frequentemente:",
                                "alternativas":  {
-                                                    "a":  "Ocorreram sempre de forma pacífica e negociada entre metrópoles e colônias, o que o caso argelino contradiz frontalmente",
-                                                    "b":  "Foram conduzidos exclusivamente por decisão unilateral das potências coloniais, sem qualquer resistência local",
-                                                    "c":  "Não geraram qualquer impacto político posterior nos países colonizadores, o que a crise da Quarta República francesa desmente",
-                                                    "d":  "Envolveram conflitos armados prolongados quando a metrópole resistia a conceder a independência, como no caso da Argélia",
-                                                    "e":  "Ocorreram por transferência administrativa pacífica, mediada pela ONU, nos casos em que a metrópole era uma democracia europeia"
+                                                    "a":  "Não geraram qualquer impacto político posterior nos países colonizadores, o que a crise da Quarta República francesa desmente",
+                                                    "b":  "Ocorreram sempre de forma pacífica e negociada entre metrópoles e colônias, o que o caso argelino contradiz frontalmente",
+                                                    "c":  "Envolveram conflitos armados prolongados quando a metrópole resistia a conceder a independência, como no caso da Argélia",
+                                                    "d":  "Ocorreram por transferência administrativa pacífica, mediada pela ONU, nos casos em que a metrópole era uma democracia europeia",
+                                                    "e":  "Foram conduzidos exclusivamente por decisão unilateral das potências coloniais, sem qualquer resistência local"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "A Guerra da Argélia, marcada por intensa violência de ambos os lados, exemplifica como processos de descolonização podiam se tornar longos e sangrentos quando a metrópole resistia à concessão da independência, tendo profundo impacto político também na própria França, incluindo crises internas que levaram à criação da Quinta República.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20371,9 +20371,9 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A Conferência de Bandung lançou as bases para:",
                                "alternativas":  {
                                                     "a":  "A formação de um terceiro bloco militar, rival tanto dos Estados Unidos quanto da União Soviética",
-                                                    "b":  "A subordinação automática desses países ao bloco soviético, o que contraria o próprio espírito de Bandung",
+                                                    "b":  "A criação de um agrupamento de países em desenvolvimento voltado à coordenação de posições em negociações econômicas na ONU",
                                                     "c":  "A criação de uma moeda única para os países participantes, proposta ausente das discussões da conferência",
-                                                    "d":  "A criação de um agrupamento de países em desenvolvimento voltado à coordenação de posições em negociações econômicas na ONU",
+                                                    "d":  "A subordinação automática desses países ao bloco soviético, o que contraria o próprio espírito de Bandung",
                                                     "e":  "O Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes na Guerra Fria"
                                                 },
                                "resposta":  "e",
@@ -20386,13 +20386,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1948, foi proclamado o Estado de Israel, em território que abrigava também população árabe palestina.",
                                "enunciado":  "Esse processo desencadeou:",
                                "alternativas":  {
-                                                    "a":  "A plena aceitação pacífica de todos os países árabes vizinhos, o que as guerras árabe-israelenses desmentem",
-                                                    "b":  "O desaparecimento de qualquer reivindicação territorial palestina desde então, contrariado pelo conflito ainda em curso",
-                                                    "c":  "Sucessivas guerras árabe-israelenses e um conflito territorial entre israelenses e palestinos que persiste até hoje",
-                                                    "d":  "A unificação política entre Israel e os países árabes da região, cenário nunca concretizado após 1948",
-                                                    "e":  "A integração pacífica das comunidades na região sob administração internacional, encerrando as disputas territoriais locais"
+                                                    "a":  "O desaparecimento de qualquer reivindicação territorial palestina desde então, contrariado pelo conflito ainda em curso",
+                                                    "b":  "Sucessivas guerras árabe-israelenses e um conflito territorial entre israelenses e palestinos que persiste até hoje",
+                                                    "c":  "A integração pacífica das comunidades na região sob administração internacional, encerrando as disputas territoriais locais",
+                                                    "d":  "A plena aceitação pacífica de todos os países árabes vizinhos, o que as guerras árabe-israelenses desmentem",
+                                                    "e":  "A unificação política entre Israel e os países árabes da região, cenário nunca concretizado após 1948"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "b",
                                "explicacao":  "A proclamação do Estado de Israel em 1948 desencadeou sucessivas guerras árabe-israelenses e deu origem a um dos conflitos territoriais e políticos mais longevos do mundo contemporâneo, envolvendo disputas sobre território, refugiados e soberania que persistem, em diferentes fases, até os dias atuais.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20402,13 +20402,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1973, um conflito armado entre Israel e uma coalizão de países árabes, liderada por Egito e Síria, teve repercussões que extrapolaram o Oriente Médio.",
                                "enunciado":  "Um dos principais desdobramentos econômicos globais da Guerra do Yom Kippur foi:",
                                "alternativas":  {
-                                                    "a":  "A ausência de qualquer relação entre o conflito e a economia internacional, o que o choque do petróleo desmente",
-                                                    "b":  "A queda abrupta e duradoura do preço internacional do petróleo, direção oposta à provocada pelo embargo árabe",
-                                                    "c":  "O fim completo da dependência mundial em relação ao petróleo do Oriente Médio, resultado que a crise não produziu",
-                                                    "d":  "O embargo petrolífero imposto por países árabes exportadores a nações que apoiavam Israel, provocando forte choque nos preços",
-                                                    "e":  "A queda acentuada do preço internacional do petróleo, que beneficiou as economias industrializadas importadoras do produto"
+                                                    "a":  "A queda acentuada do preço internacional do petróleo, que beneficiou as economias industrializadas importadoras do produto",
+                                                    "b":  "O embargo petrolífero imposto por países árabes exportadores a nações que apoiavam Israel, provocando forte choque nos preços",
+                                                    "c":  "A queda abrupta e duradoura do preço internacional do petróleo, direção oposta à provocada pelo embargo árabe",
+                                                    "d":  "O fim completo da dependência mundial em relação ao petróleo do Oriente Médio, resultado que a crise não produziu",
+                                                    "e":  "A ausência de qualquer relação entre o conflito e a economia internacional, o que o choque do petróleo desmente"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "b",
                                "explicacao":  "Em resposta ao apoio ocidental a Israel na Guerra do Yom Kippur, países árabes exportadores impuseram um embargo petrolífero, provocando um forte choque nos preços internacionais do petróleo e contribuindo para uma grave crise econômica que atingiu diversas economias ao longo da década de 1970.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20420,11 +20420,11 @@ window.QUESTION_BANKS = {
                                "alternativas":  {
                                                     "a":  "Manteve o Irã como aliado próximo dos Estados Unidos, tal como no período anterior, o que a ruptura de 1979 contradiz",
                                                     "b":  "Resultou na imediata democratização liberal do país, nos moldes ocidentais, desfecho oposto ao regime islâmico instaurado",
-                                                    "c":  "Rompeu o alinhamento do Irã com os Estados Unidos, alterando o equilíbrio geopolítico do Oriente Médio por décadas",
-                                                    "d":  "Não teve qualquer repercussão sobre o mercado internacional de petróleo, o que os choques do período contrariam",
-                                                    "e":  "Consolidou a aliança do Irã com as potências ocidentais, que passaram a apoiar o novo governo contra os vizinhos árabes"
+                                                    "c":  "Consolidou a aliança do Irã com as potências ocidentais, que passaram a apoiar o novo governo contra os vizinhos árabes",
+                                                    "d":  "Rompeu o alinhamento do Irã com os Estados Unidos, alterando o equilíbrio geopolítico do Oriente Médio por décadas",
+                                                    "e":  "Não teve qualquer repercussão sobre o mercado internacional de petróleo, o que os choques do período contrariam"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "d",
                                "explicacao":  "A Revolução Iraniana rompeu o alinhamento estratégico do Irã com os Estados Unidos, mantido durante o regime do xá, substituindo-o por um governo islâmico que passou a se opor à influência americana na região, alterando profundamente o equilíbrio geopolítico do Oriente Médio e inaugurando décadas de tensão entre os dois países.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20434,13 +20434,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1979, a União Soviética invadiu o Afeganistão para apoiar um governo comunista ameaçado por grupos rebeldes, iniciando um conflito que se estenderia por quase uma década.",
                                "enunciado":  "Essa guerra teve como um de seus desdobramentos:",
                                "alternativas":  {
-                                                    "a":  "A consolidação de um governo alinhado a Moscou em Cabul, que se manteve estável ao longo da década seguinte e reduziu a necessidade de presença militar soviética direta, permitindo concentrar recursos em outras áreas de disputa da Guerra Fria",
-                                                    "b":  "Uma reaproximação diplomática entre Washington e Moscou, que trataram o conflito como questão regional e preservaram os acordos de limitação de armas estratégicas negociados na década anterior, sem reflexos sobre a competição entre as superpotências",
+                                                    "a":  "Uma reaproximação diplomática entre Washington e Moscou, que trataram o conflito como questão regional e preservaram os acordos de limitação de armas estratégicas negociados na década anterior, sem reflexos sobre a competição entre as superpotências",
+                                                    "b":  "A consolidação de um governo alinhado a Moscou em Cabul, que se manteve estável ao longo da década seguinte e reduziu a necessidade de presença militar soviética direta, permitindo concentrar recursos em outras áreas de disputa da Guerra Fria",
                                                     "c":  "O deslocamento do centro da Guerra Fria para a Ásia Central, acompanhado da redução dos compromissos militares norte-americanos na Europa Ocidental e da reorientação da política externa dos Estados Unidos para o Oriente Médio",
-                                                    "d":  "A consolidação de um governo alinhado a Moscou em Cabul, mantido de forma estável ao longo das décadas seguintes",
-                                                    "e":  "Um alto desgaste militar, político e econômico para a União Soviética, apontado como fator da crise do regime soviético"
+                                                    "d":  "Um alto desgaste militar, político e econômico para a União Soviética, apontado como fator da crise do regime soviético",
+                                                    "e":  "A consolidação de um governo alinhado a Moscou em Cabul, mantido de forma estável ao longo das décadas seguintes"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "d",
                                "explicacao":  "A guerra do Afeganistão impôs alto desgaste militar, político e econômico à União Soviética, que enfrentou anos de resistência de grupos guerrilheiros apoiados, entre outros atores, pelos Estados Unidos, sendo posteriormente apontada como um dos fatores que contribuíram para o enfraquecimento e a crise final do regime soviético.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20450,13 +20450,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A partir de 1985, o líder soviético Mikhail Gorbachev implementou um conjunto de reformas políticas e econômicas na União Soviética.",
                                "enunciado":  "As políticas de perestroika (reestruturação econômica) e glasnost (transparência política) tinham como objetivo declarado:",
                                "alternativas":  {
-                                                    "a":  "Reforçar o controle estatal centralizado sobre todos os setores da economia soviética, direção oposta à das reformas",
-                                                    "b":  "Restaurar integralmente o modelo stalinista de planificação econômica, o que Gorbachev buscava justamente superar",
-                                                    "c":  "Isolar ainda mais a União Soviética do restante do mundo, contrário à abertura proposta pela glasnost",
-                                                    "d":  "Revitalizar o sistema soviético por meio de maior abertura, ainda que tenham acelerado o enfraquecimento do regime",
-                                                    "e":  "Restaurar o controle centralizado sobre a economia e restringir a circulação de informação como resposta à crise do sistema"
+                                                    "a":  "Restaurar o controle centralizado sobre a economia e restringir a circulação de informação como resposta à crise do sistema",
+                                                    "b":  "Reforçar o controle estatal centralizado sobre todos os setores da economia soviética, direção oposta à das reformas",
+                                                    "c":  "Revitalizar o sistema soviético por meio de maior abertura, ainda que tenham acelerado o enfraquecimento do regime",
+                                                    "d":  "Isolar ainda mais a União Soviética do restante do mundo, contrário à abertura proposta pela glasnost",
+                                                    "e":  "Restaurar integralmente o modelo stalinista de planificação econômica, o que Gorbachev buscava justamente superar"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "A perestroika e a glasnost buscavam revitalizar o sistema soviético por meio de reformas econômicas e maior transparência política, mas, na prática, acabaram acelerando tensões nacionalistas e econômicas que contribuíram para o enfraquecimento e o posterior colapso do regime soviético.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20467,10 +20467,10 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Entre os fatores que contribuíram para esse processo estavam:",
                                "alternativas":  {
                                                     "a":  "O esgotamento do modelo econômico centralizado, o nacionalismo nas repúblicas e o enfraquecimento de Moscou",
-                                                    "b":  "O crescimento econômico acelerado e sustentado da União Soviética ao longo da década de 1980, o que os fatos contradizem",
+                                                    "b":  "A ausência completa de qualquer tensão nacionalista dentro do território soviético, contrariada pelas repúblicas bálticas",
                                                     "c":  "Uma invasão militar conjunta de Estados Unidos e países da Europa Ocidental, episódio que jamais ocorreu",
-                                                    "d":  "A ausência completa de qualquer tensão nacionalista dentro do território soviético, contrariada pelas repúblicas bálticas",
-                                                    "e":  "Uma intervenção militar externa que derrubou o governo central, seguida da fragmentação do território em novas repúblicas"
+                                                    "d":  "Uma intervenção militar externa que derrubou o governo central, seguida da fragmentação do território em novas repúblicas",
+                                                    "e":  "O crescimento econômico acelerado e sustentado da União Soviética ao longo da década de 1980, o que os fatos contradizem"
                                                 },
                                "resposta":  "a",
                                "explicacao":  "A dissolução da União Soviética resultou do esgotamento do modelo econômico centralizado, do fortalecimento de movimentos nacionalistas em diversas repúblicas soviéticas e do enfraquecimento da autoridade central de Moscou, processo acelerado, e não resolvido, pelas reformas de Gorbachev ao longo da década de 1980.",
@@ -20514,13 +20514,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Assinado em 1992, o Tratado de Maastricht estabeleceu as bases para a criação da União Europeia, aprofundando um processo de integração regional iniciado décadas antes.",
                                "enunciado":  "Entre os principais avanços trazidos por esse tratado estava:",
                                "alternativas":  {
-                                                    "a":  "A exclusão definitiva de qualquer novo país-membro no futuro, cláusula ausente do Tratado de Maastricht",
-                                                    "b":  "A criação de uma união estritamente militar entre os países europeus, sem qualquer integração econômica",
-                                                    "c":  "O estabelecimento de bases para uma moeda única e para maior integração política e econômica entre os membros",
+                                                    "a":  "A criação de uma união estritamente militar entre os países europeus, sem qualquer integração econômica",
+                                                    "b":  "A criação de uma força armada europeia unificada, subordinada a um comando único e independente da OTAN",
+                                                    "c":  "A exclusão definitiva de qualquer novo país-membro no futuro, cláusula ausente do Tratado de Maastricht",
                                                     "d":  "O fim de qualquer forma de cooperação econômica entre os países europeus, o oposto do propósito do tratado",
-                                                    "e":  "A criação de uma força armada europeia unificada, subordinada a um comando único e independente da OTAN"
+                                                    "e":  "O estabelecimento de bases para uma moeda única e para maior integração política e econômica entre os membros"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "e",
                                "explicacao":  "O Tratado de Maastricht aprofundou a integração europeia ao estabelecer as bases institucionais para a criação de uma moeda única, o euro, e para maior integração política e econômica entre os países-membros, consolidando a transição da antiga Comunidade Econômica Europeia para a União Europeia.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20531,9 +20531,9 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A OMC tem como principal função:",
                                "alternativas":  {
                                                     "a":  "Regular o comércio internacional, promovendo a redução de barreiras e mediando disputas entre os membros",
-                                                    "b":  "Definir as políticas monetárias internas de cada país-membro, atribuição estranha ao mandato da OMC",
+                                                    "b":  "Estabelecer barreiras comerciais permanentes entre os países-membros, objetivo oposto ao da organização",
                                                     "c":  "Substituir integralmente as políticas fiscais nacionais dos países-membros, o que foge à sua competência",
-                                                    "d":  "Estabelecer barreiras comerciais permanentes entre os países-membros, objetivo oposto ao da organização",
+                                                    "d":  "Definir as políticas monetárias internas de cada país-membro, atribuição estranha ao mandato da OMC",
                                                     "e":  "Conceder empréstimos a países em crise de balanço de pagamentos, mediante compromissos de ajuste fiscal e cambial"
                                                 },
                                "resposta":  "a",
@@ -20546,13 +20546,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 2008, uma grave crise financeira, originada no mercado imobiliário e financeiro dos Estados Unidos, espalhou-se rapidamente pela economia global.",
                                "enunciado":  "Entre os fatores que contribuíram para essa crise estavam:",
                                "alternativas":  {
-                                                    "a":  "A concessão excessiva de crédito imobiliário subprime e sua securitização, espalhando riscos pelo sistema global",
-                                                    "b":  "A ausência completa de qualquer instituição financeira privada nos Estados Unidos, o que os fatos desmentem",
-                                                    "c":  "A decisão de todos os bancos centrais do mundo de eliminar simultaneamente suas reservas internacionais",
-                                                    "d":  "O excesso de regulação sobre o sistema financeiro internacional, hipótese contrária à desregulação da época",
-                                                    "e":  "A alta acentuada do preço internacional do petróleo, que elevou a inflação e desencadeou a retração do crédito nos Estados Unidos"
+                                                    "a":  "A decisão de todos os bancos centrais do mundo de eliminar simultaneamente suas reservas internacionais",
+                                                    "b":  "A alta acentuada do preço internacional do petróleo, que elevou a inflação e desencadeou a retração do crédito nos Estados Unidos",
+                                                    "c":  "O excesso de regulação sobre o sistema financeiro internacional, hipótese contrária à desregulação da época",
+                                                    "d":  "A ausência completa de qualquer instituição financeira privada nos Estados Unidos, o que os fatos desmentem",
+                                                    "e":  "A concessão excessiva de crédito imobiliário subprime e sua securitização, espalhando riscos pelo sistema global"
                                                 },
-                               "resposta":  "a",
+                               "resposta":  "e",
                                "explicacao":  "A crise financeira de 2008 resultou, entre outros fatores, da concessão excessiva de crédito imobiliário de alto risco (subprime) nos Estados Unidos e da complexa securitização desses créditos em produtos financeiros negociados globalmente, o que espalhou os riscos por todo o sistema financeiro internacional e gerou uma crise de escala mundial.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20562,13 +20562,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 11 de setembro de 2001, atentados terroristas coordenados pela rede Al-Qaeda atingiram os Estados Unidos, incluindo as Torres Gêmeas em Nova York.",
                                "enunciado":  "Entre as principais consequências desses atentados para a política internacional está:",
                                "alternativas":  {
-                                                    "a":  "O desinteresse dos Estados Unidos por qualquer intervenção militar no exterior nas décadas seguintes",
-                                                    "b":  "O lançamento da Guerra ao Terror, com invasões ao Afeganistão e ao Iraque, e políticas de segurança global",
+                                                    "a":  "Uma reorientação da política externa norte-americana para o multilateralismo, com redução das intervenções militares diretas",
+                                                    "b":  "A dissolução da Organização do Tratado do Atlântico Norte (OTAN), o que não ocorreu após os atentados",
                                                     "c":  "O fim imediato de qualquer forma de terrorismo internacional, resultado que os anos seguintes desmentem",
-                                                    "d":  "A dissolução da Organização do Tratado do Atlântico Norte (OTAN), o que não ocorreu após os atentados",
-                                                    "e":  "Uma reorientação da política externa norte-americana para o multilateralismo, com redução das intervenções militares diretas"
+                                                    "d":  "O lançamento da Guerra ao Terror, com invasões ao Afeganistão e ao Iraque, e políticas de segurança global",
+                                                    "e":  "O desinteresse dos Estados Unidos por qualquer intervenção militar no exterior nas décadas seguintes"
                                                 },
-                               "resposta":  "b",
+                               "resposta":  "d",
                                "explicacao":  "Os atentados de 11 de setembro de 2001 levaram os Estados Unidos a lançar a chamada Guerra ao Terror, que incluiu as invasões ao Afeganistão e ao Iraque, além de provocar um fortalecimento generalizado de políticas de segurança e vigilância em diversos países ao redor do mundo.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20594,13 +20594,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A partir dos anos 2000, ganhou força o conceito de BRICS, sigla que reúne Brasil, Rússia, Índia, China e, posteriormente, África do Sul.",
                                "enunciado":  "A emergência desse agrupamento é frequentemente associada a:",
                                "alternativas":  {
-                                                    "a":  "O declínio econômico simultâneo de todas as economias emergentes do mundo, o que os dados desse período contradizem",
-                                                    "b":  "A formação de uma aliança estritamente militar entre os países membros, o que o BRICS nunca configurou",
-                                                    "c":  "O crescimento econômico expressivo dessas economias e a busca por maior influência política e institucional global",
-                                                    "d":  "A subordinação política e econômica desses países aos Estados Unidos, hipótese oposta ao próprio conceito do grupo",
+                                                    "a":  "A formação de uma aliança estritamente militar entre os países membros, o que o BRICS nunca configurou",
+                                                    "b":  "O crescimento econômico expressivo dessas economias e a busca por maior influência política e institucional global",
+                                                    "c":  "A subordinação política e econômica desses países aos Estados Unidos, hipótese oposta ao próprio conceito do grupo",
+                                                    "d":  "O declínio econômico simultâneo de todas as economias emergentes do mundo, o que os dados desse período contradizem",
                                                     "e":  "A assinatura de um tratado de livre-comércio entre os países membros, que eliminou tarifas alfandegárias entre suas economias"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "b",
                                "explicacao":  "A emergência dos BRICS está associada ao crescimento econômico expressivo de economias como China, Índia e Brasil nas últimas décadas, e à busca desses países por maior influência política e institucional em um cenário internacional historicamente dominado pelas potências tradicionais do pós-Segunda Guerra Mundial.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20610,13 +20610,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 2015, representantes de quase 200 países assinaram, em Paris, um acordo internacional sobre mudanças climáticas.",
                                "enunciado":  "O Acordo de Paris estabeleceu como principal meta:",
                                "alternativas":  {
-                                                    "a":  "A proibição total de qualquer forma de comércio internacional de energia, medida ausente do Acordo de Paris",
-                                                    "b":  "A eliminação imediata de qualquer uso de combustíveis fósseis em todos os países signatários, meta não estabelecida",
-                                                    "c":  "A criação de um governo mundial responsável exclusivamente por políticas ambientais, órgão nunca instituído",
-                                                    "d":  "Limitar o aumento da temperatura média global a bem abaixo de 2°C, por meio de metas nacionais de redução de emissões",
-                                                    "e":  "Estabelecer metas de redução obrigatórias e uniformes para todos os países, com sanções comerciais em caso de descumprimento"
+                                                    "a":  "A criação de um governo mundial responsável exclusivamente por políticas ambientais, órgão nunca instituído",
+                                                    "b":  "A proibição total de qualquer forma de comércio internacional de energia, medida ausente do Acordo de Paris",
+                                                    "c":  "Limitar o aumento da temperatura média global a bem abaixo de 2°C, por meio de metas nacionais de redução de emissões",
+                                                    "d":  "Estabelecer metas de redução obrigatórias e uniformes para todos os países, com sanções comerciais em caso de descumprimento",
+                                                    "e":  "A eliminação imediata de qualquer uso de combustíveis fósseis em todos os países signatários, meta não estabelecida"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "O Acordo de Paris estabeleceu como meta central limitar o aumento da temperatura média global a bem abaixo de 2°C em relação aos níveis pré-industriais, buscando, idealmente, restringi-lo a 1,5°C, por meio de metas nacionais voluntárias de redução de emissões de gases de efeito estufa definidas por cada país signatário.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20626,13 +20626,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1931, o Japão invadiu a região da Manchúria, no norte da China, criando um Estado fantoche e intensificando sua expansão militar na Ásia ao longo da década de 1930.",
                                "enunciado":  "Esse processo de expansão japonesa na Ásia, anterior ao início formal da Segunda Guerra Mundial na Europa, evidencia que:",
                                "alternativas":  {
-                                                    "a":  "O conflito mundial teve como estopim exclusivo os acontecimentos europeus de 1939, cronologia que ignora a Ásia",
-                                                    "b":  "O Japão manteve uma política de isolacionismo total durante toda a década de 1930, o que a invasão à Manchúria desmente",
-                                                    "c":  "Tensões e conflitos armados ligados ao expansionismo militar já se desenrolavam na Ásia antes de 1939",
-                                                    "d":  "Não houve qualquer relação entre a expansão japonesa na Ásia e o conflito mundial posterior, leitura historiográfica equivocada",
-                                                    "e":  "O expansionismo japonês só teve início após a invasão da Polônia, acompanhando a entrada da Alemanha no conflito europeu"
+                                                    "a":  "O expansionismo japonês só teve início após a invasão da Polônia, acompanhando a entrada da Alemanha no conflito europeu",
+                                                    "b":  "Tensões e conflitos armados ligados ao expansionismo militar já se desenrolavam na Ásia antes de 1939",
+                                                    "c":  "O Japão manteve uma política de isolacionismo total durante toda a década de 1930, o que a invasão à Manchúria desmente",
+                                                    "d":  "O conflito mundial teve como estopim exclusivo os acontecimentos europeus de 1939, cronologia que ignora a Ásia",
+                                                    "e":  "Não houve qualquer relação entre a expansão japonesa na Ásia e o conflito mundial posterior, leitura historiográfica equivocada"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "b",
                                "explicacao":  "A invasão japonesa à Manchúria em 1931 e a posterior Guerra Sino-Japonesa (a partir de 1937) mostram que conflitos ligados ao expansionismo militar já se desenrolavam na Ásia antes do início formal da guerra na Europa, em 1939, levando parte da historiografia a situar as raízes da Segunda Guerra Mundial também no contexto asiático.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20642,13 +20642,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1956, o Egito nacionalizou o Canal de Suez, até então controlado por interesses britânicos e franceses, provocando uma intervenção militar de Reino Unido, França e Israel.",
                                "enunciado":  "O desfecho da Crise de Suez, marcado pela pressão de Estados Unidos e União Soviética para a retirada das tropas invasoras, evidenciou:",
                                "alternativas":  {
-                                                    "a":  "A manutenção do Reino Unido e da França como as principais potências mundiais, acima dos Estados Unidos e da URSS",
-                                                    "b":  "O fortalecimento do domínio colonial europeu sobre o Egito, resultado oposto ao produzido pela crise",
-                                                    "c":  "A ausência completa de qualquer interesse das superpotências na região do Oriente Médio, o que os fatos contradizem",
-                                                    "d":  "O declínio da capacidade das antigas potências coloniais de agir unilateralmente, e a ascensão de EUA e URSS como árbitros",
-                                                    "e":  "A reafirmação do poder britânico e francês no Oriente Médio, que passaram a administrar diretamente a via marítima disputada"
+                                                    "a":  "O declínio da capacidade das antigas potências coloniais de agir unilateralmente, e a ascensão de EUA e URSS como árbitros",
+                                                    "b":  "A ausência completa de qualquer interesse das superpotências na região do Oriente Médio, o que os fatos contradizem",
+                                                    "c":  "O fortalecimento do domínio colonial europeu sobre o Egito, resultado oposto ao produzido pela crise",
+                                                    "d":  "A reafirmação do poder britânico e francês no Oriente Médio, que passaram a administrar diretamente a via marítima disputada",
+                                                    "e":  "A manutenção do Reino Unido e da França como as principais potências mundiais, acima dos Estados Unidos e da URSS"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "a",
                                "explicacao":  "A Crise de Suez evidenciou o declínio da capacidade de antigas potências coloniais, como Reino Unido e França, de agir unilateralmente no cenário internacional, ao mesmo tempo em que confirmou a ascensão de Estados Unidos e União Soviética como os principais árbitros das grandes questões globais no contexto da Guerra Fria.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20659,10 +20659,10 @@ window.QUESTION_BANKS = {
                                "enunciado":  "A crise congolesa do início dos anos 1960 é frequentemente citada como exemplo de como:",
                                "alternativas":  {
                                                     "a":  "Disputas internas por poder e interesses de potências estrangeiras na Guerra Fria desestabilizaram países recém-independentes",
-                                                    "b":  "Os processos de descolonização africana ocorreram sempre de forma pacífica e sem interferência externa",
+                                                    "b":  "Não houve qualquer interesse internacional pelos recursos minerais congoleses, o que a crise de Katanga desmente",
                                                     "c":  "A Bélgica manteve pleno controle administrativo sobre o Congo após 1960, o que a independência do país contradiz",
-                                                    "d":  "Não houve qualquer interesse internacional pelos recursos minerais congoleses, o que a crise de Katanga desmente",
-                                                    "e":  "Um processo de transição institucional conduzido pela antiga metrópole, que garantiu estabilidade política ao país recém-independente"
+                                                    "d":  "Um processo de transição institucional conduzido pela antiga metrópole, que garantiu estabilidade política ao país recém-independente",
+                                                    "e":  "Os processos de descolonização africana ocorreram sempre de forma pacífica e sem interferência externa"
                                                 },
                                "resposta":  "a",
                                "explicacao":  "A crise congolesa mostra como disputas internas por poder, somadas ao interesse de potências estrangeiras pelos recursos minerais do país e às disputas geopolíticas da Guerra Fria, contribuíram para desestabilizar gravemente o Congo logo após sua independência, incluindo o assassinato do primeiro-ministro Patrice Lumumba.",
@@ -20674,13 +20674,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após a independência de Angola em relação a Portugal, em 1975, o país mergulhou em uma longa guerra civil entre diferentes movimentos que haviam lutado pela independência.",
                                "enunciado":  "Esse conflito, que se estendeu por quase três décadas, é um exemplo de como:",
                                "alternativas":  {
-                                                    "a":  "Os movimentos de libertação nacional africanos sempre mantiveram unidade política após a independência",
-                                                    "b":  "Angola não recebeu qualquer forma de apoio militar estrangeiro após sua independência, o que os fatos contradizem",
-                                                    "c":  "Disputas internas entre antigos movimentos de libertação e apoio externo de potências rivais prolongaram o conflito",
+                                                    "a":  "Disputas internas entre antigos movimentos de libertação e apoio externo de potências rivais prolongaram o conflito",
+                                                    "b":  "Os movimentos de libertação nacional africanos sempre mantiveram unidade política após a independência",
+                                                    "c":  "Um conflito de fronteira entre dois Estados vizinhos, encerrado por arbitragem internacional poucos anos após seu início",
                                                     "d":  "A guerra civil angolana foi resolvida imediatamente após a independência, sem maiores consequências duradouras",
-                                                    "e":  "Um conflito de fronteira entre dois Estados vizinhos, encerrado por arbitragem internacional poucos anos após seu início"
+                                                    "e":  "Angola não recebeu qualquer forma de apoio militar estrangeiro após sua independência, o que os fatos contradizem"
                                                 },
-                               "resposta":  "c",
+                               "resposta":  "a",
                                "explicacao":  "A guerra civil angolana exemplifica como disputas internas de poder entre antigos movimentos de libertação, combinadas ao apoio externo de potências rivais da Guerra Fria a diferentes facções, prolongaram conflitos armados em países africanos recém-independentes, tornando processos de descolonização em longas guerras civis.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20690,13 +20690,13 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em abril de 1974, um movimento militar pôs fim, de forma praticamente incruenta, à ditadura do Estado Novo português, vigente desde a década de 1930.",
                                "enunciado":  "A Revolução dos Cravos teve como um de seus principais desdobramentos:",
                                "alternativas":  {
-                                                    "a":  "O fortalecimento da política colonial portuguesa na África, direção oposta à seguida após a revolução",
-                                                    "b":  "A manutenção indefinida do regime autoritário português, encerrado justamente pelo movimento de abril de 1974",
-                                                    "c":  "A anexação de Portugal à Espanha, cenário nunca cogitado pelos revolucionários de 1974",
-                                                    "d":  "A redemocratização de Portugal e a independência de suas colônias africanas, como Angola e Moçambique",
-                                                    "e":  "A manutenção do regime autoritário português por mais duas décadas, com as colônias africanas permanecendo sob administração"
+                                                    "a":  "A anexação de Portugal à Espanha, cenário nunca cogitado pelos revolucionários de 1974",
+                                                    "b":  "O fortalecimento da política colonial portuguesa na África, direção oposta à seguida após a revolução",
+                                                    "c":  "A redemocratização de Portugal e a independência de suas colônias africanas, como Angola e Moçambique",
+                                                    "d":  "A manutenção do regime autoritário português por mais duas décadas, com as colônias africanas permanecendo sob administração",
+                                                    "e":  "A manutenção indefinida do regime autoritário português, encerrado justamente pelo movimento de abril de 1974"
                                                 },
-                               "resposta":  "d",
+                               "resposta":  "c",
                                "explicacao":  "A Revolução dos Cravos encerrou o longo regime autoritário português e abriu caminho tanto para a redemocratização do país quanto para a aceleração do processo de independência de suas colônias africanas, como Angola, Moçambique e Guiné-Bissau, encerrando o ciclo colonial português.",
                                "dificuldade":  "media",
                                "formato":  "direta"
@@ -20739,12 +20739,12 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Esse organismo, conhecido pela sigla COMECON, tinha como principal objetivo:",
                                "alternativas":  {
                                                     "a":  "Eliminar qualquer forma de planejamento econômico centralizado entre seus membros, contrário ao próprio modelo soviético",
-                                                    "b":  "Substituir a Organização das Nações Unidas nas relações entre os países socialistas, papel que a ONU manteve",
-                                                    "c":  "Promover a integração dos países socialistas ao mercado capitalista ocidental, objetivo oposto ao da criação do COMECON",
-                                                    "d":  "Organizar a aliança militar dos países socialistas do Leste Europeu em resposta à criação da OTAN",
-                                                    "e":  "Coordenar a cooperação econômica entre os países do bloco socialista, contraponto ao Plano Marshall ocidental"
+                                                    "b":  "Coordenar a cooperação econômica entre os países do bloco socialista, contraponto ao Plano Marshall ocidental",
+                                                    "c":  "Organizar a aliança militar dos países socialistas do Leste Europeu em resposta à criação da OTAN",
+                                                    "d":  "Substituir a Organização das Nações Unidas nas relações entre os países socialistas, papel que a ONU manteve",
+                                                    "e":  "Promover a integração dos países socialistas ao mercado capitalista ocidental, objetivo oposto ao da criação do COMECON"
                                                 },
-                               "resposta":  "e",
+                               "resposta":  "b",
                                "explicacao":  "O COMECON foi criado para coordenar a cooperação econômica entre os países do bloco socialista do Leste Europeu, funcionando como uma espécie de contraponto ao Plano Marshall e aos mecanismos de integração econômica promovidos no bloco ocidental durante a Guerra Fria.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
@@ -20754,16 +20754,91 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Após a devastação da Segunda Guerra Mundial, o Japão viveu, entre as décadas de 1950 e 1980, um período de rápido crescimento econômico que o transformou em uma das maiores potências industriais do mundo.",
                                "enunciado":  "Esse processo, conhecido como milagre econômico japonês, esteve associado a fatores como:",
                                "alternativas":  {
-                                                    "a":  "O isolamento comercial do Japão em relação ao restante do mundo durante todo o período, o que a exportação japonesa desmente",
-                                                    "b":  "A manutenção de uma economia predominantemente agrícola e de subsistência, contrária à industrialização japonesa",
+                                                    "a":  "A manutenção de uma economia predominantemente agrícola e de subsistência, contrária à industrialização japonesa",
+                                                    "b":  "A exploração de reservas minerais e energéticas próprias, que garantiram autonomia à indústria japonesa no pós-guerra",
                                                     "c":  "Investimentos em educação e tecnologia, reformas apoiadas pelos EUA no pós-guerra e forte orientação exportadora",
                                                     "d":  "A ausência completa de qualquer relação econômica entre Japão e Estados Unidos após 1945, o que a ocupação contradiz",
-                                                    "e":  "A exploração de reservas minerais e energéticas próprias, que garantiram autonomia à indústria japonesa no pós-guerra"
+                                                    "e":  "O isolamento comercial do Japão em relação ao restante do mundo durante todo o período, o que a exportação japonesa desmente"
                                                 },
                                "resposta":  "c",
                                "explicacao":  "O milagre econômico japonês esteve associado a fortes investimentos em educação e tecnologia, a reformas econômicas conduzidas ainda durante a ocupação americana no pós-guerra, e a uma estratégia de industrialização voltada à exportação, fatores que transformaram o Japão em uma das maiores potências industriais do mundo em poucas décadas.",
                                "dificuldade":  "media",
                                "formato":  "direta"
+                           },
+                           {
+                               "id":  "historia-geral-101",
+                               "texto_apoio":  "A Revolução Francesa deixou marcas duráveis na política contemporânea, das bandeiras tricolores aos códigos civis, passando pela classificação entre direita e esquerda.",
+                               "enunciado":  "Sobre a Revolução Francesa e seus legados, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A Declaração dos Direitos do Homem e do Cidadão firmou a noção de direitos universais, ainda que sua aplicação excluísse mulheres e populações coloniais.\n( ) A divisão entre direita e esquerda origina-se da disposição dos deputados no espaço da assembleia revolucionária.\n( ) O processo revolucionário consolidou de imediato um regime democrático estável, sem episódios de violência política.\nA sequência correta, na ordem apresentada, é",
+                               "alternativas":  {
+                                                    "a":  "V - V - F",
+                                                    "b":  "F - V - V",
+                                                    "c":  "V - V - V",
+                                                    "d":  "V - F - V",
+                                                    "e":  "F - F - F"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A universalidade declarada convivendo com exclusões concretas e a origem espacial dos rótulos políticos estão corretas. A terceira é falsa: o período incluiu o Terror, guerras e sucessivas mudanças de regime até o golpe napoleônico — estabilidade imediata é o oposto do que ocorreu.",
+                               "formato":  "vf"
+                           },
+                           {
+                               "id":  "historia-geral-102",
+                               "texto_apoio":  "A Primeira Guerra Mundial foi precedida por um sistema de alianças, por corrida armamentista e por disputas imperialistas entre as potências europeias.",
+                               "enunciado":  "Sobre as causas do conflito, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O sistema de alianças, pensado para dissuadir agressões, acabou por transformar um conflito local em guerra continental.\n( ) O desenvolvimento industrial forneceu armamento de poder destrutivo sem precedente, incluindo o emprego da aviação.\n( ) O assassinato do arquiduque austríaco foi a causa profunda do conflito, e não seu estopim.\nA sequência correta, na ordem apresentada, é",
+                               "alternativas":  {
+                                                    "a":  "V - V - V",
+                                                    "b":  "V - F - V",
+                                                    "c":  "F - V - F",
+                                                    "d":  "V - V - F",
+                                                    "e":  "F - V - V"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "As alianças de fato converteram um incidente regional em guerra geral, e a indústria forneceu o armamento novo. A terceira confunde estopim com causa profunda: o atentado deflagrou um conflito cujas raízes — imperialismo, rearmamento, rivalidades — vinham de décadas.",
+                               "formato":  "vf"
+                           },
+                           {
+                               "id":  "historia-geral-103",
+                               "texto_apoio":  "Após a Segunda Guerra Mundial, os Estados Unidos formularam programas de cooperação técnica e econômica dirigidos a regiões consideradas subdesenvolvidas, articulando ajuda e influência política.",
+                               "enunciado":  "Sobre a política externa norte-americana nesse contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A instabilidade política era interpretada como consequência de problemas econômicos, o que justificava a ajuda como instrumento de contenção.\n( ) Programas de transferência de conhecimento técnico funcionavam também como meio de ampliar a influência norte-americana, sem recurso direto à força.\n( ) A atuação do período caracterizou-se pela neutralidade em relação aos assuntos internos dos países da área de influência.\nA sequência correta, na ordem apresentada, é",
+                               "alternativas":  {
+                                                    "a":  "V - V - V",
+                                                    "b":  "V - F - V",
+                                                    "c":  "F - V - V",
+                                                    "d":  "V - V - F",
+                                                    "e":  "F - F - V"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Tratar o problema econômico como raiz da instabilidade e usar cooperação técnica como soft power descrevem bem a doutrina do período. A terceira é falsa: a intervenção em assuntos internos foi recorrente, e a própria ajuda era condicionada ao alinhamento.",
+                               "formato":  "vf"
+                           },
+                           {
+                               "id":  "historia-geral-104",
+                               "texto_apoio":  "A descolonização da África portuguesa ocorreu tardiamente em relação ao restante do continente, e as guerras de independência articularam-se ao contexto da Guerra Fria.",
+                               "enunciado":  "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O regime salazarista apresentava os movimentos de libertação como expansão do comunismo, o que lhe rendeu tolerância de aliados ocidentais.\n( ) As independências das colônias portuguesas na África concretizaram-se em meados da década de 1970.\n( ) Portugal concedeu autonomia progressiva e negociada às colônias desde o início dos anos 1950, evitando conflito armado.\nA sequência correta, na ordem apresentada, é",
+                               "alternativas":  {
+                                                    "a":  "F - V - V",
+                                                    "b":  "F - F - F",
+                                                    "c":  "V - V - V",
+                                                    "d":  "V - F - V",
+                                                    "e":  "V - V - F"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Enquadrar o nacionalismo africano como comunismo garantiu a Portugal apoio ocidental, e as independências vieram em 1974-1975, após a Revolução dos Cravos. A terceira inverte a política colonial portuguesa, que foi de manutenção pela força e resultou em guerras prolongadas.",
+                               "formato":  "vf"
+                           },
+                           {
+                               "id":  "historia-geral-105",
+                               "texto_apoio":  "A colonização espanhola da América envolveu campanhas de evangelização, destruição de templos e confisco de registros pictóricos e orais das populações originárias.",
+                               "enunciado":  "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) As práticas religiosas indígenas passaram a ser interpretadas segundo categorias cristãs, sendo classificadas como idolatria e erro.\n( ) A destruição de suportes de memória comprometeu a transmissão de saberes que não dependiam da escrita alfabética.\n( ) O encontro produziu troca cultural simétrica, com espanhóis e indígenas reinterpretando mutuamente suas práticas em condições equivalentes.\nA sequência correta, na ordem apresentada, é",
+                               "alternativas":  {
+                                                    "a":  "V - F - V",
+                                                    "b":  "V - V - V",
+                                                    "c":  "V - V - F",
+                                                    "d":  "F - V - V",
+                                                    "e":  "F - V - F"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Ler as práticas indígenas pela grade cristã e destruir os suportes de memória descrevem a ocidentalização do imaginário. A terceira é a armadilha: houve de fato mestiçagem cultural, mas não em condições equivalentes — falar em simetria apaga a violência e a assimetria de poder que organizaram o processo.",
+                               "formato":  "vf"
                            }
                        ],
     "ingles":  [

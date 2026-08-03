@@ -1,4 +1,29 @@
-﻿# Acrescenta uma 5a alternativa (A-E) às questões de afirmativas numeradas
+﻿# ======================================================================
+# APOSENTADO — NAO USE. Renomeado para .retired em 2026-08.
+#
+# Este script gerava a quinta alternativa das questoes de escada de
+# asercoes (I/II/III) automaticamente, e foi ele que produziu o defeito
+# que agora precisa ser desfeito a mao:
+#
+#   - o bloco de rotacao punha a resposta em (contador % 5) e preenchia
+#     as demais opcoes em ordem arbitraria, gerando 85 ordenacoes
+#     distintas do mesmo jogo de alternativas;
+#   - emitia opcoes como "III, apenas" e "II, apenas", que a FGV nunca
+#     oferece: no jogo real a asercao I aparece em quatro das cinco
+#     opcoes, e e isso que permite ao candidato decidir a questao
+#     julgando so a I.
+#
+# Sobraram 57 dessas alternativas em geografia e atualidades-geopolitica,
+# medidas por verify-banco.ps1.
+#
+# O caminho aprovado e add-fifth.ps1 -Patch, com a quinta alternativa
+# escrita a mao no lote — foi assim que sairam as 365 conversoes boas.
+# Consertar um gerador cuja saida precisa de revisao humana de qualquer
+# forma nao compra nada.
+#
+# Mantido no repositorio apenas como registro do defeito.
+# ======================================================================
+# Acrescenta uma 5a alternativa (A-E) às questões de afirmativas numeradas
 # I/II/III, nos bancos em que o estudo das bancas pede 5 alternativas.
 #
 # Por que só nessas: com 3 afirmativas existem exatamente 7 combinações

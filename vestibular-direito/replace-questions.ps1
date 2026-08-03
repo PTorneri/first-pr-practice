@@ -45,7 +45,12 @@ foreach ($q in $aAdicionar) {
   }
   if ($idsExistentes -contains $q.id) { throw "Id já existe no banco: $($q.id)" }
   $letras = @($q.alternativas.PSObject.Properties.Name)
-  if ($letras.Count -ne 4) { throw "$($q.id): esperadas 4 alternativas, achei $($letras.Count)." }
+  # Aceita 4 ou 5: as duas bancas usam cinco alternativas e o banco está em
+  # migração, então questões novas já entram com cinco. Travar em 4 impediria
+  # justamente as substituições que se quer fazer daqui pra frente.
+  if ($letras.Count -lt 4 -or $letras.Count -gt 5) { throw "$($q.id): esperadas 4 ou 5 alternativas, achei $($letras.Count)." }
+  $esperadas = @("a", "b", "c", "d", "e")[0..($letras.Count - 1)]
+  if (($letras -join ",") -ne ($esperadas -join ",")) { throw "$($q.id): chaves '$($letras -join ",")', esperava '$($esperadas -join ",")'." }
   if ($letras -notcontains $q.resposta) { throw "$($q.id): resposta '$($q.resposta)' não está entre as alternativas." }
   foreach ($l in $letras) {
     if ([string]::IsNullOrWhiteSpace($q.alternativas.$l)) { throw "$($q.id): alternativa '$l' vazia." }

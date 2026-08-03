@@ -34,7 +34,7 @@ window.FLASHCARDS = {
                           {
                               "id":  "flash-artes-cultura-07",
                               "frente":  "Quem foram os principais nomes por trás da organização da Semana de Arte Moderna de 1922?",
-                              "verso":  "Mário de Andrade, Oswald de Andrade, Tarsila do Amaral e Anita Malfatti estiveram entre os principais articuladores e participantes do evento."
+                              "verso":  "Mário de Andrade, Oswald de Andrade, Menotti del Picchia, Graça Aranha, Di Cavalcanti, Anita Malfatti e Villa-Lobos. Tarsila do Amaral, embora central no modernismo, estava em Paris e não participou da Semana."
                           },
                           {
                               "id":  "flash-artes-cultura-08",
@@ -3856,8 +3856,8 @@ window.FLASHCARDS = {
                       },
                       {
                           "id":  "flash-gramatica-44",
-                          "frente":  "Qual é a regência do adjetivo \"apto\" (e \"hábil\")?",
-                          "verso":  "Exige a preposição \"para\": \"apto para o cargo\"."
+                          "frente":  "Qual é a regência dos adjetivos \"apto\" e \"hábil\"?",
+                          "verso":  "\"Apto\" admite \"a\" ou \"para\" (\"apto a/para o cargo\"); \"hábil\" rege \"em\" (\"hábil em negociações\")."
                       },
                       {
                           "id":  "flash-gramatica-45",
@@ -3967,7 +3967,7 @@ window.FLASHCARDS = {
                       {
                           "id":  "flash-gramatica-66",
                           "frente":  "O que é cacófato?",
-                          "verso":  "É o som desagradável ou de duplo sentido indesejado formado pela junção de duas palavras, como em \"por cima\", que pode soar de forma inconveniente."
+                          "verso":  "É o som desagradável ou de duplo sentido indesejado formado pela junção de duas palavras, como em \"por cada um\" (que soa \"porcada\") ou \"vez passada\" (que soa \"vespa sada\")."
                       },
                       {
                           "id":  "flash-gramatica-67",
@@ -4184,7 +4184,7 @@ window.FLASHCARDS = {
                             {
                                 "id":  "flash-historia-brasil-31",
                                 "frente":  "O que estabeleceu a Lei dos Sexagenários (1885)?",
-                                "verso":  "Declarou livres os escravizados com mais de 65 anos, medida de impacto limitado dada a baixa expectativa de vida da população escravizada da época."
+                                "verso":  "Declarou livres os escravizados com mais de 60 anos, ainda assim exigindo três anos de trabalho como indenização ao senhor; medida de impacto limitado dada a baixa expectativa de vida da população escravizada da época."
                             },
                             {
                                 "id":  "flash-historia-brasil-32",
@@ -4903,7 +4903,7 @@ window.FLASHCARDS = {
                    {
                        "id":  "flash-ingles-10",
                        "frente":  "\"The negotiations will resume next week.\" — O que significa o verbo \"resume\"?",
-                       "verso":  "Retomar, recomeçar. É diferente de \"currículo\" (résumé, com acento, no inglês americano) — sem o acento, \"resume\" é sempre o verbo retomar."
+                       "verso":  "Retomar, recomeçar. O substantivo que significa currículo é grafado \"résumé\" ou, sem acento, \"resume\" — mesma escrita do verbo, mas com pronúncia diferente; só o contexto distingue os dois."
                    },
                    {
                        "id":  "flash-ingles-11",

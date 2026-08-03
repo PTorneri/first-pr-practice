@@ -203,7 +203,7 @@
                          "alternativas":  {
                                               "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria décadas depois com Caetano Veloso, hipótese anacrônica dado o contexto modernista de 1928",
                                               "b":  "o debate sobre como ícones visuais brasileiros continuam sendo reapropriados e ressignificados por diferentes gerações de artistas, em um processo contínuo de reinvenção da identidade nacional",
-                                              "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e integrante da Semana de 22",
+                                              "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e uma das principais pintoras do modernismo",
                                               "d":  "o fato de \"Abaporu\" retratar uma figura humana, o que a relacionaria a qualquer obra contemporânea que também tenha uma figura humana isolada como tema central da composição"
                                           },
                          "resposta":  "b",
@@ -407,15 +407,15 @@
                      {
                          "id":  "artes-cultura-32",
                          "texto_apoio":  "Estilistas e coletivos brasileiros têm incorporado, nas últimas décadas, referências afro-brasileiras e indígenas em suas coleções, associando moda e afirmação identitária.",
-                         "enunciado":  "À luz de conceitos como o de interseccionalidade, desenvolvido por autoras como Sueli Carneiro, esse tipo de produção na moda contemporânea brasileira pode ser interpretado, sobretudo, como uma forma de",
+                         "enunciado":  "À luz do conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por autoras como Sueli Carneiro, esse tipo de produção na moda contemporânea brasileira pode ser interpretado, sobretudo, como uma forma de",
                          "alternativas":  {
                                               "a":  "utilizar o vestuário como instrumento de valorização cultural e afirmação de identidades marcadas simultaneamente por raça, gênero e classe, historicamente marginalizadas na moda hegemônica",
                                               "b":  "usar estampas ou cores associadas a culturas africanas ou indígenas, o que já bastaria para caracterizar uma coleção como afirmação identitária, sem análise do contexto de produção envolvido",
-                                              "c":  "antecipar, por parte desses estilistas, um debate sobre interseccionalidade que só seria formulado por pesquisadoras como Sueli Carneiro décadas mais tarde, hipótese anacrônica e improvável.",
+                                              "c":  "antecipar, por parte desses estilistas, um debate sobre interseccionalidade que só ganharia formulação teórica décadas mais tarde, com Kimberlé Crenshaw e, no Brasil, com Sueli Carneiro, hipótese anacrônica e improvável.",
                                               "d":  "esse tipo de produção de moda associada à afirmação identitária afro-brasileira é atribuído por estudiosos exclusivamente a estilistas europeus que reinterpretam o Brasil de fora"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O conceito de interseccionalidade, associado a Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros."
+                         "explicacao":  "O conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros."
                      },
                      {
                          "id":  "artes-cultura-33",
@@ -602,7 +602,7 @@
                          "alternativas":  {
                                               "a":  "a crítica a discursos que ainda hoje atribuem desigualdades sociais e raciais a características biológicas de grupos marginalizados, em vez de reconhecê-las como produto de exclusão histórica",
                                               "b":  "a presença de um cortiço como cenário, o que já bastaria para relacionar a obra a qualquer debate contemporâneo sobre moradia popular, sem relação com a crítica à explicação determinista dos personagens",
-                                              "c":  "a antecipação, por Aluísio Azevedo, do conceito de interseccionalidade que seria formulado por autoras como Sueli Carneiro um século depois, hipótese anacrônica para o romance naturalista do século XIX",
+                                              "c":  "a antecipação, por Aluísio Azevedo, do conceito de interseccionalidade, que só seria formulado no século XX, por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica para o romance naturalista do século XIX",
                                               "d":  "essa representação de personagens condicionados por determinismos biológicos é um traço definidor do Romantismo indianista de José de Alencar, e não do Naturalismo de Aluísio Azevedo, de proposta estética distinta"
                                           },
                          "resposta":  "a",
@@ -784,7 +784,7 @@
                          "alternativas":  {
                                               "a":  "essa denúncia do racismo estrutural e da violência policial nas periferias é um traço definidor do funk carioca, e não do rap dos Racionais MC\u0027s, grupo paulistano de outra vertente musical",
                                               "b":  "a presença de referências ao bairro de origem dos integrantes do grupo em suas letras, o que já bastaria para relacionar a obra a esse debate, sem relação com a denúncia específica do racismo estrutural",
-                                              "c":  "a antecipação, pelos Racionais MC\u0027s, do conceito de interseccionalidade que seria sistematizado décadas depois por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável.",
+                                              "c":  "a antecipação, pelos Racionais MC\u0027s, do conceito de interseccionalidade, que seria sistematizado décadas depois por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável.",
                                               "d":  "o debate sobre como a violência policial e o racismo estrutural atingem de forma combinada e desproporcional a população negra periférica, tema que segue central em discussões contemporâneas sobre segurança pública e direitos humanos"
                                           },
                          "resposta":  "d",
@@ -1148,7 +1148,7 @@
                          "alternativas":  {
                                               "a":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época",
                                               "b":  "o debate sobre como estilos arquitetônicos comunicam valores de uma época — o Art Déco expressando otimismo industrial dos anos 1920, tal como estilos atuais buscam expressar sustentabilidade ou inovação.",
-                                              "c":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época histórica em questão.",
+                                              "c":  "a previsão, pelos arquitetos do Art Déco dos anos 1920, das linguagens arquitetônicas voltadas à sustentabilidade que se consolidariam quase um século depois, hipótese anacrônica para o contexto da época.",
                                               "d":  "essa associação com os valores de modernidade e progresso industrial é um traço definidor do Art Nouveau, e não do Art Déco, de estética geométrica e angulosa bastante distinta e oposta."
                                           },
                          "resposta":  "b",
@@ -1191,7 +1191,7 @@
                                               "a":  "o debate sobre como manifestações culturais afro-brasileiras, antes marginalizadas, tornaram-se símbolos centrais da identidade nacional, sem eliminar o racismo estrutural enfrentado por suas comunidades de origem.",
                                               "b":  "a existência de instrumentos de percussão em uma manifestação cultural, o que já bastaria para relacioná-la à origem histórica do samba na \"Pequena África\", independentemente da comunidade e do contexto social envolvidos",
                                               "c":  "essa origem em comunidades afrodescendentes migrantes da Bahia é um traço atribuído tradicionalmente à capoeira, e não ao samba carioca, manifestação de trajetória histórica distinta.",
-                                              "d":  "a antecipação, pelas comunidades da \"Pequena África\", do conceito de interseccionalidade que seria formulado por autoras como Sueli Carneiro décadas depois, hipótese anacrônica e pouco provável."
+                                              "d":  "a antecipação, pelas comunidades da \"Pequena África\", do conceito de interseccionalidade, que seria formulado décadas depois por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O samba nasceu marginalizado e tornou-se símbolo nacional sem que isso resolvesse o racismo estrutural enfrentado por suas comunidades de origem — leitura próxima da análise de Sueli Carneiro sobre matrizes negras subalternizadas — distinto de uma associação genérica por percussão, de uma inversão cronológica do conceito, ou da confusão com a capoeira.",

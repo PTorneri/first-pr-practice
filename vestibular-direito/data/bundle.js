@@ -203,7 +203,7 @@ window.QUESTION_BANKS = {
                               "alternativas":  {
                                                    "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria décadas depois com Caetano Veloso, hipótese anacrônica dado o contexto modernista de 1928",
                                                    "b":  "o debate sobre como ícones visuais brasileiros continuam sendo reapropriados e ressignificados por diferentes gerações de artistas, em um processo contínuo de reinvenção da identidade nacional",
-                                                   "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e integrante da Semana de 22",
+                                                   "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e uma das principais pintoras do modernismo",
                                                    "d":  "o fato de \"Abaporu\" retratar uma figura humana, o que a relacionaria a qualquer obra contemporânea que também tenha uma figura humana isolada como tema central da composição"
                                                },
                               "resposta":  "b",
@@ -407,15 +407,15 @@ window.QUESTION_BANKS = {
                           {
                               "id":  "artes-cultura-32",
                               "texto_apoio":  "Estilistas e coletivos brasileiros têm incorporado, nas últimas décadas, referências afro-brasileiras e indígenas em suas coleções, associando moda e afirmação identitária.",
-                              "enunciado":  "À luz de conceitos como o de interseccionalidade, desenvolvido por autoras como Sueli Carneiro, esse tipo de produção na moda contemporânea brasileira pode ser interpretado, sobretudo, como uma forma de",
+                              "enunciado":  "À luz do conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por autoras como Sueli Carneiro, esse tipo de produção na moda contemporânea brasileira pode ser interpretado, sobretudo, como uma forma de",
                               "alternativas":  {
                                                    "a":  "utilizar o vestuário como instrumento de valorização cultural e afirmação de identidades marcadas simultaneamente por raça, gênero e classe, historicamente marginalizadas na moda hegemônica",
                                                    "b":  "usar estampas ou cores associadas a culturas africanas ou indígenas, o que já bastaria para caracterizar uma coleção como afirmação identitária, sem análise do contexto de produção envolvido",
-                                                   "c":  "antecipar, por parte desses estilistas, um debate sobre interseccionalidade que só seria formulado por pesquisadoras como Sueli Carneiro décadas mais tarde, hipótese anacrônica e improvável.",
+                                                   "c":  "antecipar, por parte desses estilistas, um debate sobre interseccionalidade que só ganharia formulação teórica décadas mais tarde, com Kimberlé Crenshaw e, no Brasil, com Sueli Carneiro, hipótese anacrônica e improvável.",
                                                    "d":  "esse tipo de produção de moda associada à afirmação identitária afro-brasileira é atribuído por estudiosos exclusivamente a estilistas europeus que reinterpretam o Brasil de fora"
                                                },
                               "resposta":  "a",
-                              "explicacao":  "O conceito de interseccionalidade, associado a Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros."
+                              "explicacao":  "O conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros."
                           },
                           {
                               "id":  "artes-cultura-33",
@@ -602,7 +602,7 @@ window.QUESTION_BANKS = {
                               "alternativas":  {
                                                    "a":  "a crítica a discursos que ainda hoje atribuem desigualdades sociais e raciais a características biológicas de grupos marginalizados, em vez de reconhecê-las como produto de exclusão histórica",
                                                    "b":  "a presença de um cortiço como cenário, o que já bastaria para relacionar a obra a qualquer debate contemporâneo sobre moradia popular, sem relação com a crítica à explicação determinista dos personagens",
-                                                   "c":  "a antecipação, por Aluísio Azevedo, do conceito de interseccionalidade que seria formulado por autoras como Sueli Carneiro um século depois, hipótese anacrônica para o romance naturalista do século XIX",
+                                                   "c":  "a antecipação, por Aluísio Azevedo, do conceito de interseccionalidade, que só seria formulado no século XX, por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica para o romance naturalista do século XIX",
                                                    "d":  "essa representação de personagens condicionados por determinismos biológicos é um traço definidor do Romantismo indianista de José de Alencar, e não do Naturalismo de Aluísio Azevedo, de proposta estética distinta"
                                                },
                               "resposta":  "a",
@@ -784,7 +784,7 @@ window.QUESTION_BANKS = {
                               "alternativas":  {
                                                    "a":  "essa denúncia do racismo estrutural e da violência policial nas periferias é um traço definidor do funk carioca, e não do rap dos Racionais MC\u0027s, grupo paulistano de outra vertente musical",
                                                    "b":  "a presença de referências ao bairro de origem dos integrantes do grupo em suas letras, o que já bastaria para relacionar a obra a esse debate, sem relação com a denúncia específica do racismo estrutural",
-                                                   "c":  "a antecipação, pelos Racionais MC\u0027s, do conceito de interseccionalidade que seria sistematizado décadas depois por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável.",
+                                                   "c":  "a antecipação, pelos Racionais MC\u0027s, do conceito de interseccionalidade, que seria sistematizado décadas depois por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável.",
                                                    "d":  "o debate sobre como a violência policial e o racismo estrutural atingem de forma combinada e desproporcional a população negra periférica, tema que segue central em discussões contemporâneas sobre segurança pública e direitos humanos"
                                                },
                               "resposta":  "d",
@@ -1148,7 +1148,7 @@ window.QUESTION_BANKS = {
                               "alternativas":  {
                                                    "a":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época",
                                                    "b":  "o debate sobre como estilos arquitetônicos comunicam valores de uma época — o Art Déco expressando otimismo industrial dos anos 1920, tal como estilos atuais buscam expressar sustentabilidade ou inovação.",
-                                                   "c":  "a presença de linhas retas em uma fachada, o que já bastaria para relacioná-la ao Art Déco, independentemente de haver ou não associação com os valores de modernidade industrial da época histórica em questão.",
+                                                   "c":  "a previsão, pelos arquitetos do Art Déco dos anos 1920, das linguagens arquitetônicas voltadas à sustentabilidade que se consolidariam quase um século depois, hipótese anacrônica para o contexto da época.",
                                                    "d":  "essa associação com os valores de modernidade e progresso industrial é um traço definidor do Art Nouveau, e não do Art Déco, de estética geométrica e angulosa bastante distinta e oposta."
                                                },
                               "resposta":  "b",
@@ -1191,7 +1191,7 @@ window.QUESTION_BANKS = {
                                                    "a":  "o debate sobre como manifestações culturais afro-brasileiras, antes marginalizadas, tornaram-se símbolos centrais da identidade nacional, sem eliminar o racismo estrutural enfrentado por suas comunidades de origem.",
                                                    "b":  "a existência de instrumentos de percussão em uma manifestação cultural, o que já bastaria para relacioná-la à origem histórica do samba na \"Pequena África\", independentemente da comunidade e do contexto social envolvidos",
                                                    "c":  "essa origem em comunidades afrodescendentes migrantes da Bahia é um traço atribuído tradicionalmente à capoeira, e não ao samba carioca, manifestação de trajetória histórica distinta.",
-                                                   "d":  "a antecipação, pelas comunidades da \"Pequena África\", do conceito de interseccionalidade que seria formulado por autoras como Sueli Carneiro décadas depois, hipótese anacrônica e pouco provável."
+                                                   "d":  "a antecipação, pelas comunidades da \"Pequena África\", do conceito de interseccionalidade, que seria formulado décadas depois por Kimberlé Crenshaw e, no Brasil, por autoras como Sueli Carneiro, hipótese anacrônica e pouco provável."
                                                },
                               "resposta":  "a",
                               "explicacao":  "O samba nasceu marginalizado e tornou-se símbolo nacional sem que isso resolvesse o racismo estrutural enfrentado por suas comunidades de origem — leitura próxima da análise de Sueli Carneiro sobre matrizes negras subalternizadas — distinto de uma associação genérica por percussão, de uma inversão cronológica do conceito, ou da confusão com a capoeira.",
@@ -9218,10 +9218,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
                                  "enunciado":  "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS, segundo dados do Ministério do Trabalho",
+                                                      "a":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS",
                                                       "b":  "Isenção fiscal concedida apenas a microempresas de pequeno porte, tese rejeitada pela doutrina majoritária",
                                                       "c":  "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho, como previsto na Lei 8.213/1991",
-                                                      "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990, tese rejeitada pelo CNJ, em qualquer hipótese"
+                                                      "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990, sem alcançar empresas privadas"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "A Lei de Cotas obriga empresas privadas com 100 ou mais empregados a reservar de 2% a 5% das vagas a pessoas com deficiência ou reabilitadas, constituindo ação afirmativa voltada à inclusão no mercado de trabalho formal."
@@ -9232,8 +9232,8 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa ampliação passou a reconhecer como refugiadas também pessoas que fogem de seus países devido a:",
                                  "alternativas":  {
                                                       "a":  "Simples busca por melhores salários no exterior, motivação classificada como migração econômica",
-                                                      "b":  "Desejo de reunificação familiar com parentes já emigrados para outro país, tese rejeitada pelo CNJ",
-                                                      "c":  "Necessidade de completar estudos universitários no exterior, sem qualquer perseguição, tese incompatível com a CDPD",
+                                                      "b":  "Desejo de reunificação familiar com parentes já emigrados para outro país",
+                                                      "c":  "Necessidade de completar estudos universitários no exterior, sem qualquer perseguição",
                                                       "d":  "Grave e generalizada violação de direitos humanos, e não apenas perseguição individualizada"
                                                   },
                                  "resposta":  "d",
@@ -9244,9 +9244,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
                                  "enunciado":  "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
                                  "alternativas":  {
-                                                      "a":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra, tese rejeitada pelo CNJ",
+                                                      "a":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra",
                                                       "b":  "As partes em conflito devem distinguir combatentes de civis, dirigindo ataques apenas contra objetivos militares",
-                                                      "c":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor, tese incompatível com a CDPD",
+                                                      "c":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor",
                                                       "d":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total declarada, segundo o art. 225 da Constituição"
                                                   },
                                  "resposta":  "b",
@@ -9285,7 +9285,7 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Um tema de competência exclusiva dos municípios, conforme o pacto federativo brasileiro",
                                                       "b":  "Um bem de propriedade exclusiva da União, sem qualquer responsabilidade dos cidadãos",
-                                                      "c":  "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações, tese rejeitada pelo CNJ",
+                                                      "c":  "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações",
                                                       "d":  "Um bem de uso comum do povo, cuja defesa é dever tanto do poder público quanto da coletividade"
                                                   },
                                  "resposta":  "d",
@@ -9296,9 +9296,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2003, o STF julgou o caso conhecido como \u0027Ellwanger\u0027, envolvendo a condenação de um editor por divulgar obras antissemitas.",
                                  "enunciado":  "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
                                  "alternativas":  {
-                                                      "a":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta, tese rejeitada pelo CNJ",
+                                                      "a":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta",
                                                       "b":  "Não é absoluta e pode ser limitada quando configura discurso de ódio, como a incitação ao racismo, crime inafiançável",
-                                                      "c":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto, tese incompatível com a CDPD",
+                                                      "c":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto",
                                                       "d":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa tradicionais, tese rejeitada pela doutrina majoritária"
                                                   },
                                  "resposta":  "b",
@@ -9322,10 +9322,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) regula o tratamento de dados pessoais no Brasil.",
                                  "enunciado":  "Um dos principais objetivos da LGPD é:",
                                  "alternativas":  {
-                                                      "a":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento, tese rejeitada pelo CNJ",
+                                                      "a":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
                                                       "b":  "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados, protegendo a privacidade",
-                                                      "c":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais, tese incompatível com a CDPD",
-                                                      "d":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros, hipótese estranha ao ECA"
+                                                      "c":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais",
+                                                      "d":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A LGPD estabelece princípios e regras para o tratamento de dados pessoais por empresas e órgãos públicos, assegurando direitos aos titulares dos dados, como informação, consentimento e finalidade específica, em consonância com o direito fundamental à privacidade."
@@ -9335,10 +9335,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O chamado \u0027direito ao esquecimento\u0027 tem sido debatido pelos tribunais brasileiros em casos envolvendo a divulgação de fatos passados sobre uma pessoa.",
                                  "enunciado":  "Esse debate envolve, sobretudo, a tensão entre:",
                                  "alternativas":  {
-                                                      "a":  "O direito de propriedade e o direito ao meio ambiente equilibrado, previsto no art. 225 da Constituição, tese rejeitada pelo CNJ",
-                                                      "b":  "O direito à nacionalidade e o direito de voto, ambos classificados como direitos políticos, tese incompatível com a CDPD",
+                                                      "a":  "O direito de propriedade e o direito ao meio ambiente equilibrado, previsto no art. 225 da Constituição",
+                                                      "b":  "O direito à nacionalidade e o direito de voto, ambos classificados como direitos políticos",
                                                       "c":  "A liberdade de imprensa e o direito à informação, de um lado, e a privacidade e a dignidade da pessoa humana, de outro",
-                                                      "d":  "A liberdade religiosa e a liberdade de associação, direitos individuais de primeira geração, hipótese estranha ao ECA"
+                                                      "d":  "A liberdade religiosa e a liberdade de associação, direitos individuais de primeira geração"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "O debate sobre o direito ao esquecimento envolve a ponderação entre a liberdade de expressão e de imprensa, que asseguram o acesso à informação e à história, e os direitos à privacidade, à honra e à dignidade da pessoa humana, tema analisado pelo STF em repercussão geral."
@@ -9348,10 +9348,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei Maria da Penha (Lei 11.340/2006) criou mecanismos para coibir a violência doméstica e familiar contra a mulher.",
                                  "enunciado":  "Essa lei recebeu esse nome em homenagem a:",
                                  "alternativas":  {
-                                                      "a":  "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional em 2004, tese rejeitada pelo CNJ",
+                                                      "a":  "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional em 2004",
                                                       "b":  "Uma farmacêutica cearense que sofreu tentativas de feminicídio pelo marido e levou o caso à Comissão Interamericana",
-                                                      "c":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil, em 1990, tese incompatível com a CDPD",
-                                                      "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país, em 1985, hipótese estranha ao ECA"
+                                                      "c":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil, em 1990",
+                                                      "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país, em 1985"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "Maria da Penha Maia Fernandes sofreu duas tentativas de assassinato por parte do então marido, que a deixaram paraplégica; diante da impunidade prolongada no Brasil, ela recorreu à Comissão Interamericana de Direitos Humanos, cuja recomendação impulsionou a criação da lei que leva seu nome."
@@ -9376,8 +9376,8 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "A discussão sobre identidade de gênero e diversidade sexual, pauta associada à quarta onda",
                                                       "b":  "A conquista de direitos civis e políticos básicos, como o direito ao voto (sufrágio feminino)",
-                                                      "c":  "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais, tese rejeitada pelo CNJ",
-                                                      "d":  "A defesa exclusiva de políticas de cotas em cargos executivos de empresas, hipótese estranha ao ECA"
+                                                      "c":  "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais",
+                                                      "d":  "A defesa exclusiva de políticas de cotas em cargos executivos de empresas"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A primeira onda do feminismo concentrou-se na luta por direitos civis e políticos básicos, sobretudo o direito ao voto, movimento sufragista que se espalhou por diversos países entre o final do século XIX e as primeiras décadas do século XX.",
@@ -9404,7 +9404,7 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Substituir qualquer outra forma de avaliação da qualidade de vida e do bem-estar da população",
                                                       "b":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a pobreza e orientar políticas sociais",
-                                                      "c":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda, tese incompatível com a CDPD",
+                                                      "c":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda",
                                                       "d":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos e organismos multilaterais"
                                                   },
                                  "resposta":  "b",
@@ -9416,7 +9416,7 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Programas de transferência de renda condicionada exigem, em geral, que as famílias beneficiárias cumpram contrapartidas, como manter crianças matriculadas na escola e em dia com o calendário de vacinação, para continuar recebendo o benefício.",
                                  "enunciado":  "A exigência dessas contrapartidas nesse tipo de programa social tem como principal justificativa:",
                                  "alternativas":  {
-                                                      "a":  "Punir famílias de baixa renda por eventual descumprimento de obrigações contratuais, segundo dados do Ministério do Trabalho",
+                                                      "a":  "Punir famílias de baixa renda por eventual descumprimento de obrigações contratuais",
                                                       "b":  "Reduzir permanentemente o valor do benefício pago às famílias beneficiárias do programa, entendimento equivocado sobre o Marco Civil da Internet",
                                                       "c":  "Restringir o acesso ao programa exclusivamente a famílias sem filhos em idade escolar, hipótese não prevista na legislação brasileira vigente",
                                                       "d":  "Associar a transferência de renda imediata ao investimento em capital humano das novas gerações, como educação e saúde"
@@ -9445,9 +9445,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A persistência de diferenças regionais na taxa de mortalidade infantil dentro de um mesmo país é interpretada, do ponto de vista dos direitos humanos, sobretudo como evidência de que:",
                                  "alternativas":  {
                                                       "a":  "O direito à saúde, embora formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura entre diferentes regiões",
-                                                      "b":  "A mortalidade infantil depende exclusivamente de fatores genéticos da população local, sem relação com políticas públicas, tese rejeitada pelo CNJ",
+                                                      "b":  "A mortalidade infantil depende exclusivamente de fatores genéticos da população local, sem relação com políticas públicas",
                                                       "c":  "A mortalidade infantil é um indicador irrelevante para avaliar políticas públicas de saúde, sendo substituída, para esse fim, pelo Índice de Desenvolvimento Humano",
-                                                      "d":  "A universalização formal de um direito social elimina, por si só, qualquer desigualdade regional em sua efetivação, segundo o Pacto Internacional de Direitos Civis e Políticos"
+                                                      "d":  "A universalização formal de um direito social elimina, por si só, qualquer desigualdade regional em sua efetivação"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "Diferenças regionais persistentes na taxa de mortalidade infantil evidenciam que a universalidade formal de um direito social, como a saúde, não garante, por si só, sua efetivação igualitária, que depende de investimentos concretos em infraestrutura, saneamento e acesso a serviços, distribuídos de forma desigual entre regiões de um mesmo país.",
@@ -9472,9 +9472,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Movimentos sociais do campo reivindicam a redistribuição de terras improdutivas ou griladas a famílias de trabalhadores rurais sem-terra, com base no princípio constitucional de que a propriedade deve cumprir uma função social.",
                                  "enunciado":  "A previsão constitucional de desapropriação de imóvel rural que não cumpre sua função social, mediante indenização, para fins de reforma agrária, busca conciliar:",
                                  "alternativas":  {
-                                                      "a":  "A abolição total da propriedade privada rural no país, nos moldes da reforma agrária cubana de 1959, tese rejeitada pelo CNJ",
+                                                      "a":  "A abolição total da propriedade privada rural no país, nos moldes da reforma agrária cubana de 1959",
                                                       "b":  "O direito de propriedade com o princípio da função social da terra e o objetivo de redução da desigualdade fundiária",
-                                                      "c":  "A transferência automática e gratuita de qualquer imóvel rural ao primeiro trabalhador que o ocupar, tese incompatível com a CDPD",
+                                                      "c":  "A transferência automática e gratuita de qualquer imóvel rural ao primeiro trabalhador que o ocupar",
                                                       "d":  "A eliminação de qualquer indenização ao proprietário desapropriado, medida adotada por reformas agrárias radicais em outros países"
                                                   },
                                  "resposta":  "b",
@@ -9545,7 +9545,7 @@ window.QUESTION_BANKS = {
                                                       "a":  "Ter duração indeterminada, a critério exclusivo da administração penitenciária estadual, conforme precedente do STJ sobre o tema",
                                                       "b":  "Ser cumprida em condições que preservem a dignidade da pessoa humana, sem se converter em pena cruel ou degradante",
                                                       "c":  "Ser aplicada sem qualquer possibilidade de progressão de regime, ainda que prevista na Lei de Execução Penal",
-                                                      "d":  "Ser cumprida exclusivamente em regime fechado, independentemente da gravidade do crime, tese incompatível com a CDPD"
+                                                      "d":  "Ser cumprida exclusivamente em regime fechado, independentemente da gravidade do crime"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A superlotação carcerária é apontada como violação ao princípio de que a pena privativa de liberdade deve ser cumprida em condições que preservem a dignidade da pessoa humana, sem impor sofrimento adicional além da própria privação de liberdade, o que motivou, inclusive, o reconhecimento pelo STF de um \"estado de coisas inconstitucional\" no sistema prisional brasileiro.",
@@ -9599,9 +9599,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa decisão do STF é significativa, do ponto de vista dos direitos humanos, porque:",
                                  "alternativas":  {
                                                       "a":  "Estendeu, por interpretação constitucional, direitos e proteções jurídicas antes restritos a casais heteroafetivos a casais do mesmo sexo",
-                                                      "b":  "Foi resultado de emenda constitucional aprovada pelo Congresso Nacional, nos moldes do art. 5º, §3º, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "Restringiu direitos previamente reconhecidos a casais homoafetivos em decisões anteriores do STJ, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "d":  "Aplicou-se exclusivamente a casais que já tivessem filhos em comum registrados, exigência do antigo Código Civil de 1916, tese incompatível com a CDPD"
+                                                      "b":  "Foi resultado de emenda constitucional aprovada pelo Congresso Nacional, nos moldes do art. 5º, §3º",
+                                                      "c":  "Restringiu direitos previamente reconhecidos a casais homoafetivos em decisões anteriores do STJ",
+                                                      "d":  "Aplicou-se exclusivamente a casais que já tivessem filhos em comum registrados, exigência do antigo Código Civil de 1916"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "Ao reconhecer a união estável homoafetiva como entidade familiar, o STF estendeu, por meio de interpretação constitucional, direitos e proteções jurídicas antes restritos a casais heteroafetivos, como direitos sucessórios e previdenciários, ampliando o conceito constitucional de família e representando um marco na jurisprudência de direitos humanos no Brasil.",
@@ -9612,8 +9612,8 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisas sobre o mercado de trabalho indicam que pessoas LGBTQIA+, sobretudo travestis e mulheres trans, enfrentam maiores dificuldades de inserção em empregos formais, mesmo quando possuem qualificação equivalente à de outros candidatos.",
                                  "enunciado":  "Esse cenário evidencia uma tensão entre a igualdade formal prevista na legislação trabalhista e:",
                                  "alternativas":  {
-                                                      "a":  "A garantia automática de emprego a qualquer pessoa, independentemente de sua qualificação, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "b":  "A inaplicabilidade de qualquer princípio constitucional de igualdade às relações de trabalho privadas, nos termos da Convenção sobre os Direitos da Criança",
+                                                      "a":  "A garantia automática de emprego a qualquer pessoa, independentemente de sua qualificação",
+                                                      "b":  "A inaplicabilidade de qualquer princípio constitucional de igualdade às relações de trabalho privadas",
                                                       "c":  "Barreiras práticas de discriminação na contratação e na permanência no emprego, que exigem políticas específicas de inclusão",
                                                       "d":  "A inexistência de qualquer forma de discriminação no mercado de trabalho brasileiro, segundo pesquisas do IBGE sobre emprego formal"
                                                   },
@@ -9683,9 +9683,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Esse descompasso entre a proporção de mulheres no eleitorado e sua proporção entre os eleitos evidencia que:",
                                  "alternativas":  {
                                                       "a":  "A igualdade formal de direitos políticos não elimina, por si só, barreiras estruturais de acesso a recursos que afetam a candidatura de mulheres",
-                                                      "b":  "A conquista formal do direito de voto garantiu, automaticamente, igualdade de representação política entre homens e mulheres, tese rejeitada pelo CNJ",
+                                                      "b":  "A conquista formal do direito de voto garantiu, automaticamente, igualdade de representação política entre homens e mulheres",
                                                       "c":  "As mulheres brasileiras não exercem, hoje, o direito de voto em igualdade de condições com os homens, segundo a legislação eleitoral vigente",
-                                                      "d":  "A sub-representação política feminina é um fenômeno exclusivo do Brasil, sem paralelo em qualquer outro país da América Latina, hipótese estranha ao ECA"
+                                                      "d":  "A sub-representação política feminina é um fenômeno exclusivo do Brasil, sem paralelo em qualquer outro país da América Latina"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O descompasso entre a proporção de mulheres no eleitorado e entre os eleitos evidencia que a igualdade formal de direitos políticos, conquistada com o sufrágio feminino, não elimina, por si só, barreiras estruturais de acesso a recursos financeiros, apoio partidário e tempo de exposição na mídia que afetam de forma desigual a candidatura e a eleição de mulheres, fenômeno observado em diferentes países.",
@@ -9696,8 +9696,8 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A legislação eleitoral brasileira estabelece um percentual mínimo de candidaturas de cada sexo que os partidos devem registrar para concorrer a cargos legislativos, além de destinar parcela obrigatória do fundo partidário e do tempo de propaganda eleitoral a candidaturas femininas.",
                                  "enunciado":  "Essa exigência de percentual mínimo de candidaturas femininas é um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Restrição ao direito de candidatura de homens em qualquer eleição proporcional ou majoritária, tese rejeitada pelo CNJ",
-                                                      "b":  "Medida aplicável exclusivamente a eleições municipais de pequeno porte, com menos de 50 mil eleitores, tese incompatível com a CDPD",
+                                                      "a":  "Restrição ao direito de candidatura de homens em qualquer eleição proporcional ou majoritária",
+                                                      "b":  "Medida aplicável exclusivamente a eleições municipais de pequeno porte, com menos de 50 mil eleitores",
                                                       "c":  "Norma sem qualquer efeito prático sobre a composição das candidaturas partidárias, segundo dados eleitorais recentes",
                                                       "d":  "Ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica"
                                                   },
@@ -9753,8 +9753,8 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "O Estatuto do Idoso, lei federal voltada à proteção dessa população, assegura, entre outros direitos:",
                                  "alternativas":  {
                                                       "a":  "Prioridade no atendimento em serviços públicos e privados e proteção contra negligência, discriminação ou violência",
-                                                      "b":  "Restrição do direito de voto a partir de determinada idade avançada, sem exceção legal, tese rejeitada pelo CNJ",
-                                                      "c":  "Obrigatoriedade de internação em instituições de longa permanência a partir de determinada idade, tese incompatível com a CDPD",
+                                                      "b":  "Restrição do direito de voto a partir de determinada idade avançada, sem exceção legal",
+                                                      "c":  "Obrigatoriedade de internação em instituições de longa permanência a partir de determinada idade",
                                                       "d":  "Exclusão de pessoas idosas de qualquer atividade produtiva remunerada, conforme antigas normas trabalhistas"
                                                   },
                                  "resposta":  "a",
@@ -9809,9 +9809,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A diferença central entre tráfico de pessoas e contrabando de migrantes está em que o tráfico de pessoas:",
                                  "alternativas":  {
                                                       "a":  "Envolve elemento de exploração da vítima, como trabalho forçado ou exploração sexual, mediante coação, fraude ou abuso de vulnerabilidade",
-                                                      "b":  "É uma prática já inteiramente erradicada em todo o mundo, ao contrário do contrabando de migrantes, segundo o Pacto Internacional de Direitos Civis e Políticos",
+                                                      "b":  "É uma prática já inteiramente erradicada em todo o mundo, ao contrário do contrabando de migrantes",
                                                       "c":  "Ocorre exclusivamente entre países vizinhos, ao contrário do contrabando de migrantes, conforme define o Protocolo de Palermo",
-                                                      "d":  "É sempre consentido livremente pela vítima em todas as suas etapas, ao contrário do contrabando de migrantes, nos termos da Convenção sobre os Direitos da Criança"
+                                                      "d":  "É sempre consentido livremente pela vítima em todas as suas etapas, ao contrário do contrabando de migrantes"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O tráfico de pessoas se distingue do contrabando de migrantes por envolver a exploração da vítima — como trabalho forçado, servidão ou exploração sexual — obtida mediante coação, fraude ou abuso de situação de vulnerabilidade, podendo ocorrer inclusive dentro das fronteiras de um mesmo país, enquanto o contrabando de migrantes está associado à facilitação, geralmente onerosa e consentida, da entrada irregular em outro país, sem necessariamente envolver exploração posterior da pessoa transportada.",
@@ -9823,7 +9823,7 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa modalidade de trabalho infantil é especialmente difícil de fiscalizar porque:",
                                  "alternativas":  {
                                                       "a":  "Ocorre majoritariamente dentro do ambiente doméstico privado, dificultando o acesso de órgãos de fiscalização trabalhista",
-                                                      "b":  "É expressamente autorizada e regulamentada pela legislação trabalhista brasileira a partir dos 12 anos de idade, tese rejeitada pelo CNJ",
+                                                      "b":  "É expressamente autorizada e regulamentada pela legislação trabalhista brasileira a partir dos 12 anos de idade",
                                                       "c":  "Não envolve qualquer forma de exploração da criança ou do adolescente envolvido, conforme dados oficiais recentes",
                                                       "d":  "Ocorre exclusivamente em grandes empresas do setor de serviços domésticos, regulamentadas pela CLT desde 1943"
                                                   },
@@ -9837,8 +9837,8 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa trajetória de redução, ainda que incompleta, é atribuída, entre outros fatores, a:",
                                  "alternativas":  {
                                                       "a":  "Ausência total de qualquer política pública voltada ao tema nas últimas décadas, apesar de compromissos internacionais assumidos",
-                                                      "b":  "Aumento da informalidade no mercado de trabalho como fator isolado suficiente para a redução do trabalho infantil, tese rejeitada pelo CNJ",
-                                                      "c":  "Eliminação completa da pobreza extrema em todo o território nacional, alcançada plenamente na última década, tese incompatível com a CDPD",
+                                                      "b":  "Aumento da informalidade no mercado de trabalho como fator isolado suficiente para a redução do trabalho infantil",
+                                                      "c":  "Eliminação completa da pobreza extrema em todo o território nacional, alcançada plenamente na última década",
                                                       "d":  "Combinação de legislação de proteção, fiscalização, programas de transferência de renda condicionada e ampliação do acesso à escola"
                                                   },
                                  "resposta":  "d",
@@ -9850,10 +9850,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O direito humano à alimentação adequada não se limita à ausência de fome extrema, mas envolve o acesso regular, permanente e livre a alimentos em quantidade e qualidade suficientes, de forma compatível com a cultura alimentar da população.",
                                  "enunciado":  "Essa definição ampla evidencia que a segurança alimentar de uma população depende de fatores como:",
                                  "alternativas":  {
-                                                      "a":  "Exclusivamente do volume total de alimentos exportados pelo país, segundo indicadores do comércio exterior, tese rejeitada pelo CNJ",
+                                                      "a":  "Exclusivamente do volume total de alimentos exportados pelo país, segundo indicadores do comércio exterior",
                                                       "b":  "Renda, disponibilidade e diversidade de alimentos, acesso a água potável e políticas públicas de abastecimento, segundo estudos do tema",
-                                                      "c":  "Exclusivamente da existência de programas de doação pontual de cestas básicas, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "d":  "Fatores que não guardam qualquer relação com políticas públicas de renda e assistência social, nos termos da Convenção sobre os Direitos da Criança"
+                                                      "c":  "Exclusivamente da existência de programas de doação pontual de cestas básicas",
+                                                      "d":  "Fatores que não guardam qualquer relação com políticas públicas de renda e assistência social"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A segurança alimentar, entendida de forma ampla, depende não apenas da quantidade total de alimentos produzidos ou disponíveis em um país, mas também da renda das famílias para adquiri-los, da diversidade nutricional, do acesso à água potável e de políticas públicas de abastecimento e assistência social, o que explica por que a fome pode persistir mesmo em países com produção agrícola expressiva.",
@@ -9864,10 +9864,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisas sobre segurança alimentar classificam domicílios em diferentes graus de insegurança: desde situações em que há preocupação com a possibilidade de falta de alimentos no futuro próximo até situações em que membros da família, incluindo crianças, efetivamente passam fome por falta de recursos para comprar comida.",
                                  "enunciado":  "Essa classificação em graus (leve, moderada e grave) de insegurança alimentar é relevante porque:",
                                  "alternativas":  {
-                                                      "a":  "Substitui integralmente a necessidade de dados sobre renda familiar na formulação de políticas sociais, tese rejeitada pelo CNJ",
+                                                      "a":  "Substitui integralmente a necessidade de dados sobre renda familiar na formulação de políticas sociais",
                                                       "b":  "Permite dimensionar com maior precisão a gravidade da situação enfrentada por diferentes famílias, útil para o IBGE",
                                                       "c":  "Elimina qualquer necessidade de distinguir entre famílias que efetivamente passam fome e famílias que apenas têm receio de vir a passar fome",
-                                                      "d":  "Aplica-se exclusivamente a contextos de guerra ou catástrofe natural, reconhecidos formalmente pela ONU, tese incompatível com a CDPD"
+                                                      "d":  "Aplica-se exclusivamente a contextos de guerra ou catástrofe natural, reconhecidos formalmente pela ONU"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A classificação da insegurança alimentar em diferentes graus de gravidade permite dimensionar com maior precisão a situação enfrentada por diferentes famílias — desde a preocupação com possível falta futura de alimentos até a fome efetiva de seus membros —, o que orienta a priorização e o desenho de políticas públicas de combate à fome conforme a intensidade da privação identificada.",
@@ -9878,10 +9878,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Enquanto a maior parte da população urbana brasileira tem acesso à rede de abastecimento de água tratada e coleta de esgoto, parcela expressiva da população rural e de periferias urbanas ainda depende de soluções alternativas, muitas vezes precárias, para acesso a água e destinação de dejetos.",
                                  "enunciado":  "Essa desigualdade de acesso ao saneamento básico entre diferentes regiões e grupos sociais tem impacto direto, sobretudo, sobre:",
                                  "alternativas":  {
-                                                      "a":  "O valor de mercado exclusivamente de imóveis comerciais em áreas centrais, segundo o Pacto Internacional de Direitos Civis e Políticos",
+                                                      "a":  "O valor de mercado exclusivamente de imóveis comerciais em áreas centrais",
                                                       "b":  "Indicadores de saúde pública, como a incidência de doenças de veiculação hídrica, sobretudo entre crianças",
-                                                      "c":  "A soberania nacional sobre recursos hídricos internacionais, regulada por tratados internacionais, tese rejeitada pelo CNJ",
-                                                      "d":  "A composição do Produto Interno Bruto do setor de tecnologia, medida pelo IBGE trimestralmente, tese incompatível com a CDPD"
+                                                      "c":  "A soberania nacional sobre recursos hídricos internacionais, regulada por tratados internacionais",
+                                                      "d":  "A composição do Produto Interno Bruto do setor de tecnologia, medida pelo IBGE trimestralmente"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A desigualdade de acesso ao saneamento básico entre áreas urbanas centrais, periferias e áreas rurais tem impacto direto sobre indicadores de saúde pública, sobretudo a incidência de doenças de veiculação hídrica, mais frequentes entre crianças e em regiões com menor cobertura de rede de água tratada e coleta de esgoto, evidenciando a conexão entre direitos sociais como saneamento e saúde.",
@@ -9893,9 +9893,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Esse dado evidencia um desafio específico do direito à educação em relação aos povos indígenas, que é:",
                                  "alternativas":  {
                                                       "a":  "Assegurar uma educação escolar indígena diferenciada, bilíngue e intercultural, que respeite a organização social e as línguas de cada povo",
-                                                      "b":  "Eliminar completamente qualquer forma de educação escolar em terras indígenas, política já superada desde 1988, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "Garantir o mesmo modelo pedagógico padronizado utilizado no restante do país, sem qualquer adaptação, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "d":  "Restringir o acesso de povos indígenas ao ensino superior público, adotado por antigas políticas do SPI, segundo dados do Ministério do Trabalho"
+                                                      "b":  "Eliminar completamente qualquer forma de educação escolar em terras indígenas, política já superada desde 1988",
+                                                      "c":  "Garantir o mesmo modelo pedagógico padronizado utilizado no restante do país, sem qualquer adaptação",
+                                                      "d":  "Restringir o acesso de povos indígenas ao ensino superior público, adotado por antigas políticas do SPI"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O desafio educacional específico dos povos indígenas envolve assegurar uma educação escolar diferenciada, bilíngue e intercultural, que respeite a organização social, os costumes e as línguas de cada povo, reconhecendo que o acesso meramente formal a um modelo pedagógico padronizado, sem essa adaptação, não é suficiente para garantir a efetividade do direito à educação nesse contexto.",
@@ -9963,8 +9963,8 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A exigência constitucional de mero aviso prévio, e não de autorização, para a realização de manifestações e reuniões em locais públicos revela que esse direito:",
                                  "alternativas":  {
                                                       "a":  "É exercido independentemente de anuência prévia do poder público, ainda que sujeito a limites como a preservação da ordem pública",
-                                                      "b":  "Pode ser livremente negado pela autoridade pública, a seu critério discricionário, como no regime anterior a 1988, tese rejeitada pelo CNJ",
-                                                      "c":  "Aplica-se apenas a reuniões realizadas em propriedade privada, segundo entendimento superado do STF, tese incompatível com a CDPD",
+                                                      "b":  "Pode ser livremente negado pela autoridade pública, a seu critério discricionário, como no regime anterior a 1988",
+                                                      "c":  "Aplica-se apenas a reuniões realizadas em propriedade privada, segundo entendimento superado do STF",
                                                       "d":  "Foi extinto pela Constituição de 1988, substituído por regime de autorização prévia nos moldes do Ato Institucional nº 5"
                                                   },
                                  "resposta":  "a",
@@ -9978,7 +9978,7 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Punição unilateral do empregador, sem qualquer contrapartida negocial, prevista como sanção civil no Código Civil, sem previsão legal",
                                                       "b":  "Equilíbrio de poder de negociação entre trabalhadores e empregadores, reconhecendo a desigualdade estrutural entre as partes",
-                                                      "c":  "Substituição integral da negociação coletiva formal entre sindicatos e empresas, prevista na CLT, tese rejeitada pelo CNJ",
+                                                      "c":  "Substituição integral da negociação coletiva formal entre sindicatos e empresas, prevista na CLT",
                                                       "d":  "Restrição de aplicação exclusiva a servidores públicos estatutários, prevista em normas do Regime Jurídico Único federal, incompatível com a CDPD"
                                                   },
                                  "resposta":  "b",
@@ -9990,10 +9990,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Constituição assegura aos trabalhadores a liberdade de se associarem em sindicatos para a defesa de seus interesses coletivos e individuais, vedando ao poder público qualquer interferência na organização sindical.",
                                  "enunciado":  "Essa vedação constitucional à interferência estatal na organização sindical busca, sobretudo, assegurar:",
                                  "alternativas":  {
-                                                      "a":  "A extinção de qualquer forma de organização sindical no país, medida adotada durante o Estado Novo de Vargas, tese rejeitada pelo CNJ",
+                                                      "a":  "A extinção de qualquer forma de organização sindical no país, medida adotada durante o Estado Novo de Vargas",
                                                       "b":  "A autonomia dos trabalhadores para se organizarem coletivamente, sem subordinação política ou administrativa direta ao Estado",
                                                       "c":  "A obrigatoriedade de filiação sindical para o exercício de qualquer profissão, prevista no antigo sistema corporativista",
-                                                      "d":  "A criação de um sindicato único estatal para todas as categorias profissionais, nos moldes do modelo corporativista de 1937, tese incompatível com a CDPD"
+                                                      "d":  "A criação de um sindicato único estatal para todas as categorias profissionais, nos moldes do modelo corporativista de 1937"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A vedação à interferência estatal na organização sindical busca assegurar a autonomia dos trabalhadores para se organizarem coletivamente na defesa de seus interesses, sem subordinação política ou administrativa direta ao Estado, princípio associado à liberdade de associação como direito fundamental relacionado ao exercício da cidadania no ambiente de trabalho.",
@@ -10004,9 +10004,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela expressiva da força de trabalho brasileira exerce atividades sem carteira assinada ou sem registro formal, o que implica ausência de determinadas proteções trabalhistas e previdenciárias garantidas a trabalhadores formais.",
                                  "enunciado":  "Essa alta taxa de informalidade no mercado de trabalho brasileiro é apontada como fator que:",
                                  "alternativas":  {
-                                                      "a":  "Amplia a proteção social do trabalhador informal em relação ao trabalhador formal, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "b":  "É juridicamente equivalente, em todos os aspectos, ao trabalho com carteira assinada, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "c":  "Foi completamente eliminada pela Constituição de 1988, que universalizou formalmente os direitos trabalhistas, tese rejeitada pelo CNJ",
+                                                      "a":  "Amplia a proteção social do trabalhador informal em relação ao trabalhador formal",
+                                                      "b":  "É juridicamente equivalente, em todos os aspectos, ao trabalho com carteira assinada",
+                                                      "c":  "Foi completamente eliminada pela Constituição de 1988, que universalizou formalmente os direitos trabalhistas",
                                                       "d":  "Reduz o acesso a direitos como férias remuneradas, décimo terceiro salário e contribuição previdenciária regular"
                                                   },
                                  "resposta":  "d",
@@ -10020,8 +10020,8 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Eliminar qualquer forma de proteção previdenciária no país, medida incompatível com o art. 201 da Constituição",
                                                       "b":  "Adaptar mecanismos de proteção previdenciária a novos formatos de trabalho intermediado por plataformas digitais",
-                                                      "c":  "Extinguir totalmente a atividade de plataformas digitais de trabalho intermediado, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "d":  "Considerar automaticamente qualquer trabalhador de aplicativo como servidor público, nos termos da Convenção sobre os Direitos da Criança"
+                                                      "c":  "Extinguir totalmente a atividade de plataformas digitais de trabalho intermediado",
+                                                      "d":  "Considerar automaticamente qualquer trabalhador de aplicativo como servidor público"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A ausência de vínculo empregatício formal para trabalhadores de plataformas digitais evidencia um desafio contemporâneo para o direito à seguridade social, que exige a adaptação de mecanismos de proteção previdenciária a formatos de trabalho que não se enquadram integralmente nas categorias tradicionais de emprego formal ou trabalho autônomo, tema em debate em diferentes países.",
@@ -10033,9 +10033,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa reserva de vagas em concursos públicos é fundamentada, sobretudo, no princípio de que:",
                                  "alternativas":  {
                                                       "a":  "A igualdade meramente formal de acesso a cargos públicos pode não ser suficiente para garantir representação equitativa de pessoas com deficiência",
-                                                      "b":  "Pessoas com deficiência devem ser automaticamente dispensadas de qualquer etapa do processo seletivo, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "A reserva de vagas é aplicável exclusivamente a cargos de nível superior, conforme entendimento já superado do STF, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "d":  "Concursos públicos não podem, em nenhuma hipótese, prever exigências de aptidão física para o cargo pretendido, tese rejeitada pelo CNJ"
+                                                      "b":  "Pessoas com deficiência devem ser automaticamente dispensadas de qualquer etapa do processo seletivo",
+                                                      "c":  "A reserva de vagas é aplicável exclusivamente a cargos de nível superior, conforme entendimento já superado do STF",
+                                                      "d":  "Concursos públicos não podem, em nenhuma hipótese, prever exigências de aptidão física para o cargo pretendido"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "A reserva de vagas em concursos públicos para pessoas com deficiência é fundamentada no princípio de que a igualdade meramente formal de acesso pode não ser suficiente para garantir representação equitativa desse grupo no serviço público, exigindo uma medida de ação afirmativa que compense barreiras históricas e estruturais de acesso ao emprego, inclusive público.",
@@ -10047,9 +10047,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A adoção de medidas socioeducativas, distintas do sistema penal comum aplicado a adultos, reflete o princípio de que o adolescente em conflito com a lei deve ser tratado, sobretudo, como:",
                                  "alternativas":  {
                                                       "a":  "Pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada, prioritariamente, à reintegração social",
-                                                      "b":  "Inimputável em qualquer circunstância, sem qualquer forma de responsabilização por seus atos, tese rejeitada pelo ECA, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "Sujeito equiparado a um adulto para todos os efeitos penais, inclusive quanto ao tipo de pena aplicável, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "d":  "Indivíduo cuja conduta infracional deve ser resolvida exclusivamente pela família, sem qualquer intervenção estatal, tese rejeitada pelo CNJ"
+                                                      "b":  "Inimputável em qualquer circunstância, sem qualquer forma de responsabilização por seus atos, tese rejeitada pelo ECA",
+                                                      "c":  "Sujeito equiparado a um adulto para todos os efeitos penais, inclusive quanto ao tipo de pena aplicável",
+                                                      "d":  "Indivíduo cuja conduta infracional deve ser resolvida exclusivamente pela família, sem qualquer intervenção estatal"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "As medidas socioeducativas previstas no ECA refletem o princípio de que o adolescente em conflito com a lei deve ser tratado como pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada prioritariamente à reintegração social, e não ao sistema penal comum aplicado a adultos, o que não significa ausência completa de responsabilização por seus atos.",
@@ -10089,9 +10089,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa mudança legislativa, que tornou regra a modalidade de guarda compartilhada entre os pais, buscou, sobretudo:",
                                  "alternativas":  {
                                                       "a":  "Assegurar a participação de ambos os genitores nas decisões relevantes sobre a vida dos filhos, mesmo após a separação do casal",
-                                                      "b":  "Aplicar-se exclusivamente a casais que não possuam filhos em comum, conforme requisito extinto pela Lei 13.058/2014, tese rejeitada pelo CNJ",
-                                                      "c":  "Eliminar completamente qualquer forma de convivência entre um dos genitores e os filhos após a separação, tese incompatível com a CDPD",
-                                                      "d":  "Estabelecer que a criança deve, obrigatoriamente, residir metade do tempo com cada genitor, nos termos da Convenção sobre os Direitos da Criança"
+                                                      "b":  "Aplicar-se exclusivamente a casais que não possuam filhos em comum, conforme requisito extinto pela Lei 13.058/2014",
+                                                      "c":  "Eliminar completamente qualquer forma de convivência entre um dos genitores e os filhos após a separação",
+                                                      "d":  "Estabelecer que a criança deve, obrigatoriamente, residir metade do tempo com cada genitor"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "A guarda compartilhada como regra buscou assegurar a participação efetiva de ambos os genitores nas decisões relevantes sobre a vida dos filhos após a separação do casal, ainda que a criança resida predominantemente com um deles, refletindo o entendimento de que a convivência e a responsabilidade parental conjunta favorecem o desenvolvimento da criança, sem que isso implique necessariamente divisão igualitária do tempo de residência.",
@@ -10102,9 +10102,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Ao longo das últimas décadas, o reconhecimento jurídico e social de arranjos familiares diferentes do modelo tradicional composto por pai, mãe e filhos biológicos — como famílias monoparentais, recompostas e homoafetivas — tem se ampliado, ainda que de forma gradual e desigual entre diferentes contextos sociais.",
                                  "enunciado":  "Esse reconhecimento ampliado de diferentes arranjos familiares pela jurisprudência e pela legislação decorre, sobretudo, de uma mudança de entendimento sobre a família, que passa a ser compreendida:",
                                  "alternativas":  {
-                                                      "a":  "Como categoria irrelevante para o direito civil contemporâneo, conforme corrente doutrinária hoje minoritária, tese rejeitada pelo CNJ",
-                                                      "b":  "Exclusivamente a partir de vínculos biológicos entre seus membros, excluindo qualquer outra forma de constituição, tese incompatível com a CDPD",
-                                                      "c":  "Como instituição cuja definição jurídica é imutável desde a Constituição de 1988, segundo interpretação literal superada, hipótese estranha ao ECA",
+                                                      "a":  "Como categoria irrelevante para o direito civil contemporâneo, conforme corrente doutrinária hoje minoritária",
+                                                      "b":  "Exclusivamente a partir de vínculos biológicos entre seus membros, excluindo qualquer outra forma de constituição",
+                                                      "c":  "Como instituição cuja definição jurídica é imutável desde a Constituição de 1988, segundo interpretação literal superada",
                                                       "d":  "A partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único predeterminado"
                                                   },
                                  "resposta":  "d",
@@ -10116,9 +10116,9 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Uma lei brasileira do início dos anos 2000 determinou a substituição progressiva de um modelo de tratamento psiquiátrico baseado em internações prolongadas em hospitais especializados por um modelo baseado em serviços comunitários de saúde mental, mais próximos da convivência familiar e social do paciente.",
                                  "enunciado":  "Essa mudança de modelo, conhecida como Reforma Psiquiátrica, buscou assegurar aos pacientes com transtorno mental, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "A obrigatoriedade de internação hospitalar prolongada para qualquer diagnóstico de transtorno mental, nos termos da Convenção sobre os Direitos da Criança",
+                                                      "a":  "A obrigatoriedade de internação hospitalar prolongada para qualquer diagnóstico de transtorno mental",
                                                       "b":  "O direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social",
-                                                      "c":  "A extinção completa de qualquer forma de tratamento hospitalar em casos de crise aguda, medida nunca prevista na Lei 10.216/2001, tese rejeitada pelo CNJ",
+                                                      "c":  "A extinção completa de qualquer forma de tratamento hospitalar em casos de crise aguda, medida nunca prevista na Lei 10.216/2001",
                                                       "d":  "A exclusão do tema saúde mental do âmbito do Sistema Único de Saúde, proposta rejeitada na 8ª Conferência Nacional de Saúde"
                                                   },
                                  "resposta":  "b",
@@ -10145,9 +10145,9 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa disparidade no acesso a vacinas entre países de diferentes níveis de renda ilustra a tensão entre:",
                                  "alternativas":  {
                                                       "a":  "A propriedade intelectual e os contratos comerciais entre fabricantes, de um lado, e o direito à saúde e o acesso a bens essenciais, de outro",
-                                                      "b":  "O direito à liberdade de expressão e o direito de propriedade, sem qualquer relação com saúde pública, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "A soberania nacional e a liberdade religiosa, temas sem conexão com o caso descrito, regulados pela Convenção de Viena, nos termos da Convenção sobre os Direitos da Criança",
-                                                      "d":  "O direito eleitoral e o direito ambiental, sem qualquer relação com o caso descrito, tratados no Acordo de Paris, tese rejeitada pelo CNJ"
+                                                      "b":  "O direito à liberdade de expressão e o direito de propriedade, sem qualquer relação com saúde pública",
+                                                      "c":  "A soberania nacional e a liberdade religiosa, temas sem conexão com o caso descrito, regulados pela Convenção de Viena",
+                                                      "d":  "O direito eleitoral e o direito ambiental, sem qualquer relação com o caso descrito, tratados no Acordo de Paris"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "A disparidade no acesso a vacinas entre países ricos e pobres durante emergências sanitárias globais ilustra a tensão entre a proteção da propriedade intelectual e dos contratos comerciais entre fabricantes e países, de um lado, e o direito humano à saúde e o princípio do acesso equitativo a bens essenciais, de outro, tema que motivou debates internacionais sobre flexibilização temporária de patentes em contextos de emergência.",
@@ -10158,10 +10158,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Assembleia Geral das Nações Unidas reconheceu, em resolução específica, o acesso à água potável e ao saneamento como um direito humano essencial à realização plena da vida e de outros direitos humanos.",
                                  "enunciado":  "Esse reconhecimento internacional do direito humano à água implica, sobretudo, que os Estados devem:",
                                  "alternativas":  {
-                                                      "a":  "Fornecer água potável apenas a cidadãos que comprovem capacidade de pagamento integral do serviço, tese rejeitada pelo CNJ",
+                                                      "a":  "Fornecer água potável apenas a cidadãos que comprovem capacidade de pagamento integral do serviço",
                                                       "b":  "Adotar medidas progressivas para assegurar acesso suficiente, seguro e a preço acessível à água potável para toda a população",
-                                                      "c":  "Transferir a gestão de todos os recursos hídricos do planeta a um único órgão internacional, tese incompatível com a CDPD",
-                                                      "d":  "Considerar a água um bem exclusivamente privado, sujeito apenas às regras de mercado, modelo adotado por poucos países, hipótese estranha ao ECA"
+                                                      "c":  "Transferir a gestão de todos os recursos hídricos do planeta a um único órgão internacional",
+                                                      "d":  "Considerar a água um bem exclusivamente privado, sujeito apenas às regras de mercado, modelo adotado por poucos países"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "O reconhecimento do direito humano à água pela ONU implica o dever dos Estados de adotar medidas progressivas para assegurar acesso suficiente, seguro, aceitável, fisicamente acessível e a preço acessível à água potável para toda a população, o que orienta políticas públicas de saneamento e abastecimento, sobretudo para populações de baixa renda e regiões mais vulneráveis.",
@@ -10173,8 +10173,8 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A política brasileira de proteção a esses povos indígenas isolados baseia-se, sobretudo, no princípio de:",
                                  "alternativas":  {
                                                       "a":  "Transferir compulsoriamente esses povos para áreas urbanas, por razões de segurança, política adotada pelo antigo SPI",
-                                                      "b":  "Buscar ativamente o contato para promover sua integração forçada à sociedade nacional, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "c":  "Considerá-los juridicamente inexistentes até que se estabeleça contato formal com o Estado, nos termos da Convenção sobre os Direitos da Criança",
+                                                      "b":  "Buscar ativamente o contato para promover sua integração forçada à sociedade nacional",
+                                                      "c":  "Considerá-los juridicamente inexistentes até que se estabeleça contato formal com o Estado",
                                                       "d":  "Respeitar a autodeterminação desses povos, evitando o contato forçado e protegendo seu território de invasões, conforme padrões internacionais"
                                                   },
                                  "resposta":  "d",
@@ -10216,8 +10216,8 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Tribunais internacionais de direitos humanos entendem que tais crimes não poderiam ser anistiados, sob pena de comprometer a justiça das vítimas",
                                                       "b":  "A anistia aplica-se exclusivamente a crimes de natureza tributária, conforme interpretação já rejeitada pelos tribunais superiores",
-                                                      "c":  "Não existe qualquer controvérsia sobre o tema em nenhum país que adotou leis de anistia, conforme consenso doutrinário unânime, tese rejeitada pelo CNJ",
-                                                      "d":  "Leis de anistia são sempre consideradas integralmente compatíveis com tratados internacionais de direitos humanos, nos termos da Convenção sobre os Direitos da Criança"
+                                                      "c":  "Não existe qualquer controvérsia sobre o tema em nenhum país que adotou leis de anistia, conforme consenso doutrinário unânime",
+                                                      "d":  "Leis de anistia são sempre consideradas integralmente compatíveis com tratados internacionais de direitos humanos"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos é controversa porque tribunais e organismos internacionais de direitos humanos, como a Corte Interamericana, têm entendido, em diversos casos envolvendo diferentes países, que crimes como tortura e desaparecimento forçado não poderiam ser anistiados, sob o argumento de que a impunidade compromete o direito das vítimas e de seus familiares à justiça e à verdade.",
@@ -10270,10 +10270,10 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela da população mundial ainda não tem acesso regular à internet ou a dispositivos digitais adequados, o que a exclui, na prática, de serviços públicos, oportunidades de trabalho e informações cada vez mais disponibilizados prioritariamente por meios digitais.",
                                  "enunciado":  "Diante desse cenário, parte da doutrina de direitos humanos passou a discutir o acesso à internet como:",
                                  "alternativas":  {
-                                                      "a":  "Um privilégio exclusivamente comercial, sem qualquer relação com direitos fundamentais, segundo o Pacto Internacional de Direitos Civis e Políticos",
-                                                      "b":  "Um direito já plenamente universalizado em todos os países do mundo, sem qualquer desigualdade remanescente, nos termos da Convenção sobre os Direitos da Criança",
+                                                      "a":  "Um privilégio exclusivamente comercial, sem qualquer relação com direitos fundamentais",
+                                                      "b":  "Um direito já plenamente universalizado em todos os países do mundo, sem qualquer desigualdade remanescente",
                                                       "c":  "Um direito social emergente, cuja ausência pode aprofundar desigualdades preexistentes no acesso à educação e ao trabalho, tema debatido internacionalmente",
-                                                      "d":  "Uma matéria estranha ao campo de estudo dos direitos humanos, conforme entendimento clássico já superado, tese incompatível com a CDPD"
+                                                      "d":  "Uma matéria estranha ao campo de estudo dos direitos humanos, conforme entendimento clássico já superado"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "Diante da crescente centralidade da internet para o exercício de direitos como educação, trabalho e acesso a serviços públicos, parte da doutrina de direitos humanos passou a discutir o acesso à internet como um direito social emergente, cuja ausência — a exclusão digital — pode aprofundar desigualdades sociais e econômicas preexistentes entre diferentes grupos e regiões.",
@@ -11185,7 +11185,7 @@ window.QUESTION_BANKS = {
                                  },
                                  {
                                      "id":  "filosofia-sociologia-68",
-                                     "texto_apoio":  "A pesquisadora brasileira Sueli Carneiro desenvolveu o conceito de interseccionalidade para analisar como raça, gênero e classe se combinam na produção da desigualdade social brasileira.",
+                                     "texto_apoio":  "O conceito de interseccionalidade, cunhado pela jurista norte-americana Kimberlé Crenshaw, é mobilizado no Brasil por pensadoras como Sueli Carneiro para analisar como raça, gênero e classe se combinam na produção da desigualdade social brasileira.",
                                      "enunciado":  "Esse conceito ajuda a fundamentar qual crítica frequente a políticas públicas que buscam reduzir desigualdades no acesso ao ensino superior considerando apenas o critério de renda familiar, sem qualquer recorte racial?",
                                      "alternativas":  {
                                                           "a":  "a de que políticas restritas exclusivamente ao critério de renda podem não captar plenamente as desigualdades específicas enfrentadas por mulheres negras pobres, cuja experiência de exclusão resulta da combinação de mais de um eixo de desigualdade, e não apenas da posição econômica isolada",
@@ -15104,7 +15104,7 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-92",
-                          "texto_apoio":  "\"O erro no cálculo do orçamento passou a olhos vistos durante a reunião, e ninguém da equipe percebeu a tempo de corrigi-lo antes da apresentação.\"",
+                          "texto_apoio":  "\"O prejuízo acumulado crescia a olhos vistos a cada balanço trimestral, mas a diretoria demorou meses para rever a estratégia comercial da empresa.\"",
                           "enunciado":  "Sobre o uso da crase na expressão \u0027a olhos vistos\u0027, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "a ausência de crase torna a expressão gramaticalmente incorreta em qualquer contexto, mesmo sendo \u0027olhos\u0027 substantivo masculino nessa locução.",
@@ -15303,13 +15303,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Essa é a norma à que todos os funcionários devem se adequar imediatamente após a publicação do novo regulamento interno.\"",
                           "enunciado":  "Sobre o uso da crase em \u0027à que\u0027 na frase, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está incorreta, pois pronomes relativos nunca admitem crase em nenhuma hipótese, mesmo quando precedidos de preposição exigida pelo verbo regente.",
+                                               "a":  "está incorreta; o antecedente \u0027a norma\u0027 já vem expresso e o pronome relativo \u0027que\u0027 não admite artigo, de modo que resta apenas a preposição: o correto seria \u0027a norma a que todos devem se adequar\u0027 ou \u0027a norma à qual todos devem se adequar\u0027.",
                                                "b":  "está incorreta porque o verbo \u0027adequar-se\u0027 não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
-                                               "c":  "está correta, pois o verbo \u0027adequar-se\u0027 exige a preposição \u0027a\u0027, que se funde ao artigo feminino que antecede o pronome relativo \u0027que\u0027, retomando \u0027a norma\u0027.",
+                                               "c":  "está correta, pois o verbo \u0027adequar-se\u0027 exige a preposição \u0027a\u0027, e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
                                                "d":  "está correta apenas se \u0027norma\u0027 for substituída por um substantivo masculino, condição que eliminaria a crase diante do pronome relativo."
                                            },
-                          "resposta":  "c",
-                          "explicacao":  "O verbo \u0027adequar-se\u0027 rege a preposição \u0027a\u0027, que se combina com o artigo feminino subentendido antes do pronome relativo \u0027que\u0027 (retomando \u0027a norma\u0027, substantivo feminino), justificando a crase em \u0027à que\u0027: \u0027a norma à qual/à que todos devem se adequar\u0027.",
+                          "resposta":  "a",
+                          "explicacao":  "A crase é a fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027. Diante do pronome relativo \u0027que\u0027, com o antecedente já expresso (\u0027a norma\u0027), não há artigo algum a se fundir: resta apenas a preposição exigida por \u0027adequar-se a\u0027. Escreve-se, portanto, \u0027a norma a que todos devem se adequar\u0027, sem acento, ou \u0027a norma à qual todos devem se adequar\u0027, forma em que o acento se justifica porque o artigo acompanha o pronome \u0027qual\u0027, e não \u0027que\u0027.",
                           "dificuldade":  "dificil"
                       },
                       {
@@ -15387,13 +15387,13 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"O pronome relativo \u0027que\u0027, em \u0027a decisão que tomamos ontem afetou toda a equipe\u0027, retoma o antecedente \u0027decisão\u0027 e exerce, na oração que introduz, a função de objeto direto do verbo \u0027tomamos\u0027.\"",
                           "enunciado":  "Sobre a crase em \u0027à que\u0027, caso se quisesse reescrever a oração relativa como \u0027a decisão à que nos referimos ontem afetou toda a equipe\u0027, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "a crase estaria correta, pois o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027, que se funde ao artigo feminino subentendido antes do pronome relativo, retomando \u0027a decisão\u0027.",
+                                               "a":  "a crase estaria correta, pois o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027, e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
                                                "b":  "a crase estaria correta apenas se \u0027decisão\u0027 fosse substituída por um substantivo masculino, condição que anularia completamente a regra de crase.",
                                                "c":  "a crase estaria incorreta porque o verbo \u0027referir-se\u0027 não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
-                                               "d":  "a crase estaria incorreta, pois pronomes relativos nunca podem ser antecedidos de preposição fundida a artigo, mesmo quando regidos por verbo que exija essa preposição."
+                                               "d":  "a crase estaria incorreta; com o antecedente \u0027a decisão\u0027 já expresso, o relativo \u0027que\u0027 não admite artigo, restando apenas a preposição: o correto seria \u0027a decisão a que nos referimos\u0027 ou \u0027a decisão à qual nos referimos\u0027."
                                            },
-                          "resposta":  "a",
-                          "explicacao":  "Como o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027 e o antecedente do relativo (\u0027a decisão\u0027) é feminino, ocorre a fusão da preposição com o artigo feminino subentendido antes de \u0027que\u0027, justificando a crase em \u0027à que nos referimos\u0027.",
+                          "resposta":  "d",
+                          "explicacao":  "Embora \u0027referir-se\u0027 exija a preposição \u0027a\u0027, não há artigo diante do pronome relativo \u0027que\u0027 quando o antecedente já está expresso, e sem artigo não há crase. As formas corretas são \u0027a decisão a que nos referimos\u0027, sem acento, e \u0027a decisão à qual nos referimos\u0027, em que o artigo acompanha o pronome \u0027qual\u0027.",
                           "dificuldade":  "dificil"
                       },
                       {
@@ -19059,7 +19059,7 @@ window.QUESTION_BANKS = {
                    },
                    {
                        "id":  "ingles-16",
-                       "texto_apoio":  "The English word \u0027push\u0027, printed on doors, does not mean \u0027empurre\u0027 in the sense many beginners misread it. Actually, it does mean \u0027empurre\u0027 — but a more frequent confusion happens with \u0027pull\u0027, which some learners mistakenly associate with the Portuguese verb \u0027pular\u0027 (to jump), when it actually means \u0027puxar\u0027 (to pull toward oneself).",
+                       "texto_apoio":  "On doors, English signs use \u0027push\u0027 for \u0027empurre\u0027 and \u0027pull\u0027 for \u0027puxe\u0027. Many Brazilian learners, however, mistakenly associate \u0027pull\u0027 with the Portuguese verb \u0027pular\u0027 (to jump), because the two words sound alike, when \u0027pull\u0027 actually means \u0027puxar\u0027, that is, to draw something toward oneself.",
                        "enunciado":  "Segundo o texto, qual é a confusão comum relacionada à palavra \u0027pull\u0027 em inglês?",
                        "alternativas":  {
                                             "a":  "Alguns aprendizes associam erroneamente \u0027pull\u0027 ao verbo \u0027pular\u0027, quando na verdade \u0027pull\u0027 significa \u0027puxar\u0027.",

@@ -1241,7 +1241,7 @@
                      },
                      {
                          "id":  "gramatica-92",
-                         "texto_apoio":  "\"O erro no cálculo do orçamento passou a olhos vistos durante a reunião, e ninguém da equipe percebeu a tempo de corrigi-lo antes da apresentação.\"",
+                         "texto_apoio":  "\"O prejuízo acumulado crescia a olhos vistos a cada balanço trimestral, mas a diretoria demorou meses para rever a estratégia comercial da empresa.\"",
                          "enunciado":  "Sobre o uso da crase na expressão \u0027a olhos vistos\u0027, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "a ausência de crase torna a expressão gramaticalmente incorreta em qualquer contexto, mesmo sendo \u0027olhos\u0027 substantivo masculino nessa locução.",
@@ -1440,13 +1440,13 @@
                          "texto_apoio":  "\"Essa é a norma à que todos os funcionários devem se adequar imediatamente após a publicação do novo regulamento interno.\"",
                          "enunciado":  "Sobre o uso da crase em \u0027à que\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está incorreta, pois pronomes relativos nunca admitem crase em nenhuma hipótese, mesmo quando precedidos de preposição exigida pelo verbo regente.",
+                                              "a":  "está incorreta; o antecedente 'a norma' já vem expresso e o pronome relativo 'que' não admite artigo, de modo que resta apenas a preposição: o correto seria 'a norma a que todos devem se adequar' ou 'a norma à qual todos devem se adequar'.",
                                               "b":  "está incorreta porque o verbo \u0027adequar-se\u0027 não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
-                                              "c":  "está correta, pois o verbo \u0027adequar-se\u0027 exige a preposição \u0027a\u0027, que se funde ao artigo feminino que antecede o pronome relativo \u0027que\u0027, retomando \u0027a norma\u0027.",
+                                              "c":  "está correta, pois o verbo \u0027adequar-se\u0027 exige a preposição \u0027a\u0027, e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
                                               "d":  "está correta apenas se \u0027norma\u0027 for substituída por um substantivo masculino, condição que eliminaria a crase diante do pronome relativo."
                                           },
-                         "resposta":  "c",
-                         "explicacao":  "O verbo \u0027adequar-se\u0027 rege a preposição \u0027a\u0027, que se combina com o artigo feminino subentendido antes do pronome relativo \u0027que\u0027 (retomando \u0027a norma\u0027, substantivo feminino), justificando a crase em \u0027à que\u0027: \u0027a norma à qual/à que todos devem se adequar\u0027.",
+                         "resposta":  "a",
+                         "explicacao":  "A crase é a fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027. Diante do pronome relativo \u0027que\u0027, com o antecedente já expresso (\u0027a norma\u0027), não há artigo algum a se fundir: resta apenas a preposição exigida por \u0027adequar-se a\u0027. Escreve-se, portanto, \u0027a norma a que todos devem se adequar\u0027, sem acento, ou \u0027a norma à qual todos devem se adequar\u0027, forma em que o acento se justifica porque o artigo acompanha o pronome \u0027qual\u0027, e não \u0027que\u0027.",
                          "dificuldade":  "dificil"
                      },
                      {
@@ -1524,13 +1524,13 @@
                          "texto_apoio":  "\"O pronome relativo \u0027que\u0027, em \u0027a decisão que tomamos ontem afetou toda a equipe\u0027, retoma o antecedente \u0027decisão\u0027 e exerce, na oração que introduz, a função de objeto direto do verbo \u0027tomamos\u0027.\"",
                          "enunciado":  "Sobre a crase em \u0027à que\u0027, caso se quisesse reescrever a oração relativa como \u0027a decisão à que nos referimos ontem afetou toda a equipe\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "a crase estaria correta, pois o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027, que se funde ao artigo feminino subentendido antes do pronome relativo, retomando \u0027a decisão\u0027.",
+                                              "a":  "a crase estaria correta, pois o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027, e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
                                               "b":  "a crase estaria correta apenas se \u0027decisão\u0027 fosse substituída por um substantivo masculino, condição que anularia completamente a regra de crase.",
                                               "c":  "a crase estaria incorreta porque o verbo \u0027referir-se\u0027 não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
-                                              "d":  "a crase estaria incorreta, pois pronomes relativos nunca podem ser antecedidos de preposição fundida a artigo, mesmo quando regidos por verbo que exija essa preposição."
+                                              "d":  "a crase estaria incorreta; com o antecedente \u0027a decisão\u0027 já expresso, o relativo \u0027que\u0027 não admite artigo, restando apenas a preposição: o correto seria \u0027a decisão a que nos referimos\u0027 ou \u0027a decisão à qual nos referimos\u0027."
                                           },
-                         "resposta":  "a",
-                         "explicacao":  "Como o verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027 e o antecedente do relativo (\u0027a decisão\u0027) é feminino, ocorre a fusão da preposição com o artigo feminino subentendido antes de \u0027que\u0027, justificando a crase em \u0027à que nos referimos\u0027.",
+                         "resposta":  "d",
+                         "explicacao":  "Embora \u0027referir-se\u0027 exija a preposição \u0027a\u0027, não há artigo diante do pronome relativo \u0027que\u0027 quando o antecedente já está expresso, e sem artigo não há crase. As formas corretas são \u0027a decisão a que nos referimos\u0027, sem acento, e \u0027a decisão à qual nos referimos\u0027, em que o artigo acompanha o pronome \u0027qual\u0027.",
                          "dificuldade":  "dificil"
                      },
                      {

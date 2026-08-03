@@ -48,8 +48,8 @@ window.DISSERTATIVAS = [
     "id": "dissert-humanas-04",
     "area": "Humanas",
     "tempoSugerido": 25,
-    "texto_apoio": "A reforma tributária aprovada no Brasil busca simplificar um sistema historicamente considerado complexo, unificando tributos sobre consumo.",
-    "comando": "Explique por que o sistema tributário sobre o consumo era considerado complexo antes da reforma e discuta um possível benefício e um possível desafio de se unificar tributos em um imposto único sobre bens e serviços.",
+    "texto_apoio": "A reforma tributária aprovada no Brasil busca simplificar um sistema historicamente considerado complexo, substituindo cinco tributos sobre o consumo por um IVA dual: a CBS, federal, e o IBS, de estados e municípios.",
+    "comando": "Explique por que o sistema tributário sobre o consumo era considerado complexo antes da reforma e discuta um possível benefício e um possível desafio de se concentrar a tributação do consumo em um imposto sobre valor agregado.",
     "pontosEsperados": [
       "Menciona a multiplicidade de tributos e legislações (federal, estadual, municipal) como fonte de complexidade",
       "Aponta um benefício plausível (redução de litígios, maior transparência, menor custo de conformidade)",
@@ -167,10 +167,10 @@ window.DISSERTATIVAS = [
     "id": "dissert-linguagens-05",
     "area": "Linguagens",
     "tempoSugerido": 20,
-    "texto_apoio": "\"No meio do caminho tinha uma pedra / tinha uma pedra no meio do caminho\" (Carlos Drummond de Andrade, trecho adaptado)",
+    "texto_apoio": "\"No meio do caminho tinha uma pedra / tinha uma pedra no meio do caminho\" (Carlos Drummond de Andrade, versos iniciais)",
     "comando": "Explique o efeito de sentido produzido pela repetição no trecho apresentado e discuta como esse recurso pode contribuir para a construção de significado em um texto poético.",
     "pontosEsperados": [
-      "Identifica a repetição como recurso estilístico (anáfora/repetição)",
+      "Identifica a repetição com inversão da ordem dos termos como recurso estilístico (quiasmo), e não como anáfora, que exigiria a repetição no início de versos sucessivos",
       "Explica um efeito plausível (ênfase no obstáculo, ritmo, permanência da imagem na memória do leitor)",
       "Relaciona o recurso à construção de sentido do poema, não apenas o descreve tecnicamente",
       "Usa vocabulário adequado de análise literária"
@@ -264,7 +264,7 @@ window.DISSERTATIVAS = [
     "comando": "Explique de que forma a Semana de Arte Moderna de 1922 contribuiu para a construção de uma identidade cultural brasileira, citando pelo menos um artista ou obra associada ao movimento.",
     "pontosEsperados": [
       "Explica corretamente o objetivo do movimento (romper com o academicismo, valorizar temas e linguagem brasileiros)",
-      "Cita corretamente pelo menos um artista/obra associado (ex.: Tarsila do Amaral, Oswald de Andrade, Mário de Andrade, Anita Malfatti)",
+      "Cita corretamente pelo menos um artista/obra do modernismo (ex.: Anita Malfatti, Oswald de Andrade, Mário de Andrade, Di Cavalcanti, Villa-Lobos; Tarsila do Amaral vale como referência do movimento, ainda que não tenha participado da Semana, pois estava em Paris)",
       "Relaciona o exemplo citado à construção de identidade nacional",
       "Demonstra domínio do contexto histórico do movimento"
     ]

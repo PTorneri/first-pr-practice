@@ -1,0 +1,88 @@
+{
+  "_comentario": [
+    "Ultimas cinco questoes V/F, fechando o formato em 15 no banco (5 em",
+    "geografia, 5 em historia-brasil, 5 aqui).",
+    "",
+    "Em cada uma, a afirmativa falsa e uma inversao plausivel -- o tipo de",
+    "meia-verdade que a FGV usa: entidade real, relacao errada."
+  ],
+  "subtopic": "historia-geral",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "historia-geral-101",
+      "formato": "vf",
+      "texto_apoio": "A Revolução Francesa deixou marcas duráveis na política contemporânea, das bandeiras tricolores aos códigos civis, passando pela classificação entre direita e esquerda.",
+      "enunciado": "Sobre a Revolução Francesa e seus legados, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A Declaração dos Direitos do Homem e do Cidadão firmou a noção de direitos universais, ainda que sua aplicação excluísse mulheres e populações coloniais.\n( ) A divisão entre direita e esquerda origina-se da disposição dos deputados no espaço da assembleia revolucionária.\n( ) O processo revolucionário consolidou de imediato um regime democrático estável, sem episódios de violência política.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - F - F"
+      },
+      "resposta": "a",
+      "explicacao": "A universalidade declarada convivendo com exclusões concretas e a origem espacial dos rótulos políticos estão corretas. A terceira é falsa: o período incluiu o Terror, guerras e sucessivas mudanças de regime até o golpe napoleônico — estabilidade imediata é o oposto do que ocorreu."
+    },
+    {
+      "id": "historia-geral-102",
+      "formato": "vf",
+      "texto_apoio": "A Primeira Guerra Mundial foi precedida por um sistema de alianças, por corrida armamentista e por disputas imperialistas entre as potências europeias.",
+      "enunciado": "Sobre as causas do conflito, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O sistema de alianças, pensado para dissuadir agressões, acabou por transformar um conflito local em guerra continental.\n( ) O desenvolvimento industrial forneceu armamento de poder destrutivo sem precedente, incluindo o emprego da aviação.\n( ) O assassinato do arquiduque austríaco foi a causa profunda do conflito, e não seu estopim.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - V - F"
+      },
+      "resposta": "a",
+      "explicacao": "As alianças de fato converteram um incidente regional em guerra geral, e a indústria forneceu o armamento novo. A terceira confunde estopim com causa profunda: o atentado deflagrou um conflito cujas raízes — imperialismo, rearmamento, rivalidades — vinham de décadas."
+    },
+    {
+      "id": "historia-geral-103",
+      "formato": "vf",
+      "texto_apoio": "Após a Segunda Guerra Mundial, os Estados Unidos formularam programas de cooperação técnica e econômica dirigidos a regiões consideradas subdesenvolvidas, articulando ajuda e influência política.",
+      "enunciado": "Sobre a política externa norte-americana nesse contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) A instabilidade política era interpretada como consequência de problemas econômicos, o que justificava a ajuda como instrumento de contenção.\n( ) Programas de transferência de conhecimento técnico funcionavam também como meio de ampliar a influência norte-americana, sem recurso direto à força.\n( ) A atuação do período caracterizou-se pela neutralidade em relação aos assuntos internos dos países da área de influência.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "F - V - V",
+        "c": "V - F - V",
+        "d": "V - V - V",
+        "e": "F - F - V"
+      },
+      "resposta": "a",
+      "explicacao": "Tratar o problema econômico como raiz da instabilidade e usar cooperação técnica como soft power descrevem bem a doutrina do período. A terceira é falsa: a intervenção em assuntos internos foi recorrente, e a própria ajuda era condicionada ao alinhamento."
+    },
+    {
+      "id": "historia-geral-104",
+      "formato": "vf",
+      "texto_apoio": "A descolonização da África portuguesa ocorreu tardiamente em relação ao restante do continente, e as guerras de independência articularam-se ao contexto da Guerra Fria.",
+      "enunciado": "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) O regime salazarista apresentava os movimentos de libertação como expansão do comunismo, o que lhe rendeu tolerância de aliados ocidentais.\n( ) As independências das colônias portuguesas na África concretizaram-se em meados da década de 1970.\n( ) Portugal concedeu autonomia progressiva e negociada às colônias desde o início dos anos 1950, evitando conflito armado.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - F - F"
+      },
+      "resposta": "a",
+      "explicacao": "Enquadrar o nacionalismo africano como comunismo garantiu a Portugal apoio ocidental, e as independências vieram em 1974-1975, após a Revolução dos Cravos. A terceira inverte a política colonial portuguesa, que foi de manutenção pela força e resultou em guerras prolongadas."
+    },
+    {
+      "id": "historia-geral-105",
+      "formato": "vf",
+      "texto_apoio": "A colonização espanhola da América envolveu campanhas de evangelização, destruição de templos e confisco de registros pictóricos e orais das populações originárias.",
+      "enunciado": "Sobre esse processo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n( ) As práticas religiosas indígenas passaram a ser interpretadas segundo categorias cristãs, sendo classificadas como idolatria e erro.\n( ) A destruição de suportes de memória comprometeu a transmissão de saberes que não dependiam da escrita alfabética.\n( ) O encontro produziu troca cultural simétrica, com espanhóis e indígenas reinterpretando mutuamente suas práticas em condições equivalentes.\nA sequência correta, na ordem apresentada, é",
+      "alternativas": {
+        "a": "V - V - F",
+        "b": "V - F - V",
+        "c": "F - V - V",
+        "d": "V - V - V",
+        "e": "F - V - F"
+      },
+      "resposta": "a",
+      "explicacao": "Ler as práticas indígenas pela grade cristã e destruir os suportes de memória descrevem a ocidentalização do imaginário. A terceira é a armadilha: houve de fato mestiçagem cultural, mas não em condições equivalentes — falar em simetria apaga a violência e a assimetria de poder que organizaram o processo."
+    }
+  ]
+}

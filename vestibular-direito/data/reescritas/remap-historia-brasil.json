@@ -1,0 +1,295 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027historia-brasil\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "historia-brasil",
+    "questoes":  {
+                     "historia-brasil-01":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-03":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-04":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-05":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-06":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-07":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-08":  {
+                                                "de":  "a",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-09":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-11":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-12":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-19":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-20":  {
+                                                "de":  "d",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-21":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-22":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-23":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-24":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-25":  {
+                                                "de":  "b",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-27":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-30":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-31":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-33":  {
+                                                "de":  "d",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-34":  {
+                                                "de":  "a",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-37":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-38":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-39":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-40":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-41":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-42":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-43":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-44":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-45":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-46":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-48":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-49":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-50":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-51":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-52":  {
+                                                "de":  "b",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-53":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-54":  {
+                                                "de":  "d",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-55":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-57":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-58":  {
+                                                "de":  "b",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-60":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-61":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-62":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-63":  {
+                                                "de":  "a",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-67":  {
+                                                "de":  "d",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-68":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-70":  {
+                                                "de":  "c",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-71":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-73":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-74":  {
+                                                "de":  "b",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-75":  {
+                                                "de":  "c",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-76":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-77":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-78":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "historia-brasil-81":  {
+                                                "de":  "a",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-84":  {
+                                                "de":  "b",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-85":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-86":  {
+                                                "de":  "c",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-87":  {
+                                                "de":  "d",
+                                                "para":  "e"
+                                            },
+                     "historia-brasil-90":  {
+                                                "de":  "a",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-92":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "historia-brasil-93":  {
+                                                "de":  "c",
+                                                "para":  "b"
+                                            },
+                     "historia-brasil-94":  {
+                                                "de":  "c",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-95":  {
+                                                "de":  "b",
+                                                "para":  "a"
+                                            },
+                     "historia-brasil-100":  {
+                                                 "de":  "b",
+                                                 "para":  "c"
+                                             },
+                     "historia-brasil-102":  {
+                                                 "de":  "a",
+                                                 "para":  "d"
+                                             },
+                     "historia-brasil-103":  {
+                                                 "de":  "a",
+                                                 "para":  "d"
+                                             },
+                     "historia-brasil-104":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "historia-brasil-105":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             }
+                 }
+}

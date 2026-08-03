@@ -1,0 +1,271 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027historia-geral\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "historia-geral",
+    "questoes":  {
+                     "historia-geral-03":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-13":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-14":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-15":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-20":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-21":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-22":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-23":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-25":  {
+                                               "de":  "c",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-27":  {
+                                               "de":  "e",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-28":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-29":  {
+                                               "de":  "d",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-30":  {
+                                               "de":  "e",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-35":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-37":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-38":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-39":  {
+                                               "de":  "b",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-40":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-41":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-42":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-43":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-44":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-45":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-46":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-47":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-48":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-49":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-50":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-51":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-52":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-53":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-54":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-55":  {
+                                               "de":  "b",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-58":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-59":  {
+                                               "de":  "b",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-60":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-61":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-63":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-64":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-65":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-68":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-69":  {
+                                               "de":  "b",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-71":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-72":  {
+                                               "de":  "b",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-74":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-75":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-77":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-78":  {
+                                               "de":  "d",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-79":  {
+                                               "de":  "c",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-80":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-81":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-85":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-87":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "historia-geral-88":  {
+                                               "de":  "b",
+                                               "para":  "d"
+                                           },
+                     "historia-geral-90":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-91":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-92":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-93":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-95":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "historia-geral-96":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "historia-geral-99":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "historia-geral-102":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "historia-geral-103":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "historia-geral-104":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "historia-geral-105":  {
+                                                "de":  "a",
+                                                "para":  "c"
+                                            }
+                 }
+}

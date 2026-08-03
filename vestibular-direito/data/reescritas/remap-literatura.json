@@ -8,244 +8,504 @@
     "frente":  "literatura",
     "questoes":  {
                      "literatura-01":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "d",
+                                           "para":  "c"
                                        },
                      "literatura-02":  {
-                                           "de":  "a",
-                                           "para":  "c"
+                                           "de":  "c",
+                                           "para":  "a"
                                        },
                      "literatura-03":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-04":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "literatura-05":  {
                                            "de":  "a",
                                            "para":  "c"
                                        },
-                     "literatura-04":  {
-                                           "de":  "a",
-                                           "para":  "d"
-                                       },
                      "literatura-07":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "de":  "d",
+                                           "para":  "c"
                                        },
                      "literatura-08":  {
-                                           "de":  "a",
+                                           "de":  "d",
                                            "para":  "c"
                                        },
                      "literatura-09":  {
-                                           "de":  "a",
-                                           "para":  "b"
+                                           "de":  "d",
+                                           "para":  "e"
                                        },
                      "literatura-10":  {
-                                           "de":  "a",
-                                           "para":  "c"
-                                       },
-                     "literatura-11":  {
-                                           "de":  "a",
-                                           "para":  "c"
-                                       },
-                     "literatura-12":  {
-                                           "de":  "a",
+                                           "de":  "d",
                                            "para":  "b"
                                        },
+                     "literatura-12":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
                      "literatura-13":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "de":  "d",
+                                           "para":  "e"
+                                       },
+                     "literatura-14":  {
+                                           "de":  "c",
+                                           "para":  "e"
                                        },
                      "literatura-15":  {
-                                           "de":  "a",
+                                           "de":  "b",
                                            "para":  "d"
                                        },
                      "literatura-16":  {
                                            "de":  "a",
-                                           "para":  "b"
-                                       },
-                     "literatura-17":  {
-                                           "de":  "a",
                                            "para":  "d"
                                        },
-                     "literatura-18":  {
-                                           "de":  "a",
+                     "literatura-17":  {
+                                           "de":  "c",
                                            "para":  "b"
                                        },
+                     "literatura-18":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
                      "literatura-19":  {
-                                           "de":  "a",
+                                           "de":  "c",
                                            "para":  "d"
                                        },
                      "literatura-20":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "de":  "c",
+                                           "para":  "b"
                                        },
                      "literatura-21":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "b",
+                                           "para":  "d"
                                        },
                      "literatura-22":  {
                                            "de":  "a",
-                                           "para":  "e"
-                                       },
-                     "literatura-23":  {
-                                           "de":  "a",
                                            "para":  "b"
+                                       },
+                     "literatura-24":  {
+                                           "de":  "d",
+                                           "para":  "e"
                                        },
                      "literatura-26":  {
                                            "de":  "a",
-                                           "para":  "d"
+                                           "para":  "b"
                                        },
                      "literatura-27":  {
                                            "de":  "a",
-                                           "para":  "b"
-                                       },
-                     "literatura-28":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "para":  "e"
                                        },
                      "literatura-29":  {
-                                           "de":  "a",
-                                           "para":  "c"
+                                           "de":  "e",
+                                           "para":  "a"
                                        },
                      "literatura-30":  {
                                            "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "literatura-31":  {
+                                           "de":  "e",
+                                           "para":  "c"
+                                       },
+                     "literatura-33":  {
+                                           "de":  "e",
                                            "para":  "b"
                                        },
-                     "literatura-32":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                     "literatura-35":  {
+                                           "de":  "d",
+                                           "para":  "c"
                                        },
                      "literatura-36":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "d",
+                                           "para":  "c"
                                        },
                      "literatura-37":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "c",
+                                           "para":  "a"
                                        },
                      "literatura-38":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "de":  "e",
+                                           "para":  "a"
                                        },
                      "literatura-39":  {
-                                           "de":  "a",
-                                           "para":  "d"
+                                           "de":  "d",
+                                           "para":  "c"
                                        },
                      "literatura-40":  {
-                                           "de":  "a",
-                                           "para":  "b"
-                                       },
-                     "literatura-41":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "b",
+                                           "para":  "a"
                                        },
                      "literatura-42":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "d",
+                                           "para":  "a"
                                        },
                      "literatura-43":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "e",
+                                           "para":  "c"
                                        },
                      "literatura-44":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "literatura-45":  {
+                                           "de":  "d",
+                                           "para":  "b"
                                        },
                      "literatura-46":  {
-                                           "de":  "a",
+                                           "de":  "b",
                                            "para":  "e"
                                        },
                      "literatura-47":  {
-                                           "de":  "a",
-                                           "para":  "c"
-                                       },
-                     "literatura-48":  {
-                                           "de":  "a",
-                                           "para":  "b"
+                                           "de":  "b",
+                                           "para":  "e"
                                        },
                      "literatura-49":  {
                                            "de":  "a",
                                            "para":  "d"
                                        },
                      "literatura-50":  {
-                                           "de":  "a",
+                                           "de":  "e",
                                            "para":  "c"
                                        },
                      "literatura-51":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "d",
+                                           "para":  "b"
                                        },
                      "literatura-52":  {
-                                           "de":  "a",
-                                           "para":  "b"
+                                           "de":  "d",
+                                           "para":  "a"
                                        },
                      "literatura-53":  {
-                                           "de":  "a",
-                                           "para":  "b"
-                                       },
-                     "literatura-54":  {
-                                           "de":  "a",
+                                           "de":  "e",
                                            "para":  "d"
                                        },
                      "literatura-55":  {
                                            "de":  "a",
-                                           "para":  "c"
+                                           "para":  "d"
                                        },
                      "literatura-56":  {
-                                           "de":  "a",
+                                           "de":  "e",
                                            "para":  "b"
                                        },
-                     "literatura-59":  {
-                                           "de":  "a",
+                     "literatura-57":  {
+                                           "de":  "d",
                                            "para":  "b"
                                        },
                      "literatura-60":  {
-                                           "de":  "a",
+                                           "de":  "c",
                                            "para":  "e"
                                        },
                      "literatura-61":  {
-                                           "de":  "a",
-                                           "para":  "c"
-                                       },
-                     "literatura-62":  {
-                                           "de":  "a",
+                                           "de":  "b",
                                            "para":  "d"
                                        },
                      "literatura-63":  {
-                                           "de":  "a",
-                                           "para":  "e"
+                                           "de":  "c",
+                                           "para":  "a"
                                        },
                      "literatura-64":  {
-                                           "de":  "a",
+                                           "de":  "d",
                                            "para":  "e"
                                        },
+                     "literatura-65":  {
+                                           "de":  "e",
+                                           "para":  "b"
+                                       },
                      "literatura-66":  {
-                                           "de":  "a",
+                                           "de":  "c",
                                            "para":  "d"
                                        },
                      "literatura-67":  {
-                                           "de":  "a",
-                                           "para":  "c"
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-68":  {
+                                           "de":  "c",
+                                           "para":  "b"
                                        },
                      "literatura-69":  {
-                                           "de":  "a",
-                                           "para":  "b"
+                                           "de":  "c",
+                                           "para":  "d"
                                        },
                      "literatura-70":  {
-                                           "de":  "a",
-                                           "para":  "c"
-                                       },
-                     "literatura-71":  {
-                                           "de":  "a",
-                                           "para":  "c"
+                                           "de":  "e",
+                                           "para":  "d"
                                        },
                      "literatura-72":  {
-                                           "de":  "a",
-                                           "para":  "c"
+                                           "de":  "c",
+                                           "para":  "b"
                                        },
                      "literatura-73":  {
-                                           "de":  "a",
-                                           "para":  "b"
+                                           "de":  "c",
+                                           "para":  "a"
                                        },
                      "literatura-74":  {
                                            "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "literatura-76":  {
+                                           "de":  "e",
                                            "para":  "c"
-                                       }
+                                       },
+                     "literatura-77":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "literatura-78":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       },
+                     "literatura-79":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       },
+                     "literatura-80":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-81":  {
+                                           "de":  "e",
+                                           "para":  "b"
+                                       },
+                     "literatura-82":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "literatura-83":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "literatura-84":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "literatura-85":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "literatura-86":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "literatura-88":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "literatura-89":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-90":  {
+                                           "de":  "d",
+                                           "para":  "e"
+                                       },
+                     "literatura-91":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "literatura-92":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "literatura-93":  {
+                                           "de":  "d",
+                                           "para":  "e"
+                                       },
+                     "literatura-95":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "literatura-96":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "literatura-97":  {
+                                           "de":  "c",
+                                           "para":  "a"
+                                       },
+                     "literatura-99":  {
+                                           "de":  "c",
+                                           "para":  "a"
+                                       },
+                     "literatura-100":  {
+                                            "de":  "a",
+                                            "para":  "d"
+                                        },
+                     "literatura-101":  {
+                                            "de":  "e",
+                                            "para":  "d"
+                                        },
+                     "literatura-102":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-103":  {
+                                            "de":  "a",
+                                            "para":  "b"
+                                        },
+                     "literatura-104":  {
+                                            "de":  "d",
+                                            "para":  "a"
+                                        },
+                     "literatura-106":  {
+                                            "de":  "c",
+                                            "para":  "d"
+                                        },
+                     "literatura-107":  {
+                                            "de":  "a",
+                                            "para":  "e"
+                                        },
+                     "literatura-108":  {
+                                            "de":  "e",
+                                            "para":  "c"
+                                        },
+                     "literatura-109":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        },
+                     "literatura-110":  {
+                                            "de":  "e",
+                                            "para":  "c"
+                                        },
+                     "literatura-111":  {
+                                            "de":  "a",
+                                            "para":  "c"
+                                        },
+                     "literatura-112":  {
+                                            "de":  "e",
+                                            "para":  "d"
+                                        },
+                     "literatura-113":  {
+                                            "de":  "d",
+                                            "para":  "e"
+                                        },
+                     "literatura-114":  {
+                                            "de":  "d",
+                                            "para":  "b"
+                                        },
+                     "literatura-116":  {
+                                            "de":  "b",
+                                            "para":  "d"
+                                        },
+                     "literatura-117":  {
+                                            "de":  "d",
+                                            "para":  "c"
+                                        },
+                     "literatura-118":  {
+                                            "de":  "b",
+                                            "para":  "e"
+                                        },
+                     "literatura-119":  {
+                                            "de":  "c",
+                                            "para":  "a"
+                                        },
+                     "literatura-120":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-121":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-124":  {
+                                            "de":  "a",
+                                            "para":  "c"
+                                        },
+                     "literatura-125":  {
+                                            "de":  "a",
+                                            "para":  "b"
+                                        },
+                     "literatura-126":  {
+                                            "de":  "a",
+                                            "para":  "e"
+                                        },
+                     "literatura-128":  {
+                                            "de":  "b",
+                                            "para":  "d"
+                                        },
+                     "literatura-129":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-131":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        },
+                     "literatura-132":  {
+                                            "de":  "a",
+                                            "para":  "b"
+                                        },
+                     "literatura-133":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-134":  {
+                                            "de":  "a",
+                                            "para":  "b"
+                                        },
+                     "literatura-135":  {
+                                            "de":  "b",
+                                            "para":  "d"
+                                        },
+                     "literatura-136":  {
+                                            "de":  "d",
+                                            "para":  "a"
+                                        },
+                     "literatura-137":  {
+                                            "de":  "b",
+                                            "para":  "e"
+                                        },
+                     "literatura-138":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-139":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-140":  {
+                                            "de":  "b",
+                                            "para":  "e"
+                                        },
+                     "literatura-141":  {
+                                            "de":  "a",
+                                            "para":  "d"
+                                        },
+                     "literatura-142":  {
+                                            "de":  "a",
+                                            "para":  "b"
+                                        },
+                     "literatura-143":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        },
+                     "literatura-144":  {
+                                            "de":  "a",
+                                            "para":  "d"
+                                        },
+                     "literatura-145":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        },
+                     "literatura-146":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        },
+                     "literatura-147":  {
+                                            "de":  "b",
+                                            "para":  "c"
+                                        },
+                     "literatura-148":  {
+                                            "de":  "b",
+                                            "para":  "d"
+                                        },
+                     "literatura-150":  {
+                                            "de":  "b",
+                                            "para":  "a"
+                                        }
                  }
 }

@@ -1,0 +1,394 @@
+{
+  "_comentario": [
+    "Lote 05 da frente literatura: 25 questoes. Aprofunda os dois romances que",
+    "sustentaram nove das quinze objetivas de Portugues da FGV 2026.1 -- O",
+    "Cortico (8) e Memorias de um sargento de milicias (8) -- alem de conto (6)",
+    "e poesia (3).",
+    "",
+    "A concentracao e deliberada: na prova real, ler mal UM desses romances",
+    "custa ate seis questoes de uma vez. E o maior ponto unico de falha da",
+    "objetiva, e o banco precisa de densidade suficiente para treinar isso.",
+    "",
+    "Regra de autoria: nenhuma explicacao cita alternativa por letra; nenhuma",
+    "questao pede ficha tecnica."
+  ],
+  "subtopic": "literatura",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "literatura-101",
+      "formato": "direta",
+      "texto_apoio": "Em O Cortiço, a chegada de Rita Baiana provoca em Jerônimo, imigrante português trabalhador e regrado, uma transformação progressiva: ele muda de hábitos alimentares, de música, de ritmo de trabalho e abandona a família.",
+      "enunciado": "Segundo a lógica naturalista do romance, essa transformação é apresentada como resultado de",
+      "alternativas": {
+        "a": "uma decisão moral consciente, pela qual a personagem é integralmente responsável",
+        "b": "uma intervenção sobrenatural que escapa a qualquer explicação",
+        "c": "a ação do meio tropical e do convívio, que agem sobre o organismo e vencem a disciplina trazida de fora",
+        "d": "um plano deliberado de Rita Baiana para arruinar a família do imigrante",
+        "e": "uma doença diagnosticada por um médico no curso da narrativa"
+      },
+      "resposta": "c",
+      "explicacao": "O romance encena a tese: transplantado para o trópico, o organismo cede e a disciplina europeia se dissolve. Atribuir a mudança a uma decisão moral é justamente o que o Naturalismo recusa — a personagem não escolhe, ela é modificada."
+    },
+    {
+      "id": "literatura-102",
+      "formato": "direta",
+      "texto_apoio": "O Cortiço apresenta, em paralelo ao cortiço de João Romão, o sobrado do comendador Miranda, separado dele por um muro, e a narrativa acompanha os dois espaços simultaneamente.",
+      "enunciado": "A construção desse paralelo permite ao romance",
+      "alternativas": {
+        "a": "contrapor duas formas de vida urbana e mostrar que a fortuna de um lado se alimenta da miséria do outro",
+        "b": "demonstrar que as duas famílias vivem em condições equivalentes",
+        "c": "abandonar o cortiço na segunda metade do livro para acompanhar apenas a elite",
+        "d": "provar que a ascensão social depende exclusivamente de esforço individual",
+        "e": "situar a ação em duas cidades diferentes do Império"
+      },
+      "resposta": "a",
+      "explicacao": "O muro separa e liga: são dois mundos vizinhos cuja relação é de dependência, não de contraste decorativo. O sobrado só é o que é porque o cortiço existe do outro lado, e é isso que a estrutura em paralelo torna visível."
+    },
+    {
+      "id": "literatura-103",
+      "formato": "direta",
+      "texto_apoio": "Em O Cortiço, o narrador descreve o despertar coletivo dos moradores de manhã como um único movimento, em que vozes, corpos e ruídos se confundem numa massa em fermentação.",
+      "enunciado": "Essa opção descritiva revela que, na obra, o coletivo é tratado como",
+      "alternativas": {
+        "a": "soma de indivíduos, cada um com trajetória e psicologia próprias plenamente desenvolvidas",
+        "b": "organismo único, cujos movimentos obedecem a leis que ultrapassam a vontade de cada morador",
+        "c": "grupo político organizado, com objetivos comuns conscientemente definidos",
+        "d": "reunião provisória de estranhos que não estabelecem qualquer relação entre si",
+        "e": "comunidade religiosa unida por uma mesma fé"
+      },
+      "resposta": "b",
+      "explicacao": "A descrição funde vozes e corpos numa coisa só que ferve e cresce. Tratar o cortiço como organismo, e não como soma de indivíduos, é o que sustenta a ideia de que ali as leis em ação são biológicas antes de serem morais."
+    },
+    {
+      "id": "literatura-104",
+      "formato": "direta",
+      "texto_apoio": "Ao longo de O Cortiço, personagens são reiteradamente descritas por meio de comparações com animais, e o próprio cortiço é apresentado como algo que se reproduz e se alastra.",
+      "enunciado": "O efeito acumulado desse procedimento sobre a leitura é",
+      "alternativas": {
+        "a": "reforçar a tese de que o comportamento humano ali descrito obedece a determinações biológicas, e não a escolhas",
+        "b": "suavizar a dureza das condições de vida por meio da ternura das imagens",
+        "c": "indicar que as personagens são, literalmente, animais dentro da ficção",
+        "d": "aproximar o romance da fábula, com moral explícita ao final",
+        "e": "sugerir que o autor desconhecia o vocabulário adequado para descrever pessoas"
+      },
+      "resposta": "a",
+      "explicacao": "A comparação animal, repetida sistematicamente, não é imagem isolada: é argumento. Quanto mais o texto insiste, mais firme fica a tese determinista — o que é diferente de dizer que as personagens sejam bichos na ficção."
+    },
+    {
+      "id": "literatura-105",
+      "formato": "direta",
+      "texto_apoio": "Em O Cortiço, o desfecho reserva a João Romão o casamento vantajoso e a ascensão social definitiva, enquanto Bertoleza, ao ser cercada pelos agentes que a levariam de volta ao cativeiro, se mata.",
+      "enunciado": "A justaposição desses dois desfechos funciona como",
+      "alternativas": {
+        "a": "recompensa da virtude e punição do vício, conforme a convenção moralizante",
+        "b": "demonstração de que a ascensão de um se completa exatamente com a eliminação da outra, expondo o custo humano do enriquecimento",
+        "c": "coincidência sem relação de causa entre os dois acontecimentos",
+        "d": "prova de que a personagem escravizada era responsável pela própria situação",
+        "e": "epílogo otimista, que aponta para a superação das desigualdades retratadas"
+      },
+      "resposta": "b",
+      "explicacao": "Os dois desfechos são o mesmo acontecimento visto de dois lados: ele sobe porque ela é descartada. Ler como recompensa da virtude inverteria o romance, que não trata João Romão como virtuoso em momento algum."
+    },
+    {
+      "id": "literatura-106",
+      "formato": "direta",
+      "texto_apoio": "O Cortiço foi publicado em 1890, dois anos após a Abolição e um ano após a Proclamação da República, num Rio de Janeiro que recebia levas de imigrantes e de ex-escravizados em busca de trabalho urbano.",
+      "enunciado": "A relação entre esse contexto e a matéria do romance pode ser descrita assim:",
+      "alternativas": {
+        "a": "o romance ignora o contexto e ambienta-se num passado colonial remoto",
+        "b": "o romance toma como matéria a formação de uma população urbana pobre e heterogênea, produzida por esses processos recentes",
+        "c": "o romance celebra a República como solução para os problemas que descreve",
+        "d": "o romance restringe-se à vida das famílias proprietárias, sem retratar trabalhadores",
+        "e": "o romance foi escrito antes da Abolição e não pôde considerá-la"
+      },
+      "resposta": "b",
+      "explicacao": "A habitação coletiva reúne exatamente quem esses processos jogaram na cidade: imigrantes, libertos, trabalhadores sem posse. O romance não celebra nem ignora o contexto — ele o toma como assunto."
+    },
+    {
+      "id": "literatura-107",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se dois romances brasileiros do fim do século XIX: um investiga as motivações íntimas de um narrador que se contradiz; o outro descreve uma coletividade cujas ações são explicadas por meio, raça e clima.",
+      "enunciado": "A diferença entre os dois corresponde à distinção entre",
+      "alternativas": {
+        "a": "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no grau de determinismo",
+        "b": "Romantismo e Arcadismo, separados pelo tratamento da natureza",
+        "c": "Barroco e Classicismo, separados pelo uso da antítese",
+        "d": "Modernismo e Pré-Modernismo, separados pela liberdade formal",
+        "e": "Simbolismo e Parnasianismo, separados pela musicalidade"
+      },
+      "resposta": "a",
+      "explicacao": "Os dois recusam a idealização romântica, mas o Naturalismo vai além: aplica ao humano um determinismo de laboratório. Guardar essa distinção evita tratar como sinônimos duas estéticas contemporâneas e vizinhas."
+    },
+    {
+      "id": "literatura-108",
+      "formato": "excecao",
+      "texto_apoio": "O Naturalismo brasileiro define-se por um conjunto de procedimentos e pressupostos que o distinguem das estéticas anteriores.",
+      "enunciado": "As alternativas apresentam traços do Naturalismo, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Determinismo de meio, raça e momento na explicação da conduta",
+        "b": "Animalização das personagens e atenção ao corpo e aos instintos",
+        "c": "Tratamento do coletivo como organismo submetido a leis naturais",
+        "d": "Idealização da mulher amada como ser inatingível e puro",
+        "e": "Descrição minuciosa do ambiente como força que age sobre quem nele vive"
+      },
+      "resposta": "d",
+      "explicacao": "Idealizar a mulher amada é procedimento romântico, e o Naturalismo faz o oposto: descreve corpo, apetite e doença. Os outros quatro traços são o núcleo da estética. O comando pede a exceção — quatro alternativas estão corretas."
+    },
+    {
+      "id": "literatura-109",
+      "formato": "direta",
+      "texto_apoio": "Em Memórias de um sargento de milícias, o compadre barbeiro, padrinho do protagonista, exerce papel decisivo em momentos de dificuldade, obtendo favores, intercedendo junto a autoridades e abrigando o afilhado.",
+      "enunciado": "A importância dessa figura na trama indica que, na sociedade retratada,",
+      "alternativas": {
+        "a": "as instituições públicas funcionavam com impessoalidade e previsibilidade",
+        "b": "o apadrinhamento substituía direitos e instituições como principal mecanismo de proteção social",
+        "c": "o trabalho assalariado regular era o caminho normal de ascensão",
+        "d": "a igreja detinha o monopólio da assistência aos pobres",
+        "e": "as relações de parentesco biológico eram as únicas reconhecidas socialmente"
+      },
+      "resposta": "b",
+      "explicacao": "Não há direito a acionar: há padrinho a procurar. O compadrio ocupa o lugar que, numa sociedade de instituições impessoais, caberia à lei — e é por isso que ele move o enredo tanto quanto o protagonista."
+    },
+    {
+      "id": "literatura-110",
+      "formato": "direta",
+      "texto_apoio": "O protagonista de Memórias de um sargento de milícias passa a infância aprontando travessuras, foge de estudos e obrigações, e ainda assim termina o romance empregado, casado e socialmente acomodado.",
+      "enunciado": "Esse desfecho, sem punição nem arrependimento, indica que a narrativa",
+      "alternativas": {
+        "a": "adota a moral edificante, premiando a virtude e punindo o desvio",
+        "b": "dispensa a moralização e mostra um mundo em que a acomodação se dá pelo jeito e pela proteção, não pelo mérito",
+        "c": "termina de forma trágica, com a ruína completa do protagonista",
+        "d": "sugere que o protagonista se converteu à disciplina e ao trabalho regular",
+        "e": "deixa o destino do protagonista indefinido, sem desfecho"
+      },
+      "resposta": "b",
+      "explicacao": "O malandro não é corrigido nem castigado: ele se acomoda. A ausência de moral da história é a própria posição do livro sobre como aquela sociedade funciona — por arranjo e proteção, não por mérito."
+    },
+    {
+      "id": "literatura-111",
+      "formato": "direta",
+      "texto_apoio": "Memórias de um sargento de milícias foi publicado originalmente em folhetim, em capítulos curtos e semanais destinados a um público amplo de leitores de jornal.",
+      "enunciado": "Essa origem ajuda a explicar, na obra,",
+      "alternativas": {
+        "a": "a densidade psicológica das personagens, exigida pelo formato",
+        "b": "os capítulos autônomos, o ritmo rápido e a preferência pela ação e pelo episódio cômico",
+        "c": "a ausência total de enredo, substituído por reflexão filosófica",
+        "d": "o uso de linguagem hermética, acessível apenas a leitores eruditos",
+        "e": "a extensão de cada capítulo, que ultrapassa cem páginas"
+      },
+      "resposta": "b",
+      "explicacao": "Publicar semanalmente para leitor de jornal impõe episódio fechado, ritmo rápido e gancho. As características que às vezes se leem como falta de profundidade são, na origem, exigências do meio de publicação."
+    },
+    {
+      "id": "literatura-112",
+      "formato": "direta",
+      "texto_apoio": "O narrador de Memórias de um sargento de milícias situa a ação \"no tempo do rei\", referindo-se ao período da corte de D. João VI no Rio de Janeiro, e comenta os costumes daquela época a partir de um presente posterior.",
+      "enunciado": "Esse distanciamento temporal permite ao narrador",
+      "alternativas": {
+        "a": "julgar os costumes narrados com ironia, e ao mesmo tempo insinuar que eles não desapareceram",
+        "b": "garantir a exatidão documental dos fatos relatados",
+        "c": "evitar qualquer juízo sobre o que narra, mantendo-se neutro",
+        "d": "situar a narrativa num tempo inteiramente imaginário, sem referência histórica",
+        "e": "atribuir a narração a uma personagem que viveu os acontecimentos"
+      },
+      "resposta": "a",
+      "explicacao": "O intervalo entre o tempo narrado e o tempo da narração é o que abre espaço para a ironia. E o narrador usa esse espaço não para se distanciar, mas para aproximar: o que ele descreve do passado continua reconhecível no presente do leitor."
+    },
+    {
+      "id": "literatura-113",
+      "formato": "direta",
+      "texto_apoio": "Em Memórias de um sargento de milícias, a figura do major Vidigal concentra a autoridade policial, e sua atuação mistura rigor arbitrário com acomodações negociadas caso a caso.",
+      "enunciado": "Essa caracterização da autoridade contribui para o retrato de uma sociedade em que",
+      "alternativas": {
+        "a": "a lei é aplicada de modo uniforme e impessoal a todos os cidadãos",
+        "b": "a autoridade opera por arbítrio e negociação pessoal, e não por norma previsível",
+        "c": "não existe qualquer forma de poder repressivo constituído",
+        "d": "a população possui mecanismos institucionais para contestar decisões da autoridade",
+        "e": "o poder judiciário é a instância que decide todos os conflitos cotidianos"
+      },
+      "resposta": "b",
+      "explicacao": "Vidigal ora aperta, ora afrouxa, conforme quem está diante dele. É autoridade sem previsibilidade — o que combina exatamente com um mundo em que se transita entre a ordem e a desordem sem que a fronteira seja fixa."
+    },
+    {
+      "id": "literatura-114",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se dois romances brasileiros do século XIX: em um, o protagonista pobre se acomoda por meio de favores e esperteza; em outro, o protagonista imigrante enriquece explorando trabalho não pago.",
+      "enunciado": "A aproximação entre as duas trajetórias mostra que ambos os romances tratam de",
+      "alternativas": {
+        "a": "caminhos de sobrevivência e ascensão que dispensam o trabalho assalariado regular, numa sociedade onde ele não era a norma",
+        "b": "personagens da aristocracia rural em decadência",
+        "c": "conflitos entre nações europeias transpostos para o Brasil",
+        "d": "trajetórias idênticas, sem qualquer diferença de condição social entre os protagonistas",
+        "e": "a vida monástica e a renúncia aos bens materiais"
+      },
+      "resposta": "a",
+      "explicacao": "Um se arranja pelo favor, o outro acumula pela exploração — mas nenhum dos dois ascende pelo salário, porque o salário não era o mecanismo dominante. A comparação ilumina a estrutura comum por baixo de trajetórias distintas."
+    },
+    {
+      "id": "literatura-115",
+      "formato": "direta",
+      "texto_apoio": "Em Memórias de um sargento de milícias, cenas de conflito doméstico e de violência física são narradas em tom leve, com atenção ao ridículo dos gestos e sem que o narrador se detenha no sofrimento das vítimas.",
+      "enunciado": "Esse tratamento produz no leitor contemporâneo",
+      "alternativas": {
+        "a": "adesão imediata ao ponto de vista do narrador, sem qualquer desconforto",
+        "b": "um desconforto produtivo, que expõe a distância entre o que era tratado como cômico na época e o que hoje se reconhece como violência",
+        "c": "a certeza de que tais episódios não ocorriam de fato na sociedade retratada",
+        "d": "a impressão de que o romance é uma denúncia explícita da violência doméstica",
+        "e": "indiferença, por se tratar de um texto sem qualquer relação com o presente"
+      },
+      "resposta": "b",
+      "explicacao": "O riso do narrador não é o nosso, e é justamente aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Ler o livro como denúncia explícita seria projetar sobre ele uma intenção que não tem."
+    },
+    {
+      "id": "literatura-116",
+      "formato": "direta",
+      "texto_apoio": "Antonio Candido observa que, em Memórias de um sargento de milícias, quase não aparecem escravizados em primeiro plano, embora a ação transcorra numa cidade escravista.",
+      "enunciado": "Essa ausência é significativa porque",
+      "alternativas": {
+        "a": "demonstra que não havia escravizados no Rio de Janeiro do período retratado",
+        "b": "revela que o romance foca a camada dos homens livres pobres, cuja existência depende justamente de não se confundir com os escravizados",
+        "c": "prova que o autor era favorável à escravidão",
+        "d": "indica que o romance se passa em outro país",
+        "e": "resulta de censura imposta à publicação em folhetim"
+      },
+      "resposta": "b",
+      "explicacao": "O que o romance não mostra também informa: seu foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo. A ausência não nega a escravidão — delimita o recorte."
+    },
+    {
+      "id": "literatura-117",
+      "formato": "direta",
+      "texto_apoio": "Num conto, o desfecho é apresentado numa única frase final que reinterpreta retroativamente tudo o que foi narrado antes.",
+      "enunciado": "Esse procedimento corresponde ao que se costuma chamar de",
+      "alternativas": {
+        "a": "epígrafe, citação colocada antes do texto",
+        "b": "clímax dilatado, distribuído ao longo de toda a narrativa",
+        "c": "desfecho de virada, em que a informação final reorganiza o sentido do conjunto",
+        "d": "prolepse, antecipação de acontecimentos futuros",
+        "e": "moldura narrativa, história que contém outra história"
+      },
+      "resposta": "c",
+      "explicacao": "A frase final não acrescenta um episódio: ela obriga a reler o que já se leu. É o efeito de virada, e depende da economia do conto — num romance, a distância entre início e fim dissolveria o impacto."
+    },
+    {
+      "id": "literatura-118",
+      "formato": "direta",
+      "texto_apoio": "Num conto brasileiro contemporâneo ambientado numa periferia urbana, a violência é narrada em primeira pessoa, com vocabulário e sintaxe da fala local, sem que o narrador explique os termos ao leitor de fora.",
+      "enunciado": "A recusa em explicar produz o efeito de",
+      "alternativas": {
+        "a": "tornar o texto ininteligível, impedindo qualquer leitura",
+        "b": "afirmar a legitimidade daquele modo de falar, colocando o leitor de fora na posição de quem precisa se aproximar",
+        "c": "indicar que o narrador desconhece a norma culta",
+        "d": "transformar o conto em glossário de gírias",
+        "e": "garantir que o texto seja lido apenas por quem vive naquele lugar"
+      },
+      "resposta": "b",
+      "explicacao": "Explicar seria colocar o leitor de fora no centro e a comunidade narrada na posição de objeto. Ao não explicar, o conto inverte a hierarquia: quem não conhece é que se desloca. É decisão de forma com consequência política."
+    },
+    {
+      "id": "literatura-119",
+      "formato": "direta",
+      "texto_apoio": "Um conto é construído inteiramente a partir de diálogo, sem descrição de ambiente nem acesso à interioridade das personagens.",
+      "enunciado": "Nesse arranjo, a caracterização das personagens é feita",
+      "alternativas": {
+        "a": "por meio do que dizem e do modo como dizem, cabendo ao leitor inferir o resto",
+        "b": "por meio de descrições físicas detalhadas fornecidas pelo narrador",
+        "c": "por meio do acesso direto aos pensamentos de cada uma",
+        "d": "por meio de um resumo biográfico apresentado no início",
+        "e": "de forma impossível, já que sem narrador não há caracterização"
+      },
+      "resposta": "a",
+      "explicacao": "Sem narrador que descreva ou explique, tudo o que se sabe vem da fala — vocabulário, hesitações, o que se evita dizer. O trabalho de composição é transferido ao leitor, que precisa inferir de dentro do diálogo."
+    },
+    {
+      "id": "literatura-120",
+      "formato": "direta",
+      "texto_apoio": "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
+      "enunciado": "Esse procedimento caracteriza",
+      "alternativas": {
+        "a": "o realismo documental, comprometido com a verificação dos fatos",
+        "b": "o insólito naturalizado, em que o extraordinário é incorporado ao cotidiano sem ruptura de tom",
+        "c": "a paródia, que retoma um texto anterior para ridicularizá-lo",
+        "d": "a crônica jornalística, presa ao acontecimento do dia",
+        "e": "o texto didático, que explica ao leitor cada evento narrado"
+      },
+      "resposta": "b",
+      "explicacao": "O que define o procedimento não é o sobrenatural em si, mas a ausência de espanto diante dele. Se o narrador se surpreendesse, o efeito seria fantástico; como não se surpreende, o extraordinário passa a integrar a ordem das coisas."
+    },
+    {
+      "id": "literatura-121",
+      "formato": "direta",
+      "texto_apoio": "Num conto, o narrador afirma, no meio da narrativa, que talvez esteja se enganando quanto a um detalhe importante, e prossegue sem esclarecê-lo.",
+      "enunciado": "Essa admissão de incerteza serve para",
+      "alternativas": {
+        "a": "corrigir um erro factual da primeira versão publicada",
+        "b": "instalar a dúvida como parte da experiência de leitura, transferindo ao leitor a tarefa de decidir",
+        "c": "provar que o narrador é integralmente confiável, já que admite limites",
+        "d": "encerrar a narrativa antecipadamente",
+        "e": "indicar que o conto foi escrito por mais de um autor"
+      },
+      "resposta": "b",
+      "explicacao": "Admitir dúvida não restaura a confiança — instala a incerteza no centro da leitura. O leitor deixa de receber a história pronta e passa a ter de julgá-la, que é exatamente o efeito buscado."
+    },
+    {
+      "id": "literatura-122",
+      "formato": "direta",
+      "texto_apoio": "Um poema é composto por uma única frase distribuída ao longo de vários versos, com o sentido só se completando no último deles.",
+      "enunciado": "O recurso responsável por essa distribuição é",
+      "alternativas": {
+        "a": "o enjambement, em que a unidade sintática ultrapassa o limite do verso",
+        "b": "a anáfora, repetição de termo no início de versos sucessivos",
+        "c": "o refrão, verso que retorna periodicamente",
+        "d": "a redondilha, verso de cinco ou sete sílabas",
+        "e": "o soneto, forma fixa de catorze versos"
+      },
+      "resposta": "a",
+      "explicacao": "Quando a frase não cabe no verso e transborda para o seguinte, o poema cria suspensão: o leitor precisa continuar para completar o sentido. É o enjambement, e a tensão entre a pausa do verso e a continuidade da sintaxe é o efeito procurado."
+    },
+    {
+      "id": "literatura-123",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico se dirige a um \"tu\" que nunca é identificado e que não responde em nenhum momento.",
+      "enunciado": "A permanência desse interlocutor mudo e indefinido faz com que",
+      "alternativas": {
+        "a": "o poema perca sentido, por falta de referência clara",
+        "b": "o leitor possa ocupar esse lugar vazio, tornando-se o destinatário da fala",
+        "c": "se conclua que o interlocutor é o próprio autor do poema",
+        "d": "o poema se converta em diálogo teatral",
+        "e": "a ausência de resposta indique que o interlocutor está morto"
+      },
+      "resposta": "b",
+      "explicacao": "O lugar vazio do interlocutor é convite, não falha. Como ninguém o preenche dentro do poema, quem lê acaba ocupando a posição — e a fala passa a ser dirigida a si."
+    },
+    {
+      "id": "literatura-124",
+      "formato": "direta",
+      "texto_apoio": "Num poema, versos curtos e cortados alternam-se com versos longos e fluidos, acompanhando a alternância entre momentos de tensão e momentos de distensão no que é dito.",
+      "enunciado": "Essa correspondência entre ritmo e conteúdo é um exemplo de",
+      "alternativas": {
+        "a": "ruptura entre forma e sentido, procedimento típico da vanguarda",
+        "b": "convergência entre forma e sentido, em que o andamento do verso encena aquilo de que o poema fala",
+        "c": "erro de composição, que deveria ter sido uniformizado na revisão",
+        "d": "indiferença da forma em relação ao conteúdo, própria da poesia moderna",
+        "e": "adoção de forma fixa tradicional, com metro regular do início ao fim"
+      },
+      "resposta": "b",
+      "explicacao": "Verso curto para a tensão, verso longo para a distensão: o poema não descreve o ritmo do que sente, ele o executa. Reconhecer essa convergência é o que separa a leitura formal da simples paráfrase do conteúdo."
+    },
+    {
+      "id": "literatura-125",
+      "formato": "direta",
+      "texto_apoio": "Um poema retoma explicitamente versos conhecidos de outro poema, alterando-lhes o contexto e produzindo sentido diverso do original.",
+      "enunciado": "Esse procedimento denomina-se",
+      "alternativas": {
+        "a": "intertextualidade, relação deliberada entre textos que produz sentido novo a partir do reconhecimento do anterior",
+        "b": "plágio, apropriação indevida sem indicação da fonte",
+        "c": "tradução, transposição de um texto entre línguas",
+        "d": "pleonasmo, repetição redundante de uma ideia",
+        "e": "hipérbole, exagero deliberado de uma qualidade"
+      },
+      "resposta": "a",
+      "explicacao": "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Isso separa a intertextualidade do plágio, que depende justamente de a origem não ser percebida."
+    }
+  ]
+}

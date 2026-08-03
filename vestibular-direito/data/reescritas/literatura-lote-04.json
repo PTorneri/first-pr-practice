@@ -1,0 +1,392 @@
+{
+  "_comentario": [
+    "Lote 04 da frente literatura: 25 questoes. Literatura portuguesa (10),",
+    "literaturas africanas em lingua portuguesa (8) e Modernismo brasileiro (7).",
+    "",
+    "Portuguesa e africanas constam do Anexo I do conteudo programatico do",
+    "Insper 2027.1 e nao tinham uma unica questao no banco. A FGV nao as lista",
+    "separadamente, mas Pessoa e Saramago aparecem no repertorio de Artes.",
+    "",
+    "Regra de autoria: nenhuma explicacao cita alternativa por letra; nenhuma",
+    "questao pede ficha tecnica."
+  ],
+  "subtopic": "literatura",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "literatura-76",
+      "formato": "direta",
+      "texto_apoio": "Em Os Lusíadas, a narrativa da viagem de Vasco da Gama é interrompida por episódios em que personagens censuram a própria empresa marítima — o Velho do Restelo adverte contra a cobiça e a vaidade que movem a expedição.",
+      "enunciado": "A presença dessa voz dissonante dentro do poema épico indica que a obra",
+      "alternativas": {
+        "a": "abandona o gênero épico e se converte em texto de denúncia política",
+        "b": "incorpora a crítica à própria empresa que celebra, sem que isso anule o louvor",
+        "c": "atribui ao narrador a defesa integral da expansão, sem qualquer contraponto",
+        "d": "foi escrita por dois autores com posições opostas sobre as navegações",
+        "e": "trata a viagem como ficção sem base em acontecimento histórico"
+      },
+      "resposta": "b",
+      "explicacao": "O elogio e a advertência convivem no mesmo poema, e é essa tensão que o torna mais interessante do que uma celebração simples. Ler o Velho do Restelo como ruptura do gênero é forte demais: a epopeia continua sendo epopeia, mas com consciência do preço do que exalta."
+    },
+    {
+      "id": "literatura-77",
+      "formato": "direta",
+      "texto_apoio": "\"Amor é fogo que arde sem se ver; / É ferida que dói e não se sente; / É um contentamento descontente; / É dor que desatina sem doer.\" (Luís de Camões)",
+      "enunciado": "A construção do soneto assenta-se, sobretudo, em",
+      "alternativas": {
+        "a": "antíteses e paradoxos, que definem o amor pela contradição",
+        "b": "comparações com elementos da natureza rural",
+        "c": "narração de um episódio amoroso concreto",
+        "d": "onomatopeias que reproduzem sons do mundo físico",
+        "e": "enumeração de nomes próprios da mitologia clássica"
+      },
+      "resposta": "a",
+      "explicacao": "Arder sem se ver, doer sem se sentir, contentamento descontente: cada verso define por contradição. O procedimento não é ornamento — é a tese de que o amor só pode ser dito por aquilo que ele nega."
+    },
+    {
+      "id": "literatura-78",
+      "formato": "direta",
+      "texto_apoio": "O teatro de Gil Vicente, produzido no início do século XVI, coloca em cena tipos sociais reconhecíveis — o fidalgo, o frade, o sapateiro, a alcoviteira — e os submete a julgamento numa situação alegórica.",
+      "enunciado": "Esse procedimento serve para",
+      "alternativas": {
+        "a": "documentar com precisão histórica a biografia de figuras reais da corte",
+        "b": "satirizar os vícios de cada camada social por meio de tipos representativos, sob a proteção da moldura alegórica",
+        "c": "defender a ordem social existente, mostrando que cada grupo cumpre bem sua função",
+        "d": "abandonar o teatro religioso em favor da tragédia clássica greco-latina",
+        "e": "restringir a crítica exclusivamente ao clero, poupando as demais camadas"
+      },
+      "resposta": "b",
+      "explicacao": "O tipo funciona como atalho: quem vê o fidalgo em cena reconhece a classe inteira. E a alegoria dá a cobertura necessária — pode-se julgar todo mundo se o julgamento acontece num plano simbólico. Note que a sátira não poupa camada alguma, inclusive a popular."
+    },
+    {
+      "id": "literatura-79",
+      "formato": "direta",
+      "texto_apoio": "Nos romances de Eça de Queirós, personagens da burguesia e do clero portugueses do século XIX são apresentadas com detalhamento de hábitos, discursos e ambientes, e o narrador expõe a distância entre o que elas dizem professar e o que efetivamente fazem.",
+      "enunciado": "Essa distância, explorada sistematicamente, caracteriza a obra como",
+      "alternativas": {
+        "a": "romântica, pela idealização das personagens",
+        "b": "realista, pela crítica de costumes assentada na observação da sociedade",
+        "c": "árcade, pelo elogio da vida simples",
+        "d": "simbolista, pela dissolução dos contornos objetivos",
+        "e": "trovadoresca, pela convenção do amor cortês"
+      },
+      "resposta": "b",
+      "explicacao": "Observar de perto para expor a hipocrisia é o programa realista, e Eça o aplica à burguesia e ao clero. A distância entre discurso e prática só se torna visível porque o narrador acumulou antes o detalhe do cotidiano — método, não maldade."
+    },
+    {
+      "id": "literatura-80",
+      "formato": "direta",
+      "texto_apoio": "A poesia de Cesário Verde, na segunda metade do século XIX, toma como matéria a cidade de Lisboa — o comércio, as ruas, os trabalhadores, o cansaço do corpo urbano — em vez dos temas líricos convencionais.",
+      "enunciado": "Essa escolha temática faz do poeta um precursor porque",
+      "alternativas": {
+        "a": "recupera a tradição épica portuguesa das navegações",
+        "b": "antecipa a atenção modernista ao cotidiano urbano e ao olhar do observador na rua",
+        "c": "retoma o vocabulário e as formas do Trovadorismo medieval",
+        "d": "abandona a poesia em favor da crônica jornalística",
+        "e": "restringe sua obra à paisagem rural do interior português"
+      },
+      "resposta": "b",
+      "explicacao": "A cidade como assunto legítimo da poesia, vista por quem caminha nela, é o que várias vanguardas do século seguinte tomariam como ponto de partida. Daí a posição de precursor — a matéria já está lá antes de haver programa que a justifique."
+    },
+    {
+      "id": "literatura-81",
+      "formato": "direta",
+      "texto_apoio": "Fernando Pessoa criou heterônimos — Alberto Caeiro, Ricardo Reis, Álvaro de Campos — atribuindo a cada um biografia, estilo e visão de mundo próprios, por vezes incompatíveis entre si.",
+      "enunciado": "A heteronímia distingue-se do simples uso de pseudônimo porque",
+      "alternativas": {
+        "a": "consiste apenas em assinar as obras com nome falso para escapar da censura",
+        "b": "cria autores fictícios com poética autônoma, de modo que a própria obra encena a multiplicidade do sujeito",
+        "c": "reúne sob um nome único textos escritos por vários autores reais",
+        "d": "traduz para o português obras originalmente escritas em outras línguas",
+        "e": "atribui a um autor real a autoria de textos apócrifos"
+      },
+      "resposta": "b",
+      "explicacao": "Pseudônimo troca a assinatura; heterônimo cria outro poeta, com estilo e ideias que podem contradizer os do criador. É por isso que a heteronímia não é truque biográfico, e sim uma tese sobre a impossibilidade de um eu único."
+    },
+    {
+      "id": "literatura-82",
+      "formato": "direta",
+      "texto_apoio": "Um dos heterônimos de Pessoa recusa a metafísica e afirma que pensar sobre as coisas é deixar de vê-las; sua poesia privilegia a percepção direta, o verso sem ornamento e a recusa do simbolismo.",
+      "enunciado": "Essa poética corresponde à de",
+      "alternativas": {
+        "a": "Alberto Caeiro, o mestre que propõe ver sem interpretar",
+        "b": "Ricardo Reis, que cultiva a ode clássica e o estoicismo",
+        "c": "Álvaro de Campos, que celebra a máquina e o excesso sensorial",
+        "d": "Bernardo Soares, do registro em prosa da vida de escritório",
+        "e": "Fernando Pessoa ortônimo, do intelectualismo e do jogo entre razão e sentimento"
+      },
+      "resposta": "a",
+      "explicacao": "Recusar o pensamento em favor da percepção direta é exatamente o programa de Caeiro, apresentado pelos demais como mestre. Reis é clássico e resignado, Campos é o excesso futurista — as três poéticas coexistem sem se resolver."
+    },
+    {
+      "id": "literatura-83",
+      "formato": "direta",
+      "texto_apoio": "Outro heterônimo de Pessoa escreve odes de métrica regular, evoca deuses pagãos e prega a aceitação serena do destino e o gozo moderado do instante presente.",
+      "enunciado": "Essa poética filia-se a uma tradição",
+      "alternativas": {
+        "a": "romântica, pela efusão sentimental",
+        "b": "futurista, pela exaltação da velocidade e da máquina",
+        "c": "clássica e epicurista, pela contenção formal e pela aceitação do que não se pode mudar",
+        "d": "surrealista, pela escrita automática",
+        "e": "naturalista, pela análise das determinações biológicas"
+      },
+      "resposta": "c",
+      "explicacao": "Métrica regular, deuses pagãos e gozo moderado do instante compõem a herança clássica passada pelo estoicismo e pelo epicurismo. É o polo oposto ao do heterônimo que celebra máquina e excesso, e a distância entre os dois é deliberada."
+    },
+    {
+      "id": "literatura-84",
+      "formato": "direta",
+      "texto_apoio": "Um terceiro heterônimo de Pessoa escreve versos longos e acumulativos, celebra a energia das máquinas e das multidões e, em outra fase, expressa esgotamento e sensação de fracasso.",
+      "enunciado": "A convivência dessas duas fases numa mesma obra revela",
+      "alternativas": {
+        "a": "erro de atribuição, já que os textos pertenceriam a heterônimos distintos",
+        "b": "que o entusiasmo com a modernidade e a desilusão com ela são as duas faces de uma mesma experiência",
+        "c": "que o poeta abandonou definitivamente a poesia após a primeira fase",
+        "d": "que a segunda fase é apócrifa e foi acrescentada por editores",
+        "e": "que a obra recusa qualquer relação com o contexto histórico do início do século XX"
+      },
+      "resposta": "b",
+      "explicacao": "A euforia com a máquina e o cansaço diante dela não se contradizem: são momentos de uma mesma relação com a modernidade. Tratar a segunda fase como erro ou falsificação seria apagar justamente o que a obra tem de mais honesto."
+    },
+    {
+      "id": "literatura-85",
+      "formato": "direta",
+      "texto_apoio": "Na prosa de José Saramago, os diálogos costumam vir integrados ao parágrafo, sem travessão nem aspas, separados apenas por vírgulas e por maiúsculas que marcam a mudança de falante.",
+      "enunciado": "Esse procedimento de pontuação produz o efeito de",
+      "alternativas": {
+        "a": "dificultar deliberadamente a leitura, sem função além do experimentalismo gratuito",
+        "b": "fundir a voz do narrador às vozes das personagens num fluxo contínuo, aproximando a prosa do ritmo da fala e da tradição oral",
+        "c": "eliminar as personagens, restando apenas a voz do narrador",
+        "d": "indicar que os diálogos foram acrescentados posteriormente ao texto",
+        "e": "converter o romance em texto teatral destinado à encenação"
+      },
+      "resposta": "b",
+      "explicacao": "Sem travessão, não há fronteira nítida entre quem narra e quem fala, e o texto ganha o andamento de alguém contando em voz alta. O efeito é de continuidade, não de apagamento das personagens — elas continuam lá, apenas sem moldura tipográfica."
+    },
+    {
+      "id": "literatura-86",
+      "formato": "direta",
+      "texto_apoio": "Na prosa de Mia Couto, aparecem palavras inventadas a partir de radicais do português cruzados com estruturas de línguas moçambicanas, além de provérbios e formas de narrar herdadas da tradição oral.",
+      "enunciado": "Esse trabalho com a língua indica que, para o autor,",
+      "alternativas": {
+        "a": "o português europeu é o único padrão legítimo de escrita literária",
+        "b": "a língua herdada da colonização pode ser reinventada a partir das culturas locais, tornando-se instrumento próprio",
+        "c": "a literatura moçambicana deve abandonar o português e escrever apenas em línguas locais",
+        "d": "a tradição oral é incompatível com a literatura escrita",
+        "e": "as palavras inventadas são erros de revisão que passaram despercebidos"
+      },
+      "resposta": "b",
+      "explicacao": "Não é nem submissão ao padrão europeu nem recusa da língua: é apropriação. Reinventar o português a partir de estruturas e saberes locais transforma a herança colonial em ferramenta, e a oralidade em matéria de escrita."
+    },
+    {
+      "id": "literatura-87",
+      "formato": "direta",
+      "texto_apoio": "Boa parte da ficção angolana e moçambicana produzida após as independências, alcançadas em 1975, trata da guerra, da reconstrução nacional e da distância entre as promessas da libertação e a vida cotidiana que se seguiu.",
+      "enunciado": "Esse conjunto temático caracteriza uma literatura que",
+      "alternativas": {
+        "a": "celebra sem reservas os governos surgidos após a independência",
+        "b": "examina criticamente o próprio projeto nacional que ajudou a construir, sem por isso defender o retorno colonial",
+        "c": "evita qualquer referência ao período colonial e à guerra",
+        "d": "se dedica exclusivamente à reconstituição de mitos pré-coloniais",
+        "e": "foi produzida integralmente antes das independências"
+      },
+      "resposta": "b",
+      "explicacao": "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas. Sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil e sua força."
+    },
+    {
+      "id": "literatura-88",
+      "formato": "direta",
+      "texto_apoio": "Escritoras africanas de língua portuguesa têm tratado da condição feminina articulando questões de gênero a heranças coloniais, a tradições locais e a transformações econômicas recentes.",
+      "enunciado": "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
+      "alternativas": {
+        "a": "fenômeno isolado, sem relação com a história colonial ou com a economia",
+        "b": "questão atravessada por outras — raça, classe, colonização —, que não se explica por um fator único",
+        "c": "problema já integralmente resolvido pelas independências nacionais",
+        "d": "assunto importado, sem correspondência nas sociedades retratadas",
+        "e": "tema secundário, subordinado à narrativa de guerra"
+      },
+      "resposta": "b",
+      "explicacao": "Ler gênero isoladamente nessas obras é perder o essencial: as personagens são atravessadas ao mesmo tempo por tradição, colonização e economia. É a interseção, e não um fator único, que dá forma à experiência narrada."
+    },
+    {
+      "id": "literatura-89",
+      "formato": "direta",
+      "texto_apoio": "Um poema de autor africano de língua portuguesa reivindica a identidade negra e africana usando a língua do colonizador, e faz dessa escolha um tema explícito do próprio texto.",
+      "enunciado": "A tensão produzida por essa escolha consiste em",
+      "alternativas": {
+        "a": "afirmar uma identidade recorrendo ao idioma imposto por quem a negou, transformando a contradição em matéria do poema",
+        "b": "demonstrar que o autor desconhecia as línguas locais",
+        "c": "indicar que o poema foi escrito antes da colonização",
+        "d": "provar que a identidade africana só pode ser expressa em português",
+        "e": "eliminar qualquer traço de conflito entre colonizador e colonizado"
+      },
+      "resposta": "a",
+      "explicacao": "A contradição não é resolvida nem escondida: ela vira assunto. Usar a língua do colonizador para afirmar o que ele negou é um gesto que o poema realiza e comenta ao mesmo tempo."
+    },
+    {
+      "id": "literatura-90",
+      "formato": "direta",
+      "texto_apoio": "Em narrativas africanas de língua portuguesa é frequente a presença de um contador de histórias, de fórmulas de abertura e fechamento e de repetições rítmicas que remetem à performance oral.",
+      "enunciado": "A incorporação desses elementos à obra escrita cumpre a função de",
+      "alternativas": {
+        "a": "sinalizar que o texto é transcrição literal de uma gravação de campo",
+        "b": "inscrever na forma escrita uma tradição de transmissão do saber que a colonização tratou como inferior",
+        "c": "simplificar a narrativa para leitores iniciantes",
+        "d": "substituir a autoria individual pela autoria anônima e coletiva",
+        "e": "demonstrar que a literatura escrita é superior à tradição oral"
+      },
+      "resposta": "b",
+      "explicacao": "Trazer o contador, as fórmulas e o ritmo para dentro do livro é reconhecer valor literário a um modo de transmissão que foi historicamente desqualificado. Não se trata de transcrição documental nem de simplificação: é estilização deliberada."
+    },
+    {
+      "id": "literatura-91",
+      "formato": "excecao",
+      "texto_apoio": "As literaturas africanas de língua portuguesa constituíram-se em contextos marcados pela colonização, pelas guerras de independência e pela construção de Estados nacionais recentes.",
+      "enunciado": "As alternativas apresentam traços recorrentes dessas literaturas, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Incorporação de estruturas e procedimentos da tradição oral",
+        "b": "Reinvenção do português a partir de línguas e culturas locais",
+        "c": "Tratamento crítico do projeto nacional surgido após a independência",
+        "d": "Adesão ao ideal de assimilação cultural europeia como horizonte desejável",
+        "e": "Elaboração da memória da guerra e do período colonial"
+      },
+      "resposta": "d",
+      "explicacao": "Tomar a assimilação europeia como horizonte desejável é justamente o que essas literaturas recusam — a assimilação foi política colonial, não projeto delas. Os outros quatro traços são recorrentes. O comando pede a exceção."
+    },
+    {
+      "id": "literatura-92",
+      "formato": "direta",
+      "texto_apoio": "Em Vidas Secas, um dos capítulos é narrado da perspectiva da cadela Baleia, e sua morte recebe tratamento tão detido quanto o dado às personagens humanas.",
+      "enunciado": "Essa escolha narrativa produz o efeito de",
+      "alternativas": {
+        "a": "introduzir elemento fantástico que rompe com o realismo da obra",
+        "b": "aproximar humanos e animais numa mesma condição de precariedade, sem rebaixar as personagens nem humanizar artificialmente o animal",
+        "c": "aliviar o tom do romance com um episódio de ternura sem consequências",
+        "d": "indicar que a cadela é a verdadeira protagonista da narrativa",
+        "e": "demonstrar que os animais possuem linguagem articulada igual à humana"
+      },
+      "resposta": "b",
+      "explicacao": "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez. É o procedimento que torna o capítulo devastador sem precisar de nenhum comentário do narrador."
+    },
+    {
+      "id": "literatura-93",
+      "formato": "direta",
+      "texto_apoio": "Em Vidas Secas, as personagens têm vocabulário reduzido, e o narrador frequentemente descreve pensamentos que elas não conseguiriam formular em palavras.",
+      "enunciado": "Essa relação entre narrador e personagens indica que",
+      "alternativas": {
+        "a": "o narrador empresta às personagens uma articulação que elas não possuem, tornando visível uma interioridade que a própria condição social lhes impede de expressar",
+        "b": "as personagens são cultas e dissimulam ignorância por conveniência",
+        "c": "o narrador desconhece o modo de falar do sertão que descreve",
+        "d": "o romance é narrado em primeira pessoa por uma das personagens",
+        "e": "os pensamentos descritos pertencem exclusivamente ao narrador, sem relação com as personagens"
+      },
+      "resposta": "a",
+      "explicacao": "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna. Não é falha de verossimilhança: é o modo de mostrar que a pobreza também é pobreza de palavra."
+    },
+    {
+      "id": "literatura-94",
+      "formato": "direta",
+      "texto_apoio": "Vidas Secas começa com a família em fuga da seca e termina com a família novamente em fuga da seca, rumo ao sul.",
+      "enunciado": "Essa estrutura circular contribui para o sentido da obra ao",
+      "alternativas": {
+        "a": "sugerir que a situação retratada se repete indefinidamente, sem progressão nem saída",
+        "b": "indicar que a família alcançou finalmente estabilidade econômica",
+        "c": "demonstrar que o romance ficou inacabado",
+        "d": "marcar a passagem de uma geração a outra dentro da mesma família",
+        "e": "revelar que os acontecimentos narrados foram um sonho"
+      },
+      "resposta": "a",
+      "explicacao": "Terminar onde começou não é falta de enredo: é o enredo. A circularidade formaliza a ausência de horizonte, que é a diferença entre tratar o atraso como etapa a vencer e tratá-lo como condição."
+    },
+    {
+      "id": "literatura-95",
+      "formato": "direta",
+      "texto_apoio": "Na obra de Mário de Andrade, um mesmo protagonista transita entre regiões distantes do Brasil, acumula traços culturais de origens diversas e não se fixa em nenhuma identidade estável.",
+      "enunciado": "Essa construção da personagem serve ao projeto modernista de",
+      "alternativas": {
+        "a": "propor uma identidade nacional feita de mistura e contradição, em vez de uma essência única e fixa",
+        "b": "defender a superioridade de uma das regiões brasileiras sobre as demais",
+        "c": "documentar com rigor etnográfico os costumes de uma única comunidade",
+        "d": "recusar qualquer preocupação com a identidade nacional",
+        "e": "propor o retorno a um Brasil anterior à colonização"
+      },
+      "resposta": "a",
+      "explicacao": "A personagem sem caráter fixo é o argumento: o país que ela atravessa também não tem essência única. A proposta modernista aqui é substituir a busca de uma raiz pura pela aceitação da mistura como forma."
+    },
+    {
+      "id": "literatura-96",
+      "formato": "direta",
+      "texto_apoio": "A produção literária brasileira da terceira geração modernista, a partir dos anos 1940, retoma o cuidado com a construção do verso e da frase, sem abandonar as conquistas de liberdade formal de 1922.",
+      "enunciado": "Essa combinação caracteriza-se por",
+      "alternativas": {
+        "a": "restaurar integralmente a métrica parnasiana e abandonar o verso livre",
+        "b": "conciliar rigor construtivo com liberdade formal, tratando a forma como problema a ser resolvido em cada obra",
+        "c": "renunciar a qualquer preocupação com a forma em nome do conteúdo social",
+        "d": "repetir sem alterações o programa da primeira geração modernista",
+        "e": "abandonar a literatura brasileira em favor de modelos estrangeiros"
+      },
+      "resposta": "b",
+      "explicacao": "Não é volta ao parnasianismo nem repetição de 1922: é a forma reaberta como questão. A liberdade conquistada permanece, mas deixa de ser bandeira e passa a ser material de trabalho consciente."
+    },
+    {
+      "id": "literatura-97",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se dois momentos do Modernismo brasileiro: no primeiro, predominam o manifesto, a paródia e o escândalo público; no segundo, a investigação social e a densidade psicológica em romances e poemas.",
+      "enunciado": "A diferença entre os dois momentos pode ser explicada porque",
+      "alternativas": {
+        "a": "a primeira fase precisou romper com a estética anterior, e a seguinte, já com a ruptura consolidada, pôde dedicar-se a construir com os meios conquistados",
+        "b": "os autores da segunda fase desconheciam a produção da primeira",
+        "c": "a segunda fase abandonou o Modernismo e retornou ao Realismo do século XIX",
+        "d": "a primeira fase não teve qualquer repercussão pública",
+        "e": "as duas fases foram produzidas pelos mesmos autores, sem mudança de projeto"
+      },
+      "resposta": "a",
+      "explicacao": "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Ver a segunda fase como retorno ao século XIX confunde o interesse social renovado com a estética que o Modernismo havia superado."
+    },
+    {
+      "id": "literatura-98",
+      "formato": "direta",
+      "texto_apoio": "Um texto modernista brasileiro incorpora erros de concordância, marcas de oralidade e construções da fala popular, mantendo-as deliberadamente na versão publicada.",
+      "enunciado": "Essa decisão deve ser lida como",
+      "alternativas": {
+        "a": "descuido de revisão editorial",
+        "b": "posição estética e política que reconhece a fala brasileira como matéria literária legítima",
+        "c": "limitação do autor, que desconhecia a norma culta",
+        "d": "exigência da censura do período",
+        "e": "tentativa de imitar a sintaxe da língua portuguesa de Portugal"
+      },
+      "resposta": "b",
+      "explicacao": "Manter o desvio é escolha, não falha: afirma que a língua falada no Brasil tem estatuto literário. A decisão é estética e política ao mesmo tempo, e é indissociável do projeto de repensar a identidade nacional."
+    },
+    {
+      "id": "literatura-99",
+      "formato": "direta",
+      "texto_apoio": "Comparam-se uma obra do Romantismo brasileiro e uma do Modernismo, ambas empenhadas em definir o que seria a identidade nacional.",
+      "enunciado": "A diferença essencial entre os dois projetos está em que",
+      "alternativas": {
+        "a": "o Romantismo busca uma origem pura e nobre a ser exaltada, enquanto o Modernismo assume a mistura e a contradição como o próprio material da identidade",
+        "b": "apenas o Modernismo se interessa pela identidade nacional",
+        "c": "apenas o Romantismo emprega a língua portuguesa",
+        "d": "os dois projetos são idênticos, diferindo apenas na data de publicação",
+        "e": "o Modernismo defende o retorno aos modelos coloniais portugueses"
+      },
+      "resposta": "a",
+      "explicacao": "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Dizer que só um deles se interessa pelo tema apaga a continuidade do problema."
+    },
+    {
+      "id": "literatura-100",
+      "formato": "direta",
+      "texto_apoio": "Um poema modernista brasileiro trata de um objeto banal — uma pedra, um relógio, uma cadeira — sem atribuir-lhe valor simbólico elevado, mantendo-o na sua concretude.",
+      "enunciado": "Essa recusa da elevação simbólica indica",
+      "alternativas": {
+        "a": "pobreza de imaginação do poeta, incapaz de construir metáforas",
+        "b": "a valorização do objeto comum como matéria poética suficiente, sem necessidade de transfiguração",
+        "c": "a adesão ao Simbolismo, que dissolve os objetos em correspondências",
+        "d": "a intenção de escrever um manual técnico em versos",
+        "e": "o retorno à alegoria barroca, em que todo objeto representa outra coisa"
+      },
+      "resposta": "b",
+      "explicacao": "O objeto não precisa virar símbolo para entrar no poema. Essa suficiência do comum é uma conquista modernista, e é o oposto tanto da dissolução simbolista quanto da alegoria barroca, em que nada vale por si."
+    }
+  ]
+}

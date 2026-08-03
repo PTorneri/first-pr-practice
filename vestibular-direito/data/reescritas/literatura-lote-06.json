@@ -1,0 +1,395 @@
+{
+  "_comentario": [
+    "Lote 06 da frente literatura: 25 questoes. Fecha a frente em 150.",
+    "",
+    "Completa os clusters que ainda estavam abaixo da meta: poesia e analise do",
+    "eu lirico (11), literatura+Historia (5), escola pelo traco (4), Modernismo",
+    "(3) e Machado (2).",
+    "",
+    "Distribuicao final da frente, contra a meta do plano: Cortico 12, Sargento",
+    "12, Machado 15, poesia 25, conto 15, escola pelo traco 20, Modernismo 15,",
+    "literatura+Historia 20, portuguesa e africanas 16.",
+    "",
+    "Regra de autoria: nenhuma explicacao cita alternativa por letra; nenhuma",
+    "questao pede ficha tecnica."
+  ],
+  "subtopic": "literatura",
+  "remover": [],
+  "adicionar": [
+    {
+      "id": "literatura-126",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico descreve uma paisagem e, ao final, revela que a descrição corresponde a um estado interior seu, e não a um lugar existente.",
+      "enunciado": "A relação entre paisagem e estado interior, nesse caso, denomina-se",
+      "alternativas": {
+        "a": "paisagem-estado de alma, em que o mundo exterior é figura do interior",
+        "b": "descrição documental, comprometida com a exatidão geográfica",
+        "c": "narração em terceira pessoa, sem participação do eu lírico",
+        "d": "metalinguagem, discurso sobre o próprio discurso",
+        "e": "intertextualidade, diálogo deliberado com outro texto"
+      },
+      "resposta": "a",
+      "explicacao": "Quando a paisagem só existe como figura do que se sente, ela deixa de ser cenário e vira linguagem. É um procedimento que o Romantismo consagra e que a poesia posterior continua usando, agora com consciência do artifício."
+    },
+    {
+      "id": "literatura-127",
+      "formato": "direta",
+      "texto_apoio": "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
+      "enunciado": "O efeito produzido por essa repetição com deslocamento é",
+      "alternativas": {
+        "a": "empobrecer o vocabulário do poema, por falta de sinônimos",
+        "b": "revelar que uma mesma palavra carrega sentidos distintos, e fazer dessa instabilidade a matéria do poema",
+        "c": "garantir a rima regular exigida pelas formas fixas",
+        "d": "indicar que o poema é uma tradução malfeita",
+        "e": "converter o poema em texto narrativo"
+      },
+      "resposta": "b",
+      "explicacao": "A palavra volta e não é mais a mesma: cada retorno a desloca. O poema não repete por pobreza, e sim para mostrar que o sentido não está fixo na palavra — está no lugar que ela ocupa."
+    },
+    {
+      "id": "literatura-128",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico fala no plural — \"nós\" — e assume a posição de quem enuncia em nome de um grupo, e não de si próprio.",
+      "enunciado": "Essa escolha de pessoa gramatical indica que o poema",
+      "alternativas": {
+        "a": "renuncia à dimensão lírica e se converte em texto jornalístico",
+        "b": "desloca a experiência do individual para o coletivo, tratando o sentimento como partilhado",
+        "c": "foi escrito por vários autores em conjunto",
+        "d": "se dirige a um interlocutor específico e nomeado",
+        "e": "abandona qualquer subjetividade, tornando-se puramente descritivo"
+      },
+      "resposta": "b",
+      "explicacao": "Trocar o eu pelo nós não elimina o lirismo: reposiciona-o. O sentimento deixa de ser propriedade de um sujeito e passa a ser condição de um grupo, o que costuma vir acompanhado de intenção social."
+    },
+    {
+      "id": "literatura-129",
+      "formato": "direta",
+      "texto_apoio": "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
+      "enunciado": "A escolha entre uma forma e outra é significativa porque",
+      "alternativas": {
+        "a": "a forma é neutra e não interfere no sentido, sendo mera convenção do gênero",
+        "b": "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade do verso já dizem algo sobre o modo de tratar o tema",
+        "c": "apenas o verso livre permite tratar de temas contemporâneos",
+        "d": "apenas a forma fixa permite alcançar valor literário",
+        "e": "a escolha depende exclusivamente da editora que publica o poema"
+      },
+      "resposta": "b",
+      "explicacao": "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Tratar a forma como neutra é justamente o que a análise literária existe para evitar."
+    },
+    {
+      "id": "literatura-130",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico afirma que escreve para não esquecer, e ao longo do texto vai corrigindo as próprias lembranças, substituindo detalhes já enunciados.",
+      "enunciado": "Esse movimento de correção sugere que, no poema, a memória é apresentada como",
+      "alternativas": {
+        "a": "registro fiel e estável do que aconteceu",
+        "b": "construção instável, refeita no ato de lembrar e por isso inseparável do presente de quem lembra",
+        "c": "faculdade exclusiva da velhice",
+        "d": "obstáculo à criação poética, que exigiria esquecimento total",
+        "e": "documento verificável por terceiros"
+      },
+      "resposta": "b",
+      "explicacao": "Se a lembrança precisa ser corrigida enquanto é dita, ela não estava guardada pronta: está sendo feita agora. O poema encena a memória como processo, não como arquivo."
+    },
+    {
+      "id": "literatura-131",
+      "formato": "direta",
+      "texto_apoio": "Num poema, a disposição das palavras cria pausas longas no meio dos versos, por meio de espaços em branco e de sinais de pontuação incomuns.",
+      "enunciado": "Esses recursos gráficos funcionam, no poema, como",
+      "alternativas": {
+        "a": "erro de diagramação introduzido na impressão",
+        "b": "marcação do ritmo de leitura, fazendo do silêncio parte do texto",
+        "c": "substituição do sentido verbal pelo desenho abstrato",
+        "d": "indicação de que faltam palavras que seriam preenchidas pelo leitor",
+        "e": "convenção obrigatória das formas fixas tradicionais"
+      },
+      "resposta": "b",
+      "explicacao": "O branco na página não é ausência: é duração. Ao controlar onde o leitor para e por quanto tempo, o poema incorpora o silêncio ao seu material, do mesmo modo que a música incorpora a pausa."
+    },
+    {
+      "id": "literatura-132",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
+      "enunciado": "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
+      "alternativas": {
+        "a": "metáfora filada, ou alegoria, em que a imagem se desdobra e organiza o poema",
+        "b": "onomatopeia, reprodução de sons do mundo real",
+        "c": "elipse, omissão de termo recuperável pelo contexto",
+        "d": "hipérbato, inversão da ordem sintática usual",
+        "e": "aliteração, repetição de sons consonantais"
+      },
+      "resposta": "a",
+      "explicacao": "Uma comparação isolada é figura pontual; sustentada do início ao fim, ela vira estrutura e passa a organizar o poema inteiro. É a diferença entre usar uma imagem e construir sobre ela."
+    },
+    {
+      "id": "literatura-133",
+      "formato": "direta",
+      "texto_apoio": "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
+      "enunciado": "O choque entre os dois registros produz",
+      "alternativas": {
+        "a": "incoerência que compromete a unidade do poema",
+        "b": "tensão significativa, em que o contraste entre os registros diz algo que nenhum deles diria sozinho",
+        "c": "indicação de que o poema reúne fragmentos de dois textos distintos",
+        "d": "efeito puramente decorativo, sem consequência para o sentido",
+        "e": "obediência às regras de composição do soneto clássico"
+      },
+      "resposta": "b",
+      "explicacao": "O contraste não é falha de unidade: é o argumento. Colocar a delicadeza ao lado do trabalho duro produz um sentido que nenhum dos dois registros alcançaria isolado — e ler isso como incoerência é perder o poema."
+    },
+    {
+      "id": "literatura-134",
+      "formato": "direta",
+      "texto_apoio": "Num poema, o eu lírico dirige perguntas a si mesmo e responde a algumas delas, deixando outras em aberto.",
+      "enunciado": "Esse diálogo interno caracteriza",
+      "alternativas": {
+        "a": "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de apresentá-lo resolvido",
+        "b": "um diálogo teatral entre duas personagens distintas",
+        "c": "uma entrevista transcrita em versos",
+        "d": "um texto argumentativo com tese e conclusão explícitas",
+        "e": "uma narrativa em terceira pessoa"
+      },
+      "resposta": "a",
+      "explicacao": "Não há duas personagens: há um sujeito dividido, e o poema mostra a divisão em vez de escondê-la sob uma conclusão. Deixar perguntas sem resposta é parte do procedimento, não descuido."
+    },
+    {
+      "id": "literatura-135",
+      "formato": "direta",
+      "texto_apoio": "Um poema descreve com atenção minuciosa um objeto — sua superfície, seu peso, o modo como reflete a luz — sem em nenhum momento declarar sentimentos do eu lírico.",
+      "enunciado": "Nesse tipo de construção, a emoção",
+      "alternativas": {
+        "a": "está ausente do poema, que se limita ao registro técnico",
+        "b": "é transferida para o objeto e para o modo de olhá-lo, chegando ao leitor sem ser nomeada",
+        "c": "é declarada explicitamente na última estrofe",
+        "d": "depende de nota explicativa fora do poema",
+        "e": "é substituída por argumentação lógica"
+      },
+      "resposta": "b",
+      "explicacao": "Não dizer o sentimento não é não tê-lo: a demora do olhar sobre o objeto já é a emoção. O poema desloca o afeto do enunciado para o modo de enunciar, o que costuma torná-lo mais eficaz do que a declaração direta."
+    },
+    {
+      "id": "literatura-136",
+      "formato": "excecao",
+      "texto_apoio": "A análise de um poema costuma considerar o eu lírico, o interlocutor, o tema, o tom e os recursos formais.",
+      "enunciado": "As alternativas apresentam afirmações corretas sobre o eu lírico, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "É uma construção do texto, e não necessariamente a voz biográfica do autor",
+        "b": "Pode falar no singular ou no plural, assumindo posição individual ou coletiva",
+        "c": "Pode dirigir-se a um interlocutor que nunca responde ao longo do poema",
+        "d": "Corresponde sempre e diretamente à pessoa do autor, cujas opiniões reproduz",
+        "e": "Pode assumir uma persona distinta da do autor, inclusive de outro gênero ou época"
+      },
+      "resposta": "d",
+      "explicacao": "Identificar o eu lírico com o autor é o erro mais comum na leitura de poesia: o eu lírico é papel construído no texto, e pode ser qualquer um. As outras quatro afirmações estão corretas — o comando pede a exceção."
+    },
+    {
+      "id": "literatura-137",
+      "formato": "direta",
+      "texto_apoio": "A crítica literária brasileira consolidou-se como disciplina universitária a partir de meados do século XX, produzindo interpretações que passaram a orientar a leitura escolar do cânone nacional.",
+      "enunciado": "Reconhecer que uma interpretação consagrada é fruto de trabalho crítico datado permite ao leitor",
+      "alternativas": {
+        "a": "descartar toda a crítica como opinião sem valor",
+        "b": "usar a interpretação como ferramenta, sabendo que ela ilumina certos aspectos da obra e deixa outros na sombra",
+        "c": "concluir que a obra não admite leitura alguma",
+        "d": "tratar a leitura consagrada como verdade definitiva e encerrada",
+        "e": "prescindir da leitura da obra, bastando conhecer a crítica"
+      },
+      "resposta": "b",
+      "explicacao": "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite. Saber de onde veio permite usá-la sem ser usado por ela — e sem confundir o comentário com a obra."
+    },
+    {
+      "id": "literatura-138",
+      "formato": "direta",
+      "texto_apoio": "Obras literárias de um mesmo período histórico podem apresentar posições divergentes sobre os mesmos processos sociais — a escravidão, a industrialização, a urbanização.",
+      "enunciado": "Essa divergência mostra que a literatura de um período",
+      "alternativas": {
+        "a": "reflete de forma unívoca a mentalidade dominante de sua época",
+        "b": "constitui um campo de disputa, em que diferentes posições sobre o mesmo processo coexistem e se enfrentam",
+        "c": "é sempre alheia aos processos sociais de seu tempo",
+        "d": "só adquire valor quando todos os autores concordam entre si",
+        "e": "deve ser lida exclusivamente pela biografia de cada autor"
+      },
+      "resposta": "b",
+      "explicacao": "Uma época não tem uma voz só. Tratar a literatura de um período como espelho de uma mentalidade única apaga exatamente o que ela tem de mais informativo: o desacordo entre quem viveu o mesmo processo."
+    },
+    {
+      "id": "literatura-139",
+      "formato": "direta",
+      "texto_apoio": "A definição do que integra o cânone literário nacional foi historicamente decidida por instituições — academias, universidades, editoras, programas escolares — cuja composição excluía mulheres, pessoas negras e autores de fora do eixo Rio-São Paulo.",
+      "enunciado": "Reconhecer isso implica compreender que o cânone",
+      "alternativas": {
+        "a": "resulta de critérios puramente estéticos, isentos de determinação social",
+        "b": "é construção histórica sujeita a revisão, e não lista natural das melhores obras",
+        "c": "deve ser integralmente descartado, junto com as obras que o compõem",
+        "d": "está definitivamente encerrado, sem possibilidade de inclusões futuras",
+        "e": "reúne todas as obras literárias já publicadas no país"
+      },
+      "resposta": "b",
+      "explicacao": "Nem lista natural nem lixo a descartar: o cânone é resultado de decisões situadas, e por isso pode ser revisto. Reconhecer quem decidiu não invalida as obras — permite perguntar quem ficou de fora e por quê."
+    },
+    {
+      "id": "literatura-140",
+      "formato": "direta",
+      "texto_apoio": "Ao longo do século XX, obras literárias brasileiras foram adaptadas para cinema, televisão e teatro, alcançando públicos muito maiores do que os do livro.",
+      "enunciado": "Do ponto de vista dos estudos literários, essas adaptações",
+      "alternativas": {
+        "a": "devem ser avaliadas apenas pelo grau de fidelidade literal ao texto de origem",
+        "b": "constituem leituras da obra, com escolhas próprias de linguagem, que dialogam com o original em vez de substituí-lo",
+        "c": "são irrelevantes, por não pertencerem ao campo da literatura",
+        "d": "tornam desnecessária a leitura do texto original",
+        "e": "sempre empobrecem a obra de partida"
+      },
+      "resposta": "b",
+      "explicacao": "Cobrar fidelidade literal ignora que cinema e teatro têm linguagem própria, com recursos que o livro não tem e sem os que ele tem. A adaptação é uma interpretação materializada — e vale ser lida como tal."
+    },
+    {
+      "id": "literatura-141",
+      "formato": "direta",
+      "texto_apoio": "Um romance brasileiro do século XX ambienta-se numa cidade do interior e acompanha o declínio de uma família tradicional diante da chegada de novas formas de produção e de novos grupos sociais.",
+      "enunciado": "Esse enredo permite ao romance tratar de",
+      "alternativas": {
+        "a": "um processo histórico de transformação social por meio da trajetória de uma família particular",
+        "b": "acontecimentos sem qualquer relação com transformações históricas",
+        "c": "uma disputa exclusivamente psicológica entre parentes, sem dimensão social",
+        "d": "a superioridade da vida urbana sobre a rural, sem ambiguidade",
+        "e": "um período anterior à colonização portuguesa"
+      },
+      "resposta": "a",
+      "explicacao": "A família funciona como escala reduzida do processo: o que acontece na casa é a forma sensível do que acontece na sociedade. É um dos procedimentos mais estáveis do romance para tornar visível uma transformação histórica."
+    },
+    {
+      "id": "literatura-142",
+      "formato": "direta",
+      "texto_apoio": "Um texto literário apresenta enredo linear, narrador onisciente que tudo explica, personagens de caráter definido desde o início e desfecho que resolve todos os conflitos.",
+      "enunciado": "Esse conjunto de traços aproxima o texto da",
+      "alternativas": {
+        "a": "prosa do século XIX de convenção realista-romântica, anterior às rupturas do século XX",
+        "b": "prosa modernista, marcada pela fragmentação e pela ambiguidade",
+        "c": "poesia concreta, centrada no arranjo visual",
+        "d": "crônica jornalística contemporânea",
+        "e": "escrita automática de vanguarda"
+      },
+      "resposta": "a",
+      "explicacao": "Linearidade, onisciência plena, caráter fixo e conflito resolvido formam o modelo que o século XX desmonta. Reconhecer esse conjunto é o que permite datar um texto pela construção, sem precisar da data de publicação."
+    },
+    {
+      "id": "literatura-143",
+      "formato": "direta",
+      "texto_apoio": "Um texto narrativo alterna, sem aviso, entre o tempo presente da ação e episódios do passado das personagens, exigindo do leitor a reconstrução da ordem cronológica.",
+      "enunciado": "Esse procedimento de organização temporal denomina-se",
+      "alternativas": {
+        "a": "narrativa linear, que segue a ordem dos acontecimentos",
+        "b": "quebra da linearidade, que subordina a cronologia à lógica da memória ou do sentido",
+        "c": "moldura narrativa, história que contém outra história",
+        "d": "narração simultânea, feita no exato momento dos fatos",
+        "e": "resumo, condensação de longo período em poucas linhas"
+      },
+      "resposta": "b",
+      "explicacao": "Quando o texto abandona a ordem dos fatos, ele passa a obedecer a outra: a da memória ou a do sentido que quer construir. Cabe ao leitor remontar a cronologia, e esse trabalho é parte do que a obra pede."
+    },
+    {
+      "id": "literatura-144",
+      "formato": "direta",
+      "texto_apoio": "Um texto literário do século XX apresenta frases longas, sem pontuação convencional, acompanhando o encadeamento associativo dos pensamentos de uma personagem.",
+      "enunciado": "Esse procedimento é conhecido como",
+      "alternativas": {
+        "a": "fluxo de consciência, que busca reproduzir o movimento do pensamento antes de sua organização em discurso",
+        "b": "discurso direto, transcrição literal da fala entre aspas",
+        "c": "narração onisciente neutra, que se mantém fora das personagens",
+        "d": "descrição objetiva, restrita ao que é visível de fora",
+        "e": "diálogo teatral, com indicação de falante a cada réplica"
+      },
+      "resposta": "a",
+      "explicacao": "A pontuação convencional organiza o pensamento depois de pensado; abrir mão dela é tentar apanhá-lo antes disso. O fluxo de consciência é essa aposta — e é o oposto da narração que observa de fora."
+    },
+    {
+      "id": "literatura-145",
+      "formato": "direta",
+      "texto_apoio": "Numa crônica, um acontecimento trivial do cotidiano — uma fila, um encontro casual, um atraso — serve de ponto de partida para uma reflexão de alcance mais amplo.",
+      "enunciado": "Esse movimento caracteriza o gênero crônica porque",
+      "alternativas": {
+        "a": "a crônica exige sempre a narração de fatos históricos de grande relevância",
+        "b": "a crônica parte do miúdo e do imediato para alcançar uma reflexão maior, mantendo tom leve e proximidade com o leitor",
+        "c": "a crônica é um gênero exclusivamente ficcional, sem relação com o cotidiano",
+        "d": "a crônica se distingue por sua extensão, sempre superior à do conto",
+        "e": "a crônica não admite qualquer marca de subjetividade do autor"
+      },
+      "resposta": "b",
+      "explicacao": "O gênero vive dessa desproporção entre o pretexto pequeno e o alcance da reflexão, e do tom de conversa que a torna possível. Exigir dela fato histórico relevante seria confundi-la com o registro cronístico antigo."
+    },
+    {
+      "id": "literatura-146",
+      "formato": "direta",
+      "texto_apoio": "Em Machado de Assis, é frequente que o narrador atribua a uma personagem uma qualidade elogiosa e, na frase seguinte, apresente um fato que a desmente.",
+      "enunciado": "Esse arranjo produz",
+      "alternativas": {
+        "a": "contradição involuntária, resultante de descuido na composição",
+        "b": "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador precise negá-lo",
+        "c": "eufemismo, atenuação de um julgamento severo",
+        "d": "hipérbole, exagero deliberado da qualidade elogiada",
+        "e": "prosopopeia, atribuição de traços humanos a seres inanimados"
+      },
+      "resposta": "b",
+      "explicacao": "O narrador não retira o elogio: apenas coloca ao lado dele o fato que o desmonta, e deixa o leitor concluir. Essa demolição por justaposição é a forma mais característica da ironia machadiana."
+    },
+    {
+      "id": "literatura-147",
+      "formato": "direta",
+      "texto_apoio": "Em contos e romances de Machado, personagens explicam suas ações por motivos nobres, e o desenrolar da narrativa revela interesses bem menos elevados operando por baixo.",
+      "enunciado": "Essa recorrência indica que a obra se interessa, sobretudo, por",
+      "alternativas": {
+        "a": "documentar os costumes materiais da sociedade do Segundo Reinado",
+        "b": "investigar a distância entre as razões que as pessoas alegam e os interesses que efetivamente as movem",
+        "c": "defender a superioridade moral de determinada classe social",
+        "d": "explicar o comportamento humano por hereditariedade e clima",
+        "e": "reproduzir o modelo do romance de aventuras"
+      },
+      "resposta": "b",
+      "explicacao": "O assunto não é o costume nem a hereditariedade: é o descompasso entre motivo alegado e motivo real. Note que explicar a conduta por hereditariedade e clima seria Naturalismo, caminho que Machado recusou."
+    },
+    {
+      "id": "literatura-148",
+      "formato": "direta",
+      "texto_apoio": "Numa obra modernista brasileira, elementos de cultura popular — festas, ritmos, provérbios, narrativas orais — são incorporados a uma composição de estrutura complexa e deliberadamente artificial.",
+      "enunciado": "Essa combinação indica que, para o projeto modernista,",
+      "alternativas": {
+        "a": "cultura popular e elaboração formal são incompatíveis entre si",
+        "b": "a matéria popular é material legítimo de alta elaboração artística, e não folclore a ser preservado intacto",
+        "c": "a cultura popular deve ser transcrita sem qualquer intervenção do artista",
+        "d": "a elaboração formal deve ser abandonada em favor da espontaneidade",
+        "e": "a cultura popular é objeto de estudo apenas para a antropologia"
+      },
+      "resposta": "b",
+      "explicacao": "Não é coleta folclórica nem recusa da forma: é uso da matéria popular como matéria-prima de construção sofisticada. A tensão entre origem popular e elaboração erudita é justamente o que o projeto busca."
+    },
+    {
+      "id": "literatura-149",
+      "formato": "direta",
+      "texto_apoio": "As vanguardas europeias do início do século XX — futurismo, cubismo, dadaísmo, surrealismo — chegaram ao Brasil por meio de artistas que estudaram ou viveram na Europa.",
+      "enunciado": "A relação do Modernismo brasileiro com essas vanguardas caracteriza-se por",
+      "alternativas": {
+        "a": "adesão integral e sem alterações aos programas europeus",
+        "b": "apropriação seletiva, em que procedimentos importados são recombinados para tratar de questões brasileiras",
+        "c": "recusa completa de qualquer contato com a produção estrangeira",
+        "d": "desconhecimento dessas vanguardas por parte dos modernistas brasileiros",
+        "e": "anterioridade brasileira, já que as vanguardas europeias derivaram do Modernismo nacional"
+      },
+      "resposta": "b",
+      "explicacao": "Nem cópia nem recusa: seleção e recombinação. É exatamente o gesto que a Antropofagia nomearia, e ele explica por que o Modernismo brasileiro é reconhecivelmente aparentado às vanguardas sem ser redutível a elas."
+    },
+    {
+      "id": "literatura-150",
+      "formato": "direta",
+      "texto_apoio": "Ao comparar uma obra literária com o contexto histórico em que foi produzida, um leitor pode concluir que a obra confirma esse contexto, o critica, ou faz as duas coisas em planos diferentes.",
+      "enunciado": "Essa possibilidade indica que a relação entre obra e contexto",
+      "alternativas": {
+        "a": "é sempre de reflexo direto, com a obra reproduzindo passivamente sua época",
+        "b": "é mediada pela forma, de modo que a obra pode reproduzir, contestar ou tensionar seu contexto ao mesmo tempo",
+        "c": "é inexistente, já que a literatura não se relaciona com a história",
+        "d": "depende exclusivamente das declarações públicas do autor",
+        "e": "só pode ser estabelecida quando a obra menciona acontecimentos históricos pelo nome"
+      },
+      "resposta": "b",
+      "explicacao": "Nem espelho nem ilha: entre a obra e a época há a forma, e é ela que permite à obra fazer coisas diferentes ao mesmo tempo. Depender das declarações do autor seria trocar a análise da obra pela biografia dele."
+    }
+  ]
+}

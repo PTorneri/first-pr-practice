@@ -13,7 +13,8 @@
                                               "e":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A modernização agrícola reduziu a demanda por mão de obra no campo, enquanto a industrialização concentrada nas cidades atraía trabalhadores em busca de emprego, resultando em intenso êxodo rural. As demais alternativas invertem o sentido do processo histórico: não houve nem valorização da pequena propriedade que retivesse trabalhadores, nem política de fixação rural, nem retorno de indústrias ao campo."
+                         "explicacao":  "A modernização agrícola reduziu a demanda por mão de obra no campo, enquanto a industrialização concentrada nas cidades atraía trabalhadores em busca de emprego, resultando em intenso êxodo rural. As demais alternativas invertem o sentido do processo histórico: não houve nem valorização da pequena propriedade que retivesse trabalhadores, nem política de fixação rural, nem retorno de indústrias ao campo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-02",
@@ -27,7 +28,8 @@
                                               "e":  "A retração do crescimento populacional urbano a partir dos anos 1970, que teria reduzido a pressão sobre o mercado formal de moradia"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O crescimento urbano acelerado, não acompanhado de políticas habitacionais adequadas, somado à especulação imobiliária e à concentração de renda, empurrou parte da população para ocupações irregulares. As demais alternativas descrevem um cenário inverso ao efetivamente observado: planejamento habitacional equivalente, migração por preferência (não necessidade) e priorização de periferias, nenhum deles condizente com a formação histórica das favelas brasileiras."
+                         "explicacao":  "O crescimento urbano acelerado, não acompanhado de políticas habitacionais adequadas, somado à especulação imobiliária e à concentração de renda, empurrou parte da população para ocupações irregulares. As demais alternativas descrevem um cenário inverso ao efetivamente observado: planejamento habitacional equivalente, migração por preferência (não necessidade) e priorização de periferias, nenhum deles condizente com a formação histórica das favelas brasileiras.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-03",
@@ -41,7 +43,8 @@
                                               "e":  "II, apenas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente, respectivamente, a migração econômica voluntária e o refúgio (migração forçada). A afirmativa III está incorreta: a distinção não é simbólica, pois o status de refugiado garante proteção jurídica internacional específica, prevista na Convenção de 1951, que não se estende automaticamente ao migrante econômico."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente, respectivamente, a migração econômica voluntária e o refúgio (migração forçada). A afirmativa III está incorreta: a distinção não é simbólica, pois o status de refugiado garante proteção jurídica internacional específica, prevista na Convenção de 1951, que não se estende automaticamente ao migrante econômico.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-04",
@@ -55,7 +58,8 @@
                                               "e":  "Unicamente a I"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o status de refugiado, definido pela Convenção de 1951 da ONU, e sua diferença em relação ao migrante econômico. A afirmativa III é falsa: a distinção jurídica entre as categorias permanece vigente no direito internacional; a crise migratória síria intensificou o debate político sobre acolhimento, mas não unificou os regimes jurídicos das duas categorias."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente o status de refugiado, definido pela Convenção de 1951 da ONU, e sua diferença em relação ao migrante econômico. A afirmativa III é falsa: a distinção jurídica entre as categorias permanece vigente no direito internacional; a crise migratória síria intensificou o debate político sobre acolhimento, mas não unificou os regimes jurídicos das duas categorias.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-05",
@@ -69,7 +73,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II são coerentes com a crescente relevância estratégica de recursos hídricos compartilhados. A afirmativa III é falsa: embora renovável, a água doce tem distribuição desigual entre regiões, e essa desigualdade — não a uniformidade — é justamente o que gera tensões geopolíticas em torno de aquíferos e bacias transfronteiriças."
+                         "explicacao":  "As afirmativas I e II são coerentes com a crescente relevância estratégica de recursos hídricos compartilhados. A afirmativa III é falsa: embora renovável, a água doce tem distribuição desigual entre regiões, e essa desigualdade — não a uniformidade — é justamente o que gera tensões geopolíticas em torno de aquíferos e bacias transfronteiriças.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-06",
@@ -83,7 +88,8 @@
                                               "e":  "Unicamente a I"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a centralidade estratégica do petróleo na geopolítica do Oriente Médio. A afirmativa III é falsa: essa relevância geopolítica remonta, ao menos, à primeira metade do século XX, sendo anterior e independente da criação da União Europeia, um bloco regional sem relação direta com esse processo."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a centralidade estratégica do petróleo na geopolítica do Oriente Médio. A afirmativa III é falsa: essa relevância geopolítica remonta, ao menos, à primeira metade do século XX, sendo anterior e independente da criação da União Europeia, um bloco regional sem relação direta com esse processo.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-07",
@@ -97,7 +103,8 @@
                                               "e":  "Uma geração predominantemente nuclear, resultado de investimentos concentrados em usinas construídas nas décadas de 1980 e 1990"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Diferentemente da maior parte do mundo, cuja matriz elétrica depende fortemente de combustíveis fósseis, o Brasil possui, devido ao seu potencial hídrico, uma matriz elétrica historicamente concentrada em hidrelétricas. As demais alternativas atribuem ao Brasil padrões de outros países (carvão como China/Índia, gás importado) ou nivelam sua matriz à média mundial, o que contraria o traço mais distintivo da matriz elétrica brasileira."
+                         "explicacao":  "Diferentemente da maior parte do mundo, cuja matriz elétrica depende fortemente de combustíveis fósseis, o Brasil possui, devido ao seu potencial hídrico, uma matriz elétrica historicamente concentrada em hidrelétricas. As demais alternativas atribuem ao Brasil padrões de outros países (carvão como China/Índia, gás importado) ou nivelam sua matriz à média mundial, o que contraria o traço mais distintivo da matriz elétrica brasileira.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-08",
@@ -111,7 +118,8 @@
                                               "e":  "I e II, apenas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o estágio de integração do Mercosul como união aduaneira, sem os avanços políticos e monetários da União Europeia. A afirmativa III é falsa: a adoção de moeda única não é característica de uma união aduaneira, mas sim de estágios mais avançados de integração, como o alcançado por parte dos membros da União Europeia com o euro — o Mercosul não possui moeda comum entre seus membros."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente o estágio de integração do Mercosul como união aduaneira, sem os avanços políticos e monetários da União Europeia. A afirmativa III é falsa: a adoção de moeda única não é característica de uma união aduaneira, mas sim de estágios mais avançados de integração, como o alcançado por parte dos membros da União Europeia com o euro — o Mercosul não possui moeda comum entre seus membros.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-09",
@@ -125,7 +133,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e III descrevem corretamente o estágio mais avançado de integração da União Europeia frente ao Mercosul, inclusive quanto à tarifa externa comum de ambos. A afirmativa II é falsa: a livre circulação de pessoas e capitais no Mercosul nunca alcançou o nível institucionalizado praticado pela União Europeia, um dos principais indicadores da diferença de estágio entre os dois blocos."
+                         "explicacao":  "As afirmativas I e III descrevem corretamente o estágio mais avançado de integração da União Europeia frente ao Mercosul, inclusive quanto à tarifa externa comum de ambos. A afirmativa II é falsa: a livre circulação de pessoas e capitais no Mercosul nunca alcançou o nível institucionalizado praticado pela União Europeia, um dos principais indicadores da diferença de estágio entre os dois blocos.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-10",
@@ -139,7 +148,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a meta central do acordo e seu mecanismo de contribuições voluntárias nacionalmente determinadas. A afirmativa III é falsa: o Acordo de Paris ampliou a responsabilidade para praticamente todos os países, desenvolvidos e em desenvolvimento, ao contrário do modelo do Protocolo de Kyoto, que concentrava metas obrigatórias apenas nos países desenvolvidos."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a meta central do acordo e seu mecanismo de contribuições voluntárias nacionalmente determinadas. A afirmativa III é falsa: o Acordo de Paris ampliou a responsabilidade para praticamente todos os países, desenvolvidos e em desenvolvimento, ao contrário do modelo do Protocolo de Kyoto, que concentrava metas obrigatórias apenas nos países desenvolvidos.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-11",
@@ -153,7 +163,8 @@
                                               "e":  "A expansão da mineração industrial licenciada, responsável pela maior parte da área desmatada anualmente no bioma"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O desmatamento na Amazônia está fortemente associado à expansão da pecuária e da agricultura, à exploração madeireira ilegal e à grilagem de terras públicas. As demais alternativas invertem a lógica do processo: a demanda por produtos certificados tende a reduzir, não ampliar, a pressão por novas áreas; a ampliação de áreas protegidas tende a reforçar, não reduzir, o controle ambiental; e o fenômeno não decorre do enriquecimento de populações tradicionais."
+                         "explicacao":  "O desmatamento na Amazônia está fortemente associado à expansão da pecuária e da agricultura, à exploração madeireira ilegal e à grilagem de terras públicas. As demais alternativas invertem a lógica do processo: a demanda por produtos certificados tende a reduzir, não ampliar, a pressão por novas áreas; a ampliação de áreas protegidas tende a reforçar, não reduzir, o controle ambiental; e o fenômeno não decorre do enriquecimento de populações tradicionais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-12",
@@ -167,7 +178,8 @@
                                               "e":  "Critérios estritamente físicos, definidos pela delimitação dos grandes biomas brasileiros, que coincidiriam com os limites das cinco regiões"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A divisão regional do IBGE é uma construção administrativa e estatística, criada para fins de planejamento e comparação de dados, considerando critérios físicos, econômicos e sociais. As regiões não são entes federativos previstos na Constituição, não correspondem às antigas capitanias e não se baseiam em critérios linguísticos."
+                         "explicacao":  "A divisão regional do IBGE é uma construção administrativa e estatística, criada para fins de planejamento e comparação de dados, considerando critérios físicos, econômicos e sociais. As regiões não são entes federativos previstos na Constituição, não correspondem às antigas capitanias e não se baseiam em critérios linguísticos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-13",
@@ -181,7 +193,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II são consistentes com a origem histórica das desigualdades regionais e com as políticas criadas para reduzi-las. A afirmativa III é falsa: a distribuição de recursos naturais é resultado de processos geológicos e climáticos, não de uma definição jurídica constitucional, e as desigualdades regionais têm raízes econômicas e históricas, não legais."
+                         "explicacao":  "As afirmativas I e II são consistentes com a origem histórica das desigualdades regionais e com as políticas criadas para reduzi-las. A afirmativa III é falsa: a distribuição de recursos naturais é resultado de processos geológicos e climáticos, não de uma definição jurídica constitucional, e as desigualdades regionais têm raízes econômicas e históricas, não legais.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-14",
@@ -195,7 +208,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As afirmativas I e III descrevem corretamente a origem cafeeira da industrialização paulista e o processo mais recente de desconcentração industrial. A afirmativa II é falsa: a concentração industrial no Sudeste é um fenômeno dos séculos XIX e XX, ligado à cafeicultura e à industrialização, não ao período colonial das capitanias hereditárias."
+                         "explicacao":  "As afirmativas I e III descrevem corretamente a origem cafeeira da industrialização paulista e o processo mais recente de desconcentração industrial. A afirmativa II é falsa: a concentração industrial no Sudeste é um fenômeno dos séculos XIX e XX, ligado à cafeicultura e à industrialização, não ao período colonial das capitanias hereditárias.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-15",
@@ -209,7 +223,8 @@
                                               "e":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real."
+                         "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-16",
@@ -223,7 +238,8 @@
                                               "e":  "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios rumo às regiões industrializadas do Sudeste. O fluxo migratório histórico foi predominantemente de trabalhadores em busca de emprego industrial e urbano, não de um programa de assentamento amazônico, nem majoritariamente de estudantes, nem motivado centralmente por diferenças climáticas."
+                         "explicacao":  "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios rumo às regiões industrializadas do Sudeste. O fluxo migratório histórico foi predominantemente de trabalhadores em busca de emprego industrial e urbano, não de um programa de assentamento amazônico, nem majoritariamente de estudantes, nem motivado centralmente por diferenças climáticas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-17",
@@ -237,7 +253,8 @@
                                               "e":  "I e II, apenas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente os mecanismos distintos de cada fenômeno. A afirmativa III é falsa: apesar de ambos envolverem gases atmosféricos, são fenômenos distintos, com gases, mecanismos e soluções técnicas diferentes — daí a importância de não confundi-los, um erro comum entre estudantes."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente os mecanismos distintos de cada fenômeno. A afirmativa III é falsa: apesar de ambos envolverem gases atmosféricos, são fenômenos distintos, com gases, mecanismos e soluções técnicas diferentes — daí a importância de não confundi-los, um erro comum entre estudantes.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-18",
@@ -251,7 +268,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de fragmentação produtiva da globalização. A afirmativa III é falsa: a nova divisão internacional do trabalho não eliminou as diferenças de renda e tecnologia entre países centrais e periféricos — ao contrário, ela reorganizou, mas manteve, hierarquias econômicas entre eles."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de fragmentação produtiva da globalização. A afirmativa III é falsa: a nova divisão internacional do trabalho não eliminou as diferenças de renda e tecnologia entre países centrais e periféricos — ao contrário, ela reorganizou, mas manteve, hierarquias econômicas entre eles.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-19",
@@ -265,7 +283,8 @@
                                               "e":  "O território brasileiro se distribui em um único fuso, adotado como horário oficial pelos estados desde a criação do sistema no país"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Devido à grande extensão leste-oeste do território brasileiro, o país abrange mais de um fuso horário, havendo diferença de horário entre Fernando de Noronha, mais adiantado, e a maior parte do território continental. Fusos horários se relacionam à longitude, não à latitude, e o Brasil possui número de fusos bem menor do que a Rússia."
+                         "explicacao":  "Devido à grande extensão leste-oeste do território brasileiro, o país abrange mais de um fuso horário, havendo diferença de horário entre Fernando de Noronha, mais adiantado, e a maior parte do território continental. Fusos horários se relacionam à longitude, não à latitude, e o Brasil possui número de fusos bem menor do que a Rússia.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-20",
@@ -279,7 +298,8 @@
                                               "e":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área."
+                         "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-21",
@@ -293,7 +313,8 @@
                                               "e":  "Temperaturas médias baixas ao longo de todo o ano e umidade elevada, condição associada a áreas de altitude elevada na faixa intertropical"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O clima equatorial caracteriza-se por temperaturas elevadas e relativamente constantes ao longo do ano e por índices pluviométricos altos e bem distribuídos, sem estação seca definida. As demais alternativas descrevem características de outros tipos climáticos (mediterrâneo, semiárido) ou uma variação térmica sazonal que não é típica do clima equatorial."
+                         "explicacao":  "O clima equatorial caracteriza-se por temperaturas elevadas e relativamente constantes ao longo do ano e por índices pluviométricos altos e bem distribuídos, sem estação seca definida. As demais alternativas descrevem características de outros tipos climáticos (mediterrâneo, semiárido) ou uma variação térmica sazonal que não é típica do clima equatorial.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-22",
@@ -307,7 +328,8 @@
                                               "e":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado."
+                         "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-23",
@@ -321,7 +343,8 @@
                                               "e":  "Solos saturados por inundações sazonais dos rios, condição que favorece espécies de grande porte adaptadas ao alagamento periódico"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Caatinga desenvolveu-se em região de clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila adaptada à escassez hídrica. As demais alternativas descrevem climas (tropical de altitude, equatorial) e condições de umidade (semelhantes à Mata Atlântica) incompatíveis com o regime climático que molda a Caatinga."
+                         "explicacao":  "A Caatinga desenvolveu-se em região de clima semiárido, com chuvas escassas e irregulares, resultando em vegetação xerófila adaptada à escassez hídrica. As demais alternativas descrevem climas (tropical de altitude, equatorial) e condições de umidade (semelhantes à Mata Atlântica) incompatíveis com o regime climático que molda a Caatinga.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-24",
@@ -335,7 +358,8 @@
                                               "e":  "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados. O país não teve investimento maciço em ferrovias ao longo do século XX (pelo contrário, houve desinvestimento relativo), não concentra cargas em hidrovias, e sua matriz está longe do equilíbrio observado em países como os Estados Unidos."
+                         "explicacao":  "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados. O país não teve investimento maciço em ferrovias ao longo do século XX (pelo contrário, houve desinvestimento relativo), não concentra cargas em hidrovias, e sua matriz está longe do equilíbrio observado em países como os Estados Unidos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-25",
@@ -349,7 +373,8 @@
                                               "e":  "Um estímulo à industrialização das regiões produtoras, já que a dificuldade de escoamento incentivaria o processamento local dos grãos"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A subutilização de ferrovias e hidrovias obriga grande parte da produção agrícola brasileira a ser escoada por rodovias, o que eleva os custos logísticos e o consumo de combustível. As demais alternativas invertem a lógica do problema: a dependência rodoviária eleva, não reduz, custos; não concentra a produção no litoral (ao contrário, a fronteira agrícola se expandiu para o interior); e representa uma desvantagem, não vantagem, competitiva frente a países com matriz mais equilibrada."
+                         "explicacao":  "A subutilização de ferrovias e hidrovias obriga grande parte da produção agrícola brasileira a ser escoada por rodovias, o que eleva os custos logísticos e o consumo de combustível. As demais alternativas invertem a lógica do problema: a dependência rodoviária eleva, não reduz, custos; não concentra a produção no litoral (ao contrário, a fronteira agrícola se expandiu para o interior); e representa uma desvantagem, não vantagem, competitiva frente a países com matriz mais equilibrada.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-26",
@@ -363,7 +388,8 @@
                                               "e":  "Estimular a especialização do país na exportação de manufaturados de alta tecnologia, reduzindo a produção interna de bens de consumo básico"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O modelo de substituição de importações buscava reduzir a dependência externa por meio da produção interna de bens antes importados, com forte participação do Estado em setores estratégicos e proteção alfandegária. As demais alternativas descrevem o oposto do modelo: redução de tarifas, transferência a estrangeiros e foco exportador agrícola não correspondem à lógica protecionista e estatizante desse período."
+                         "explicacao":  "O modelo de substituição de importações buscava reduzir a dependência externa por meio da produção interna de bens antes importados, com forte participação do Estado em setores estratégicos e proteção alfandegária. As demais alternativas descrevem o oposto do modelo: redução de tarifas, transferência a estrangeiros e foco exportador agrícola não correspondem à lógica protecionista e estatizante desse período.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-27",
@@ -377,7 +403,8 @@
                                               "e":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno."
+                         "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-28",
@@ -391,7 +418,8 @@
                                               "e":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar."
+                         "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-29",
@@ -405,7 +433,8 @@
                                               "e":  "A criação de uma rede estatal de restaurantes populares, concebida como frente isolada e desvinculada de programas de transferência de renda"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O Fome Zero articulou diferentes frentes de combate à fome, incluindo transferência de renda pelo Bolsa Família, fortalecimento da agricultura familiar e ampliação do acesso à alimentação. O programa não voltou seus recursos à exportação de commodities, não substituiu a produção nacional por importações, nem se financiou por meio de um tributo sobre pequenos agricultores."
+                         "explicacao":  "O Fome Zero articulou diferentes frentes de combate à fome, incluindo transferência de renda pelo Bolsa Família, fortalecimento da agricultura familiar e ampliação do acesso à alimentação. O programa não voltou seus recursos à exportação de commodities, não substituiu a produção nacional por importações, nem se financiou por meio de um tributo sobre pequenos agricultores.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-30",
@@ -419,7 +448,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente os objetivos de cooperação regional e a reafirmação de soberania nacional que orientam a OTCA. A afirmativa III é falsa: a organização não transfere soberania a um órgão supranacional, ao contrário do discurso de internacionalização da Amazônia, que a OTCA justamente contesta ao reafirmar a soberania de cada país membro."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente os objetivos de cooperação regional e a reafirmação de soberania nacional que orientam a OTCA. A afirmativa III é falsa: a organização não transfere soberania a um órgão supranacional, ao contrário do discurso de internacionalização da Amazônia, que a OTCA justamente contesta ao reafirmar a soberania de cada país membro.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-31",
@@ -433,7 +463,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente os fatores centrais da relevância geopolítica da Amazônia: biodiversidade, água doce e papel climático. A afirmativa III é falsa: a relevância estratégica da região não decorre de reservas petrolíferas comprovadas em larga escala, mas dos recursos hídricos, da biodiversidade e da regulação climática."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente os fatores centrais da relevância geopolítica da Amazônia: biodiversidade, água doce e papel climático. A afirmativa III é falsa: a relevância estratégica da região não decorre de reservas petrolíferas comprovadas em larga escala, mas dos recursos hídricos, da biodiversidade e da regulação climática.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-32",
@@ -447,7 +478,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza e o contexto dos conflitos fundiários na Amazônia. A afirmativa III é falsa: a Constituição de 1988 garantiu direitos territoriais aos povos indígenas, mas não eliminou as disputas fundiárias — pelo contrário, elas persistem e, em muitos casos, se intensificaram em áreas de interesse do garimpo e da grilagem."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza e o contexto dos conflitos fundiários na Amazônia. A afirmativa III é falsa: a Constituição de 1988 garantiu direitos territoriais aos povos indígenas, mas não eliminou as disputas fundiárias — pelo contrário, elas persistem e, em muitos casos, se intensificaram em áreas de interesse do garimpo e da grilagem.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-33",
@@ -461,7 +493,8 @@
                                               "e":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa."
+                         "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-34",
@@ -475,7 +508,8 @@
                                               "e":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional."
+                         "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-35",
@@ -489,7 +523,8 @@
                                               "e":  "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país."
+                         "explicacao":  "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-36",
@@ -504,7 +539,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, identificando padrões territoriais do comportamento eleitoral. Não se limita a aspectos jurídicos, não trata da localização de sedes partidárias, nem se resume à biografia de candidatos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-37",
@@ -519,7 +555,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A conurbação ocorre quando o crescimento urbano de municípios vizinhos se funde, formando uma malha urbana contínua, como entre São Paulo e municípios como Guarulhos e Osasco. As demais alternativas descrevem processos distintos (divisão tributária interna, êxodo urbano, mudança de capital) que não correspondem ao conceito de conurbação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-38",
@@ -534,7 +571,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-39",
@@ -549,7 +587,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Em áreas urbanas valorizadas e bem servidas por infraestrutura, o alto preço do solo estimula a construção vertical, pois maximiza o aproveitamento de terrenos caros. Não há exigência legal de altura mínima, os terrenos centrais valorizados não são baratos, e a verticalização decorre da demanda por moradia bem localizada, não de sua ausência.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-40",
@@ -564,7 +603,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Superfícies impermeabilizadas como asfalto e concreto absorvem e retêm mais calor do que a vegetação, e a escassez de áreas verdes reduz a evapotranspiração que ajudaria a resfriar o ambiente. A radiação solar recebida não difere significativamente entre cidade e campo; o campo não produz mais calor por decomposição orgânica; e a diferença de temperatura não decorre de altitude, mas do tipo de superfície e ocupação do solo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-41",
@@ -579,7 +619,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O movimento pendular caracteriza-se pelo deslocamento diário (ida e volta) de pessoas entre seu município de residência e outro, geralmente para trabalho ou estudo. As demais alternativas descrevem outros fenômenos migratórios (migração definitiva, migração sazonal agrícola, deslocamento de refugiados) que não envolvem o retorno diário característico do movimento pendular.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-42",
@@ -594,7 +635,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Cidades-dormitório concentram grande parte de sua população trabalhadora, mas oferecem poucas oportunidades de emprego e serviços especializados, refletindo a segregação socioespacial que obriga a deslocamentos pendulares diários. Não há concentração de sedes empresariais, nem oferta de emprego equivalente ao polo metropolitano, nem indústrias de alta tecnologia atraídas por incentivo fiscal nesses municípios.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-43",
@@ -609,7 +651,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A gentrificação é o processo pelo qual bairros populares atraem investimentos, comércios e moradores de maior poder aquisitivo, elevando o custo de vida e o preço dos imóveis a ponto de expulsar, direta ou indiretamente, a população originalmente residente. As demais alternativas descrevem processos opostos ou não relacionados: reserva legal para baixa renda, queda de valor imobiliário, ou construção popular em bairros nobres.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-44",
@@ -624,7 +667,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A população urbana do Sudeste é 0,93×89≈82,8 milhões, e a do Nordeste é 0,75×57≈42,8 milhões, confirmando I e II. A afirmativa III é falsa como regra geral: taxa percentual menor não implica necessariamente população urbana absoluta menor, pois isso depende também da população total de cada região — nesse caso específico o Sudeste supera o Nordeste também em número absoluto, mas não por decorrência automática da taxa percentual, e sim pela combinação dela com a população total.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-45",
@@ -639,7 +683,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Cidades médias vêm atraindo moradores e empresas que buscam fugir de problemas típicos das grandes metrópoles, como trânsito e alto custo de vida, ao mesmo tempo em que a desconcentração de atividades amplia oportunidades nesses centros. Não existe limite legal ao crescimento das capitais, as cidades médias não perderam empregos industriais em favor do setor primário, e a população total do país não está em queda.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-46",
@@ -654,7 +699,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A favela resulta de ocupação espontânea de terrenos, sem processo formal de parcelamento; o loteamento irregular refere-se a áreas cujo parcelamento (venda de lotes) não seguiu as exigências legais, mesmo havendo transação comercial. A favela não decorre de revogação de um parcelamento antes legal, o loteamento irregular não se limita a áreas de proteção ambiental, e ambos os termos são tipicamente urbanos, não rurais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-47",
@@ -669,7 +715,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O fortalecimento de setores como turismo, agronegócio irrigado e polos industriais em estados nordestinos, somado ao desejo de retorno à terra natal, impulsiona esse fluxo. Não houve colapso total das oportunidades no Sudeste, não existe política federal de repatriação compulsória, e a infraestrutura de transporte entre as regiões não se deteriorou a ponto de explicar o fenômeno.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-48",
@@ -684,7 +731,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Cidades-gêmeas fronteiriças mantêm intensos fluxos cotidianos de pessoas, mercadorias e serviços através da fronteira, gerando dinâmicas econômicas integradas, sem que isso implique fusão jurídica dos municípios ou fim do controle aduaneiro. A existência de moedas distintas não impede, e frequentemente estimula, o comércio de fronteira entre as duas cidades.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-49",
@@ -699,7 +747,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A migração haitiana intensificou-se após o terremoto de 2010, enquanto a migração venezuelana decorreu do colapso econômico e da crise política no país, levando à busca por refúgio e melhores condições no Brasil. Não houve acordo de cidadania automática, nem campanha de recrutamento direto por empresas brasileiras, e a motivação central não foi climática.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-50",
@@ -714,7 +763,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Operação Acolhida, iniciada em 2018, buscou prestar assistência humanitária e promover a interiorização voluntária de imigrantes venezuelanos para outros estados, aliviando a sobrecarga sobre Roraima e ampliando as chances de inserção social e no mercado de trabalho. A política não restringiu a permanência a Roraima, não concedeu cidadania automática, nem teve como objetivo o retorno ao país de origem.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-51",
@@ -729,7 +779,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O pré-sal corresponde a reservas de petróleo e gás natural em águas muito profundas do litoral brasileiro, cuja exploração ampliou significativamente as reservas provadas do país. Não se trata de gás de xisto, não reduziu a participação do petróleo na matriz energética (ao contrário, reforçou-a), e as reservas do pré-sal estão concentradas no litoral sudeste, não na Bacia Amazônica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-52",
@@ -744,7 +795,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente por que o lítio se tornou estrategicamente relevante e por que a região andina atrai interesse externo. A afirmativa III é falsa: o lítio não é abundante e de baixo custo em qualquer país — suas reservas de alta concentração e viabilidade econômica estão geograficamente restritas, o que é exatamente o que gera sua relevância geopolítica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-53",
@@ -759,7 +811,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Brasil possui extensas e ricas jazidas de minério de ferro, cuja exploração foi viabilizada por investimentos em infraestrutura logística, como ferrovias e portos especializados. A posição brasileira não decorre de reserva de mercado, do esgotamento das reservas australianas (que seguem entre as maiores do mundo) ou de qualquer acordo de exclusividade regional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-54",
@@ -774,7 +827,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a importância estratégica desses minerais e a concentração de sua cadeia produtiva em poucos países. A afirmativa III é falsa: é justamente a forte concentração geográfica da extração e, sobretudo, do refino — não uma distribuição equilibrada — que torna esses minerais uma questão geopolítica sensível.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-55",
@@ -789,7 +843,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A região Nordeste apresenta condições naturais favoráveis à geração eólica, com ventos constantes e intensos, especialmente na faixa litorânea. Não há restrição fiscal exclusiva à região, não houve proibição legal de hidrelétricas no Nordeste, e a densidade populacional não é o fator determinante para a escolha dos parques eólicos — o regime de ventos é o fator central.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-56",
@@ -804,7 +859,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a distinção conceitual entre matriz elétrica e matriz energética total. A afirmativa III é falsa: mesmo com uma matriz elétrica majoritariamente renovável, a matriz energética total do Brasil ainda depende significativamente de fontes fósseis, sobretudo o petróleo usado no setor de transportes — distinção conceitual frequentemente cobrada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-57",
@@ -819,7 +875,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O etanol produzido a partir da cana-de-açúcar é um biocombustível renovável, alternativo à gasolina, amplamente utilizado no Brasil, sobretudo após a popularização dos veículos flex. Não é um combustível fóssil, não se restringe à geração termelétrica de eletricidade, e sua produção não foi proibida com a chegada dos veículos elétricos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-58",
@@ -834,7 +891,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O hidrogênio verde é obtido pela eletrólise da água usando eletricidade de fontes renováveis, sem emitir gases de efeito estufa, podendo ser usado em setores difíceis de eletrificar diretamente, como a indústria pesada e o transporte marítimo. Não substitui toda fonte elétrica, não decorre da queima de carvão, e não depende de gás natural para sua produção característica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-59",
@@ -849,7 +907,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Apesar de o Brasil dominar a tecnologia nuclear e operar Angra 1 e Angra 2, essa fonte representa uma parcela pequena da matriz elétrica nacional, majoritariamente composta por fontes renováveis. A participação nuclear brasileira está longe de ser majoritária, é muito inferior à da França (um dos países mais dependentes dessa fonte no mundo), e o país opera diversas outras usinas além de Angra.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-60",
@@ -864,7 +923,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os dados confirmam I e II: o Brasil (83%) supera a União Europeia (40%) e a média mundial (30%) na participação renovável, resultado historicamente ligado ao potencial hidrelétrico brasileiro. A afirmativa III é falsa: os 40% da União Europeia mostram investimento relevante em fontes renováveis, apenas em proporção menor do que a brasileira — não ausência de investimento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-61",
@@ -879,7 +939,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a interdependência hidrográfica e a necessidade de negociação diplomática entre países de uma mesma bacia. A afirmativa III é falsa: não existe regra de direito internacional que divida automaticamente a vazão de rios internacionais em partes iguais — a gestão depende de tratados específicos entre os países envolvidos, muitas vezes conflituosos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-62",
@@ -894,7 +955,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os interesses do Egito (segurança hídrica) e da Etiópia (energia e desenvolvimento) nesse conflito. A afirmativa III é falsa: a Etiópia, construtora da barragem, é parte central das negociações — o conflito envolve os três países (Etiópia, Sudão e Egito), não apenas dois deles.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-63",
@@ -909,7 +971,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente como a dependência energética condicionou a resposta europeia à guerra e como o continente reagiu depois. A afirmativa III é falsa: a dependência do gás russo variava consideravelmente entre os países europeus, sendo mais acentuada em nações como a Alemanha do que em outras com matriz energética mais diversificada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-64",
@@ -924,7 +987,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a lógica de geração e comercialização de créditos de carbono, incluindo projetos florestais. A afirmativa III é falsa: o mercado de créditos é pensado como complemento, não substituto, das metas de redução direta de emissões, que continuam sendo cobradas das empresas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-65",
@@ -939,7 +1003,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a função científica do IPCC e sua influência sobre negociações internacionais. A afirmativa III é falsa: o IPCC é um organismo científico, sem poder de aplicar sanções econômicas a países — sua influência é indireta, por meio da base científica que fornece a negociações políticas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-66",
@@ -954,7 +1019,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A relação entre um evento extremo isolado e o aquecimento global é estatística: o aquecimento aumenta a probabilidade e, em muitos casos, a intensidade média de eventos como ondas de calor e chuvas extremas ao longo do tempo, ainda que um evento específico possa ter múltiplas causas locais. Não é correto afirmar causa exclusiva, nem que eventos extremos estão ficando mais raros, nem que não há relação estatística alguma com o aquecimento.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-67",
@@ -969,7 +1035,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A pegada de carbono é um indicador que estima o total de gases de efeito estufa emitidos, direta ou indiretamente, por uma pessoa, empresa, produto ou atividade. Não é uma unidade de temperatura, não se limita à área desmatada, e não se restringe às emissões do transporte aéreo — abrange qualquer fonte de emissão.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-68",
@@ -984,7 +1051,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de modelo entre os dois acordos climáticos. A afirmativa III é falsa: o Acordo de Paris não eliminou o princípio de responsabilidades históricas — ele permanece como referência, ainda que combinado a um modelo mais amplo de participação voluntária de todos os países.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-69",
@@ -999,7 +1067,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a natureza integrada e universal da agenda dos ODS. A afirmativa III é falsa: os ODS e o Acordo de Paris são agendas complementares e coexistentes, ambos vigentes, cada um com seu próprio escopo — os ODS não substituíram o acordo climático.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-70",
@@ -1014,7 +1083,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A economia circular propõe romper com o modelo linear de extrair, produzir e descartar, mantendo produtos e materiais em uso pelo maior tempo possível por meio de reutilização, reparo, remanufatura e reciclagem. Não propõe mais descartáveis, não aceita extração acelerada compensada só ao final do ciclo, e não trata da origem nacional ou importada dos produtos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-71",
@@ -1029,7 +1099,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O desmatamento é a remoção completa e geralmente definitiva da cobertura florestal; a queimada é o uso do fogo, que pode ocorrer em áreas já desmatadas (manejo de pastagens) ou, ilegalmente, para acelerar o próprio desmatamento de floresta em pé. Queimadas nem sempre são espontâneas (muitas são criminosas), o desmatamento pode ser monitorado por satélite mesmo sem queimada simultânea, e ambos os processos ocorrem também em florestas densas, como a Amazônia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-72",
@@ -1044,7 +1115,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Somando os valores anuais: 10.000+8.000+7.000+9.000=34.000 km² de área desmatada. Embora a taxa tenha caído do Ano 1 ao Ano 3, ela voltou a subir no Ano 4, mostrando que uma tendência recente de queda não garante continuidade — o que invalida a alternativa que assume continuidade automática da tendência. O gráfico mostra desmatamento positivo em todos os anos, não crescimento florestal, e nada nos dados apresentados permite afirmar que o Ano 3 é o menor valor de toda a série histórica, apenas dessa amostra de 4 anos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-73",
@@ -1059,7 +1131,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os \u0027rios voadores\u0027 são grandes massas de vapor d\u0027água liberadas pela floresta amazônica por evapotranspiração, transportadas pelos ventos e que contribuem para o regime de chuvas em regiões distantes, como o Centro-Sul do Brasil. Não se trata de canais artificiais, nem de rios subterrâneos ligados a gêiseres, e o fenômeno é mais intenso durante o período de maior atividade da floresta, não interrompido na estação seca.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-74",
@@ -1074,7 +1147,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O ponto de não retorno da Amazônia refere-se a um limiar de desmatamento a partir do qual a floresta perderia sua capacidade de reciclar umidade suficiente para sustentar seu próprio regime de chuvas, desencadeando um ciclo autoperpetuado de savanização. Não é um ciclo natural independente do desmatamento, não afeta apenas a fauna, e sua reversão, caso ultrapassado o limiar, não seria simples nem rápida.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-75",
@@ -1089,7 +1163,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A poluição atmosférica urbana está associada ao aumento de doenças respiratórias e cardiovasculares, além de conter gases de efeito estufa que contribuem para o aquecimento global. O efeito de resfriamento por aerossóis é local e temporário, não um padrão geral; a qualidade do ar em centros urbanos costuma ser pior, não melhor, do que em áreas rurais; e o problema afeta cidades de clima tropical tanto quanto as de clima frio.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-76",
@@ -1104,7 +1179,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Os dados evidenciam uma defasagem histórica maior no saneamento de esgoto em comparação ao abastecimento de água tratada, contribuindo para contaminação de corpos d\u0027água e doenças de veiculação hídrica. A cobertura de esgoto é, na verdade, menor que a de água (não maior), há disparidades regionais expressivas (não distribuição idêntica), e as duas redes não avançam necessariamente no mesmo ritmo, já que exigem investimentos e tecnologias distintas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-77",
@@ -1119,7 +1195,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O uso intensivo de agrotóxicos é apontado como fator de risco para contaminação de solos e cursos d\u0027água, além de riscos à saúde de trabalhadores rurais e comunidades próximas. Esse uso está historicamente associado a ganhos, não redução, de produtividade no agronegócio; não melhora a qualidade do solo por si só; e seus efeitos podem se dispersar para além da área de aplicação direta, via solo e água.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-78",
@@ -1134,7 +1211,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Reserva Legal exige a manutenção de vegetação nativa dentro das propriedades rurais, com percentuais que variam conforme o bioma, buscando conciliar produção com conservação. O percentual não é idêntico em todos os biomas (é maior na Amazônia Legal, por exemplo), a área de Reserva Legal permanece de propriedade do titular do imóvel, e o instrumento não veda a atividade agropecuária em grandes propriedades, apenas exige a reserva de parte da área.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-79",
@@ -1149,7 +1227,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os incentivos fiscais e o objetivo de gerar alternativas econômicas à exploração predatória. A afirmativa III é falsa: a Zona Franca não proibiu a atividade industrial em outras regiões do país — o Sudeste e o Sul continuaram concentrando a maior parte da produção industrial brasileira após 1967.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-80",
@@ -1164,7 +1243,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A forte concentração do fluxo de exportação em poucos portos, como Santos, evidencia um desafio logístico: produtores distantes do litoral, como os do Centro-Oeste, enfrentam longos percursos até os portos, elevando custos. Santos não é exclusivo de industrializados (movimenta grande volume de commodities agrícolas), o fluxo logístico brasileiro está longe de equilibrado entre regiões, e existem outros portos relevantes, como os do Arco Norte.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-81",
@@ -1179,7 +1259,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Para produtores do norte do Centro-Oeste e do Matopiba, o escoamento pelo Arco Norte reduz a distância de transporte terrestre em comparação com o trajeto até portos do Sudeste, diminuindo custos logísticos. Santos continua operando normalmente com o agronegócio, não há legislação que restrinja a exportação exclusivamente ao Arco Norte, e o trajeto até esses portos ainda depende fortemente de rodovias, não apenas de ferrovias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-82",
@@ -1194,7 +1275,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores de atração e as preocupações ambientais ligadas à expansão do Matopiba. A afirmativa III é falsa: a região enfrentou e ainda enfrenta desafios logísticos relevantes, sendo justamente a carência de infraestrutura portuária e rodoviária um dos principais obstáculos ao desenvolvimento pleno dessa fronteira agrícola.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-83",
@@ -1209,7 +1291,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A desconcentração da indústria automobilística foi impulsionada por incentivos fiscais (guerra fiscal) e por custos menores de mão de obra e terrenos fora do ABC paulista, que continua concentrando parcela relevante da produção. Não houve encerramento das montadoras paulistas, nem redistribuição compulsória por determinação federal, e a instalação em novos estados aproveitou, e não ignorou, a infraestrutura rodoviária já existente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-84",
@@ -1224,7 +1307,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os riscos associados à reprimarização: vulnerabilidade a preços internacionais e perda de espaço da indústria de transformação. A afirmativa III é falsa: commodities primárias têm justamente menor valor agregado do que produtos manufaturados, de modo que a reprimarização representa o oposto de um ganho de sofisticação tecnológica na pauta exportadora.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-85",
@@ -1239,7 +1323,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. Déficit é o oposto do superávit, superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-86",
@@ -1254,7 +1339,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "No agronegócio, o saldo é 120−10=110 (superávit); em combustíveis e minérios, 60−20=40 (superávit); na indústria de transformação, 90−130=−40 (déficit de 40 bilhões), confirmando I e II. A afirmativa III é falsa: esse padrão — superávit em commodities e déficit em manufaturados — é justamente citado como evidência do fenômeno de reprimarização da pauta comercial brasileira, não uma exceção a ele.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-87",
@@ -1269,7 +1355,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O conceito de agronegócio abrange toda a cadeia produtiva relacionada à agropecuária, do fornecimento de insumos ao processamento, armazenamento, transporte e distribuição. Não se limita à exportação in natura sem processamento, não se restringe à agricultura familiar de subsistência, e vai muito além do segmento financeiro de contratos futuros, que é apenas uma faceta do setor.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-88",
@@ -1284,7 +1371,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Ao integrar lavoura, pecuária e floresta em uma mesma área, o ILPF busca recuperar pastagens degradadas e aumentar a produtividade do solo já ocupado, reduzindo a pressão por novas áreas de vegetação nativa. O sistema não exige abertura de novas áreas (ao contrário, recupera as já existentes), não é restrito a grandes propriedades, e não elimina a pecuária, apenas a integra a outras atividades.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-89",
@@ -1299,7 +1387,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão histórico de concentração fundiária brasileira e sua origem colonial. A afirmativa III é falsa: o número de pequenos e médios produtores é, na verdade, muito maior do que o de grandes proprietários — a concentração fundiária está na área ocupada por poucas grandes propriedades, não no número de proprietários envolvidos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-90",
@@ -1314,7 +1403,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os dois processos, distintos entre si. A afirmativa III é falsa: na regularização fundiária, o título costuma ser concedido a quem já ocupa a área (sem transferência a um novo titular), diferentemente da reforma agrária, que redistribui terras a famílias diferentes das que a ocupavam antes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-91",
@@ -1329,7 +1419,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A disponibilidade histórica de grandes extensões de terra a custo relativamente baixo tornou economicamente viável a criação extensiva de gado, com baixo investimento tecnológico por hectare. Não houve proibição legal do confinamento, a demanda externa por carne bovina brasileira é historicamente relevante (não menor que a interna a ponto de desestimular investimento), e o confinamento já era tecnologia conhecida internacionalmente bem antes do século XXI.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-92",
@@ -1344,7 +1435,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Se a área plantada cresceu 40% e a produção 150%, o crescimento não pode ser explicado apenas pela expansão da área — decorre principalmente do aumento de produtividade por hectare, via melhoramento genético, fertilizantes e técnicas mais avançadas. Produção e área não crescem necessariamente na mesma proporção (não há erro de medição nisso), e os dados não mencionam redução de área nem importação de grãos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-93",
@@ -1359,7 +1451,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente as tensões geradas pela crise migratória síria dentro da União Europeia. A afirmativa III é falsa: a crise gerou divergências políticas relevantes entre Estados-membros favoráveis a uma recepção mais aberta e outros mais restritivos, e não uma recepção unânime e consensual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-94",
@@ -1374,7 +1467,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As três afirmativas descrevem corretamente o fenômeno migratório regional: origem múltipla no México e no Triângulo Norte centro-americano (I), fatores de expulsão como violência e instabilidade (II), e a rota que atravessa o México antes de chegar aos Estados Unidos (III) — um fluxo migratório regional complexo, e não restrito a um único país de origem.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-95",
@@ -1389,7 +1483,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A fuga de cérebros refere-se à emigração de profissionais altamente qualificados de países em desenvolvimento para países mais desenvolvidos, atraídos por melhores salários e condições de trabalho e pesquisa. Não descreve migração de baixa qualificação em sentido inverso, não beneficia exclusivamente o país de origem (que perde capital humano), e é um fenômeno tipicamente internacional, não interno.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-96",
@@ -1404,7 +1499,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a relevância das remessas para certas economias em desenvolvimento e o duplo efeito da emigração de trabalhadores. A afirmativa III é falsa: esse padrão não é universal — a proporção entre remessas, investimento estrangeiro direto e ajuda internacional varia bastante conforme o perfil econômico de cada país.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-97",
@@ -1419,7 +1515,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão geral Sul-Norte desses fluxos e a posição peculiar do Golfo Pérsico nesse esquema. A afirmativa III é falsa: o fluxo do Sul da Ásia ao Golfo Pérsico, por exemplo, não envolve países de fronteira terrestre comum, mostrando que o padrão migratório descrito não se restringe a deslocamentos entre vizinhos diretos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-98",
@@ -1434,7 +1531,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e as críticas ao sistema kafala. A afirmativa III é falsa: o sistema é criticado justamente por conceder ao trabalhador migrante direitos e proteções inferiores, não superiores, aos dos cidadãos nativos, criando forte dependência do trabalhador em relação ao empregador patrocinador.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-99",
@@ -1449,7 +1547,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Apátrida é a pessoa não reconhecida como nacional por nenhum Estado, situação que pode decorrer de conflitos entre legislações de nacionalidade, dissolução de Estados ou discriminação legal contra certos grupos. As demais alternativas descrevem situações distintas: refúgio com nacionalidade preservada, dupla cidadania, ou emigração sem perda de cidadania — nenhuma equivale à apatridia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-100",
@@ -1464,7 +1563,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a combinação de apatridia, perseguição étnico-religiosa e a caracterização jurídica de refúgio nesse caso. A afirmativa III é falsa: a crise dos Rohingya permanece sem solução definitiva, com grande contingente ainda vivendo em campos de refugiados, sobretudo em Bangladesh, muito tempo depois do deslocamento em massa.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-101",
@@ -1479,7 +1579,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o potencial da imigração para repor força de trabalho e a controvérsia política que o tema gera. A afirmativa III é falsa: imigração de adultos em idade ativa e aumento da natalidade produzem efeitos distintos e em prazos diferentes sobre a pirâmide etária — a chegada de imigrantes adultos tem impacto mais imediato sobre a força de trabalho, enquanto a natalidade leva décadas para gerar o mesmo efeito.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-102",
@@ -1494,7 +1595,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Pirâmide 1, com base estreita e topo largo, é característica de populações fortemente envelhecidas, como a do Japão; a Pirâmide 2, ainda com base mais larga que o topo, é mais compatível com o perfil brasileiro atual, em transição demográfica avançada mas ainda mais jovem. O Brasil já está em transição demográfica há décadas, e os perfis etários de Japão e Brasil são bastante diferentes entre si, não idênticos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-103",
@@ -1509,7 +1611,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O bônus demográfico é o período em que a proporção de pessoas em idade ativa é maior em relação à população dependente, criando uma janela de oportunidade para o crescimento econômico, se acompanhada de investimentos adequados. Não implica ausência total de crianças e idosos, não corresponde a um cenário de predomínio permanente da população dependente, e não implica declínio populacional absoluto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-104",
@@ -1524,7 +1627,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O bônus demográfico não garante, por si só, desenvolvimento econômico: é uma janela temporária que depende de políticas públicas adequadas, sob risco de o país \u0027envelhecer antes de enriquecer\u0027. Ele não é permanente nem se repete identicamente, e no Brasil seu período mais favorável já está em processo de estreitamento nas décadas recentes, não encerrado desde os anos 1980.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-105",
@@ -1539,7 +1643,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A taxa de fecundidade de reposição é estimada em aproximadamente 2,1 filhos por mulher, valor que garante, em média, a substituição geracional considerando também a mortalidade infantil. Valores muito abaixo (como 1,0) indicam tendência de redução populacional, enquanto valores muito acima (3,5 ou 5,0) correspondem a padrões históricos anteriores à transição demográfica, não à taxa de reposição.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-106",
@@ -1554,7 +1659,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A redução da fecundidade de 6,3 para cerca de 1,6 filho por mulher, abaixo da taxa de reposição, evidencia estágio avançado de transição demográfica, associado à urbanização e à maior escolaridade, apontando para futura estabilização e redução do crescimento populacional. A taxa não permaneceu estável, o Brasil não está entre as maiores taxas da América Latina atualmente, e o crescimento populacional está diretamente ligado à taxa de fecundidade, não independente dela.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-107",
@@ -1569,7 +1675,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A transição energética tende a gerar empregos em setores emergentes, como eólica, solar e hidrogênio verde, mas também impõe desafios de requalificação para trabalhadores de setores fósseis tradicionais. O processo gera, e não apenas elimina, empregos em novos setores; não beneficia exclusivamente exportadores de petróleo; e tem impacto direto e relevante sobre o mercado de trabalho, não sendo neutro.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-108",
@@ -1584,7 +1691,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o conceito e os fatores associados à maldição dos recursos naturais. A afirmativa III é falsa: o conceito é discutido em relação a diversos recursos, como minérios e outras commodities de exportação, não se restringindo exclusivamente a países produtores de petróleo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-109",
@@ -1599,7 +1707,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A ocupação irregular e desordenada de favelas e assentamentos precários dificulta o planejamento e a extensão de redes formais de saneamento, resultando em maior vulnerabilidade a doenças e desastres. Não existe legislação que vede saneamento em áreas urbanas, a universalização nessas áreas está longe de concluída, e o investimento público historicamente favoreceu áreas centrais, não as periferias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-110",
@@ -1614,7 +1723,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A impermeabilização do solo urbano, a ocupação de várzeas e encostas e a insuficiência de drenagem reduzem a capacidade das cidades de absorver e escoar a água da chuva, tornando as enchentes mais frequentes. Não houve redução geral do volume de chuvas, o problema não decorre de excesso de vegetação (que ajudaria a absorver água), e a taxa de urbanização das grandes cidades brasileiras não está em queda.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-111",
@@ -1629,7 +1739,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A poluição de rios urbanos, como o Tietê, decorre principalmente do despejo de esgoto sem tratamento adequado e do descarte irregular de resíduos, agravados pelo crescimento urbano desordenado. O problema não é de origem exclusivamente rural, não é um processo natural de sedimentação, e não existe política que restrinja a poluição a trechos específicos do rio.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-112",
@@ -1644,7 +1755,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A incidência de doenças no Município Y é 45÷5=9 vezes maior que no Município X, o que é consistente com a associação, documentada pela geografia da saúde, entre menor cobertura de saneamento e maior risco de doenças hídricas, sem que isso configure prova definitiva e universal de causalidade (fatores socioeconômicos também influenciam). A cobertura do Município X é maior, não menor, e a diferença de 40 casos por 10 mil habitantes é estatisticamente relevante, não desprezível.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-113",
@@ -1659,7 +1771,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O aterro sanitário é projetado com técnicas de engenharia, como impermeabilização e tratamento do chorume, para reduzir a contaminação ambiental, diferentemente do lixão, sem qualquer controle. Não são a mesma estrutura com nomes diferentes, nenhum dos dois se restringe a resíduos hospitalares, e é o lixão, não o aterro, que a legislação ambiental brasileira busca eliminar.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-114",
@@ -1674,7 +1787,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Política Nacional de Resíduos Sólidos estabelece responsabilidade compartilhada entre fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público, incluindo a logística reversa de itens como pilhas, eletrônicos e embalagens. A responsabilidade não recai apenas sobre o consumidor, a logística reversa se aplica especialmente a resíduos não orgânicos, como os citados, e o custo não é assumido isoladamente pelo poder público municipal.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-115",
@@ -1689,7 +1803,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Apesar de o agronegócio de grande escala liderar as exportações de commodities como soja e carne bovina, a agricultura familiar responde por parcela significativa da produção de alimentos voltados ao mercado interno. A exportação de grãos como soja e milho é liderada pelo agronegócio de grande escala, não pela agricultura familiar, que tampouco tem relação com produção mineral ou mercado financeiro de commodities.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-116",
@@ -1704,7 +1819,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os dados mostram um descompasso relevante: a agricultura familiar responde por apenas 23% do valor da produção, mas por cerca de 70% dos alimentos que chegam à mesa da população, confirmando I e II. A afirmativa III é falsa: é exatamente esse descompasso que evidencia a relevância estratégica da agricultura familiar para a segurança alimentar interna, e não sua irrelevância.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-117",
@@ -1719,7 +1835,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A manutenção de imóveis ociosos em áreas centrais bem localizadas, à espera de valorização (especulação imobiliária), contribui para o encarecimento do solo urbano e empurra a população de menor renda para áreas periféricas. Não se trata de escassez real de terrenos (que existem, mas ficam ociosos por opção do proprietário), não há política consolidada de distribuição igualitária, e não é uma exigência técnica de engenharia que explica a ociosidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-118",
@@ -1734,7 +1851,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O IPTU progressivo no tempo permite ao poder público municipal aumentar progressivamente a alíquota sobre imóveis subutilizados, incentivando os proprietários a dar-lhes função social. Não isenta proprietários de terrenos ociosos (ao contrário, penaliza-os), não autoriza desapropriação imediata sem processo prévio, e não se aplica de forma linear a todos os imóveis — apenas aos subutilizados ou não utilizados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-119",
@@ -1749,7 +1867,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A hierarquia urbana descreve como metrópoles regionais concentram serviços mais especializados, exercendo influência sobre cidades menores que dependem desses serviços não disponíveis localmente. Cidades de portes diferentes não oferecem serviços de complexidade equivalente, cidades pequenas não exercem maior influência do que metrópoles, e a hierarquia se define pela oferta de serviços e funções urbanas, não pela extensão territorial do município.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-120",
@@ -1764,7 +1883,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O padrão descrito ilustra o conceito de região de influência e a hierarquia urbana em múltiplos níveis: cada centro urbano oferece serviços de complexidade crescente conforme sua posição na hierarquia. O caso não envolve deslocamento de fábricas (desconcentração industrial), não descreve fusão física entre cidades (conurbação), e não trata de composição da pauta exportadora (reprimarização) — conceitos de outras áreas da geografia econômica e urbana.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-121",
@@ -1779,7 +1899,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores históricos e técnicos que explicam a predominância global de fontes fósseis. A afirmativa III é falsa: diversos países possuem potencial técnico relevante para energias renováveis (como a solar no Norte da África e a eólica na Europa) — o Brasil se destaca por seu potencial hídrico específico, mas não é o único país com potencial renovável.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-122",
@@ -1794,7 +1915,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os fatores que explicam a dependência de carvão nesses países. A afirmativa III é falsa: China e Índia estão, na verdade, entre os países que mais investem em termos absolutos em energia solar e eólica no mundo — a dependência de carvão convive com, e não exclui, investimentos crescentes em fontes renováveis.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-123",
@@ -1809,7 +1931,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Apesar do relevante potencial hidrográfico brasileiro, a utilização das hidrovias no transporte de cargas permanece proporcionalmente pequena, resultado de investimentos históricos insuficientes em dragagem, eclusas e terminais fluviais. As hidrovias estão longe de superar o modal rodoviário, não há restrição legal federal desse tipo, e seu uso, quando existe, é voltado majoritariamente a cargas, não a cruzeiros de passageiros.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-124",
@@ -1824,7 +1947,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os dados confirmam I e II: o Brasil concentra 65% do transporte de cargas no modal rodoviário, contra 30% nos Estados Unidos, que utilizam mais o ferroviário (40% contra 15% no Brasil), apesar de ambos os países terem grandes extensões territoriais. A afirmativa III inverte os dados da tabela: são os Estados Unidos que dependem proporcionalmente menos do modal rodoviário, não mais, em comparação ao Brasil.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-125",
@@ -1839,7 +1963,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O \u0027Custo Brasil\u0027 refere-se a fatores estruturais — infraestrutura logística deficiente, elevada carga tributária, burocracia e insegurança jurídica — que encarecem a produção e a exportação de bens no país. O Brasil não investiu excessivamente em ferrovias e hidrovias (pelo contrário, investiu pouco), a carga tributária sobre a produção é elevada, não ausente, e o comércio exterior brasileiro é, sim, tributado.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-126",
@@ -1854,7 +1979,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a sobreposição de interesses e a natureza do conflito entre direitos constitucionais indígenas e interesses econômicos. A afirmativa III é falsa: a demarcação envolve etapas de estudo antropológico, identificação e disputas administrativas e judiciais que frequentemente se estendem por muitos anos, não sendo um processo automático e rápido.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-127",
@@ -1869,7 +1995,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o objetivo e o fundamento constitucional do direito à titulação quilombola. A afirmativa III é falsa: o direito alcança tanto comunidades rurais quanto urbanas, sendo a maior parte dos territórios quilombolas reconhecidos, historicamente, de natureza rural.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-128",
@@ -1884,7 +2011,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o mecanismo da grilagem e sua relação com conflitos fundiários e desmatamento ilegal. A afirmativa III é falsa: a grilagem é, por definição, uma apropriação ilegal de terras públicas, baseada em fraude documental — não se confunde com a compra e venda legal e regular de terras devidamente registradas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-129",
@@ -1899,7 +2027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o padrão global de urbanização acelerada e sua relação com políticas habitacionais insuficientes. A afirmativa III é falsa: a existência de townships, slums e favelas em diferentes países evidencia justamente o oposto — um padrão global compartilhado por diversos países em desenvolvimento, não uma particularidade exclusivamente brasileira.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-130",
@@ -1914,7 +2043,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O conceito de \u0027direito à cidade\u0027, de Henri Lefebvre, incorporado no Brasil ao Estatuto da Cidade, defende que todos os habitantes urbanos têm direito de usufruir do espaço, dos serviços e de participar das decisões sobre o planejamento urbano. Ele se contrapõe, e não se resume, a um planejamento apenas técnico, a um privilégio de proprietários de áreas centrais, ou à priorização do mercado imobiliário sobre o bem-estar coletivo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-131",
@@ -1929,7 +2059,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A desertificação é a degradação de solos em áreas de clima árido, semiárido ou subúmido seco, combinando fatores climáticos com práticas humanas inadequadas, como desmatamento da caatinga e superpastoreio. Não se trata de um processo já concluído em toda a região, não está restrito a áreas equatoriais (o semiárido nordestino fica distante da linha do Equador), e ocorre justamente em áreas de clima semiárido, não em desertos já formados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-132",
@@ -1944,7 +2075,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A identificação de núcleos específicos evidencia que a desertificação não ocorre de forma homogênea, mas se concentra em áreas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica, exigindo políticas focalizadas. O processo não é uniforme em toda a região, não foi revertido nesses núcleos (ao contrário, são as áreas mais críticas), e envolve, sim, práticas humanas de uso do solo, não apenas fatores climáticos naturais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-133",
@@ -1959,7 +2091,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O paradigma da \u0027convivência com o semiárido\u0027 propõe tecnologias sociais adaptadas, como cisternas para captação de água, permitindo que a população permaneça na região com melhor qualidade de vida, em contraposição ao antigo paradigma do \u0027combate à seca\u0027. Não propõe remoção da população, não substitui as tecnologias sociais por grandes barragens como única saída (pelo contrário, contrapõe-se a essa lógica), e não proíbe a agricultura na região.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-134",
@@ -1974,7 +2107,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os argumentos favoráveis do governo e as críticas de parte dos especialistas e movimentos sociais. A afirmativa III é falsa: a obra é justamente um dos temas mais debatidos e controversos da geografia hídrica brasileira, longe de haver aprovação unânime entre especialistas e movimentos sociais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-135",
@@ -1989,7 +2123,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente as posições em disputa entre estados produtores e não produtores na partilha dos royalties. A afirmativa III é falsa: essa distribuição gerou disputas legislativas e judiciais relevantes ao longo dos anos, não tendo sido encerrada de forma unânime e definitiva.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-136",
@@ -2004,7 +2139,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O cortiço consiste no aproveitamento de uma edificação já existente, subdividida em cômodos alugados a famílias distintas que compartilham áreas comuns, diferentemente da favela, formada por construções autônomas em terrenos ocupados irregularmente. Não é uma moradia de alta renda, frequentemente apresenta superlotação e infraestrutura precária, e é tipicamente urbano, não rural.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-137",
@@ -2019,7 +2155,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A construção de conjuntos habitacionais em terrenos periféricos mais baratos é criticada por reproduzir padrões de segregação socioespacial, com longos e custosos deslocamentos diários até empregos e serviços. O programa não se concentrou em áreas centrais consolidadas, a localização periférica tende a aumentar, não eliminar, custos de mobilidade, e os conjuntos foram construídos majoritariamente dentro do perímetro urbano, ainda que em áreas periféricas dele.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-138",
@@ -2034,7 +2171,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Sistemas de transporte coletivo de qualidade são apontados como estratégia central para reduzir congestionamento, poluição do ar e tempo de deslocamento, além de promover maior equidade na mobilidade urbana. Esses sistemas beneficiam sobretudo a população que não possui automóvel próprio, geralmente de menor renda; não eliminam todo transporte motorizado (o próprio transporte coletivo é motorizado); e visam reduzir, não aumentar, o tempo de deslocamento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-139",
@@ -2049,7 +2187,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Com 60% das viagens de automóvel particular, a Cidade A apresenta padrão de mobilidade mais dependente de veículos individuais, tendendo a maior congestionamento e emissão de poluentes; a Cidade B, com 25% de automóvel e 55% de transporte coletivo, apresenta padrão mais sustentável. As duas cidades não têm o mesmo padrão, é a Cidade A, não a B, que depende mais do automóvel, e a comparação entre cidades com base em repartição modal é exatamente o tipo de análise feita pela geografia dos transportes urbanos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-140",
@@ -2064,7 +2203,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O ODS 11 busca tornar as cidades mais inclusivas, seguras, resilientes e sustentáveis, incluindo metas de moradia digna, transporte público sustentável e espaços públicos acessíveis. Não restringe a urbanização a países desenvolvidos, não propõe substituir transporte público por veículos particulares (ao contrário, defende o transporte coletivo), e inclui moradia como uma de suas metas centrais, não a exclui.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-141",
@@ -2079,7 +2219,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A crítica de parte dos geógrafos urbanos está no risco de que investimentos tecnológicos se concentrem em áreas já privilegiadas, aprofundando desigualdades caso não haja investimento equivalente em infraestrutura básica das periferias. O conceito não elimina desigualdades automaticamente, uma cidade inteligente por definição usa tecnologia digital (é sua característica central), e a crítica não nega todo benefício, mas aponta riscos de desigualdade na sua implementação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-142",
@@ -2094,7 +2235,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Muitos pequenos municípios enfrentam esvaziamento populacional, causado pela saída de jovens em busca de oportunidades em cidades maiores, o que acentua o envelhecimento da população remanescente. Não há, nesses municípios, crescimento populacional acelerado nem excesso de oferta de emprego industrial — pelo contrário, a escassez de oportunidades é a causa do esvaziamento, fenômeno que ocorre em paralelo, e não isolado, do processo geral de urbanização do país.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-143",
@@ -2109,7 +2251,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os novos fatores de atração e a inversão do padrão migratório histórico. A afirmativa III é falsa: os fluxos recentes são cada vez mais influenciados por qualidade de vida, custo de vida e trabalho remoto (acelerado após a pandemia), e não mais, predominantemente, pela busca de emprego industrial nas grandes metrópoles, como ocorria até meados do século XX.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-144",
@@ -2124,7 +2267,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Crises hídricas metropolitanas geralmente resultam da combinação entre fatores climáticos e fatores de gestão, como crescimento da demanda urbana e perdas na rede de distribuição. Não decorrem apenas da falta de chuvas isoladamente, não são causadas por excesso de investimento em infraestrutura (pelo contrário, a subutilização é o problema comum), e não se relacionam a uma redução do consumo, mas sim ao crescimento da demanda.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-145",
@@ -2139,7 +2283,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a implicação do dado: reduzir perdas amplia a disponibilidade efetiva de água tratada sem necessidade de novas fontes. A afirmativa III é falsa: um índice de perdas de 40% é considerado elevado, muito acima do patamar desejável por organismos de saneamento, e não um valor ideal — é justamente esse problema que torna a redução de perdas uma estratégia relevante.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-146",
@@ -2154,7 +2299,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar (ou salobra), tornando-a própria para consumo humano, irrigação e uso industrial. Não transforma água doce em salgada, não se limita à purificação de rios poluídos, e mesmo países que a adotam em larga escala normalmente combinam essa fonte com outras, não a utilizam como única solução hídrica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-147",
@@ -2169,7 +2315,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A dessalinização exige grande quantidade de energia, o que eleva seu custo frente a fontes tradicionais, tornando sua adoção em larga escala mais viável em países com energia abundante e barata, como os do Golfo Pérsico. A tecnologia já está em operação comercial há décadas (não é experimental), não há tratado internacional que a proíba, e a água dessalinizada pode, sim, ser usada para irrigação, ainda que com custo elevado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-148",
@@ -2184,7 +2331,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A agricultura de precisão utiliza GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e das lavouras, permitindo aplicação mais eficiente e localizada de insumos, o que aumenta a produtividade e reduz desperdícios. Não elimina a necessidade de insumos (apenas otimiza seu uso), não impede a mecanização (frequentemente depende dela), e não elimina a mão de obra humana em todas as etapas da produção.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "geografia-149",
@@ -2199,7 +2347,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A produção de cada década é área × produtividade: 10×2,0=20; 20×2,8=56; 40×3,5=140 milhões de toneladas, confirmando I. Da Década 1 para a 2, a produção multiplicou-se por 2,8 vezes; da 2 para a 3, por 2,5 vezes, mas com ganho absoluto maior (84 milhões de toneladas, contra 36), confirmando II. A afirmativa III é falsa: embora a área plantada tenha dobrado em cada transição, a produção não dobrou exatamente, pois a produtividade por hectare também variou entre as décadas, alterando o resultado final.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "geografia-150",
@@ -2214,7 +2363,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A posição do Brasil como grande produtor e exportador de commodities agrícolas coloca o país diante do desafio de conciliar essa relevância econômica com a contenção do desmatamento de biomas como o Cerrado e a Amazônia, promovendo práticas mais sustentáveis. O desafio não é reduzir a produção a níveis históricos anteriores, nem transferir a produção a outros países, e o debate ambiental está cada vez mais integrado, não dissociado, das discussões sobre expansão agropecuária.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      }
                  ]
 }

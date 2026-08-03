@@ -12,7 +12,8 @@
                                               "d":  "a antecipação, por Hobbes, das redes sociais e da necessidade de termos de uso digitais, hipótese que ignora o caráter hipotético e filosófico do estado de natureza, alheio a qualquer previsão tecnológica específica"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Hobbes descreve o estado de natureza como guerra generalizada, superada pela instituição de um poder soberano; essa lógica ilumina por que espaços digitais sem moderação tendem ao conflito, levando à criação de regras comuns — diferente de identificar isso em uma discussão já regulada, de uma antecipação anacrônica das redes sociais, ou de inverter a posição de Hobbes, que defende a necessidade de autoridade central, não sua ausência."
+                         "explicacao":  "Hobbes descreve o estado de natureza como guerra generalizada, superada pela instituição de um poder soberano; essa lógica ilumina por que espaços digitais sem moderação tendem ao conflito, levando à criação de regras comuns — diferente de identificar isso em uma discussão já regulada, de uma antecipação anacrônica das redes sociais, ou de inverter a posição de Hobbes, que defende a necessidade de autoridade central, não sua ausência.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-02",
@@ -25,7 +26,8 @@
                                               "d":  "a defesa, por Locke, de que o Estado deveria deter poder irrestrito sobre a vida e a propriedade dos cidadãos, inversão que contraria frontalmente a tese lockeana de limitação do poder estatal em nome dos direitos individuais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Locke concebe o governo civil como instrumento de proteção de direitos preexistentes, o que dialoga com debates atuais sobre proteção de dados pessoais como extensão desses direitos — diferente de associar isso a qualquer lei de tecnologia, de uma antecipação anacrônica da internet, ou de atribuir a Locke a defesa de um poder estatal irrestrito, tese que é de Hobbes, não dele."
+                         "explicacao":  "Locke concebe o governo civil como instrumento de proteção de direitos preexistentes, o que dialoga com debates atuais sobre proteção de dados pessoais como extensão desses direitos — diferente de associar isso a qualquer lei de tecnologia, de uma antecipação anacrônica da internet, ou de atribuir a Locke a defesa de um poder estatal irrestrito, tese que é de Hobbes, não dele.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-03",
@@ -38,7 +40,8 @@
                                               "d":  "a previsão, por Rousseau, das redes sociais como instrumento de mobilização política, hipótese anacrônica alheia ao objetivo do argumento rousseauniano sobre a fonte da legitimidade política"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Para Rousseau, a soberania reside na vontade geral, e o governo é apenas seu executor; esse argumento fundamenta a contestação a governantes que deixam de representar o interesse comum — diferente de validar qualquer protesto per se, de uma antecipação anacrônica das redes sociais, ou de atribuir a Rousseau a tese hobbesiana da transferência irrevogável de poder."
+                         "explicacao":  "Para Rousseau, a soberania reside na vontade geral, e o governo é apenas seu executor; esse argumento fundamenta a contestação a governantes que deixam de representar o interesse comum — diferente de validar qualquer protesto per se, de uma antecipação anacrônica das redes sociais, ou de atribuir a Rousseau a tese hobbesiana da transferência irrevogável de poder.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-04",
@@ -51,7 +54,8 @@
                                               "d":  "o chamado \"marketing de causas\", quando uma ação socialmente correta é praticada primordialmente para gerar retorno de imagem, e não por respeito ao valor moral da ação em si — o que, para Kant, a destituiria de valor moral genuíno, ainda que externamente correta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Kant afirma que o valor moral de uma ação está na intenção de cumprir o dever por respeito à lei moral, e não nas vantagens que ela produz; isso permite questionar campanhas de responsabilidade social movidas primordialmente por retorno de imagem — diferente de aplicar o critério a qualquer publicidade sem causa social, de atribuir a Kant um critério consequencialista que não é seu, ou de igualar moralmente ação genuína e ação de marketing."
+                         "explicacao":  "Kant afirma que o valor moral de uma ação está na intenção de cumprir o dever por respeito à lei moral, e não nas vantagens que ela produz; isso permite questionar campanhas de responsabilidade social movidas primordialmente por retorno de imagem — diferente de aplicar o critério a qualquer publicidade sem causa social, de atribuir a Kant um critério consequencialista que não é seu, ou de igualar moralmente ação genuína e ação de marketing.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-05",
@@ -64,7 +68,8 @@
                                               "d":  "qualquer decisão tomada por um carro autônomo, mesmo quando não há escolha entre cursos de ação com consequências distintas para vidas humanas, hipótese que dispensa a existência de consequências diferenciadas, justamente o que o utilitarismo exige para orientar a escolha"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O utilitarismo julga ações por seus resultados, buscando o maior saldo de bem-estar coletivo; essa lógica orienta debates sobre como programar carros autônomos diante de acidentes inevitáveis — diferente de aplicá-la a decisões sem consequências diferenciadas, de atribuir ao utilitarismo um critério de regras fixas (deontológico), ou de esvaziar sua exigência de avaliar resultados."
+                         "explicacao":  "O utilitarismo julga ações por seus resultados, buscando o maior saldo de bem-estar coletivo; essa lógica orienta debates sobre como programar carros autônomos diante de acidentes inevitáveis — diferente de aplicá-la a decisões sem consequências diferenciadas, de atribuir ao utilitarismo um critério de regras fixas (deontológico), ou de esvaziar sua exigência de avaliar resultados.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-06",
@@ -77,7 +82,8 @@
                                               "d":  "a de uma pessoa que viaja a turismo para o exterior, mesmo contando com a proteção plena de seu país de origem, comparação que ignora justamente a proteção estatal plena, ausente na condição de apátrida analisada por Arendt"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Arendt mostra que a perda da cidadania priva o indivíduo do reconhecimento jurídico que sustenta seus demais direitos — o chamado \"direito a ter direitos\"; essa análise ilumina a situação de refugiados e apátridas contemporâneos, diferente de equipará-la a uma viagem ao exterior, de inverter a posição crítica de Arendt, ou de supor que a apatridia foi resolvida definitivamente por organismos internacionais."
+                         "explicacao":  "Arendt mostra que a perda da cidadania priva o indivíduo do reconhecimento jurídico que sustenta seus demais direitos — o chamado \"direito a ter direitos\"; essa análise ilumina a situação de refugiados e apátridas contemporâneos, diferente de equipará-la a uma viagem ao exterior, de inverter a posição crítica de Arendt, ou de supor que a apatridia foi resolvida definitivamente por organismos internacionais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-07",
@@ -90,7 +96,8 @@
                                               "d":  "o aumento de comportamentos de risco e da sensação de desorientação coletiva em contextos de crise econômica aguda ou de rupturas abruptas na rotina social, quando as referências habituais de conduta perdem força"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A anomia descreve a desregulação das normas sociais em momentos de crise, gerando desorientação coletiva; esse conceito ajuda a entender picos de instabilidade comportamental em rupturas econômicas ou sociais abruptas — diferente de aplicá-lo a uma mudança de rotina já normatizada, de inverter seu sentido (excesso, e não ausência, de regras), ou de reduzi-lo a um fator biológico."
+                         "explicacao":  "A anomia descreve a desregulação das normas sociais em momentos de crise, gerando desorientação coletiva; esse conceito ajuda a entender picos de instabilidade comportamental em rupturas econômicas ou sociais abruptas — diferente de aplicá-lo a uma mudança de rotina já normatizada, de inverter seu sentido (excesso, e não ausência, de regras), ou de reduzi-lo a um fator biológico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-08",
@@ -103,7 +110,8 @@
                                               "d":  "a ideia de que a autoridade institucional desapareceu por completo nas democracias que elegeram líderes populistas, exagero que desconsidera a persistência de estruturas burocráticas mesmo em contextos de forte liderança populista"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A distinção entre autoridade fundada em qualidades pessoais e autoridade fundada em regras impessoais e cargos ajuda a interpretar o contraste entre lideranças populistas, que apelam à conexão direta com o povo, e instituições burocráticas, cuja legitimidade vem de procedimentos — diferente de igualar toda eleição pela mesma fonte de legitimidade, de prescrever um único modelo de liderança, ou de supor o desaparecimento das instituições."
+                         "explicacao":  "A distinção entre autoridade fundada em qualidades pessoais e autoridade fundada em regras impessoais e cargos ajuda a interpretar o contraste entre lideranças populistas, que apelam à conexão direta com o povo, e instituições burocráticas, cuja legitimidade vem de procedimentos — diferente de igualar toda eleição pela mesma fonte de legitimidade, de prescrever um único modelo de liderança, ou de supor o desaparecimento das instituições.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-09",
@@ -116,7 +124,8 @@
                                               "d":  "a ideia de que a globalização eliminou toda forma de risco econômico ou sanitário entre países, otimismo que contraria justamente o diagnóstico giddensiano de um mundo cujos riscos se tornam cada vez mais difíceis de controlar"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Giddens descreve a globalização como um processo que intensifica a interdependência e a velocidade com que riscos se espalham globalmente, escapando ao controle de instituições isoladas; essa análise ilumina a propagação rápida de crises financeiras ou sanitárias — diferente de negar a existência de riscos globais, de inverter a tese de Giddens em defesa do isolacionismo, ou de restringir o alcance da crise apenas a países pobres."
+                         "explicacao":  "Giddens descreve a globalização como um processo que intensifica a interdependência e a velocidade com que riscos se espalham globalmente, escapando ao controle de instituições isoladas; essa análise ilumina a propagação rápida de crises financeiras ou sanitárias — diferente de negar a existência de riscos globais, de inverter a tese de Giddens em defesa do isolacionismo, ou de restringir o alcance da crise apenas a países pobres.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-10",
@@ -129,7 +138,8 @@
                                               "d":  "o debate sobre a diferença entre o valor gerado pelo trabalho de entregadores e motoristas e a remuneração que efetivamente recebem, sendo o excedente apropriado pela plataforma que intermedeia o serviço"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A mais-valia designa o excedente entre o valor produzido pelo trabalho e o quanto o trabalhador recebe por ele, apropriado por quem detém os meios de produção; esse conceito ilumina debates sobre a remuneração de entregadores e motoristas de aplicativo — diferente de supor que qualquer aplicativo já garante remuneração justa, de reduzir o lucro à especulação financeira, ou de confundir valor de troca com valor de uso."
+                         "explicacao":  "A mais-valia designa o excedente entre o valor produzido pelo trabalho e o quanto o trabalhador recebe por ele, apropriado por quem detém os meios de produção; esse conceito ilumina debates sobre a remuneração de entregadores e motoristas de aplicativo — diferente de supor que qualquer aplicativo já garante remuneração justa, de reduzir o lucro à especulação financeira, ou de confundir valor de troca com valor de uso.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-11",
@@ -142,7 +152,8 @@
                                               "d":  "a de que qualquer trabalho remunerado por aplicativo é, por definição, mais alienante do que qualquer emprego formal tradicional, generalização indevida que ignora as variações entre diferentes formas de trabalho alienado, sejam elas por aplicativo ou tradicionais"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A alienação descreve a perda de controle do trabalhador sobre o processo e o produto de seu trabalho; essa chave interpretativa ilumina críticas ao trabalho por aplicativo, mediado por decisões algorítmicas às quais o trabalhador não tem acesso — diferente de generalizar que todo trabalho por aplicativo é automaticamente mais alienante, de supor redistribuição plena da riqueza pelo Estado, ou de inverter a relação de propriedade dos meios de produção."
+                         "explicacao":  "A alienação descreve a perda de controle do trabalhador sobre o processo e o produto de seu trabalho; essa chave interpretativa ilumina críticas ao trabalho por aplicativo, mediado por decisões algorítmicas às quais o trabalhador não tem acesso — diferente de generalizar que todo trabalho por aplicativo é automaticamente mais alienante, de supor redistribuição plena da riqueza pelo Estado, ou de inverter a relação de propriedade dos meios de produção.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-12",
@@ -155,7 +166,8 @@
                                               "d":  "a defesa de que direitos digitais substituem por completo os direitos civis e políticos tradicionais, hipótese que inverte a lógica cumulativa da cidadania moderna, em que novas dimensões se somam às conquistas anteriores"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Marshall divide a cidadania em direitos civis, políticos e sociais consolidados historicamente; esse modelo ajuda a situar o debate sobre acesso à internet como possível extensão dos direitos sociais — diferente de atribuir a Marshall uma previsão anacrônica da internet, de supor a substituição integral dos direitos tradicionais, ou de restringir a extensão apenas ao eixo político."
+                         "explicacao":  "Marshall divide a cidadania em direitos civis, políticos e sociais consolidados historicamente; esse modelo ajuda a situar o debate sobre acesso à internet como possível extensão dos direitos sociais — diferente de atribuir a Marshall uma previsão anacrônica da internet, de supor a substituição integral dos direitos tradicionais, ou de restringir a extensão apenas ao eixo político.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-13",
@@ -168,7 +180,8 @@
                                               "d":  "o modo como o controle sobre o comportamento dos funcionários deixa de depender apenas de uma supervisão presencial centralizada e passa a se difundir por ferramentas digitais que monitoram continuamente cliques, telas e tempo de resposta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Foucault propõe uma concepção descentralizada do poder, presente em micropráticas disciplinares; essa chave ilumina como softwares de monitoramento difundem o controle sobre o trabalho para além de uma supervisão presencial centralizada — diferente de atribuir poder disciplinar a qualquer software instalado, de negar a persistência do poder institucional, ou de restringir a vigilância apenas ao Estado."
+                         "explicacao":  "Foucault propõe uma concepção descentralizada do poder, presente em micropráticas disciplinares; essa chave ilumina como softwares de monitoramento difundem o controle sobre o trabalho para além de uma supervisão presencial centralizada — diferente de atribuir poder disciplinar a qualquer software instalado, de negar a persistência do poder institucional, ou de restringir a vigilância apenas ao Estado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-14",
@@ -181,7 +194,8 @@
                                               "d":  "a ideia de que qualquer rede social, independentemente de seu algoritmo, produz automaticamente o mesmo isolamento político descrito por Arendt, generalização que ignora diferenças entre plataformas na produção de bolhas informacionais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Arendt analisa o isolamento e a atomização como base de regimes totalitários; essa chave permite uma comparação cuidadosa com bolhas informacionais contemporâneas, que enfraquecem a pluralidade de opiniões, sem equivaler diretamente ao totalitarismo histórico — diferente de generalizar o efeito a qualquer rede social, de inverter a tese arendtiana, ou de negar a centralidade do isolamento em sua análise."
+                         "explicacao":  "Arendt analisa o isolamento e a atomização como base de regimes totalitários; essa chave permite uma comparação cuidadosa com bolhas informacionais contemporâneas, que enfraquecem a pluralidade de opiniões, sem equivaler diretamente ao totalitarismo histórico — diferente de generalizar o efeito a qualquer rede social, de inverter a tese arendtiana, ou de negar a centralidade do isolamento em sua análise.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-15",
@@ -194,7 +208,8 @@
                                               "d":  "a defesa de que não existem diferenças culturais relevantes entre povos distintos, afirmação que contraria o próprio pressuposto do relativismo cultural, que reconhece e busca compreender tais diferenças"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O relativismo cultural propõe compreender cada cultura a partir de seus próprios códigos, evitando o etnocentrismo; essa chave ajuda a identificar coberturas jornalísticas que julgam tradições estrangeiras pelos padrões do observador — diferente de exigir aceitação acrítica de qualquer prática, de negar diferenças culturais, ou de restringir o etnocentrismo a jornalistas estrangeiros."
+                         "explicacao":  "O relativismo cultural propõe compreender cada cultura a partir de seus próprios códigos, evitando o etnocentrismo; essa chave ajuda a identificar coberturas jornalísticas que julgam tradições estrangeiras pelos padrões do observador — diferente de exigir aceitação acrítica de qualquer prática, de negar diferenças culturais, ou de restringir o etnocentrismo a jornalistas estrangeiros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-16",
@@ -207,7 +222,8 @@
                                               "d":  "a ideia de que redes sociais eliminaram por completo a influência dos meios de comunicação de massa sobre o comportamento coletivo, generalização que contraria a tese de que as imagens continuam mediando amplamente a experiência coletiva"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Debord argumenta que a experiência vivida tende a ser substituída pela sua representação em imagens; esse conceito ilumina a curadoria de imagem em redes sociais, em que a vida cotidiana é organizada em função de sua exibição — diferente de reduzir o conceito a qualquer foto isolada, de negar a produção material, ou de supor o fim da influência da mídia de massa."
+                         "explicacao":  "Debord argumenta que a experiência vivida tende a ser substituída pela sua representação em imagens; esse conceito ilumina a curadoria de imagem em redes sociais, em que a vida cotidiana é organizada em função de sua exibição — diferente de reduzir o conceito a qualquer foto isolada, de negar a produção material, ou de supor o fim da influência da mídia de massa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-17",
@@ -220,7 +236,8 @@
                                               "d":  "a de que estudantes de famílias com maior acesso a cursos preparatórios, viagens culturais e repertório acumulado tendem a levar vantagem no acesso ao ensino superior, o que relativiza a ideia de mérito puramente individual"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Bourdieu mostra que o capital cultural herdado no ambiente familiar é reconhecido pela escola e favorece estudantes de classes mais privilegiadas; esse conceito ilumina a crítica ao mérito individual em vestibulares competitivos — diferente de supor distribuição igualitária desse capital, de reduzir o desempenho a fatores biológicos, ou de isolar a explicação apenas em diplomas sem relação com a origem familiar."
+                         "explicacao":  "Bourdieu mostra que o capital cultural herdado no ambiente familiar é reconhecido pela escola e favorece estudantes de classes mais privilegiadas; esse conceito ilumina a crítica ao mérito individual em vestibulares competitivos — diferente de supor distribuição igualitária desse capital, de reduzir o desempenho a fatores biológicos, ou de isolar a explicação apenas em diplomas sem relação com a origem familiar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-18",
@@ -233,7 +250,8 @@
                                               "d":  "a defesa de que o Estado deveria planejar centralizadamente toda a oferta de serviços digitais no país, posição estatista diametralmente oposta à limitação do papel do Estado defendida pelo liberalismo clássico"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O liberalismo clássico defende um Estado limitado, cuja função é assegurar liberdades e direitos individuais; esse princípio situa a posição que restringe a intervenção estatal sobre plataformas a evitar abusos concretos — diferente de generalizar para ausência total de regras, de propor planejamento estatal centralizado, ou de opor liberalismo à proteção de direitos individuais."
+                         "explicacao":  "O liberalismo clássico defende um Estado limitado, cuja função é assegurar liberdades e direitos individuais; esse princípio situa a posição que restringe a intervenção estatal sobre plataformas a evitar abusos concretos — diferente de generalizar para ausência total de regras, de propor planejamento estatal centralizado, ou de opor liberalismo à proteção de direitos individuais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-19",
@@ -246,7 +264,8 @@
                                               "d":  "a ideia de que qualquer uso de tecnologia na educação é, por definição, incompatível com o pensamento crítico, generalização que ignora recair a crítica sobre um uso específico, e não sobre usos que estimulam, em vez de dispensar, o questionamento do próprio estudante"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A maiêutica consiste em, por perguntas sucessivas, levar o interlocutor a examinar criticamente suas próprias crenças; essa chave fundamenta a crítica a respostas prontas de chatbots que dispensam esse exercício — diferente de rejeitar toda tecnologia educacional, de confundir a maiêutica com retórica persuasiva, ou de atribuir a Sócrates a imposição de verdades prontas, o oposto de seu método."
+                         "explicacao":  "A maiêutica consiste em, por perguntas sucessivas, levar o interlocutor a examinar criticamente suas próprias crenças; essa chave fundamenta a crítica a respostas prontas de chatbots que dispensam esse exercício — diferente de rejeitar toda tecnologia educacional, de confundir a maiêutica com retórica persuasiva, ou de atribuir a Sócrates a imposição de verdades prontas, o oposto de seu método.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-20",
@@ -259,7 +278,8 @@
                                               "d":  "a ideia de que qualquer recomendação automática de conteúdo já reproduz o mito da caverna, independentemente de haver filtro ou não, ignorando que o mito ilustra a confusão entre versão parcial e realidade completa"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O mito da caverna ilustra a confusão entre uma versão parcial da realidade (sombras) e a realidade completa; essa chave ilumina a crítica às bolhas de conteúdo criadas por algoritmos de recomendação — diferente de aplicar o mito a qualquer recomendação automática, de relacioná-lo a um tema alheio (regime político ateniense), ou de inverter a hierarquia entre sentidos e razão que Platão defende."
+                         "explicacao":  "O mito da caverna ilustra a confusão entre uma versão parcial da realidade (sombras) e a realidade completa; essa chave ilumina a crítica às bolhas de conteúdo criadas por algoritmos de recomendação — diferente de aplicar o mito a qualquer recomendação automática, de relacioná-lo a um tema alheio (regime político ateniense), ou de inverter a hierarquia entre sentidos e razão que Platão defende.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-21",
@@ -272,7 +292,8 @@
                                               "d":  "a ideia de que qualquer busca por produtividade pessoal já representa, por si só, uma virtude aristotélica plena, ignorando que a virtude exige o meio-termo entre excessos, tal como a coragem se situa entre covardia e temeridade"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Aristóteles concebe a virtude como um meio-termo entre excessos, alcançado pelo hábito e pela deliberação racional; esse conceito problematiza discursos de produtividade que valorizam desempenho ilimitado sem equilíbrio — diferente de tratar qualquer busca por produtividade como virtude automática, de reduzir a felicidade a prazeres imediatos, ou de exigir isolamento social, o que contraria o \"zoon politikon\" aristotélico."
+                         "explicacao":  "Aristóteles concebe a virtude como um meio-termo entre excessos, alcançado pelo hábito e pela deliberação racional; esse conceito problematiza discursos de produtividade que valorizam desempenho ilimitado sem equilíbrio — diferente de tratar qualquer busca por produtividade como virtude automática, de reduzir a felicidade a prazeres imediatos, ou de exigir isolamento social, o que contraria o \"zoon politikon\" aristotélico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-22",
@@ -285,7 +306,8 @@
                                               "d":  "a ideia de que o ser humano já nasce com uma natureza fixa e predeterminada que apenas se manifesta ao longo da vida, tese que Sartre rejeita ao afirmar que a existência precede qualquer essência, tal como sustentava o essencialismo que seu pensamento pretende superar"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Para Sartre, o ser humano não possui uma essência predefinida a ser descoberta, mas a constrói por meio de escolhas livres; essa chave problematiza discursos de autoajuda que tratam o propósito de vida como algo fixo a ser encontrado — diferente de rejeitar toda autoajuda automaticamente, de restringir a tese à existência de objetos fabricados, ou de atribuir ao ser humano uma natureza fixa, o que Sartre nega."
+                         "explicacao":  "Para Sartre, o ser humano não possui uma essência predefinida a ser descoberta, mas a constrói por meio de escolhas livres; essa chave problematiza discursos de autoajuda que tratam o propósito de vida como algo fixo a ser encontrado — diferente de rejeitar toda autoajuda automaticamente, de restringir a tese à existência de objetos fabricados, ou de atribuir ao ser humano uma natureza fixa, o que Sartre nega.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-23",
@@ -298,7 +320,8 @@
                                               "d":  "o de que a associação entre certos brinquedos ou cores e um gênero específico resulta, em boa medida, de convenções sociais reforçadas pela própria publicidade, e não de uma predisposição biológica inata das crianças"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Beauvoir distingue sexo (biológico) de gênero (construção social), mostrando que papéis atribuídos às mulheres resultam de processos culturais; essa chave fundamenta a crítica a publicidades que naturalizam associações de gênero em brinquedos — diferente de atribuir tudo à biologia, de supor uniformidade histórica nos papéis femininos, ou de tratar a feminilidade como escolha arbitrária sem influência social."
+                         "explicacao":  "Beauvoir distingue sexo (biológico) de gênero (construção social), mostrando que papéis atribuídos às mulheres resultam de processos culturais; essa chave fundamenta a crítica a publicidades que naturalizam associações de gênero em brinquedos — diferente de atribuir tudo à biologia, de supor uniformidade histórica nos papéis femininos, ou de tratar a feminilidade como escolha arbitrária sem influência social.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-24",
@@ -311,7 +334,8 @@
                                               "d":  "a ideia de que qualquer aplicativo com múltiplas opções elimina, por si só, qualquer forma de angústia existencial, inversão que contraria a lógica do conceito, já que o excesso de opções tende a intensificá-la"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Kierkegaard descreve a angústia como vertigem diante da liberdade de escolher entre inúmeras possibilidades; esse conceito ilumina a paralisia diante do excesso de opções em aplicativos — diferente de supor que múltiplas opções eliminam a angústia, de restringi-la a fatores econômicos, ou de reduzi-la a uma condição puramente física."
+                         "explicacao":  "Kierkegaard descreve a angústia como vertigem diante da liberdade de escolher entre inúmeras possibilidades; esse conceito ilumina a paralisia diante do excesso de opções em aplicativos — diferente de supor que múltiplas opções eliminam a angústia, de restringi-la a fatores econômicos, ou de reduzi-la a uma condição puramente física.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-25",
@@ -324,7 +348,8 @@
                                               "d":  "a ideia de que a modernidade líquida implica a substituição definitiva de todo trabalho humano por processos automatizados, confundindo a fluidez dos vínculos com o tema distinto da automação"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Bauman usa a metáfora da liquidez para descrever a fluidez e o caráter provisório das relações contemporâneas; essa chave ilumina a substituição de carreiras estáveis por vínculos de trabalho temporários — diferente de inverter a tese (solidez crescente), de associá-la a um retorno a formas rígidas, ou de reduzi-la à automação do trabalho, tema distinto do conceito."
+                         "explicacao":  "Bauman usa a metáfora da liquidez para descrever a fluidez e o caráter provisório das relações contemporâneas; essa chave ilumina a substituição de carreiras estáveis por vínculos de trabalho temporários — diferente de inverter a tese (solidez crescente), de associá-la a um retorno a formas rígidas, ou de reduzi-la à automação do trabalho, tema distinto do conceito.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-26",
@@ -337,7 +362,8 @@
                                               "d":  "a ideia de que Bauman defendia a exigência estatal de que todos os vínculos afetivos fossem formalizados juridicamente, atribuição estranha à sua análise sobre a fluidez dos laços afetivos"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Bauman argumenta que a lógica de consumo contamina os laços afetivos, tornando-os mais frágeis e sujeitos ao medo do compromisso; essa chave ilumina a crítica a aplicativos de namoro baseados em decisões rápidas de descarte — diferente de inverter a tese (fortalecimento de compromissos), de supor o desaparecimento das relações afetivas, ou de atribuir a Bauman uma exigência de formalização jurídica dos vínculos."
+                         "explicacao":  "Bauman argumenta que a lógica de consumo contamina os laços afetivos, tornando-os mais frágeis e sujeitos ao medo do compromisso; essa chave ilumina a crítica a aplicativos de namoro baseados em decisões rápidas de descarte — diferente de inverter a tese (fortalecimento de compromissos), de supor o desaparecimento das relações afetivas, ou de atribuir a Bauman uma exigência de formalização jurídica dos vínculos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-27",
@@ -350,7 +376,8 @@
                                               "d":  "a ideia de que o véu da ignorância exige que as políticas públicas sejam formuladas exclusivamente por quem já ocupa a posição social mais favorecida, invertendo o objetivo do dispositivo, voltado a proteger os menos favorecidos"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "No véu da ignorância, os indivíduos deliberam sem saber qual posição ocuparão, o que favoreceria escolhas imparciais; essa chave fundamenta o argumento de que políticas desenhadas assim tendem a considerar os grupos mais desfavorecidos — diferente de restringir a formulação a quem já é favorecido, de inverter a premissa do experimento (desconhecimento, não conhecimento prévio), ou de limitá-lo a tradições religiosas."
+                         "explicacao":  "No véu da ignorância, os indivíduos deliberam sem saber qual posição ocuparão, o que favoreceria escolhas imparciais; essa chave fundamenta o argumento de que políticas desenhadas assim tendem a considerar os grupos mais desfavorecidos — diferente de restringir a formulação a quem já é favorecido, de inverter a premissa do experimento (desconhecimento, não conhecimento prévio), ou de limitá-lo a tradições religiosas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-28",
@@ -363,7 +390,8 @@
                                               "d":  "a ideia de que o princípio da diferença exige a distribuição igualitária da riqueza, sem qualquer critério adicional, ignorando que ele admite desigualdades que beneficiem os menos favorecidos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O princípio da diferença admite desigualdades desde que beneficiem os menos favorecidos; essa chave fundamenta a defesa de tributação progressiva revertida em benefícios sociais — diferente de exigir igualdade estrita de renda, de vincular direitos ao talento individual, ou de propor a abolição imediata de toda desigualdade, o que extrapola o princípio rawlsiano."
+                         "explicacao":  "O princípio da diferença admite desigualdades desde que beneficiem os menos favorecidos; essa chave fundamenta a defesa de tributação progressiva revertida em benefícios sociais — diferente de exigir igualdade estrita de renda, de vincular direitos ao talento individual, ou de propor a abolição imediata de toda desigualdade, o que extrapola o princípio rawlsiano.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-29",
@@ -376,7 +404,8 @@
                                               "d":  "a ideia de que o valor desses itens depende exclusivamente de seu custo de produção, sempre idêntico ao preço final de venda, ignorando que o valor-signo se sobrepõe ao custo material, o que explica por que marcas de luxo cobram muito além do custo de fabricação"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Baudrillard argumenta que os objetos funcionam como signos que comunicam status; essa chave ilumina a valorização de itens de moda entre criadores de conteúdo, associada à distinção social, e não apenas à função — diferente de reduzir o valor ao custo de produção, de associá-lo ao peso físico do produto, ou de negar sua dimensão simbólica."
+                         "explicacao":  "Baudrillard argumenta que os objetos funcionam como signos que comunicam status; essa chave ilumina a valorização de itens de moda entre criadores de conteúdo, associada à distinção social, e não apenas à função — diferente de reduzir o valor ao custo de produção, de associá-lo ao peso físico do produto, ou de negar sua dimensão simbólica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-30",
@@ -389,7 +418,8 @@
                                               "d":  "a ideia de que o consumo conspícuo descreve a aquisição discreta e racional de bens necessários à subsistência, inversão do conceito, que descreve exibição ostensiva de bens de luxo não essenciais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O consumo conspícuo descreve a exibição pública de bens de luxo como demonstração de status; essa chave ilumina a publicização de compras caras em redes sociais voltada a comunicar sucesso — diferente de considerar qualquer publicação sobre compras como consumo conspícuo, de confundi-lo com proibições sanitárias, ou de invertê-lo para consumo discreto de bens de subsistência."
+                         "explicacao":  "O consumo conspícuo descreve a exibição pública de bens de luxo como demonstração de status; essa chave ilumina a publicização de compras caras em redes sociais voltada a comunicar sucesso — diferente de considerar qualquer publicação sobre compras como consumo conspícuo, de confundi-lo com proibições sanitárias, ou de invertê-lo para consumo discreto de bens de subsistência.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-31",
@@ -402,7 +432,8 @@
                                               "d":  "a ideia de que a atuação desses movimentos se restringe unicamente ao ambiente parlamentar e partidário, contrariando seu traço definidor de organização por redes horizontais e digitais"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Os novos movimentos sociais articulam identidades coletivas e pautas culturais que extrapolam a luta de classes; essa chave ilumina a mobilização climática juvenil, organizada por redes digitais horizontais — diferente de reduzi-la a reivindicações sindicais, de negar sua organização coletiva, ou de restringi-la ao ambiente parlamentar."
+                         "explicacao":  "Os novos movimentos sociais articulam identidades coletivas e pautas culturais que extrapolam a luta de classes; essa chave ilumina a mobilização climática juvenil, organizada por redes digitais horizontais — diferente de reduzi-la a reivindicações sindicais, de negar sua organização coletiva, ou de restringi-la ao ambiente parlamentar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-32",
@@ -415,7 +446,8 @@
                                               "d":  "a defesa de que apenas indivíduos, e nunca Estados nacionais, podem agir como \"carona\" em acordos climáticos, ignorando que o problema se aplica igualmente a Estados que se beneficiam de esforços alheios"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O problema do carona descreve a tendência de se beneficiar de resultados coletivos sem arcar com os custos; essa chave explica a dificuldade de acordos climáticos amplos, já que países podem se beneficiar de reduções alheias sem reduzir suas próprias emissões — diferente de supor participação sempre ativa de todos, de restringir o problema a indivíduos, ou de descrevê-lo como impedimento violento."
+                         "explicacao":  "O problema do carona descreve a tendência de se beneficiar de resultados coletivos sem arcar com os custos; essa chave explica a dificuldade de acordos climáticos amplos, já que países podem se beneficiar de reduções alheias sem reduzir suas próprias emissões — diferente de supor participação sempre ativa de todos, de restringir o problema a indivíduos, ou de descrevê-lo como impedimento violento.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-33",
@@ -428,7 +460,8 @@
                                               "d":  "a defesa de que o biopoder se restringe exclusivamente ao controle das forças armadas em tempos de guerra, restrição que ignora seu alcance mais amplo sobre a gestão da vida da população"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Foucault descreve o biopoder como tecnologia que regula a população como corpo biológico coletivo; essa chave ilumina o monitoramento estatístico de dados de saúde durante uma pandemia — diferente de considerar qualquer coleta de dados como biopoder automaticamente, de restringi-lo às forças armadas, ou de supor seu desaparecimento histórico."
+                         "explicacao":  "Foucault descreve o biopoder como tecnologia que regula a população como corpo biológico coletivo; essa chave ilumina o monitoramento estatístico de dados de saúde durante uma pandemia — diferente de considerar qualquer coleta de dados como biopoder automaticamente, de restringi-lo às forças armadas, ou de supor seu desaparecimento histórico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-34",
@@ -441,7 +474,8 @@
                                               "d":  "a articulação entre estatística, tecnologia e gestão administrativa para conduzir o comportamento coletivo da população urbana, ampliando as técnicas modernas de governo da vida em sociedade"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A governamentalidade designa o conjunto de saberes e técnicas que permitem governar a população como alvo; essa chave ilumina a gestão de cidades inteligentes baseada em dados urbanos — diferente de restringi-la à eleição de prefeitos, de confundi-la com técnicas de tortura, ou de supor a eliminação da administração estatal."
+                         "explicacao":  "A governamentalidade designa o conjunto de saberes e técnicas que permitem governar a população como alvo; essa chave ilumina a gestão de cidades inteligentes baseada em dados urbanos — diferente de restringi-la à eleição de prefeitos, de confundi-la com técnicas de tortura, ou de supor a eliminação da administração estatal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-35",
@@ -454,7 +488,8 @@
                                               "d":  "a ideia de que qualquer pedido público de desculpas já resolve toda forma de desigualdade estrutural enfrentada pelo grupo, ignorando a distinção entre reparação simbólica e material"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Honneth situa conflitos sociais na busca por reconhecimento em diferentes esferas, incluindo a estima social; essa chave ilumina a demanda por reparação simbólica em pedidos públicos de desculpa — diferente de supor que um pedido resolve toda desigualdade estrutural, de negar a dimensão moral do desrespeito, ou de reduzir o reconhecimento a fatores exclusivamente econômicos."
+                         "explicacao":  "Honneth situa conflitos sociais na busca por reconhecimento em diferentes esferas, incluindo a estima social; essa chave ilumina a demanda por reparação simbólica em pedidos públicos de desculpa — diferente de supor que um pedido resolve toda desigualdade estrutural, de negar a dimensão moral do desrespeito, ou de reduzir o reconhecimento a fatores exclusivamente econômicos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-36",
@@ -467,7 +502,8 @@
                                               "d":  "o de que a ausência ou a distorção do reconhecimento público dessas identidades culturais pode causar dano real à dignidade e à autoestima desses grupos, justificando políticas específicas de valorização e titulação territorial"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Taylor argumenta que a ausência de reconhecimento pode causar dano à dignidade de grupos culturais; essa chave fundamenta políticas de reconhecimento e titulação de territórios quilombolas e indígenas — diferente de defender que o Estado ignore identidades particulares, de restringir reconhecimento a identidades majoritárias, ou de negar a relação entre identidade e reconhecimento social."
+                         "explicacao":  "Taylor argumenta que a ausência de reconhecimento pode causar dano à dignidade de grupos culturais; essa chave fundamenta políticas de reconhecimento e titulação de territórios quilombolas e indígenas — diferente de defender que o Estado ignore identidades particulares, de restringir reconhecimento a identidades majoritárias, ou de negar a relação entre identidade e reconhecimento social.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Kant define a menoridade como incapacidade de usar o próprio entendimento sem tutela, por preguiça ou covardia, e não por falta de razão; esse diagnóstico ilumina a aceitação acrítica de informações falsas por confiança automática em influenciadores — diferente de tratar qualquer conteúdo de influenciador como menoridade, de reduzi-la a uma limitação biológica, ou de associá-la à ausência de escolas formais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A fórmula da humanidade exige tratar toda pessoa também como fim em si mesma, nunca apenas como meio; esse princípio fundamenta a crítica a cadeias produtivas que exploram trabalhadores apenas para reduzir custos — diferente de considerar qualquer cadeia produtiva automaticamente violadora, de usar o princípio para justificar interesses de grupo, ou de reduzi-lo à obediência à lei civil vigente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Arendt observa que Eichmann agia por ausência de reflexão crítica e obediência burocrática, não por convicção fanática; esse mecanismo ilumina alegações de mera obediência a normas internas em escândalos corporativos — diferente de equiparar qualquer obediência a normas a um crime da gravidade de Eichmann, de exigir ódio fanático em todo crime corporativo, ou de tratar a banalidade do mal como traço de personalidade rara.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Para Arendt, a ação é a atividade que se desenrola diretamente entre os homens no espaço público, associada à pluralidade e ao discurso; essa distinção problematiza o ativismo de sofá, que pode não envolver essa presença e deliberação efetivas — diferente de equiparar qualquer postagem à ação política plena, de confundir ação com produção de bens (trabalho), ou de supor que a ação ocorre em isolamento, o que contraria sua definição.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Para Marx, a infraestrutura econômica condiciona a superestrutura política e cultural; essa tese ajuda a interpretar como a crise de 2008 repercutiu sobre a legitimidade de instituições políticas tradicionais — diferente de negar qualquer efeito de crises econômicas sobre a política, de atribuir mudanças políticas apenas a valores culturais, ou de negar a relação entre economia e política que é central à tese marxista.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Para Marx, o antagonismo central do capitalismo opõe quem detém os meios de produção a quem depende da venda de sua força de trabalho; essa chave ilumina a disputa entre plataformas de aplicativo e seus trabalhadores — diferente de reduzi-la a uma disputa territorial urbano-rural, de tratá-la como conflito geracional, ou de associá-la ao consumo de bens de luxo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O fetichismo da mercadoria descreve como o valor parece emanar do próprio objeto, ocultando o trabalho humano por trás dele; esse conceito ilumina a valorização de itens de revenda como se seu prestígio fosse intrínseco ao objeto — diferente de supor transparência entre preço e trabalho empregado, de negar qualquer valor simbólico ao consumo, ou de atribuir o valor a rituais tradicionais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A ação orientada pelo cálculo estratégico entre meios e fins, sem apelo a convicção, tradição ou emoção, caracteriza sistemas de trading algorítmico voltados a maximizar retorno financeiro — diferente de atribuir a esses sistemas convicções éticas incondicionais, orientação por costumes tradicionais, ou dependência de emoções momentâneas, traços incompatíveis com sua lógica automatizada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O modelo burocrático ideal se baseia em regras impessoais e critérios padronizados; essa chave ajuda a avaliar a promessa de sistemas digitais de reduzir favorecimentos pessoais no acesso a serviços públicos — diferente de supor que a digitalização elimina toda hierarquia, de associar a burocracia a critérios hereditários, ou de negar o registro documental, que é justamente uma característica burocrática.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O desencantamento do mundo descreve a substituição progressiva de explicações mágico-religiosas por formas racionais e científicas; esse processo ajuda a problematizar o crescimento de aplicativos de astrologia como busca de sentido em contraponto a essa racionalização — diferente de supor o desaparecimento total de crenças não científicas, de inverter o sentido do processo, ou de trocar as direções da substituição (ciência por tradição).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ética da convicção prioriza a fidelidade a princípios independentemente das consequências, enquanto a ética da responsabilidade exige avaliar os efeitos previsíveis das decisões; essa distinção ilumina a tensão de governantes entre liberdade individual e saúde coletiva em uma pandemia — diferente de supor que apenas uma ética orienta qualquer decisão, ou de inverter o sentido de cada uma das duas éticas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A coesão por semelhança de crenças caracteriza comunidades pouco diferenciadas, enquanto a coesão por interdependência funcional caracteriza sociedades complexas; essa distinção ilumina o contraste entre pequenas comunidades tradicionais e metrópoles — diferente de atribuir às metrópoles a coesão por semelhança, de reduzir a coesão comunitária a acordos jurídicos, ou de vinculá-la sempre a uma liderança religiosa única.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O aumento da divisão do trabalho gera maior especialização e, paradoxalmente, maior interdependência entre os agentes envolvidos; essa chave explica por que a interrupção da produção de um componente específico afeta setores inteiros em diferentes países — diferente de supor que a especialização elimina a interdependência, de tratá-la como fonte de autossuficiência, ou de inverter o efeito da interrupção sobre a autonomia produtiva.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Comte propõe o estado positivo, baseado em leis científicas observáveis, como estágio mais avançado do conhecimento; essa chave ilumina discursos que depositam fé quase absoluta na tecnologia para resolver problemas sociais complexos — diferente de negar o papel do conhecimento científico na lei dos três estados, de inverter sua direção histórica, ou de atribuir ao estado metafísico o posto de estágio mais avançado, que é do estado positivo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Hobbes descreve a concentração de poder no soberano como forma de garantir ordem; essa lógica ilumina, por analogia, a crítica à concentração de poder de mercado em grandes plataformas digitais — diferente de igualar qualquer empresa grande a um Estado soberano, de inverter a posição de Hobbes (que não defende a fragmentação do poder), ou de tratar a analogia como identidade exata entre os dois fenômenos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Locke rejeita ideias inatas, defendendo que o conhecimento vem da experiência; essa tese ilumina modelos de aprendizado de máquina que constroem padrões a partir de dados, sem conhecimento prévio programado — diferente de supor que sistemas de IA já nascem com conhecimento pleno, de negar a relevância dos dados de treinamento, ou de atribuir a esses modelos o inatismo que Locke critica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O cogito cartesiano funda a certeza da existência no próprio ato de pensar e duvidar de si mesmo; esse raciocínio esclarece por que a fluência textual de um chatbot não basta para demonstrar que nele exista, de fato, um sujeito pensante — diferente de aceitar a fluência textual como prova de consciência, de partir da existência de Deus (etapa posterior do sistema cartesiano), ou de atribuir aos sentidos, e não ao pensamento, a primeira certeza cartesiana.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Hume mostra que a crença na repetição de padrões passados não tem garantia lógica, dependendo de hábito; essa chave explica por que modelos preditivos baseados em dados históricos podem falhar diante de eventos inéditos nos mercados — diferente de supor que tais modelos são sempre corretos, de propor o raciocínio dedutivo como alternativa (Hume não o defende para esse fim), ou de negar toda observação de regularidades.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Nietzsche descreve a inversão de valores pela qual fraqueza e ressentimento são recodificados como virtude; esse diagnóstico ilumina narrativas que romantizam personagens marginais em oposição a figuras poderosas — diferente de aplicar o diagnóstico a qualquer narrativa sobre personagens marginais, de negar qualquer julgamento moral presente nelas, ou de inverter o sentido da crítica nietzschiana.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A morte de Deus simboliza o colapso das certezas metafísicas tradicionais, abrindo espaço para a criação de novos valores; esse diagnóstico ilumina a busca de sentido em comunidades de fãs como possível substituto secular — diferente de negar toda busca humana por sentido, de tratar a expressão como afirmação cosmológica literal, ou de inverter seu efeito sobre a fé religiosa tradicional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Gramsci mostra que a dominação se sustenta pela naturalização de valores da classe ou grupo dominante como universais; esse conceito ilumina a crítica ao papel curatorial de plataformas de streaming na formação do gosto — diferente de tratar qualquer conteúdo disponível como hegemonia automática, de reduzi-la à coerção penal, ou de negar a disputa ideológica que a hegemonia, para Gramsci, sempre pressupõe.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O intelectual orgânico emerge vinculado a um grupo, articulando e difundindo sua visão de mundo; esse conceito ilumina o papel de criadores de conteúdo que se tornam vozes de referência de uma subcultura — diferente de atribuir essa função a qualquer criador popular, de descrevê-lo como isolado da vida social (traço do intelectual tradicional), ou de negar seu engajamento político, que é justamente sua marca distintiva.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Habermas descreve a esfera pública burguesa como espaço de debate racional entre particulares; esse conceito fundamenta a crítica a ambientes digitais polarizados e tomados por desinformação, que enfraquecem essa racionalidade — diferente de equiparar qualquer debate on-line ao ideal habermasiano, de atribuir a esfera pública ao controle estatal absolutista, ou de negar sua existência histórica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A ação comunicativa busca entendimento mútuo por meio de argumentos sustentáveis; esse conceito fundamenta a crítica a debates dominados por ataques pessoais e descontextualização, que se afastam desse ideal — diferente de equiparar qualquer discussão acalorada à ação comunicativa, de confundi-la com ação estratégica manipuladora, ou de negar seu caráter linguístico e dialógico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "No panóptico, a incerteza sobre estar sendo observado induz autodisciplina contínua; essa lógica ilumina o efeito de softwares de monitoramento remoto sobre o comportamento de funcionários em home office — diferente de restringir esse efeito à vigilância presencial, de inverter a lógica do panóptico (que depende da incerteza, não da certeza da observação), ou de dispensar a vigilância como irrelevante.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O capitalismo de vigilância descreve a extração de dados comportamentais transformados em previsões vendáveis, sobretudo para publicidade; esse conceito explica o modelo de negócios de aplicativos gratuitos de redes sociais — diferente de negar a coleta de dados por serviços gratuitos, de restringir o fenômeno a regimes autoritários, ou de atribuir o modelo à venda de produtos físicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Giddens argumenta que a erosão de referências fixas obriga à revisão contínua da própria identidade como projeto reflexivo; esse conceito ilumina a atualização constante de perfis profissionais em redes como o LinkedIn — diferente de supor uma identidade fixada na infância, de atribuir aos indivíduos trajetórias herdadas passivamente, ou de negar todo planejamento de carreira, que a reflexividade não exclui, apenas torna provisório.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Beck descreve riscos de origem humana, globais e muitas vezes imperceptíveis, que ultrapassam fronteiras nacionais; esse conceito caracteriza tanto a mudança climática quanto os riscos associados à inteligência artificial avançada — diferente de restringir esses riscos aos países pobres, de supor que são sempre visíveis e controláveis localmente, ou de negar sua existência diante do avanço tecnológico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Castells descreve a reorganização social em redes possibilitada pelas tecnologias digitais, reconfigurando tempo, espaço e poder; esse conceito caracteriza equipes de trabalho remotas distribuídas geograficamente — diferente de supor a extinção de tecnologias analógicas, de atribuir à sociedade em rede formas hierárquicas tradicionais, ou de negar as conexões entre regiões que a definem.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Byung-Chul Han descreve a autoexploração do indivíduo que internaliza o imperativo de desempenho ilimitado; esse conceito ilumina a crítica à cultura da hustle, que pode gerar exaustão e esgotamento — diferente de supor a eliminação do trabalho, de atribuir a essa cultura punições físicas estatais, ou de negar qualquer forma de exigência sobre o indivíduo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A segunda onda feminista ampliou o debate para relações de poder no espaço privado, popularizando o lema \"o pessoal é político\"; essa chave situa a continuidade desse deslocamento em movimentos como o #MeToo, que tornam públicos relatos antes privados — diferente de reduzir esses movimentos ao sufrágio, de negar sua organização coletiva, ou de associá-los a pautas de austeridade econômica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Sueli Carneiro evidencia que raça, gênero e classe se combinam de modo específico, não redutível à soma de cada eixo isolado; essa chave fundamenta a crítica a políticas de acesso ao ensino superior baseadas apenas em renda, que podem não captar a desigualdade específica de mulheres negras pobres — diferente de restringir a interseccionalidade a um único eixo (racial ou de gênero, isoladamente), ou de supor que uma política de um único eixo resolve integralmente o problema.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Butler argumenta que o gênero se constrói pela repetição de atos e gestos socialmente reconhecidos, não por uma essência interior; esse conceito ilumina como apresentações de drag expõem, por exagero deliberado, o caráter construído dessas convenções — diferente de vincular a performatividade a decisões jurídicas estatais, de negar sua relevância para a análise artística, ou de atribuir a Butler a defesa de uma essência biológica fixa, que ela nega.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O etnocentrismo consiste em tomar os valores da própria cultura como parâmetro universal para julgar outras; esse conceito identifica o viés de coberturas que classificam tradições estrangeiras como \"atrasadas\" a partir de padrões próprios — diferente de confundir etnocentrismo com relativismo cultural (que reconhece validade das práticas em seu contexto), ou de tratá-lo como recusa de qualquer comparação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A descrição densa busca interpretar o significado que símbolos culturais têm para os próprios sujeitos que os praticam; esse método justifica investigar o sentido interno de memes e gírias de comunidades on-line em seu contexto de uso — diferente de reduzir a descrição densa a dados estatísticos de frequência, de ignorar o contexto histórico e social, ou de propor métodos experimentais de laboratório, alheios ao método interpretativo de Geertz.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Para Lévi-Strauss, o tabu do incesto obriga trocas entre grupos, fundando alianças e a própria organização social; essa leitura explica por que ele via essa regra como estruturalmente fundadora, e não meramente arbitrária — diferente de reduzi-la a um fenômeno puramente biológico, de restringi-la ao Ocidente moderno, ou de negar-lhe qualquer função social identificável.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O dilema do bonde evidencia a tensão entre uma lógica utilitarista, que minimiza mortes, e objeções deontológicas à ação ativa de causar uma morte; esse debate é retomado na programação de carros autônomos diante de acidentes inevitáveis — diferente de supor uma resposta cientificamente única, de afirmar consenso entre todas as correntes éticas, ou de desqualificar a reflexão ética sobre o tema.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A ética das virtudes avalia o caráter e as disposições estáveis do agente, e não apenas resultados isolados; essa abordagem explica por que o debate público sobre lideranças considera a consistência de conduta ao longo do tempo — diferente de restringir a avaliação à obediência legal, de reduzi-la a cálculo de custo-benefício (traço consequencialista), ou de negar todo critério racional de avaliação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Mill defende que restringir a liberdade só se justifica para prevenir dano a terceiros, não bastando que uma conduta seja considerada imoral ou incômoda; esse princípio fundamenta a distinção entre discursos que causam dano concreto e discursos apenas desagradáveis em debates sobre moderação de conteúdo — diferente de defender a supressão de opiniões divergentes, de estender a restrição a condutas que afetam só o próprio agente, ou de exigir uniformidade de crenças.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Parte da doutrina propõe gerações adicionais de direitos ligadas a temas emergentes, como bioética; essa chave situa o debate sobre edição genética humana como uma dessas novas dimensões de direitos — diferente de reduzi-lo a direitos trabalhistas, de restringi-lo a direitos de primeira geração, ou de negar-lhe qualquer enquadramento doutrinário.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Estado de bem-estar social provê serviços universais financiados por tributação para reduzir desigualdades; essa concepção situa o argumento de programas de renda básica universal como extensão dessa lógica de segurança econômica mínima — diferente de inverter o sentido do conceito (eliminação da intervenção estatal), de associá-lo à privatização de serviços, ou de reduzi-lo a gastos militares.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O neoliberalismo defende privatização e desregulamentação como caminho para maior eficiência de mercado; essa chave situa a posição favorável à privatização de serviços públicos de saneamento e energia — diferente de atribuir-lhe a eliminação do comércio internacional, de inverter sua posição sobre gasto público e estatização, ou de associá-lo ao fim da propriedade privada, o oposto de sua tese central.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A ideologia como falsa consciência oculta relações reais de exploração, apresentando-as como naturais; esse conceito ilumina a crítica a discursos publicitários que naturalizam o consumo como liberdade — diferente de restringir o conceito às classes dominadas, de tratá-lo como teoria científica comprovada, ou de aplicá-lo a qualquer ideia política indiscriminadamente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A democracia deliberativa valoriza processos de debate público e argumentação como fonte de legitimidade; essa chave situa a justificativa de orçamentos participativos e assembleias de cidadãos sorteados sobre políticas específicas — diferente de propor a substituição total das eleições, de concentrar poder no Judiciário, ou de excluir a opinião pública da decisão.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O populismo é caracterizado pela oposição retórica entre um povo idealizado e uma elite corrupta ou distante; essa chave analisa a estratégia discursiva de campanhas que se apresentam como vozes diretas do povo contra instituições tradicionais — diferente de restringir a oposição a organismos internacionais, de descrevê-la como disputa entre empresas, ou de limitá-la a uma disputa interna à esquerda.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A violência simbólica opera pela internalização, como natural, de padrões impostos por grupos dominantes; esse conceito ilumina como filtros de beleza reforçam padrões estéticos internalizados sem percepção de imposição — diferente de vincular o fenômeno a leis formais, de negar sua relação com desigualdades de gênero, ou de reduzi-lo a coerção física direta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Goffman compara a interação social a uma representação teatral, em que se administra a impressão causada em uma plateia; essa perspectiva ilumina a curadoria de imagem em redes sociais, que seleciona o que apresentar a uma audiência — diferente de supor roteiros fixos e idênticos, de negar o gerenciamento consciente da imagem, ou de afirmar que perfis revelam a personalidade integral do usuário.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Goffman define o estigma como atributo que reduz o indivíduo a uma identidade desvalorizada aos olhos dos outros; esse conceito ilumina o risco enfrentado por quem expõe publicamente condições de saúde mental — diferente de restringir o estigma a marcas físicas visíveis, de vinculá-lo a instituições religiosas, ou de inverter seu efeito para prestígio social.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Elias mostra que os padrões de autocontrole sobre o comportamento variam historicamente conforme transformações sociais; esse conceito ilumina a renegociação de fronteiras entre o profissional e o doméstico no trabalho remoto — diferente de negar a relação entre comportamento individual e estrutura social, de supor menor interdependência social, ou de descrever o processo como liberação total dos impulsos, o oposto de sua tese.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A teoria da tensão explica o desvio a partir do descompasso entre metas valorizadas e meios legítimos disponíveis; essa chave ilumina o apelo de esquemas de enriquecimento rápido entre jovens com poucas oportunidades formais — diferente de supor igualdade de acesso a metas e meios, de negar a desigualdade social envolvida, ou de atribuir ao Estado a eliminação da meta cultural de sucesso.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O toyotismo se caracteriza pela flexibilização da produção e pela multifuncionalidade dos trabalhadores, em contraste com a rigidez fordista; essa chave situa o trabalho por aplicativo, organizado por demanda e sem jornada fixa, como próximo dessa lógica flexível — diferente de igualá-lo à rigidez fordista, de negar o uso de tecnologia nesse modelo, ou de supor a eliminação da divisão do trabalho.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Sen propõe avaliar o desenvolvimento pelas capacidades e liberdades substantivas dos indivíduos, e não apenas pela renda; essa abordagem fundamenta a crítica a rankings baseados só no PIB per capita, que podem ocultar lacunas em saúde, educação e participação — diferente de reduzir a abordagem à quantidade de bens produzidos, de associá-la exclusivamente ao crescimento do PIB, ou de supor que a renda per capita já capta plenamente as capacidades reais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Kant defende a cooperação entre Estados republicanos organizados por regras comuns como caminho para a paz duradoura; essa ideia situa historicamente princípios subjacentes à criação de organizações internacionais como a ONU — diferente de atribuir a Kant a defesa de exércitos numerosos, de um império mundial absolutista, ou da ausência de direito internacional, teses opostas à sua proposta cosmopolita.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Rousseau concebe o governo como executor da vontade geral, e não seu proprietário; esse argumento é retomado em debates sobre limites a reformas de grande impacto sem consulta ampla à população — diferente de legitimar reformas pela força militar (tese hobbesiana), de restringi-las à proteção da propriedade (ênfase lockeana isolada), ou de negar qualquer aplicação contemporânea do contratualismo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Freire critica a educação bancária por tratar o estudante como recipiente passivo de conteúdos prontos; essa crítica fundamenta a preocupação com modelos de ensino a distância sem espaço de diálogo — diferente de rejeitar todo ensino a distância automaticamente, de inverter a definição de educação bancária (que não trata o aluno como protagonista), ou de supor que ela forma criticidade pela simples frequência.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Boaventura de Sousa Santos propõe valorizar saberes historicamente marginalizados ao lado da ciência moderna; esse conceito fundamenta a defesa da inclusão de saberes indígenas em currículos escolares — diferente de propor a eliminação da ciência moderna, de negar o diálogo entre tradições de conhecimento, ou de defender o predomínio exclusivo do conhecimento ocidental, o oposto de sua proposta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Para Popper, teorias genuinamente científicas admitem a possibilidade lógica de refutação; esse critério fundamenta a crítica a teorias que explicam qualquer resultado possível como confirmação de si mesmas — diferente de definir ciência pela capacidade de explicar tudo sem exceção (o oposto do critério popperiano), de dispensar o confronto empírico, ou de vincular cientificidade à aceitação popular.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Kuhn descreve revoluções científicas como substituição de paradigmas após crises geradas por anomalias inexplicáveis; esse modelo situa o debate sobre se a IA atual representa uma ruptura de paradigma ou avanço incremental — diferente de supor preservação integral do conhecimento anterior, de negar a influência de fatores sociais na ciência, ou de negar o papel do consenso entre pesquisadores na formação de um novo paradigma.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A crítica relativista pondera que normas de direitos humanos podem carregar valores de tradições específicas, sugerindo a necessidade de diálogo intercultural, sem negar a importância de proteções mínimas; essa chave situa a tensão em debates internacionais sobre normas globais aplicadas a práticas culturais específicas — diferente de restringir a titularidade de tratados a países ocidentais, de supor uniformidade moral entre povos, ou de negar todo fundamento à defesa de direitos humanos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Fraser argumenta que redistribuição e reconhecimento são dimensões complementares e igualmente necessárias da justiça social; esse argumento critica políticas que isolam apenas uma dessas dimensões — diferente de atribuir a Fraser a defesa de apenas uma delas isoladamente (seja só redistribuição, seja só reconhecimento), ou de negar toda intervenção estatal em sua teoria.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Simmel descreve a atitude blasé como defesa psíquica diante do excesso de estímulos da vida metropolitana; esse conceito ilumina a indiferença desenvolvida diante do volume constante de notificações digitais — diferente de atribuir essa atitude a comunidades rurais tradicionais (o oposto do contexto de Simmel), de descrevê-la como entusiasmo, ou de reduzi-la a isolamento físico total.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Tönnies contrapõe laços afetivos e de proximidade física (comunidade) a relações mais impessoais e contratuais (sociedade); essa distinção problematiza a expectativa de que comunidades on-line substituam integralmente vínculos tradicionais de proximidade — diferente de associar a distinção a regimes econômicos ou políticos, ou de igualar sem ressalvas comunidades digitais e tradicionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Mills define a imaginação sociológica como a capacidade de conectar biografia e história, isto é, problemas pessoais a processos sociais mais amplos; esse conceito fundamenta a crítica a discursos que atribuem o desemprego apenas a falhas individuais, ignorando a precarização estrutural do mercado de trabalho — diferente de reduzir toda explicação a fatores individuais (o oposto da proposta de Mills), de ignorar a dimensão histórica, ou de restringir a análise a dados estatísticos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "filosofia-sociologia-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Para Aristóteles, a racionalidade e a capacidade ética humanas só se realizam plenamente na vida em comunidade política; essa concepção problematiza formas de engajamento cívico limitadas ao compartilhamento de postagens, sem convivência coletiva direta — diferente de restringir a política a especialistas, de reservar plena humanidade a governantes, ou de afirmar que o isolamento social seria compatível com a natureza humana, o que Aristóteles nega expressamente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      }
                  ]
 }

@@ -12,7 +12,8 @@
                                               "d":  "a ideia de que qualquer obra que represente a figura humana já dialoga com o método científico, independentemente da forma de observação empregada pelo artista"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O Renascimento é marcado pela aproximação entre arte e investigação científica (anatomia, óptica, matemática), o que dialoga diretamente com debates contemporâneos sobre a integração entre arte, ciência e tecnologia — e não com uma relação genérica com o tema humano, nem com uma antecipação anacrônica da IA, nem com o Barroco de Aleijadinho, marcado por outra lógica estética."
+                         "explicacao":  "O Renascimento é marcado pela aproximação entre arte e investigação científica (anatomia, óptica, matemática), o que dialoga diretamente com debates contemporâneos sobre a integração entre arte, ciência e tecnologia — e não com uma relação genérica com o tema humano, nem com uma antecipação anacrônica da IA, nem com o Barroco de Aleijadinho, marcado por outra lógica estética.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-02",
@@ -25,7 +26,8 @@
                                               "d":  "o uso de imagens fortemente dramáticas e emocionais em campanhas de ativismo digital e mobilização política, buscando o mesmo engajamento afetivo que a arte religiosa barroca buscava dos fiéis"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A dramaticidade e o apelo emocional do Barroco funcionam como estratégia retórica de persuasão, o que se relaciona com o uso contemporâneo de imagens emocionalmente intensas em campanhas de mobilização digital — distinto de uma ligação superficial pelo tema religioso, de uma antecipação anacrônica do marketing, ou da atribuição equivocada ao Neoclassicismo, que valoriza sobriedade e equilíbrio."
+                         "explicacao":  "A dramaticidade e o apelo emocional do Barroco funcionam como estratégia retórica de persuasão, o que se relaciona com o uso contemporâneo de imagens emocionalmente intensas em campanhas de mobilização digital — distinto de uma ligação superficial pelo tema religioso, de uma antecipação anacrônica do marketing, ou da atribuição equivocada ao Neoclassicismo, que valoriza sobriedade e equilíbrio.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-03",
@@ -38,7 +40,8 @@
                                               "d":  "a previsão, pelos modernistas de 1922, do fenômeno atual da globalização cultural via internet, hipótese anacrônica dado o contexto tecnológico da época"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Semana de 22 buscou uma síntese entre vanguardas estrangeiras e identidade nacional, o que dialoga com o desafio contemporâneo de artistas brasileiros navegarem fluxos culturais globalizados sem perder marcas de identidade — distinto de uma combinação genérica de estilos, de uma antecipação anacrônica da internet, ou de uma confusão com o Barroco."
+                         "explicacao":  "A Semana de 22 buscou uma síntese entre vanguardas estrangeiras e identidade nacional, o que dialoga com o desafio contemporâneo de artistas brasileiros navegarem fluxos culturais globalizados sem perder marcas de identidade — distinto de uma combinação genérica de estilos, de uma antecipação anacrônica da internet, ou de uma confusão com o Barroco.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-04",
@@ -51,7 +54,8 @@
                                               "d":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de internet, hipótese que ignora o contexto cultural de 1928 em que o manifesto foi escrito"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A antropofagia cultural propõe reelaboração crítica, e não apenas repetição, de referências estrangeiras — o que se relaciona à forma como parte da produção cultural brasileira atual reapropria tendências globais. A simples presença de referência estrangeira não basta (distrator superficial), o conceito não previu fenômeno específico algum (anacronismo), e sua autoria é de Oswald, não de Mário de Andrade (confusão de autoria)."
+                         "explicacao":  "A antropofagia cultural propõe reelaboração crítica, e não apenas repetição, de referências estrangeiras — o que se relaciona à forma como parte da produção cultural brasileira atual reapropria tendências globais. A simples presença de referência estrangeira não basta (distrator superficial), o conceito não previu fenômeno específico algum (anacronismo), e sua autoria é de Oswald, não de Mário de Andrade (confusão de autoria).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-05",
@@ -64,7 +68,8 @@
                                               "d":  "os algoritmos de recomendação favorecem formatos padronizados, como músicas mais curtas e roteiros previsíveis, reproduzindo em nova chave tecnológica a padronização denunciada por Adorno e Horkheimer"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O conceito de indústria cultural denuncia a padronização de bens culturais segundo lógica industrial — o que se atualiza hoje na forma como algoritmos de recomendação incentivam formatos padronizados. A mera existência do streaming não basta como argumento (superficial), os autores não previram tecnicamente os algoritmos (anacronismo), e o conceito é de Adorno e Horkheimer, não de Benjamin (confusão de autoria)."
+                         "explicacao":  "O conceito de indústria cultural denuncia a padronização de bens culturais segundo lógica industrial — o que se atualiza hoje na forma como algoritmos de recomendação incentivam formatos padronizados. A mera existência do streaming não basta como argumento (superficial), os autores não previram tecnicamente os algoritmos (anacronismo), e o conceito é de Adorno e Horkheimer, não de Benjamin (confusão de autoria).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-06",
@@ -77,7 +82,8 @@
                                               "d":  "esse conceito de \"aura\" da obra de arte foi formulado por Theodor Adorno, e não por Walter Benjamin, autor de \"A Obra de Arte na Era de sua Reprodutibilidade Técnica\""
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A reflexão de Benjamin sobre a perda da aura na era da reprodutibilidade técnica dialoga diretamente com o debate contemporâneo sobre NFTs, que tentam recriar tecnologicamente a unicidade da obra digital — distinto de uma generalização sobre obras na internet, de uma antecipação anacrônica do blockchain, ou da confusão com a autoria de Adorno."
+                         "explicacao":  "A reflexão de Benjamin sobre a perda da aura na era da reprodutibilidade técnica dialoga diretamente com o debate contemporâneo sobre NFTs, que tentam recriar tecnologicamente a unicidade da obra digital — distinto de uma generalização sobre obras na internet, de uma antecipação anacrônica do blockchain, ou da confusão com a autoria de Adorno.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-07",
@@ -90,7 +96,8 @@
                                               "d":  "a presença de cores vivas em uma obra, o que basta para relacioná-la à Pop Art, independentemente de haver ou não apropriação crítica de códigos de consumo e mídia de massa"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Pop Art expôs, de forma crítica, a lógica da imagem publicitária e do consumo de massa — o que se relaciona à autopromoção pessoal nas redes sociais atuais, em que sujeitos se tornam também \"marcas\". A mera presença de cor vibrante não caracteriza o movimento (superficial), Warhol não previu algoritmos (anacronismo), e o traço não pertence ao Cubismo (confusão de autoria)."
+                         "explicacao":  "A Pop Art expôs, de forma crítica, a lógica da imagem publicitária e do consumo de massa — o que se relaciona à autopromoção pessoal nas redes sociais atuais, em que sujeitos se tornam também \"marcas\". A mera presença de cor vibrante não caracteriza o movimento (superficial), Warhol não previu algoritmos (anacronismo), e o traço não pertence ao Cubismo (confusão de autoria).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-08",
@@ -103,7 +110,8 @@
                                               "d":  "essa mistura crítica entre repertório popular brasileiro e vanguarda internacional é um traço definidor do Cinema Novo, e não da Tropicália de Caetano Veloso e Gilberto Gil"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Tropicália propôs uma síntese crítica entre popular brasileiro e vanguarda internacional sob um regime autoritário, o que dialoga com artistas contemporâneos que atualizam essa operação com ritmos populares e produção global — distinto de uma mistura instrumental genérica, de uma previsão anacrônica de gêneros futuros, ou da confusão com o Cinema Novo, movimento cinematográfico distinto."
+                         "explicacao":  "A Tropicália propôs uma síntese crítica entre popular brasileiro e vanguarda internacional sob um regime autoritário, o que dialoga com artistas contemporâneos que atualizam essa operação com ritmos populares e produção global — distinto de uma mistura instrumental genérica, de uma previsão anacrônica de gêneros futuros, ou da confusão com o Cinema Novo, movimento cinematográfico distinto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-09",
@@ -116,7 +124,8 @@
                                               "d":  "a ideia de que qualquer texto que utilize palavras incomuns já dialoga com a inovação linguística de Guimarães Rosa, independentemente de haver ou não valorização da oralidade regional"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A experimentação de Guimarães Rosa com a oralidade sertaneja dialoga com o debate contemporâneo sobre preconceito linguístico, que valoriza variedades regionais frente à norma culta — distinto de uma associação superficial por vocabulário incomum, de uma antecipação anacrônica da IA, ou da confusão com Jorge Amado, autor de outro projeto literário."
+                         "explicacao":  "A experimentação de Guimarães Rosa com a oralidade sertaneja dialoga com o debate contemporâneo sobre preconceito linguístico, que valoriza variedades regionais frente à norma culta — distinto de uma associação superficial por vocabulário incomum, de uma antecipação anacrônica da IA, ou da confusão com Jorge Amado, autor de outro projeto literário.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-10",
@@ -129,7 +138,8 @@
                                               "d":  "a ideia de que qualquer peça orquestral que mencione o Brasil em seu título já realiza a mesma fusão entre erudito e popular buscada por Villa-Lobos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Villa-Lobos integrou erudito e popular numa mesma obra, o que dialoga com iniciativas contemporâneas de aproximação entre música erudita e gêneros populares brasileiros — distinto de uma associação por título (superficial), de uma antecipação anacrônica de festivais eletrônicos, ou da confusão com Chico Buarque, compositor de outra geração e proposta."
+                         "explicacao":  "Villa-Lobos integrou erudito e popular numa mesma obra, o que dialoga com iniciativas contemporâneas de aproximação entre música erudita e gêneros populares brasileiros — distinto de uma associação por título (superficial), de uma antecipação anacrônica de festivais eletrônicos, ou da confusão com Chico Buarque, compositor de outra geração e proposta.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-11",
@@ -142,7 +152,8 @@
                                               "d":  "há tradução literária de obras entre diferentes idiomas, com créditos devidamente atribuídos aos autores originais, prática amparada por normas de direito autoral"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A crítica à apropriação cultural recai sobre situações de assimetria de poder, em que grupos dominantes utilizam símbolos ou práticas de culturas minoritárias sem reconhecimento devido — distinto de trocas artísticas mutuamente reconhecidas, de tradução com créditos atribuídos, ou da simples preservação interna de tradições por uma comunidade."
+                         "explicacao":  "A crítica à apropriação cultural recai sobre situações de assimetria de poder, em que grupos dominantes utilizam símbolos ou práticas de culturas minoritárias sem reconhecimento devido — distinto de trocas artísticas mutuamente reconhecidas, de tradução com créditos atribuídos, ou da simples preservação interna de tradições por uma comunidade.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-12",
@@ -155,7 +166,8 @@
                                               "d":  "a interatividade e a circulação em redes digitais deslocam o papel do público, de contemplador distante para participante ativo que, em parte, coautora a experiência estética junto ao artista"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Instalações digitais interativas alteram a relação entre obra e espectador, tornando-o coautor da experiência — distinto da simples presença de telas (superficial), de uma antecipação anacrônica de tecnologia por artistas do passado, ou da confusão com a escultura clássica, cuja fruição é predominantemente contemplativa."
+                         "explicacao":  "Instalações digitais interativas alteram a relação entre obra e espectador, tornando-o coautor da experiência — distinto da simples presença de telas (superficial), de uma antecipação anacrônica de tecnologia por artistas do passado, ou da confusão com a escultura clássica, cuja fruição é predominantemente contemplativa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-13",
@@ -168,7 +180,8 @@
                                               "d":  "a existência de leilões internacionais, fato que por si só neutralizaria qualquer potencial crítico de uma obra, independentemente de seu conteúdo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Críticos apontam a tensão entre o potencial crítico da arte e sua transformação em mercadoria de especulação financeira — distinto da ideia de que leilões anulam automaticamente qualquer crítica (superficial), de uma antecipação anacrônica de leilões digitais, ou de restringir o dilema apenas às artes visuais, quando ele também atinge música e cinema."
+                         "explicacao":  "Críticos apontam a tensão entre o potencial crítico da arte e sua transformação em mercadoria de especulação financeira — distinto da ideia de que leilões anulam automaticamente qualquer crítica (superficial), de uma antecipação anacrônica de leilões digitais, ou de restringir o dilema apenas às artes visuais, quando ele também atinge música e cinema.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-14",
@@ -181,7 +194,8 @@
                                               "d":  "a presença de tinta spray em uma parede já basta para caracterizar uma obra como parte desse processo de legitimação institucional do grafite, independentemente de debate sobre comercialização da prática."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A entrada do grafite em museus reflete legitimação artística, mas também gera debate sobre perda do caráter contestador ao ser absorvido pelo mercado — distinto da simples presença de spray (superficial), de uma previsão anacrônica de galerias futuras, ou da confusão com a pichação, prática de estatuto distinto."
+                         "explicacao":  "A entrada do grafite em museus reflete legitimação artística, mas também gera debate sobre perda do caráter contestador ao ser absorvido pelo mercado — distinto da simples presença de spray (superficial), de uma previsão anacrônica de galerias futuras, ou da confusão com a pichação, prática de estatuto distinto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-15",
@@ -194,7 +208,8 @@
                                               "d":  "o debate sobre narrativas históricas e jornalísticas que buscam incorporar múltiplas perspectivas e vozes sobre um mesmo evento, em vez de um único ponto de vista tido como neutro ou definitivo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O Cubismo rompeu com a perspectiva única, apresentando múltiplos ângulos simultâneos — o que dialoga com o debate contemporâneo sobre pluralidade de vozes e perspectivas na narrativa histórica e jornalística, distinto de uma associação por forma geométrica genérica, de uma antecipação anacrônica de câmeras 360°, ou da confusão com o Futurismo."
+                         "explicacao":  "O Cubismo rompeu com a perspectiva única, apresentando múltiplos ângulos simultâneos — o que dialoga com o debate contemporâneo sobre pluralidade de vozes e perspectivas na narrativa histórica e jornalística, distinto de uma associação por forma geométrica genérica, de uma antecipação anacrônica de câmeras 360°, ou da confusão com o Futurismo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-16",
@@ -207,7 +222,8 @@
                                               "d":  "o fato de \"Abaporu\" retratar uma figura humana, o que a relacionaria a qualquer obra contemporânea que também tenha uma figura humana isolada como tema central da composição"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "\"Abaporu\" tornou-se ícone de um projeto de identidade nacional em constante reelaboração, o que dialoga com o modo como ícones visuais brasileiros seguem sendo ressignificados — distinto de uma ligação genérica pela figura humana, de uma previsão anacrônica da Tropicália, ou da confusão de autoria com Anita Malfatti."
+                         "explicacao":  "\"Abaporu\" tornou-se ícone de um projeto de identidade nacional em constante reelaboração, o que dialoga com o modo como ícones visuais brasileiros seguem sendo ressignificados — distinto de uma ligação genérica pela figura humana, de uma previsão anacrônica da Tropicália, ou da confusão de autoria com Anita Malfatti.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-17",
@@ -220,7 +236,8 @@
                                               "d":  "a substituição integral de qualquer forma de produção artística independente pelas grandes gravadoras e estúdios, cenário que ignora a persistência de produções autônomas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As plataformas de streaming reconfiguraram o consumo cultural e a remuneração de artistas, além de influenciar formatos por meio de algoritmos — distinto da ideia de substituição integral da produção independente (superficial/exagero), de uma antecipação anacrônica do modelo técnico dos algoritmos, ou de restringir o fenômeno apenas à música."
+                         "explicacao":  "As plataformas de streaming reconfiguraram o consumo cultural e a remuneração de artistas, além de influenciar formatos por meio de algoritmos — distinto da ideia de substituição integral da produção independente (superficial/exagero), de uma antecipação anacrônica do modelo técnico dos algoritmos, ou de restringir o fenômeno apenas à música.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-18",
@@ -233,7 +250,8 @@
                                               "d":  "o papel do humor e da sátira em programas de entretenimento e conteúdos digitais atuais como forma de crítica social indireta às contradições e hipocrisias da vida pública contemporânea"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A ironia machadiana expõe contradições sociais por meio de narradores pouco confiáveis, o que dialoga com o papel da sátira e do humor crítico no entretenimento contemporâneo — distinto de uma associação genérica pela narração em primeira pessoa, de uma antecipação anacrônica do podcast, ou da confusão de autoria com José de Alencar."
+                         "explicacao":  "A ironia machadiana expõe contradições sociais por meio de narradores pouco confiáveis, o que dialoga com o papel da sátira e do humor crítico no entretenimento contemporâneo — distinto de uma associação genérica pela narração em primeira pessoa, de uma antecipação anacrônica do podcast, ou da confusão de autoria com José de Alencar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-19",
@@ -246,7 +264,8 @@
                                               "d":  "a antecipação, pelos expressionistas alemães, dos debates contemporâneos específicos sobre transtornos de ansiedade diagnosticados clinicamente pela psiquiatria contemporânea."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O Expressionismo prioriza a expressão subjetiva de estados emocionais, o que dialoga com a crescente representação cultural contemporânea do sofrimento psíquico a partir de uma ótica subjetiva — distinto de uma associação por cor viva genérica, de uma antecipação anacrônica de diagnósticos clínicos, ou da confusão com o Impressionismo."
+                         "explicacao":  "O Expressionismo prioriza a expressão subjetiva de estados emocionais, o que dialoga com a crescente representação cultural contemporânea do sofrimento psíquico a partir de uma ótica subjetiva — distinto de uma associação por cor viva genérica, de uma antecipação anacrônica de diagnósticos clínicos, ou da confusão com o Impressionismo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-20",
@@ -259,7 +278,8 @@
                                               "d":  "à existência de cenários com sombras, o que já bastaria para relacionar qualquer filme de terror atual a essa mesma crise social específica da Alemanha do pós-guerra"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A estética de angústia do cinema expressionista alemão é lida por historiadores como reflexo do clima social da Alemanha de Weimar, terreno que Hannah Arendt associaria às condições de emergência do totalitarismo — distinto de uma associação genérica por sombras, de uma previsão anacrônica dos crimes nazistas, ou da confusão com o Neorrealismo italiano."
+                         "explicacao":  "A estética de angústia do cinema expressionista alemão é lida por historiadores como reflexo do clima social da Alemanha de Weimar, terreno que Hannah Arendt associaria às condições de emergência do totalitarismo — distinto de uma associação genérica por sombras, de uma previsão anacrônica dos crimes nazistas, ou da confusão com o Neorrealismo italiano.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-21",
@@ -272,7 +292,8 @@
                                               "d":  "a presença de uma imagem estranha ou inusitada, o que já bastaria para relacioná-la ao Surrealismo, independentemente de haver ou não uma técnica de acesso ao inconsciente por trás dela"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O Surrealismo buscava captar a lógica não linear do inconsciente, o que alguns críticos contemporâneos comparam à experiência fragmentada e associativa de navegação em feeds de redes sociais — distinto de uma associação por imagem estranha genérica, de uma antecipação anacrônica da IA, ou da confusão com o Cubismo."
+                         "explicacao":  "O Surrealismo buscava captar a lógica não linear do inconsciente, o que alguns críticos contemporâneos comparam à experiência fragmentada e associativa de navegação em feeds de redes sociais — distinto de uma associação por imagem estranha genérica, de uma antecipação anacrônica da IA, ou da confusão com o Cubismo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-22",
@@ -285,7 +306,8 @@
                                               "d":  "a presença de um relógio em uma pintura, o que já bastaria para relacioná-la ao método de Dalí, independentemente de haver ou não precisão técnica aplicada a um conteúdo irracional"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O método paranoico-crítico de Dalí une precisão técnica e conteúdo irracional, o que dialoga com o debate atual sobre imagens de IA visualmente realistas mas logicamente impossíveis — distinto de uma associação por objeto específico (relógio), de uma antecipação anacrônica da IA, ou da confusão com o Realismo de Courbet."
+                         "explicacao":  "O método paranoico-crítico de Dalí une precisão técnica e conteúdo irracional, o que dialoga com o debate atual sobre imagens de IA visualmente realistas mas logicamente impossíveis — distinto de uma associação por objeto específico (relógio), de uma antecipação anacrônica da IA, ou da confusão com o Realismo de Courbet.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-23",
@@ -298,7 +320,8 @@
                                               "d":  "a previsão, por Glauber Rocha, das câmeras de celular e das plataformas de streaming que surgiriam décadas depois, tecnologias e mercados ausentes em seu contexto histórico dos anos 1960"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A \"estética da fome\" propunha que baixo orçamento não fosse obstáculo à radicalidade estética, o que dialoga com produções digitais independentes atuais — distinto de uma associação por conteúdo de pobreza genérico, de uma previsão anacrônica de tecnologia, ou da confusão com o cinema hollywoodiano, referência oposta ao Cinema Novo."
+                         "explicacao":  "A \"estética da fome\" propunha que baixo orçamento não fosse obstáculo à radicalidade estética, o que dialoga com produções digitais independentes atuais — distinto de uma associação por conteúdo de pobreza genérico, de uma previsão anacrônica de tecnologia, ou da confusão com o cinema hollywoodiano, referência oposta ao Cinema Novo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-24",
@@ -311,7 +334,8 @@
                                               "d":  "o debate atual sobre a concentração de investimentos públicos em produção audiovisual nos grandes centros do Sudeste, em detrimento de narrativas e produtoras do Norte e do Nordeste do país"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O Cinema Novo denunciou desigualdades regionais concretas, o que dialoga com o debate atual sobre concentração de recursos audiovisuais no eixo Sudeste — distinto de uma associação por paisagem árida genérica, de uma antecipação anacrônica de políticas futuras, ou da confusão com o cinema marginal, movimento posterior e distinto."
+                         "explicacao":  "O Cinema Novo denunciou desigualdades regionais concretas, o que dialoga com o debate atual sobre concentração de recursos audiovisuais no eixo Sudeste — distinto de uma associação por paisagem árida genérica, de uma antecipação anacrônica de políticas futuras, ou da confusão com o cinema marginal, movimento posterior e distinto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-25",
@@ -324,7 +348,8 @@
                                               "d":  "a multiplicação de curtas e documentários autorais produzidos com celulares e câmeras acessíveis e distribuídos diretamente em plataformas digitais, dispensando a estrutura de grandes estúdios"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O lema valoriza o compromisso autoral acima da estrutura industrial, o que dialoga com a produção audiovisual independente atual feita com celulares e distribuída digitalmente — distinto de uma associação por baixo orçamento genérico, de uma antecipação anacrônica da tecnologia de câmeras, ou da confusão de autoria."
+                         "explicacao":  "O lema valoriza o compromisso autoral acima da estrutura industrial, o que dialoga com a produção audiovisual independente atual feita com celulares e distribuída digitalmente — distinto de uma associação por baixo orçamento genérico, de uma antecipação anacrônica da tecnologia de câmeras, ou da confusão de autoria.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-26",
@@ -337,7 +362,8 @@
                                               "d":  "a presença de uma plateia assistindo a uma peça, o que já bastaria para relacioná-la ao Teatro do Oprimido, independentemente de haver ou não intervenção efetiva do público na cena"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O teatro-fórum de Boal converte o espectador em agente que ensaia soluções, o que dialoga com metodologias participativas de movimentos sociais atuais — distinto de uma associação pela mera presença de plateia (superficial), de uma antecipação anacrônica de treinamentos corporativos, ou da confusão com Nelson Rodrigues."
+                         "explicacao":  "O teatro-fórum de Boal converte o espectador em agente que ensaia soluções, o que dialoga com metodologias participativas de movimentos sociais atuais — distinto de uma associação pela mera presença de plateia (superficial), de uma antecipação anacrônica de treinamentos corporativos, ou da confusão com Nelson Rodrigues.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-27",
@@ -350,7 +376,8 @@
                                               "d":  "essa ruptura com a estrutura linear do teatro realista é um traço definidor do Teatro do Oprimido de Augusto Boal, e não da dramaturgia de Nelson Rodrigues, de proposta distinta"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Nelson Rodrigues expôs sem eufemismos temas tabus de sua época, o que dialoga com o debate atual sobre os limites da exposição de temas sensíveis em produções de grande audiência — distinto de uma associação genérica por conflito familiar, de uma antecipação anacrônica do streaming, ou da confusão com Boal."
+                         "explicacao":  "Nelson Rodrigues expôs sem eufemismos temas tabus de sua época, o que dialoga com o debate atual sobre os limites da exposição de temas sensíveis em produções de grande audiência — distinto de uma associação genérica por conflito familiar, de uma antecipação anacrônica do streaming, ou da confusão com Boal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-28",
@@ -363,7 +390,8 @@
                                               "d":  "a presença de uma curva em uma fachada de edifício, o que já bastaria para relacioná-la à arquitetura de Niemeyer, independentemente de haver ou não exploração plástica do concreto armado"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Niemeyer explorou a plasticidade do concreto contra a rigidez geométrica dominante, o que dialoga com o debate contemporâneo sobre arquitetura paramétrica digital — distinto de uma associação genérica por curva na fachada, de uma antecipação anacrônica de softwares, ou da confusão com o urbanismo de Lúcio Costa."
+                         "explicacao":  "Niemeyer explorou a plasticidade do concreto contra a rigidez geométrica dominante, o que dialoga com o debate contemporâneo sobre arquitetura paramétrica digital — distinto de uma associação genérica por curva na fachada, de uma antecipação anacrônica de softwares, ou da confusão com o urbanismo de Lúcio Costa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-29",
@@ -376,7 +404,8 @@
                                               "d":  "o debate atual sobre os efeitos da separação rígida entre zonas urbanas na mobilidade, que leva muitas cidades a defender modelos de uso misto do solo como alternativa ao zoneamento modernista"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O zoneamento funcional de Brasília dialoga com o debate atual sobre os efeitos da separação rígida de funções urbanas na mobilidade das cidades — distinto de uma associação genérica por avenida larga, de uma antecipação anacrônica de aplicativos de transporte, ou da confusão com o urbanismo colonial mineiro, de lógica orgânica oposta."
+                         "explicacao":  "O zoneamento funcional de Brasília dialoga com o debate atual sobre os efeitos da separação rígida de funções urbanas na mobilidade das cidades — distinto de uma associação genérica por avenida larga, de uma antecipação anacrônica de aplicativos de transporte, ou da confusão com o urbanismo colonial mineiro, de lógica orgânica oposta.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-30",
@@ -389,7 +418,8 @@
                                               "d":  "esse reconhecimento da UNESCO em 1987 é dado à arquitetura colonial de Ouro Preto, e não ao conjunto modernista de Brasília, tombado por seu urbanismo e arquitetura peculiares."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O tombamento de Brasília gera o desafio de conciliar preservação e adaptação às necessidades urbanas contemporâneas — distinto da ideia de que qualquer monumento justifica automaticamente o título (superficial), de uma antecipação anacrônica dos critérios da UNESCO, ou da confusão com o patrimônio colonial de Ouro Preto."
+                         "explicacao":  "O tombamento de Brasília gera o desafio de conciliar preservação e adaptação às necessidades urbanas contemporâneas — distinto da ideia de que qualquer monumento justifica automaticamente o título (superficial), de uma antecipação anacrônica dos critérios da UNESCO, ou da confusão com o patrimônio colonial de Ouro Preto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-31",
@@ -402,7 +432,8 @@
                                               "d":  "o debate sobre como escolhas de vestuário em redes sociais e ambientes profissionais comunicam posicionamentos identitários e políticos, tão codificados quanto a moda analisada por Barthes"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Barthes lê a moda como sistema de comunicação social, o que dialoga com o modo como escolhas de vestuário em redes sociais hoje comunicam posicionamentos identitários — distinto de uma associação genérica pela vitrine, de uma antecipação anacrônica de aplicativos, ou da confusão de autoria com Bourdieu."
+                         "explicacao":  "Barthes lê a moda como sistema de comunicação social, o que dialoga com o modo como escolhas de vestuário em redes sociais hoje comunicam posicionamentos identitários — distinto de uma associação genérica pela vitrine, de uma antecipação anacrônica de aplicativos, ou da confusão de autoria com Bourdieu.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-32",
@@ -415,7 +446,8 @@
                                               "d":  "esse tipo de produção de moda associada à afirmação identitária afro-brasileira é atribuído por estudiosos exclusivamente a estilistas europeus que reinterpretam o Brasil de fora"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros."
+                         "explicacao":  "O conceito de interseccionalidade, cunhado por Kimberlé Crenshaw e mobilizado no Brasil por Sueli Carneiro, ajuda a entender a moda afro-indígena contemporânea como afirmação de identidades atravessadas por raça, gênero e classe — distinto de uma associação superficial por estampa ou cor, de uma inversão cronológica do conceito, ou de atribuir o protagonismo a estilistas estrangeiros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-33",
@@ -428,7 +460,8 @@
                                               "d":  "esse instrumento de restrição à modificação de bens culturais é aplicado exclusivamente a bens materiais indígenas, e não a edificações urbanas tombadas em geral"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O tombamento gera tensão entre preservação histórica e interesses do mercado imobiliário em áreas urbanas valorizadas — distinto de uma associação por placa informativa genérica (superficial), de uma antecipação anacrônica de conflitos futuros, ou de restringir indevidamente o instrumento a apenas um tipo de bem."
+                         "explicacao":  "O tombamento gera tensão entre preservação histórica e interesses do mercado imobiliário em áreas urbanas valorizadas — distinto de uma associação por placa informativa genérica (superficial), de uma antecipação anacrônica de conflitos futuros, ou de restringir indevidamente o instrumento a apenas um tipo de bem.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-34",
@@ -441,7 +474,8 @@
                                               "d":  "a previsão, pelos fundadores dos grandes museus europeus do século XIX, dos debates contemporâneos sobre restituição de acervos coloniais, tema então inexistente"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A renovação do papel dos museus dialoga com o debate contemporâneo sobre restituição de acervos coloniais e revisão crítica de narrativas — distinto de uma associação superficial por totem explicativo, de uma antecipação anacrônica do debate, ou de restringir indevidamente o fenômeno ao Brasil."
+                         "explicacao":  "A renovação do papel dos museus dialoga com o debate contemporâneo sobre restituição de acervos coloniais e revisão crítica de narrativas — distinto de uma associação superficial por totem explicativo, de uma antecipação anacrônica do debate, ou de restringir indevidamente o fenômeno ao Brasil.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-35",
@@ -454,7 +488,8 @@
                                               "d":  "articular elementos visuais, sonoros, narrativos e interativos de modo autoral, propondo experiências estéticas e reflexivas ao jogador"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Defensores dos games como arte destacam a articulação autoral entre elementos visuais, sonoros, narrativos e interativos — distinto de justificar o estatuto artístico pela simples repetição de mecânicas (superficial), de uma antecipação anacrônica da realidade virtual, ou de deslocar o argumento para outra mídia."
+                         "explicacao":  "Defensores dos games como arte destacam a articulação autoral entre elementos visuais, sonoros, narrativos e interativos — distinto de justificar o estatuto artístico pela simples repetição de mecânicas (superficial), de uma antecipação anacrônica da realidade virtual, ou de deslocar o argumento para outra mídia.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-36",
@@ -467,7 +502,8 @@
                                               "d":  "envolve o uso de controles físicos para jogar, o que já bastaria, por si só, para caracterizar qualquer jogo como narrativamente interativo, independentemente da existência de decisões que alterem o enredo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A interatividade narrativa torna o jogador coautor da experiência, distinta da fruição mais passiva do cinema e da literatura — diferente de associar a interatividade ao simples uso de um controle físico (superficial), de uma antecipação anacrônica do metaverso, ou de deslocar o conceito para o teatro de Boal."
+                         "explicacao":  "A interatividade narrativa torna o jogador coautor da experiência, distinta da fruição mais passiva do cinema e da literatura — diferente de associar a interatividade ao simples uso de um controle físico (superficial), de uma antecipação anacrônica do metaverso, ou de deslocar o conceito para o teatro de Boal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Impressionismo buscava captar impressões momentâneas de luz, o que alguns críticos aproximam da cultura do registro fotográfico instantâneo em redes sociais — distinto de uma associação por pincelada visível genérica, de uma antecipação anacrônica de smartphones, ou da confusão com o Neoclassicismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os pós-impressionistas buscaram, cada um, uma linguagem própria além da captação objetiva da luz, o que dialoga com a valorização atual de artistas de voz visual singular — distinto de uma associação por cor forte genérica, de uma antecipação anacrônica de critérios de curadoria, ou da confusão com o Dadaísmo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O \"ready-made\" de Duchamp questionou o que constitui autoria e valor artístico, pergunta que se reatualiza no debate sobre obras geradas por inteligência artificial — distinto de uma associação superficial por objeto industrial, de uma previsão anacrônica da IA, ou da confusão de autoria com Marinetti, do Futurismo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A exaltação futurista da violência e do movimento de massas é lida por historiadores em conexão com o terreno ideológico que Hannah Arendt analisou como propício ao totalitarismo — distinto de uma associação por máquina representada (superficial), de uma previsão anacrônica exata dos regimes, ou da confusão com o Cubismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O fechamento da Bauhaus ilustra como regimes totalitários perseguem instituições culturais plurais, fenômeno analisado por Hannah Arendt — distinto de uma associação genérica por objetos de design (superficial), de uma antecipação anacrônica do nazismo pelos próprios fundadores, ou da confusão com outra instituição.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Noel Rosa retratava com ironia a vida popular carioca frente à moral da elite, o que dialoga com o debate atual sobre criminalização da pobreza e do trabalho informal — distinto de uma associação genérica pela cidade do Rio (superficial), de uma antecipação anacrônica de debates sobre aplicativos, ou da confusão de autoria com Cazuza.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Art Nouveau buscou inspiração direta em formas orgânicas da natureza, o que dialoga com o debate contemporâneo sobre biodesign e biomimética — distinto de uma associação genérica por linha curva, de uma antecipação anacrônica de softwares, ou da confusão com o Art Déco, de estética oposta (geométrica e angulosa).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A monumentalidade clássica foi reapropriada por regimes totalitários como propaganda de poder — fenômeno relacionado ao estudo de Arendt sobre a estética do totalitarismo — distinto de uma associação genérica por colunas, de uma antecipação anacrônica pelos arquitetos do século XVIII, ou da confusão com o Art Nouveau.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Courbet retratou a vida popular sem idealização, o que dialoga com o compromisso de documentários e fotojornalismo atuais em não estetizar condições de desigualdade — distinto de uma associação genérica por figura camponesa, de uma antecipação anacrônica de formatos audiovisuais, ou da confusão com o Romantismo, de proposta idealizadora oposta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O determinismo biológico do Naturalismo, hoje amplamente criticado, dialoga por contraste com autoras como Sueli Carneiro, que recusam explicar desigualdades raciais e sociais por traços biológicos — distinto de uma associação genérica pelo cenário do cortiço, de uma antecipação anacrônica do conceito de interseccionalidade, ou da confusão com o indianismo romântico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O indianismo idealiza o indígena a partir de um olhar externo e romântico, o que contrasta com a atual demanda por autorrepresentação e protagonismo político dos povos indígenas — distinto de uma associação genérica pela presença de personagem indígena, de uma antecipação anacrônica dos movimentos atuais, ou da confusão com o Naturalismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Gregório de Matos satirizava publicamente a elite colonial, o que dialoga com o papel de comediantes e criadores digitais que hoje criticam figuras de poder e por vezes sofrem retaliação — distinto de uma associação genérica pela rima, de uma antecipação anacrônica das redes sociais, ou da confusão com o Arcadismo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Arcadismo valorizava a simplicidade da vida campestre frente ao exagero barroco, o que dialoga, por analogia, com movimentos contemporâneos de desaceleração frente à sobrecarga digital — distinto de uma associação genérica por paisagem rural, de uma antecipação anacrônica desses movimentos, ou da confusão com o Simbolismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Simbolismo prioriza sugestão e atmosfera subjetiva sobre a descrição objetiva, o que dialoga com produções audiovisuais contemporâneas de caráter sensorial e não linear — distinto de uma associação genérica por metáfora, de uma antecipação anacrônica do videoclipe, ou da confusão com o Parnasianismo, de proposta descritiva e objetiva.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Parnasianismo defendia a arte \"pela arte\", sem compromisso social direto, o que dialoga com o debate contemporâneo sobre a necessidade ou não de função social na arte — distinto de uma associação genérica pela rima perfeita, de uma antecipação anacrônica das redes sociais, ou da confusão com o Naturalismo, de proposta engajada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A poesia concreta integra forma gráfica e significado, o que dialoga com a exploração visual e tipográfica de memes e poesia digital contemporâneos — distinto de uma associação genérica por palavra estilizada, de uma antecipação anacrônica dos memes, ou da confusão com a Geração de 45, de proposta mais formalista e menos visual.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Geração de 45 reage à espontaneidade da primeira fase modernista com maior rigor formal, um padrão de alternância que se observa em outros momentos culturais — distinto de uma associação genérica por estrutura poética, de uma antecipação anacrônica de movimentos futuros, ou da confusão com o próprio Modernismo de 1922.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Clarice investiga estados de consciência e crises existenciais, o que dialoga com o espaço crescente dado à introspecção em narrativas contemporâneas — distinto de uma associação genérica por personagem pensativa, de uma antecipação anacrônica de podcasts, ou da confusão com a prosa objetiva de Graciliano Ramos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Jorge Amado alcançou repercussão internacional retratando especificidades culturais baianas e afro-brasileiras, o que dialoga com o debate atual sobre como narrativas regionais brasileiras circulam globalmente sem perder especificidade — distinto de uma associação genérica pelo cenário baiano, de uma antecipação anacrônica do streaming, ou da confusão com Guimarães Rosa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O romance de 30 denuncia desigualdades regionais que seguem relevantes para entender a migração interna brasileira atual — distinto de uma associação genérica pela paisagem seca, de uma antecipação anacrônica de políticas públicas específicas, ou da confusão com o Parnasianismo, de proposta estética oposta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Bossa Nova reelaborou o samba a partir de referências internacionais como o jazz, o que dialoga com gêneros brasileiros atuais que fazem operação semelhante com outras referências globais — distinto de uma associação genérica pelo violão, de uma antecipação anacrônica de gêneros futuros, ou da confusão com o Cinema Novo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Chico Buarque driblou a censura da ditadura com metáforas, estratégia que dialoga com o uso de linguagem indireta por artistas sob regimes de controle estatal ainda hoje — distinto de uma associação genérica por metáfora isolada, de uma antecipação anacrônica da moderação digital, ou da confusão de autoria com Caetano Veloso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A denúncia dos Racionais MC\u0027s sobre racismo estrutural e violência policial dialoga com análises interseccionais como as de Sueli Carneiro, que combinam raça, gênero e classe na leitura da desigualdade — distinto de uma associação genérica pelo bairro citado, de uma inversão cronológica do conceito, ou da confusão com o funk carioca.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Defensores do funk carioca argumentam que sua estigmatização está associada a preconceitos de classe e raça, e não apenas a critérios musicais — distinto de justificar a relevância cultural pela batida em si (superficial), de uma antecipação anacrônica de algoritmos, ou de deslocar o debate para o samba do início do século XX.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A articulação multidisciplinar do hip hop entre música, dança, arte visual e consciência social dialoga com movimentos culturais periféricos brasileiros que seguem lógica semelhante — distinto de uma associação genérica por DJ em festa, de uma antecipação anacrônica de movimentos brasileiros, ou da confusão com o Cinema Marginal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A distinção entre grafite e pichação envolve critérios de autorização e elaboração que definem o que é reconhecido como arte legítima — distinto de uma associação genérica pela tinta spray, de uma antecipação anacrônica dos critérios jurídicos, ou de deslocar a questão para a land art.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O cinema marginal ironizava as próprias pretensões do cinema engajado anterior, o que dialoga com produções culturais atuais que questionam de dentro a fórmula da arte engajada — distinto de uma associação genérica pela câmera tremida, de uma antecipação anacrônica de vídeos de internet, ou da confusão com o Cinema Novo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O cinema da retomada dependeu de incentivos fiscais e financiamento público, o que dialoga com o debate atual sobre o impacto de mudanças nesses mecanismos sobre a produção nacional — distinto de uma associação genérica pela sala de cinema, de uma antecipação anacrônica de debates orçamentários, ou da confusão com o Cinema Novo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Neorrealismo retratou a reconstrução social após o fascismo, tema que dialoga com a análise de Arendt sobre a recuperação do tecido social após regimes totalitários — distinto de uma associação genérica por atores não profissionais, de uma antecipação anacrônica da própria Arendt, ou da confusão com a Nouvelle Vague.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Marcuse argumenta que o consumo neutraliza a capacidade crítica, tese que dialoga com o debate sobre bolhas de consumo e algoritmos de recomendação atuais — distinto de comprovar a tese pela mera existência de propaganda (superficial), de uma antecipação anacrônica exata dos algoritmos, ou da confusão de autoria com Benjamin.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Sontag criticava a redução da obra a uma busca por significado oculto, o que dialoga com a tendência atual de resumir obras a uma \"mensagem\" nas redes sociais — distinto de associar a crítica a qualquer resenha (superficial), de uma antecipação anacrônica de formatos de vídeo, ou da confusão de autoria com Barthes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O argumento histórico sobre a criatividade envolvida no processo fotográfico técnico dialoga diretamente com o debate atual sobre autoria em imagens geradas por inteligência artificial — distinto de negar o estatuto artístico pela automação da câmera (superficial), de uma antecipação anacrônica da IA, ou de deslocar o argumento para o cinema mudo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A arte conceitual valoriza a ideia sobre a execução material, o que dialoga com obras contemporâneas registradas como protocolo reproduzível por terceiros — distinto de associar o conceitualismo a qualquer texto explicativo (superficial), de uma antecipação anacrônica da arte gerada por IA, ou da confusão com o Minimalismo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A trajetória pública de Cássia Eller dialoga com o debate contemporâneo sobre representatividade LGBTQIA+ na música — distinto de uma associação genérica pelo gênero musical rock, de uma antecipação anacrônica de debates específicos de redes sociais, ou da confusão biográfica com Cazuza.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A performance de Abramović depende da presença física irrepetível, o que dialoga com o debate atual sobre a diferença entre experiência mediada por tela e experiência presencial — distinto de uma associação genérica pela imobilidade do artista, de uma antecipação anacrônica das lives, ou da confusão com a body art.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A body art usa o corpo para questionar normas sociais, o que dialoga com o uso contemporâneo do corpo em redes sociais para contestar padrões de gênero e beleza — distinto de uma associação genérica por retrato facial, de uma antecipação anacrônica de filtros digitais, ou da confusão com a land art.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A instalação transforma o ambiente em experiência imersiva, o que dialoga com o crescimento de exposições comerciais imersivas voltadas ao compartilhamento em redes sociais — distinto de uma associação genérica pela projeção de luz, de uma antecipação anacrônica desses formatos, ou da confusão com a pintura de cavalete.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As bienais funcionam como espaço de disputa sobre quais narrativas e vozes ganham visibilidade internacional — distinto de uma associação genérica por obras expostas em pavilhão, de uma antecipação anacrônica de temas futuros, ou de atribuir essa função a museus tradicionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Bienal de São Paulo buscou inserir o Brasil no circuito internacional de arte, o que dialoga com o debate atual sobre autonomia de agenda cultural brasileira frente a centros do exterior — distinto de uma associação genérica pela presença de obras estrangeiras, de uma antecipação anacrônica de debates de descolonização curatorial, ou da confusão com a Semana de 22.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O design gráfico comunica valores e identidade de forma sintética, o que dialoga com o uso atual de identidade visual por marcas para comunicar posicionamentos sociais em redes sociais — distinto de uma associação genérica por logotipo colorido, de uma antecipação anacrônica de formatos digitais, ou da confusão com a arte conceitual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Salgado combina apuro estético e denúncia social ao fotografar trabalho precário e deslocamentos forçados, o que dialoga com o debate atual sobre os limites éticos de estetizar o sofrimento humano na fotografia documental — distinto de uma associação genérica pelo preto e branco, de uma antecipação anacrônica de rotas migratórias específicas, ou da confusão histórica com o fotojornalismo de guerra.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Coutinho dá protagonismo à fala espontânea de pessoas comuns, o que dialoga com o formato de podcasts e documentários atuais centrados em depoimentos em primeira pessoa — distinto de uma associação genérica pela câmera fixa, de uma antecipação anacrônica do podcast, ou da confusão com o Cinema Novo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O CPC usava a arte como ferramenta de mobilização política popular, o que dialoga com o papel de coletivos artísticos ligados a movimentos sociais hoje — distinto de uma associação genérica por estudantes organizando uma peça, de uma antecipação anacrônica de movimentos atuais, ou da confusão com o Teatro do Oprimido, de método distinto.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Construtivismo colocou a arte a serviço da propaganda estatal soviética, fenômeno relacionado às análises de Arendt sobre o uso de linguagens visuais para mobilização de massas por regimes de partido único — distinto de uma associação genérica pela forma geométrica, de uma previsão anacrônica dos regimes futuros, ou da confusão com a Bauhaus.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A trajetória de Cazuza dialoga com o debate contemporâneo sobre estigma social ligado a doenças — distinto de uma associação genérica pelo gênero musical rock, de uma antecipação anacrônica de protocolos médicos futuros, ou da confusão biográfica com David Bowie.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Bowie explorou ambiguidade de gênero por meio de personas artísticas, o que dialoga com o debate contemporâneo sobre identidade e expressão de gênero na cultura pop — distinto de uma associação genérica pelo figurino colorido, de uma antecipação anacrônica de debates parlamentares, ou da confusão biográfica com Cazuza.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Neoconcretismo convidava o espectador à participação corporal direta, o que dialoga com exposições contemporâneas que convidam o público a manipular a obra — distinto de uma associação genérica por tecido colorido, de uma antecipação anacrônica de exposições digitais, ou da confusão com o Concretismo paulista, de proposta mais racionalista.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As cidades mineiras cresceram organicamente sobre o relevo, o que dialoga com o desafio atual de preservar seu valor histórico frente às exigências contemporâneas de acessibilidade e turismo — distinto de uma associação genérica pela presença de igreja, de uma antecipação anacrônica desses desafios, ou da confusão com o plano piloto de Brasília, de lógica planejada oposta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Art Déco comunicava os valores de progresso industrial de sua época, o que dialoga com o modo como a arquitetura contemporânea busca comunicar outros valores, como sustentabilidade ou inovação — distinto de uma associação genérica por linha reta, de uma antecipação anacrônica de estilos futuros, ou da confusão com o Art Nouveau, de estética orgânica oposta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Estudos culturais argumentam que a hierarquia entre alta cultura e cultura popular reflete disputas sociais de legitimidade — distinto de classificar um gênero pela presença de instrumento eletrônico (superficial), de uma antecipação anacrônica do streaming, ou de atribuir essa crítica a Adorno, que sustentava posição oposta sobre a indústria cultural.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O samba-enredo tem sido usado como espaço de denúncia social e histórica, o que dialoga com enredos recentes que geraram debate público — distinto de uma associação genérica pela fantasia colorida, de uma antecipação anacrônica de enredos futuros, ou da confusão com o frevo pernambucano.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O samba nasceu marginalizado e tornou-se símbolo nacional sem que isso resolvesse o racismo estrutural enfrentado por suas comunidades de origem — leitura próxima da análise de Sueli Carneiro sobre matrizes negras subalternizadas — distinto de uma associação genérica por percussão, de uma inversão cronológica do conceito, ou da confusão com a capoeira.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A capoeira foi criminalizada por associação com a população negra e pobre antes de seu reconhecimento institucional, o que dialoga com o debate sobre revalorização cultural sem reparação equivalente às comunidades de origem — distinto de uma associação genérica por movimento ritmado, de uma antecipação anacrônica do reconhecimento da UNESCO, ou da confusão com o samba.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O patrimônio imaterial protege práticas vivas e em transformação, o que gera o desafio de preservá-las sem congelá-las artificialmente — distinto de garantir preservação apenas pelo reconhecimento formal (superficial), de uma antecipação anacrônica de reconhecimentos futuros, ou de restringir indevidamente o conceito a bens europeus.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O cordel mantém a função de comentar acontecimentos de seu tempo em linguagem popular, o que se atualiza em folhetos contemporâneos sobre política e sociedade — distinto de uma associação genérica pela rima, de uma antecipação anacrônica de escândalos específicos, ou da confusão com o repente, gênero improvisado e oral.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Um dos principais debates sobre direitos autorais na música envolve a forma de distribuição de receita entre plataformas, gravadoras e artistas — distinto de considerar a injustiça um fato automático (superficial), de uma antecipação anacrônica dos modelos de remuneração, ou de restringir indevidamente o debate à indústria cinematográfica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O debate sobre cultura do cancelamento envolve a tensão entre responsabilização legítima e risco de punição desproporcional — distinto de caracterizar qualquer crítica online como cancelamento (superficial), de uma antecipação anacrônica do fenômeno, ou de restringir indevidamente o debate ao campo político.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Entre as principais questões da IA generativa estão autoria, direitos autorais e uso não consentido de obras humanas como dado de treinamento — distinto de considerar o debate resolvido pela mera existência da tecnologia (superficial), de uma antecipação anacrônica das redes neurais, ou de restringir indevidamente a discussão a apenas uma linguagem artística.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Fandoms de fenômenos globalizados desenvolvem produção cultural própria e formas de sociabilidade coletiva — distinto de atribuir sua existência apenas à qualidade musical (superficial), de uma antecipação anacrônica de sua forma técnica atual, ou de restringir indevidamente o fenômeno a um único contexto nacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Há um contraste entre a ampla presença estética de símbolos afro-religiosos na cultura brasileira e a persistência da intolerância religiosa contra os próprios terreiros — distinto de uma associação genérica por cor isolada, de uma antecipação anacrônica de debates legislativos, ou da confusão com o catolicismo popular.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A animação vem sendo reconhecida por abordar temas adultos e complexos, o que desafia a expectativa de que essa linguagem seja restrita ao público infantil — distinto de uma associação genérica pelo desenho colorido, de uma antecipação anacrônica de festivais específicos, ou de restringir indevidamente o debate a uma única cinematografia nacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O reconhecimento das HQs como \"nona arte\" dialoga com o espaço crescente de graphic novels que tratam de crítica social e memória histórica — distinto de uma associação genérica pelo balão de fala, de uma antecipação anacrônica das graphic novels atuais, ou da confusão com a charge de jornal, gênero distinto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Nouvelle Vague conquistou maior liberdade autoral frente aos estúdios, o que dialoga com o debate atual sobre autonomia criativa de diretores independentes em plataformas de streaming — distinto de uma associação genérica por cena de rua, de uma antecipação anacrônica dos modelos de streaming, ou da confusão com o Neorrealismo italiano.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "artes-cultura-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\"O Rei da Vela\" uniu ruptura formal e crítica política em plena ditadura, o que dialoga com o uso atual de ruptura formal por grupos de teatro contemporâneos para intensificar sua crítica — distinto de uma associação genérica pela presença de atores em cena, de uma antecipação anacrônica do teatro imersivo, ou da confusão com o Teatro do Oprimido.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

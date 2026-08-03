@@ -13,7 +13,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A crise do Antigo Regime combinou privilégios estamentais e crise fiscal (I correta) com a ascensão de uma burguesia sem poder político correspondente, integrando o Terceiro Estado (II correta); ao contrário do afirmado em III, a Revolução emergiu justamente de desigualdades sociais profundas e historicamente documentadas."
+                         "explicacao":  "A crise do Antigo Regime combinou privilégios estamentais e crise fiscal (I correta) com a ascensão de uma burguesia sem poder político correspondente, integrando o Terceiro Estado (II correta); ao contrário do afirmado em III, a Revolução emergiu justamente de desigualdades sociais profundas e historicamente documentadas.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-02",
@@ -27,7 +28,8 @@
                                               "e":  "A defesa da propriedade coletiva dos meios de produção e a supressão das distinções de classe na ordem jurídica"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Declaração de 1789 estabeleceu princípios como liberdade, igualdade jurídica entre os cidadãos e a soberania popular como fonte do poder político, tornando-se referência para constituições liberais posteriores."
+                         "explicacao":  "A Declaração de 1789 estabeleceu princípios como liberdade, igualdade jurídica entre os cidadãos e a soberania popular como fonte do poder político, tornando-se referência para constituições liberais posteriores.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-03",
@@ -41,7 +43,8 @@
                                               "e":  "O emprego de mão de obra escravizada nas próprias fábricas inglesas, principal fator a reduzir os custos da produção têxtil"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Inglaterra reunia condições favoráveis à industrialização: capital acumulado com o comércio (inclusive colonial e atlântico), abundância de carvão e ferro, mão de obra livre disponibilizada pelos cercamentos de terras (enclosures) e um sistema financeiro e político estável."
+                         "explicacao":  "A Inglaterra reunia condições favoráveis à industrialização: capital acumulado com o comércio (inclusive colonial e atlântico), abundância de carvão e ferro, mão de obra livre disponibilizada pelos cercamentos de terras (enclosures) e um sistema financeiro e político estável.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-04",
@@ -55,7 +58,8 @@
                                               "e":  "A rápida formação de uma classe média industrial com acesso a moradia e jornada regulada desde as primeiras décadas do processo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A industrialização provocou intensa urbanização e a formação de uma classe operária submetida a longas jornadas, salários baixos, trabalho infantil e condições precárias de moradia e saúde, o que originou os primeiros movimentos operários organizados."
+                         "explicacao":  "A industrialização provocou intensa urbanização e a formação de uma classe operária submetida a longas jornadas, salários baixos, trabalho infantil e condições precárias de moradia e saúde, o que originou os primeiros movimentos operários organizados.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-05",
@@ -69,7 +73,8 @@
                                               "e":  "A repartição da África segundo as fronteiras étnicas e linguísticas já existentes no continente, respeitadas pelos negociadores"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A Conferência de Berlim definiu que a posse de territórios africanos por potências europeias dependeria da ocupação efetiva, o que acelerou a partilha do continente e resultou em fronteiras artificiais, sem respeito às divisões étnicas e culturais preexistentes."
+                         "explicacao":  "A Conferência de Berlim definiu que a posse de territórios africanos por potências europeias dependeria da ocupação efetiva, o que acelerou a partilha do continente e resultou em fronteiras artificiais, sem respeito às divisões étnicas e culturais preexistentes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-06",
@@ -83,7 +88,8 @@
                                               "e":  "I e II estão corretas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O sistema de alianças ampliou um conflito regional (I correta), somando-se à corrida armamentista e às rivalidades imperialistas (II correta); ao contrário do afirmado em III, as disputas coloniais eram justamente um dos fatores de tensão entre as potências antes de 1914."
+                         "explicacao":  "O sistema de alianças ampliou um conflito regional (I correta), somando-se à corrida armamentista e às rivalidades imperialistas (II correta); ao contrário do afirmado em III, as disputas coloniais eram justamente um dos fatores de tensão entre as potências antes de 1914.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-07",
@@ -97,7 +103,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As duras condições de Versalhes alimentaram o ressentimento nacionalista alemão (I correta), posteriormente explorado pela propaganda nazista (II correta); ao contrário do afirmado em III, o tratado não garantiu paz duradoura, sendo apontado como fator de instabilidade que contribuiria para a Segunda Guerra Mundial."
+                         "explicacao":  "As duras condições de Versalhes alimentaram o ressentimento nacionalista alemão (I correta), posteriormente explorado pela propaganda nazista (II correta); ao contrário do afirmado em III, o tratado não garantiu paz duradoura, sendo apontado como fator de instabilidade que contribuiria para a Segunda Guerra Mundial.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-08",
@@ -111,7 +118,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O desgaste do czarismo pela guerra e a crise econômica geraram insatisfação crescente (I correta), com a fome e o cansaço popular abrindo caminho às revoluções de 1917 (II correta); ao contrário do afirmado em III, a Rússia vivia justamente uma grave crise, não prosperidade."
+                         "explicacao":  "O desgaste do czarismo pela guerra e a crise econômica geraram insatisfação crescente (I correta), com a fome e o cansaço popular abrindo caminho às revoluções de 1917 (II correta); ao contrário do afirmado em III, a Rússia vivia justamente uma grave crise, não prosperidade.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-09",
@@ -125,7 +133,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A crise resultou da combinação entre superprodução e especulação excessiva (I correta), gerando falências em cadeia e recessão global (II correta); ao contrário do afirmado em III, o problema era justamente o excesso de oferta em relação à capacidade de consumo, não a escassez de bens."
+                         "explicacao":  "A crise resultou da combinação entre superprodução e especulação excessiva (I correta), gerando falências em cadeia e recessão global (II correta); ao contrário do afirmado em III, o problema era justamente o excesso de oferta em relação à capacidade de consumo, não a escassez de bens.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-10",
@@ -139,7 +148,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A crise econômica e o desemprego em massa após 1929 criaram terreno fértil para o nazismo (I correta), que também explorou o ressentimento com Versalhes (II correta); ao contrário do afirmado em III, a República de Weimar enfrentava justamente grave instabilidade econômica nesse período."
+                         "explicacao":  "A crise econômica e o desemprego em massa após 1929 criaram terreno fértil para o nazismo (I correta), que também explorou o ressentimento com Versalhes (II correta); ao contrário do afirmado em III, a República de Weimar enfrentava justamente grave instabilidade econômica nesse período.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-11",
@@ -153,7 +163,8 @@
                                               "e":  "I e II estão corretas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A política de apaziguamento não conteve o expansionismo alemão (I correta), que incluiu anexações toleradas antes da invasão da Polônia (II correta); ao contrário do afirmado em III, os anos 1930 foram marcados pelo avanço de regimes autoritários na Europa, não pelo fortalecimento generalizado da democracia."
+                         "explicacao":  "A política de apaziguamento não conteve o expansionismo alemão (I correta), que incluiu anexações toleradas antes da invasão da Polônia (II correta); ao contrário do afirmado em III, os anos 1930 foram marcados pelo avanço de regimes autoritários na Europa, não pelo fortalecimento generalizado da democracia.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-12",
@@ -167,7 +178,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O Holocausto exterminou sistematicamente cerca de seis milhões de judeus (I correta) e também outros grupos considerados \u0027indesejáveis\u0027 pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos (II correta), o que contraria a restrição afirmada em III."
+                         "explicacao":  "O Holocausto exterminou sistematicamente cerca de seis milhões de judeus (I correta) e também outros grupos considerados \u0027indesejáveis\u0027 pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos (II correta), o que contraria a restrição afirmada em III.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-13",
@@ -181,7 +193,8 @@
                                               "e":  "Uma disputa ideológica, política, econômica e militar entre EUA e URSS, sem confronto direto entre as potências"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A Guerra Fria caracterizou-se pela disputa entre o bloco capitalista, liderado pelos EUA, e o bloco socialista, liderado pela URSS, expressa em corrida armamentista, espacial e conflitos indiretos (guerras por procuração), mas sem confronto militar direto entre as duas potências."
+                         "explicacao":  "A Guerra Fria caracterizou-se pela disputa entre o bloco capitalista, liderado pelos EUA, e o bloco socialista, liderado pela URSS, expressa em corrida armamentista, espacial e conflitos indiretos (guerras por procuração), mas sem confronto militar direto entre as duas potências.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-14",
@@ -195,7 +208,8 @@
                                               "e":  "A chegada da missão Apollo 11 à Lua, em 1969, marco que abriu a disputa tecnológica entre as duas superpotências"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O lançamento do Sputnik pela União Soviética em 1957, primeiro satélite artificial a orbitar a Terra, surpreendeu os Estados Unidos e deu início à corrida espacial, que culminaria com a chegada do homem à Lua em 1969."
+                         "explicacao":  "O lançamento do Sputnik pela União Soviética em 1957, primeiro satélite artificial a orbitar a Terra, surpreendeu os Estados Unidos e deu início à corrida espacial, que culminaria com a chegada do homem à Lua em 1969.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-15",
@@ -209,7 +223,8 @@
                                               "e":  "Uma decisão coordenada das potências europeias na Conferência de Bandung, que estabeleceu o calendário das independências"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Segunda Guerra Mundial enfraqueceu econômica e militarmente as potências coloniais europeias, ao mesmo tempo em que fortaleceu movimentos nacionalistas locais, criando condições favoráveis às independências afro-asiáticas nas décadas seguintes."
+                         "explicacao":  "A Segunda Guerra Mundial enfraqueceu econômica e militarmente as potências coloniais europeias, ao mesmo tempo em que fortaleceu movimentos nacionalistas locais, criando condições favoráveis às independências afro-asiáticas nas décadas seguintes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-16",
@@ -223,7 +238,8 @@
                                               "e":  "A organização de uma guerrilha rural apoiada por potências estrangeiras, que forçou a retirada britânica do subcontinente"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo."
+                         "explicacao":  "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-17",
@@ -237,7 +253,8 @@
                                               "e":  "O início de um período de bipolaridade renovada, com a China assumindo o papel antes ocupado pela União Soviética"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A queda do Muro de Berlim e a posterior dissolução da URSS encerraram a bipolaridade da Guerra Fria, dando início a uma nova ordem mundial marcada, ao menos inicialmente, pela hegemonia política e militar dos Estados Unidos."
+                         "explicacao":  "A queda do Muro de Berlim e a posterior dissolução da URSS encerraram a bipolaridade da Guerra Fria, dando início a uma nova ordem mundial marcada, ao menos inicialmente, pela hegemonia política e militar dos Estados Unidos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-18",
@@ -251,7 +268,8 @@
                                               "e":  "A intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços tecnológicos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A globalização é marcada pela intensificação das interconexões econômicas, tecnológicas e culturais entre países, impulsionada por avanços nas comunicações e no transporte, embora acompanhada de debates sobre o aumento das desigualdades entre nações e dentro delas."
+                         "explicacao":  "A globalização é marcada pela intensificação das interconexões econômicas, tecnológicas e culturais entre países, impulsionada por avanços nas comunicações e no transporte, embora acompanhada de debates sobre o aumento das desigualdades entre nações e dentro delas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-19",
@@ -265,7 +283,8 @@
                                               "e":  "Um contrato de trabalho assalariado entre o senhor e o camponês, com remuneração fixada em moeda e prazo determinado"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A vassalagem era o vínculo de fidelidade entre um suserano, que concedia proteção e um feudo (terra), e um vassalo, que em troca prestava auxílio militar e outros serviços, estruturando as relações de poder na sociedade feudal."
+                         "explicacao":  "A vassalagem era o vínculo de fidelidade entre um suserano, que concedia proteção e um feudo (terra), e um vassalo, que em troca prestava auxílio militar e outros serviços, estruturando as relações de poder na sociedade feudal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-20",
@@ -279,7 +298,8 @@
                                               "e":  "Uma economia integrada por mercados monetários regionais, com produção voltada à exportação de manufaturas entre os feudos"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A economia feudal baseava-se principalmente na agricultura de subsistência realizada nos feudos, com baixa circulação monetária e forte dependência do trabalho dos servos, que cultivavam a terra em troca de proteção do senhor feudal."
+                         "explicacao":  "A economia feudal baseava-se principalmente na agricultura de subsistência realizada nos feudos, com baixa circulação monetária e forte dependência do trabalho dos servos, que cultivavam a terra em troca de proteção do senhor feudal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-21",
@@ -293,7 +313,8 @@
                                               "e":  "A defesa da autoridade exclusiva dos concílios sobre a interpretação bíblica, subordinando a leitura individual ao clero"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Lutero criticava sobretudo a venda de indulgências, prática pela qual a Igreja perdoava pecados mediante pagamento, defendendo a salvação pela fé (sola fide) e a Bíblia como fonte central de autoridade religiosa, princípios que fundaram o protestantismo."
+                         "explicacao":  "Lutero criticava sobretudo a venda de indulgências, prática pela qual a Igreja perdoava pecados mediante pagamento, defendendo a salvação pela fé (sola fide) e a Bíblia como fonte central de autoridade religiosa, princípios que fundaram o protestantismo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-22",
@@ -307,7 +328,8 @@
                                               "e":  "O livre-arbítrio como via de salvação, alcançada pelo acúmulo de boas obras reconhecidas pela autoridade eclesiástica"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O calvinismo, com sua doutrina da predestinação, associou o sucesso material e o trabalho disciplinado a sinais de graça divina, influência que o sociólogo Max Weber relacionou ao desenvolvimento posterior da chamada \u0027ética protestante\u0027 e do capitalismo em regiões de maioria calvinista."
+                         "explicacao":  "O calvinismo, com sua doutrina da predestinação, associou o sucesso material e o trabalho disciplinado a sinais de graça divina, influência que o sociólogo Max Weber relacionou ao desenvolvimento posterior da chamada \u0027ética protestante\u0027 e do capitalismo em regiões de maioria calvinista.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-23",
@@ -321,7 +343,8 @@
                                               "e":  "Aproximar-se das igrejas reformadas por meio da revisão de dogmas contestados, buscando a reunificação da cristandade"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O Concílio de Trento reafirmou dogmas centrais do catolicismo, buscou corrigir abusos internos (como a venda de indulgências) e reorganizou a disciplina eclesiástica, sendo o principal instrumento doutrinário da Contrarreforma católica diante do avanço protestante."
+                         "explicacao":  "O Concílio de Trento reafirmou dogmas centrais do catolicismo, buscou corrigir abusos internos (como a venda de indulgências) e reorganizou a disciplina eclesiástica, sendo o principal instrumento doutrinário da Contrarreforma católica diante do avanço protestante.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-24",
@@ -335,7 +358,8 @@
                                               "e":  "A defesa do sufrágio universal e da igualdade econômica entre as classes como fundamento da ordem política a ser construída"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Os iluministas defendiam o uso da razão contra dogmas e privilégios, propondo ideias como direitos naturais, contrato social e separação dos poderes (esta última sistematizada por Montesquieu), que se tornariam referência para as revoluções liberais dos séculos XVIII e XIX."
+                         "explicacao":  "Os iluministas defendiam o uso da razão contra dogmas e privilégios, propondo ideias como direitos naturais, contrato social e separação dos poderes (esta última sistematizada por Montesquieu), que se tornariam referência para as revoluções liberais dos séculos XVIII e XIX.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-25",
@@ -349,7 +373,8 @@
                                               "e":  "A unificação alemã e a italiana, processos conduzidos sob inspiração direta dos princípios de soberania popular iluministas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Os princípios iluministas de direitos naturais, soberania popular, contrato social e separação de poderes influenciaram diretamente os documentos e discursos políticos da independência dos Estados Unidos e da Revolução Francesa, fundamentando as revoluções liberais do final do século XVIII."
+                         "explicacao":  "Os princípios iluministas de direitos naturais, soberania popular, contrato social e separação de poderes influenciaram diretamente os documentos e discursos políticos da independência dos Estados Unidos e da Revolução Francesa, fundamentando as revoluções liberais do final do século XVIII.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-26",
@@ -363,7 +388,8 @@
                                               "e":  "A convocação de plebiscitos nos estados alemães, que aprovaram a adesão voluntária à Prússia sem recurso à força militar"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Bismarck conduziu a unificação alemã por meio da chamada política de \u0027sangue e ferro\u0027, que priorizava o fortalecimento militar e uma sequência de guerras (contra a Dinamarca, a Áustria e a França), sendo a vitória na Guerra Franco-Prussiana o marco final da proclamação do Império Alemão, em 1871."
+                         "explicacao":  "Bismarck conduziu a unificação alemã por meio da chamada política de \u0027sangue e ferro\u0027, que priorizava o fortalecimento militar e uma sequência de guerras (contra a Dinamarca, a Áustria e a França), sendo a vitória na Guerra Franco-Prussiana o marco final da proclamação do Império Alemão, em 1871.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-27",
@@ -377,7 +403,8 @@
                                               "e":  "A liderança de campanhas militares, como a expedição dos Mil Camisas Vermelhas, no sul da península italiana"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Enquanto Cavour, primeiro-ministro do Piemonte-Sardenha, articulava a diplomacia da unificação, Garibaldi liderou campanhas militares populares, como a expedição dos Mil (Camisas Vermelhas), que conquistou o Reino das Duas Sicílias e contribuiu decisivamente para a unificação italiana."
+                         "explicacao":  "Enquanto Cavour, primeiro-ministro do Piemonte-Sardenha, articulava a diplomacia da unificação, Garibaldi liderou campanhas militares populares, como a expedição dos Mil (Camisas Vermelhas), que conquistou o Reino das Duas Sicílias e contribuiu decisivamente para a unificação italiana.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-28",
@@ -391,7 +418,8 @@
                                               "e":  "A consolidação de um equilíbrio duradouro entre as potências europeias, que reduziu a competição por colônias na África e na Ásia"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A unificação de Alemanha e Itália criou novas potências industriais e militares no centro da Europa, intensificando a corrida imperialista e as rivalidades entre nações, o que contribuiu para o clima de tensão que resultaria, décadas depois, na Primeira Guerra Mundial."
+                         "explicacao":  "A unificação de Alemanha e Itália criou novas potências industriais e militares no centro da Europa, intensificando a corrida imperialista e as rivalidades entre nações, o que contribuiu para o clima de tensão que resultaria, décadas depois, na Primeira Guerra Mundial.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-29",
@@ -405,7 +433,8 @@
                                               "e":  "Longa Marcha, deslocamento das forças comunistas pelo interior do país que consolidou a liderança de Mao sobre o partido"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A vitória comunista na guerra civil chinesa culminou na proclamação da República Popular da China em outubro de 1949, sob liderança de Mao Tsé-Tung, enquanto as forças nacionalistas derrotadas do Kuomintang, lideradas por Chiang Kai-shek, refugiaram-se na ilha de Taiwan."
+                         "explicacao":  "A vitória comunista na guerra civil chinesa culminou na proclamação da República Popular da China em outubro de 1949, sob liderança de Mao Tsé-Tung, enquanto as forças nacionalistas derrotadas do Kuomintang, lideradas por Chiang Kai-shek, refugiaram-se na ilha de Taiwan.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-30",
@@ -419,7 +448,8 @@
                                               "e":  "Acelerar a industrialização e a coletivização agrícola do país, e depois eliminar elementos ditos burgueses no partido"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O Grande Salto Adiante buscava acelerar a industrialização e a coletivização agrícola chinesa, mas resultou em grave crise econômica e fome; já a Revolução Cultural visava eliminar opositores internos e elementos tidos como burgueses, gerando forte instabilidade política e social no país."
+                         "explicacao":  "O Grande Salto Adiante buscava acelerar a industrialização e a coletivização agrícola chinesa, mas resultou em grave crise econômica e fome; já a Revolução Cultural visava eliminar opositores internos e elementos tidos como burgueses, gerando forte instabilidade política e social no país.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-31",
@@ -433,7 +463,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O apartheid segregava legalmente a população por critérios raciais (I correta), sendo institucionalizado por lei (II correta); ao contrário do afirmado em III, o sistema restringia gravemente os direitos da maioria negra, sem qualquer igualdade civil ou política."
+                         "explicacao":  "O apartheid segregava legalmente a população por critérios raciais (I correta), sendo institucionalizado por lei (II correta); ao contrário do afirmado em III, o sistema restringia gravemente os direitos da maioria negra, sem qualquer igualdade civil ou política.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-32",
@@ -447,7 +478,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A libertação e eleição de Mandela marcaram o fim formal do apartheid e a transição democrática multirracial (I correta), com a eleição de 1994 sendo a primeira com participação de todas as raças (II correta); não houve, ao contrário do afirmado em III, manutenção do regime segregacionista."
+                         "explicacao":  "A libertação e eleição de Mandela marcaram o fim formal do apartheid e a transição democrática multirracial (I correta), com a eleição de 1994 sendo a primeira com participação de todas as raças (II correta); não houve, ao contrário do afirmado em III, manutenção do regime segregacionista.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-33",
@@ -461,7 +493,8 @@
                                               "e":  "Apenas II está correta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O desemprego juvenil e o autoritarismo prolongado impulsionaram os protestos (I correta), com forte uso das redes sociais na mobilização (II correta); ao contrário do afirmado em III, os protestos expressavam justamente rejeição aos governos autoritários, não apoio a eles."
+                         "explicacao":  "O desemprego juvenil e o autoritarismo prolongado impulsionaram os protestos (I correta), com forte uso das redes sociais na mobilização (II correta); ao contrário do afirmado em III, os protestos expressavam justamente rejeição aos governos autoritários, não apoio a eles.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-34",
@@ -475,7 +508,8 @@
                                               "e":  "I e II estão corretas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Os protestos na Síria degeneraram em guerra civil prolongada (I correta), gerando um dos maiores fluxos de refugiados do século (II correta); ao contrário do afirmado em III, não houve transição pacífica, mas um conflito armado de longa duração."
+                         "explicacao":  "Os protestos na Síria degeneraram em guerra civil prolongada (I correta), gerando um dos maiores fluxos de refugiados do século (II correta); ao contrário do afirmado em III, não houve transição pacífica, mas um conflito armado de longa duração.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-35",
@@ -489,7 +523,8 @@
                                               "e":  "A privatização integral das empresas estatais e a adoção do multipartidarismo como contrapartida da abertura econômica"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As reformas de Deng Xiaoping combinaram a introdução de mecanismos de mercado, zonas econômicas especiais e abertura ao capital estrangeiro com a manutenção do monopólio político do Partido Comunista, configurando o que passou a ser chamado de \u0027socialismo de mercado com características chinesas\u0027."
+                         "explicacao":  "As reformas de Deng Xiaoping combinaram a introdução de mecanismos de mercado, zonas econômicas especiais e abertura ao capital estrangeiro com a manutenção do monopólio político do Partido Comunista, configurando o que passou a ser chamado de \u0027socialismo de mercado com características chinesas\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-36",
@@ -503,7 +538,8 @@
                                               "e":  "A criação de uma moeda comum asiática, adotada pelos países participantes como alternativa ao dólar no comércio regional"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A Nova Rota da Seda, lançada em 2013, é uma ampla iniciativa chinesa de investimento em infraestrutura de transporte, energia e comunicações em dezenas de países, ampliando a influência econômica e geopolítica da China em escala global no século XXI."
+                         "explicacao":  "A Nova Rota da Seda, lançada em 2013, é uma ampla iniciativa chinesa de investimento em infraestrutura de transporte, energia e comunicações em dezenas de países, ampliando a influência econômica e geopolítica da China em escala global no século XXI.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-37",
@@ -518,7 +554,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-38",
@@ -533,7 +570,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A Revolução Gloriosa consolidou a supremacia do Parlamento sobre a Coroa, com a Declaração de Direitos limitando formalmente os poderes reais, estabelecendo as bases da monarquia parlamentar que caracterizaria o sistema político inglês nos séculos seguintes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-39",
@@ -548,7 +586,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A insatisfação com impostos como os da Lei do Selo e do Chá, cobrados sem que as colônias tivessem representação no Parlamento britânico, alimentou o lema \u0027no taxation without representation\u0027, um dos principais motores da mobilização que levou à independência dos Estados Unidos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-40",
@@ -563,7 +602,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Revolução Haitiana combinou a luta por independência política com a abolição da escravidão, sendo protagonizada por pessoas escravizadas que se apropriaram dos ideais de liberdade e igualdade difundidos pela Revolução Francesa para romper simultaneamente com o domínio colonial e com a escravidão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-41",
@@ -578,7 +618,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O Congresso de Viena reuniu as principais potências europeias para redesenhar o mapa do continente e restaurar, sob o princípio do equilíbrio de poder, monarquias e fronteiras alteradas pelas conquistas napoleônicas, buscando conter a difusão de ideias liberais e revolucionárias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-42",
@@ -593,7 +634,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Santa Aliança buscava preservar o status quo conservador estabelecido pelo Congresso de Viena, autorizando intervenções militares conjuntas para reprimir revoltas liberais e nacionalistas em diferentes pontos da Europa ao longo da primeira metade do século XIX.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-43",
@@ -608,7 +650,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As revoltas de 1848 reivindicavam constituições liberais, ampliação da participação política e, em regiões como os territórios alemães e italianos, maior unidade ou autonomia nacional, questionando diretamente a ordem conservadora estabelecida pelo Congresso de Viena.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-44",
@@ -623,7 +666,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica e energética da produção, incorporando eletricidade, aço e petróleo, e favoreceu a formação de grandes corporações, trustes e cartéis, alterando a escala e a organização da atividade industrial em relação à primeira fase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-45",
@@ -638,7 +682,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O darwinismo social, aplicação equivocada de conceitos biológicos às relações entre povos, foi utilizado para justificar ideologicamente o domínio colonial europeu como expressão de uma suposta superioridade civilizacional e racial, somando-se a interesses econômicos concretos na expansão imperialista.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-46",
@@ -653,7 +698,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Guerra dos Bôeres opôs o Reino Unido a colonos holandeses já estabelecidos havia gerações no sul da África, revelando que a expansão imperialista também gerava conflitos entre europeus, motivados pelo controle de recursos minerais estratégicos como ouro e diamantes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-47",
@@ -668,7 +714,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A vitória japonesa na Guerra Russo-Japonesa surpreendeu o mundo por representar a primeira grande derrota de uma potência europeia diante de uma nação asiática na era moderna, evidenciando os efeitos da rápida modernização militar e industrial promovida pelo Japão desde a Era Meiji (a partir de 1868).",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-48",
@@ -683,7 +730,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os Bálcãs concentravam disputas territoriais, rivalidades entre potências como Áustria-Hungria e Rússia, e fortes nacionalismos locais em conflito com impérios multinacionais em declínio, contexto que tornou a região o estopim direto da Primeira Guerra Mundial, com o atentado de Sarajevo em 1914.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-49",
@@ -698,7 +746,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A guerra de trincheiras simbolizou o conceito de guerra total da Primeira Guerra Mundial: desgaste prolongado, altíssimo número de baixas, mobilização de toda a economia e da população civil para o esforço bélico, e uso de novas e mortíferas tecnologias militares, como gás venenoso, metralhadoras e tanques.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-50",
@@ -713,7 +762,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A retomada da guerra submarina irrestrita pela Alemanha, que afundou navios com cidadãos americanos, somada à revelação do Telegrama Zimmermann, no qual a Alemanha propunha uma aliança com o México contra os Estados Unidos, foram fatores decisivos para a entrada americana na guerra em 1917.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-51",
@@ -728,7 +778,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ausência dos Estados Unidos, cujo Congresso não ratificou a adesão do país, e a falta de mecanismos efetivos de coerção militar ou econômica contra Estados agressores enfraqueceram estruturalmente a Liga das Nações, que se mostrou incapaz de impedir a escalada de agressões que resultariam na Segunda Guerra Mundial.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-52",
@@ -743,7 +794,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O comunismo de guerra, adotado durante a Guerra Civil Russa, envolveu confisco de excedentes agrícolas dos camponeses, nacionalização ampla da indústria e centralização estatal da economia, medidas emergenciais voltadas a sustentar o Exército Vermelho no confronto contra as forças contrarrevolucionárias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-53",
@@ -758,7 +810,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A NEP representou um recuo tático em relação ao comunismo de guerra, permitindo certa liberdade de mercado e pequena propriedade privada no campo e no pequeno comércio, enquanto o Estado soviético mantinha o controle dos setores considerados estratégicos, como a grande indústria e o sistema bancário.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-54",
@@ -773,7 +826,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os planos quinquenais stalinistas priorizaram a industrialização acelerada e a coletivização forçada da agricultura, processo que encontrou forte resistência camponesa, reprimida com violência, e que resultou em graves crises de fome, sobretudo na Ucrânia, no início da década de 1930.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-55",
@@ -788,7 +842,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O New Deal ampliou significativamente a intervenção do Estado norte-americano na economia, com obras públicas para geração de empregos, regulação do sistema financeiro e criação de programas de seguridade social, em uma resposta keynesiana à crise gerada pelo crash de 1929.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-56",
@@ -803,7 +858,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Guerra Civil Espanhola contou com apoio militar direto de Alemanha e Itália a Franco e da URSS aos republicanos (I correta), funcionando como ensaio geral para a Segunda Guerra Mundial (II correta); ao contrário do afirmado em III, o conflito teve intensa participação e interesse de potências estrangeiras.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-57",
@@ -818,7 +874,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O pacto revelou convergências táticas apesar da rivalidade ideológica (I correta), incluindo cláusulas secretas de partilha territorial (II correta); ao contrário do afirmado em III, a aliança foi rompida já em 1941, com a invasão alemã à União Soviética, não sendo permanente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-58",
@@ -833,7 +890,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O ataque a Pearl Harbor precipitou a entrada formal dos Estados Unidos na Segunda Guerra Mundial, o que teve impacto decisivo tanto na frente do Pacífico, contra o Japão, quanto na frente europeia, contra a Alemanha nazista e a Itália fascista.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-59",
@@ -848,7 +906,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As conferências de Yalta e Potsdam definiram as áreas de influência das potências vencedoras na Europa, incluindo a divisão da Alemanha em zonas de ocupação, lançando as bases geopolíticas para a divisão do continente que caracterizaria o início da Guerra Fria.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-60",
@@ -863,7 +922,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os bombardeios atômicos de Hiroshima e Nagasaki precipitaram a rendição japonesa e o fim da Segunda Guerra Mundial, ao mesmo tempo em que inauguraram a era nuclear, cujo potencial destrutivo passaria a moldar as relações internacionais e a lógica da dissuasão durante toda a Guerra Fria.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-61",
@@ -878,7 +938,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diferentemente da Liga das Nações, a ONU criou um Conselho de Segurança com membros permanentes dotados de poder de veto, mecanismo pensado para garantir o envolvimento contínuo das grandes potências vencedoras da guerra na manutenção da paz internacional, evitando a fragilidade que marcou a organização anterior.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-62",
@@ -893,7 +954,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Além do objetivo humanitário e econômico de reconstrução, o Plano Marshall tinha clara motivação geopolítica: conter o avanço do comunismo na Europa Ocidental, associando ajuda financeira à consolidação de governos alinhados aos interesses dos Estados Unidos no início da Guerra Fria.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-63",
@@ -908,7 +970,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A formação de alianças militares antagônicas, a OTAN e o Pacto de Varsóvia, institucionalizou a divisão bipolar do mundo em blocos rivais, um dos traços estruturais mais marcantes da Guerra Fria, refletindo a lógica de contenção e dissuasão mútua entre capitalismo e socialismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-64",
@@ -923,7 +986,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Doutrina Truman formalizou a política de contenção (containment) ao comunismo, comprometendo os Estados Unidos a apoiar governos e movimentos ameaçados pela expansão soviética, tornando-se um dos pilares ideológicos da atuação americana ao longo de toda a Guerra Fria.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-65",
@@ -938,7 +1002,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Diante do bloqueio terrestre soviético, as potências ocidentais organizaram uma ponte aérea para abastecer Berlim Ocidental por quase um ano, resolvendo a crise sem confronto militar direto e demonstrando, já nos primeiros anos da Guerra Fria, a lógica de disputa sem guerra aberta entre as superpotências.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-66",
@@ -953,7 +1018,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Guerra da Coreia é um exemplo clássico de guerra por procuração da Guerra Fria: Estados Unidos e União Soviética (e depois a China) apoiaram lados opostos sem se enfrentarem diretamente, resultando em um armistício que manteve a península coreana dividida até os dias atuais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-67",
@@ -968,7 +1034,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O alinhamento de Cuba à União Soviética após 1959 provocou a ruptura das relações com os Estados Unidos, que impuseram um embargo econômico à ilha, transformando Cuba em um dos principais focos de tensão da Guerra Fria no continente americano nas décadas seguintes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-68",
@@ -983,7 +1050,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A Crise dos Mísseis de Cuba, um dos momentos mais tensos da Guerra Fria, foi resolvida por meio de negociações diplomáticas: a União Soviética retirou seus mísseis de Cuba em troca do compromisso americano de não invadir a ilha e da retirada, mantida em sigilo por algum tempo, de mísseis americanos instalados na Turquia.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-69",
@@ -998,7 +1066,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Guerra do Vietnã provocou grande desgaste militar, político e social para os Estados Unidos, que enfrentaram forte oposição interna, especialmente entre jovens, o que contribuiu para a retirada das tropas americanas em 1973 e para a posterior reunificação do Vietnã sob o regime comunista, em 1975.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-70",
@@ -1013,7 +1082,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Primavera de Praga foi de fato interrompida por intervenção militar do Pacto de Varsóvia (I correta), com o objetivo de restabelecer o controle soviético e reprimir as reformas (II correta), evidenciando os limites impostos pela URSS a experiências de abertura dentro do bloco socialista (III correta) — as três afirmativas estão corretas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-71",
@@ -1028,7 +1098,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Maio de 1968 uniu demandas estudantis por reformas educacionais e comportamentais a reivindicações trabalhistas, expressando um questionamento mais amplo das estruturas sociais, culturais e políticas tradicionais da sociedade francesa, com repercussões que influenciaram movimentos semelhantes em outros países.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-72",
@@ -1043,7 +1114,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A cisão sino-soviética revela que o próprio bloco socialista era atravessado por divergências ideológicas, disputas pela liderança do movimento comunista internacional e tensões de fronteira, o que relativiza a ideia simplificada de um mundo bipolar plenamente coeso durante a Guerra Fria.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-73",
@@ -1058,7 +1130,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A détente foi marcada por acordos de controle de armamentos nucleares, como os tratados SALT, e maior diálogo diplomático entre Estados Unidos e União Soviética, sem que isso significasse o fim da disputa geopolítica de fundo entre os dois blocos, retomada com maior intensidade já no final da década de 1970.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-74",
@@ -1073,7 +1146,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Partição da Índia, que criou a Índia e o Paquistão com base em critérios predominantemente religiosos, provocou um dos maiores deslocamentos populacionais forçados da história, acompanhado de violência em massa entre comunidades hindus, muçulmanas e sikhs, e lançou as bases de tensões entre os dois países que persistem até hoje.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-75",
@@ -1088,7 +1162,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Guerra da Argélia, marcada por intensa violência de ambos os lados, exemplifica como processos de descolonização podiam se tornar longos e sangrentos quando a metrópole resistia à concessão da independência, tendo profundo impacto político também na própria França, incluindo crises internas que levaram à criação da Quinta República.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-76",
@@ -1103,7 +1178,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A Conferência de Bandung reuniu países da Ásia e da África dispostos a afirmar sua autonomia política diante da polarização da Guerra Fria, lançando as bases para o posterior Movimento dos Países Não Alinhados, que buscava uma terceira via entre os blocos capitalista e socialista.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-77",
@@ -1118,7 +1194,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A proclamação do Estado de Israel em 1948 desencadeou sucessivas guerras árabe-israelenses e deu origem a um dos conflitos territoriais e políticos mais longevos do mundo contemporâneo, envolvendo disputas sobre território, refugiados e soberania que persistem, em diferentes fases, até os dias atuais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-78",
@@ -1133,7 +1210,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Em resposta ao apoio ocidental a Israel na Guerra do Yom Kippur, países árabes exportadores impuseram um embargo petrolífero, provocando um forte choque nos preços internacionais do petróleo e contribuindo para uma grave crise econômica que atingiu diversas economias ao longo da década de 1970.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-79",
@@ -1148,7 +1226,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Revolução Iraniana rompeu o alinhamento estratégico do Irã com os Estados Unidos, mantido durante o regime do xá, substituindo-o por um governo islâmico que passou a se opor à influência americana na região, alterando profundamente o equilíbrio geopolítico do Oriente Médio e inaugurando décadas de tensão entre os dois países.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-80",
@@ -1163,7 +1242,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A guerra do Afeganistão impôs alto desgaste militar, político e econômico à União Soviética, que enfrentou anos de resistência de grupos guerrilheiros apoiados, entre outros atores, pelos Estados Unidos, sendo posteriormente apontada como um dos fatores que contribuíram para o enfraquecimento e a crise final do regime soviético.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-81",
@@ -1178,7 +1258,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A perestroika e a glasnost buscavam revitalizar o sistema soviético por meio de reformas econômicas e maior transparência política, mas, na prática, acabaram acelerando tensões nacionalistas e econômicas que contribuíram para o enfraquecimento e o posterior colapso do regime soviético.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-82",
@@ -1193,7 +1274,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A dissolução da União Soviética resultou do esgotamento do modelo econômico centralizado, do fortalecimento de movimentos nacionalistas em diversas repúblicas soviéticas e do enfraquecimento da autoridade central de Moscou, processo acelerado, e não resolvido, pelas reformas de Gorbachev ao longo da década de 1980.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-83",
@@ -1208,7 +1290,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O enfraquecimento de estruturas multiétnicas reacendeu rivalidades antigas (I correta), resultando em novos Estados independentes nos Bálcãs (II correta); ao contrário do afirmado em III, o fim da Guerra Fria não eliminou, mas em certos contextos reacendeu, tensões étnicas e nacionalistas na Europa.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-84",
@@ -1223,7 +1306,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O genocídio esteve associado a tensões étnicas aprofundadas no período colonial belga (I correta), com a comunidade internacional apontada por sua omissão (II correta); ao contrário do afirmado em III, o conflito teve componente étnico e colonial central, não religioso.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-85",
@@ -1238,7 +1322,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Tratado de Maastricht aprofundou a integração europeia ao estabelecer as bases institucionais para a criação de uma moeda única, o euro, e para maior integração política e econômica entre os países-membros, consolidando a transição da antiga Comunidade Econômica Europeia para a União Europeia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-86",
@@ -1253,7 +1338,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A OMC foi criada para regular o comércio internacional, promovendo a redução de barreiras comerciais entre os países-membros e oferecendo mecanismos institucionais para a mediação de disputas comerciais, sucedendo o antigo GATT em um contexto de aprofundamento da globalização econômica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-87",
@@ -1268,7 +1354,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crise financeira de 2008 resultou, entre outros fatores, da concessão excessiva de crédito imobiliário de alto risco (subprime) nos Estados Unidos e da complexa securitização desses créditos em produtos financeiros negociados globalmente, o que espalhou os riscos por todo o sistema financeiro internacional e gerou uma crise de escala mundial.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-88",
@@ -1283,7 +1370,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Os atentados de 11 de setembro de 2001 levaram os Estados Unidos a lançar a chamada Guerra ao Terror, que incluiu as invasões ao Afeganistão e ao Iraque, além de provocar um fortalecimento generalizado de políticas de segurança e vigilância em diversos países ao redor do mundo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-89",
@@ -1298,7 +1386,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Egito viveu eleições e um governo civil após 2011 (I correta), seguido de um novo golpe militar poucos anos depois (II correta); ao contrário do afirmado em III, a transição foi marcada por instabilidade prolongada, e não por linearidade.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-90",
@@ -1313,7 +1402,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A emergência dos BRICS está associada ao crescimento econômico expressivo de economias como China, Índia e Brasil nas últimas décadas, e à busca desses países por maior influência política e institucional em um cenário internacional historicamente dominado pelas potências tradicionais do pós-Segunda Guerra Mundial.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-91",
@@ -1328,7 +1418,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Acordo de Paris estabeleceu como meta central limitar o aumento da temperatura média global a bem abaixo de 2°C em relação aos níveis pré-industriais, buscando, idealmente, restringi-lo a 1,5°C, por meio de metas nacionais voluntárias de redução de emissões de gases de efeito estufa definidas por cada país signatário.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-92",
@@ -1343,7 +1434,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A invasão japonesa à Manchúria em 1931 e a posterior Guerra Sino-Japonesa (a partir de 1937) mostram que conflitos ligados ao expansionismo militar já se desenrolavam na Ásia antes do início formal da guerra na Europa, em 1939, levando parte da historiografia a situar as raízes da Segunda Guerra Mundial também no contexto asiático.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-93",
@@ -1358,7 +1450,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Crise de Suez evidenciou o declínio da capacidade de antigas potências coloniais, como Reino Unido e França, de agir unilateralmente no cenário internacional, ao mesmo tempo em que confirmou a ascensão de Estados Unidos e União Soviética como os principais árbitros das grandes questões globais no contexto da Guerra Fria.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-94",
@@ -1373,7 +1466,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crise congolesa mostra como disputas internas por poder, somadas ao interesse de potências estrangeiras pelos recursos minerais do país e às disputas geopolíticas da Guerra Fria, contribuíram para desestabilizar gravemente o Congo logo após sua independência, incluindo o assassinato do primeiro-ministro Patrice Lumumba.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-95",
@@ -1388,7 +1482,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A guerra civil angolana exemplifica como disputas internas de poder entre antigos movimentos de libertação, combinadas ao apoio externo de potências rivais da Guerra Fria a diferentes facções, prolongaram conflitos armados em países africanos recém-independentes, tornando processos de descolonização em longas guerras civis.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-96",
@@ -1403,7 +1498,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Revolução dos Cravos encerrou o longo regime autoritário português e abriu caminho tanto para a redemocratização do país quanto para a aceleração do processo de independência de suas colônias africanas, como Angola, Moçambique e Guiné-Bissau, encerrando o ciclo colonial português.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-97",
@@ -1418,7 +1514,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O golpe no Chile refletiu tensões da Guerra Fria na América Latina, com apoio externo a setores opositores (I correta), depondo um presidente eleito e instaurando ditadura (II correta); ao contrário do afirmado em III, há amplo registro histórico do interesse e da atuação dos Estados Unidos na política interna latino-americana durante o período.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-98",
@@ -1433,7 +1530,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Operação Condor evidencia o compartilhamento de informações de inteligência entre regimes autoritários sul-americanos (I correta) e a cooperação na perseguição e eliminação de opositores além das fronteiras (II correta); ao contrário do afirmado em III, houve articulação sistemática, e não isolamento, entre esses regimes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "historia-geral-99",
@@ -1448,7 +1546,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O COMECON foi criado para coordenar a cooperação econômica entre os países do bloco socialista do Leste Europeu, funcionando como uma espécie de contraponto ao Plano Marshall e aos mecanismos de integração econômica promovidos no bloco ocidental durante a Guerra Fria.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "historia-geral-100",
@@ -1463,7 +1562,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O milagre econômico japonês esteve associado a fortes investimentos em educação e tecnologia, a reformas econômicas conduzidas ainda durante a ocupação americana no pós-guerra, e a uma estratégia de industrialização voltada à exportação, fatores que transformaram o Japão em uma das maiores potências industriais do mundo em poucas décadas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      }
                  ]
 }

@@ -12,7 +12,8 @@
                                               "d":  "bipartidarismo moderado"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O presidencialismo de coalizão descreve a necessidade estrutural de o Executivo brasileiro, eleito separadamente do Legislativo em um sistema multipartidário, construir maiorias parlamentares por meio de alianças, cargos e negociações, dada a baixa probabilidade de o partido do presidente ter maioria própria."
+                         "explicacao":  "O presidencialismo de coalizão descreve a necessidade estrutural de o Executivo brasileiro, eleito separadamente do Legislativo em um sistema multipartidário, construir maiorias parlamentares por meio de alianças, cargos e negociações, dada a baixa probabilidade de o partido do presidente ter maioria própria.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-02",
@@ -25,7 +26,8 @@
                                               "d":  "redução do número de partidos representados no parlamento, concentrando cadeiras em poucas legendas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O sistema proporcional de lista aberta tende a estimular a multiplicação de partidos e a competição entre candidatos da mesma legenda, favorecendo o personalismo eleitoral e dificultando a coesão e a disciplina partidária no momento das votações."
+                         "explicacao":  "O sistema proporcional de lista aberta tende a estimular a multiplicação de partidos e a competição entre candidatos da mesma legenda, favorecendo o personalismo eleitoral e dificultando a coesão e a disciplina partidária no momento das votações.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-03",
@@ -38,7 +40,8 @@
                                               "d":  "unidade de comando, concentrando as decisões finais no Presidente da República"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O sistema de freios e contrapesos (checks and balances) garante que Executivo, Legislativo e Judiciário, embora independentes, possam fiscalizar e limitar uns aos outros, evitando a concentração e o abuso de poder."
+                         "explicacao":  "O sistema de freios e contrapesos (checks and balances) garante que Executivo, Legislativo e Judiciário, embora independentes, possam fiscalizar e limitar uns aos outros, evitando a concentração e o abuso de poder.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-04",
@@ -51,7 +54,8 @@
                                               "d":  "judicialização da política, fenômeno estudado na ciência política e no direito constitucional"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A judicialização da política ocorre quando conflitos de natureza política, econômica ou social passam a ser decididos pelo Poder Judiciário, muitas vezes em razão de omissões do Legislativo/Executivo ou da ampla legitimação para propor ações de controle de constitucionalidade."
+                         "explicacao":  "A judicialização da política ocorre quando conflitos de natureza política, econômica ou social passam a ser decididos pelo Poder Judiciário, muitas vezes em razão de omissões do Legislativo/Executivo ou da ampla legitimação para propor ações de controle de constitucionalidade.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-05",
@@ -64,7 +68,8 @@
                                               "d":  "eliminar a necessidade de metas de inflação, substituindo-as por controle direto de preços pelo Conselho Monetário Nacional"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A autonomia do Banco Central busca blindar as decisões de política monetária (como a definição da taxa de juros) de pressões de curto prazo ligadas ao calendário eleitoral, favorecendo a credibilidade do regime de metas de inflação e a previsibilidade econômica."
+                         "explicacao":  "A autonomia do Banco Central busca blindar as decisões de política monetária (como a definição da taxa de juros) de pressões de curto prazo ligadas ao calendário eleitoral, favorecendo a credibilidade do regime de metas de inflação e a previsibilidade econômica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-06",
@@ -77,7 +82,8 @@
                                               "d":  "encarecimento do crédito, desestimulando consumo e investimento e reduzindo a demanda agregada"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Ao elevar a Selic, o Banco Central encarece o crédito e torna mais atrativa a poupança, desestimulando consumo e investimento. Essa contração da demanda agregada tende a reduzir as pressões inflacionárias ao longo do tempo."
+                         "explicacao":  "Ao elevar a Selic, o Banco Central encarece o crédito e torna mais atrativa a poupança, desestimulando consumo e investimento. Essa contração da demanda agregada tende a reduzir as pressões inflacionárias ao longo do tempo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-07",
@@ -90,7 +96,8 @@
                                               "d":  "assegurar a sustentabilidade da dívida pública no médio e longo prazo, ancorando expectativas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Regras fiscais buscam impedir o crescimento descontrolado dos gastos públicos em relação à arrecadação, contribuindo para a trajetória sustentável da dívida pública e para a credibilidade da política econômica perante investidores."
+                         "explicacao":  "Regras fiscais buscam impedir o crescimento descontrolado dos gastos públicos em relação à arrecadação, contribuindo para a trajetória sustentável da dívida pública e para a credibilidade da política econômica perante investidores.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-08",
@@ -103,7 +110,8 @@
                                               "d":  "refere-se exclusivamente às contas do setor externo, como o balanço de pagamentos e a conta de capital"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O resultado primário mede a diferença entre receitas e despesas do governo excluindo os juros da dívida; o resultado nominal soma a esse cálculo o pagamento de juros, refletindo o impacto total do endividamento sobre as contas públicas."
+                         "explicacao":  "O resultado primário mede a diferença entre receitas e despesas do governo excluindo os juros da dívida; o resultado nominal soma a esse cálculo o pagamento de juros, refletindo o impacto total do endividamento sobre as contas públicas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-09",
@@ -116,7 +124,8 @@
                                               "d":  "transferir toda a arrecadação para a União, eliminando estados e municípios do pacto federativo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A unificação de tributos sobre consumo em um IVA busca simplificar o sistema, reduzir a cumulatividade (tributação em cascata) e diminuir a chamada guerra fiscal, em que entes federativos concedem benefícios para atrair investimentos."
+                         "explicacao":  "A unificação de tributos sobre consumo em um IVA busca simplificar o sistema, reduzir a cumulatividade (tributação em cascata) e diminuir a chamada guerra fiscal, em que entes federativos concedem benefícios para atrair investimentos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-10",
@@ -129,7 +138,8 @@
                                               "d":  "ser uma medida consensual, sem qualquer crítica de especialistas em gestão pública ou entidades de servidores"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto expressa a opinião do colunista, favorável à reforma, mas o argumento central usado por seus defensores — independentemente de sua opinião pessoal sobre o tema — é que a flexibilização de regras rígidas de estabilidade, associada à avaliação de desempenho, pode aumentar a eficiência e a meritocracia no setor público. A questão testa a separação entre a opinião expressa no artigo e o argumento factual subjacente a ela."
+                         "explicacao":  "O texto expressa a opinião do colunista, favorável à reforma, mas o argumento central usado por seus defensores — independentemente de sua opinião pessoal sobre o tema — é que a flexibilização de regras rígidas de estabilidade, associada à avaliação de desempenho, pode aumentar a eficiência e a meritocracia no setor público. A questão testa a separação entre a opinião expressa no artigo e o argumento factual subjacente a ela.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-11",
@@ -142,7 +152,8 @@
                                               "d":  "reformas que buscam reequilibrar atuarialmente os sistemas previdenciários, como o aumento da idade mínima"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Com o envelhecimento populacional, menos trabalhadores ativos sustentam um número crescente de aposentados, pressionando o equilíbrio financeiro do sistema previdenciário e motivando reformas como o aumento da idade mínima de aposentadoria."
+                         "explicacao":  "Com o envelhecimento populacional, menos trabalhadores ativos sustentam um número crescente de aposentados, pressionando o equilíbrio financeiro do sistema previdenciário e motivando reformas como o aumento da idade mínima de aposentadoria.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-12",
@@ -155,7 +166,8 @@
                                               "d":  "cada trabalhador acumula recursos em conta individual para a própria aposentadoria futura, modelo típico da capitalização"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "No regime de repartição, as contribuições da geração economicamente ativa financiam, no mesmo período, os benefícios da geração já aposentada — diferentemente do regime de capitalização, em que cada indivíduo acumula recursos em conta própria."
+                         "explicacao":  "No regime de repartição, as contribuições da geração economicamente ativa financiam, no mesmo período, os benefícios da geração já aposentada — diferentemente do regime de capitalização, em que cada indivíduo acumula recursos em conta própria.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-13",
@@ -168,7 +180,8 @@
                                               "d":  "a distribuição de renda entre os indivíduos tornou-se mais igualitária"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Uma redução do coeficiente de Gini indica que a distribuição de renda se tornou relativamente mais igualitária, ainda que isso não implique, isoladamente, o desaparecimento da pobreza ou de outras formas de desigualdade."
+                         "explicacao":  "Uma redução do coeficiente de Gini indica que a distribuição de renda se tornou relativamente mais igualitária, ainda que isso não implique, isoladamente, o desaparecimento da pobreza ou de outras formas de desigualdade.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-14",
@@ -181,7 +194,8 @@
                                               "d":  "aumentar a transmissão intergeracional de desigualdade, perpetuando diferenças de renda entre gerações de uma família"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Educação de qualidade e acessível é considerada um dos principais mecanismos para romper ciclos de desigualdade, ampliando oportunidades independentemente da origem socioeconômica da família e favorecendo a mobilidade social ascendente."
+                         "explicacao":  "Educação de qualidade e acessível é considerada um dos principais mecanismos para romper ciclos de desigualdade, ampliando oportunidades independentemente da origem socioeconômica da família e favorecendo a mobilidade social ascendente.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-15",
@@ -194,7 +208,8 @@
                                               "d":  "o fortalecimento do financiamento da previdência social, ampliando a base de contribuintes regulares"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A informalidade reduz o acesso dos trabalhadores a direitos trabalhistas e previdenciários, além de diminuir a base de arrecadação do sistema de seguridade social, pressionando seu financiamento no longo prazo."
+                         "explicacao":  "A informalidade reduz o acesso dos trabalhadores a direitos trabalhistas e previdenciários, além de diminuir a base de arrecadação do sistema de seguridade social, pressionando seu financiamento no longo prazo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-16",
@@ -207,7 +222,8 @@
                                               "d":  "ser uma posição unânime entre economistas e entidades sindicais, sem qualquer contestação de centrais sindicais"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O editorial expressa uma opinião — de que a rigidez trabalhista seria o principal entrave ao emprego —, mas o argumento típico usado para sustentar a posição favorável à flexibilização é o de que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais, sem que isso implique consenso sobre a causa única do desemprego, tema sobre o qual há divergência, inclusive sindical."
+                         "explicacao":  "O editorial expressa uma opinião — de que a rigidez trabalhista seria o principal entrave ao emprego —, mas o argumento típico usado para sustentar a posição favorável à flexibilização é o de que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais, sem que isso implique consenso sobre a causa única do desemprego, tema sobre o qual há divergência, inclusive sindical.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-17",
@@ -220,7 +236,8 @@
                                               "d":  "unificação fazendária, com centralização da arrecadação estadual em um único órgão federal"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A guerra fiscal ocorre quando entes federativos competem entre si, concedendo benefícios e renúncias fiscais para atrair investimentos, o que pode gerar perda de arrecadação agregada e distorções na alocação de recursos."
+                         "explicacao":  "A guerra fiscal ocorre quando entes federativos competem entre si, concedendo benefícios e renúncias fiscais para atrair investimentos, o que pode gerar perda de arrecadação agregada e distorções na alocação de recursos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-18",
@@ -233,7 +250,8 @@
                                               "d":  "coronelismo"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Accountability refere-se ao conjunto de mecanismos de prestação de contas e responsabilização dos governantes e agentes públicos perante instituições de controle e a sociedade, sendo um pilar da governança democrática."
+                         "explicacao":  "Accountability refere-se ao conjunto de mecanismos de prestação de contas e responsabilização dos governantes e agentes públicos perante instituições de controle e a sociedade, sendo um pilar da governança democrática.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-19",
@@ -246,7 +264,8 @@
                                               "d":  "a plena autonomia financeira de todos os municípios brasileiros, que dispensam qualquer repasse da União, mesmo os de pequeno porte econômico"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O federalismo fiscal brasileiro é marcado por um desequilíbrio vertical entre a arrecadação tributária, concentrada principalmente na União, e as responsabilidades de prestação de serviços públicos, atribuídas também a estados e sobretudo a municípios, o que torna estes últimos fortemente dependentes de transferências constitucionais como o FPM."
+                         "explicacao":  "O federalismo fiscal brasileiro é marcado por um desequilíbrio vertical entre a arrecadação tributária, concentrada principalmente na União, e as responsabilidades de prestação de serviços públicos, atribuídas também a estados e sobretudo a municípios, o que torna estes últimos fortemente dependentes de transferências constitucionais como o FPM.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-20",
@@ -259,7 +278,8 @@
                                               "d":  "desequilíbrio fiscal vertical"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O desequilíbrio fiscal vertical descreve a situação em que a distribuição de competências tributárias entre os níveis de governo não corresponde à distribuição das responsabilidades de gasto, exigindo mecanismos de transferências intergovernamentais para compensar a diferença."
+                         "explicacao":  "O desequilíbrio fiscal vertical descreve a situação em que a distribuição de competências tributárias entre os níveis de governo não corresponde à distribuição das responsabilidades de gasto, exigindo mecanismos de transferências intergovernamentais para compensar a diferença.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-21",
@@ -272,7 +292,8 @@
                                               "d":  "royalties, compensação financeira paga pela exploração de recursos naturais não renováveis"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Royalties são compensações financeiras devidas a estados e municípios (e à União) pela exploração de recursos naturais não renováveis, como petróleo e minérios, em seus territórios ou áreas de influência, sendo frequentemente objeto de disputa federativa quanto a seus critérios de distribuição."
+                         "explicacao":  "Royalties são compensações financeiras devidas a estados e municípios (e à União) pela exploração de recursos naturais não renováveis, como petróleo e minérios, em seus territórios ou áreas de influência, sendo frequentemente objeto de disputa federativa quanto a seus critérios de distribuição.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-22",
@@ -285,7 +306,8 @@
                                               "d":  "ser uma medida sem qualquer crítica ou controvérsia entre analistas políticos, tema sobre o qual haveria consenso total"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A opinião da autora é que a mudança foi um avanço relevante, mas o fato relatado — distinto de seu juízo de valor — é que a vedação às doações empresariais e a criação do fundo eleitoral público tiveram como justificativa declarada reduzir a influência do poder econômico privado sobre o processo eleitoral, mitigando riscos associados à captura de candidatos por grandes financiadores, ainda que o novo modelo também seja objeto de críticas, como as mencionadas no texto."
+                         "explicacao":  "A opinião da autora é que a mudança foi um avanço relevante, mas o fato relatado — distinto de seu juízo de valor — é que a vedação às doações empresariais e a criação do fundo eleitoral público tiveram como justificativa declarada reduzir a influência do poder econômico privado sobre o processo eleitoral, mitigando riscos associados à captura de candidatos por grandes financiadores, ainda que o novo modelo também seja objeto de críticas, como as mencionadas no texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-23",
@@ -298,7 +320,8 @@
                                               "d":  "impedir que qualquer candidato utilize recursos próprios na campanha, vedando o autofinanciamento dentro dos limites legais"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A prestação de contas eleitorais visa a dar transparência à origem e ao uso dos recursos de campanha, permitindo à Justiça Eleitoral fiscalizar eventuais irregularidades, abusos de poder econômico e o cumprimento dos limites e vedações legais ao financiamento eleitoral."
+                         "explicacao":  "A prestação de contas eleitorais visa a dar transparência à origem e ao uso dos recursos de campanha, permitindo à Justiça Eleitoral fiscalizar eventuais irregularidades, abusos de poder econômico e o cumprimento dos limites e vedações legais ao financiamento eleitoral.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-24",
@@ -311,7 +334,8 @@
                                               "d":  "político e jurisdicional de convencionalidade"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O controle difuso de constitucionalidade permite que qualquer juiz, no julgamento de um caso concreto, deixe de aplicar norma que considere inconstitucional, com efeitos em regra restritos às partes; já o controle concentrado é exercido pelo STF sobre a norma em tese, por meio de ações específicas, podendo ter efeitos gerais (erga omnes)."
+                         "explicacao":  "O controle difuso de constitucionalidade permite que qualquer juiz, no julgamento de um caso concreto, deixe de aplicar norma que considere inconstitucional, com efeitos em regra restritos às partes; já o controle concentrado é exercido pelo STF sobre a norma em tese, por meio de ações específicas, podendo ter efeitos gerais (erga omnes).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-25",
@@ -324,7 +348,8 @@
                                               "d":  "ação civil pública"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A súmula vinculante é editada pelo STF após reiteradas decisões sobre matéria constitucional e deve ser observada pelos demais órgãos do Judiciário e pela administração pública, com o objetivo de uniformizar a jurisprudência e reduzir o volume de processos repetitivos sobre a mesma questão."
+                         "explicacao":  "A súmula vinculante é editada pelo STF após reiteradas decisões sobre matéria constitucional e deve ser observada pelos demais órgãos do Judiciário e pela administração pública, com o objetivo de uniformizar a jurisprudência e reduzir o volume de processos repetitivos sobre a mesma questão.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-26",
@@ -337,7 +362,8 @@
                                               "d":  "a Advocacia-Geral da União"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Defensoria Pública é a instituição constitucionalmente incumbida de prestar assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, sendo instrumento essencial para ampliar o acesso à justiça de parcelas da população que não podem arcar com os custos de um processo."
+                         "explicacao":  "A Defensoria Pública é a instituição constitucionalmente incumbida de prestar assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, sendo instrumento essencial para ampliar o acesso à justiça de parcelas da população que não podem arcar com os custos de um processo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-27",
@@ -350,7 +376,8 @@
                                               "d":  "articular o alívio imediato da pobreza com investimentos em capital humano de longo prazo, como educação e saúde"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As condicionalidades de programas de transferência de renda buscam combinar o alívio imediato da pobreza com o incentivo a investimentos em capital humano, como frequência escolar e acompanhamento de saúde, visando romper ciclos intergeracionais de pobreza no longo prazo."
+                         "explicacao":  "As condicionalidades de programas de transferência de renda buscam combinar o alívio imediato da pobreza com o incentivo a investimentos em capital humano, como frequência escolar e acompanhamento de saúde, visando romper ciclos intergeracionais de pobreza no longo prazo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-28",
@@ -363,7 +390,8 @@
                                               "d":  "regressiva por definição, que concentraria recursos públicos nas famílias de maior renda"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Políticas focalizadas concentram recursos limitados nos grupos identificados como mais vulneráveis por meio de critérios específicos, como renda familiar, em contraste com políticas universalistas, que atendem toda a população independentemente de sua condição socioeconômica."
+                         "explicacao":  "Políticas focalizadas concentram recursos limitados nos grupos identificados como mais vulneráveis por meio de critérios específicos, como renda familiar, em contraste com políticas universalistas, que atendem toda a população independentemente de sua condição socioeconômica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-29",
@@ -376,7 +404,8 @@
                                               "d":  "agências reguladoras dotadas de autonomia técnica e administrativa"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As agências reguladoras são autarquias especiais dotadas de autonomia técnica, administrativa e, em geral, mandatos fixos para seus dirigentes, desenhadas para isolar decisões regulatórias setoriais de ingerências político-eleitorais de curto prazo e conferir maior previsibilidade e segurança jurídica ao setor regulado."
+                         "explicacao":  "As agências reguladoras são autarquias especiais dotadas de autonomia técnica, administrativa e, em geral, mandatos fixos para seus dirigentes, desenhadas para isolar decisões regulatórias setoriais de ingerências político-eleitorais de curto prazo e conferir maior previsibilidade e segurança jurídica ao setor regulado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-30",
@@ -389,7 +418,8 @@
                                               "d":  "o Tribunal de Contas da União, órgão auxiliar do Legislativo no controle externo das contas públicas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O CADE é a autarquia responsável, no Brasil, por zelar pela livre concorrência, analisando atos de concentração econômica (como fusões e aquisições) e reprimindo condutas anticompetitivas, como formação de cartéis e abuso de posição dominante no mercado."
+                         "explicacao":  "O CADE é a autarquia responsável, no Brasil, por zelar pela livre concorrência, analisando atos de concentração econômica (como fusões e aquisições) e reprimindo condutas anticompetitivas, como formação de cartéis e abuso de posição dominante no mercado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-31",
@@ -402,7 +432,8 @@
                                               "d":  "clientelismo, baseado na troca de favores entre governante e apoiadores"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A burocracia racional-legal, conceito formulado por Max Weber, caracteriza-se pela impessoalidade, hierarquia formal, normas escritas e critérios técnicos de ingresso e promoção, contrapondo-se a formas de dominação tradicionais ou carismáticas, baseadas em vínculos pessoais ou na figura de uma liderança específica."
+                         "explicacao":  "A burocracia racional-legal, conceito formulado por Max Weber, caracteriza-se pela impessoalidade, hierarquia formal, normas escritas e critérios técnicos de ingresso e promoção, contrapondo-se a formas de dominação tradicionais ou carismáticas, baseadas em vínculos pessoais ou na figura de uma liderança específica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-32",
@@ -415,7 +446,8 @@
                                               "d":  "accountability vertical, exercida pelos cidadãos por meio do voto periódico"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O patrimonialismo refere-se a uma tradição de administração pública em que a distinção entre patrimônio público e privado é pouco nítida, favorecendo relações pessoais, cargos distribuídos por critérios de confiança e não de mérito, em contraste com o modelo de burocracia racional-legal."
+                         "explicacao":  "O patrimonialismo refere-se a uma tradição de administração pública em que a distinção entre patrimônio público e privado é pouco nítida, favorecendo relações pessoais, cargos distribuídos por critérios de confiança e não de mérito, em contraste com o modelo de burocracia racional-legal.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-33",
@@ -428,7 +460,8 @@
                                               "d":  "emenda constitucional de iniciativa exclusiva do presidente da República, aprovada por maioria qualificada"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A medida provisória permite ao Executivo editar normas com força de lei em casos de relevância e urgência, produzindo efeitos imediatos, mas sujeitas à apreciação do Congresso Nacional dentro de prazo constitucional, sob pena de perda de eficácia caso não sejam convertidas em lei."
+                         "explicacao":  "A medida provisória permite ao Executivo editar normas com força de lei em casos de relevância e urgência, produzindo efeitos imediatos, mas sujeitas à apreciação do Congresso Nacional dentro de prazo constitucional, sob pena de perda de eficácia caso não sejam convertidas em lei.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-34",
@@ -441,7 +474,8 @@
                                               "d":  "ampliar o poder do Legislativo sobre a execução orçamentária, em contrapartida à discricionariedade tradicionalmente concentrada no Executivo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O caráter impositivo de determinadas emendas parlamentares amplia o poder do Congresso sobre a execução do orçamento público, reduzindo a discricionariedade que tradicionalmente concentrava essa decisão nas mãos do Poder Executivo, o que reconfigura a relação entre os dois Poderes."
+                         "explicacao":  "O caráter impositivo de determinadas emendas parlamentares amplia o poder do Congresso sobre a execução do orçamento público, reduzindo a discricionariedade que tradicionalmente concentrava essa decisão nas mãos do Poder Executivo, o que reconfigura a relação entre os dois Poderes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-35",
@@ -454,7 +488,8 @@
                                               "d":  "fisiologismo, prática de barganha por cargos e vantagens materiais em vez de convergência ideológica"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O fisiologismo caracteriza-se pela troca de apoio político por benefícios concretos — como cargos, verbas ou emendas —, em detrimento de convergências ideológicas ou programáticas, sendo um traço frequentemente apontado nas negociações que sustentam coalizões no presidencialismo de coalizão brasileiro."
+                         "explicacao":  "O fisiologismo caracteriza-se pela troca de apoio político por benefícios concretos — como cargos, verbas ou emendas —, em detrimento de convergências ideológicas ou programáticas, sendo um traço frequentemente apontado nas negociações que sustentam coalizões no presidencialismo de coalizão brasileiro.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-36",
@@ -467,7 +502,8 @@
                                               "d":  "restringir o acesso a recursos do fundo partidário apenas a partidos recém-criados, independentemente de seu desempenho eleitoral"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A cláusula de desempenho busca reduzir a fragmentação partidária excessiva, condicionando o acesso pleno a recursos do fundo partidário e ao tempo de propaganda eleitoral gratuita ao atingimento de patamares mínimos de votos e representação, estimulando a formação de partidos mais consistentes."
+                         "explicacao":  "A cláusula de desempenho busca reduzir a fragmentação partidária excessiva, condicionando o acesso pleno a recursos do fundo partidário e ao tempo de propaganda eleitoral gratuita ao atingimento de patamares mínimos de votos e representação, estimulando a formação de partidos mais consistentes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A independência e a harmonia entre os poderes significam que Executivo, Legislativo e Judiciário exercem funções típicas autônomas, mas devem cooperar institucionalmente e respeitar mutuamente suas competências, sem que os mecanismos de fiscalização recíproca representem subordinação hierárquica entre eles.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "No parlamentarismo, diferentemente do presidencialismo, o chefe de governo depende da confiança contínua do parlamento, podendo perder o cargo por moção de desconfiança antes do fim de seu mandato, o que gera uma relação de maior interdependência entre Executivo e Legislativo do que no sistema presidencialista.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O bicameralismo federativo busca equilibrar a representação proporcional da população, na Câmara dos Deputados, com a representação igualitária dos estados, no Senado Federal, no qual cada unidade da federação elege o mesmo número de senadores, independentemente de seu tamanho populacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diferentemente do poder constituinte originário, que é inicial e ilimitado juridicamente, o poder constituinte derivado, exercido pelo Congresso Nacional por meio de emendas, está sujeito a limites materiais (como as cláusulas pétreas) e procedimentais (como o quórum qualificado) estabelecidos pela própria Constituição.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As cláusulas pétreas protegem princípios e direitos considerados essenciais à ordem constitucional — como a forma federativa de Estado, o voto direto e secreto, a separação de poderes e os direitos e garantias individuais — contra tentativas de supressão ou enfraquecimento, mesmo por meio de emenda constitucional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Estado de Defesa e o Estado de Sítio são mecanismos constitucionais excepcionais que permitem a restrição temporária de determinados direitos individuais em situações de grave instabilidade, mas sua decretação e prorrogação estão sujeitas a controle e aprovação do Congresso Nacional, com prazos determinados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os Tribunais de Contas julgam as contas de administradores e demais responsáveis por bens e valores públicos, além de fiscalizar a legalidade, a legitimidade e a economicidade dos atos de gestão, auxiliando o Poder Legislativo no controle externo da administração pública.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Lei de Responsabilidade Fiscal impôs limites a despesas como as de pessoal e ao endividamento público, além de exigir maior transparência e publicidade na gestão fiscal, aplicando-se à União, aos estados e aos municípios, buscando maior equilíbrio nas contas públicas em todos os níveis de governo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O PPA estabelece diretrizes e metas para um período de quatro anos, a LDO orienta a elaboração do orçamento do exercício seguinte, definindo prioridades e metas fiscais, e a LOA detalha, ano a ano, a previsão de receitas e a autorização de despesas, formando o ciclo orçamentário do setor público brasileiro.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A rolagem da dívida pública consiste na emissão de novos títulos para cobrir o pagamento do principal de títulos que estão vencendo, mecanismo pelo qual o governo renova continuamente parte de sua dívida mobiliária no mercado financeiro.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "No regime de câmbio flutuante, a taxa de câmbio se ajusta às condições de oferta e demanda no mercado, funcionando como um amortecedor de choques externos, sem que o Banco Central precise utilizar continuamente suas reservas internacionais para sustentar uma paridade fixa, como ocorreria em um regime de câmbio fixo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Além da balança comercial, a conta corrente do balanço de pagamentos inclui a balança de serviços e a balança de rendas, que registram, entre outros itens, pagamentos de juros, lucros e dividendos remetidos ao exterior, compondo um retrato mais completo das transações correntes de um país com o resto do mundo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O investimento direto estrangeiro é geralmente considerado mais estável do que o investimento de portfólio, pois envolve ativos produtivos, como fábricas e participações societárias relevantes, de difícil liquidação imediata, ao contrário de ações e títulos, que podem ser vendidos rapidamente em momentos de crise.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Defensores do voto distrital argumentam que a associação de cada representante a uma base territorial específica tenderia a aproximar o eleitor de seu mandato, fortalecendo mecanismos de prestação de contas e identificação, em contraste com o sistema proporcional de lista aberta atualmente vigente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Defensores do voto obrigatório argumentam que essa regra garante maior participação e representatividade do conjunto da população nas eleições, evitando que o resultado seja determinado apenas pelos eleitores mais mobilizados ou ideologicamente engajados, o que poderia ocorrer sob voto exclusivamente facultativo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A fidelidade partidária sujeita à perda do mandato o parlamentar eleito pelo sistema proporcional que mudar de partido sem justa causa reconhecida pela Justiça Eleitoral, mecanismo que busca reduzir a migração partidária motivada por interesses pessoais e reforçar o papel dos partidos na representação política.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O fim das coligações proporcionais buscou reduzir distorções na distribuição de cadeiras, geradas por alianças formadas exclusivamente para maximizar o aproveitamento de votos entre partidos sem necessária afinidade programática, o que antes permitia que legendas pequenas elegessem representantes com base em votos de partidos maiores da coligação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O foro por prerrogativa de função é justificado por seus defensores como mecanismo de proteção do exercício do cargo contra pressões políticas indevidas sobre autoridades de relevância institucional, submetendo-as a julgamento por tribunais colegiados de maior hierarquia, ainda que a extensão dessa prerrogativa seja objeto de debate público recorrente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A imunidade material garante que parlamentares não sejam responsabilizados civil ou penalmente por suas opiniões, palavras e votos proferidos no exercício do mandato, protegendo a liberdade de expressão política necessária ao exercício da função legislativa, sem, no entanto, isentá-los de responsabilização por atos estranhos a essa atividade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A cassação de mandato por decisão da própria Casa legislativa é exemplo de autorregulação institucional do Poder Legislativo, que possui competência constitucional para julgar e disciplinar seus próprios membros em hipóteses como quebra de decoro parlamentar, atuando de forma complementar, e não substitutiva, ao controle judicial.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Lei da Ficha Limpa buscou elevar o padrão de conduta exigido de candidatos a cargos eletivos, ampliando as hipóteses de inelegibilidade para pessoas condenadas por órgãos colegiados, ainda que a decisão esteja sujeita a recurso, em processos como os de improbidade administrativa ou abuso de poder econômico.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "No regime de metas de inflação, o Banco Central utiliza principalmente a taxa básica de juros (Selic) para conduzir a inflação observada em direção a uma meta previamente estabelecida, geralmente fixada pelo Conselho Monetário Nacional, e não busca controlar diretamente preços individuais ou eliminar toda a variação cambial.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A política fiscal anticíclica fundamenta-se na noção, de inspiração keynesiana, de que a atuação do Estado pode suavizar as flutuações do ciclo econômico, ampliando gastos ou reduzindo impostos para estimular a demanda em recessões, e contendo-os em períodos de sobreaquecimento da economia.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O efeito multiplicador ocorre porque a renda gerada por um gasto público inicial é parcialmente reinjetada na economia por meio do consumo das famílias e empresas que a recebem, gerando novas rodadas sucessivas de renda e consumo, de modo que o impacto total sobre a economia tende a superar o valor originalmente gasto.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A progressividade tributária busca distribuir a carga fiscal de forma proporcionalmente maior sobre quem tem maior capacidade contributiva, como no caso do Imposto de Renda, no qual alíquotas mais altas incidem sobre faixas de renda mais elevadas, contribuindo para reduzir desigualdades por meio da própria estrutura tributária.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A regressividade tributária ocorre quando um tributo representa uma parcela proporcionalmente maior da renda das famílias mais pobres do que da renda das famílias mais ricas, característica comum a tributos sobre o consumo, que incidem igualmente sobre todos os consumidores independentemente de sua capacidade contributiva.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A renúncia fiscal, também chamada de gasto tributário, corresponde à arrecadação que o Estado deixa de obter em razão de isenções, reduções de alíquota e outros benefícios tributários concedidos a determinados setores, regiões ou grupos de contribuintes, com o objetivo declarado de estimular atividades econômicas específicas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As parcerias público-privadas caracterizam-se pela divisão de riscos, responsabilidades e investimentos entre o poder público e o parceiro privado ao longo da execução do contrato, mantendo-se a titularidade do serviço público com o Estado, que continua responsável por sua fiscalização e regulação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O novo marco regulatório do saneamento básico ampliou as possibilidades de licitação e concessão dos serviços a operadores privados, buscando atrair investimentos capazes de acelerar as metas de universalização do acesso à água tratada e à coleta de esgoto, mantendo, porém, a titularidade municipal sobre o serviço.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Regras fiscais que vinculam o crescimento dos gastos a parâmetros como a variação da receita ou metas de resultado primário buscam estabelecer critérios críveis de disciplina fiscal, sinalizando sustentabilidade da dívida pública no médio prazo, sem necessariamente impedir toda e qualquer expansão do gasto público, desde que compatível com a arrecadação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Conselho Monetário Nacional estabelece as diretrizes gerais das políticas monetária, creditícia e cambial do país, incluindo a definição da meta de inflação a ser perseguida pelo Banco Central, cabendo à autoridade monetária a execução operacional dessas diretrizes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As CPIs permitem que o Poder Legislativo exerça sua função fiscalizadora sobre fatos de relevante interesse público, com poderes de investigação próprios das autoridades judiciais, como convocar testemunhas e requisitar documentos, mas sem poder de condenação criminal, que permanece de competência exclusiva do Poder Judiciário.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O veto presidencial não é definitivo: o Congresso Nacional pode derrubá-lo por votação de maioria absoluta de deputados e senadores, em sessão conjunta, promulgando a lei mesmo contra a vontade do Executivo, o que ilustra o funcionamento do sistema de freios e contrapesos no processo legislativo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O quórum qualificado e a votação em dois turnos em cada Casa do Congresso Nacional para a aprovação de emendas constitucionais buscam conferir maior estabilidade e legitimidade às mudanças no texto constitucional, exigindo um consenso político mais amplo do que o necessário para a aprovação de leis ordinárias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Nas competências concorrentes, cabe à União estabelecer normas gerais sobre a matéria, podendo os estados legislar de forma suplementar e, na ausência de norma geral federal, exercer competência legislativa plena para atender a suas peculiaridades, mecanismo que busca equilibrar uniformidade nacional com autonomia estadual.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A intervenção federal é instrumento excepcional e temporário, previsto para hipóteses taxativas de grave comprometimento da ordem pública, da integridade territorial ou de princípios constitucionais sensíveis, estando sujeita a controle do Congresso Nacional e não representando extinção permanente da autonomia do estado afetado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A autonomia municipal se expressa, entre outros aspectos, na capacidade de cada município elaborar sua própria lei orgânica, eleger diretamente prefeitos e vereadores, e instituir e arrecadar tributos de sua competência, como o IPTU e o ISS, além de legislar sobre assuntos de interesse local.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O plebiscito é consultado previamente à edição de um ato legislativo ou administrativo, o referendo é convocado posteriormente à sua edição para ratificação ou rejeição popular, e a iniciativa popular de lei permite que cidadãos, mediante coleta de assinaturas em quantidade mínima definida constitucionalmente, apresentem diretamente projetos de lei ao Poder Legislativo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Diferentemente do controle difuso, que pode ser suscitado por qualquer parte em um processo, a ADI só pode ser proposta por um rol taxativo de legitimados previstos na Constituição, como o presidente da República, mesas do Congresso, partidos políticos com representação no Congresso e confederações sindicais, entre outros.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O mandado de segurança coletivo protege direito líquido e certo de um grupo determinado de pessoas, ameaçado ou violado por ato de autoridade pública, permitindo que entidades legitimadas, como partidos políticos e associações, defendam esses interesses sem que cada integrante do grupo precise ajuizar ação individual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O habeas corpus é o remédio constitucional destinado a proteger o direito de ir e vir, podendo ser utilizado sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder, diferentemente de outros remédios voltados à proteção de direitos de natureza distinta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O CNJ introduziu um mecanismo de controle externo sobre a administração e a atuação disciplinar do Poder Judiciário, sem interferir no conteúdo das decisões judiciais propriamente ditas, buscando maior eficiência, transparência e responsabilização administrativa e disciplinar dos magistrados, mantendo intacta a independência funcional dos juízes no julgamento dos processos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O CNMP controla a atuação administrativa e financeira do Ministério Público e o cumprimento dos deveres funcionais de seus membros, sem interferir no conteúdo das manifestações processuais de cada promotor ou procurador, preservando a independência funcional que caracteriza a atuação da instituição.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A independência funcional significa que cada membro do Ministério Público atua segundo sua própria convicção jurídica no exercício de suas atribuições, não estando sujeito a ordens hierárquicas quanto ao conteúdo de suas manifestações processuais, ainda que a instituição como um todo possua estrutura administrativa organizada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Tribunal de Contas da União, apesar do nome, não integra o Poder Judiciário: é órgão auxiliar do Poder Legislativo no exercício do controle externo da administração pública, dotado de autonomia técnica e administrativa próprias para exercer suas competências de fiscalização e julgamento de contas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A exigência de concurso público para ingresso em cargos efetivos está diretamente relacionada ao princípio da impessoalidade, que veda critérios pessoais ou de favorecimento no acesso a cargos públicos, assegurando que o ingresso se dê por critérios técnicos e objetivos, aplicáveis igualmente a todos os candidatos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A estabilidade do servidor público é justificada, entre outros argumentos, como forma de protegê-lo de pressões políticas indevidas, garantindo maior continuidade administrativa e imparcialidade técnica na execução de políticas públicas ao longo de diferentes governos, sem que isso signifique impossibilidade absoluta de exoneração nas hipóteses previstas em lei.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Mecanismos de avaliação de desempenho no setor público buscam criar incentivos para maior eficiência e qualidade na prestação de serviços, associando parte da progressão funcional ou da remuneração ao alcance de metas e resultados mensuráveis, sem necessariamente extinguir o regime de cargos efetivos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A Lei de Acesso à Informação estabelece que o acesso à informação pública é a regra geral, e o sigilo é a exceção, que deve ser justificada e fundamentada em hipóteses legais específicas, como segurança nacional ou proteção à intimidade, podendo qualquer cidadão, e não apenas jornalistas, solicitar informações aos órgãos públicos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Programas de integridade no setor público geralmente incluem códigos de conduta, canais de denúncia, treinamentos e mecanismos de gestão de riscos voltados a fortalecer a integridade institucional e a reduzir a ocorrência de irregularidades, articulando prevenção, detecção e resposta a práticas de corrupção e fraude.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O marco regulatório das organizações da sociedade civil buscou conferir maior transparência, segurança jurídica e padronização aos instrumentos de parceria entre o poder público e entidades sem fins lucrativos, estabelecendo regras mais claras de seleção, execução e prestação de contas dessas parcerias.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O terceiro setor caracteriza-se pela iniciativa privada com finalidade pública ou de interesse coletivo, sem objetivo de distribuição de lucros entre seus membros, ocupando um espaço institucional distinto tanto do Estado, responsável por políticas públicas, quanto do mercado, voltado à geração de lucro para seus proprietários.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Conselhos de políticas públicas com representação paritária de governo e sociedade civil são exemplos de mecanismos de democracia participativa, que buscam ampliar o controle social sobre a formulação e a execução de políticas públicas setoriais, complementando, sem substituir, os canais tradicionais da democracia representativa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O orçamento participativo tem como principal objetivo ampliar a participação direta da população na definição de prioridades de investimento público, fortalecendo mecanismos de democracia participativa em nível local, sem eliminar o papel do Poder Legislativo na aprovação final da peça orçamentária.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Ao prever competências comuns e concorrentes entre os entes federativos em áreas como saúde, educação e meio ambiente, a Constituição de 1988 aproxima-se do modelo de federalismo cooperativo, que pressupõe articulação e colaboração entre os diferentes níveis de governo, em contraste com o federalismo dual de esferas rigidamente separadas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As competências comuns previstas no artigo 23 exigem, para sua efetividade, mecanismos de cooperação e coordenação entre os entes federativos, já que a Constituição não estabelece, por si só, uma hierarquia rígida entre eles nessas matérias, cabendo a leis complementares fixar normas de cooperação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A regra de ouro das finanças públicas busca impedir que o endividamento público seja usado para financiar despesas correntes, como salários, restringindo-o, em princípio, ao financiamento de investimentos que ampliem a capacidade produtiva ou o patrimônio público, salvo autorização legislativa específica para exceções.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A renegociação de dívidas estaduais com a União busca evitar uma crise de solvência dos entes subnacionais, que poderia comprometer a prestação de serviços públicos essenciais como saúde e segurança, em troca de compromissos de ajuste fiscal e disciplina orçamentária assumidos pelos estados beneficiados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os consórcios públicos permitem ganhos de escala e viabilizam a prestação de serviços que seriam economicamente inviáveis para um único município executar isoladamente, especialmente em municípios pequenos, sem que isso implique a extinção da autonomia de cada ente consorciado ou a substituição da competência estadual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Estruturas de governança metropolitana buscam coordenar políticas públicas de interesse comum entre municípios vizinhos, especialmente em questões que ultrapassam os limites administrativos de um único município, como mobilidade urbana, saneamento e uso do solo, sem eliminar a autonomia política de cada ente municipal envolvido.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A repercussão geral permite que o STF selecione, entre os recursos extraordinários apresentados, aqueles que tratam de questões constitucionais relevantes do ponto de vista econômico, político, social ou jurídico, cuja decisão deve orientar o julgamento de casos semelhantes em todo o país, funcionando como filtro de acesso à Corte e mecanismo de uniformização de entendimentos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ação civil pública viabiliza a defesa judicial de interesses difusos e coletivos, que ultrapassam a esfera puramente individual, beneficiando de forma indivisível um número indeterminado ou determinável de pessoas, como no caso de danos ao meio ambiente ou ao patrimônio público.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Lei de Improbidade Administrativa prevê sanções de natureza civil, como o ressarcimento ao erário, a perda da função pública, a suspensão dos direitos políticos e o pagamento de multa civil, aplicadas de forma proporcional à gravidade do ato praticado, sem prejuízo de eventual responsabilização penal em processo distinto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-politica-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As ouvidorias públicas fortalecem canais de participação e controle social, permitindo que a população contribua diretamente, por meio de reclamações, sugestões e denúncias, para a melhoria da qualidade dos serviços públicos e para a identificação de irregularidades na atuação da administração.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      }
                  ]
 }

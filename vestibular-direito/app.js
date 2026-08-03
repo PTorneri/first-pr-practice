@@ -1682,6 +1682,7 @@
       ? `<div class="q-support">${escapeHtml(q.texto_apoio)}</div>`
       : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
+    const visualHtml = renderVisual(q.visual);
     // Selo de dificuldade: só questões novas (banco ampliado) têm o campo
     // `dificuldade` ("media"/"dificil") — questões antigas seguem sem selo.
     const difficultyHtml = q.dificuldade
@@ -1699,6 +1700,7 @@
     wrap.innerHTML = `
       ${tagHtml}
       ${supportHtml}
+      ${visualHtml}
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>
       <div class="q-feedback" hidden></div>
@@ -2415,6 +2417,35 @@
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
+  }
+
+  // Fontes visuais das questões: charge, tirinha, mapa, gráfico, obra de arte,
+  // esquema. As duas bancas usam muito — só na FGV 2026.1 há tirinha, gravura,
+  // charge, desenho de relatório do IHGB e gráfico do IBGE.
+  //
+  // `descricao` é obrigatória e não é legenda decorativa: é o que faz a questão
+  // continuar respondível enquanto o arquivo de imagem não existe, e é o texto
+  // alternativo quando ele existe. Por isso ela é renderizada mesmo com imagem.
+  //
+  // O caminho passa por uma whitelist estrita em vez de ir direto pro src. Todo
+  // o resto do app escapa os campos de dados (escapeHtml), então este é o único
+  // ponto em que conteúdo de arquivo de dados vira markup — e um caminho que
+  // aceitasse "javascript:" ou um host externo seria um furo aberto pelo
+  // próprio banco de questões.
+  const VISUAL_PATH_OK = /^assets\/[A-Za-z0-9._/-]+\.(svg|png|jpg|jpeg|webp)$/;
+
+  function renderVisual(visual) {
+    if (!visual || !visual.descricao) return "";
+    const arquivoOk = visual.arquivo && VISUAL_PATH_OK.test(visual.arquivo) && !visual.arquivo.includes("..");
+    const imgHtml = arquivoOk
+      ? `<img src="${escapeHtml(visual.arquivo)}" alt="${escapeHtml(visual.descricao)}" loading="lazy">`
+      : "";
+    const tipoHtml = visual.tipo ? `<span class="q-visual-tipo">${escapeHtml(visual.tipo)}</span>` : "";
+    return `
+      <figure class="q-visual${arquivoOk ? "" : " q-visual-sem-imagem"}">
+        ${imgHtml}
+        <figcaption>${tipoHtml}${escapeHtml(visual.descricao)}</figcaption>
+      </figure>`;
   }
 
   // ---------- Init ----------

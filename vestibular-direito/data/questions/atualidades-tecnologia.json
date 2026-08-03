@@ -12,7 +12,8 @@
                                               "d":  "aprendizado de máquina (machine learning)"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O aprendizado de máquina é uma abordagem de inteligência artificial em que o sistema identifica padrões a partir de grandes volumes de dados, ajustando seus parâmetros internos para melhorar seu desempenho em uma tarefa, em vez de seguir apenas regras explicitamente programadas."
+                         "explicacao":  "O aprendizado de máquina é uma abordagem de inteligência artificial em que o sistema identifica padrões a partir de grandes volumes de dados, ajustando seus parâmetros internos para melhorar seu desempenho em uma tarefa, em vez de seguir apenas regras explicitamente programadas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-02",
@@ -25,7 +26,8 @@
                                               "d":  "computação em nuvem, infraestrutura de TI fornecida sob demanda"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A inteligência artificial generativa refere-se a modelos capazes de criar novos conteúdos — textos, imagens, áudio, código — a partir de padrões estatísticos aprendidos em grandes volumes de dados de treinamento, diferentemente de sistemas voltados apenas à classificação ou previsão."
+                         "explicacao":  "A inteligência artificial generativa refere-se a modelos capazes de criar novos conteúdos — textos, imagens, áudio, código — a partir de padrões estatísticos aprendidos em grandes volumes de dados de treinamento, diferentemente de sistemas voltados apenas à classificação ou previsão.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-03",
@@ -38,7 +40,8 @@
                                               "d":  "viés algorítmico, reprodução de desigualdades dos dados"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O viés algorítmico ocorre quando um sistema de inteligência artificial reproduz ou amplifica desigualdades e discriminações presentes nos dados usados em seu treinamento, o que levanta questões éticas sobre o uso desses sistemas em decisões que afetam pessoas."
+                         "explicacao":  "O viés algorítmico ocorre quando um sistema de inteligência artificial reproduz ou amplifica desigualdades e discriminações presentes nos dados usados em seu treinamento, o que levanta questões éticas sobre o uso desses sistemas em decisões que afetam pessoas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-04",
@@ -51,7 +54,8 @@
                                               "d":  "afetar exclusivamente empregos de alta qualificação, ignorando o impacto sobre funções operacionais repetitivas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A automação tende a substituir tarefas rotineiras e repetitivas, tanto manuais quanto cognitivas, ao mesmo tempo em que pode criar novas ocupações ligadas ao desenvolvimento, manutenção e supervisão dessas tecnologias, exigindo requalificação da força de trabalho."
+                         "explicacao":  "A automação tende a substituir tarefas rotineiras e repetitivas, tanto manuais quanto cognitivas, ao mesmo tempo em que pode criar novas ocupações ligadas ao desenvolvimento, manutenção e supervisão dessas tecnologias, exigindo requalificação da força de trabalho.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-05",
@@ -64,7 +68,8 @@
                                               "d":  "a bolha de filtro (câmara de eco), efeito de isolamento informacional"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A bolha de filtro (ou câmara de eco) descreve o efeito de isolamento informacional causado pela personalização algorítmica de conteúdo, que tende a expor o usuário principalmente a informações e opiniões alinhadas às suas preferências prévias, reduzindo o contato com pontos de vista divergentes."
+                         "explicacao":  "A bolha de filtro (ou câmara de eco) descreve o efeito de isolamento informacional causado pela personalização algorítmica de conteúdo, que tende a expor o usuário principalmente a informações e opiniões alinhadas às suas preferências prévias, reduzindo o contato com pontos de vista divergentes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-06",
@@ -77,7 +82,8 @@
                                               "d":  "a veracidade comprovada de todo o conteúdo exibido, ainda que não seja checada previamente"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Como o modelo de negócio de muitas plataformas depende da atenção e do engajamento dos usuários, frequentemente associados à receita publicitária, os algoritmos de recomendação tendem a priorizar conteúdos que maximizam tempo de uso e interação, o que pode favorecer conteúdos polêmicos ou emocionalmente intensos."
+                         "explicacao":  "Como o modelo de negócio de muitas plataformas depende da atenção e do engajamento dos usuários, frequentemente associados à receita publicitária, os algoritmos de recomendação tendem a priorizar conteúdos que maximizam tempo de uso e interação, o que pode favorecer conteúdos polêmicos ou emocionalmente intensos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-07",
@@ -90,7 +96,8 @@
                                               "d":  "opinião divergente, expressão legítima de um ponto de vista distinto"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Desinformação (disinformation) refere-se à criação e disseminação deliberada e intencional de conteúdo falso para enganar, distinguindo-se da informação incorreta (misinformation), que é compartilhada por engano, sem intenção de causar dano."
+                         "explicacao":  "Desinformação (disinformation) refere-se à criação e disseminação deliberada e intencional de conteúdo falso para enganar, distinguindo-se da informação incorreta (misinformation), que é compartilhada por engano, sem intenção de causar dano.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-08",
@@ -103,7 +110,8 @@
                                               "d":  "autorização prévia do governo federal para cada dado pessoal tratado"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A LGPD estabelece que o tratamento de dados pessoais deve ocorrer para finalidades específicas, explícitas e legítimas, informadas previamente ao titular, que deve, em regra, consentir com esse uso ou ter outra base legal que o justifique."
+                         "explicacao":  "A LGPD estabelece que o tratamento de dados pessoais deve ocorrer para finalidades específicas, explícitas e legítimas, informadas previamente ao titular, que deve, em regra, consentir com esse uso ou ter outra base legal que o justifique.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-09",
@@ -116,7 +124,8 @@
                                               "d":  "dados sensíveis, categoria protegida com rigor pela legislação"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Dados sensíveis são categorias de dados pessoais — como origem étnica, convicção religiosa, dado de saúde ou biométrico — que recebem proteção jurídica reforçada, dado seu maior potencial de causar discriminação ou dano ao titular caso sejam tratados de forma inadequada."
+                         "explicacao":  "Dados sensíveis são categorias de dados pessoais — como origem étnica, convicção religiosa, dado de saúde ou biométrico — que recebem proteção jurídica reforçada, dado seu maior potencial de causar discriminação ou dano ao titular caso sejam tratados de forma inadequada.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-10",
@@ -129,7 +138,8 @@
                                               "d":  "economia de escala, redução de custo médio com o aumento da produção"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O efeito de rede ocorre quando o valor de um produto ou serviço para cada usuário aumenta conforme cresce o número total de usuários, fenômeno comum em plataformas digitais como redes sociais, aplicativos de mensagens e marketplaces."
+                         "explicacao":  "O efeito de rede ocorre quando o valor de um produto ou serviço para cada usuário aumenta conforme cresce o número total de usuários, fenômeno comum em plataformas digitais como redes sociais, aplicativos de mensagens e marketplaces.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-11",
@@ -142,7 +152,8 @@
                                               "d":  "economia planificada, sistema de decisões centralizadas pelo Estado, sem mercado livre"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A gig economy (economia de bicos ou de plataformas) caracteriza-se pela intermediação digital de serviços prestados de forma flexível e sob demanda, geralmente sem vínculo empregatício formal, o que gera debate sobre direitos trabalhistas e proteção social desses trabalhadores."
+                         "explicacao":  "A gig economy (economia de bicos ou de plataformas) caracteriza-se pela intermediação digital de serviços prestados de forma flexível e sob demanda, geralmente sem vínculo empregatício formal, o que gera debate sobre direitos trabalhistas e proteção social desses trabalhadores.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-12",
@@ -155,7 +166,8 @@
                                               "d":  "domínio público obrigatório, categoria aplicável a obras sem proteção autoral"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O direito ao esquecimento discute até que ponto um indivíduo pode solicitar a remoção ou desindexação de informações verídicas, mas antigas e sem relevância pública atual, ponderando esse interesse com a liberdade de expressão e o interesse público à informação."
+                         "explicacao":  "O direito ao esquecimento discute até que ponto um indivíduo pode solicitar a remoção ou desindexação de informações verídicas, mas antigas e sem relevância pública atual, ponderando esse interesse com a liberdade de expressão e o interesse público à informação.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-13",
@@ -168,7 +180,8 @@
                                               "d":  "portabilidade numérica, direito de manter o número ao trocar de operadora"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A neutralidade de rede é o princípio segundo o qual provedores de internet devem tratar de forma isonômica todo o tráfego de dados, sem discriminar, bloquear ou priorizar comercialmente determinados aplicativos, sites ou serviços em detrimento de outros."
+                         "explicacao":  "A neutralidade de rede é o princípio segundo o qual provedores de internet devem tratar de forma isonômica todo o tráfego de dados, sem discriminar, bloquear ou priorizar comercialmente determinados aplicativos, sites ou serviços em detrimento de outros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-14",
@@ -181,7 +194,8 @@
                                               "d":  "a inexistência de qualquer legislação de direitos autorais vigente atualmente no mundo"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O uso de obras protegidas por direitos autorais para treinar modelos de inteligência artificial generativa, sem autorização ou remuneração aos autores originais, é um dos principais pontos de disputa jurídica contemporânea envolvendo propriedade intelectual e novas tecnologias."
+                         "explicacao":  "O uso de obras protegidas por direitos autorais para treinar modelos de inteligência artificial generativa, sem autorização ou remuneração aos autores originais, é um dos principais pontos de disputa jurídica contemporânea envolvendo propriedade intelectual e novas tecnologias.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-15",
@@ -194,7 +208,8 @@
                                               "d":  "letramento digital"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O letramento digital envolve não apenas a habilidade técnica de operar dispositivos e aplicativos, mas também a capacidade de avaliar criticamente informações, reconhecer riscos e utilizar tecnologias digitais de forma segura, ética e eficaz."
+                         "explicacao":  "O letramento digital envolve não apenas a habilidade técnica de operar dispositivos e aplicativos, mas também a capacidade de avaliar criticamente informações, reconhecer riscos e utilizar tecnologias digitais de forma segura, ética e eficaz.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-16",
@@ -207,7 +222,8 @@
                                               "d":  "neutralidade de rede, princípio de isonomia no tráfego de dados"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A exclusão digital, ou fosso digital, refere-se às desigualdades de acesso à internet, a dispositivos e a competências digitais entre diferentes grupos sociais, regiões ou países, o que pode aprofundar desigualdades socioeconômicas preexistentes na era digital."
+                         "explicacao":  "A exclusão digital, ou fosso digital, refere-se às desigualdades de acesso à internet, a dispositivos e a competências digitais entre diferentes grupos sociais, regiões ou países, o que pode aprofundar desigualdades socioeconômicas preexistentes na era digital.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-17",
@@ -220,7 +236,8 @@
                                               "d":  "neutralidade de rede"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A engenharia social refere-se a técnicas de manipulação psicológica utilizadas para induzir uma pessoa a fornecer informações sigilosas ou realizar ações que comprometam sua segurança, como no caso de golpes de phishing, explorando a confiança ou o desconhecimento da vítima, e não apenas falhas técnicas de sistemas."
+                         "explicacao":  "A engenharia social refere-se a técnicas de manipulação psicológica utilizadas para induzir uma pessoa a fornecer informações sigilosas ou realizar ações que comprometam sua segurança, como no caso de golpes de phishing, explorando a confiança ou o desconhecimento da vítima, e não apenas falhas técnicas de sistemas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-18",
@@ -233,7 +250,8 @@
                                               "d":  "unilateral estatal, decidido isoladamente pelo governo"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O modelo multissetorial (multistakeholder) de governança da internet caracteriza-se pela participação conjunta de governos, setor privado, sociedade civil, comunidade técnica e academia na definição de normas e políticas para o funcionamento da rede, em contraste com modelos de decisão exclusivamente estatais."
+                         "explicacao":  "O modelo multissetorial (multistakeholder) de governança da internet caracteriza-se pela participação conjunta de governos, setor privado, sociedade civil, comunidade técnica e academia na definição de normas e políticas para o funcionamento da rede, em contraste com modelos de decisão exclusivamente estatais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-19",
@@ -246,7 +264,8 @@
                                               "d":  "ransomware, sequestro de dados mediante criptografia"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O ransomware é um tipo de programa malicioso que criptografa os arquivos da vítima, tornando-os inacessíveis, e exige pagamento de resgate para restabelecer o acesso, sendo uma das ameaças cibernéticas mais relevantes para empresas e órgãos públicos na atualidade."
+                         "explicacao":  "O ransomware é um tipo de programa malicioso que criptografa os arquivos da vítima, tornando-os inacessíveis, e exige pagamento de resgate para restabelecer o acesso, sendo uma das ameaças cibernéticas mais relevantes para empresas e órgãos públicos na atualidade.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-20",
@@ -259,7 +278,8 @@
                                               "d":  "eliminar por completo a exibição de produções estrangeiras no país, prática vedada por acordos comerciais"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Políticas de cota de tela buscam proteger a diversidade cultural e viabilizar a produção audiovisual nacional, garantindo espaço de exibição diante da concorrência de grandes estúdios internacionais com maior poder de distribuição, sem que isso implique a exclusão total de produções estrangeiras do mercado."
+                         "explicacao":  "Políticas de cota de tela buscam proteger a diversidade cultural e viabilizar a produção audiovisual nacional, garantindo espaço de exibição diante da concorrência de grandes estúdios internacionais com maior poder de distribuição, sem que isso implique a exclusão total de produções estrangeiras do mercado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-21",
@@ -272,7 +292,8 @@
                                               "d":  "automação hospitalar mecânica, robótica aplicada a procedimentos"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A telemedicina refere-se à prestação de serviços de saúde à distância, por meio de tecnologias digitais, incluindo consultas remotas, monitoramento de pacientes e emissão de laudos, ampliando o acesso a cuidados médicos, sobretudo em regiões com menor oferta de profissionais."
+                         "explicacao":  "A telemedicina refere-se à prestação de serviços de saúde à distância, por meio de tecnologias digitais, incluindo consultas remotas, monitoramento de pacientes e emissão de laudos, ampliando o acesso a cuidados médicos, sobretudo em regiões com menor oferta de profissionais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-22",
@@ -285,7 +306,8 @@
                                               "d":  "a impossibilidade técnica de qualquer forma de avaliação de aprendizagem a distância, hipótese sem respaldo prático"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Apesar de ampliar o acesso à educação em determinados contextos, o ensino a distância mediado por tecnologia pode aprofundar desigualdades educacionais quando parte dos estudantes não possui acesso adequado a internet, dispositivos ou ambiente propício ao estudo, fenômeno associado à exclusão digital."
+                         "explicacao":  "Apesar de ampliar o acesso à educação em determinados contextos, o ensino a distância mediado por tecnologia pode aprofundar desigualdades educacionais quando parte dos estudantes não possui acesso adequado a internet, dispositivos ou ambiente propício ao estudo, fenômeno associado à exclusão digital.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-23",
@@ -298,7 +320,8 @@
                                               "d":  "audiência compartilhada, medida por institutos de pesquisa"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O binge-watching, ou maratona de episódios, é o padrão de consumo audiovisual caracterizado pela visualização de vários episódios ou de uma temporada inteira em sequência, viabilizado pelo modelo de disponibilização integral de conteúdo adotado por plataformas de streaming, em contraste com a grade fixa de horários da TV aberta tradicional."
+                         "explicacao":  "O binge-watching, ou maratona de episódios, é o padrão de consumo audiovisual caracterizado pela visualização de vários episódios ou de uma temporada inteira em sequência, viabilizado pelo modelo de disponibilização integral de conteúdo adotado por plataformas de streaming, em contraste com a grade fixa de horários da TV aberta tradicional.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-24",
@@ -311,7 +334,8 @@
                                               "d":  "a exigência legal de que toda produção estrangeira seja obrigatoriamente refeita em produção local antes de sua exibição"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O sucesso global de séries não faladas em inglês exemplifica um processo de globalização cultural viabilizado pela distribuição digital das plataformas de streaming, que reduzem barreiras de acesso e ampliam a circulação internacional de produções audiovisuais de diferentes origens nacionais e linguísticas, sem que isso implique a substituição das produções locais de cada país."
+                         "explicacao":  "O sucesso global de séries não faladas em inglês exemplifica um processo de globalização cultural viabilizado pela distribuição digital das plataformas de streaming, que reduzem barreiras de acesso e ampliam a circulação internacional de produções audiovisuais de diferentes origens nacionais e linguísticas, sem que isso implique a substituição das produções locais de cada país.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-25",
@@ -324,7 +348,8 @@
                                               "d":  "criptomoeda, ativo digital baseado em blockchain"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Deepfakes são conteúdos audiovisuais sintéticos gerados por inteligência artificial, capazes de simular de forma realista a fala ou as ações de uma pessoa que, na realidade, não ocorreram, levantando preocupações relacionadas à desinformação, fraudes e violação de imagem."
+                         "explicacao":  "Deepfakes são conteúdos audiovisuais sintéticos gerados por inteligência artificial, capazes de simular de forma realista a fala ou as ações de uma pessoa que, na realidade, não ocorreram, levantando preocupações relacionadas à desinformação, fraudes e violação de imagem.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-26",
@@ -337,7 +362,8 @@
                                               "d":  "realidade aumentada, sobreposição de elementos digitais ao ambiente"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A realidade aumentada sobrepõe elementos digitais gerados por computador ao ambiente físico real percebido pelo usuário, diferentemente da realidade virtual, que substitui integralmente o ambiente real por um ambiente simulado."
+                         "explicacao":  "A realidade aumentada sobrepõe elementos digitais gerados por computador ao ambiente físico real percebido pelo usuário, diferentemente da realidade virtual, que substitui integralmente o ambiente real por um ambiente simulado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-27",
@@ -350,7 +376,8 @@
                                               "d":  "informar o espectador sobre a natureza do conteúdo, permitindo uma escolha mais consciente sobre o que assistir"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Avisos de conteúdo e classificação indicativa mais detalhada buscam informar o espectador sobre a natureza do material antes de assisti-lo, permitindo uma escolha mais consciente sobre o que consumir, sem que isso represente, em geral, uma proibição de acesso à obra em si, convivendo com o debate mais amplo sobre liberdade artística e proteção do público."
+                         "explicacao":  "Avisos de conteúdo e classificação indicativa mais detalhada buscam informar o espectador sobre a natureza do material antes de assisti-lo, permitindo uma escolha mais consciente sobre o que consumir, sem que isso represente, em geral, uma proibição de acesso à obra em si, convivendo com o debate mais amplo sobre liberdade artística e proteção do público.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-28",
@@ -363,7 +390,8 @@
                                               "d":  "eliminar totalmente a existência de gêneros musicais menos populares em todas as plataformas de streaming"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A curadoria musical automatizada, ao se basear no histórico de audição do usuário, tende a reforçar preferências já existentes e priorizar conteúdos já populares, o que pode reduzir a exposição a artistas e gêneros musicais menos convencionais — fenômeno análogo à bolha de filtro observada em outras plataformas digitais, discutido no debate sobre diversidade cultural na era do streaming."
+                         "explicacao":  "A curadoria musical automatizada, ao se basear no histórico de audição do usuário, tende a reforçar preferências já existentes e priorizar conteúdos já populares, o que pode reduzir a exposição a artistas e gêneros musicais menos convencionais — fenômeno análogo à bolha de filtro observada em outras plataformas digitais, discutido no debate sobre diversidade cultural na era do streaming.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-29",
@@ -376,7 +404,8 @@
                                               "d":  "a obrigatoriedade legal de dispensarem qualquer forma de auditoria ou fiscalização externa"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Modelos automatizados de concessão de crédito, quando treinados com dados históricos que refletem desigualdades sociais, podem reproduzir ou amplificar discriminações contra grupos já marginalizados, o que tem motivado debates sobre transparência e auditoria desses sistemas."
+                         "explicacao":  "Modelos automatizados de concessão de crédito, quando treinados com dados históricos que refletem desigualdades sociais, podem reproduzir ou amplificar discriminações contra grupos já marginalizados, o que tem motivado debates sobre transparência e auditoria desses sistemas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-30",
@@ -389,7 +418,8 @@
                                               "d":  "a impossibilidade técnica de esses veículos utilizarem qualquer tipo de sensor ou câmera"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O desenvolvimento de veículos autônomos enfrenta desafios relacionados à segurança em situações imprevistas do trânsito, além de questões éticas e jurídicas sobre a responsabilidade em caso de acidentes causados por decisões tomadas pelo próprio sistema, e não por um motorista humano."
+                         "explicacao":  "O desenvolvimento de veículos autônomos enfrenta desafios relacionados à segurança em situações imprevistas do trânsito, além de questões éticas e jurídicas sobre a responsabilidade em caso de acidentes causados por decisões tomadas pelo próprio sistema, e não por um motorista humano.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-31",
@@ -402,7 +432,8 @@
                                               "d":  "a total impossibilidade técnica de esses sistemas operarem em tempo real em espaços públicos"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A expansão de sistemas de reconhecimento facial em espaços públicos gera preocupações relacionadas à privacidade e à vigilância em massa, além de evidências de que taxas de erro de identificação podem variar entre diferentes grupos populacionais, o que pode aprofundar discriminações."
+                         "explicacao":  "A expansão de sistemas de reconhecimento facial em espaços públicos gera preocupações relacionadas à privacidade e à vigilância em massa, além de evidências de que taxas de erro de identificação podem variar entre diferentes grupos populacionais, o que pode aprofundar discriminações.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-32",
@@ -415,7 +446,8 @@
                                               "d":  "distribuir a receita de forma idêntica entre todos os artistas da plataforma, independentemente do número de reproduções"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O modelo de remuneração proporcional ao número total de reproduções tende a concentrar a maior parte da receita das plataformas de streaming nos artistas e faixas mais ouvidos, o que é criticado por artistas independentes e de nicho, que recebem parcela proporcionalmente menor mesmo tendo um público fiel, ainda que numericamente menor."
+                         "explicacao":  "O modelo de remuneração proporcional ao número total de reproduções tende a concentrar a maior parte da receita das plataformas de streaming nos artistas e faixas mais ouvidos, o que é criticado por artistas independentes e de nicho, que recebem parcela proporcionalmente menor mesmo tendo um público fiel, ainda que numericamente menor.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-33",
@@ -428,7 +460,8 @@
                                               "d":  "firmwares embarcados, programas gravados diretamente no hardware"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Softwares livres, ou de código aberto, disponibilizam seu código-fonte publicamente sob licenças que permitem a qualquer pessoa examiná-lo, modificá-lo e redistribuí-lo, em contraste com softwares proprietários, cujo código-fonte é fechado e de propriedade exclusiva da empresa desenvolvedora."
+                         "explicacao":  "Softwares livres, ou de código aberto, disponibilizam seu código-fonte publicamente sob licenças que permitem a qualquer pessoa examiná-lo, modificá-lo e redistribuí-lo, em contraste com softwares proprietários, cujo código-fonte é fechado e de propriedade exclusiva da empresa desenvolvedora.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-34",
@@ -441,7 +474,8 @@
                                               "d":  "unicórnios, termo do mercado de capital de risco"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O termo \"unicórnio\" é usado para designar startups de tecnologia que atingem valoração de mercado superior a um bilhão de dólares antes de realizar uma oferta pública inicial de ações (IPO), sendo um indicador do potencial de crescimento percebido por investidores."
+                         "explicacao":  "O termo \"unicórnio\" é usado para designar startups de tecnologia que atingem valoração de mercado superior a um bilhão de dólares antes de realizar uma oferta pública inicial de ações (IPO), sendo um indicador do potencial de crescimento percebido por investidores.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-35",
@@ -454,7 +488,8 @@
                                               "d":  "engenharia reversa, análise do funcionamento de sistemas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A moderação de conteúdo refere-se ao conjunto de políticas e práticas adotadas por plataformas digitais para definir, identificar e aplicar regras sobre quais conteúdos podem permanecer disponíveis, removendo ou restringindo materiais que violem essas diretrizes, o que gera debates sobre liberdade de expressão e responsabilidade das plataformas."
+                         "explicacao":  "A moderação de conteúdo refere-se ao conjunto de políticas e práticas adotadas por plataformas digitais para definir, identificar e aplicar regras sobre quais conteúdos podem permanecer disponíveis, removendo ou restringindo materiais que violem essas diretrizes, o que gera debates sobre liberdade de expressão e responsabilidade das plataformas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-36",
@@ -468,7 +503,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A obsolescência programada refere-se à prática, atribuída a alguns fabricantes, de projetar produtos com vida útil deliberadamente limitada ou dificuldade de reparo, estimulando o descarte e a substituição por novos modelos, o que gera críticas do ponto de vista ambiental e de defesa do consumidor.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-37",
@@ -482,7 +518,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Sistemas de IA aplicados ao diagnóstico médico são majoritariamente utilizados como ferramentas de apoio à decisão, ampliando a capacidade de triagem e detecção precoce de doenças, mas a responsabilidade final pela conduta clínica permanece do profissional de saúde, que deve validar os resultados apontados pelo sistema.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-38",
@@ -496,7 +533,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A substituição de atendentes humanos por chatbots em tarefas rotineiras e padronizáveis é um exemplo concreto do debate sobre automação e mercado de trabalho, que discute tanto a eliminação de postos de trabalho quanto a necessidade de requalificação profissional para novas funções.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-39",
@@ -510,7 +548,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A precificação dinâmica, ou surge pricing, é o mecanismo algorítmico que ajusta automaticamente o preço de um serviço em tempo real conforme variações na relação entre oferta e demanda, prática comum em aplicativos de transporte e hospedagem, que gera debate sobre transparência e equidade no acesso ao serviço.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-40",
@@ -524,7 +563,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A discriminação de preços algorítmica ocorre quando plataformas digitais utilizam dados pessoais coletados sobre cada usuário para personalizar o preço exibido, cobrando valores diferentes de pessoas distintas pelo mesmo produto ou serviço, o que levanta questões éticas e regulatórias sobre transparência e equidade no comércio digital.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-41",
@@ -538,7 +578,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Moderadores de conteúdo, muitas vezes contratados por empresas terceirizadas em condições de trabalho precárias, são expostos repetidamente a materiais extremos durante a análise manual de denúncias, o que tem sido associado a impactos significativos à saúde mental, evidenciando um custo humano pouco visível da moderação de plataformas digitais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-42",
@@ -552,7 +593,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Corretoras de dados (data brokers) são empresas especializadas em coletar, agregar e comercializar dados pessoais obtidos de múltiplas fontes, muitas vezes sem contato direto com o titular, para construir perfis detalhados revendidos a terceiros, prática que levanta preocupações relevantes sobre privacidade e consentimento.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-43",
@@ -566,7 +608,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O rastreamento cross-site ocorre quando cookies ou outras tecnologias de terceiros acompanham o comportamento de um mesmo usuário em diferentes sites, permitindo a construção de perfis de navegação detalhados, prática que tem sido alvo de restrições crescentes por navegadores e legislações de proteção de dados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-44",
@@ -580,7 +623,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Dark patterns são padrões de design de interface elaborados deliberadamente para induzir o usuário a tomar decisões que favorecem a empresa, como aceitar o compartilhamento de dados, dificultando visualmente as opções que protegeriam mais seus interesses, o que fragiliza a ideia de consentimento verdadeiramente informado e livre exigida por legislações de proteção de dados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-45",
@@ -594,7 +638,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Premiações cinematográficas de grande visibilidade funcionam não apenas como reconhecimento de qualidade artística, mas também como instituições culturais cujos critérios de indicação e escolha são objeto de disputas sobre representatividade de gênero, raça e nacionalidade, refletindo debates mais amplos da sociedade sobre diversidade no meio audiovisual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-46",
@@ -608,7 +653,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A LGPD estabelece o dever de comunicar incidentes de segurança que possam acarretar risco ou dano relevante aos titulares, tanto à autoridade nacional de proteção de dados quanto aos próprios titulares afetados, além de prever a possibilidade de responsabilização civil da empresa pelos danos causados, independentemente da origem do ataque.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-47",
@@ -622,7 +668,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O direito à portabilidade de dados permite que o titular solicite a transferência de seus dados pessoais de um fornecedor a outro, de forma estruturada, favorecendo a concorrência entre serviços e reduzindo o efeito de aprisionamento do usuário a uma única plataforma.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-48",
@@ -636,7 +683,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Dados pseudonimizados removem identificadores diretos, mas mantêm a possibilidade de reassociação ao titular por meio de informação adicional guardada separadamente, permanecendo sujeitos, em regra, à legislação de proteção de dados; já os dados efetivamente anonimizados eliminam de forma irreversível a possibilidade de identificação do titular, recebendo tratamento jurídico distinto.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-49",
@@ -650,7 +698,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A expansão de sistemas de vigilância estatal apoiados por tecnologia levanta preocupações sobre o risco de uso desproporcional ou desviado desses sistemas para monitorar e reprimir opositores, jornalistas e ativistas, além dos efeitos de autocensura sobre a população em geral diante da sensação de vigilância constante, tema central do debate sobre direitos humanos e tecnologia.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-50",
@@ -664,7 +713,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Embora sistemas de cidades inteligentes possam gerar ganhos de eficiência na gestão urbana, sua expansão levanta preocupações relevantes sobre privacidade e proteção de dados, dado o grande volume de informações coletadas sobre o comportamento e os deslocamentos dos cidadãos por meio de sensores e câmeras.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-51",
@@ -678,7 +728,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Diante de evidências que associam o uso intenso de redes sociais a impactos na saúde mental de adolescentes, tem crescido o debate sobre medidas regulatórias e de design de produto, como restrições de idade mínima, limites de tempo de uso e ajustes em recursos que incentivam o engajamento contínuo voltados a esse público.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-52",
@@ -692,7 +743,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Técnicas de design persuasivo, como rolagem infinita e notificações constantes, têm sido criticadas por explorar mecanismos psicológicos de recompensa semelhantes aos de jogos de azar, priorizando o tempo de tela e o engajamento do usuário em detrimento de seu bem-estar, crítica levantada inclusive por ex-profissionais que atuaram no design dessas plataformas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-53",
@@ -706,7 +758,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A economia da atenção descreve o modelo em que a atenção limitada dos usuários se torna um recurso escasso disputado por plataformas digitais e anunciantes, o que explica em grande parte o design voltado a maximizar tempo de uso e engajamento observado em muitos aplicativos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-54",
@@ -720,7 +773,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A preocupação com a integridade eleitoral diante da desinformação em redes sociais reforça a importância de mecanismos de transparência sobre publicidade política, combate a perfis automatizados inautênticos usados para amplificar conteúdo e investimento em educação midiática, que capacite o eleitor a avaliar criticamente as informações recebidas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-55",
@@ -734,7 +788,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Estudos sobre a circulação de informação em redes sociais indicam que conteúdos falsos costumam se espalhar mais rápido e mais amplamente do que as checagens que os desmentem, e parte do público que teve contato com a informação falsa original não chega a ser exposta à correção, o que limita, embora não elimine, a eficácia isolada da checagem de fatos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-56",
@@ -748,7 +803,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O debate sobre a responsabilidade de plataformas por conteúdo de terceiros busca equilibrar a necessidade de coibir danos causados por conteúdo ilícito, como discurso de ódio ou desinformação, com o risco de que uma responsabilização excessivamente ampla incentive a remoção preventiva de conteúdo legítimo, efeito conhecido como silenciamento (chilling effect) sobre a liberdade de expressão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-57",
@@ -762,7 +818,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Como plataformas digitais são empresas privadas que definem suas próprias políticas de moderação, a liberdade de expressão nesses ambientes é também condicionada por regras contratuais, e não apenas pela legislação estatal, o que tem levado ao debate sobre até que ponto essas plataformas exercem, na prática, um papel quase público na regulação do discurso e sobre os limites dessa autonomia privada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-58",
@@ -776,7 +833,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A concentração de mercado em poucas grandes empresas de tecnologia (big techs) tem motivado investigações antitruste em diferentes países, voltadas a avaliar práticas potencialmente anticompetitivas e a propor medidas de defesa da concorrência, como restrições a fusões e aquisições ou exigências regulatórias de interoperabilidade entre serviços.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-59",
@@ -790,7 +848,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A interoperabilidade é a exigência regulatória de que serviços digitais de diferentes provedores sejam tecnicamente compatíveis entre si, discutida como possível remédio antitruste para reduzir o poder de mercado de grandes plataformas e diminuir o chamado efeito de aprisionamento do usuário (lock-in) a um único ecossistema.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-60",
@@ -804,7 +863,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A tributação de empresas digitais tem sido discutida internacionalmente com base na ideia de considerar o local de geração de valor a partir da atividade dos usuários e dos dados, e não apenas o critério tradicional de presença física da empresa em um território, buscando adaptar regras tributárias concebidas para uma economia menos digitalizada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-61",
@@ -818,7 +878,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Estudos sobre os efeitos do trabalho remoto na produtividade apresentam resultados mistos, que variam conforme o tipo de tarefa, o setor da economia e o modelo de gestão adotado pela empresa, não havendo consenso definitivo de que o modelo remoto seja uniformemente mais ou menos produtivo do que o presencial.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-62",
@@ -832,7 +893,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O nomadismo digital levanta desafios jurídicos relacionados a regras de residência fiscal, exigências de visto e proteção previdenciária e trabalhista, já que legislações nacionais tradicionais foram concebidas para relações de trabalho vinculadas a um local físico determinado, o que gera incerteza jurídica para quem trabalha remotamente a partir de diferentes países.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-63",
@@ -846,7 +908,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A expansão da intermediação digital para profissões qualificadas é vista como extensão da lógica de uberização (ou plataformização) do trabalho, caracterizada pela contratação flexível por projeto, fragmentação de tarefas e frequente ausência de vínculo empregatício tradicional, o que estende a discussão sobre direitos trabalhistas de entregadores a categorias de maior escolaridade e renda.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-64",
@@ -860,7 +923,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A organização coletiva de trabalhadores de plataformas digitais representa uma tentativa de exercer, na prática, direitos associados à liberdade sindical e à negociação coletiva, ainda que o enquadramento jurídico dessa relação de trabalho (empregado, autônomo ou categoria intermediária) permaneça incerto e seja objeto de disputa em diferentes países.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-65",
@@ -874,7 +938,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O debate sobre IA generativa na educação concentra-se em distinguir usos que apoiam o processo de aprendizagem daqueles que substituem integralmente o esforço intelectual do estudante, levando instituições a repensar métodos de avaliação, como maior peso a avaliações orais ou presenciais, diante da dificuldade de detectar com segurança textos gerados por IA.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-66",
@@ -888,7 +953,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A alucinação, no contexto de modelos de linguagem, refere-se à geração de informações falsas ou sem fundamento real pelo sistema, apresentadas de forma linguisticamente coerente e confiante, o que exige verificação humana das informações fornecidas por esses modelos, sobretudo em contextos que exigem precisão factual.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-67",
@@ -902,7 +968,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O caso de sistemas com alta acurácia média, mas desempenho desigual entre subgrupos, ilustra que métricas agregadas podem mascarar disparidades relevantes de erro entre diferentes grupos populacionais, reforçando a importância de avaliar sistemas de IA também por critérios de equidade (fairness) entre grupos, e não apenas pela precisão geral do modelo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-68",
@@ -916,7 +983,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diante da substituição de tarefas repetitivas por sistemas automatizados na indústria, um dos principais desafios de política pública é viabilizar programas de requalificação profissional que permitam a realocação de trabalhadores deslocados para funções que exijam competências distintas, muitas vezes ligadas à supervisão e manutenção dos próprios sistemas automatizados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-69",
@@ -930,7 +998,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O reconhecimento crescente de jogos eletrônicos por instituições culturais evidencia sua incorporação ao debate sobre cultura de massa contemporânea, ao lado de formas mais tradicionais como cinema, televisão e música, tanto pelo alcance de público global quanto pelo potencial narrativo e artístico reconhecido em parte da produção do setor.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-70",
@@ -944,7 +1013,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A inclusão financeira promovida por fintechs refere-se à ampliação do acesso a serviços bancários e financeiros básicos, como conta digital, pagamentos e crédito, a populações antes excluídas do sistema financeiro tradicional, muitas vezes por meio de aplicativos acessíveis a partir de um smartphone com custos operacionais mais baixos do que agências físicas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-71",
@@ -958,7 +1028,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A bancarização via smartphone em áreas remotas reduz os custos de deslocamento e o tempo necessário para realizar transações financeiras básicas, ampliando a inclusão financeira de populações que, de outra forma, dependeriam de deslocamentos longos até agências físicas em centros urbanos maiores.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-72",
@@ -972,7 +1043,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A alta volatilidade de preços de diversas criptomoedas dificulta seu uso amplo como reserva de valor estável e meio de troca cotidiano, funções tradicionalmente associadas à moeda, ainda que continuem sendo utilizadas como ativo especulativo ou de diversificação por parte de investidores.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-73",
@@ -986,7 +1058,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A predominância de remakes, sequências e adaptações de franquias consagradas em produções de grande orçamento é frequentemente explicada pela tentativa dos estúdios de reduzir o risco financeiro de projetos caros, apostando em marcas e personagens já reconhecidos pelo público, o que gera debate sobre os efeitos dessa lógica sobre a diversidade e a originalidade da produção cinematográfica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-74",
@@ -1000,7 +1073,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O metaverso refere-se a ambientes digitais tridimensionais persistentes e imersivos, acessados por dispositivos como óculos de realidade virtual, nos quais usuários interagem por meio de avatares, tecnologia promovida por diversas empresas como uma possível nova fase de interação social e comercial na internet, ainda em consolidação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-75",
@@ -1014,7 +1088,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As loot boxes, por envolverem pagamento em troca de um resultado aleatório e incerto, têm sido comparadas por parte de legisladores e pesquisadores a mecanismos de apostas, o que motivou debates em diferentes países sobre sua regulação, sobretudo em jogos acessados por crianças e adolescentes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-76",
@@ -1028,7 +1103,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A principal preocupação de privacidade envolvendo assistentes de voz domésticos é a possibilidade de captação e armazenamento de trechos de áudio além do estritamente necessário para o comando reconhecido, incluindo eventuais conversas privadas captadas por ativação acidental, o que tem levado fabricantes a detalhar políticas de retenção e revisão humana desses áudios.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-77",
@@ -1042,7 +1118,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Dados de saúde coletados por dispositivos vestíveis, como frequência cardíaca e padrões de sono, são classificados como dados sensíveis por legislações de proteção de dados, sujeitos a exigências mais rigorosas de tratamento, dado seu maior potencial de gerar discriminação ou dano ao titular caso sejam utilizados de forma inadequada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-78",
@@ -1056,7 +1133,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A coleta contínua de dados por veículos conectados levanta questões jurídicas sobre a propriedade e o controle desses dados, e sobre em que condições fabricantes, seguradoras ou autoridades públicas podem acessá-los, tema que se conecta diretamente ao debate mais amplo sobre proteção de dados pessoais e privacidade na era digital.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-79",
@@ -1070,7 +1148,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A digitalização de infraestruturas críticas, como energia, água e saneamento, torna a cibersegurança desses setores uma questão de segurança nacional e de continuidade de serviços essenciais, já que um ataque bem-sucedido pode interromper o fornecimento desses serviços a grandes contingentes populacionais, com efeitos que extrapolam o âmbito puramente técnico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-80",
@@ -1084,7 +1163,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A guerra cibernética refere-se a ações hostis conduzidas no ambiente digital entre Estados ou grupos por eles patrocinados, com objetivos como espionagem, sabotagem de infraestrutura ou desestabilização política, representando uma dimensão contemporânea de conflitos internacionais que não se limita ao confronto militar tradicional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-81",
@@ -1098,7 +1178,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O conceito de soberania digital envolve políticas voltadas a reduzir vulnerabilidades estratégicas associadas à dependência de infraestrutura digital controlada por um número reduzido de atores estrangeiros — como serviços de nuvem e hardware —, sem que isso implique necessariamente o rompimento completo da cooperação e integração tecnológica internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-82",
@@ -1112,7 +1193,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A dublagem envolve um processo de tradução e adaptação cultural mais amplo do que a legendagem, podendo incluir ajustes de piadas, expressões idiomáticas e referências culturais ao contexto do público local, além da substituição integral do áudio original, o que gera debates sobre fidelidade à obra original e sobre as preferências de consumo do público em diferentes países.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-83",
@@ -1126,7 +1208,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O crescimento do gênero true crime nas plataformas de streaming tem sido acompanhado de debate ético sobre os limites entre seu potencial interesse jornalístico e educativo e o risco de exploração sensacionalista do sofrimento de vítimas e familiares, além de preocupações sobre a possível influência desse tipo de produção sobre a percepção pública de processos judiciais ainda em curso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-84",
@@ -1140,7 +1223,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Como qualquer sistema de recomendação precisa adotar algum critério de ordenação entre múltiplas opções possíveis de conteúdo, a neutralidade algorítmica completa é uma impossibilidade técnica: toda escolha de design de um algoritmo de recomendação implica priorizar, ainda que implicitamente, determinados critérios (como engajamento ou recência) em detrimento de outros.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-85",
@@ -1154,7 +1238,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Sistemas de inteligência artificial descritos como caixa-preta são aqueles cujo processo interno de decisão não é facilmente interpretável, mesmo por seus próprios desenvolvedores, o que dificulta a explicação de decisões automatizadas em contextos sensíveis, como concessão de crédito ou decisões judiciais, e motiva o desenvolvimento de técnicas de IA explicável.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-86",
@@ -1168,7 +1253,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A auditoria algorítmica consiste no exame técnico, muitas vezes conduzido por especialistas independentes, do funcionamento e dos efeitos de sistemas automatizados de decisão, com o objetivo de identificar vieses, erros ou efeitos discriminatórios que poderiam não ser percebidos apenas pela análise de métricas agregadas de desempenho.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-87",
@@ -1182,7 +1268,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Sistemas de pontuação social apoiados em tecnologia são criticados por criarem mecanismos de controle e vigilância comportamental que podem restringir direitos e liberdades individuais com base em critérios pouco transparentes, levantando preocupações sobre privacidade, devido processo e o risco de uso político ou discriminatório dessas avaliações.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-88",
@@ -1196,7 +1283,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Parte da comunidade científica questiona a validade de sistemas comerciais de reconhecimento de emoções porque estudos indicam que a relação entre expressões faciais observáveis e estados emocionais internos é mais variável, contextual e dependente de fatores culturais do que pressupõem muitos desses sistemas, o que compromete sua confiabilidade em aplicações de alto impacto, como seleção de emprego.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-89",
@@ -1210,7 +1298,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A evidência disponível sobre eficácia comparativa entre ensino a distância e presencial é mista, variando conforme disciplina, nível de ensino, perfil do estudante e qualidade da implementação pedagógica, o que contraria afirmações simplificadas de superioridade absoluta e universal de uma modalidade sobre a outra.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-90",
@@ -1224,7 +1313,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A gamificação consiste na incorporação de elementos típicos de jogos, como pontuação, níveis e recompensas, a contextos que não são originalmente jogos, como aprendizado ou trabalho, com o objetivo de aumentar o engajamento e a motivação dos participantes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-91",
@@ -1238,7 +1328,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O sucesso internacional de grupos musicais originados fora dos tradicionais centros da indústria do entretenimento, impulsionado por redes sociais e plataformas digitais, ilustra como essas tecnologias podem reconfigurar os fluxos tradicionais de circulação da cultura de massa, ampliando o alcance internacional de produções culturais de diferentes origens sem depender exclusivamente dos meios de distribuição tradicionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-92",
@@ -1252,7 +1343,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O ressurgimento comercial de faixas musicais impulsionado por tendências em redes sociais de vídeos curtos evidencia que essas plataformas passaram a funcionar como canal relevante de descoberta e redescoberta musical, capaz de influenciar diretamente o sucesso comercial de uma obra, inclusive muito tempo após seu lançamento original, reconfigurando parte da lógica tradicional da indústria musical.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-93",
@@ -1266,7 +1358,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ascensão de criadores de conteúdo com audiências comparáveis às de emissoras tradicionais evidencia que esses novos atores passaram a ocupar, em certa medida, um papel antes concentrado nos meios de comunicação de massa, fragmentando e diversificando as fontes de influência cultural e publicitária na sociedade contemporânea.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-94",
@@ -1280,7 +1373,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O avanço de sistemas de IA generativa capazes de realizar tarefas cognitivas antes associadas a profissões de maior escolaridade amplia o debate sobre automação, ao sugerir que também ocupações de escritório e de maior qualificação formal podem ser impactadas, não apenas as ocupações manuais e repetitivas tradicionalmente citadas nesse debate.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-95",
@@ -1294,7 +1388,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A renda básica universal é a proposta de transferência periódica e incondicional de uma quantia monetária fixa a todos os cidadãos, discutida, entre outros contextos, como possível resposta aos efeitos da automação sobre o mercado de trabalho, ainda que seu financiamento, seus efeitos sobre incentivos ao trabalho e sua viabilidade fiscal sejam objeto de debate entre economistas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-96",
@@ -1308,7 +1403,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A requalificação profissional (reskilling) refere-se a políticas e programas voltados a atualizar as competências de trabalhadores diante de mudanças tecnológicas, permitindo sua realocação para novas funções e reduzindo os efeitos negativos da automação sobre o emprego e a renda.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-97",
@@ -1322,7 +1418,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O acúmulo de dados por grandes plataformas já estabelecidas, combinado ao efeito de rede, é apontado como fator que eleva as barreiras de entrada para novos concorrentes, dificultando a competição em mercados digitais e reforçando a concentração de poder econômico em poucas grandes empresas de tecnologia, tema central do debate antitruste contemporâneo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-98",
@@ -1336,7 +1433,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diferentemente da bolha de filtro, que resulta da personalização de conteúdo conforme preferências já demonstradas pelo usuário, a amplificação algorítmica de conteúdos extremados por priorizarem engajamento é apontada por pesquisadores como fator adicional de intensificação da polarização política, já que ocorre de forma sistemática, independentemente de uma escolha ativa e consciente do usuário.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-99",
@@ -1350,7 +1448,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Mecanismos de busca exercem um papel de guardião da informação (gatekeeping) ao decidir, por critérios próprios e não totalmente públicos, a ordem de exibição de resultados, o que influencia diretamente quais fontes os usuários tendem a acessar primeiro, levantando questões sobre transparência algorítmica e eventual favorecimento comercial de determinados conteúdos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-tecnologia-100",
@@ -1364,7 +1463,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A divergência entre modelos regulatórios de inteligência artificial adotados por diferentes países cria desafios para empresas que operam globalmente, que precisam se adaptar a exigências distintas conforme a jurisdição, além do risco de que diferenças regulatórias afetem de forma desigual a competitividade das empresas e a proteção de direitos dos cidadãos entre regiões com regras mais ou menos rigorosas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

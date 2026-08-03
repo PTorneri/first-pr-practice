@@ -12,7 +12,8 @@
                                               "d":  "Faz dois anos que o novo prédio da faculdade foi inaugurado."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O verbo \u0027fazer\u0027 indicando tempo decorrido é impessoal e deve ficar sempre na terceira pessoa do singular: \u0027Faz dois anos\u0027. As demais alternativas mantêm o erro ou criam novos desvios."
+                         "explicacao":  "O verbo \u0027fazer\u0027 indicando tempo decorrido é impessoal e deve ficar sempre na terceira pessoa do singular: \u0027Faz dois anos\u0027. As demais alternativas mantêm o erro ou criam novos desvios.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-02",
@@ -25,7 +26,8 @@
                                               "d":  "Assisti para o filme premiado no festival de cinema."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "No sentido de \u0027ver, presenciar\u0027, o verbo \u0027assistir\u0027 é transitivo indireto e exige a preposição \u0027a\u0027: \u0027assistir ao filme\u0027. As demais opções usam preposições incompatíveis com esse sentido do verbo."
+                         "explicacao":  "No sentido de \u0027ver, presenciar\u0027, o verbo \u0027assistir\u0027 é transitivo indireto e exige a preposição \u0027a\u0027: \u0027assistir ao filme\u0027. As demais opções usam preposições incompatíveis com esse sentido do verbo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-03",
@@ -38,7 +40,8 @@
                                               "d":  "nenhuma das ocorrências de crase deveria existir na frase, já que crase só ocorre diante de pronomes demonstrativos."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Diante de expressões de distância indeterminada com numeral, não se usa crase quando não há artigo feminino definido regendo a expressão; o correto seria \u0027a três quilômetros\u0027. \u0027À cidade\u0027 está correta, pois há regência de verbo + artigo feminino."
+                         "explicacao":  "Diante de expressões de distância indeterminada com numeral, não se usa crase quando não há artigo feminino definido regendo a expressão; o correto seria \u0027a três quilômetros\u0027. \u0027À cidade\u0027 está correta, pois há regência de verbo + artigo feminino.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-04",
@@ -51,7 +54,8 @@
                                               "d":  "está correta apenas porque a frase está na voz passiva, condição que dispensaria a concordância entre os termos."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "\u0027Anexo\u0027 funciona como adjetivo e deve concordar com o substantivo \u0027documentos\u0027, flexionando-se em número e gênero: \u0027documentos anexos\u0027. Por isso a frase está correta."
+                         "explicacao":  "\u0027Anexo\u0027 funciona como adjetivo e deve concordar com o substantivo \u0027documentos\u0027, flexionando-se em número e gênero: \u0027documentos anexos\u0027. Por isso a frase está correta.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-05",
@@ -64,7 +68,8 @@
                                               "d":  "O verbo \u0027foi\u0027 deveria concordar no plural, pois há dois sujeitos coordenados, unidos indevidamente pela expressão \u0027junto com\u0027 nessa leitura da frase."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O verbo \u0027haver\u0027 no sentido de \u0027existir\u0027 é impessoal e não admite flexão de número; o correto é \u0027não houve reclamações\u0027. O sujeito de \u0027foi cobrado\u0027 é apenas \u0027o diretor\u0027, já que \u0027junto com os professores\u0027 é adjunto adverbial, mantendo a concordância no singular corretamente."
+                         "explicacao":  "O verbo \u0027haver\u0027 no sentido de \u0027existir\u0027 é impessoal e não admite flexão de número; o correto é \u0027não houve reclamações\u0027. O sujeito de \u0027foi cobrado\u0027 é apenas \u0027o diretor\u0027, já que \u0027junto com os professores\u0027 é adjunto adverbial, mantendo a concordância no singular corretamente.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-06",
@@ -77,7 +82,8 @@
                                               "d":  "falta uma vírgula após o aposto \u0027a reunião\u0027, pois todo aposto explicativo deve ser isolado por vírgulas do restante do período."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Orações reduzidas deslocadas para o início do período, como \u0027Chegando atrasada\u0027, devem ser separadas por vírgula do restante da oração: \u0027Chegando atrasada, a reunião já havia começado\u0027."
+                         "explicacao":  "Orações reduzidas deslocadas para o início do período, como \u0027Chegando atrasada\u0027, devem ser separadas por vírgula do restante da oração: \u0027Chegando atrasada, a reunião já havia começado\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-07",
@@ -90,7 +96,8 @@
                                               "d":  "No entanto, pois marca a oposição entre a preocupação dos investidores e a reação otimista do mercado."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "\u0027No entanto\u0027 é conectivo adversativo, adequado para marcar a contradição entre a preocupação dos investidores e a reação otimista do mercado. Os demais conectivos indicam conclusão ou adição, incompatíveis com o sentido de oposição."
+                         "explicacao":  "\u0027No entanto\u0027 é conectivo adversativo, adequado para marcar a contradição entre a preocupação dos investidores e a reação otimista do mercado. Os demais conectivos indicam conclusão ou adição, incompatíveis com o sentido de oposição.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-08",
@@ -103,7 +110,8 @@
                                               "d":  "Existem várias razões que motivam a decisão, quais serão explicadas a seguir."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O pronome relativo deve concordar em gênero e número com o antecedente \u0027razões\u0027 (substantivo feminino plural), sendo correto \u0027as quais\u0027, e não \u0027os quais\u0027."
+                         "explicacao":  "O pronome relativo deve concordar em gênero e número com o antecedente \u0027razões\u0027 (substantivo feminino plural), sendo correto \u0027as quais\u0027, e não \u0027os quais\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-09",
@@ -116,7 +124,8 @@
                                               "d":  "está correta apenas em textos informais, mas também na norma culta, que aceita ambas as regências como plenamente equivalentes."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O verbo \u0027preferir\u0027 rege a preposição \u0027a\u0027, não admitindo, na norma culta, a comparação com \u0027do que\u0027: o correto é \u0027Prefiro estudar de manhã a estudar à noite\u0027."
+                         "explicacao":  "O verbo \u0027preferir\u0027 rege a preposição \u0027a\u0027, não admitindo, na norma culta, a comparação com \u0027do que\u0027: o correto é \u0027Prefiro estudar de manhã a estudar à noite\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-10",
@@ -129,7 +138,8 @@
                                               "d":  "a frase está correta porque \u0027aluga-se\u0027 nunca varia, independentemente do contexto, já que \u0027se\u0027 funcionaria aqui como partícula apassivadora fixa."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Nesse caso, \u0027se\u0027 é partícula apassivadora, e \u0027apartamentos\u0027 é sujeito da oração passiva sintética, exigindo concordância verbal no plural: \u0027Alugam-se apartamentos mobiliados\u0027."
+                         "explicacao":  "Nesse caso, \u0027se\u0027 é partícula apassivadora, e \u0027apartamentos\u0027 é sujeito da oração passiva sintética, exigindo concordância verbal no plural: \u0027Alugam-se apartamentos mobiliados\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-11",
@@ -142,7 +152,8 @@
                                               "d":  "A construção está correta em qualquer registro, formal ou informal, pois \u0027estar + gerúndio\u0027 é sempre sinônimo perfeito de \u0027ir + infinitivo\u0027 na língua portuguesa."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O gerundismo consiste em usar uma locução como \u0027vou estar + gerúndio\u0027 para expressar uma ação futura, função que não é própria do gerúndio; este deve indicar ação simultânea ou em processo (como em \u0027estou verificando agora\u0027). O mais adequado nesse contexto seria \u0027vou verificar o status\u0027 (ação futura simples) ou \u0027estou verificando\u0027 (ação em curso no momento da fala)."
+                         "explicacao":  "O gerundismo consiste em usar uma locução como \u0027vou estar + gerúndio\u0027 para expressar uma ação futura, função que não é própria do gerúndio; este deve indicar ação simultânea ou em processo (como em \u0027estou verificando agora\u0027). O mais adequado nesse contexto seria \u0027vou verificar o status\u0027 (ação futura simples) ou \u0027estou verificando\u0027 (ação em curso no momento da fala).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-12",
@@ -155,7 +166,8 @@
                                               "d":  "está incorreta; como \u0027entrada\u0027 vem precedida de artigo definido, o correto seria \u0027é proibida a entrada\u0027."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Expressões como \u0027é proibido\u0027, \u0027é necessário\u0027 ficam invariáveis apenas quando o substantivo seguinte não vem precedido de artigo. Como há o artigo \u0027a\u0027 antes de \u0027entrada\u0027, a concordância deve ser feita: \u0027é proibida a entrada\u0027."
+                         "explicacao":  "Expressões como \u0027é proibido\u0027, \u0027é necessário\u0027 ficam invariáveis apenas quando o substantivo seguinte não vem precedido de artigo. Como há o artigo \u0027a\u0027 antes de \u0027entrada\u0027, a concordância deve ser feita: \u0027é proibida a entrada\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-13",
@@ -168,7 +180,8 @@
                                               "d":  "O verbo \u0027avisou\u0027 deveria estar no plural, pois o sujeito composto por \u0027professor\u0027 e a oração adjetiva exigiria concordância verbal no plural."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O pronome relativo possessivo \u0027cujo(a)\u0027 já exerce função de determinante e não deve vir acompanhado de artigo definido: o correto é \u0027cuja aula foi cancelada\u0027, sem o artigo \u0027a\u0027."
+                         "explicacao":  "O pronome relativo possessivo \u0027cujo(a)\u0027 já exerce função de determinante e não deve vir acompanhado de artigo definido: o correto é \u0027cuja aula foi cancelada\u0027, sem o artigo \u0027a\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-14",
@@ -181,7 +194,8 @@
                                               "d":  "o verbo deve obrigatoriamente ficar no singular, sendo \u0027afirmaram\u0027 um erro grave e inaceitável, pois expressões partitivas nunca admitem concordância por atração."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Com sujeitos formados por expressões partitivas (\u0027a maioria de\u0027, \u0027grande parte de\u0027) seguidas de substantivo plural, a norma culta admite tanto a concordância com o núcleo (\u0027a maioria afirmou\u0027) quanto por atração com o adjunto (\u0027a maioria dos entrevistados afirmaram\u0027)."
+                         "explicacao":  "Com sujeitos formados por expressões partitivas (\u0027a maioria de\u0027, \u0027grande parte de\u0027) seguidas de substantivo plural, a norma culta admite tanto a concordância com o núcleo (\u0027a maioria afirmou\u0027) quanto por atração com o adjunto (\u0027a maioria dos entrevistados afirmaram\u0027).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-15",
@@ -194,7 +208,8 @@
                                               "d":  "adição de ideias semelhantes, sentido que conjunções como \u0027contudo\u0027 assumem quando ligam orações de mesmo valor semântico."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "\u0027Contudo\u0027 é conjunção adversativa que introduz um contraste entre a imprecisão dos dados e o fato de o relatório ter sido aprovado sem ressalvas, evidenciando uma inconsistência apontada pelo autor do texto."
+                         "explicacao":  "\u0027Contudo\u0027 é conjunção adversativa que introduz um contraste entre a imprecisão dos dados e o fato de o relatório ter sido aprovado sem ressalvas, evidenciando uma inconsistência apontada pelo autor do texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-16",
@@ -207,7 +222,8 @@
                                               "d":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O verbo \u0027ir\u0027, quando indica destino, rege tradicionalmente a preposição \u0027a\u0027, sendo a construção \u0027fui à casa dela\u0027 a mais adequada à norma culta, com uso de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027 de \u0027a casa\u0027."
+                         "explicacao":  "O verbo \u0027ir\u0027, quando indica destino, rege tradicionalmente a preposição \u0027a\u0027, sendo a construção \u0027fui à casa dela\u0027 a mais adequada à norma culta, com uso de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027 de \u0027a casa\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-17",
@@ -220,7 +236,8 @@
                                               "d":  "a frase deveria ser separada em dois períodos distintos, sem qualquer vírgula, pois enumerações extensas nunca podem compor um único período."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Em enumerações simples, não se usa vírgula antes da conjunção aditiva \u0027e\u0027 quando ela liga o último termo da série, salvo em casos de elementos com sujeitos distintos; o correto seria \u0027uma camisa listrada e um par de sapatos pretos\u0027."
+                         "explicacao":  "Em enumerações simples, não se usa vírgula antes da conjunção aditiva \u0027e\u0027 quando ela liga o último termo da série, salvo em casos de elementos com sujeitos distintos; o correto seria \u0027uma camisa listrada e um par de sapatos pretos\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-18",
@@ -233,7 +250,8 @@
                                               "d":  "Apesar de a empresa investir em treinamento, a rotatividade..."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Diante de verbo no infinitivo com sujeito próprio, usa-se o artigo \u0027a\u0027 (não craseado, sem fusão com a preposição \u0027de\u0027) antes do sujeito: \u0027apesar de a empresa investir\u0027. A forma \u0027apesar da empresa investir\u0027, comum na fala informal, funde indevidamente a preposição \u0027de\u0027 com o artigo \u0027a\u0027, sendo evitada na norma culta escrita; \u0027apesar que\u0027 e \u0027apesar a\u0027 não são locuções reconhecidas pela gramática normativa."
+                         "explicacao":  "Diante de verbo no infinitivo com sujeito próprio, usa-se o artigo \u0027a\u0027 (não craseado, sem fusão com a preposição \u0027de\u0027) antes do sujeito: \u0027apesar de a empresa investir\u0027. A forma \u0027apesar da empresa investir\u0027, comum na fala informal, funde indevidamente a preposição \u0027de\u0027 com o artigo \u0027a\u0027, sendo evitada na norma culta escrita; \u0027apesar que\u0027 e \u0027apesar a\u0027 não são locuções reconhecidas pela gramática normativa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-19",
@@ -246,7 +264,8 @@
                                               "d":  "Nunca a verdade lhe disse sobre o ocorrido, embora sempre tivesse essa intenção."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O advérbio de negação \u0027nunca\u0027 atrai o pronome oblíquo para a próclise; a forma \u0027disse-lhe\u0027 (ênclise) após palavra atrativa é considerada desvio pela norma culta, sendo correto \u0027nunca lhe disse\u0027."
+                         "explicacao":  "O advérbio de negação \u0027nunca\u0027 atrai o pronome oblíquo para a próclise; a forma \u0027disse-lhe\u0027 (ênclise) após palavra atrativa é considerada desvio pela norma culta, sendo correto \u0027nunca lhe disse\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-20",
@@ -259,7 +278,8 @@
                                               "d":  "O contrato aonde me refiro foi assinado na semana passada."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027; quando o antecedente do relativo exige preposição, ela deve preceder o \u0027que\u0027 (ou o relativo pode ser substituído por \u0027ao qual\u0027): o correto é \u0027o contrato a que me refiro\u0027."
+                         "explicacao":  "O verbo \u0027referir-se\u0027 exige a preposição \u0027a\u0027; quando o antecedente do relativo exige preposição, ela deve preceder o \u0027que\u0027 (ou o relativo pode ser substituído por \u0027ao qual\u0027): o correto é \u0027o contrato a que me refiro\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-21",
@@ -272,7 +292,8 @@
                                               "d":  "O projeto prevê que os custos sejam reduzidos, modernização e agilizar processos."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O paralelismo sintático exige que elementos coordenados sigam a mesma estrutura gramatical; a forma correta emprega três infinitivos em sequência: reduzir, modernizar e agilizar."
+                         "explicacao":  "O paralelismo sintático exige que elementos coordenados sigam a mesma estrutura gramatical; a forma correta emprega três infinitivos em sequência: reduzir, modernizar e agilizar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-22",
@@ -285,7 +306,8 @@
                                               "d":  "apenas \u0027à mão\u0027 está correta; as demais deveriam ser escritas sem acento grave, já que \u0027vezes\u0027 e \u0027vésperas\u0027 rejeitariam artigo definido feminino."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "\u0027À mão\u0027, \u0027às vezes\u0027 e \u0027às vésperas\u0027 são locuções consagradas pelo uso, formadas pela preposição \u0027a\u0027 seguida do artigo feminino \u0027a(s)\u0027, exigindo o acento indicativo de crase em todas elas."
+                         "explicacao":  "\u0027À mão\u0027, \u0027às vezes\u0027 e \u0027às vésperas\u0027 são locuções consagradas pelo uso, formadas pela preposição \u0027a\u0027 seguida do artigo feminino \u0027a(s)\u0027, exigindo o acento indicativo de crase em todas elas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-23",
@@ -298,7 +320,8 @@
                                               "d":  "está correta apenas porque a frase está na ordem direta, condição que dispensaria a concordância do verbo com o pronome recapitulativo, afirmação equivocada, pois a concordância com o pronome ocorreria em qualquer ordem sintática."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Quando elementos enumerados são resumidos por um pronome recapitulativo (\u0027tudo\u0027, \u0027nada\u0027, \u0027ninguém\u0027), o verbo concorda com esse pronome, e não com os itens da enumeração: \u0027nada foi esquecido\u0027."
+                         "explicacao":  "Quando elementos enumerados são resumidos por um pronome recapitulativo (\u0027tudo\u0027, \u0027nada\u0027, \u0027ninguém\u0027), o verbo concorda com esse pronome, e não com os itens da enumeração: \u0027nada foi esquecido\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-24",
@@ -311,7 +334,8 @@
                                               "d":  "está correta apenas se a frase for reescrita na ordem inversa, com a oração adversativa antecedendo a oração principal do período."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Conjunções adversativas como \u0027mas\u0027 são sempre precedidas de vírgula, independentemente da extensão das orações que ligam."
+                         "explicacao":  "Conjunções adversativas como \u0027mas\u0027 são sempre precedidas de vírgula, independentemente da extensão das orações que ligam.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-25",
@@ -324,7 +348,8 @@
                                               "d":  "o pronome \u0027ela\u0027 é plenamente claro e não permite nenhuma outra leitura, pois há apenas um substantivo feminino no período."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Como há dois substantivos femininos no período (\u0027diretora\u0027 e \u0027professora\u0027), o pronome \u0027ela\u0027 pode retomar qualquer um dos dois, configurando ambiguidade referencial que compromete a clareza do texto."
+                         "explicacao":  "Como há dois substantivos femininos no período (\u0027diretora\u0027 e \u0027professora\u0027), o pronome \u0027ela\u0027 pode retomar qualquer um dos dois, configurando ambiguidade referencial que compromete a clareza do texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-26",
@@ -337,7 +362,8 @@
                                               "d":  "\u0027aonde\u0027 está incorreto, pois nunca deve ser usado antes de verbos de movimento, sendo \u0027onde\u0027 a única forma aceita em qualquer contexto de deslocamento."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "\u0027Onde\u0027 indica permanência (investir na empresa, lugar fixo), e \u0027aonde\u0027 indica movimento, combinando-se com verbos como \u0027mudar-se para\u0027; a frase emprega corretamente os dois relativos de lugar."
+                         "explicacao":  "\u0027Onde\u0027 indica permanência (investir na empresa, lugar fixo), e \u0027aonde\u0027 indica movimento, combinando-se com verbos como \u0027mudar-se para\u0027; a frase emprega corretamente os dois relativos de lugar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-27",
@@ -350,7 +376,8 @@
                                               "d":  "nenhuma das regências empregadas está de acordo com a norma culta, que exigiria \u0027apto a\u0027 e \u0027obediente para\u0027 nessa construção nominal."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O adjetivo \u0027apto\u0027 admite as preposições \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege a preposição \u0027a\u0027; ambas as construções da frase estão, portanto, corretas."
+                         "explicacao":  "O adjetivo \u0027apto\u0027 admite as preposições \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege a preposição \u0027a\u0027; ambas as construções da frase estão, portanto, corretas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-28",
@@ -363,7 +390,8 @@
                                               "d":  "O verbo \u0027chegar\u0027, indicando lugar, deve reger preferencialmente a preposição \u0027a\u0027 na norma culta escrita formal: \u0027cheguei ao aeroporto\u0027; \u0027chegar em/no\u0027 é construção mais associada à oralidade."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A norma culta tradicional recomenda a preposição \u0027a\u0027 para indicar o lugar de destino com o verbo \u0027chegar\u0027 (\u0027cheguei ao aeroporto\u0027), sendo \u0027chegar em/no\u0027 uma construção mais associada à oralidade e a contextos informais."
+                         "explicacao":  "A norma culta tradicional recomenda a preposição \u0027a\u0027 para indicar o lugar de destino com o verbo \u0027chegar\u0027 (\u0027cheguei ao aeroporto\u0027), sendo \u0027chegar em/no\u0027 uma construção mais associada à oralidade e a contextos informais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-29",
@@ -376,7 +404,8 @@
                                               "d":  "o verbo da oração relativa deve concordar com \u0027projetos\u0027 (plural), sendo mais adequado \u0027um dos projetos que mais impressionaram a comissão\u0027."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Na estrutura \u0027um dos que\u0027, o pronome relativo \u0027que\u0027 retoma o substantivo plural que o precede (\u0027projetos\u0027), e o verbo da oração relativa deve concordar no plural: \u0027impressionaram\u0027."
+                         "explicacao":  "Na estrutura \u0027um dos que\u0027, o pronome relativo \u0027que\u0027 retoma o substantivo plural que o precede (\u0027projetos\u0027), e o verbo da oração relativa deve concordar no plural: \u0027impressionaram\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-30",
@@ -389,7 +418,8 @@
                                               "d":  "os itens deveriam ser separados por dois-pontos, sinal indicado para introduzir cada novo elemento de uma enumeração longa"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Quando os itens de uma enumeração já contêm vírgulas internas, o ponto e vírgula é empregado para separar os itens com mais clareza, evitando ambiguidade na leitura. No caso: \u0027relevância do projeto, que envolve impacto social; custo de implementação, que inclui recursos humanos e materiais; e prazo de execução.\u0027"
+                         "explicacao":  "Quando os itens de uma enumeração já contêm vírgulas internas, o ponto e vírgula é empregado para separar os itens com mais clareza, evitando ambiguidade na leitura. No caso: \u0027relevância do projeto, que envolve impacto social; custo de implementação, que inclui recursos humanos e materiais; e prazo de execução.\u0027",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-31",
@@ -402,7 +432,8 @@
                                               "d":  "está correta porque \u0027sítio arqueológico\u0027 é o sujeito da oração, termo que, por vir anteposto ao verbo, determinaria a concordância no singular."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Na voz passiva, o verbo concorda com o sujeito paciente; como \u0027vestígios\u0027 está no plural, o correto é \u0027foram encontrados vestígios\u0027."
+                         "explicacao":  "Na voz passiva, o verbo concorda com o sujeito paciente; como \u0027vestígios\u0027 está no plural, o correto é \u0027foram encontrados vestígios\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-32",
@@ -415,7 +446,8 @@
                                               "d":  "o pronome \u0027me\u0027 deveria ser substituído por \u0027mim\u0027 no início da frase, já que pronomes oblíquos tônicos seriam os únicos aceitos em posição inicial absoluta."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Embora comum na fala, iniciar o período com pronome oblíquo átono é evitado na norma culta escrita formal, que recomenda a ênclise nesse contexto: \u0027Chamaram-me\u0027."
+                         "explicacao":  "Embora comum na fala, iniciar o período com pronome oblíquo átono é evitado na norma culta escrita formal, que recomenda a ênclise nesse contexto: \u0027Chamaram-me\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-33",
@@ -428,7 +460,8 @@
                                               "d":  "ambos os empregos estão corretos: \u0027se não\u0027 introduz oração condicional negativa, e \u0027senão\u0027 equivale a \u0027a não ser\u0027 ou \u0027do contrário\u0027."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "\u0027Se não\u0027 (separado) introduz oração condicional com negação (\u0027se não estudarmos\u0027), enquanto \u0027senão\u0027 (junto) equivale a \u0027a não ser\u0027 ou \u0027caso contrário\u0027, como em \u0027alternativa senão repetir o ano\u0027."
+                         "explicacao":  "\u0027Se não\u0027 (separado) introduz oração condicional com negação (\u0027se não estudarmos\u0027), enquanto \u0027senão\u0027 (junto) equivale a \u0027a não ser\u0027 ou \u0027caso contrário\u0027, como em \u0027alternativa senão repetir o ano\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-34",
@@ -441,7 +474,8 @@
                                               "d":  "\u0027meia\u0027 está correto, pois sempre concorda com o substantivo mais próximo, regra de concordância por proximidade aplicável a qualquer advérbio de intensidade."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Quando modifica adjetivo, \u0027meio\u0027 funciona como advérbio e é invariável (\u0027meio inseguras\u0027, não \u0027meia inseguras\u0027); \u0027bastante\u0027, com valor de advérbio (equivalente a \u0027muito\u0027), também permanece invariável."
+                         "explicacao":  "Quando modifica adjetivo, \u0027meio\u0027 funciona como advérbio e é invariável (\u0027meio inseguras\u0027, não \u0027meia inseguras\u0027); \u0027bastante\u0027, com valor de advérbio (equivalente a \u0027muito\u0027), também permanece invariável.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-35",
@@ -454,7 +488,8 @@
                                               "d":  "o aposto explicativo \u0027o maior escritor da literatura brasileira\u0027 deveria vir isolado por vírgulas: \u0027Machado de Assis, o maior escritor da literatura brasileira, nasceu...\u0027."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Apostos explicativos devem ser isolados por vírgulas (ou travessões/parênteses), já que introduzem uma informação adicional sobre o termo anterior, mas não são exigidos sintaticamente pela oração."
+                         "explicacao":  "Apostos explicativos devem ser isolados por vírgulas (ou travessões/parênteses), já que introduzem uma informação adicional sobre o termo anterior, mas não são exigidos sintaticamente pela oração.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-36",
@@ -467,7 +502,8 @@
                                               "d":  "a regência do verbo \u0027informar\u0027 é sempre idêntica à do verbo \u0027avisar\u0027, que exigiria exclusivamente a preposição \u0027sobre\u0027 antes do complemento de coisa."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O verbo \u0027informar\u0027 é bitransitivo e admite duas regências equivalentes: \u0027informar alguém de/sobre algo\u0027 e \u0027informar algo a alguém\u0027, ambas corretas e presentes no texto, com o objeto direto e indireto alternando de posição."
+                         "explicacao":  "O verbo \u0027informar\u0027 é bitransitivo e admite duas regências equivalentes: \u0027informar alguém de/sobre algo\u0027 e \u0027informar algo a alguém\u0027, ambas corretas e presentes no texto, com o objeto direto e indireto alternando de posição.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão \u0027cada um\u0027 funciona como núcleo do sujeito e é sempre singular, mesmo seguida de complemento plural (\u0027dos candidatos\u0027); por isso, o verbo deve permanecer no singular: \u0027apresentou\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Não há artigo definido feminino determinando \u0027distância\u0027 nessa construção (o adjetivo \u0027pouca\u0027 ocupa essa posição), portanto não se usa crase; a regra de crase em expressões de distância exige a presença do artigo feminino regendo a expressão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027namorar\u0027 é transitivo direto na norma culta (\u0027namorar alguém\u0027), não devendo ser regido por preposição; no caso da frase, o sujeito é composto e recíproco (\u0027eles namoram\u0027), dispensando qualquer preposição adicional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Orações ou expressões intercaladas, que interrompem a sequência lógica da frase principal para inserir um comentário, devem ser isoladas por vírgulas (ou, alternativamente, por travessões ou parênteses), como ocorre corretamente com \u0027é bom lembrar\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027Predador\u0027 é um termo de sentido mais amplo que engloba \u0027leão-baio\u0027, caracterizando uma substituição lexical por hiperônimo, recurso coesivo que evita a repetição do mesmo substantivo sem recorrer a pronomes ou elipse.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Quando \u0027próprio\u0027 e \u0027mesmo\u0027 reforçam um substantivo ou pronome (com sentido de \u0027ele mesmo\u0027, \u0027ela própria\u0027), funcionam como adjetivos e concordam em gênero e número com o termo reforçado, o que ocorre corretamente na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Quando \u0027casa\u0027 tem sentido de lar próprio, sem especificação, não é precedida de artigo, logo não há crase (\u0027foi a casa\u0027); quando é especificada e determinada por um complemento (\u0027a casa da avó\u0027), passa a ser regida por artigo, admitindo crase (\u0027à casa da avó\u0027).",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027esquecer\u0027 pode ser transitivo direto quando não pronominal (\u0027esqueci o aniversário\u0027) ou exigir a preposição \u0027de\u0027 quando pronominal (\u0027esqueci-me do presente\u0027); ambas as formas empregadas na frase seguem corretamente essa distinção.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os dois-pontos são empregados corretamente para introduzir uma enumeração que explica ou detalha um termo anterior (\u0027três eixos principais\u0027), uso consagrado da pontuação em contextos explicativos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão \u0027mais de um\u0027 concorda no singular quando não há ideia de reciprocidade entre os elementos (\u0027mais de um candidato desistiu\u0027); já expressões com numeral maior que um, como \u0027mais de dois candidatos\u0027, regem o verbo no plural, ambas corretamente empregadas na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Assim como \u0027esquecer\u0027, o verbo \u0027lembrar\u0027 pode ser pronominal com a preposição \u0027de\u0027 (\u0027lembrar-se de algo\u0027) ou transitivo direto sem pronome nem preposição (\u0027lembrar algo\u0027); ambas as construções empregadas na frase são corretas segundo a norma culta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diante de indicações de horas determinadas, emprega-se a crase, pois há a fusão da preposição \u0027a\u0027 (exigida por verbos como \u0027começar\u0027, \u0027chegar\u0027) com o artigo feminino que subentende a palavra \u0027horas\u0027: \u0027às 14h\u0027, \u0027até às 16h30\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Seu\u0027 retoma o diretor como possuidor do plano, e \u0027a proposta\u0027 retoma anaforicamente o próprio plano de expansão mencionado antes, ambos recursos de coesão referencial que evitam repetição desnecessária.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Na expressão \u0027meio-dia e meia\u0027, \u0027meia\u0027 concorda com o substantivo feminino subentendido \u0027hora\u0027 (meio-dia e meia hora), e não com \u0027dia\u0027, o que explica a flexão feminina aparentemente destoante da concordância direta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O vocativo, elemento que nomeia o interlocutor a quem se dirige a fala, deve ser isolado por vírgula(s) em qualquer posição da frase, conforme ocorre corretamente com \u0027Professor\u0027 no início do período.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "No sentido de \u0027ter como objetivo\u0027, o verbo \u0027visar\u0027 é transitivo indireto e rege a preposição \u0027a\u0027 antes de infinitivo, sendo mais adequado, na norma culta tradicional, \u0027visa a reduzir os custos\u0027, embora o uso sem a preposição seja comum na linguagem corrente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Diante de pronomes demonstrativos iniciados por \u0027a\u0027 (\u0027aquele\u0027, \u0027aquela\u0027, \u0027aquilo\u0027), ocorre crase quando o termo regente exige a preposição \u0027a\u0027, como no caso de \u0027seguir-se a algo\u0027: \u0027seguiram-se àquela decisão\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027ser\u0027, ao indicar horas, concorda com o numeral: singular para \u0027uma hora\u0027 (\u0027é uma hora\u0027) e plural para números maiores (\u0027são duas horas\u0027, \u0027são quase duas horas\u0027), regra corretamente seguida na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Obedecer\u0027 e \u0027desobedecer\u0027 são verbos transitivos indiretos, regidos pela preposição \u0027a\u0027 (\u0027obedecer a alguém/algo\u0027), regra corretamente seguida nas duas ocorrências da frase, com o objeto indireto explícito em ambas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A oração sem vírgula (\u0027que entregaram o trabalho no prazo\u0027) restringe o universo de alunos mencionados; já a oração isolada por vírgulas (\u0027que em sua maioria participam do projeto\u0027) apenas acrescenta uma informação sobre o grupo total de \u0027os alunos\u0027, já plenamente identificado, caracterizando o uso explicativo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027À beira de\u0027 e \u0027à frente de\u0027 são locuções prepositivas femininas consagradas pelo uso, formadas pela fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027, exigindo o acento indicativo de crase em ambas as ocorrências.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Assim como \u0027anexo\u0027, a palavra \u0027incluso\u0027 funciona como adjetivo e deve concordar em gênero e número com o substantivo a que se refere; por isso, \u0027cópias inclusas\u0027 (feminino plural) e \u0027comprovante anexo\u0027 (masculino singular) estão corretamente flexionados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O verbo \u0027simpatizar\u0027 é transitivo indireto e rege a preposição \u0027com\u0027 (\u0027simpatizar com alguém/algo\u0027); a forma pronominal \u0027simpatizar-se\u0027 não é reconhecida pela norma culta, o que torna a construção da frase correta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027É que\u0027 é partícula expletiva (ou de realce), empregada para enfatizar o termo anterior sem acrescentar conteúdo semântico novo nem exigir alteração na concordância verbal; a oração admite reescrita sem a partícula (\u0027o novo gerente resolveu implementar...\u0027), com o mesmo sentido básico e menor grau de ênfase sobre o sujeito.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Substantivos coletivos como \u0027equipe\u0027 concordam no singular quando não seguidos de um substantivo plural que justifique a concordância por atração (como ocorre em \u0027a maioria dos entrevistados\u0027); \u0027de plantão\u0027 não é o mesmo tipo de estrutura partitiva, por isso o verbo permanece corretamente no singular.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A crase é a fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027; como verbos no infinitivo (como \u0027perder\u0027) não são antecedidos de artigo, não há ocorrência de crase, independentemente da presença da preposição \u0027a\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O travessão é recurso de pontuação amplamente utilizado para marcar a alternância de falas entre interlocutores em um diálogo, uso empregado corretamente no trecho transcrito.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "No sentido de \u0027ser difícil, acarretar\u0027, o verbo \u0027custar\u0027 é transitivo indireto: o sujeito é o que causa o custo (\u0027aquele imprevisto\u0027) e o complemento, regido pela preposição \u0027a\u0027, é quem sofre a consequência (\u0027à empresa\u0027), estrutura corretamente empregada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Quando \u0027bastante\u0027 modifica diretamente um substantivo (funcionando como adjetivo, equivalente a \u0027muitas\u0027), deve concordar em número com ele: o correto seria \u0027bastantes dúvidas\u0027; já \u0027menos\u0027 é sempre invariável, não existindo a forma \u0027menas\u0027, o que torna essa parte da frase correta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027À moda de\u0027 (ou \u0027à moda antiga\u0027, com elipse de \u0027de\u0027) é locução consagrada pelo uso, resultante da fusão da preposição \u0027a\u0027 com o artigo feminino que acompanha \u0027moda\u0027, mantendo-se a crase mesmo quando seguida de adjetivo, como em \u0027à moda antiga\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O verbo \u0027querer\u0027 muda de regência conforme o sentido: \u0027querer bem/mal a alguém\u0027 (estimar) é transitivo indireto com a preposição \u0027a\u0027; já no sentido de \u0027desejar algo\u0027, é transitivo direto, sem preposição, distinção corretamente empregada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Quando um adjunto adverbial é deslocado para o início da frase, especialmente se extenso, recomenda-se separá-lo do restante da oração por vírgula, facilitando a leitura, uso corretamente empregado antes de \u0027o acordo\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A omissão do sujeito \u0027o técnico\u0027 nas orações seguintes, recuperável pelo contexto, caracteriza a elipse, recurso de coesão que evita repetições desnecessárias em orações coordenadas com o mesmo sujeito.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Quando o sujeito de uma oração é constituído por outra oração (\u0027quando o prédio ficará pronto\u0027), diz-se que há sujeito oracional, e o verbo da oração principal permanece na terceira pessoa do singular, como ocorre corretamente em \u0027não se sabe\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Pagar\u0027 e \u0027perdoar\u0027 são verbos bitransitivos quando o complemento de coisa é objeto direto e o complemento de pessoa é objeto indireto regido pela preposição \u0027a\u0027 (\u0027pagar algo a alguém\u0027, \u0027perdoar algo a alguém\u0027), regência corretamente empregada em ambas as ocorrências.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027À noite\u0027, assim como \u0027à tarde\u0027, é locução adverbial de tempo consagrada pelo uso, com a crase indicando a fusão da preposição exigida pela regência com o artigo feminino que acompanha o substantivo, mantendo-se por tradição mesmo sem uma regência verbal explícita que a exija estritamente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As aspas reproduzem literalmente a fala do gerente, e o contraste com o fato narrado a seguir (espera de quarenta minutos) gera um efeito irônico, evidenciando a distância entre a promessa e a experiência real do cliente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Menos\u0027 é advérbio de intensidade invariável na norma culta, não admitindo flexão de gênero ou número; a forma popular \u0027menas\u0027 é considerada inadequada em qualquer registro formal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O verbo \u0027aspirar\u0027 muda de regência conforme o sentido: \u0027aspirar a algo\u0027 (pretender) é transitivo indireto com a preposição \u0027a\u0027; \u0027aspirar algo\u0027 (respirar, inalar) é transitivo direto, sem preposição, distinção corretamente empregada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027O documento\u0027 é usado como sinônimo contextual de \u0027o relatório\u0027, evitando a repetição do mesmo substantivo e mantendo a coesão referencial de forma clara, sem gerar ambiguidade nem caracterizar repetição viciosa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A expressão \u0027um e outro\u0027 normalmente leva o verbo ao plural, por somar dois elementos; já \u0027nem um nem outro\u0027, por indicar exclusão de ambos, admite preferencialmente o verbo no singular, ainda que o plural também seja aceito por alguns gramáticos — a construção da frase segue o padrão mais recomendado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Topônimos que normalmente admitem artigo definido feminino (como \u0027a Bahia\u0027) exigem crase quando regidos por preposição \u0027a\u0027 (\u0027fomos à Bahia\u0027); já topônimos que normalmente não admitem artigo (como \u0027Salvador\u0027) não exigem crase (\u0027fomos a Salvador\u0027), regra corretamente aplicada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Como cada item da enumeração já contém uma vírgula interna (separando o critério do respectivo peso percentual), o ponto e vírgula é empregado corretamente para separar os itens entre si com maior clareza, evitando ambiguidade de leitura.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Conforme já observado em outros contextos, a norma culta escrita formal recomenda a preposição \u0027a\u0027 para indicar destino com o verbo \u0027chegar\u0027 (\u0027chegou ao endereço\u0027), regência corretamente empregada na frase, ainda que \u0027chegar em/no\u0027 seja comum na oralidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Quando um adjetivo se refere a dois ou mais substantivos de gêneros diferentes e vem posposto a eles, a concordância padrão é no masculino plural, regra corretamente seguida em \u0027troféu e medalha exclusivos\u0027, embora a concordância com o substantivo mais próximo também seja aceita por alguns gramáticos em determinados contextos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Isso\u0027 retoma uma proposta mencionada anteriormente, fora do enunciado apresentado, caracterizando uma anáfora, recurso coesivo que resgata uma informação já conhecida pelo interlocutor, e não vocativo nem catáfora.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Expressões aproximativas como \u0027cerca de\u0027 e \u0027perto de\u0027 não são o núcleo do sujeito; a concordância verbal segue o numeral que as acompanha, motivo pelo qual o verbo fica no plural em ambas as ocorrências da frase (\u0027participaram\u0027, \u0027atuavam\u0027).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027Comunicar\u0027 admite a construção bitransitiva \u0027comunicar algo a alguém\u0027, em que o complemento de pessoa é regido pela preposição \u0027a\u0027; como \u0027direção\u0027 é substantivo feminino determinado, ocorre a crase: \u0027comuniquei à direção\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O par de travessões isola uma informação explicativa intercalada (\u0027resultado de meses de investigação minuciosa\u0027), função equivalente à de um par de vírgulas ou parênteses, recurso de pontuação plenamente aceito pela norma culta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os dois-pontos introduzem corretamente a explicação do que consistia a \u0027cláusula específica\u0027 mencionada anteriormente, uso consagrado da pontuação para detalhar ou explicar um termo já citado no texto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Sozinho\u0027 é adjetivo variável e concorda em gênero e número com o termo a que se refere, no caso o sujeito \u0027ele\u0027 (masculino singular); diferente de \u0027só\u0027, que pode funcionar como advérbio invariável equivalente a \u0027apenas\u0027 em certos contextos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Isto é\u0027 é conectivo explicativo que reformula, em termos mais específicos, a informação anterior (\u0027respondeu bem ao tratamento\u0027 é esclarecido por \u0027apresentou melhora significativa nos exames\u0027), e não indica oposição, conclusão ou comparação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Assim que\u0027 indica imediatismo temporal (a comemoração ocorre logo após a divulgação), e \u0027enquanto\u0027 indica simultaneidade entre a comemoração e a reorganização dos não aprovados, caracterizando ambas como conjunções de sentido temporal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Quando \u0027sim\u0027 funciona como resposta isolada a uma pergunta direta, costuma ser seguido de vírgula; no entanto, quando integra a oração como complemento do verbo (\u0027espero que sim\u0027), não há necessidade de pausa gráfica, como ocorre corretamente na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Assim como em outros exemplos de voz passiva sintética, \u0027salas comerciais\u0027 é o sujeito paciente da oração, exigindo concordância verbal no plural com a partícula apassivadora \u0027se\u0027: \u0027alugam-se salas comerciais\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027A olhos vistos\u0027 é locução adverbial consagrada pelo uso, sem artigo definido feminino (já que \u0027olhos\u0027 é substantivo masculino), o que impede a ocorrência de crase nessa expressão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Orações coordenadas justapostas, sem conjunção (assindéticas), devem ser separadas por vírgula; a ausência total de pontuação entre as três orações da frase compromete a clareza e caracteriza um desvio de pontuação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "No sentido de \u0027desejar ansiosamente, aguardar com expectativa\u0027, o verbo \u0027ansiar\u0027 é transitivo indireto e rege a preposição \u0027por\u0027 (\u0027ansiar por algo\u0027), regência corretamente empregada na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Quando reforça um substantivo ou pronome, \u0027próprio\u0027 funciona como adjetivo e concorda em gênero e número com o termo reforçado; como \u0027diretora\u0027 é feminino, a forma correta e empregada na frase é \u0027própria\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027À espera de\u0027 é locução prepositiva feminina consagrada pelo uso, assim como \u0027à beira de\u0027 e \u0027à frente de\u0027, exigindo o acento indicativo de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino que acompanha o substantivo \u0027espera\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Conjunções concessivas como \u0027embora\u0027, \u0027ainda que\u0027, \u0027conquanto\u0027 e \u0027posto que\u0027 exigem o modo subjuntivo na oração que introduzem, regra corretamente seguida com \u0027fosse\u0027 (pretérito imperfeito do subjuntivo) e \u0027houvesse\u0027 (também subjuntivo).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão \u0027trata-se de\u0027, no sentido de \u0027é questão de\u0027, é impessoal e permanece invariável na terceira pessoa do singular, mesmo quando o termo que a segue está no plural, diferente de estruturas de concordância variável como \u0027existem casos\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O verbo \u0027compadecer-se\u0027, empregado na forma pronominal, rege a preposição \u0027de\u0027 (\u0027compadecer-se de alguém/algo\u0027), regência corretamente seguida na frase ao construir \u0027se compadeceu da situação\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os dois-pontos introduzem corretamente o conteúdo específico anunciado por \u0027o seguinte\u0027, funcionando como recurso de pontuação que detalha ou explicita uma informação prometida anteriormente no texto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-101",
@@ -1377,7 +1477,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Nomes de países que normalmente são usados com artigo definido feminino (como \u0027a Suécia\u0027, \u0027a França\u0027, \u0027a Argentina\u0027) admitem crase quando regidos pela preposição \u0027a\u0027, diferentemente de topônimos que dispensam artigo (como \u0027Portugal\u0027, \u0027Cuba\u0027).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-102",
@@ -1391,7 +1492,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Adjetivos compostos de cor, quando o segundo elemento é um substantivo que indica um tom por comparação (como \u0027marinho\u0027, \u0027oliva\u0027, \u0027limão\u0027), permanecem invariáveis, independentemente do número do substantivo a que se referem: \u0027camisas azul-marinho\u0027, \u0027uniformes verde-oliva\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-103",
@@ -1405,7 +1507,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "No sentido de \u0027acarretar, ter como consequência\u0027, o verbo \u0027implicar\u0027 é transitivo direto na norma culta tradicional (\u0027implicar algo\u0027), sem a necessidade da preposição \u0027em\u0027, embora essa última construção seja bastante frequente na linguagem cotidiana.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-104",
@@ -1419,7 +1522,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Na distinção entre dois elementos já mencionados, a norma culta recomenda \u0027este\u0027 para retomar o termo citado por último (mais próximo) e \u0027aquele\u0027 para retomar o termo citado em primeiro lugar (mais distante), uso corretamente seguido na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-105",
@@ -1433,21 +1537,23 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O verbo \u0027haver\u0027, quando indica tempo decorrido, é impessoal e permanece na terceira pessoa do singular (\u0027há dez anos\u0027), não devendo ser confundido com a preposição \u0027a\u0027, que indica tempo futuro em relação a um marco (\u0027daqui a dez anos\u0027).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-106",
                          "texto_apoio":  "\"Essa é a norma à que todos os funcionários devem se adequar imediatamente após a publicação do novo regulamento interno.\"",
                          "enunciado":  "Sobre o uso da crase em \u0027à que\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está incorreta; o antecedente 'a norma' já vem expresso e o pronome relativo 'que' não admite artigo, de modo que resta apenas a preposição: o correto seria 'a norma a que todos devem se adequar' ou 'a norma à qual todos devem se adequar'.",
+                                              "a":  "está incorreta; o antecedente \u0027a norma\u0027 já vem expresso e o pronome relativo \u0027que\u0027 não admite artigo, de modo que resta apenas a preposição: o correto seria \u0027a norma a que todos devem se adequar\u0027 ou \u0027a norma à qual todos devem se adequar\u0027.",
                                               "b":  "está incorreta porque o verbo \u0027adequar-se\u0027 não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
                                               "c":  "está correta, pois o verbo \u0027adequar-se\u0027 exige a preposição \u0027a\u0027, e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
                                               "d":  "está correta apenas se \u0027norma\u0027 for substituída por um substantivo masculino, condição que eliminaria a crase diante do pronome relativo."
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crase é a fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027. Diante do pronome relativo \u0027que\u0027, com o antecedente já expresso (\u0027a norma\u0027), não há artigo algum a se fundir: resta apenas a preposição exigida por \u0027adequar-se a\u0027. Escreve-se, portanto, \u0027a norma a que todos devem se adequar\u0027, sem acento, ou \u0027a norma à qual todos devem se adequar\u0027, forma em que o acento se justifica porque o artigo acompanha o pronome \u0027qual\u0027, e não \u0027que\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-107",
@@ -1461,7 +1567,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Para adjuntos adverbiais curtos deslocados para o início da frase, a vírgula é facultativa, sendo aceitável tanto sua presença (como na frase) quanto sua ausência, diferente de adjuntos mais longos, para os quais a vírgula é fortemente recomendada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-108",
@@ -1475,7 +1582,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "No sentido de \u0027prestar assistência, ajudar, cuidar de\u0027, o verbo \u0027assistir\u0027 é transitivo direto (\u0027assistir o paciente\u0027), regência diferente da empregada no sentido de \u0027ver, presenciar\u0027, que exige a preposição \u0027a\u0027 (\u0027assistir ao filme\u0027).",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-109",
@@ -1489,7 +1597,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Substantivos coletivos numéricos como \u0027dúzia\u0027, \u0027dezena\u0027, \u0027centena\u0027 concordam normalmente no singular com o núcleo do sujeito (\u0027uma dúzia... é\u0027), embora a concordância por atração com o plural (\u0027dúzia de ovos... são\u0027) também seja aceita em determinados contextos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-110",
@@ -1503,7 +1612,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Por outro lado\u0027 é conectivo que introduz um contraste ou uma nova perspectiva em relação à ideia anterior; no caso, relativiza o avanço da ampliação de leitos ao mostrar que o tempo de internação não melhorou proporcionalmente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-111",
@@ -1517,7 +1627,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Em expressões partitivas com pronome pessoal (\u0027alguns de nós\u0027, \u0027a maioria de vós\u0027), a concordância pode seguir o núcleo do sujeito na terceira pessoa (\u0027alguns... haviam terminado\u0027) ou, por atração, a pessoa do pronome (\u0027alguns de nós... tínhamos terminado\u0027), sendo ambas aceitas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-112",
@@ -1531,7 +1642,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Embora \u0027referir-se\u0027 exija a preposição \u0027a\u0027, não há artigo diante do pronome relativo \u0027que\u0027 quando o antecedente já está expresso, e sem artigo não há crase. As formas corretas são \u0027a decisão a que nos referimos\u0027, sem acento, e \u0027a decisão à qual nos referimos\u0027, em que o artigo acompanha o pronome \u0027qual\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-113",
@@ -1545,7 +1657,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Todo o\u0027 (com artigo) expressa totalidade de um conjunto específico (\u0027todo o material da reforma\u0027, ou seja, a totalidade dele); \u0027todo\u0027 (sem artigo) tem sentido de generalização, equivalente a \u0027qualquer\u0027 (\u0027todo material de construção\u0027, isto é, qualquer material desse tipo), distinção corretamente empregada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-114",
@@ -1559,7 +1672,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Assim que\u0027 é conjunção subordinativa temporal que indica a imediatidade entre dois eventos (o resultado ficar pronto e o aviso aos pacientes), e não uma condição hipotética, explicação ou concessão.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-115",
@@ -1573,7 +1687,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O verbo \u0027rever\u0027 (e, por extensão, \u0027revisar\u0027 em certos usos) admite duplo particípio: a forma regular \u0027revisado\u0027 e a irregular \u0027revisto\u0027; tradicionalmente a forma irregular é preferida com \u0027ser\u0027/\u0027estar\u0027, mas ambas são aceitas pela norma culta atual em contextos como o da frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-116",
@@ -1587,7 +1702,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Na norma culta escrita formal, pronomes retos (\u0027eu\u0027, \u0027ele\u0027, \u0027nós\u0027) não devem exercer função de objeto direto, que deve ser preenchida por pronomes oblíquos átonos (\u0027o\u0027, \u0027a\u0027, \u0027os\u0027, \u0027as\u0027); o uso de \u0027ele\u0027 como complemento verbal é comum na oralidade, mas evitado na escrita formal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-117",
@@ -1601,7 +1717,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Pronomes de tratamento como \u0027Vossa Senhoria\u0027, \u0027Vossa Excelência\u0027 e \u0027Você\u0027 referem-se ao interlocutor, mas exigem concordância verbal na terceira pessoa gramatical, regra corretamente seguida em \u0027Vossa Senhoria... pode retirar\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-118",
@@ -1615,7 +1732,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A preposição \u0027até\u0027 pode ser seguida da preposição \u0027a\u0027 fundida ao artigo feminino determinado, formando a crase facultativa \u0027até à\u0027, construção aceita pela norma culta como reforço de destino, ao lado da forma mais simples \u0027até a parada\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-119",
@@ -1629,7 +1747,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O travessão isolado pode ser empregado para introduzir uma explicação ou detalhamento do que foi anunciado antes (\u0027um dado alarmante\u0027), uso equivalente, em muitos contextos, ao dos dois-pontos, sendo recurso estilístico aceito pela norma culta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-120",
@@ -1643,7 +1762,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027zangar-se\u0027, na forma pronominal, rege a preposição \u0027com\u0027 (\u0027zangar-se com alguém/algo\u0027), regência corretamente empregada na frase ao construir \u0027se zangou com o guincho\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-121",
@@ -1657,7 +1777,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Embora a concordância com o substantivo mais próximo (\u0027tabela detalhada\u0027) seja aceita por parte dos gramáticos em certos contextos, a regra mais tradicional e recomendada para adjetivo posposto a substantivos de gêneros diferentes é o masculino plural: \u0027gráfico e tabela detalhados\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-122",
@@ -1671,7 +1792,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Locuções conjuntivas de finalidade como \u0027a fim de que\u0027 e \u0027para que\u0027, quando seguidas de oração com sujeito próprio, exigem o modo subjuntivo, regra corretamente seguida com \u0027estivesse\u0027 (pretérito imperfeito do subjuntivo).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-123",
@@ -1685,7 +1807,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A concordância verbal com sujeitos formados por percentual segue o número indicado: percentuais no singular (\u00271%\u0027) concordam no singular, e percentuais maiores que um (\u002745%\u0027) concordam no plural, regra corretamente aplicada nas duas ocorrências da frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-124",
@@ -1699,7 +1822,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027À vontade\u0027 é locução adverbial feminina consagrada pelo uso, resultante da fusão da preposição \u0027a\u0027 com o artigo feminino que acompanha \u0027vontade\u0027, mantendo-se a crase independentemente da posição da locução na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-125",
@@ -1713,7 +1837,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diante de orações mais longas ou que já contêm vírgulas internas, o ponto e vírgula é recurso adequado para introduzir a conjunção adversativa \u0027porém\u0027, assinalando uma pausa mais forte do que a vírgula simples, uso corretamente empregado na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-126",
@@ -1727,7 +1852,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O adjetivo \u0027simpático\u0027 rege, na norma culta, a preposição \u0027a\u0027 (\u0027simpático a alguém\u0027), regência corretamente empregada na frase, embora o uso com \u0027com\u0027 seja frequente na linguagem cotidiana.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-127",
@@ -1741,7 +1867,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A correlação \u0027não só... mas também\u0027 é recurso de coesão aditiva que amplia o alcance de uma afirmação, somando um segundo elemento ao primeiro já mencionado, e não indica oposição, exclusão ou causalidade entre os grupos citados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-128",
@@ -1755,7 +1882,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Quando o pronome relativo \u0027que\u0027 retoma um pronome pessoal como antecedente (\u0027nós\u0027), o verbo da oração relativa deve concordar com esse pronome, e não ficar automaticamente na terceira pessoa: \u0027somos nós que decidimos\u0027 (primeira pessoa do plural), regra corretamente seguida na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-129",
@@ -1769,7 +1897,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027À moda de\u0027 é locução consagrada pelo uso que admite complemento especificado (\u0027à moda da casa\u0027, \u0027à moda italiana\u0027), mantendo a crase pela fusão da preposição \u0027a\u0027, exigida pela locução, com o artigo feminino que acompanha \u0027moda\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-130",
@@ -1783,7 +1912,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Na datação convencional de cartas e documentos formais, emprega-se a vírgula logo após o nome do local, separando-o da indicação da data, formato consagrado pela tradição da escrita formal em português.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-131",
@@ -1797,7 +1927,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Gostar\u0027 é sempre transitivo indireto, regido pela preposição \u0027de\u0027 (\u0027gostar de algo\u0027), regra corretamente empregada na frase; o verbo \u0027compartilhar\u0027, no sentido empregado, também admite a preposição \u0027de\u0027 antes de seu complemento (\u0027compartilhar de um gosto\u0027), reforçando a coerência da regência na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-132",
@@ -1811,7 +1942,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão \u0027ao mesmo tempo que\u0027 indica simultaneidade entre dois efeitos contrastantes (alívio para uns, frustração para outros) decorrentes do mesmo evento, sem estabelecer relação de causa direta, condição ou finalidade entre eles.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-133",
@@ -1825,7 +1957,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027comparecer\u0027 é transitivo indireto e rege a preposição \u0027a\u0027 quando indica o local de comparecimento (\u0027comparecer ao local\u0027), regência corretamente aplicada na frase, ainda que \u0027comparecer em\u0027 seja frequente na linguagem cotidiana.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-134",
@@ -1839,7 +1972,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Único\u0027 é adjetivo variável que concorda em gênero e número com o substantivo a que se refere; por isso, \u0027único espaço\u0027 (masculino singular) e \u0027única alternativa\u0027 (feminino singular) estão corretamente flexionados na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-135",
@@ -1853,7 +1987,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Todavia\u0027 é conjunção adversativa, equivalente a \u0027porém\u0027 e \u0027contudo\u0027, que introduz um contraste entre o investimento anunciado e o resultado insatisfatório (estabilidade da evasão), e não uma relação de adição, causa ou finalidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-136",
@@ -1867,7 +2002,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Apesar de equivaler semanticamente a \u0027nós\u0027, a expressão \u0027a gente\u0027 é gramaticalmente um substantivo coletivo e exige concordância verbal na terceira pessoa do singular (\u0027a gente chega\u0027, \u0027a gente prefere\u0027), regra corretamente seguida na frase, e amplamente aceita mesmo em registros cuidados da língua.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-137",
@@ -1881,7 +2017,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O verbo \u0027abdicar\u0027, no sentido de \u0027renunciar a algo\u0027, é transitivo indireto e rege a preposição \u0027de\u0027 (\u0027abdicar de um cargo\u0027), regência corretamente empregada na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-138",
@@ -1895,7 +2032,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Diferentemente de verbos com duplo particípio, \u0027pagar\u0027 possui apenas a forma irregular \u0027pago\u0027 na norma culta atual, empregada tanto com os verbos \u0027ser/estar\u0027 (voz passiva) quanto com \u0027ter/haver\u0027 (tempos compostos), o que torna corretas as duas ocorrências da frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-139",
@@ -1909,7 +2047,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A omissão do verbo nas duas últimas orações (\u0027os alunos, [tinham] atenção redobrada\u0027; \u0027o silêncio, [estava] absoluto\u0027), recuperável pelo contexto e pelo paralelismo com a primeira oração, caracteriza a elipse do verbo, recurso de coesão que evita repetições.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-140",
@@ -1923,7 +2062,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "\u0027Alguns\u0027 é pronome indefinido que, como núcleo do sujeito, já expressa pluralidade, exigindo a concordância verbal no plural (\u0027alguns... haviam solicitado\u0027), regra corretamente seguida na frase, sem qualquer excepcionalidade como a das expressões partitivas com pronome pessoal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-141",
@@ -1937,7 +2077,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A expressão \u0027dar atenção a algo\u0027 exige a preposição \u0027a\u0027, que se funde ao artigo feminino do pronome relativo \u0027qual\u0027 (retomando \u0027uma norma antiga\u0027, substantivo feminino), justificando corretamente o uso de \u0027à qual\u0027 na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-142",
@@ -1951,7 +2092,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Os parênteses são empregados corretamente para inserir um comentário explicativo adicional (\u0027transcrito conforme gravação oficial\u0027), sem prejudicar a estrutura sintática principal da frase, uso consagrado desse sinal de pontuação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-143",
@@ -1965,7 +2107,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O verbo \u0027precisar\u0027 muda de sentido e regência conforme o contexto: no sentido de \u0027necessitar\u0027, é transitivo indireto e exige a preposição \u0027de\u0027 (\u0027precisar de voluntários\u0027); no sentido de \u0027determinar com exatidão\u0027, é transitivo direto, sem preposição (\u0027precisar quantas pessoas\u0027), distinção corretamente empregada na frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-144",
@@ -1979,7 +2122,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Por que\u0027 (separado, sem acento) é usado em perguntas diretas ou indiretas com sentido de \u0027por qual razão\u0027 (\u0027perguntou por que...\u0027); \u0027o porquê\u0027 (junto, substantivado e precedido de artigo) equivale a \u0027o motivo\u0027, distinção corretamente empregada nas duas ocorrências da frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-145",
@@ -1993,7 +2137,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Mal\u0027 (advérbio) é usado em \u0027mal-humorado\u0027 como elemento de composição consagrado pela tradição ortográfica, e também em \u0027mal entrou\u0027 com sentido temporal (equivalente a \u0027assim que entrou\u0027); já \u0027mau\u0027 é adjetivo, oposto de \u0027bom\u0027, usado antes de substantivos (\u0027um mau motorista\u0027), distinção diferente da aplicada nesta frase.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-146",
@@ -2007,7 +2152,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Como já observado em outro contexto, no sentido de \u0027pretender, desejar\u0027, o verbo \u0027aspirar\u0027 é transitivo indireto e rege a preposição \u0027a\u0027; como \u0027vaga\u0027 é substantivo feminino determinado, ocorre a crase corretamente em \u0027aspiravam à vaga\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-147",
@@ -2021,7 +2167,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027À revelia de\u0027 é locução consagrada que significa \u0027sem o conhecimento, à margem da vontade de alguém\u0027, empregada corretamente no sentido da frase (a decisão foi tomada sem que os moradores soubessem), com a crase própria de locuções prepositivas femininas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-148",
@@ -2035,7 +2182,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Expressões explicativas como \u0027ou seja\u0027, \u0027isto é\u0027 e \u0027a saber\u0027, que reformulam ou detalham uma ideia anterior, costumam ser isoladas por vírgula, uso corretamente empregado antes de \u0027ou seja\u0027 na frase.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-149",
@@ -2049,7 +2197,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A expressão \u0027é preciso\u0027, quando seguida de oração infinitiva ou de substantivo sem determinação por artigo, é impessoal e permanece invariável na terceira pessoa do singular, uso corretamente empregado na frase (\u0027é preciso se preparar\u0027).",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "gramatica-150",
@@ -2063,7 +2212,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O verbo \u0027certificar-se\u0027, na forma pronominal, rege a preposição \u0027de\u0027 (\u0027certificar-se de algo\u0027 ou \u0027certificar-se de que\u0027), regência corretamente empregada na frase; a omissão da preposição antes de \u0027que\u0027 é desvio comum na linguagem informal, mas evitado na norma culta escrita.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

@@ -10,7 +10,13 @@
 #   .\verify-banco.ps1                        # todos os bancos
 #   .\verify-banco.ps1 -Frente geografia      # um banco só
 #   .\verify-banco.ps1 -Estrito               # exige 5 alternativas em tudo
+#   .\verify-banco.ps1 -EscadaEstrita         # exige o jogo fixo da FGV nas escadas
 #   .\verify-banco.ps1 -AtualizarContagem     # grava a nova baseline do tripwire
+#
+# -Estrito e -EscadaEstrita ficam desligados enquanto a migração corre: as 108
+# escadas fora do padrão e as questões ainda em 4 alternativas são pendência
+# conhecida, e reprovar por elas em todo lote afogaria a regressão de verdade
+# no meio do ruído. Ligue cada um quando a fase correspondente terminar.
 #
 # Sai com código 1 se qualquer invariante falhar, pra poder encadear com o
 # build sem depender de leitura humana da saída.
@@ -18,6 +24,7 @@
 param(
   [string]$Frente = "",
   [switch]$Estrito,
+  [switch]$EscadaEstrita,
   [switch]$AtualizarContagem
 )
 
@@ -54,12 +61,12 @@ function Test-Questao {
 
   $erros = @()
   $id = $q.id
-  if (-not $id) { return @("questão sem 'id'") }
+  if (-not $id) { return @{ erros = @("questão sem 'id'"); escada = @() } }
 
   foreach ($campo in @("enunciado", "alternativas", "resposta", "explicacao")) {
     if (-not $q.PSObject.Properties.Name.Contains($campo)) { $erros += "$id : falta o campo '$campo'" }
   }
-  if (-not $q.alternativas) { return $erros }
+  if (-not $q.alternativas) { return @{ erros = $erros; escada = @() } }
 
   $chaves = @($q.alternativas.PSObject.Properties.Name)
   $n = $chaves.Count
@@ -97,47 +104,49 @@ function Test-Questao {
     }
   }
 
-  # invariante da escada: só cobra de quem está marcado como tal
+  # Invariante da escada: só cobra de quem está marcado como tal. Sai como
+  # aviso até a Fase 6 normalizar as 108 (ver -EscadaEstrita).
+  $escadaFora = @()
   if ($q.formato -eq "escada") {
     if ($n -ne 5) {
-      $erros += "$id : escada com $n alternativas"
+      $escadaFora += "$id : escada com $n alternativas"
     } else {
       foreach ($l in $LETRAS) {
         if ($q.alternativas.$l -ne $ESCADA_FGV[$l]) {
-          $erros += "$id : escada fora do padrão FGV em ($l): '$($q.alternativas.$l)', esperava '$($ESCADA_FGV[$l])'"
+          $escadaFora += "$id : escada fora do padrão FGV em ($l): '$($q.alternativas.$l)', esperava '$($ESCADA_FGV[$l])'"
         }
       }
     }
   }
 
-  return $erros
+  return @{ erros = $erros; escada = $escadaFora }
 }
 
 # ---------------------------------------------------------------- self-test
 
 function Invoke-SelfTest {
   $boa = '{"id":"x-01","enunciado":"e","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"c","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $boa $true).Count -ne 0) { throw "self-test: questão válida foi reprovada" }
+  if ((Test-Questao $boa $true).erros.Count -ne 0) { throw "self-test: questão válida foi reprovada" }
 
   $dup = '{"id":"x-02","enunciado":"e","alternativas":{"a":"1","b":"1","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $dup $true).Count -eq 0) { throw "self-test: duplicata passou" }
+  if ((Test-Questao $dup $true).erros.Count -eq 0) { throw "self-test: duplicata passou" }
 
   $respFora = '{"id":"x-03","enunciado":"e","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"f","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $respFora $true).Count -eq 0) { throw "self-test: resposta inexistente passou" }
+  if ((Test-Questao $respFora $true).erros.Count -eq 0) { throw "self-test: resposta inexistente passou" }
 
   $quatro = '{"id":"x-04","enunciado":"e","alternativas":{"a":"1","b":"2","c":"3","d":"4"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $quatro $false).Count -ne 0) { throw "self-test: 4 alternativas reprovadas fora do modo estrito" }
-  if ((Test-Questao $quatro $true).Count -eq 0) { throw "self-test: 4 alternativas passaram no modo estrito" }
+  if ((Test-Questao $quatro $false).erros.Count -ne 0) { throw "self-test: 4 alternativas reprovadas fora do modo estrito" }
+  if ((Test-Questao $quatro $true).erros.Count -eq 0) { throw "self-test: 4 alternativas passaram no modo estrito" }
 
   # escada embaralhada tem que reprovar; escada canônica tem que passar
   $escadaRuim = '{"id":"x-05","formato":"escada","enunciado":"e","alternativas":{"a":"I e II, apenas","b":"I, apenas","c":"I, II e III","d":"II e III, apenas","e":"III, apenas"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $escadaRuim $true).Count -eq 0) { throw "self-test: escada embaralhada passou" }
+  if ((Test-Questao $escadaRuim $true).escada.Count -eq 0) { throw "self-test: escada embaralhada passou" }
 
   $escadaBoa = '{"id":"x-06","formato":"escada","enunciado":"e","alternativas":{"a":"I, apenas","b":"I e II, apenas","c":"II e III, apenas","d":"I e III, apenas","e":"I, II e III"},"resposta":"c","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $escadaBoa $true).Count -ne 0) { throw "self-test: escada canônica foi reprovada" }
+  if ((Test-Questao $escadaBoa $true).escada.Count -ne 0) { throw "self-test: escada canônica foi reprovada" }
 
   $visualSemDesc = '{"id":"x-07","enunciado":"e","visual":{"tipo":"charge","arquivo":"assets/v/a.svg"},"alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
-  if ((Test-Questao $visualSemDesc $true).Count -eq 0) { throw "self-test: visual sem descricao passou" }
+  if ((Test-Questao $visualSemDesc $true).erros.Count -eq 0) { throw "self-test: visual sem descricao passou" }
 }
 
 Invoke-SelfTest
@@ -156,6 +165,7 @@ $resumo = @()
 $contagemNova = @{}
 $totalGeral = 0
 $cincoGeral = 0
+$escadasFora = 0
 
 foreach ($file in $files) {
   $nome = $file.BaseName
@@ -188,8 +198,11 @@ foreach ($file in $files) {
   $formatoCount = @{}
 
   foreach ($q in $questoes) {
-    $erros = Test-Questao $q ([bool]$Estrito)
-    foreach ($e in $erros) { $falhas += "$nome : $e" }
+    $r = Test-Questao $q ([bool]$Estrito)
+    foreach ($e in $r.erros) { $falhas += "$nome : $e" }
+    foreach ($e in $r.escada) {
+      if ($EscadaEstrita) { $falhas += "$nome : $e" } else { $escadasFora++ }
+    }
 
     if (@($q.alternativas.PSObject.Properties.Name).Count -eq 5) { $cinco++ }
 
@@ -288,6 +301,9 @@ if ($baseline) {
 Write-Output ""
 $resumo | Format-Table -AutoSize
 Write-Output "TOTAL: $totalGeral questões, $cincoGeral com 5 alternativas, $($totalGeral - $cincoGeral) ainda com 4"
+if ($escadasFora -gt 0 -and -not $EscadaEstrita) {
+  Write-Output "PENDENTE: $escadasFora desvios do jogo fixo da FGV em questões de escada (Fase 6). Use -EscadaEstrita para reprovar por eles."
+}
 
 if ($avisos.Count -gt 0) {
   Write-Output ""

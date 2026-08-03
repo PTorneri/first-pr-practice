@@ -12,7 +12,8 @@
                                               "d":  "uma zona de livre comércio, sem qualquer tarifa externa comum"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O Mercosul avançou de uma zona de livre comércio para uma união aduaneira, mas por manter numerosas exceções à Tarifa Externa Comum, é caracterizado como uma união aduaneira imperfeita, ainda distante de um mercado comum pleno ou de uma união monetária."
+                         "explicacao":  "O Mercosul avançou de uma zona de livre comércio para uma união aduaneira, mas por manter numerosas exceções à Tarifa Externa Comum, é caracterizado como uma união aduaneira imperfeita, ainda distante de um mercado comum pleno ou de uma união monetária.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-02",
@@ -26,7 +27,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a função da TEC e a classificação do Mercosul como união aduaneira imperfeita, dada a persistência de exceções nacionais. A afirmativa III é falsa: uma união aduaneira, mesmo incompleta, é um estágio de integração bem anterior a uma união monetária, que exigiria moeda comum e política monetária unificada, o que o Mercosul não possui."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a função da TEC e a classificação do Mercosul como união aduaneira imperfeita, dada a persistência de exceções nacionais. A afirmativa III é falsa: uma união aduaneira, mesmo incompleta, é um estágio de integração bem anterior a uma união monetária, que exigiria moeda comum e política monetária unificada, o que o Mercosul não possui.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-03",
@@ -39,7 +41,8 @@
                                               "d":  "unilateralismo normativo imposto por um único Estado-membro"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos."
+                         "explicacao":  "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-04",
@@ -52,7 +55,8 @@
                                               "d":  "imunidade automática a crises fiscais, independentemente da situação orçamentária do país"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco."
+                         "explicacao":  "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-05",
@@ -66,7 +70,8 @@
                                               "e":  "I e II, apenas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o caráter do BRICS como espaço de diálogo político e financeiro entre economias emergentes, sem o grau de institucionalização econômica de blocos como o Mercosul. A afirmativa III é falsa: o BRICS não possui moeda própria compartilhada nem união monetária entre seus membros, apesar de debates sobre mecanismos financeiros alternativos."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente o caráter do BRICS como espaço de diálogo político e financeiro entre economias emergentes, sem o grau de institucionalização econômica de blocos como o Mercosul. A afirmativa III é falsa: o BRICS não possui moeda própria compartilhada nem união monetária entre seus membros, apesar de debates sobre mecanismos financeiros alternativos.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-06",
@@ -79,7 +84,8 @@
                                               "d":  "eleger o Secretário-Geral da organização, escolha que cabe à Assembleia Geral por indicação do Conselho"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O poder de veto dos membros permanentes pode paralisar decisões do Conselho de Segurança sempre que uma grande potência considerar que seus interesses estratégicos estão em jogo, limitando a capacidade de resposta rápida e unificada da ONU em determinadas crises."
+                         "explicacao":  "O poder de veto dos membros permanentes pode paralisar decisões do Conselho de Segurança sempre que uma grande potência considerar que seus interesses estratégicos estão em jogo, limitando a capacidade de resposta rápida e unificada da ONU em determinadas crises.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-07",
@@ -92,7 +98,8 @@
                                               "d":  "nação mais favorecida"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O princípio da nação mais favorecida determina que vantagens comerciais concedidas a um parceiro devem, em regra, ser estendidas a todos os demais membros da organização, evitando discriminação comercial entre países-membros."
+                         "explicacao":  "O princípio da nação mais favorecida determina que vantagens comerciais concedidas a um parceiro devem, em regra, ser estendidas a todos os demais membros da organização, evitando discriminação comercial entre países-membros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-08",
@@ -105,7 +112,8 @@
                                               "d":  "tarifas compensatórias"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As condicionalidades são compromissos de política econômica — como ajuste fiscal ou reformas estruturais — que países tomadores de empréstimos do FMI se comprometem a adotar como contrapartida ao financiamento recebido."
+                         "explicacao":  "As condicionalidades são compromissos de política econômica — como ajuste fiscal ou reformas estruturais — que países tomadores de empréstimos do FMI se comprometem a adotar como contrapartida ao financiamento recebido.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-09",
@@ -119,7 +127,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a unipolaridade e a multipolaridade como configurações distintas de distribuição de poder internacional. A afirmativa III é falsa: a bipolaridade (dois polos de poder, como na Guerra Fria) e a multipolaridade (múltiplos polos) descrevem distribuições de poder distintas entre si, não sendo sinônimas."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a unipolaridade e a multipolaridade como configurações distintas de distribuição de poder internacional. A afirmativa III é falsa: a bipolaridade (dois polos de poder, como na Guerra Fria) e a multipolaridade (múltiplos polos) descrevem distribuições de poder distintas entre si, não sendo sinônimas.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-10",
@@ -132,7 +141,8 @@
                                               "d":  "neutralidade armada, postura de não beligerância mantida por terceiros países"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Uma guerra por procuração ocorre quando potências externas apoiam diferentes lados de um conflito sem se engajar diretamente em confronto militar entre si, buscando influenciar o resultado sem os custos e riscos de uma guerra direta."
+                         "explicacao":  "Uma guerra por procuração ocorre quando potências externas apoiam diferentes lados de um conflito sem se engajar diretamente em confronto militar entre si, buscando influenciar o resultado sem os custos e riscos de uma guerra direta.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-11",
@@ -145,7 +155,8 @@
                                               "d":  "o desaparecimento de identidades étnicas locais, unificadas por políticas coloniais de assimilação cultural"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Fronteiras traçadas sem considerar divisões étnicas e religiosas preexistentes frequentemente reuniram, sob um mesmo Estado, grupos com identidades, interesses e histórico de rivalidades distintos, o que é apontado como fator estrutural de instabilidade e conflitos internos."
+                         "explicacao":  "Fronteiras traçadas sem considerar divisões étnicas e religiosas preexistentes frequentemente reuniram, sob um mesmo Estado, grupos com identidades, interesses e histórico de rivalidades distintos, o que é apontado como fator estrutural de instabilidade e conflitos internos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-12",
@@ -158,7 +169,8 @@
                                               "d":  "autossuficiência total, sem depender de importações de nenhum parceiro comercial internacional"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A teoria das vantagens comparativas mostra que o comércio pode beneficiar todos os países envolvidos quando cada um se especializa na produção dos bens em que tem menor custo de oportunidade relativo, mesmo que não possua vantagem absoluta em nenhum setor."
+                         "explicacao":  "A teoria das vantagens comparativas mostra que o comércio pode beneficiar todos os países envolvidos quando cada um se especializa na produção dos bens em que tem menor custo de oportunidade relativo, mesmo que não possua vantagem absoluta em nenhum setor.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-13",
@@ -171,7 +183,8 @@
                                               "d":  "aumentar automaticamente a produtividade dos setores protegidos, sem qualquer custo para os consumidores"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Medidas protecionistas podem proteger empregos e setores específicos no curto prazo, mas tendem a elevar preços para os consumidores domésticos e reduzir os ganhos de eficiência associados à especialização e à concorrência internacional."
+                         "explicacao":  "Medidas protecionistas podem proteger empregos e setores específicos no curto prazo, mas tendem a elevar preços para os consumidores domésticos e reduzir os ganhos de eficiência associados à especialização e à concorrência internacional.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-14",
@@ -184,7 +197,8 @@
                                               "d":  "protecionismo seletivo setorial"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As cadeias globais de valor referem-se à distribuição das diferentes etapas do processo produtivo de um bem entre diversos países, de acordo com vantagens específicas de cada localidade, como custo de mão de obra, tecnologia ou proximidade de insumos."
+                         "explicacao":  "As cadeias globais de valor referem-se à distribuição das diferentes etapas do processo produtivo de um bem entre diversos países, de acordo com vantagens específicas de cada localidade, como custo de mão de obra, tecnologia ou proximidade de insumos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-15",
@@ -197,7 +211,8 @@
                                               "d":  "diplomacia coercitiva formal"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O conceito de soft power, formulado por Joseph Nye, refere-se à capacidade de um Estado influenciar outros atores por meio de atração cultural, valores e legitimidade, em contraste com o hard power, baseado em coerção militar ou econômica."
+                         "explicacao":  "O conceito de soft power, formulado por Joseph Nye, refere-se à capacidade de um Estado influenciar outros atores por meio de atração cultural, valores e legitimidade, em contraste com o hard power, baseado em coerção militar ou econômica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-16",
@@ -210,7 +225,8 @@
                                               "d":  "sanções produzem, de forma automática e imediata, mudança de comportamento no país-alvo, independentemente de sua resiliência"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Sanções econômicas podem ser contornadas por meio de rotas comerciais alternativas e tendem a impactar de forma mais direta a população civil do país-alvo, o que limita sua eficácia como instrumento de pressão sobre decisões de governantes."
+                         "explicacao":  "Sanções econômicas podem ser contornadas por meio de rotas comerciais alternativas e tendem a impactar de forma mais direta a população civil do país-alvo, o que limita sua eficácia como instrumento de pressão sobre decisões de governantes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-17",
@@ -223,7 +239,8 @@
                                               "d":  "diplomacia Sul-Sul multilateral"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A diplomacia Sul-Sul refere-se à busca de cooperação política, econômica e técnica entre países em desenvolvimento, valorizando o multilateralismo e reduzindo a dependência exclusiva de relações com potências tradicionais."
+                         "explicacao":  "A diplomacia Sul-Sul refere-se à busca de cooperação política, econômica e técnica entre países em desenvolvimento, valorizando o multilateralismo e reduzindo a dependência exclusiva de relações com potências tradicionais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-18",
@@ -236,7 +253,8 @@
                                               "d":  "a percepção de riscos geopolíticos e de segurança no fornecimento associados a cadeias dispersas e distantes"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Nearshoring e friend-shoring surgem como respostas à percepção de vulnerabilidade associada a cadeias de suprimento excessivamente concentradas ou dependentes de fornecedores distantes e geopoliticamente sensíveis, priorizando segurança e resiliência em detrimento do menor custo absoluto."
+                         "explicacao":  "Nearshoring e friend-shoring surgem como respostas à percepção de vulnerabilidade associada a cadeias de suprimento excessivamente concentradas ou dependentes de fornecedores distantes e geopoliticamente sensíveis, priorizando segurança e resiliência em detrimento do menor custo absoluto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-19",
@@ -250,7 +268,8 @@
                                               "e":  "I, apenas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção jurídica entre refugiado e migrante econômico, reconhecida por convenções internacionais. A afirmativa III é falsa: nada impede, em princípio, que um refugiado solicite e obtenha a cidadania do país de acolhida ao longo do tempo, inclusive como parte do processo de integração local, uma das soluções duradouras reconhecidas para a situação de refugiados."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção jurídica entre refugiado e migrante econômico, reconhecida por convenções internacionais. A afirmativa III é falsa: nada impede, em princípio, que um refugiado solicite e obtenha a cidadania do país de acolhida ao longo do tempo, inclusive como parte do processo de integração local, uma das soluções duradouras reconhecidas para a situação de refugiados.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-20",
@@ -263,7 +282,8 @@
                                               "d":  "a segurança cibernética substitui integralmente a necessidade de manter forças armadas convencionais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A crescente digitalização de infraestruturas críticas (energia, finanças, saúde) as torna vulneráveis a ataques cibernéticos capazes de causar interrupções e danos significativos, o que levou países a tratar a segurança cibernética como componente central de suas estratégias de defesa."
+                         "explicacao":  "A crescente digitalização de infraestruturas críticas (energia, finanças, saúde) as torna vulneráveis a ataques cibernéticos capazes de causar interrupções e danos significativos, o que levou países a tratar a segurança cibernética como componente central de suas estratégias de defesa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-21",
@@ -276,7 +296,8 @@
                                               "d":  "a inexistência de qualquer mecanismo de verificação internacional, tarefa a cargo exclusivo de cada governo"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Regimes de não proliferação, como o Tratado de Não Proliferação Nuclear, buscam equilibrar o direito de países ao uso pacífico da energia nuclear com mecanismos de verificação que reduzam o risco de desvio de tecnologia e material nuclear para fins militares, um equilíbrio frequentemente tensionado na prática."
+                         "explicacao":  "Regimes de não proliferação, como o Tratado de Não Proliferação Nuclear, buscam equilibrar o direito de países ao uso pacífico da energia nuclear com mecanismos de verificação que reduzam o risco de desvio de tecnologia e material nuclear para fins militares, um equilíbrio frequentemente tensionado na prática.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-22",
@@ -290,7 +311,8 @@
                                               "e":  "II, apenas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza restrita e não vinculante de fóruns como G7 e G20. A afirmativa III é falsa: esses fóruns não substituem o Conselho de Segurança da ONU, que possui prerrogativas jurídicas específicas, como a autorização do uso da força, que não são exercidas por fóruns informais de coordenação econômica."
+                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza restrita e não vinculante de fóruns como G7 e G20. A afirmativa III é falsa: esses fóruns não substituem o Conselho de Segurança da ONU, que possui prerrogativas jurídicas específicas, como a autorização do uso da força, que não são exercidas por fóruns informais de coordenação econômica.",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-23",
@@ -303,7 +325,8 @@
                                               "d":  "ajuda humanitária multilateral"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As remessas de migrantes — recursos enviados por trabalhadores no exterior a familiares em seus países de origem — representam, para diversas economias em desenvolvimento, uma fonte relevante de divisas, por vezes superior a investimentos estrangeiros diretos ou ajuda externa."
+                         "explicacao":  "As remessas de migrantes — recursos enviados por trabalhadores no exterior a familiares em seus países de origem — representam, para diversas economias em desenvolvimento, uma fonte relevante de divisas, por vezes superior a investimentos estrangeiros diretos ou ajuda externa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-24",
@@ -316,7 +339,8 @@
                                               "d":  "garante automaticamente autossuficiência tecnológica às economias consumidoras menos desenvolvidas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A forte concentração geográfica da produção de semicondutores torna países dependentes de importação vulneráveis a interrupções na cadeia de suprimentos, o que tem levado grandes potências a tratar o setor como prioridade estratégica, com políticas industriais e disputas comerciais específicas."
+                         "explicacao":  "A forte concentração geográfica da produção de semicondutores torna países dependentes de importação vulneráveis a interrupções na cadeia de suprimentos, o que tem levado grandes potências a tratar o setor como prioridade estratégica, com políticas industriais e disputas comerciais específicas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-25",
@@ -329,7 +353,8 @@
                                               "d":  "zona de exclusão aérea militar"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A liberdade de navegação, prevista em convenções de direito do mar, garante a passagem de embarcações por determinadas águas internacionais, sendo frequentemente invocada em disputas territoriais marítimas, como as observadas em algumas regiões do Indo-Pacífico."
+                         "explicacao":  "A liberdade de navegação, prevista em convenções de direito do mar, garante a passagem de embarcações por determinadas águas internacionais, sendo frequentemente invocada em disputas territoriais marítimas, como as observadas em algumas regiões do Indo-Pacífico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-26",
@@ -342,7 +367,8 @@
                                               "d":  "reduzir barreiras ao comércio intra-africano e fortalecer a posição econômica conjunta dos países do continente"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Iniciativas de integração regional africana, como áreas de livre comércio continentais, buscam reduzir barreiras tarifárias entre países africanos, estimular o comércio intrarregional e fortalecer a posição econômica conjunta do continente no cenário internacional."
+                         "explicacao":  "Iniciativas de integração regional africana, como áreas de livre comércio continentais, buscam reduzir barreiras tarifárias entre países africanos, estimular o comércio intrarregional e fortalecer a posição econômica conjunta do continente no cenário internacional.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-27",
@@ -355,7 +381,8 @@
                                               "d":  "extinguir completamente o comércio entre países emergentes e desenvolvidos, encerrando qualquer parceria bilateral"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A criação de mecanismos financeiros alternativos por agrupamentos de economias emergentes é interpretada como parte de uma estratégia para ampliar sua influência política e financeira internacional, reduzindo a dependência de instituições historicamente dominadas por potências ocidentais, como o Banco Mundial e o FMI."
+                         "explicacao":  "A criação de mecanismos financeiros alternativos por agrupamentos de economias emergentes é interpretada como parte de uma estratégia para ampliar sua influência política e financeira internacional, reduzindo a dependência de instituições historicamente dominadas por potências ocidentais, como o Banco Mundial e o FMI.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-28",
@@ -368,7 +395,8 @@
                                               "d":  "eliminar totalmente o consumo de energia do país, tornando a diversificação de fontes desnecessária"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A diversificação de fontes e fornecedores de energia reduz a exposição de um país a interrupções de fornecimento e a pressões políticas decorrentes da dependência excessiva de poucos fornecedores, sendo uma estratégia central de segurança energética."
+                         "explicacao":  "A diversificação de fontes e fornecedores de energia reduz a exposição de um país a interrupções de fornecimento e a pressões políticas decorrentes da dependência excessiva de poucos fornecedores, sendo uma estratégia central de segurança energética.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-29",
@@ -381,7 +409,8 @@
                                               "d":  "ser automaticamente excluído de qualquer disputa comercial internacional, inclusive as movidas na OMC"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O status de moeda de reserva internacional permite ao país emissor financiar déficits externos com mais facilidade e amplia sua influência sobre o sistema financeiro global, inclusive como instrumento de política externa, por exemplo por meio de sanções que restringem o acesso de outros países a transações nessa moeda."
+                         "explicacao":  "O status de moeda de reserva internacional permite ao país emissor financiar déficits externos com mais facilidade e amplia sua influência sobre o sistema financeiro global, inclusive como instrumento de política externa, por exemplo por meio de sanções que restringem o acesso de outros países a transações nessa moeda.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-30",
@@ -394,7 +423,8 @@
                                               "d":  "as grandes potências mundiais reconhecem automaticamente sua jurisdição, independentemente de ratificação"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Tribunais internacionais geralmente não dispõem de força policial própria, dependendo da cooperação dos Estados para executar mandados de prisão e fazer cumprir decisões, o que limita sua efetividade quando Estados se recusam a cooperar ou não reconhecem sua jurisdição."
+                         "explicacao":  "Tribunais internacionais geralmente não dispõem de força policial própria, dependendo da cooperação dos Estados para executar mandados de prisão e fazer cumprir decisões, o que limita sua efetividade quando Estados se recusam a cooperar ou não reconhecem sua jurisdição.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-31",
@@ -407,7 +437,8 @@
                                               "d":  "a exclusividade absoluta de um único país sobre todo o espaço orbital, vedada a demais Estados"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O aumento de atores estatais e privados no espaço trouxe à tona debates sobre regulação internacional, incluindo riscos de militarização do espaço, acúmulo de detritos orbitais e disputas por posições orbitais estrategicamente valiosas, como as usadas por satélites de comunicação."
+                         "explicacao":  "O aumento de atores estatais e privados no espaço trouxe à tona debates sobre regulação internacional, incluindo riscos de militarização do espaço, acúmulo de detritos orbitais e disputas por posições orbitais estrategicamente valiosas, como as usadas por satélites de comunicação.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-32",
@@ -420,7 +451,8 @@
                                               "d":  "disputas geoeconômicas por acesso a essas cadeias, com países buscando diversificar fontes e reduzir dependência"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A concentração da produção e do processamento de minerais estratégicos (como lítio, cobalto e terras-raras) em poucos países tem gerado disputas geoeconômicas, com governos e empresas buscando diversificar fontes de suprimento para tecnologias essenciais à transição energética e à indústria eletrônica."
+                         "explicacao":  "A concentração da produção e do processamento de minerais estratégicos (como lítio, cobalto e terras-raras) em poucos países tem gerado disputas geoeconômicas, com governos e empresas buscando diversificar fontes de suprimento para tecnologias essenciais à transição energética e à indústria eletrônica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-33",
@@ -433,7 +465,8 @@
                                               "d":  "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e metrópoles, dificultando a diversificação"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O padrão de comércio herdado do período colonial, baseado na exportação de matérias-primas e importação de manufaturados, é apontado por parte da literatura econômica como fator que contribuiu para a manutenção de assimetrias estruturais entre ex-colônias e antigas metrópoles, dificultando a diversificação e industrialização das primeiras."
+                         "explicacao":  "O padrão de comércio herdado do período colonial, baseado na exportação de matérias-primas e importação de manufaturados, é apontado por parte da literatura econômica como fator que contribuiu para a manutenção de assimetrias estruturais entre ex-colônias e antigas metrópoles, dificultando a diversificação e industrialização das primeiras.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-34",
@@ -446,7 +479,8 @@
                                               "d":  "ser irrelevante para a estrutura demográfica de um país, mesmo diante do envelhecimento populacional"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Defensores de políticas migratórias mais abertas frequentemente argumentam que a imigração pode suprir demandas específicas do mercado de trabalho e ajudar a equilibrar a estrutura demográfica de países com população envelhecida e baixa taxa de natalidade, contribuindo para a sustentabilidade econômica de longo prazo."
+                         "explicacao":  "Defensores de políticas migratórias mais abertas frequentemente argumentam que a imigração pode suprir demandas específicas do mercado de trabalho e ajudar a equilibrar a estrutura demográfica de países com população envelhecida e baixa taxa de natalidade, contribuindo para a sustentabilidade econômica de longo prazo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-35",
@@ -459,7 +493,8 @@
                                               "d":  "serem reconhecidas como membros plenos da Organização das Nações Unidas, com direito a voto na Assembleia"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "ONGs internacionais atuam como atores não estatais relevantes nas relações internacionais, influenciando agendas políticas, monitorando violações de direitos humanos e prestando assistência humanitária, mas sem deter o poder coercitivo ou a soberania característicos de um Estado."
+                         "explicacao":  "ONGs internacionais atuam como atores não estatais relevantes nas relações internacionais, influenciando agendas políticas, monitorando violações de direitos humanos e prestando assistência humanitária, mas sem deter o poder coercitivo ou a soberania característicos de um Estado.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-36",
@@ -472,7 +507,8 @@
                                               "d":  "protecionismo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A descolonização refere-se ao processo histórico, concentrado sobretudo entre as décadas de 1940 e 1970, em que territórios da África e da Ásia sob domínio colonial europeu conquistaram independência política, redesenhando o mapa geopolítico mundial."
+                         "explicacao":  "A descolonização refere-se ao processo histórico, concentrado sobretudo entre as décadas de 1940 e 1970, em que territórios da África e da Ásia sob domínio colonial europeu conquistaram independência política, redesenhando o mapa geopolítico mundial.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-37",
@@ -486,7 +522,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Disputas territoriais marítimas como essa envolvem sobreposição de interesses econômicos (recursos pesqueiros e energéticos), estratégicos (rotas de navegação e presença militar) e jurídicos (diferentes interpretações do direito do mar), o que torna sua resolução particularmente complexa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-38",
@@ -500,7 +537,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Represas construídas por países no alto curso de rios internacionais podem gerar tensões com países a jusante, pois evidenciam o conflito entre a soberania sobre recursos hídricos nacionais e os impactos transfronteiriços dessa exploração, exigindo negociação diplomática para uso compartilhado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-39",
@@ -515,7 +553,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o conteúdo e a controvérsia em torno da R2P. A afirmativa III é falsa: a R2P é um princípio debatido a partir do início dos anos 2000, sem previsão na Carta de 1945, e sua aplicação prática permanece incerta e seletiva. O próprio debate remete a uma preocupação de fundo já formulada por autores como Hannah Arendt sobre os limites da soberania estatal diante de regimes que voltam o aparato do Estado contra a própria população — questão central de sua reflexão sobre o totalitarismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-40",
@@ -529,7 +568,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As operações de paz da ONU geralmente dependem do consentimento das partes em conflito e da disposição de Estados-membros em fornecer tropas, equipamentos e financiamento, o que limita sua capacidade de agir sem essa cooperação e torna sua eficácia dependente de fatores políticos externos à própria organização.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-41",
@@ -543,7 +583,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O jus ad bellum regula as condições sob as quais um Estado pode legitimamente recorrer ao uso da força, enquanto o jus in bello (também chamado de direito internacional humanitário) estabelece regras de conduta durante o conflito armado, aplicáveis a todas as partes independentemente de quem o iniciou.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-42",
@@ -557,7 +598,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As Convenções de Genebra e seus protocolos adicionais formam a base do direito internacional humanitário, estabelecendo proteções para feridos, prisioneiros de guerra e civis, além de limites ao uso de determinados métodos de combate.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-43",
@@ -572,7 +614,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente as vantagens e os limites do modelo de consenso e não interferência. A afirmativa III é falsa: esse modelo tende a tornar as decisões mais lentas, e não mais ágeis, já que qualquer membro pode, na prática, travar decisões que não lhe sejam favoráveis, ao contrário de blocos com elementos de supranacionalidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-44",
@@ -587,7 +630,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a distinção entre um modelo intergovernamental, baseado em consenso, e um modelo com elementos de supranacionalidade, no qual normas comuns podem prevalecer sobre a legislação doméstica. A afirmativa III é falsa: o grau de vinculação jurídica sobre os Estados-membros é justamente o que diferencia os dois modelos, sendo bem maior no caso da supranacionalidade.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-45",
@@ -601,7 +645,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A renegociação de acordos comerciais regionais geralmente decorre da necessidade de atualizar regras diante de mudanças econômicas, tecnológicas (como o comércio digital) e políticas ocorridas desde a assinatura do acordo original, mantendo sua relevância para os países envolvidos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-46",
@@ -615,7 +660,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Blocos latino-americanos orientados à abertura comercial e à atração de investimentos, como a Aliança do Pacífico, costumam ser descritos como exemplos de regionalismo aberto, que combina a integração entre os membros com maior inserção na economia internacional, em contraste com modelos mais protecionistas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-47",
@@ -629,7 +675,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Acordos megarregionais como esse reúnem economias de diferentes continentes com base em afinidades comerciais e estratégicas, e não necessariamente em proximidade geográfica, o que os diferencia de blocos regionais tradicionais organizados em torno de países vizinhos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-48",
@@ -643,7 +690,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Espaço Schengen é o conjunto de países europeus que aboliu o controle de passaportes em suas fronteiras internas comuns, permitindo livre circulação de pessoas, sendo uma iniciativa distinta da União Monetária (Área do Euro), já que nem todo país do Espaço Schengen adota o euro, e vice-versa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-49",
@@ -658,7 +706,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os desafios de desintegração de blocos com alto grau de integração econômica. A afirmativa III é falsa: a saída de um país-membro não obriga os demais integrantes a também se retirarem, sendo uma decisão soberana e individual de cada Estado-membro.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-50",
@@ -672,7 +721,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A adesão a blocos com alto grau de integração normativa, como a União Europeia, depende do cumprimento de critérios políticos, econômicos e institucionais previamente definidos, o que explica por que o processo de adesão de novos membros costuma ser longo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-51",
@@ -686,7 +736,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O mercado comum é o estágio de integração econômica que, além da união aduaneira (tarifa externa comum), acrescenta a livre circulação de fatores de produção — capital e mão de obra — entre os países-membros, sendo mais avançado do que a zona de livre comércio ou a união aduaneira isoladamente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-52",
@@ -700,7 +751,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As regras de origem definem os critérios técnicos para determinar se um produto, muitas vezes composto por insumos de diferentes países, pode ser considerado originário de um bloco comercial e, assim, beneficiar-se das tarifas preferenciais negociadas entre seus membros.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-53",
@@ -714,7 +766,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O mecanismo de solução de controvérsias da OMC permite que países-membros contestem formalmente práticas comerciais consideradas incompatíveis com as regras multilaterais, podendo resultar, ao final do processo, na autorização de medidas de retaliação comercial caso a violação seja confirmada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-54",
@@ -728,7 +781,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Organização Mundial da Saúde (OMS) é a agência especializada da ONU responsável por coordenar respostas internacionais a emergências sanitárias, emitir recomendações técnicas e declarar situações de emergência de saúde pública de interesse internacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-55",
@@ -742,7 +796,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A Organização Internacional do Trabalho (OIT) é conhecida por sua estrutura tripartite única entre organismos internacionais, reunindo representantes de governos, empregadores e trabalhadores para estabelecer normas internacionais sobre condições de trabalho e direitos trabalhistas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-56",
@@ -756,7 +811,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora agências como o ACNUR coordenem e apoiem a proteção internacional de refugiados, a concessão efetiva de asilo, os critérios de acolhimento e as políticas migratórias permanecem, em grande parte, sob competência soberana de cada Estado, o que gera diferenças significativas entre países na aplicação da proteção internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-57",
@@ -770,7 +826,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Tribunal Penal Internacional (TPI), criado pelo Estatuto de Roma, é o tribunal permanente com competência para julgar indivíduos acusados de genocídio, crimes de guerra, crimes contra a humanidade e crimes de agressão, atuando de forma complementar às jurisdições penais nacionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-58",
@@ -784,7 +841,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Corte Internacional de Justiça (CIJ) é o principal órgão judicial da ONU, responsável por julgar controvérsias jurídicas entre Estados soberanos e emitir pareceres consultivos, diferenciando-se do Tribunal Penal Internacional, que julga indivíduos por crimes específicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-59",
@@ -799,7 +857,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o artigo 5 do tratado fundador da OTAN, que estabelece o princípio de defesa coletiva. A afirmativa III é falsa: a União Europeia e o Mercosul são blocos de integração essencialmente econômica, sem uma cláusula de defesa coletiva automática equivalente à da OTAN.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-60",
@@ -813,7 +872,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A coordenação entre países produtores de petróleo para definir metas conjuntas de produção, com o objetivo de influenciar os preços internacionais, caracteriza um cartel de produtores, mecanismo típico de organizações como a OPEP.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-61",
@@ -827,7 +887,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Fundo Monetário Internacional (FMI) concentra-se em empréstimos de curto e médio prazo a países com dificuldades no balanço de pagamentos, enquanto o Banco Mundial tem como foco o financiamento de projetos de desenvolvimento e infraestrutura de longo prazo, ambos criados na Conferência de Bretton Woods.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-62",
@@ -841,7 +902,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O sistema de Bretton Woods, estabelecido em 1944, criou um arranjo de taxas de câmbio fixas, mas ajustáveis, ancoradas ao dólar americano (conversível em ouro), vigorando até o início da década de 1970, quando os Estados Unidos encerraram a conversibilidade do dólar em ouro.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-63",
@@ -855,7 +917,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Movimento dos Países Não Alinhados reuniu, sobretudo a partir da Conferência de Bandung (1955), países que buscavam manter autonomia diplomática em relação aos dois blocos da Guerra Fria, priorizando cooperação Sul-Sul e defesa da soberania nacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-64",
@@ -869,7 +932,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A imunidade diplomática, prevista pela Convenção de Viena sobre Relações Diplomáticas, protege representantes diplomáticos da jurisdição penal e, em grande medida, civil do país anfitrião, permitindo que exerçam suas funções sem receio de coerção judicial ou política pelo Estado onde estão em missão.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-65",
@@ -883,7 +947,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A aplicação extraterritorial de normas nacionais ocorre quando um país estende os efeitos de sua legislação (como controles de exportação de tecnologia) a empresas e transações realizadas fora de seu território, desde que estas envolvam, em algum grau, tecnologia, insumos ou conexões com esse país.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-66",
@@ -897,7 +962,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O conceito de equilíbrio de poder (balance of power) é central à teoria realista das relações internacionais, segundo a qual a estabilidade do sistema depende de uma distribuição de poder que impeça que um único Estado se torne dominante sem enfrentar coalizões de resistência.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-67",
@@ -911,7 +977,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A weaponização da interdependência descreve o uso estratégico de posições centrais em redes econômicas globais — como sistemas financeiros, tecnológicos ou logísticos — como instrumento de coerção política, aproveitando a dependência de outros países em relação a esses nós estratégicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-68",
@@ -925,7 +992,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A diversidade de abordagens regulatórias sobre inteligência artificial decorre da dificuldade de equilibrar prioridades distintas — como estímulo à inovação, segurança nacional e proteção de direitos individuais — em um campo tecnológico que evolui mais rápido do que a capacidade de coordenação regulatória internacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-69",
@@ -939,7 +1007,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Bens públicos globais, como a estabilidade climática, caracterizam-se por beneficiar todos os países independentemente de sua contribuição individual, o que gera o chamado problema do \u0027carona\u0027 (free-rider), em que alguns países podem se beneficiar dos esforços de outros sem arcar com custos equivalentes, dificultando a cooperação internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-70",
@@ -953,7 +1022,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A fuga de cérebros (brain drain) refere-se à emigração de profissionais altamente qualificados de países em desenvolvimento para países mais desenvolvidos, gerando perda de capital humano estratégico para os países de origem, ainda que também possa gerar remessas financeiras e transferência de conhecimento em sentido inverso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-71",
@@ -967,7 +1037,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A diplomacia da diáspora refere-se à atuação política de comunidades de emigrantes e seus descendentes em favor de causas ligadas a seus países de origem, exercendo influência sobre governos estrangeiros e, por vezes, sobre a própria política externa do país onde residem.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-72",
@@ -981,7 +1052,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A diplomacia de Track II (segunda via) envolve diálogos informais entre atores não governamentais — acadêmicos, ex-diplomatas, representantes da sociedade civil — que buscam construir confiança e explorar soluções para conflitos, complementando, sem substituir, os canais diplomáticos oficiais entre governos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-73",
@@ -995,7 +1067,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A diplomacia de cúpula (summit diplomacy) refere-se a encontros de alto nível entre chefes de Estado e de governo, que cumprem tanto função negocial quanto simbólica, sinalizando publicamente o estado das relações bilaterais ou multilaterais, mesmo quando resultados concretos imediatos são limitados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-74",
@@ -1009,7 +1082,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Fundos soberanos são veículos de investimento controlados por governos, geralmente financiados por receitas de commodities ou reservas cambiais, que aplicam recursos em ativos ao redor do mundo, podendo gerar tanto retorno financeiro quanto influência estratégica em setores sensíveis dos países receptores.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-75",
@@ -1023,7 +1097,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A guerra cambial ocorre quando países buscam desvalorizar competitivamente suas moedas para ganhar vantagem nas exportações, gerando um ciclo de respostas semelhantes por parte de parceiros comerciais, o que pode desestabilizar o sistema financeiro internacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-76",
@@ -1037,7 +1112,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A concentração da produção e do processamento de minerais estratégicos em poucos países confere a essas nações capacidade de usar restrições à exportação como instrumento de pressão em disputas comerciais, afetando cadeias produtivas de setores estratégicos, como energia renovável e defesa, em outros países.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-77",
@@ -1051,7 +1127,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A concentração da produção de insumos farmacêuticos em poucos países levou diversos governos a buscar diversificação de fornecedores e, em alguns casos, o incentivo à produção doméstica de insumos considerados estratégicos, como forma de reduzir vulnerabilidades reveladas por picos de demanda global.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-78",
@@ -1065,7 +1142,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A exigência de armazenamento local de dados (data localization) é uma manifestação da busca por soberania digital, na qual países buscam maior controle sobre dados gerados dentro de seu território, seja por razões de segurança nacional, privacidade ou desenvolvimento de uma indústria digital doméstica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-79",
@@ -1080,7 +1158,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e o alcance das sanções secundárias. A afirmativa III é falsa: sanções secundárias são, em regra, medidas unilaterais impostas por um país ou bloco, sem depender de aprovação do Conselho de Segurança da ONU, o que é justamente uma das razões de sua controvérsia no direito internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-80",
@@ -1094,7 +1173,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Os swaps cambiais entre bancos centrais permitem a troca temporária de moedas entre países, fornecendo liquidez em moeda estrangeira a instituições financeiras em momentos de estresse no mercado internacional, sem depender exclusivamente de reservas próprias ou de empréstimos de organismos como o FMI.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-81",
@@ -1108,7 +1188,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O termo \u0027Sul Global\u0027 tem sido cada vez mais utilizado para designar, de forma ampla, países em desenvolvimento da África, Ásia, América Latina e Oceania, sobretudo em debates sobre a necessidade de reformar a governança de instituições multilaterais criadas em um contexto histórico diferente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-82",
@@ -1122,7 +1203,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O princípio das responsabilidades comuns, porém diferenciadas, reconhece que todos os países compartilham a responsabilidade de enfrentar a mudança climática, mas estabelece que essa responsabilidade deve levar em conta as diferentes contribuições históricas para o problema e as diferentes capacidades econômicas de cada país.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-83",
@@ -1136,7 +1218,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Acordo de Paris estabeleceu um modelo baseado em contribuições nacionalmente determinadas (NDCs), em que cada país define e atualiza periodicamente suas próprias metas de redução de emissões, em vez de metas obrigatórias uniformes impostas de cima para baixo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-84",
@@ -1151,7 +1234,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a crítica de países em desenvolvimento aos subsídios agrícolas e a centralidade do tema nas negociações da OMC. A afirmativa III é falsa: o tema permanece controverso e sem consenso pleno, como evidenciado pelo próprio impasse prolongado da Rodada Doha, iniciada em 2001 e ainda sem conclusão plena.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-85",
@@ -1165,7 +1249,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Os Direitos Especiais de Saque (DES) são um ativo de reserva internacional criado pelo FMI, cujo valor é calculado a partir de uma cesta de moedas, permitindo que países-membros complementem suas reservas cambiais oficiais sem a necessidade de contrair dívida externa adicional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-86",
@@ -1179,7 +1264,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O conceito de dívida odiosa refere-se a dívidas contraídas por governos não representativos, sem benefício para a população, e que, segundo parte da literatura jurídica e econômica, não deveriam vincular governos futuros, embora esse conceito ainda não tenha reconhecimento pleno e consolidado no direito internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-87",
@@ -1193,7 +1279,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A Iniciativa do Cinturão e Rota, também conhecida como Nova Rota da Seda, é o programa de investimentos em infraestrutura de transporte e energia promovido por uma grande potência asiática em dezenas de países, com o objetivo de ampliar rotas comerciais e influência econômica e política internacional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-88",
@@ -1207,7 +1294,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O debate sobre a chamada \u0027diplomacia da armadilha da dívida\u0027 opõe visões críticas, que apontam riscos de perda de controle sobre ativos estratégicos em caso de inadimplência, a visões mais favoráveis, que destacam a contribuição desses financiamentos para suprir lacunas de investimento em infraestrutura, sem que exista consenso definitivo entre analistas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-89",
@@ -1221,7 +1309,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O Estreito de Ormuz, localizado entre a Península Arábica e o Irã, é uma das principais passagens marítimas para o transporte internacional de petróleo, sendo considerado um ponto estratégico sensível cuja eventual interrupção afeta rapidamente os preços globais de energia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-90",
@@ -1235,7 +1324,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O bloqueio de um canal estratégico por um incidente pontual demonstrou como o comércio internacional depende de um número limitado de pontos de estrangulamento (chokepoints) geográficos, cuja interrupção, mesmo não intencional, pode gerar efeitos econômicos globais significativos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-91",
@@ -1249,7 +1339,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O Canal do Panamá é a via artificial que conecta os oceanos Atlântico e Pacífico na América Central, sendo uma rota estratégica para o comércio marítimo internacional e frequentemente tema de debates sobre controle, pedágios e importância geopolítica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-92",
@@ -1263,7 +1354,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A zona econômica exclusiva (ZEE), prevista na Convenção das Nações Unidas sobre o Direito do Mar, estende-se além do mar territorial e concede ao país costeiro direitos exclusivos de exploração econômica de recursos, sem, contudo, conferir soberania territorial plena como ocorre no mar territorial propriamente dito.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-93",
@@ -1277,7 +1369,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A diplomacia pública busca, ao menos formalmente, construir uma imagem favorável por meio de informação transparente e diálogo genuíno com públicos estrangeiros, distinguindo-se, em princípio, da propaganda no sentido pejorativo, associada à manipulação de informações ou à desinformação deliberada, ainda que a linha entre as duas práticas seja, na prática, frequentemente tênue.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-94",
@@ -1291,7 +1384,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Disputas territoriais de longa duração, como as heranças de processos de independência e partição no subcontinente indiano, ilustram como fronteiras definidas em momentos históricos específicos podem se tornar fontes persistentes de tensão entre Estados vizinhos, exigindo gestão diplomática contínua ao longo de décadas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-95",
@@ -1305,7 +1399,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Casos como esse são frequentemente classificados por organismos internacionais como processos de descolonização inacabada, nos quais o princípio da autodeterminação dos povos permanece em disputa com o controle administrativo exercido por outro Estado sobre o território em questão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-96",
@@ -1319,7 +1414,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Conflitos congelados (frozen conflicts) são disputas territoriais em que hostilidades ativas cessam periodicamente, sem que se alcance uma solução política definitiva reconhecida por todas as partes, permanecendo latentes e sujeitas a reacender-se ao longo de décadas, como ocorre em algumas regiões do Cáucaso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-97",
@@ -1333,7 +1429,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O caso ilustra como divisões territoriais podem persistir por décadas mesmo após o fim das hostilidades ativas, exigindo a presença continuada de forças de paz internacionais para manter a estabilidade em uma linha de separação entre comunidades, sem que uma solução política definitiva seja alcançada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-98",
@@ -1348,7 +1445,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "As afirmativas I e II descrevem corretamente os efeitos do degelo ártico sobre rotas de navegação, recursos naturais e disputas geopolíticas na região. A afirmativa III é falsa: não existe tratado único que unifique a soberania sobre o Ártico; a região é regida por reivindicações nacionais distintas e por convenções de direito do mar, com disputas de fronteiras marítimas ainda não plenamente resolvidas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-99",
@@ -1362,7 +1460,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Conflitos congelados caracterizam-se pela suspensão formal das hostilidades, geralmente por meio de cessar-fogo, sem que se alcance uma resolução política definitiva reconhecida por todas as partes, permanecendo em um estado de tensão latente por longos períodos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-100",
@@ -1376,7 +1475,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Um armistício é um acordo militar que suspende os combates sem necessariamente resolver as questões políticas de fundo, enquanto um tratado de paz formaliza o fim definitivo do estado de guerra e regula juridicamente as relações futuras entre os países envolvidos, podendo incluir questões territoriais, econômicas e diplomáticas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-101",
@@ -1390,7 +1490,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Grupo dos 77 (G77), criado em 1964, é um dos maiores agrupamentos de países em desenvolvimento no sistema da ONU, coordenando posições comuns em negociações econômicas internacionais, apesar da grande diversidade de interesses e níveis de desenvolvimento entre seus membros.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-102",
@@ -1404,7 +1505,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A jurisdição universal permite que Estados julguem determinados crimes considerados de extrema gravidade pelo direito internacional — como genocídio, tortura e crimes contra a humanidade — mesmo sem vínculo direto de território, nacionalidade do acusado ou da vítima com o país que exerce a jurisdição.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-103",
@@ -1418,7 +1520,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O realismo enfatiza a busca por poder e segurança pelos Estados em um sistema internacional anárquico, priorizando interesses nacionais e equilíbrio de poder, enquanto o liberalismo (ou institucionalismo liberal) destaca o papel da cooperação, das instituições internacionais e da interdependência econômica na promoção da paz e da estabilidade entre os países.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-104",
@@ -1432,7 +1535,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A teoria da estabilidade hegemônica sustenta que a existência de uma potência dominante, disposta a arcar com os custos de manter bens públicos globais — como a segurança das rotas comerciais e a estabilidade financeira internacional —, favorece a estabilidade geral do sistema internacional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-105",
@@ -1446,7 +1550,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A União Econômica Eurasiática é o bloco de integração regional formado majoritariamente por antigas repúblicas soviéticas, buscando aprofundar a cooperação econômica entre seus membros por meio da livre circulação de bens, serviços, capital e mão de obra, além da coordenação de políticas setoriais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-106",
@@ -1460,7 +1565,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Enquanto a organização política continental africana tem um mandato amplo que inclui cooperação diplomática, segurança e resolução de conflitos, a área de livre comércio continental é uma iniciativa mais recente e específica, voltada à redução de barreiras comerciais e à integração econômica entre os países do continente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-107",
@@ -1474,7 +1580,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Negociações prolongadas de acordos birregionais, como o exemplo entre um bloco sul-americano e um bloco europeu, costumam refletir a resistência de setores domésticos afetados pela maior concorrência externa, além de preocupações ambientais, o que ilustra a complexidade política envolvida na conclusão desse tipo de acordo comercial.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-108",
@@ -1488,7 +1595,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A ampliação do número de membros de um agrupamento internacional tende a aumentar a diversidade de interesses econômicos e políticos representados, o que pode tornar mais desafiador o processo de construção de consenso interno sobre pautas comuns, um dilema enfrentado por blocos em expansão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-109",
@@ -1502,7 +1610,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A desdolarização refere-se ao movimento de países que buscam reduzir sua dependência de uma moeda internacional dominante em transações comerciais e financeiras, seja para reduzir exposição a sanções, seja para diversificar riscos cambiais, embora esse processo enfrente limites práticos significativos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-110",
@@ -1516,7 +1625,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O Novo Banco de Desenvolvimento, também conhecido como Banco do BRICS, foi criado pelos países membros desse agrupamento de economias emergentes como instituição financeira voltada ao financiamento de projetos de infraestrutura e desenvolvimento sustentável, apresentada como alternativa complementar às instituições financeiras multilaterais tradicionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-111",
@@ -1530,7 +1640,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Controles de exportação sobre tecnologias sensíveis, como semicondutores avançados, exemplificam o uso de instrumentos de política comercial como ferramentas de segurança nacional e competição tecnológica entre potências, mesmo que isso implique custos para a própria indústria do país que impõe a restrição.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-112",
@@ -1544,7 +1655,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Tecnologias de uso dual (dual-use) são aquelas que, embora desenvolvidas ou comercializadas para fins civis, podem ser adaptadas para aplicações militares, o que justifica, do ponto de vista de diversos governos, a imposição de controles específicos sobre sua exportação para determinados países ou entidades.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-113",
@@ -1558,7 +1670,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Corredores humanitários são rotas negociadas entre as partes de um conflito armado, com apoio de organizações internacionais, para permitir a passagem segura e temporária de suprimentos essenciais ou a evacuação de civis de áreas afetadas pelos combates.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-114",
@@ -1572,7 +1685,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A guerra assimétrica caracteriza-se pela grande disparidade de capacidade militar, tecnológica e organizacional entre as partes de um conflito, levando o lado mais fraco a recorrer a táticas não convencionais, como guerrilha ou ataques pontuais, em vez de confrontos diretos entre forças regulares.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-115",
@@ -1586,7 +1700,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A guerra híbrida combina instrumentos militares convencionais com ferramentas não militares, como ataques cibernéticos, campanhas de desinformação e pressão econômica, dificultando a distinção tradicional entre tempos de paz e tempos de guerra em conflitos internacionais contemporâneos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-116",
@@ -1600,7 +1715,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ações na chamada zona cinzenta (gray zone) situam-se abaixo do limiar de um conflito armado declarado, permitindo que o Estado responsável negue formalmente envolvimento direto, o que dificulta respostas militares ou diplomáticas claras por parte do país afetado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-117",
@@ -1615,7 +1731,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de escopo entre sanções comerciais setoriais e embargos comerciais abrangentes. A afirmativa III é falsa: a diferença de escopo entre as duas medidas implica, justamente, diferentes graus de intensidade e impacto econômico sobre o país-alvo, sendo o embargo abrangente tipicamente mais severo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-118",
@@ -1629,7 +1746,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O efeito de conformidade preventiva (overcompliance) ocorre quando empresas de terceiros países, mesmo sem obrigação legal direta, passam a evitar transações com um país sancionado por temor de represálias financeiras, ampliando na prática o alcance de sanções extraterritoriais para além de sua aplicação jurídica formal.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-119",
@@ -1643,7 +1761,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As dificuldades enfrentadas por mecanismos de cooperação sanitária internacional refletem como desigualdades estruturais na capacidade produtiva e no poder de negociação entre países podem comprometer objetivos de distribuição mais equitativa de recursos essenciais durante emergências globais de saúde.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-120",
@@ -1657,7 +1776,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O debate sobre a flexibilização de patentes farmacêuticas em contextos de emergência sanitária reflete a tensão entre a proteção da propriedade intelectual, vista como incentivo à inovação e a novos investimentos em pesquisa, e a necessidade de ampliar o acesso a tratamentos essenciais em países de menor renda.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-121",
@@ -1671,7 +1791,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Restrições à exportação impostas por um país exportador relevante de determinado grão, em resposta a uma quebra de safra, podem gerar efeitos significativos sobre os preços internacionais e sobre a segurança alimentar de países importadores que dependem dessa fonte específica, evidenciando a interdependência do comércio agrícola global.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-122",
@@ -1685,7 +1806,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Acordos pontuais mediados internacionalmente para viabilizar exportações agrícolas durante conflitos armados demonstram como iniciativas diplomáticas específicas podem mitigar, ainda que parcialmente, os impactos globais de conflitos regionais sobre cadeias de suprimento essenciais, como a de alimentos, sem necessariamente encerrar o conflito como um todo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-123",
@@ -1699,7 +1821,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Acordos regionais de mobilidade humana buscam reduzir barreiras burocráticas à circulação de trabalhadores entre países vizinhos, como o reconhecimento mútuo de qualificações profissionais e o acesso a serviços públicos básicos, facilitando fluxos migratórios regionais de forma mais ordenada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-124",
@@ -1713,7 +1836,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A apatridia é a condição jurídica de pessoas que não são reconhecidas como nacionais por nenhum Estado, o que as priva, na prática, de direitos básicos vinculados à cidadania, como emissão de documentos, proteção consular e, em muitos casos, acesso a serviços públicos essenciais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-125",
@@ -1727,7 +1851,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Pareceres consultivos são manifestações jurídicas emitidas por tribunais internacionais, como a Corte Internacional de Justiça, a pedido de órgãos autorizados da ONU, sobre questões específicas de direito internacional, geralmente sem efeito vinculante automático sobre as partes envolvidas, embora possam ter peso político e jurídico relevante.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-126",
@@ -1741,7 +1866,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A tensão entre o princípio da autodeterminação dos povos, que reconhece o direito de grupos determinarem seu próprio status político, e o princípio da integridade territorial dos Estados, que protege as fronteiras reconhecidas internacionalmente, é uma das fontes mais recorrentes de disputas territoriais e movimentos separatistas contemporâneos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-127",
@@ -1755,7 +1881,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O princípio da não intervenção, previsto na Carta das Nações Unidas, estabelece que Estados e organismos internacionais não devem, em regra, intervir em assuntos essencialmente domésticos de outros países, ressalvadas exceções específicas, como situações que ameacem a paz e a segurança internacionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-128",
@@ -1769,7 +1896,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A tensão entre o princípio tradicional da não intervenção, que protege a soberania estatal, e a defesa de uma responsabilidade internacional de proteger populações civis de graves violações de direitos humanos, é um dos debates centrais e mais controversos das relações internacionais contemporâneas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-129",
@@ -1783,7 +1911,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A Rodada Doha, iniciada em 2001 no âmbito da OMC, buscava reduzir barreiras comerciais com atenção especial às demandas de países em desenvolvimento, mas permanece sem conclusão plena até hoje, devido a divergências persistentes entre os países-membros sobre temas como subsídios agrícolas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-130",
@@ -1797,7 +1926,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O tratamento especial e diferenciado é o conjunto de flexibilidades — como prazos mais longos e exceções específicas — concedidas a países em desenvolvimento em acordos comerciais multilaterais, em reconhecimento às diferenças de capacidade econômica e institucional entre os membros da organização.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-131",
@@ -1811,7 +1941,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O chamado efeito \u0027spaghetti bowl\u0027 (tigela de espaguete) descreve a complexidade gerada pela sobreposição de múltiplos acordos comerciais bilaterais e regionais, cada um com suas próprias regras de origem e cronogramas tarifários, dificultando a operação de empresas que atuam sob diferentes conjuntos de regras simultaneamente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-132",
@@ -1825,7 +1956,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A criação de comércio ocorre quando um acordo preferencial leva a uma alocação mais eficiente da produção entre os países-membros; o desvio de comércio ocorre quando o acordo leva um país a comprar de um parceiro menos eficiente globalmente apenas por causa da tarifa preferencial, substituindo um fornecedor mais eficiente fora do bloco.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-133",
@@ -1839,7 +1971,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Mecanismos de triagem (screening) de investimento estrangeiro direto permitem que governos analisem previamente e, se necessário, restrinjam aquisições de empresas nacionais consideradas estratégicas por investidores estrangeiros, sobretudo em setores como infraestrutura crítica, tecnologia sensível e defesa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-134",
@@ -1853,7 +1986,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O ISDS (Investor-State Dispute Settlement) é o mecanismo previsto em diversos acordos de investimento internacional que permite que empresas estrangeiras processem diretamente governos anfitriões perante tribunais arbitrais internacionais, sem necessidade de recorrer previamente à Justiça doméstica, mecanismo que gera controvérsia por seu potencial de restringir a margem de manobra regulatória dos Estados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-135",
@@ -1867,7 +2001,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A disputa por padrões técnicos dominantes em tecnologias como telecomunicações de nova geração ilustra como questões aparentemente técnicas podem adquirir forte dimensão geopolítica, conferindo vantagens comerciais e influência estratégica sobre a infraestrutura digital de outros países ao país cujas empresas dominam esses padrões.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-136",
@@ -1881,7 +2016,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O termo \u0027splinternet\u0027 descreve o cenário de fragmentação da internet global em redes nacionais ou regionais distintas, cada uma sujeita a suas próprias regras técnicas, de conteúdo e de segurança, reduzindo a interoperabilidade que caracterizou a expansão inicial da rede mundial de computadores.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-137",
@@ -1895,7 +2031,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A dificuldade de estabelecer normas globais vinculantes sobre comportamento cibernético entre Estados decorre tanto de interesses estratégicos divergentes quanto da dificuldade de verificar o cumprimento de eventuais regras, já que a atribuição de responsabilidade por ataques cibernéticos é frequentemente incerta ou contestável.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-138",
@@ -1909,7 +2046,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O problema da atribuição refere-se à dificuldade técnica e política de identificar com certeza a autoria de um ataque cibernético, já que técnicas de ofuscação digital podem mascarar a origem real do ataque, complicando eventuais respostas diplomáticas, econômicas ou militares por parte do país afetado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-139",
@@ -1923,7 +2061,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O Tratado do Espaço Sideral (Outer Space Treaty), de 1967, estabelece princípios fundamentais para a exploração do espaço, como a proibição de reivindicações de soberania territorial sobre corpos celestes e a determinação de que o espaço deve ser explorado para fins pacíficos e em benefício de toda a humanidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-140",
@@ -1937,7 +2076,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A distinção entre militarização do espaço — uso de satélites e tecnologia espacial para fins de defesa, comunicação e monitoramento, amplamente praticado — e weaponização do espaço — instalação de armas ofensivas em órbita, mais restringida por tratados internacionais — é central aos debates contemporâneos sobre segurança espacial.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-141",
@@ -1951,7 +2091,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Espaços e recursos que não estão sob soberania exclusiva de nenhum Estado, como a alta atmosfera, os oceanos além das águas territoriais e certas regiões polares, são conhecidos como \u0027global commons\u0027 (bens comuns globais), exigindo cooperação internacional para sua gestão sustentável.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-142",
@@ -1965,7 +2106,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A tragédia dos comuns descreve a tendência de recursos compartilhados e de livre acesso, como estoques pesqueiros em águas internacionais, serem sobre-explorados na ausência de regras coletivas eficazes de gestão, já que cada ator individual não tem incentivo suficiente para conservar o recurso por conta própria.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-143",
@@ -1979,7 +2121,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O tratado BBNJ (Biodiversity Beyond National Jurisdiction), negociado no âmbito da ONU, estabelece regras para a conservação e o uso sustentável da biodiversidade marinha em águas internacionais, área que corresponde a uma parcela significativa dos oceanos do planeta e que até então carecia de regime jurídico específico e abrangente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-144",
@@ -1993,7 +2136,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O debate sobre a mineração em águas internacionais profundas reflete a tensão entre o interesse econômico e estratégico no acesso a minerais essenciais para tecnologias como baterias, e a preocupação de cientistas com os efeitos ainda pouco compreendidos dessa atividade sobre ecossistemas marinhos de difícil estudo e recuperação lenta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-145",
@@ -2007,7 +2151,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As soluções duradouras — integração local, reassentamento em terceiro país e repatriação voluntária — são as três alternativas de longo prazo reconhecidas por organismos internacionais, como o ACNUR, para resolver de forma sustentável a situação de pessoas reconhecidas como refugiadas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-146",
@@ -2022,7 +2167,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "As afirmativas I e II descrevem corretamente a assimetria na acolhida de refugiados e o debate internacional sobre repartição de responsabilidades. A afirmativa III é falsa: não existe mecanismo vinculante que obrigue a acolhida de um número fixo e idêntico de refugiados por país; a repartição de encargos permanece um debate político em aberto, sem solução institucional definitiva.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-147",
@@ -2036,7 +2182,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Medidas restritivas aplicadas por organismos esportivos internacionais, mesmo sem qualquer sanção governamental formal, ilustram como instituições não estatais também podem atuar como atores relevantes de pressão internacional, exercendo influência simbólica e política à margem dos instrumentos tradicionais de sanção entre governos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-148",
@@ -2050,7 +2197,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A disputa por sediar grandes eventos esportivos internacionais, com o objetivo de projetar uma imagem positiva do país para uma audiência global, é um exemplo de diplomacia esportiva, uma expressão do conceito de soft power, baseada em atração e prestígio, e não em coerção.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-149",
@@ -2064,7 +2212,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Um país que atrela sua moeda a uma moeda estrangeira de referência tende a vincular, em algum grau, sua própria estabilidade macroeconômica às decisões de política monetária do país emissor da moeda de referência, reduzindo sua autonomia para responder de forma independente a choques econômicos específicos ao seu próprio território.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "atualidades-geopolitica-150",
@@ -2078,7 +2227,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O dilema de Triffin descreve a tensão estrutural enfrentada pelo país emissor da principal moeda de reserva internacional: para suprir o mundo com liquidez suficiente nessa moeda, tende a operar déficits externos persistentes, o que, ao longo do tempo, pode comprometer a confiança na estabilidade e no valor dessa moeda como reserva global.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

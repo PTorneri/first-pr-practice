@@ -12,7 +12,8 @@
                                               "d":  "Eles afastam pássaros e insetos das áreas urbanas, reduzindo a biodiversidade local esperada."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto afirma que os críticos apontam a necessidade de grandes quantidades de água e cuidado constante como o principal problema, o que pode ser custoso para os proprietários dos edifícios."
+                         "explicacao":  "O texto afirma que os críticos apontam a necessidade de grandes quantidades de água e cuidado constante como o principal problema, o que pode ser custoso para os proprietários dos edifícios.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-02",
@@ -25,7 +26,8 @@
                                               "d":  "Apesar da semelhança gráfica e sonora, seus significados são diferentes, o que caracteriza um falso cognato."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto explica que, apesar da aparência semelhante, \u0027actually\u0027 significa \u0027de fato/na verdade\u0027, enquanto \u0027atualmente\u0027 corresponde a \u0027currently\u0027/\u0027nowadays\u0027 em inglês, exemplificando o fenômeno dos falsos cognatos."
+                         "explicacao":  "O texto explica que, apesar da aparência semelhante, \u0027actually\u0027 significa \u0027de fato/na verdade\u0027, enquanto \u0027atualmente\u0027 corresponde a \u0027currently\u0027/\u0027nowadays\u0027 em inglês, exemplificando o fenômeno dos falsos cognatos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-03",
@@ -38,7 +40,8 @@
                                               "d":  "Os trabalhadores remotos nunca verificam e-mails fora do horário comercial, segundo os dados coletados."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto apresenta dois aspectos: o ganho de produtividade percebido por parte dos trabalhadores remotos e, ao mesmo tempo, a dificuldade em separar vida pessoal e profissional, revelada pela mesma pesquisa."
+                         "explicacao":  "O texto apresenta dois aspectos: o ganho de produtividade percebido por parte dos trabalhadores remotos e, ao mesmo tempo, a dificuldade em separar vida pessoal e profissional, revelada pela mesma pesquisa.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-04",
@@ -51,7 +54,8 @@
                                               "d":  "\u0027Library\u0027 é uma biblioteca, onde livros são emprestados gratuitamente; \u0027livraria\u0027, em português, corresponde a \u0027bookstore\u0027 em inglês."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto esclarece que \u0027library\u0027 é uma biblioteca (empréstimo gratuito de livros), enquanto o equivalente em inglês para \u0027livraria\u0027 (loja de livros) é \u0027bookstore\u0027, configurando um caso clássico de falso cognato entre as duas línguas."
+                         "explicacao":  "O texto esclarece que \u0027library\u0027 é uma biblioteca (empréstimo gratuito de livros), enquanto o equivalente em inglês para \u0027livraria\u0027 (loja de livros) é \u0027bookstore\u0027, configurando um caso clássico de falso cognato entre as duas línguas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-05",
@@ -64,7 +68,8 @@
                                               "d":  "Incentivar o consumo de plástico reciclado sem qualquer outra medida, ideia que não consta no texto."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto menciona explicitamente duas estratégias: alguns países proibiram sacolas plásticas de uso único (\u0027banned single-use plastic bags\u0027), enquanto outros investem em tecnologia para coletar detritos do mar (\u0027collect floating debris\u0027)."
+                         "explicacao":  "O texto menciona explicitamente duas estratégias: alguns países proibiram sacolas plásticas de uso único (\u0027banned single-use plastic bags\u0027), enquanto outros investem em tecnologia para coletar detritos do mar (\u0027collect floating debris\u0027).",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-06",
@@ -77,7 +82,8 @@
                                               "d":  "Razoável, prático, ligado ao bom senso."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto define \u0027sensible\u0027 como sinônimo de \u0027reasonable\u0027 ou \u0027practical\u0027, ou seja, razoável ou prático, deixando claro que a tradução correta para \u0027sensível\u0027 em português é \u0027sensitive\u0027, e não \u0027sensible\u0027."
+                         "explicacao":  "O texto define \u0027sensible\u0027 como sinônimo de \u0027reasonable\u0027 ou \u0027practical\u0027, ou seja, razoável ou prático, deixando claro que a tradução correta para \u0027sensível\u0027 em português é \u0027sensitive\u0027, e não \u0027sensible\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-07",
@@ -90,7 +96,8 @@
                                               "d":  "Os sistemas de inteligência artificial podem reproduzir vieses presentes nos dados usados em seu treinamento."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto afirma que pesquisadores alertam sobre o risco de esses sistemas reproduzirem vieses presentes nos dados de treinamento, o que pode prejudicar candidatos de grupos sub-representados."
+                         "explicacao":  "O texto afirma que pesquisadores alertam sobre o risco de esses sistemas reproduzirem vieses presentes nos dados de treinamento, o que pode prejudicar candidatos de grupos sub-representados.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-08",
@@ -103,7 +110,8 @@
                                               "d":  "Confundir \u0027pretend\u0027 (fingir) com o sentido de \u0027pretender\u0027 (ter a intenção de), que em inglês corresponde a \u0027intend\u0027."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto explica que \u0027pretend\u0027 significa fingir/simular, enquanto o verbo correspondente a \u0027pretender\u0027 (ter intenção) em inglês é \u0027intend\u0027, caracterizando um clássico falso cognato entre as duas línguas."
+                         "explicacao":  "O texto explica que \u0027pretend\u0027 significa fingir/simular, enquanto o verbo correspondente a \u0027pretender\u0027 (ter intenção) em inglês é \u0027intend\u0027, caracterizando um clássico falso cognato entre as duas línguas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-09",
@@ -116,7 +124,8 @@
                                               "d":  "Apesar de reduzirem emissões diretas, os veículos elétricos ainda geram impacto ambiental quando se considera seu ciclo completo de produção e uso."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto relativiza a ideia de que carros elétricos são totalmente livres de emissões, apontando o impacto da mineração de lítio e cobalto e da geração de eletricidade como fatores que devem ser considerados no ciclo de vida completo do veículo."
+                         "explicacao":  "O texto relativiza a ideia de que carros elétricos são totalmente livres de emissões, apontando o impacto da mineração de lítio e cobalto e da geração de eletricidade como fatores que devem ser considerados no ciclo de vida completo do veículo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-10",
@@ -129,7 +138,8 @@
                                               "d":  "Ajudar um cliente em uma loja, prestando atendimento direto."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto deixa claro que \u0027to attend\u0027 significa comparecer ou estar presente em um evento (como uma reunião ou aula), e não \u0027atender\u0027, que em inglês corresponde a \u0027to answer\u0027 ou \u0027to assist\u0027, dependendo do contexto."
+                         "explicacao":  "O texto deixa claro que \u0027to attend\u0027 significa comparecer ou estar presente em um evento (como uma reunião ou aula), e não \u0027atender\u0027, que em inglês corresponde a \u0027to answer\u0027 ou \u0027to assist\u0027, dependendo do contexto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-11",
@@ -142,7 +152,8 @@
                                               "d":  "Eles substituem integralmente a agricultura tradicional em grande escala."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto afirma explicitamente que o compartilhamento de alimentos entre vizinhos e a venda em mercados locais fortalecem os laços comunitários (\u0027strengthening community ties\u0027), além do benefício alimentar direto."
+                         "explicacao":  "O texto afirma explicitamente que o compartilhamento de alimentos entre vizinhos e a venda em mercados locais fortalecem os laços comunitários (\u0027strengthening community ties\u0027), além do benefício alimentar direto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-12",
@@ -155,7 +166,8 @@
                                               "d":  "Relatives"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto indica que \u0027parents\u0027 se refere apenas a mãe e pai, enquanto \u0027relatives\u0027 é o termo correto em inglês para \u0027parentes\u0027 em sentido amplo, incluindo outros membros da família."
+                         "explicacao":  "O texto indica que \u0027parents\u0027 se refere apenas a mãe e pai, enquanto \u0027relatives\u0027 é o termo correto em inglês para \u0027parentes\u0027 em sentido amplo, incluindo outros membros da família.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-13",
@@ -168,7 +180,8 @@
                                               "d":  "Elas tornaram a música menos acessível ao público em geral, o que o texto não sustenta."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto aponta que, apesar do ganho em acessibilidade, artistas — sobretudo músicos independentes — criticam os baixos pagamentos de royalties gerados pelas plataformas de streaming como insuficientes para sustentar uma carreira."
+                         "explicacao":  "O texto aponta que, apesar do ganho em acessibilidade, artistas — sobretudo músicos independentes — criticam os baixos pagamentos de royalties gerados pelas plataformas de streaming como insuficientes para sustentar uma carreira.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-14",
@@ -181,7 +194,8 @@
                                               "d":  "Curso técnico de curta duração, sem equivalência universitária."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto esclarece que, no inglês americano, \u0027college\u0027 geralmente se refere ao ensino superior, sendo um falso cognato em relação a \u0027colégio\u0027 em português, que corresponde a \u0027high school\u0027 em inglês."
+                         "explicacao":  "O texto esclarece que, no inglês americano, \u0027college\u0027 geralmente se refere ao ensino superior, sendo um falso cognato em relação a \u0027colégio\u0027 em português, que corresponde a \u0027high school\u0027 em inglês.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-15",
@@ -194,7 +208,8 @@
                                               "d":  "A eliminação de qualquer estudo científico sobre o sono dos adolescentes."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto afirma que alguns distritos escolares já começaram a adiar o horário de início das aulas (\u0027delaying start times\u0027) como resposta às pesquisas sobre a privação de sono entre adolescentes."
+                         "explicacao":  "O texto afirma que alguns distritos escolares já começaram a adiar o horário de início das aulas (\u0027delaying start times\u0027) como resposta às pesquisas sobre a privação de sono entre adolescentes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-16",
@@ -207,7 +222,8 @@
                                               "d":  "\u0027Pull\u0027 significa \u0027empurrar\u0027, exatamente o mesmo sentido, sem qualquer distinção, que \u0027push\u0027."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto explica que \u0027pull\u0027 é frequentemente confundido com o verbo português \u0027pular\u0027 por semelhança sonora, mas na verdade significa \u0027puxar\u0027, configurando um falso cognato relevante para estudantes brasileiros."
+                         "explicacao":  "O texto explica que \u0027pull\u0027 é frequentemente confundido com o verbo português \u0027pular\u0027 por semelhança sonora, mas na verdade significa \u0027puxar\u0027, configurando um falso cognato relevante para estudantes brasileiros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-17",
@@ -220,7 +236,8 @@
                                               "d":  "A desigualdade no acesso à internet pode aprofundar a desigualdade educacional entre estudantes rurais e urbanos."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto contrasta a dificuldade de conectividade em áreas rurais com a maior disponibilidade de dispositivos e internet estável em áreas urbanas, apontando essa disparidade como fator de aprofundamento da desigualdade educacional."
+                         "explicacao":  "O texto contrasta a dificuldade de conectividade em áreas rurais com a maior disponibilidade de dispositivos e internet estável em áreas urbanas, apontando essa disparidade como fator de aprofundamento da desigualdade educacional.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-18",
@@ -233,7 +250,8 @@
                                               "d":  "Uma regra formal estabelecida por uma instituição, sem relação com o termo."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explica que \u0027costume\u0027, em inglês, refere-se a uma roupa especial usada em ocasiões como festas ou o Halloween, e não a um hábito ou costume, que em inglês corresponde a \u0027habit\u0027 ou \u0027custom\u0027 — outro exemplo clássico de falso cognato."
+                         "explicacao":  "O texto explica que \u0027costume\u0027, em inglês, refere-se a uma roupa especial usada em ocasiões como festas ou o Halloween, e não a um hábito ou costume, que em inglês corresponde a \u0027habit\u0027 ou \u0027custom\u0027 — outro exemplo clássico de falso cognato.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-19",
@@ -246,7 +264,8 @@
                                               "d":  "Porque os especialistas recomendam não dormir durante toda a viagem, o que o texto não afirma."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explica que o jet lag ocorre porque o relógio biológico, ajustado ao fuso horário de origem, demora a se sincronizar com o horário do novo local, causando a sensação de exaustão nos viajantes."
+                         "explicacao":  "O texto explica que o jet lag ocorre porque o relógio biológico, ajustado ao fuso horário de origem, demora a se sincronizar com o horário do novo local, causando a sensação de exaustão nos viajantes.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-20",
@@ -259,7 +278,8 @@
                                               "d":  "Eles deixam de precisar de dias de descanso durante o treinamento, ideia contrária ao texto."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto afirma que ignorar princípios como descanso, nutrição adequada e aumento gradual de quilometragem torna os corredores mais propensos ao overtraining, que atrasa o progresso em vez de acelerá-lo."
+                         "explicacao":  "O texto afirma que ignorar princípios como descanso, nutrição adequada e aumento gradual de quilometragem torna os corredores mais propensos ao overtraining, que atrasa o progresso em vez de acelerá-lo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-21",
@@ -272,7 +292,8 @@
                                               "d":  "Ninguém mais reúne amigos e familiares para jogar presencialmente, afirmação que o texto contraria."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto descreve um ressurgimento inesperado dos jogos de tabuleiro, motivado pelo desejo de interação presencial em contraste com o tempo gasto em telas, mesmo em uma era dominada por jogos digitais."
+                         "explicacao":  "O texto descreve um ressurgimento inesperado dos jogos de tabuleiro, motivado pelo desejo de interação presencial em contraste com o tempo gasto em telas, mesmo em uma era dominada por jogos digitais.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-22",
@@ -285,7 +306,8 @@
                                               "d":  "A sensação de separação física em relação ao tráfego de veículos, proporcionada por ciclovias protegidas."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto indica que ciclovias protegidas, que dão aos ciclistas sensação de separação física do tráfego, aumentam a probabilidade de escolherem a bicicleta para deslocamentos diários, com potencial de reduzir congestionamento e poluição."
+                         "explicacao":  "O texto indica que ciclovias protegidas, que dão aos ciclistas sensação de separação física do tráfego, aumentam a probabilidade de escolherem a bicicleta para deslocamentos diários, com potencial de reduzir congestionamento e poluição.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-23",
@@ -298,7 +320,8 @@
                                               "d":  "Porque os funcionários pararam de se preocupar com sua saúde mental, ideia contrária ao texto."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto afirma que empresas passaram a oferecer suporte à saúde mental por reconhecerem que o bem-estar dos funcionários afeta diretamente seu desempenho e sua permanência na empresa a longo prazo."
+                         "explicacao":  "O texto afirma que empresas passaram a oferecer suporte à saúde mental por reconhecerem que o bem-estar dos funcionários afeta diretamente seu desempenho e sua permanência na empresa a longo prazo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-24",
@@ -311,7 +334,8 @@
                                               "d":  "Dormir em horários diferentes todos os dias melhora automaticamente a qualidade do sono, ideia contrária ao texto."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto indica que a consistência dos horários de sono, incluindo os finais de semana, pode ser tão relevante quanto — ou mais relevante que — a quantidade total de horas dormidas para a qualidade geral do sono."
+                         "explicacao":  "O texto indica que a consistência dos horários de sono, incluindo os finais de semana, pode ser tão relevante quanto — ou mais relevante que — a quantidade total de horas dormidas para a qualidade geral do sono.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-25",
@@ -324,7 +348,8 @@
                                               "d":  "A digitalização eliminou totalmente a necessidade de museus físicos, o que o texto não afirma."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Apesar de reconhecer o ganho de acesso proporcionado pela digitalização, o texto aponta a preocupação de curadores de que essa experiência digital não substitua totalmente a experiência de ver uma obra original pessoalmente."
+                         "explicacao":  "Apesar de reconhecer o ganho de acesso proporcionado pela digitalização, o texto aponta a preocupação de curadores de que essa experiência digital não substitua totalmente a experiência de ver uma obra original pessoalmente.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-26",
@@ -337,7 +362,8 @@
                                               "d":  "Eles eliminaram completamente a necessidade de qualquer prática oral, contrariando o texto."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto reconhece o ganho de acessibilidade proporcionado pelos aplicativos, mas destaca a crítica de que, isoladamente, eles raramente resultam em fluência real, sendo a conversação com outros falantes considerada essencial."
+                         "explicacao":  "O texto reconhece o ganho de acessibilidade proporcionado pelos aplicativos, mas destaca a crítica de que, isoladamente, eles raramente resultam em fluência real, sendo a conversação com outros falantes considerada essencial.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-27",
@@ -350,7 +376,8 @@
                                               "d":  "Todo programa de voluntariado internacional traz benefícios automáticos às comunidades locais."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto alerta que programas de voluntariado mal planejados podem prejudicar comunidades locais, por exemplo ao substituir trabalhadores locais ou oferecer serviços sem treinamento e compromisso adequados, contrariando a intenção inicial de ajudar."
+                         "explicacao":  "O texto alerta que programas de voluntariado mal planejados podem prejudicar comunidades locais, por exemplo ao substituir trabalhadores locais ou oferecer serviços sem treinamento e compromisso adequados, contrariando a intenção inicial de ajudar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-28",
@@ -363,7 +390,8 @@
                                               "d":  "Elas nem sempre são protegidas pela legislação internacional existente, criando uma lacuna jurídica."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto explica que pessoas deslocadas por eventos climáticos nem sempre contam com a mesma proteção legal internacional destinada a refugiados tradicionais, o que gera uma lacuna jurídica que pesquisadores buscam resolver."
+                         "explicacao":  "O texto explica que pessoas deslocadas por eventos climáticos nem sempre contam com a mesma proteção legal internacional destinada a refugiados tradicionais, o que gera uma lacuna jurídica que pesquisadores buscam resolver.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-29",
@@ -376,7 +404,8 @@
                                               "d":  "Resumir um texto em poucas linhas."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto esclarece que \u0027to resume\u0027 significa retomar algo após uma interrupção, e não \u0027resumir\u0027 (que corresponde a \u0027to summarize\u0027 em inglês), configurando um falso cognato comum entre estudantes brasileiros."
+                         "explicacao":  "O texto esclarece que \u0027to resume\u0027 significa retomar algo após uma interrupção, e não \u0027resumir\u0027 (que corresponde a \u0027to summarize\u0027 em inglês), configurando um falso cognato comum entre estudantes brasileiros.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-30",
@@ -389,7 +418,8 @@
                                               "d":  "\u0027Novelty\u0027, no sentido de programa televisivo, uso que o texto claramente não confirma para essa palavra."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto explica que \u0027novel\u0027 significa romance literário (substantivo) ou novo/original (adjetivo), e não \u0027novela\u0027 de televisão, que não tem um equivalente direto de uma única palavra em inglês, geralmente sendo descrita como \u0027soap opera\u0027."
+                         "explicacao":  "O texto explica que \u0027novel\u0027 significa romance literário (substantivo) ou novo/original (adjetivo), e não \u0027novela\u0027 de televisão, que não tem um equivalente direto de uma única palavra em inglês, geralmente sendo descrita como \u0027soap opera\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-31",
@@ -402,7 +432,8 @@
                                               "d":  "Um tipo de máquina utilizada na indústria têxtil, o que o texto não confirma."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto esclarece que \u0027fabric\u0027 significa tecido, e não \u0027fábrica\u0027 (que corresponde a \u0027factory\u0027 ou \u0027plant\u0027 em inglês), sendo um dos falsos cognatos mais conhecidos entre aprendizes brasileiros de inglês."
+                         "explicacao":  "O texto esclarece que \u0027fabric\u0027 significa tecido, e não \u0027fábrica\u0027 (que corresponde a \u0027factory\u0027 ou \u0027plant\u0027 em inglês), sendo um dos falsos cognatos mais conhecidos entre aprendizes brasileiros de inglês.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-32",
@@ -415,7 +446,8 @@
                                               "d":  "Um texto literário utilizado em sala de aula, o que o texto não confirma."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explica que \u0027lecture\u0027 se refere a uma aula expositiva ou palestra formal dada por um professor, e não ao ato de ler (\u0027leitura\u0027), que corresponde ao verbo \u0027to read\u0027 em inglês."
+                         "explicacao":  "O texto explica que \u0027lecture\u0027 se refere a uma aula expositiva ou palestra formal dada por um professor, e não ao ato de ler (\u0027leitura\u0027), que corresponde ao verbo \u0027to read\u0027 em inglês.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-33",
@@ -428,7 +460,8 @@
                                               "d":  "Público e acessível a qualquer pessoa."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto esclarece que, em inglês, \u0027particular\u0027 geralmente significa \u0027específico\u0027 ou \u0027especial\u0027, diferentemente do uso mais comum em português (relacionado a algo privado), sentido para o qual o inglês normalmente usa a palavra \u0027private\u0027."
+                         "explicacao":  "O texto esclarece que, em inglês, \u0027particular\u0027 geralmente significa \u0027específico\u0027 ou \u0027especial\u0027, diferentemente do uso mais comum em português (relacionado a algo privado), sentido para o qual o inglês normalmente usa a palavra \u0027private\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-34",
@@ -441,7 +474,8 @@
                                               "d":  "Anunciar oficialmente um evento público."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explica que \u0027to notice\u0027 significa perceber ou notar algo, sendo um falso cognato em relação a \u0027notícia\u0027, que corresponde à palavra \u0027news\u0027 em inglês."
+                         "explicacao":  "O texto explica que \u0027to notice\u0027 significa perceber ou notar algo, sendo um falso cognato em relação a \u0027notícia\u0027, que corresponde à palavra \u0027news\u0027 em inglês.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-35",
@@ -454,7 +488,8 @@
                                               "d":  "Qualquer tipo de recipiente usado para armazenar objetos, ideia ausente do texto."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto esclarece que, em inglês, \u0027pasta\u0027 refere-se exclusivamente à comida italiana feita de massa, e não a uma pasta de documentos, que em inglês é chamada de \u0027folder\u0027 ou \u0027binder\u0027."
+                         "explicacao":  "O texto esclarece que, em inglês, \u0027pasta\u0027 refere-se exclusivamente à comida italiana feita de massa, e não a uma pasta de documentos, que em inglês é chamada de \u0027folder\u0027 ou \u0027binder\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-36",
@@ -467,7 +502,8 @@
                                               "d":  "Um acessório usado exclusivamente por animais selvagens, ideia ausente do texto."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto explica que \u0027collar\u0027 se refere à gola de uma camisa ou a uma coleira de animal de estimação, e não a uma joia (colar), que em inglês corresponde à palavra \u0027necklace\u0027."
+                         "explicacao":  "O texto explica que \u0027collar\u0027 se refere à gola de uma camisa ou a uma coleira de animal de estimação, e não a uma joia (colar), que em inglês corresponde à palavra \u0027necklace\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta o turismo espacial como uma indústria em ascensão, mencionando tanto o entusiasmo de seus apoiadores quanto as críticas relacionadas ao alto custo e ao impacto ambiental, sem tomar partido definitivo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto mostra que as barreiras de vegetação reduziram o cortisol mesmo quando os decibéis mudaram pouco, o que permite inferir que o efeito psicológico (percepção de menos ruído) pode ser tão relevante quanto a redução física do som.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027eventually\u0027 significa \u0027no final\u0027/\u0027finalmente\u0027, diferentemente de \u0027eventualmente\u0027 em português, que corresponde a \u0027occasionally\u0027 ou \u0027sometimes\u0027 em inglês — um falso cognato clássico.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "No contexto, \u0027a surge in employee satisfaction\u0027 indica um aumento súbito e significativo na satisfação dos funcionários, sentido mais próximo de \u0027increase\u0027 do que de diminuição ou desaparecimento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027to assist\u0027 significa ajudar, e não assistir (no sentido de ver algo), sendo o verbo correto para essa ideia \u0027to watch\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-42",
@@ -545,13 +586,14 @@
                          "enunciado":  "What is the main idea of the text?",
                          "alternativas":  {
                                               "a":  "The discovery of microplastics in bottled water has reignited concerns about its safety.",
-                                              "b":  "Bottled water is completely free of any contamination, contrary to the study's findings.",
+                                              "b":  "Bottled water is completely free of any contamination, contrary to the study\u0027s findings.",
                                               "c":  "Scientists have already proven that microplastics cause no harm to human health.",
                                               "d":  "Plastic packaging is being banned worldwide as a direct result of the study."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto relata a descoberta de microplásticos em praticamente todas as amostras de água engarrafada testadas, reacendendo o debate público sobre a segurança desse tipo de embalagem, mesmo sem conclusões definitivas sobre os efeitos à saúde.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que, por serem difíceis de distinguir de imagens reais, os deepfakes geraram uma nova demanda profissional: equipes dedicadas à verificação de mídia manipulada antes da publicação, o que é uma inferência a partir da menção às \u0027specialized teams\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027to realize\u0027 significa perceber ou se dar conta de algo, e não \u0027realizar\u0027 no sentido de executar/concretizar, que corresponde a \u0027to accomplish\u0027 ou \u0027to carry out\u0027 em inglês.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O autor usa expressões como \u0027staggering amounts of textile waste\u0027 e menciona mão de obra mal remunerada, revelando um tom crítico em relação aos custos ocultos por trás dos baixos preços da fast fashion.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O contexto indica que os recifes \u0027resilientes\u0027 se recuperam mais rápido do que o esperado, o que corresponde ao sentido de capacidade de se recuperar rapidamente de danos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027comprehensive\u0027 significa completo/abrangente, e não compreensivo no sentido de tolerante ou solidário, que corresponde a \u0027understanding\u0027 ou \u0027sympathetic\u0027 em inglês.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que países estão criando vistos específicos para atrair trabalhadores remotos, visando estimular a economia local por meio de gastos em moradia, alimentação e serviços.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto contrasta a flexibilidade valorizada pelos trabalhadores com a ausência de benefícios tradicionais, permitindo inferir que essa liberdade tem como contrapartida uma maior vulnerabilidade financeira.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-50",
@@ -663,21 +712,23 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027exquisite\u0027 significa extremamente belo ou delicado, e não \u0027esquisito\u0027 (estranho), que em inglês corresponde a \u0027weird\u0027 ou \u0027strange\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-51",
                          "texto_apoio":  "Debates over which books should be available in school libraries have intensified in several countries. Some parents argue that certain titles contain content inappropriate for young readers, while librarians and free-speech advocates warn that removing books based on subjective complaints risks silencing diverse voices and limiting students\u0027 access to different perspectives.",
                          "enunciado":  "What tone does the author adopt when presenting the book banning debate?",
                          "alternativas":  {
-                                              "a":  "Strongly biased in favor of removing all contested books, unlike the text's tone.",
-                                              "b":  "Dismissive, treating the entire debate as unimportant, unlike the author's tone.",
+                                              "a":  "Strongly biased in favor of removing all contested books, unlike the text\u0027s tone.",
+                                              "b":  "Dismissive, treating the entire debate as unimportant, unlike the author\u0027s tone.",
                                               "c":  "Sarcastic, mocking both parents and librarians equally, unlike the actual tone.",
                                               "d":  "Balanced, presenting both sides of the debate without taking an explicit position."
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto apresenta os argumentos dos pais preocupados e, em seguida, os contra-argumentos de bibliotecários e defensores da liberdade de expressão, mantendo um tom equilibrado sem declarar posição explícita.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O contexto indica que os incêndios atingiram áreas que \u0027raramente, ou nunca, haviam vivenciado grandes incêndios antes\u0027, reforçando que \u0027unprecedented\u0027 significa algo nunca visto antes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto deixa claro que \u0027embarrassed\u0027 significa envergonhado ou constrangido, e não está relacionado a gravidez, esclarecendo esse falso cognato comum entre falantes de português.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto destaca a eficiência hídrica das fazendas verticais e o potencial de produção local de alimentos como forma de reduzir emissões ligadas ao transporte, sem afirmar que a agricultura tradicional foi substituída.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto liga o uso de antibióticos na pecuária ao desenvolvimento de bactérias resistentes que podem se espalhar para humanos, permitindo inferir uma conexão direta entre a prática agrícola e a saúde pública.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027disgust\u0027 significa repulsa ou nojo, e não \u0027desgosto\u0027 no sentido de tristeza, que em inglês corresponde a \u0027sorrow\u0027 ou \u0027grief\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto associa o declínio das populações de abelhas a pesticidas, perda de habitat e doenças, indicando que \u0027plummeted\u0027 significa uma queda acentuada, e não estabilidade ou aumento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta a proposta do movimento pelo direito ao reparo e, em seguida, a objeção de alguns fabricantes, o que caracteriza a ideia central: uma disputa entre acesso ampliado a peças/manuais e preocupações dos fabricantes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao contrastar o uso voltado a amigos próximos com o consumo de conteúdo de estranhos, o texto permite inferir que a forma de uso das redes sociais pode ser tão relevante quanto o tempo total gasto nelas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que \u0027genial\u0027 significa amigável/afável, e não \u0027genial\u0027 no sentido de brilhante, que em inglês corresponde a \u0027brilliant\u0027 ou \u0027ingenious\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Expressões como \u0027fresh hope\u0027 e \u0027steady improvements\u0027 revelam um tom otimista e esperançoso do autor em relação à tecnologia de limpeza dos oceanos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto mostra opiniões divergentes de economistas sobre o programa, o que confirma que \u0027controversial\u0027 significa algo que gera discordância ou opiniões opostas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027physician\u0027 significa médico, e não físico (cientista da física), que em inglês corresponde a \u0027physicist\u0027 — outro falso cognato relevante.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto apresenta a solidão entre idosos como um problema sério de saúde pública, associado a riscos cardíacos e cognitivos, e menciona programas comunitários criados como resposta a esse problema.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que a escolha da localização é motivada por terra barata e incentivos fiscais, e não pela disponibilidade local de água, permitindo inferir que fatores econômicos podem se sobrepor às restrições hídricas regionais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027balcony\u0027 é uma sacada/varanda, e não um balcão de atendimento, que em inglês corresponde a \u0027counter\u0027 ou \u0027desk\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027casualty\u0027 se refere a uma vítima (morta ou ferida), e não a uma coincidência, que em inglês corresponde a \u0027coincidence\u0027 ou \u0027chance\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto associa \u0027eroded\u0027 ao encolhimento das praias causado pelo aumento do nível do mar e tempestades, indicando um processo de desgaste gradual, e não de expansão ou reconstrução.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto reconhece o potencial ambiental da carne cultivada em laboratório, mas destaca desafios de custo e regulação que ainda dificultam sua disponibilidade comercial mais ampla.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao afirmar que rótulos são usados \u0027sem qualquer evidência verificável\u0027 e que a prática \u0027engana os compradores\u0027, o autor adota um tom claramente crítico em relação ao chamado greenwashing.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027deception\u0027 significa o ato de enganar deliberadamente, e não \u0027decepção\u0027 (sentimento de desapontamento), que em inglês corresponde a \u0027disappointment\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto revela que grande parte do equipamento rotulado como \u0027usado para revenda\u0027 está, na verdade, quebrado, o que permite inferir que essa classificação pode servir para contornar regras mais rígidas sobre exportação de resíduos perigosos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto define \u0027quiet quitting\u0027 como fazer apenas o mínimo exigido pelo cargo, apresentando duas visões: como forma saudável de evitar sobrecarga ou como falta de comprometimento, sem afirmar que se trata de pedir demissão literalmente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explica que \u0027educated\u0027 se refere à instrução formal recebida por uma pessoa, e não a boas maneiras, sentido para o qual o inglês usa \u0027polite\u0027 ou \u0027well-mannered\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto descreve um processo delicado, no qual até um pequeno erro pode alterar permanentemente a obra, o que reforça o sentido de \u0027meticulous\u0027 como extremamente cuidadoso e preciso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto indica que mesmo aplicativos silenciosos e pouco estimulantes atrasaram o sono de forma semelhante, permitindo inferir que a luz da tela, e não apenas o conteúdo, é um fator relevante nesse atraso.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027ingenious\u0027 significa engenhoso/criativo, e não \u0027ingênuo\u0027 (naive), configurando outro exemplo de falso cognato relevante para estudantes de inglês.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve uma missão criada especificamente para capturar satélites inativos e removê-los da órbita, apontando essa iniciativa como possível modelo para futuros esforços de limpeza espacial.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Termos como \u0027remarkable\u0027 e a descrição do retorno de riachos e da fauna revelam um tom otimista e celebratório em relação aos resultados do projeto de reflorestamento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027journal\u0027 pode ser um diário pessoal ou uma revista acadêmica, e não um jornal diário de notícias, que em inglês corresponde a \u0027newspaper\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O contexto relaciona \u0027dwindling\u0027 à sobrepesca e ao aquecimento dos oceanos ao longo de décadas, indicando uma diminuição gradual, e não uma queda súbita ou estabilidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-82",
@@ -1106,12 +1187,13 @@
                          "alternativas":  {
                                               "a":  "The algorithm was designed intentionally to exclude certain universities from consideration, contrary to the text.",
                                               "b":  "Candidates from certain universities were objectively less qualified than others, an idea the text refutes.",
-                                              "c":  "The company has never hired anyone from a diverse educational background, contrary to the text's implication.",
+                                              "c":  "The company has never hired anyone from a diverse educational background, contrary to the text\u0027s implication.",
                                               "d":  "The bias likely resulted from training data that reflected the company\u0027s own historical lack of diversity, rather than deliberate design."
                                           },
                          "resposta":  "d",
                          "explicacao":  "Ao conectar o treinamento do algoritmo com currículos de contratações passadas pouco diversas, o texto permite inferir que o viés resultou dessa base de dados histórica, e não de uma intenção deliberada de exclusão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027mayor\u0027 se refere ao prefeito de uma cidade, e não a \u0027maior\u0027 no sentido de tamanho, que em inglês corresponde a \u0027bigger\u0027 ou \u0027larger\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve programas de devolução de roupas usadas que são reparadas, revendidas ou recicladas, caracterizando uma abordagem de economia circular voltada a prolongar a vida útil das peças.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga a menor cobertura arbórea a bairros historicamente de menor renda e a temperaturas mais altas, permitindo inferir uma exposição desigual ao calor urbano associada a fatores socioeconômicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que \u0027policy\u0027 se refere a uma diretriz ou curso de ação adotado por um governo ou organização, e não à polícia, que em inglês corresponde a \u0027police\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O contexto associa \u0027scrutiny\u0027 à atenção de reguladores e defensores da privacidade após vazamentos de dados, indicando um exame minucioso e crítico, e não elogio ou indiferença.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta tanto o argumento favorável (reconhecimento de uma necessidade biológica) quanto a preocupação crítica (possível reforço de estereótipos ou discriminação), sem indicar consenso total.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto reconhece o potencial médico da edição genética, mas também destaca o pedido de cautela dos pesquisadores diante de questões éticas ainda não resolvidas, revelando um tom equilibrado e cauteloso.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027preservative\u0027 significa conservante alimentar, e não \u0027preservativo\u0027 (condom), sendo um dos falsos cognatos mais conhecidos e relevantes entre estudantes brasileiros.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto conecta o declínio de negócios locais à ausência de trabalhadores presenciais e apresenta a conversão de escritórios em apartamentos como forma de trazer novos moradores, o que permite inferir a intenção de repor o fluxo de pessoas perdido.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027to retire\u0027 significa se aposentar, e não \u0027retirar\u0027 (remover), que em inglês corresponde a \u0027to remove\u0027 ou \u0027to withdraw\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve a crítica ao ruído dos escritórios abertos e a resposta de algumas empresas, que passaram a instalar cabines e zonas silenciosas para permitir foco, sem indicar abandono total do modelo aberto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-94",
@@ -1279,21 +1372,23 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O contexto mostra usuários reclamando e ameaçando migrar para concorrentes, o que caracteriza \u0027backlash\u0027 como uma forte reação negativa de um grupo de pessoas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-95",
                          "texto_apoio":  "Ornithologists have found that migratory birds relying on starlight and moonlight for navigation become disoriented near brightly lit cities, sometimes colliding with buildings or circling illuminated towers until exhausted. Some cities have started turning off non-essential lights during peak migration seasons in response to these findings.",
                          "enunciado":  "Based on the text, what can be inferred about the relationship between artificial light and bird navigation?",
                          "alternativas":  {
-                                              "a":  "Artificial light improves birds' ability to navigate accurately during migration, contrary to the text.",
+                                              "a":  "Artificial light improves birds\u0027 ability to navigate accurately during migration, contrary to the text.",
                                               "b":  "Excessive artificial light can interfere with the natural cues birds use to navigate, sometimes with harmful consequences.",
                                               "c":  "Birds no longer rely on any natural light source for navigation, which directly contradicts the text.",
                                               "d":  "Turning off city lights has no effect on bird behavior during migration, which the text disputes."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga a desorientação das aves à luz artificial das cidades, e a resposta de desligar luzes durante a migração reforça a inferência de que o excesso de luz interfere nos sinais naturais usados pelas aves para se orientar.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto esclarece que \u0027sympathetic\u0027 significa compreensivo/solidário, e não \u0027simpático\u0027 no sentido de agradável, que em inglês corresponde a \u0027nice\u0027, \u0027friendly\u0027 ou \u0027likeable\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027constipated\u0027, em inglês, refere-se à dificuldade de evacuar, e não a estar resfriado, o que corresponde à expressão \u0027having a cold\u0027 — um falso cognato que costuma causar situações embaraçosas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O contexto associa \u0027vulnerable\u0027 a cidades sujeitas a inundações, contaminação de água doce e altos custos com barreiras, indicando exposição a danos potenciais, e não proteção ou responsabilidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto aponta que populações sem internet confiável, muitas vezes as mesmas que vivem mais longe de clínicas físicas, ficam sem acesso à telemedicina, permitindo inferir que a tecnologia pode não alcançar justamente quem mais precisaria dela.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027confident\u0027 significa confiante/seguro de si, e não \u0027confidente\u0027 (pessoa de confiança para segredos), que em inglês corresponde a \u0027confidant\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-101",
@@ -1377,7 +1477,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta o objetivo das leis de desconexão (limitar contato fora do horário de trabalho) e as reações divergentes: apoio de defensores dos trabalhadores e crítica de alguns grupos empresariais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-102",
@@ -1391,7 +1492,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga o baixo índice de reciclagem à dificuldade técnica de separar misturas de fibras nos tecidos, permitindo inferir que esse é um obstáculo central para reciclar roupas em novas peças.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-103",
@@ -1405,7 +1507,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027appointment\u0027 significa um compromisso agendado, e não \u0027apontamento\u0027 (nota/anotação), que em inglês corresponde a \u0027note\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-104",
@@ -1419,7 +1522,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto mostra opiniões opostas de apoiadores e opositores da política, o que confirma que \u0027polarizing\u0027 significa algo que causa opiniões fortemente divididas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-105",
@@ -1433,7 +1537,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto destaca os benefícios da apicultura urbana para os polinizadores, mas também alerta para a importância do treinamento adequado, dado o risco que colmeias mal manejadas podem representar para vizinhos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-106",
@@ -1447,7 +1552,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao destacar que voluntários permitem coletar dados em escala impossível para cientistas profissionais sozinhos, o autor demonstra um tom de admiração pela contribuição da ciência cidadã.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-107",
@@ -1461,7 +1567,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explica que, no dia a dia, \u0027argument\u0027 frequentemente se refere a uma discussão ou desentendimento entre pessoas, além do sentido de argumento lógico, sendo importante observar o contexto para identificar o significado pretendido.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-108",
@@ -1475,7 +1582,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto descreve um ciclo em que a falta de experiência dificulta a contratação, e a falta de contratação impede a obtenção de experiência, permitindo inferir a dificuldade estrutural enfrentada por jovens no mercado de trabalho.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-109",
@@ -1489,7 +1597,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto reconhece a utilidade dos dispositivos vestíveis para identificar padrões incomuns, mas ressalta que eles não devem substituir a avaliação médica profissional, já que podem ser menos precisos que equipamentos clínicos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-110",
@@ -1503,7 +1612,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027to assume\u0027 geralmente significa supor algo sem prova, e não \u0027assumir\u0027 no sentido de tomar posse ou admitir, que em inglês correspondem a \u0027to take on\u0027 ou \u0027to admit\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-111",
@@ -1517,7 +1627,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao citar a preocupação de psicólogos infantis sobre a vulnerabilidade das crianças diante de publicidade disfarçada, o autor adota um tom crítico em relação a essa prática de marketing.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-112",
@@ -1531,7 +1642,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027audience\u0027 se refere à plateia ou ao público que assiste a algo, e não a uma audiência oficial/judicial, sentido para o qual o inglês normalmente usa \u0027hearing\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-113",
@@ -1545,7 +1657,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto liga o aumento no volume e na duração dos chamados das baleias ao consumo extra de energia, permitindo inferir que o ruído dos navios pode comprometer recursos energéticos importantes para alimentação e migração.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-114",
@@ -1559,7 +1672,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explica que \u0027to contest\u0027 significa desafiar ou contestar formalmente algo, e não simplesmente responder a uma pergunta, sentido para o qual o inglês usa \u0027to answer\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-115",
@@ -1573,7 +1687,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027gratuity\u0027 significa gorjeta, e não gratuidade (isenção de cobrança), que em inglês corresponde à expressão \u0027free of charge\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-116",
@@ -1587,7 +1702,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027injury\u0027 significa dano físico/machucado, e não \u0027injúria\u0027 (insulto verbal), que em inglês corresponde a \u0027insult\u0027 ou \u0027slander\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-117",
@@ -1601,7 +1717,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto apresenta um resultado misto: rapidez para questões simples, mas frustração em casos mais complexos, o que resume a ideia central sem indicar substituição total dos atendentes humanos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-118",
@@ -1615,7 +1732,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto menciona consumidores que se sentem pressionados a dar gorjeta mesmo sem atendimento direto de uma pessoa, permitindo inferir que essa expansão da prática pode gerar constrangimento social sem justificativa de serviço prestado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-119",
@@ -1629,7 +1747,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto esclarece que \u0027exit\u0027 significa saída, e não \u0027êxito\u0027 (sucesso), que em inglês corresponde à palavra \u0027success\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-120",
@@ -1643,7 +1762,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que \u0027idiom\u0027 se refere a uma expressão idiomática, e não a um idioma/língua, que em inglês corresponde à palavra \u0027language\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-121",
@@ -1657,7 +1777,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto esclarece que \u0027prejudice\u0027 geralmente se refere a preconceito, uma opinião injusta e preconcebida, e não a prejuízo financeiro, que em inglês corresponde a \u0027loss\u0027 ou \u0027damage\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-122",
@@ -1671,7 +1792,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto indica que a colheita ficou \u0027muito abaixo do necessário\u0027 para cobrir custos, o que reforça o sentido de \u0027meager\u0027 como algo pequeno e insuficiente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-123",
@@ -1685,7 +1807,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao mencionar depoimentos forjados e o alerta de reguladores financeiros sobre retornos altos e sem risco, o autor adota um tom claramente cético em relação a esse tipo de mensagem de investimento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-124",
@@ -1693,13 +1816,14 @@
                          "enunciado":  "Based on the text, what can be inferred about the transition from fossil fuel jobs to renewable energy jobs?",
                          "alternativas":  {
                                               "a":  "Most displaced fossil fuel workers already have the exact training required for the new renewable energy jobs being created.",
-                                              "b":  "Renewable energy investment has not created any new jobs so far, contrary to the text's description.",
+                                              "b":  "Renewable energy investment has not created any new jobs so far, contrary to the text\u0027s description.",
                                               "c":  "Coal mining regions have experienced no economic impact from the shift to renewable energy, contrary to the text.",
                                               "d":  "The transition may create a mismatch between the skills of displaced fossil fuel workers and the requirements of new renewable energy jobs."
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto contrasta a criação de empregos em energias renováveis com a perda de empregos em regiões dependentes de combustíveis fósseis, destacando a falta de treinamento específico, o que permite inferir um descompasso entre habilidades antigas e novas exigências do mercado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-125",
@@ -1713,7 +1837,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que a receita publicitária em podcasts cresceu, destacando que a leitura dos anúncios pelos próprios apresentadores, em tom conversacional, é vista como um fator que constrói mais confiança com o público.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-126",
@@ -1727,7 +1852,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto menciona dois fatores combinados — invernos mais quentes e fiscalização inconsistente do armazenamento de lixo orgânico — permitindo inferir que o aumento das populações de ratos resulta da combinação desses elementos, não de um único fator isolado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-127",
@@ -1741,7 +1867,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto esclarece que \u0027large\u0027 se refere a tamanho em geral (grande), enquanto o sentido de \u0027largo\u0027 (largura) corresponde à palavra \u0027wide\u0027 em inglês.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-128",
@@ -1755,7 +1882,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O contexto associa \u0027spiked\u0027 a preços recordes após más colheitas, indicando um aumento súbito e acentuado, e não uma queda ou estabilidade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-129",
@@ -1769,7 +1897,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve o crescimento dos audiolivros e destaca a importância da narração para o sucesso do produto, motivando investimento das editoras na escolha da voz adequada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-130",
@@ -1783,7 +1912,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta resultados contraditórios entre diferentes estudos, permitindo inferir que ainda não há consenso científico sobre a real eficácia dos óculos que bloqueiam luz azul.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-131",
@@ -1797,7 +1927,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explica que \u0027to record\u0027, como verbo, significa gravar som ou vídeo, sentido diferente do substantivo \u0027record\u0027 quando usado como recorde pessoal, o que exige atenção ao contexto para a tradução correta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-132",
@@ -1811,7 +1942,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao expor as críticas de defensores do consumidor sobre produtos difíceis de reparar e que perdem suporte rapidamente, o autor adota um tom crítico em relação a essa prática, mesmo mencionando a versão dos fabricantes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-133",
@@ -1825,7 +1957,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto esclarece que \u0027cigar\u0027 significa charuto, e não cigarro (fino e envolto em papel), que em inglês corresponde a \u0027cigarette\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-134",
@@ -1839,7 +1972,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto descreve a busca de gravadoras e músicos por clareza jurídica sobre direitos autorais de músicas geradas por IA, especialmente quando treinadas com músicas protegidas sem autorização, evidenciando uma questão legal ainda não resolvida.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-135",
@@ -1853,7 +1987,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta tanto o benefício ecológico da reintrodução de predadores quanto o prejuízo ocasional a pecuaristas, e menciona fundos de compensação, permitindo inferir uma tentativa de equilibrar ambos os interesses.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-136",
@@ -1867,7 +2002,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que, no inglês britânico, \u0027spectacles\u0027 pode significar óculos de grau, e não espetáculos (shows), que em inglês correspondem a \u0027show\u0027 ou \u0027performance\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-137",
@@ -1881,7 +2017,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto conecta a preocupação de grupos de defesa a idosos e pessoas de baixa renda sem acesso bancário, permitindo inferir que esses grupos são desproporcionalmente afetados pela redução do uso de dinheiro em espécie.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-138",
@@ -1895,7 +2032,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve o desafio emergente de reciclar painéis solares antigos, apontando a falta de infraestrutura adequada como o problema central discutido.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-139",
@@ -1909,21 +2047,23 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Ao listar consequências negativas como superlotação, aumento do custo de moradia e danos a sítios naturais, o autor demonstra um tom de preocupação em relação aos efeitos do overtourism.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-140",
                          "texto_apoio":  "Schools experimenting with virtual reality headsets report that students find immersive simulations, such as walking through a recreation of ancient Rome, more engaging than reading the same content in a textbook. Teachers note, however, that the technology remains expensive and requires additional staff training to use effectively in a classroom setting.",
                          "enunciado":  "In the text, the word \u0027immersive\u0027 is closest in meaning to:",
                          "alternativas":  {
-                                              "a":  "boring and disconnected from reality, opposite to the text's description",
+                                              "a":  "boring and disconnected from reality, opposite to the text\u0027s description",
                                               "b":  "extremely cheap and easy to access, which the text does not mention",
                                               "c":  "limited to written text only, contrary to the simulation described",
                                               "d":  "creating a strong sense of being surrounded by or part of an environment"
                                           },
                          "resposta":  "d",
                          "explicacao":  "O contexto descreve simulações em que os alunos \u0027caminham\u0027 por uma recriação da Roma antiga, o que reforça o sentido de \u0027immersive\u0027 como algo que proporciona forte sensação de estar inserido em um ambiente.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-141",
@@ -1937,7 +2077,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto esclarece que \u0027terrific\u0027 significa excelente/maravilhoso, sendo o oposto do que muitos estudantes brasileiros supõem por semelhança com \u0027terrível\u0027, que em inglês corresponde a \u0027terrible\u0027 ou \u0027awful\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-142",
@@ -1951,7 +2092,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto conecta tanto o aumento inicial de adoções quanto o posterior aumento de devoluções às mudanças nas condições de trabalho remoto, permitindo inferir uma relação entre a rotina de trabalho e as decisões relacionadas a animais de estimação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-143",
@@ -1965,7 +2107,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto descreve o impacto positivo das patinetes elétricas na mobilidade urbana e o aumento de lesões relacionadas ao seu uso, o que gera debate sobre regulamentação, sem indicar proibição já consolidada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-144",
@@ -1979,7 +2122,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao destacar a crescente aceitação dos diamantes de laboratório como alternativa que evita danos ambientais e problemas trabalhistas da mineração, o autor adota um tom esperançoso em relação a essa tecnologia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-145",
@@ -1987,13 +2131,14 @@
                          "enunciado":  "In the text, the word \u0027erratic\u0027 is closest in meaning to:",
                          "alternativas":  {
                                               "a":  "mild and unremarkable, unlike the extremes described",
-                                              "b":  "gradually improving, contrary to the farmers' account",
+                                              "b":  "gradually improving, contrary to the farmers\u0027 account",
                                               "c":  "unpredictable and irregular",
                                               "d":  "predictable and consistent, opposite to the text"
                                           },
                          "resposta":  "c",
                          "explicacao":  "O contexto descreve secas extremas seguidas repentinamente por inundações intensas, o que reforça o sentido de \u0027erratic\u0027 como algo imprevisível e irregular.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-146",
@@ -2007,7 +2152,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto apresenta dois achados: um ligado à altura do andar e outro ao acesso a áreas verdes compartilhadas, sugerindo que o design do edifício pode ser um fator tão ou mais relevante que a altura isolada, o que exige comparar as duas partes do texto.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-147",
@@ -2021,7 +2167,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto descreve o crescimento dos mercados de roupas de segunda mão e a resposta de grandes marcas, que passaram a lançar suas próprias plataformas de revenda para competir nesse segmento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-148",
@@ -2035,7 +2182,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Ao expor a preocupação de profissionais de saúde mental de que o aplicativo possa aprofundar o isolamento em vez de resolvê-lo, o autor adota um tom de cautela e preocupação diante desse paradoxo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-149",
@@ -2049,7 +2197,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O contexto menciona a pressão sobre margens de lucro causada pela intensificação da concorrência, reforçando que \u0027saturated\u0027 significa um mercado repleto de competidores, com pouco espaço para crescimento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ingles-150",
@@ -2063,7 +2212,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explica que, no uso cotidiano, \u0027intoxicated\u0027 geralmente se refere a estar embriagado por álcool, e não exclusivamente a uma intoxicação alimentar ou química, embora esse sentido médico também exista em contextos específicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

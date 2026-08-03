@@ -12,7 +12,8 @@
                                               "d":  "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A queima de combustíveis fósseis (carvão, petróleo, gás natural) e o desmatamento aumentam a concentração de gases de efeito estufa, como o CO2, na atmosfera, intensificando a retenção de calor e contribuindo para o aquecimento global."
+                         "explicacao":  "A queima de combustíveis fósseis (carvão, petróleo, gás natural) e o desmatamento aumentam a concentração de gases de efeito estufa, como o CO2, na atmosfera, intensificando a retenção de calor e contribuindo para o aquecimento global.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-02",
@@ -25,7 +26,8 @@
                                               "d":  "ocorre completa ausência de matéria orgânica dissolvida na água, o que eliminaria o substrato para decomposição bacteriana"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O excesso de nutrientes (nitrogênio e fósforo), provenientes de esgotos e fertilizantes, estimula a proliferação de algas. Quando essas algas morrem e são decompostas, o processo consome grande quantidade de oxigênio dissolvido, prejudicando a vida aquática."
+                         "explicacao":  "O excesso de nutrientes (nitrogênio e fósforo), provenientes de esgotos e fertilizantes, estimula a proliferação de algas. Quando essas algas morrem e são decompostas, o processo consome grande quantidade de oxigênio dissolvido, prejudicando a vida aquática.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-03",
@@ -38,7 +40,8 @@
                                               "d":  "aumentar o uso de fertilizantes químicos nas áreas urbanas, prática que não interfere na reprodução do mosquito"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O Aedes aegypti deposita seus ovos em água parada. A eliminação de criadouros (pneus, vasos, caixas d\u0027água destampadas) é a principal medida de controle vetorial recomendada por autoridades de saúde pública para reduzir a proliferação do mosquito."
+                         "explicacao":  "O Aedes aegypti deposita seus ovos em água parada. A eliminação de criadouros (pneus, vasos, caixas d\u0027água destampadas) é a principal medida de controle vetorial recomendada por autoridades de saúde pública para reduzir a proliferação do mosquito.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-04",
@@ -51,7 +54,8 @@
                                               "d":  "gases nobres, como o argônio e o hélio, elementos quimicamente inertes que não reagem para formar ácidos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A queima de combustíveis fósseis libera óxidos de enxofre (SOx) e de nitrogênio (NOx), que reagem com a água atmosférica formando ácido sulfúrico e ácido nítrico, os quais precipitam na forma de chuva ácida, prejudicando solos, corpos d\u0027água e construções."
+                         "explicacao":  "A queima de combustíveis fósseis libera óxidos de enxofre (SOx) e de nitrogênio (NOx), que reagem com a água atmosférica formando ácido sulfúrico e ácido nítrico, os quais precipitam na forma de chuva ácida, prejudicando solos, corpos d\u0027água e construções.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-05",
@@ -64,7 +68,8 @@
                                               "d":  "o aumento da emissão de gases poluentes em relação à produção com matéria-prima virgem, elevando o impacto ambiental"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A reciclagem geralmente demanda menos energia e menos extração de recursos naturais do que a produção a partir de matéria-prima virgem, reduzindo impactos ambientais associados à mineração, ao desmatamento e ao consumo energético industrial."
+                         "explicacao":  "A reciclagem geralmente demanda menos energia e menos extração de recursos naturais do que a produção a partir de matéria-prima virgem, reduzindo impactos ambientais associados à mineração, ao desmatamento e ao consumo energético industrial.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-06",
@@ -77,7 +82,8 @@
                                               "d":  "torna dispensável a vacinação contra as mesmas bactérias no futuro, já que o efeito do antibiótico seria permanente"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O uso indiscriminado de antibióticos exerce pressão seletiva sobre populações bacterianas: bactérias sensíveis morrem, enquanto variantes resistentes sobrevivem e se multiplicam, disseminando genes de resistência, um exemplo de seleção natural em ação."
+                         "explicacao":  "O uso indiscriminado de antibióticos exerce pressão seletiva sobre populações bacterianas: bactérias sensíveis morrem, enquanto variantes resistentes sobrevivem e se multiplicam, disseminando genes de resistência, um exemplo de seleção natural em ação.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-07",
@@ -90,7 +96,8 @@
                                               "d":  "a imunidade individual depende, sobretudo, de fatores genéticos herdados dos pais, e não da exposição prévia a vacinas ou infecções"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Quando uma proporção suficientemente grande da população está imunizada, a circulação do patógeno é dificultada, reduzindo a probabilidade de contágio inclusive entre pessoas não vacinadas ou que não podem ser vacinadas, como imunossuprimidos."
+                         "explicacao":  "Quando uma proporção suficientemente grande da população está imunizada, a circulação do patógeno é dificultada, reduzindo a probabilidade de contágio inclusive entre pessoas não vacinadas ou que não podem ser vacinadas, como imunossuprimidos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-08",
@@ -103,7 +110,8 @@
                                               "d":  "a ausência total de qualquer impacto ambiental em todas as etapas de produção dos painéis, da mineração ao descarte"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A geração de eletricidade por painéis fotovoltaicos não envolve queima de combustíveis, resultando em emissões diretas de gases de efeito estufa muito menores do que as termelétricas a carvão, embora existam impactos ambientais em outras etapas, como fabricação e descarte dos painéis."
+                         "explicacao":  "A geração de eletricidade por painéis fotovoltaicos não envolve queima de combustíveis, resultando em emissões diretas de gases de efeito estufa muito menores do que as termelétricas a carvão, embora existam impactos ambientais em outras etapas, como fabricação e descarte dos painéis.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-09",
@@ -116,7 +124,8 @@
                                               "d":  "dobrada, ou seja, multiplicada por 2, na hipótese de a energia cinética variar linearmente com a velocidade"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A energia cinética é dada por Ec = (m × v²) ÷ 2, sendo proporcional ao quadrado da velocidade. Se a velocidade dobra (v passa a 2v), a energia cinética é multiplicada por 2² = 4, mantendo a massa constante."
+                         "explicacao":  "A energia cinética é dada por Ec = (m × v²) ÷ 2, sendo proporcional ao quadrado da velocidade. Se a velocidade dobra (v passa a 2v), a energia cinética é multiplicada por 2² = 4, mantendo a massa constante.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-10",
@@ -129,7 +138,8 @@
                                               "d":  "de forma aleatória, sem relação com a diferença de temperatura, contrariando a segunda lei da termodinâmica"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Pela segunda lei da termodinâmica, o calor flui espontaneamente do corpo mais quente para o mais frio, até que ambos atinjam o equilíbrio térmico, ou seja, a mesma temperatura."
+                         "explicacao":  "Pela segunda lei da termodinâmica, o calor flui espontaneamente do corpo mais quente para o mais frio, até que ambos atinjam o equilíbrio térmico, ou seja, a mesma temperatura.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-11",
@@ -142,7 +152,8 @@
                                               "d":  "a alta reatividade dessas moléculas, que se degradam rapidamente na presença de água, como polímeros biodegradáveis"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Plásticos como o PET são polímeros formados por longas cadeias de moléculas com ligações estáveis, que a maioria dos microrganismos não consegue quebrar eficientemente, resultando em um tempo de degradação muito longo no meio ambiente."
+                         "explicacao":  "Plásticos como o PET são polímeros formados por longas cadeias de moléculas com ligações estáveis, que a maioria dos microrganismos não consegue quebrar eficientemente, resultando em um tempo de degradação muito longo no meio ambiente.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-12",
@@ -155,7 +166,8 @@
                                               "d":  "aumentar a turbidez da água para facilitar sua distribuição"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A cloração é uma etapa de desinfecção que utiliza o cloro para eliminar bactérias, vírus e outros microrganismos patogênicos presentes na água, prevenindo doenças como cólera e diarreias infecciosas."
+                         "explicacao":  "A cloração é uma etapa de desinfecção que utiliza o cloro para eliminar bactérias, vírus e outros microrganismos patogênicos presentes na água, prevenindo doenças como cólera e diarreias infecciosas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-13",
@@ -168,7 +180,8 @@
                                               "d":  "impedir a entrada de qualquer radiação solar na atmosfera terrestre, o que bloquearia também a luz visível"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O ozônio estratosférico absorve grande parte da radiação ultravioleta (UV) emitida pelo Sol, reduzindo a incidência dessa radiação sobre a superfície terrestre e protegendo organismos vivos de danos como mutações genéticas e câncer de pele."
+                         "explicacao":  "O ozônio estratosférico absorve grande parte da radiação ultravioleta (UV) emitida pelo Sol, reduzindo a incidência dessa radiação sobre a superfície terrestre e protegendo organismos vivos de danos como mutações genéticas e câncer de pele.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-14",
@@ -181,7 +194,8 @@
                                               "d":  "eliminação completa da necessidade de atividade física regular, afirmação incompatível com recomendações de saúde pública"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O consumo frequente de alimentos ultraprocessados está associado, segundo diversos estudos epidemiológicos, ao aumento do risco de obesidade, hipertensão, diabetes tipo 2 e outras doenças crônicas não transmissíveis, sendo tema central de políticas públicas de alimentação saudável."
+                         "explicacao":  "O consumo frequente de alimentos ultraprocessados está associado, segundo diversos estudos epidemiológicos, ao aumento do risco de obesidade, hipertensão, diabetes tipo 2 e outras doenças crônicas não transmissíveis, sendo tema central de políticas públicas de alimentação saudável.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-15",
@@ -194,7 +208,8 @@
                                               "d":  "a redução da capacidade de absorção de dióxido de carbono pela vegetação e a alteração dos regimes locais de chuva"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As florestas atuam como importantes sumidouros de carbono e reguladoras do ciclo hidrológico local. O desmatamento reduz a absorção de CO2, contribui para o aquecimento global e pode alterar padrões regionais de chuva, além de aumentar a erosão do solo."
+                         "explicacao":  "As florestas atuam como importantes sumidouros de carbono e reguladoras do ciclo hidrológico local. O desmatamento reduz a absorção de CO2, contribui para o aquecimento global e pode alterar padrões regionais de chuva, além de aumentar a erosão do solo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-16",
@@ -207,7 +222,8 @@
                                               "d":  "está disponível apenas em quantidade fixa e limitada, definida no momento da formação do planeta"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Fontes renováveis, como a solar, a eólica e a hídrica, são continuamente repostas pela natureza em prazos compatíveis com o consumo humano, diferentemente de fontes não renováveis, como o petróleo, que se formam ao longo de milhões de anos."
+                         "explicacao":  "Fontes renováveis, como a solar, a eólica e a hídrica, são continuamente repostas pela natureza em prazos compatíveis com o consumo humano, diferentemente de fontes não renováveis, como o petróleo, que se formam ao longo de milhões de anos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-17",
@@ -220,7 +236,8 @@
                                               "d":  "doenças cardiovasculares associadas ao consumo excessivo de sódio, fator dietético sem relação com saneamento básico"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A falta de saneamento básico favorece a contaminação da água por microrganismos patogênicos presentes em esgoto não tratado, aumentando a incidência de doenças de veiculação hídrica, como diarreias infecciosas, cólera e hepatite A."
+                         "explicacao":  "A falta de saneamento básico favorece a contaminação da água por microrganismos patogênicos presentes em esgoto não tratado, aumentando a incidência de doenças de veiculação hídrica, como diarreias infecciosas, cólera e hepatite A.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-18",
@@ -233,7 +250,8 @@
                                               "d":  "refração e dispersão da luz branca ao atravessar gotículas de água, separando-a em diferentes cores do espectro"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Ao atravessar gotículas de água presentes no ar, a luz branca do Sol sofre refração e dispersão, sendo decomposta em suas diferentes componentes de cor (vermelho, laranja, amarelo, verde, azul, anil e violeta), formando o arco-íris."
+                         "explicacao":  "Ao atravessar gotículas de água presentes no ar, a luz branca do Sol sofre refração e dispersão, sendo decomposta em suas diferentes componentes de cor (vermelho, laranja, amarelo, verde, azul, anil e violeta), formando o arco-íris.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-19",
@@ -246,7 +264,8 @@
                                               "d":  "o consumo de oxigênio e a liberação de dióxido de carbono na atmosfera, processo típico da respiração celular"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Na fotossíntese, organismos clorofilados captam energia luminosa para converter CO2 e água em glicose e oxigênio (6CO2 + 6H2O + luz → C6H12O6 + 6O2), processo fundamental para a produção de biomassa e para a manutenção dos níveis de oxigênio atmosférico."
+                         "explicacao":  "Na fotossíntese, organismos clorofilados captam energia luminosa para converter CO2 e água em glicose e oxigênio (6CO2 + 6H2O + luz → C6H12O6 + 6O2), processo fundamental para a produção de biomassa e para a manutenção dos níveis de oxigênio atmosférico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-20",
@@ -259,7 +278,8 @@
                                               "d":  "a quantidade de energia disponível aumenta a cada nível trófico sucessivo, contrariando a segunda lei da termodinâmica"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Em cada transferência entre níveis tróficos, parte significativa da energia é perdida principalmente como calor (processos metabólicos), de modo que apenas uma fração (em geral, cerca de 10%) fica disponível para o nível seguinte, o que limita o número de níveis tróficos em uma cadeia alimentar."
+                         "explicacao":  "Em cada transferência entre níveis tróficos, parte significativa da energia é perdida principalmente como calor (processos metabólicos), de modo que apenas uma fração (em geral, cerca de 10%) fica disponível para o nível seguinte, o que limita o número de níveis tróficos em uma cadeia alimentar.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-21",
@@ -272,7 +292,8 @@
                                               "d":  "são incapazes de se reproduzir fora de seu habitat de origem, premissa que contraria o próprio conceito de invasão"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Sem os predadores, parasitas ou competidores naturais que limitariam sua população no ambiente de origem, espécies exóticas invasoras podem se proliferar descontroladamente, competindo com espécies nativas, predando-as ou introduzindo doenças, o que pode levar a desequilíbrios e perda de biodiversidade."
+                         "explicacao":  "Sem os predadores, parasitas ou competidores naturais que limitariam sua população no ambiente de origem, espécies exóticas invasoras podem se proliferar descontroladamente, competindo com espécies nativas, predando-as ou introduzindo doenças, o que pode levar a desequilíbrios e perda de biodiversidade.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-22",
@@ -285,7 +306,8 @@
                                               "d":  "eliminar diretamente o agente infeccioso circulante no ambiente, efeito que as vacinas não produzem no meio externo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As vacinas expõem o sistema imunológico a um antígeno (agente enfraquecido, inativado, ou parte dele, como proteínas ou material genético), estimulando a produção de anticorpos e células de memória, o que permite uma resposta imune mais rápida e eficaz em caso de exposição futura ao patógeno real."
+                         "explicacao":  "As vacinas expõem o sistema imunológico a um antígeno (agente enfraquecido, inativado, ou parte dele, como proteínas ou material genético), estimulando a produção de anticorpos e células de memória, o que permite uma resposta imune mais rápida e eficaz em caso de exposição futura ao patógeno real.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-23",
@@ -298,7 +320,8 @@
                                               "d":  "exposição da planta a altas temperaturas, que alteram aleatoriamente seu DNA, sem direcionamento genético algum"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A transgenia envolve técnicas de engenharia genética que inserem, em laboratório, um ou mais genes de interesse (por vezes de outra espécie) no genoma do organismo receptor, conferindo-lhe características específicas, como resistência a pragas ou a herbicidas."
+                         "explicacao":  "A transgenia envolve técnicas de engenharia genética que inserem, em laboratório, um ou mais genes de interesse (por vezes de outra espécie) no genoma do organismo receptor, conferindo-lhe características específicas, como resistência a pragas ou a herbicidas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-24",
@@ -311,7 +334,8 @@
                                               "d":  "é encontrado somente em ambientes rurais, não afetando populações urbanas, contrariando dados de poluição urbana"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Partículas com diâmetro igual ou inferior a 2,5 micrômetros (MP2,5) são pequenas o suficiente para penetrar profundamente no sistema respiratório, alcançando os alvéolos pulmonares e podendo, inclusive, entrar na corrente sanguínea, associando-se a doenças respiratórias e cardiovasculares."
+                         "explicacao":  "Partículas com diâmetro igual ou inferior a 2,5 micrômetros (MP2,5) são pequenas o suficiente para penetrar profundamente no sistema respiratório, alcançando os alvéolos pulmonares e podendo, inclusive, entrar na corrente sanguínea, associando-se a doenças respiratórias e cardiovasculares.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-25",
@@ -324,7 +348,8 @@
                                               "d":  "o pH mede a concentração de oxigênio dissolvido em uma solução aquosa, grandeza associada a outro parâmetro"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A escala de pH varia, em geral, de 0 a 14: valores abaixo de 7 indicam soluções ácidas, valores acima de 7 indicam soluções básicas (alcalinas), e o valor 7 corresponde a uma solução neutra, como a água pura."
+                         "explicacao":  "A escala de pH varia, em geral, de 0 a 14: valores abaixo de 7 indicam soluções ácidas, valores acima de 7 indicam soluções básicas (alcalinas), e o valor 7 corresponde a uma solução neutra, como a água pura.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-26",
@@ -337,7 +362,8 @@
                                               "d":  "predominantemente gás nitrogênio, oriundo do ar atmosférico admitido no motor"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Quando a combustão é incompleta (oxigênio insuficiente), forma-se monóxido de carbono (CO) em vez de dióxido de carbono. O CO é tóxico porque se liga à hemoglobina com maior afinidade que o oxigênio, reduzindo a capacidade de transporte de oxigênio pelo sangue."
+                         "explicacao":  "Quando a combustão é incompleta (oxigênio insuficiente), forma-se monóxido de carbono (CO) em vez de dióxido de carbono. O CO é tóxico porque se liga à hemoglobina com maior afinidade que o oxigênio, reduzindo a capacidade de transporte de oxigênio pelo sangue.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-27",
@@ -350,7 +376,8 @@
                                               "d":  "também dobra de valor, pois a corrente é diretamente proporcional à tensão quando a resistência é constante"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A Primeira Lei de Ohm estabelece que U = R × i, ou seja, a tensão é diretamente proporcional à corrente quando a resistência é constante. Assim, dobrando a tensão (U) e mantendo R constante, a corrente (i) também dobra."
+                         "explicacao":  "A Primeira Lei de Ohm estabelece que U = R × i, ou seja, a tensão é diretamente proporcional à corrente quando a resistência é constante. Assim, dobrando a tensão (U) e mantendo R constante, a corrente (i) também dobra.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-28",
@@ -363,7 +390,8 @@
                                               "d":  "é uma onda mecânica, que se propaga por meio da vibração de partículas do meio (como ar, água ou sólidos)"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O som é uma onda mecânica: sua propagação depende da vibração de partículas do meio material (sólido, líquido ou gasoso). Por isso, diferentemente das ondas eletromagnéticas, o som não se propaga no vácuo, onde não há partículas para transmitir a vibração."
+                         "explicacao":  "O som é uma onda mecânica: sua propagação depende da vibração de partículas do meio material (sólido, líquido ou gasoso). Por isso, diferentemente das ondas eletromagnéticas, o som não se propaga no vácuo, onde não há partículas para transmitir a vibração.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-29",
@@ -376,7 +404,8 @@
                                               "d":  "parasitismo, relação em que apenas as bactérias obtêm benefícios, em detrimento da saúde do hospedeiro humano"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Grande parte das bactérias do microbioma intestinal vive em relação de mutualismo com o ser humano: auxiliam na digestão, na síntese de vitaminas e na regulação do sistema imunológico, enquanto obtêm nutrientes e um ambiente favorável à sua sobrevivência."
+                         "explicacao":  "Grande parte das bactérias do microbioma intestinal vive em relação de mutualismo com o ser humano: auxiliam na digestão, na síntese de vitaminas e na regulação do sistema imunológico, enquanto obtêm nutrientes e um ambiente favorável à sua sobrevivência.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-30",
@@ -389,7 +418,8 @@
                                               "d":  "sofre bioacumulação e biomagnificação ao longo da cadeia alimentar, atingindo concentrações mais altas em predadores de topo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O mercúrio, ao ser absorvido por organismos aquáticos, tende a se acumular nos tecidos (bioacumulação) e a aumentar de concentração ao longo da cadeia alimentar (biomagnificação), de modo que predadores de topo, como peixes grandes, podem apresentar concentrações muito mais altas do que a água onde vivem, representando risco à saúde humana quando consumidos."
+                         "explicacao":  "O mercúrio, ao ser absorvido por organismos aquáticos, tende a se acumular nos tecidos (bioacumulação) e a aumentar de concentração ao longo da cadeia alimentar (biomagnificação), de modo que predadores de topo, como peixes grandes, podem apresentar concentrações muito mais altas do que a água onde vivem, representando risco à saúde humana quando consumidos.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-31",
@@ -402,7 +432,8 @@
                                               "d":  "possuem efeito apenas térmico sobre os tecidos biológicos, de forma semelhante à radiação não ionizante"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Radiações ionizantes, como raios X e gama, possuem energia suficientemente alta para arrancar elétrons de átomos e moléculas (ionização), podendo causar danos a estruturas biológicas, como o DNA. Já as radiações não ionizantes, como ondas de rádio e micro-ondas, têm energia insuficiente para causar esse tipo de dano direto."
+                         "explicacao":  "Radiações ionizantes, como raios X e gama, possuem energia suficientemente alta para arrancar elétrons de átomos e moléculas (ionização), podendo causar danos a estruturas biológicas, como o DNA. Já as radiações não ionizantes, como ondas de rádio e micro-ondas, têm energia insuficiente para causar esse tipo de dano direto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-32",
@@ -415,7 +446,8 @@
                                               "d":  "são causadas, na maior parte dos casos de câncer, por herança genética direta dos pais, com pouca relação com fatores ambientais"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Mutações em genes que regulam o ciclo celular (como genes supressores de tumor e oncogenes) podem fazer com que células percam o controle normal sobre sua divisão, proliferando de forma descontrolada e formando tumores. Fatores ambientais, como radiação UV e substâncias presentes no cigarro, podem aumentar a probabilidade dessas mutações."
+                         "explicacao":  "Mutações em genes que regulam o ciclo celular (como genes supressores de tumor e oncogenes) podem fazer com que células percam o controle normal sobre sua divisão, proliferando de forma descontrolada e formando tumores. Fatores ambientais, como radiação UV e substâncias presentes no cigarro, podem aumentar a probabilidade dessas mutações.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-33",
@@ -428,7 +460,8 @@
                                               "d":  "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O metano tem um potencial de aquecimento global, molécula a molécula, significativamente maior que o do CO2 em horizontes de tempo mais curtos, apesar de permanecer menos tempo na atmosfera antes de se decompor, o que o torna um alvo importante de políticas de mitigação climática."
+                         "explicacao":  "O metano tem um potencial de aquecimento global, molécula a molécula, significativamente maior que o do CO2 em horizontes de tempo mais curtos, apesar de permanecer menos tempo na atmosfera antes de se decompor, o que o torna um alvo importante de políticas de mitigação climática.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-34",
@@ -441,7 +474,8 @@
                                               "d":  "aquecimento da água do reservatório por meio da queima controlada de urânio, semelhante à queima de carvão em termelétricas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Usinas nucleares convencionais utilizam a fissão nuclear, processo em que o núcleo de átomos pesados, como o urânio-235, se divide ao ser bombardeado por nêutrons, liberando grande quantidade de energia na forma de calor, utilizada para gerar vapor e movimentar turbinas."
+                         "explicacao":  "Usinas nucleares convencionais utilizam a fissão nuclear, processo em que o núcleo de átomos pesados, como o urânio-235, se divide ao ser bombardeado por nêutrons, liberando grande quantidade de energia na forma de calor, utilizada para gerar vapor e movimentar turbinas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-35",
@@ -454,7 +488,8 @@
                                               "d":  "aumenta a erosão do solo em comparação com o cultivo de uma única espécie, quando na prática a rotação reduz a erosão"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A rotação de culturas evita o esgotamento de nutrientes específicos do solo (já que diferentes espécies têm diferentes demandas nutricionais), ajuda a quebrar ciclos de pragas e doenças associadas a uma cultura específica, e pode contribuir para a estrutura e fertilidade do solo ao longo do tempo."
+                         "explicacao":  "A rotação de culturas evita o esgotamento de nutrientes específicos do solo (já que diferentes espécies têm diferentes demandas nutricionais), ajuda a quebrar ciclos de pragas e doenças associadas a uma cultura específica, e pode contribuir para a estrutura e fertilidade do solo ao longo do tempo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-36",
@@ -467,7 +502,8 @@
                                               "d":  "liberar metais pesados, como chumbo, mercúrio e cádmio, que podem contaminar o solo e os lençóis freáticos"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Pilhas e baterias contêm metais pesados, como chumbo, mercúrio e cádmio, que, se descartados inadequadamente, podem vazar para o solo e contaminar lençóis freáticos, representando riscos à saúde humana e ao meio ambiente. Por isso, recomenda-se o descarte em pontos de coleta específicos para reciclagem."
+                         "explicacao":  "Pilhas e baterias contêm metais pesados, como chumbo, mercúrio e cádmio, que, se descartados inadequadamente, podem vazar para o solo e contaminar lençóis freáticos, representando riscos à saúde humana e ao meio ambiente. Por isso, recomenda-se o descarte em pontos de coleta específicos para reciclagem.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "No diabetes tipo 2, as células do organismo desenvolvem progressiva resistência à ação da insulina, dificultando a entrada de glicose nas células e elevando a glicemia, mesmo que o pâncreas ainda produza o hormônio, ao menos nas fases iniciais da doença — quadro associado a fatores como obesidade, sedentarismo e predisposição genética, diferentemente do tipo 1, de origem autoimune.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O consumo excessivo de sódio está associado ao aumento da retenção de líquidos no organismo, o que eleva o volume sanguíneo circulante e a pressão exercida sobre as paredes das artérias, sendo um dos principais fatores de risco modificáveis para a hipertensão arterial, ao lado do sedentarismo, da obesidade e do tabagismo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "De forma simplificada, a obesidade está associada a um balanço energético positivo mantido ao longo do tempo, em que a quantidade de calorias ingeridas supera, de forma sustentada, o gasto energético do organismo, levando ao armazenamento de energia excedente na forma de gordura corporal — processo influenciado por fatores genéticos, metabólicos, comportamentais e ambientais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O fígado é o principal órgão responsável pela metabolização do álcool no organismo. A exposição repetida e excessiva a essa substância pode causar inflamação (hepatite alcoólica), acúmulo de gordura (esteatose hepática) e, em estágios mais avançados, cirrose, uma condição de dano irreversível ao tecido hepático.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A nicotina é a substância presente no tabaco associada à dependência química, atuando sobre receptores do sistema nervoso central. Já outras substâncias presentes na fumaça do cigarro, como o alcatrão, estão mais diretamente relacionadas ao desenvolvimento de diferentes tipos de câncer, o que evidencia que os danos do tabagismo decorrem da combinação de diversas substâncias presentes na fumaça, e não apenas da nicotina isoladamente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Antibióticos atuam sobre estruturas e processos metabólicos específicos de células bacterianas (como a parede celular ou a síntese de proteínas bacterianas). Vírus, por não possuírem metabolismo próprio nem estrutura celular semelhante à das bactérias (dependendo da maquinaria da célula hospedeira para se replicar), não são afetados por antibióticos, o que torna esses medicamentos ineficazes contra infecções virais como a gripe comum.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A imunidade adaptativa, ao contrário da resposta inata (rápida, mas pouco específica), desenvolve uma resposta mais lenta, porém altamente específica, na primeira exposição a um patógeno, e gera células de memória imunológica que possibilitam uma resposta mais rápida e eficiente em exposições futuras ao mesmo agente — princípio que fundamenta, inclusive, o funcionamento das vacinas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nas doenças autoimunes, o sistema imunológico do próprio organismo passa a reconhecer erroneamente células, tecidos ou órgãos saudáveis como se fossem estruturas estranhas ou ameaçadoras, atacando-os e provocando inflamação e dano tecidual, como ocorre, por exemplo, na destruição das células produtoras de insulina no diabetes tipo 1.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nas reações alérgicas, o sistema imunológico reage de forma exagerada a substâncias geralmente inofensivas para a maioria das pessoas (alérgenos, como pólen, certos alimentos ou veneno de insetos), liberando mediadores químicos como a histamina, responsáveis por sintomas como coceira, inchaço, vermelhidão e, em casos graves, reações sistêmicas como a anafilaxia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Alterações na disponibilidade de neurotransmissores como a serotonina têm sido associadas, por estudos científicos, a quadros de depressão, o que fundamenta, por exemplo, o uso de medicamentos que atuam sobre esse sistema. No entanto, a depressão é reconhecida como um transtorno multifatorial, que também envolve aspectos genéticos, psicológicos, sociais e ambientais, não sendo explicada de forma completa e isolada apenas por fatores neuroquímicos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O sono desempenha funções biológicas essenciais, como a consolidação de memórias, a regulação da produção de hormônios (como o cortisol e hormônios do crescimento) e processos de restauração metabólica e imunológica do organismo, sendo sua privação crônica associada a prejuízos cognitivos, aumento do risco cardiovascular e enfraquecimento do sistema imunológico.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A radiação ultravioleta, especialmente em exposições prolongadas e sem proteção, pode causar danos diretos ao DNA das células da pele, favorecendo o acúmulo de mutações genéticas que, ao longo do tempo, podem levar ao desenvolvimento de diferentes tipos de câncer de pele, o que justifica o uso de protetor solar como medida preventiva recomendada pela área da saúde.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O afinamento da camada de ozônio foi associado à emissão de clorofluorcarbonos (CFCs), substâncias então amplamente utilizadas em aerossóis e sistemas de refrigeração, que, ao atingirem a estratosfera, reagem quimicamente destruindo moléculas de ozônio. Esse diagnóstico levou ao Protocolo de Montreal (1987), acordo internacional que restringiu a produção dessas substâncias, resultando em recuperação gradual da camada de ozônio nas décadas seguintes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O derretimento de geleiras e calotas polares, associado ao aquecimento global, contribui para a elevação do nível médio dos oceanos, o que amplia o risco de inundações e erosão em regiões costeiras densamente povoadas e em pequenas ilhas de baixa altitude, além de alterar ecossistemas marinhos e de água doce dependentes dessas fontes de gelo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Parte do dióxido de carbono emitido para a atmosfera é absorvida pelos oceanos, reagindo quimicamente com a água para formar ácido carbônico, o que reduz gradualmente o pH da água do mar (acidificação), processo que prejudica organismos marinhos que dependem de carbonato de cálcio para formar conchas e esqueletos, como corais e moluscos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O branqueamento de corais é uma resposta ao estresse térmico causado pelo aumento da temperatura da água do mar: os corais expulsam as algas simbióticas (zooxantelas) que vivem em seus tecidos e lhes fornecem cor e parte de sua energia por meio da fotossíntese, ficando esbranquiçados, mais fracos e mais vulneráveis à morte caso o estresse térmico persista por período prolongado.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nas usinas eólicas, a energia cinética do vento movimenta as pás de uma turbina, gerando energia mecânica de rotação, que é então convertida em energia elétrica por um gerador acoplado ao eixo da turbina, sem qualquer processo de combustão ou reação nuclear envolvido.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A construção de grandes usinas hidrelétricas costuma exigir o alagamento de extensas áreas para a formação de reservatórios, o que pode implicar deslocamento de populações ribeirinhas e indígenas, perda de biodiversidade terrestre na área inundada e alterações significativas no regime hidrológico e nos ecossistemas fluviais a jusante da barragem.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Um dos argumentos favoráveis ao uso do etanol de cana como biocombustível é que o dióxido de carbono liberado durante sua queima corresponde, em larga medida, ao CO2 previamente absorvido pela planta durante seu crescimento por meio da fotossíntese, o que tende a reduzir o balanço líquido de emissões de carbono em comparação aos combustíveis fósseis, embora questões relacionadas ao uso do solo e ao ciclo produtivo completo também precisem ser consideradas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O hidrogênio verde é obtido por meio da eletrólise da água (separação das moléculas de hidrogênio e oxigênio por eletricidade), utilizando energia elétrica proveniente de fontes renováveis, como a solar e a eólica, o que resulta em um processo produtivo de baixa emissão de gases de efeito estufa, diferenciando-o de formas de produção de hidrogênio baseadas em combustíveis fósseis.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A matriz elétrica brasileira se destaca, em comparação internacional, pela participação historicamente elevada de fontes renováveis, sobretudo a energia hidrelétrica, além de crescente participação de energia eólica e solar, o que resulta em uma matriz proporcionalmente menos dependente de combustíveis fósseis do que a de muitos países industrializados, embora ainda existam usinas termelétricas a combustíveis fósseis complementando o sistema.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Os microplásticos, resultantes da fragmentação de resíduos plásticos maiores ou de produtos que já os contêm originalmente, podem ser ingeridos por organismos marinhos de diferentes níveis da cadeia alimentar, acumulando-se em seus tecidos e podendo, ao final da cadeia alimentar, ser encontrados também em alimentos consumidos por seres humanos, como peixes e frutos do mar.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A ilha de calor urbana ocorre porque superfícies pavimentadas, como asfalto e concreto, absorvem e reemitem mais calor do que áreas com vegetação e solo natural, combinando-se à menor presença de árvores (que proporcionam sombra e resfriamento por evapotranspiração) e à maior emissão de calor por veículos, indústrias e sistemas de climatização, o que eleva a temperatura nas áreas centrais e mais densamente construídas das cidades.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O aumento da temperatura média global eleva a quantidade de energia disponível na atmosfera e a capacidade do ar de reter vapor d\u0027água, o que pode intensificar eventos de chuva concentrada em determinadas regiões, ao mesmo tempo em que contribui para alterações nos padrões de circulação atmosférica associadas ao agravamento de períodos de seca em outras áreas, tornando eventos extremos, de modo geral, mais frequentes e intensos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A desertificação resulta, tipicamente, da combinação entre fatores climáticos (como longos períodos de seca, comuns em regiões semiáridas) e práticas humanas inadequadas de uso do solo, como desmatamento, superpastoreio e manejo agrícola inadequado, que reduzem a cobertura vegetal, aumentam a erosão e degradam progressivamente a capacidade produtiva do solo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A atual perda acelerada de biodiversidade é associada, por estudos científicos, à combinação de múltiplos fatores de origem antrópica: destruição e fragmentação de habitats naturais, mudanças climáticas, poluição, superexploração de espécies (como a pesca e a caça predatórias) e introdução de espécies exóticas invasoras, que juntos pressionam ecossistemas em escala global.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Entre as preocupações levantadas por críticos do uso amplo de transgênicos estão a redução da diversidade genética das lavouras, concentrada em poucas variedades comerciais, o risco de fluxo gênico para espécies silvestres relacionadas e a crescente dependência econômica de agricultores em relação a um número reduzido de empresas fornecedoras de sementes geneticamente modificadas, questões que se somam ao debate técnico sobre segurança alimentar e ambiental dessas culturas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-64",
@@ -855,11 +918,12 @@
                                               "a":  "a contaminação do solo e de corpos d\u0027água por resíduos químicos, além de efeitos nocivos sobre polinizadores, como abelhas, e outros insetos benéficos ao ecossistema agrícola",
                                               "b":  "a eliminação seletiva apenas das pragas-alvo, sem qualquer efeito sobre polinizadores ou outros insetos benéficos, cenário que ignora o efeito de amplo espectro característico da maioria dos agrotóxicos convencionais",
                                               "c":  "o aumento espontâneo da biodiversidade de insetos nas áreas tratadas com agrotóxicos, efeito oposto à redução de populações observada em áreas de aplicação intensiva",
-                                              "d":  "a melhoria automática e permanente da qualidade da água dos rios próximos às áreas de cultivo, cenário contrário à contaminação por resíduos químicos frequentemente registrada nesses corpos d'água"
+                                              "d":  "a melhoria automática e permanente da qualidade da água dos rios próximos às áreas de cultivo, cenário contrário à contaminação por resíduos químicos frequentemente registrada nesses corpos d\u0027água"
                                           },
                          "resposta":  "a",
                          "explicacao":  "O uso inadequado ou excessivo de agrotóxicos pode contaminar o solo e corpos d\u0027água próximos às áreas de cultivo, além de afetar organismos não-alvo, como abelhas e outros polinizadores e insetos benéficos ao equilíbrio do ecossistema agrícola, o que tem levado à busca por práticas de manejo integrado de pragas e ao debate sobre regulamentação mais rígida do uso desses produtos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A agricultura orgânica se caracteriza por restringir ou proibir o uso de agrotóxicos e fertilizantes químicos sintéticos, priorizando práticas alternativas de manejo, como adubação orgânica, rotação de culturas e controle biológico de pragas, buscando reduzir impactos ambientais associados ao modelo convencional de produção agrícola.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O conceito de segurança alimentar, tal como definido por organismos internacionais como a FAO, refere-se ao acesso regular e permanente de toda a população a alimentos em quantidade suficiente, seguros e nutricionalmente adequados para garantir uma vida ativa e saudável, envolvendo não apenas a produção, mas também a distribuição e o acesso econômico aos alimentos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A escassez hídrica resulta, em geral, da combinação entre fatores climáticos (como períodos prolongados de seca), o crescimento populacional e do consumo de água por diferentes setores (agricultura, indústria, uso doméstico), além do uso inadequado, do desperdício e, em alguns casos, da poluição de mananciais, o que reduz a disponibilidade de água em quantidade e qualidade adequadas para consumo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Na etapa biológica do tratamento de esgoto, microrganismos (principalmente bactérias) são utilizados para degradar a matéria orgânica presente no efluente, reduzindo significativamente a quantidade de poluentes orgânicos antes de etapas posteriores, como a desinfecção, e do descarte ou reaproveitamento da água tratada, processo distinto da etapa de cloração aplicada especificamente ao tratamento de água potável.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O lixo eletrônico pode conter metais pesados e outras substâncias tóxicas que, se descartados incorretamente, contaminam o solo e a água. Ao mesmo tempo, esses equipamentos frequentemente contêm materiais valiosos, como metais preciosos e outros componentes reaproveitáveis, o que reforça a importância de programas de logística reversa e reciclagem especializada para esse tipo de resíduo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A compostagem é um processo biológico em que microrganismos (bactérias e fungos), em condições controladas de umidade, aeração e temperatura, decompõem resíduos orgânicos, resultando em um material rico em nutrientes (o composto ou húmus), que pode ser utilizado como adubo orgânico, reduzindo o volume de resíduos enviados a aterros sanitários.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Segundo o princípio de Arquimedes, um corpo imerso em um fluido recebe um empuxo (força para cima) igual ao peso do fluido deslocado por ele. O formato do casco de um navio é projetado para deslocar um grande volume de água em relação ao peso total da embarcação, gerando um empuxo suficiente para equilibrar seu peso e mantê-lo flutuando, mesmo sendo feito de um material (aço) mais denso do que a água isoladamente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Em uma solução hipertônica, a concentração de soluto é maior no meio externo do que no interior da célula. Por osmose, a água tende a se deslocar do meio menos concentrado (interior da célula) para o mais concentrado (meio externo), levando à perda de água pela célula, que pode sofrer desidratação e retração de seu volume — fenômeno observado, por exemplo, quando vegetais são conservados com sal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A troca gasosa nos alvéolos pulmonares ocorre por difusão simples: o oxigênio, mais concentrado no ar alveolar, difunde-se para o sangue (onde está menos concentrado), enquanto o dióxido de carbono, mais concentrado no sangue, difunde-se para os alvéolos, sendo depois eliminado na expiração — processo espontâneo, que não depende de gasto direto de energia pela célula, ao contrário do transporte ativo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Na fermentação alcoólica, leveduras convertem açúcares (como a glicose) em álcool etílico (etanol) e dióxido de carbono, na ausência de oxigênio, como forma de obtenção de energia em condições anaeróbicas — processo utilizado tanto na produção de bebidas alcoólicas e na fabricação de pães (em que o CO2 liberado faz a massa crescer) quanto na produção industrial de etanol combustível.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Reações endotérmicas absorvem energia térmica do ambiente ao seu redor para ocorrer, o que reduz a temperatura da vizinhança, como no caso das bolsas de gelo instantâneo, que utilizam reações desse tipo. Já reações exotérmicas, como a combustão em uma fogueira, liberam calor para o ambiente, elevando sua temperatura.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Em uma reação de neutralização, um ácido reage com uma base formando, tipicamente, um sal e água, com o pH da solução resultante tendendo a se aproximar da neutralidade (pH próximo de 7), dependendo das quantidades e da força do ácido e da base utilizados na reação — princípio químico presente em diversas aplicações cotidianas, como no uso de antiácidos estomacais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O efeito Doppler descreve a variação na frequência percebida de uma onda (sonora, no caso do exemplo) em razão do movimento relativo entre a fonte emissora e o observador: quando a fonte se aproxima, a frequência percebida aumenta (som mais agudo); quando se afasta, a frequência percebida diminui (som mais grave) — fenômeno também utilizado, por exemplo, em radares de velocidade e em equipamentos médicos de ultrassom Doppler.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia potencial gravitacional armazenada na água de um reservatório depende da altura da queda d\u0027água (desnível entre o reservatório e as turbinas) e da massa de água disponível, de modo que, quanto maiores essa altura e esse volume, maior a energia potencial que pode ser convertida em energia cinética e, posteriormente, em energia elétrica ao passar pelas turbinas da usina hidrelétrica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Pela primeira lei de Newton (princípio da inércia), um corpo em movimento tende a continuar se movendo com a mesma velocidade e direção, a menos que uma força externa atue sobre ele. Em uma freada brusca, o veículo desacelera, mas o corpo do passageiro tende a continuar se movendo para frente por inércia, o que torna o cinto de segurança essencial para aplicar a força necessária para desacelerar o corpo junto com o veículo, evitando lesões graves.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Embora a proporção percentual de oxigênio no ar permaneça praticamente constante em diferentes altitudes, a pressão atmosférica diminui à medida que a altitude aumenta, reduzindo a pressão parcial de oxigênio disponível para as trocas gasosas nos pulmões, o que dificulta a oxigenação adequada do sangue e explica a sensação de falta de ar enfrentada em grandes altitudes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Metais são, em geral, melhores condutores térmicos do que a madeira, o que significa que, ao tocar uma superfície metálica, o calor da mão é conduzido para longe dela mais rapidamente do que ao tocar madeira, mesmo que ambos os materiais estejam exatamente à mesma temperatura ambiente, o que gera a sensação de que o metal está mais frio ao toque.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A nanotecnologia envolve a manipulação da matéria em escala nanométrica, com aplicações em diversas áreas, como o desenvolvimento de sistemas de liberação controlada de medicamentos na medicina, componentes eletrônicos mais eficientes e materiais com propriedades específicas de resistência, condutividade ou funcionalidade, distintas das apresentadas pelo mesmo material em escala macroscópica.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A técnica CRISPR permite identificar e modificar, com relativa precisão, sequências específicas do DNA de um organismo, possibilitando aplicações que vão desde a pesquisa sobre a correção de mutações associadas a doenças genéticas até o desenvolvimento de novas variedades agrícolas, embora seu uso, sobretudo em edição genética humana hereditária, envolva também importantes debates éticos ainda não plenamente resolvidos.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As células-tronco possuem a capacidade de se diferenciar em diferentes tipos de células especializadas do organismo (como células musculares, nervosas ou sanguíneas) e, em muitos casos, de se autorrenovar, características que fundamentam pesquisas voltadas à regeneração de tecidos danificados e ao tratamento de diversas doenças, embora seu uso terapêutico ainda envolva desafios técnicos e, no caso de células-tronco embrionárias, debates éticos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A clonagem reprodutiva consiste em produzir um novo organismo geneticamente idêntico (ou quase idêntico) a um organismo já existente, utilizando o material genético contido no núcleo de uma célula somática (não reprodutiva) desse organismo original, técnica empregada na criação da ovelha Dolly, a partir do núcleo de uma célula da glândula mamária de uma ovelha adulta.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O sequenciamento do genoma humano consistiu em determinar a ordem exata dos nucleotídeos (as \"letras\" químicas) que compõem o DNA humano, o que permitiu avanços significativos na identificação de genes associados a diferentes características biológicas e a doenças hereditárias, embora a compreensão completa da função de todos os genes e de suas interações ainda seja objeto de pesquisa contínua.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Do ponto de vista epidemiológico, esses termos se diferenciam principalmente pela abrangência geográfica e pela escala de disseminação da doença: um surto refere-se a um aumento localizado de casos em determinada área ou grupo, uma epidemia envolve a disseminação da doença por uma região mais ampla, com número de casos acima do esperado, e uma pandemia é caracterizada pela disseminação da doença por múltiplos países ou continentes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A sensibilidade de um teste diagnóstico refere-se à sua capacidade de identificar corretamente indivíduos que realmente têm a doença (evitando falsos negativos), enquanto a especificidade refere-se à capacidade de identificar corretamente indivíduos que realmente não têm a doença (evitando falsos positivos), sendo ambos parâmetros centrais para avaliar a confiabilidade de testes diagnósticos, como os utilizados durante a pandemia de covid-19.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "De forma análoga à resistência bacteriana a antibióticos, a resistência de insetos-praga a agrotóxicos ocorre por seleção natural: indivíduos com variações genéticas que conferem menor suscetibilidade ao produto sobrevivem em maior proporção e se reproduzem, aumentando gradualmente a frequência dessas variações na população ao longo de gerações sucessivas expostas ao mesmo agrotóxico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A biopirataria refere-se à coleta e exploração comercial de recursos genéticos de plantas, animais ou microrganismos — muitas vezes associados a conhecimentos tradicionais de povos e comunidades locais — sem autorização adequada das autoridades competentes ou sem a repartição justa dos benefícios obtidos com o país ou a comunidade detentora original desses recursos e saberes, sendo tema relevante em países megadiversos, como o Brasil.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os relatórios do IPCC têm como função sintetizar e avaliar, com base em evidências científicas revisadas por pares, o estado do conhecimento sobre as mudanças climáticas, seus impactos observados e projetados, e possíveis cenários futuros, servindo como base técnica de referência para negociações internacionais e formulação de políticas públicas de mitigação e adaptação climática, sem, contudo, ter poder legal vinculante direto sobre os países.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A pegada de carbono corresponde à quantidade total, direta e indireta, de gases de efeito estufa emitida para a atmosfera em decorrência de determinada atividade, produto, empresa ou estilo de vida, geralmente expressa em equivalente de dióxido de carbono (CO2eq), servindo como indicador para orientar estratégias de redução de emissões e mitigação das mudanças climáticas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A economia circular propõe um modelo de produção e consumo baseado na reutilização, na reciclagem, no reparo e na extensão da vida útil de produtos e materiais, buscando reduzir a extração de novas matérias-primas e a geração de resíduos, em contraste com o modelo linear tradicional de \"extrair, produzir e descartar\".",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A poluição luminosa, causada pelo excesso de iluminação artificial noturna, pode interferir nos ciclos biológicos de diversas espécies, como aves migratórias e insetos que se orientam por referências luminosas naturais, além de prejudicar a observação astronômica em áreas urbanas e ser associada a possíveis efeitos sobre o ritmo circadiano (ciclo de sono-vigília) de seres humanos expostos a excesso de luz artificial durante a noite.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O forno de micro-ondas emite ondas eletromagnéticas de determinada frequência que fazem as moléculas de água (e outras moléculas polares) presentes no alimento vibrarem rapidamente, gerando calor por atrito molecular. Diferentemente da radiação ionizante (como raios X), as micro-ondas não possuem energia suficiente para alterar a estrutura atômica dos alimentos, sendo, portanto, classificadas como radiação não ionizante.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A meia-vida de um material radioativo corresponde ao intervalo de tempo necessário para que metade dos átomos de determinada amostra radioativa se desintegre espontaneamente, sendo uma característica constante e específica de cada isótopo radioativo, utilizada, por exemplo, em técnicas de datação geológica e arqueológica, além de aplicações médicas e industriais.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A energia geotérmica é obtida a partir do aproveitamento do calor natural armazenado no interior da Terra, que pode aquecer reservatórios subterrâneos de água ou vapor; esse calor pode ser utilizado diretamente para aquecimento ou para movimentar turbinas que geram eletricidade, sendo especialmente viável em regiões de intensa atividade geológica, como zonas vulcânicas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Os determinantes sociais da saúde referem-se ao conjunto de condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem — como renda, escolaridade, moradia, saneamento básico e acesso a serviços de saúde —, que influenciam significativamente seus níveis de saúde e sua vulnerabilidade a diferentes doenças, complementando a compreensão de fatores estritamente biológicos ou genéticos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Zoonoses são doenças infecciosas transmitidas de animais para seres humanos (e, em alguns casos, vice-versa), tendo seu surgimento e disseminação frequentemente associados a fatores como desmatamento e destruição de habitats naturais, maior contato entre humanos e animais silvestres, e comércio de animais em condições sanitárias inadequadas, fatores discutidos como relevantes na origem de diversas doenças infecciosas emergentes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "ciencias-natureza-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora fontes renováveis, como solar e eólica, apresentem vantagens ambientais significativas em relação a combustíveis fósseis, sobretudo quanto à emissão de gases de efeito estufa durante a geração de energia, é importante reconhecer que toda fonte de energia envolve algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida — como a extração de materiais para fabricação de painéis solares e turbinas eólicas, a ocupação de área ou o descarte de equipamentos —, o que reforça a importância de uma análise de ciclo de vida completa na avaliação de políticas energéticas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

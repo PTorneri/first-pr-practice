@@ -12,7 +12,8 @@
                                               "d":  "O crescimento de 12% na leitura foi idêntico em todas as 40 escolas da rede, sem qualquer variação entre elas."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto relata um avanço específico (leitura) associado a uma ressalva (infraestrutura de internet), o que caracteriza um resultado parcial. As demais alternativas contradizem ou extrapolam informações não presentes no texto."
+                         "explicacao":  "O texto relata um avanço específico (leitura) associado a uma ressalva (infraestrutura de internet), o que caracteriza um resultado parcial. As demais alternativas contradizem ou extrapolam informações não presentes no texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-02",
@@ -25,7 +26,8 @@
                                               "d":  "A avó do narrador nunca morou em uma cidade grande, por isso desconhecia a sensação descrita na frase."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O trecho final indica que a compreensão da frase só ocorreu depois da experiência cotidiana no metrô, mostrando que a vivência deu sentido concreto a uma ideia antes abstrata."
+                         "explicacao":  "O trecho final indica que a compreensão da frase só ocorreu depois da experiência cotidiana no metrô, mostrando que a vivência deu sentido concreto a uma ideia antes abstrata.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-03",
@@ -38,7 +40,8 @@
                                               "d":  "É necessário estabelecer novos limites de tempo e disponibilidade no trabalho remoto."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O autor não propõe o fim do trabalho remoto, mas sim a criação de limites claros entre vida pessoal e profissional, argumento explicitado na última frase do texto."
+                         "explicacao":  "O autor não propõe o fim do trabalho remoto, mas sim a criação de limites claros entre vida pessoal e profissional, argumento explicitado na última frase do texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-04",
@@ -51,7 +54,8 @@
                                               "d":  "Dormir pouco afeta apenas o humor da pessoa, sem prejudicar memória ou decisões, segundo o texto."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto afirma que o sono é um período de atividade cerebral intensa, ligado à consolidação de memórias e à eliminação de toxinas — e não um estado de repouso passivo ou de inatividade total."
+                         "explicacao":  "O texto afirma que o sono é um período de atividade cerebral intensa, ligado à consolidação de memórias e à eliminação de toxinas — e não um estado de repouso passivo ou de inatividade total.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-05",
@@ -64,7 +68,8 @@
                                               "d":  "As cooperativas de reciclagem já processavam, antes do programa, a maior parte dos resíduos da cidade."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A meta de reduzir em 30% o lixo enviado a aterros implica que, antes do programa, uma parcela significativa dos resíduos tinha esse destino, informação que fica implícita e pode ser inferida do contexto."
+                         "explicacao":  "A meta de reduzir em 30% o lixo enviado a aterros implica que, antes do programa, uma parcela significativa dos resíduos tinha esse destino, informação que fica implícita e pode ser inferida do contexto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-06",
@@ -77,7 +82,8 @@
                                               "d":  "de indignação com a forma como a avó trata as fotografias antigas."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A descrição cuidadosa do ritual, com metáforas como tesouro e a valorização da intimidade da avó, revela um tom afetuoso, não crítico ou indiferente."
+                         "explicacao":  "A descrição cuidadosa do ritual, com metáforas como tesouro e a valorização da intimidade da avó, revela um tom afetuoso, não crítico ou indiferente.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-07",
@@ -90,7 +96,8 @@
                                               "d":  "Argumento de exemplificação, com casos pessoais do próprio autor."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O autor recorre a uma organização reconhecida (OMS) e a psicólogos clínicos, caracterizando o argumento de autoridade, que se apoia na credibilidade de fontes especializadas."
+                         "explicacao":  "O autor recorre a uma organização reconhecida (OMS) e a psicólogos clínicos, caracterizando o argumento de autoridade, que se apoia na credibilidade de fontes especializadas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-08",
@@ -103,7 +110,8 @@
                                               "d":  "Os cientistas descartaram qualquer relação entre plástico descartável e microplásticos encontrados no sangue."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto afirma explicitamente que os efeitos de longo prazo ainda estão sob investigação, mas que recomendações preventivas já são feitas, o que caracteriza uma pesquisa em andamento com cautela prática."
+                         "explicacao":  "O texto afirma explicitamente que os efeitos de longo prazo ainda estão sob investigação, mas que recomendações preventivas já são feitas, o que caracteriza uma pesquisa em andamento com cautela prática.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-09",
@@ -116,7 +124,8 @@
                                               "d":  "uma crítica do jornalista à nova política de transportes implementada pela secretaria."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A redução de 74 para 58 minutos é um dado mensurável, enquanto a afirmação sobre a mobilidade ser a política que mais transforma vidas é uma avaliação subjetiva do secretário, introduzida por aspas como fala direta."
+                         "explicacao":  "A redução de 74 para 58 minutos é um dado mensurável, enquanto a afirmação sobre a mobilidade ser a política que mais transforma vidas é uma avaliação subjetiva do secretário, introduzida por aspas como fala direta.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-10",
@@ -129,7 +138,8 @@
                                               "d":  "criticar o estado de conservação do livro antigo, com páginas amareladas e cheiro de mofo."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A comparação estabelece uma analogia entre o objeto (livro) e uma relação humana (segurar a mão de alguém querido), reforçando a carga afetiva da lembrança, não uma descrição técnica ou física."
+                         "explicacao":  "A comparação estabelece uma analogia entre o objeto (livro) e uma relação humana (segurar a mão de alguém querido), reforçando a carga afetiva da lembrança, não uma descrição técnica ou física.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-11",
@@ -142,7 +152,8 @@
                                               "d":  "Utiliza apenas dados numéricos soltos, sem qualquer reflexão crítica sobre desigualdade de oportunidades."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O autor reconhece a existência dos exemplos de sucesso, mas questiona sua representatividade ao contrapô-los a uma realidade mais ampla de desigualdade de oportunidades, estratégia argumentativa de relativização."
+                         "explicacao":  "O autor reconhece a existência dos exemplos de sucesso, mas questiona sua representatividade ao contrapô-los a uma realidade mais ampla de desigualdade de oportunidades, estratégia argumentativa de relativização.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-12",
@@ -155,7 +166,8 @@
                                               "d":  "um tipo de algoritmo de aprendizado de máquina distinto do funcionamento de neurônios biológicos."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto emprega \u0027sinapses\u0027 em seu sentido biológico original, estabelecendo uma analogia com os pesos numéricos das redes neurais artificiais, que são elementos distintos, embora inspirados nesse conceito."
+                         "explicacao":  "O texto emprega \u0027sinapses\u0027 em seu sentido biológico original, estabelecendo uma analogia com os pesos numéricos das redes neurais artificiais, que são elementos distintos, embora inspirados nesse conceito.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-13",
@@ -168,7 +180,8 @@
                                               "d":  "definição de conceitos técnicos isolados, sem qualquer relação causal entre eles."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto encadeia causas (emissões de gases) e efeitos (ondas de calor, avanço do mar, remanejamento de comunidades), estruturando-se claramente como uma relação de causa e consequência."
+                         "explicacao":  "O texto encadeia causas (emissões de gases) e efeitos (ondas de calor, avanço do mar, remanejamento de comunidades), estruturando-se claramente como uma relação de causa e consequência.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-14",
@@ -181,7 +194,8 @@
                                               "d":  "uma ironia que compara, de forma exagerada, o engarrafamento a uma experiência filosófica."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto ironiza a situação de trânsito ao elevá-la, de forma exagerada e cômica, à condição de reflexão filosófica, criando o efeito de humor característico da crônica."
+                         "explicacao":  "O texto ironiza a situação de trânsito ao elevá-la, de forma exagerada e cômica, à condição de reflexão filosófica, criando o efeito de humor característico da crônica.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-15",
@@ -194,7 +208,8 @@
                                               "d":  "dois grupos de pesquisadores em economia comportamental que discordam entre si sobre o tema abordado nesse texto específico."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto opõe o senso comum (\u0027ter jeito com dinheiro\u0027) às evidências científicas apresentadas por pesquisadores, valorizando a segunda em detrimento da primeira como base para a argumentação."
+                         "explicacao":  "O texto opõe o senso comum (\u0027ter jeito com dinheiro\u0027) às evidências científicas apresentadas por pesquisadores, valorizando a segunda em detrimento da primeira como base para a argumentação.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-16",
@@ -207,7 +222,8 @@
                                               "d":  "dados estatísticos comparativos entre regiões com diferentes coberturas vacinais."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto se apoia em comparações numéricas entre regiões com diferentes taxas de cobertura vacinal, caracterizando um argumento baseado em dados estatísticos, e não em relatos, opiniões ou analogias."
+                         "explicacao":  "O texto se apoia em comparações numéricas entre regiões com diferentes taxas de cobertura vacinal, caracterizando um argumento baseado em dados estatísticos, e não em relatos, opiniões ou analogias.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-17",
@@ -220,7 +236,8 @@
                                               "d":  "Argumento de senso comum, fundamentado na percepção popular sobre o sono."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto atribui a recomendação médica a \u0027estudos\u0027 e não a \u0027impressões pessoais\u0027, caracterizando um argumento de autoridade, apoiado na credibilidade de pesquisas especializadas, e não em analogia, caso pessoal ou senso comum."
+                         "explicacao":  "O texto atribui a recomendação médica a \u0027estudos\u0027 e não a \u0027impressões pessoais\u0027, caracterizando um argumento de autoridade, apoiado na credibilidade de pesquisas especializadas, e não em analogia, caso pessoal ou senso comum.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-18",
@@ -233,7 +250,8 @@
                                               "d":  "O parque tem 3,2 hectares e recebeu 40 mudas de árvores nativas."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A área do parque e o número de mudas plantadas são dados verificáveis objetivamente, enquanto as demais alternativas reproduzem ou estendem o juízo de valor do autor sobre o que considera o \u0027verdadeiro destaque\u0027 do espaço."
+                         "explicacao":  "A área do parque e o número de mudas plantadas são dados verificáveis objetivamente, enquanto as demais alternativas reproduzem ou estendem o juízo de valor do autor sobre o que considera o \u0027verdadeiro destaque\u0027 do espaço.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-19",
@@ -246,7 +264,8 @@
                                               "d":  "A entrega de medicamentos por drones reduziu o tempo de acesso a comunidades ribeirinhas, mas segue em fase experimental."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A notícia relata um ganho concreto (redução do tempo de entrega) associado a uma ressalva (caráter experimental e dependência de autorização), sem afirmar o fim do transporte por barco nem uma aprovação definitiva."
+                         "explicacao":  "A notícia relata um ganho concreto (redução do tempo de entrega) associado a uma ressalva (caráter experimental e dependência de autorização), sem afirmar o fim do transporte por barco nem uma aprovação definitiva.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-20",
@@ -259,7 +278,8 @@
                                               "d":  "uma perda de tempo que atrapalha seus compromissos urgentes."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O tom afetivo do trecho, especialmente a expressão \u0027feliz por não ter nada urgente a fazer\u0027, revela apreço do narrador pela convivência despretensiosa da fila, não incômodo ou indiferença."
+                         "explicacao":  "O tom afetivo do trecho, especialmente a expressão \u0027feliz por não ter nada urgente a fazer\u0027, revela apreço do narrador pela convivência despretensiosa da fila, não incômodo ou indiferença.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-21",
@@ -272,7 +292,8 @@
                                               "d":  "Cursos de base teórica, como filosofia ou matemática pura, não deveriam existir nas universidades."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O autor questiona a universalização da exigência e propõe que cada área seja ouvida sobre suas necessidades, sem negar a importância do estágio, mas pedindo flexibilidade na aplicação da regra."
+                         "explicacao":  "O autor questiona a universalização da exigência e propõe que cada área seja ouvida sobre suas necessidades, sem negar a importância do estágio, mas pedindo flexibilidade na aplicação da regra.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-22",
@@ -285,7 +306,8 @@
                                               "d":  "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explica que, ao contrário dos mamíferos, os polvos têm neurônios distribuídos pelos braços, que podem processar informações e tomar decisões simples de forma relativamente independente do corpo central."
+                         "explicacao":  "O texto explica que, ao contrário dos mamíferos, os polvos têm neurônios distribuídos pelos braços, que podem processar informações e tomar decisões simples de forma relativamente independente do corpo central.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-23",
@@ -298,7 +320,8 @@
                                               "d":  "uma explicação técnica sobre políticas de recursos humanos adotadas pela empresa dos personagens."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O humor surge da quebra de expectativa: em vez de conceder o aumento, o chefe usa o argumento do funcionário para justificar uma demissão, gerando o efeito cômico e irônico da tirinha."
+                         "explicacao":  "O humor surge da quebra de expectativa: em vez de conceder o aumento, o chefe usa o argumento do funcionário para justificar uma demissão, gerando o efeito cômico e irônico da tirinha.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-24",
@@ -311,7 +334,8 @@
                                               "d":  "comparar tecnicamente a marca ExtraPura com produtos concorrentes do mesmo segmento."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A linguagem publicitária costuma apelar a sensações e emoções para persuadir o consumidor, e não a dados técnicos comprovados, o que se observa na expressão \u0027pureza que você sente\u0027."
+                         "explicacao":  "A linguagem publicitária costuma apelar a sensações e emoções para persuadir o consumidor, e não a dados técnicos comprovados, o que se observa na expressão \u0027pureza que você sente\u0027.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-25",
@@ -324,7 +348,8 @@
                                               "d":  "A ausência total de concorrência durante o período pandêmico, favorecendo os negócios sobreviventes."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto atribui explicitamente aos especialistas a hipótese de que a digitalização acelerada dos processos de venda explica parte da maior taxa de sobrevivência dos pequenos negócios."
+                         "explicacao":  "O texto atribui explicitamente aos especialistas a hipótese de que a digitalização acelerada dos processos de venda explica parte da maior taxa de sobrevivência dos pequenos negócios.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-26",
@@ -337,7 +362,8 @@
                                               "d":  "A necessidade de garantir alimento para a família."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto afirma diretamente que o avô \u0027pescava para ficar em silêncio sem que ninguém achasse estranho\u0027, indicando que a pesca era apenas um pretexto socialmente aceito para o silêncio."
+                         "explicacao":  "O texto afirma diretamente que o avô \u0027pescava para ficar em silêncio sem que ninguém achasse estranho\u0027, indicando que a pesca era apenas um pretexto socialmente aceito para o silêncio.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-27",
@@ -350,7 +376,8 @@
                                               "d":  "As bibliotecas não têm nenhuma relevância social atualmente, mesmo para quem não tem internet em casa."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O autor argumenta que as bibliotecas cumprem uma função social relevante e, por isso, seu fechamento não deve ser visto apenas como uma questão de números, mas como uma escolha política, conforme concluído explicitamente no texto."
+                         "explicacao":  "O autor argumenta que as bibliotecas cumprem uma função social relevante e, por isso, seu fechamento não deve ser visto apenas como uma questão de números, mas como uma escolha política, conforme concluído explicitamente no texto.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-28",
@@ -363,7 +390,8 @@
                                               "d":  "O uso de pesticidas e a perda de habitat estão associados ao declínio das abelhas, ameaçando a segurança alimentar."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto estabelece uma cadeia causal explícita: pesticidas e perda de habitat causam o declínio das abelhas, que por sua vez ameaça a segurança alimentar mundial, dada sua importância na polinização."
+                         "explicacao":  "O texto estabelece uma cadeia causal explícita: pesticidas e perda de habitat causam o declínio das abelhas, que por sua vez ameaça a segurança alimentar mundial, dada sua importância na polinização.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-29",
@@ -376,7 +404,8 @@
                                               "d":  "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O efeito cômico decorre da lógica literal e absurda do robô: ao tentar conciliar as duas opções, ele conclui, de forma irônica, que \u0027escolher os dois\u0027 significa não fazer nenhum, subvertendo a expectativa do leitor."
+                         "explicacao":  "O efeito cômico decorre da lógica literal e absurda do robô: ao tentar conciliar as duas opções, ele conclui, de forma irônica, que \u0027escolher os dois\u0027 significa não fazer nenhum, subvertendo a expectativa do leitor.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-30",
@@ -389,7 +418,8 @@
                                               "d":  "uma crítica direta aos concorrentes da agência de viagens ViaJá, citados nominalmente nesse anúncio publicitário."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A expressão emprega um recurso publicitário de persuasão emocional, associando a ideia de vida curta (urgência de viver) à simplicidade das malas, sem qualquer intenção de fornecer dado técnico ou estatístico."
+                         "explicacao":  "A expressão emprega um recurso publicitário de persuasão emocional, associando a ideia de vida curta (urgência de viver) à simplicidade das malas, sem qualquer intenção de fornecer dado técnico ou estatístico.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-31",
@@ -402,7 +432,8 @@
                                               "d":  "O levantamento comprova que todos os aluguéis da cidade aumentaram igualmente, sem exceção."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Como o índice considera apenas contratos novos, o texto permite inferir que inquilinos com contratos antigos provavelmente pagam valores diferentes dos praticados atualmente no mercado, informação que fica implícita na ressalva apresentada."
+                         "explicacao":  "Como o índice considera apenas contratos novos, o texto permite inferir que inquilinos com contratos antigos provavelmente pagam valores diferentes dos praticados atualmente no mercado, informação que fica implícita na ressalva apresentada.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-32",
@@ -415,7 +446,8 @@
                                               "d":  "Argumento de exemplificação, baseado em um caso concreto e ilustrativo."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O relato do caso específico da aluna, usado para ilustrar e sustentar a tese sobre a importância da leitura, caracteriza o argumento de exemplificação, diferente do argumento de autoridade, da analogia ou de uma formulação causal sem exemplo."
+                         "explicacao":  "O relato do caso específico da aluna, usado para ilustrar e sustentar a tese sobre a importância da leitura, caracteriza o argumento de exemplificação, diferente do argumento de autoridade, da analogia ou de uma formulação causal sem exemplo.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-33",
@@ -428,7 +460,8 @@
                                               "d":  "A maioria dos voluntários abandonaria o trabalho caso não recebesse certificados ou menções públicas."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto afirma explicitamente que a principal motivação dos voluntários é o senso de pertencimento à causa coletiva, e não o reconhecimento formal, reforçado pelo dado de que a maioria continuaria mesmo sem certificados."
+                         "explicacao":  "O texto afirma explicitamente que a principal motivação dos voluntários é o senso de pertencimento à causa coletiva, e não o reconhecimento formal, reforçado pelo dado de que a maioria continuaria mesmo sem certificados.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-34",
@@ -441,7 +474,8 @@
                                               "d":  "de indiferença total à situação descrita, sem qualquer reação do narrador."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O suposto elogio à \u0027dedicação\u0027 do vizinho contrasta com o incômodo evidente causado pelo barulho tardio, caracterizando um recurso irônico típico da crônica, e não admiração sincera."
+                         "explicacao":  "O suposto elogio à \u0027dedicação\u0027 do vizinho contrasta com o incômodo evidente causado pelo barulho tardio, caracterizando um recurso irônico típico da crônica, e não admiração sincera.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-35",
@@ -454,7 +488,8 @@
                                               "d":  "O restaurante está localizado no bairro mencionado, próximo à área residencial central."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A afirmação sobre o risoto é marcada pelas expressões \u0027na minha opinião\u0027 e \u0027considero\u0027, caracterizando um juízo de valor subjetivo, diferente dos dados verificáveis apresentados nas demais alternativas."
+                         "explicacao":  "A afirmação sobre o risoto é marcada pelas expressões \u0027na minha opinião\u0027 e \u0027considero\u0027, caracterizando um juízo de valor subjetivo, diferente dos dados verificáveis apresentados nas demais alternativas.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-36",
@@ -467,7 +502,8 @@
                                               "d":  "uma crítica pessoal do autor às políticas ambientais vigentes na região de transição climática."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto encadeia uma sequência de causas e efeitos (desmatamento, redução de umidade, menos chuva, dificuldade de regeneração, desertificação), formando um ciclo argumentativo característico da relação de causa e consequência."
+                         "explicacao":  "O texto encadeia uma sequência de causas e efeitos (desmatamento, redução de umidade, menos chuva, dificuldade de regeneração, desertificação), formando um ciclo argumentativo característico da relação de causa e consequência.",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-37",
@@ -481,7 +517,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A entrevistada afirma explicitamente que o medo de continuar do mesmo jeito \u0027ficou maior\u0027 que o medo de mudar, indicando que a decisão nasceu de uma balança entre dois medos, e não da ausência de medo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-38",
@@ -495,7 +532,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O editorial argumenta, com o exemplo das cidades que investiram em transporte coletivo, que essa é a estratégia eficaz, contrapondo-a à expansão de rodovias, que atrairia mais carros e recriaria o congestionamento — sem propor proibição nem afirmar que o problema é insolúvel.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-39",
@@ -509,7 +547,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A crítica ao consumismo compulsivo emerge do contraste entre a atitude do homem, sempre disposto a comprar mais, e a frase do cartaz, que ironicamente desmente essa atitude, evidenciando a incoerência entre discurso e comportamento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-40",
@@ -523,7 +562,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O efeito cômico vem da autoconsciência irônica do narrador: ele admite que a lógica de não dormir é \u0027péssima\u0027, mas cede a ela mesmo assim, um recurso típico da crônica de observação do cotidiano.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-41",
@@ -537,7 +577,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto explica que cada evocação reabre a memória, tornando-a \u0027suscetível a pequenas alterações\u0027, o que permite inferir que a repetição não garante fidelidade e pode até introduzir erros, mesmo em testemunhas confiantes e bem-intencionadas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-42",
@@ -551,7 +592,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O orador contrapõe os dois conceitos, valorizando a paciência por ser constante (\u0027sustenta o trabalho\u0027), enquanto a paixão é descrita como intermitente (\u0027vai e volta\u0027), o que caracteriza uma contraposição, não uma equivalência ou relação causal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-43",
@@ -565,7 +607,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O número de salas e o valor de bilheteria são dados objetivos, passíveis de verificação externa, enquanto os demais trechos expressam juízos de valor do crítico sobre a qualidade do filme.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-44",
@@ -579,7 +622,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto afirma que o algoritmo \u0027aprendeu o que prende sua atenção por mais tempo\u0027, não que avalia veracidade, o que sustenta a crítica de que a plataforma amplifica conteúdo por engajamento, e não por neutralidade.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-45",
@@ -593,7 +637,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A metáfora aproxima os dois elementos pelo modo de lidar com eles: guardar \u0027pouco a pouco, com medo de faltar\u0027, o que remete a uma lógica de poupança cautelosa, não a um julgamento sobre valor material do silêncio.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-46",
@@ -607,7 +652,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O placar e a pontuação na tabela são dados objetivos e verificáveis, enquanto a fala entre aspas do técnico, sobre o jogo ter sido \u0027inteligente\u0027, representa uma avaliação subjetiva sobre a atuação da equipe.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-47",
@@ -621,7 +667,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto descreve uma cadeia causal explícita: exaustão emocional (burnout) leva ao abandono da profissão por professores experientes, o que agrava a escassez já existente na categoria — uma relação de causa e efeito, não o contrário.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-48",
@@ -635,7 +682,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Expressões como \u0027guardo com carinho\u0027 e \u0027sinto falta\u0027 revelam afeto e saudade das conversas compartilhadas, sem indícios de indiferença, ressentimento ou arrependimento no trecho.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-49",
@@ -649,7 +697,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O autor introduz o contra-argumento com \u0027ora\u0027, questionando a eficácia da regulação rígida e apontando um risco não mencionado pelos defensores, sem, no entanto, afirmar que toda forma de regulação é indesejável.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-50",
@@ -663,7 +712,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O trecho articula a origem humilde e as dificuldades de acesso escolar com a conquista posterior (o método de purificação adotado por centenas de municípios), traçando uma trajetória de superação com impacto social, sem contradizer nenhum dado apresentado.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-51",
@@ -677,7 +727,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora o texto não use a palavra \u0027gentrificação\u0027, o conjunto de dados (condomínios de alto padrão, fechamento do comércio tradicional, alta do aluguel) permite inferir esse processo, sem que o texto afirme explicitamente esse termo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-52",
@@ -691,7 +742,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A construção \u0027não é X, é Y\u0027 opera uma reformulação de sentido: a campanha rejeita a ideia de caridade (associada à piedade) e a substitui pela de aposta (associada a potencial e investimento), estratégia persuasiva típica de textos publicitários de causas sociais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-53",
@@ -705,7 +757,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A ironia surge do contraste entre o propósito inicial (exercício diário) e o destino real do objeto (decoração parada), tratado com humor por meio da expressão \u0027cumpre com extrema dedicação\u0027 aplicada a algo imóvel.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-54",
@@ -719,7 +772,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "\u0027Contudo\u0027 introduz uma ressalva que contrapõe a ideia de que apenas guardar dinheiro não basta (primeira oração) à condição que de fato torna o hábito eficaz: vir acompanhado de reflexão sobre prioridades, caracterizando relação adversativa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-55",
@@ -733,7 +787,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O segundo parágrafo não nega a descoberta, mas introduz uma ressalva metodológica (necessidade de exames complementares) que modera o tom afirmativo do primeiro parágrafo, função comum em textos jornalísticos sobre ciência.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-56",
@@ -747,7 +802,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A tirinha ironiza o discurso da \u0027flexibilidade\u0027 do trabalho remoto ao revelar, nos quadros seguintes, uma rotina de trabalho contínuo e sem pausas, evidenciando a contradição entre o que é dito e o que de fato acontece.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-57",
@@ -761,7 +817,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto contrapõe o discurso de personalização (\u0027feitas sob medida\u0027) à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-58",
@@ -775,7 +832,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "\u0027Nas entrelinhas\u0027 indica leitura do que está implícito, não explícito no texto; o autor interpreta que, por trás da hostilidade, há uma resistência do público em aceitar que o alto desempenho também tem custos emocionais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-59",
@@ -789,7 +847,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto associa a drástica redução no número de línguas vivas e a ausência de transmissão geracional a um risco de extinção, o que justifica a urgência dos projetos de documentação mencionados, contrariando as demais alternativas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-60",
@@ -803,7 +862,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A fala do prefeito é uma avaliação otimista e política (\u0027cidade inteligente que os moradores merecem\u0027), enquanto os técnicos adotam postura mais cautelosa, condicionando a avaliação de eficácia a um prazo futuro, o que evidencia tensão entre discurso político e prudência técnica.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-61",
@@ -817,7 +877,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão \u0027não esperava tanta calma\u0027 indica que a reação tranquila do pai surpreendeu a narradora, o que permite inferir que ela temia algo mais difícil, coerente também com o fato de ter \u0027ensaiado\u0027 a conversa durante a semana toda.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-62",
@@ -831,7 +892,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto relaciona a criação das hortas a três efeitos distintos: alimentos mais acessíveis, redução do descarte irregular de lixo e aproximação entre vizinhos, sem mencionar aumento de preços ou substituição de mercados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-63",
@@ -845,7 +907,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O autor reconhece a sedução do argumento (\u0027é sedutor\u0027), mas o relativiza ao mostrar que ele não se aplica uniformemente a todos os setores, citando o exemplo da linha de produção contínua como contraexemplo específico.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-64",
@@ -859,7 +922,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A metáfora da \u0027régua\u0027 amplia o sentido da mudança para além da geografia, sugerindo que os parâmetros pessoais de avaliação (o que é \u0027perto\u0027, por exemplo) também precisam ser reconstruídos na adaptação a um novo contexto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-65",
@@ -873,7 +937,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Ao apresentar a garantia dos fabricantes seguida do advérbio \u0027contudo\u0027 e de achados que a contradizem, o texto sugere uma divergência entre discurso institucional e prática, permitindo inferir uma possível quebra da promessa de privacidade.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-66",
@@ -887,7 +952,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto associa a prática culinária a um saber adaptativo, prático e tradicional, ligado às condições do bioma, sem afirmar que se trata de algo recente ou que a escassez impede completamente o preparo dos pratos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-67",
@@ -901,7 +967,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O absurdo de exigir uma senha para simplesmente atravessar até um guichê vazio ao lado satiriza a burocracia que se complica a si mesma, e não a falta de pessoal ou o comportamento do público.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-68",
@@ -915,7 +982,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto se apoia em um levantamento conduzido por geriatras, especialistas reconhecidos no tema, o que caracteriza argumento de autoridade, e não analogia, senso comum ou apelo emocional.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-69",
@@ -929,7 +997,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O segundo parágrafo esclarece por que um bem tombado pode estar deteriorado: o tombamento protege contra demolição, mas não garante recursos de manutenção, explicando assim o paradoxo apresentado no primeiro parágrafo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-70",
@@ -943,7 +1012,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A cientista distingue a segurança da vacina, sustentada por testes clínicos (fato), da recomendação de vacinação universal \u0027sem exceção\u0027, que envolve decisões de política pública além dos dados clínicos (juízo que extrapola o fato).",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-71",
@@ -957,7 +1027,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O autor não nega o benefício da rapidez decisória (\u0027é verdade\u0027), mas o relativiza ao apontar que essa mesma característica pode prejudicar habilidades de reflexão mais lenta, configurando um contraponto equilibrado, não uma negação total.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-72",
@@ -971,7 +1042,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Expressões como \u0027como se nunca tivessem parado\u0027 e \u0027quem gosta muito de alguém\u0027 revelam um tom afetuoso de continuidade, e não de estranhamento, melancolia ou indiferença diante do reencontro.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-73",
@@ -985,7 +1057,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto encadeia efeitos que se tornam causas de novos problemas (redução de chuvas leva a racionamento, que leva à queda na safra, que leva ao aumento de preços), configurando uma cadeia causal, não eventos isolados nem comparação entre regiões.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-74",
@@ -999,7 +1072,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A metáfora da \u0027chave\u0027 associa a música ao acesso imediato a lembranças afetivas, e não a um julgamento técnico ou consensual sobre sua qualidade, que o próprio narrador relativiza ao dizer que ela \u0027não é boa o bastante para ganhar prêmio\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-75",
@@ -1013,7 +1087,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto atribui a diferença de desempenho a fatores estruturais (rotatividade docente, acervo desatualizado, turmas numerosas), explicitando que isso ocorre \u0027mesmo quando os alunos têm potencial de aprendizagem semelhante\u0027, o que descarta a ideia de menor capacidade dos alunos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-76",
@@ -1027,7 +1102,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto apresenta duas perspectivas distintas: a vantagem econômica ressaltada pelos defensores da energia solar e o alerta técnico dos engenheiros sobre riscos à estabilidade da rede elétrica, sem negar a validade da energia renovável em si.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-77",
@@ -1041,7 +1117,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A caracterização da frase como algo que \u0027promete tudo, garante nada, e ainda parece educada\u0027 revela ironia bem-humorada diante da vagueza institucional, sem configurar elogio sincero, neutralidade técnica ou exigência formal.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-78",
@@ -1055,7 +1132,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto ilustra a tese com um caso concreto (aumento de 22% nos resultados de uma equipe específica), caracterizando argumento de exemplificação apoiado em dado numérico, e não comparação entre equipes ou definição teórica isolada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-79",
@@ -1069,7 +1147,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto afirma explicitamente que o direito \u0027não resultou de uma concessão espontânea\u0027, mas de décadas de mobilização, estabelecendo essa pressão social como causa do reconhecimento formal, contrariando as demais alternativas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-80",
@@ -1083,7 +1162,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A imagem da mãe atendendo três chamadas simultaneamente ao lado da criança, somada à legenda irônica sobre \u0027bater o próprio ponto\u0027, evidencia a crítica à dupla jornada de quem concilia trabalho e ensino domiciliar, não ao desempenho da criança ou à legalidade da prática.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-81",
@@ -1097,7 +1177,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A crítica aponta uma dissonância entre o termo (que sugere compartilhamento eventual de recursos ociosos) e a realidade de motoristas dependentes da atividade, permitindo inferir que a nomenclatura pode encobrir uma relação de trabalho mais tradicional.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-82",
@@ -1111,7 +1192,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O atleta contrasta a percepção comum sobre sua superação (\u0027vencer a lesão\u0027) com o que considera real: aceitar treinar de forma diferente, sem tentar recuperar ou provar a condição anterior, o que descarta as demais alternativas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-83",
@@ -1125,7 +1207,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O autor argumenta explicitamente contra a ideia de \u0027benefício especial para um grupo específico\u0027, defendendo que a acessibilidade deve ser encarada como infraestrutura de interesse coletivo, que beneficia também idosos e gestantes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-84",
@@ -1139,7 +1222,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto associa diretamente a exposição a ruídos urbanos a consequências de saúde (distúrbios do sono e risco cardiovascular), o que justifica classificar a poluição sonora como questão de saúde pública, e não apenas de conforto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-85",
@@ -1153,7 +1237,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A escritora nega ter \u0027certeza de que está perfeito\u0027 e associa o fim do processo à ausência de melhorias possíveis nas alterações testadas, o que indica um critério prático, e não uma certeza objetiva de perfeição ou um prazo externo.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-86",
@@ -1167,7 +1252,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O autor evidencia, com a repetição irônica de \u0027produzir e descartar em ritmo acelerado\u0027, que o discurso sustentável não elimina a lógica de consumo rápido, apenas a revestindo com um vocabulário ecológico, o que caracteriza a contradição apontada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-87",
@@ -1181,7 +1267,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O efeito cômico está na autoironia: o narrador reconhece que \u0027cumprir\u0027 apenas a tarefa de replanejar, sem executar nenhuma das sete originais, é um fracasso disfarçado de produtividade, contraste explícito entre \u0027tecnicamente\u0027 e \u0027espiritualmente\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-88",
@@ -1195,7 +1282,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto evidencia uma permanência histórica ao mostrar que argumentos \u0027praticamente idênticos\u0027 de resistência às medidas sanitárias, ligados à liberdade individual, ressurgiram décadas depois em outro contexto de crise.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-89",
@@ -1209,7 +1297,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto atribui o ganho cognitivo ao treino constante de alternância entre línguas (inibir uma para ativar outra), efeito que, segundo os pesquisadores, se estenderia a outras funções executivas, e não a fatores como carga horária de estudo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-90",
@@ -1223,7 +1312,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A crítica se constrói pelo contraste imediato entre a promessa retórica (\u0027ouvir a todos, sem exceção\u0027) e o comportamento seguinte, de ignorar os eleitores, evidenciando a distância entre discurso político e prática.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-91",
@@ -1237,7 +1327,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto afirma explicitamente que \u0027o problema não está na quantidade produzida\u0027, mas em fatores de distribuição e acesso, o que descarta a insuficiência produtiva como causa principal do problema.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-92",
@@ -1251,7 +1342,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto descreve soluções concretas (ventilação cruzada, telhado verde) que conciliam conforto térmico e sustentabilidade, reforçando a afirmação final dos arquitetos de que os dois objetivos não são concorrentes.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-93",
@@ -1265,7 +1357,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto afirma que a confirmação de água líquida \u0027não implica, por si só, a existência de vida\u0027, mas amplia a lista de lugares com condições mínimas possíveis, o que caracteriza uma condição necessária, mas não suficiente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-94",
@@ -1279,7 +1372,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O humor nasce do contraste entre a expectativa modesta sugerida por \u0027só o banheiro\u0027 e a extensão real da reforma relatada nas frases anteriores, generalizada de forma irônica na conclusão sobre a palavra \u0027só\u0027.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-95",
@@ -1293,7 +1387,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto associa a baixa densidade de animais (que exige mais área, logo mais conversão de vegetação) e a fermentação entérica à maior emissão de gases, ao mesmo tempo em que menciona sistemas intensivos como alternativa em estudo, sem descartá-los nem afirmar que a extensiva reduz emissões.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-96",
@@ -1307,7 +1402,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto afirma que o desafio \u0027não é mais puramente mecânico, mas de custo\u0027, apontando a questão econômica como o principal obstáculo atual à difusão da tecnologia, e não a limitação técnica dos movimentos.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-97",
@@ -1321,7 +1417,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto relata mudanças posteriores em exigências e no número de vagas como fonte de instabilidade para quem já estuda para o concurso, o que justifica a cobrança por um marco legal de previsibilidade, e não os demais problemas apresentados nas outras alternativas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-98",
@@ -1335,7 +1432,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto contrapõe um dado positivo específico (boa retenção em empresas que adaptam processos) à persistência de uma sub-representação geral no mercado formal, evidenciando que a inclusão ainda é insuficiente apesar de resultados positivos pontuais.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-99",
@@ -1349,7 +1447,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O autor não nega a observação dos gestores, mas contextualiza-a com um dado histórico omitido (jornadas mais longas), propondo uma explicação alternativa à simples \u0027falta de compromisso\u0027, o que caracteriza uma relativização argumentativa.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-100",
@@ -1363,7 +1462,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto contrasta o controle de ritmo oferecido pelo podcast (pausar, voltar, acelerar) com a lógica de transmissão em tempo estrito do rádio e da televisão, o que caracteriza a principal diferença estrutural apontada.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-101",
@@ -1377,7 +1477,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O paradoxo está em que a maior eficiência tecnológica de captura, ao superar a taxa de reprodução das espécies, tende a reduzir a disponibilidade futura de peixe, efeito contrário à lógica inicial de \u0027mais eficiência, mais pesca\u0027.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-102",
@@ -1391,7 +1492,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto explicita que a mesma comparação histórica serve a propósitos argumentativos diferentes e até opostos, dependendo de quem a utiliza: relativizar o presente ou alertar sobre riscos de retrocesso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-103",
@@ -1405,7 +1507,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A metáfora do tempo que \u0027desaparece\u0027 expressa a sensação de continuidade afetiva apesar da longa separação, reforçada pelo fato de ambos rirem juntos da lembrança específica, e não estranhamento, constrangimento ou indiferença.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-104",
@@ -1419,7 +1522,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto compara dois formatos com o \u0027mesmo tempo total\u0027 de estudo, mas conclui que a distribuição em blocos com intervalos é mais eficaz, o que evidencia que a forma de organizar o tempo, e não só a quantidade, importa para a retenção.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-105",
@@ -1433,7 +1537,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto reconhece a impossibilidade teórica de uma tradução perfeita, mas conclui que tradutores preferem produzir versões imperfeitas a não traduzir, valorizando a recriação parcial do efeito original em vez do silêncio.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-106",
@@ -1447,7 +1552,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O efeito cômico surge do contraste entre a trivialidade da tarefa pretendida (\u0027ver a previsão do tempo\u0027) e o excesso de etapas de verificação exigidas, exagero típico de tirinhas sobre frustrações cotidianas com tecnologia.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-107",
@@ -1461,7 +1567,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto explica que o retorno do setor vem de poucos casos de sucesso expressivo, capazes de compensar as perdas dos investimentos malsucedidos, e não da maioria das startups atingindo sucesso.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-108",
@@ -1475,7 +1582,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Embora o texto não afirme isso explicitamente, a combinação dos dois fatos apresentados (redução por baixa ocupação e dependência dos trabalhadores noturnos) permite inferir uma desvantagem desproporcional para esse grupo específico de usuários.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-109",
@@ -1489,7 +1597,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto encadeia causas e efeitos (mais asfalto reduz absorção, o que aumenta o escoamento, o que sobrecarrega a drenagem), formando uma cadeia argumentativa característica da relação de causa e consequência, sem comparar cidades ou culpar moradores.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-110",
@@ -1503,7 +1612,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto valoriza a organização espontânea da comunidade (\u0027revelou uma capacidade de reação coletiva\u0027), sem deixar de reconhecer, de forma equilibrada, que isso não substitui a atuação do poder público, sem tom de indiferença ou desconfiança.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-111",
@@ -1517,7 +1627,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto estrutura-se como um contraponto equilibrado entre dois argumentos opostos: a imaturidade cognitiva infantil (a favor da restrição) e a responsabilidade parental somada à ineficácia legal (contra a restrição), sem favorecer explicitamente nenhum dos lados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-112",
@@ -1531,7 +1642,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto reconhece a aparente insignificância individual dos hábitos, mas defende que sua adoção generalizada, somada à pressão sobre empresas, pode gerar efeito cumulativo relevante, o que descarta tanto a irrelevância total quanto a responsabilidade exclusiva das empresas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-113",
@@ -1545,7 +1657,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A atleta contrasta a duração efêmera da vitória (\u0027dura um dia de festa\u0027) com o processo de treinos, que ela considera o que \u0027realmente define\u0027 como atleta, evidenciando maior valor atribuído ao processo do que ao resultado pontual.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-114",
@@ -1559,7 +1672,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto apresenta um caso concreto de uma cooperativa específica, com dado numérico (renda mais que dobrada), caracterizando argumento de exemplificação apoiado em dado real, e não opinião genérica, comparação entre cooperativas ou argumento de autoridade.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-115",
@@ -1573,7 +1687,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A expressão final \u0027de algum jeito, se acompanhando\u0027 revela que, apesar do silêncio e da ausência de interação, há uma sensação de companhia compartilhada, e não irritação, competição ou indiferença.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-116",
@@ -1587,7 +1702,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O parágrafo é construído por meio de uma pergunta que se desdobra em múltiplas possibilidades (\u0027a quem formulou o comando, a quem programou...\u0027), estratégia que evidencia a complexidade do problema sem apresentar uma resposta fechada.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-117",
@@ -1601,7 +1717,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A redução de 94 para 61 dias é um dado objetivo e verificável, enquanto a afirmação sobre ser \u0027a melhora mais consistente\u0027 em quinze anos é uma avaliação subjetiva da secretária, introduzida por aspas como fala direta.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-118",
@@ -1615,7 +1732,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto mostra uma continuidade formal (métrica e rima tradicionais) associada a uma renovação de suporte (formato digital) e de temas (eleições, redes sociais, crises climáticas), sem afirmar o abandono do formato impresso original.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-119",
@@ -1629,7 +1747,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto associa diretamente a implantação das ciclovias ao aumento no uso da bicicleta e à percepção de menor tempo de deslocamento, estabelecendo uma relação de causa e efeito clara entre a infraestrutura e os resultados relatados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-120",
@@ -1643,7 +1762,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O efeito cômico surge da ironia de a reunião, supostamente destinada a discutir sua própria necessidade, se prolongar de forma improdutiva, tornando-se ela mesma o exemplo do problema que deveria resolver.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-121",
@@ -1657,7 +1777,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto estabelece que a ausência de corredores ecológicos leva a menor diversidade genética e, consequentemente, a maior vulnerabilidade a doenças e mudanças ambientais, permitindo essa inferência específica sobre populações isoladas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-122",
@@ -1671,7 +1792,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto associa a criação de horários fixos de planejamento à queda nos afastamentos por saúde mental relatada pelos sindicatos, sustentando a tese de que essa medida estrutural está relacionada à redução do burnout docente.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-123",
@@ -1685,7 +1807,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto identifica explicitamente a divergência entre os economistas: se a automação levará à substituição líquida de empregos ou à realocação de trabalhadores para funções mais complexas, e não os outros pontos apresentados.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-124",
@@ -1699,7 +1822,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O relato mostra uma progressão clara: da insegurança extrema da primeira noite (verificar a porta várias vezes) à interação despreocupada da segunda noite, culminando na reflexão sobre autonomia no terceiro dia, o que caracteriza adaptação gradual, não constância nem agravamento.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-125",
@@ -1713,7 +1837,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A fala do executivo funciona como exemplo concreto e contundente da tese apresentada anteriormente, evidenciando que a disputa por atenção se estende para além dos concorrentes diretos, alcançando até mesmo o tempo de sono do usuário.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-126",
@@ -1727,7 +1852,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O nadador contrapõe explicitamente \u0027sonho\u0027 e \u0027caminho\u0027: manteve o mesmo objetivo (nadar rápido), mas precisou adaptar a trajetória para alcançá-lo diante da doença, o que descarta desistência ou substituição total do sonho original.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-127",
@@ -1741,7 +1867,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O humor surge do contraste entre a linguagem institucional tranquilizadora (\u0027pequena turbulência\u0027) e a experiência caótica relatada em seguida (suco derramado, sensação de montanha-russa), recurso irônico típico da crônica de observação cotidiana.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-128",
@@ -1755,7 +1882,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto argumenta, com o exemplo das bibliotecas móveis, que democratizar cultura pode exigir levar a oferta ativamente até a população, e não apenas disponibilizá-la passivamente, sem defender a substituição total das bibliotecas fixas.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-129",
@@ -1769,7 +1897,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que custos fixos de deslocamento e tempo pesam de forma diferente conforme a escala de produção, o que torna a venda direta mais ou menos vantajosa dependendo do porte do produtor e da distância percorrida, e não por proibição legal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-130",
@@ -1783,7 +1912,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto contrapõe o discurso institucional (\u0027ajudam artistas independentes\u0027) aos dados reais do setor, que mostram concentração em artistas já populares, evidenciando uma tensão entre promessa e prática, sem negar totalmente a presença de independentes.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-131",
@@ -1797,7 +1927,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A informação sobre o enredo e a estrutura narrativa (verão único, narração em primeira pessoa) é um dado verificável sobre o texto, enquanto as demais opções expressam avaliações subjetivas do crítico sobre estilo e ritmo.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-132",
@@ -1811,7 +1942,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto afirma explicitamente que a intenção vai além do embelezamento, buscando \u0027devolver visibilidade simbólica\u0027 a uma população pouco representada, o que caracteriza uma função social específica além da estética.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-133",
@@ -1825,7 +1957,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto recorre a \u0027estudos de metodologia jornalística\u0027 para sustentar sua resposta à acusação de parcialidade, caracterizando argumento de autoridade apoiado em pesquisa especializada, e não apelo emocional, analogia ou senso comum.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-134",
@@ -1839,7 +1972,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto associa diretamente o ajuste de horário ao ciclo de sono adolescente com dois efeitos positivos relatados (queda de faltas e melhora de desempenho), sustentando uma relação de causa e efeito entre a medida e os resultados observados.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-135",
@@ -1853,7 +1987,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto descreve dois efeitos opostos e simultâneos (ganho econômico e de emprego versus incômodo e insegurança para moradores), configurando explicitamente um dilema de equilíbrio, não uma escolha extrema entre proibição total e ausência de regulação.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-136",
@@ -1867,7 +2002,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto aproxima dois processos de natureza diferente (regular redes sociais e consertar um motor) por uma semelhança estrutural (avaliar só a superfície, sem entender o funcionamento interno), o que caracteriza argumento por analogia, não autoridade, exemplo real ou relação causal.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-137",
@@ -1881,7 +2017,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "\u0027Embora\u0027 marca uma relação de concessão: a redução do tempo de espera não elimina a insatisfação com o preço. Isso só é preservado na alternativa b; a e d convertem indevidamente a concessão em causa, e c inverte o fato relatado no trecho original.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-138",
@@ -1895,7 +2032,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "As frases curtas e desconectadas gramaticalmente ainda produzem um sentido único e compreensível (tensão, silêncio), o que evidencia que a coerência é uma propriedade de sentido global e pode existir com poucos elementos de coesão explícita — diferente do que sugerem as demais alternativas.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-139",
@@ -1909,7 +2047,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto contrapõe a proibição legal conquistada desde o século XIX à persistência do trabalho infantil hoje, em contextos produtivos diferentes (agricultura, mineração artesanal, bens de consumo), evidenciando continuidade do problema sob nova forma, não sua erradicação.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-140",
@@ -1923,7 +2062,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto apresenta benefícios concretos (custo, deslocamento, acesso) e, em seguida, introduz uma ressalva de especialistas sobre limitações em certos quadros clínicos, configurando uma argumentação equilibrada, não uma defesa ou rejeição unilateral.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-141",
@@ -1937,7 +2077,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O humor nasce do contraste entre a intenção da avó (organizar a transição \u0027aos poucos\u0027) e o resultado prático caótico (relógios com horas diferentes, ninguém sabe a hora certa), ironia típica de crônicas sobre hábitos familiares.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-142",
@@ -1951,7 +2092,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Como o texto contrasta a aplicação \u0027nos pontos específicos que realmente precisam\u0027 com uma prática anterior implícita, é possível inferir que o método antigo era menos direcionado, provavelmente aplicando recursos de forma mais uniforme em toda a área.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-143",
@@ -1965,7 +2107,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto explica que essas expressões dependem de contexto cultural compartilhado, difícil de captar por sistemas baseados em padrões estatísticos de linguagem, o que as diferencia dos textos técnicos, nos quais as ferramentas já avançaram bastante.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-144",
@@ -1979,7 +2122,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto atribui a mobilização à proximidade emocional gerada pelas imagens nas redes sociais, que aproximou simbolicamente a tragédia de pessoas geograficamente distantes, e não a obrigação legal ou pagamento, não mencionados no texto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-145",
@@ -1993,7 +2137,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto mostra a convivência entre a institucionalização do skate (federações, olimpíadas, patrocínios) e a resistência de parte dos praticantes, que valorizam a apropriação criativa dos espaços urbanos, evidenciando uma tensão entre os dois aspectos, não a extinção de um deles.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-146",
@@ -2007,7 +2152,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto evidencia uma contradição entre a categoria formal de \u0027autônomo\u0027 (sem direitos trabalhistas tradicionais) e a prática real de controle por metas, avaliações e penalidades, elementos associados a relações de subordinação, e não de autonomia plena.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-147",
@@ -2021,7 +2167,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O trecho final complementa a narrativa mostrando uma evolução: a iniciativa nasceu de forma espontânea e comunitária, e só depois de dois anos recebeu apoio institucional, o que reforça, e não contradiz, a origem popular do projeto.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-148",
@@ -2035,7 +2182,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O texto combina descrição bem-humorada dos hábitos de cada familiar com uma valorização final sincera da função do grupo (\u0027a gente sempre descobre primeiro\u0027), o que caracteriza tom afetuoso, e não irritação, indiferença ou crítica severa.",
-                         "dificuldade":  "media"
+                         "dificuldade":  "media",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-149",
@@ -2049,7 +2197,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto estabelece uma desproporção entre responsabilidade histórica (maior nos países mais desenvolvidos) e vulnerabilidade aos efeitos (maior nos países menos desenvolvidos e com menos recursos), base para argumentos sobre justiça climática entre nações, sem afirmar responsabilidade igual ou invertida.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      },
                      {
                          "id":  "interpretacao-texto-150",
@@ -2063,7 +2212,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A proposta de manter a estátua acompanhada de uma placa explicativa busca equilibrar as duas posições em disputa: preservar a memória histórica e, ao mesmo tempo, contextualizar criticamente o que o monumento representa, sem simplesmente remover ou manter sem revisão.",
-                         "dificuldade":  "dificil"
+                         "dificuldade":  "dificil",
+                         "formato":  "direta"
                      }
                  ]
 }

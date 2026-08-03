@@ -1,4 +1,4 @@
-// Metadados das 15 frentes de estudo cobradas pelos vestibulares FGV Direito (SP/Rio) e Insper.
+// Metadados das 16 frentes de estudo cobradas pelos vestibulares FGV Direito (SP/Rio) e Insper.
 window.SUBTOPICS = [
   {
     "id": "interpretacao-texto",
@@ -6,6 +6,19 @@ window.SUBTOPICS = [
     "nome": "Interpretação de Texto",
     "descricao": "Leitura crítica, inferência, ideia central e argumentação em textos de diferentes gêneros.",
     "buscaVideo": ["aula interpretação de texto vestibular", "interpretação de texto FGV Insper"]
+  },
+  {
+    // Frente criada em 2026-08. O banco não tinha uma única questão de
+    // literatura — nem "soneto", nem "eu lírico", nem Drummond — enquanto na
+    // FGV 2026.1 NOVE das quinze questões objetivas de Português vieram de dois
+    // romances do século XIX, três delas cobrando História e teoria literária
+    // disfarçadas de interpretação. Na Insper, todo caderno traz soneto, conto
+    // e um item de identificação de escola. Era o maior buraco do projeto.
+    "id": "literatura",
+    "area": "Linguagens",
+    "nome": "Literatura Brasileira",
+    "descricao": "Romance do século XIX, Modernismo, análise de poesia e reconhecimento de escola pelo traço — não pela ficha técnica.",
+    "buscaVideo": ["aula literatura brasileira vestibular", "naturalismo realismo modernismo resumo vestibular"]
   },
   {
     "id": "gramatica",

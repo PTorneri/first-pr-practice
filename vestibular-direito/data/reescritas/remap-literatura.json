@@ -1,0 +1,91 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027literatura\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "literatura",
+    "questoes":  {
+                     "literatura-01":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-02":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "literatura-03":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "literatura-04":  {
+                                           "de":  "d",
+                                           "para":  "c"
+                                       },
+                     "literatura-06":  {
+                                           "de":  "c",
+                                           "para":  "d"
+                                       },
+                     "literatura-07":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "literatura-08":  {
+                                           "de":  "d",
+                                           "para":  "a"
+                                       },
+                     "literatura-09":  {
+                                           "de":  "a",
+                                           "para":  "b"
+                                       },
+                     "literatura-11":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "literatura-12":  {
+                                           "de":  "d",
+                                           "para":  "c"
+                                       },
+                     "literatura-13":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-14":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "literatura-17":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "literatura-18":  {
+                                           "de":  "c",
+                                           "para":  "d"
+                                       },
+                     "literatura-19":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       },
+                     "literatura-20":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "literatura-21":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "literatura-22":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "literatura-23":  {
+                                           "de":  "c",
+                                           "para":  "d"
+                                       },
+                     "literatura-25":  {
+                                           "de":  "b",
+                                           "para":  "a"
+                                       }
+                 }
+}

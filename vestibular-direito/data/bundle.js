@@ -25065,3 +25065,6 @@ window.QUESTION_BANKS = {
                            }
                        ]
 };
+window.QUESTION_TEXTS = {
+
+};

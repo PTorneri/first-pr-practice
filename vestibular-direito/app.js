@@ -1123,7 +1123,9 @@
     const feitas = propostas.filter((p) => done[p.id]).length;
 
     const intro = document.createElement("div");
-    intro.className = "card";
+    // "card" traz só fundo e borda; o padding e o espaçamento entre cards vêm
+    // de "lesson-card", que é o que as outras abas usam.
+    intro.className = "lesson-card";
     intro.innerHTML = `
       <div class="lesson-eyebrow">Prova de Redação</div>
       <h2 style="margin-top:4px;">Redação em Língua Portuguesa</h2>
@@ -1138,7 +1140,7 @@
 
     propostas.forEach((p) => {
       const card = document.createElement("div");
-      card.className = "card";
+      card.className = "lesson-card";
       const aberta = redacaoAbertaId === p.id;
       const badge = done[p.id] ? ` <span class="visit-badge">✓ treinada</span>` : "";
 

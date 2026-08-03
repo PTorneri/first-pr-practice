@@ -468,3 +468,16 @@ body {
 .dissert-gabarito li:last-child { margin-bottom: 0; }
 .dissert-gabarito label { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
 .dissert-gabarito input { margin-top: 3px; flex-shrink: 0; }
+
+/* ---------- Aba Redação ---------- */
+/* O contador de palavras usa .hint, que tem margin-top negativo pra colar em
+   títulos; logo abaixo de um textarea isso o gruda na borda. Aqui a margem é
+   redefinida. */
+.redacao-contador { margin: 2px 0 12px; font-size: 0.85rem; }
+.redacao-grade-wrap {
+  margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border);
+}
+.redacao-grade-wrap .dissert-gabarito li { margin-bottom: 8px; }
+.redacao-grade-wrap .dissert-gabarito label {
+  display: flex; gap: 8px; align-items: flex-start; cursor: pointer;
+}

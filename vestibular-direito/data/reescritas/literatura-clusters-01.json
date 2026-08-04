@@ -1,0 +1,345 @@
+{
+  "_comentario": [
+    "Fase 10, patch 1 de 2: os quatro primeiros clusters de literatura",
+    "(literatura-01 a literatura-18).",
+    "",
+    "Na FGV 2026.1, UM romance sustentou 6 das 15 questoes de Portugues e um",
+    "segundo sustentou mais 4. Isso nao e detalhe de apresentacao: e o que cria o",
+    "risco concentrado que o candidato precisa treinar -- ler mal um texto custa",
+    "seis questoes de uma vez, e ler bem rende seis. O banco tinha 150 questoes de",
+    "literatura, cada uma com seu proprio texto de 181 caracteres em media. O",
+    "conteudo estava certo e a arquitetura, errada.",
+    "",
+    "Os quatro clusters deste patch: O Cortico sustentando 6 questoes -- o mesmo",
+    "numero do romance que abriu a prova real --, Memorias de um sargento de",
+    "milicias com 4, Memorias Postumas de Bras Cubas com 4 e Dom Casmurro com 4.",
+    "",
+    "SOBRE O TEXTO DOS CLUSTERS. Nao reproduzo passagens longas das obras. Nao e",
+    "questao de direito autoral -- as quatro sao de dominio publico --, e de",
+    "exatidao: transcrever paragrafos de memoria arrisca publicar uma citacao",
+    "errada num material de estudo, que e pior do que nao citar. Cada texto e um",
+    "dossie escrito por mim -- contexto de publicacao, arquitetura da obra,",
+    "procedimento narrativo, leitura critica consolidada --, com no maximo",
+    "expressoes curtas e celebres nomeadas como tais ('defunto autor', 'olhos de",
+    "ressaca', 'tempo do rei'). E o mesmo material que a banca cobra, sem o risco",
+    "de eu errar uma virgula de Machado.",
+    "",
+    "Gabaritos: a=2 b=3 c=4 d=3 e=6, que e exatamente a distribuicao que as 18",
+    "questoes substituidas ja tinham. Preservar isso mantem a frente em 30 de cada",
+    "letra sem precisar mexer nas outras 132. Dentro de cada cluster nenhuma letra",
+    "aparece mais de duas vezes, para o candidato nao aprender um padrao local."
+  ],
+  "subtopic": "literatura",
+  "textos": [
+    {
+      "id": "lit-c1-cortico",
+      "fonte": "Dossie original sobre O Cortico, de Aluisio Azevedo (1890)",
+      "conteudo": "O Cortiço, de Aluísio Azevedo, foi publicado em 1890, dois anos depois da Abolição e um ano depois da Proclamação da República. É o romance mais lido do Naturalismo brasileiro, e sua construção se organiza em torno de duas ascensões simultâneas: a de João Romão, taverneiro português que enriquece, e a da própria estalagem, que o narrador descreve como se fosse um organismo vivo — cresce, fervilha, respira, e ao amanhecer desperta com um rumor que o texto compara ao de um animal em movimento.\n\nO motor econômico da ascensão de João Romão é Bertoleza, mulher negra que trabalha na venda e cujo dinheiro e força de trabalho sustentam a construção das casinhas. Ela vive com ele, é tratada como companheira e nunca aparece como sócia. Quando a ascensão social exige um casamento adequado — com Zulmira, filha do vizinho Miranda —, João Romão resolve o problema entregando Bertoleza a quem a reclamava como escrava. O desfecho dela é o suicídio, no mesmo instante em que ele recebe em casa uma comissão abolicionista.\n\nO segundo eixo é o de Jerônimo, português trabalhador e metódico, casado com Piedade. O contato com a estalagem, com o clima e com Rita Baiana o transforma: ele muda de ritmo, de comida, de música e de mulher, num processo que o narrador apresenta como efeito do meio sobre o indivíduo. Piedade, abandonada, decai.\n\nNos dois eixos opera a mesma lógica: as personagens não decidem, são determinadas — pelo meio, pela raça e pelo momento, tríade que o Naturalismo herdou do cientificismo do século XIX. Traços de comportamento são atribuídos a causas físicas, e a comparação de gente com bicho é o procedimento estilístico mais frequente do livro."
+    },
+    {
+      "id": "lit-c2-sargento",
+      "fonte": "Dossie original sobre Memorias de um sargento de milicias, de Manuel Antonio de Almeida (1854)",
+      "conteudo": "Memórias de um sargento de milícias, de Manuel Antônio de Almeida, saiu primeiro em folhetim, entre 1852 e 1853, e em livro em 1854. A ação se passa no chamado tempo do rei, isto é, no Rio de Janeiro da corte de D. João VI, e acompanha Leonardo, filho de um caso entre Leonardo Pataca, meirinho, e Maria da Hortaliça, vinda de Portugal no mesmo navio que ele.\n\nO livro costuma ser descrito como romance de costumes, e não de análise psicológica. As personagens não têm vida interior desenvolvida: são apresentadas por seus hábitos, por sua posição na engrenagem da cidade e pelas artimanhas de que se valem. O protagonista atravessa a narrativa sem projeto e sem culpa, escapando das consequências por sorte, por proteção alheia ou por esperteza.\n\nO mundo que o romance descreve é feito de duas ordens que se tocam o tempo todo. De um lado, a autoridade, encarnada no major Vidigal, chefe de polícia que aplica castigos sem processo. De outro, o improviso, o jeito, o favor e a rede de compadres e comadres, que resolvem por fora aquilo que a norma não resolve. A crítica chamou esse trânsito contínuo entre o permitido e o proibido de dialética da ordem e da desordem, e viu no protagonista uma das primeiras figurações do tipo que a cultura brasileira chamaria depois de malandro.\n\nO narrador não julga. Não há castigo exemplar nem lição final, e a mesma leveza acompanha o furto, a briga e a reconciliação. É essa ausência de moral explícita, mais do que o enredo, o que separa o livro dos romances românticos que lhe são contemporâneos."
+    },
+    {
+      "id": "lit-c3-bras-cubas",
+      "fonte": "Dossie original sobre Memorias Postumas de Bras Cubas, de Machado de Assis (1881)",
+      "conteudo": "Memórias Póstumas de Brás Cubas, de Machado de Assis, foi publicado em 1881 e costuma marcar, nas histórias da literatura brasileira, o início da fase madura do autor. A primeira decisão do livro é também a mais radical: quem narra está morto. Brás Cubas se apresenta como defunto autor, e não como autor defunto — distinção que ele mesmo faz para dizer que não escreveu em vida para publicar depois, mas escreveu já do outro lado.\n\nA dedicatória é dirigida ao verme que primeiro roeu as frias carnes de seu cadáver. O gesto instala de saída o tom do livro: um humor que trata a morte sem solenidade e um narrador que se dirige ao leitor como quem conversa, interpelando-o, provocando-o e, em certos capítulos, acusando-o de impaciência.\n\nA estrutura acompanha essa liberdade. São mais de cento e sessenta capítulos curtos, alguns de poucas linhas. A narrativa avança e recua, interrompe-se para uma digressão e retoma o fio muito adiante — procedimento que a crítica associa à tradição do romance digressivo inglês do século XVIII e que Machado assume abertamente no próprio texto.\n\nO balanço final é o que dá ao romance o seu sentido. Ao somar o que fez da vida, Brás Cubas conclui por negativas: não alcançou a glória que perseguiu, não deixou obra, e registra como saldo o fato de não ter transmitido a nenhuma criatura o legado da própria miséria. Aquilo que num romance romântico seria fracasso a lamentar aparece aqui como pequeno triunfo de contabilidade, e é essa inversão que sustenta a ironia do livro inteiro."
+    },
+    {
+      "id": "lit-c4-dom-casmurro",
+      "fonte": "Dossie original sobre Dom Casmurro, de Machado de Assis (1899)",
+      "conteudo": "Dom Casmurro, de 1899, é narrado em primeira pessoa por Bento Santiago, já velho, que declara na abertura querer atar as duas pontas da vida e restituir na velhice a adolescência. Para isso manda construir, no Engenho Novo, uma casa que reproduz a do antigo Matacavalos, onde cresceu.\n\nA história que ele conta é a de seu amor por Capitu, vizinha de infância; do seminário a que foi destinado por uma promessa feita por sua mãe, Dona Glória; da amizade com Escobar; do casamento; e do filho, Ezequiel, em quem Bentinho passa a enxergar traços do amigo morto. A conclusão a que ele chega — a de que foi traído — é apresentada como certeza, mas o romance não a sustenta com prova alguma. Não há testemunha, carta, confissão nem cena.\n\nTudo o que o leitor sabe chega pela voz de quem acusa, e essa voz é interessada, escreve décadas depois e admite que a convicção se firmou com o tempo. É por isso que a crítica passou a tratar Bentinho como narrador não confiável: o problema não é ele mentir, é o leitor não ter como verificar.\n\nA construção da imagem de Capitu acompanha essa estratégia. Ela é descrita por comparações que o próprio narrador apresenta como impressão sua ou atribui a terceiros — olhos de ressaca, olhos de cigana oblíqua e dissimulada —, expressões que já carregam um juízo antes de qualquer fato. Quando o leitor chega às cenas que deveriam decidir a questão, foi preparado para lê-las de um modo determinado."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "literatura-01",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A comparação recorrente entre personagens e animais, no romance, cumpre principalmente a função de",
+      "alternativas": {
+        "a": "suavizar pelo humor a violência das cenas descritas.",
+        "b": "individualizar cada personagem por um traço físico exclusivo.",
+        "c": "sustentar a tese naturalista de que o comportamento humano tem causas físicas.",
+        "d": "indicar que o narrador adota o ponto de vista das próprias personagens.",
+        "e": "marcar a passagem do discurso do narrador para o discurso das personagens."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo do texto liga as duas coisas: o Naturalismo herda do cientificismo do século XIX a tríade meio, raça e momento, atribui traços de comportamento a causas físicas, e a comparação de gente com bicho é o procedimento estilístico que executa essa tese na frase. Suavizar pela ironia é o oposto do efeito, que é de rebaixamento; a comparação não individualiza, e sim aproxima as personagens de um mesmo fundo animal; o narrador naturalista mantém distância de observador, e não adota o olhar das personagens; e a passagem entre discursos é marcada por outros recursos, não pela comparação."
+    },
+    {
+      "id": "literatura-02",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A relação entre a ascensão de João Romão e o destino de Bertoleza permite afirmar que o romance",
+      "alternativas": {
+        "a": "mostra que a riqueza do português foi construída sobre o trabalho e o dinheiro de uma mulher negra descartada quando ele chega ao topo.",
+        "b": "apresenta Bertoleza como sócia formal do negócio, cuja parte lhe é negada por falha de registro.",
+        "c": "atribui à convivência com Bertoleza a decadência econômica de João Romão.",
+        "d": "trata o enriquecimento como resultado exclusivo da disciplina individual do protagonista.",
+        "e": "situa a ruptura entre os dois antes do início da construção das casinhas."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo diz que o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas e que ela nunca aparece como sócia; quando a ascensão exige o casamento com Zulmira, João Romão a entrega a quem a reclamava como escrava. A falha de registro inverte isso, porque não havia sociedade nenhuma a registrar; a trajetória do português é de ascensão, não de decadência; a disciplina individual é justamente o que o texto desmonta ao mostrar de onde veio o capital; e a ruptura ocorre no fim, e não antes da construção."
+    },
+    {
+      "id": "literatura-03",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Descrever a estalagem como um organismo vivo produz, na economia do romance, o efeito de",
+      "alternativas": {
+        "a": "reduzir as personagens individuais a um detalhe pitoresco do cenário.",
+        "b": "sugerir que o conjunto foi projetado de antemão por um único arquiteto.",
+        "c": "deslocar a narrativa para o terreno do fantástico.",
+        "d": "indicar que o espaço permanece imutável ao longo da narrativa.",
+        "e": "converter o espaço em força que age sobre quem vive nele, e não em mero cenário."
+      },
+      "resposta": "e",
+      "explicacao": "A descrição do cortiço que cresce, fervilha e desperta prepara o que o texto afirma nos dois eixos seguintes: é o meio que transforma Jerônimo, e é a estalagem que sobe junto com o dono. Personagens reduzidas a detalhe do cenário é o contrário do que ocorre, já que elas são justamente atravessadas por essa força; projeto de arquiteto contraria o crescimento espontâneo descrito; o fantástico não se instala, porque a comparação é procedimento retórico e não sobrenatural; e imutabilidade contraria a própria imagem de crescimento."
+    },
+    {
+      "id": "literatura-04",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A transformação de Jerônimo ao longo do romance é apresentada como",
+      "alternativas": {
+        "a": "escolha moral consciente, tomada contra a opinião de quem o cerca.",
+        "b": "efeito do meio sobre o indivíduo, em que clima, música e convívio alteram hábitos e desejos.",
+        "c": "resultado de uma doença diagnosticada no decorrer da trama.",
+        "d": "consequência da ascensão econômica que ele obtém dentro da estalagem.",
+        "e": "recuo deliberado a um modo de vida anterior à emigração."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo descreve a mudança de ritmo, de comida, de música e de mulher e a apresenta como efeito do meio sobre o indivíduo — a mesma lógica determinista que o parágrafo seguinte generaliza para todo o romance. Escolha consciente e recuo deliberado supõem a decisão que o texto nega às personagens; nenhuma doença é diagnosticada; e Jerônimo é caracterizado como trabalhador metódico, sem ascensão econômica que explique a mudança."
+    },
+    {
+      "id": "literatura-05",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A data de publicação do romance situa-o",
+      "alternativas": {
+        "a": "antes da Lei do Ventre Livre.",
+        "b": "durante a Guerra do Paraguai.",
+        "c": "na década anterior à Abolição.",
+        "d": "dois anos depois da Abolição e um ano depois da Proclamação da República.",
+        "e": "já no período do Estado Novo."
+      },
+      "resposta": "d",
+      "explicacao": "A primeira frase do texto data a publicação em 1890 e a situa exatamente assim, o que importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. A Lei do Ventre Livre é de 1871 e a Guerra do Paraguai terminou em 1870, ambas anteriores; a década anterior à Abolição terminaria em 1888; e o Estado Novo é de quase meio século depois."
+    },
+    {
+      "id": "literatura-06",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "excecao",
+      "enunciado": "O texto sustenta todas as afirmações a seguir sobre O Cortiço, EXCETO:",
+      "alternativas": {
+        "a": "A estalagem é descrita com traços de organismo vivo.",
+        "b": "A trajetória de João Romão depende do trabalho de Bertoleza.",
+        "c": "O casamento com Zulmira integra o projeto de ascensão social do protagonista.",
+        "d": "A comparação de gente com bicho é procedimento estilístico frequente no livro.",
+        "e": "As personagens agem por deliberação individual, à margem das condições que as cercam."
+      },
+      "resposta": "e",
+      "explicacao": "O texto afirma o contrário no fecho: as personagens não decidem, são determinadas pelo meio, pela raça e pelo momento. As demais estão sustentadas — a estalagem cresce, fervilha e desperta; o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas; o casamento com a filha do vizinho Miranda é a exigência social que motiva a entrega dela; e a comparação de gente com bicho é apresentada como o procedimento estilístico mais frequente do livro."
+    },
+    {
+      "id": "literatura-07",
+      "textoId": "lit-c2-sargento",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A ausência de julgamento moral por parte do narrador distingue o romance porque",
+      "alternativas": {
+        "a": "impede o leitor de identificar quem pratica cada ação narrada.",
+        "b": "transfere o julgamento a uma personagem que funciona como porta-voz do autor.",
+        "c": "suprime o castigo exemplar que o romance romântico contemporâneo costumava reservar à transgressão.",
+        "d": "elimina do enredo as transgressões, que passam a ser apenas mencionadas.",
+        "e": "submete todas as ações ao critério da autoridade encarnada no major Vidigal."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo diz que não há castigo exemplar nem lição final e que é essa ausência de moral explícita, mais que o enredo, o que separa o livro dos romances românticos contemporâneos. A identificação de quem age não é afetada, já que o narrador continua contando os fatos; nenhuma personagem assume a função de porta-voz moral; furto e briga permanecem na cena, e não apenas mencionados; e a autoridade de Vidigal é um dos polos do mundo narrado, não o critério de julgamento do narrador."
+    },
+    {
+      "id": "literatura-08",
+      "textoId": "lit-c2-sargento",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A expressão dialética da ordem e da desordem, usada pela crítica a respeito do livro, descreve",
+      "alternativas": {
+        "a": "a alternância entre capítulos narrados por personagens diferentes.",
+        "b": "o contraste entre o Rio de Janeiro e as províncias.",
+        "c": "a oposição entre o folhetim e o livro como formas de publicação.",
+        "d": "a disputa entre narrador e protagonista pelo controle da história.",
+        "e": "o trânsito contínuo das personagens entre o que a norma permite e o que ela proíbe."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo apresenta as duas ordens que se tocam o tempo todo — a autoridade de um lado, o improviso e a rede de favores de outro — e nomeia esse trânsito contínuo com a expressão em questão. A narração é única e em terceira pessoa, o que afasta tanto a alternância de narradores quanto a disputa pelo controle; a oposição capital e províncias não é tematizada; e folhetim e livro são etapas de publicação registradas no primeiro parágrafo, sem relação com o conceito."
+    },
+    {
+      "id": "literatura-09",
+      "textoId": "lit-c2-sargento",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A caracterização das personagens no romance apoia-se principalmente",
+      "alternativas": {
+        "a": "na descrição minuciosa de seus conflitos interiores.",
+        "b": "em hábitos, posição social e artimanhas, e não em vida psicológica desenvolvida.",
+        "c": "em longos monólogos que revelam suas motivações.",
+        "d": "na correspondência que trocam ao longo da narrativa.",
+        "e": "na comparação constante com figuras da mitologia clássica."
+      },
+      "resposta": "b",
+      "explicacao": "O segundo parágrafo é explícito: trata-se de romance de costumes e não de análise psicológica, e as personagens são apresentadas por hábitos, posição na engrenagem da cidade e artimanhas. Conflitos interiores e monólogos supõem justamente a vida interior que o texto diz não existir ali; cartas não estruturam a narrativa; e a referência mitológica não é mencionada em nenhum momento."
+    },
+    {
+      "id": "literatura-10",
+      "textoId": "lit-c2-sargento",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A ambientação no chamado tempo do rei remete ao Rio de Janeiro",
+      "alternativas": {
+        "a": "do período pombalino.",
+        "b": "posterior à Proclamação da República.",
+        "c": "do período regencial.",
+        "d": "da corte de D. João VI.",
+        "e": "do Segundo Reinado, já sob D. Pedro II."
+      },
+      "resposta": "d",
+      "explicacao": "O primeiro parágrafo define a expressão: tempo do rei é o Rio de Janeiro da corte de D. João VI, isto é, o período posterior à transferência da Corte portuguesa em 1808. O período pombalino é do século XVIII e anterior à vinda da Corte; a Regência e o Segundo Reinado vêm depois, já sem rei português no Brasil; e a República está a quase oito décadas de distância da ação narrada."
+    },
+    {
+      "id": "literatura-11",
+      "textoId": "lit-c3-bras-cubas",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A escolha de um narrador que escreve depois de morto produz como efeito principal",
+      "alternativas": {
+        "a": "a garantia de que tudo o que ele relata corresponde aos fatos.",
+        "b": "a supressão do humor, incompatível com o tema da morte.",
+        "c": "a limitação do relato ao período final da vida do protagonista.",
+        "d": "a transferência da narração a um herdeiro do protagonista.",
+        "e": "a liberdade de julgar a própria vida sem nada a preservar diante dos vivos."
+      },
+      "resposta": "e",
+      "explicacao": "O texto insiste na distinção que o próprio narrador faz — defunto autor, e não autor defunto — para marcar que ele escreve já do outro lado, e é dessa posição que vêm o humor sem solenidade e o balanço final feito por negativas. A morte não confere veracidade alguma, e o narrador continua sendo parte interessada; o humor é justamente o que a posição libera, não o que ela suprime; a narrativa cobre a vida inteira, e não só o fim; e não há herdeiro assumindo a narração."
+    },
+    {
+      "id": "literatura-12",
+      "textoId": "lit-c3-bras-cubas",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A dedicatória que abre o romance produz efeito de sentido porque",
+      "alternativas": {
+        "a": "dirige a homenagem, reservada por convenção a pessoas ilustres, ao agente da decomposição do próprio autor.",
+        "b": "revela o nome do inimigo que perseguiu o protagonista em vida.",
+        "c": "antecipa que o romance tratará de temas de investigação científica.",
+        "d": "indica que o livro foi escrito por encomenda de um patrono.",
+        "e": "obedece a uma convenção corrente nas dedicatórias do período."
+      },
+      "resposta": "a",
+      "explicacao": "O efeito nasce do desvio: o lugar da dedicatória, ocupado por protetores e figuras ilustres, é dado ao verme que roeu as carnes do cadáver do autor, e é esse gesto que instala o humor que trata a morte sem solenidade. O verme não é personagem nem inimigo do enredo; não há proposta de investigação científica; a encomenda de patrono é justamente a convenção que está sendo invertida; e obedecer à convenção anularia o efeito descrito."
+    },
+    {
+      "id": "literatura-13",
+      "textoId": "lit-c3-bras-cubas",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A estrutura em capítulos muito curtos, com digressões e interrupções, caracteriza-se como",
+      "alternativas": {
+        "a": "imposição do espaço disponível no jornal em que o livro teria saído.",
+        "b": "marca do Naturalismo, que fragmenta a narrativa em observações isoladas.",
+        "c": "consequência da pouca experiência do autor no gênero romance.",
+        "d": "procedimento deliberado, filiado a uma tradição que o próprio texto assume.",
+        "e": "efeito de revisão feita por terceiros após a morte do autor."
+      },
+      "resposta": "d",
+      "explicacao": "O terceiro parágrafo diz que o avanço e o recuo da narrativa remetem à tradição do romance digressivo inglês do século XVIII e que Machado assume essa filiação abertamente dentro do próprio livro — logo, é escolha e não acidente. A limitação de espaço em jornal não explica capítulos de poucas linhas ao lado de digressões longas; o Naturalismo trabalha com encadeamento causal, e não com interrupção; a inexperiência é insustentável num autor com décadas de obra publicada; e nenhuma revisão póstuma é mencionada."
+    },
+    {
+      "id": "literatura-14",
+      "textoId": "lit-c3-bras-cubas",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "O balanço final do narrador, formulado por negativas, confere ao romance um sentido",
+      "alternativas": {
+        "a": "consolador, ao apresentar a descendência como forma de sobrevivência.",
+        "b": "épico, ao converter a vida do protagonista em feito exemplar.",
+        "c": "irônico, ao transformar em saldo positivo aquilo que se contaria como fracasso.",
+        "d": "documental, ao registrar com exatidão os fatos de uma existência.",
+        "e": "trágico, ao atribuir a um destino superior o fracasso do protagonista."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo é construído sobre essa inversão: não ter alcançado glória, não ter deixado obra e não ter transmitido a ninguém o legado da própria miséria seriam perdas num romance romântico, e aparecem aqui como pequeno triunfo de contabilidade. O sentido consolador exigiria valorizar a descendência, que é exatamente o que o narrador comemora não ter; o feito exemplar e o destino superior são recusados pela ausência de qualquer grandeza no balanço; e a exatidão documental não se sustenta num relato que se interrompe para digressões."
+    },
+    {
+      "id": "literatura-15",
+      "textoId": "lit-c4-dom-casmurro",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A crítica designa o narrador de Dom Casmurro como não confiável porque",
+      "alternativas": {
+        "a": "ele confessa, ao final, ter inventado os episódios que narrou.",
+        "b": "o leitor não dispõe de nenhum meio de verificar a acusação que ele sustenta.",
+        "c": "ele demonstra não se lembrar dos fatos que relata.",
+        "d": "o romance apresenta duas versões contraditórias da mesma cena.",
+        "e": "sua narração é interrompida e concluída por outra personagem."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo formula a questão nesses termos: o problema não é o narrador mentir, é o leitor não ter como verificar, porque não há testemunha, carta, confissão nem cena. A confissão de invenção resolveria a dúvida e é justamente o que o romance não oferece; a memória de Bentinho é apresentada como firme, e o texto observa que a convicção se fortaleceu com o tempo; não há segunda versão da mesma cena; e a narração permanece com ele do início ao fim."
+    },
+    {
+      "id": "literatura-16",
+      "textoId": "lit-c4-dom-casmurro",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "As comparações usadas para descrever os olhos de Capitu funcionam, na economia do romance, como",
+      "alternativas": {
+        "a": "descrição física neutra, destinada apenas a permitir que o leitor a imagine.",
+        "b": "prova documental do adultério, apresentada no momento decisivo da trama.",
+        "c": "recurso de humor, que alivia a tensão do enredo.",
+        "d": "marca de erudição do narrador, sem consequência para a trama.",
+        "e": "juízo que antecede os fatos e prepara a leitura das cenas seguintes."
+      },
+      "resposta": "e",
+      "explicacao": "O último parágrafo diz que as expressões carregam um juízo antes de qualquer fato e que, ao chegar às cenas que deveriam decidir a questão, o leitor já foi preparado para lê-las de um modo determinado. Neutralidade é o oposto disso, já que as imagens qualificam moralmente; prova documental é exatamente o que o romance não fornece; o efeito não é cômico; e a consequência para a trama é decisiva, não ornamental."
+    },
+    {
+      "id": "literatura-17",
+      "textoId": "lit-c4-dom-casmurro",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "O projeto que Bento Santiago declara na abertura do romance é",
+      "alternativas": {
+        "a": "registrar a história do bairro em que passou a infância.",
+        "b": "responder publicamente a uma acusação que lhe foi feita.",
+        "c": "atar as duas pontas da vida, restituindo na velhice a adolescência.",
+        "d": "escrever um tratado sobre a formação dos seminaristas.",
+        "e": "transmitir ao filho a memória da família."
+      },
+      "resposta": "c",
+      "explicacao": "É o que o primeiro parágrafo registra, e a casa do Engenho Novo que reproduz a de Matacavalos é a tentativa material de executar esse projeto. O registro do bairro e o tratado sobre seminaristas não são anunciados; o narrador acusa, e não se defende de acusação alheia; e Ezequiel é objeto da suspeita do narrador, não destinatário de uma memória de família."
+    },
+    {
+      "id": "literatura-18",
+      "textoId": "lit-c4-dom-casmurro",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A promessa feita por Dona Glória cumpre, na trama, a função de",
+      "alternativas": {
+        "a": "revelar ao leitor a origem da fortuna da família.",
+        "b": "explicar o motivo da mudança para o Engenho Novo.",
+        "c": "provocar a ruptura entre Bentinho e Escobar.",
+        "d": "justificar a ausência do narrador durante a juventude de Capitu.",
+        "e": "criar o obstáculo que separa Bentinho de Capitu e põe o enredo em marcha."
+      },
+      "resposta": "e",
+      "explicacao": "É a promessa que destina Bentinho ao seminário, e é o seminário que interpõe um obstáculo entre ele e a vizinha de infância, dando início ao movimento do enredo. A origem da fortuna não é tratada; a mudança para o Engenho Novo é decisão do narrador velho, décadas depois, e serve ao projeto de reconstituir a casa antiga; a relação com Escobar nasce justamente dentro do seminário, em vez de romper-se ali; e Bentinho e Capitu permanecem próximos, o que exclui a ausência durante a juventude dela."
+    }
+  ]
+}

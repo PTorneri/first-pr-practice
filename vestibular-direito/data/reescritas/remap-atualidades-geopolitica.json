@@ -1,0 +1,427 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027atualidades-geopolitica\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "atualidades-geopolitica",
+    "questoes":  {
+                     "atualidades-geopolitica-01":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-03":  {
+                                                        "de":  "b",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-07":  {
+                                                        "de":  "e",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-10":  {
+                                                        "de":  "b",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-12":  {
+                                                        "de":  "d",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-13":  {
+                                                        "de":  "e",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-14":  {
+                                                        "de":  "a",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-15":  {
+                                                        "de":  "b",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-16":  {
+                                                        "de":  "c",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-18":  {
+                                                        "de":  "e",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-20":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-25":  {
+                                                        "de":  "e",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-27":  {
+                                                        "de":  "b",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-28":  {
+                                                        "de":  "c",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-30":  {
+                                                        "de":  "e",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-32":  {
+                                                        "de":  "b",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-33":  {
+                                                        "de":  "c",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-34":  {
+                                                        "de":  "d",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-35":  {
+                                                        "de":  "e",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-36":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-37":  {
+                                                        "de":  "b",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-40":  {
+                                                        "de":  "d",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-41":  {
+                                                        "de":  "e",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-42":  {
+                                                        "de":  "a",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-45":  {
+                                                        "de":  "b",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-46":  {
+                                                        "de":  "c",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-47":  {
+                                                        "de":  "d",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-50":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-51":  {
+                                                        "de":  "b",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-52":  {
+                                                        "de":  "c",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-53":  {
+                                                        "de":  "d",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-54":  {
+                                                        "de":  "e",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-55":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-56":  {
+                                                        "de":  "b",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-58":  {
+                                                        "de":  "d",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-60":  {
+                                                        "de":  "e",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-61":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-62":  {
+                                                        "de":  "b",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-63":  {
+                                                        "de":  "c",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-64":  {
+                                                        "de":  "d",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-65":  {
+                                                        "de":  "e",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-66":  {
+                                                        "de":  "a",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-69":  {
+                                                        "de":  "d",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-70":  {
+                                                        "de":  "e",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-71":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-72":  {
+                                                        "de":  "b",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-74":  {
+                                                        "de":  "d",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-75":  {
+                                                        "de":  "e",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-77":  {
+                                                        "de":  "b",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-78":  {
+                                                        "de":  "c",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-80":  {
+                                                        "de":  "d",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-81":  {
+                                                        "de":  "e",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-86":  {
+                                                        "de":  "d",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-87":  {
+                                                        "de":  "e",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-88":  {
+                                                        "de":  "a",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-90":  {
+                                                        "de":  "c",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-91":  {
+                                                        "de":  "d",
+                                                        "para":  "a"
+                                                    },
+                     "atualidades-geopolitica-92":  {
+                                                        "de":  "e",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-93":  {
+                                                        "de":  "a",
+                                                        "para":  "b"
+                                                    },
+                     "atualidades-geopolitica-94":  {
+                                                        "de":  "b",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-96":  {
+                                                        "de":  "d",
+                                                        "para":  "c"
+                                                    },
+                     "atualidades-geopolitica-97":  {
+                                                        "de":  "e",
+                                                        "para":  "d"
+                                                    },
+                     "atualidades-geopolitica-99":  {
+                                                        "de":  "a",
+                                                        "para":  "e"
+                                                    },
+                     "atualidades-geopolitica-100":  {
+                                                         "de":  "b",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-101":  {
+                                                         "de":  "c",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-103":  {
+                                                         "de":  "e",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-104":  {
+                                                         "de":  "a",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-105":  {
+                                                         "de":  "b",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-106":  {
+                                                         "de":  "c",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-107":  {
+                                                         "de":  "d",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-108":  {
+                                                         "de":  "e",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-109":  {
+                                                         "de":  "a",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-111":  {
+                                                         "de":  "c",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-112":  {
+                                                         "de":  "d",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-113":  {
+                                                         "de":  "e",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-114":  {
+                                                         "de":  "a",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-115":  {
+                                                         "de":  "b",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-116":  {
+                                                         "de":  "c",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-118":  {
+                                                         "de":  "d",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-119":  {
+                                                         "de":  "e",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-120":  {
+                                                         "de":  "a",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-121":  {
+                                                         "de":  "b",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-122":  {
+                                                         "de":  "c",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-124":  {
+                                                         "de":  "e",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-128":  {
+                                                         "de":  "d",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-129":  {
+                                                         "de":  "e",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-130":  {
+                                                         "de":  "a",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-131":  {
+                                                         "de":  "b",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-132":  {
+                                                         "de":  "c",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-133":  {
+                                                         "de":  "d",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-134":  {
+                                                         "de":  "e",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-136":  {
+                                                         "de":  "b",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-137":  {
+                                                         "de":  "c",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-138":  {
+                                                         "de":  "d",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-139":  {
+                                                         "de":  "e",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-140":  {
+                                                         "de":  "a",
+                                                         "para":  "d"
+                                                     },
+                     "atualidades-geopolitica-142":  {
+                                                         "de":  "c",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-143":  {
+                                                         "de":  "d",
+                                                         "para":  "c"
+                                                     },
+                     "atualidades-geopolitica-144":  {
+                                                         "de":  "e",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-145":  {
+                                                         "de":  "a",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-147":  {
+                                                         "de":  "b",
+                                                         "para":  "e"
+                                                     },
+                     "atualidades-geopolitica-148":  {
+                                                         "de":  "c",
+                                                         "para":  "a"
+                                                     },
+                     "atualidades-geopolitica-149":  {
+                                                         "de":  "d",
+                                                         "para":  "b"
+                                                     },
+                     "atualidades-geopolitica-150":  {
+                                                         "de":  "e",
+                                                         "para":  "c"
+                                                     }
+                 }
+}

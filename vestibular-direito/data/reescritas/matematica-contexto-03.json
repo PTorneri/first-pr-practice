@@ -1,0 +1,76 @@
+{
+  "_comentario": [
+    "Lote 3 de 4: as 13 questoes que sobraram sem qualquer situacao -- matrizes",
+    "soltas, retas sem plano, somas de sequencia sem objeto. Sao as unicas do banco",
+    "em que o enunciado ainda diz 'Considere a matriz A' e nada mais.",
+    "",
+    "Todas viram Insper, porque e exatamente o molde da banca: o enunciado ENTREGA",
+    "a regra -- uma lei de formacao, uma tabela de coeficientes, um processo de",
+    "eliminacao -- e o trabalho e executa-la sem escorregar. Enfiar essas questoes",
+    "numa narrativa social a forca produziria o pior dos dois mundos: uma historia",
+    "decorativa em torno de uma conta que continua abstrata.",
+    "",
+    "O que muda e o REFERENTE: a matriz passa a registrar alguma coisa (estoque por",
+    "loja, tempo de montagem por posto, custo por rota), a reta passa a descrever",
+    "alguma coisa (traçado de uma via, custo que cresce com a producao), e a soma de",
+    "impares passa a contar alguma coisa. A conta e identica -- o",
+    "recontextualiza.ps1 confere numero a numero."
+  ],
+  "subtopic": "matematica-rlm",
+  "questoes": {
+    "matematica-rlm-53": {
+      "banca": "insper",
+      "enunciado": "Uma fábrica monta um quadro de tempos de produção em que a linha i indica o posto de trabalho e a coluna j indica o turno. O quadro tem ordem 2×3 e é preenchido pela regra a_ij = 2i − j. Qual é o valor registrado na célula a_23?"
+    },
+    "matematica-rlm-54": {
+      "banca": "insper",
+      "enunciado": "Uma transportadora organiza numa matriz de ordem 3×3 os custos de três rotas em três faixas de peso, obtendo A = [[1, 2, 0], [3, 1, 4], [0, 2, 1]]. Um indicador usado internamente pela empresa é o determinante dessa matriz. Qual é esse determinante, calculado pela regra de Sarrus?"
+    },
+    "matematica-rlm-117": {
+      "banca": "insper",
+      "enunciado": "No projeto de um loteamento, a via principal r é traçada pelos pontos A(0, 2) e B(3, 8). Uma segunda via, s, deve ser paralela a r e passar pelo ponto C(1, 1). Qual é a equação da via s?"
+    },
+    "matematica-rlm-121": {
+      "banca": "insper",
+      "enunciado": "Um sistema de estoque registra numa matriz de ordem 2×3 a quantidade de três produtos em duas lojas, obtendo A = [[4, 7, 1], [2, 5, 9]]. O relatório mensal exige a mesma informação disposta com os produtos nas linhas e as lojas nas colunas. Qual é a matriz transposta de A (Aᵀ), de ordem 3×2?"
+    },
+    "matematica-rlm-122": {
+      "banca": "insper",
+      "enunciado": "Uma oficina fecha dois pedidos que dão origem ao sistema 2x + y = 11 e x + 3y = 13, em que x e y são as quantidades de duas peças. A matriz dos coeficientes é A = [[2, 1], [1, 3]]. Usando a regra de Cramer, determine o valor de x."
+    },
+    "matematica-rlm-126": {
+      "banca": "insper",
+      "enunciado": "Um depósito empilha caixas seguindo uma regra: a primeira camada recebe 1 caixa, a segunda recebe 3, a terceira recebe 5, e assim por diante, sempre com dois a mais que a camada anterior. Qual é o total de caixas depois de montadas as 15 primeiras camadas (1+3+5+7+...+29)?",
+      "_numerosNovos": "1, 3 e 5 aparecem duas vezes no enunciado novo: uma na descrição da regra e outra na soma entre parênteses, que o enunciado antigo já trazia. São as mesmas parcelas, não parcelas a mais.",
+      "numerosNovos": [1, 3, 5]
+    },
+    "matematica-rlm-135": {
+      "banca": "insper",
+      "enunciado": "Uma planilha registra na matriz A = [[2, −1], [3, 4]] a variação de estoque de dois itens em dois depósitos. Para simular um cenário em que todo o movimento triplica, aplica-se o produto escalar 3A, isto é, multiplica-se a matriz pelo número 3. Qual é a matriz resultante?"
+    },
+    "matematica-rlm-136": {
+      "banca": "insper",
+      "enunciado": "Uma montadora registra em A = [[1, 2], [3, 4]] a quantidade de duas peças usadas em dois modelos e em B = [[2, 0], [1, 5]] o custo de cada peça em dois fornecedores, ambas de ordem 2×2. O custo por modelo e por fornecedor sai do produto A × B. Qual é essa matriz?"
+    },
+    "matematica-rlm-141": {
+      "banca": "insper",
+      "enunciado": "Numa planta, o traçado de um duto obedece à equação 2x + 3y = 12. Em que ponto esse traçado cruza o eixo y, ou seja, qual é o valor de y quando x = 0?"
+    },
+    "matematica-rlm-142": {
+      "banca": "insper",
+      "enunciado": "Num levantamento topográfico, uma antena está no ponto P(4, 3) e o eixo de uma estrada é descrito pela reta r de equação 3x + 4y − 12 = 0. Qual é a distância da antena até o eixo da estrada?"
+    },
+    "matematica-rlm-145": {
+      "banca": "insper",
+      "enunciado": "Um controle de produção gera o sistema x + y = 10 e 2x − y = 5, representado pela matriz aumentada [[1, 1, 10], [2, −1, 5]]. O procedimento adotado manda eliminar x na segunda linha, substituindo a linha 2 pela linha 2 menos 2 vezes a linha 1. Qual é a nova segunda linha?"
+    },
+    "matematica-rlm-146": {
+      "banca": "insper",
+      "enunciado": "Um sistema de conversão entre duas unidades de medida é descrito pela matriz A = [[1, 2], [3, 4]]. A conversão no sentido inverso exige a matriz inversa de A. Qual é essa matriz A⁻¹?"
+    },
+    "matematica-rlm-148": {
+      "banca": "insper",
+      "enunciado": "Um planejamento de compras gera o sistema 2x + 4y = 6 e x + 2y = 3, em que x e y são as quantidades de dois insumos. Antes de resolver, o analista calcula o determinante da matriz dos coeficientes. A partir desse valor, é correto concluir que:"
+    }
+  }
+}

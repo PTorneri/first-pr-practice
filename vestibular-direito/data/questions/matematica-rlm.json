@@ -4,7 +4,7 @@
                      {
                          "id":  "matematica-rlm-01",
                          "texto_apoio":  "",
-                         "enunciado":  "Um produto custava R$ 250,00 e sofreu um aumento de 12%. Qual é o novo preço do produto?",
+                         "enunciado":  "Uma padaria de bairro manteve por muito tempo o preço da cesta de pães em R$ 250,00. Com a alta do trigo, o dono decidiu repassar aos clientes um aumento de 12%. Qual passou a ser o preço da cesta?",
                          "alternativas":  {
                                               "a":  "R$ 262,00",
                                               "b":  "R$ 270,00",
@@ -14,12 +14,13 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O aumento corresponde a 250 × 0,12 = 30. Somando ao valor original: 250 + 30 = 280. Logo, o novo preço é R$ 280,00.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-02",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma loja oferece dois descontos sucessivos de 10% e 20% sobre um produto de R$ 500,00. Qual é o preço final pago pelo cliente, aplicando-se um desconto após o outro?",
+                         "enunciado":  "Numa liquidação, uma loja anuncia 10% de desconto na etiqueta e mais 20% no caixa, este último calculado sobre o valor já reduzido pelo primeiro. Uma cliente leva um casaco de R$ 500,00. Quanto ela paga?",
                          "alternativas":  {
                                               "a":  "R$ 360,00",
                                               "b":  "R$ 400,00",
@@ -29,12 +30,13 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Descontos sucessivos incidem um sobre o valor já reduzido pelo anterior: 500 × 0,90 = 450; em seguida, 450 × 0,80 = 360. Não se somam os percentuais diretamente (30%), pois isso resultaria em um valor incorreto de R$ 350,00.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-03",
                          "texto_apoio":  "",
-                         "enunciado":  "Se 8 operários constroem um muro em 15 dias, todos trabalhando no mesmo ritmo, quantos dias serão necessários para que 12 operários construam o mesmo muro, mantido esse ritmo de trabalho?",
+                         "enunciado":  "Numa obra vale a seguinte regra: todos os operários trabalham no mesmo ritmo, e esse ritmo não muda com o tamanho da equipe. Com 8 operários, um muro fica pronto em 15 dias. Em quantos dias 12 operários concluem o mesmo muro?",
                          "alternativas":  {
                                               "a":  "18 dias",
                                               "b":  "12 dias",
@@ -44,12 +46,13 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "O número de operários e o número de dias são grandezas inversamente proporcionais. Assim, 8 × 15 = 12 × x, logo x = 120 ÷ 12 = 10 dias.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-04",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma máquina imprime 4.500 folhas em 3 horas, funcionando em ritmo constante. Quantas folhas serão impressas por 2 máquinas idênticas, funcionando simultaneamente durante 5 horas?",
+                         "enunciado":  "Uma gráfica opera sob a regra de que cada máquina imprime em ritmo constante e de que as máquinas não interferem umas nas outras. Uma delas imprime 4.500 folhas em 3 horas. Quantas folhas 2 máquinas idênticas imprimem funcionando ao mesmo tempo durante 5 horas?",
                          "alternativas":  {
                                               "a":  "12.000 folhas",
                                               "b":  "7.500 folhas",
@@ -59,12 +62,13 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Cada máquina imprime 4.500 ÷ 3 = 1.500 folhas por hora. Com 2 máquinas funcionando por 5 horas: 2 × 5 × 1.500 = 15.000 folhas.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-05",
                          "texto_apoio":  "",
-                         "enunciado":  "Em uma sala de aula, a razão entre o número de meninos e o número de meninas é de 3 para 5. Sabendo que a sala tem 40 alunos no total, quantos são meninos?",
+                         "enunciado":  "Numa turma de teatro da escola, para cada 3 meninos inscritos há 5 meninas. A turma tem 40 alunos ao todo. Quantos são os meninos?",
                          "alternativas":  {
                                               "a":  "20",
                                               "b":  "12",
@@ -74,12 +78,13 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "A proporção 3:5 divide o total em 3 + 5 = 8 partes iguais. Cada parte corresponde a 40 ÷ 8 = 5 alunos. Como os meninos correspondem a 3 partes: 3 × 5 = 15 meninos.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-06",
                          "texto_apoio":  "",
-                         "enunciado":  "Um capital de R$ 2.000,00 é aplicado a juros simples, à taxa de 3% ao mês. Qual será o montante (capital mais juros) ao final de 6 meses?",
+                         "enunciado":  "Um microempreendedor separou R$ 2.000,00 do capital de giro e aplicou o valor numa modalidade que rende juros simples à taxa de 3% ao mês. Se ele não movimentar o dinheiro, qual será o montante ao final de 6 meses?",
                          "alternativas":  {
                                               "a":  "R$ 2.240,00",
                                               "b":  "R$ 2.180,00",
@@ -89,12 +94,13 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Nos juros simples, J = C × i × t = 2.000 × 0,03 × 6 = 360. O montante é M = C + J = 2.000 + 360 = R$ 2.360,00.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-07",
                          "texto_apoio":  "",
-                         "enunciado":  "Um capital de R$ 1.000,00 é aplicado a juros compostos, à taxa de 10% ao ano. Qual será o montante ao final de 2 anos?",
+                         "enunciado":  "Uma família decidiu aplicar os R$ 1.000,00 recebidos na restituição do imposto de renda em um investimento que rende juros compostos à taxa de 10% ao ano. Qual será o montante ao final de 2 anos?",
                          "alternativas":  {
                                               "a":  "R$ 1.100,00",
                                               "b":  "R$ 1.200,00",
@@ -104,12 +110,13 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Nos juros compostos, o montante é dado por M = C × (1 + i)^t = 1.000 × (1,10)² = 1.000 × 1,21 = R$ 1.210,00. Diferentemente dos juros simples (que dariam R$ 1.200,00), os juros compostos incidem também sobre os juros do período anterior.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-08",
                          "texto_apoio":  "",
-                         "enunciado":  "O preço de um produto era R$ 80,00 em janeiro. Em fevereiro, o preço sofreu um aumento de 25%. Em março, o novo preço (de fevereiro) sofreu uma redução de 20%. Qual é o preço do produto em março, comparado ao preço original de janeiro?",
+                         "enunciado":  "Uma farmácia vendia determinado medicamento por R$ 80,00 em janeiro. Em fevereiro, repassou ao consumidor um aumento de 25% cobrado pelo fabricante. Em março, com a chegada de um concorrente na mesma rua, aplicou uma redução de 20% sobre o preço praticado em fevereiro. Qual é o preço de março, comparado ao de janeiro?",
                          "alternativas":  {
                                               "a":  "R$ 96,00, valor maior que o de janeiro",
                                               "b":  "R$ 84,00, valor maior que o de janeiro",
@@ -119,12 +126,13 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Em fevereiro: 80 × 1,25 = 100. Em março: 100 × 0,80 = 80. Como 1,25 × 0,80 = 1,00 exatamente, o preço final retorna ao valor original de R$ 80,00.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-09",
                          "texto_apoio":  "",
-                         "enunciado":  "As notas obtidas por um aluno em cinco avaliações foram: 7,0; 8,5; 6,0; 9,0 e 7,5. Qual é a média aritmética dessas notas?",
+                         "enunciado":  "Um candidato anotou as notas que obteve nos cinco últimos simulados: 7,0; 8,5; 6,0; 9,0 e 7,5. Qual é a média aritmética dessas notas?",
                          "alternativas":  {
                                               "a":  "7,8",
                                               "b":  "7,4",
@@ -134,7 +142,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A soma das notas é 7,0 + 8,5 + 6,0 + 9,0 + 7,5 = 38,0. Dividindo pelo número de avaliações: 38,0 ÷ 5 = 7,6.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-10",
@@ -149,7 +158,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Colocando os valores em ordem crescente: 3, 5, 5, 7, 8, 9, 12. A moda é o valor mais frequente, 5 (aparece duas vezes). Como há 7 valores, a mediana é o 4º valor da sequência ordenada, que é 7.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-11",
@@ -164,7 +174,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A média ponderada é: (6,0 × 2 + 7,0 × 3 + 8,0 × 5) ÷ (2 + 3 + 5) = (12 + 21 + 40) ÷ 10 = 73 ÷ 10 = 7,3.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-16",
@@ -179,7 +190,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O crescimento percentual é calculado por: (valor final − valor inicial) ÷ valor inicial × 100. Assim: (18.000 − 12.000) ÷ 12.000 × 100 = 6.000 ÷ 12.000 × 100 = 50%.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-17",
@@ -194,12 +206,13 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A soma dos percentuais informados é 40% + 25% + 20% = 85%. O restante corresponde a 100% − 85% = 15%. Como 15% de 300 é igual a 0,15 × 300 = 45, esse é o número de estudantes que preferem outros cursos.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-18",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma receita culinária, destinada a 6 pessoas, utiliza 450 g de farinha de trigo. Mantendo a mesma proporção entre os ingredientes, quantos gramas de farinha serão necessários para preparar essa receita para 10 pessoas?",
+                         "enunciado":  "Uma cozinha industrial trabalha com a seguinte regra: a quantidade de cada ingrediente é proporcional ao número de porções preparadas. Uma receita para 6 pessoas leva 450 g de farinha de trigo. Quantos gramas de farinha a mesma receita exige para 10 pessoas?",
                          "alternativas":  {
                                               "a":  "675 g",
                                               "b":  "800 g",
@@ -209,7 +222,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A quantidade de farinha por pessoa é 450 ÷ 6 = 75 g. Para 10 pessoas, mantendo a proporção: 75 × 10 = 750 g.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-19",
@@ -224,7 +238,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Substituindo x = 12 na função: C(12) = 3 × 12 + 10 = 36 + 10 = 46. Logo, o custo da corrida é R$ 46,00.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-20",
@@ -239,7 +254,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "Para L(x) = 0: 5x − 20 = 0 → 5x = 20 → x = 4. Ou seja, a empresa precisa vender 4 centenas (400 unidades) para que o lucro deixe de ser negativo.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-21",
@@ -254,7 +270,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "O termo geral de uma PA é an = a1 + (n − 1) × r. Assim, a10 = 5 + (10 − 1) × 4 = 5 + 36 = 41.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-22",
@@ -269,7 +286,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A soma dos n primeiros termos de uma PA é dada por Sn = n × (a1 + an) ÷ 2. Assim, S10 = 10 × (5 + 41) ÷ 2 = 10 × 46 ÷ 2 = 230.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-23",
@@ -284,7 +302,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O termo geral de uma PG é an = a1 × q^(n−1). Assim, a5 = 3 × 2^4 = 3 × 16 = 48.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-24",
@@ -299,7 +318,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Os números pares entre 1 e 6 são 2, 4 e 6, totalizando 3 resultados favoráveis em 6 possíveis. A probabilidade é 3/6 = 1/2, ou seja, 50%.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-25",
@@ -314,7 +334,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "A probabilidade é dada pelo número de casos favoráveis dividido pelo número total de casos possíveis: 4 ÷ 10 = 0,40, ou seja, 40%.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-26",
@@ -329,7 +350,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "A área de um retângulo é calculada pelo produto entre largura e comprimento: 8 × 5 = 40 m².",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-27",
@@ -344,7 +366,8 @@
                                           },
                          "resposta":  "d",
                          "explicacao":  "O perímetro de um retângulo é dado por 2 × (comprimento + largura) = 2 × (12 + 7) = 2 × 19 = 38 m.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-28",
@@ -359,7 +382,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "A área de um triângulo é dada por (base × altura) ÷ 2. Assim: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm².",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-29",
@@ -374,7 +398,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "A área de um círculo é dada por A = π × r². Assim: A ≈ 3,14 × 7² = 3,14 × 49 = 153,86 m².",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-30",
@@ -389,7 +414,8 @@
                                           },
                          "resposta":  "b",
                          "explicacao":  "Somando as duas equações: (x + y) + (x − y) = 20 + 4 → 2x = 24 → x = 12. Substituindo em x + y = 20, obtém-se y = 8.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-31",
@@ -404,7 +430,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Substituindo x = y + 3 na primeira equação: 2(y + 3) + 3y = 16 → 2y + 6 + 3y = 16 → 5y = 10 → y = 2. Logo, x = 2 + 3 = 5, e x + y = 5 + 2 = 7.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-32",
@@ -419,7 +446,8 @@
                                           },
                          "resposta":  "e",
                          "explicacao":  "Pelo princípio da inclusão-exclusão: |A ∪ B| = |A| + |B| − |A ∩ B| = 30 + 25 − 10 = 45.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-33",
@@ -434,7 +462,8 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "O número de pessoas que gostam de pelo menos uma das bebidas é |A ∪ B| = 20 + 25 − 8 = 37. Logo, as que não gostam de nenhuma das duas são 50 − 37 = 13.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-34",
@@ -449,7 +478,8 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "O número de formas de organizar 4 elementos distintos em sequência é dado pelo fatorial de 4: 4! = 4 × 3 × 2 × 1 = 24.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-35",
@@ -464,12 +494,13 @@
                                           },
                          "resposta":  "c",
                          "explicacao":  "Como a ordem não importa, trata-se de uma combinação: C(5,2) = 5! ÷ (2! × 3!) = (5 × 4) ÷ (2 × 1) = 20 ÷ 2 = 10.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-36",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere as matrizes A = [[2, 5], [1, 4]] e B = [[3, 0], [2, 6]], ambas de ordem 2×2. Qual é a matriz resultante da soma A + B?",
+                         "enunciado":  "Um sistema de estoque registra, numa matriz de ordem 2×2, a quantidade de dois produtos em duas lojas. O estoque atual é dado por A = [[2, 5], [1, 4]] e a reposição que chega ao depósito, na mesma disposição, é dada por B = [[3, 0], [2, 6]]. Qual matriz representa o estoque depois da reposição, ou seja, A + B?",
                          "alternativas":  {
                                               "a":  "[[5, 5], [2, 10]]",
                                               "b":  "[[5, 5], [3, 4]]",
@@ -480,12 +511,13 @@
                          "resposta":  "c",
                          "explicacao":  "Na soma de matrizes, cada elemento é somado com o elemento correspondente de mesma posição: A+B = [[2+3, 5+0], [1+2, 4+6]] = [[5,5],[3,10]]. Um erro comum é multiplicar os elementos correspondentes em vez de somá-los, ou errar a soma em apenas uma posição.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-37",
                          "texto_apoio":  "",
-                         "enunciado":  "Um televisor está à venda por R$ 340,00 após um desconto de 15% sobre o preço original. Qual era o preço original do televisor, antes do desconto?",
+                         "enunciado":  "Uma loja anuncia um televisor por R$ 340,00 e informa que esse valor já contempla um desconto de 15% sobre o preço de etiqueta. Qual era o preço de etiqueta?",
                          "alternativas":  {
                                               "a":  "R$ 355,00",
                                               "b":  "R$ 400,00",
@@ -496,12 +528,13 @@
                          "resposta":  "b",
                          "explicacao":  "Se R$ 340,00 corresponde a 85% do preço original (100% − 15%), então preço original = 340 ÷ 0,85 = R$ 400,00. Não se deve simplesmente somar 15% de 340 (o que daria R$ 391,00), pois o desconto foi aplicado sobre o preço original, não sobre o preço já reduzido.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-38",
                          "texto_apoio":  "",
-                         "enunciado":  "No plano cartesiano, os pontos A(2, 3) e B(6, 6) representam as extremidades de um cabo esticado entre dois postes, em uma planta na qual 1 unidade equivale a 1 metro. Qual é o comprimento desse cabo, ou seja, a distância entre os pontos A e B?",
+                         "enunciado":  "Na planta de um loteamento, em que 1 unidade equivale a 1 metro, os pontos A(2, 3) e B(6, 6) marcam os dois postes entre os quais será esticado um cabo. Qual é o comprimento do cabo?",
                          "alternativas":  {
                                               "a":  "6 metros",
                                               "b":  "4 metros",
@@ -512,12 +545,13 @@
                          "resposta":  "e",
                          "explicacao":  "A distância entre dois pontos é dada por d = √[(x2−x1)² + (y2−y1)²]. Assim, d = √[(6−2)² + (6−3)²] = √[16+9] = √25 = 5 metros. Um erro comum é somar diretamente as diferenças de coordenadas (4+3=7) sem elevá-las ao quadrado, ou esquecer de extrair a raiz quadrada ao final (o que daria 25).",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-39",
                          "texto_apoio":  "",
-                         "enunciado":  "O preço de uma mensalidade escolar sofreu dois reajustes seguidos: primeiro um aumento de 20%, e, três meses depois, um novo aumento de 10% sobre o valor já reajustado. Qual foi o percentual de aumento total acumulado, do início ao fim desses dois reajustes?",
+                         "enunciado":  "A mensalidade de uma escola sofreu dois reajustes seguidos: primeiro um aumento de 20% e, um trimestre depois, outro de 10% aplicado sobre o valor já reajustado. Qual foi o aumento percentual acumulado no período?",
                          "alternativas":  {
                                               "a":  "30%",
                                               "b":  "22%",
@@ -528,12 +562,13 @@
                          "resposta":  "c",
                          "explicacao":  "Os aumentos sucessivos multiplicam-se: 1,20 × 1,10 = 1,32, ou seja, um aumento acumulado de 32%, e não a simples soma dos percentuais (30%), pois o segundo aumento incide sobre o valor já reajustado pelo primeiro.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-40",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma lata de tinta com 5 litros é suficiente para pintar 40 m² de parede. Mantendo o mesmo rendimento, quantos litros de tinta serão necessários para pintar 96 m²?",
+                         "enunciado":  "Uma equipe de pintura opera sob a regra de que o rendimento da tinta é constante por metro quadrado de parede. Uma lata de 5 litros cobre 40 m². Quantos litros são necessários para cobrir 96 m²?",
                          "alternativas":  {
                                               "a":  "15 litros",
                                               "b":  "10 litros",
@@ -544,12 +579,13 @@
                          "resposta":  "c",
                          "explicacao":  "Cada litro rende 40 ÷ 5 = 8 m². Para 96 m²: 96 ÷ 8 = 12 litros.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-41",
                          "texto_apoio":  "",
-                         "enunciado":  "Três torneiras idênticas, abertas simultaneamente, enchem uma piscina em 8 horas. Mantendo a mesma vazão por torneira, em quantas horas quatro torneiras iguais encherão a mesma piscina?",
+                         "enunciado":  "Um sistema de abastecimento segue a regra de que cada torneira despeja o mesmo volume por hora, qualquer que seja o número de torneiras abertas. Três torneiras idênticas, abertas juntas, enchem uma piscina em 8 horas. Em quantas horas quatro torneiras iguais enchem a mesma piscina?",
                          "alternativas":  {
                                               "a":  "6 horas",
                                               "b":  "4 horas",
@@ -560,12 +596,13 @@
                          "resposta":  "a",
                          "explicacao":  "Torneiras e tempo são inversamente proporcionais: 3 × 8 = 4 × x → x = 24 ÷ 4 = 6 horas.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-42",
                          "texto_apoio":  "",
-                         "enunciado":  "Trabalhando 5 horas por dia, 6 pedreiros constroem 30 m de um muro em 6 dias, todos no mesmo ritmo. Mantido esse ritmo de trabalho, quantos dias serão necessários para que 8 pedreiros, trabalhando 6 horas por dia, construam 48 m de um muro semelhante?",
+                         "enunciado":  "Numa obra vale a regra de que todos os pedreiros trabalham no mesmo ritmo e de que a extensão construída é proporcional ao número de pedreiros e ao total de horas trabalhadas. Trabalhando 5 horas por dia, 6 pedreiros erguem 30 m de muro em 6 dias. Quantos dias levam 8 pedreiros, trabalhando 6 horas por dia, para erguer 48 m de um muro semelhante?",
                          "alternativas":  {
                                               "a":  "6 dias",
                                               "b":  "8 dias",
@@ -576,12 +613,13 @@
                          "resposta":  "a",
                          "explicacao":  "A quantidade de muro construída é proporcional ao número de pedreiros, às horas diárias e aos dias trabalhados. A taxa de produção é 30 ÷ (6×5×6) = 1/6 m por pedreiro-hora. Para 48 m com 8 pedreiros e 6h/dia: dias = 48 ÷ (8×6×1/6) = 48 ÷ 8 = 6 dias.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-43",
                          "texto_apoio":  "",
-                         "enunciado":  "Calcule o coeficiente angular da reta que passa pelos pontos A(−2, −1) e B(3, 9).",
+                         "enunciado":  "Numa planilha de custos, o custo total varia linearmente com a quantidade produzida. Dois registros dessa reta foram anotados nos pontos A(−2, −1) e B(3, 9). Qual é o coeficiente angular da reta?",
                          "alternativas":  {
                                               "a":  "1/2",
                                               "b":  "5",
@@ -592,12 +630,13 @@
                          "resposta":  "c",
                          "explicacao":  "O coeficiente angular é m = (y2−y1)/(x2−x1) = (9−(−1))/(3−(−2)) = 10/5 = 2. Um erro comum é inverter a ordem da subtração em apenas uma das coordenadas (gerando erro de sinal) ou esquecer de dividir pela diferença das abscissas, usando apenas o numerador como resposta.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-44",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma reta passa pelos pontos A(1, 2) e B(4, 11). Qual é a equação dessa reta, na forma y = mx + b?",
+                         "enunciado":  "O consumo acumulado de um equipamento cresce linearmente com o tempo de uso, e dois registros foram anotados nos pontos A(1, 2) e B(4, 11). Qual é a equação dessa reta, na forma y = mx + b?",
                          "alternativas":  {
                                               "a":  "y = 3x − 1",
                                               "b":  "y = 3x − 2",
@@ -608,12 +647,13 @@
                          "resposta":  "a",
                          "explicacao":  "O coeficiente angular é m = (y2−y1)/(x2−x1) = (11−2)/(4−1) = 9/3 = 3. Substituindo o ponto A na equação y = mx + b: 2 = 3×1 + b → b = −1. A equação da reta é y = 3x − 1. O erro mais citado nesse tipo de questão é inverter a ordem dos pontos ao calcular m (o que trocaria o sinal do coeficiente angular) ou inverter numerador e denominador da razão.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-45",
                          "texto_apoio":  "",
-                         "enunciado":  "A taxa de desemprego de uma cidade caiu de 12% para 9% da força de trabalho em um ano. Qual foi a redução, em pontos percentuais, dessa taxa?",
+                         "enunciado":  "Num município do interior, a taxa de desemprego caiu de 12% para 9% da força de trabalho no intervalo de um ano. De quantos pontos percentuais foi essa queda?",
                          "alternativas":  {
                                               "a":  "33 pontos percentuais",
                                               "b":  "4 pontos percentuais",
@@ -624,12 +664,13 @@
                          "resposta":  "c",
                          "explicacao":  "A redução em pontos percentuais é simplesmente a diferença entre as taxas: 12% − 9% = 3 pontos percentuais. Não se deve confundir com a redução percentual relativa, que seria (3÷12)×100 = 25%.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-46",
                          "texto_apoio":  "",
-                         "enunciado":  "Em um bairro, o índice de criminalidade era de 40 ocorrências por mês e caiu para 30 ocorrências por mês após a instalação de câmeras. Qual foi a redução percentual (relativa) do índice de criminalidade?",
+                         "enunciado":  "Depois da instalação de câmeras nas vias principais, um bairro passou de 40 para 30 ocorrências registradas por mês. Qual foi a redução percentual do número de ocorrências?",
                          "alternativas":  {
                                               "a":  "25%",
                                               "b":  "10%",
@@ -640,12 +681,13 @@
                          "resposta":  "a",
                          "explicacao":  "A redução percentual relativa é calculada em relação ao valor inicial: (40−30) ÷ 40 × 100 = 25%. Um erro comum é calcular em relação ao valor final (30), o que daria incorretamente 33%.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-47",
                          "texto_apoio":  "",
-                         "enunciado":  "Um corredor percorre 10 km em 50 minutos, mantendo ritmo constante. Qual é a sua velocidade média, em quilômetros por hora?",
+                         "enunciado":  "Um corredor amador completa o percurso de 10 km de uma prova de rua em 50 minutos, mantendo ritmo constante. Qual foi a sua velocidade média, em quilômetros por hora?",
                          "alternativas":  {
                                               "a":  "10 km/h",
                                               "b":  "15 km/h",
@@ -656,12 +698,13 @@
                          "resposta":  "c",
                          "explicacao":  "50 minutos equivalem a 50/60 = 5/6 de hora. A velocidade média é distância ÷ tempo = 10 ÷ (5/6) = 10 × 6/5 = 12 km/h.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-48",
                          "texto_apoio":  "",
-                         "enunciado":  "Dois ciclistas partem, no mesmo instante, de pontos opostos de uma estrada reta de 60 km de extensão, pedalando um em direção ao outro. Um deles mantém velocidade constante de 18 km/h e o outro, 22 km/h. Depois de quanto tempo os dois se encontrarão?",
+                         "enunciado":  "Dois ciclistas partem no mesmo instante das extremidades opostas de uma estrada reta de 60 km, pedalando um ao encontro do outro. Um deles mantém velocidade constante de 18 km/h e o outro, de 22 km/h. Depois de quanto tempo os dois se cruzam?",
                          "alternativas":  {
                                               "a":  "1 hora",
                                               "b":  "1h30min",
@@ -672,12 +715,13 @@
                          "resposta":  "b",
                          "explicacao":  "Como os ciclistas se aproximam um do outro, suas velocidades se somam: 18+22=40 km/h. O tempo para cobrir os 60 km que os separam é 60÷40=1,5 hora, ou seja, 1 hora e 30 minutos.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-49",
                          "texto_apoio":  "",
-                         "enunciado":  "Três colegas de apartamento dividem a conta de energia elétrica proporcionalmente ao consumo registrado em cada quarto. No último mês, os consumos foram: Ana, 120 kWh; Bruno, 180 kWh; Carla, 300 kWh. Sabendo que a conta total foi de R$ 480,00, quanto Carla deve pagar?",
+                         "enunciado":  "Três colegas de apartamento combinaram dividir a conta de energia proporcionalmente ao consumo medido em cada quarto. No mês passado, Ana consumiu 120 kWh, Bruno consumiu 180 kWh e Carla consumiu 300 kWh, e a conta fechou em R$ 480,00. Quanto cabe a Carla?",
                          "alternativas":  {
                                               "a":  "R$ 200,00",
                                               "b":  "R$ 240,00",
@@ -688,12 +732,13 @@
                          "resposta":  "b",
                          "explicacao":  "O consumo total é 120+180+300=600 kWh. A parte de Carla é 300/600=50% do total, logo ela deve pagar 50% de R$ 480,00, ou seja, R$ 240,00.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-50",
                          "texto_apoio":  "",
-                         "enunciado":  "Três estudantes dividem o aluguel de uma casa de R$ 2.400,00. Metade do valor do aluguel é dividida igualmente entre os três (referente às áreas comuns), e a outra metade é dividida proporcionalmente ao tamanho do quarto de cada um: André tem quarto de 10 m², Bia tem quarto de 15 m² e Caio tem quarto de 25 m². Quanto Caio deve pagar ao todo?",
+                         "enunciado":  "O aluguel de uma casa, de R$ 2.400,00, é dividido por uma regra fixa: metade do valor é rateada em partes iguais entre os três moradores, por corresponder às áreas comuns, e a outra metade é rateada proporcionalmente à área do quarto de cada um. André ocupa um quarto de 10 m², Bia, um de 15 m², e Caio, um de 25 m². Quanto Caio paga ao todo?",
                          "alternativas":  {
                                               "a":  "R$ 1.200,00",
                                               "b":  "R$ 960,00",
@@ -704,7 +749,8 @@
                          "resposta":  "e",
                          "explicacao":  "A parte igualitária é 1.200÷3=400 para cada um. A parte proporcional à área soma 10+15+25=50 m²; a fração de Caio é 25/50=50%, logo ele paga 50% de 1.200=600 nessa parte. No total, Caio paga 400+600=R$ 1.000,00.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-51",
@@ -720,7 +766,8 @@
                          "resposta":  "e",
                          "explicacao":  "A taxa de trabalho de Pedro é 1/6 da cerca por hora, e a de Ana é 1/3=2/6 por hora. Juntos, a taxa é 1/6+2/6=3/6=1/2 da cerca por hora. O tempo para concluir 1 cerca inteira é 1÷(1/2)=2 horas.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-52",
@@ -736,12 +783,13 @@
                          "resposta":  "a",
                          "explicacao":  "Na primeira hora, juntas, as bombas esvaziam 1/4+1/6=5/12 da piscina. Resta 7/12. Sozinha, a bomba B esvazia 1/6 da piscina por hora, logo o tempo necessário para o restante é (7/12)÷(1/6)=7/12×6=3,5 horas.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-53",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma matriz A, de ordem 2×3, é definida pela lei de formação a_ij = 2i − j, em que i representa a linha e j representa a coluna. Qual é o valor do elemento a_23 dessa matriz?",
+                         "enunciado":  "Uma fábrica monta um quadro de tempos de produção em que a linha i indica o posto de trabalho e a coluna j indica o turno. O quadro tem ordem 2×3 e é preenchido pela regra a_ij = 2i − j. Qual é o valor registrado na célula a_23?",
                          "alternativas":  {
                                               "a":  "3",
                                               "b":  "4",
@@ -752,12 +800,13 @@
                          "resposta":  "d",
                          "explicacao":  "Aplicando a lei de formação a_ij = 2i − j ao elemento da linha 2 e coluna 3: a_23 = 2×2 − 3 = 4 − 3 = 1. Um erro comum é trocar os papéis de i (linha) e j (coluna) na fórmula, ou esquecer de subtrair o valor de j, usando apenas 2i.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-54",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere a matriz A = [[1, 2, 0], [3, 1, 4], [0, 2, 1]], de ordem 3×3. Qual é o determinante dessa matriz, calculado pela regra de Sarrus?",
+                         "enunciado":  "Uma transportadora organiza numa matriz de ordem 3×3 os custos de três rotas em três faixas de peso, obtendo A = [[1, 2, 0], [3, 1, 4], [0, 2, 1]]. Um indicador usado internamente pela empresa é o determinante dessa matriz. Qual é esse determinante, calculado pela regra de Sarrus?",
                          "alternativas":  {
                                               "a":  "13",
                                               "b":  "−6",
@@ -768,7 +817,8 @@
                          "resposta":  "c",
                          "explicacao":  "Pela regra de Sarrus, o determinante é a soma dos produtos das diagonais principais menos a soma dos produtos das diagonais secundárias: (1×1×1 + 2×4×0 + 0×3×2) − (0×1×0 + 1×4×2 + 2×3×1) = (1+0+0) − (0+8+6) = 1 − 14 = −13. Um erro comum é esquecer do sinal negativo que antecede a soma das diagonais secundárias, ou parar o cálculo antes de somar todos os seis produtos.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-55",
@@ -784,7 +834,8 @@
                          "resposta":  "b",
                          "explicacao":  "O time somou 8×3=24 pontos com as vitórias e 4×1=4 pontos com os empates, totalizando 24+4=28 pontos.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-56",
@@ -800,7 +851,8 @@
                          "resposta":  "a",
                          "explicacao":  "Como o time não perdeu, v+e=20. Além disso, 3v+e=48. Subtraindo a primeira da segunda: 2v=28, logo v=14 e e=20−14=6.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-57",
@@ -816,7 +868,8 @@
                          "resposta":  "d",
                          "explicacao":  "Há 36 resultados possíveis (6×6). As combinações que somam 7 são: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1), totalizando 6 casos favoráveis. A probabilidade é 6/36=1/6.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-58",
@@ -832,7 +885,8 @@
                          "resposta":  "a",
                          "explicacao":  "A probabilidade da primeira bola ser branca é 5/8. Como não há reposição, a urna passa a ter 7 bolas, das quais 4 brancas; a probabilidade da segunda também ser branca é 4/7. A probabilidade das duas ocorrerem é 5/8×4/7=20/56=5/14. Note que não se deve usar 5/8×5/8=25/64, pois isso equivaleria a considerar reposição.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-59",
@@ -848,7 +902,8 @@
                          "resposta":  "d",
                          "explicacao":  "Os múltiplos de 3 entre 1 e 10 são 3, 6 e 9, totalizando 3 números. A probabilidade de sair um múltiplo de 3 é 3/10; logo, a probabilidade de NÃO ser múltiplo de 3 é o complementar: 1−3/10=7/10.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-60",
@@ -864,7 +919,8 @@
                          "resposta":  "b",
                          "explicacao":  "É mais simples calcular o complementar: a probabilidade de NÃO sair nenhuma cara (ou seja, sair coroa nas três vezes) é (1/2)³=1/8. Logo, a probabilidade de sair pelo menos uma cara é 1−1/8=7/8.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-61",
@@ -880,7 +936,8 @@
                          "resposta":  "b",
                          "explicacao":  "A probabilidade é o número de bilhetes de Marcos dividido pelo total de bilhetes vendidos: 8÷200=0,04, ou seja, 4%.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-62",
@@ -896,7 +953,8 @@
                          "resposta":  "b",
                          "explicacao":  "Como a ordem não importa, o número de combinações é C(10,6)=10!/(6!×4!)=(10×9×8×7)/(4×3×2×1)=5040/24=210.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-63",
@@ -912,7 +970,8 @@
                          "resposta":  "d",
                          "explicacao":  "O número de maneiras de organizar 5 pessoas em fila é dado pelo fatorial de 5: 5!=5×4×3×2×1=120.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-64",
@@ -928,7 +987,8 @@
                          "resposta":  "e",
                          "explicacao":  "Tratando Mariana e João como um bloco único, temos 4 elementos para organizar (o bloco + os outros 3 amigos), o que dá 4!=24 formas. Como dentro do bloco os dois podem trocar de posição entre si (Mariana-João ou João-Mariana), multiplica-se por 2: 24×2=48.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-65",
@@ -944,7 +1004,8 @@
                          "resposta":  "d",
                          "explicacao":  "Como as 4 letras da palavra MESA são todas distintas, o número de anagramas é dado por 4!=24.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-66",
@@ -960,7 +1021,8 @@
                          "resposta":  "a",
                          "explicacao":  "A palavra CARRO tem 5 letras, com a letra R repetida 2 vezes. O número de anagramas é 5!÷2!=120÷2=60, pois é preciso dividir pelo fatorial das repetições para não contar arranjos idênticos mais de uma vez.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-67",
@@ -976,7 +1038,8 @@
                          "resposta":  "a",
                          "explicacao":  "a12=a1+(12−1)×r=20+11×3=20+33=53 lugares.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-68",
@@ -992,7 +1055,8 @@
                          "resposta":  "e",
                          "explicacao":  "O 15º termo é a15=20+14×3=62. A soma dos 15 termos é S15=15×(a1+a15)÷2=15×(20+62)÷2=15×41=615 lugares.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-69",
@@ -1008,7 +1072,8 @@
                          "resposta":  "b",
                          "explicacao":  "Tratando o crescimento como uma PG de razão 1,10: população daqui a 2 anos = 8.000×(1,10)²=8.000×1,21=9.680 habitantes.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-70",
@@ -1024,7 +1089,8 @@
                          "resposta":  "d",
                          "explicacao":  "As alturas após o primeiro impacto formam uma PG infinita de primeiro termo 2 e razão 1/2. Como |q|\u003c1, a soma converge para S=a1÷(1−q)=2÷(1−0,5)=2÷0,5=4 metros.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-71",
@@ -1040,7 +1106,8 @@
                          "resposta":  "e",
                          "explicacao":  "O preço unitário é 24÷8=R$ 3,00. Para 20 unidades: 20×3=R$ 60,00.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-72",
@@ -1056,7 +1123,8 @@
                          "resposta":  "b",
                          "explicacao":  "Na embalagem de 500 ml: 4,00÷500=R$ 0,0080 por ml. Na promocional, o cliente recebe 750 ml pelo preço de 4,80: 4,80÷750=R$ 0,0064 por ml. Apesar do preço total mais alto, a embalagem promocional tem o menor custo por mililitro.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-73",
@@ -1072,7 +1140,8 @@
                          "resposta":  "d",
                          "explicacao":  "Na escala 1:50.000, cada cm no mapa corresponde a 50.000 cm na realidade. Assim, 6 cm equivalem a 6×50.000=300.000 cm=3.000 m=3 km.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-74",
@@ -1088,7 +1157,8 @@
                          "resposta":  "d",
                          "explicacao":  "Na escala 1:1.000, o lado real é 4×1.000=4.000 cm=40 m. A área real é 40×40=1.600 m². Um erro comum é multiplicar a área da planta diretamente pela escala linear (1.000), o que geraria um resultado incorreto — a escala de área é o quadrado da escala linear.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-75",
@@ -1104,7 +1174,8 @@
                          "resposta":  "e",
                          "explicacao":  "O ponto médio de um segmento é dado por M = ((x1+x2)/2, (y1+y2)/2). Assim, M = ((2+8)/2, (5+1)/2) = (10/2, 6/2) = (5, 3). Um erro comum é somar as coordenadas mas esquecer de dividir por 2 (o que daria (10,6)), ou trocar a ordem das coordenadas x e y no resultado final.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-76",
@@ -1120,7 +1191,8 @@
                          "resposta":  "b",
                          "explicacao":  "Igualando as duas equações: 2x + 1 = −x + 7 → 3x = 6 → x = 2. Substituindo em y = 2x + 1: y = 2×2 + 1 = 5. O ponto de interseção é (2, 5). Um erro comum é trocar o sinal ao isolar x ou ao substituir o valor encontrado na equação escolhida.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-77",
@@ -1136,7 +1208,8 @@
                          "resposta":  "a",
                          "explicacao":  "A soma dos gastos é 820+750+900+730=3.200. Dividindo pelos 4 meses: 3.200÷4=R$ 800,00.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-78",
@@ -1152,7 +1225,8 @@
                          "resposta":  "b",
                          "explicacao":  "Para que a média de 4 provas seja 7,0, a soma das notas deve ser 7,0×4=28,0. A soma das três notas conhecidas é 6,0+7,5+8,0=21,5. Logo, a quarta nota é 28,0−21,5=6,5.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-79",
@@ -1168,7 +1242,8 @@
                          "resposta":  "d",
                          "explicacao":  "A moda é o valor que mais se repete no conjunto. O tamanho 38 aparece 3 vezes, mais do que qualquer outro valor, sendo portanto a moda.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-80",
@@ -1184,7 +1259,8 @@
                          "resposta":  "c",
                          "explicacao":  "A média é (2.000+2.000+2.100+2.200+2.300+15.000)÷6≈R$ 4.266,67, valor distorcido para cima pelo salário do proprietário. Já a mediana, calculada pela média dos dois valores centrais (2.100 e 2.200) do conjunto ordenado, é R$ 2.150,00, valor bem mais representativo do salário típico, o que ilustra como a mediana é menos sensível a valores extremos (outliers) do que a média.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-86",
@@ -1200,7 +1276,8 @@
                          "resposta":  "b",
                          "explicacao":  "Quem assiste apenas a A: 45−15=30. Quem assiste apenas a B: 40−15=25. A soma de quem assiste a exatamente um dos dois noticiários é 30+25=55. Isso é diferente de |A∪B|=45+40−15=70, que inclui também quem assiste aos dois.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-87",
@@ -1216,7 +1293,8 @@
                          "resposta":  "a",
                          "explicacao":  "A área de um trapézio é dada por (base maior + base menor) × altura ÷ 2 = (12+8)×5÷2=100÷2=50 m².",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-88",
@@ -1232,7 +1310,8 @@
                          "resposta":  "a",
                          "explicacao":  "A escada, a parede e o chão formam um triângulo retângulo, em que a escada é a hipotenusa. Pelo Teorema de Pitágoras: altura²+3²=5² → altura²=25−9=16 → altura=4 m.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-89",
@@ -1248,7 +1327,8 @@
                          "resposta":  "e",
                          "explicacao":  "O volume é 80×40×50=160.000 cm³. Como 1 litro=1.000 cm³, o volume em litros é 160.000÷1.000=160 litros.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-90",
@@ -1264,7 +1344,8 @@
                          "resposta":  "b",
                          "explicacao":  "A área total da parede é 6×3=18 m². A área da porta é 1×2=2 m² e a da janela é 2×1=2 m², totalizando 4 m² que não serão pintados. A área a ser pintada é 18−4=14 m². Como cada litro rende 7 m², são necessários 14÷7=2 litros de tinta.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-91",
@@ -1280,7 +1361,8 @@
                          "resposta":  "b",
                          "explicacao":  "O comprimento da circunferência é C=π×d=3,14×70=219,8 cm, que corresponde à distância percorrida pela bicicleta a cada volta completa da roda.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-92",
@@ -1296,7 +1378,8 @@
                          "resposta":  "c",
                          "explicacao":  "Convertendo 2.198 metros para centímetros: 219.800 cm. Dividindo pela distância percorrida a cada volta (219,8 cm): 219.800÷219,8=1.000 voltas.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-93",
@@ -1312,7 +1395,8 @@
                          "resposta":  "b",
                          "explicacao":  "Da segunda equação, u=13−2s. Substituindo na primeira: 3s+2(13−2s)=21 → 3s+26−4s=21 → −s=−5 → s=5. Logo, o preço de um salgado é R$ 5,00 (e o de um suco, R$ 3,00).",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-94",
@@ -1328,7 +1412,8 @@
                          "resposta":  "d",
                          "explicacao":  "Sejam p e j as idades atuais. Tem-se p+j=42 e p+6=2(j+6). Da segunda equação: p=2j+6. Substituindo na primeira: 2j+6+j=42 → 3j=36 → j=12. Logo, p=42−12=30 anos.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-95",
@@ -1344,7 +1429,8 @@
                          "resposta":  "a",
                          "explicacao":  "Como todos os 35 alunos estudam pelo menos um idioma, |A∪B|=35. Pela fórmula da inclusão-exclusão: 35=20+18−x, logo x=38−35=3 alunos estudam os dois idiomas.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-96",
@@ -1360,7 +1446,8 @@
                          "resposta":  "b",
                          "explicacao":  "O número de estudantes que leram pelo menos um dos livros é |A∪B|=30+25−10=45. Logo, os que não leram nenhum dos dois livros são 60−45=15 estudantes.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-97",
@@ -1376,7 +1463,8 @@
                          "resposta":  "d",
                          "explicacao":  "O valor à vista de R$ 900,00 corresponde a 90% do preço de tabela (100%−10% de desconto). Logo, preço de tabela = 900÷0,90=R$ 1.000,00.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-98",
@@ -1392,7 +1480,8 @@
                          "resposta":  "e",
                          "explicacao":  "A distância entre o centro C(3,4) e o ponto P(6,8) é d = √[(6−3)² + (8−4)²] = √[9+16] = √25 = 5 km, exatamente igual ao raio da praça. Logo, o ponto P está sobre a circunferência que delimita a praça, não dentro nem fora dela.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-99",
@@ -1408,7 +1497,8 @@
                          "resposta":  "e",
                          "explicacao":  "Mantendo a proporção 2:3, temos 2/3=8/x. Resolvendo: 2x=24, logo x=12 litros de tinta amarela.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-100",
@@ -1424,7 +1514,8 @@
                          "resposta":  "d",
                          "explicacao":  "A quantidade de sal na primeira solução é 2×0,30=0,6 L. Se x litros da solução de 10% forem adicionados, a quantidade de sal dela é 0,10x. A concentração final deve ser 20%: (0,6+0,10x)÷(2+x)=0,20. Resolvendo: 0,6+0,10x=0,4+0,20x → 0,2=0,10x → x=2 litros.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-101",
@@ -1440,7 +1531,8 @@
                          "resposta":  "d",
                          "explicacao":  "Mantendo a proporção, a quantidade de ovos para 4 pessoas é (3÷8)×4=1,5 ovo.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-102",
@@ -1456,7 +1548,8 @@
                          "resposta":  "e",
                          "explicacao":  "O rendimento do carro é 560÷40=14 km por litro. A viagem total percorre 280×3=840 km. O consumo total é 840÷14=60 litros.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-103",
@@ -1472,7 +1565,8 @@
                          "resposta":  "a",
                          "explicacao":  "a6=a1+(6−1)×r=50+5×20=50+100=150. Ela guardará R$ 150,00 no 6º mês.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-104",
@@ -1488,7 +1582,8 @@
                          "resposta":  "d",
                          "explicacao":  "A soma dos 6 primeiros termos da PA é S6=6×(a1+a6)÷2=6×(50+150)÷2=6×100=600. O valor total acumulado é R$ 600,00.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-105",
@@ -1504,7 +1599,8 @@
                          "resposta":  "d",
                          "explicacao":  "O termo geral da PG é an=a1×q^(n−1). Assim, a5=5×2⁴=5×16=80 pessoas compartilharam na 5ª hora.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-106",
@@ -1520,7 +1616,8 @@
                          "resposta":  "a",
                          "explicacao":  "A soma dos n primeiros termos de uma PG é Sn=a1×(qⁿ−1)÷(q−1). Assim, S5=5×(2⁵−1)÷(2−1)=5×31÷1=155 pessoas, somando os compartilhamentos das 5 horas.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-107",
@@ -1536,7 +1633,8 @@
                          "resposta":  "c",
                          "explicacao":  "Há 4 reis em um baralho de 52 cartas. A probabilidade é 4/52=1/13.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-108",
@@ -1552,7 +1650,8 @@
                          "resposta":  "a",
                          "explicacao":  "Após a retirada de um rei, restam 51 cartas no baralho, das quais 3 ainda são reis. A probabilidade condicional é 3/51=1/17.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-109",
@@ -1568,7 +1667,8 @@
                          "resposta":  "d",
                          "explicacao":  "Como a probabilidade de aprovação é 35%, a probabilidade do evento complementar (não aprovação) é 100%−35%=65%.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-110",
@@ -1584,7 +1684,8 @@
                          "resposta":  "d",
                          "explicacao":  "A probabilidade de nenhum dos dois ser aprovado é 0,60×0,50=0,30 (30%), pois os eventos são independentes. Logo, a probabilidade de que pelo menos um seja aprovado é o complementar: 1−0,30=0,70, ou seja, 70%. Não se deve simplesmente somar as probabilidades individuais (40%+50%=90%), pois isso contaria duas vezes o caso em que ambos são aprovados.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-111",
@@ -1600,7 +1701,8 @@
                          "resposta":  "c",
                          "explicacao":  "Pelo princípio fundamental da contagem, o número total de combinações é o produto das opções em cada categoria: 3×4×2=24.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-112",
@@ -1616,7 +1718,8 @@
                          "resposta":  "b",
                          "explicacao":  "Para as letras (sem repetição): 26×25=650 possibilidades. Para os algarismos (sem repetição): 10×9×8=720 possibilidades. Pelo princípio multiplicativo, o total de senhas é 650×720=468.000.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-113",
@@ -1632,7 +1735,8 @@
                          "resposta":  "a",
                          "explicacao":  "O volume de um cilindro é V=π×r²×h=3,14×1²×2=3,14×2=6,28 m³.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-114",
@@ -1648,7 +1752,8 @@
                          "resposta":  "a",
                          "explicacao":  "O tempo necessário é 6.280÷20=314 minutos. Convertendo: 314÷60=5,233 horas, ou seja, 5 horas e aproximadamente 14 minutos (0,233×60≈14).",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-115",
@@ -1664,7 +1769,8 @@
                          "resposta":  "d",
                          "explicacao":  "A amplitude é a diferença entre o maior e o menor valor do conjunto: 33−26=7°C.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-116",
@@ -1680,12 +1786,13 @@
                          "resposta":  "e",
                          "explicacao":  "A média é calculada ponderando cada valor pela sua frequência: (5×0+8×1+4×2+3×3)÷20=(0+8+8+9)÷20=25÷20=1,25 irmãos por aluno, em média.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-117",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma reta r passa pelos pontos A(0, 2) e B(3, 8). Uma reta s é paralela a r e passa pelo ponto C(1, 1). Qual é a equação da reta s?",
+                         "enunciado":  "No projeto de um loteamento, a via principal r é traçada pelos pontos A(0, 2) e B(3, 8). Uma segunda via, s, deve ser paralela a r e passar pelo ponto C(1, 1). Qual é a equação da via s?",
                          "alternativas":  {
                                               "a":  "y = 2x + 1",
                                               "b":  "y = −2x − 1",
@@ -1696,7 +1803,8 @@
                          "resposta":  "c",
                          "explicacao":  "Retas paralelas têm o mesmo coeficiente angular. Calculando m da reta r: m = (8−2)/(3−0) = 6/3 = 2. Como s é paralela a r e passa por C(1,1): y − 1 = 2(x − 1) → y = 2x − 1. Um erro comum é confundir a condição de retas paralelas (mesmo m) com a de retas perpendiculares (m1×m2 = −1), usando erroneamente m = −1/2.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-118",
@@ -1712,7 +1820,8 @@
                          "resposta":  "a",
                          "explicacao":  "O vértice da parábola h(x) = −x² + 6x, com a = −1 e b = 6, ocorre em xv = −b/(2a) = −6/(2×(−1)) = 3. Substituindo: h(3) = −(3)² + 6×3 = −9 + 18 = 9. Logo, a altura máxima é 9 m, atingida a 3 m de distância horizontal. Um erro comum é esquecer de dividir por 2 no cálculo de xv (o que daria erroneamente x=6) ou trocar os valores de x e h na resposta final.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-119",
@@ -1728,7 +1837,8 @@
                          "resposta":  "c",
                          "explicacao":  "A distância original é 80×3=240 km. Uma distância 50% maior é 240×1,5=360 km. Mantendo a mesma velocidade, o tempo necessário é 360÷80=4,5 horas.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-120",
@@ -1744,12 +1854,13 @@
                          "resposta":  "c",
                          "explicacao":  "Às 9h, o ônibus já percorreu 60 km de vantagem. A partir daí, o carro se aproxima a uma velocidade relativa de 90−60=30 km/h. O tempo para alcançar essa vantagem de 60 km é 60÷30=2 horas, ou seja, o carro alcança o ônibus às 9h+2h=11h.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-121",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere a matriz A = [[4, 7, 1], [2, 5, 9]], de ordem 2×3. Qual é a matriz transposta de A (Aᵀ), de ordem 3×2?",
+                         "enunciado":  "Um sistema de estoque registra numa matriz de ordem 2×3 a quantidade de três produtos em duas lojas, obtendo A = [[4, 7, 1], [2, 5, 9]]. O relatório mensal exige a mesma informação disposta com os produtos nas linhas e as lojas nas colunas. Qual é a matriz transposta de A (Aᵀ), de ordem 3×2?",
                          "alternativas":  {
                                               "a":  "[[4, 7, 1], [2, 5, 9]]",
                                               "b":  "[[2, 4], [5, 7], [9, 1]]",
@@ -1760,12 +1871,13 @@
                          "resposta":  "d",
                          "explicacao":  "Na transposição de uma matriz, as linhas se tornam colunas, mantendo a ordem dos elementos: a primeira linha de A (4,7,1) torna-se a primeira coluna de Aᵀ, e a segunda linha de A (2,5,9) torna-se a segunda coluna de Aᵀ. Assim, Aᵀ = [[4,2],[7,5],[1,9]]. Um erro comum é apenas inverter a ordem dos elementos dentro de cada linha, sem de fato trocar linhas por colunas.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-122",
                          "texto_apoio":  "",
-                         "enunciado":  "Um sistema de equações lineares, 2x + y = 11 e x + 3y = 13, é representado pela matriz dos coeficientes A = [[2, 1], [1, 3]]. Usando a regra de Cramer, determine o valor de x.",
+                         "enunciado":  "Uma oficina fecha dois pedidos que dão origem ao sistema 2x + y = 11 e x + 3y = 13, em que x e y são as quantidades de duas peças. A matriz dos coeficientes é A = [[2, 1], [1, 3]]. Usando a regra de Cramer, determine o valor de x.",
                          "alternativas":  {
                                               "a":  "3",
                                               "b":  "20",
@@ -1776,7 +1888,8 @@
                          "resposta":  "e",
                          "explicacao":  "Pela regra de Cramer, x = det(Ax)/det(A). O determinante da matriz de coeficientes é det(A) = 2×3 − 1×1 = 5. Substituindo a primeira coluna pelos termos independentes: det(Ax) = |11 1; 13 3| = 11×3 − 1×13 = 33−13 = 20. Logo, x = 20/5 = 4. Um erro comum é esquecer de dividir pelo determinante de A, apresentando apenas o valor de det(Ax) como resposta final.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-123",
@@ -1792,7 +1905,8 @@
                          "resposta":  "b",
                          "explicacao":  "O total de viagens necessárias para transportar toda a carga é fixo: 5×6=30 viagens. Usando apenas 3 caminhões, cada um precisará fazer 30÷3=10 viagens para que o total de viagens realizadas continue sendo 30.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-124",
@@ -1808,7 +1922,8 @@
                          "resposta":  "a",
                          "explicacao":  "A taxa de produção é 400÷(10×8×5)=400÷400=1 peça por funcionário-hora. Para o novo cenário: 15×6×4=360 funcionário-horas, o que resulta em 360×1=360 peças.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-125",
@@ -1824,12 +1939,13 @@
                          "resposta":  "d",
                          "explicacao":  "Trata-se de uma PA de primeiro termo 1 e razão 2. O 15º termo é a15=1+(15−1)×2=1+28=29.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-126",
                          "texto_apoio":  "",
-                         "enunciado":  "Qual é a soma dos 15 primeiros números ímpares positivos (1+3+5+7+...+29)?",
+                         "enunciado":  "Um depósito empilha caixas seguindo uma regra: a primeira camada recebe 1 caixa, a segunda recebe 3, a terceira recebe 5, e assim por diante, sempre com dois a mais que a camada anterior. Qual é o total de caixas depois de montadas as 15 primeiras camadas (1+3+5+7+...+29)?",
                          "alternativas":  {
                                               "a":  "210",
                                               "b":  "200",
@@ -1840,7 +1956,8 @@
                          "resposta":  "c",
                          "explicacao":  "A soma dos n primeiros números ímpares positivos é sempre igual a n². Para n=15: 15²=225. Confirmando pela fórmula da soma de PA: S=15×(1+29)÷2=15×15=225.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-127",
@@ -1856,7 +1973,8 @@
                          "resposta":  "e",
                          "explicacao":  "Os números maiores que 5, entre 1 e 8, são 6, 7 e 8, totalizando 3 casos favoráveis em 8 possíveis. A probabilidade é 3/8.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-128",
@@ -1872,7 +1990,8 @@
                          "resposta":  "a",
                          "explicacao":  "A probabilidade de sair algum prêmio é 10%+30%=40%. Em 200 giros, o número esperado de giros premiados é 0,40×200=80.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-129",
@@ -1888,7 +2007,8 @@
                          "resposta":  "c",
                          "explicacao":  "Somando as vendas dos quatro trimestres: 50+70+60+90=270 mil reais.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-130",
@@ -1904,7 +2024,8 @@
                          "resposta":  "c",
                          "explicacao":  "A variação percentual é calculada em relação ao valor inicial (3º trimestre): (90−60)÷60×100=30÷60×100=50%.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-131",
@@ -1920,7 +2041,8 @@
                          "resposta":  "e",
                          "explicacao":  "Como a ordem importa (1º, 2º e 3º lugares são posições distintas), trata-se de um arranjo: A(6,3)=6×5×4=120.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-132",
@@ -1936,7 +2058,8 @@
                          "resposta":  "e",
                          "explicacao":  "Como não há distinção de função entre os alunos escolhidos, a ordem não importa, e trata-se de uma combinação: C(8,3)=8!/(3!×5!)=(8×7×6)/(3×2×1)=336/6=56. É diferente do caso em que houvesse posições distintas (como 1º, 2º e 3º lugares), em que se usaria arranjo.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-133",
@@ -1952,7 +2075,8 @@
                          "resposta":  "c",
                          "explicacao":  "A área de um losango é dada por (diagonal maior × diagonal menor) ÷ 2 = (12×8)÷2=96÷2=48 m².",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-134",
@@ -1968,12 +2092,13 @@
                          "resposta":  "b",
                          "explicacao":  "Como os triângulos formados pelo poste e sua sombra, e pela árvore e sua sombra, são semelhantes (mesma incidência solar), suas medidas são proporcionais: 6/4=x/10. Resolvendo: 4x=60, logo x=15 metros.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-135",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere a matriz A = [[2, −1], [3, 4]]. Qual é a matriz resultante do produto escalar 3A (ou seja, a matriz A multiplicada pelo número 3)?",
+                         "enunciado":  "Uma planilha registra na matriz A = [[2, −1], [3, 4]] a variação de estoque de dois itens em dois depósitos. Para simular um cenário em que todo o movimento triplica, aplica-se o produto escalar 3A, isto é, multiplica-se a matriz pelo número 3. Qual é a matriz resultante?",
                          "alternativas":  {
                                               "a":  "[[5, 2], [6, 7]]",
                                               "b":  "[[8, −1], [27, 64]]",
@@ -1984,12 +2109,13 @@
                          "resposta":  "e",
                          "explicacao":  "Na multiplicação de uma matriz por um escalar, cada elemento é multiplicado por esse número: 3A = [[3×2, 3×(−1)], [3×3, 3×4]] = [[6,−3],[9,12]]. Um erro comum é somar o escalar a cada elemento em vez de multiplicar, ou aplicar a operação a apenas parte dos elementos da matriz.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-136",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere as matrizes A = [[1, 2], [3, 4]] e B = [[2, 0], [1, 5]], ambas de ordem 2×2. Qual é a matriz resultante do produto A × B?",
+                         "enunciado":  "Uma montadora registra em A = [[1, 2], [3, 4]] a quantidade de duas peças usadas em dois modelos e em B = [[2, 0], [1, 5]] o custo de cada peça em dois fornecedores, ambas de ordem 2×2. O custo por modelo e por fornecedor sai do produto A × B. Qual é essa matriz?",
                          "alternativas":  {
                                               "a":  "[[2, 10], [3, 20]]",
                                               "b":  "[[4, 10], [10, 20]]",
@@ -2000,7 +2126,8 @@
                          "resposta":  "b",
                          "explicacao":  "No produto de matrizes, cada elemento da matriz resultante é a soma dos produtos dos elementos da linha correspondente de A pelos elementos da coluna correspondente de B. Por exemplo, o elemento da linha 1, coluna 1: (1×2)+(2×1)=4. Repetindo o processo, obtém-se A×B = [[4,10],[10,20]]. Um erro muito citado é multiplicar elemento a elemento (como numa soma disfarçada), o que não corresponde à definição de produto matricial.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-137",
@@ -2016,7 +2143,8 @@
                          "resposta":  "d",
                          "explicacao":  "A densidade demográfica é obtida dividindo a população pela área: 450.000÷300=1.500 habitantes por km².",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-138",
@@ -2032,12 +2160,13 @@
                          "resposta":  "c",
                          "explicacao":  "A população projetada é 450.000×1,20=540.000 habitantes. Mantida a área de 300 km², a nova densidade será 540.000÷300=1.800 habitantes por km².",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-141",
                          "texto_apoio":  "",
-                         "enunciado":  "Uma reta é definida pela equação 2x + 3y = 12. Em que ponto essa reta intercepta o eixo y (ou seja, qual é o valor de y quando x = 0)?",
+                         "enunciado":  "Numa planta, o traçado de um duto obedece à equação 2x + 3y = 12. Em que ponto esse traçado cruza o eixo y, ou seja, qual é o valor de y quando x = 0?",
                          "alternativas":  {
                                               "a":  "(0, 6)",
                                               "b":  "(0, 4)",
@@ -2048,12 +2177,13 @@
                          "resposta":  "b",
                          "explicacao":  "Para encontrar o intercepto com o eixo y, faz-se x = 0 na equação: 2(0) + 3y = 12 → 3y = 12 → y = 4. O ponto de interseção com o eixo y é (0, 4). Um erro comum é confundir esse ponto com o intercepto do eixo x (obtido fazendo y=0) ou dividir 12 pelo coeficiente errado.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-142",
                          "texto_apoio":  "",
-                         "enunciado":  "Qual é a distância do ponto P(4, 3) à reta r de equação 3x + 4y − 12 = 0?",
+                         "enunciado":  "Num levantamento topográfico, uma antena está no ponto P(4, 3) e o eixo de uma estrada é descrito pela reta r de equação 3x + 4y − 12 = 0. Qual é a distância da antena até o eixo da estrada?",
                          "alternativas":  {
                                               "a":  "2,4",
                                               "b":  "0,6",
@@ -2064,7 +2194,8 @@
                          "resposta":  "a",
                          "explicacao":  "A distância de um ponto P(x0,y0) à reta ax+by+c=0 é d = |a·x0 + b·y0 + c| / √(a²+b²). Substituindo: d = |3×4 + 4×3 − 12| / √(9+16) = |12+12−12| / 5 = 12/5 = 2,4. Um erro comum é esquecer de dividir pela norma √(a²+b²)=5, entregando apenas o valor absoluto do numerador (12) como resposta final.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-143",
@@ -2080,7 +2211,8 @@
                          "resposta":  "b",
                          "explicacao":  "Ordenando os valores: 280, 300, 320, 330, 350, 390, 410. Como há 7 valores, a mediana é o 4º valor da sequência ordenada, que é 330.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-144",
@@ -2096,12 +2228,13 @@
                          "resposta":  "c",
                          "explicacao":  "A mediana continua sendo o 4º valor do conjunto ordenado (280,300,320,330,350,390,1.850), ou seja, 330 mil. Já a média é (280+300+320+330+350+390+1.850)÷7=3.820÷7≈545,7 mil, valor fortemente distorcido para cima pelo preço da mansão. Isso confirma que a mediana é mais robusta a valores extremos (outliers) do que a média.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-145",
                          "texto_apoio":  "",
-                         "enunciado":  "Um sistema de equações lineares é dado por x + y = 10 e 2x − y = 5. Representando esse sistema pela matriz aumentada [[1, 1, 10], [2, −1, 5]] e aplicando uma operação para eliminar x na segunda linha (substituindo a linha 2 pela linha 2 menos 2 vezes a linha 1), qual é a nova segunda linha da matriz?",
+                         "enunciado":  "Um controle de produção gera o sistema x + y = 10 e 2x − y = 5, representado pela matriz aumentada [[1, 1, 10], [2, −1, 5]]. O procedimento adotado manda eliminar x na segunda linha, substituindo a linha 2 pela linha 2 menos 2 vezes a linha 1. Qual é a nova segunda linha?",
                          "alternativas":  {
                                               "a":  "[0, 3, 15]",
                                               "b":  "[0, −3, −15]",
@@ -2112,12 +2245,13 @@
                          "resposta":  "b",
                          "explicacao":  "Para eliminar x na segunda linha, subtrai-se da linha 2 o dobro da linha 1: [2,−1,5] − 2×[1,1,10] = [2−2, −1−2, 5−20] = [0,−3,−15]. Um erro comum nesse tipo de escalonamento é aplicar a operação apenas aos coeficientes e esquecer o termo independente.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-146",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere a matriz A = [[1, 2], [3, 4]]. Qual é a matriz inversa de A (A⁻¹)?",
+                         "enunciado":  "Um sistema de conversão entre duas unidades de medida é descrito pela matriz A = [[1, 2], [3, 4]]. A conversão no sentido inverso exige a matriz inversa de A. Qual é essa matriz A⁻¹?",
                          "alternativas":  {
                                               "a":  "[[−2, −1], [−3/2, −1/2]]",
                                               "b":  "[[2, −1], [−3/2, 1/2]]",
@@ -2128,7 +2262,8 @@
                          "resposta":  "d",
                          "explicacao":  "Para uma matriz 2×2, A = [[a,b],[c,d]], a inversa é A⁻¹ = (1/det A) × [[d,−b],[−c,a]], em que det A = ad−bc. Aqui, det A = 1×4 − 2×3 = 4−6 = −2. O adjugado é [[4,−2],[−3,1]]. Assim, A⁻¹ = (1/−2)×[[4,−2],[−3,1]] = [[−2, 1], [3/2, −1/2]]. Um erro comum é esquecer de dividir pelo determinante, apresentando apenas o adjugado como resposta final (b), ou errar o sinal do determinante, invertendo todos os sinais da matriz resultante (c ou d).",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-147",
@@ -2144,12 +2279,13 @@
                          "resposta":  "a",
                          "explicacao":  "Metade do tempo total da prova é 4÷2=2 horas, ou seja, 120 minutos. Dividindo pelas 60 questões: 120÷60=2 minutos por questão, em média.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-148",
                          "texto_apoio":  "",
-                         "enunciado":  "Um sistema de equações lineares é dado por 2x + 4y = 6 e x + 2y = 3. Calculando o determinante da matriz dos coeficientes desse sistema, é correto concluir que:",
+                         "enunciado":  "Um planejamento de compras gera o sistema 2x + 4y = 6 e x + 2y = 3, em que x e y são as quantidades de dois insumos. Antes de resolver, o analista calcula o determinante da matriz dos coeficientes. A partir desse valor, é correto concluir que:",
                          "alternativas":  {
                                               "a":  "O determinante é 0, e como as equações são proporcionais, o sistema é impossível e não admite solução alguma",
                                               "b":  "O determinante é 4, logo o sistema tem exatamente duas soluções distintas para o par ordenado (x, y)",
@@ -2160,7 +2296,8 @@
                          "resposta":  "e",
                          "explicacao":  "O determinante da matriz dos coeficientes é det = 2×2 − 4×1 = 4−4 = 0. Quando o determinante é zero, o sistema não é possível e determinado; nesse caso, como a segunda equação é proporcional à primeira (basta multiplicar x+2y=3 por 2), o sistema é possível e indeterminado, com infinitas soluções. Um erro comum é concluir automaticamente que determinante zero significa sistema impossível — na verdade, pode ser indeterminado ou impossível, e é preciso checar se as equações são proporcionais (indeterminado) ou inconsistentes (impossível).",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-149",
@@ -2176,7 +2313,8 @@
                          "resposta":  "c",
                          "explicacao":  "Como o reajuste é fixo (uma PA de razão 30), após 3 reajustes a mensalidade será 450+3×30=450+90=R$ 540,00.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-150",
@@ -2192,7 +2330,8 @@
                          "resposta":  "c",
                          "explicacao":  "Na Escola A (PA de razão 30): mensalidade em 2027 = 450+3×30=R$ 540,00. Na Escola B (PG de razão 1,06): mensalidade em 2027 = 450×(1,06)³=450×1,191016≈R$ 535,96. Nesse caso específico, o reajuste fixo da Escola A resultou em mensalidade ligeiramente maior do que o reajuste percentual da Escola B, o que pode surpreender quem assume que reajustes percentuais são sempre mais agressivos no curto prazo.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-151",
@@ -2208,7 +2347,8 @@
                          "resposta":  "e",
                          "explicacao":  "Percentuais sucessivos se multiplicam, não se somam: 1,10 × 1,20 = 1,32, ou seja, 32% de aumento acumulado. Somar 10% + 20% = 30% ignora que o segundo aumento incide sobre um valor já corrigido pelo primeiro.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-152",
@@ -2224,7 +2364,8 @@
                          "resposta":  "d",
                          "explicacao":  "0,80 × 1,20 = 0,96, isto é, 96% do preço inicial — uma queda de 4%. A alta de 20% incide sobre um valor já reduzido, portanto vale menos, em reais, do que a queda de 20% aplicada sobre o valor cheio. Percentuais iguais em sentidos opostos não se anulam.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-153",
@@ -2240,7 +2381,8 @@
                          "resposta":  "b",
                          "explicacao":  "A escala 1:200 vale para comprimentos. Para áreas, o fator é o quadrado da escala: 200² = 40.000. Assim, 15 cm² × 40.000 = 600.000 cm², e como 1 m² = 10.000 cm², o resultado é 60 m². Multiplicar a área por 200 uma única vez é o erro mais comum.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-154",
@@ -2256,7 +2398,8 @@
                          "resposta":  "a",
                          "explicacao":  "A média é 22.000 ÷ 5 = R$ 4.400,00, e a mediana é o valor central, R$ 2.400,00. Um único valor muito distante dos demais puxa a média, mas não a mediana, que depende apenas da posição. Por isso, em distribuições com valores extremos, a mediana costuma representar melhor o caso típico.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-155",
@@ -2272,7 +2415,8 @@
                          "resposta":  "d",
                          "explicacao":  "Igualando os custos: 40 + 0,50m = 60 + 0,30m, logo 0,20m = 20 e m = 100. Em 100 minutos os planos custam o mesmo (R$ 90,00); acima disso, o Plano B compensa, porque cobra menos por minuto e a diferença de R$ 20,00 na taxa fixa já foi compensada.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-156",
@@ -2288,7 +2432,8 @@
                          "resposta":  "a",
                          "explicacao":  "A perda incide sobre o valor do ano anterior: 60.000 × 0,80 = 48.000 no primeiro ano e 48.000 × 0,80 = R$ 38.400,00 no segundo. Somar as perdas (20% + 20% = 40%) daria R$ 36.000,00 e ignora que a segunda depreciação incide sobre um valor já reduzido.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-157",
@@ -2304,7 +2449,8 @@
                          "resposta":  "a",
                          "explicacao":  "É mais simples calcular o contrário: nenhum defeito é 0,90³ = 0,729. Logo, pelo menos um defeito é 1 − 0,729 = 0,271, ou 27,1%. Somar 10% + 10% + 10% = 30% conta duas vezes os casos em que mais de um equipamento falha.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-158",
@@ -2320,7 +2466,8 @@
                          "resposta":  "c",
                          "explicacao":  "O grupo passa a 45.000 × 1,5 = 67.500 pessoas e a população total, a 300.000 × 1,2 = 360.000. A participação é 67.500 ÷ 360.000 = 0,1875, ou 18,75% — contra 15% hoje. Note que a participação sobe porque o grupo cresce mais rápido que o todo, e não na proporção do crescimento de 50%.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-159",
@@ -2336,7 +2483,8 @@
                          "resposta":  "d",
                          "explicacao":  "A liga se divide em 3 + 2 = 5 partes iguais, cada uma com 45 ÷ 5 = 9 kg. O cobre corresponde a 3 partes: 3 × 9 = 27 kg (e o zinco, a 2 partes: 18 kg). Dividir a massa ao meio, chegando a 22,5 kg, trataria a proporção como se fosse de 1 para 1.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "insper"
                      },
                      {
                          "id":  "matematica-rlm-160",
@@ -2352,7 +2500,8 @@
                          "resposta":  "b",
                          "explicacao":  "As variações são: 2º trimestre, 30/120 = +25%; 3º, −15/150 = −10%; 4º, 45/135 ≈ +33,3%. A maior em módulo é a do 4º trimestre. Repare que o 2º e o 4º subiram valores absolutos próximos (30 e 45 mil), mas o percentual depende da base sobre a qual se calcula.",
                          "dificuldade":  "media",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      },
                      {
                          "id":  "matematica-rlm-161",
@@ -2368,7 +2517,8 @@
                          "resposta":  "a",
                          "explicacao":  "Cada grupo contribui com sua parcela: escola pública, 0,60 × 0,25 = 0,15; escola privada, 0,40 × 0,40 = 0,16. O total é 0,15 + 0,16 = 0,31, ou 31%. Tirar a média simples das duas taxas (25% e 40%), chegando a 32,5%, só valeria se os dois grupos tivessem o mesmo tamanho.",
                          "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "banca":  "fgv"
                      }
                  ]
 }

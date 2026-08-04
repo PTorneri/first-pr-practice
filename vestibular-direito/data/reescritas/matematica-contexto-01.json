@@ -1,0 +1,121 @@
+{
+  "_comentario": [
+    "Lote 1 de 5 da recontextualizacao de Matematica (25 das 123 questoes sem",
+    "contexto).",
+    "",
+    "O problema: 123 das 150 questoes tinham enunciado de calculo puro -- 'Um",
+    "produto custava R$ 250,00 e sofreu um aumento de 12%. Qual e o novo preco?'.",
+    "Nenhuma das duas bancas pergunta assim. Na FGV toda questao embrulha o",
+    "conteudo numa situacao social ou economica narrada, e o trabalho cognitivo e",
+    "traduzir a historia em modelo. Na Insper o embrulho e uma REGRA explicita: o",
+    "enunciado entrega o processo e o trabalho e executa-lo sem escorregar.",
+    "",
+    "A conta nao muda. Mesmos numeros, mesmo gabarito, mesmas alternativas -- por",
+    "isso o recontextualiza.ps1 confere numero a numero e recusa o patch se algum",
+    "sumir ou aparecer. Trocar o embrulho sem trocar a conta e o que mantem a",
+    "reescrita plan-safe depois da linha de congelamento da fase 7."
+  ],
+  "subtopic": "matematica-rlm",
+  "questoes": {
+    "matematica-rlm-01": {
+      "banca": "fgv",
+      "enunciado": "Uma padaria de bairro manteve por muito tempo o preço da cesta de pães em R$ 250,00. Com a alta do trigo, o dono decidiu repassar aos clientes um aumento de 12%. Qual passou a ser o preço da cesta?"
+    },
+    "matematica-rlm-02": {
+      "banca": "fgv",
+      "enunciado": "Numa liquidação, uma loja anuncia 10% de desconto na etiqueta e mais 20% no caixa, este último calculado sobre o valor já reduzido pelo primeiro. Uma cliente leva um casaco de R$ 500,00. Quanto ela paga?"
+    },
+    "matematica-rlm-03": {
+      "banca": "insper",
+      "enunciado": "Numa obra vale a seguinte regra: todos os operários trabalham no mesmo ritmo, e esse ritmo não muda com o tamanho da equipe. Com 8 operários, um muro fica pronto em 15 dias. Em quantos dias 12 operários concluem o mesmo muro?"
+    },
+    "matematica-rlm-04": {
+      "banca": "insper",
+      "enunciado": "Uma gráfica opera sob a regra de que cada máquina imprime em ritmo constante e de que as máquinas não interferem umas nas outras. Uma delas imprime 4.500 folhas em 3 horas. Quantas folhas 2 máquinas idênticas imprimem funcionando ao mesmo tempo durante 5 horas?"
+    },
+    "matematica-rlm-05": {
+      "banca": "fgv",
+      "enunciado": "Numa turma de teatro da escola, para cada 3 meninos inscritos há 5 meninas. A turma tem 40 alunos ao todo. Quantos são os meninos?"
+    },
+    "matematica-rlm-06": {
+      "banca": "fgv",
+      "enunciado": "Um microempreendedor separou R$ 2.000,00 do capital de giro e aplicou o valor numa modalidade que rende juros simples à taxa de 3% ao mês. Se ele não movimentar o dinheiro, qual será o montante ao final de 6 meses?"
+    },
+    "matematica-rlm-07": {
+      "banca": "fgv",
+      "enunciado": "Uma família decidiu aplicar os R$ 1.000,00 recebidos na restituição do imposto de renda em um investimento que rende juros compostos à taxa de 10% ao ano. Qual será o montante ao final de 2 anos?"
+    },
+    "matematica-rlm-08": {
+      "banca": "fgv",
+      "enunciado": "Uma farmácia vendia determinado medicamento por R$ 80,00 em janeiro. Em fevereiro, repassou ao consumidor um aumento de 25% cobrado pelo fabricante. Em março, com a chegada de um concorrente na mesma rua, aplicou uma redução de 20% sobre o preço praticado em fevereiro. Qual é o preço de março, comparado ao de janeiro?"
+    },
+    "matematica-rlm-09": {
+      "banca": "fgv",
+      "enunciado": "Um candidato anotou as notas que obteve nos cinco últimos simulados: 7,0; 8,5; 6,0; 9,0 e 7,5. Qual é a média aritmética dessas notas?"
+    },
+    "matematica-rlm-18": {
+      "banca": "insper",
+      "enunciado": "Uma cozinha industrial trabalha com a seguinte regra: a quantidade de cada ingrediente é proporcional ao número de porções preparadas. Uma receita para 6 pessoas leva 450 g de farinha de trigo. Quantos gramas de farinha a mesma receita exige para 10 pessoas?"
+    },
+    "matematica-rlm-36": {
+      "banca": "insper",
+      "enunciado": "Um sistema de estoque registra, numa matriz de ordem 2×2, a quantidade de dois produtos em duas lojas. O estoque atual é dado por A = [[2, 5], [1, 4]] e a reposição que chega ao depósito, na mesma disposição, é dada por B = [[3, 0], [2, 6]]. Qual matriz representa o estoque depois da reposição, ou seja, A + B?"
+    },
+    "matematica-rlm-37": {
+      "banca": "fgv",
+      "enunciado": "Uma loja anuncia um televisor por R$ 340,00 e informa que esse valor já contempla um desconto de 15% sobre o preço de etiqueta. Qual era o preço de etiqueta?"
+    },
+    "matematica-rlm-38": {
+      "banca": "fgv",
+      "enunciado": "Na planta de um loteamento, em que 1 unidade equivale a 1 metro, os pontos A(2, 3) e B(6, 6) marcam os dois postes entre os quais será esticado um cabo. Qual é o comprimento do cabo?"
+    },
+    "matematica-rlm-39": {
+      "banca": "fgv",
+      "enunciado": "A mensalidade de uma escola sofreu dois reajustes seguidos: primeiro um aumento de 20% e, um trimestre depois, outro de 10% aplicado sobre o valor já reajustado. Qual foi o aumento percentual acumulado no período?"
+    },
+    "matematica-rlm-40": {
+      "banca": "insper",
+      "enunciado": "Uma equipe de pintura opera sob a regra de que o rendimento da tinta é constante por metro quadrado de parede. Uma lata de 5 litros cobre 40 m². Quantos litros são necessários para cobrir 96 m²?"
+    },
+    "matematica-rlm-41": {
+      "banca": "insper",
+      "enunciado": "Um sistema de abastecimento segue a regra de que cada torneira despeja o mesmo volume por hora, qualquer que seja o número de torneiras abertas. Três torneiras idênticas, abertas juntas, enchem uma piscina em 8 horas. Em quantas horas quatro torneiras iguais enchem a mesma piscina?"
+    },
+    "matematica-rlm-42": {
+      "banca": "insper",
+      "enunciado": "Numa obra vale a regra de que todos os pedreiros trabalham no mesmo ritmo e de que a extensão construída é proporcional ao número de pedreiros e ao total de horas trabalhadas. Trabalhando 5 horas por dia, 6 pedreiros erguem 30 m de muro em 6 dias. Quantos dias levam 8 pedreiros, trabalhando 6 horas por dia, para erguer 48 m de um muro semelhante?"
+    },
+    "matematica-rlm-43": {
+      "banca": "insper",
+      "enunciado": "Numa planilha de custos, o custo total varia linearmente com a quantidade produzida. Dois registros dessa reta foram anotados nos pontos A(−2, −1) e B(3, 9). Qual é o coeficiente angular da reta?"
+    },
+    "matematica-rlm-44": {
+      "banca": "insper",
+      "enunciado": "O consumo acumulado de um equipamento cresce linearmente com o tempo de uso, e dois registros foram anotados nos pontos A(1, 2) e B(4, 11). Qual é a equação dessa reta, na forma y = mx + b?"
+    },
+    "matematica-rlm-45": {
+      "banca": "fgv",
+      "enunciado": "Num município do interior, a taxa de desemprego caiu de 12% para 9% da força de trabalho no intervalo de um ano. De quantos pontos percentuais foi essa queda?"
+    },
+    "matematica-rlm-46": {
+      "banca": "fgv",
+      "enunciado": "Depois da instalação de câmeras nas vias principais, um bairro passou de 40 para 30 ocorrências registradas por mês. Qual foi a redução percentual do número de ocorrências?"
+    },
+    "matematica-rlm-47": {
+      "banca": "fgv",
+      "enunciado": "Um corredor amador completa o percurso de 10 km de uma prova de rua em 50 minutos, mantendo ritmo constante. Qual foi a sua velocidade média, em quilômetros por hora?"
+    },
+    "matematica-rlm-48": {
+      "banca": "fgv",
+      "enunciado": "Dois ciclistas partem no mesmo instante das extremidades opostas de uma estrada reta de 60 km, pedalando um ao encontro do outro. Um deles mantém velocidade constante de 18 km/h e o outro, de 22 km/h. Depois de quanto tempo os dois se cruzam?"
+    },
+    "matematica-rlm-49": {
+      "banca": "fgv",
+      "enunciado": "Três colegas de apartamento combinaram dividir a conta de energia proporcionalmente ao consumo medido em cada quarto. No mês passado, Ana consumiu 120 kWh, Bruno consumiu 180 kWh e Carla consumiu 300 kWh, e a conta fechou em R$ 480,00. Quanto cabe a Carla?"
+    },
+    "matematica-rlm-50": {
+      "banca": "insper",
+      "enunciado": "O aluguel de uma casa, de R$ 2.400,00, é dividido por uma regra fixa: metade do valor é rateada em partes iguais entre os três moradores, por corresponder às áreas comuns, e a outra metade é rateada proporcionalmente à área do quarto de cada um. André ocupa um quarto de 10 m², Bia, um de 15 m², e Caio, um de 25 m². Quanto Caio paga ao todo?"
+    }
+  }
+}

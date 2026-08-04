@@ -21829,213 +21829,258 @@ window.QUESTION_BANKS = {
     "ingles":  [
                    {
                        "id":  "ingles-01",
-                       "texto_apoio":  "Cities around the world are testing \u0027vertical forests\u0027, buildings covered with thousands of trees and plants growing on their balconies. Supporters claim these structures absorb carbon dioxide, reduce urban heat, and provide habitats for birds and insects. Critics, however, point out that maintaining so much vegetation requires large amounts of water and constant care, which can be costly for building owners.",
-                       "enunciado":  "De acordo com o texto, qual é a principal crítica feita aos \u0027vertical forests\u0027?",
+                       "textoId":  "ing-c01-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following claims?",
                        "alternativas":  {
-                                            "a":  "Sua manutenção exige muita água e cuidado constante, o que gera custos elevados.",
-                                            "b":  "Eles não conseguem absorver dióxido de carbono de forma eficaz, mesmo com toda a vegetação presente.",
-                                            "c":  "Eles aumentam o calor urbano em vez de reduzi-lo, tornando a região ainda mais quente que antes.",
-                                            "d":  "Eles afastam pássaros e insetos das áreas urbanas, reduzindo a biodiversidade local esperada."
+                                            "a":  "A sentence is more likely to be misattributed to a figure the public already admires than to an obscure one.",
+                                            "b":  "Most false quotations are created deliberately by people who profit from spreading them.",
+                                            "c":  "Readers who share a false quotation are usually aware that its source has never been verified.",
+                                            "d":  "Corrections published by researchers normally put an end to a false attribution.",
+                                            "e":  "The sentences that circulate falsely tend to contradict what their audience already believes."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O texto afirma que os críticos apontam a necessidade de grandes quantidades de água e cuidado constante como o principal problema, o que pode ser custoso para os proprietários dos edifícios.",
-                       "formato":  "direta"
+                       "explicacao":  "O texto diz que os nomes que atraem citações falsas quase nunca são obscuros e que as frases atribuídas a eles costumam expressar ideias que o público já sustenta. A opção sobre lucro contraria o terceiro parágrafo, que afirma não haver indústria nem proveito na falsificação; a opção sobre leitores conscientes contraria a explicação de que ninguém gasta os quatro minutos da verificação; a opção sobre correções contraria o caso do bibliotecário, em que a versão falsa voltou depois de uma semana; e a opção sobre contradizer o público inverte exatamente o que o primeiro parágrafo observa."
                    },
                    {
                        "id":  "ingles-02",
-                       "texto_apoio":  "Many people assume that the English word \u0027actually\u0027 means the same as the Portuguese word \u0027atualmente\u0027. In fact, \u0027actually\u0027 means \u0027in fact\u0027 or \u0027in truth\u0027, while \u0027atualmente\u0027 corresponds to the English word \u0027currently\u0027 or \u0027nowadays\u0027. This mismatch is a classic example of what linguists call false cognates.",
-                       "enunciado":  "Segundo o texto, qual é o problema relacionado às palavras \u0027actually\u0027 e \u0027atualmente\u0027?",
+                       "textoId":  "ing-c01-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the last paragraph, \u0027the phenomenon\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "As duas palavras têm exatamente o mesmo significado em inglês e português, por serem escritas de forma idêntica.",
-                                            "b":  "Elas são grafadas de forma idêntica, mas nenhuma delas tem significado definido em nenhum dos dois idiomas.",
-                                            "c":  "\u0027Actually\u0027 não existe na língua inglesa e é apenas um erro comum de tradução cometido por iniciantes.",
-                                            "d":  "Apesar da semelhança gráfica e sonora, seus significados são diferentes, o que caracteriza um falso cognato."
+                                            "a":  "the practice of tracing a quotation back to the wrong source on purpose.",
+                                            "b":  "the habit of assigning appealing sentences to admired figures without checking them.",
+                                            "c":  "the reluctance of historians to comment on material that circulates online.",
+                                            "d":  "the disappearance of obscure writers from public memory over time.",
+                                            "e":  "the commercial market that has grown around invented quotations."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto explica que, apesar da aparência semelhante, \u0027actually\u0027 significa \u0027de fato/na verdade\u0027, enquanto \u0027atualmente\u0027 corresponde a \u0027currently\u0027/\u0027nowadays\u0027 em inglês, exemplificando o fenômeno dos falsos cognatos.",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O termo retoma o que os três parágrafos anteriores descrevem: frases agradáveis atribuídas a figuras admiradas sem verificação — o que a historiadora chama de \u0027erro afetuoso\u0027. Rastrear a origem é justamente o oposto do fenômeno, e o texto trata disso como correção, não como o problema; a relutância de historiadores não aparece em lugar nenhum; o esquecimento de autores obscuros é mencionado só de passagem, como consequência, não como o objeto da análise; e o mercado comercial é explicitamente negado, já que o texto afirma não haver lucro na prática."
                    },
                    {
                        "id":  "ingles-03",
-                       "texto_apoio":  "A recent survey found that nearly 60% of remote workers report feeling more productive at home than in a traditional office. However, the same survey revealed that many of these workers also experience greater difficulty separating their professional and personal lives, often checking emails late at night or during weekends.",
-                       "enunciado":  "Qual é a ideia central expressa pelo texto?",
+                       "textoId":  "ing-c01-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "O trabalho remoto é unanimemente considerado prejudicial pelos trabalhadores, segundo a pesquisa citada.",
-                                            "b":  "O trabalho remoto aumenta a produtividade, mas dificulta a separação entre vida profissional e pessoal.",
-                                            "c":  "A pesquisa não encontrou nenhuma vantagem no trabalho remoto, apontando apenas prejuízos aos trabalhadores.",
-                                            "d":  "Os trabalhadores remotos nunca verificam e-mails fora do horário comercial, segundo os dados coletados."
+                                            "a":  "list the conditions that international lenders attach to their loans.",
+                                            "b":  "compare the price of imported fuel with the price of imported medicine.",
+                                            "c":  "explain why an adjustment economists consider overdue becomes a political emergency.",
+                                            "d":  "argue that floating a currency should be avoided in low-income countries.",
+                                            "e":  "describe the technical procedure by which a central bank sets an official rate."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto apresenta dois aspectos: o ganho de produtividade percebido por parte dos trabalhadores remotos e, ao mesmo tempo, a dificuldade em separar vida pessoal e profissional, revelada pela mesma pesquisa.",
-                       "formato":  "direta"
+                       "resposta":  "c",
+                       "explicacao":  "O parágrafo contrapõe um custo visível — os preços que sobem na primeira manhã — a um custo invisível que já vinha sendo pago em silêncio, e fecha nomeando essa assimetria como a aritmética que transforma o ajuste em emergência política. As condições dos credores só aparecem no parágrafo seguinte; combustível e remédio são citados juntos, num mesmo exemplo, sem qualquer comparação entre eles; o texto não defende evitar a flutuação, e sim explica por que ela é politicamente cara; e nenhum procedimento técnico de fixação de taxa é descrito."
                    },
                    {
                        "id":  "ingles-04",
-                       "texto_apoio":  "The word \u0027library\u0027 in English does not mean \u0027livraria\u0027, as many Portuguese speakers mistakenly assume. A library is a place where books can be borrowed for free, usually maintained by a school, university, or the government. The word for a place where books are sold, as in Portuguese \u0027livraria\u0027, is \u0027bookstore\u0027 in English.",
-                       "enunciado":  "Qual é a diferença de significado apontada no texto entre \u0027library\u0027 e \u0027livraria\u0027?",
+                       "textoId":  "ing-c01-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely suggests that, before the currency was allowed to float,",
                        "alternativas":  {
-                                            "a":  "As duas palavras são sinônimas e podem ser usadas de forma intercambiável em qualquer contexto, pois compartilham a mesma raiz latina.",
-                                            "b":  "\u0027Library\u0027 refere-se exclusivamente a bibliotecas particulares dentro de residências, nunca a instituições públicas.",
-                                            "c":  "\u0027Library\u0027 significa um lugar onde se compram livros, tal como \u0027livraria\u0027 em português, pois ambas derivam do mesmo radical latino.",
-                                            "d":  "\u0027Library\u0027 é uma biblioteca, onde livros são emprestados gratuitamente; \u0027livraria\u0027, em português, corresponde a \u0027bookstore\u0027 em inglês."
+                                            "a":  "the cost of an overvalued currency was borne by no one in particular.",
+                                            "b":  "imported goods were unavailable to households at any price.",
+                                            "c":  "the official exchange rate was kept secret from private traders.",
+                                            "d":  "a transfer of wealth was already taking place, with victims who were harder to see.",
+                                            "e":  "central banks in these countries were already formally independent."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O texto esclarece que \u0027library\u0027 é uma biblioteca (empréstimo gratuito de livros), enquanto o equivalente em inglês para \u0027livraria\u0027 (loja de livros) é \u0027bookstore\u0027, configurando um caso clássico de falso cognato entre as duas línguas.",
-                       "formato":  "direta"
+                       "explicacao":  "O texto afirma que a diferença entre a taxa oficial e a paralela funcionava como subsídio a quem tinha acesso ao banco central e que essa transferência acontecia \u0027num balcão, em silêncio, ao longo de anos\u0027. A ideia de que ninguém arcava com o custo contraria diretamente essa passagem; a indisponibilidade total de importados não é afirmada, já que havia mercado paralelo funcionando; o próprio texto diz que a diferença não era segredo; e a independência formal do banco central aparece como condição imposta depois pelos credores, não como situação anterior."
                    },
                    {
                        "id":  "ingles-05",
-                       "texto_apoio":  "Ocean plastic pollution has become one of the most visible environmental crises of our time. Every year, millions of tons of plastic waste enter the oceans, harming marine life and entering the food chain. Some countries have banned single-use plastic bags, while others are investing in technology to collect floating debris directly from the sea.",
-                       "enunciado":  "De acordo com o texto, quais são as duas estratégias mencionadas para lidar com a poluição plástica nos oceanos?",
+                       "textoId":  "ing-c01-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following about reform programmes?",
                        "alternativas":  {
-                                            "a":  "Proibir a pesca comercial e aumentar impostos sobre embarcações, ainda que o texto não mencione essa medida.",
-                                            "b":  "Construir novas fábricas de plástico e reduzir a fiscalização ambiental, o que contraria as estratégias citadas.",
-                                            "c":  "Banir sacolas plásticas de uso único e investir em tecnologia para coletar detritos flutuantes.",
-                                            "d":  "Incentivar o consumo de plástico reciclado sem qualquer outra medida, ideia que não consta no texto."
+                                            "a":  "They fail whenever the correction to the exchange rate is a large one.",
+                                            "b":  "The removal of fuel subsidies is what determines whether a programme survives.",
+                                            "c":  "Cash transfers work only in countries that are holding an election.",
+                                            "d":  "An independent central bank makes devaluation unnecessary.",
+                                            "e":  "A reform lasts longer when the population is given something it can identify in return."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O texto menciona explicitamente duas estratégias: alguns países proibiram sacolas plásticas de uso único (\u0027banned single-use plastic bags\u0027), enquanto outros investem em tecnologia para coletar detritos do mar (\u0027collect floating debris\u0027).",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O terceiro parágrafo diz textualmente que a variável decisiva não é o tamanho da correção, mas se a população recebe algo em troca — e cita transferências de renda como o que separou as reformas que sobreviveram das que a rua reverteu. Isso já descarta a opção sobre o tamanho da correção, negada na mesma frase. A retirada dos subsídios é listada como condição dos credores, não como o fator de sobrevivência; nada associa transferências a anos eleitorais, que aparecem no texto por outro motivo, o do momento da desvalorização; e a independência do banco central é uma exigência que acompanha a desvalorização, não um substituto dela."
                    },
                    {
                        "id":  "ingles-06",
-                       "texto_apoio":  "In English, the adjective \u0027sensible\u0027 does not mean \u0027sensível\u0027 (sensitive), as many learners assume. \u0027Sensible\u0027 means reasonable or practical, as in \u0027a sensible decision\u0027. The correct translation for the Portuguese word \u0027sensível\u0027 is \u0027sensitive\u0027.",
-                       "enunciado":  "Qual é o significado correto da palavra \u0027sensible\u0027 em inglês, segundo o texto?",
+                       "textoId":  "ing-c01-t2",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text supports all of the following statements EXCEPT:",
                        "alternativas":  {
-                                            "a":  "Sensível, emocionalmente afetado por algo.",
-                                            "b":  "Sensorial, relacionado aos cinco sentidos.",
-                                            "c":  "Sensacional, extraordinário.",
-                                            "d":  "Razoável, prático, ligado ao bom senso."
+                                            "a":  "Access to dollars at the official rate was worth money to those who had it.",
+                                            "b":  "Lenders have concluded that the conditions attached to their loans do not work and have dropped them.",
+                                            "c":  "The price increases that follow a devaluation are immediately visible to the public.",
+                                            "d":  "The moment chosen for a devaluation can decide the fate of a government.",
+                                            "e":  "Postponing an adjustment shifts its cost onto people with little influence over the decision."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto define \u0027sensible\u0027 como sinônimo de \u0027reasonable\u0027 ou \u0027practical\u0027, ou seja, razoável ou prático, deixando claro que a tradução correta para \u0027sensível\u0027 em português é \u0027sensitive\u0027, e não \u0027sensible\u0027.",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O texto diz o contrário: os credores \u0027aprenderam a anexar condições\u0027 e continuam fazendo isso; o que ele qualifica como misto é o resultado dos programas, não a prática de impor condições. As demais estão sustentadas — o acesso à taxa oficial rendia fortunas aos importadores; o aumento de preços é visível a todos já na primeira manhã; desvalorizar em ano eleitoral ou em safra ruim derrubou governos que seriam reeleitos; e adiar joga o custo sobre quem não está na sala."
                    },
                    {
                        "id":  "ingles-07",
-                       "texto_apoio":  "Artificial intelligence tools are increasingly used in hiring processes, screening thousands of resumes in seconds. While companies praise the efficiency gains, researchers warn that these systems can reproduce biases present in the data used to train them, sometimes disadvantaging candidates from underrepresented groups.",
-                       "enunciado":  "Qual é o principal alerta feito pelos pesquisadores mencionados no texto?",
+                       "textoId":  "ing-c01-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "As empresas pararam de usar inteligência artificial em processos seletivos, apesar de o texto não afirmar isso.",
-                                            "b":  "A inteligência artificial elimina completamente qualquer forma de discriminação na contratação.",
-                                            "c":  "As ferramentas de inteligência artificial são sempre mais justas do que recrutadores humanos.",
-                                            "d":  "Os sistemas de inteligência artificial podem reproduzir vieses presentes nos dados usados em seu treinamento."
+                                            "a":  "Urban animals abandon green spaces in which human traffic is high.",
+                                            "b":  "The deer in the park studied had lost the ability to feed during daylight.",
+                                            "c":  "The animals described are responding to changes in human routine rather than to danger itself.",
+                                            "d":  "Species that were already nocturnal benefit from the arrival of daytime species in their hours.",
+                                            "e":  "Enlarging an urban reserve is the most effective conservation measure available."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto afirma que pesquisadores alertam sobre o risco de esses sistemas reproduzirem vieses presentes nos dados de treinamento, o que pode prejudicar candidatos de grupos sub-representados.",
-                       "formato":  "direta"
+                       "resposta":  "c",
+                       "explicacao":  "O segundo parágrafo é explícito: os animais não parecem estar aprendendo que pessoas são perigosas, mas lendo um horário, que revisam quando o horário muda — e a volta imediata da alimentação diurna quando a trilha reabriu confirma isso. O texto diz que a raposa ocupa o mesmo território em outra hora, e não que abandona a área; a alimentação diurna dos cervos voltou em onze dias, o que exclui perda de capacidade; a chegada de espécies diurnas é apresentada como competição para as noturnas, não como benefício; e o fecho defende justamente que fechar a reserva duas noites por semana pode render mais do que ampliá-la."
                    },
                    {
                        "id":  "ingles-08",
-                       "texto_apoio":  "A common mistake among Portuguese speakers learning English is confusing \u0027pretend\u0027 with \u0027pretender\u0027 (to intend). In English, \u0027to pretend\u0027 means to fake or simulate something, as in \u0027she pretended to be asleep\u0027. The correct verb for expressing intention, as in \u0027pretender fazer algo\u0027, is \u0027to intend\u0027.",
-                       "enunciado":  "Segundo o texto, qual é o erro comum cometido por falantes de português ao usar a palavra \u0027pretend\u0027 em inglês?",
+                       "textoId":  "ing-c01-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "detalhe",
+                       "enunciado":  "According to the text, how long after the footpath was closed did deer begin feeding in the middle of the afternoon?",
                        "alternativas":  {
-                                            "a":  "Usar \u0027pretend\u0027 no sentido de fingir, quando na verdade essa é a única definição correta possível.",
-                                            "b":  "Usar \u0027pretend\u0027 apenas em contextos formais, quando deveria ser informal em qualquer situação.",
-                                            "c":  "Acreditar que \u0027pretend\u0027 não existe na língua inglesa, mesmo sendo uma palavra comum.",
-                                            "d":  "Confundir \u0027pretend\u0027 (fingir) com o sentido de \u0027pretender\u0027 (ter a intenção de), que em inglês corresponde a \u0027intend\u0027."
+                                            "a":  "Four hours.",
+                                            "b":  "Two nights.",
+                                            "c":  "A full season.",
+                                            "d":  "Eleven days.",
+                                            "e":  "One year."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O texto explica que \u0027pretend\u0027 significa fingir/simular, enquanto o verbo correspondente a \u0027pretender\u0027 (ter intenção) em inglês é \u0027intend\u0027, caracterizando um clássico falso cognato entre as duas línguas.",
-                       "formato":  "direta"
+                       "explicacao":  "O dado está no segundo parágrafo: o fechamento da trilha foi seguido, em até onze dias, por cervos alimentando-se no meio da tarde. Os outros números aparecem no texto com outras funções e servem de armadilha para quem lê por varredura: quatro horas é a janela depois da meia-noite para onde os mamíferos deslocam o movimento, e duas noites por semana é a proposta de fechamento da reserva no último parágrafo."
                    },
                    {
                        "id":  "ingles-09",
-                       "texto_apoio":  "Electric vehicles are often marketed as a completely clean solution to transportation emissions. Yet, the environmental impact of mining lithium and cobalt for batteries, along with the carbon footprint of electricity generation in many countries, means that electric cars are not entirely emission-free when their full life cycle is considered.",
-                       "enunciado":  "Qual é o argumento central apresentado pelo texto em relação aos veículos elétricos?",
+                       "textoId":  "ing-c01-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the third paragraph, \u0027the safe window\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "Os veículos elétricos são completamente livres de qualquer impacto ambiental, ideia que o texto rejeita explicitamente.",
-                                            "b":  "A mineração de lítio e cobalto não tem qualquer relação com a fabricação de veículos elétricos, contrariando o texto.",
-                                            "c":  "A geração de eletricidade nunca produz emissões de carbono, em nenhum país, afirmação que o texto contraria.",
-                                            "d":  "Apesar de reduzirem emissões diretas, os veículos elétricos ainda geram impacto ambiental quando se considera seu ciclo completo de produção e uso."
+                                            "a":  "the period during which a population census is carried out.",
+                                            "b":  "the number of days a footpath stays closed for repairs.",
+                                            "c":  "the area of a park that camera traps are able to cover.",
+                                            "d":  "the interval between the arrival of two competing species.",
+                                            "e":  "the part of the night in which the animal can feed without meeting people."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto relativiza a ideia de que carros elétricos são totalmente livres de emissões, apontando o impacto da mineração de lítio e cobalto e da geração de eletricidade como fatores que devem ser considerados no ciclo de vida completo do veículo.",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "A expressão fecha a explicação de por que vários herbívoros passam menos tempo total se alimentando: a faixa segura é mais curta que o dia que ela substituiu — ou seja, as horas de escuro em que não há gente. O censo aparece na frase seguinte, com outro propósito, o de mostrar que a população parece estável enquanto cada indivíduo come menos; a duração do reparo da trilha e o alcance das armadilhas fotográficas são dados de outros parágrafos; e o intervalo entre espécies competidoras não é uma medida de tempo que o texto chegue a mencionar."
                    },
                    {
                        "id":  "ingles-10",
-                       "texto_apoio":  "In English, \u0027to attend\u0027 does not mean \u0027atender\u0027 (to answer or to assist). Instead, \u0027to attend\u0027 means to be present at an event, as in \u0027attend a meeting\u0027 or \u0027attend a class\u0027. The verb closer to the Portuguese \u0027atender\u0027 is \u0027to answer\u0027 (a phone call) or \u0027to assist\u0027 (a customer).",
-                       "enunciado":  "Qual é o sentido correto do verbo \u0027to attend\u0027 em inglês, segundo o texto?",
+                       "textoId":  "ing-c01-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Responder a uma pergunta formal feita por um professor.",
-                                            "b":  "Atender uma ligação telefônica, no sentido de atender o telefone.",
-                                            "c":  "Assistir/comparecer a um evento, como uma reunião ou aula.",
-                                            "d":  "Ajudar um cliente em uma loja, prestando atendimento direto."
+                                            "a":  "Administrative and legal measures can shut down an organisation while remaining defensible in court.",
+                                            "b":  "Governments adopt these methods mainly because they are cheaper than police action.",
+                                            "c":  "International sanctions have been redesigned to respond to gradual processes.",
+                                            "d":  "Courts in these countries have generally refused to apply the rules described.",
+                                            "e":  "Jailing a journalist is the least costly option available to such a government."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O texto deixa claro que \u0027to attend\u0027 significa comparecer ou estar presente em um evento (como uma reunião ou aula), e não \u0027atender\u0027, que em inglês corresponde a \u0027to answer\u0027 ou \u0027to assist\u0027, dependendo do contexto.",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "O primeiro parágrafo descreve a sequência inteira — exigência de declaração, atraso, multa acima do orçamento, fechamento — e conclui que nada nela parece repressão vista de fora e que cada passo pode ser defendido num tribunal. A opção do custo inverte o texto, que diz explicitamente que a vantagem não é eficiência e que processar um tesoureiro sai mais caro e mais lento; as sanções são descritas como talhadas para um evento e sem vocabulário para um processo longo; os tribunais são caracterizados como complacentes, e não como resistentes; e prender um jornalista é apresentado como o caminho que cria problema internacional, isto é, o mais caro."
                    },
                    {
                        "id":  "ingles-11",
-                       "texto_apoio":  "Urban gardens are gaining popularity in large cities as a response to rising food prices and growing interest in sustainability. Residents transform empty lots and rooftops into small farms, growing vegetables and herbs that are later shared among neighbors or sold at local markets, strengthening community ties in the process.",
-                       "enunciado":  "Segundo o texto, além de fornecer alimentos, qual é outro benefício dos jardins urbanos mencionado?",
+                       "textoId":  "ing-c01-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the third paragraph, \u0027the second number\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "Eles reduzem drasticamente o preço dos imóveis nas cidades.",
-                                            "b":  "Eles fortalecem os laços comunitários entre os vizinhos.",
-                                            "c":  "Eles eliminam completamente a necessidade de supermercados nas cidades.",
-                                            "d":  "Eles substituem integralmente a agricultura tradicional em grande escala."
+                                            "a":  "the value of the fines imposed on civic associations.",
+                                            "b":  "the length of time a process of this kind takes to complete.",
+                                            "c":  "the quantity of associations that have been forced to close.",
+                                            "d":  "the count of arrests traditionally used to measure repression.",
+                                            "e":  "the number of summits at which the issue has been raised."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto afirma explicitamente que o compartilhamento de alimentos entre vizinhos e a venda em mercados locais fortalecem os laços comunitários (\u0027strengthening community ties\u0027), além do benefício alimentar direto.",
-                       "formato":  "direta"
+                       "resposta":  "d",
+                       "explicacao":  "A frase contrapõe dois indicadores na ordem em que os apresenta: as organizações passaram a contar fechamentos de associações em vez de prisões, e o argumento é que o segundo item dessa oposição — as prisões — deixou de medir alguma coisa. Contar fechamentos é justamente o primeiro número, o que passou a ser usado; o valor das multas e a duração de quatro anos do processo são dados de outros trechos e não estão sendo contrapostos ali; e as cúpulas aparecem no parágrafo anterior, a propósito da posição defensável do governo."
                    },
                    {
                        "id":  "ingles-12",
-                       "texto_apoio":  "A frequent false cognate for Portuguese speakers is the word \u0027parents\u0027, which does not mean \u0027parentes\u0027 (relatives). In English, \u0027parents\u0027 refers specifically to one\u0027s mother and father. The word for \u0027parentes\u0027 in a broader sense, including cousins, uncles, and aunts, is \u0027relatives\u0027.",
-                       "enunciado":  "De acordo com o texto, qual é a tradução correta para \u0027parentes\u0027 em um sentido amplo (incluindo primos, tios etc.)?",
+                       "textoId":  "ing-c01-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The author most likely regards the long-term stability of the method as",
                        "alternativas":  {
-                                            "a":  "Cousins",
-                                            "b":  "Family only",
-                                            "c":  "Parents",
-                                            "d":  "Relatives"
+                                            "a":  "assured, since the constitution itself is never altered.",
+                                            "b":  "uncertain, since it depends on courts and officials continuing to cooperate.",
+                                            "c":  "impossible, since no legal system can be used in this way for long.",
+                                            "d":  "irrelevant, since foreign ministries will intervene in any case.",
+                                            "e":  "proven, since no government using it has yet been challenged."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto indica que \u0027parents\u0027 se refere apenas a mãe e pai, enquanto \u0027relatives\u0027 é o termo correto em inglês para \u0027parentes\u0027 em sentido amplo, incluindo outros membros da família.",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionando e de funcionários dispostos a aplicar regras que sabem ser pretextos — duas coisas que se mostraram mais difíceis de sustentar do que se esperava. Dizer que é garantida ignora essa ressalva; dizer que é impossível vai além dela, já que o texto abre o artigo justamente reconhecendo governos duradouros; a intervenção estrangeira é descrita como impotente, não como certa; e o texto não afirma ausência de contestação, e sim ausência de resposta eficaz."
                    },
                    {
                        "id":  "ingles-13",
-                       "texto_apoio":  "Streaming platforms have changed the way people consume music, replacing physical albums with personalized playlists generated by algorithms. While this shift has made music more accessible than ever, some artists argue that royalty payments from streaming are too low to sustain a career, especially for independent musicians without major label support.",
-                       "enunciado":  "Qual crítica é apresentada no texto em relação às plataformas de streaming de música?",
+                       "textoId":  "ing-c01-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The third paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "Elas eliminaram totalmente o uso de algoritmos na recomendação de músicas, contrariando o texto.",
-                                            "b":  "Os pagamentos de royalties por streaming são considerados baixos demais para sustentar a carreira de alguns artistas.",
-                                            "c":  "Apenas artistas de grandes gravadoras utilizam plataformas de streaming, ideia ausente do texto.",
-                                            "d":  "Elas tornaram a música menos acessível ao público em geral, o que o texto não sustenta."
+                                            "a":  "explain the procedure by which a state board sets the price paid to farmers.",
+                                            "b":  "show that chocolate manufacturers have been breaking labelling rules.",
+                                            "c":  "compare the cocoa market in West Africa with the one in South America.",
+                                            "d":  "argue that shoppers ought to pay closer attention to the weight of a bar.",
+                                            "e":  "show that manufacturers absorb part of a price rise in ways the package does not state."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto aponta que, apesar do ganho em acessibilidade, artistas — sobretudo músicos independentes — criticam os baixos pagamentos de royalties gerados pelas plataformas de streaming como insuficientes para sustentar uma carreira.",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O parágrafo lista três ajustes — cinco gramas a menos, dois pontos percentuais de cacau a menos, mais recheio — sob a observação de que a resposta vem \u0027de maneiras que o rótulo não anuncia\u0027, e fecha dizendo que o comprador percebe o preço com mais confiabilidade do que qualquer uma dessas mudanças. O funcionamento do conselho estatal é assunto do parágrafo anterior; nada no texto afirma ilegalidade, e sim que a mudança não é anunciada; não há mercado sul-americano em comparação, apenas São Paulo citada como ponto de venda; e o texto descreve o comportamento do consumidor sem prescrever o que ele deveria fazer."
                    },
                    {
                        "id":  "ingles-14",
-                       "texto_apoio":  "In English, \u0027college\u0027 can be a false friend for Portuguese speakers who assume it always means \u0027colégio\u0027 (secondary school). In American English, \u0027college\u0027 usually refers to higher education, similar to \u0027faculdade\u0027 or \u0027universidade\u0027. The word for \u0027colégio\u0027, in the sense of a secondary school, is typically \u0027high school\u0027.",
-                       "enunciado":  "Segundo o texto, o que a palavra \u0027college\u0027, no inglês americano, geralmente significa?",
+                       "textoId":  "ing-c01-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following about a sharp rise in the world price of cocoa?",
                        "alternativas":  {
-                                            "a":  "Ensino superior, equivalente a faculdade ou universidade.",
-                                            "b":  "Ensino fundamental, etapa inicial da educação básica.",
-                                            "c":  "Ensino médio (colégio, no sentido usado em português).",
-                                            "d":  "Curso técnico de curta duração, sem equivalência universitária."
+                                            "a":  "It can lead to smaller harvests later on, because the growers do not receive it.",
+                                            "b":  "It reaches farmers at once, since the farm-gate price follows the world market.",
+                                            "c":  "It is passed on to shoppers within a few weeks of occurring.",
+                                            "d":  "It encourages farmers to plant additional trees in the same season.",
+                                            "e":  "It is caused mainly by decisions taken by the manufacturers."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O texto esclarece que, no inglês americano, \u0027college\u0027 geralmente se refere ao ensino superior, sendo um falso cognato em relação a \u0027colégio\u0027 em português, que corresponde a \u0027high school\u0027 em inglês.",
-                       "formato":  "direta"
+                       "explicacao":  "O segundo parágrafo fecha exatamente com isso: preso a um contrato fixo, o produtor corta fertilizante e deixa de repor árvores velhas, e por isso um pico de preço pode reduzir a oferta futura em vez de estimulá-la. A ideia de repasse imediato ao produtor contraria o preço fixado pelo conselho antes da safra; o repasse rápido ao consumidor contraria a compra a termo, que faz a barra de março refletir a safra anterior; plantar mais árvores é o oposto do corte de gastos descrito; e a alta é atribuída à safra da África Ocidental, não a decisões dos fabricantes."
                    },
                    {
                        "id":  "ingles-15",
-                       "texto_apoio":  "Sleep deprivation among teenagers has become a growing concern for public health experts. Studies show that early school start times conflict with adolescents\u0027 natural sleep cycles, leading many students to attend classes while significantly sleep-deprived. Some school districts have already begun delaying start times in response to this research.",
-                       "enunciado":  "Qual medida é mencionada no texto como resposta ao problema da privação de sono entre adolescentes?",
+                       "textoId":  "ing-c01-t5",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text most likely supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "A proibição total de aulas no período da manhã em todas as escolas.",
-                                            "b":  "A redução da carga horária escolar para menos de três horas diárias.",
-                                            "c":  "O adiamento do horário de início das aulas por alguns distritos escolares.",
-                                            "d":  "A eliminação de qualquer estudo científico sobre o sono dos adolescentes."
+                                            "a":  "Buying forward protects manufacturers from the full effect of a single bad harvest.",
+                                            "b":  "A fixed farm-gate price shields growers when world prices collapse.",
+                                            "c":  "State boards raise the price paid to farmers as soon as the world price rises.",
+                                            "d":  "Shoppers register a change in price more readily than a change in size.",
+                                            "e":  "The shelf price of chocolate responds to the cocoa market with a delay."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O texto afirma que alguns distritos escolares já começaram a adiar o horário de início das aulas (\u0027delaying start times\u0027) como resposta às pesquisas sobre a privação de sono entre adolescentes.",
-                       "formato":  "direta"
+                       "explicacao":  "O texto afirma o contrário: o preço na porteira é fixado antes do início da safra e por isso protege o produtor na queda e o exclui na alta — os produtores assistem a um mercado recorde de dentro de um contrato fixo. As demais estão sustentadas: a compra a termo existe para que um ano ruim não chegue de uma vez às fábricas; o preço fixo protege na queda; as pesquisas indicam que o comprador percebe o preço melhor que a gramagem ou a proporção de cacau; e a barra de março reflete safra e preço da temporada anterior."
                    },
                    {
                        "id":  "ingles-16",
@@ -31033,5 +31078,29 @@ window.QUESTION_BANKS = {
                        ]
 };
 window.QUESTION_TEXTS = {
-
+    "ing-c01-t1":  {
+                       "id":  "ing-c01-t1",
+                       "fonte":  "Texto original em genero de ensaio de divulgacao, no registro das colunas de opiniao usadas pela banca",
+                       "conteudo":  "Every few months a sentence appears online with a famous name attached to it: Mark Twain, Einstein, Maya Angelou. The sentence is usually neat, quotable [fácil de citar] and slightly too polished [polido] to be true. Researchers who track these attributions [atribuições] have noticed a pattern. The names that attract false quotations are almost never obscure ones. They belong to writers and scientists the public already trusts, and the sentences assigned to them tend to express ideas the public already holds.\n\nThis suggests that misattribution is not simply a failure of memory. A forgotten source is replaced by a famous one because the famous name does work that the sentence alone cannot do: it converts an opinion into an authority. When a librarian traced [rastreou] one widely shared Twain quotation to a magazine article published fourteen years after his death, the correction circulated for a week and the false version returned.\n\nWhat is striking is how rarely anyone benefits from the deception [engano]. There is no industry of quotation forgery [falsificação], no profit in it. The sentences spread because each person who repeats one is paying a small compliment to a writer they admire, and because verifying it would take four minutes that nobody has. One historian of reading calls this \u0027affectionate error\u0027 — a mistake made out of regard rather than malice [má-fé].\n\nShe argues that the phenomenon tells us less about our relationship with facts than about our relationship with reputation. We do not so much believe that Twain said the sentence. We believe that he would have."
+                   },
+    "ing-c01-t2":  {
+                       "id":  "ing-c01-t2",
+                       "fonte":  "Texto original em genero de reportagem analitica de revista economica internacional",
+                       "conteudo":  "For two decades, several governments in Africa and South Asia held their currencies at official rates that no private trader would accept. Importers who could obtain dollars at the official price made fortunes; everyone else bought them on a parallel market [mercado paralelo] at two or three times that rate. The gap was not a secret. It was, in effect, a subsidy [subsídio] paid to whoever had access to the central bank, and its beneficiaries were rarely the poor.\n\nWhen such a country finally lets its currency float [flutuar], the immediate result is a shock. Imported fuel, medicine and wheat cost more in local money on the first morning, and the increase is visible to everyone. What is not visible is the earlier transfer of wealth to the well connected, because it happened at a counter [balcão], in silence, over years. A finance minister who devalues [desvaloriza] is therefore blamed for a price rise that was already being paid — only, until then, by people without the standing [posição] to complain. This is the arithmetic that turns an adjustment [ajuste] economists call overdue [atrasado] into a political emergency.\n\nLenders have learned to attach conditions to the loans that accompany such reforms: fuel subsidies are to be removed, arrears [atrasados] to suppliers cleared, the central bank made formally independent. The record of these programmes is mixed. Where governments paired devaluation with cash transfers to households, the reforms have survived; where they did not, the streets have often reversed them within a year. The variable that seems to matter is not the size of the correction but whether the population can be shown something in exchange for it.\n\nNone of this settles the question of timing. Devaluing during a failed harvest [safra] or an election year has undone governments that would otherwise have been re-elected, and the temptation to postpone [adiar] is strong precisely because the cost of postponement falls on people who are not in the room."
+                   },
+    "ing-c01-t3":  {
+                       "id":  "ing-c01-t3",
+                       "fonte":  "Texto original em genero de divulgacao cientifica, no registro das revistas de historia natural usadas pela banca",
+                       "conteudo":  "Biologists studying animals in and around cities have begun to describe them less by where they live than by when. A fox in a European capital is not occupying territory that a rural fox would refuse; it is occupying the same territory at a different hour. Camera traps [armadilhas fotográficas] set in a dozen countries show the same displacement: as human traffic in a green space rises, mammals that were active in daylight shift most of their movement into the four hours after midnight.\n\nThe adjustment is fast. In one park, the closure of a footpath [trilha] for repairs was followed within eleven days by deer [cervos] feeding in the middle of the afternoon; when the path reopened, the daylight feeding stopped almost as quickly. The animals do not appear to be learning that people are dangerous. They are reading a timetable [horário], and they revise it as the timetable changes.\n\nThe consequence is easy to underestimate. An animal pushed into the night is not merely inconvenienced [incomodado]. It hunts with senses tuned for another light, competes with species that were already nocturnal and, in the case of several herbivores, spends less total time feeding, because the safe window is shorter than the day it replaced. A population can look stable in a census [censo] while every individual in it is eating less.\n\nThis is why researchers increasingly argue that conservation inside cities is a question of scheduling rather than of area. Closing a reserve two nights a week may do more for the animals in it than enlarging [ampliar] it — and it costs nothing that a city government would have to buy."
+                   },
+    "ing-c01-t4":  {
+                       "id":  "ing-c01-t4",
+                       "fonte":  "Texto original em genero de artigo de revista de relacoes internacionais",
+                       "conteudo":  "The most durable authoritarian governments of the past twenty years have rarely needed to ban an opposition party. They have preferred to register it, audit [auditar] it and fine [multar] it. A civic association is required to declare its foreign funding [financiamento]; the declaration is filed late; the fine exceeds the association\u0027s annual budget; the association closes. Nothing in that sequence looks like repression [repressão] from outside, and every step of it can be defended in a courtroom.\n\nThe advantage of the method is not efficiency. Prosecuting a treasurer [tesoureiro] over paperwork is slower and more expensive than arresting an organiser. The advantage is that it produces no martyr [mártir] and no photograph. A government that jails a journalist acquires an international problem; a government that bankrupts [leva à falência] the journalist\u0027s employer over a licensing dispute acquires a quiet newsroom and a defensible position at the next summit [cúpula].\n\nThis is also what makes the method hard to answer. Foreign ministries willing to protest a mass arrest have no vocabulary for a tax audit, and the sanctions [sanções] they have built assume an event — a coup, a stolen election, a killing — rather than a process that takes four years and leaves the constitution untouched. Human rights organisations have begun to count closures of associations rather than arrests, on the argument that the second number no longer measures anything.\n\nWhether the technique is stable is a separate question. Its weakness is that it depends on courts that are compliant [complacentes] but still functioning, and on officials willing to enforce rules they know to be pretexts [pretextos]. Both have proved harder to sustain than the governments using them expected."
+                   },
+    "ing-c01-t5":  {
+                       "id":  "ing-c01-t5",
+                       "fonte":  "Texto original em genero de reportagem economica de jornal diario",
+                       "conteudo":  "When the price of cocoa [cacau] tripled in eighteen months, the first people to notice were not shoppers. Chocolate on a supermarket shelf in London or São Paulo had been bought under contracts signed a year earlier, and the bar a customer picked up in March reflected a harvest [safra] and a price from the previous season. The delay is a feature of the trade, not an accident: manufacturers buy forward [compram a termo] precisely so that a bad year in West Africa does not arrive in their factories all at once.\n\nWhat the delay conceals [esconde] is where the loss lands. In several producing countries the farm-gate price [preço na porteira] is fixed by a state board before the season begins, which protects growers when the world price collapses and excludes them from it when the world price triples. Farmers watching a record market from inside a fixed contract have few options, and the one most of them take — cutting spending on fertiliser [fertilizante] and on replacing ageing trees — guarantees a weaker harvest in the years that follow. A price spike [pico de preço] can therefore reduce future supply rather than call it forth.\n\nManufacturers, meanwhile, respond in ways the label does not announce. The bar shrinks [encolhe] by five grams, the cocoa share falls by two percentage points, a filling [recheio] grows. Surveys suggest that shoppers register the price on the shelf far more reliably than either change.\n\nBy the time the shelf price finally moves, the market that caused it may have turned. That mismatch [descompasso] is one reason commodity shocks are so often described, afterwards, as having been obvious — and so rarely acted on while they are happening."
+                   }
 };

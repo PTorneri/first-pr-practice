@@ -22594,453 +22594,513 @@ window.QUESTION_BANKS = {
                    },
                    {
                        "id":  "ingles-46",
-                       "texto_apoio":  "Marine biologists have observed that some coral reefs are surprisingly resilient, recovering from bleaching events faster than expected when water temperatures return to normal and pollution levels are kept low. This has encouraged some scientists to focus conservation efforts on protecting these naturally hardier reef systems.",
-                       "enunciado":  "In the text, the word \u0027resilient\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c04-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "able to recover quickly from damage",
-                                            "b":  "fragile and easily destroyed",
-                                            "c":  "completely immune to any environmental change",
-                                            "d":  "extinct or no longer existing"
+                                            "a":  "Languages normally disappear because governments have prohibited them.",
+                                            "b":  "A dictionary is enough to preserve what a language encodes.",
+                                            "c":  "The generation that stops transmitting a language is unaware of what it is doing.",
+                                            "d":  "A language can train a form of attention its speakers exercise without effort.",
+                                            "e":  "Linguists agree that reviving a language is a purely linguistic achievement."
                                         },
-                       "resposta":  "a",
-                       "explicacao":  "O contexto indica que os recifes \u0027resilientes\u0027 se recuperam mais rápido do que o esperado, o que corresponde ao sentido de capacidade de se recuperar rapidamente de danos.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "d",
+                       "explicacao":  "O segundo parágrafo dá o exemplo de uma língua que obriga a dizer se o objeto está acima ou abaixo do interlocutor no terreno, e observa que por isso seus falantes rastreiam o relevo continuamente, na conversa comum, sem esforço. A proibição é mencionada como exceção, e a causa apresentada como regra é o cálculo dos pais; o mesmo parágrafo encerra dizendo que nenhum dicionário preserva um hábito; a geração decisiva é descrita como bilíngue e inteiramente consciente do que faz; e o último parágrafo diz que os linguistas em geral se recusam a decidir se a revitalização é conquista linguística ou social."
                    },
                    {
                        "id":  "ingles-47",
-                       "texto_apoio":  "In academic English, \u0027comprehensive\u0027 does not mean \u0027compreensivo\u0027 (understanding, sympathetic toward others). Instead, \u0027comprehensive\u0027 describes something complete and covering all necessary elements, as in \u0027a comprehensive report\u0027. The word closer to the Portuguese \u0027compreensivo\u0027 is \u0027understanding\u0027 or \u0027sympathetic\u0027.",
-                       "enunciado":  "According to the text, what does the adjective \u0027comprehensive\u0027 mean in English?",
+                       "textoId":  "ing-c04-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the second paragraph, \u0027that habit of attention\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "Compreensivo, tolerante com os sentimentos alheios.",
-                                            "b":  "Confuso, difícil de entender, sentido contrário ao do texto.",
-                                            "c":  "Completo, que abrange todos os elementos necessários.",
-                                            "d":  "Resumido, breve e direto, sentido que o texto rejeita."
+                                            "a":  "the practice of collecting terms for snow in a dictionary.",
+                                            "b":  "the continuous tracking of the terrain that the language\u0027s spatial terms require.",
+                                            "c":  "the effort of naming a cousin on the mother\u0027s side differently.",
+                                            "d":  "the decision to teach a child the language that will get them work.",
+                                            "e":  "the reading of old texts by a community that has revived a language."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O texto esclarece que \u0027comprehensive\u0027 significa completo/abrangente, e não compreensivo no sentido de tolerante ou solidário, que corresponde a \u0027understanding\u0027 ou \u0027sympathetic\u0027 em inglês.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "A expressão retoma a frase imediatamente anterior: obrigados a marcar \u0027acima\u0027 e \u0027abaixo\u0027 no terreno em vez de \u0027esquerda\u0027 e \u0027direita\u0027, os falantes acompanham o relevo o tempo todo sem perceber. Os termos para neve e o sistema de parentesco são os exemplos \u0027famosos\u0027 que o texto cita para contrastar com esse, mais silencioso; a escolha da língua que dá emprego é assunto do parágrafo seguinte; e a leitura de textos antigos aparece no último parágrafo justamente como o efeito que NÃO é o mais relatado."
                    },
                    {
                        "id":  "ingles-48",
-                       "texto_apoio":  "Several countries have introduced special visas for \u0027digital nomads\u0027, professionals who work remotely while traveling. These visas typically require proof of stable foreign income and allow holders to stay for a year or more, aiming to attract skilled workers and boost local economies through spending on housing, food, and services.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c04-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "Digital nomad visas prohibit foreigners from working while abroad, contrary to the text.",
-                                            "b":  "Countries are creating special visas to attract remote workers, hoping to benefit local economies.",
-                                            "c":  "Digital nomads are required to renounce their original citizenship, which the text does not state.",
-                                            "d":  "Only unemployed travelers are eligible for digital nomad visas, an idea the text contradicts."
+                                            "a":  "demonstrate that renewable sources are dearer than they appear over their lifetimes.",
+                                            "b":  "describe the technology used to store electricity for later use.",
+                                            "c":  "compare the electricity bills of several different countries.",
+                                            "d":  "argue that markets should pay only for the power actually produced.",
+                                            "e":  "identify the costs that the figure usually quoted leaves out."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto explica que países estão criando vistos específicos para atrair trabalhadores remotos, visando estimular a economia local por meio de gastos em moradia, alimentação e serviços.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O parágrafo separa gerar de entregar e lista três exigências do novo sistema — transmissão, armazenamento ou capacidade flexível e um desenho de mercado que pague pela disponibilidade —, fechando com a observação de que cada uma é um custo real e nenhuma aparece no número citado. Não se afirma que as fontes sejam caras: o parágrafo seguinte diz que a transição sai mais barata em duas décadas; o armazenamento é citado como necessidade, sem descrição técnica; nenhum país é comparado; e pagar pela disponibilidade é justamente o que o texto aponta como necessário, não o contrário."
                    },
                    {
                        "id":  "ingles-49",
-                       "texto_apoio":  "Gig economy platforms allow workers to set their own schedules and choose which jobs to accept, a flexibility many value highly. However, these same workers often lack the benefits associated with traditional employment, such as paid sick leave, health insurance, or a guaranteed minimum income, leaving them financially vulnerable during slow periods or emergencies.",
-                       "enunciado":  "Based on the text, what can be inferred about the trade-off faced by gig economy workers?",
+                       "textoId":  "ing-c04-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "They gain both flexibility and full traditional employment benefits simultaneously.",
-                                            "b":  "They are guaranteed a minimum income regardless of how much they work.",
-                                            "c":  "Choosing their own schedule automatically gives gig workers the same job security as traditional employees.",
-                                            "d":  "The flexibility they gain often comes at the cost of financial security and traditional labor protections."
+                                            "a":  "The cost of producing power and the cost of supplying it on demand are different things.",
+                                            "b":  "The transition is likely to prove expensive over a period of decades.",
+                                            "c":  "Transmission and storage are included in the cost figures usually quoted.",
+                                            "d":  "Bills have fallen in most of the countries that adopted these sources.",
+                                            "e":  "Consumers can readily identify infrastructure charges on their bills."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto contrasta a flexibilidade valorizada pelos trabalhadores com a ausência de benefícios tradicionais, permitindo inferir que essa liberdade tem como contrapartida uma maior vulnerabilidade financeira.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "É a frase que abre o segundo parágrafo e organiza o texto inteiro: gerar uma unidade de energia e entregá-la na hora em que ela é desejada são coisas de custo diferente. O terceiro parágrafo diz que a maioria das análises encontra o oposto de \u0027cara\u0027 no horizonte de duas décadas; transmissão e armazenamento são apresentados como exatamente o que o número citado deixa de fora; a primeira frase do texto registra contas que não caíram; e o mesmo terceiro parágrafo diz que a parte cara fica enterrada em encargos que o consumidor não conseguiria identificar."
                    },
                    {
                        "id":  "ingles-50",
-                       "texto_apoio":  "The adjective \u0027exquisite\u0027 is a tricky false cognate for Portuguese speakers. It does not mean \u0027esquisito\u0027 (weird or strange). Instead, \u0027exquisite\u0027 describes something extremely beautiful or delicate, as in \u0027an exquisite piece of jewelry\u0027. The word closer to the Portuguese \u0027esquisito\u0027 is \u0027weird\u0027 or \u0027strange\u0027.",
-                       "enunciado":  "According to the text, what does \u0027exquisite\u0027 mean in English?",
+                       "textoId":  "ing-c04-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely suggests that public support for the transition",
                        "alternativas":  {
-                                            "a":  "Difícil de encontrar em lojas comuns.",
-                                            "b":  "Extremamente belo ou delicado.",
-                                            "c":  "Estranho ou incomum, no sentido negativo.",
-                                            "d":  "Antigo e sem valor."
+                                            "a":  "depends chiefly on how quickly bills come down.",
+                                            "b":  "has been strongest where the new sources were introduced fastest.",
+                                            "c":  "has lasted better where the costs were explained in advance.",
+                                            "d":  "is unaffected by the way charges are presented on a bill.",
+                                            "e":  "has collapsed wherever transmission networks were expanded."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto explica que \u0027exquisite\u0027 significa extremamente belo ou delicado, e não \u0027esquisito\u0027 (estranho), que em inglês corresponde a \u0027weird\u0027 ou \u0027strange\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "c",
+                       "explicacao":  "O último parágrafo afirma isso diretamente: o apoio se mostrou mais duradouro onde a ligação entre o gasto em infraestrutura e a conta foi explicada antes de a conta chegar, em vez de defendida depois. A velocidade de queda das contas não é apresentada como condição, e o texto trabalha justamente com contas que não caíram; a velocidade de implantação não é discutida; a forma como o encargo aparece na conta é central no argumento, não indiferente; e a expansão da transmissão é descrita como necessidade técnica, sem qualquer colapso associado."
                    },
                    {
                        "id":  "ingles-51",
-                       "texto_apoio":  "Debates over which books should be available in school libraries have intensified in several countries. Some parents argue that certain titles contain content inappropriate for young readers, while librarians and free-speech advocates warn that removing books based on subjective complaints risks silencing diverse voices and limiting students\u0027 access to different perspectives.",
-                       "enunciado":  "What tone does the author adopt when presenting the book banning debate?",
+                       "textoId":  "ing-c04-t2",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "Strongly biased in favor of removing all contested books, unlike the text\u0027s tone.",
-                                            "b":  "Dismissive, treating the entire debate as unimportant, unlike the author\u0027s tone.",
-                                            "c":  "Sarcastic, mocking both parents and librarians equally, unlike the actual tone.",
-                                            "d":  "Balanced, presenting both sides of the debate without taking an explicit position."
+                                            "a":  "Wind and solar generation are cheap measured across the lifetime of the equipment.",
+                                            "b":  "A weather-dependent system needs capacity that is available rather than always producing.",
+                                            "c":  "Most analyses expect the transition to be cheaper across a couple of decades.",
+                                            "d":  "The cost of transmission is normally reflected in the figure quoted for these sources.",
+                                            "e":  "The cheapest element of the change is the one the public sees first."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O texto apresenta os argumentos dos pais preocupados e, em seguida, os contra-argumentos de bibliotecários e defensores da liberdade de expressão, mantendo um tom equilibrado sem declarar posição explícita.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "explicacao":  "O texto diz o contrário, e com todas as letras: cada um dos três custos novos é real e nenhum deles aparece no número que se cita. As demais estão sustentadas: as fontes são as mais baratas já construídas quando medidas pelo custo ao longo da vida útil; o sistema precisa de um desenho que pague pela disponibilidade; a maioria das análises encontra transição mais barata em duas décadas; e a parte barata chega primeiro e é altamente visível."
                    },
                    {
                        "id":  "ingles-52",
-                       "texto_apoio":  "This year\u0027s wildfire season has been described by fire officials as unprecedented, with blazes spreading across areas that had rarely, if ever, experienced large fires before. Prolonged drought and record-breaking temperatures are believed to be the main factors behind the unusual intensity and reach of the fires.",
-                       "enunciado":  "In the text, the word \u0027unprecedented\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c04-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "never seen before",
-                                            "b":  "expected and routine",
-                                            "c":  "small and insignificant",
-                                            "d":  "gradually decreasing"
+                                            "a":  "Skyglow interferes with navigation without physically trapping the birds.",
+                                            "b":  "Most artificial light at night comes from tall illuminated buildings.",
+                                            "c":  "Switching off building lights has proved costly for the cities that tried it.",
+                                            "d":  "Birds that migrate at night navigate exclusively by the stars.",
+                                            "e":  "Replacing street fixtures is the cheapest measure available."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O contexto indica que os incêndios atingiram áreas que \u0027raramente, ou nunca, haviam vivenciado grandes incêndios antes\u0027, reforçando que \u0027unprecedented\u0027 significa algo nunca visto antes.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "explicacao":  "O segundo parágrafo distingue os dois mecanismos: a luz brilhante atrai e prende, enquanto o brilho do céu não prende, mas apaga as pistas celestes usadas para manter o rumo. O último parágrafo diz que a maior parte da luz artificial não está em prédios altos, e sim em ruas e estacionamentos; apagar as luzes dos prédios é descrito como praticamente sem custo; a navegação é dita \u0027em parte\u0027 pelas estrelas, não exclusivamente; e trocar as luminárias é apresentado como despesa municipal lenta, isto é, a parte difícil e não a mais barata."
                    },
                    {
                        "id":  "ingles-53",
-                       "texto_apoio":  "In English, the adjective \u0027embarrassed\u0027 is a common false cognate. It does not have the same meaning as anything related to pregnancy. \u0027Embarrassed\u0027 describes the feeling of being ashamed or uncomfortable in a social situation, as in \u0027he felt embarrassed after tripping in front of everyone\u0027.",
-                       "enunciado":  "According to the text, what does \u0027embarrassed\u0027 mean in English?",
+                       "textoId":  "ing-c04-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "detalhe",
+                       "enunciado":  "According to the text, flocks have been recorded circling until exhaustion around",
                        "alternativas":  {
-                                            "a":  "Envergonhado, constrangido em uma situação social.",
-                                            "b":  "Machucado fisicamente após um acidente, sentido que o texto rejeita.",
-                                            "c":  "Grávida, esperando um bebê, sentido não relacionado à palavra no texto.",
-                                            "d":  "Orgulhoso de uma conquista pessoal, ideia contrária ao texto."
+                                            "a":  "the diffuse dome of light above a city.",
+                                            "b":  "a single brightly illuminated structure.",
+                                            "c":  "a car park lit by older fixtures.",
+                                            "d":  "a stretch of coastline during peak migration.",
+                                            "e":  "a street lamp pointing downwards."
                                         },
-                       "resposta":  "a",
-                       "explicacao":  "O texto deixa claro que \u0027embarrassed\u0027 significa envergonhado ou constrangido, e não está relacionado a gravidez, esclarecendo esse falso cognato comum entre falantes de português.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O dado está no segundo parágrafo, no mecanismo de atração: bandos foram registrados circulando uma única estrutura iluminada até a exaustão. A cúpula difusa de luz é o brilho do céu, descrito na frase seguinte justamente como o que NÃO prende as aves; estacionamentos e luminárias antigas aparecem no último parágrafo, e a lâmpada voltada para baixo é o oposto do problema descrito ali."
                    },
                    {
                        "id":  "ingles-54",
-                       "texto_apoio":  "Vertical farms, which grow crops in stacked layers inside climate-controlled buildings, use significantly less water than traditional agriculture because the water is recirculated within a closed system. Proponents argue that this method could help cities produce fresh vegetables locally, reducing the need for long-distance transportation and the emissions associated with it.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c04-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the last paragraph, \u0027where the remaining problem sits\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "The main advantage of vertical farms, according to the text, is that they produce cheaper vegetables than traditional farms.",
-                                            "b":  "Vertical farms cannot be built inside cities due to space limitations.",
-                                            "c":  "Vertical farms waste more water than traditional agriculture.",
-                                            "d":  "Vertical farming offers a water-efficient way to produce food locally, potentially reducing transportation emissions."
+                                            "a":  "the few weeks of the year in which migration reaches its peak.",
+                                            "b":  "the sky above the cities that have published their collision numbers.",
+                                            "c":  "the tall buildings whose upward lights have already been switched off.",
+                                            "d":  "the celestial cues that birds use to hold a heading.",
+                                            "e":  "the street and car-park lighting that points upwards by accident."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto destaca a eficiência hídrica das fazendas verticais e o potencial de produção local de alimentos como forma de reduzir emissões ligadas ao transporte, sem afirmar que a agricultura tradicional foi substituída.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O parágrafo inteiro constrói essa conclusão: a maior parte da luz artificial está em ruas e estacionamentos, boa parte dela apontando para o céu por acidente, através de luminárias escolhidas décadas atrás — e trocá-las é despesa lenta e sem inauguração. Os prédios altos são justamente a parte já resolvida; as semanas de pico e as cidades que publicaram números pertencem ao parágrafo anterior, o das medidas baratas; e as pistas celestes são o que se perde, não o lugar onde o problema restante está."
                    },
                    {
                        "id":  "ingles-55",
-                       "texto_apoio":  "Farmers routinely give antibiotics to livestock not only to treat illness but also to promote faster growth, a practice still legal in some countries. Health experts warn that this widespread use contributes to the development of drug-resistant bacteria, which can eventually spread to humans through food or the environment, making some infections harder to treat.",
-                       "enunciado":  "Based on the text, what can be inferred about the connection between livestock farming and human health?",
+                       "textoId":  "ing-c04-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Antibiotics given to livestock only to promote faster growth pose a health risk; antibiotics given to treat illness do not.",
-                                            "b":  "Farmers only give antibiotics to animals that are already sick, never to promote faster growth.",
-                                            "c":  "Practices on farms can contribute to resistant bacteria that ultimately pose risks to human health.",
-                                            "d":  "Drug-resistant bacteria can only develop in hospital environments."
+                                            "a":  "International students are usually charged the same fee as domestic ones.",
+                                            "b":  "Universities were unaware of how far they depended on this income.",
+                                            "c":  "Decisions taken outside education ministries can alter university finances quickly.",
+                                            "d":  "The cuts generally fell on the courses the international students attended.",
+                                            "e":  "The dependency was concealed from the public."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O texto liga o uso de antibióticos na pecuária ao desenvolvimento de bactérias resistentes que podem se espalhar para humanos, permitindo inferir uma conexão direta entre a prática agrícola e a saúde pública.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "explicacao":  "O segundo parágrafo diz que o subsídio cruzado depende de regras de visto, de trabalho após a formatura e de tratamento do cônjuge, decididas por política doméstica em meses, enquanto a universidade planeja em anos — e que um anúncio na primavera derruba as inscrições em um terço no outono. O primeiro parágrafo informa que o estudante estrangeiro paga várias vezes a mensalidade doméstica; o último diz que ninguém escondeu a dependência e que ela constava de todo relatório anual, o que derruba tanto o desconhecimento quanto a ocultação; e o terceiro afirma que os cortes não caíram sobre os cursos que esses estudantes frequentavam."
                    },
                    {
                        "id":  "ingles-56",
-                       "texto_apoio":  "A tricky false cognate for Portuguese speakers is \u0027disgust\u0027. It does not mean \u0027desgosto\u0027 (sadness or heartbreak). Instead, \u0027disgust\u0027 refers to a strong feeling of revulsion, as in \u0027the smell filled her with disgust\u0027. The word closer to \u0027desgosto\u0027 in the sense of sadness is \u0027sorrow\u0027 or \u0027grief\u0027.",
-                       "enunciado":  "According to the text, what does \u0027disgust\u0027 mean in English?",
+                       "textoId":  "ing-c04-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely suggests that the subjects cut first were chosen because",
                        "alternativas":  {
-                                            "a":  "Repulsa ou nojo intenso.",
-                                            "b":  "Alívio após um momento de tensão.",
-                                            "c":  "Indiferença total a uma situação.",
-                                            "d":  "Tristeza profunda causada por uma perda."
+                                            "a":  "international students had stopped enrolling in them.",
+                                            "b":  "the academic quality of those departments had declined.",
+                                            "c":  "they were the most expensive to run per student.",
+                                            "d":  "closing them shut the deficit fastest.",
+                                            "e":  "the ministries involved had required their removal."
                                         },
-                       "resposta":  "a",
-                       "explicacao":  "O texto esclarece que \u0027disgust\u0027 significa repulsa ou nojo, e não \u0027desgosto\u0027 no sentido de tristeza, que em inglês corresponde a \u0027sorrow\u0027 ou \u0027grief\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "d",
+                       "explicacao":  "O terceiro parágrafo diz que os cortes caem onde o déficit pode ser fechado mais depressa, e que na prática isso significou línguas, clássicos e as ciências menores — disciplinas com poucos alunos e sem receita externa evidente. O critério é de velocidade de ajuste, não de matrícula estrangeira, que o próprio texto exclui ao dizer que os cortes não atingiram os cursos procurados por esses alunos; qualidade acadêmica não é mencionada; custo por aluno não é o critério apresentado; e os ministérios agem sobre vistos, não sobre a grade de cursos."
                    },
                    {
                        "id":  "ingles-57",
-                       "texto_apoio":  "Beekeepers in several regions have reported that bee populations plummeted over the past decade, a trend linked to pesticide use, habitat loss, and disease. Since bees play a crucial role in pollinating crops, scientists warn that their decline could have serious consequences for global food production.",
-                       "enunciado":  "In the text, the word \u0027plummeted\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c04-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The last paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "increased steadily",
-                                            "b":  "remained exactly the same",
-                                            "c":  "dropped sharply",
-                                            "d":  "recovered slowly"
+                                            "a":  "locate the failure in the absence of any mechanism that made a known risk costly to ignore.",
+                                            "b":  "accuse the universities of having hidden their true financial position.",
+                                            "c":  "propose that the fees charged to international students be reduced.",
+                                            "d":  "summarise the visa rules that caused applications to fall.",
+                                            "e":  "compare the finances of two different national systems."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O contexto associa o declínio das populações de abelhas a pesticidas, perda de habitat e doenças, indicando que \u0027plummeted\u0027 significa uma queda acentuada, e não estabilidade ou aumento.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "O parágrafo observa que o modelo funcionava como projetado e que a dependência constava de todo relatório anual — o que faltava era algum mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. É justamente por dizer que ninguém escondeu nada que ele não pode ser lido como acusação de ocultação; nenhuma redução de mensalidade é proposta; as regras de visto são citadas no segundo parágrafo, sem serem resumidas aqui; e não há dois sistemas nacionais em comparação."
                    },
                    {
                        "id":  "ingles-58",
-                       "texto_apoio":  "The right-to-repair movement advocates for laws that would require manufacturers to make spare parts, tools, and repair manuals available to consumers and independent repair shops, not just authorized dealers. Supporters argue this would extend the lifespan of electronics and reduce electronic waste, while some manufacturers claim it could compromise product safety and intellectual property.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c04-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Manufacturers support the right-to-repair movement because it helps protect their intellectual property rights.",
-                                            "b":  "According to the text, independent repair shops already have full legal access to manufacturers\u0027 spare parts and manuals in most countries.",
-                                            "c":  "The right-to-repair movement seeks greater access to parts and manuals, a proposal that manufacturers have contested.",
-                                            "d":  "Independent repair shops are already required by international law to receive free training from manufacturers."
+                                            "a":  "The regulations described specify how devices must be designed.",
+                                            "b":  "Every closed design follows from a genuine engineering requirement.",
+                                            "c":  "Repair costs are determined mainly by the wages paid to technicians.",
+                                            "d":  "Independent shops have been given priority access to spare parts.",
+                                            "e":  "Whether a repair is worth making is largely settled at the design stage."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O texto apresenta a proposta do movimento pelo direito ao reparo e, em seguida, a objeção de alguns fabricantes, o que caracteriza a ideia central: uma disputa entre acesso ampliado a peças/manuais e preocupações dos fabricantes.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "É a tese da abertura: a economia do conserto está decidida muito antes de o aparelho quebrar, e depende de parafusos padronizados, bateria presa por clipe, software de diagnóstico disponível e peça à venda para qualquer um. O terceiro parágrafo diz explicitamente que as regras não impõem um desenho, e por decisão deliberada; o segundo concede que há razão técnica em parte dos fechamentos, mas aponta os que nada têm a ver com engenharia; salários de técnicos não são mencionados; e as regras exigem venda às lojas independentes nas mesmas condições, e não em condições melhores."
                    },
                    {
                        "id":  "ingles-59",
-                       "texto_apoio":  "A recent analysis found that teenagers who spend more than four hours a day on social media report higher levels of anxiety than those who spend less time online. The same analysis noted, however, that teenagers who use social media mainly to stay in touch with close friends show fewer negative effects than those who mostly scroll through content from strangers.",
-                       "enunciado":  "Based on the text, what can be inferred about the relationship between social media and teenage anxiety?",
+                       "textoId":  "ing-c04-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the third paragraph, \u0027that second category\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "Talking to close friends online always increases anxiety levels.",
-                                            "b":  "Scrolling through content from strangers has no effect on anxiety.",
-                                            "c":  "The way social media is used may matter as much as the total time spent on it.",
-                                            "d":  "All forms of social media use produce identical psychological effects."
+                                            "a":  "the devices that have been made thinner and more water-resistant.",
+                                            "b":  "the batteries that are held in place by glue.",
+                                            "c":  "the restrictions that have no engineering justification.",
+                                            "d":  "the markets in which the new regulations have appeared.",
+                                            "e":  "the spare parts sold to authorised repair centres."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "Ao contrastar o uso voltado a amigos próximos com o consumo de conteúdo de estranhos, o texto permite inferir que a forma de uso das redes sociais pode ser tão relevante quanto o tempo total gasto nelas.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "explicacao":  "O parágrafo anterior separa duas coisas: o que decorre de fazer aparelhos mais finos e resistentes à água, que o texto concede ter fundamento, e as práticas que nada têm a ver com engenharia — software que rejeita a peça e manuais liberados só sob contrato. É essa segunda categoria que as regras miram, como confirmam as exigências listadas na sequência. Aparelhos finos e baterias coladas são a primeira categoria; e mercados e peças autorizadas são elementos das frases vizinhas, não a categoria em questão."
                    },
                    {
                        "id":  "ingles-60",
-                       "texto_apoio":  "In English, \u0027genial\u0027 is a false cognate that often confuses Portuguese speakers. It does not mean \u0027genial\u0027 (brilliant or ingenious). Instead, \u0027genial\u0027 describes someone friendly and cheerful, as in \u0027a genial host who welcomed every guest warmly\u0027. The word closer to the Portuguese \u0027genial\u0027 is \u0027brilliant\u0027 or \u0027ingenious\u0027.",
-                       "enunciado":  "According to the text, what does \u0027genial\u0027 mean in English?",
+                       "textoId":  "ing-c04-t5",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text most likely supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "Amigável e alegre no trato com as pessoas.",
-                                            "b":  "Distante e formal em ocasiões sociais.",
-                                            "c":  "Rigoroso e exigente no trabalho.",
-                                            "d":  "Extremamente inteligente ou brilhante."
+                                            "a":  "Sealing a seam with glue serves a genuine technical purpose.",
+                                            "b":  "The new rules oblige manufacturers to adopt a specified design.",
+                                            "c":  "Software has refused to recognise components fitted outside authorised centres.",
+                                            "d":  "Resale values have started to reflect how repairable a device is.",
+                                            "e":  "A device can cost less to replace than to repair."
                                         },
-                       "resposta":  "a",
-                       "explicacao":  "O texto explica que \u0027genial\u0027 significa amigável/afável, e não \u0027genial\u0027 no sentido de brilhante, que em inglês corresponde a \u0027brilliant\u0027 ou \u0027ingenious\u0027.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O terceiro parágrafo diz o contrário e explica por quê: as regras não impõem desenho algum, e essa é uma escolha deliberada, porque escrever engenharia em lei tende a congelá-la. As demais estão sustentadas: o texto concede que a cola de fato veda a juntura; cita software que recusa componente não instalado por centro autorizado; relata que os valores de revenda começaram a refletir a reparabilidade; e abre afirmando que, se qualquer das condições falha, trocar sai mais barato que consertar."
                    },
                    {
                        "id":  "ingles-61",
-                       "texto_apoio":  "New technologies are giving fresh hope to efforts to clean plastic waste from the oceans. Autonomous barges equipped with sensors now collect floating debris more efficiently than earlier manual methods, and engineers report steady improvements with each new prototype tested at sea.",
-                       "enunciado":  "What tone does the author adopt when describing the new ocean cleanup technology?",
+                       "textoId":  "ing-c05-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Hopeful, emphasizing progress and improvement.",
-                                            "b":  "Pessimistic, suggesting the technology has completely failed.",
-                                            "c":  "Indifferent, presenting no evaluation of the technology.",
-                                            "d":  "Mocking, ridiculing the engineers\u0027 efforts."
+                                            "a":  "The formula quoted works because it contains a falsehood.",
+                                            "b":  "Apologising raises the likelihood that an institution will be sued.",
+                                            "c":  "Legal advisers generally recommend naming the act that caused the harm.",
+                                            "d":  "The word \u0027some\u0027 in the formula carries no particular purpose.",
+                                            "e":  "The formula survives because it concedes no fact."
                                         },
-                       "resposta":  "a",
-                       "explicacao":  "Expressões como \u0027fresh hope\u0027 e \u0027steady improvements\u0027 revelam um tom otimista e esperançoso do autor em relação à tecnologia de limpeza dos oceanos.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O terceiro parágrafo diz exatamente isso: a fórmula sobrevive à revisão jurídica porque o advogado aprova qualquer declaração que não conceda fato algum — e não conceder fato é justamente o que um pedido de desculpas não pode fazer. A opção da mentira é negada na primeira frase do mesmo parágrafo; o quarto parágrafo afirma que desculpas que nomeiam o ato reduzem a chance de litígio, e é por isso que o advogado prefere não nomeá-lo; e o segundo parágrafo mostra que \u0027alguns\u0027 trabalha ativamente, sugerindo que a reação não foi geral."
                    },
                    {
                        "id":  "ingles-62",
-                       "texto_apoio":  "A pilot program testing a universal basic income gave a fixed monthly payment to a group of low-income residents, no strings attached. The results proved controversial: some economists praised the reduction in poverty-related stress, while others argued the program was too costly to expand nationally and could discourage some participants from seeking employment.",
-                       "enunciado":  "In the text, the word \u0027controversial\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c05-t1",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the second paragraph, \u0027which relocates the problem\u0027 most likely refers to the effect of",
                        "alternativas":  {
-                                            "a":  "universally praised without any disagreement",
-                                            "b":  "completely ignored by economists",
-                                            "c":  "proven scientifically to be effective",
-                                            "d":  "causing disagreement or opposing opinions"
+                                            "a":  "naming the act that the institution has committed.",
+                                            "b":  "offering a change or a reparation to those who were harmed.",
+                                            "c":  "making the feelings of other people, rather than the act, the subject.",
+                                            "d":  "obtaining approval from the institution\u0027s legal counsel.",
+                                            "e":  "publishing a disclosure policy within a health system."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto mostra opiniões divergentes de economistas sobre o programa, o que confirma que \u0027controversial\u0027 significa algo que gera discordância ou opiniões opostas.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "c",
+                       "explicacao":  "A oração relativa se prende à frase imediatamente anterior: o sujeito da declaração não é a instituição, e sim o sentimento alheio — e é essa troca de sujeito que transfere o problema para quem percebeu o ato. Nomear o ato e oferecer reparação são justamente as operações que o texto diz que a fórmula NÃO executa; a aprovação do advogado é consequência tratada no parágrafo seguinte; e as políticas de divulgação em sistemas de saúde aparecem só no fecho, como evidência a favor do pedido de desculpas real."
                    },
                    {
                        "id":  "ingles-63",
-                       "texto_apoio":  "The word \u0027physician\u0027 is a classic false cognate for Portuguese speakers. It does not mean \u0027físico\u0027 (physicist). In English, a \u0027physician\u0027 is a medical doctor, while a scientist who studies physics is called a \u0027physicist\u0027.",
-                       "enunciado":  "According to the text, what does the word \u0027physician\u0027 mean in English?",
+                       "textoId":  "ing-c05-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "Um cientista especializado em física.",
-                                            "b":  "Um professor universitário de qualquer disciplina.",
-                                            "c":  "Um farmacêutico responsável por uma drogaria.",
-                                            "d":  "Um médico."
+                                            "a":  "list the countries in which the state provides cover against flooding.",
+                                            "b":  "explain why pricing based on the record of past years is failing.",
+                                            "c":  "compare the cost of flood cover with the cost of fire cover.",
+                                            "d":  "describe the reserves an insurer is required to hold against claims.",
+                                            "e":  "argue that premiums ought to be capped by regulation."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto esclarece que \u0027physician\u0027 significa médico, e não físico (cientista da física), que em inglês corresponde a \u0027physicist\u0027 — outro falso cognato relevante.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O parágrafo diz que a conta passou a ter de ser feita para a frente, que precificar o ano seguinte pelo histórico só funciona enquanto o passado servir de guia, e descreve o que acontece quando deixa de servir: prêmio muito mais alto ou nenhuma oferta. Nenhum país é listado; a comparação entre enchente e incêndio está no primeiro parágrafo e serve para introduzir a independência dos riscos; as reservas são citadas ali também, de passagem; e o texto não propõe teto de prêmio — o último parágrafo defende o oposto, tratar o prêmio como informação."
                    },
                    {
                        "id":  "ingles-64",
-                       "texto_apoio":  "Loneliness among elderly populations has been described by some public health officials as a silent epidemic. Studies link prolonged social isolation to increased risks of heart disease and cognitive decline, prompting some cities to create community programs specifically designed to connect isolated seniors with volunteers and local activities.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c05-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely suggests that the state scheme it describes",
                        "alternativas":  {
-                                            "a":  "Social isolation has been proven to have no effect on physical health, contrary to the text.",
-                                            "b":  "Loneliness among the elderly is a serious public health issue that some cities are addressing through community programs.",
-                                            "c":  "Elderly populations are the only group affected by loneliness worldwide, which the text does not claim.",
-                                            "d":  "Community programs for seniors have been abandoned due to lack of interest, an idea the text contradicts."
+                                            "a":  "charges above the actuarial price in order to discourage building.",
+                                            "b":  "has replaced private insurance across every line of business.",
+                                            "c":  "was created because private insurers were charging too little.",
+                                            "d":  "produces a subsidy that encourages building in the riskiest places.",
+                                            "e":  "has succeeded in bringing private cover back to high-risk areas."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto apresenta a solidão entre idosos como um problema sério de saúde pública, associado a riscos cardíacos e cognitivos, e menciona programas comunitários criados como resposta a esse problema.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "d",
+                       "explicacao":  "O terceiro parágrafo encadeia os quatro passos e termina neste: o esquema estatal cobra abaixo do preço atuarial porque cobrar o verdadeiro é politicamente impossível, e a diferença vira subsídio que estimula construir justamente onde o risco é maior. Cobrar acima inverte o texto; a substituição ocorre só nas áreas de maior risco de enchente, não em todos os ramos; o esquema entra porque a seguradora privada saiu, e não por preço baixo demais do setor privado; e nada indica retorno da cobertura privada."
                    },
                    {
                        "id":  "ingles-65",
-                       "texto_apoio":  "Data centers that power cloud computing and artificial intelligence services consume enormous amounts of water for cooling their servers. Several of these facilities are located in regions already facing water scarcity, a choice often driven by cheap land and favorable tax incentives rather than local water availability.",
-                       "enunciado":  "Based on the text, what can be inferred about the siting of data centers in drought-prone regions?",
+                       "textoId":  "ing-c05-t2",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following about flood cover?",
                        "alternativas":  {
-                                            "a":  "Water availability is always the top priority when companies choose where to build data centers.",
-                                            "b":  "Economic incentives may be prioritized over local water constraints when companies decide where to build data centers.",
-                                            "c":  "Data centers use no water at all in their cooling processes, which directly contradicts the text.",
-                                            "d":  "Only regions with abundant water resources are allowed to host data centers, which the text disproves."
+                                            "a":  "It is hard to insure because the losses are not independent of one another.",
+                                            "b":  "It is the line in which private companies compete most fiercely.",
+                                            "c":  "It has historically been left entirely to the private market.",
+                                            "d":  "It became difficult only after state schemes were introduced.",
+                                            "e":  "It is priced in the same way as cover against fire."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto indica que a escolha da localização é motivada por terra barata e incentivos fiscais, e não pela disponibilidade local de água, permitindo inferir que fatores econômicos podem se sobrepor às restrições hídricas regionais.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "O primeiro parágrafo constrói a oposição: o seguro funciona reunindo riscos independentes, e a enchente chega a todos de uma vez — por isso é a modalidade mais difícil de subscrever e por isso o Estado participa dela em quase todo país. Isso já descarta a concorrência feroz e o abandono ao mercado privado; a dificuldade é atribuída à natureza correlacionada da perda, anterior a qualquer esquema estatal; e o incêndio é apresentado como o caso oposto, o dos eventos não relacionados entre si."
                    },
                    {
                        "id":  "ingles-66",
-                       "texto_apoio":  "In English, \u0027balcony\u0027 is a common false cognate. It does not mean \u0027balcão\u0027 (a counter, as in a store or reception desk). A \u0027balcony\u0027 is a platform projecting from the wall of a building, usually with a rail, where people can stand outside their apartment. The word for \u0027balcão\u0027 in English is \u0027counter\u0027 or \u0027desk\u0027.",
-                       "enunciado":  "According to the text, what does the word \u0027balcony\u0027 mean in English?",
+                       "textoId":  "ing-c05-t2",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "Um balcão de atendimento em uma loja, sentido que o texto rejeita.",
-                                            "b":  "Uma sacada ou varanda que se projeta da parede de um edifício.",
-                                            "c":  "Uma mesa de recepção em um hotel, sentido não usado no texto.",
-                                            "d":  "Um corredor interno de um apartamento, ideia ausente do texto."
+                                            "a":  "A fire in one house is an event independent of a fire in another.",
+                                            "b":  "Charging the actuarially correct price is politically difficult.",
+                                            "c":  "Newer schemes have tied support to relocation or physical protection.",
+                                            "d":  "Each individual step in the sequence described can be defended.",
+                                            "e":  "Private insurers have expanded their presence in the highest-risk areas."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto explica que \u0027balcony\u0027 é uma sacada/varanda, e não um balcão de atendimento, que em inglês corresponde a \u0027counter\u0027 ou \u0027desk\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "O texto afirma o contrário: o padrão começa justamente com a retirada das seguradoras privadas das áreas de maior risco. As demais estão sustentadas: incêndios em casas distintas são eventos não relacionados; cobrar o preço atuarial verdadeiro é dito politicamente impossível; algumas jurisdições passaram a vincular o apoio a realocação ou proteção física em vez de reconstrução no mesmo lugar; e o texto diz explicitamente que cada passo é razoável, e que o irrazoável é a sequência."
                    },
                    {
                        "id":  "ingles-67",
-                       "texto_apoio":  "The word \u0027casualty\u0027 is a false cognate that often misleads Portuguese speakers. It does not mean \u0027casualidade\u0027 (coincidence or chance). In English, a \u0027casualty\u0027 refers to a person killed or injured, especially in an accident or war. The word for \u0027casualidade\u0027 is \u0027coincidence\u0027 or \u0027chance\u0027.",
-                       "enunciado":  "According to the text, what does the word \u0027casualty\u0027 mean in English?",
+                       "textoId":  "ing-c05-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Uma situação cômica e informal, sentido que o texto rejeita.",
-                                            "b":  "Uma pessoa morta ou ferida, geralmente em um acidente ou guerra.",
-                                            "c":  "Uma coincidência inesperada, sentido oposto ao explicado no texto.",
-                                            "d":  "Um evento organizado sem planejamento prévio, ideia ausente do texto."
+                                            "a":  "The biological finding about adolescent sleep is still contested.",
+                                            "b":  "Districts that moved their start times reported no measurable change.",
+                                            "c":  "The main obstacle to the reform has been the cost of transport.",
+                                            "d":  "Parents have generally welcomed sending younger children out earlier.",
+                                            "e":  "The reform advanced fastest where the evidence was best understood."
                                         },
-                       "resposta":  "b",
-                       "explicacao":  "O texto explica que \u0027casualty\u0027 se refere a uma vítima (morta ou ferida), e não a uma coincidência, que em inglês corresponde a \u0027coincidence\u0027 ou \u0027chance\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "c",
+                       "explicacao":  "O terceiro parágrafo é explícito: o obstáculo nunca foi a evidência, foi o ônibus — escalonar os turnos com uma única frota economiza muito, e mudar o horário do ensino médio significa comprar ônibus ou mandar as crianças menores para a rua no escuro. O primeiro parágrafo diz que o achado não é seriamente contestado; o segundo relata mais sono, melhor frequência e menos acidentes; o próprio texto diz que a opção de antecipar as crianças menores é a que gera pais mais alarmados; e o fecho afirma que o avanço seguiu a capacidade de pagar, não o grau de convencimento."
                    },
                    {
                        "id":  "ingles-68",
-                       "texto_apoio":  "Coastal towns around the world are watching their beaches shrink as rising seas and stronger storms have eroded the shoreline at an alarming pace. Local governments face difficult decisions about whether to build expensive seawalls, relocate vulnerable buildings, or simply let nature reclaim the land.",
-                       "enunciado":  "In the text, the word \u0027eroded\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c05-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "detalhe",
+                       "enunciado":  "According to the text, around puberty the release of melatonin shifts by approximately",
                        "alternativas":  {
-                                            "a":  "expanded and strengthened",
-                                            "b":  "permanently frozen",
-                                            "c":  "gradually worn away",
-                                            "d":  "artificially rebuilt"
+                                            "a":  "two hours.",
+                                            "b":  "thirty minutes.",
+                                            "c":  "four hours.",
+                                            "d":  "one full night.",
+                                            "e":  "twenty minutes."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O contexto associa \u0027eroded\u0027 ao encolhimento das praias causado pelo aumento do nível do mar e tempestades, indicando um processo de desgaste gradual, e não de expansão ou reconstrução.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "O dado está na segunda frase do texto: por volta da puberdade a liberação de melatonina se desloca cerca de duas horas, e é por isso que dormir às dez equivale, para o corpo do adolescente, a dormir às oito. Os demais números do texto pertencem a outra parte do argumento e servem de armadilha para quem lê por varredura: sete e meia e oito e meia são os horários de início de aula comparados no segundo parágrafo, e três é o número de turnos que uma frota de ônibus atende."
                    },
                    {
                        "id":  "ingles-69",
-                       "texto_apoio":  "Companies producing lab-grown meat from animal cells claim their products could reduce the environmental footprint of the meat industry significantly. However, scaling up production remains a major challenge: current methods are expensive, and regulatory approval varies widely from country to country, slowing wider commercial availability.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c05-t3",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely uses this example to illustrate that",
                        "alternativas":  {
-                                            "a":  "Lab-grown meat is already sold everywhere at prices lower than traditional meat.",
-                                            "b":  "Lab-grown meat remains unavailable everywhere because it has a larger environmental footprint than traditional meat.",
-                                            "c":  "The meat industry has abandoned traditional production entirely in favor of lab-grown alternatives.",
-                                            "d":  "Lab-grown meat offers environmental promise but still faces obstacles related to cost and regulation."
+                                            "a":  "scientific findings are usually rejected by the officials who read them.",
+                                            "b":  "transport is the largest single item in a school district\u0027s budget.",
+                                            "c":  "adolescents perform better when supervised during the afternoon.",
+                                            "d":  "agreement about the evidence does not by itself produce a change in policy.",
+                                            "e":  "research carried out in several countries is inherently more persuasive."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O texto reconhece o potencial ambiental da carne cultivada em laboratório, mas destaca desafios de custo e regulação que ainda dificultam sua disponibilidade comercial mais ampla.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "explicacao":  "O fecho diz que a reforma avançou onde havia como pagá-la e empacou no resto, num padrão que nada tem a ver com o quanto alguém achou a pesquisa convincente — e chama o caso de exemplo útil do que um consenso científico consegue e não consegue sozinho. A evidência não é rejeitada, e sim aceita e inaplicável; o texto não afirma que transporte seja o maior item do orçamento, só que a economia do escalonamento é grande; a ausência de supervisão à tarde é a razão de o ensino médio ficar no turno mais cedo, não um ganho de desempenho; e a replicação em vários países é mencionada como fato, sem tese sobre persuasão."
                    },
                    {
                        "id":  "ingles-70",
-                       "texto_apoio":  "Many companies now label their products as \u0027eco-friendly\u0027 or \u0027sustainable\u0027 without providing any verifiable evidence to support these claims. This practice, often used simply to attract environmentally conscious consumers, misleads buyers who believe they are making a responsible choice while the underlying production process remains largely unchanged.",
-                       "enunciado":  "What tone does the author adopt when describing this marketing practice?",
+                       "textoId":  "ing-c05-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Neutral, simply describing a common industry trend with no judgment.",
-                                            "b":  "Critical, exposing a gap between marketing claims and actual practices.",
-                                            "c":  "Amused, treating the practice as a harmless joke, unlike the actual tone.",
-                                            "d":  "Approving, praising companies for their environmental commitment."
+                                            "a":  "A statistical office that loses its independence normally announces it.",
+                                            "b":  "Private substitutes cover what is profitable rather than what is needed.",
+                                            "c":  "Trust in official figures can be rebuilt about as fast as it is lost.",
+                                            "d":  "The safeguards that protect a statistical office are costly to establish.",
+                                            "e":  "A devaluation does damage that is slower to reverse than this kind."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "Ao afirmar que rótulos são usados \u0027sem qualquer evidência verificável\u0027 e que a prática \u0027engana os compradores\u0027, o autor adota um tom claramente crítico em relação ao chamado greenwashing.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "explicacao":  "O terceiro parágrafo diz que os substitutos privados cobrem o que é lucrativo medir e não estão disponíveis para quem mais precisa do número — por isso não são o alívio que parecem. O segundo parágrafo afirma que a perda de independência não é anunciada, e sim disfarçada em descontinuidade metodológica e revisão de definição; a confiança é descrita como construída em décadas e destruída na primeira vez em que um número é convenientemente oportuno; o último parágrafo diz que nada disso é caro; e o dano é comparado ao da desvalorização como mais lento e mais difícil de reverter, não o contrário."
                    },
                    {
                        "id":  "ingles-71",
-                       "texto_apoio":  "The word \u0027deception\u0027 is a false cognate that confuses many Portuguese speakers. It does not mean \u0027decepção\u0027 (disappointment). Instead, \u0027deception\u0027 refers to the act of deliberately misleading someone, as in \u0027the scheme relied on deception to steal money from victims\u0027. The word for \u0027decepção\u0027 is \u0027disappointment\u0027.",
-                       "enunciado":  "According to the text, what does \u0027deception\u0027 mean in English?",
+                       "textoId":  "ing-c05-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the third paragraph, \u0027not the reassurance it appears to be\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "Um sentimento de tristeza após uma expectativa não realizada.",
-                                            "b":  "Uma recusa educada de um convite.",
-                                            "c":  "Um pedido de desculpas formal.",
-                                            "d":  "O ato deliberado de enganar alguém."
+                                            "a":  "the decades of unremarkable publication behind a trusted figure.",
+                                            "b":  "the revision of a definition that prevents comparison with last year.",
+                                            "c":  "the legal separation between a statistical office and a ministry.",
+                                            "d":  "the slippage of publication dates at an official agency.",
+                                            "e":  "the appearance of private substitutes for the official series."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto esclarece que \u0027deception\u0027 significa o ato de enganar deliberadamente, e não \u0027decepção\u0027 (sentimento de desapontamento), que em inglês corresponde a \u0027disappointment\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "e",
+                       "explicacao":  "A expressão fecha a frase que acaba de listar os substitutos privados — rastreadores de preço de supermercado, estimativas de luz noturna por satélite, índices de emprego montados por empresas de folha de pagamento — e é justificada na frase seguinte: eles cobrem o que dá lucro medir e não chegam a quem mais precisa. As décadas de publicação e o adiamento de datas pertencem ao raciocínio anterior, sobre como a confiança se forma e se perde; a revisão de definição é um dos disfarces da perda de independência; e a separação legal está entre as salvaguardas do último parágrafo."
                    },
                    {
                        "id":  "ingles-72",
-                       "texto_apoio":  "Large quantities of electronic waste from wealthier nations are shipped to developing countries, officially labeled as used goods for resale. Once there, much of this equipment turns out to be broken beyond repair, and it is often dismantled by informal workers who extract valuable metals using methods that expose them to toxic substances.",
-                       "enunciado":  "Based on the text, what can be inferred about the labeling of electronic waste as \u0027used goods for resale\u0027?",
+                       "textoId":  "ing-c05-t4",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "funcao-paragrafo",
+                       "enunciado":  "The last paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "It has completely eliminated informal electronic waste processing worldwide.",
-                                            "b":  "It accurately reflects the actual condition of all the equipment being shipped.",
-                                            "c":  "It may serve as a way to bypass stricter regulations on the export of hazardous waste.",
-                                            "d":  "It guarantees that workers who handle the equipment are fully protected from toxic exposure."
+                                            "a":  "predict which countries will lose their statistical independence next.",
+                                            "b":  "explain the methods used to construct an index of employment.",
+                                            "c":  "point out that the remedies are known, cheap and easiest to adopt early.",
+                                            "d":  "argue that private data providers ought to be regulated.",
+                                            "e":  "describe the contracts that are indexed to official inflation figures."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O texto revela que grande parte do equipamento rotulado como \u0027usado para revenda\u0027 está, na verdade, quebrado, o que permite inferir que essa classificação pode servir para contornar regras mais rígidas sobre exportação de resíduos perigosos.",
-                       "dificuldade":  "dificil",
-                       "formato":  "direta"
+                       "explicacao":  "O parágrafo chama as salvaguardas de conhecidas e monótonas, lista três — calendário fixado com antecedência, separação legal entre instituto e ministério, microdados abertos a pesquisadores —, afirma que nada disso é caro e observa que tudo é bem mais fácil de instituir num ano em que ninguém quer interferir. Nenhum país é previsto; os índices privados são descritos no parágrafo anterior e não são regulados aqui; e os contratos indexados aparecem no segundo parágrafo, como exemplo do que os números sustentam."
                    },
                    {
                        "id":  "ingles-73",
-                       "texto_apoio":  "The term \u0027quiet quitting\u0027 describes employees who do only the minimum required by their job description, avoiding extra tasks or overtime that is not properly compensated. Supporters see it as a healthy boundary against overwork, while some employers view it as a lack of commitment that can hurt team morale.",
-                       "enunciado":  "What is the main idea of the text?",
+                       "textoId":  "ing-c05-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Quiet quitting means literally resigning from a job without informing the employer, contrary to the text.",
-                                            "b":  "All employers strongly support the practice of quiet quitting among their staff, unlike the text.",
-                                            "c":  "Quiet quitting refers to doing only the required tasks at work, a practice viewed differently by employees and employers.",
-                                            "d":  "Quiet quitting has been made illegal in most workplaces, which the text does not state."
+                                            "a":  "The shortening of pop songs was the result of a deliberate industry decision.",
+                                            "b":  "The three-minute single of the twentieth century was chosen on artistic grounds.",
+                                            "c":  "Streaming platforms prohibit long or slowly developing works.",
+                                            "d":  "A payment threshold has reshaped the structure of songs without forbidding anything.",
+                                            "e":  "Producers have no way of knowing where listeners stop."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O texto define \u0027quiet quitting\u0027 como fazer apenas o mínimo exigido pelo cargo, apresentando duas visões: como forma saudável de evitar sobrecarga ou como falta de comprometimento, sem afirmar que se trata de pedir demissão literalmente.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "d",
+                       "explicacao":  "O texto abre dizendo que nenhuma das duas mudanças foi decidida por alguém e que ambas decorrem de uma única regra contábil, e fecha observando que nada é proibido — apenas passa a custar dinheiro a quem faz. A decisão deliberada é negada na terceira frase; o single de três minutos é atribuído à capacidade física do disco, e não a julgamento artístico; a proibição é exatamente o que o último parágrafo afasta ao distinguir essa pressão da censura; e o terceiro parágrafo diz que o produtor enxerga em poucos dias onde o ouvinte para."
                    },
                    {
                        "id":  "ingles-74",
-                       "texto_apoio":  "In English, \u0027educated\u0027 does not necessarily mean \u0027educado\u0027 (polite). \u0027Educated\u0027 refers to someone who has received formal schooling or instruction, as in \u0027a highly educated professional\u0027. The word closer to the Portuguese \u0027educado\u0027, in the sense of good manners, is \u0027polite\u0027 or \u0027well-mannered\u0027.",
-                       "enunciado":  "According to the text, what does \u0027educated\u0027 mean in English?",
+                       "textoId":  "ing-c05-t5",
+                       "banca":  "fgv",
+                       "formato":  "direta",
+                       "tipoItem":  "referencia",
+                       "enunciado":  "In the last paragraph, \u0027a more effective one\u0027 most likely refers to a more effective form of",
                        "alternativas":  {
-                                            "a":  "Alguém que trabalha exclusivamente como professor.",
-                                            "b":  "Alguém com boas maneiras e comportamento cortês.",
-                                            "c":  "Alguém que nunca cometeu erros de etiqueta.",
-                                            "d":  "Alguém que recebeu instrução formal ou escolarização."
+                                            "a":  "pressure on what music gets made.",
+                                            "b":  "payment to the musicians who record.",
+                                            "c":  "measurement of where listeners stop.",
+                                            "d":  "editing of a recording before its release.",
+                                            "e":  "protection for albums meant to be heard in order."
                                         },
-                       "resposta":  "d",
-                       "explicacao":  "O texto explica que \u0027educated\u0027 se refere à instrução formal recebida por uma pessoa, e não a boas maneiras, sentido para o qual o inglês usa \u0027polite\u0027 ou \u0027well-mannered\u0027.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "a",
+                       "explicacao":  "A frase compara a regra contábil à censura: é um tipo diferente de pressão e, a longo prazo, possivelmente uma pressão mais eficaz — o substantivo retomado é \u0027pressure\u0027, duas palavras antes. Pagamento, medição e edição são elementos dos parágrafos anteriores e não estão em comparação com a censura; e o álbum ouvido em ordem é um dos formatos que a regra desfavorece, isto é, o objeto da pressão e não a pressão."
                    },
                    {
                        "id":  "ingles-75",
-                       "texto_apoio":  "Restoring a centuries-old painting requires meticulous work: conservators use magnifying tools to remove layers of old varnish without damaging the original pigments underneath, a process that can take months for a single canvas. Even a small mistake can permanently alter a work that has survived for hundreds of years.",
-                       "enunciado":  "In the text, the word \u0027meticulous\u0027 is closest in meaning to:",
+                       "textoId":  "ing-c05-t5",
+                       "banca":  "fgv",
+                       "formato":  "excecao",
+                       "tipoItem":  "excecao",
+                       "enunciado":  "The text most likely supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "completely automated, with no human involvement",
-                                            "b":  "occasional and infrequent, unlike the described process",
-                                            "c":  "extremely careful and precise",
-                                            "d":  "careless and rushed, contrary to the text"
+                                            "a":  "A stream generates payment only after the listener has heard roughly half a minute.",
+                                            "b":  "Long-form works have been removed from the platforms that pay in this way.",
+                                            "c":  "Earlier eras of recorded music also worked under a formal constraint.",
+                                            "d":  "Information about listener behaviour now reaches producers within days.",
+                                            "e":  "A shorter song with more choruses can earn more than a longer one."
                                         },
-                       "resposta":  "c",
-                       "explicacao":  "O contexto descreve um processo delicado, no qual até um pequeno erro pode alterar permanentemente a obra, o que reforça o sentido de \u0027meticulous\u0027 como extremamente cuidadoso e preciso.",
-                       "dificuldade":  "media",
-                       "formato":  "direta"
+                       "resposta":  "b",
+                       "explicacao":  "O último parágrafo afirma o contrário: nada disso é proibido, e o desenvolvimento lento e o álbum ouvido em ordem apenas passaram a custar dinheiro a quem os faz — a distinção entre essa pressão e a censura depende exatamente disso. As demais estão sustentadas: o pagamento só se conta a partir de cerca de trinta segundos; toda era da música gravada teve sua restrição, e a do século XX foi a capacidade física do disco; o produtor vê em dias onde o ouvinte para; e a canção de três minutos com dois refrões rende mais que a de cinco com um."
                    },
                    {
                        "id":  "ingles-76",
@@ -31233,5 +31293,55 @@ window.QUESTION_TEXTS = {
                        "id":  "ing-c03-t5",
                        "fonte":  "Texto original em genero de reportagem sobre trabalho e tecnologia",
                        "conteudo":  "The dispute over automating a container port is usually reported as a straightforward contest between efficiency and jobs. The people on both sides of it describe something more specific.\n\nAutomated terminals do not, on the available evidence, move boxes dramatically faster than well-run conventional ones. What they do is make the rate predictable. A crane that never tires produces the same number of moves at four in the morning as at midday, and predictability is what lets a shipping line promise a schedule and a factory hold less inventory [estoque]. The gain shows up along the chain rather than at the quay [cais], which is one reason the terminal operator paying for the equipment is often not the party that benefits most from it.\n\nThe unions [sindicatos] have read this correctly and have rarely argued that automation does not work. Their position has been about who captures a gain that the port creates and the wider economy collects, and about the fact that this trade is one of the few remaining routes to a middle-class wage without a degree. A settlement [acordo] that protects the current workforce while letting the next generation of those jobs disappear ends the strike without addressing that.\n\nMeanwhile the technical case keeps shifting under both parties. Several fully automated terminals have cost far more than projected and have taken years to reach the productivity of the docks they replaced; a few have been partly reversed. The claim that automation is inevitable and therefore not worth negotiating over has, so far, been the weakest position in the debate."
+                   },
+    "ing-c04-t1":  {
+                       "id":  "ing-c04-t1",
+                       "fonte":  "Texto original em genero de ensaio de divulgacao linguistica",
+                       "conteudo":  "When a language stops being spoken, the loss is usually described as cultural, and it is. But linguists who work with the last speakers of a language tend to describe something more specific, and harder to replace.\n\nEvery language encodes a set of distinctions its speakers found worth making. A few are famous — the terms for snow, the kinship [parentesco] systems that name a cousin on the mother\u0027s side differently from one on the father\u0027s. Most are quieter. A language spoken along a coast may oblige a speaker to say whether an object is uphill or downhill of the listener rather than to the left or the right, which means its speakers track the terrain continuously, in ordinary conversation, without effort. When the language goes, that habit of attention goes with it, and no dictionary preserves a habit.\n\nThe mechanics of the loss are rarely dramatic. Languages seldom disappear because they have been banned [proibidas], though that has happened. They disappear because parents make a reasonable calculation about which language will get their child work, and stop passing the other one on. The decisive generation is usually bilingual and entirely aware of what it is doing.\n\nRevival is possible, and it is not a matter of nostalgia. Where communities have brought a language back, the effect most often reported is not that old texts became readable — it is that a group of people acquired something to do together that was theirs. Whether that counts as a linguistic achievement or a social one is a question the linguists mostly decline to settle."
+                   },
+    "ing-c04-t2":  {
+                       "id":  "ing-c04-t2",
+                       "fonte":  "Texto original em genero de reportagem analitica sobre politica energetica",
+                       "conteudo":  "Solar panels and wind turbines are now the cheapest sources of electricity ever built, measured by the cost of the energy they produce across their lifetimes. In several countries this has coincided with electricity bills that did not fall, and the distance between those two facts has become one of the most misused numbers in public argument.\n\nThe cost of generating a unit of power is not the cost of delivering it when it is wanted. A system built on sources that produce according to the weather needs three things the old one did not: enough transmission [transmissão] to move power from where the wind is blowing to where the demand is; enough storage or flexible capacity to cover the hours when neither sun nor wind is available; and a market design that pays for being available rather than only for producing. Each of those is a real cost, and none of them appears in the figure that gets quoted.\n\nThis is not an argument that the transition is expensive in the end. Most analyses find the opposite across a couple of decades. It is an argument about sequence. The cheap part arrives first and is highly visible; the expensive part arrives later and is buried in charges most consumers could not identify on a bill. A public told that the new sources are cheap and then shown a rising bill will draw the obvious conclusion, and it will be the wrong one.\n\nThe political consequence is already visible. Support for the transition has proved most durable where the connection between infrastructure spending and the bill was explained before the bill arrived, rather than defended afterwards."
+                   },
+    "ing-c04-t3":  {
+                       "id":  "ing-c04-t3",
+                       "fonte":  "Texto original em genero de divulgacao cientifica sobre ecologia urbana",
+                       "conteudo":  "Most birds that migrate long distances do so at night, and a great many of them navigate partly by the stars. The arrangement worked for a very long time and then met, in roughly a century and a half, a change it was not built for.\n\nArtificial light disorients migrating birds in two ways. The first is attraction: a bright, steady light pulls them off course and holds them there, and flocks [bandos] have been recorded circling a single illuminated structure until exhaustion [exaustão]. The second is subtler. Skyglow [brilho do céu] — the diffuse dome of light over a city, visible from many kilometres away — does not trap birds, but it washes out the celestial cues [pistas celestes] they use to hold a heading, across a band of sky that widens every year.\n\nThe unusual feature of this problem is how cheaply it can be reduced. Switching off the upward-facing lights of tall buildings during the few weeks of peak migration has produced measurable falls in collisions in every city that has tried it, at essentially no cost and with no loss of function at street level. Very few environmental measures have that profile, which is why the programmes spread quickly once one city published its numbers.\n\nWhat has not spread as quickly is the harder part. Most artificial light at night is not on tall buildings but on streets and car parks, and much of it points at the sky by accident, through fixtures [luminárias] chosen decades ago. Replacing those is a slow municipal expense with no ribbon to cut, and it is where the remaining problem sits."
+                   },
+    "ing-c04-t4":  {
+                       "id":  "ing-c04-t4",
+                       "fonte":  "Texto original em genero de artigo sobre financiamento do ensino superior",
+                       "conteudo":  "A university that recruits students from abroad is usually described as exporting education. In accounting terms it is closer to importing a population: the students arrive, rent housing, pay local taxes and, in most systems, subsidise the tuition [mensalidade] of everyone born in the country, because they pay several times the domestic fee.\n\nThat cross-subsidy [subsídio cruzado] has become structural, and it is fragile in a way that is easy to miss. It rests on decisions taken in ministries with nothing to do with education — visa rules, the right to work after graduating, the treatment of a spouse [cônjuge] — and those decisions are made for reasons of domestic politics on a timescale of months, while a university plans on a timescale of years. A country can announce a change in the spring and watch its applications fall by a third by the autumn.\n\nUniversities that grew on this income have generally built the capacity the income implied: buildings, staff, whole departments whose viability assumed the flow would continue. When it stops, the cuts do not fall on the courses the international students were taking. They fall wherever the deficit [déficit] can be closed fastest, which in practice has meant languages, classics and the smaller sciences — subjects with few students and no obvious outside revenue.\n\nThe uncomfortable observation is that the model was working as designed. Nobody hid the dependency; it appeared in every annual report. What was missing was any mechanism that made the exposure costly to ignore while the money was still arriving."
+                   },
+    "ing-c04-t5":  {
+                       "id":  "ing-c04-t5",
+                       "fonte":  "Texto original em genero de reportagem sobre regulacao e consumo",
+                       "conteudo":  "The economics of repairing a device are settled long before it breaks. If the screws [parafusos] are standard, the battery is held by a clip rather than by glue [cola], the diagnostic software is available and a spare part [peça de reposição] can be bought by anyone, then a repair costs a fraction of a replacement and a used device holds its value. If any one of those conditions fails, the arithmetic reverses, and the same device becomes cheaper to replace than to fix.\n\nManufacturers have generally argued that closed designs follow from making devices thinner, more water-resistant and safer to handle. There is something to this: glue does seal a seam [juntura], and a badly fitted battery is genuinely dangerous. But the argument has been weakened by the parts of the practice that have nothing to do with engineering — software that refuses to recognise a component because an authorised centre did not install it, and manuals released only under contract.\n\nThe regulations now appearing in several markets mostly target that second category. They require that spare parts and manuals be sold to independent shops on the same terms as to authorised ones, and that software not treat a genuine part as counterfeit [falsificada]. What they do not do is mandate a particular design, which is a deliberate choice: writing engineering into law tends to freeze it.\n\nThe early effects have been modest and mostly indirect. Repair shops report shorter waits for parts. The larger change is that resale values have begun to reflect repairability, which puts the incentive where it was always going to work best — in the price a buyer is willing to pay."
+                   },
+    "ing-c05-t1":  {
+                       "id":  "ing-c05-t1",
+                       "fonte":  "Texto original em genero de ensaio sobre linguagem publica",
+                       "conteudo":  "There is a sentence that surfaces whenever an institution has done something indefensible, and it repays reading slowly: \u0027We regret that some people were offended.\u0027 Every word in it is doing work, and none of the work is apology.\n\nAn apology has a fixed structure. It names the act, accepts that the actor performed it, and offers something — a change, a restitution [reparação], at minimum a commitment. The sentence above performs none of those operations. It names no act. Its subject is not the institution but the feelings of other people, which relocates the problem into those who noticed it. And \u0027some\u0027 does further work, quietly implying that the reaction was not general.\n\nWhat makes the formula durable is that it is not a lie. The institution does regret the situation, and people were indeed offended. This is why it survives legal review, which is usually the point: counsel [advogado] will approve any statement that concedes no fact, and a statement that concedes no fact is the one thing an apology cannot be.\n\nThe research here is unusually consistent. Apologies that name the act and accept responsibility reduce the likelihood of litigation [litígio] rather than raising it, and several health systems have adopted disclosure [divulgação] policies on that evidence. The obstacle has never been the finding. It is that the person who must sign the apology is rarely the person who bears the cost of not making one."
+                   },
+    "ing-c05-t2":  {
+                       "id":  "ing-c05-t2",
+                       "fonte":  "Texto original em genero de reportagem economica sobre risco climatico",
+                       "conteudo":  "Insurance works by pooling [reunindo] risks that are independent of one another. A fire in one house and a fire in another are unrelated events, so a company can hold reserves against a predictable number of them. A flood is not like that. It arrives everywhere at once, which is why flood cover has always been the hardest line to write, and why the state is involved in it in almost every country.\n\nWhat has changed is that the calculation now has to be made forwards rather than backwards. An insurer prices next year using the record of past years, and that method holds only while the past remains a guide. Where it stops being one, the honest response is either a far higher premium [prêmio] or no offer at all — and both of those, arriving in a market where people have already bought their houses, look less like a technical adjustment than like an eviction [despejo] notice with a stamp on it.\n\nThe pattern that follows is by now familiar. Private insurers withdraw from the highest-risk areas; a state scheme steps in to cover what the market will not; the state scheme charges below the actuarial price, because charging the true one is politically impossible; and the gap becomes a subsidy that encourages building exactly where the risk is greatest. Every step is reasonable and the sequence is not.\n\nSome jurisdictions have begun trying to break it by tying support to relocation or to physical protection rather than to rebuilding in place. These schemes are early and expensive, and they have the one feature the previous arrangement lacked: they treat the premium as information about where it is wise to live, rather than as a bill to be softened."
+                   },
+    "ing-c05-t3":  {
+                       "id":  "ing-c05-t3",
+                       "fonte":  "Texto original em genero de artigo sobre evidencia e politica publica",
+                       "conteudo":  "Adolescent sleep does not run on the same clock as adult sleep. Around puberty the release of melatonin [melatonina] shifts by roughly two hours, so a teenager told to sleep at ten is being asked to sleep at what the body registers as eight. The finding is old, has been replicated in several countries, and is not seriously disputed.\n\nIts policy implication is straightforward, which is what makes the past twenty years interesting. Districts that moved the start of secondary school from around half past seven to after half past eight reported the results the biology predicted: more total sleep, better attendance and — in the studies able to measure it — fewer road accidents among the youngest drivers. Nothing here required a new discovery.\n\nThe obstacle was never the evidence. It was the bus. A district running one fleet across three tiers [turnos] of schools saves a great deal by staggering [escalonar] their start times, and secondary schools are usually placed in the earliest tier because their students can be left unsupervised at the other end of the day. Moving them means either buying buses or sending the youngest children out in the dark, and the second option produces the more alarmed parents.\n\nSo the reform has advanced where it could be paid for and stalled [empacou] elsewhere, in a pattern that has nothing to do with how convincing anyone found the research. It is a useful example of what a scientific consensus can and cannot accomplish on its own."
+                   },
+    "ing-c05-t4":  {
+                       "id":  "ing-c05-t4",
+                       "fonte":  "Texto original em genero de artigo sobre instituicoes e governanca",
+                       "conteudo":  "The most reliable early sign that a government is in trouble is not a fall in a statistic. It is the moment the statistic stops being published.\n\nOfficial numbers are a strange kind of infrastructure. They cost little, almost nobody notices them, and they underwrite [dão sustentação a] an enormous amount: contracts indexed to inflation, transfers between levels of government, the pension a person receives, a company\u0027s decision to build a factory. A statistical office that loses its independence does not announce the fact. Series are discontinued for methodological reasons, publication dates slip, a definition is revised so that comparison with last year becomes impossible.\n\nThe damage is slower than a devaluation and harder to reverse. Trust in a number is built across decades of unremarkable publication and destroyed the first time a figure is visibly convenient. And once the official series is doubted, private substitutes appear — supermarket price trackers, satellite estimates of night-time light, employment indices assembled by payroll [folha de pagamento] firms — which is not the reassurance it appears to be. Those substitutes cover what is profitable to measure, and they are not available to the people who most need the number.\n\nWhat makes the problem tractable is that the safeguards [salvaguardas] are known and dull: a calendar of releases fixed in advance, a legal separation between the office and the ministry, microdata released to researchers who can check the aggregate. None of it is expensive. All of it is far easier to establish in a year when nobody wants to interfere."
+                   },
+    "ing-c05-t5":  {
+                       "id":  "ing-c05-t5",
+                       "fonte":  "Texto original em genero de reportagem cultural sobre industria da musica",
+                       "conteudo":  "The length of a pop song fell by about a fifth in the decade after streaming became the dominant way people listen, and the intro — the instrumental opening that once ran fifteen or twenty seconds — has all but disappeared. Neither change was decided by anybody. Both follow from a single accounting rule.\n\nA stream counts, and generates payment, once the listener has heard about thirty seconds. Below that threshold [limiar] it is worth nothing at all. Every incentive in the system therefore points at the first half-minute: reach the chorus [refrão] early, put the hook at the front, and leave the listener no quiet stretch in which to skip. A three-minute song with two choruses earns more than a five-minute song with one, because it is played more often and skipped less.\n\nMusicians describe the constraint without much drama; every era of recorded music has had one, and the three-minute single of the twentieth century was set by the physical capacity of a disc rather than by artistic judgement. What is different now is the speed of the feedback. A producer can see, within days, exactly where listeners stop, and the temptation to edit against that curve is very hard to resist.\n\nThe interesting question is what the rule selects against rather than what it rewards. Slow development, a form that only pays off at the end, an album meant to be heard in order — none of these is prohibited, and all of them now cost their maker money to make. That is a different kind of pressure from censorship [censura], and in the long run possibly a more effective one."
                    }
 };

@@ -1,0 +1,303 @@
+{
+  "_comentario": [
+    "Conjunto 2 de 10 do Ingles refeito (ingles-16 a ingles-30).",
+    "",
+    "Mesma arquitetura do conjunto 1: cinco textos sustentando 2, 4, 3, 3 e 3",
+    "questoes; vocabulario dificil glosado entre colchetes em portugues dentro do",
+    "texto; enunciados sempre em ingles, 13 dos 15 com 'most likely'; e a",
+    "distribuicao de tipos da prova -- 7 de inferencia, 3 de referencia, 2 de",
+    "funcao de paragrafo, 2 de excecao e 1 de detalhe explicito.",
+    "",
+    "Os temas seguem o repertorio que a banca compartilha entre Ingles e Humanas:",
+    "comercio internacional e seus efeitos no pais receptor, ceticismo cientifico,",
+    "politica externa de pequenos Estados, extracao de recursos. Estudar o bloco de",
+    "Ingles alimenta o de Atualidades de proposito.",
+    "",
+    "Tres gabaritos de cada letra."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c02-t1",
+      "fonte": "Texto original em genero de ensaio breve de suplemento cultural",
+      "conteudo": "There is a particular kind of shame attached to an unread book. It sits on the shelf, its spine uncracked [lombada intacta], and every time its owner walks past, the purchase is quietly repeated as a failure. Bookshops encourage the feeling, and so does every list of titles one is supposed to have finished by a certain age.\n\nThe writer Umberto Eco kept a library of some thirty thousand volumes, of which he had read a small fraction. Visitors reacted in one of two ways. Most treated the collection as a trophy and asked how many he had got through. A few understood that the unread portion was the point. A library, Eco argued, is not a record of what its owner knows. It is an instrument, and its value lies in what it holds that the owner does not yet know and may one day need.\n\nFramed that way, the shame inverts [inverte-se]. A shelf of books you have finished is a closed archive of a past self. A shelf of books you have not finished is a map of the questions you have decided are worth keeping within reach. The first tells you where you have been; only the second is of any use when you arrive somewhere unfamiliar.\n\nThere is a limit, of course. An instrument nobody ever reaches for is furniture [mobília], and a collection assembled to be photographed is not a library at all. But the ordinary case — the book bought in good faith, opened twice, still waiting — deserves better than the guilt [culpa] it usually attracts."
+    },
+    {
+      "id": "ing-c02-t2",
+      "fonte": "Texto original em genero de reportagem economica internacional",
+      "conteudo": "A coat dropped into a charity bin [caixa de doação] in a European city begins a journey that almost nobody who donates one imagines. It is sorted by hand, graded [classificado], compressed into a bale [fardo] weighing forty-five kilos, sold by weight to an exporter and shipped to a market several thousand kilometres away, where a trader buys the bale without being able to inspect what is inside it.\n\nThat last detail carries most of the trade's economics. The trader is buying a lottery ticket. A good bale holds garments [peças de roupa] that will sell within a week at a healthy margin; a bad one is full of items too worn, too heavy for the climate, or printed with a slogan nobody local wants. The share that cannot be sold does not go back to Europe. It is burned, buried or left where the market ends, and its disposal [descarte] is paid for by the town that received it, not by the country that sent it.\n\nDefenders of the trade point out that it clothes millions of people cheaply and supports a long chain of traders, tailors [alfaiates] and repairers who make a living from it. That is true, and it is why proposals to ban imports outright have met resistance from the very workers such bans are meant to protect. Critics reply that the same flow has made it close to impossible to build a domestic clothing industry, since no new garment can compete on price with a used one that arrived as somebody else's surplus [excedente].\n\nBoth sides are describing one fact from opposite ends. The bale is cheap because the coat was free, and the coat was free because the person who bought it new replaced it long before it wore out. Whatever is decided at the port, the volume is set in the shop where the coat was bought."
+    },
+    {
+      "id": "ing-c02-t3",
+      "fonte": "Texto original em genero de divulgacao cientifica com enfoque critico",
+      "conteudo": "For twenty years, one of the most repeated findings in popular science has been that the trees of a forest are joined underground by fungal threads [filamentos fúngicos] through which they share sugars, send warnings and support their weaker neighbours. The image is irresistible: a forest as a cooperative, with the old feeding the young.\n\nThe underlying biology is not in dispute. Fungi do form networks that link the roots [raízes] of different trees, and carbon does move between plants along them. What a group of researchers has questioned is everything built on top of that. Reviewing the field studies most often cited, they found that few had measured transfer in a mature forest rather than in pots; that the quantities moved were small next to what a tree produces for itself; and that in several cases the direction of movement was never established — carbon was detected in a neighbour without any evidence that the first tree had sent it rather than simply lost it.\n\nThe critics are careful about what they are claiming. They do not argue that the networks are absent or unimportant. They argue that a hypothesis was promoted to a fact somewhere between the journal and the documentary, and that once a finding acquires a memorable name it becomes very hard to test, because every later study is read either as confirming the story or as missing the point.\n\nThe episode is now cited more often as a case study in how science reaches the public than as a question about forests — which its authors find mildly ironic, and which is, they add, an instance of the very problem they were describing."
+    },
+    {
+      "id": "ing-c02-t4",
+      "fonte": "Texto original em genero de artigo de politica internacional",
+      "conteudo": "A handful of small states have built a foreign policy out of being the room. They host the talks, keep the archives, run the arbitration [arbitragem] court and, when a prisoner exchange needs an aircraft that neither side will supply, supply the aircraft. None of this rests on military weight, and that is the point: a mediator with an army large enough to matter is a party [parte interessada], not a venue [sede].\n\nThe service is more demanding than it looks. It requires a legal system whose rulings both sides expect to be enforced, a banking system able to hold money nobody will admit to owning and — hardest of all — a record of never leaking [vazar]. That record takes decades to build and one afternoon to destroy, which is why states in this business are so conservative about the disputes they agree to take. Turning a mediation down is often the more valuable move.\n\nThe returns are real but indirect. Hosting negotiations does not itself pay well. What it buys is a seat at conversations far above the country's size, an insurance policy against being ignored and a professional class — lawyers, translators, insurers — whose expertise attracts business that has nothing to do with diplomacy.\n\nThe vulnerability is structural. The role depends on the major powers continuing to want a neutral venue at all, and there have been decades in which they did not. A country that has organised its economy around being trusted by everyone has very little to fall back on in a period when nobody is talking."
+    },
+    {
+      "id": "ing-c02-t5",
+      "fonte": "Texto original em genero de reportagem sobre recursos naturais",
+      "conteudo": "Sand is the most consumed solid material on earth once water is set aside, and almost none of it can come from a desert. Wind-blown grains are too round and too smooth to lock together in concrete; the grains that work are angular ones, shaped by moving water, and they are found in riverbeds, floodplains [planícies de inundação] and on the seabed. This is why a country can sit in the middle of the largest desert on the planet and still import sand.\n\nThe consequences are mostly local and mostly invisible from a city. Taking sand out of a riverbed lowers the water table [lençol freático] that nearby farms depend on, undercuts [solapa] the foundations of bridges and lets salt water travel further up a delta, which quietly changes what can be grown there. None of these effects shows up in the price of a cubic metre of concrete, and each of them arrives years after the extraction that caused it.\n\nBecause the material is heavy and cheap, it is rarely worth carrying far, which means the market is not one market but thousands of small ones, each within a short drive of a building site. That structure defeats the usual tools. There is no global exchange to regulate, no small group of exporters to negotiate with, and enforcement falls to whichever local authority sits nearest the river — often the one with the least capacity to stand up to the people doing the digging.\n\nSubstitutes exist. Crushed rock, recycled demolition waste and manufactured sand all work, and all cost more than taking material out of a river at night. Until that comparison changes, the substitutes will stay where they are."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-16",
+      "textoId": "ing-c02-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A book left unread represents money that has simply been wasted.",
+        "b": "Part of a collection's usefulness lies in the books its owner has not yet read.",
+        "c": "Most of Eco's visitors understood what the library was for.",
+        "d": "A reader should buy only the books he intends to finish within the year.",
+        "e": "What gives a collection its value is how well it photographs."
+      },
+      "resposta": "b",
+      "explicacao": "O segundo parágrafo diz que a biblioteca é um instrumento e que seu valor está no que ela contém que o dono ainda não sabe — a parte não lida é o ponto. A ideia de dinheiro desperdiçado é justamente a culpa que o texto se propõe a desmontar; o próprio texto diz que a maioria dos visitantes tratava a coleção como troféu e que só uns poucos entendiam; comprar apenas o que se vai terminar contraria o argumento inteiro; e a coleção montada para ser fotografada é citada no último parágrafo como o caso que não conta como biblioteca."
+    },
+    {
+      "id": "ingles-17",
+      "textoId": "ing-c02-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'the second' most likely refers to",
+      "alternativas": {
+        "a": "the shame that an unread book is said to produce in its owner.",
+        "b": "the trophy that most of Eco's visitors saw in his library.",
+        "c": "the fraction of the thirty thousand volumes that Eco had actually read.",
+        "d": "a shelf holding only the books their owner has finished.",
+        "e": "a shelf holding the books their owner has not yet finished."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo opõe duas prateleiras na ordem em que as apresenta: a das lidas, chamada de arquivo fechado de um eu passado, e a das não lidas, chamada de mapa das perguntas que se quis manter por perto. A frase final diz que a primeira mostra onde se esteve e só a segunda serve ao chegar a lugar desconhecido — o que só faz sentido para a prateleira das não lidas. A prateleira das lidas é justamente a primeira do par; e vergonha, troféu e fração lida são elementos dos parágrafos anteriores, fora dessa oposição."
+    },
+    {
+      "id": "ingles-18",
+      "textoId": "ing-c02-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why the economics of the trade turn on a purchase made without inspection.",
+        "b": "describe the process by which garments are sorted and graded in Europe.",
+        "c": "compare the climate of the exporting countries with that of the importing ones.",
+        "d": "list the regulations that govern the export of used clothing.",
+        "e": "argue that traders ought to be compensated for the garments they cannot sell."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo abre dizendo que esse último detalhe — comprar sem poder inspecionar — carrega a maior parte da economia do comércio, e desenvolve exatamente isso: o comprador adquire um bilhete de loteria, e o que não vende vira custo de quem recebeu. A triagem e a classificação são descritas no primeiro parágrafo, não neste; o clima aparece como um entre vários motivos de a peça não vender, sem comparação entre países; não há regulamentação listada em lugar algum do texto; e o texto não defende compensação a ninguém, apenas descreve onde o prejuízo cai."
+    },
+    {
+      "id": "ingles-19",
+      "textoId": "ing-c02-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that resistance to an outright import ban",
+      "alternativas": {
+        "a": "comes mainly from the exporters based in Europe.",
+        "b": "rests on the claim that used garments are of better quality than new ones.",
+        "c": "has come from the very workers such a ban is meant to protect.",
+        "d": "has succeeded in every country where a ban was attempted.",
+        "e": "is explained by the cost of disposing of the garments that do not sell."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo afirma isso literalmente: as propostas de proibição encontraram resistência justamente nos trabalhadores que a proibição deveria proteger — comerciantes, alfaiates e consertadores que vivem da cadeia. Os exportadores europeus não são mencionados como parte do debate; nenhuma passagem sustenta qualidade superior da peça usada, só preço menor; o texto não informa resultado de tentativa alguma de proibição; e o custo do descarte é apresentado como argumento dos críticos do comércio, não de quem resiste à proibição."
+    },
+    {
+      "id": "ingles-20",
+      "textoId": "ing-c02-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The final paragraph most likely implies that the volume of the trade",
+      "alternativas": {
+        "a": "is determined by the rules adopted at the ports of entry.",
+        "b": "depends on how many tailors and repairers the receiving market has.",
+        "c": "has fallen as the quality of new garments has improved.",
+        "d": "is set by consumption decisions taken in the exporting country.",
+        "e": "would drop if traders were allowed to inspect bales before buying them."
+      },
+      "resposta": "d",
+      "explicacao": "O fecho é explícito: seja qual for a decisão no porto, o volume é definido na loja em que o casaco foi comprado — porque o fardo é barato pelo casaco ter sido doado, e ele foi doado por ter sido substituído antes de se gastar. Isso já descarta a regra do porto, que a frase menciona só para subordiná-la; o número de alfaiates descreve quem vive da cadeia, não o que a alimenta; a melhora de qualidade das peças novas não é discutida; e a inspeção dos fardos mudaria o risco do comerciante, não o fluxo que chega."
+    },
+    {
+      "id": "ingles-21",
+      "textoId": "ing-c02-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "A trader cannot see what a bale contains before paying for it.",
+        "b": "Garments that fail to sell are disposed of near the market that received them.",
+        "c": "The trade provides an income to people other than the traders themselves.",
+        "d": "New domestic production has difficulty competing with imported used clothing.",
+        "e": "The charities that collect the garments arrange and pay for their eventual disposal."
+      },
+      "resposta": "e",
+      "explicacao": "O texto diz o contrário: o que não vende é queimado, enterrado ou abandonado onde o mercado termina, e o descarte é pago pela cidade que recebeu, não pelo país que enviou — as instituições que coletam não aparecem em momento algum arcando com isso. As demais estão sustentadas: o comerciante compra sem inspecionar; o que sobra fica no destino; alfaiates e consertadores vivem da cadeia; e nenhuma peça nova compete em preço com uma usada que chegou como excedente alheio."
+    },
+    {
+      "id": "ingles-22",
+      "textoId": "ing-c02-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Fungal networks joining the roots of trees have been shown not to exist.",
+        "b": "The movement of carbon between plants is established, while its interpretation is disputed.",
+        "c": "The researchers reviewing the field conclude that the networks are unimportant.",
+        "d": "Studies carried out in pots are more reliable than those done in mature forests.",
+        "e": "The popular account rested on studies that had established the direction of transfer."
+      },
+      "resposta": "b",
+      "explicacao": "O segundo parágrafo separa as duas coisas: a biologia de base não está em disputa — os fungos formam redes e o carbono se move entre plantas —, e o que os pesquisadores questionam é tudo o que foi construído por cima. As opções sobre inexistência e irrelevância das redes são negadas na abertura do terceiro parágrafo, em que os críticos delimitam o que estão afirmando; a superioridade dos estudos em vaso inverte a crítica, que é justamente a de medir em vaso em vez de floresta madura; e o texto diz que em vários casos a direção do movimento nunca foi estabelecida."
+    },
+    {
+      "id": "ingles-23",
+      "textoId": "ing-c02-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, one of the weaknesses the reviewers found in the studies they examined was that",
+      "alternativas": {
+        "a": "the species of fungus involved had been misidentified.",
+        "b": "the trees studied were too old to transfer carbon at all.",
+        "c": "the direction of the carbon movement had often not been established.",
+        "d": "the quantities of carbon involved were impossible to measure.",
+        "e": "the studies had never been published in scientific journals."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo lista três falhas, e esta é a terceira: detectou-se carbono no vizinho sem evidência de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Erro de identificação de espécie não é mencionado; a crítica sobre árvores é o oposto, já que os estudos foram feitos em vaso e não em floresta madura; as quantidades foram medidas, e o problema apontado é serem pequenas diante do que a árvore produz para si; e o texto se refere ao percurso do achado 'do periódico ao documentário', o que pressupõe publicação."
+    },
+    {
+      "id": "ingles-24",
+      "textoId": "ing-c02-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'the very problem they were describing' most likely refers to",
+      "alternativas": {
+        "a": "the tendency of a memorable account to spread faster than the evidence behind it.",
+        "b": "the difficulty of measuring carbon transfer in a mature forest.",
+        "c": "the reluctance of documentary makers to interview working researchers.",
+        "d": "the absence of fungal networks in certain kinds of soil.",
+        "e": "the cost of repeating a field study in several different locations."
+      },
+      "resposta": "a",
+      "explicacao": "O problema que os autores descreviam é o do parágrafo anterior: uma hipótese vira fato no caminho entre o periódico e o documentário, e um achado com nome memorável fica difícil de testar. A ironia é que a própria crítica virou uma história memorável que circula mais do que a questão científica. A dificuldade de medir em floresta madura é uma das falhas metodológicas, não o problema de comunicação; a relutância de documentaristas não é afirmada; a ausência de redes é explicitamente negada; e custo de replicação não aparece no texto."
+    },
+    {
+      "id": "ingles-25",
+      "textoId": "ing-c02-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about the states described?",
+      "alternativas": {
+        "a": "Their influence derives from the size of their armed forces.",
+        "b": "They take on as many mediations as they are offered.",
+        "c": "The role is profitable mainly because hosting negotiations pays well.",
+        "d": "Refusing a case can protect the very asset the role depends on.",
+        "e": "Their banking systems matter, while their legal systems do not."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo diz que o histórico de nunca vazar leva décadas para construir e uma tarde para destruir, e conclui que recusar uma mediação costuma ser o movimento mais valioso — ou seja, a recusa protege a reputação de que o papel vive. A força militar é apresentada como desqualificadora, já que um mediador com exército relevante é parte e não sede; aceitar tudo contraria o conservadorismo descrito; o próprio texto diz que sediar negociações não paga bem e que o retorno é indireto; e o sistema jurídico é listado como exigência ao lado do bancário."
+    },
+    {
+      "id": "ingles-26",
+      "textoId": "ing-c02-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the first paragraph, 'that is the point' most likely refers to the fact that",
+      "alternativas": {
+        "a": "small states can supply an aircraft when the larger ones will not.",
+        "b": "archives are easier to keep in countries with small populations.",
+        "c": "a mediator without military weight is not a party to the dispute.",
+        "d": "arbitration courts cost less to run than armed forces do.",
+        "e": "prisoner exchanges are the most frequent form of mediation."
+      },
+      "resposta": "c",
+      "explicacao": "A frase vem logo depois de 'nada disso se apoia em peso militar' e é imediatamente explicada pelos dois pontos que a seguem: um mediador com exército grande o bastante para importar é parte interessada, não sede. O avião é um exemplo do serviço prestado, não a razão de a ausência de força ser vantagem; a facilidade de guardar arquivos e a comparação de custo entre tribunal e exército não aparecem no texto; e as trocas de prisioneiros ilustram um tipo de serviço, sem qualquer afirmação de frequência."
+    },
+    {
+      "id": "ingles-27",
+      "textoId": "ing-c02-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely presents the main risk of this strategy as",
+      "alternativas": {
+        "a": "the possibility that the major powers stop wanting a neutral venue at all.",
+        "b": "the cost of maintaining a legal system that other countries will trust.",
+        "c": "the difficulty of training enough lawyers, translators and insurers.",
+        "d": "the danger that a mediation ends without any agreement being reached.",
+        "e": "the competition from other small states offering the same service."
+      },
+      "resposta": "a",
+      "explicacao": "O último parágrafo chama a vulnerabilidade de estrutural e a define: o papel depende de as grandes potências continuarem querendo uma sede neutra, e houve décadas em que não quiseram — um país que organizou a economia em torno de ser confiável tem pouco a que recorrer quando ninguém está conversando. Custo do sistema jurídico e formação de profissionais aparecem como exigências e como retorno do arranjo, não como risco; o fracasso de uma mediação específica não é discutido; e a concorrência entre pequenos Estados não é mencionada."
+    },
+    {
+      "id": "ingles-28",
+      "textoId": "ing-c02-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The third paragraph most likely serves to",
+      "alternativas": {
+        "a": "estimate the total quantity of sand consumed worldwide each year.",
+        "b": "describe the technical differences between river sand and crushed rock.",
+        "c": "explain why carrying sand over long distances has become common.",
+        "d": "list the countries in which extraction is most heavily regulated.",
+        "e": "explain why the structure of the market defeats the usual regulatory tools."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo parte do peso e do preço baixo do material para concluir que não existe um mercado, e sim milhares de mercados locais, e daí tira o efeito regulatório: não há bolsa global a regular nem grupo de exportadores com quem negociar, e a fiscalização sobra para a autoridade local mais fraca. O volume mundial é mencionado só na primeira linha do texto; a diferença entre areia de rio e rocha britada não é técnica no texto, e sim de custo, no último parágrafo; o transporte a longa distância é justamente o que o texto diz não compensar; e nenhum país é nomeado."
+    },
+    {
+      "id": "ingles-29",
+      "textoId": "ing-c02-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that desert sand is unsuitable for construction because",
+      "alternativas": {
+        "a": "it lies too far from the sites where concrete is actually used.",
+        "b": "its grains are rounded and do not lock together well.",
+        "c": "it carries salt that weakens the resulting concrete.",
+        "d": "extracting it would lower the water table on which farms depend.",
+        "e": "it costs more than sand taken from a riverbed."
+      },
+      "resposta": "b",
+      "explicacao": "O primeiro parágrafo é direto: os grãos soprados pelo vento são redondos e lisos demais para se encaixar no concreto, ao contrário dos angulosos moldados pela água. A distância não explica nada aqui, tanto que o texto cita um país cercado de deserto que ainda assim importa areia; o sal aparece em outro contexto, o do avanço da água salgada no delta depois da extração; o rebaixamento do lençol freático é consequência da extração em rio, não do uso da areia do deserto; e nenhuma comparação de preço entre as duas é feita."
+    },
+    {
+      "id": "ingles-30",
+      "textoId": "ing-c02-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "The damage caused by extraction tends to appear well after it happens.",
+        "b": "The weight and low value of sand keep it from travelling far.",
+        "c": "Alternatives to river sand exist and work technically.",
+        "d": "The price of a cubic metre of concrete reflects the environmental damage caused.",
+        "e": "Local authorities may lack the capacity to enforce rules against extractors."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo afirma exatamente o contrário: nenhum desses efeitos aparece no preço do metro cúbico de concreto. As demais estão sustentadas: os danos chegam anos depois da extração que os causou; o material é pesado e barato, e por isso raramente compensa carregar longe; rocha britada, entulho reciclado e areia manufaturada funcionam, apenas custam mais; e a fiscalização recai sobre a autoridade local, muitas vezes a de menor capacidade de enfrentar quem extrai."
+    }
+  ]
+}

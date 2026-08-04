@@ -1,0 +1,117 @@
+{
+  "_comentario": [
+    "Vinte questoes de escada de geografia em que a asserção FALSA e reescrita",
+    "como VERDADEIRA, levando a questao a ter as tres corretas -- resposta (e).",
+    "",
+    "Existe porque a permutacao sozinha nao produz (a) nem (e): ela preserva",
+    "quantas asserçoes sao verdadeiras, e o banco foi escrito quase inteiro com",
+    "duas verdadeiras e uma falsa. Sem esta etapa, (a) e (e) ficariam em 2",
+    "questoes de 108 e o candidato aprenderia a descarta-las sem ler.",
+    "",
+    "A explicacao nova e obrigatoria: mudou o valor de verdade de uma afirmacao,",
+    "entao o comentario antigo sobre ela passou a contradizer o gabarito."
+  ],
+  "subtopic": "geografia",
+  "questoes": {
+    "geografia-03": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "O reconhecimento da condição de refugiado depende de procedimento formal conduzido pelo Estado de acolhida ou por organismo internacional competente.",
+      "explicacao": "As três descrevem corretamente o regime das migrações internacionais: a migração econômica é voluntária, o refúgio decorre de perseguição ou violência e é definido pela Convenção de 1951, e o reconhecimento do status não é automático — depende de procedimento formal de elegibilidade."
+    },
+    "geografia-04": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A Convenção de 1951 e seu Protocolo de 1967 formam a base jurídica internacional que define quem pode ser reconhecido como refugiado.",
+      "explicacao": "As três estão corretas e se encadeiam: a base jurídica do refúgio está na Convenção de 1951 e no Protocolo de 1967; o refugiado tem proteção específica por não poder retornar em segurança; e o migrante econômico se desloca voluntariamente, sem esse amparo automático."
+    },
+    "geografia-05": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "A distribuição da água doce é bastante desigual entre as regiões do planeta, o que agrava a competição por acesso em áreas de escassez.",
+      "explicacao": "As três se sustentam: a escassez relativa torna a água um recurso estratégico; sua distribuição é desigual, o que acirra disputas; e aquíferos transfronteiriços como o Guarani exigem cooperação entre os Estados que os compartilham."
+    },
+    "geografia-06": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "A dependência internacional em relação ao petróleo da região confere a seus produtores poder de barganha em negociações econômicas e diplomáticas.",
+      "explicacao": "As três estão corretas: as reservas tornaram a região central para a economia mundial, os conflitos locais se relacionam ao controle do recurso, e a dependência externa converte essa posição em poder de barganha diplomática."
+    },
+    "geografia-08": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A tarifa externa comum do Mercosul comporta listas de exceção nacionais, o que caracteriza o bloco como união aduaneira imperfeita.",
+      "explicacao": "As três descrevem corretamente o estágio do bloco: a tarifa externa comum existe, mas com exceções nacionais; por isso o Mercosul é uma união aduaneira imperfeita; e ele não alcançou a integração política e monetária da União Europeia."
+    },
+    "geografia-09": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "A União Europeia assegura livre circulação de pessoas entre os Estados do Espaço Schengen, patamar de integração que o Mercosul não alcançou.",
+      "explicacao": "As três estão corretas: a União Europeia avançou além da união aduaneira com moeda comum e instituições próprias; assegura livre circulação de pessoas no Espaço Schengen; e ambos os blocos têm tarifa externa comum, mas só um deles chegou à etapa monetária."
+    },
+    "geografia-10": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "O acordo prevê revisão periódica das metas nacionais, com a expectativa de que cada ciclo apresente compromissos mais ambiciosos que o anterior.",
+      "explicacao": "As três descrevem o desenho do Acordo de Paris: a meta de temperatura bem abaixo de 2 °C, o caráter nacionalmente determinado dos compromissos e o mecanismo de revisão periódica em ciclos progressivamente mais ambiciosos."
+    },
+    "geografia-13": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A concentração da infraestrutura de transporte e de energia em determinadas regiões reforçou, ao longo do tempo, as diferenças de desenvolvimento entre elas.",
+      "explicacao": "As três se articulam: a infraestrutura concentrada reforça a desigualdade regional; essa concentração resulta de um processo histórico de investimento e industrialização seletivos; e políticas como a Zona Franca de Manaus e a SUDENE foram respostas a esse quadro."
+    },
+    "geografia-14": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "A disponibilidade de mão de obra imigrante e a formação de um mercado consumidor urbano contribuíram para a industrialização paulista.",
+      "explicacao": "As três estão corretas: o capital do café financiou parte da industrialização, a mão de obra imigrante e o mercado urbano deram-lhe base, e nas últimas décadas observa-se desconcentração industrial com polos fora do Sudeste."
+    },
+    "geografia-17": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "O Protocolo de Montreal, voltado à camada de ozônio, alcançou adesão praticamente universal e resultados mensuráveis de recuperação.",
+      "explicacao": "As três estão corretas: o buraco na camada de ozônio decorre da destruição do ozônio estratosférico, o efeito estufa intensificado decorre do acúmulo de gases que retêm calor, e o Protocolo de Montreal mostra que um dos dois problemas obteve resposta internacional eficaz."
+    },
+    "geografia-18": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A fragmentação produtiva ampliou o peso dos custos de transporte e da logística na decisão sobre onde instalar cada etapa da produção.",
+      "explicacao": "As três descrevem a reestruturação produtiva global: a logística ganhou peso nas decisões de localização, as etapas se fragmentaram entre países, e os centrais retiveram as atividades de maior valor agregado."
+    },
+    "geografia-30": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "Os acordos de cooperação amazônica preveem intercâmbio de informações científicas e ações conjuntas de monitoramento ambiental.",
+      "explicacao": "As três estão corretas: a cooperação regional abrange preservação e desenvolvimento, inclui intercâmbio científico e monitoramento conjunto, e reafirma — em vez de transferir — a soberania de cada Estado sobre seu território amazônico."
+    },
+    "geografia-31": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "A floresta atua como sumidouro de carbono, o que a torna peça relevante nas negociações internacionais sobre clima.",
+      "explicacao": "As três se somam: biodiversidade e água doce atraem interesse internacional, a regulação climática regional amplia essa relevância, e a função de sumidouro de carbono insere a floresta diretamente na agenda climática global."
+    },
+    "geografia-32": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A sobreposição entre títulos de propriedade, terras públicas não destinadas e territórios tradicionais alimenta disputas fundiárias persistentes.",
+      "explicacao": "As três estão corretas: a sobreposição de títulos e territórios gera litígio permanente, os conflitos envolvem garimpo, grilagem e outras atividades, e a ocorrência em áreas protegidas dificulta a fiscalização."
+    },
+    "geografia-44": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "Comparar populações urbanas em números absolutos exige considerar o tamanho total da população de cada região, e não apenas a taxa percentual de urbanização.",
+      "explicacao": "As três estão corretas. A segunda é a chave de leitura da tabela: taxa percentual e número absoluto respondem a perguntas diferentes, e uma região menos urbanizada em percentual pode ter população urbana absoluta expressiva."
+    },
+    "geografia-52": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "O processamento e o refino do lítio concentram-se em poucos países, o que amplia a assimetria entre quem extrai e quem agrega valor.",
+      "explicacao": "As três se encadeiam: a transição energética elevou a demanda por lítio, as reservas concentram-se em poucos países sul-americanos, e o refino — etapa de maior valor agregado — está concentrado em outro grupo de países."
+    },
+    "geografia-54": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "A classificação de um mineral como crítico depende tanto de sua importância econômica quanto do risco de interrupção do fornecimento.",
+      "explicacao": "As três estão corretas: a criticidade combina importância econômica e risco de suprimento, esses minerais são insumos de tecnologias estratégicas, e sua produção concentrada gera dependência e disputa por cadeias de fornecimento."
+    },
+    "geografia-56": {
+      "posicao": "II", "vira": "verdadeira",
+      "nova": "A participação de renováveis na matriz energética total é inferior à observada na matriz elétrica, em razão do peso dos combustíveis fósseis nos transportes.",
+      "explicacao": "As três estão corretas e explicam a distinção: matriz elétrica cobre apenas a geração de eletricidade, onde o Brasil é fortemente renovável; a matriz energética total inclui transportes e indústria, ainda dependentes de fósseis; por isso a segunda é menor que a primeira."
+    },
+    "geografia-60": {
+      "posicao": "III", "vira": "verdadeira",
+      "nova": "A comparação entre matrizes exige considerar também a segurança do abastecimento, já que a forte dependência hidrelétrica torna a geração sensível a estiagens prolongadas.",
+      "explicacao": "As três estão corretas: a matriz elétrica brasileira é proporcionalmente mais renovável que a europeia, isso decorre do potencial hidrelétrico, e essa mesma dependência introduz vulnerabilidade a secas — motivo pelo qual a comparação não se esgota no percentual de renováveis."
+    },
+    "geografia-61": {
+      "posicao": "I", "vira": "verdadeira",
+      "nova": "Rios transfronteiriços costumam ser regidos por tratados bilaterais ou regionais específicos, e não por um regime jurídico único de alcance global.",
+      "explicacao": "As três estão corretas: não há regime global único para rios internacionais, mas tratados específicos; o uso da água por um país afeta os demais da bacia; e essa interdependência é o que torna a negociação diplomática necessária."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_comentario": [
+    "Quinze questoes de escada de atualidades-geopolitica em que uma asserção",
+    "VERDADEIRA e reescrita como FALSA, deixando a questao com uma unica",
+    "correta -- resposta (a), com a verdadeira remanescente movida para I.",
+    "",
+    "Complementa o lote de geografia, que fez o movimento oposto (todas",
+    "verdadeiras, resposta (e)). Juntos, os dois tiram (a) e (e) de 2 ocorrencias",
+    "em 108 e as trazem para perto de um quinto cada, que e o que impede o",
+    "candidato de aprender a descartar essas duas opcoes sem ler a questao.",
+    "",
+    "As asserçoes novas seguem o molde de meia-verdade das demais frentes: a",
+    "afirmacao e plausivel, cita entidade real e erra a relacao -- nunca um",
+    "absurdo que se elimine sozinho."
+  ],
+  "subtopic": "atualidades-geopolitica",
+  "questoes": {
+    "atualidades-geopolitica-02": {
+      "posicao": "II", "vira": "falsa",
+      "nova": "A tarifa externa comum do Mercosul é aplicada sem qualquer exceção nacional, o que confere ao bloco o estatuto de união aduaneira plena.",
+      "explicacao": "Só a primeira está correta: a tarifa externa comum de fato padroniza a alíquota cobrada sobre produtos de fora do bloco. As outras duas erram — a TEC comporta extensas listas de exceção nacionais, o que faz do Mercosul uma união aduaneira imperfeita, e ter tarifa comum não equivale a mercado comum, etapa que exige livre circulação de fatores."
+    },
+    "atualidades-geopolitica-05": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "O BRICS mantém tarifa externa comum entre seus membros, o que o aproxima juridicamente de uma união aduaneira.",
+      "explicacao": "Só a primeira está correta: o BRICS funciona como fórum de concertação política e cooperação entre potências emergentes. As demais confundem categorias — o agrupamento não opera como união monetária nem mantém tarifa externa comum, justamente por não ser um bloco de integração comercial."
+    },
+    "atualidades-geopolitica-09": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "A multipolaridade descreve a existência de exatamente dois centros de poder equivalentes, o que a torna sinônimo de bipolaridade.",
+      "explicacao": "Só a primeira está correta: a unipolaridade concentra poder político, econômico e militar em uma única potência. As outras duas colapsam conceitos distintos — bipolaridade e multipolaridade não são equivalentes, e multipolaridade supõe vários centros de poder relevantes, não dois."
+    },
+    "atualidades-geopolitica-19": {
+      "posicao": "II", "vira": "falsa",
+      "nova": "O migrante econômico recebe, pelo direito internacional, o mesmo conjunto de proteções asseguradas ao refugiado reconhecido.",
+      "explicacao": "Só a primeira está correta: o refugiado foge de fundado temor de perseguição ou violência e tem proteção jurídica específica. As demais erram — o migrante econômico não dispõe desse amparo automático, e o refugiado reconhecido não fica permanentemente impedido de buscar outras formas de regularização."
+    },
+    "atualidades-geopolitica-22": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "As decisões desses fóruns têm força vinculante e obrigam todos os Estados membros das Nações Unidas.",
+      "explicacao": "Só a primeira está correta: esses fóruns reúnem um grupo restrito de grandes economias para coordenar respostas a crises. As demais superestimam seu alcance — eles não substituem o Conselho de Segurança nem produzem decisões vinculantes; suas deliberações têm caráter de recomendação e coordenação política."
+    },
+    "atualidades-geopolitica-39": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "A aplicação da R2P é consensual entre os membros permanentes do Conselho de Segurança, o que assegura sua invocação sem controvérsia.",
+      "explicacao": "Só a primeira está correta: o princípio sustenta que a comunidade internacional teria responsabilidade de agir para proteger populações sob risco. As demais são falsas — a R2P não consta da Carta de 1945, tendo sido formulada apenas em 2005, e sua invocação é objeto de disputa política intensa, sobretudo quanto ao uso da força."
+    },
+    "atualidades-geopolitica-43": {
+      "posicao": "II", "vira": "falsa",
+      "nova": "A exigência de consenso acelera a resposta do bloco a crises regionais, por dispensar etapas de negociação entre os membros.",
+      "explicacao": "Só a primeira está correta: decidir por consenso respeita a soberania e facilita a adesão de países muito distintos entre si. As demais invertem o efeito — exigir unanimidade torna a resposta a crises mais lenta, não mais ágil, e é isso que diferencia esse desenho de blocos com instituições supranacionais."
+    },
+    "atualidades-geopolitica-44": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "No modelo com elementos de supranacionalidade, as normas comuns dependem de ratificação individual de cada Estado para produzir efeito interno.",
+      "explicacao": "Só a primeira está correta: no modelo intergovernamental as decisões dependem de consenso e os Estados mantêm plena soberania. As demais erram — os dois modelos não produzem o mesmo grau de vinculação, e o traço definidor da supranacionalidade é justamente a norma comum prevalecer sem depender de ratificação caso a caso."
+    },
+    "atualidades-geopolitica-49": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "A saída de um bloco econômico produz efeitos imediatos e integrais, sem necessidade de período de transição.",
+      "explicacao": "Só a primeira está correta: renegociar regras de comércio, circulação e cooperação costuma exigir anos. As demais são falsas — a saída de um membro não obriga os demais a se retirarem, e é precisamente a necessidade de transição prolongada que revela a complexidade jurídica do processo."
+    },
+    "atualidades-geopolitica-59": {
+      "posicao": "II", "vira": "falsa",
+      "nova": "Esse princípio de defesa coletiva é acionado automaticamente, sem qualquer deliberação entre os Estados-membros.",
+      "explicacao": "Só a primeira está correta: um ataque a um membro é considerado ataque ao conjunto da aliança. As demais erram — o acionamento envolve deliberação e cada Estado define a natureza de sua contribuição, e esse princípio é próprio da aliança militar, não do funcionamento da União Europeia ou do Mercosul."
+    },
+    "atualidades-geopolitica-79": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "Seu alcance limita-se ao território do país que impõe a sanção, sem efeito sobre empresas sediadas no exterior.",
+      "explicacao": "Só a primeira está correta: sanções secundárias atingem empresas e indivíduos de terceiros países que mantêm relações com o país-alvo. As demais são falsas — elas são impostas unilateralmente, sem passar pelo Conselho de Segurança, e seu poder vem exatamente do alcance extraterritorial, pela ameaça de exclusão do sistema financeiro de quem as aplica."
+    },
+    "atualidades-geopolitica-84": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "As negociações sobre subsídios agrícolas foram concluídas com acordo unânime, o que retirou o tema da pauta multilateral.",
+      "explicacao": "Só a primeira está correta: países em desenvolvimento sustentam que os subsídios distorcem preços internacionais e prejudicam seus produtores. As demais são falsas — o tema segue em aberto e é um dos mais controversos das negociações multilaterais, tendo contribuído para o impasse prolongado da Rodada Doha."
+    },
+    "atualidades-geopolitica-98": {
+      "posicao": "II", "vira": "falsa",
+      "nova": "A ampliação do acesso ao Ártico reduziu as tensões entre os países da região, por tornar desnecessária a delimitação de fronteiras marítimas.",
+      "explicacao": "Só a primeira está correta: o degelo abriu novas rotas de navegação e ampliou o acesso a recursos naturais. As demais invertem o quadro — o novo acesso acirrou a competição estratégica em vez de reduzi-la, e não há tratado único unificando a soberania dos países árticos sobre a região."
+    },
+    "atualidades-geopolitica-117": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "Um embargo comercial abrangente preserva automaticamente o comércio de alimentos e medicamentos, por determinação obrigatória do direito internacional.",
+      "explicacao": "Só a primeira está correta: a sanção setorial restringe produtos ou setores específicos, mantendo as demais relações comerciais. As demais são falsas — sanções setoriais e embargos abrangentes têm impactos muito distintos, e a preservação de bens humanitários depende de exceções expressas em cada regime, não de garantia automática."
+    },
+    "atualidades-geopolitica-146": {
+      "posicao": "III", "vira": "falsa",
+      "nova": "Esse desequilíbrio foi eliminado pela adoção de um sistema internacional de cotas obrigatórias de reassentamento.",
+      "explicacao": "Só a primeira está correta: países vizinhos a zonas de crise acolhem parcela desproporcional dos deslocados. As demais são falsas — não existe mecanismo vinculante de distribuição, e é justamente a ausência dele que mantém o tema em debate internacional."
+    }
+  }
+}

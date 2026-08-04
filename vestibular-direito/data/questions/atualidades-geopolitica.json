@@ -19,16 +19,16 @@
                      {
                          "id":  "atualidades-geopolitica-02",
                          "texto_apoio":  "",
-                         "enunciado":  "Considere as afirmativas sobre a Tarifa Externa Comum (TEC) do Mercosul e sua classificação como bloco econômico:\n\nI. A TEC padroniza a alíquota de importação cobrada pelos países-membros sobre produtos vindos de fora do bloco.\nII. A existência de diversas exceções nacionais à TEC faz do Mercosul uma união aduaneira imperfeita, ainda distante de um mercado comum pleno.\nIII. Por já adotar uma tarifa externa comum, ainda que incompleta, o Mercosul equivale, do ponto de vista da integração econômica, a uma união monetária.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre a Tarifa Externa Comum (TEC) do Mercosul e sua classificação como bloco econômico:\n\nI. A TEC padroniza a alíquota de importação cobrada pelos países-membros sobre produtos vindos de fora do bloco.\nII. A tarifa externa comum do Mercosul é aplicada sem qualquer exceção nacional, o que confere ao bloco o estatuto de união aduaneira plena.\nIII. Por já adotar uma tarifa externa comum, ainda que incompleta, o Mercosul equivale, do ponto de vista da integração econômica, a uma união monetária.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I e III, apenas",
-                                              "d":  "I e II, apenas",
-                                              "e":  "I, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a função da TEC e a classificação do Mercosul como união aduaneira imperfeita, dada a persistência de exceções nacionais. A afirmativa III é falsa: uma união aduaneira, mesmo incompleta, é um estágio de integração bem anterior a uma união monetária, que exigiria moeda comum e política monetária unificada, o que o Mercosul não possui.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: a tarifa externa comum de fato padroniza a alíquota cobrada sobre produtos de fora do bloco. As outras duas erram — a TEC comporta extensas listas de exceção nacionais, o que faz do Mercosul uma união aduaneira imperfeita, e ter tarifa comum não equivale a mercado comum, etapa que exige livre circulação de fatores.",
                          "formato":  "escada"
                      },
                      {
@@ -64,16 +64,16 @@
                      {
                          "id":  "atualidades-geopolitica-05",
                          "texto_apoio":  "O agrupamento reúne economias emergentes de diferentes continentes, sem tratado constitutivo com o grau de institucionalização de blocos como a União Europeia, e sem tarifa externa comum ou moeda compartilhada.",
-                         "enunciado":  "Considere as afirmativas sobre agrupamentos de economias emergentes como o BRICS, em comparação com blocos econômicos como o Mercosul ou a União Europeia:\n\nI. O BRICS funciona principalmente como fórum de cooperação e concertação política entre potências emergentes, sem o mesmo grau de institucionalização econômica formal.\nII. Diferentemente do Mercosul, o BRICS não possui tarifa externa comum nem união aduaneira consolidada entre seus membros.\nIII. Por reunir economias emergentes de peso considerável, o BRICS já opera como uma união monetária, com moeda própria compartilhada entre seus membros.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre agrupamentos de economias emergentes como o BRICS, em comparação com blocos econômicos como o Mercosul ou a União Europeia:\n\nI. O BRICS funciona principalmente como fórum de cooperação e concertação política entre potências emergentes, sem o mesmo grau de institucionalização econômica formal.\nII. Por reunir economias emergentes de peso considerável, o BRICS já opera como uma união monetária, com moeda própria compartilhada entre seus membros.\nIII. O BRICS mantém tarifa externa comum entre seus membros, o que o aproxima juridicamente de uma união aduaneira.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I, apenas",
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "II, apenas",
-                                              "e":  "I e II, apenas"
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o caráter do BRICS como espaço de diálogo político e financeiro entre economias emergentes, sem o grau de institucionalização econômica de blocos como o Mercosul. A afirmativa III é falsa: o BRICS não possui moeda própria compartilhada nem união monetária entre seus membros, apesar de debates sobre mecanismos financeiros alternativos.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: o BRICS funciona como fórum de concertação política e cooperação entre potências emergentes. As demais confundem categorias — o agrupamento não opera como união monetária nem mantém tarifa externa comum, justamente por não ser um bloco de integração comercial.",
                          "formato":  "escada"
                      },
                      {
@@ -124,16 +124,16 @@
                      {
                          "id":  "atualidades-geopolitica-09",
                          "texto_apoio":  "Analistas de relações internacionais frequentemente contrastam períodos históricos em que o poder mundial se concentra em uma única potência com períodos em que diversos polos de poder disputam influência global e regional.",
-                         "enunciado":  "Considere as afirmativas sobre as configurações de poder no sistema internacional:\n\nI. A unipolaridade caracteriza-se pela concentração do poder político, econômico e militar em uma única potência hegemônica.\nII. A multipolaridade caracteriza-se pela existência de diversos centros de poder relevantes, sem que um único polo exerça hegemonia incontestável.\nIII. A bipolaridade, observada durante a Guerra Fria, e a multipolaridade descrevem exatamente a mesma distribuição de poder entre os Estados.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre as configurações de poder no sistema internacional:\n\nI. A unipolaridade caracteriza-se pela concentração do poder político, econômico e militar em uma única potência hegemônica.\nII. A bipolaridade, observada durante a Guerra Fria, e a multipolaridade descrevem exatamente a mesma distribuição de poder entre os Estados.\nIII. A multipolaridade descreve a existência de exatamente dois centros de poder equivalentes, o que a torna sinônimo de bipolaridade.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "I e III, apenas",
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "I, II e III",
-                                              "e":  "I, apenas"
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a unipolaridade e a multipolaridade como configurações distintas de distribuição de poder internacional. A afirmativa III é falsa: a bipolaridade (dois polos de poder, como na Guerra Fria) e a multipolaridade (múltiplos polos) descrevem distribuições de poder distintas entre si, não sendo sinônimas.",
+                         "explicacao":  "Só a primeira está correta: a unipolaridade concentra poder político, econômico e militar em uma única potência. As outras duas colapsam conceitos distintos — bipolaridade e multipolaridade não são equivalentes, e multipolaridade supõe vários centros de poder relevantes, não dois.",
                          "formato":  "escada"
                      },
                      {
@@ -274,16 +274,16 @@
                      {
                          "id":  "atualidades-geopolitica-19",
                          "texto_apoio":  "Conflitos armados, perseguições políticas e desastres ambientais forçam milhões de pessoas a deixar seus países todos os anos, buscando proteção em Estados vizinhos ou mais distantes.",
-                         "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado foge de fundado temor de perseguição, conflito armado ou grave violação de direitos, tendo direito a proteção internacional específica.\nII. O migrante econômico se desloca voluntariamente em busca de melhores oportunidades, sem o mesmo amparo jurídico internacional automático do refugiado.\nIII. Um refugiado reconhecido permanece, em caráter permanente e por definição jurídica, impedido de solicitar a cidadania do país que lhe concedeu acolhida.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre a distinção jurídica entre refugiado e migrante econômico:\n\nI. O refugiado foge de fundado temor de perseguição, conflito armado ou grave violação de direitos, tendo direito a proteção internacional específica.\nII. O migrante econômico recebe, pelo direito internacional, o mesmo conjunto de proteções asseguradas ao refugiado reconhecido.\nIII. Um refugiado reconhecido permanece, em caráter permanente e por definição jurídica, impedido de solicitar a cidadania do país que lhe concedeu acolhida.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II e III, apenas",
+                                              "a":  "I, apenas",
                                               "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
+                                              "c":  "II e III, apenas",
                                               "d":  "I e III, apenas",
-                                              "e":  "I, apenas"
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção jurídica entre refugiado e migrante econômico, reconhecida por convenções internacionais. A afirmativa III é falsa: nada impede, em princípio, que um refugiado solicite e obtenha a cidadania do país de acolhida ao longo do tempo, inclusive como parte do processo de integração local, uma das soluções duradouras reconhecidas para a situação de refugiados.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: o refugiado foge de fundado temor de perseguição ou violência e tem proteção jurídica específica. As demais erram — o migrante econômico não dispõe desse amparo automático, e o refugiado reconhecido não fica permanentemente impedido de buscar outras formas de regularização.",
                          "formato":  "escada"
                      },
                      {
@@ -319,16 +319,16 @@
                      {
                          "id":  "atualidades-geopolitica-22",
                          "texto_apoio":  "Fóruns que reúnem as maiores economias do mundo, desenvolvidas e emergentes, têm ganhado protagonismo na coordenação de respostas a crises econômicas globais.",
-                         "enunciado":  "Considere as afirmativas sobre fóruns como o G7 e o G20, em comparação com organismos como a ONU:\n\nI. Esses fóruns reúnem um grupo restrito de grandes economias para coordenar políticas e responder a crises econômicas globais.\nII. As decisões desses fóruns têm caráter de recomendação e coordenação política, sem o mesmo caráter universal e vinculante do Conselho de Segurança da ONU.\nIII. Por reunirem as maiores economias do mundo, esses fóruns substituem, na prática, as funções do Conselho de Segurança da ONU.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre fóruns como o G7 e o G20, em comparação com organismos como a ONU:\n\nI. Esses fóruns reúnem um grupo restrito de grandes economias para coordenar políticas e responder a crises econômicas globais.\nII. Por reunirem as maiores economias do mundo, esses fóruns substituem, na prática, as funções do Conselho de Segurança da ONU.\nIII. As decisões desses fóruns têm força vinculante e obrigam todos os Estados membros das Nações Unidas.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas",
-                                              "e":  "II, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a natureza restrita e não vinculante de fóruns como G7 e G20. A afirmativa III é falsa: esses fóruns não substituem o Conselho de Segurança da ONU, que possui prerrogativas jurídicas específicas, como a autorização do uso da força, que não são exercidas por fóruns informais de coordenação econômica.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: esses fóruns reúnem um grupo restrito de grandes economias para coordenar respostas a crises. As demais superestimam seu alcance — eles não substituem o Conselho de Segurança nem produzem decisões vinculantes; suas deliberações têm caráter de recomendação e coordenação política.",
                          "formato":  "escada"
                      },
                      {
@@ -576,16 +576,16 @@
                      {
                          "id":  "atualidades-geopolitica-39",
                          "texto_apoio":  "Diante de graves violações de direitos humanos cometidas por um governo contra sua própria população, parte da comunidade internacional defende que a comunidade de nações tem a responsabilidade de agir para proteger civis, mesmo quando isso implica relativizar o princípio da soberania estatal.",
-                         "enunciado":  "Considere as afirmativas sobre a Responsabilidade de Proteger (R2P), debatida em fóruns internacionais desde o início dos anos 2000:\n\nI. O princípio sustenta que a comunidade internacional teria a responsabilidade de agir para proteger populações civis de genocídio, crimes de guerra e outras graves violações.\nII. A aplicação da R2P é objeto de intensa controvérsia política, sobretudo quando envolve a possibilidade de intervenção em um Estado soberano.\nIII. A R2P foi formalmente incorporada à Carta das Nações Unidas desde sua fundação em 1945, sem qualquer debate posterior sobre sua aplicação.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre a Responsabilidade de Proteger (R2P), debatida em fóruns internacionais desde o início dos anos 2000:\n\nI. O princípio sustenta que a comunidade internacional teria a responsabilidade de agir para proteger populações civis de genocídio, crimes de guerra e outras graves violações.\nII. A R2P foi formalmente incorporada à Carta das Nações Unidas desde sua fundação em 1945, sem qualquer debate posterior sobre sua aplicação.\nIII. A aplicação da R2P é consensual entre os membros permanentes do Conselho de Segurança, o que assegura sua invocação sem controvérsia.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II e III, apenas",
-                                              "b":  "I, II e III",
-                                              "c":  "I e III, apenas",
-                                              "d":  "I e II, apenas",
-                                              "e":  "I, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o conteúdo e a controvérsia em torno da R2P. A afirmativa III é falsa: a R2P é um princípio debatido a partir do início dos anos 2000, sem previsão na Carta de 1945, e sua aplicação prática permanece incerta e seletiva. O próprio debate remete a uma preocupação de fundo já formulada por autores como Hannah Arendt sobre os limites da soberania estatal diante de regimes que voltam o aparato do Estado contra a própria população — questão central de sua reflexão sobre o totalitarismo.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: o princípio sustenta que a comunidade internacional teria responsabilidade de agir para proteger populações sob risco. As demais são falsas — a R2P não consta da Carta de 1945, tendo sido formulada apenas em 2005, e sua invocação é objeto de disputa política intensa, sobretudo quanto ao uso da força.",
                          "dificuldade":  "media",
                          "formato":  "escada"
                      },
@@ -640,32 +640,32 @@
                      {
                          "id":  "atualidades-geopolitica-43",
                          "texto_apoio":  "Um bloco regional do Sudeste Asiático reúne países com sistemas políticos, níveis de desenvolvimento econômico e tradições culturais bastante diversos entre si, priorizando historicamente a tomada de decisões por consenso e a não interferência em assuntos internos de seus membros.",
-                         "enunciado":  "Considere as afirmativas sobre o modelo de decisão por consenso e não interferência adotado por esse bloco regional do Sudeste Asiático:\n\nI. Esse modelo favorece a adesão de países com grande diversidade política e econômica, ao respeitar a soberania decisória de cada membro.\nII. Esse mesmo modelo pode dificultar respostas rápidas e unificadas do bloco diante de crises regionais que exigem posicionamento conjunto.\nIII. Esse modelo de decisão por consenso torna o bloco mais ágil do que blocos com maior institucionalização supranacional, como a União Europeia.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre o modelo de decisão por consenso e não interferência adotado por esse bloco regional do Sudeste Asiático:\n\nI. Esse modelo favorece a adesão de países com grande diversidade política e econômica, ao respeitar a soberania decisória de cada membro.\nII. A exigência de consenso acelera a resposta do bloco a crises regionais, por dispensar etapas de negociação entre os membros.\nIII. Esse modelo de decisão por consenso torna o bloco mais ágil do que blocos com maior institucionalização supranacional, como a União Europeia.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I, apenas",
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "II, apenas",
-                                              "e":  "I e II, apenas"
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente as vantagens e os limites do modelo de consenso e não interferência. A afirmativa III é falsa: esse modelo tende a tornar as decisões mais lentas, e não mais ágeis, já que qualquer membro pode, na prática, travar decisões que não lhe sejam favoráveis, ao contrário de blocos com elementos de supranacionalidade.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: decidir por consenso respeita a soberania e facilita a adesão de países muito distintos entre si. As demais invertem o efeito — exigir unanimidade torna a resposta a crises mais lenta, não mais ágil, e é isso que diferencia esse desenho de blocos com instituições supranacionais.",
                          "dificuldade":  "media",
                          "formato":  "escada"
                      },
                      {
                          "id":  "atualidades-geopolitica-44",
                          "texto_apoio":  "Enquanto um bloco econômico asiático mantém decisões condicionadas ao consenso entre seus membros e preserva a soberania decisória de cada Estado, outro bloco, localizado na Europa, criou instituições cujas normas podem prevalecer sobre a legislação nacional dos países-membros.",
-                         "enunciado":  "Considere as afirmativas sobre a diferença estrutural entre um modelo de integração regional intergovernamental, como o do bloco asiático descrito, e um modelo com elementos de supranacionalidade, como o da União Europeia:\n\nI. No modelo intergovernamental, as decisões dependem do consenso entre Estados soberanos, que mantêm plena autonomia decisória.\nII. No modelo com elementos de supranacionalidade, normas de instituições comuns podem prevalecer sobre a legislação nacional dos países-membros.\nIII. Ambos os modelos de integração regional produzem exatamente o mesmo grau de vinculação jurídica sobre os Estados-membros.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre a diferença estrutural entre um modelo de integração regional intergovernamental, como o do bloco asiático descrito, e um modelo com elementos de supranacionalidade, como o da União Europeia:\n\nI. No modelo intergovernamental, as decisões dependem do consenso entre Estados soberanos, que mantêm plena autonomia decisória.\nII. Ambos os modelos de integração regional produzem exatamente o mesmo grau de vinculação jurídica sobre os Estados-membros.\nIII. No modelo com elementos de supranacionalidade, as normas comuns dependem de ratificação individual de cada Estado para produzir efeito interno.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, II e III",
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
                                               "d":  "I e III, apenas",
-                                              "e":  "I, apenas"
+                                              "e":  "I, II e III"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a distinção entre um modelo intergovernamental, baseado em consenso, e um modelo com elementos de supranacionalidade, no qual normas comuns podem prevalecer sobre a legislação doméstica. A afirmativa III é falsa: o grau de vinculação jurídica sobre os Estados-membros é justamente o que diferencia os dois modelos, sendo bem maior no caso da supranacionalidade.",
+                         "explicacao":  "Só a primeira está correta: no modelo intergovernamental as decisões dependem de consenso e os Estados mantêm plena soberania. As demais erram — os dois modelos não produzem o mesmo grau de vinculação, e o traço definidor da supranacionalidade é justamente a norma comum prevalecer sem depender de ratificação caso a caso.",
                          "dificuldade":  "dificil",
                          "formato":  "escada"
                      },
@@ -736,16 +736,16 @@
                      {
                          "id":  "atualidades-geopolitica-49",
                          "texto_apoio":  "A saída de um país-membro de um bloco econômico europeu, decidida após consulta popular, exigiu anos de negociação para definir novas regras sobre comércio, circulação de pessoas e cooperação regulatória entre o país que se retirou e o bloco.",
-                         "enunciado":  "Considere as afirmativas sobre o processo de saída de um país-membro de um bloco de integração econômica profunda, como no caso analisado:\n\nI. Esse tipo de processo costuma exigir anos de negociação para definir novas regras de comércio, circulação de pessoas e cooperação regulatória entre as partes.\nII. Esse processo evidencia os custos de transição e a complexidade jurídica associados à saída de blocos com alto grau de integração.\nIII. A saída de um país-membro obriga automaticamente os demais integrantes do bloco a também se retirarem em seguida.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre o processo de saída de um país-membro de um bloco de integração econômica profunda, como no caso analisado:\n\nI. Esse tipo de processo costuma exigir anos de negociação para definir novas regras de comércio, circulação de pessoas e cooperação regulatória entre as partes.\nII. A saída de um país-membro obriga automaticamente os demais integrantes do bloco a também se retirarem em seguida.\nIII. A saída de um bloco econômico produz efeitos imediatos e integrais, sem necessidade de período de transição.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II e III, apenas",
+                                              "a":  "I, apenas",
                                               "b":  "I e II, apenas",
-                                              "c":  "I, apenas",
-                                              "d":  "I, II e III",
-                                              "e":  "II, apenas"
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente os desafios de desintegração de blocos com alto grau de integração econômica. A afirmativa III é falsa: a saída de um país-membro não obriga os demais integrantes a também se retirarem, sendo uma decisão soberana e individual de cada Estado-membro.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: renegociar regras de comércio, circulação e cooperação costuma exigir anos. As demais são falsas — a saída de um membro não obriga os demais a se retirarem, e é precisamente a necessidade de transição prolongada que revela a complexidade jurídica do processo.",
                          "dificuldade":  "dificil",
                          "formato":  "escada"
                      },
@@ -896,16 +896,16 @@
                      {
                          "id":  "atualidades-geopolitica-59",
                          "texto_apoio":  "Uma aliança militar formada por países da Europa e da América do Norte estabelece, em seu tratado fundador, que um ataque armado contra qualquer um de seus membros será considerado um ataque contra todos, obrigando os demais a prestar assistência.",
-                         "enunciado":  "Considere as afirmativas sobre o princípio de defesa coletiva previsto no tratado fundador dessa aliança militar:\n\nI. Um ataque armado contra qualquer um dos membros é considerado um ataque contra o conjunto da aliança, obrigando os demais a prestar assistência.\nII. Esse princípio de defesa coletiva é a base central de funcionamento da Organização do Tratado do Atlântico Norte (OTAN).\nIII. Esse mesmo princípio de defesa coletiva automática também rege o funcionamento da União Europeia e do Mercosul, blocos de natureza essencialmente econômica.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre o princípio de defesa coletiva previsto no tratado fundador dessa aliança militar:\n\nI. Um ataque armado contra qualquer um dos membros é considerado um ataque contra o conjunto da aliança, obrigando os demais a prestar assistência.\nII. Esse princípio de defesa coletiva é acionado automaticamente, sem qualquer deliberação entre os Estados-membros.\nIII. Esse mesmo princípio de defesa coletiva automática também rege o funcionamento da União Europeia e do Mercosul, blocos de natureza essencialmente econômica.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I, II e III",
-                                              "b":  "I e III, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "II e III, apenas",
-                                              "e":  "I, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o artigo 5 do tratado fundador da OTAN, que estabelece o princípio de defesa coletiva. A afirmativa III é falsa: a União Europeia e o Mercosul são blocos de integração essencialmente econômica, sem uma cláusula de defesa coletiva automática equivalente à da OTAN.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: um ataque a um membro é considerado ataque ao conjunto da aliança. As demais erram — o acionamento envolve deliberação e cada Estado define a natureza de sua contribuição, e esse princípio é próprio da aliança militar, não do funcionamento da União Europeia ou do Mercosul.",
                          "dificuldade":  "media",
                          "formato":  "escada"
                      },
@@ -1216,16 +1216,16 @@
                      {
                          "id":  "atualidades-geopolitica-79",
                          "texto_apoio":  "Ao impor sanções a um país, uma grande potência pode determinar que empresas de terceiros países, mesmo sem qualquer vínculo direto com o território sancionador, também sejam penalizadas caso continuem realizando negócios com o país sancionado, sob risco de perder acesso ao sistema financeiro ou ao mercado da potência sancionadora.",
-                         "enunciado":  "Considere as afirmativas sobre as chamadas sanções secundárias:\n\nI. Elas afetam empresas e indivíduos de terceiros países que mantêm relações comerciais ou financeiras com o país sancionado, mesmo sem vínculo direto com o país sancionador.\nII. Seu alcance é ampliado pela ameaça de exclusão do sistema financeiro ou do mercado do país que impõe a sanção original.\nIII. Sanções secundárias exigem, para sua aplicação, aprovação prévia unânime do Conselho de Segurança da ONU.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre as chamadas sanções secundárias:\n\nI. Elas afetam empresas e indivíduos de terceiros países que mantêm relações comerciais ou financeiras com o país sancionado, mesmo sem vínculo direto com o país sancionador.\nII. Sanções secundárias exigem, para sua aplicação, aprovação prévia unânime do Conselho de Segurança da ONU.\nIII. Seu alcance limita-se ao território do país que impõe a sanção, sem efeito sobre empresas sediadas no exterior.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "I e II, apenas",
-                                              "e":  "II, apenas"
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "d",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente o funcionamento e o alcance das sanções secundárias. A afirmativa III é falsa: sanções secundárias são, em regra, medidas unilaterais impostas por um país ou bloco, sem depender de aprovação do Conselho de Segurança da ONU, o que é justamente uma das razões de sua controvérsia no direito internacional.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: sanções secundárias atingem empresas e indivíduos de terceiros países que mantêm relações com o país-alvo. As demais são falsas — elas são impostas unilateralmente, sem passar pelo Conselho de Segurança, e seu poder vem exatamente do alcance extraterritorial, pela ameaça de exclusão do sistema financeiro de quem as aplica.",
                          "dificuldade":  "dificil",
                          "formato":  "escada"
                      },
@@ -1296,16 +1296,16 @@
                      {
                          "id":  "atualidades-geopolitica-84",
                          "texto_apoio":  "Países em desenvolvimento frequentemente criticam os subsídios agrícolas concedidos por países desenvolvidos a seus produtores rurais, argumentando que essas políticas distorcem os preços internacionais e prejudicam a competitividade de seus próprios produtos agrícolas nos mercados globais.",
-                         "enunciado":  "Considere as afirmativas sobre o debate em torno de subsídios agrícolas concedidos por países desenvolvidos:\n\nI. Países em desenvolvimento argumentam que esses subsídios distorcem os preços internacionais e prejudicam a competitividade de seus produtos agrícolas.\nII. Esse tema tem sido um dos mais controversos e de difícil consenso nas negociações realizadas no âmbito da Organização Mundial do Comércio (OMC).\nIII. O debate sobre subsídios agrícolas está definitivamente encerrado desde a criação da OMC, sem qualquer disputa pendente entre os países-membros.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre o debate em torno de subsídios agrícolas concedidos por países desenvolvidos:\n\nI. Países em desenvolvimento argumentam que esses subsídios distorcem os preços internacionais e prejudicam a competitividade de seus produtos agrícolas.\nII. O debate sobre subsídios agrícolas está definitivamente encerrado desde a criação da OMC, sem qualquer disputa pendente entre os países-membros.\nIII. As negociações sobre subsídios agrícolas foram concluídas com acordo unânime, o que retirou o tema da pauta multilateral.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e III, apenas",
-                                              "b":  "I, II e III",
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
                                               "c":  "II e III, apenas",
-                                              "d":  "I, apenas",
-                                              "e":  "I e II, apenas"
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "e",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a crítica de países em desenvolvimento aos subsídios agrícolas e a centralidade do tema nas negociações da OMC. A afirmativa III é falsa: o tema permanece controverso e sem consenso pleno, como evidenciado pelo próprio impasse prolongado da Rodada Doha, iniciada em 2001 e ainda sem conclusão plena.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: países em desenvolvimento sustentam que os subsídios distorcem preços internacionais e prejudicam seus produtores. As demais são falsas — o tema segue em aberto e é um dos mais controversos das negociações multilaterais, tendo contribuído para o impasse prolongado da Rodada Doha.",
                          "dificuldade":  "media",
                          "formato":  "escada"
                      },
@@ -1520,16 +1520,16 @@
                      {
                          "id":  "atualidades-geopolitica-98",
                          "texto_apoio":  "O derretimento de gelo em uma região polar, associado à mudança climática, tem tornado mais acessíveis tanto novas rotas de navegação quanto reservas de petróleo, gás e minerais até então de difícil exploração, atraindo o interesse de diversos países com litoral ou reivindicações na região.",
-                         "enunciado":  "Considere as afirmativas sobre a geopolítica do Ártico diante da mudança climática:\n\nI. O degelo associado à mudança climática ampliou o acesso a novas rotas de navegação e a recursos naturais antes de difícil exploração na região.\nII. Esse cenário tem gerado crescente competição estratégica e disputas por delimitação de fronteiras marítimas entre os países com interesses na região.\nIII. Os países com litoral no Ártico já unificaram formalmente sua soberania sobre a região sob um único tratado, encerrando qualquer disputa territorial.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre a geopolítica do Ártico diante da mudança climática:\n\nI. O degelo associado à mudança climática ampliou o acesso a novas rotas de navegação e a recursos naturais antes de difícil exploração na região.\nII. A ampliação do acesso ao Ártico reduziu as tensões entre os países da região, por tornar desnecessária a delimitação de fronteiras marítimas.\nIII. Os países com litoral no Ártico já unificaram formalmente sua soberania sobre a região sob um único tratado, encerrando qualquer disputa territorial.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e II, apenas",
-                                              "b":  "II e III, apenas",
-                                              "c":  "I, apenas",
-                                              "d":  "I, II e III",
-                                              "e":  "II, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente os efeitos do degelo ártico sobre rotas de navegação, recursos naturais e disputas geopolíticas na região. A afirmativa III é falsa: não existe tratado único que unifique a soberania sobre o Ártico; a região é regida por reivindicações nacionais distintas e por convenções de direito do mar, com disputas de fronteiras marítimas ainda não plenamente resolvidas.",
+                         "explicacao":  "Só a primeira está correta: o degelo abriu novas rotas de navegação e ampliou o acesso a recursos naturais. As demais invertem o quadro — o novo acesso acirrou a competição estratégica em vez de reduzi-la, e não há tratado único unificando a soberania dos países árticos sobre a região.",
                          "dificuldade":  "dificil",
                          "formato":  "escada"
                      },
@@ -1824,16 +1824,16 @@
                      {
                          "id":  "atualidades-geopolitica-117",
                          "texto_apoio":  "Como resposta a determinadas ações de outro país, um governo pode restringir o comércio de produtos específicos com o país-alvo, mantendo outras relações comerciais normais, ou pode proibir de forma praticamente total qualquer transação comercial com esse país.",
-                         "enunciado":  "Considere as afirmativas sobre os instrumentos de restrição comercial usados como resposta a ações de outro país:\n\nI. Uma sanção comercial setorial restringe o comércio de produtos ou setores específicos, mantendo outras relações comerciais normais.\nII. Um embargo comercial abrangente proíbe de forma praticamente total qualquer transação comercial com o país-alvo, representando grau mais severo de restrição.\nIII. Sanções setoriais e embargos abrangentes produzem exatamente o mesmo impacto econômico sobre o país-alvo, sem qualquer diferença de intensidade.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre os instrumentos de restrição comercial usados como resposta a ações de outro país:\n\nI. Uma sanção comercial setorial restringe o comércio de produtos ou setores específicos, mantendo outras relações comerciais normais.\nII. Sanções setoriais e embargos abrangentes produzem exatamente o mesmo impacto econômico sobre o país-alvo, sem qualquer diferença de intensidade.\nIII. Um embargo comercial abrangente preserva automaticamente o comércio de alimentos e medicamentos, por determinação obrigatória do direito internacional.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "I e III, apenas",
+                                              "a":  "I, apenas",
                                               "b":  "I e II, apenas",
-                                              "c":  "I, II e III",
-                                              "d":  "II e III, apenas",
-                                              "e":  "I, apenas"
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "b",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a diferença de escopo entre sanções comerciais setoriais e embargos comerciais abrangentes. A afirmativa III é falsa: a diferença de escopo entre as duas medidas implica, justamente, diferentes graus de intensidade e impacto econômico sobre o país-alvo, sendo o embargo abrangente tipicamente mais severo.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: a sanção setorial restringe produtos ou setores específicos, mantendo as demais relações comerciais. As demais são falsas — sanções setoriais e embargos abrangentes têm impactos muito distintos, e a preservação de bens humanitários depende de exceções expressas em cada regime, não de garantia automática.",
                          "dificuldade":  "media",
                          "formato":  "escada"
                      },
@@ -2288,16 +2288,16 @@
                      {
                          "id":  "atualidades-geopolitica-146",
                          "texto_apoio":  "Em crises que geram grandes fluxos de refugiados, poucos países vizinhos à área de crise costumam acolher a maior parte das pessoas deslocadas, enquanto países mais distantes e com maior capacidade econômica recebem, proporcionalmente, um número bem menor de refugiados, o que gera debates sobre como distribuir de forma mais equilibrada essa responsabilidade entre a comunidade internacional.",
-                         "enunciado":  "Considere as afirmativas sobre o debate de repartição de encargos e responsabilidades (burden and responsibility sharing) na acolhida internacional de refugiados:\n\nI. Países vizinhos a áreas de crise costumam arcar desproporcionalmente com a acolhida de refugiados, em comparação a países mais distantes e com maior capacidade econômica.\nII. Esse desequilíbrio alimenta debates internacionais sobre como distribuir de forma mais equilibrada essa responsabilidade entre a comunidade internacional.\nIII. Esse debate já foi definitivamente resolvido por um mecanismo vinculante que obriga cada país do mundo a acolher um número fixo e idêntico de refugiados.\n\nEstá correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmativas sobre o debate de repartição de encargos e responsabilidades (burden and responsibility sharing) na acolhida internacional de refugiados:\n\nI. Países vizinhos a áreas de crise costumam arcar desproporcionalmente com a acolhida de refugiados, em comparação a países mais distantes e com maior capacidade econômica.\nII. Esse debate já foi definitivamente resolvido por um mecanismo vinculante que obriga cada país do mundo a acolher um número fixo e idêntico de refugiados.\nIII. Esse desequilíbrio foi eliminado pela adoção de um sistema internacional de cotas obrigatórias de reassentamento.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
-                                              "a":  "II e III, apenas",
-                                              "b":  "I, apenas",
-                                              "c":  "I e II, apenas",
-                                              "d":  "I, II e III",
-                                              "e":  "II, apenas"
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
                                           },
-                         "resposta":  "c",
-                         "explicacao":  "As afirmativas I e II descrevem corretamente a assimetria na acolhida de refugiados e o debate internacional sobre repartição de responsabilidades. A afirmativa III é falsa: não existe mecanismo vinculante que obrigue a acolhida de um número fixo e idêntico de refugiados por país; a repartição de encargos permanece um debate político em aberto, sem solução institucional definitiva.",
+                         "resposta":  "a",
+                         "explicacao":  "Só a primeira está correta: países vizinhos a zonas de crise acolhem parcela desproporcional dos deslocados. As demais são falsas — não existe mecanismo vinculante de distribuição, e é justamente a ausência dele que mantém o tema em debate internacional.",
                          "dificuldade":  "dificil",
                          "formato":  "escada"
                      },

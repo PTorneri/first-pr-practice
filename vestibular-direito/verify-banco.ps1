@@ -24,7 +24,10 @@
 param(
   [string]$Frente = "",
   [switch]$Estrito,
-  [switch]$EscadaEstrita,
+  # Ligado por padrão desde que a Fase 6 normalizou as 108 escadas. Se um lote
+  # novo reintroduzir desvio, o script reprova em vez de apenas avisar — que é
+  # o comportamento desejado agora que não há mais pendência conhecida.
+  [bool]$EscadaEstrita = $true,
   [switch]$AtualizarContagem
 )
 

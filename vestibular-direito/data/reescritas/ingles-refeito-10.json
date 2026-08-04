@@ -1,0 +1,303 @@
+{
+  "_comentario": [
+    "Conjunto 10 de 10 do Ingles refeito (ingles-136 a ingles-150). Fecha a",
+    "reescritura completa do bloco.",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "O conjunto fecha virado para o curso pretendido. O texto sobre memoria de",
+    "testemunha e sobre por que a confianca de um reconhecimento medida no",
+    "julgamento nao diz nada sobre acuracia -- questao de prova pericial. O de",
+    "cortes internacionais e sobre uma sentenca que vale como determinacao",
+    "autorizada de fato e de direito, e nao como ordem, porque falta oficial de",
+    "justica. Sao dois assuntos de Direito lidos em ingles, que e a combinacao mais",
+    "util que este bloco pode ter para quem presta FGV Direito e Insper."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c10-t1",
+      "fonte": "Texto original em genero de ensaio de critica literaria",
+      "conteudo": "A classic is often defined as a book that has lasted, which explains nothing: the question is why some books last while others, admired at the time by the same readers, do not. The answers usually offered — quality, universality — describe the outcome and then call it the cause.\n\nA more useful account starts from the fact that survival is not passive. A book stays in circulation because institutions keep circulating it: it is taught, it is set for examinations, it is reprinted because a syllabus [programa de curso] guarantees a number of sales, it is translated because a publisher believes a reputation already exists. Each of those decisions is taken by somebody with reasons, and the reasons change. A novel can leave the canon for thirty years and return when a new set of readers finds a question in it that the previous set was not asking.\n\nThis does not make the value arbitrary. A book that repays repeated reading is genuinely different from one that does not, and no amount of institutional support keeps a thin text alive once people actually open it. But the durable works are the ones that turned out to be about more than their authors could have intended, and 'turned out' is doing the work in that sentence. It names a process that happens in readers, across generations, and not in the book.\n\nWhich is why the most reliable sign that a work has become a classic is not agreement about its meaning. It is sustained disagreement — the kind that keeps producing new readings instead of settling into one."
+    },
+    {
+      "id": "ing-c10-t2",
+      "fonte": "Texto original em genero de reportagem sobre transicao energetica",
+      "conteudo": "The debate about electric vehicles is conducted almost entirely in terms of cars, and across much of the world the vehicle that matters is a motorcycle. Two- and three-wheelers carry a large share of all passenger trips in South and Southeast Asia and in much of Africa, and they are the vehicles most often used to earn a living rather than to commute [deslocar-se para o trabalho].\n\nFor this fleet the arithmetic works differently and works sooner. A motorcycle battery is small, so the cost of electrifying is a fraction of a car's; the daily distance is short and predictable, so range is rarely the binding constraint; and the rider is typically buying fuel every day in cash, which makes the saving immediate and legible in a way it is not for somebody who fills a tank once a fortnight. The obstacle is the purchase price, not the running cost — a rider who would save money within a year often cannot find the money for the first month.\n\nThat is a financing problem, and it has been solved in several places by separating the battery from the vehicle. The rider buys the machine without a battery, which cuts the price sharply, and swaps [troca] a depleted [descarregada] battery for a charged one at a station, paying per swap. The economics then resemble the fuel purchase the rider already makes, and the charging time — the objection most often raised — disappears entirely, because nobody waits for a battery to charge.\n\nNone of this transfers automatically to cars, whose batteries are heavy, expensive and not designed to be removed. It is a reminder that the answer to a transition question depends on which vehicle is being asked about."
+    },
+    {
+      "id": "ing-c10-t3",
+      "fonte": "Texto original em genero de divulgacao sobre psicologia e prova judicial",
+      "conteudo": "A memory is not a recording that gets played back. It is reassembled each time it is recalled, out of fragments, and the reassembly is influenced by everything present at the moment of recall — including the question being asked.\n\nThis has been demonstrated in the plainest way. Witnesses shown the same footage [filmagem] of a collision give higher speed estimates when asked how fast the cars were going when they 'smashed' [se chocaram] than when they 'contacted', and a week later some of those in the first group report broken glass that was never in the footage. Nothing about them is unusual. The word supplied at the first interview became part of the memory, and by the second interview it was indistinguishable, to the witness, from what they had seen.\n\nThe consequence for confidence is the part that surprises people. Each retelling strengthens the account, so a witness who has described an event four times is more certain than one who has described it once — and the certainty attaches equally to the parts introduced along the way. Confidence measured at trial, months later, therefore says almost nothing about accuracy. Confidence measured immediately after the first identification, before any feedback, says a great deal.\n\nThat distinction has produced most of the practical reforms: recording the first statement in full, taking a confidence rating on the spot, and running identifications so that the officer present does not know which person is the suspect and cannot signal it. The reforms are procedural and cheap. What they protect against is not dishonesty but a normal feature of remembering."
+    },
+    {
+      "id": "ing-c10-t4",
+      "fonte": "Texto original em genero de artigo sobre direito internacional",
+      "conteudo": "An international court has jurisdiction, a bench [corpo de juízes] and a body of law, and almost never has a bailiff [oficial de justiça]. It cannot seize an asset, open a prison door or compel a witness to appear. Every step that turns a ruling into a consequence has to be taken by a state, and usually by the state with the least interest in taking it.\n\nThis is often described as a fatal weakness, and the description is too quick. Domestic courts also depend on enforcement they do not themselves perform; what differs is that they can normally assume it. The international bench cannot, so its rulings work less as commands than as authoritative determinations of fact and law which other actors then use — a ministry justifying a sanction, a bank declining a transaction, a later government reopening a case its predecessor had closed. The judgment is an input, and its effect is measured in years.\n\nThat is also its limit, and the limit falls unevenly. A ruling against a state with few external dependencies changes little; a ruling against one that needs credit, arms or membership of something can change a great deal. Critics who point out that the same conduct produces different consequences depending on the defendant [réu] are describing the mechanism accurately. Defenders reply that the alternative is not an even determination of the record but no determination at all, and that a record disputed for decades still constrains more than no record.\n\nBoth are right, which is why the argument does not resolve. What has changed is that fewer people now expect a judgment to be the end of a process rather than the beginning of one."
+    },
+    {
+      "id": "ing-c10-t5",
+      "fonte": "Texto original em genero de artigo sobre arquivos e pesquisa historica",
+      "conteudo": "Digitisation is usually presented as a way of preserving everything, and it has quietly become a way of selecting. What gets scanned is what somebody funds, and what somebody funds is generally what is already catalogued, already in a widely spoken language, already held by an institution with a grants [financiamentos] office.\n\nThe consequence is a second-order effect that is easy to miss. A researcher today searches rather than browses [folheia], and a document that cannot be found by a search is, for practical purposes, absent. So a digitised collection does not merely become more accessible than one that is not; it becomes the evidence, and the undigitised collection stops being cited — not because anybody judged it unimportant, but because nobody encountered it. Within a generation, the record of a period can come to reflect the funding decisions of a decade.\n\nThe distortion runs along predictable lines. Material in widely spoken languages, held in wealthy countries, produced by institutions rather than by individuals, is over-represented in every digital archive. Letters, local newspapers and administrative papers from elsewhere exist, are often in better physical condition than the digitised material, and are read by almost nobody.\n\nSome of the most useful recent projects have therefore inverted the priority, scanning the least visible holdings [acervos] first, on the argument that the well-known ones will be scanned eventually by somebody. It is a slower way to build an archive and a faster way to change what can be asked."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-136",
+      "textoId": "ing-c10-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A book survives because of qualities it possesses independently of its readers.",
+        "b": "Institutional decisions play a part in keeping a book in circulation.",
+        "c": "A book that leaves the canon does not return to it.",
+        "d": "Agreement about a work's meaning is what marks it as a classic.",
+        "e": "Institutional support can keep any text alive indefinitely."
+      },
+      "resposta": "b",
+      "explicacao": "O segundo parágrafo diz que a sobrevivência não é passiva e lista as decisões que a produzem: ensinar, cobrar em exame, reimprimir porque um programa de curso garante vendas, traduzir porque se acredita numa reputação. O primeiro parágrafo trata qualidade e universalidade como descrições do resultado apresentadas como causa; o mesmo segundo parágrafo diz que um romance pode sair do cânone por trinta anos e voltar; o terceiro afirma que nenhum apoio institucional sustenta um texto raso depois que as pessoas o abrem; e o fecho aponta a discordância sustentada, não o acordo, como sinal de que a obra virou clássico."
+    },
+    {
+      "id": "ingles-137",
+      "textoId": "ing-c10-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, saying that 'turned out' is doing the work in that sentence most likely means that",
+      "alternativas": {
+        "a": "the intention of the author determines what a work will come to mean.",
+        "b": "the phrase ought to be removed for the sentence to be accurate.",
+        "c": "durable works are those whose meaning was fixed at publication.",
+        "d": "the phrase points to a process that occurs in readers rather than in the book.",
+        "e": "repeated reading adds nothing to a text that was thin to begin with."
+      },
+      "resposta": "d",
+      "explicacao": "A frase seguinte explica a observação: a expressão nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Isso já exclui a intenção do autor, que o próprio trecho diz ser excedida, e o sentido fixado na publicação, que é o oposto de um processo geracional. O texto não sugere suprimir a expressão, e sim reparar nela; e a leitura repetida é citada no mesmo parágrafo como o que distingue o livro que resiste, não como esforço inútil."
+    },
+    {
+      "id": "ingles-138",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why electrification adds up sooner for two-wheelers than for cars.",
+        "b": "describe the design of a battery-swapping station.",
+        "c": "argue that motorcycles ought to replace cars in cities.",
+        "d": "compare the emissions of motorcycles with those of cars.",
+        "e": "list the countries in which two-wheelers are most common."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo alinha três razões — bateria pequena, distância diária curta e previsível, combustível comprado todo dia em dinheiro — e conclui apontando onde está o obstáculo real: o preço de compra, e não o custo de rodagem. A estação de troca é descrita no parágrafo seguinte; o texto não defende substituir carros por motos, apenas observa que o debate ignora a moto; emissões não são comparadas; e as regiões aparecem no primeiro parágrafo, sem lista de países."
+    },
+    {
+      "id": "ingles-139",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the main barrier for these riders is",
+      "alternativas": {
+        "a": "the distance a machine can travel on a single charge.",
+        "b": "the time required to recharge a battery.",
+        "c": "the money needed to buy the vehicle in the first place.",
+        "d": "the daily cost of running the machine.",
+        "e": "the absence of any saving compared with petrol."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo fecha com a frase decisiva: o obstáculo é o preço de compra e não o custo de rodagem, e quem economizaria em um ano muitas vezes não consegue o dinheiro do primeiro mês. A autonomia é dita raramente ser a restrição efetiva, dada a distância diária curta; o tempo de recarga é apresentado no parágrafo seguinte como a objeção mais comum, que a troca de bateria elimina; o custo de rodagem é justamente onde está a economia; e essa economia é descrita como imediata e visível."
+    },
+    {
+      "id": "ingles-140",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about battery swapping?",
+      "alternativas": {
+        "a": "It has been adopted mainly by the owners of private cars.",
+        "b": "It raises the purchase price of the machine.",
+        "c": "It requires the rider to wait while a battery charges.",
+        "d": "It makes the daily cost less predictable than buying fuel.",
+        "e": "It turns an upfront cost into a recurring payment the rider already makes."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e pagar por troca faz a economia se parecer com a compra de combustível que o motociclista já faz todo dia. O último parágrafo diz que nada disso se transfere automaticamente para carros; o preço de compra cai, não sobe; a espera pela recarga desaparece, porque ninguém espera bateria carregar; e o custo diário fica mais parecido com o que já era, não menos previsível."
+    },
+    {
+      "id": "ingles-141",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Two- and three-wheelers are often used to earn a living.",
+        "b": "The batteries of cars are designed to be removed and exchanged.",
+        "c": "A rider typically buys fuel daily and in cash.",
+        "d": "Range is seldom the binding constraint for these vehicles.",
+        "e": "Leaving the battery out of the sale reduces the price sharply."
+      },
+      "resposta": "b",
+      "explicacao": "O último parágrafo afirma o contrário: as baterias de automóvel são pesadas, caras e não foram projetadas para ser removidas — é justamente por isso que o arranjo não se transfere. As demais estão sustentadas: esses veículos são mais usados para ganhar a vida do que para o deslocamento diário; o motociclista compra combustível todo dia em dinheiro; a distância curta e previsível faz da autonomia uma restrição rara; e vender a máquina sem bateria corta o preço acentuadamente."
+    },
+    {
+      "id": "ingles-142",
+      "textoId": "ing-c10-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Witnesses who report details that never occurred are generally being dishonest.",
+        "b": "Confidence expressed at trial is a reliable guide to accuracy.",
+        "c": "Memory works as a recording that is played back on demand.",
+        "d": "A detail introduced after an event can become part of the memory of it.",
+        "e": "The witnesses in the study described were unusual in some respect."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo mostra isso no experimento: a palavra fornecida na primeira entrevista passou a integrar a lembrança, e uma semana depois parte do grupo relatava vidro quebrado que não estava na filmagem. O último parágrafo diz expressamente que as reformas protegem não contra desonestidade, mas contra um traço normal do lembrar; o terceiro afirma que a confiança medida no julgamento diz quase nada sobre acurácia; a primeira frase nega a metáfora da gravação; e o texto observa que nada naquelas testemunhas era incomum."
+    },
+    {
+      "id": "ingles-143",
+      "textoId": "ing-c10-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, witnesses gave higher speed estimates when the question described the cars as having",
+      "alternativas": {
+        "a": "smashed into each other.",
+        "b": "contacted each other.",
+        "c": "approached each other.",
+        "d": "stopped suddenly.",
+        "e": "passed each other."
+      },
+      "resposta": "a",
+      "explicacao": "O contraste está no segundo parágrafo: as estimativas de velocidade foram maiores com o verbo que descreve o choque violento do que com o que descreve mero contato, embora a filmagem fosse a mesma. O verbo de contato é justamente o polo de comparação, com estimativas menores; e aproximar-se, parar de repente e passar não aparecem no experimento descrito."
+    },
+    {
+      "id": "ingles-144",
+      "textoId": "ing-c10-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'a normal feature of remembering' most likely refers to",
+      "alternativas": {
+        "a": "the tendency of witnesses to conceal what they saw.",
+        "b": "the refusal of officers to record a first statement in full.",
+        "c": "the reconstruction of a memory each time it is recalled.",
+        "d": "the months that pass between an event and a trial.",
+        "e": "the rating of confidence taken immediately after an identification."
+      },
+      "resposta": "c",
+      "explicacao": "A expressão retoma a tese da abertura, que o texto inteiro desenvolve: a lembrança é remontada a cada evocação, e a remontagem sofre influência do que está presente naquele momento, inclusive da pergunta. Ocultação é exatamente o que a frase exclui ao contrapor 'não desonestidade'; o registro integral do primeiro depoimento e a nota de confiança no ato são as reformas propostas, não o que elas combatem; e os meses até o julgamento agravam o efeito, mas não são o traço do lembrar."
+    },
+    {
+      "id": "ingles-145",
+      "textoId": "ing-c10-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "International courts hold the same enforcement powers as domestic ones.",
+        "b": "A ruling produces the same consequences whoever the defendant is.",
+        "c": "Critics of these courts misdescribe how their judgments operate.",
+        "d": "Domestic courts carry out enforcement themselves.",
+        "e": "A judgment works as an input that other actors use over time."
+      },
+      "resposta": "e",
+      "explicacao": "O segundo parágrafo diz que as sentenças funcionam menos como ordens do que como determinações autorizadas de fato e de direito que outros atores usam — um ministério ao justificar sanção, um banco ao recusar transação, um governo posterior ao reabrir um caso —, e conclui que a sentença é um insumo cujo efeito se mede em anos. O mesmo parágrafo diz que o tribunal doméstico também depende de execução que ele próprio não realiza, apenas pode presumi-la; o terceiro afirma que o efeito varia conforme o réu e que os críticos descrevem o mecanismo com precisão."
+    },
+    {
+      "id": "ingles-146",
+      "textoId": "ing-c10-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that a ruling has most effect against a state that",
+      "alternativas": {
+        "a": "has the largest population among the parties involved.",
+        "b": "depends on others for credit, arms or membership of something.",
+        "c": "has accepted the court's jurisdiction in writing beforehand.",
+        "d": "maintains the fewest formal diplomatic relations.",
+        "e": "was the first to bring a case before the court."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo contrapõe os dois casos: contra um Estado com poucas dependências externas a decisão muda pouco, e contra um que precisa de crédito, armamento ou participação em alguma coisa pode mudar muito — porque a execução passa por terceiros que reagem à determinação. Tamanho da população e ordem de propositura não são critérios mencionados; a aceitação da jurisdição diz respeito à competência, não à eficácia; e ter poucas relações diplomáticas aproxima o Estado justamente do caso em que a decisão muda pouco."
+    },
+    {
+      "id": "ingles-147",
+      "textoId": "ing-c10-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "declare which of the two positions is the correct one.",
+        "b": "propose that these courts be given powers of enforcement.",
+        "c": "note a change in what people expect a judgment to accomplish.",
+        "d": "list the cases reopened by later governments.",
+        "e": "explain the procedure by which a court establishes its jurisdiction."
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo diz que os dois lados têm razão, e é por isso que a discussão não se resolve; o que mudou, conclui, é que menos gente hoje espera que a sentença seja o fim de um processo em vez do começo de um. Justamente por dar razão aos dois, ele não escolhe posição; nenhuma reforma de poderes é proposta; a reabertura de casos é citada no segundo parágrafo, como exemplo de uso da sentença; e não há explicação de competência."
+    },
+    {
+      "id": "ingles-148",
+      "textoId": "ing-c10-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Undigitised collections are generally in worse physical condition.",
+        "b": "Researchers who browse now outnumber those who search.",
+        "c": "Digitisation has been funded according to the importance of the material.",
+        "d": "What is digitised comes to stand for the record of a period.",
+        "e": "Archives in widely spoken languages are under-represented online."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo diz que o acervo digitalizado não fica apenas mais acessível: ele vira a evidência, o não digitalizado deixa de ser citado por não ser encontrado, e em uma geração o registro de um período pode passar a refletir as decisões de financiamento de uma década. O terceiro parágrafo afirma que o material não digitalizado costuma estar em melhor condição física; o pesquisador de hoje busca em vez de folhear; o financiamento segue o que já está catalogado, e não a importância; e as línguas de grande circulação são sobrerrepresentadas."
+    },
+    {
+      "id": "ingles-149",
+      "textoId": "ing-c10-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'inverted the priority' most likely means that these projects",
+      "alternativas": {
+        "a": "scan the least visible holdings before the well-known ones.",
+        "b": "digitise only material that has already been catalogued.",
+        "c": "postpone any scanning until funding has been secured.",
+        "d": "prefer institutional papers to letters and local newspapers.",
+        "e": "publish their catalogues before scanning anything."
+      },
+      "resposta": "a",
+      "explicacao": "A própria frase completa o sentido: eles digitalizam primeiro os acervos menos visíveis, no argumento de que os conhecidos acabarão digitalizados por alguém. Digitalizar só o já catalogado e privilegiar papéis institucionais são exatamente as prioridades vigentes que o projeto inverte; e nem adiar por falta de recurso nem publicar catálogos antes aparecem no texto."
+    },
+    {
+      "id": "ingles-150",
+      "textoId": "ing-c10-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Funding decisions shape which material becomes searchable.",
+        "b": "A document that cannot be found by a search is effectively absent.",
+        "c": "Institutional papers are over-represented relative to personal ones.",
+        "d": "Some projects scan the least visible collections first.",
+        "e": "Digitisation has preserved the different kinds of holding in equal proportion."
+      },
+      "resposta": "e",
+      "explicacao": "É a tese que o texto desmonta na primeira frase: a digitalização se apresenta como forma de preservar tudo e virou, discretamente, uma forma de selecionar — com distorção que corre por linhas previsíveis. As demais estão sustentadas: o que é digitalizado é o que alguém financia; o documento que a busca não encontra está, na prática, ausente; material produzido por instituições é sobrerrepresentado diante do produzido por indivíduos; e alguns projetos recentes inverteram a ordem, começando pelos acervos menos visíveis."
+    }
+  ]
+}

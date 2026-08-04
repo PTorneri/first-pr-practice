@@ -1,0 +1,304 @@
+{
+  "_comentario": [
+    "Conjunto 9 de 10 do Ingles refeito (ingles-121 a ingles-135).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "O texto de abertura, sobre acervos de museu e restituicao, faz ponte com o",
+    "bloco de Artes: a FGV cobrou arte e questao racial em 2026.1, e a discussao",
+    "sobre quem decide o destino de um objeto e a mesma.",
+    "",
+    "Envelhecimento e trabalho de cuidado, financiamento de adaptacao climatica e",
+    "evitacao de noticias sao tres temas em que o texto ja separa duas coisas que o",
+    "senso comum trata como uma so -- previdencia e cuidado, mitigacao e adaptacao,",
+    "desinformacao e desengajamento. Essa separacao e o que a questao de inferencia",
+    "cobra, e e tambem um paragrafo de desenvolvimento pronto para a redacao."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c09-t1",
+      "fonte": "Texto original em genero de ensaio sobre patrimonio e museus",
+      "conteudo": "The argument about objects held in museums far from where they were made is usually presented as a choice between two absolutes: return everything, or keep everything on the ground that a collection is a common inheritance [herança]. Almost nobody working in the field holds either position, and the interesting disagreements lie further in.\n\nStart with what is not in dispute. A significant portion of these collections was assembled during periods when consent was not available in any meaningful sense, and the documentation from those years frequently records the taking without embarrassment, because nobody expected to be asked. Where a specific object can be traced to a specific act, the case for return is not usually contested by curators [curadores].\n\nThe difficulty is the rest — objects whose route into a collection is undocumented, or was a purchase from someone who may or may not have been entitled to sell, or a gift given under conditions nobody can now reconstruct. Applying a strict rule to that material either returns things that were legitimately acquired or keeps things that were not, and no version of the rule avoids both errors.\n\nWhat has moved the discussion is a change of question. Instead of asking who owns an object, several institutions have begun asking who should decide what happens to it — a question that admits of shared answers: joint custody, long loans in either direction, digital access, a veto over how something is displayed. Ownership is binary and produces winners. Authority over a decision can be divided, and almost every agreement reached in the last few years has been of that kind."
+    },
+    {
+      "id": "ing-c09-t2",
+      "fonte": "Texto original em genero de reportagem sobre demografia e trabalho",
+      "conteudo": "Every projection of an ageing population is presented as a problem of pensions, and pensions are the part most easily fixed: a country can change a retirement age, adjust a formula, and the arithmetic closes. The part that does not close is care.\n\nCare is labour, and it is labour that resists the thing which has raised living standards everywhere else. A factory worker today produces many times what one produced a century ago; a person helping somebody dress produces almost exactly what they did then. That gap is why the cost of care rises faster than everything else even when nothing about it gets worse, and why a country can grow richer and find care less affordable at the same time.\n\nThe workforce arithmetic is harsher than the money. The number of people needing help is rising while the number of working-age people is falling, and care work pays badly, is physically demanding and carries little status — a combination that does not attract entrants at any wage a public budget is likely to pay. Most systems have closed the gap with migration, which works and is politically fragile, and with unpaid family labour, which is invisible in every statistic and is overwhelmingly performed by women who leave paid work to do it.\n\nThat last point is where the accounting misleads. A country that relies on family care records low public spending on care and treats the figure as an achievement. What it has actually done is move the cost from a budget line to a group of households, where it reappears as forgone [não auferidos] earnings, interrupted careers and, twenty years later, a second generation of smaller pensions."
+    },
+    {
+      "id": "ing-c09-t3",
+      "fonte": "Texto original em genero de divulgacao cientifica sobre cognicao animal",
+      "conteudo": "An octopus is the strongest available evidence that intelligence is not one thing. It solves problems, opens containers, recognises individual keepers [tratadores] and behaves in ways any observer would call deliberate — and it does all of this having taken an evolutionary route that separated from ours more than five hundred million years ago, before anything resembling a brain existed in either lineage.\n\nThe architecture is not a variation on ours. Most of an octopus's neurons sit not in its central brain but distributed through its arms, and an arm separated from the animal goes on performing coordinated actions, reaching and grasping [agarrando] appropriately. Whether the animal 'knows' what each arm is doing in the way a person knows where their hand is remains unresolved, and the experiments that would settle it are hard to design without assuming the answer.\n\nWhat sharpens the case is the life history. Octopuses are mostly solitary, live two years or less, and die shortly after reproducing without ever meeting their offspring [prole]. Almost every account of how intelligence evolves in vertebrates leans on long life, social groups and learning from others. The octopus has none of these and is intelligent anyway, which means either that the standard account is incomplete or that intelligence has arisen twice by different routes.\n\nResearchers in the field are notably careful about the word itself. Their working position is that the animal is doing something demanding, that the demand is not the same as ours, and that describing it in our vocabulary is the main obstacle to understanding it."
+    },
+    {
+      "id": "ing-c09-t4",
+      "fonte": "Texto original em genero de artigo sobre financiamento climatico",
+      "conteudo": "Climate finance is discussed as one subject and behaves as two. Money for cutting emissions and money for surviving what is already coming answer to different logics, and treating them as one has cost the second dearly.\n\nCutting emissions produces an asset. A wind farm sells electricity, a factory upgrade lowers a bill, and a lender can be repaid out of the revenue. That is why the great majority of climate finance has gone there: it is investable [investível], and the institutions that move money at scale are built to lend against a return.\n\nAdaptation mostly does not produce one. A sea wall, a drainage [drenagem] system, a warning network, a hospital moved uphill — these avoid a loss rather than generate an income, and avoided losses appear on nobody's balance sheet. The benefit is real, frequently larger per unit spent than the mitigation alternative, and structurally invisible to the instruments that exist. The result is that the countries with the least capacity to borrow are asked to borrow for the thing that will not repay the loan, and are then described as having weak project pipelines [carteiras de projetos].\n\nThere have been attempts to build instruments that fit: parametric insurance that pays on a measured trigger [gatilho] rather than an assessed claim, debt clauses that suspend repayment after a disaster, grant windows for the poorest. None of these is large yet. What they share is an acknowledgement that the problem was never a shortage of good adaptation projects. It was that the money available had been shaped, entirely reasonably, for a different kind of project."
+    },
+    {
+      "id": "ing-c09-t5",
+      "fonte": "Texto original em genero de reportagem sobre midia e audiencia",
+      "conteudo": "The most consequential change in how people consume news is not which outlet [veículo] they trust. It is that a growing share of them are deliberately avoiding it, and the surveys that track this find the same reason given everywhere: not that the news is false, but that it is relentless [implacável] and that reading it changes nothing the reader can act on.\n\nThis is a different problem from misinformation and has almost the opposite shape. A person who believes something false can, in principle, be shown evidence. A person who has concluded that following events makes them feel worse without making them more capable has made a judgement about the value of the activity, and is largely right about their own case. Telling them the reporting is accurate does not address what they said.\n\nThe industry's own incentives have made it worse. Attention is measured continuously and rewarded immediately, and the material that performs best under that measurement is the material that produces an urgent feeling. An outlet that resisted would lose audience to one that did not, so the equilibrium is not chosen by anybody in particular.\n\nThe few experiments that have worked share an unglamorous feature. They tell the reader what happened, what is likely to follow, and what — if anything — is being decided and by whom, which turns a stream of events into something with a shape. Whether that can be sustained at the scale of a daily operation is unproven. What is clear is that the audience being lost is not leaving because it disbelieves the news."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-121",
+      "textoId": "ing-c09-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Curators generally resist returning objects traced to a specific act.",
+        "b": "The documentation of the period rarely records how objects were taken.",
+        "c": "A strict rule can be written that avoids both kinds of error.",
+        "d": "Recent agreements have moved from ownership towards shared authority over decisions.",
+        "e": "Most people working in the field hold one of the two absolute positions."
+      },
+      "resposta": "d",
+      "explicacao": "O último parágrafo descreve exatamente esse deslocamento: em vez de perguntar quem é dono, passou-se a perguntar quem deve decidir — pergunta que admite custódia compartilhada, comodatos longos nos dois sentidos, acesso digital e veto sobre a forma de exposição —, e quase todo acordo dos últimos anos foi desse tipo. O segundo parágrafo diz que, havendo rastro até um ato específico, a devolução em geral não é contestada pelos curadores, e que a documentação registrava a tomada sem constrangimento; o terceiro afirma que nenhuma versão da regra estrita evita os dois erros; e o primeiro diz que quase ninguém da área sustenta os absolutos."
+    },
+    {
+      "id": "ingles-122",
+      "textoId": "ing-c09-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'the rest' most likely refers to objects whose",
+      "alternativas": {
+        "a": "return has already been agreed by the institution holding them.",
+        "b": "conditions of display are subject to a veto.",
+        "c": "route into a collection cannot now be established.",
+        "d": "origin has been traced to a documented act of taking.",
+        "e": "value has been assessed for the purposes of a loan."
+      },
+      "resposta": "c",
+      "explicacao": "A expressão opõe-se ao caso resolvido do parágrafo anterior e é definida na mesma frase: peças sem documentação de entrada, compradas de quem talvez não pudesse vender, ou doadas em condições que ninguém consegue reconstruir. O rastro até um ato documentado é justamente o caso que o texto acaba de tirar da disputa; o veto sobre a exposição e o comodato aparecem no último parágrafo, entre as soluções compartilhadas; e nenhuma avaliação de valor é mencionada."
+    },
+    {
+      "id": "ingles-123",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "show that the quality of care has declined over the past century.",
+        "b": "compare the wages of factory workers with those of care workers.",
+        "c": "argue that pensions are harder to reform than care.",
+        "d": "describe the training required to work in care.",
+        "e": "explain why the cost of care rises even when nothing about it gets worse."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais do que há um século, à pessoa que ajuda alguém a se vestir, que produz quase exatamente o mesmo — e conclui que é essa distância que faz o custo do cuidado subir mais rápido que tudo, mesmo sem piora, e um país ficar mais rico e achar o cuidado menos acessível. Não se afirma queda de qualidade; salários são tratados no parágrafo seguinte; o primeiro diz que a previdência é a parte fácil, não a difícil; e formação profissional não é mencionada."
+    },
+    {
+      "id": "ingles-124",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that a country reporting low public spending on care",
+      "alternativas": {
+        "a": "may have transferred the cost to households rather than reduced it.",
+        "b": "has generally found a more efficient way of delivering it.",
+        "c": "depends mainly on migration to fill its workforce gap.",
+        "d": "has raised its retirement age faster than its neighbours.",
+        "e": "pays its care workers more than comparable countries do."
+      },
+      "resposta": "a",
+      "explicacao": "O último parágrafo diz que é aí que a contabilidade engana: o país que se apoia no cuidado familiar registra gasto público baixo e trata isso como conquista, quando apenas transferiu o custo da rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como renda não auferida, carreira interrompida e, vinte anos depois, aposentadoria menor. Eficiência maior é justamente o que o texto nega; migração é a outra saída, apresentada em paralelo à familiar; idade de aposentadoria pertence ao problema previdenciário; e nada se diz sobre salário comparado entre países."
+    },
+    {
+      "id": "ingles-125",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Productivity in care has risen at roughly the same rate as in manufacturing.",
+        "b": "Higher pay alone is unlikely to draw enough workers into care.",
+        "c": "Pension arithmetic is the part of ageing that cannot be resolved.",
+        "d": "Unpaid family care shows up clearly in national statistics.",
+        "e": "The working-age population is growing alongside the number needing help."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo lista a combinação — salário baixo, exigência física e pouco prestígio — e conclui que ela não atrai entrantes a nenhum salário que um orçamento público venha a pagar, o que mostra que o problema não se resolve só com remuneração. O segundo parágrafo diz que a produtividade do cuidado praticamente não mudou; o primeiro afirma que a previdência é a parte que fecha; o terceiro diz que o trabalho familiar não remunerado é invisível em toda estatística; e a população em idade de trabalhar está caindo enquanto a demanda sobe."
+    },
+    {
+      "id": "ingles-126",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Retirement ages and formulas can be adjusted until the pension arithmetic closes.",
+        "b": "Migration has been used to fill part of the gap in the care workforce.",
+        "c": "Unpaid family care is performed overwhelmingly by women.",
+        "d": "Care work has become substantially more productive over the past century.",
+        "e": "Interrupted careers reduce the pensions of those who provide family care."
+      },
+      "resposta": "d",
+      "explicacao": "O texto afirma o contrário, e o argumento inteiro depende disso: quem ajuda alguém a se vestir produz hoje quase exatamente o que produzia há um século. As demais estão sustentadas: mudar idade e fórmula fecha a conta previdenciária; a migração fechou parte do vão de mão de obra, com fragilidade política; o cuidado familiar não remunerado é feito majoritariamente por mulheres que deixam o trabalho pago; e o custo reaparece nos domicílios como carreira interrompida e aposentadoria menor vinte anos depois."
+    },
+    {
+      "id": "ingles-127",
+      "textoId": "ing-c09-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The octopus brain is a simplified version of the vertebrate brain.",
+        "b": "Long life and social groups are necessary for intelligence to evolve.",
+        "c": "The octopus challenges the standard account of how intelligence arises.",
+        "d": "An octopus arm cannot act without instruction from the central brain.",
+        "e": "Researchers agree on what the word 'intelligence' means in this case."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo monta o problema: quase toda explicação da evolução da inteligência em vertebrados se apoia em vida longa, grupos sociais e aprendizado com outros, e o polvo não tem nenhum dos três — ou a explicação padrão está incompleta, ou a inteligência surgiu duas vezes por caminhos diferentes. O segundo parágrafo diz que a arquitetura não é uma variação da nossa e que um braço separado segue agindo de forma coordenada; e o último mostra os pesquisadores cautelosos com a própria palavra, o que exclui consenso sobre o termo."
+    },
+    {
+      "id": "ingles-128",
+      "textoId": "ing-c09-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, most of an octopus's neurons are located",
+      "alternativas": {
+        "a": "in its central brain.",
+        "b": "distributed through its arms.",
+        "c": "in the tissue surrounding its eyes.",
+        "d": "evenly divided between brain and body.",
+        "e": "in the organs used for reproduction."
+      },
+      "resposta": "b",
+      "explicacao": "É a primeira informação do segundo parágrafo, e é dela que decorre o fato seguinte, o de um braço separado continuar alcançando e agarrando de modo apropriado. O cérebro central é justamente onde os neurônios NÃO estão em maioria; e nem os tecidos ao redor dos olhos nem os órgãos reprodutivos são mencionados como concentração neural — a reprodução aparece no parágrafo seguinte, a propósito do ciclo de vida curto."
+    },
+    {
+      "id": "ingles-129",
+      "textoId": "ing-c09-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'the main obstacle to understanding it' most likely refers to",
+      "alternativas": {
+        "a": "the use of a vocabulary developed to describe human abilities.",
+        "b": "the short lifespan of the animals being studied.",
+        "c": "the distribution of the neurons through the arms.",
+        "d": "the difficulty of keeping octopuses in captivity.",
+        "e": "the absence of contact between an octopus and its offspring."
+      },
+      "resposta": "a",
+      "explicacao": "A frase fecha a posição de trabalho dos pesquisadores em três partes, e a terceira é essa: descrever o que o animal faz no nosso vocabulário é o principal obstáculo para compreendê-lo. Vida curta e ausência de contato com a prole são dados do parágrafo anterior, usados para mostrar que o polvo não se encaixa na explicação padrão; a distribuição dos neurônios é traço de arquitetura, apresentado como o que torna o caso interessante e não como impedimento; e a manutenção em cativeiro não é discutida."
+    },
+    {
+      "id": "ingles-130",
+      "textoId": "ing-c09-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Adaptation projects generally offer higher financial returns than mitigation ones.",
+        "b": "The shortage of adaptation finance reflects a shortage of viable projects.",
+        "c": "Lenders have refused to finance projects that reduce emissions.",
+        "d": "Avoided losses appear on the balance sheets of the countries concerned.",
+        "e": "The institutions that move money at scale were built for projects that generate revenue."
+      },
+      "resposta": "e",
+      "explicacao": "O segundo parágrafo diz exatamente isso: as instituições que movem dinheiro em escala foram construídas para emprestar contra um retorno, e por isso a maior parte do financiamento climático foi para mitigação, que produz um ativo. A adaptação evita perda em vez de gerar renda, e o benefício, embora frequentemente maior por unidade gasta, não é retorno financeiro; a mitigação é justamente o que os credores financiam; as perdas evitadas não aparecem em balanço nenhum; e o último parágrafo diz que nunca faltaram bons projetos de adaptação."
+    },
+    {
+      "id": "ingles-131",
+      "textoId": "ing-c09-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that describing poorer countries as having weak project pipelines",
+      "alternativas": {
+        "a": "accurately reflects the quality of the proposals they submit.",
+        "b": "explains why parametric insurance has not grown.",
+        "c": "is a judgement shared by the authors of adaptation plans.",
+        "d": "attributes to those countries a limitation that belongs to the financing instruments.",
+        "e": "applies only to projects that reduce emissions."
+      },
+      "resposta": "d",
+      "explicacao": "A frase aparece no fim do terceiro parágrafo, depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo — e o último parágrafo fecha dizendo que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Isso derruba a leitura de que a descrição seja acurada ou compartilhada por quem escreve os planos; o seguro paramétrico é apresentado como tentativa de solução ainda pequena; e a expressão se refere justamente aos projetos de adaptação."
+    },
+    {
+      "id": "ingles-132",
+      "textoId": "ing-c09-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The third paragraph most likely serves to",
+      "alternativas": {
+        "a": "list the countries that have received the most climate finance.",
+        "b": "explain why adaptation does not fit the instruments that exist.",
+        "c": "describe the engineering of a sea wall or a drainage system.",
+        "d": "argue that mitigation projects ought to be suspended.",
+        "e": "compare the cost of insurance with the cost of borrowing."
+      },
+      "resposta": "b",
+      "explicacao": "O parágrafo enfileira exemplos de adaptação — muro de contenção, drenagem, rede de alerta, hospital transferido para terreno alto — e mostra que todos evitam perda em vez de gerar receita, que perda evitada não entra em balanço, e que por isso o benefício é estruturalmente invisível aos instrumentos existentes. Nenhum país é listado; não há descrição de engenharia; o texto não propõe suspender mitigação, apenas explica por que ela absorveu o dinheiro; e a comparação entre seguro e empréstimo pertence ao parágrafo seguinte."
+    },
+    {
+      "id": "ingles-133",
+      "textoId": "ing-c09-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Avoidance is driven by a judgement about usefulness rather than by disbelief.",
+        "b": "People who avoid the news generally believe that it is inaccurate.",
+        "c": "A single outlet could change the industry's equilibrium on its own.",
+        "d": "Correcting false claims addresses the reason that avoiders give.",
+        "e": "Attention is rewarded slowly and over long periods."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo registra o motivo que aparece em toda pesquisa — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir —, e o último confirma que a audiência perdida não está saindo por descrer. O segundo parágrafo diz que dizer a essa pessoa que a apuração está correta não responde ao que ela disse; o terceiro afirma que o veículo que resistisse perderia para o que não resistisse, o que exclui a mudança por iniciativa isolada; e a atenção é medida continuamente e recompensada de imediato."
+    },
+    {
+      "id": "ingles-134",
+      "textoId": "ing-c09-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'something with a shape' most likely refers to",
+      "alternativas": {
+        "a": "a measurement of how long readers remain on a page.",
+        "b": "the urgent feeling that the best-performing material produces.",
+        "c": "the audience that an outlet has already lost.",
+        "d": "the evidence used to correct a false belief.",
+        "e": "an account in which events are connected to what follows and to who decides."
+      },
+      "resposta": "e",
+      "explicacao": "A expressão nomeia o resultado da prática descrita na mesma frase: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de eventos em algo com forma. A medição de tempo de página e o sentimento de urgência pertencem ao parágrafo anterior, o dos incentivos que pioram o problema; a audiência perdida é citada na última frase, como consequência; e a evidência corretiva é do segundo parágrafo, sobre desinformação."
+    },
+    {
+      "id": "ingles-135",
+      "textoId": "ing-c09-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Avoidance is reported for similar reasons in different countries.",
+        "b": "Attention is measured continuously and rewarded at once.",
+        "c": "The experiments that worked relied on producing a stronger emotional response.",
+        "d": "An outlet that resisted the incentive would lose audience to one that did not.",
+        "e": "Misinformation and avoidance are problems of different kinds."
+      },
+      "resposta": "c",
+      "explicacao": "O texto afirma o oposto: os poucos experimentos que funcionaram compartilham um traço sem glamour — explicar o que aconteceu, o que tende a vir e quem decide o quê —, e o sentimento de urgência é justamente o que os incentivos da indústria premiam e o que afasta o leitor. As demais estão sustentadas: as pesquisas encontram o mesmo motivo em toda parte; a atenção é medida continuamente e recompensada de imediato; quem resistisse perderia audiência para quem não resistisse; e o segundo parágrafo diz que desinformação e evitação têm quase a forma oposta."
+    }
+  ]
+}

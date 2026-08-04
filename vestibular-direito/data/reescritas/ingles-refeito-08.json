@@ -1,0 +1,303 @@
+{
+  "_comentario": [
+    "Conjunto 8 de 10 do Ingles refeito (ingles-106 a ingles-120).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "O texto sobre desdolarizacao entra por motivo direto: a FGV abriu o bloco",
+    "objetivo de Humanas de 2026.1 com uma questao sobre desdolarizacao. E o unico",
+    "tema deste conjunto que ja caiu literalmente.",
+    "",
+    "Os textos sobre rankings, ciencia da nutricao e reconhecimento facial",
+    "compartilham um mesmo movimento: os tres mostram um NUMERO que parece medida",
+    "objetiva e desmontam a escolha embutida nele. E o raciocinio que a prova cobra",
+    "quando pede o que o texto sustenta em vez do que ele afirma."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c08-t1",
+      "fonte": "Texto original em genero de ensaio critico sobre indicadores",
+      "conteudo": "A ranking is a claim disguised as a measurement. It selects a handful of things that can be counted, assigns each a weight that somebody chose, adds them up and produces an order that looks like a fact. The weights are the argument, and they are almost never the part that gets discussed.\n\nUniversity rankings are the clearest case, because their effects are so easy to trace. A table that gives weight to the ratio of staff to students will, within a few years, find universities hiring staff they do not need for teaching. One that counts citations will find departments reorganised around the fields that cite most heavily, which are not the fields that matter most. None of this involves cheating. Each institution is doing precisely what the published method rewards.\n\nThe deeper trouble is that a ranking has to be stable enough to be worth reading and volatile [volátil] enough to be worth reading again. That requirement is met by adjusting the method, which means a change in position may reflect a change in the institution, a change in the formula, or neither. Readers are not told which, and the compilers frequently cannot say.\n\nWhat survives all of this criticism is the demand. A family choosing between two places, a minister allocating money, a student in another country with no way to visit — each of them needs an ordering, and 'it depends on what you value' is a true answer that helps nobody. The rankings persist because the alternative on offer has been nothing at all."
+    },
+    {
+      "id": "ing-c08-t2",
+      "fonte": "Texto original em genero de reportagem sobre energia e clima",
+      "conteudo": "Cooling is the only major energy demand that rises with the very thing it protects people from. A hotter year sells more air conditioners, each of which raises electricity demand at exactly the hours when a grid is already strained [tensionada] and — because most of them leak refrigerant [fluido refrigerante] across their working lives — adds to the warming that produced the demand. It is the clearest feedback loop in the whole energy system.\n\nThe equity dimension is unusually stark. Air conditioning is the difference between a heatwave that is unpleasant and one that kills, and mortality during extreme heat falls sharply in cities where it is common. It is also expensive to buy and expensive to run, which puts it out of reach exactly where the heat is worst and the grids least reliable. Calling it a luxury has become harder to defend as temperatures have risen.\n\nThe technical picture is more encouraging than the political one. The efficiency of the units on sale varies by a factor of three at similar prices, which means the same cooling could be delivered for a fraction of the electricity if the worst models simply left the market. Minimum standards achieve that, cost the consumer nothing across the life of a unit, and have been adopted slowly, because the saving accrues [se acumula] to the buyer over years while the higher price is paid at the counter.\n\nThe largest gains, though, are not in the machine. A building designed with shade, ventilation and reflective surfaces needs a smaller unit running fewer hours, and none of that shows up in an energy statistic as cooling at all. It shows up as cooling that was never required."
+    },
+    {
+      "id": "ing-c08-t3",
+      "fonte": "Texto original em genero de divulgacao sobre metodo cientifico",
+      "conteudo": "Few fields produce as many confident and contradictory headlines as nutrition, and the reason is not that the researchers are careless. It is that the question is close to impossible to ask cleanly.\n\nTo establish that a food causes an outcome, you would randomly assign thousands of people to eat it or not eat it, for thirty years, without their knowing and without anything else in their lives differing. None of that is achievable. So the field relies on observation: large groups are asked what they eat, usually by questionnaire, and are followed for years. People misremember, and they misreport in a patterned way — under-recording whatever they believe to be unhealthy — so the error is not random noise that averages out.\n\nThen there is confounding [confundimento]. People who eat more vegetables also exercise more, smoke less, sleep more and earn more. Statistical adjustment can remove part of that, but only the part that was measured, and the untidy remainder is exactly where the effect being claimed would sit. This is why a finding can survive twenty observational studies and still fail the first trial that tests it directly.\n\nWhat follows is not that nothing is known. The largest effects — that severe deficiencies cause disease, that heavy consumption of alcohol and of processed meat raises specific risks — have been established repeatedly and by several methods. The uncertainty lives in the small effects, and it is the small effects that make headlines, because the large ones stopped being news decades ago."
+    },
+    {
+      "id": "ing-c08-t4",
+      "fonte": "Texto original em genero de artigo de economia politica internacional",
+      "conteudo": "Announcements that the dollar is about to lose its central role arrive on a reliable schedule, and so do the rebuttals [refutações]. Both tend to argue about the wrong quantity.\n\nReserves are the figure usually cited, and the dollar's share of them has indeed drifted downwards over two decades. But reserves are the least important of the currency's functions. What matters far more is that most cross-border invoices [faturas] are written in dollars, most commodity contracts are priced in them and most international borrowing is denominated in them — and each of those is held in place by everybody else's choice. A firm invoices in dollars because its competitors do and its own costs are quoted that way; no individual decision to switch pays off unless a great many others switch at the same moment.\n\nThat structure makes the arrangement extremely stable and, in a specific way, brittle [quebradiço]. Nothing erodes it gradually. What changes it would be a shock large enough to make the coordinated switch worth attempting — and the most plausible candidate is not a rival currency but the perception that access to the dollar system has become a political instrument rather than a utility.\n\nThis is the calculation behind the alternatives now being assembled: bilateral settlement in local currencies, regional payment links, arrangements slower and dearer than the system they duplicate. They are not competitive today, and their sponsors know it. They are being built as insurance, which is a different test — an insurance policy is not judged by whether it costs less than not having one."
+    },
+    {
+      "id": "ing-c08-t5",
+      "fonte": "Texto original em genero de reportagem sobre tecnologia e direitos",
+      "conteudo": "A facial recognition system is usually described by a single number: how often it is right. That number is close to meaningless on its own, and the reason is worth understanding, because it recurs wherever a rare event is being searched for.\n\nSuppose a system is ninety-nine per cent accurate and is used to scan a crowd of ten thousand people for one wanted individual. It will probably find them. It will also flag [sinalizar] around one hundred people who are not them, because one per cent of ten thousand is one hundred. The system performed as advertised. The list handed to an officer is still ninety-nine per cent wrong, and every name on it is a person who will be stopped.\n\nAccuracy also varies across the people being matched, and by more than the headline figure suggests. Independent testing has repeatedly found higher false-match rates for women, for darker-skinned subjects and for the very young and the very old — differences that reflect the composition of the data the systems were trained on rather than anything about faces. A system reported as one overall number therefore distributes its errors unevenly, and the people it errs about most are frequently those least able to contest a stop.\n\nNone of this is an argument that the technology never works. It is an argument that the deployment matters more than the algorithm. The same system that is defensible when it unlocks a phone — one face, one comparison, an instant retry — becomes something else when it is searching a crowd for somebody who is probably not there."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-106",
+      "textoId": "ing-c08-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Universities that respond to a ranking are generally cheating.",
+        "b": "A change in a university's position reflects a change in the institution.",
+        "c": "The weights a ranking chooses end up reshaping the institutions it measures.",
+        "d": "Demand for rankings has fallen as their flaws became better known.",
+        "e": "The compilers can normally explain what caused a movement in the table."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo mostra o mecanismo duas vezes: a tabela que pesa a razão entre funcionários e alunos leva a contratações desnecessárias para o ensino, e a que conta citações leva a departamentos reorganizados em torno dos campos que mais citam. O mesmo parágrafo diz expressamente que nada disso é trapaça; o terceiro afirma que uma mudança de posição pode refletir mudança na instituição, mudança na fórmula ou coisa nenhuma, e que os compiladores muitas vezes não sabem dizer; e o último registra que a demanda sobrevive a toda a crítica."
+    },
+    {
+      "id": "ingles-107",
+      "textoId": "ing-c08-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'the alternative on offer' most likely refers to",
+      "alternativas": {
+        "a": "the absence of any ordering at all for someone who has to choose.",
+        "b": "the weights that a compiler assigns to each indicator.",
+        "c": "the practice of visiting an institution before applying to it.",
+        "d": "the reorganisation of departments around heavily cited fields.",
+        "e": "the adjustment of a method between one edition and the next."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo apresenta três pessoas que precisam de uma ordenação e observa que 'depende do que você valoriza' é resposta verdadeira e inútil — a alternativa disponível, portanto, tem sido nada. Os pesos e o ajuste do método são objeto da crítica dos parágrafos anteriores, e não o que se oferece em lugar do ranking; visitar a instituição é justamente o que o estudante de outro país não pode fazer; e a reorganização de departamentos é um efeito do ranking, não uma alternativa a ele."
+    },
+    {
+      "id": "ingles-108",
+      "textoId": "ing-c08-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain how refrigerant escapes from a cooling unit.",
+        "b": "describe the design features that reduce a building's need for cooling.",
+        "c": "argue that minimum efficiency standards ought to be postponed.",
+        "d": "set out why access to cooling is a question of survival rather than comfort.",
+        "e": "compare the electricity grids of two different countries."
+      },
+      "resposta": "d",
+      "explicacao": "O parágrafo afirma que o ar-condicionado é a diferença entre uma onda de calor incômoda e uma que mata, que a mortalidade cai onde ele é comum, e que ele é caro justamente onde o calor é pior — concluindo que chamá-lo de luxo ficou mais difícil de defender. O vazamento de fluido é citado no primeiro parágrafo, sem explicação técnica; o desenho do edifício é assunto do último; os padrões mínimos aparecem no terceiro e são defendidos, não adiados; e nenhuma rede elétrica nacional é comparada."
+    },
+    {
+      "id": "ingles-109",
+      "textoId": "ing-c08-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that minimum efficiency standards have spread slowly because",
+      "alternativas": {
+        "a": "the least efficient units are also the most expensive to buy.",
+        "b": "the buyer pays the higher price at once and recovers it only later.",
+        "c": "they raise the total cost of a unit across its lifetime.",
+        "d": "they would push the most efficient models out of the market.",
+        "e": "grids are unable to supply the units that comply with them."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo dá exatamente essa razão: a economia se acumula para o comprador ao longo dos anos, enquanto o preço mais alto é pago no balcão. O texto diz que a eficiência varia por um fator de três a preços semelhantes, o que exclui que os piores modelos sejam os mais caros; afirma que os padrões não custam nada ao consumidor ao longo da vida útil, o que exclui aumento do custo total; e o efeito pretendido é tirar do mercado os piores modelos, não os melhores."
+    },
+    {
+      "id": "ingles-110",
+      "textoId": "ing-c08-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Demand for cooling is unrelated to how hot a given year is.",
+        "b": "Mortality in extreme heat is similar in cities with and without cooling.",
+        "c": "Units sold at similar prices have broadly similar efficiency.",
+        "d": "The design of a building has little effect on the cooling it requires.",
+        "e": "Cooling demand rises at precisely the hours when the grid is most strained."
+      },
+      "resposta": "e",
+      "explicacao": "Está na segunda frase do texto, e é o que fecha o ciclo de retroalimentação: cada aparelho novo eleva a demanda elétrica justamente nas horas em que a rede já está tensionada. Um ano mais quente é dito vender mais aparelhos, o que contraria a ausência de relação; a mortalidade cai acentuadamente onde o ar-condicionado é comum; a eficiência varia por um fator de três a preços semelhantes; e o último parágrafo afirma que os maiores ganhos estão no edifício, não na máquina."
+    },
+    {
+      "id": "ingles-111",
+      "textoId": "ing-c08-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Leaking refrigerant contributes to the warming that drives the demand.",
+        "b": "Cooling is least affordable in the places where the heat is most severe.",
+        "c": "Units sold at a similar price are broadly uniform in efficiency.",
+        "d": "Shade and ventilation reduce the size of the unit a building needs.",
+        "e": "Deaths during heatwaves fall where air conditioning is widespread."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo afirma o contrário, e é dessa variação que depende o argumento inteiro: a eficiência dos aparelhos à venda varia por um fator de três a preços semelhantes. As demais estão sustentadas: o vazamento de fluido soma ao aquecimento que gera a demanda; o aparelho é caro exatamente onde o calor é pior e a rede menos confiável; sombra, ventilação e superfícies refletivas permitem um aparelho menor rodando menos horas; e a mortalidade em calor extremo cai onde o ar-condicionado é comum."
+    },
+    {
+      "id": "ingles-112",
+      "textoId": "ing-c08-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The errors in dietary questionnaires are systematic rather than random.",
+        "b": "Nutrition produces contradictory results because its researchers are careless.",
+        "c": "Statistical adjustment removes the influence of unmeasured factors.",
+        "d": "Nothing reliable has been established about diet and health.",
+        "e": "The largest effects in the field are the ones most often reported."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo diz que as pessoas erram de modo padronizado, subnotificando o que consideram pouco saudável, e conclui que o erro não é ruído aleatório que se compensa na média. A primeira frase do texto nega expressamente o descuido dos pesquisadores; o terceiro parágrafo diz que o ajuste estatístico só remove o que foi medido; o quarto afirma que os efeitos grandes foram estabelecidos repetidamente e por vários métodos; e o mesmo parágrafo diz que são os efeitos pequenos que viram manchete, porque os grandes deixaram de ser novidade há décadas."
+    },
+    {
+      "id": "ingles-113",
+      "textoId": "ing-c08-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, people reporting their own diet tend to",
+      "alternativas": {
+        "a": "exaggerate the quantity of everything they eat.",
+        "b": "become more accurate over longer periods of observation.",
+        "c": "report accurately but forget when they ate.",
+        "d": "describe foods they never consumed at all.",
+        "e": "under-record whatever they believe to be unhealthy."
+      },
+      "resposta": "e",
+      "explicacao": "O dado está no segundo parágrafo e é a razão de o erro não ser aleatório: as pessoas subnotificam de forma padronizada aquilo que acreditam ser ruim. Exagerar tudo seria erro em direção única, mas oposta à descrita; nada indica ganho de precisão com o tempo, e o acompanhamento por anos é apresentado como parte do desenho e não como correção; e nem o esquecimento de horários nem a invenção de alimentos aparecem no texto."
+    },
+    {
+      "id": "ingles-114",
+      "textoId": "ing-c08-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'the untidy remainder' most likely refers to",
+      "alternativas": {
+        "a": "the participants who leave a study before it ends.",
+        "b": "the foods that a questionnaire fails to list.",
+        "c": "the trials that test an observed finding directly.",
+        "d": "the confounding factors that were never measured.",
+        "e": "the deficiencies known to cause disease."
+      },
+      "resposta": "d",
+      "explicacao": "A frase anterior diz que o ajuste estatístico remove apenas a parte que foi medida; o resto desarrumado é, portanto, o confundimento não medido — e o texto acrescenta que é exatamente ali que o efeito alegado se alojaria. Abandono de participantes e lacunas do questionário não são discutidos nesse trecho; os ensaios diretos aparecem na frase seguinte, como o teste que derruba o achado; e as deficiências graves pertencem ao último parágrafo, entre os efeitos bem estabelecidos."
+    },
+    {
+      "id": "ingles-115",
+      "textoId": "ing-c08-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The dollar's share of official reserves is the most important measure of its role.",
+        "b": "The dollar's position rests on choices that reinforce one another.",
+        "c": "A single firm can change its invoicing currency at no cost.",
+        "d": "The alternatives being built are already cheaper than the existing system.",
+        "e": "The dollar's role has been eroding gradually and steadily."
+      },
+      "resposta": "b",
+      "explicacao": "O segundo parágrafo explica que faturas, contratos de commodities e dívida internacional em dólar são mantidos no lugar pela escolha de todos os demais, e que a empresa fatura em dólar porque seus concorrentes o fazem — nenhuma troca individual compensa sem uma troca coletiva. O mesmo parágrafo diz que as reservas são a menos importante das funções da moeda; o custo de trocar sozinho é justamente o que trava o arranjo; o último parágrafo admite que as alternativas não são competitivas hoje; e o terceiro afirma que nada erode o arranjo gradualmente."
+    },
+    {
+      "id": "ingles-116",
+      "textoId": "ing-c08-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the greatest threat to the arrangement is",
+      "alternativas": {
+        "a": "the emergence of a rival currency with deeper markets.",
+        "b": "the continued decline in the dollar's share of reserves.",
+        "c": "the perception that access to the system has become a political instrument.",
+        "d": "the cost of settling transactions in local currencies.",
+        "e": "the volume of international borrowing denominated in dollars."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo nomeia o candidato mais plausível ao choque capaz de tornar a troca coordenada digna de tentativa, e diz expressamente que não é uma moeda rival: é a percepção de que o acesso ao sistema virou instrumento político em vez de utilidade pública. A moeda rival é a hipótese descartada na mesma frase; a queda das reservas é tratada no segundo parágrafo como o número errado para se discutir; o custo do pagamento em moeda local é característica das alternativas, não ameaça ao dólar; e o volume de dívida em dólar é um dos pilares do arranjo."
+    },
+    {
+      "id": "ingles-117",
+      "textoId": "ing-c08-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why systems that are not competitive are being built anyway.",
+        "b": "predict the date on which the dollar will lose its role.",
+        "c": "describe the technical design of a regional payment link.",
+        "d": "argue that bilateral settlement costs less than the current system.",
+        "e": "list the commodities whose contracts are priced in dollars."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo reconhece que os arranjos alternativos são mais lentos e mais caros, que seus patrocinadores sabem disso, e resolve o aparente contrassenso mudando o critério: eles estão sendo construídos como seguro, e uma apólice não se julga por custar menos do que não tê-la. Nenhuma data é prevista; o desenho técnico do sistema regional não é descrito; o texto afirma o oposto sobre custo do pagamento bilateral; e as commodities aparecem no segundo parágrafo, sem lista."
+    },
+    {
+      "id": "ingles-118",
+      "textoId": "ing-c08-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A system that is ninety-nine per cent accurate produces few false matches in a crowd.",
+        "b": "The differences in error rates between groups arise from the structure of faces.",
+        "c": "The overall accuracy figure is the most informative measure of a system.",
+        "d": "Unlocking a phone and scanning a crowd present the same problem.",
+        "e": "The setting in which a system is used matters more than its accuracy figure."
+      },
+      "resposta": "e",
+      "explicacao": "O último parágrafo diz isso com todas as letras: o argumento não é que a tecnologia nunca funcione, é que a implantação importa mais que o algoritmo — o mesmo sistema é defensável ao destravar um telefone e vira outra coisa ao varrer uma multidão. O exemplo dos noventa e nove por cento produz cem falsos positivos em dez mil pessoas; o terceiro parágrafo atribui as diferenças à composição dos dados de treino, e não à estrutura dos rostos; e a primeira frase declara o número isolado quase sem sentido."
+    },
+    {
+      "id": "ingles-119",
+      "textoId": "ing-c08-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'The system performed as advertised' most likely means that",
+      "alternativas": {
+        "a": "the wanted individual was not in fact found in the crowd.",
+        "b": "the hundred false matches are consistent with the accuracy claimed.",
+        "c": "the officer received a list that contained no errors.",
+        "d": "the supplier had overstated the accuracy of the system.",
+        "e": "the crowd was smaller than the system had been designed for."
+      },
+      "resposta": "b",
+      "explicacao": "A frase vem logo depois da conta: um por cento de dez mil é cem, então os cem falsos positivos são exatamente o que a acurácia anunciada previa. É por isso que a frase seguinte pode dizer que a lista entregue ao agente segue noventa e nove por cento errada. O texto diz que a pessoa procurada provavelmente será encontrada; a lista está cheia de erros; a acurácia não foi exagerada, e sim mal interpretada; e o tamanho da multidão é o dado da hipótese, não uma falha de dimensionamento."
+    },
+    {
+      "id": "ingles-120",
+      "textoId": "ing-c08-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Searching for a rare event yields many false matches even at high accuracy.",
+        "b": "Error rates have been found to differ between demographic groups.",
+        "c": "The composition of the training data helps explain those differences.",
+        "d": "A single accuracy figure describes how a system distributes its errors.",
+        "e": "Comparing one face against one stored record is a different problem."
+      },
+      "resposta": "d",
+      "explicacao": "O terceiro parágrafo afirma o contrário: um sistema reportado como um número global distribui seus erros de forma desigual, e quem mais sofre com eles costuma ser quem tem menos condição de contestar uma abordagem. As demais estão sustentadas: a busca por evento raro gera cem falsos positivos mesmo a noventa e nove por cento de acurácia; testes independentes acharam taxas mais altas para mulheres, pessoas de pele mais escura e os muito jovens e muito idosos; essas diferenças refletem os dados de treino; e destravar um telefone é apresentado como o caso de uma comparação única, com nova tentativa imediata."
+    }
+  ]
+}

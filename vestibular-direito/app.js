@@ -11,6 +11,7 @@
   const LS_REDACAO_CHECKLIST = "vd_redacaoChecklist"; // { "<redacaoId>::<pointIndex>": true }, autoavaliação pela grade oficial
   const LS_REDACAO_DONE = "vd_redacaoDone"; // { "<redacaoId>": true }, propostas já treinadas
   const LS_CYCLE_WEIGHTS = "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
+  const LS_SIMULADO_MODO = "vd_simuladoModo"; // { "<dia>": "adaptativo" | "fgv" | "insper" }, modo do simulado daquele domingo
   const LS_SCORE_HISTORY = "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
   const LS_TOPIC_LAST_ANSWERED = "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
   const LS_THEORY_SEEN = "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
@@ -398,20 +399,51 @@
     renderDissertSection(day);
   }
 
+  // Modo do simulado do domingo, por dia. O adaptativo de 45 é o padrão porque
+  // é ele que alimenta os pesos do ciclo seguinte; os oficiais de 60 são
+  // ensaio de prova e não realimentam nada.
+  function getSimuladoModo(day) { return loadJSON(LS_SIMULADO_MODO, {})[day] || "adaptativo"; }
+  function setSimuladoModo(day, modo) {
+    const s = loadJSON(LS_SIMULADO_MODO, {});
+    s[day] = modo;
+    saveJSON(LS_SIMULADO_MODO, s);
+  }
+
   function renderSimuladoCard(day, content) {
     const card = document.createElement("div");
     card.className = "lesson-card simulado-card";
+    const modo = getSimuladoModo(day);
+    const oficial = modo === "fgv" || modo === "insper";
+    const modelo = oficial ? SIMULADO_OFICIAL[modo] : null;
+    const items = oficial
+      ? pickSimuladoOficial(modo, content.simuladoNumber - 1)
+      : content.items;
+
+    const abas = [
+      ["adaptativo", "Adaptativo · 45"],
+      ["fgv", "Oficial FGV · 60"],
+      ["insper", "Oficial Insper · 60"]
+    ].map(([id, rotulo]) =>
+      `<button type="button" class="simulado-modo-btn${modo === id ? " ativo" : ""}" data-modo="${id}">${rotulo}</button>`
+    ).join("");
+
+    const descricao = oficial
+      ? `Ensaio da prova real: ${items.length} questões em quatro blocos de 15, na ordem exata do caderno da
+         ${escapeHtml(modelo.nome)}, com ${modelo.duracaoMin} minutos de duração. Fazer nessa ordem treina o que o
+         simulado adaptativo não alcança — o ritmo, a decisão de abandonar uma questão e o cansaço do quarto bloco,
+         que é onde a nota costuma cair. Este modo não altera a programação da próxima semana.`
+      : `Hoje não tem vídeo-aula: são ${items.length} questões, distribuídas entre as 16 frentes por prioridade
+         (pelo menos uma de cada), para revisar tudo o que você já estudou. Os erros daqui pesam mais forte na
+         programação da próxima semana — sem sumir os outros temas.`;
 
     card.innerHTML = `
       <div class="lesson-eyebrow">Domingo · Simulado ${content.simuladoNumber}</div>
-      <h3>Simulado misto — todas as frentes</h3>
-      <p class="lesson-desc">Hoje não tem vídeo-aula: são ${content.items.length} questões, distribuídas entre as 15
-      frentes por prioridade (pelo menos uma de cada), para simular a mistura de assuntos de uma prova real e revisar
-      tudo o que você já estudou. Os erros daqui pesam mais forte na programação da próxima semana — sem sumir os
-      outros temas.</p>
+      <h3>${oficial ? "Simulado oficial — " + escapeHtml(modelo.nome) : "Simulado misto — todas as frentes"}</h3>
+      <div class="simulado-modos">${abas}</div>
+      <p class="lesson-desc">${descricao}</p>
       <div class="exercise-block">
         <div class="exercise-summary">
-          <span>${content.items.length} questões</span>
+          <span>${items.length} questões</span>
           <span class="score-label"></span>
         </div>
         <div class="questions"></div>
@@ -419,8 +451,27 @@
       <div class="simulado-focus"></div>
     `;
 
+    card.querySelectorAll(".simulado-modo-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setSimuladoModo(day, btn.dataset.modo);
+        renderDay(day);
+      });
+    });
+
     const questionsContainer = card.querySelector(".questions");
-    content.items.forEach((item, idx) => {
+    let blocoAtual = null;
+    items.forEach((item, idx) => {
+      // Cabeçalho de bloco: sem ele, 60 questões em sequência não ensaiam nada
+      // além de resistência. É a fronteira do bloco que o candidato precisa
+      // sentir, porque é onde ele decide se vai voltar às que pulou.
+      if (oficial && item.bloco !== blocoAtual) {
+        blocoAtual = item.bloco;
+        const cab = document.createElement("div");
+        cab.className = "simulado-bloco";
+        const faixa = item.blocoIndex * 15 + 1;
+        cab.textContent = `Bloco ${item.blocoIndex + 1} · ${item.bloco} · questões ${faixa} a ${faixa + 14}`;
+        questionsContainer.appendChild(cab);
+      }
       appendGrouped(
         questionsContainer,
         item.question,
@@ -429,7 +480,10 @@
     });
 
     updateScoreLabel(card);
-    renderSimuladoFocus(card.querySelector(".simulado-focus"), day, content);
+    // O foco adaptativo lê os erros do simulado de 45 para montar o ciclo
+    // seguinte. Nos modos oficiais ele não aparece, porque a composição é fixa
+    // pela banca e não teria o que realimentar.
+    if (!oficial) renderSimuladoFocus(card.querySelector(".simulado-focus"), day, content);
     return card;
   }
 
@@ -574,8 +628,10 @@
     const header = document.createElement("div");
     header.innerHTML = `
       <h2>Todos os simulados</h2>
-      <p class="hint">Todo domingo do seu plano vira um simulado misto de ~45 questões. Clique em um deles para
-      ver o resultado detalhado, com os acertos em cada uma das 15 frentes.</p>
+      <p class="hint">Todo domingo do seu plano vira um simulado. No modo padrão são ~45 questões misturadas entre as
+      16 frentes por prioridade, e os erros pesam na programação da semana seguinte; no card do dia você pode trocar
+      para o caderno oficial de 60 questões da FGV ou da Insper, em quatro blocos de 15, na ordem da prova. Clique em
+      um simulado para ver o resultado detalhado, frente por frente.</p>
     `;
     wrap.appendChild(header);
 

@@ -148,6 +148,28 @@ function snapOffsetToGroup(bank, offset, keyFn) {
   return offset % n;
 }
 
+// Toma EXATAMENTE `count` questões, sem nunca partir um cluster e sem nunca
+// ultrapassar a conta.
+//
+// É o oposto da política de takeWholeGroups, e de propósito. Na lição do dia,
+// entregar 4 questões de um cluster de 6 é pior do que entregar 6, porque o
+// candidato leria o texto inteiro e responderia dois terços dele — ali vale
+// ultrapassar. No simulado oficial o invariante é outro: o bloco tem 15
+// questões porque a prova tem 15, e um bloco de 16 deixa de ensaiar a prova.
+// Aqui, então, o cluster que não couber é PULADO inteiro, e a busca segue no
+// grupo seguinte.
+function takeExactly(list, count, keyFn) {
+  if (count <= 0) return [];
+  const grupos = groupRuns(list, keyFn);
+  const saida = [];
+  for (let i = 0; i < grupos.length && saida.length < count; i++) {
+    const g = grupos[i];
+    if (saida.length + g.length > count) continue; // não cabe: pula o grupo inteiro
+    g.forEach((item) => saida.push(item));
+  }
+  return saida;
+}
+
 function hashString(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -399,6 +421,86 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
   // No simulado a chave precisa do prefixo da frente: o array é multifrente e
   // dois bancos distintos poderiam, por acidente, usar o mesmo textoId.
   return shuffleGroups(items, rng, (it) => clusterKey(it.question, it.subtopicId));
+}
+
+// ---------------------------------------------------------------- simulado oficial
+//
+// O simulado adaptativo de 45 questões acima serve ao TREINO: ele segue os
+// pesos do estudo e reage ao erro. O que ele não faz é ensaiar a prova.
+//
+// As duas bancas usam o mesmo formato geral -- 60 objetivas em quatro blocos
+// de 15, em ordem fixa -- e composições diferentes dentro dele. Fazer 60 na
+// ordem certa treina três coisas que o adaptativo não alcança: o ritmo (a FGV
+// dá ~3,5 min por questão), a decisão de quando abandonar uma questão, e o
+// cansaço do quarto bloco, que é onde a nota costuma cair.
+//
+// As composições abaixo saíram da contagem dos cadernos, e não do edital. Onde
+// os dois divergem, vale o caderno: em Humanas da Insper o edital prevê
+// Filosofia 2 e Sociologia 2, e os dois cadernos de 2026 trouxeram Filosofia 1
+// e Sociologia 3, sempre nas quatro últimas questões do bloco.
+const SIMULADO_OFICIAL = {
+  fgv: {
+    nome: "FGV Direito SP",
+    duracaoMin: 210,
+    blocos: [
+      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+      // Na FGV 2026.1, 9 das 15 questões de Português saíram de dois romances
+      // da lista. É a razão de literatura pesar mais que gramática aqui.
+      { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
+      { nome: "Inglês", frentes: { "ingles": 15 } },
+      { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia-brasil": 3, "historia-geral": 3, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
+    ]
+  },
+  insper: {
+    nome: "Insper",
+    duracaoMin: 300,
+    blocos: [
+      { nome: "Linguagens e Códigos", frentes: { "literatura": 8, "interpretacao-texto": 4, "gramatica": 3 } },
+      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+      { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia-brasil": 3, "historia-geral": 2, "filosofia-sociologia": 4 } },
+      // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
+      // cadernos de 2026. Não é aproximação, é gabarito de montagem -- mas o
+      // banco tem uma frente única de Natureza, então o bloco sai inteiro dela.
+      { nome: "Ciências da Natureza", frentes: { "ciencias-natureza": 15 } }
+    ]
+  }
+};
+
+// Monta as 60 questões do simulado oficial de uma banca, na ORDEM dos blocos.
+//
+// Diferente do adaptativo, aqui não se embaralha o conjunto: a ordem é parte
+// do que se está treinando. Dentro de cada bloco os grupos são embaralhados,
+// para o cluster não cair sempre na mesma posição, mas o bloco nunca invade o
+// seguinte.
+function pickSimuladoOficial(banca, visitIndex) {
+  const modelo = SIMULADO_OFICIAL[banca];
+  if (!modelo) return [];
+  const nomePorId = {};
+  const areaPorId = {};
+  (window.SUBTOPICS || []).forEach((s) => { nomePorId[s.id] = s.nome; areaPorId[s.id] = s.area; });
+
+  const itens = [];
+  modelo.blocos.forEach((bloco, bIdx) => {
+    const doBloco = [];
+    Object.keys(bloco.frentes).forEach((id) => {
+      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[id]) || [];
+      if (bank.length === 0) return;
+      const count = Math.min(bloco.frentes[id], bank.length);
+      // Rotação própria por banca e por bloco: sem o deslocamento, o simulado
+      // oficial e o adaptativo comeriam a mesma janela de cada banco e o
+      // candidato veria as mesmas questões nos dois.
+      const semente = visitIndex * count + (bIdx + 1) * 7 + (banca === "insper" ? 3 : 0);
+      const offset = snapOffsetToGroup(bank, semente, (q) => clusterKey(q));
+      const circular = [];
+      for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
+      takeExactly(circular, count, (q) => clusterKey(q)).forEach((q) => {
+        doBloco.push({ question: q, subtopicId: id, subtopicNome: nomePorId[id] || id, area: areaPorId[id] || "", bloco: bloco.nome, blocoIndex: bIdx });
+      });
+    });
+    const rng = mulberry32(visitIndex * 613 + bIdx * 29 + (banca === "insper" ? 101 : 0));
+    shuffleGroups(doBloco, rng, (it) => clusterKey(it.question, it.subtopicId)).forEach((it) => itens.push(it));
+  });
+  return itens;
 }
 
 // Monta o conteúdo completo de um dia: lições (vídeos) + exercícios, ou,

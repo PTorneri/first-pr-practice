@@ -1,0 +1,302 @@
+{
+  "_comentario": [
+    "Conjunto 6 de 10 do Ingles refeito (ingles-76 a ingles-90).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "O texto de abertura e sobre pseudonimo e recepcao literaria -- o mesmo registro",
+    "do texto sobre Tolstoi e o anonimato que abriu o bloco de Ingles da FGV 2026.1.",
+    "A banca costuma comecar por uma peca reflexiva curta antes de entrar nos",
+    "assuntos duros, e o conjunto reproduz essa ordem.",
+    "",
+    "Informalidade no trabalho e capacidade regional de producao de medicamentos",
+    "entram como repertorio direto de Humanas e de redacao brasileiras."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c06-t1",
+      "fonte": "Texto original em genero de ensaio literario breve",
+      "conteudo": "A writer who publishes without a name is usually assumed to be hiding from something: a government, an employer, a family. Those cases exist and they are the serious ones. But a great many pseudonyms [pseudônimos] have been adopted by people in no danger whatsoever, and their reasons are worth separating out, because they say something about what a name does to a text.\n\nA name carries a record. Once a reader knows who wrote a sentence, the sentence arrives carrying everything else that person has written, plus their photograph, their nationality and whatever the reader last heard about them. Some of that is useful — it is how a reader decides what to trust. But it also fixes a writer in place. A novelist known for one kind of book who wants to write another discovers that the name has become a genre.\n\nThe experiment has been run often enough to be informative. Established writers who published under new names have generally found that the work sold poorly and was reviewed carelessly, and several have described the outcome as clarifying rather than disappointing: they learned how much of the earlier reception had been the name.\n\nNone of this argues for anonymity as a rule. A name is also accountability, and a writer who can be found is a writer who can be answered. The point is narrower — that a byline [assinatura] is not a neutral label attached to a finished text. It is part of the text, and it is read first."
+    },
+    {
+      "id": "ing-c06-t2",
+      "fonte": "Texto original em genero de reportagem sobre economia do trabalho",
+      "conteudo": "Roughly half the world's workers are employed informally: no contract, no registration, no contribution towards a pension they will one day need. Governments tend to describe this as a problem of enforcement, and most formalisation drives have been built on that description — inspections, fines, registration campaigns, the occasional amnesty [anistia].\n\nThe results have been poor, and the reason is visible from inside a small business. Registering means paying tax on a margin [margem] that is already thin, complying with rules written for firms fifty times larger, and becoming visible to every official who might want something. Against that, the benefits are real but slow: access to credit, the ability to sell to a large buyer, a pension that pays decades later. An owner weighing an immediate certain cost against a distant probable benefit does what anyone would do.\n\nThe programmes that have worked treated the calculation as the thing to be changed rather than the behaviour. Simplified regimes that replace several taxes with a single low payment; registration that takes an hour instead of a month; and — most effective of all — making formality the condition for something the owner already wants, such as selling to a government buyer or accepting the card payments that customers prefer.\n\nNone of this reaches the hardest cases: the street vendor [vendedor ambulante] with no premises, the domestic worker in a private home, the very small farm. Those require something different, and the honest position is that no country has solved them. But the middle of the distribution — the shop with four employees — has moved wherever the arithmetic was changed rather than policed."
+    },
+    {
+      "id": "ing-c06-t3",
+      "fonte": "Texto original em genero de reportagem cientifica ambiental",
+      "conteudo": "The metals used in batteries also lie, in enormous quantity, on the floor of the deep ocean, in lumps [nódulos] the size of a potato that formed over millions of years. Collecting them requires no drilling and no blasting: a machine drives along the seabed and picks them up. On that description the case is easy, and it is the description most often given.\n\nWhat the description leaves out is the plume [pluma]. The machine disturbs the top layer of sediment, and because there is almost no current down there to disperse it, the cloud travels slowly and settles across a very wide area. The organisms living in that layer are adapted to a place where nothing has changed for a very long time, and the recovery times measured after small experimental tracks [trilhas] are counted in decades. Some tracks cut in the 1980s are still visible and still less populated than the ground beside them.\n\nThe regulatory position is genuinely unusual. Mining in international waters cannot begin until an authority made up of member states agrees a code, and that code has been under negotiation for years, with pressure arriving from both directions — companies that have spent heavily on equipment, and states seeking a moratorium [moratória] until the ecology is better understood.\n\nThe argument that settles it may not be ecological at all. Battery chemistries have been changing quickly, and more than one of the metals these nodules were valued for is now used in smaller quantities than when the deposits were first surveyed. A resource can lose its case by becoming unnecessary."
+    },
+    {
+      "id": "ing-c06-t4",
+      "fonte": "Texto original em genero de artigo sobre saude global e industria",
+      "conteudo": "During the last global health emergency, several countries discovered that the constraint on vaccinating their populations was not money and not regulatory approval. It was that the doses were manufactured in a small number of places, and those places supplied their own governments first. This was not a conspiracy; it is what almost any government would do, and it is precisely why the arrangement was fragile.\n\nThe response has been a wave of investment in regional manufacturing, and the early lesson is that the factory is the easy part. A plant can be built in two years. Qualifying it takes longer: regulators must inspect it, buyers must come to trust it, and the staff who run a sterile [estéril] line are trained over a decade rather than a season. Several new facilities stand finished and idle [ociosas] because no order has arrived.\n\nThe orders are the real problem. A regional plant competes with established suppliers whose scale makes them cheaper, and no health ministry buying on a limited budget can easily justify paying more for the same product on the argument that it might matter in an emergency which has not happened. Capacity used only in a crisis has to be paid for between crises, and nobody has designed a good way of doing that.\n\nSome governments have begun writing that payment explicitly into their contracts — a guaranteed minimum volume, or a fee for standing ready. It is an unglamorous instrument and it looks like waste on a spreadsheet in every year that nothing goes wrong. Which is, of course, the objection that was raised about strategic stockpiles [estoques estratégicos], right up to the moment they were needed."
+    },
+    {
+      "id": "ing-c06-t5",
+      "fonte": "Texto original em genero de reportagem sobre trabalho e plataformas digitais",
+      "conteudo": "Every large platform depends on a workforce its users never see and which it rarely names in its own reports. Content moderators [moderadores] review the material that automated systems flag or miss, and the work is almost always contracted out to firms in countries where wages are lower, on terms that keep the relationship at arm's length.\n\nThe task is harder than the job title suggests. A moderator applies a rulebook [manual de regras] of several hundred pages to material that is often ambiguous, in languages and dialects the rulebook was not written for, against a time target measured in seconds per item. Accuracy is audited against the rulebook rather than against any outcome, so a moderator who correctly judges a post to be dangerous but files it under the wrong heading is marked wrong.\n\nThe psychological cost is documented and has been the subject of litigation in several countries. What gets discussed less is the structural consequence: high turnover [rotatividade] means the people applying the rules are usually new to them, and the accumulated judgement of someone who has done the work for years — the thing that would most improve the decisions — is exactly what the arrangement fails to retain.\n\nAutomation is offered as the answer, and it has genuinely absorbed the easiest categories. But the residue [resíduo] left to people is, by construction, the ambiguous part: satire, a reclaimed insult, a threat phrased as a joke, a photograph whose meaning depends on where it was taken. That residue does not shrink at the same rate as the volume, and it is the part where being new to the rulebook costs the most."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-76",
+      "textoId": "ing-c06-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A writer's name shapes how a text is received rather than merely identifying its author.",
+        "b": "Most writers who adopt pseudonyms are escaping political danger.",
+        "c": "Established writers publishing under new names have generally sold well.",
+        "d": "Knowing an author's record is of no use to a reader.",
+        "e": "The author recommends anonymity as a general practice."
+      },
+      "resposta": "a",
+      "explicacao": "O fecho enuncia a tese: a assinatura não é um rótulo neutro pregado num texto pronto, é parte do texto e é lida primeiro. O texto diz que muitos pseudônimos foram adotados por pessoas sem perigo nenhum, e que os casos de fuga, embora existam e sejam os graves, não são a regra que interessa ali; o terceiro parágrafo relata que as obras sob nome novo venderam mal; o segundo concede que o histórico do autor é útil, pois é assim que o leitor decide em que confiar; e o último parágrafo nega expressamente que o anonimato seja recomendado como regra."
+    },
+    {
+      "id": "ingles-77",
+      "textoId": "ing-c06-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'the name has become a genre' most likely means that",
+      "alternativas": {
+        "a": "readers can no longer remember which books an author has written.",
+        "b": "publishers refuse to print books outside a fixed category.",
+        "c": "a pseudonym has to be chosen to match the kind of book.",
+        "d": "the author's name now leads readers to expect a particular kind of book.",
+        "e": "reviewers have stopped reading the work of established writers."
+      },
+      "resposta": "d",
+      "explicacao": "A frase encerra o raciocínio de que o nome fixa o autor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que o próprio nome passou a funcionar como rótulo de gênero, criando expectativa antes da leitura. A opção do esquecimento inverte o ponto, que é excesso de memória e não falta; recusa das editoras e escolha do pseudônimo não são afirmadas em lugar nenhum; e a resenha desatenta aparece no parágrafo seguinte, e justamente para as obras publicadas sob nome novo."
+    },
+    {
+      "id": "ingles-78",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "list the penalties applied to firms that fail to register.",
+        "b": "show that informal firms are more productive than formal ones.",
+        "c": "explain why registering is unattractive from the owner's point of view.",
+        "d": "describe the pension system from which informal workers are excluded.",
+        "e": "argue that inspections ought to be carried out more frequently."
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo põe de um lado os custos imediatos e certos — imposto sobre margem apertada, regras escritas para empresas cinquenta vezes maiores, visibilidade perante qualquer fiscal — e do outro os benefícios reais mas lentos, e conclui que o dono faz o que qualquer um faria. As multas são citadas no parágrafo anterior, como parte da abordagem que falhou; nenhuma comparação de produtividade é feita; a aposentadoria aparece como um dos benefícios distantes, sem descrição do sistema; e o texto argumenta contra a lógica da fiscalização, não a favor de mais inspeções."
+    },
+    {
+      "id": "ingles-79",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that formalisation drives have failed because they",
+      "alternativas": {
+        "a": "offered benefits too generous to be sustained over time.",
+        "b": "were applied only to the largest firms in each sector.",
+        "c": "relied on credit programmes that never reached small businesses.",
+        "d": "were introduced before any amnesty had been announced.",
+        "e": "treated the behaviour as the problem rather than the calculation behind it."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo abre exatamente com essa distinção: os programas que funcionaram trataram o cálculo como o que devia mudar, em vez da conduta — o que implica que os anteriores, montados sobre fiscalização e multa, atacaram o comportamento. Benefícios generosos demais não são mencionados; as campanhas foram dirigidas justamente às pequenas, e não às maiores; o crédito é listado como um dos benefícios lentos do registro, não como programa fracassado; e a anistia é citada como um dos instrumentos usados, sem qualquer questão de ordem cronológica."
+    },
+    {
+      "id": "ingles-80",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Street vendors are the group that has been formalised most successfully.",
+        "b": "Tying formality to something the owner already wants has proved most effective.",
+        "c": "The costs of registering are distant while its benefits are immediate.",
+        "d": "Rules designed for large firms suit small ones equally well.",
+        "e": "No formalisation policy has produced any measurable result."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo destaca essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender ao poder público ou aceitar o cartão que os clientes preferem. O vendedor ambulante é citado no último parágrafo entre os casos que ninguém resolveu; a relação entre custo e benefício é a inversa da apresentada na opção, com custo imediato e benefício distante; o texto diz que as regras foram escritas para empresas cinquenta vezes maiores; e o fecho registra que o meio da distribuição se moveu onde a aritmética mudou."
+    },
+    {
+      "id": "ingles-81",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Enforcement campaigns have brought most informal firms into the system.",
+        "b": "The benefits of registering tend to arrive later than its costs.",
+        "c": "Some regimes replace several taxes with a single low payment.",
+        "d": "Domestic workers and very small farms remain outside the solutions described.",
+        "e": "Registering exposes a business to officials it had not previously dealt with."
+      },
+      "resposta": "a",
+      "explicacao": "O texto diz o contrário logo no segundo parágrafo: os resultados dessas campanhas foram ruins. As demais estão sustentadas: os benefícios são reais mas lentos, contra custos imediatos e certos; regimes simplificados trocam vários tributos por um pagamento único e baixo; o último parágrafo reconhece que trabalhador doméstico e agricultura muito pequena seguem sem solução em qualquer país; e registrar-se torna o negócio visível a todo funcionário que possa querer alguma coisa."
+    },
+    {
+      "id": "ingles-82",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Extracting these metals requires drilling into the seabed.",
+        "b": "The sediment disturbed by the machines disperses quickly.",
+        "c": "The regulatory code was agreed shortly after negotiations began.",
+        "d": "The environmental cost of collection lies mainly in the sediment it disturbs.",
+        "e": "Demand for every one of these metals has continued to rise."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo é dedicado a isso: o que a descrição simpática omite é a pluma, que se desloca devagar por falta de corrente, assenta sobre área muito ampla e atinge organismos adaptados a um lugar onde nada muda há muitíssimo tempo. O primeiro parágrafo diz que a coleta não exige perfuração nem detonação; a mesma passagem sobre a pluma nega a dispersão rápida; o terceiro parágrafo informa que o código está em negociação há anos; e o último diz que mais de um desses metais é hoje usado em quantidade menor."
+    },
+    {
+      "id": "ingles-83",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, tracks cut on the seabed in the 1980s",
+      "alternativas": {
+        "a": "have been fully recolonised by the original organisms.",
+        "b": "were erased by ocean currents within a few years.",
+        "c": "remain visible and less populated than the ground beside them.",
+        "d": "were never located again by later expeditions.",
+        "e": "produced no measurable disturbance at the time."
+      },
+      "resposta": "c",
+      "explicacao": "É a última frase do segundo parágrafo, e ela serve de medida concreta para os tempos de recuperação contados em décadas. A recolonização completa é o oposto do que o texto registra; o apagamento por correntes contraria a explicação de que quase não há corrente ali, o que é justamente o motivo de a pluma assentar tão longe; as trilhas seguem visíveis, o que exclui não terem sido reencontradas; e o distúrbio foi medido, tanto que dele saíram os tempos de recuperação."
+    },
+    {
+      "id": "ingles-84",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'A resource can lose its case by becoming unnecessary' most likely refers to",
+      "alternativas": {
+        "a": "the moratorium requested by several member states.",
+        "b": "the fall in the quantities of these metals that batteries now require.",
+        "c": "the money that companies have already spent on equipment.",
+        "d": "the slow recovery of the organisms living in the sediment.",
+        "e": "the years spent negotiating an international mining code."
+      },
+      "resposta": "b",
+      "explicacao": "A frase conclui o parágrafo que acaba de dizer que as químicas de bateria mudaram depressa e que mais de um dos metais valorizados nesses nódulos é hoje usado em quantidade menor do que quando os depósitos foram levantados. É por isso que o argumento decisivo pode não ser ecológico. Moratória, gasto das empresas e anos de negociação pertencem ao parágrafo anterior, o da situação regulatória; e a recuperação lenta dos organismos é justamente o argumento ecológico que a frase diz poder não ser o decisivo."
+    },
+    {
+      "id": "ingles-85",
+      "textoId": "ing-c06-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The main obstacle to vaccinating populations was the cost of the doses.",
+        "b": "Building the plant is the slowest stage of the whole process.",
+        "c": "Regional plants can generally produce more cheaply than established suppliers.",
+        "d": "Health ministries have been willing to pay a premium for local supply.",
+        "e": "Capacity held for emergencies has to be paid for during the years without one."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo enuncia o problema nesses termos: capacidade usada só em crise precisa ser paga entre as crises, e ninguém desenhou um bom jeito de fazer isso — daí os contratos com volume mínimo garantido ou taxa por prontidão. A primeira frase do texto exclui dinheiro e aprovação como restrição; o segundo parágrafo diz que a fábrica é a parte fácil, construída em dois anos, e que qualificá-la demora mais; a planta regional compete com fornecedores maiores e mais baratos; e o mesmo parágrafo explica que o ministério não consegue justificar pagar mais pelo mesmo produto."
+    },
+    {
+      "id": "ingles-86",
+      "textoId": "ing-c06-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the new facilities standing idle",
+      "alternativas": {
+        "a": "lack orders rather than the ability to produce.",
+        "b": "failed the inspections carried out by the regulators.",
+        "c": "were built before any decision to invest had been taken.",
+        "d": "were designed for a product that is no longer in use.",
+        "e": "have been unable to recruit any staff at all."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo diz que várias instalações novas estão prontas e ociosas porque nenhum pedido chegou, e o parágrafo seguinte abre declarando que os pedidos são o problema de verdade. A reprovação em inspeção é uma etapa da qualificação, mas não é a causa apontada; as fábricas resultaram justamente de uma onda de investimento decidida; nada indica produto obsoleto; e a dificuldade com pessoal é descrita como tempo de formação de uma década, não como impossibilidade de contratar."
+    },
+    {
+      "id": "ingles-87",
+      "textoId": "ing-c06-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "recommend closing the new plants until demand recovers.",
+        "b": "explain the technical requirements of a sterile production line.",
+        "c": "describe the contracts signed during the last health emergency.",
+        "d": "defend a payment that looks like waste in every year nothing goes wrong.",
+        "e": "compare the prices charged by regional and established suppliers."
+      },
+      "resposta": "d",
+      "explicacao": "O parágrafo apresenta o volume mínimo garantido e a taxa por prontidão, admite que o instrumento é sem glamour e que parece desperdício na planilha sempre que nada dá errado, e responde a essa objeção lembrando que era exatamente o que se dizia dos estoques estratégicos até o momento em que fizeram falta. Fechar as fábricas é o oposto do que se defende; a linha estéril é citada no segundo parágrafo, pelo tempo de formação da equipe; os contratos aqui são os novos, não os da emergência passada; e a comparação de preços está no terceiro parágrafo."
+    },
+    {
+      "id": "ingles-88",
+      "textoId": "ing-c06-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Automation has removed the need for human moderators.",
+        "b": "Moderators are assessed on the outcomes their decisions produce.",
+        "c": "The work left to people is the part in which inexperience costs most.",
+        "d": "Platforms name these workers prominently in their own reports.",
+        "e": "The rulebooks are written for the languages in which they are applied."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo fecha exatamente assim: o resíduo deixado às pessoas é, por construção, a parte ambígua — sátira, insulto ressignificado, ameaça em forma de piada — e é nela que ser novo no manual custa mais caro. A automação absorveu as categorias fáceis, sem eliminar o trabalho humano; o segundo parágrafo diz que a acurácia é auditada contra o manual e não contra o resultado; o primeiro afirma que as plataformas raramente nomeiam esses trabalhadores; e o manual é aplicado a línguas e dialetos para os quais não foi escrito."
+    },
+    {
+      "id": "ingles-89",
+      "textoId": "ing-c06-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'exactly what the arrangement fails to retain' most likely refers to",
+      "alternativas": {
+        "a": "the automated systems that flag material for review.",
+        "b": "the judgement accumulated by moderators who stay in the job for years.",
+        "c": "the litigation brought in several different countries.",
+        "d": "the rulebook of several hundred pages.",
+        "e": "the wage paid by the contracting firms."
+      },
+      "resposta": "b",
+      "explicacao": "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento acumulado por quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não consegue reter. Os sistemas automáticos, os processos judiciais, o manual e o salário aparecem no entorno como elementos do quadro, mas nenhum deles é descrito como algo que a estrutura deixe de reter."
+    },
+    {
+      "id": "ingles-90",
+      "textoId": "ing-c06-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Moderation work is generally contracted out rather than done in house.",
+        "b": "A moderator can be marked wrong despite having reached the right judgement.",
+        "c": "Automation has absorbed the more straightforward categories.",
+        "d": "High turnover keeps most moderators new to the rules they apply.",
+        "e": "The volume of ambiguous cases falls at the same rate as the total volume."
+      },
+      "resposta": "e",
+      "explicacao": "O último parágrafo afirma o oposto: o resíduo ambíguo não encolhe no mesmo ritmo do volume, e é por isso que a automação não resolve a parte cara. As demais estão sustentadas: o trabalho é quase sempre terceirizado para firmas em países de salário mais baixo; quem acerta o julgamento e erra a categoria é marcado como errado; a automação absorveu as categorias mais fáceis; e a alta rotatividade faz com que os aplicadores das regras sejam quase sempre novos nelas."
+    }
+  ]
+}

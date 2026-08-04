@@ -1,0 +1,303 @@
+{
+  "_comentario": [
+    "Conjunto 7 de 10 do Ingles refeito (ingles-91 a ingles-105).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "O texto sobre traducao existe por dois motivos: e ensaio literario, do genero",
+    "que a banca usa para abrir o bloco, e o exemplo central -- o par formal e",
+    "informal de tratamento, que o portugues tem e o ingles nao -- e uma diferenca",
+    "que o proprio candidato vive ao ler as duas linguas.",
+    "",
+    "Habitacao urbana e agua subterranea entram como repertorio de Geografia: a FGV",
+    "cobrou macrometropole paulista e urbanizacao brasileira na objetiva de Humanas",
+    "de 2026.1, e os dois textos daqui sustentam argumento na mesma discussao."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c07-t1",
+      "fonte": "Texto original em genero de ensaio sobre literatura e traducao",
+      "conteudo": "A translator is often described as someone who carries a text across a border without dropping anything. The image is comforting and wrong, and translators are usually the first to say so.\n\nConsider a single problem. English has one word for the second person, while Portuguese, French and dozens of other languages have two: one for intimacy or condescension [condescendência], one for distance or respect. A novel in which two characters move from the formal form to the familiar one has, at that moment, told the reader something about the relationship without describing it. Translated into English, the moment simply vanishes — there is no wrong choice available, because there is no choice at all. A good translator will usually rebuild the effect somewhere else, through a shift in register or a first name suddenly used, which means the English reader receives the information but not in the place the author put it.\n\nThis is the ordinary condition of the work, not a failure of it. Every translation is a series of decisions about what to preserve when preserving everything is impossible, and those decisions are interpretive [interpretativas]. Two competent translators produce different books from one original, and neither of them is wrong.\n\nThe consequence for a reader is worth stating plainly. A translation is not a window onto a text; it is a performance of it, closer to a recording of a piece of music than to a photograph of a painting. Asking which translation is accurate is usually the wrong question. Asking what each one decided to protect is the useful one."
+    },
+    {
+      "id": "ing-c07-t2",
+      "fonte": "Texto original em genero de reportagem sobre politica urbana",
+      "conteudo": "The reason a city fails to build enough housing is rarely that it lacks land or money, and almost never that developers [incorporadoras] are unwilling. It is that the decision to permit a building is taken by a body which hears from the people nearest to it and from nobody else.\n\nThe asymmetry is structural rather than moral. A new block imposes concentrated, immediate and legible costs on a small number of existing residents: noise for two years, a changed view, more cars on one street. It delivers diffuse, delayed and invisible benefits to people who do not yet live there and therefore cannot attend the meeting. One of those groups is in the room. The other does not exist as a constituency [eleitorado] and never will, because by the time its members arrive the decision has been taken.\n\nThis explains a pattern that otherwise looks like hypocrisy. The same city can hold a large majority in favour of building more housing in the abstract and reject nearly every specific proposal, without a single person changing their mind. The general question is answered by everyone; the particular one is answered only by the neighbours.\n\nThe reforms that have worked accept the asymmetry instead of scolding [repreender] it. Setting the rules at a level where the affected group is larger — a whole city or region rather than one street — restores part of the balance, as does letting anything that meets a published standard proceed without a discretionary [discricionária] hearing. Both approaches move the decision away from the meeting, which is the one place the missing side can never appear."
+    },
+    {
+      "id": "ing-c07-t3",
+      "fonte": "Texto original em genero de divulgacao sobre pesquisa clinica",
+      "conteudo": "The placebo effect is usually explained as a form of deception: a patient believes they are receiving treatment, and their symptoms improve because of the belief. That account is now known to be incomplete, and the evidence against it comes from an experiment that sounds like a joke.\n\nIn an open-label placebo trial, patients are told explicitly that the pill contains no active ingredient. They are told why the researchers think it might help anyway, and they are asked to take it on schedule. Several such trials — in chronic pain, in irritable bowel syndrome, in fatigue [fadiga] — have reported improvements over patients given no pill at all. Nobody was deceived, and something still happened.\n\nWhat that something is remains genuinely open. The leading explanations involve the ritual rather than the belief: the act of taking something at a fixed hour, the attention of a clinician, the expectation built into a routine. These are not nothing. They are also not specific to any illness, which is why the effect shows up mostly in conditions measured by what the patient reports rather than by what an instrument records. A placebo does not shrink a tumour [tumor].\n\nThe practical implication is narrower than the headlines suggest, and more interesting. It is not that pills can be replaced by rituals. It is that the ritual is already part of every treatment, is currently unmeasured, and is delivered inconsistently — a ten-minute consultation and a two-minute one contain different amounts of it, and no trial has ever been designed to find out how much."
+    },
+    {
+      "id": "ing-c07-t4",
+      "fonte": "Texto original em genero de artigo de politica economica internacional",
+      "conteudo": "For thirty years the standard advice to governments was that picking industries was a mistake: officials could not know which technologies would matter, and the attempt would end in expensive factories making things nobody wanted. That advice has been abandoned almost everywhere, and it is worth being precise about why, because the reasons are not the ones usually given.\n\nThe first is that the original argument was never as strong as it sounded. The countries held up as models of leaving matters to the market had in fact spent enormous sums on defence research, on agricultural research and on the infrastructure that carried the results to industry — industrial policy under another name, and none of it counted as such.\n\nThe second is that the objective changed. Choosing an industry because it will be profitable is a bet, and the criticism of that was fair. Choosing one because a country cannot afford to be unable to make it — medicines, transformers [transformadores], certain chips — is a different kind of decision, closer to insurance, and it is judged by a different standard. An insurance policy that never pays out is not a failed investment.\n\nThe risk has moved rather than disappeared. When several large economies subsidise the same industry at the same time, the result is capacity far beyond what anyone needs, prices that fall below cost, and a set of governments each unable to be the first to stop. That outcome does not require any official to have chosen the wrong industry. It only requires that they all chose the right one."
+    },
+    {
+      "id": "ing-c07-t5",
+      "fonte": "Texto original em genero de reportagem sobre recursos hidricos",
+      "conteudo": "An aquifer [aquífero] is the only major resource that most countries allow anyone standing above it to take without measurement. A farmer drills a well [poço], installs a pump [bomba] and extracts as much as the pump will lift. The volume is not recorded, the total taken by all the wells together is not known, and the level falls.\n\nThe physics is unforgiving in a specific way. Surface water announces a shortage: the river is visibly lower, and everyone sees it at the same moment. Groundwater does not. The first sign for an individual user is that the pump no longer reaches, which is solved by drilling deeper — an option available to whoever can afford it and to nobody else. The shortage therefore arrives as inequality before it arrives as scarcity, and the people who feel it first have the least capacity to raise it.\n\nWhere extraction has been brought under control, the mechanism has almost never been a ban. It has been measurement followed by a shared allocation [alocação]: meters on the wells, a published total that the basin [bacia] can sustain, and a right to a share of it that a user may sell to another. Selling matters more than it appears — it turns the water an efficient farmer does not use into money, which is a far stronger incentive than an inspection.\n\nWhat none of these schemes has managed is the initial allocation. Deciding who gets what share of a resource everybody has been taking freely is a distributional question, and dressing it up as a technical one has been the surest way to lose the years in which the aquifer could still have been saved."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-91",
+      "textoId": "ing-c07-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A skilled translator is able to preserve every effect of the original.",
+        "b": "Translating requires choosing which effects to keep, and those choices are interpretive.",
+        "c": "Two competent translators ought to arrive at the same text.",
+        "d": "English offers a translator a wider set of choices than Portuguese does.",
+        "e": "A translation is best understood as a window onto the original."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo enuncia isso como condição normal do ofício: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Preservar tudo é justamente o que o texto diz ser impossível; o mesmo parágrafo afirma que dois tradutores competentes produzem livros diferentes e nenhum está errado; o exemplo do segundo parágrafo mostra o inglês com MENOS opção, não mais, já que ali não há escolha alguma; e o último parágrafo rejeita expressamente a imagem da janela, propondo a de uma execução musical."
+    },
+    {
+      "id": "ingles-92",
+      "textoId": "ing-c07-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'the moment simply vanishes' most likely refers to",
+      "alternativas": {
+        "a": "the point at which a translator decides to change a character's name.",
+        "b": "the difference in register between two competent translations.",
+        "c": "the passage in which the author describes a relationship directly.",
+        "d": "the reader's realisation that a text has been translated.",
+        "e": "the shift between the formal and the familiar form of address."
+      },
+      "resposta": "e",
+      "explicacao": "O trecho descreve o instante em que duas personagens passam do tratamento formal ao familiar — momento que informa algo sobre a relação sem descrevê-la — e observa que, em inglês, ele desaparece por não haver escolha disponível. Mudar o nome e alterar o registro são as compensações que o tradutor faz depois, não o que se perde; a descrição direta da relação é exatamente o que o romance evita fazer; e a percepção do leitor de estar lendo tradução não é discutida."
+    },
+    {
+      "id": "ingles-93",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why the costs and the benefits of a new building are represented so unequally.",
+        "b": "demonstrate that a new building imposes no real costs on existing residents.",
+        "c": "describe the procedure by which a city grants a building permit.",
+        "d": "argue that developers ought to be required to pay compensation.",
+        "e": "compare the housing markets of two different cities."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo opõe custos concentrados, imediatos e legíveis, sentidos por poucos moradores atuais, a benefícios difusos, adiados e invisíveis, destinados a quem ainda não mora ali — e fecha observando que um desses grupos está na sala e o outro nunca estará. Os custos são reconhecidos como reais, e não negados; o procedimento de licenciamento não é descrito; nenhuma compensação é proposta; e não há duas cidades em comparação."
+    },
+    {
+      "id": "ingles-94",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the contradiction it describes",
+      "alternativas": {
+        "a": "results from residents concealing what they actually prefer.",
+        "b": "shows that support for building in the abstract is insincere.",
+        "c": "follows from different groups answering the general and the particular question.",
+        "d": "has been resolved in most cities by holding more meetings.",
+        "e": "arises because the proposals submitted are too large."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo resolve a aparente hipocrisia com uma frase: a pergunta geral é respondida por todos, e a particular, só pelos vizinhos — sem que ninguém mude de opinião. Isso exclui tanto a ocultação de preferências quanto a insinceridade do apoio. Mais reuniões agravariam o problema, já que a reunião é justamente o lugar onde o lado ausente nunca aparece; e o tamanho das propostas não é apontado como causa."
+    },
+    {
+      "id": "ingles-95",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about the reforms it describes?",
+      "alternativas": {
+        "a": "They work by persuading the neighbours to accept the costs.",
+        "b": "They increase the number of discretionary hearings held.",
+        "c": "They have been adopted mainly at the level of a single street.",
+        "d": "They move the decision to a level at which the wider group is represented.",
+        "e": "They depend on developers withdrawing their most disruptive proposals."
+      },
+      "resposta": "d",
+      "explicacao": "O último parágrafo descreve duas medidas — fixar regras no nível da cidade ou da região e permitir que o projeto conforme a um padrão publicado avance sem audiência discricionária — e diz que ambas afastam a decisão da reunião, único lugar onde o lado ausente jamais comparece. Persuadir vizinhos é o que o texto chama de repreender a assimetria em vez de aceitá-la; as audiências discricionárias diminuem, não aumentam; o nível da rua é justamente o problema; e nada depende de recuo das incorporadoras."
+    },
+    {
+      "id": "ingles-96",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "The costs of a new building fall on a small and identifiable group.",
+        "b": "Future residents are able to make their case at the meeting.",
+        "c": "A city can support building in general and reject specific proposals.",
+        "d": "A published standard can allow a project to proceed without a hearing.",
+        "e": "Shortages of land and money are not usually the binding constraint."
+      },
+      "resposta": "b",
+      "explicacao": "O texto afirma o contrário duas vezes: os futuros moradores não podem comparecer à reunião porque ainda não moram ali, e não existem como eleitorado nem existirão, pois quando chegam a decisão já foi tomada. As demais estão sustentadas: os custos recaem sobre um grupo pequeno e identificável; a mesma cidade pode ter maioria a favor no abstrato e recusar quase toda proposta concreta; o padrão publicado dispensa a audiência discricionária; e a primeira frase do texto descarta terra e dinheiro como a restrição."
+    },
+    {
+      "id": "ingles-97",
+      "textoId": "ing-c07-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The placebo effect depends on the patient being deceived.",
+        "b": "Open-label trials found no difference from giving no pill at all.",
+        "c": "Placebos have been shown to reduce the size of tumours.",
+        "d": "The effect appears most clearly in measurements taken by instruments.",
+        "e": "The ritual around a treatment may matter independently of belief in the pill."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do profissional, a expectativa embutida numa rotina — e o segundo parágrafo já havia mostrado melhora em pacientes que sabiam não haver princípio ativo. Isso derruba a explicação pelo engano; os ensaios relataram melhora em relação a não tomar pílula alguma; o texto afirma que o placebo não encolhe tumor; e diz que o efeito aparece sobretudo no que o paciente relata, não no que o instrumento registra."
+    },
+    {
+      "id": "ingles-98",
+      "textoId": "ing-c07-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, in an open-label placebo trial the patients are",
+      "alternativas": {
+        "a": "given an active drug without being informed.",
+        "b": "asked to guess which pill they have received.",
+        "c": "treated without receiving any pill at all.",
+        "d": "told explicitly that the pill contains no active ingredient.",
+        "e": "monitored by instruments rather than by self-report."
+      },
+      "resposta": "d",
+      "explicacao": "É a definição dada na primeira frase do segundo parágrafo, e é o que torna o experimento interessante: ninguém foi enganado e ainda assim houve efeito. Receber princípio ativo sem saber é o desenho oposto; adivinhar qual pílula recebeu não é pedido em momento algum; não receber pílula nenhuma é a condição do grupo de comparação; e a medição por relato do paciente é uma característica das condições em que o efeito aparece, não do procedimento do ensaio."
+    },
+    {
+      "id": "ingles-99",
+      "textoId": "ing-c07-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'is delivered inconsistently' most likely refers to",
+      "alternativas": {
+        "a": "the ritual and the attention that accompany a treatment.",
+        "b": "the pill handed out in an open-label trial.",
+        "c": "the diagnosis recorded by a clinician.",
+        "d": "the measurement of a symptom by an instrument.",
+        "e": "the schedule on which patients are asked to take a pill."
+      },
+      "resposta": "a",
+      "explicacao": "O sujeito da frase é o ritual, que o parágrafo acaba de dizer já fazer parte de todo tratamento e seguir sem medição — e o exemplo que vem logo depois confirma: uma consulta de dez minutos e uma de dois contêm quantidades diferentes dele. A pílula do ensaio é entregue com horário fixo, e é essa regularidade que serve de contraste; diagnóstico e medição por instrumento pertencem a outra parte do argumento; e o horário de tomada é justamente o elemento consistente."
+    },
+    {
+      "id": "ingles-100",
+      "textoId": "ing-c07-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The countries cited as models of market-led growth spent little on research.",
+        "b": "Choosing an industry for reasons of security is judged by the same standard as an investment.",
+        "c": "The classic objection understated how much states were already intervening.",
+        "d": "Subsidy competition arises when governments select the wrong industries.",
+        "e": "Industrial policy has now been abandoned by most governments."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo diz que os países apresentados como exemplos de deixar ao mercado haviam gasto somas enormes em pesquisa de defesa, pesquisa agrícola e infraestrutura — política industrial com outro nome, que não era contabilizada como tal. As opções sobre gasto baixo e sobre abandono da política industrial invertem o texto, que descreve o abandono do conselho contrário a ela; o terceiro parágrafo afirma que a decisão por segurança é julgada por outro padrão; e o último mostra que a corrida de subsídios exige apenas que todos escolham a indústria certa."
+    },
+    {
+      "id": "ingles-101",
+      "textoId": "ing-c07-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the outcome described in the last paragraph",
+      "alternativas": {
+        "a": "can be avoided as long as each government identifies the right industry.",
+        "b": "can occur even when every government has chosen correctly.",
+        "c": "results from insufficient spending by the countries involved.",
+        "d": "has been prevented by agreements among the largest economies.",
+        "e": "shows that insurance is the wrong analogy for such decisions."
+      },
+      "resposta": "b",
+      "explicacao": "As duas últimas frases do texto dizem exatamente isso: o excesso de capacidade e os preços abaixo do custo não exigem que ninguém tenha escolhido errado, basta que todos tenham escolhido certo. Acertar a indústria é, portanto, condição do problema e não solução; o texto descreve gasto excessivo e simultâneo, não insuficiente; nenhum acordo entre grandes economias é mencionado; e a analogia do seguro é apresentada no parágrafo anterior sem ser desautorizada."
+    },
+    {
+      "id": "ingles-102",
+      "textoId": "ing-c07-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The third paragraph most likely serves to",
+      "alternativas": {
+        "a": "list the industries that governments have chosen to support.",
+        "b": "argue that profitability is the correct test for such a policy.",
+        "c": "describe how transformers and certain chips are manufactured.",
+        "d": "show that insurance policies are usually poor investments.",
+        "e": "distinguish a bet on profit from a decision taken against a risk."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo separa duas decisões que a crítica antiga tratava como uma só: escolher uma indústria por ser lucrativa é aposta, e a crítica a isso era justa; escolher por não se poder depender de outros para produzi-la é mais próximo de seguro e se julga por outro padrão — tanto que uma apólice que nunca aciona não é investimento fracassado. Remédios, transformadores e chips aparecem como exemplos dentro dessa distinção, não como lista; a lucratividade é justamente o teste que o parágrafo afasta; e nada é dito sobre o processo de fabricação."
+    },
+    {
+      "id": "ingles-103",
+      "textoId": "ing-c07-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A falling aquifer is felt as inequality before it is recognised as scarcity.",
+        "b": "A shortage of groundwater becomes visible to all users at the same moment.",
+        "c": "Successful schemes have generally relied on prohibiting extraction.",
+        "d": "The total volume taken from an aquifer is normally recorded.",
+        "e": "The initial allocation of shares has proved the easiest step."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo constrói exatamente essa sequência: como o primeiro sinal individual é a bomba deixar de alcançar, e a solução é perfurar mais fundo — opção de quem pode pagar —, a escassez chega primeiro como desigualdade, e quem a sente antes é quem tem menos condição de levantar a questão. A visibilidade simultânea é atribuída à água superficial, apresentada como o caso contrário; o terceiro parágrafo diz que o mecanismo quase nunca foi proibição; o primeiro afirma que o total não é conhecido; e o último chama a alocação inicial de justamente o que nenhum arranjo resolveu."
+    },
+    {
+      "id": "ingles-104",
+      "textoId": "ing-c07-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'Selling matters more than it appears' most likely refers to the right to",
+      "alternativas": {
+        "a": "drill a deeper well when the pump no longer reaches.",
+        "b": "publish the total volume that a basin can sustain.",
+        "c": "install a meter on an existing well.",
+        "d": "transfer an unused share of water to another user.",
+        "e": "inspect the wells operated by other farmers."
+      },
+      "resposta": "d",
+      "explicacao": "A frase anterior termina descrevendo o direito a uma parcela que o usuário pode vender a outro, e a seguinte explica por que isso importa: transforma em dinheiro a água que o agricultor eficiente não usa, incentivo mais forte que uma fiscalização. Perfurar mais fundo é o sintoma do problema, descrito no parágrafo anterior; publicar o total e instalar medidor são as outras duas peças do mesmo arranjo, mas não o que se vende; e a inspeção é exatamente o que o texto diz ser incentivo mais fraco."
+    },
+    {
+      "id": "ingles-105",
+      "textoId": "ing-c07-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Drilling deeper is an option only for users who can afford it.",
+        "b": "A tradable share gives an efficient user a reason to use less.",
+        "c": "Treating the allocation as a technical question has settled the dispute.",
+        "d": "Surface water signals a shortage more openly than groundwater does.",
+        "e": "Control has usually come through measurement rather than prohibition."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo afirma o contrário: vestir de técnica uma questão distributiva foi o caminho mais seguro para perder os anos em que o aquífero ainda poderia ter sido salvo. As demais estão sustentadas: perfurar mais fundo está disponível a quem pode pagar e a mais ninguém; a parcela vendável transforma em dinheiro a água não usada; o rio visivelmente mais baixo anuncia a falta a todos ao mesmo tempo; e onde a extração foi controlada, o mecanismo foi medição com alocação compartilhada, e quase nunca proibição."
+    }
+  ]
+}

@@ -535,200 +535,230 @@ window.DISSERTATIVAS = [
     ]
   },
 
-  // ---------- ARTES ----------
+  // ---------- ARTES E QUESTÕES CONTEMPORÂNEAS ----------
+  //
+  // As cinco questões de Artes da FGV 2026.1 têm todas a mesma forma:
+  //
+  //   [excerto teórico ou normativo denso] + [obra da lista obrigatória]
+  //                                        -> "apresente sua posição / discuta"
+  //
+  // E os cinco temas são jurídico-políticos: raça e classe, consciência do
+  // atraso, internação involuntária e autonomia, pós-verdade e regulação de
+  // redes, legalidade formal contra legitimidade. A obra NÃO é o objeto de
+  // estudo — é o caso sobre o qual se aplica uma tese. Quem estudar as obras
+  // como história da arte responde a prova de 2025 e não responde a de 2026.
+  //
+  // Estas quinze foram refeitas nesse molde. Todas nomeiam uma obra da lista do
+  // edital e todos os comandos são de posicionamento, nunca de descrição — é a
+  // mesma competência cobrada no exame oral.
   {
     "id": "dissert-artes-01",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "O Barroco valorizava o movimento, o contraste de luz e sombra e a dramaticidade religiosa; já o Modernismo brasileiro, inaugurado pela Semana de Arte Moderna de 1922, buscava romper com o academicismo e construir uma identidade artística nacional.",
-    "comando": "Compare esses dois movimentos artísticos quanto a seus objetivos e ao contexto histórico em que surgiram, explicando por que cada um refletia as preocupações de sua época.",
+    "texto_apoio": "A cientista política Kim Scheppele descreve como \"legalismo autocrático\" o processo pelo qual um governante conquista e mantém o poder usando os instrumentos formais do direito — emendas aprovadas pelo rito, nomeações válidas, decisões de tribunais competentes — para esvaziar por dentro os limites que esse mesmo direito impunha ao poder. Cada ato, isolado, é legal; o conjunto suprime a possibilidade de alternância.\n\nEm \"Macbeth\", de Shakespeare, o protagonista alcança o trono por assassinato, mas gasta o resto da peça tentando produzir a aparência de sucessão legítima: convoca a corte, celebra banquetes, invoca a linhagem, faz do rito a prova daquilo que o rito não pode conferir.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: a exigência de aparência de legalidade é sinal de que o direito ainda constrange o poder, e não de que ele foi capturado. Sustente sua resposta articulando o argumento de Scheppele à trajetória de Macbeth.",
     "pontosEsperados": [
-      "Descreve corretamente ao menos um traço estético de cada movimento",
-      "Relaciona cada movimento ao seu contexto histórico (colonização/catolicismo para o Barroco; busca por identidade nacional pós-Primeira Guerra para o Modernismo)",
-      "Estabelece uma comparação explícita, não apenas duas descrições paralelas",
-      "Conclui retomando a relação entre arte e contexto histórico"
+      "Toma posição explícita diante da afirmação, em vez de resumir a peça ou o conceito",
+      "Distingue legalidade formal de legitimidade, e demonstra compreender que a primeira pode ser preservada enquanto a segunda se esvazia",
+      "Usa Macbeth como caso sobre o qual a tese se aplica, e não como objeto de análise literária autônoma",
+      "Enfrenta a objeção contrária à sua posição: se a aparência de legalidade constrange, por que não impediu; se não constrange, por que o usurpador se dá ao trabalho",
+      "Conclui de forma articulada com a posição anunciada, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-02",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "A arte urbana (grafite, murais, intervenções em espaços públicos) tem ganhado reconhecimento como forma legítima de expressão artística e crítica social, embora ainda enfrente debates sobre sua legalidade.",
-    "comando": "Discuta a arte urbana como forma de crítica social, apresentando um argumento a favor de sua legitimidade artística e um argumento que explique por que ela ainda gera controvérsia.",
+    "texto_apoio": "Em \"Literatura e Subdesenvolvimento\", Antonio Candido sustenta que a consciência do atraso substituiu, na América Latina, a antiga consciência de país novo: onde antes havia a promessa de um futuro exuberante, passou a haver o reconhecimento de uma condição de subdesenvolvimento — e essa mudança de consciência reorganiza o que a literatura escolhe representar e como representa.\n\n\"Vidas Secas\" (1938), de Graciliano Ramos, acompanha uma família de retirantes cuja linguagem se reduz ao mínimo. O narrador em terceira pessoa empresta às personagens as palavras que elas não possuem, e a própria estrutura do livro, feita de capítulos autônomos, recusa a linha ascendente de uma trajetória de superação.",
+    "comando": "Discuta em que medida as escolhas formais de \"Vidas Secas\" — a linguagem reduzida das personagens, o narrador que a supre e a estrutura sem progressão — realizam aquilo que Candido chama de consciência do atraso. Apresente seu entendimento sobre se representar a privação exige, ela própria, uma forma privada de recursos.",
     "pontosEsperados": [
-      "Apresenta um argumento consistente sobre o valor artístico/crítico da arte urbana",
-      "Explica um motivo real de controvérsia (associação a pichação, questões de propriedade, autorização do espaço público)",
-      "Evita tratar o tema de forma unilateral",
-      "Demonstra noção de que arte urbana pode ter função social/política"
+      "Apresenta entendimento próprio sobre a relação entre forma e condição representada, e não apenas descreve o romance",
+      "Explica corretamente a distinção de Candido entre consciência de país novo e consciência do atraso",
+      "Relaciona pelo menos duas escolhas formais concretas do romance ao argumento teórico",
+      "Considera a objeção de que a forma privada de recursos pode ser escolha estética do autor e não exigência do objeto",
+      "Organiza o texto com posição, desenvolvimento e conclusão, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-03",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "O conceito de \"indústria cultural\", cunhado por Theodor Adorno e Max Horkheimer, critica a padronização da produção cultural voltada para o consumo em massa.",
-    "comando": "Explique o conceito de indústria cultural e discuta se ele pode ser aplicado às plataformas de streaming de música e vídeo atuais, apresentando pelo menos um argumento que sustente sua posição.",
+    "texto_apoio": "Em \"Racismo, sexismo e desigualdade no Brasil\", Sueli Carneiro argumenta que raça e classe não se somam como dois fatores independentes: a desigualdade racial estrutura o acesso à posição de classe, de modo que uma política desenhada apenas em termos de renda deixa intacta a hierarquia que produziu aquela distribuição de renda.\n\nNa releitura de \"Cálice\" gravada por Criolo, a canção de Chico Buarque e Gilberto Gil, escrita sob a censura da ditadura, ganha versos que deslocam o silenciamento do aparato estatal para a experiência cotidiana da periferia — a mesma imposição de calar, exercida por outros meios e sobre corpos específicos.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: políticas universais de redução da desigualdade tornam desnecessárias as políticas de recorte racial. Sustente sua resposta articulando o argumento de Sueli Carneiro ao deslocamento operado pela releitura de \"Cálice\".",
     "pontosEsperados": [
-      "Explica corretamente o conceito (padronização, produção em massa, lógica de mercado aplicada à cultura)",
-      "Relaciona o conceito, de forma justificada, às plataformas de streaming atuais (algoritmos de recomendação, hits padronizados)",
-      "Posiciona-se claramente (concorda, discorda ou concorda parcialmente) com argumentação",
-      "Evita repetir o conceito sem de fato aplicá-lo ao caso atual"
+      "Toma posição explícita diante da afirmação, sem se refugiar na constatação de que os dois recortes são importantes",
+      "Explica por que, na perspectiva apresentada, tratar raça e classe como fatores separados produz análise insuficiente",
+      "Usa o deslocamento entre as duas versões de \"Cálice\" como caso, mostrando o que muda quando muda o agente do silenciamento",
+      "Refuta a posição contrária no seu ponto mais forte, e não em uma versão enfraquecida dela",
+      "Mantém a norma-padrão e conclui retomando a posição defendida"
     ]
   },
   {
     "id": "dissert-artes-04",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "A Semana de Arte Moderna de 1922, realizada em São Paulo, é considerada um marco na construção de uma identidade cultural brasileira que incorporava vanguardas europeias sem abrir mão de temas nacionais.",
-    "comando": "Explique de que forma a Semana de Arte Moderna de 1922 contribuiu para a construção de uma identidade cultural brasileira, citando pelo menos um artista ou obra associada ao movimento.",
+    "texto_apoio": "O conceito de indústria cultural, formulado por Theodor Adorno e Max Horkheimer, sustenta que a produção cultural em escala industrial padroniza a obra e converte o espectador em consumidor de algo desenhado para não exigir nada dele. A promessa de escolha seria aparente: a variedade da oferta esconde a repetição do mesmo esquema.\n\n\"Rehab\", de Amy Winehouse, transforma em canção de sucesso a recusa da própria cantora a se internar para tratamento de dependência. A obra circulou, foi premiada e vendida enquanto a condição que ela narrava se agravava publicamente.",
+    "comando": "Discuta se o caso de \"Rehab\" confirma ou tensiona o diagnóstico de Adorno e Horkheimer, e apresente seu entendimento sobre onde termina a responsabilidade da indústria e começa a autonomia do artista.",
     "pontosEsperados": [
-      "Explica corretamente o objetivo do movimento (romper com o academicismo, valorizar temas e linguagem brasileiros)",
-      "Cita corretamente pelo menos um artista/obra do modernismo (ex.: Anita Malfatti, Oswald de Andrade, Mário de Andrade, Di Cavalcanti, Villa-Lobos; Tarsila do Amaral vale como referência do movimento, ainda que não tenha participado da Semana, pois estava em Paris)",
-      "Relaciona o exemplo citado à construção de identidade nacional",
-      "Demonstra domínio do contexto histórico do movimento"
+      "Apresenta entendimento próprio sobre o limite entre responsabilidade da indústria e autonomia do artista",
+      "Explica corretamente o conceito de indústria cultural, sem reduzi-lo a \"arte comercial é ruim\"",
+      "Reconhece a tensão: a canção é ao mesmo tempo produto padronizado e obra autoral sobre a própria recusa",
+      "Evita tanto a absolvição da indústria quanto a redução do artista a vítima sem agência",
+      "Sustenta a posição em argumento, e não em apelo emocional, e mantém a norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-05",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "O debate sobre apropriação cultural questiona os limites entre inspiração legítima e uso indevido de elementos culturais de grupos historicamente marginalizados por artistas de fora desses grupos.",
-    "comando": "Discuta a diferença entre inspiração artística legítima e apropriação cultural problemática, apresentando um critério que ajude a distinguir os dois casos.",
+    "texto_apoio": "Em \"As Origens do Totalitarismo\", Hannah Arendt sustenta que a dominação total não se contenta em eliminar o opositor: ela busca tornar a pessoa supérflua, apagando o vestígio de que existiu. O desaparecimento — em que não há corpo, certidão nem processo — é a forma mais acabada disso, porque retira da vítima até a condição de ter sido vítima.\n\n\"Ainda Estou Aqui\", de Walter Salles, acompanha a família de Rubens Paiva, deputado desaparecido durante a ditadura militar brasileira, e a insistência de Eunice Paiva em obter um documento que reconhecesse a morte — uma disputa que se estendeu por décadas depois do fato.",
+    "comando": "Apresente seu entendimento sobre por que a obtenção de um documento oficial de óbito se torna, num caso de desaparecimento forçado, uma disputa política e não apenas administrativa. Articule sua resposta ao argumento de Arendt sobre tornar a pessoa supérflua.",
     "pontosEsperados": [
-      "Demonstra compreensão do conceito de apropriação cultural (uso de elementos de uma cultura marginalizada sem reconhecimento, contexto ou benefício para o grupo de origem)",
-      "Propõe um critério plausível de distinção (ex.: reconhecimento da origem, diálogo com a comunidade, quem se beneficia economicamente)",
-      "Evita simplificar o debate como \"proibido\" ou \"tudo permitido\"",
-      "Argumenta de forma equilibrada, reconhecendo a complexidade do tema"
+      "Apresenta entendimento próprio sobre a natureza política do reconhecimento formal, e não apenas narra o filme",
+      "Explica corretamente por que, para Arendt, o totalitarismo se distingue da tirania por atacar a própria existência da pessoa como sujeito",
+      "Relaciona o apagamento do registro à impossibilidade de responsabilizar alguém — sem morte reconhecida não há crime a apurar",
+      "Trata a justiça de transição como problema jurídico concreto, e não como sentimento sobre o passado",
+      "Conclui de forma articulada, em norma-padrão e com registro objetivo"
     ]
   },
   {
     "id": "dissert-artes-06",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Movimentos musicais brasileiros, como a Tropicália nos anos 1960, uniram experimentação estética e crítica ao contexto político e social da época.",
-    "comando": "Escolha um movimento ou gênero musical brasileiro que você conheça e explique de que forma ele funcionou (ou funciona) como forma de protesto ou crítica social, citando um exemplo concreto.",
+    "texto_apoio": "O direito de propriedade autoriza o proprietário a excluir terceiros do uso de seu bem. A liberdade de expressão protege a manifestação inclusive quando ela incomoda. Quando a manifestação se inscreve fisicamente sobre o bem alheio, os dois direitos colidem, e nenhuma das duas fórmulas resolve sozinha o caso.\n\nAs intervenções de Banksy — entre elas \"Don't forget to eat your lunch\" e \"Guerra e Spray\" — são feitas sem autorização em muros e fachadas de terceiros. Depois de reconhecidas, algumas foram removidas com a parede inteira e vendidas em leilão, e o proprietário do imóvel passou a ser tratado como proprietário da obra.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: a intervenção urbana não autorizada deve ser tratada como exercício da liberdade de expressão, e não como dano ao patrimônio alheio. Justifique sua posição enfrentando o problema de quem se torna titular da obra depois de reconhecida.",
     "pontosEsperados": [
-      "Identifica corretamente um movimento/gênero e uma característica de sua proposta estética",
-      "Relaciona o movimento a um contexto de crítica social ou política específico",
-      "Cita um exemplo concreto (artista, canção ou obra)",
-      "Evita generalidades vagas sobre \"música e sociedade\""
+      "Toma posição explícita diante da afirmação, sem se limitar a dizer que os dois direitos são importantes",
+      "Reconhece que se trata de colisão entre dois direitos protegidos, e não de um direito contra um ilícito simples",
+      "Enfrenta o paradoxo apontado no texto: a mesma inscrição é dano antes do reconhecimento e valor patrimonial depois dele",
+      "Considera quem suporta o custo da decisão — o proprietário que não escolheu receber a obra, o artista que perde o controle sobre ela, o público que a perde quando é removida",
+      "Sustenta a posição em argumento jurídico, e não em juízo estético sobre o grafite, mantendo a norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-07",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Ferramentas de inteligência artificial capazes de gerar imagens e textos a partir de descrições têm levantado debates sobre autoria, originalidade e direitos autorais na produção artística.",
-    "comando": "Discuta se uma obra gerada por inteligência artificial, a partir de um comando de um usuário humano, pode ser considerada uma criação artística legítima, apresentando argumentos para sustentar sua posição.",
+    "texto_apoio": "A internação involuntária para tratamento de dependência química é admitida no ordenamento brasileiro mediante requisitos e comunicação obrigatória ao Ministério Público. Órgãos de classe da psicologia sustentam que a medida, aplicada sem consentimento, produz adesão aparente e transfere para o Estado uma decisão sobre o corpo de alguém que não perdeu a capacidade civil.\n\nEm \"Laranja Mecânica\", de Stanley Kubrick, Alex é submetido a um tratamento que o torna incapaz de praticar violência ao provocar-lhe repulsa física diante dela. O procedimento funciona: ele deixa de ser um perigo. O capelão da prisão objeta que uma criatura incapaz de escolher o mal deixou também de ser capaz de escolher o bem.",
+    "comando": "Apresente sua posição sobre a objeção do capelão: uma intervenção que suprime a possibilidade de escolher torna a pessoa mais segura para a sociedade ao custo de deixar de tratá-la como sujeito. Justifique sua resposta em diálogo com o debate sobre internação involuntária.",
     "pontosEsperados": [
-      "Apresenta uma posição clara sobre a questão (sim, não, ou parcialmente)",
-      "Sustenta a posição com pelo menos um argumento consistente (papel da intenção humana, papel da técnica, originalidade do resultado)",
-      "Demonstra noção do debate sobre autoria e direitos autorais envolvendo IA",
-      "Evita resposta simplista sem desenvolvimento"
+      "Toma posição explícita diante da objeção, e não apenas descreve o filme ou a legislação",
+      "Distingue eficácia terapêutica de legitimidade da medida — a intervenção pode funcionar e ainda assim ser inadmissível, ou o contrário",
+      "Considera o caso em que a capacidade de decidir está comprometida pela própria dependência, que é o argumento mais forte a favor da internação",
+      "Trata a autonomia como conceito jurídico, articulando-a à capacidade civil, e não como preferência individual",
+      "Conclui de forma coerente com a posição defendida, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-08",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Centros históricos de diversas cidades brasileiras concentram edificações de valor patrimonial que, por vezes, entram em conflito com projetos de expansão imobiliária e infraestrutura urbana.",
-    "comando": "Discuta o conflito entre preservação do patrimônio histórico-cultural e desenvolvimento urbano, apresentando um argumento a favor da preservação e um argumento a favor do desenvolvimento, e conclua com sua posição.",
+    "texto_apoio": "A censura prévia proíbe a publicação antes que ela ocorra; a responsabilização posterior pune o que já foi publicado. A distinção é central no direito de imprensa: a primeira impede que o público conheça o conteúdo e julgue por si, a segunda preserva a divulgação e desloca o controle para depois dela.\n\n\"The Post: A Guerra Secreta\", de Steven Spielberg, reconstrói a decisão de publicar documentos oficiais sobre a Guerra do Vietnã que revelavam que sucessivos governos sabiam da inviabilidade do conflito enquanto o sustentavam publicamente. O governo pediu à Justiça que impedisse a publicação, invocando segurança nacional.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: a alegação de segurança nacional justifica impedir uma publicação antes que ela ocorra. Justifique sua resposta considerando o que se perde e o que se protege em cada uma das duas formas de controle.",
     "pontosEsperados": [
-      "Apresenta um argumento consistente a favor da preservação (identidade cultural, memória coletiva, turismo)",
-      "Apresenta um argumento consistente a favor do desenvolvimento (moradia, mobilidade, crescimento econômico)",
-      "Não trata o tema de forma unilateral",
-      "Conclui com posição própria fundamentada, eventualmente propondo conciliação entre os dois lados"
+      "Toma posição explícita diante da afirmação, e não apenas narra o episódio",
+      "Distingue com clareza censura prévia de responsabilização posterior, distinção sem a qual o tema não se sustenta",
+      "Reconhece que existem informações cuja divulgação causa dano irreversível, que é o argumento mais forte do outro lado",
+      "Observa quem decide o que é segurança nacional, e que o interessado em suprimir a informação costuma ser quem a classifica",
+      "Sustenta a posição com argumento jurídico e conclui de forma articulada, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-09",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Eduardo Coutinho começou a filmar, em 1964, a história de um líder camponês assassinado na Paraíba. O golpe militar interrompeu as filmagens. Dezessete anos depois, o diretor retomou o projeto, reencontrou os antigos participantes e incorporou ao filme a própria história de sua interrupção.",
-    "comando": "Explique como a estrutura de \"Cabra marcado para morrer\" transforma a interrupção do projeto em matéria do próprio filme e discuta o que essa escolha revela sobre a relação entre documentário, memória e história política.",
+    "texto_apoio": "A Emenda Constitucional 72, de 2013, estendeu às trabalhadoras e aos trabalhadores domésticos direitos que a Constituição já assegurava às demais categorias — jornada limitada, hora extra, FGTS. Até então, uma relação de trabalho realizada dentro de casa era regulada de forma distinta da realizada em qualquer outro lugar.\n\nEm \"Que Horas Ela Volta?\", de Anna Muylaert, Val é empregada doméstica e vive na casa dos patrões. O conflito da narrativa não começa por salário, e sim por espaços: quem pode entrar na piscina, quem come à mesa, qual quarto pertence a quem. A chegada da filha de Val, que não aceita essas fronteiras, é o que torna a regra visível.",
+    "comando": "Discuta por que a desigualdade retratada no filme não se resolve apenas pela extensão de direitos trabalhistas, e apresente seu entendimento sobre o que a regulação jurídica alcança e o que ela não alcança numa relação de trabalho que se dá dentro da casa do empregador.",
     "pontosEsperados": [
-      "Descreve a estrutura em duas camadas temporais: o filme interrompido em 1964 e o reencontro nos anos 1980",
-      "Explica que o documentário assume a própria interrupção como tema, em vez de escondê-la",
-      "Relaciona a obra à ditadura militar e ao trabalho de memória sobre esse período",
-      "Discute o documentário como construção de um ponto de vista, e não como registro neutro do real"
+      "Apresenta entendimento próprio sobre os limites da regulação, e não apenas descreve o filme",
+      "Reconhece o alcance real da mudança normativa, sem tratá-la como irrelevante",
+      "Identifica a especificidade do trabalho doméstico: o local de trabalho é a casa de outra pessoa, o que dilui a fronteira entre jornada e convivência",
+      "Trata as regras informais de espaço como parte do problema, e não como detalhe de enredo",
+      "Conclui de forma coerente com a posição sustentada, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-10",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "\"Cidade de Deus\" (2002), de Fernando Meirelles e Kátia Lund, retrata a formação do crime organizado em um conjunto habitacional do Rio de Janeiro usando montagem acelerada, câmera nervosa e cores saturadas. O filme foi elogiado pela potência estética e criticado por, segundo alguns analistas, tornar a violência atraente ao espectador.",
-    "comando": "Discuta a tensão entre denúncia social e espetacularização da violência no cinema, posicionando-se sobre em que condições a elaboração estética da violência fortalece ou enfraquece a crítica social pretendida.",
+    "texto_apoio": "A justiça de transição designa o conjunto de mecanismos com que uma sociedade lida com violações cometidas por um regime anterior: apuração dos fatos, reparação das vítimas, reforma das instituições e responsabilização dos autores. A Lei da Anistia brasileira, de 1979, foi interpretada como impedimento à última dessas frentes, e o Brasil foi condenado por isso pela Corte Interamericana de Direitos Humanos.\n\nEduardo Coutinho começou a filmar em 1964 a história de João Pedro Teixeira, líder camponês assassinado na Paraíba. O golpe militar interrompeu as filmagens. Coutinho voltou ao material dezessete anos depois e montou \"Cabra Marcado para Morrer\" incorporando a própria interrupção: o filme mostra o que foi filmado, o que não pôde ser, e o reencontro com quem sobreviveu.",
+    "comando": "Apresente seu entendimento sobre a seguinte afirmação: um documentário que reconstrói o que foi impedido de existir cumpre uma função que a reparação jurídica não alcança. Justifique sua posição em diálogo com os mecanismos de justiça de transição.",
     "pontosEsperados": [
-      "Relaciona escolhas concretas de linguagem (montagem, câmera, cor, trilha) ao efeito produzido no espectador",
-      "Apresenta o argumento da denúncia: dar visibilidade a uma realidade social sistematicamente ignorada",
-      "Apresenta o argumento crítico: o tratamento estético pode converter sofrimento em produto de consumo",
-      "Assume posição própria e a sustenta, em vez de apenas expor os dois lados"
+      "Apresenta entendimento próprio diante da afirmação, e não apenas descreve o filme",
+      "Nomeia corretamente ao menos dois mecanismos de justiça de transição e distingue o que cada um se propõe a fazer",
+      "Explica como a estrutura do filme — a interrupção incorporada à montagem — produz um registro do próprio apagamento",
+      "Enfrenta a objeção de que a narrativa não substitui a apuração de responsabilidade, e que tratá-la como suficiente pode servir de conforto para não apurar",
+      "Sustenta a posição em argumento articulado, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-11",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Em \"Dom Casmurro\", de Machado de Assis, toda a história do suposto adultério de Capitu chega ao leitor pela voz de Bentinho, que narra décadas depois, já convencido da traição, e é ao mesmo tempo parte interessada no julgamento que apresenta.",
-    "comando": "Explique o que é um narrador não confiável e discuta como essa construção narrativa transforma a leitura da obra e a posição atribuída ao leitor.",
+    "texto_apoio": "A valoração da prova testemunhal parte de um problema conhecido: a memória não é gravação que se reproduz, e sim reconstrução influenciada pelo que está presente no momento em que se lembra, inclusive pela forma da pergunta. A confiança do depoente cresce a cada vez que ele reconta, e cresce igualmente sobre as partes que foram introduzidas no caminho.\n\nEm \"Dom Casmurro\", de Machado de Assis, toda a história do suposto adultério de Capitu chega ao leitor pela voz de Bento Santiago, que escreve décadas depois, é a parte interessada e não apresenta prova alguma além da própria convicção — que ele descreve como tendo se fortalecido com o tempo.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: a convicção sincera de quem narra é um indício fraco da verdade do que se narra. Justifique sua resposta usando a construção do narrador de \"Dom Casmurro\" como caso.",
     "pontosEsperados": [
-      "Define narrador não confiável como aquele cuja versão o próprio texto dá motivos para questionar",
-      "Identifica os elementos que tornam Bentinho suspeito: narração em primeira pessoa, parte interessada, distância temporal, ausência de contraprova",
-      "Explica o deslocamento do leitor, convertido em juiz da narrativa",
-      "Evita reduzir a obra à pergunta \"Capitu traiu ou não\", reconhecendo que a construção da narração é o próprio tema"
+      "Toma posição explícita diante da afirmação, e não se limita a discutir se Capitu traiu",
+      "Explica o que é um narrador não confiável e mostra por que Bento reúne as condições que definem a categoria",
+      "Relaciona a sinceridade do narrador à sua inutilidade como garantia — ele pode estar convencido e errado ao mesmo tempo",
+      "Considera a objeção de que descartar o relato sincero deixaria a acusação sem qualquer base, e enfrenta o que fazer com esse resíduo",
+      "Conclui de forma articulada com a posição defendida, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-12",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "\"Vidas secas\" (1938), de Graciliano Ramos, acompanha uma família de retirantes cuja linguagem é reduzida ao mínimo, quase animal. \"Torto Arado\" (2019), de Itamar Vieira Junior, narra a vida de trabalhadoras de uma comunidade rural na Chapada Diamantina, presas a uma relação de trabalho que se perpetua muito depois da abolição.",
-    "comando": "Compare as duas obras quanto ao modo como articulam trabalho, terra e desigualdade, e discuta o que a distância de oitenta anos entre elas revela sobre a permanência do tema na literatura brasileira.",
+    "texto_apoio": "O direito autoral protege a forma de expressão, não a ideia, e admite a obra derivada quando ela transforma o material de origem em algo novo. A fronteira entre transformação e cópia é decidida caso a caso, e é justamente nela que se discute o que se convencionou chamar de apropriação cultural.\n\nO \"Manifesto Antropófago\" (1928), de Oswald de Andrade, propõe deglutir a influência estrangeira em vez de recusá-la ou imitá-la: o que vem de fora é devorado e devolvido transformado, e é essa digestão, e não a origem do material, que produz o que se chamará de nacional.",
+    "comando": "Discuta se a proposta antropofágica oferece um critério útil para distinguir apropriação legítima de apropriação indevida, e apresente sua posição sobre o que deveria decidir a questão: a transformação operada, a origem de quem se apropria, ou o consentimento de quem é apropriado.",
     "pontosEsperados": [
-      "Caracteriza corretamente cada obra quanto a ambientação, personagens e conflito central",
-      "Identifica um procedimento estético distinto em cada uma (a linguagem seca e o foco narrativo em Graciliano; a narração em vozes femininas e o registro da oralidade em Itamar Vieira Junior)",
-      "Estabelece comparação explícita, e não duas descrições paralelas",
-      "Discute a permanência da questão agrária e do trabalho precário como tema da literatura brasileira, sem tratar as obras como equivalentes"
+      "Toma posição sobre qual critério deve decidir, em vez de listar os três e não escolher",
+      "Explica corretamente a proposta antropofágica, sem reduzi-la a \"misturar culturas\"",
+      "Observa a assimetria que o critério da transformação ignora: deglutir a cultura dominante e deglutir a de um grupo sem poder de resposta não são o mesmo movimento",
+      "Trata o critério jurídico da obra derivada como referência concreta, e não apenas o debate moral",
+      "Sustenta a posição em argumento e conclui de forma coerente, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-13",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Em \"As Origens do Totalitarismo\" (1951), Hannah Arendt sustenta que o totalitarismo não é apenas uma tirania mais violenta, mas uma forma inédita de dominação, que combina ideologia total e terror para tornar os seres humanos supérfluos e destruir a espontaneidade e a pluralidade.",
-    "comando": "Explique por que Arendt considera o totalitarismo uma forma de dominação inédita e discuta a pertinência de usar esse conceito para analisar regimes autoritários contemporâneos.",
+    "texto_apoio": "O direito internacional humanitário sustenta-se no princípio da distinção: uma operação militar deve separar combatentes de civis, e o ataque deliberado a população civil é ilícito ainda em guerra declarada. O bombardeio aéreo de cidades foi a técnica que tornou esse princípio mais difícil de sustentar na prática.\n\n\"Guernica\" (1937), de Pablo Picasso, responde ao bombardeio de uma cidade basca durante a Guerra Civil Espanhola. O quadro não retrata soldados, batalha nem vencedor: mostra corpos deformados, uma mãe com um filho morto, um cavalo ferido, uma lâmpada acesa sobre a cena.",
+    "comando": "Apresente seu entendimento sobre a seguinte afirmação: ao recusar representar a batalha e retratar apenas quem não escolheu estar ali, \"Guernica\" formula um argumento sobre a ilicitude do ataque, e não apenas um protesto contra a guerra. Justifique sua posição.",
     "pontosEsperados": [
-      "Explica com precisão o que distingue o totalitarismo de uma ditadura convencional: ideologia total, terror e a supressão da pluralidade",
-      "Explica o sentido de tornar os seres humanos \"supérfluos\", ligado à destruição da capacidade de agir e de iniciar algo novo",
-      "Discute com cuidado a aplicação do conceito ao presente, reconhecendo o risco de esvaziá-lo pelo uso genérico",
-      "Trabalha o conceito com precisão, em vez de usar \"totalitarismo\" como sinônimo de autoritarismo"
+      "Apresenta entendimento próprio diante da afirmação, e não apenas descreve o quadro",
+      "Explica o princípio da distinção e por que ele separa a crítica à guerra em geral da acusação de um ilícito específico",
+      "Relaciona escolhas plásticas concretas — ausência de combatentes, deformação da figura, ausência de vencedor — ao argumento que se atribui à obra",
+      "Considera a objeção de que atribuir tese jurídica a uma pintura é projetar sobre ela uma leitura externa",
+      "Conclui de forma articulada, em norma-padrão e com registro objetivo"
     ]
   },
   {
     "id": "dissert-artes-14",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "Em \"Racismo, sexismo e desigualdade no Brasil\", Sueli Carneiro argumenta que raça e gênero não podem ser tratados como eixos separados de desigualdade no país, e critica tanto um feminismo que ignora a experiência das mulheres negras quanto um antirracismo que ignora a desigualdade de gênero.",
-    "comando": "Explique por que, segundo essa perspectiva, tratar raça e gênero separadamente produz uma análise insuficiente da desigualdade brasileira, e discuta uma consequência prática dessa articulação para a formulação de políticas públicas.",
+    "texto_apoio": "O conceito de racismo estrutural sustenta que a hierarquia racial não depende da intenção de indivíduos: ela opera por meio de padrões, critérios e referências tidos como neutros, que já incorporam a posição de um grupo como medida do que é normal — e que por isso continuam produzindo desigualdade mesmo quando ninguém formula uma regra discriminatória.\n\nEm \"O Olho Mais Azul\", de Toni Morrison, uma menina negra deseja ter olhos azuis. Ninguém no romance lhe diz que ela é inferior; o juízo chega pelo que é exibido como bonito na boneca, no cartaz, no elogio dirigido a outra criança.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: um padrão estético difundido sem qualquer norma que o imponha pode produzir efeitos equivalentes aos de uma discriminação deliberada. Justifique sua resposta usando o romance como caso.",
     "pontosEsperados": [
-      "Explica que raça e gênero se combinam e produzem uma posição social específica, não sendo desvantagens meramente somadas",
-      "Relaciona o argumento ao mito da democracia racial e à crítica de que ele mascara desigualdades reais",
-      "Aponta uma consequência prática concreta para políticas públicas (desenho de dados desagregados, critérios de ações afirmativas, políticas de saúde ou de trabalho)",
-      "Atribui corretamente as ideias: Sueli Carneiro é a principal referência brasileira dessa articulação, enquanto o termo interseccionalidade foi cunhado por Kimberlé Crenshaw em 1989"
+      "Toma posição explícita diante da afirmação, e não apenas descreve o romance",
+      "Explica corretamente por que o racismo estrutural dispensa a intenção individual para operar",
+      "Usa passagens concretas do romance como caso da tese, mostrando por onde o juízo chega à personagem",
+      "Enfrenta a dificuldade prática que a posição gera: sem norma e sem autor identificável, a quem se imputa a responsabilidade",
+      "Sustenta a posição com argumento e conclui de forma coerente, em norma-padrão"
     ]
   },
   {
     "id": "dissert-artes-15",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "\"Guernica\" (1937), de Pablo Picasso, responde ao bombardeio de uma cidade basca durante a Guerra Civil Espanhola com figuras fragmentadas, em preto, branco e cinza, sem qualquer referência realista ao episódio. \"Abaporu\" (1928), de Tarsila do Amaral, apresenta uma figura de proporções desconformes em uma paisagem de cores planas e saturadas.",
-    "comando": "Explique como cada obra constrói sentido por meio da deformação da figura humana e discuta de que modo cada uma se vincula ao contexto histórico e cultural em que foi produzida.",
+    "texto_apoio": "O devido processo exige que a acusação seja conhecida, que haja oportunidade de defesa e que a decisão venha de instância competente. Em instituições culturais e universitárias, denúncias de abuso frequentemente produzem consequências — demissão, cancelamento de contratos, exclusão de programação — antes e independentemente de qualquer apuração formal.\n\nEm \"Tár\", de Todd Field, uma maestra de projeção internacional é afastada depois que denúncias circulam publicamente. O filme mostra tanto o uso que ela fazia de sua posição sobre subordinados quanto a velocidade com que a consequência chega, sem que nenhum procedimento chegue a se concluir.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: exigir o encerramento de um procedimento formal antes de qualquer consequência protege o acusado às custas de quem denuncia. Justifique sua resposta considerando a assimetria de poder entre as partes.",
     "pontosEsperados": [
-      "Analisa procedimentos plásticos concretos (fragmentação e ausência de cor em Picasso; desproporção e cor saturada em Tarsila)",
-      "Relaciona \"Guernica\" ao bombardeio de 1937 e à denúncia da violência da guerra",
-      "Relaciona \"Abaporu\" ao modernismo brasileiro e ao projeto antropofágico de deglutir influências estrangeiras",
-      "Argumenta que a deformação é escolha expressiva deliberada, e não falha de representação"
+      "Toma posição explícita diante da afirmação, sem se refugiar na constatação de que os dois lados têm razão",
+      "Explica os elementos do devido processo e por que ele existe, em vez de tratá-lo como formalidade",
+      "Reconhece a assimetria de poder que torna a denúncia formal custosa para quem denuncia e barata para quem é denunciado",
+      "Distingue consequência estatal de consequência reputacional ou contratual, que não se submetem ao mesmo regime",
+      "Conclui de forma articulada com a posição defendida, em norma-padrão"
     ]
   }
 ];

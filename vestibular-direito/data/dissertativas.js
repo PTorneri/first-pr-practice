@@ -8,105 +8,242 @@ window.DISSERTATIVAS = [
   {
     "id": "dissert-humanas-01",
     "area": "Humanas",
+    "frente": "historia",
     "tempoSugerido": 25,
     "texto_apoio": "Estudos sobre mobilidade social no Brasil apontam que o nível educacional e a renda dos pais continuam sendo fortes previsores da renda futura dos filhos, mesmo décadas depois da expansão do acesso à educação básica.",
-    "comando": "Com base no texto e em seus conhecimentos sobre desigualdade social no Brasil, disserte sobre os principais fatores que dificultam a mobilidade social intergeracional no país e proponha uma medida de política pública capaz de atenuar esse problema.",
-    "pontosEsperados": [
-      "Identifica pelo menos dois fatores estruturais (ex.: qualidade da educação básica, acesso desigual ao mercado de trabalho, desigualdade regional, herança de capital financeiro/social)",
-      "Relaciona os fatores entre si, e não apenas os lista isoladamente",
-      "Propõe uma medida de política pública plausível e justifica por que ela atacaria a causa discutida",
-      "Texto organizado em parágrafos, com introdução, desenvolvimento e conclusão"
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Cite dois processos históricos brasileiros que ajudam a explicar a transmissão da desigualdade entre gerações.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Cita um primeiro processo histórico datável (ex.: abolição sem política de terra, renda ou escolarização para os libertos; Lei de Terras de 1850; expansão tardia e desigual da escola pública)",
+          "Cita um segundo processo distinto do primeiro, e não uma reformulação dele",
+          "Situa cada processo no tempo, ainda que de forma aproximada",
+          "Entrega exatamente os dois itens pedidos, em vez de um só desenvolvido ou de uma lista longa"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Explique de que forma esses processos se prolongam no acesso desigual à educação e ao mercado de trabalho hoje.",
+        "pontosEsperados": [
+          "Estabelece a ligação entre o processo histórico citado em (a) e um mecanismo atual, e não apenas descreve os dois lados",
+          "Menciona ao menos um mecanismo concreto de transmissão (qualidade da escola por território, rede de contatos no acesso ao emprego, herança patrimonial, custo de oportunidade de estudar)",
+          "Reconhece que a expansão do acesso à educação básica não bastou para romper a transmissão, o que é o dado do texto de apoio",
+          "Argumenta de forma encadeada, sem se limitar a listar causas"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-02",
     "area": "Humanas",
+    "frente": "geografia",
     "tempoSugerido": 25,
     "texto_apoio": "Grandes cidades brasileiras concentram extensas áreas de ocupação irregular, muitas vezes em regiões de risco ambiental (encostas, margens de rios), enquanto bairros centrais concentram infraestrutura e serviços.",
-    "comando": "Explique, com base em processos históricos e geográficos de urbanização no Brasil, por que esse padrão de ocupação irregular se formou, e discuta pelo menos uma consequência social ou ambiental desse fenômeno.",
-    "pontosEsperados": [
-      "Relaciona o fenômeno ao êxodo rural e à industrialização acelerada sem planejamento urbano correspondente",
-      "Menciona a especulação imobiliária e o preço da terra como fator de exclusão dos bairros centrais",
-      "Aponta uma consequência concreta (risco de desastres, ausência de saneamento, segregação socioespacial, etc.)",
-      "Argumenta de forma encadeada, não apenas descritiva"
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Apresente duas causas da formação desse padrão de ocupação nas metrópoles brasileiras.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Apresenta uma causa ligada ao movimento populacional (êxodo rural e industrialização acelerada sem oferta habitacional correspondente)",
+          "Apresenta uma segunda causa ligada ao preço da terra (especulação imobiliária, valorização das áreas com infraestrutura, ausência de política fundiária)",
+          "As duas causas são distintas entre si, e não duas formulações da mesma",
+          "Entrega exatamente as duas causas pedidas"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Caracterize duas consequências desse padrão, sendo uma social e uma ambiental.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Caracteriza uma consequência social (segregação socioespacial, tempo de deslocamento, acesso desigual a serviços públicos)",
+          "Caracteriza uma consequência ambiental (deslizamento em encosta, enchente em várzea, ausência de saneamento e contaminação de curso d'água)",
+          "Caracteriza, e não apenas nomeia: descreve como a consequência se produz",
+          "Respeita a divisão pedida entre uma consequência de cada tipo"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-03",
     "area": "Humanas",
+    "frente": "geografia",
     "tempoSugerido": 25,
     "texto_apoio": "Organismos multilaterais como a ONU e a OMC foram criados no pós-guerra para promover cooperação entre Estados, mas enfrentam crescente questionamento em um cenário de nacionalismo e disputas geopolíticas.",
-    "comando": "Discuta o papel dos organismos multilaterais na regulação das relações internacionais contemporâneas, apresentando um argumento a favor de sua relevância e um desafio real que eles enfrentam hoje.",
-    "pontosEsperados": [
-      "Explica corretamente a função de cooperação/regulação de um organismo multilateral (ex.: resolução de disputas, normas comerciais, segurança coletiva)",
-      "Apresenta um argumento consistente sobre por que essas instituições ainda são relevantes",
-      "Identifica um desafio real (poder de veto, assimetria entre países, falta de mecanismos de coerção)",
-      "Evita generalizações vagas do tipo \"a ONU é importante\" sem justificar"
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Cite duas funções que esses organismos exercem na ordem internacional.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Cita uma função de regulação ou arbitragem (resolução de disputas comerciais, fixação de normas técnicas, tribunais e painéis)",
+          "Cita uma segunda função distinta (segurança coletiva, cooperação em saúde, coordenação de ajuda humanitária, produção de estatística comparável)",
+          "Nomeia funções, e não apenas instituições",
+          "Entrega exatamente as duas funções pedidas"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Relacione uma dessas funções a um desafio concreto que o organismo enfrenta hoje para exercê-la.",
+        "pontosEsperados": [
+          "Escolhe uma das funções citadas em (a) e a mantém como fio do argumento",
+          "Identifica um desafio real e específico (poder de veto no Conselho de Segurança, paralisia do órgão de apelação da OMC, ausência de mecanismo de coerção, assimetria de poder entre membros)",
+          "Explica por que aquele desafio compromete aquela função em particular",
+          "Evita a generalização vaga do tipo \"a ONU é importante\" sem justificar"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-04",
     "area": "Humanas",
+    "frente": "geografia",
     "tempoSugerido": 25,
-    "texto_apoio": "A reforma tributária aprovada no Brasil busca simplificar um sistema historicamente considerado complexo, substituindo cinco tributos sobre o consumo por um IVA dual: a CBS, federal, e o IBS, de estados e municípios.",
-    "comando": "Explique por que o sistema tributário sobre o consumo era considerado complexo antes da reforma e discuta um possível benefício e um possível desafio de se concentrar a tributação do consumo em um imposto sobre valor agregado.",
-    "pontosEsperados": [
-      "Menciona a multiplicidade de tributos e legislações (federal, estadual, municipal) como fonte de complexidade",
-      "Aponta um benefício plausível (redução de litígios, maior transparência, menor custo de conformidade)",
-      "Aponta um desafio plausível (transição entre sistemas, redistribuição de arrecadação entre entes federativos)",
-      "Demonstra compreensão do conceito de tributação sobre consumo (não confunde com tributação sobre renda)"
+    "texto_apoio": "A reforma tributária aprovada no Brasil substitui cinco tributos sobre o consumo por um IVA dual — a CBS, federal, e o IBS, de estados e municípios — e desloca a arrecadação da origem para o destino, ou seja, do lugar onde a mercadoria é produzida para aquele onde ela é consumida.",
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Aponte duas razões pelas quais a tributação do consumo na origem estimulou a disputa fiscal entre unidades da federação.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Aponta que arrecadar onde se produz dá ao estado um motivo direto para atrair a planta industrial, e não apenas o emprego que ela gera",
+          "Aponta que a concessão de benefício fiscal vira o instrumento dessa atração, gerando a chamada guerra fiscal",
+          "As duas razões são distintas, e não a mesma dita de dois modos",
+          "Entrega exatamente as duas razões pedidas"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Explique de que forma a mudança para a tributação no destino altera a distribuição espacial da arrecadação no país.",
+        "pontosEsperados": [
+          "Explica que a receita passa a seguir o consumo, e portanto a população e a renda, e não mais a localização da fábrica",
+          "Relaciona a mudança à desconcentração ou reconcentração da receita entre regiões produtoras e consumidoras",
+          "Reconhece que a transição é longa e que existe mecanismo de compensação justamente por causa desse deslocamento",
+          "Demonstra compreender que se trata de tributo sobre consumo, sem confundi-lo com tributo sobre renda ou patrimônio"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-05",
     "area": "Humanas",
+    "frente": "geografia",
     "tempoSugerido": 25,
     "texto_apoio": "Acordos internacionais sobre mudança climática costumam adotar o princípio de \"responsabilidades comuns, porém diferenciadas\", reconhecendo que países se industrializaram em momentos e ritmos distintos.",
-    "comando": "Explique o que esse princípio significa e discuta, com um exemplo, por que ele costuma gerar tensão nas negociações climáticas entre países desenvolvidos e países em desenvolvimento.",
-    "pontosEsperados": [
-      "Explica corretamente o princípio: todos têm responsabilidade, mas em grau diferente conforme histórico de emissões e capacidade econômica",
-      "Relaciona o princípio ao histórico de industrialização desigual entre países",
-      "Apresenta um exemplo concreto de tensão (financiamento climático, metas de redução diferentes, transferência de tecnologia)",
-      "Não trata o tema de forma unilateral, reconhecendo os dois lados do debate"
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Explique o significado do princípio de responsabilidades comuns, porém diferenciadas.",
+        "pontosEsperados": [
+          "Explica que a responsabilidade é de todos, mas em grau distinto conforme o histórico acumulado de emissões e a capacidade econômica de agir",
+          "Relaciona a diferenciação ao momento em que cada país se industrializou",
+          "Distingue emissão acumulada de emissão anual, ou ao menos deixa claro que o critério não é só o volume atual",
+          "Formula o princípio sem reduzi-lo a \"país rico paga\""
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Aponte duas implicações desse princípio para a posição de países em desenvolvimento nas negociações climáticas.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Aponta uma implicação sobre metas (prazos e trajetórias de redução diferentes dos adotados por países desenvolvidos)",
+          "Aponta uma segunda implicação sobre meios (financiamento climático, transferência de tecnologia, apoio à adaptação)",
+          "Relaciona cada implicação ao princípio, e não apenas à conveniência do país",
+          "Reconhece que a aplicação do princípio é disputada, sem tratar o tema de forma unilateral"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-06",
     "area": "Humanas",
+    "frente": "historia",
     "tempoSugerido": 25,
     "texto_apoio": "A Constituição de 1988, apelidada de \"Constituição Cidadã\", marcou a redemocratização brasileira após o regime militar.",
-    "comando": "Discuta dois avanços que a Constituição de 1988 trouxe em relação ao período anterior, explicando por que eles são considerados relevantes para a consolidação democrática do Brasil.",
-    "pontosEsperados": [
-      "Cita ao menos dois avanços concretos (ex.: ampliação de direitos sociais, eleições diretas, liberdade de imprensa, controle de constitucionalidade, direitos das minorias)",
-      "Explica, e não apenas menciona, por que cada avanço é relevante para a democracia",
-      "Contextualiza corretamente o período anterior (regime militar, restrição de direitos)",
-      "Mantém coerência argumentativa ao longo do texto"
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Cite dois avanços institucionais trazidos pela Constituição de 1988 em relação ao período anterior.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Cita um primeiro avanço concreto e verificável no texto constitucional (eleição direta em todos os níveis, ampliação dos direitos sociais, liberdade de imprensa, Ministério Público independente, ampliação do controle de constitucionalidade)",
+          "Cita um segundo avanço distinto do primeiro",
+          "Trata de avanços institucionais, e não de opiniões gerais sobre a democracia",
+          "Entrega exatamente os dois avanços pedidos"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Explique, em relação ao período anterior, por que um desses avanços é considerado decisivo para a consolidação democrática.",
+        "pontosEsperados": [
+          "Escolhe um dos avanços citados em (a) e o mantém como objeto da explicação",
+          "Contextualiza corretamente o regime militar naquilo que aquele avanço reverte (Atos Institucionais, censura, eleição indireta, cassação de mandatos)",
+          "Explica o mecanismo pelo qual o avanço sustenta a democracia, e não apenas afirma que ele é importante",
+          "Mantém coerência entre o que foi citado em (a) e o que é desenvolvido aqui"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-07",
     "area": "Humanas",
+    "frente": "historia",
     "tempoSugerido": 25,
-    "texto_apoio": "O avanço da inteligência artificial tem reacendido debates éticos sobre automação do trabalho, viés algorítmico e responsabilidade por decisões tomadas por sistemas automatizados.",
-    "comando": "Escolha um desses três dilemas (automação do trabalho, viés algorítmico ou responsabilidade por decisões automatizadas) e discuta por que ele representa um desafio ético relevante para a sociedade contemporânea.",
-    "pontosEsperados": [
-      "Escolhe um único dilema e o desenvolve em profundidade, em vez de tratar superficialmente os três",
-      "Explica corretamente o mecanismo do problema escolhido (ex.: como surge o viés algorítmico)",
-      "Relaciona o dilema a um impacto social concreto",
-      "Evita respostas puramente técnicas sem discutir a dimensão ética"
+    "texto_apoio": "O avanço da inteligência artificial tem reacendido debates sobre automação do trabalho, viés algorítmico e responsabilidade por decisões tomadas por sistemas automatizados. Não é a primeira vez que uma mudança técnica reorganiza o trabalho: a substituição de tecelões por teares mecânicos e a introdução da linha de montagem produziram, cada uma a seu tempo, reação organizada de trabalhadores e resposta do Estado.",
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Cite dois episódios históricos em que uma mudança técnica reorganizou o trabalho e gerou reação organizada dos trabalhadores.",
+        "quantidadeExigida": 2,
+        "pontosEsperados": [
+          "Cita um primeiro episódio datável e corretamente descrito (ludismo e a destruição de teares na Inglaterra do início do século XIX; mecanização têxtil da Primeira Revolução Industrial)",
+          "Cita um segundo episódio distinto (taylorismo e fordismo e a resposta sindical à linha de montagem; automação industrial e greves do setor metalúrgico no século XX)",
+          "Descreve em que consistiu a reação, e não apenas nomeia o período",
+          "Entrega exatamente os dois episódios pedidos"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Apresente de que forma o debate atual sobre inteligência artificial se aproxima e de que forma se distingue desses episódios.",
+        "pontosEsperados": [
+          "Aponta ao menos uma continuidade concreta (deslocamento de ocupações, disputa sobre quem fica com o ganho de produtividade, exigência de nova regulação)",
+          "Aponta ao menos uma diferença concreta (alcance sobre trabalho não manual e qualificado, velocidade da adoção, opacidade da decisão automatizada)",
+          "Trata a questão da responsabilidade por decisão automatizada como problema novo, sem equivalente direto nos episódios anteriores",
+          "Sustenta a comparação com argumento, sem se limitar a afirmar que a história se repete"
+        ]
+      }
     ]
   },
   {
     "id": "dissert-humanas-08",
     "area": "Humanas",
+    "frente": "historia",
     "tempoSugerido": 25,
-    "texto_apoio": "O conceito de cidadania é frequentemente descrito como um processo histórico de conquista sucessiva de direitos civis, políticos e sociais.",
-    "comando": "Explique a diferença entre direitos civis, políticos e sociais, e discuta, com um exemplo brasileiro, por que a existência formal de um direito nem sempre garante seu exercício efetivo.",
-    "pontosEsperados": [
-      "Diferencia corretamente as três categorias de direitos (ex.: civis = liberdade individual; políticos = participação no poder; sociais = condições mínimas de vida)",
-      "Traz um exemplo brasileiro concreto e pertinente",
-      "Argumenta sobre a diferença entre direito formal (na lei) e direito material (na prática)",
-      "Conclui retomando a tese apresentada"
+    "texto_apoio": "O conceito de cidadania é frequentemente descrito como um processo histórico de conquista sucessiva de direitos civis, políticos e sociais. No Brasil, historiadores observam que essa ordem não se repetiu: direitos sociais foram concedidos em períodos de restrição dos direitos políticos.",
+    "itens": [
+      {
+        "id": "a",
+        "comando": "Caracterize as três categorias de direitos mencionadas no texto.",
+        "quantidadeExigida": 3,
+        "pontosEsperados": [
+          "Caracteriza os direitos civis pela liberdade individual perante o Estado e os demais (ir e vir, propriedade, expressão, devido processo)",
+          "Caracteriza os direitos políticos pela participação no poder (votar, ser votado, associar-se, organizar partido)",
+          "Caracteriza os direitos sociais pelas condições materiais mínimas (educação, saúde, previdência, proteção do trabalho)",
+          "Entrega as três categorias pedidas, sem fundir duas delas"
+        ]
+      },
+      {
+        "id": "b",
+        "comando": "Relacione, com um exemplo brasileiro, a existência formal de um direito à dificuldade de seu exercício efetivo.",
+        "pontosEsperados": [
+          "Escolhe um direito específico e o mantém como fio do argumento",
+          "Traz um exemplo brasileiro concreto e datável (legislação trabalhista do Estado Novo em contexto de restrição política; direito ao voto e analfabetismo como critério de exclusão até 1985; direito à saúde e desigualdade de acesso após 1988)",
+          "Distingue direito formal, o que está na lei, de direito material, o que se exerce na prática",
+          "Usa o dado do texto de apoio, de que a sequência brasileira não seguiu a ordem clássica"
+        ]
+      }
     ]
   },
   {

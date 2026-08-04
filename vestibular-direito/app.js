@@ -72,6 +72,28 @@
   function dayAnswerKey(day, subtopicId, questionId) { return day + "::" + subtopicId + "::" + questionId; }
   function dissertKey(day, questionId) { return day + "::" + questionId; }
 
+  // Toda discursiva de Humanas da FGV vem em dois comandos: um enumerativo, quase
+  // sempre com número explícito ("dois episódios", "duas razões", "duas técnicas"),
+  // e um explicativo. Isso é uma rubrica exposta -- a resposta é pontuada por itens
+  // contáveis, e escrever bem sem entregar o número pedido perde ponto.
+  //
+  // O banco nasceu com um comando só por questão. Este normalizador aceita as duas
+  // formas ao mesmo tempo, para que dissertativas.js migre questão a questão em vez
+  // de tudo de uma vez.
+  function dissertItens(q) {
+    if (q.itens && q.itens.length) return q.itens;
+    return [{ id: "a", comando: q.comando, pontosEsperados: q.pontosEsperados }];
+  }
+
+  // O item 'a' fica com a chave LEGADA, sem sufixo: quem já respondeu uma questão
+  // antes da migração continua vendo sua resposta depois dela. Só os itens 'b' em
+  // diante ganham sufixo. Como o sufixo do checklist é numérico ("::0", "::1") e o
+  // do item é uma letra, as duas famílias de chave nunca colidem.
+  function dissertItemKey(day, questionId, itemId) {
+    const base = dissertKey(day, questionId);
+    return itemId === "a" ? base : base + "::" + itemId;
+  }
+
   // ---------- Dissertativas (Humanas/Linguagens/Artes, estilo discursiva FGV) ----------
   function weekNumberForDay(day) { return Math.ceil(day / DISSERT_WEEK_SIZE); }
 
@@ -1948,61 +1970,84 @@
     const wrap = document.createElement("div");
     wrap.className = "question dissert-question";
     const savedAnswers = getDissertAnswers();
-    const key = dissertKey(day, q.id);
-    const savedText = savedAnswers[key] || "";
-
     const checklist = getDissertChecklist();
-    const checklistKeyFor = (pointIdx) => dissertKey(day, q.id) + "::" + pointIdx;
-    // Recebe o objeto de checklist explicitamente (em vez de fechar sobre uma
-    // variável só) pra sempre contar a partir da leitura mais recente do
-    // localStorage — evita perder marcações de OUTRA questão dissertativa do
-    // mesmo dia caso o snapshot inicial desta função já esteja desatualizado.
-    const checkedCount = (checklistObj) => q.pontosEsperados.filter((_, i) => checklistObj[checklistKeyFor(i)]).length;
-    const pontosHtml = q.pontosEsperados.map((p, i) => `
-      <li>
-        <label>
-          <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
-          <span>${escapeHtml(p)}</span>
-        </label>
-      </li>
-    `).join("");
+    const itens = dissertItens(q);
+
+    const itensHtml = itens.map((item, itemIdx) => {
+      const answerKey = dissertItemKey(day, q.id, item.id);
+      const checklistKeyFor = (pointIdx) => answerKey + "::" + pointIdx;
+      const pontosHtml = item.pontosEsperados.map((p, i) => `
+        <li>
+          <label>
+            <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
+            <span>${escapeHtml(p)}</span>
+          </label>
+        </li>
+      `).join("");
+      const marcados = item.pontosEsperados.filter((_, i) => checklist[checklistKeyFor(i)]).length;
+      // Um comando que pede "duas razões" é pontuado contando: o selo existe para
+      // que o candidato veja o número antes de escrever, e não depois de perder
+      // metade do ponto por ter entregado uma só.
+      const selo = item.quantidadeExigida
+        ? `<span class="dissert-quantidade">responder ${item.quantidadeExigida}</span>`
+        : "";
+      // Só numera os itens quando existe mais de um: numa questão de comando único
+      // um "a)" solitário sugeriria um "b)" que não vem.
+      const rotulo = itens.length > 1 ? `<strong>${item.id})</strong> ` : `${itemIdx + idx + 1}. `;
+      return `
+        <div class="dissert-item" data-item="${item.id}">
+          <div class="q-enunciado">${rotulo}${escapeHtml(item.comando)} ${selo}</div>
+          <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedAnswers[answerKey] || "")}</textarea>
+          <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
+          <div class="dissert-gabarito-wrap" hidden>
+            <div class="dissert-gabarito-counter">${marcados}/${item.pontosEsperados.length} pontos marcados</div>
+            <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
+            realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
+            <ul class="dissert-gabarito">${pontosHtml}</ul>
+          </div>
+        </div>
+      `;
+    }).join("");
 
     wrap.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(q.area)}${q.tempoSugerido ? ` · ~${q.tempoSugerido} min sugeridos` : ""}</div>
       <div class="q-support">${escapeHtml(q.texto_apoio)}</div>
-      <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.comando)}</div>
-      <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedText)}</textarea>
-      <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
-      <div class="dissert-gabarito-wrap" hidden>
-        <div class="dissert-gabarito-counter">${checkedCount(checklist)}/${q.pontosEsperados.length} pontos marcados</div>
-        <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
-        realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
-        <ul class="dissert-gabarito">${pontosHtml}</ul>
-      </div>
+      ${itens.length > 1 ? `<div class="q-enunciado dissert-numero">${idx + 1}.</div>` : ""}
+      ${itensHtml}
     `;
 
-    const textarea = wrap.querySelector(".dissert-textarea");
-    textarea.addEventListener("input", () => {
-      const current = getDissertAnswers();
-      current[key] = textarea.value;
-      saveJSON(LS_DISSERT_ANSWERS, current);
-    });
+    wrap.querySelectorAll(".dissert-item").forEach((bloco) => {
+      const item = itens.find((it) => it.id === bloco.dataset.item);
+      const answerKey = dissertItemKey(day, q.id, item.id);
+      const checklistKeyFor = (pointIdx) => answerKey + "::" + pointIdx;
 
-    const toggleBtn = wrap.querySelector(".dissert-toggle-gabarito");
-    const gabaritoWrap = wrap.querySelector(".dissert-gabarito-wrap");
-    toggleBtn.addEventListener("click", () => {
-      gabaritoWrap.hidden = !gabaritoWrap.hidden;
-      toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
-    });
+      const textarea = bloco.querySelector(".dissert-textarea");
+      textarea.addEventListener("input", () => {
+        const current = getDissertAnswers();
+        current[answerKey] = textarea.value;
+        saveJSON(LS_DISSERT_ANSWERS, current);
+      });
 
-    const counterEl = wrap.querySelector(".dissert-gabarito-counter");
-    wrap.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
-      cb.addEventListener("change", () => {
-        const state = getDissertChecklist();
-        const key = checklistKeyFor(cb.dataset.point);
-        if (cb.checked) state[key] = true; else delete state[key];
-        saveJSON(LS_DISSERT_CHECKLIST, state);
-        counterEl.textContent = `${checkedCount(state)}/${q.pontosEsperados.length} pontos marcados`;
+      const toggleBtn = bloco.querySelector(".dissert-toggle-gabarito");
+      const gabaritoWrap = bloco.querySelector(".dissert-gabarito-wrap");
+      toggleBtn.addEventListener("click", () => {
+        gabaritoWrap.hidden = !gabaritoWrap.hidden;
+        toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
+      });
+
+      // Conta a partir da leitura mais recente do localStorage, e não de um
+      // snapshot fechado por closure — do contrário, marcar um ponto no item (b)
+      // apagaria o que já estava marcado no item (a) do mesmo dia.
+      const counterEl = bloco.querySelector(".dissert-gabarito-counter");
+      bloco.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
+        cb.addEventListener("change", () => {
+          const state = getDissertChecklist();
+          const k = checklistKeyFor(cb.dataset.point);
+          if (cb.checked) state[k] = true; else delete state[k];
+          saveJSON(LS_DISSERT_CHECKLIST, state);
+          const n = item.pontosEsperados.filter((_, i) => state[checklistKeyFor(i)]).length;
+          counterEl.textContent = `${n}/${item.pontosEsperados.length} pontos marcados`;
+        });
       });
     });
 

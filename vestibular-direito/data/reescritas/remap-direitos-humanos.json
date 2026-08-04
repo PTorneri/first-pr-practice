@@ -1,0 +1,319 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027direitos-humanos\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "direitos-humanos",
+    "questoes":  {
+                     "direitos-humanos-01":  {
+                                                 "de":  "a",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-02":  {
+                                                 "de":  "b",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-03":  {
+                                                 "de":  "c",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-04":  {
+                                                 "de":  "d",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-06":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-07":  {
+                                                 "de":  "b",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-08":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-09":  {
+                                                 "de":  "d",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-10":  {
+                                                 "de":  "e",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-11":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-12":  {
+                                                 "de":  "b",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-13":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-15":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-16":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-17":  {
+                                                 "de":  "b",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-18":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-20":  {
+                                                 "de":  "e",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-21":  {
+                                                 "de":  "a",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-22":  {
+                                                 "de":  "b",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-23":  {
+                                                 "de":  "c",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-24":  {
+                                                 "de":  "d",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-25":  {
+                                                 "de":  "e",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-26":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-27":  {
+                                                 "de":  "b",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-28":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-30":  {
+                                                 "de":  "e",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-31":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-34":  {
+                                                 "de":  "d",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-37":  {
+                                                 "de":  "b",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-38":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-39":  {
+                                                 "de":  "d",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-41":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-42":  {
+                                                 "de":  "b",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-43":  {
+                                                 "de":  "c",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-44":  {
+                                                 "de":  "d",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-45":  {
+                                                 "de":  "e",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-47":  {
+                                                 "de":  "b",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-49":  {
+                                                 "de":  "d",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-50":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-51":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-53":  {
+                                                 "de":  "c",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-55":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-56":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-57":  {
+                                                 "de":  "b",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-58":  {
+                                                 "de":  "c",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-59":  {
+                                                 "de":  "d",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-60":  {
+                                                 "de":  "e",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-61":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-63":  {
+                                                 "de":  "c",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-65":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-66":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-67":  {
+                                                 "de":  "b",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-69":  {
+                                                 "de":  "d",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-70":  {
+                                                 "de":  "e",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-71":  {
+                                                 "de":  "a",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-72":  {
+                                                 "de":  "b",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-75":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-76":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-78":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-81":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-82":  {
+                                                 "de":  "b",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-83":  {
+                                                 "de":  "c",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-84":  {
+                                                 "de":  "d",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-85":  {
+                                                 "de":  "e",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-86":  {
+                                                 "de":  "a",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-87":  {
+                                                 "de":  "b",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-88":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-89":  {
+                                                 "de":  "d",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-90":  {
+                                                 "de":  "e",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-92":  {
+                                                 "de":  "b",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-93":  {
+                                                 "de":  "c",
+                                                 "para":  "d"
+                                             },
+                     "direitos-humanos-94":  {
+                                                 "de":  "d",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-95":  {
+                                                 "de":  "e",
+                                                 "para":  "c"
+                                             },
+                     "direitos-humanos-96":  {
+                                                 "de":  "a",
+                                                 "para":  "b"
+                                             },
+                     "direitos-humanos-98":  {
+                                                 "de":  "c",
+                                                 "para":  "a"
+                                             },
+                     "direitos-humanos-99":  {
+                                                 "de":  "d",
+                                                 "para":  "e"
+                                             },
+                     "direitos-humanos-100":  {
+                                                  "de":  "e",
+                                                  "para":  "a"
+                                              }
+                 }
+}

@@ -1,0 +1,319 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027atualidades-politica\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "atualidades-politica",
+    "questoes":  {
+                     "atualidades-politica-01":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-02":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-03":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-04":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-06":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-07":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-08":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-09":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-10":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-11":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-12":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-13":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-15":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-16":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-17":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-18":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-20":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-21":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-22":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-23":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-24":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-25":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-26":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-27":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-28":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-30":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-31":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-34":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-37":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-38":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-39":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-41":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-42":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-43":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-44":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-45":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-47":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-49":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-50":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-51":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-53":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-55":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-56":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-57":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-58":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-59":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-60":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-61":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-63":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-65":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-66":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-67":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-69":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-70":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-71":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-72":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-75":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-76":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-78":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-81":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-82":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-83":  {
+                                                     "de":  "c",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-84":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-85":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-86":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-87":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-88":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-89":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-90":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-92":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-93":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "atualidades-politica-94":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-95":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "atualidades-politica-96":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "atualidades-politica-98":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "atualidades-politica-99":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "atualidades-politica-100":  {
+                                                      "de":  "e",
+                                                      "para":  "a"
+                                                  }
+                 }
+}

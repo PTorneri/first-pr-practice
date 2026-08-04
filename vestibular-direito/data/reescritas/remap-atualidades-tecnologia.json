@@ -1,0 +1,319 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027atualidades-tecnologia\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "atualidades-tecnologia",
+    "questoes":  {
+                     "atualidades-tecnologia-01":  {
+                                                       "de":  "a",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-02":  {
+                                                       "de":  "b",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-03":  {
+                                                       "de":  "c",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-04":  {
+                                                       "de":  "d",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-06":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-07":  {
+                                                       "de":  "b",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-08":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-09":  {
+                                                       "de":  "d",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-10":  {
+                                                       "de":  "e",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-11":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-12":  {
+                                                       "de":  "b",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-13":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-15":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-16":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-17":  {
+                                                       "de":  "b",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-18":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-20":  {
+                                                       "de":  "e",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-21":  {
+                                                       "de":  "a",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-22":  {
+                                                       "de":  "b",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-23":  {
+                                                       "de":  "c",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-24":  {
+                                                       "de":  "d",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-25":  {
+                                                       "de":  "e",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-26":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-27":  {
+                                                       "de":  "b",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-28":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-30":  {
+                                                       "de":  "e",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-31":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-34":  {
+                                                       "de":  "d",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-37":  {
+                                                       "de":  "b",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-38":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-39":  {
+                                                       "de":  "d",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-41":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-42":  {
+                                                       "de":  "b",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-43":  {
+                                                       "de":  "c",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-44":  {
+                                                       "de":  "d",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-45":  {
+                                                       "de":  "e",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-47":  {
+                                                       "de":  "b",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-49":  {
+                                                       "de":  "d",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-50":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-51":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-53":  {
+                                                       "de":  "c",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-55":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-56":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-57":  {
+                                                       "de":  "b",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-58":  {
+                                                       "de":  "c",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-59":  {
+                                                       "de":  "d",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-60":  {
+                                                       "de":  "e",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-61":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-63":  {
+                                                       "de":  "c",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-65":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-66":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-67":  {
+                                                       "de":  "b",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-69":  {
+                                                       "de":  "d",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-70":  {
+                                                       "de":  "e",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-71":  {
+                                                       "de":  "a",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-72":  {
+                                                       "de":  "b",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-75":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-76":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-78":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-81":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-82":  {
+                                                       "de":  "b",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-83":  {
+                                                       "de":  "c",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-84":  {
+                                                       "de":  "d",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-85":  {
+                                                       "de":  "e",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-86":  {
+                                                       "de":  "a",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-87":  {
+                                                       "de":  "b",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-88":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-89":  {
+                                                       "de":  "d",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-90":  {
+                                                       "de":  "e",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-92":  {
+                                                       "de":  "b",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-93":  {
+                                                       "de":  "c",
+                                                       "para":  "d"
+                                                   },
+                     "atualidades-tecnologia-94":  {
+                                                       "de":  "d",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-95":  {
+                                                       "de":  "e",
+                                                       "para":  "c"
+                                                   },
+                     "atualidades-tecnologia-96":  {
+                                                       "de":  "a",
+                                                       "para":  "b"
+                                                   },
+                     "atualidades-tecnologia-98":  {
+                                                       "de":  "c",
+                                                       "para":  "a"
+                                                   },
+                     "atualidades-tecnologia-99":  {
+                                                       "de":  "d",
+                                                       "para":  "e"
+                                                   },
+                     "atualidades-tecnologia-100":  {
+                                                        "de":  "e",
+                                                        "para":  "a"
+                                                    }
+                 }
+}

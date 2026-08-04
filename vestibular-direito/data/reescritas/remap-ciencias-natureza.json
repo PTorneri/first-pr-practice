@@ -7,52 +7,372 @@
                     ],
     "frente":  "ciencias-natureza",
     "questoes":  {
-                     "ciencias-natureza-102":  {
-                                                   "de":  "a",
-                                                   "para":  "d"
-                                               },
-                     "ciencias-natureza-103":  {
-                                                   "de":  "a",
-                                                   "para":  "b"
-                                               },
-                     "ciencias-natureza-104":  {
-                                                   "de":  "a",
-                                                   "para":  "b"
-                                               },
-                     "ciencias-natureza-105":  {
-                                                   "de":  "a",
+                     "ciencias-natureza-01":  {
+                                                  "de":  "a",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-02":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-04":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-05":  {
+                                                  "de":  "e",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-06":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-07":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-08":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-09":  {
+                                                  "de":  "d",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-10":  {
+                                                  "de":  "e",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-11":  {
+                                                  "de":  "a",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-12":  {
+                                                  "de":  "b",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-13":  {
+                                                  "de":  "c",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-15":  {
+                                                  "de":  "e",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-17":  {
+                                                  "de":  "b",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-18":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-19":  {
+                                                  "de":  "d",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-20":  {
+                                                  "de":  "e",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-21":  {
+                                                  "de":  "a",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-22":  {
+                                                  "de":  "b",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-23":  {
+                                                  "de":  "c",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-24":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-26":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-28":  {
+                                                  "de":  "c",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-29":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-31":  {
+                                                  "de":  "a",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-33":  {
+                                                  "de":  "c",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-34":  {
+                                                  "de":  "d",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-35":  {
+                                                  "de":  "e",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-36":  {
+                                                  "de":  "a",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-38":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-40":  {
+                                                  "de":  "e",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-42":  {
+                                                  "de":  "b",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-44":  {
+                                                  "de":  "d",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-45":  {
+                                                  "de":  "e",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-46":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-47":  {
+                                                  "de":  "b",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-48":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-50":  {
+                                                  "de":  "e",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-51":  {
+                                                  "de":  "a",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-52":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-53":  {
+                                                  "de":  "c",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-54":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-55":  {
+                                                  "de":  "e",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-56":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-57":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-59":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-60":  {
+                                                  "de":  "e",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-61":  {
+                                                  "de":  "a",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-65":  {
+                                                  "de":  "e",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-66":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-68":  {
+                                                  "de":  "c",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-69":  {
+                                                  "de":  "d",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-70":  {
+                                                  "de":  "e",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-71":  {
+                                                  "de":  "a",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-72":  {
+                                                  "de":  "b",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-73":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-74":  {
+                                                  "de":  "d",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-75":  {
+                                                  "de":  "e",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-76":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-78":  {
+                                                  "de":  "c",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-79":  {
+                                                  "de":  "d",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-80":  {
+                                                  "de":  "e",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-81":  {
+                                                  "de":  "a",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-82":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-83":  {
+                                                  "de":  "c",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-84":  {
+                                                  "de":  "d",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-86":  {
+                                                  "de":  "a",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-87":  {
+                                                  "de":  "b",
+                                                  "para":  "d"
+                                              },
+                     "ciencias-natureza-88":  {
+                                                  "de":  "c",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-89":  {
+                                                  "de":  "d",
+                                                  "para":  "c"
+                                              },
+                     "ciencias-natureza-90":  {
+                                                  "de":  "e",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-91":  {
+                                                  "de":  "a",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-93":  {
+                                                  "de":  "c",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-95":  {
+                                                  "de":  "e",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-96":  {
+                                                  "de":  "a",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-97":  {
+                                                  "de":  "b",
+                                                  "para":  "a"
+                                              },
+                     "ciencias-natureza-98":  {
+                                                  "de":  "c",
+                                                  "para":  "e"
+                                              },
+                     "ciencias-natureza-99":  {
+                                                  "de":  "d",
+                                                  "para":  "b"
+                                              },
+                     "ciencias-natureza-100":  {
+                                                   "de":  "e",
                                                    "para":  "c"
                                                },
+                     "ciencias-natureza-101":  {
+                                                   "de":  "a",
+                                                   "para":  "b"
+                                               },
+                     "ciencias-natureza-102":  {
+                                                   "de":  "d",
+                                                   "para":  "c"
+                                               },
+                     "ciencias-natureza-103":  {
+                                                   "de":  "b",
+                                                   "para":  "e"
+                                               },
+                     "ciencias-natureza-104":  {
+                                                   "de":  "b",
+                                                   "para":  "d"
+                                               },
+                     "ciencias-natureza-105":  {
+                                                   "de":  "c",
+                                                   "para":  "a"
+                                               },
                      "ciencias-natureza-106":  {
+                                                   "de":  "e",
+                                                   "para":  "a"
+                                               },
+                     "ciencias-natureza-107":  {
+                                                   "de":  "c",
+                                                   "para":  "a"
+                                               },
+                     "ciencias-natureza-108":  {
                                                    "de":  "a",
                                                    "para":  "e"
                                                },
-                     "ciencias-natureza-107":  {
+                     "ciencias-natureza-109":  {
                                                    "de":  "a",
                                                    "para":  "c"
                                                },
                      "ciencias-natureza-110":  {
-                                                   "de":  "a",
-                                                   "para":  "d"
-                                               },
-                     "ciencias-natureza-111":  {
-                                                   "de":  "a",
-                                                   "para":  "e"
-                                               },
-                     "ciencias-natureza-112":  {
-                                                   "de":  "a",
+                                                   "de":  "d",
                                                    "para":  "b"
                                                },
-                     "ciencias-natureza-113":  {
-                                                   "de":  "a",
+                     "ciencias-natureza-111":  {
+                                                   "de":  "e",
                                                    "para":  "c"
                                                },
-                     "ciencias-natureza-114":  {
-                                                   "de":  "a",
+                     "ciencias-natureza-112":  {
+                                                   "de":  "b",
                                                    "para":  "e"
                                                },
-                     "ciencias-natureza-115":  {
-                                                   "de":  "a",
+                     "ciencias-natureza-114":  {
+                                                   "de":  "e",
                                                    "para":  "d"
                                                }
                  }

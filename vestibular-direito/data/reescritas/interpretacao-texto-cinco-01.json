@@ -1,0 +1,79 @@
+{
+  "_comentario": [
+    "Lote 01 da conversao de interpretacao-texto para cinco alternativas.",
+    "Questoes 01 a 15. Usa o schema enxuto do add-fifth.ps1: so o TEXTO NOVO e a",
+    "LETRA em que a resposta correta deve ficar. Os textos existentes nunca sao",
+    "transcritos -- o script apenas os reposiciona, o que elimina a chance de",
+    "corromper silenciosamente uma alternativa ao copia-la.",
+    "",
+    "Criterio dos novos distratores: erro plausivel e especifico, no mesmo",
+    "registro das demais alternativas. Nada de opcao obviamente absurda, que",
+    "seria descartada sem leitura e reduziria a questao a quatro alternativas na",
+    "pratica.",
+    "",
+    "Distribuicao do gabarito neste lote: 3 questoes por letra."
+  ],
+  "subtopic": "interpretacao-texto",
+  "questoes": {
+    "interpretacao-texto-01": {
+      "letra": "a",
+      "nova": "A conclusão central do texto é que o investimento em equipamentos deve ser redirecionado à formação continuada dos professores da rede."
+    },
+    "interpretacao-texto-02": {
+      "letra": "b",
+      "nova": "O narrador só compreendeu a frase depois que a própria avó lhe explicou o sentido literal das palavras que usara."
+    },
+    "interpretacao-texto-03": {
+      "letra": "c",
+      "nova": "Cabe a cada trabalhador, individualmente, administrar seus próprios limites, sem que sejam necessárias regras comuns às equipes."
+    },
+    "interpretacao-texto-04": {
+      "letra": "d",
+      "nova": "O sono cumpre função exclusivamente física, de recuperação muscular, sem participação em processos cognitivos."
+    },
+    "interpretacao-texto-05": {
+      "letra": "e",
+      "nova": "Os resíduos da cidade eram encaminhados à incineração, prática que o novo programa pretende substituir gradualmente."
+    },
+    "interpretacao-texto-06": {
+      "letra": "a",
+      "nova": "de nostalgia melancólica, marcada pelo lamento diante de um tempo que não volta mais."
+    },
+    "interpretacao-texto-07": {
+      "letra": "b",
+      "nova": "Argumento por contradição, que expõe falhas lógicas internas ao discurso das próprias plataformas."
+    },
+    "interpretacao-texto-08": {
+      "letra": "c",
+      "nova": "As pesquisas foram interrompidas por falta de financiamento, o que impede qualquer conclusão sobre os efeitos observados."
+    },
+    "interpretacao-texto-09": {
+      "letra": "d",
+      "nova": "um dado objetivo e uma projeção estatística sobre o impacto futuro da obra no bairro."
+    },
+    "interpretacao-texto-10": {
+      "letra": "e",
+      "nova": "estabelecer uma comparação técnica entre a experiência de leitura em papel e a leitura em tela."
+    },
+    "interpretacao-texto-11": {
+      "letra": "a",
+      "nova": "Recorre ao testemunho de pessoas bem-sucedidas para reforçar a ideia de que o esforço individual basta."
+    },
+    "interpretacao-texto-12": {
+      "letra": "b",
+      "nova": "as regiões cerebrais responsáveis pelo armazenamento permanente das memórias de longo prazo."
+    },
+    "interpretacao-texto-13": {
+      "letra": "c",
+      "nova": "oposição, apresentando o avanço do mar como fenômeno que contraria as previsões sobre ondas de calor."
+    },
+    "interpretacao-texto-14": {
+      "letra": "d",
+      "nova": "um trocadilho construído a partir do nome da avenida em que o engarrafamento acontece."
+    },
+    "interpretacao-texto-15": {
+      "letra": "e",
+      "nova": "uma prática recomendada por instituições financeiras e outra recomendada por educadores financeiros independentes."
+    }
+  }
+}

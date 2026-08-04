@@ -23066,7 +23066,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "A adoção de tablets trouxe ganhos parciais na leitura, mas ainda enfrenta limitações estruturais.",
                                                          "b":  "A secretaria de educação decidiu abandonar o uso de tablets nas escolas, revertendo a substituição do material impresso.",
                                                          "c":  "A substituição de livros por tablets prejudicou o desempenho dos alunos em matemática, que teria caído após a mudança.",
-                                                         "d":  "O crescimento de 12% na leitura foi idêntico em todas as 40 escolas da rede, sem qualquer variação entre elas."
+                                                         "d":  "O crescimento de 12% na leitura foi idêntico em todas as 40 escolas da rede, sem qualquer variação entre elas.",
+                                                         "e":  "A conclusão central do texto é que o investimento em equipamentos deve ser redirecionado à formação continuada dos professores da rede."
                                                      },
                                     "resposta":  "a",
                                     "explicacao":  "O texto relata um avanço específico (leitura) associado a uma ressalva (infraestrutura de internet), o que caracteriza um resultado parcial. As demais alternativas contradizem ou extrapolam informações não presentes no texto.",
@@ -23080,7 +23081,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "O narrador discordava da avó e continua discordando até hoje, mesmo após anos de metrô na cidade grande.",
                                                          "b":  "A vivência diária no metrô fez o narrador compreender, na prática, o sentido da frase.",
                                                          "c":  "O narrador nunca compreendeu o sentido da frase da avó, apesar da rotina diária no transporte público.",
-                                                         "d":  "A avó do narrador nunca morou em uma cidade grande, por isso desconhecia a sensação descrita na frase."
+                                                         "d":  "A avó do narrador nunca morou em uma cidade grande, por isso desconhecia a sensação descrita na frase.",
+                                                         "e":  "O narrador só compreendeu a frase depois que a própria avó lhe explicou o sentido literal das palavras que usara."
                                                      },
                                     "resposta":  "b",
                                     "explicacao":  "O trecho final indica que a compreensão da frase só ocorreu depois da experiência cotidiana no metrô, mostrando que a vivência deu sentido concreto a uma ideia antes abstrata.",
@@ -23093,10 +23095,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "O trabalho remoto deve ser abolido imediatamente por todas as empresas, segundo a tese do autor.",
                                                          "b":  "As reuniões de trabalho deveriam ser sempre presenciais, conclusão que o texto não sustenta.",
-                                                         "c":  "A pandemia foi a única causa apontada pelo autor para os problemas do trabalho remoto.",
-                                                         "d":  "É necessário estabelecer novos limites de tempo e disponibilidade no trabalho remoto."
+                                                         "c":  "É necessário estabelecer novos limites de tempo e disponibilidade no trabalho remoto.",
+                                                         "d":  "A pandemia foi a única causa apontada pelo autor para os problemas do trabalho remoto.",
+                                                         "e":  "Cabe a cada trabalhador, individualmente, administrar seus próprios limites, sem que sejam necessárias regras comuns às equipes."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "O autor não propõe o fim do trabalho remoto, mas sim a criação de limites claros entre vida pessoal e profissional, argumento explicitado na última frase do texto.",
                                     "formato":  "direta"
                                 },
@@ -23107,10 +23110,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "A neurociência ainda não conseguiu explicar a função do sono, ao contrário do que o texto afirma.",
                                                          "b":  "O sono é um período de inatividade total do cérebro, sem qualquer atividade durante a noite.",
-                                                         "c":  "O sono envolve processos cerebrais ativos essenciais à memória e à cognição.",
-                                                         "d":  "Dormir pouco afeta apenas o humor da pessoa, sem prejudicar memória ou decisões, segundo o texto."
+                                                         "c":  "Dormir pouco afeta apenas o humor da pessoa, sem prejudicar memória ou decisões, segundo o texto.",
+                                                         "d":  "O sono envolve processos cerebrais ativos essenciais à memória e à cognição.",
+                                                         "e":  "O sono cumpre função exclusivamente física, de recuperação muscular, sem participação em processos cognitivos."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "d",
                                     "explicacao":  "O texto afirma que o sono é um período de atividade cerebral intensa, ligado à consolidação de memórias e à eliminação de toxinas — e não um estado de repouso passivo ou de inatividade total.",
                                     "formato":  "direta"
                                 },
@@ -23121,10 +23125,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "A cidade já reciclava a totalidade de seus resíduos antes do programa, o que tornaria a meta de redução redundante.",
                                                          "b":  "Itaguara nunca produziu lixo orgânico até a criação do programa de economia circular anunciado pela prefeitura.",
-                                                         "c":  "Grande parte dos resíduos orgânicos e plásticos provavelmente era destinada diretamente a aterros sanitários.",
-                                                         "d":  "As cooperativas de reciclagem já processavam, antes do programa, a maior parte dos resíduos da cidade."
+                                                         "c":  "As cooperativas de reciclagem já processavam, antes do programa, a maior parte dos resíduos da cidade.",
+                                                         "d":  "Os resíduos da cidade eram encaminhados à incineração, prática que o novo programa pretende substituir gradualmente.",
+                                                         "e":  "Grande parte dos resíduos orgânicos e plásticos provavelmente era destinada diretamente a aterros sanitários."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "e",
                                     "explicacao":  "A meta de reduzir em 30% o lixo enviado a aterros implica que, antes do programa, uma parcela significativa dos resíduos tinha esse destino, informação que fica implícita e pode ser inferida do contexto.",
                                     "formato":  "direta"
                                 },
@@ -23136,7 +23141,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "de afeto e ternura diante de um hábito íntimo e repetido da avó.",
                                                          "b":  "de crítica irônica ao comportamento considerado ultrapassado da avó.",
                                                          "c":  "de indiferença em relação às histórias contadas pela avó.",
-                                                         "d":  "de indignação com a forma como a avó trata as fotografias antigas."
+                                                         "d":  "de indignação com a forma como a avó trata as fotografias antigas.",
+                                                         "e":  "de nostalgia melancólica, marcada pelo lamento diante de um tempo que não volta mais."
                                                      },
                                     "resposta":  "a",
                                     "explicacao":  "A descrição cuidadosa do ritual, com metáforas como tesouro e a valorização da intimidade da avó, revela um tom afetuoso, não crítico ou indiferente.",
@@ -23148,11 +23154,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Que tipo de argumento predomina na construção do texto para sustentar a tese do autor?",
                                     "alternativas":  {
                                                          "a":  "Argumento por analogia, comparando redes sociais a outro fenômeno semelhante.",
-                                                         "b":  "Argumento de senso comum, baseado apenas em opiniões populares.",
-                                                         "c":  "Argumento de autoridade, baseado em estudos e relatos de especialistas.",
-                                                         "d":  "Argumento de exemplificação, com casos pessoais do próprio autor."
+                                                         "b":  "Argumento de autoridade, baseado em estudos e relatos de especialistas.",
+                                                         "c":  "Argumento de senso comum, baseado apenas em opiniões populares.",
+                                                         "d":  "Argumento de exemplificação, com casos pessoais do próprio autor.",
+                                                         "e":  "Argumento por contradição, que expõe falhas lógicas internas ao discurso das próprias plataformas."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "O autor recorre a uma organização reconhecida (OMS) e a psicólogos clínicos, caracterizando o argumento de autoridade, que se apoia na credibilidade de fontes especializadas.",
                                     "formato":  "direta"
                                 },
@@ -23162,11 +23169,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O que se pode inferir sobre o estágio atual das pesquisas mencionadas no texto?",
                                     "alternativas":  {
                                                          "a":  "Os cientistas já comprovaram todos os efeitos dos microplásticos na saúde humana, encerrando as pesquisas.",
-                                                         "b":  "As pesquisas sobre os efeitos de longo prazo ainda estão em andamento, mas já há recomendações preventivas.",
-                                                         "c":  "Não existe nenhuma evidência de microplásticos no corpo humano, apesar dos achados citados no texto.",
-                                                         "d":  "Os cientistas descartaram qualquer relação entre plástico descartável e microplásticos encontrados no sangue."
+                                                         "b":  "Não existe nenhuma evidência de microplásticos no corpo humano, apesar dos achados citados no texto.",
+                                                         "c":  "As pesquisas sobre os efeitos de longo prazo ainda estão em andamento, mas já há recomendações preventivas.",
+                                                         "d":  "Os cientistas descartaram qualquer relação entre plástico descartável e microplásticos encontrados no sangue.",
+                                                         "e":  "As pesquisas foram interrompidas por falta de financiamento, o que impede qualquer conclusão sobre os efeitos observados."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "c",
                                     "explicacao":  "O texto afirma explicitamente que os efeitos de longo prazo ainda estão sob investigação, mas que recomendações preventivas já são feitas, o que caracteriza uma pesquisa em andamento com cautela prática.",
                                     "formato":  "direta"
                                 },
@@ -23176,11 +23184,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "No texto, é possível distinguir claramente entre",
                                     "alternativas":  {
                                                          "a":  "dois dados estatísticos que se contradizem entre si sobre o tempo de deslocamento no bairro.",
-                                                         "b":  "um dado objetivo (a redução do tempo de deslocamento) e uma opinião do secretário.",
-                                                         "c":  "duas opiniões pessoais sem qualquer base em dados, tanto do jornalista quanto do secretário.",
-                                                         "d":  "uma crítica do jornalista à nova política de transportes implementada pela secretaria."
+                                                         "b":  "duas opiniões pessoais sem qualquer base em dados, tanto do jornalista quanto do secretário.",
+                                                         "c":  "uma crítica do jornalista à nova política de transportes implementada pela secretaria.",
+                                                         "d":  "um dado objetivo (a redução do tempo de deslocamento) e uma opinião do secretário.",
+                                                         "e":  "um dado objetivo e uma projeção estatística sobre o impacto futuro da obra no bairro."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "d",
                                     "explicacao":  "A redução de 74 para 58 minutos é um dado mensurável, enquanto a afirmação sobre a mobilidade ser a política que mais transforma vidas é uma avaliação subjetiva do secretário, introduzida por aspas como fala direta.",
                                     "formato":  "direta"
                                 },
@@ -23190,11 +23199,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A comparação final do texto (segurar o livro como quem segura a mão de alguém) tem a função de",
                                     "alternativas":  {
                                                          "a":  "descrever objetivamente o tamanho e o peso físico do livro reencontrado na estante.",
-                                                         "b":  "expressar, por meio de uma imagem afetiva, o valor emocional do objeto reencontrado.",
-                                                         "c":  "explicar de forma técnica o processo de alfabetização vivido pelo narrador na infância.",
-                                                         "d":  "criticar o estado de conservação do livro antigo, com páginas amareladas e cheiro de mofo."
+                                                         "b":  "explicar de forma técnica o processo de alfabetização vivido pelo narrador na infância.",
+                                                         "c":  "criticar o estado de conservação do livro antigo, com páginas amareladas e cheiro de mofo.",
+                                                         "d":  "estabelecer uma comparação técnica entre a experiência de leitura em papel e a leitura em tela.",
+                                                         "e":  "expressar, por meio de uma imagem afetiva, o valor emocional do objeto reencontrado."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "A comparação estabelece uma analogia entre o objeto (livro) e uma relação humana (segurar a mão de alguém querido), reforçando a carga afetiva da lembrança, não uma descrição técnica ou física.",
                                     "formato":  "direta"
                                 },
@@ -23203,12 +23213,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Defensores da meritocracia costumam citar casos de empreendedores que partiram do zero e alcançaram grande sucesso financeiro como prova de que esforço individual basta para vencer na vida. Ora, para cada história de sucesso amplamente divulgada, existem milhares de pessoas igualmente esforçadas que não tiveram as mesmas oportunidades de acesso a crédito, educação de qualidade ou rede de contatos.",
                                     "enunciado":  "Que estratégia argumentativa o autor utiliza para questionar a visão meritocrática mencionada?",
                                     "alternativas":  {
-                                                         "a":  "Apresenta um único exemplo de sucesso isolado para generalizar sua própria tese sobre o esforço individual.",
-                                                         "b":  "Concorda integralmente com os defensores da meritocracia, sem apontar nenhuma ressalva ao argumento.",
-                                                         "c":  "Relativiza o valor de exemplos isolados, contrapondo-os a uma realidade estatisticamente mais ampla.",
-                                                         "d":  "Utiliza apenas dados numéricos soltos, sem qualquer reflexão crítica sobre desigualdade de oportunidades."
+                                                         "a":  "Relativiza o valor de exemplos isolados, contrapondo-os a uma realidade estatisticamente mais ampla.",
+                                                         "b":  "Apresenta um único exemplo de sucesso isolado para generalizar sua própria tese sobre o esforço individual.",
+                                                         "c":  "Concorda integralmente com os defensores da meritocracia, sem apontar nenhuma ressalva ao argumento.",
+                                                         "d":  "Utiliza apenas dados numéricos soltos, sem qualquer reflexão crítica sobre desigualdade de oportunidades.",
+                                                         "e":  "Recorre ao testemunho de pessoas bem-sucedidas para reforçar a ideia de que o esforço individual basta."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "a",
                                     "explicacao":  "O autor reconhece a existência dos exemplos de sucesso, mas questiona sua representatividade ao contrapô-los a uma realidade mais ampla de desigualdade de oportunidades, estratégia argumentativa de relativização.",
                                     "formato":  "direta"
                                 },
@@ -23220,7 +23231,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "componentes eletrônicos utilizados exclusivamente em computadores, sem relação com neurônios biológicos.",
                                                          "b":  "conexões entre neurônios biológicos, responsáveis pela transmissão de impulsos nervosos.",
                                                          "c":  "os pesos numéricos das redes neurais artificiais, e não às conexões entre neurônios biológicos.",
-                                                         "d":  "um tipo de algoritmo de aprendizado de máquina distinto do funcionamento de neurônios biológicos."
+                                                         "d":  "um tipo de algoritmo de aprendizado de máquina distinto do funcionamento de neurônios biológicos.",
+                                                         "e":  "as regiões cerebrais responsáveis pelo armazenamento permanente das memórias de longo prazo."
                                                      },
                                     "resposta":  "b",
                                     "explicacao":  "O texto emprega \u0027sinapses\u0027 em seu sentido biológico original, estabelecendo uma analogia com os pesos numéricos das redes neurais artificiais, que são elementos distintos, embora inspirados nesse conceito.",
@@ -23231,12 +23243,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O aumento na frequência de ondas de calor extremo tem sido associado, por diversos estudos climáticos, à elevação das emissões globais de gases de efeito estufa nas últimas décadas. Como consequência direta, cidades costeiras enfrentam também o avanço do nível do mar, o que já obriga o remanejamento de comunidades inteiras em regiões de baixa altitude.",
                                     "enunciado":  "A relação estabelecida entre os elementos do texto é predominantemente de",
                                     "alternativas":  {
-                                                         "a":  "causa e consequência, ligando emissões de gases, ondas de calor e avanço do mar.",
-                                                         "b":  "comparação entre dois fenômenos climáticos tratados no texto como independentes entre si.",
-                                                         "c":  "contradição entre dados sobre emissões apresentados por estudos climáticos diferentes.",
-                                                         "d":  "definição de conceitos técnicos isolados, sem qualquer relação causal entre eles."
+                                                         "a":  "comparação entre dois fenômenos climáticos tratados no texto como independentes entre si.",
+                                                         "b":  "contradição entre dados sobre emissões apresentados por estudos climáticos diferentes.",
+                                                         "c":  "causa e consequência, ligando emissões de gases, ondas de calor e avanço do mar.",
+                                                         "d":  "definição de conceitos técnicos isolados, sem qualquer relação causal entre eles.",
+                                                         "e":  "oposição, apresentando o avanço do mar como fenômeno que contraria as previsões sobre ondas de calor."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "c",
                                     "explicacao":  "O texto encadeia causas (emissões de gases) e efeitos (ondas de calor, avanço do mar, remanejamento de comunidades), estruturando-se claramente como uma relação de causa e consequência.",
                                     "formato":  "direta"
                                 },
@@ -23248,7 +23261,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "uma descrição técnica e detalhada do funcionamento do trânsito urbano na cidade do narrador.",
                                                          "b":  "uma crítica direta e séria às autoridades de trânsito, sem qualquer traço de humor no texto.",
                                                          "c":  "um relato factual e sério do engarrafamento, sem qualquer intenção de provocar humor no leitor.",
-                                                         "d":  "uma ironia que compara, de forma exagerada, o engarrafamento a uma experiência filosófica."
+                                                         "d":  "uma ironia que compara, de forma exagerada, o engarrafamento a uma experiência filosófica.",
+                                                         "e":  "um trocadilho construído a partir do nome da avenida em que o engarrafamento acontece."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "O texto ironiza a situação de trânsito ao elevá-la, de forma exagerada e cômica, à condição de reflexão filosófica, criando o efeito de humor característico da crônica.",
@@ -23261,10 +23275,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "a opinião dos pais e a opinião dos filhos sobre educação financeira, tema não discutido pelo texto.",
                                                          "b":  "duas correntes distintas da economia comportamental que disputam a interpretação dos mesmos dados.",
-                                                         "c":  "uma crença popular baseada em intuição e evidências de pesquisadores sobre a construção de hábitos financeiros.",
-                                                         "d":  "dois grupos de pesquisadores em economia comportamental que discordam entre si sobre o tema abordado nesse texto específico."
+                                                         "c":  "dois grupos de pesquisadores em economia comportamental que discordam entre si sobre o tema abordado nesse texto específico.",
+                                                         "d":  "uma prática recomendada por instituições financeiras e outra recomendada por educadores financeiros independentes.",
+                                                         "e":  "uma crença popular baseada em intuição e evidências de pesquisadores sobre a construção de hábitos financeiros."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "e",
                                     "explicacao":  "O texto opõe o senso comum (\u0027ter jeito com dinheiro\u0027) às evidências científicas apresentadas por pesquisadores, valorizando a segunda em detrimento da primeira como base para a argumentação.",
                                     "formato":  "direta"
                                 },
@@ -23273,12 +23288,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Dados de agências sanitárias de mais de cem países mostram queda superior a 90% na incidência de sarampo em regiões que atingiram cobertura vacinal acima de 95% da população. Em contrapartida, localidades com cobertura vacinal abaixo de 80% registraram surtos recorrentes da doença nos últimos cinco anos.",
                                     "enunciado":  "O argumento central do texto é sustentado principalmente por",
                                     "alternativas":  {
-                                                         "a":  "relatos pessoais de pacientes vacinados em diferentes países, sem dados estatísticos.",
-                                                         "b":  "opiniões de influenciadores digitais sobre vacinação, sem qualquer base em dados sanitários.",
-                                                         "c":  "uma analogia entre a vacinação contra o sarampo e outros tratamentos médicos não relacionados.",
-                                                         "d":  "dados estatísticos comparativos entre regiões com diferentes coberturas vacinais."
+                                                         "a":  "dados estatísticos comparativos entre regiões com diferentes coberturas vacinais.",
+                                                         "b":  "relatos pessoais de pacientes vacinados em diferentes países, sem dados estatísticos.",
+                                                         "c":  "opiniões de influenciadores digitais sobre vacinação, sem qualquer base em dados sanitários.",
+                                                         "d":  "uma analogia entre a vacinação contra o sarampo e outros tratamentos médicos não relacionados.",
+                                                         "e":  "projeções matemáticas sobre a evolução futura da cobertura vacinal no país nos próximos anos."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "a",
                                     "explicacao":  "O texto se apoia em comparações numéricas entre regiões com diferentes taxas de cobertura vacinal, caracterizando um argumento baseado em dados estatísticos, e não em relatos, opiniões ou analogias.",
                                     "formato":  "direta"
                                 },
@@ -23288,11 +23304,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A recomendação médica descrita no texto se apoia principalmente em que tipo de argumento?",
                                     "alternativas":  {
                                                          "a":  "Argumento de exemplificação, baseado em um caso pessoal do autor.",
-                                                         "b":  "Argumento por analogia, que compara o sono a outro hábito cotidiano.",
-                                                         "c":  "Argumento de autoridade, baseado em estudos e evidências de pesquisa.",
-                                                         "d":  "Argumento de senso comum, fundamentado na percepção popular sobre o sono."
+                                                         "b":  "Argumento de autoridade, baseado em estudos e evidências de pesquisa.",
+                                                         "c":  "Argumento por analogia, que compara o sono a outro hábito cotidiano.",
+                                                         "d":  "Argumento de senso comum, fundamentado na percepção popular sobre o sono.",
+                                                         "e":  "Argumento de consequência, que projeta os prejuízos futuros de manter o hábito atual."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "O texto atribui a recomendação médica a \u0027estudos\u0027 e não a \u0027impressões pessoais\u0027, caracterizando um argumento de autoridade, apoiado na credibilidade de pesquisas especializadas, e não em analogia, caso pessoal ou senso comum.",
                                     "formato":  "direta"
                                 },
@@ -23303,10 +23320,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "O parque é mais agradável à noite do que durante o dia.",
                                                          "b":  "O projeto de iluminação é o verdadeiro destaque do parque.",
-                                                         "c":  "O tamanho do parque importa menos aos moradores do que a iluminação.",
-                                                         "d":  "O parque tem 3,2 hectares e recebeu 40 mudas de árvores nativas."
+                                                         "c":  "O parque tem 3,2 hectares e recebeu 40 mudas de árvores nativas.",
+                                                         "d":  "O tamanho do parque importa menos aos moradores do que a iluminação.",
+                                                         "e":  "A escolha das espécies plantadas foi acertada para o clima da região."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "A área do parque e o número de mudas plantadas são dados verificáveis objetivamente, enquanto as demais alternativas reproduzem ou estendem o juízo de valor do autor sobre o que considera o \u0027verdadeiro destaque\u0027 do espaço.",
                                     "formato":  "direta"
                                 },
@@ -23318,7 +23336,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "O uso de drones tornou desnecessário o transporte por barcos na região, conforme afirma a notícia.",
                                                          "b":  "A aviação civil já aprovou integralmente a expansão do projeto de entrega por drones para todo o estado e regiões vizinhas.",
                                                          "c":  "As comunidades ribeirinhas rejeitaram o uso de drones para entrega de remédios, preferindo os barcos.",
-                                                         "d":  "A entrega de medicamentos por drones reduziu o tempo de acesso a comunidades ribeirinhas, mas segue em fase experimental."
+                                                         "d":  "A entrega de medicamentos por drones reduziu o tempo de acesso a comunidades ribeirinhas, mas segue em fase experimental.",
+                                                         "e":  "O projeto de entrega por drones foi desenvolvido por uma universidade da região em parceria com o governo estadual."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "A notícia relata um ganho concreto (redução do tempo de entrega) associado a uma ressalva (caráter experimental e dependência de autorização), sem afirmar o fim do transporte por barco nem uma aprovação definitiva.",
@@ -23330,11 +23349,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O narrador descreve a fila da padaria principalmente como",
                                     "alternativas":  {
                                                          "a":  "um incômodo que ele gostaria de evitar todos os sábados.",
-                                                         "b":  "um momento de convivência despretensiosa que ele aprecia.",
-                                                         "c":  "uma situação de conflito entre os vizinhos do bairro.",
-                                                         "d":  "uma perda de tempo que atrapalha seus compromissos urgentes."
+                                                         "b":  "uma situação de conflito entre os vizinhos do bairro.",
+                                                         "c":  "uma perda de tempo que atrapalha seus compromissos urgentes.",
+                                                         "d":  "uma tradição de bairro que ele considera ultrapassada, mas mantém por hábito.",
+                                                         "e":  "um momento de convivência despretensiosa que ele aprecia."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "O tom afetivo do trecho, especialmente a expressão \u0027feliz por não ter nada urgente a fazer\u0027, revela apreço do narrador pela convivência despretensiosa da fila, não incômodo ou indiferença.",
                                     "formato":  "direta"
                                 },
@@ -23343,12 +23363,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Tornar o estágio obrigatório em todos os cursos superiores, sem exceção, é uma medida que soa bem no papel, mas ignora realidades distintas entre áreas de formação. Cursos de forte base teórica, como filosofia ou matemática pura, nem sempre oferecem ao mercado vagas de estágio equivalentes às de cursos técnicos. Antes de universalizar a exigência, seria mais sensato ouvir cada área sobre suas necessidades específicas.",
                                     "enunciado":  "Qual é a posição defendida pelo autor do texto?",
                                     "alternativas":  {
-                                                         "a":  "O mercado de trabalho não oferece nenhuma vaga de estágio atualmente, em nenhuma área de formação.",
-                                                         "b":  "A exigência de estágio obrigatório deveria considerar as particularidades de cada área de formação, não ser universal.",
+                                                         "a":  "A exigência de estágio obrigatório deveria considerar as particularidades de cada área de formação, não ser universal.",
+                                                         "b":  "O mercado de trabalho não oferece nenhuma vaga de estágio atualmente, em nenhuma área de formação.",
                                                          "c":  "O estágio obrigatório deve ser aplicado da mesma forma em todos os cursos superiores, sem exceção.",
-                                                         "d":  "Cursos de base teórica, como filosofia ou matemática pura, não deveriam existir nas universidades."
+                                                         "d":  "Cursos de base teórica, como filosofia ou matemática pura, não deveriam existir nas universidades.",
+                                                         "e":  "A obrigatoriedade do estágio deveria ser substituída por um exame nacional de habilidades práticas."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "a",
                                     "explicacao":  "O autor questiona a universalização da exigência e propõe que cada área seja ouvida sobre suas necessidades, sem negar a importância do estágio, mas pedindo flexibilidade na aplicação da regra.",
                                     "formato":  "direta"
                                 },
@@ -23358,11 +23379,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Segundo o texto, o que diferencia o sistema nervoso do polvo do de mamíferos?",
                                     "alternativas":  {
                                                          "a":  "Os polvos têm menos neurônios do que qualquer outro animal marinho, incluindo peixes e crustáceos.",
-                                                         "b":  "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
-                                                         "c":  "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
-                                                         "d":  "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha."
+                                                         "b":  "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
+                                                         "c":  "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
+                                                         "d":  "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha.",
+                                                         "e":  "Nos polvos, os neurônios concentram-se num cérebro central proporcionalmente maior que o dos mamíferos."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "O texto explica que, ao contrário dos mamíferos, os polvos têm neurônios distribuídos pelos braços, que podem processar informações e tomar decisões simples de forma relativamente independente do corpo central.",
                                     "formato":  "direta"
                                 },
@@ -23372,11 +23394,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O humor da tirinha decorre principalmente de",
                                     "alternativas":  {
                                                          "a":  "uma descrição detalhada do ambiente de trabalho dos personagens da tirinha, sem qualquer diálogo.",
-                                                         "b":  "uma resposta inesperada do chefe, que subverte a expectativa de que o pedido seria atendido.",
-                                                         "c":  "um elogio sincero do chefe ao desempenho do funcionário, reconhecendo seu esforço extra.",
-                                                         "d":  "uma explicação técnica sobre políticas de recursos humanos adotadas pela empresa dos personagens."
+                                                         "b":  "um elogio sincero do chefe ao desempenho do funcionário, reconhecendo seu esforço extra.",
+                                                         "c":  "uma resposta inesperada do chefe, que subverte a expectativa de que o pedido seria atendido.",
+                                                         "d":  "uma explicação técnica sobre políticas de recursos humanos adotadas pela empresa dos personagens.",
+                                                         "e":  "um mal-entendido entre dois funcionários que interpretam de modos opostos a mesma ordem."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "c",
                                     "explicacao":  "O humor surge da quebra de expectativa: em vez de conceder o aumento, o chefe usa o argumento do funcionário para justificar uma demissão, gerando o efeito cômico e irônico da tirinha.",
                                     "formato":  "direta"
                                 },
@@ -23385,12 +23408,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Água engarrafada ExtraPura: cada gota vem de fontes protegidas, sem intervenção humana até o momento do engarrafamento. Escolha quem escolhe a natureza. ExtraPura: pureza que você sente, todos os dias, em cada gole.",
                                     "enunciado":  "Do ponto de vista da linguagem publicitária, a frase \u0027pureza que você sente\u0027 tem como principal função",
                                     "alternativas":  {
-                                                         "a":  "associar o produto a uma experiência sensorial positiva, apelando à emoção do consumidor.",
-                                                         "b":  "apresentar um dado técnico comprovado sobre a composição química da água engarrafada.",
-                                                         "c":  "informar objetivamente o processo industrial de engarrafamento utilizado pela marca ExtraPura.",
-                                                         "d":  "comparar tecnicamente a marca ExtraPura com produtos concorrentes do mesmo segmento."
+                                                         "a":  "apresentar um dado técnico comprovado sobre a composição química da água engarrafada.",
+                                                         "b":  "informar objetivamente o processo industrial de engarrafamento utilizado pela marca ExtraPura.",
+                                                         "c":  "comparar tecnicamente a marca ExtraPura com produtos concorrentes do mesmo segmento.",
+                                                         "d":  "associar o produto a uma experiência sensorial positiva, apelando à emoção do consumidor.",
+                                                         "e":  "sugerir que o produto passou por certificação sensorial independente antes de chegar ao consumidor."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "d",
                                     "explicacao":  "A linguagem publicitária costuma apelar a sensações e emoções para persuadir o consumidor, e não a dados técnicos comprovados, o que se observa na expressão \u0027pureza que você sente\u0027.",
                                     "formato":  "direta"
                                 },
@@ -23399,12 +23423,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Levantamento de uma federação de comércio mostrou que 68% dos pequenos negócios abertos durante a pandemia ainda estavam em atividade cinco anos depois, índice superior ao registrado em períodos anteriores à crise sanitária. Para especialistas ouvidos pela reportagem, a digitalização acelerada dos processos de venda pode explicar parte dessa maior taxa de sobrevivência.",
                                     "enunciado":  "Qual explicação é sugerida pelos especialistas para o fenômeno relatado na notícia?",
                                     "alternativas":  {
-                                                         "a":  "A digitalização acelerada dos processos de venda, que pode ter contribuído para a maior sobrevivência dos negócios.",
-                                                         "b":  "A redução do número de pequenos negócios abertos durante a pandemia, segundo dados da própria federação de comércio citada.",
-                                                         "c":  "O fechamento definitivo do comércio físico em todo o país, substituído inteiramente pelo digital.",
-                                                         "d":  "A ausência total de concorrência durante o período pandêmico, favorecendo os negócios sobreviventes."
+                                                         "a":  "A redução do número de pequenos negócios abertos durante a pandemia, segundo dados da própria federação de comércio citada.",
+                                                         "b":  "O fechamento definitivo do comércio físico em todo o país, substituído inteiramente pelo digital.",
+                                                         "c":  "A ausência total de concorrência durante o período pandêmico, favorecendo os negócios sobreviventes.",
+                                                         "d":  "A migração de consumidores para cidades menores durante o período, segundo os especialistas ouvidos.",
+                                                         "e":  "A digitalização acelerada dos processos de venda, que pode ter contribuído para a maior sobrevivência dos negócios."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "e",
                                     "explicacao":  "O texto atribui explicitamente aos especialistas a hipótese de que a digitalização acelerada dos processos de venda explica parte da maior taxa de sobrevivência dos pequenos negócios.",
                                     "formato":  "direta"
                                 },
@@ -23416,7 +23441,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "A busca por um momento de silêncio socialmente aceitável.",
                                                          "b":  "O desejo de vender o peixe pescado no mercado local.",
                                                          "c":  "A vontade de ensinar técnicas de pesca ao neto.",
-                                                         "d":  "A necessidade de garantir alimento para a família."
+                                                         "d":  "A necessidade de garantir alimento para a família.",
+                                                         "e":  "O hábito de acompanhar as marés e prever o tempo, aprendido por ele ainda na juventude."
                                                      },
                                     "resposta":  "a",
                                     "explicacao":  "O texto afirma diretamente que o avô \u0027pescava para ficar em silêncio sem que ninguém achasse estranho\u0027, indicando que a pesca era apenas um pretexto socialmente aceito para o silêncio.",
@@ -23427,12 +23453,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O fechamento de bibliotecas públicas, justificado por cortes orçamentários, costuma ser tratado como um problema estritamente financeiro. Mas reduzir a questão a números ignora o papel dessas instituições como um dos últimos espaços públicos gratuitos de acesso à informação, sobretudo para quem não tem internet ou livros em casa. Cortar bibliotecas é, antes de tudo, uma escolha política.",
                                     "enunciado":  "Qual é o argumento central do autor contra a redução da questão a um problema financeiro?",
                                     "alternativas":  {
-                                                         "a":  "Bibliotecas cumprem função social de acesso gratuito à informação, tornando seu fechamento uma escolha política.",
-                                                         "b":  "O orçamento público nunca deveria ser reduzido, em nenhuma hipótese, mesmo diante de outras prioridades urgentes.",
+                                                         "a":  "O orçamento público nunca deveria ser reduzido, em nenhuma hipótese, mesmo diante de outras prioridades urgentes.",
+                                                         "b":  "Bibliotecas cumprem função social de acesso gratuito à informação, tornando seu fechamento uma escolha política.",
                                                          "c":  "Todas as pessoas já têm acesso à internet e a livros em casa, tornando as bibliotecas desnecessárias.",
-                                                         "d":  "As bibliotecas não têm nenhuma relevância social atualmente, mesmo para quem não tem internet em casa."
+                                                         "d":  "As bibliotecas não têm nenhuma relevância social atualmente, mesmo para quem não tem internet em casa.",
+                                                         "e":  "Os gastos com bibliotecas representam parcela pequena do orçamento, o que torna o corte irrelevante em termos fiscais."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "b",
                                     "explicacao":  "O autor argumenta que as bibliotecas cumprem uma função social relevante e, por isso, seu fechamento não deve ser visto apenas como uma questão de números, mas como uma escolha política, conforme concluído explicitamente no texto.",
                                     "formato":  "direta"
                                 },
@@ -23443,10 +23470,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "A segurança alimentar global é a causa do declínio das populações de abelhas, invertendo assim a relação real do texto.",
                                                          "b":  "As abelhas não têm qualquer papel na produção agrícola mundial, ao contrário do que afirma o texto.",
-                                                         "c":  "O declínio das abelhas é causado exclusivamente por fatores climáticos, não mencionados no texto.",
-                                                         "d":  "O uso de pesticidas e a perda de habitat estão associados ao declínio das abelhas, ameaçando a segurança alimentar."
+                                                         "c":  "O uso de pesticidas e a perda de habitat estão associados ao declínio das abelhas, ameaçando a segurança alimentar.",
+                                                         "d":  "O declínio das abelhas é causado exclusivamente por fatores climáticos, não mencionados no texto.",
+                                                         "e":  "A perda de habitat é consequência, e não causa, do declínio das populações de abelhas."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "O texto estabelece uma cadeia causal explícita: pesticidas e perda de habitat causam o declínio das abelhas, que por sua vez ameaça a segurança alimentar mundial, dada sua importância na polinização.",
                                     "formato":  "direta"
                                 },
@@ -23458,7 +23486,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "em uma explicação séria sobre como robôs domésticos funcionam tecnicamente na vida real.",
                                                          "b":  "na incapacidade técnica real de qualquer robô doméstico existente executar tarefas simultâneas de fato.",
                                                          "c":  "em uma crítica direta ao consumo excessivo de energia elétrica pelos eletrodomésticos modernos.",
-                                                         "d":  "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação."
+                                                         "d":  "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação.",
+                                                         "e":  "na recusa do robô em executar uma tarefa que considera abaixo de suas funções."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "O efeito cômico decorre da lógica literal e absurda do robô: ao tentar conciliar as duas opções, ele conclui, de forma irônica, que \u0027escolher os dois\u0027 significa não fazer nenhum, subvertendo a expectativa do leitor.",
@@ -23470,11 +23499,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A expressão \u0027a vida é curta, as malas não precisam ser grandes\u0027 funciona no texto publicitário como",
                                     "alternativas":  {
                                                          "a":  "um dado estatístico sobre a duração média das viagens vendidas pela agência ViaJá Turismo.",
-                                                         "b":  "um jogo de palavras que associa, de forma persuasiva, simplicidade material à urgência de viver experiências.",
-                                                         "c":  "uma instrução técnica sobre o peso máximo permitido nas bagagens despachadas pela agência.",
-                                                         "d":  "uma crítica direta aos concorrentes da agência de viagens ViaJá, citados nominalmente nesse anúncio publicitário."
+                                                         "b":  "uma instrução técnica sobre o peso máximo permitido nas bagagens despachadas pela agência.",
+                                                         "c":  "uma crítica direta aos concorrentes da agência de viagens ViaJá, citados nominalmente nesse anúncio publicitário.",
+                                                         "d":  "uma referência ao slogan anterior da agência, retomado agora em tom nostálgico.",
+                                                         "e":  "um jogo de palavras que associa, de forma persuasiva, simplicidade material à urgência de viver experiências."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "A expressão emprega um recurso publicitário de persuasão emocional, associando a ideia de vida curta (urgência de viver) à simplicidade das malas, sem qualquer intenção de fornecer dado técnico ou estatístico.",
                                     "formato":  "direta"
                                 },
@@ -23483,12 +23513,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O preço médio do aluguel residencial na capital subiu 18% no último ano, segundo levantamento de um portal imobiliário. O índice considera apenas contratos novos assinados no período, o que sugere que o valor pago por quem já mora no imóvel há mais tempo pode ser sensivelmente diferente do praticado atualmente no mercado.",
                                     "enunciado":  "O que se pode inferir sobre inquilinos com contratos antigos, a partir do texto?",
                                     "alternativas":  {
-                                                         "a":  "Eles certamente pagam exatamente o mesmo valor médio informado pelo levantamento imobiliário citado.",
-                                                         "b":  "Eles foram excluídos do mercado imobiliário da cidade após a alta no preço dos aluguéis.",
-                                                         "c":  "É provável que paguem valores diferentes dos praticados hoje, pois o índice considera só contratos novos.",
-                                                         "d":  "O levantamento comprova que todos os aluguéis da cidade aumentaram igualmente, sem exceção."
+                                                         "a":  "É provável que paguem valores diferentes dos praticados hoje, pois o índice considera só contratos novos.",
+                                                         "b":  "Eles certamente pagam exatamente o mesmo valor médio informado pelo levantamento imobiliário citado.",
+                                                         "c":  "Eles foram excluídos do mercado imobiliário da cidade após a alta no preço dos aluguéis.",
+                                                         "d":  "O levantamento comprova que todos os aluguéis da cidade aumentaram igualmente, sem exceção.",
+                                                         "e":  "É provável que paguem valores superiores à média atual, já que contratos antigos acumulam reajustes sucessivos."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "a",
                                     "explicacao":  "Como o índice considera apenas contratos novos, o texto permite inferir que inquilinos com contratos antigos provavelmente pagam valores diferentes dos praticados atualmente no mercado, informação que fica implícita na ressalva apresentada.",
                                     "formato":  "direta"
                                 },
@@ -23498,11 +23529,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Que tipo de argumento os professores utilizam ao citar esse caso para incentivar outras famílias?",
                                     "alternativas":  {
                                                          "a":  "Argumento causal abstrato, sem referência a um caso particular.",
-                                                         "b":  "Argumento por analogia, que compara a leitura a outro hábito escolar.",
-                                                         "c":  "Argumento de autoridade, baseado em pesquisa científica sobre hábitos de leitura.",
-                                                         "d":  "Argumento de exemplificação, baseado em um caso concreto e ilustrativo."
+                                                         "b":  "Argumento de exemplificação, baseado em um caso concreto e ilustrativo.",
+                                                         "c":  "Argumento por analogia, que compara a leitura a outro hábito escolar.",
+                                                         "d":  "Argumento de autoridade, baseado em pesquisa científica sobre hábitos de leitura.",
+                                                         "e":  "Argumento de consequência, que projeta os efeitos futuros da ausência do hábito de leitura."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "b",
                                     "explicacao":  "O relato do caso específico da aluna, usado para ilustrar e sustentar a tese sobre a importância da leitura, caracteriza o argumento de exemplificação, diferente do argumento de autoridade, da analogia ou de uma formulação causal sem exemplo.",
                                     "formato":  "direta"
                                 },
@@ -23512,11 +23544,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Qual é a ideia central expressa pela pesquisa relatada no texto?",
                                     "alternativas":  {
                                                          "a":  "As ONGs ambientais não oferecem qualquer tipo de reconhecimento a seus voluntários, segundo a pesquisa.",
-                                                         "b":  "A principal motivação dos voluntários pesquisados é o senso de pertencimento à causa, não o reconhecimento formal.",
-                                                         "c":  "Os voluntários de ONGs ambientais atuam sempre principalmente em busca de reconhecimento público e certificados formais.",
-                                                         "d":  "A maioria dos voluntários abandonaria o trabalho caso não recebesse certificados ou menções públicas."
+                                                         "b":  "Os voluntários de ONGs ambientais atuam sempre principalmente em busca de reconhecimento público e certificados formais.",
+                                                         "c":  "A principal motivação dos voluntários pesquisados é o senso de pertencimento à causa, não o reconhecimento formal.",
+                                                         "d":  "A maioria dos voluntários abandonaria o trabalho caso não recebesse certificados ou menções públicas.",
+                                                         "e":  "O reconhecimento formal oferecido pelas ONGs é o fator que mais retém voluntários a longo prazo."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "c",
                                     "explicacao":  "O texto afirma explicitamente que a principal motivação dos voluntários é o senso de pertencimento à causa coletiva, e não o reconhecimento formal, reforçado pelo dado de que a maioria continuaria mesmo sem certificados.",
                                     "formato":  "direta"
                                 },
@@ -23527,10 +23560,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "de elogio técnico e sincero às habilidades de marcenaria demonstradas pelo vizinho.",
                                                          "b":  "de admiração sincera e isenta de qualquer incômodo com o barulho tardio.",
-                                                         "c":  "de ironia, disfarçando como elogio o incômodo causado pelo barulho tardio.",
-                                                         "d":  "de indiferença total à situação descrita, sem qualquer reação do narrador."
+                                                         "c":  "de indiferença total à situação descrita, sem qualquer reação do narrador.",
+                                                         "d":  "de ironia, disfarçando como elogio o incômodo causado pelo barulho tardio.",
+                                                         "e":  "de resignação bem-humorada, sem que se possa identificar crítica ao vizinho."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "d",
                                     "explicacao":  "O suposto elogio à \u0027dedicação\u0027 do vizinho contrasta com o incômodo evidente causado pelo barulho tardio, caracterizando um recurso irônico típico da crônica, e não admiração sincera.",
                                     "formato":  "direta"
                                 },
@@ -23541,10 +23575,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "O restaurante abriu há três meses no bairro, segundo informado no início do texto.",
                                                          "b":  "O restaurante soma 40 mesas na área externa, de acordo com a descrição apresentada.",
-                                                         "c":  "O risoto de limão-siciliano é considerado, pelo autor, o melhor da cidade.",
-                                                         "d":  "O restaurante está localizado no bairro mencionado, próximo à área residencial central."
+                                                         "c":  "O restaurante está localizado no bairro mencionado, próximo à área residencial central.",
+                                                         "d":  "O restaurante oferece opções vegetarianas no cardápio, conforme descrito no texto.",
+                                                         "e":  "O risoto de limão-siciliano é considerado, pelo autor, o melhor da cidade."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "e",
                                     "explicacao":  "A afirmação sobre o risoto é marcada pelas expressões \u0027na minha opinião\u0027 e \u0027considero\u0027, caracterizando um juízo de valor subjetivo, diferente dos dados verificáveis apresentados nas demais alternativas.",
                                     "formato":  "direta"
                                 },
@@ -23553,12 +23588,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O desmatamento contínuo em regiões de transição climática reduz a capacidade do solo de reter umidade, o que diminui a formação de chuvas locais. Com menos chuva, a vegetação nativa tem dificuldade de se regenerar, criando um ciclo que pode levar, em décadas, à desertificação de áreas antes férteis.",
                                     "enunciado":  "A estrutura argumentativa do texto é organizada principalmente em torno de",
                                     "alternativas":  {
-                                                         "a":  "uma comparação entre dois biomas distintos apresentados no texto sem qualquer relação causal.",
-                                                         "b":  "uma sequência de causas e consequências encadeadas, formando um ciclo que leva à desertificação.",
+                                                         "a":  "uma sequência de causas e consequências encadeadas, formando um ciclo que leva à desertificação.",
+                                                         "b":  "uma comparação entre dois biomas distintos apresentados no texto sem qualquer relação causal.",
                                                          "c":  "uma definição isolada do conceito de desertificação, sem qualquer relação causal com o desmatamento.",
-                                                         "d":  "uma crítica pessoal do autor às políticas ambientais vigentes na região de transição climática."
+                                                         "d":  "uma crítica pessoal do autor às políticas ambientais vigentes na região de transição climática.",
+                                                         "e":  "uma progressão cronológica que acompanha a evolução histórica do fenômeno na região."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "a",
                                     "explicacao":  "O texto encadeia uma sequência de causas e efeitos (desmatamento, redução de umidade, menos chuva, dificuldade de regeneração, desertificação), formando um ciclo argumentativo característico da relação de causa e consequência.",
                                     "formato":  "direta"
                                 },
@@ -23568,11 +23604,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "De acordo com a fala da entrevistada, o que motivou, de fato, sua decisão de mudar de carreira?",
                                     "alternativas":  {
                                                          "a":  "A garantia prévia de que a marcenaria teria sucesso financeiro imediato após a mudança.",
-                                                         "b":  "A ausência total de medo em relação à nova profissão, segundo ela mesma relata.",
-                                                         "c":  "Um convite inesperado de familiares para abrir o negócio, motivo não mencionado por ela.",
-                                                         "d":  "O fato de o medo de permanecer na mesma situação ter superado o medo da mudança."
+                                                         "b":  "O fato de o medo de permanecer na mesma situação ter superado o medo da mudança.",
+                                                         "c":  "A ausência total de medo em relação à nova profissão, segundo ela mesma relata.",
+                                                         "d":  "Um convite inesperado de familiares para abrir o negócio, motivo não mencionado por ela.",
+                                                         "e":  "A perspectiva de renda superior à do emprego anterior, mencionada por ela ao longo da entrevista."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "b",
                                     "explicacao":  "A entrevistada afirma explicitamente que o medo de continuar do mesmo jeito \u0027ficou maior\u0027 que o medo de mudar, indicando que a decisão nasceu de uma balança entre dois medos, e não da ausência de medo.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23584,10 +23621,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "O congestionamento urbano é um problema sem solução possível, segundo conclui o editorial.",
                                                          "b":  "Trens e metrôs são tecnologias ultrapassadas frente às rodovias modernas, segundo afirma esse editorial específico.",
-                                                         "c":  "A construção de rodovias deveria ser imediatamente proibida em todas as cidades, sem exceção.",
-                                                         "d":  "Investimentos em transporte coletivo, não em mais vias para carros, reduzem melhor o congestionamento urbano."
+                                                         "c":  "Investimentos em transporte coletivo, não em mais vias para carros, reduzem melhor o congestionamento urbano.",
+                                                         "d":  "A construção de rodovias deveria ser imediatamente proibida em todas as cidades, sem exceção.",
+                                                         "e":  "A ampliação de vias expressas deve ser acompanhada de pedágio urbano que financie o transporte coletivo."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "O editorial argumenta, com o exemplo das cidades que investiram em transporte coletivo, que essa é a estratégia eficaz, contrapondo-a à expansão de rodovias, que atrairia mais carros e recriaria o congestionamento — sem propor proibição nem afirmar que o problema é insolúvel.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23600,7 +23638,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "o tamanho do celular exibido na cena e o tamanho das caixas de entrega empilhadas até o teto da sala retratada na charge.",
                                                          "b":  "a cor das sacolas de compras e a cor das caixas de entrega empilhadas ao fundo da cena retratada.",
                                                          "c":  "a semelhança entre o texto do cartaz na parede e a mensagem publicitária recebida no celular.",
-                                                         "d":  "a expressão de satisfação do homem diante da nova oferta e o cartaz que contradiz seu comportamento consumista."
+                                                         "d":  "a expressão de satisfação do homem diante da nova oferta e o cartaz que contradiz seu comportamento consumista.",
+                                                         "e":  "a quantidade de produtos anunciados no cartaz e o número de itens efetivamente entregues na cena."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "A crítica ao consumismo compulsivo emerge do contraste entre a atitude do homem, sempre disposto a comprar mais, e a frase do cartaz, que ironicamente desmente essa atitude, evidenciando a incoerência entre discurso e comportamento.",
@@ -23613,11 +23652,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O humor do texto surge principalmente do fato de o narrador",
                                     "alternativas":  {
                                                          "a":  "explicar cientificamente as causas biológicas da insônia, tema que o texto não desenvolve em nenhum momento.",
-                                                         "b":  "reconhecer que seu próprio raciocínio é falho, mas ainda assim se deixar convencer por ele no momento.",
-                                                         "c":  "culpar exclusivamente o vizinho barulhento por toda a sua noite maldormida, sem mencionar a própria lógica.",
-                                                         "d":  "afirmar que dormir pouco nunca trouxe nenhuma consequência real para ele, ao longo de toda a crônica."
+                                                         "b":  "culpar exclusivamente o vizinho barulhento por toda a sua noite maldormida, sem mencionar a própria lógica.",
+                                                         "c":  "afirmar que dormir pouco nunca trouxe nenhuma consequência real para ele, ao longo de toda a crônica.",
+                                                         "d":  "descrever com exagero cômico a sequência de ruídos que ouviu ao longo de toda a madrugada.",
+                                                         "e":  "reconhecer que seu próprio raciocínio é falho, mas ainda assim se deixar convencer por ele no momento."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "O efeito cômico vem da autoconsciência irônica do narrador: ele admite que a lógica de não dormir é \u0027péssima\u0027, mas cede a ela mesmo assim, um recurso típico da crônica de observação do cotidiano.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23627,12 +23667,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Ao contrário do que a intuição sugere, lembrar de um evento repetidas vezes não é como reproduzir uma gravação fiel: cada evocação reabre a memória e a torna temporariamente mais suscetível a pequenas alterações antes de ser \u0027guardada\u0027 novamente, processo chamado de reconsolidação. Isso explica por que testemunhas oculares, mesmo confiantes e bem-intencionadas, podem descrever com precisão detalhes que, comprovadamente, nunca aconteceram.",
                                     "enunciado":  "Com base no conceito de reconsolidação apresentado no texto, é correto inferir que",
                                     "alternativas":  {
-                                                         "a":  "memórias reconsolidadas tornam-se, a partir de certo ponto, totalmente impossíveis de ser evocadas novamente.",
-                                                         "b":  "quanto mais uma pessoa relembra um evento, mais fiel e imutável a lembrança se torna.",
-                                                         "c":  "o próprio ato de relembrar pode introduzir imprecisões na memória, mesmo sem má-fé de quem recorda.",
-                                                         "d":  "a confiança de uma testemunha ocular é, por si só, garantia suficiente de exatidão do relato."
+                                                         "a":  "o próprio ato de relembrar pode introduzir imprecisões na memória, mesmo sem má-fé de quem recorda.",
+                                                         "b":  "memórias reconsolidadas tornam-se, a partir de certo ponto, totalmente impossíveis de ser evocadas novamente.",
+                                                         "c":  "quanto mais uma pessoa relembra um evento, mais fiel e imutável a lembrança se torna.",
+                                                         "d":  "a confiança de uma testemunha ocular é, por si só, garantia suficiente de exatidão do relato.",
+                                                         "e":  "a reconsolidação ocorre apenas durante o sono, o que protege a memória das interferências do dia."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "a",
                                     "explicacao":  "O texto explica que cada evocação reabre a memória, tornando-a \u0027suscetível a pequenas alterações\u0027, o que permite inferir que a repetição não garante fidelidade e pode até introduzir erros, mesmo em testemunhas confiantes e bem-intencionadas.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23643,11 +23684,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "No discurso, a relação estabelecida pelo orador entre \u0027paixão\u0027 e \u0027paciência\u0027 é de",
                                     "alternativas":  {
                                                          "a":  "indiferença, pois o orador afirma que nenhum dos dois conceitos importa para o trabalho.",
-                                                         "b":  "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
-                                                         "c":  "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
-                                                         "d":  "causa e efeito, em que a paixão é apontada como consequência direta da paciência."
+                                                         "b":  "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
+                                                         "c":  "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
+                                                         "d":  "causa e efeito, em que a paixão é apontada como consequência direta da paciência.",
+                                                         "e":  "complementaridade, em que a paixão inicia o percurso e a paciência apenas o mantém."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "O orador contrapõe os dois conceitos, valorizando a paciência por ser constante (\u0027sustenta o trabalho\u0027), enquanto a paixão é descrita como intermitente (\u0027vai e volta\u0027), o que caracteriza uma contraposição, não uma equivalência ou relação causal.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23657,12 +23699,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O filme estreou em 120 salas no país e arrecadou R$ 4,2 milhões no primeiro fim de semana. A fotografia é competente e o elenco, bem dirigido; ainda assim, para mim, o terceiro ato desperdiça o dilema moral construído nos primeiros quarenta minutos, resolvendo tudo com uma reviravolta fácil demais para o que o filme prometia.",
                                     "enunciado":  "Nessa resenha, qual trecho expressa um enunciado de fato, verificável independentemente da avaliação do crítico?",
                                     "alternativas":  {
-                                                         "a":  "O filme estreou em 120 salas no país e arrecadou R$ 4,2 milhões no primeiro fim de semana.",
-                                                         "b":  "O terceiro ato desperdiça o dilema moral construído nos primeiros quarenta minutos.",
-                                                         "c":  "A reviravolta final é fácil demais para o que o filme prometia, na avaliação pessoal do crítico.",
-                                                         "d":  "A fotografia é competente e o elenco, bem dirigido, elogio que expressa a opinião do crítico."
+                                                         "a":  "O terceiro ato desperdiça o dilema moral construído nos primeiros quarenta minutos.",
+                                                         "b":  "A reviravolta final é fácil demais para o que o filme prometia, na avaliação pessoal do crítico.",
+                                                         "c":  "O filme estreou em 120 salas no país e arrecadou R$ 4,2 milhões no primeiro fim de semana.",
+                                                         "d":  "A fotografia é competente e o elenco, bem dirigido, elogio que expressa a opinião do crítico.",
+                                                         "e":  "O diretor demonstra domínio raro do ritmo narrativo, na avaliação do crítico."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "c",
                                     "explicacao":  "O número de salas e o valor de bilheteria são dados objetivos, passíveis de verificação externa, enquanto os demais trechos expressam juízos de valor do crítico sobre a qualidade do filme.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23675,7 +23718,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "os algoritmos são programados deliberadamente por empresas para divulgar notícias falsas aos usuários.",
                                                          "b":  "os usuários nunca demonstram interesse genuíno pelos vídeos sensacionalistas que assistem por curiosidade.",
                                                          "c":  "as plataformas de recomendação deixaram de existir na maioria dos aplicativos usados atualmente.",
-                                                         "d":  "o critério de seleção do algoritmo é o tempo de atenção capturado, não a veracidade do conteúdo."
+                                                         "d":  "o critério de seleção do algoritmo é o tempo de atenção capturado, não a veracidade do conteúdo.",
+                                                         "e":  "os algoritmos priorizam veículos jornalísticos tradicionais em detrimento de criadores independentes."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "O texto afirma que o algoritmo \u0027aprendeu o que prende sua atenção por mais tempo\u0027, não que avalia veracidade, o que sustenta a crítica de que a plataforma amplifica conteúdo por engajamento, e não por neutralidade.",
@@ -23687,12 +23731,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "\"Minha mãe guardava silêncio como quem guarda dinheiro: pouco a pouco, com medo de faltar quando mais precisasse.\"",
                                     "enunciado":  "A comparação estabelecida no verso relaciona \u0027silêncio\u0027 e \u0027dinheiro\u0027 com base em qual característica comum?",
                                     "alternativas":  {
-                                                         "a":  "A ideia de acumulação cautelosa, guardada aos poucos por receio de escassez futura.",
-                                                         "b":  "O fato de ambos serem, na visão da mãe, coisas descartáveis e sem valor.",
-                                                         "c":  "A associação direta entre riqueza material e capacidade de falar mais.",
-                                                         "d":  "A afirmação de que o silêncio da mãe tinha, literalmente, valor financeiro real e concreto."
+                                                         "a":  "O fato de ambos serem, na visão da mãe, coisas descartáveis e sem valor.",
+                                                         "b":  "A associação direta entre riqueza material e capacidade de falar mais.",
+                                                         "c":  "A afirmação de que o silêncio da mãe tinha, literalmente, valor financeiro real e concreto.",
+                                                         "d":  "A ideia de que ambos circulam entre as pessoas e mudam de dono com facilidade.",
+                                                         "e":  "A ideia de acumulação cautelosa, guardada aos poucos por receio de escassez futura."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "e",
                                     "explicacao":  "A metáfora aproxima os dois elementos pelo modo de lidar com eles: guardar \u0027pouco a pouco, com medo de faltar\u0027, o que remete a uma lógica de poupança cautelosa, não a um julgamento sobre valor material do silêncio.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23702,12 +23747,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "A seleção venceu por 2 a 1 e chegou aos 15 pontos na classificação, mantendo a liderança do grupo. \u0027Fizemos um jogo inteligente, sofremos no primeiro tempo, mas ajustamos a marcação no intervalo\u0027, avaliou o técnico após a partida.",
                                     "enunciado":  "No trecho, é possível distinguir claramente entre",
                                     "alternativas":  {
-                                                         "a":  "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
-                                                         "b":  "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
-                                                         "c":  "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
-                                                         "d":  "informações objetivas sobre o resultado e a classificação, e uma avaliação subjetiva do técnico sobre o jogo."
+                                                         "a":  "informações objetivas sobre o resultado e a classificação, e uma avaliação subjetiva do técnico sobre o jogo.",
+                                                         "b":  "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
+                                                         "c":  "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
+                                                         "d":  "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
+                                                         "e":  "duas avaliações do técnico feitas em momentos diferentes da temporada, sem dados de classificação."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "a",
                                     "explicacao":  "O placar e a pontuação na tabela são dados objetivos e verificáveis, enquanto a fala entre aspas do técnico, sobre o jogo ter sido \u0027inteligente\u0027, representa uma avaliação subjetiva sobre a atuação da equipe.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23720,7 +23766,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "A escassez de professores é a única causa possível do burnout docente relatado pelos entrevistados.",
                                                          "b":  "O burnout leva profissionais experientes a deixar a profissão, o que agrava a escassez já existente.",
                                                          "c":  "Não existe nenhuma relação entre os dois fenômenos mencionados no texto, tratados como assuntos distintos.",
-                                                         "d":  "O burnout docente reduziu, comprovadamente, o número de turmas em todas as escolas da rede pública."
+                                                         "d":  "O burnout docente reduziu, comprovadamente, o número de turmas em todas as escolas da rede pública.",
+                                                         "e":  "A escassez de professores obriga a ampliar turmas, e o burnout surge como efeito colateral dessa ampliação."
                                                      },
                                     "resposta":  "b",
                                     "explicacao":  "O texto descreve uma cadeia causal explícita: exaustão emocional (burnout) leva ao abandono da profissão por professores experientes, o que agrava a escassez já existente na categoria — uma relação de causa e efeito, não o contrário.",
@@ -23735,7 +23782,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "indiferença, já que ela afirma não sentir falta de nada relacionado ao seu próprio passado.",
                                                          "b":  "ressentimento por ter se mudado de cidade e perdido contato com a amiga.",
                                                          "c":  "afeto e saudade, evidenciados pelo carinho com que relembra as conversas sem pressa.",
-                                                         "d":  "arrependimento por ter escrito a carta depois de tanto tempo sem contato."
+                                                         "d":  "arrependimento por ter escrito a carta depois de tanto tempo sem contato.",
+                                                         "e":  "orgulho pela trajetória profissional que a amiga construiu depois que as duas se afastaram."
                                                      },
                                     "resposta":  "c",
                                     "explicacao":  "Expressões como \u0027guardo com carinho\u0027 e \u0027sinto falta\u0027 revelam afeto e saudade das conversas compartilhadas, sem indícios de indiferença, ressentimento ou arrependimento no trecho.",
@@ -23747,12 +23795,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Alguns defensores da regulação rígida de sistemas de inteligência artificial argumentam que apenas leis restritivas podem evitar danos sociais. Ora, regulação em excesso, aplicada antes de se compreender plenamente a tecnologia, corre o risco de sufocar justamente as aplicações benéficas, como diagnósticos médicos assistidos, sem impedir de fato o uso malicioso, que dificilmente respeitará qualquer lei.",
                                     "enunciado":  "Como o autor do texto se posiciona em relação ao argumento dos defensores da regulação rígida?",
                                     "alternativas":  {
-                                                         "a":  "Apresenta um contra-argumento: a regulação excessiva pode prejudicar usos benéficos sem impedir o uso malicioso.",
-                                                         "b":  "Concorda plenamente com os defensores da regulação rígida, sem apresentar nenhuma ressalva ao argumento.",
-                                                         "c":  "Ignora completamente o argumento dos defensores, tratando de um tema totalmente diferente no texto.",
-                                                         "d":  "Defende que nenhuma forma de regulação, mesmo moderada, deveria existir para sistemas de inteligência artificial."
+                                                         "a":  "Concorda plenamente com os defensores da regulação rígida, sem apresentar nenhuma ressalva ao argumento.",
+                                                         "b":  "Ignora completamente o argumento dos defensores, tratando de um tema totalmente diferente no texto.",
+                                                         "c":  "Defende que nenhuma forma de regulação, mesmo moderada, deveria existir para sistemas de inteligência artificial.",
+                                                         "d":  "Apresenta um contra-argumento: a regulação excessiva pode prejudicar usos benéficos sem impedir o uso malicioso.",
+                                                         "e":  "Desloca o debate para a questão do financiamento público, sem enfrentar o argumento da regulação."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "d",
                                     "explicacao":  "O autor introduz o contra-argumento com \u0027ora\u0027, questionando a eficácia da regulação rígida e apontando um risco não mencionado pelos defensores, sem, no entanto, afirmar que toda forma de regulação é indesejável.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23762,12 +23811,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Nascida em uma família de agricultores, a cientista precisou percorrer 40 quilômetros diariamente até a escola mais próxima. Formou-se em química aos 24 anos e, duas décadas depois, liderou a equipe que desenvolveu um método mais barato de purificação de água para comunidades rurais, hoje adotado em mais de 800 municípios.",
                                     "enunciado":  "Qual é a ideia central veiculada por esse trecho biográfico?",
                                     "alternativas":  {
-                                                         "a":  "A trajetória da cientista, marcada por dificuldades de acesso à escola, resultou em contribuição relevante às comunidades.",
-                                                         "b":  "A cientista abandonou de vez os estudos ainda jovem devido à distância diária até a escola mais próxima de sua casa na infância.",
-                                                         "c":  "O método de purificação de água desenvolvido pela equipe nunca foi adotado por nenhum município do país.",
-                                                         "d":  "A cientista só conseguiu se formar em química depois dos 40 anos de idade, o que o texto não confirma."
+                                                         "a":  "A cientista abandonou de vez os estudos ainda jovem devido à distância diária até a escola mais próxima de sua casa na infância.",
+                                                         "b":  "O método de purificação de água desenvolvido pela equipe nunca foi adotado por nenhum município do país.",
+                                                         "c":  "A cientista só conseguiu se formar em química depois dos 40 anos de idade, o que o texto não confirma.",
+                                                         "d":  "O reconhecimento internacional recebido pela cientista, que a levou a dirigir um centro de pesquisa no exterior.",
+                                                         "e":  "A trajetória da cientista, marcada por dificuldades de acesso à escola, resultou em contribuição relevante às comunidades."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "e",
                                     "explicacao":  "O trecho articula a origem humilde e as dificuldades de acesso escolar com a conquista posterior (o método de purificação adotado por centenas de municípios), traçando uma trajetória de superação com impacto social, sem contradizer nenhum dado apresentado.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23777,12 +23827,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "O bairro recebeu, nos últimos cinco anos, três novos condomínios de alto padrão. Os antigos moradores comentam que o supermercado tradicional, antes o único da região, fechou as portas no ano passado, dando lugar a uma rede de conveniência voltada a produtos importados. O aluguel médio, segundo a imobiliária local, praticamente dobrou no período.",
                                     "enunciado":  "Com base no conjunto de informações apresentadas, é possível inferir que o bairro está passando por um processo de",
                                     "alternativas":  {
-                                                         "a":  "esvaziamento populacional completo do bairro, sem qualquer novo morador se instalando na região.",
-                                                         "b":  "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
+                                                         "a":  "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
+                                                         "b":  "esvaziamento populacional completo do bairro, sem qualquer novo morador se instalando na região.",
                                                          "c":  "tombamento histórico oficial do bairro por parte da prefeitura, medida não mencionada no texto.",
-                                                         "d":  "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto."
+                                                         "d":  "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto.",
+                                                         "e":  "conurbação com o município vizinho, evidenciada pela expansão contínua da malha urbana."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "a",
                                     "explicacao":  "Embora o texto não use a palavra \u0027gentrificação\u0027, o conjunto de dados (condomínios de alto padrão, fechamento do comércio tradicional, alta do aluguel) permite inferir esse processo, sem que o texto afirme explicitamente esse termo.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23793,11 +23844,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Ao afirmar \u0027Não é caridade: é aposta\u0027, a campanha da ONG busca, principalmente,",
                                     "alternativas":  {
                                                          "a":  "reafirmar que a doação de mochilas é, sobretudo, um gesto tradicional de caridade.",
-                                                         "b":  "informar tecnicamente sobre a logística de distribuição das mochilas doadas às escolas parceiras.",
-                                                         "c":  "reposicionar o sentido da doação, de um gesto de piedade para um investimento no potencial da criança.",
-                                                         "d":  "desestimular as doações, sugerindo que elas não têm efeito real sobre a vida das crianças atendidas pela ONG."
+                                                         "b":  "reposicionar o sentido da doação, de um gesto de piedade para um investimento no potencial da criança.",
+                                                         "c":  "informar tecnicamente sobre a logística de distribuição das mochilas doadas às escolas parceiras.",
+                                                         "d":  "desestimular as doações, sugerindo que elas não têm efeito real sobre a vida das crianças atendidas pela ONG.",
+                                                         "e":  "transferir ao poder público a responsabilidade que a campanha atribuía antes ao doador individual."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "A construção \u0027não é X, é Y\u0027 opera uma reformulação de sentido: a campanha rejeita a ideia de caridade (associada à piedade) e a substitui pela de aposta (associada a potencial e investimento), estratégia persuasiva típica de textos publicitários de causas sociais.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23808,11 +23860,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O efeito irônico do trecho final (\u0027parede decorativa cara\u0027) decorre do fato de",
                                     "alternativas":  {
                                                          "a":  "o texto descrever, de forma técnica, os materiais usados na fabricação da bicicleta comprada.",
-                                                         "b":  "o narrador atribuir à bicicleta parada uma função (\u0027decorar\u0027) oposta ao propósito de exercício original.",
-                                                         "c":  "o narrador elogiar sinceramente a beleza estética do objeto parado havia meses na varanda.",
-                                                         "d":  "a bicicleta ter sido, de fato, comprada desde o início com a única finalidade de decorar a varanda de casa."
+                                                         "b":  "o narrador elogiar sinceramente a beleza estética do objeto parado havia meses na varanda.",
+                                                         "c":  "o narrador atribuir à bicicleta parada uma função (\u0027decorar\u0027) oposta ao propósito de exercício original.",
+                                                         "d":  "a bicicleta ter sido, de fato, comprada desde o início com a única finalidade de decorar a varanda de casa.",
+                                                         "e":  "o narrador reconhecer que comprou a bicicleta por influência de um amigo, e não por vontade própria."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "c",
                                     "explicacao":  "A ironia surge do contraste entre o propósito inicial (exercício diário) e o destino real do objeto (decoração parada), tratado com humor por meio da expressão \u0027cumpre com extrema dedicação\u0027 aplicada a algo imóvel.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23824,10 +23877,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "adição, reforçando a ideia anterior sobre a mesada sem introduzir nenhuma ressalva ao raciocínio.",
                                                          "b":  "causa, indicando que guardar a mesada sozinha já seria sempre a causa direta do raciocínio financeiro adulto completo.",
-                                                         "c":  "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
-                                                         "d":  "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria."
+                                                         "c":  "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria.",
+                                                         "d":  "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
+                                                         "e":  "conclusão, apresentando o hábito de poupar como resultado necessário do que se afirmou antes."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "d",
                                     "explicacao":  "\u0027Contudo\u0027 introduz uma ressalva que contrapõe a ideia de que apenas guardar dinheiro não basta (primeira oração) à condição que de fato torna o hábito eficaz: vir acompanhado de reflexão sobre prioridades, caracterizando relação adversativa.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23839,10 +23893,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "Repetir, com outras palavras, exatamente a mesma informação já apresentada de forma clara no primeiro parágrafo do texto.",
                                                          "b":  "Negar integralmente a existência da descoberta arqueológica mencionada logo no primeiro parágrafo do texto.",
-                                                         "c":  "Relativizar o entusiasmo do primeiro parágrafo, indicando que a descoberta carece de confirmação científica rigorosa.",
-                                                         "d":  "Apresentar um argumento completamente desconectado do tema arqueológico tratado no primeiro parágrafo do texto."
+                                                         "c":  "Apresentar um argumento completamente desconectado do tema arqueológico tratado no primeiro parágrafo do texto.",
+                                                         "d":  "Detalhar a metodologia empregada pela equipe na datação do sítio arqueológico descrito antes.",
+                                                         "e":  "Relativizar o entusiasmo do primeiro parágrafo, indicando que a descoberta carece de confirmação científica rigorosa."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "e",
                                     "explicacao":  "O segundo parágrafo não nega a descoberta, mas introduz uma ressalva metodológica (necessidade de exames complementares) que modera o tom afirmativo do primeiro parágrafo, função comum em textos jornalísticos sobre ciência.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23852,12 +23907,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "No primeiro quadro, a pessoa está em reunião de vídeo, sorrindo e dizendo: \u0027Sim, total flexibilidade, adoro trabalhar de casa!\u0027. No segundo quadro, a câmera se afasta e mostra que ela está sentada na mesma cadeira desde as sete da manhã, com três notebooks abertos e um bilhete colado na parede: \u0027Só mais uma reunião e eu paro.\u0027 No terceiro quadro, é noite, e o bilhete continua ali, intocado.",
                                     "enunciado":  "O humor da tirinha se constrói principalmente pelo contraste entre",
                                     "alternativas":  {
-                                                         "a":  "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
-                                                         "b":  "a hora da manhã e a hora da noite marcadas no relógio, sem qualquer relação com o trabalho remoto.",
-                                                         "c":  "o discurso entusiasmado sobre a \u0027flexibilidade\u0027 do home office e a rotina exaustiva revelada nos quadros seguintes.",
-                                                         "d":  "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
+                                                         "a":  "o discurso entusiasmado sobre a \u0027flexibilidade\u0027 do home office e a rotina exaustiva revelada nos quadros seguintes.",
+                                                         "b":  "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
+                                                         "c":  "a hora da manhã e a hora da noite marcadas no relógio, sem qualquer relação com o trabalho remoto.",
+                                                         "d":  "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas.",
+                                                         "e":  "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "a",
                                     "explicacao":  "A tirinha ironiza o discurso da \u0027flexibilidade\u0027 do trabalho remoto ao revelar, nos quadros seguintes, uma rotina de trabalho contínuo e sem pausas, evidenciando a contradição entre o que é dito e o que de fato acontece.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23868,11 +23924,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Qual tese o texto defende em relação às playlists automáticas dos serviços de streaming?",
                                     "alternativas":  {
                                                          "a":  "As playlists automáticas favorecem igualmente artistas populares e desconhecidos, sem qualquer distorção.",
-                                                         "b":  "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários.",
-                                                         "c":  "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
-                                                         "d":  "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas."
+                                                         "b":  "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas.",
+                                                         "c":  "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários.",
+                                                         "d":  "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
+                                                         "e":  "As playlists automáticas ampliam o repertório do ouvinte, expondo-o a gêneros que ele não buscaria sozinho."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "b",
                                     "explicacao":  "O texto contrapõe o discurso de personalização (\u0027feitas sob medida\u0027) à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23882,12 +23939,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Depois de anunciar publicamente que se afastaria temporariamente das competições por motivos de saúde mental, a atleta recebeu tanto apoio quanto críticas. Nas entrelinhas de muitos comentários hostis, no entanto, ficava evidente uma dificuldade antiga do próprio público em admitir que exigências extremas de desempenho também cobram um preço emocional de quem as sustenta.",
                                     "enunciado":  "A expressão \u0027nas entrelinhas\u0027 é usada no texto para indicar que",
                                     "alternativas":  {
-                                                         "a":  "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
-                                                         "b":  "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
-                                                         "c":  "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
-                                                         "d":  "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta."
+                                                         "a":  "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
+                                                         "b":  "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
+                                                         "c":  "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
+                                                         "d":  "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta.",
+                                                         "e":  "a atleta respondeu aos comentários de forma indireta, sem mencionar seus autores pelo nome."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "c",
                                     "explicacao":  "\u0027Nas entrelinhas\u0027 indica leitura do que está implícito, não explícito no texto; o autor interpreta que, por trás da hostilidade, há uma resistência do público em aceitar que o alto desempenho também tem custos emocionais.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23900,7 +23958,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "O número de línguas indígenas no Brasil teria aumentado desde a colonização, o que os dados do texto não sustentam.",
                                                          "b":  "Todas as línguas indígenas brasileiras já teriam sido completamente documentadas, dispensando os projetos citados.",
                                                          "c":  "Os falantes mais jovens seriam majoritariamente responsáveis pela manutenção das línguas, invertendo o quadro do texto.",
-                                                         "d":  "Há risco de extinção de línguas indígenas brasileiras, o que motiva projetos urgentes de documentação."
+                                                         "d":  "Há risco de extinção de línguas indígenas brasileiras, o que motiva projetos urgentes de documentação.",
+                                                         "e":  "As políticas de documentação linguística já garantiram a preservação da maioria das línguas ameaçadas."
                                                      },
                                     "resposta":  "d",
                                     "explicacao":  "O texto associa a drástica redução no número de línguas vivas e a ausência de transmissão geracional a um risco de extinção, o que justifica a urgência dos projetos de documentação mencionados, contrariando as demais alternativas.",
@@ -23913,11 +23972,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "No texto, é possível identificar uma tensão entre",
                                     "alternativas":  {
                                                          "a":  "a inexistência de qualquer posicionamento público por parte da prefeitura sobre o novo sistema.",
-                                                         "b":  "a avaliação entusiástica do prefeito e a cautela mais técnica manifestada pelos próprios técnicos da secretaria.",
-                                                         "c":  "dois dados técnicos que se contradizem entre si sobre o número de cruzamentos monitorados.",
-                                                         "d":  "duas opiniões absolutamente idênticas do prefeito e de todos os técnicos da secretaria sobre o novo sistema instalado."
+                                                         "b":  "dois dados técnicos que se contradizem entre si sobre o número de cruzamentos monitorados.",
+                                                         "c":  "duas opiniões absolutamente idênticas do prefeito e de todos os técnicos da secretaria sobre o novo sistema instalado.",
+                                                         "d":  "a posição do prefeito e a de moradores ouvidos pela reportagem, que divergem quanto ao prazo da obra.",
+                                                         "e":  "a avaliação entusiástica do prefeito e a cautela mais técnica manifestada pelos próprios técnicos da secretaria."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "A fala do prefeito é uma avaliação otimista e política (\u0027cidade inteligente que os moradores merecem\u0027), enquanto os técnicos adotam postura mais cautelosa, condicionando a avaliação de eficácia a um prazo futuro, o que evidencia tensão entre discurso político e prudência técnica.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23927,12 +23987,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Diário, 14 de março. Hoje decidi, enfim, contar para meus pais que vou mudar de curso. Ensaiei a conversa a semana toda, imaginando reações que talvez nem aconteçam. No fim, só consegui dizer metade do que planejava, mas meu pai apenas assentiu e disse: \u0027Você já pensou bastante nisso, eu percebo.\u0027 Não esperava tanta calma.",
                                     "enunciado":  "O que se pode inferir sobre a expectativa da narradora antes da conversa com o pai?",
                                     "alternativas":  {
-                                                         "a":  "Ela não tinha absolutamente nenhuma expectativa formada em relação à conversa com o pai.",
-                                                         "b":  "Ela esperava uma reação tranquila e sem qualquer tensão por parte do pai.",
-                                                         "c":  "Ela já havia conversado sobre o assunto com o pai diversas vezes antes.",
-                                                         "d":  "Ela temia uma reação mais resistente ou conflituosa do que a que de fato ocorreu."
+                                                         "a":  "Ela temia uma reação mais resistente ou conflituosa do que a que de fato ocorreu.",
+                                                         "b":  "Ela não tinha absolutamente nenhuma expectativa formada em relação à conversa com o pai.",
+                                                         "c":  "Ela esperava uma reação tranquila e sem qualquer tensão por parte do pai.",
+                                                         "d":  "Ela já havia conversado sobre o assunto com o pai diversas vezes antes.",
+                                                         "e":  "Ela supunha que o pai já soubesse do assunto por terceiros e apenas aguardasse que ela o mencionasse."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "a",
                                     "explicacao":  "A expressão \u0027não esperava tanta calma\u0027 indica que a reação tranquila do pai surpreendeu a narradora, o que permite inferir que ela temia algo mais difícil, coerente também com o fato de ter \u0027ensaiado\u0027 a conversa durante a semana toda.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23942,12 +24003,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Hortas comunitárias instaladas em terrenos baldios têm se multiplicado nas periferias de grandes centros urbanos. Além de fornecer alimentos frescos a preços mais acessíveis, essas iniciativas reduzem áreas antes usadas para descarte irregular de lixo e criam pontos de encontro entre vizinhos que, muitas vezes, mal se conheciam antes do projeto.",
                                     "enunciado":  "Segundo o texto, quais são os efeitos associados à criação de hortas comunitárias em terrenos baldios?",
                                     "alternativas":  {
-                                                         "a":  "Acesso a alimentos mais baratos, redução do descarte irregular de lixo e fortalecimento de laços entre vizinhos.",
-                                                         "b":  "Apenas o aumento no preço dos alimentos vendidos na região, sem qualquer outro efeito citado.",
+                                                         "a":  "Apenas o aumento no preço dos alimentos vendidos na região, sem qualquer outro efeito citado.",
+                                                         "b":  "Acesso a alimentos mais baratos, redução do descarte irregular de lixo e fortalecimento de laços entre vizinhos.",
                                                          "c":  "O desaparecimento total dos terrenos baldios em todas as áreas urbanas do país, segundo relata claramente o texto.",
-                                                         "d":  "A substituição completa dos mercados tradicionais da região pelas hortas comunitárias citadas."
+                                                         "d":  "A substituição completa dos mercados tradicionais da região pelas hortas comunitárias citadas.",
+                                                         "e":  "Valorização imobiliária dos terrenos vizinhos, o que estimulou novos empreendimentos na área."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "b",
                                     "explicacao":  "O texto relaciona a criação das hortas a três efeitos distintos: alimentos mais acessíveis, redução do descarte irregular de lixo e aproximação entre vizinhos, sem mencionar aumento de preços ou substituição de mercados.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23959,10 +24021,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "Concorda integralmente com os defensores da jornada reduzida, sem apresentar nenhuma ressalva ao tema.",
                                                          "b":  "Nega totalmente que qualquer aumento de produtividade seja possível com jornadas reduzidas, em absolutamente qualquer setor econômico.",
-                                                         "c":  "Utiliza exclusivamente dados estatísticos sem qualquer reflexão crítica sobre o tema abordado no texto.",
-                                                         "d":  "Aponta que o argumento, embora válido em certos contextos, não vale igualmente para todos os setores, como a produção contínua."
+                                                         "c":  "Aponta que o argumento, embora válido em certos contextos, não vale igualmente para todos os setores, como a produção contínua.",
+                                                         "d":  "Utiliza exclusivamente dados estatísticos sem qualquer reflexão crítica sobre o tema abordado no texto.",
+                                                         "e":  "Sustenta que os ganhos de produtividade relatados decorrem apenas do entusiasmo inicial da mudança."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "O autor reconhece a sedução do argumento (\u0027é sedutor\u0027), mas o relativiza ao mostrar que ele não se aplica uniformemente a todos os setores, citando o exemplo da linha de produção contínua como contraexemplo específico.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -23973,11 +24036,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A reflexão do narrador sobre \u0027a régua inteira com que a gente media a vida\u0027 sugere que",
                                     "alternativas":  {
                                                          "a":  "mudar de cidade só altera realmente as distâncias físicas entre os lugares, sem qualquer outro efeito notável ou relevante.",
-                                                         "b":  "adaptar-se a um novo lugar envolve também rever referências e critérios internos usados para interpretar a nova realidade.",
-                                                         "c":  "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
-                                                         "d":  "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso."
+                                                         "b":  "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
+                                                         "c":  "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
+                                                         "d":  "adaptar-se a um novo lugar envolve também rever referências e critérios internos usados para interpretar a nova realidade.",
+                                                         "e":  "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "d",
                                     "explicacao":  "A metáfora da \u0027régua\u0027 amplia o sentido da mudança para além da geografia, sugerindo que os parâmetros pessoais de avaliação (o que é \u0027perto\u0027, por exemplo) também precisam ser reconstruídos na adaptação a um novo contexto.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -23988,11 +24052,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O que se pode inferir da contraposição entre a garantia dos fabricantes e os achados das auditorias independentes?",
                                     "alternativas":  {
                                                          "a":  "As auditorias independentes confirmaram integralmente a garantia de privacidade dada pelos fabricantes.",
-                                                         "b":  "Há indícios de que a prática real das empresas pode divergir do que é declarado publicamente sobre privacidade dos usuários.",
-                                                         "c":  "Os assistentes de voz nunca processam áudio localmente, ao contrário do que os fabricantes afirmam.",
-                                                         "d":  "As auditorias independentes não têm absolutamente qualquer credibilidade técnica reconhecida no mercado atual de tecnologia digital."
+                                                         "b":  "Os assistentes de voz nunca processam áudio localmente, ao contrário do que os fabricantes afirmam.",
+                                                         "c":  "As auditorias independentes não têm absolutamente qualquer credibilidade técnica reconhecida no mercado atual de tecnologia digital.",
+                                                         "d":  "As auditorias e os fabricantes divergem apenas quanto ao vocabulário técnico, não quanto aos fatos.",
+                                                         "e":  "Há indícios de que a prática real das empresas pode divergir do que é declarado publicamente sobre privacidade dos usuários."
                                                      },
-                                    "resposta":  "b",
+                                    "resposta":  "e",
                                     "explicacao":  "Ao apresentar a garantia dos fabricantes seguida do advérbio \u0027contudo\u0027 e de achados que a contradizem, o texto sugere uma divergência entre discurso institucional e prática, permitindo inferir uma possível quebra da promessa de privacidade.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -24002,12 +24067,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "No sertão nordestino, o uso de raízes e ervas do bioma caatinga para temperar carnes de sol e caldos não é apenas questão de sabor: é também estratégia de aproveitamento de uma vegetação adaptada à seca, transmitida de geração em geração como parte de um saber culinário que resiste mesmo diante da escassez de água.",
                                     "enunciado":  "Qual é a ideia central do texto sobre a culinária sertaneja descrita?",
                                     "alternativas":  {
-                                                         "a":  "O uso de ervas da caatinga seria uma prática muito recente, sem qualquer tradição histórica de fato na região sertaneja.",
-                                                         "b":  "A escassez de água impede completamente o preparo de qualquer prato tradicional no sertão nordestino.",
-                                                         "c":  "As ervas da caatinga são usadas exclusivamente fora da culinária, sem relação com a alimentação local.",
-                                                         "d":  "A culinária sertaneja com ervas da caatinga une valor gastronômico e adaptação prática ao bioma, transmitida entre gerações."
+                                                         "a":  "A culinária sertaneja com ervas da caatinga une valor gastronômico e adaptação prática ao bioma, transmitida entre gerações.",
+                                                         "b":  "O uso de ervas da caatinga seria uma prática muito recente, sem qualquer tradição histórica de fato na região sertaneja.",
+                                                         "c":  "A escassez de água impede completamente o preparo de qualquer prato tradicional no sertão nordestino.",
+                                                         "d":  "As ervas da caatinga são usadas exclusivamente fora da culinária, sem relação com a alimentação local.",
+                                                         "e":  "O uso de ervas da caatinga difundiu-se a partir da gastronomia de restaurantes urbanos, e não do saber local."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "a",
                                     "explicacao":  "O texto associa a prática culinária a um saber adaptativo, prático e tradicional, ligado às condições do bioma, sem afirmar que se trata de algo recente ou que a escassez impede completamente o preparo dos pratos.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24018,11 +24084,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A crítica da charge está voltada, principalmente, para",
                                     "alternativas":  {
                                                          "a":  "o comportamento bastante indisciplinado das pessoas que aguardam havia horas na fila do guichê lotado dessa repartição pública.",
-                                                         "b":  "a falta de funcionários suficientes para atender ao público na repartição retratada na charge.",
-                                                         "c":  "o excesso de burocracia autorreferente, que cria etapas desnecessárias mesmo quando o atendimento poderia ser simplificado.",
-                                                         "d":  "a ausência de qualquer sistema de senha nos órgãos públicos retratados nessa charge em específico."
+                                                         "b":  "o excesso de burocracia autorreferente, que cria etapas desnecessárias mesmo quando o atendimento poderia ser simplificado.",
+                                                         "c":  "a falta de funcionários suficientes para atender ao público na repartição retratada na charge.",
+                                                         "d":  "a ausência de qualquer sistema de senha nos órgãos públicos retratados nessa charge em específico.",
+                                                         "e":  "a digitalização mal planejada dos serviços, que exclui quem não tem acesso à internet."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "b",
                                     "explicacao":  "O absurdo de exigir uma senha para simplesmente atravessar até um guichê vazio ao lado satiriza a burocracia que se complica a si mesma, e não a falta de pessoal ou o comportamento do público.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24034,10 +24101,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "Argumento por analogia, comparando o cérebro humano a um sistema mecânico complexo e programável.",
                                                          "b":  "Argumento de senso comum, sem qualquer base em pesquisa especializada.",
-                                                         "c":  "Argumento emocional, apelando exclusivamente ao sentimento do leitor.",
-                                                         "d":  "Argumento de autoridade, baseado em levantamento conduzido por especialistas da área."
+                                                         "c":  "Argumento de autoridade, baseado em levantamento conduzido por especialistas da área.",
+                                                         "d":  "Argumento emocional, apelando exclusivamente ao sentimento do leitor.",
+                                                         "e":  "Argumento de exemplificação, apoiado no relato de um caso individual acompanhado por anos."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "c",
                                     "explicacao":  "O texto se apoia em um levantamento conduzido por geriatras, especialistas reconhecidos no tema, o que caracteriza argumento de autoridade, e não analogia, senso comum ou apelo emocional.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24049,10 +24117,11 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "O segundo parágrafo nega que o casarão esteja, de fato, tombado como patrimônio histórico.",
                                                          "b":  "O segundo parágrafo contradiz totalmente a informação sobre o tombamento apresentada logo no primeiro parágrafo.",
-                                                         "c":  "O segundo parágrafo explica a causa jurídica do paradoxo: proteção legal sem garantia de manutenção efetiva.",
-                                                         "d":  "O segundo parágrafo apresenta um tema completamente novo, sem relação com o casarão do primeiro."
+                                                         "c":  "O segundo parágrafo apresenta um tema completamente novo, sem relação com o casarão do primeiro.",
+                                                         "d":  "O segundo parágrafo explica a causa jurídica do paradoxo: proteção legal sem garantia de manutenção efetiva.",
+                                                         "e":  "O segundo parágrafo apresenta a versão do proprietário do casarão sobre o estado de conservação."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "d",
                                     "explicacao":  "O segundo parágrafo esclarece por que um bem tombado pode estar deteriorado: o tombamento protege contra demolição, mas não garante recursos de manutenção, explicando assim o paradoxo apresentado no primeiro parágrafo.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -24062,12 +24131,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Entrevistador: A senhora afirma que a vacina é segura. Isso é opinião ou fato? Cientista: É uma conclusão baseada em milhares de testes clínicos revisados por pares, então eu diria que é um fato bem estabelecido. Diferente é dizer que \u0027todo mundo deveria se vacinar imediatamente sem exceção\u0027 — isso já envolve julgamentos de política pública que vão além dos dados clínicos em si.",
                                     "enunciado":  "Segundo a distinção feita pela própria cientista na entrevista, o que diferencia as duas afirmações mencionadas?",
                                     "alternativas":  {
-                                                         "a":  "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados.",
-                                                         "b":  "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
-                                                         "c":  "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
-                                                         "d":  "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos."
+                                                         "a":  "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
+                                                         "b":  "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
+                                                         "c":  "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos.",
+                                                         "d":  "A segurança da vacina depende de consenso entre especialistas; a recomendação de uso, de evidência direta.",
+                                                         "e":  "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "e",
                                     "explicacao":  "A cientista distingue a segurança da vacina, sustentada por testes clínicos (fato), da recomendação de vacinação universal \u0027sem exceção\u0027, que envolve decisões de política pública além dos dados clínicos (juízo que extrapola o fato).",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
@@ -24077,12 +24147,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Jogos de estratégia em tempo real são frequentemente apontados como responsáveis por melhorar a tomada rápida de decisões. É verdade, mas apenas parte da história: a mesma velocidade que treina reflexos também pode reduzir a tolerância à espera e à reflexão pausada, habilidades igualmente necessárias em tarefas que exigem análise mais lenta e cuidadosa.",
                                     "enunciado":  "Que contraponto o autor apresenta em relação ao benefício citado dos jogos de estratégia em tempo real?",
                                     "alternativas":  {
-                                                         "a":  "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
-                                                         "b":  "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
-                                                         "c":  "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada.",
-                                                         "d":  "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais."
+                                                         "a":  "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada.",
+                                                         "b":  "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
+                                                         "c":  "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
+                                                         "d":  "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais.",
+                                                         "e":  "Sustenta que o ganho observado desaparece assim que o jogador interrompe a prática por algumas semanas."
                                                      },
-                                    "resposta":  "c",
+                                    "resposta":  "a",
                                     "explicacao":  "O autor não nega o benefício da rapidez decisória (\u0027é verdade\u0027), mas o relativiza ao apontar que essa mesma característica pode prejudicar habilidades de reflexão mais lenta, configurando um contraponto equilibrado, não uma negação total.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24093,11 +24164,12 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O tom predominante do narrador ao descrever o reencontro é de",
                                     "alternativas":  {
                                                          "a":  "estranhamento diante de uma pessoa que o narrador já não reconhece mais direito.",
-                                                         "b":  "melancolia pela impossibilidade de recuperar de fato a amizade antiga perdida com o tempo.",
-                                                         "c":  "indiferença total em relação ao reencontro inesperado com o amigo de longa data.",
-                                                         "d":  "afeto, marcado pela sensação de continuidade e proximidade apesar do tempo distante."
+                                                         "b":  "afeto, marcado pela sensação de continuidade e proximidade apesar do tempo distante.",
+                                                         "c":  "melancolia pela impossibilidade de recuperar de fato a amizade antiga perdida com o tempo.",
+                                                         "d":  "indiferença total em relação ao reencontro inesperado com o amigo de longa data.",
+                                                         "e":  "constrangimento diante de um encontro que nenhum dos dois havia planejado."
                                                      },
-                                    "resposta":  "d",
+                                    "resposta":  "b",
                                     "explicacao":  "Expressões como \u0027como se nunca tivessem parado\u0027 e \u0027quem gosta muito de alguém\u0027 revelam um tom afetuoso de continuidade, e não de estranhamento, melancolia ou indiferença diante do reencontro.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24110,7 +24182,8 @@ window.QUESTION_BANKS = {
                                                          "a":  "eventos independentes, sem qualquer relação de causa entre si ao longo de todo o texto.",
                                                          "b":  "opiniões contraditórias de diferentes especialistas sobre a crise hídrica da região.",
                                                          "c":  "causas e consequências encadeadas, em que cada efeito se torna, na sequência, causa de um novo problema.",
-                                                         "d":  "comparações detalhadas entre a situação da cidade descrita e a de todas as outras regiões do país afetadas pela seca."
+                                                         "d":  "comparações detalhadas entre a situação da cidade descrita e a de todas as outras regiões do país afetadas pela seca.",
+                                                         "e":  "hipóteses alternativas para o mesmo fenômeno, avaliadas uma a uma pelo autor."
                                                      },
                                     "resposta":  "c",
                                     "explicacao":  "O texto encadeia efeitos que se tornam causas de novos problemas (redução de chuvas leva a racionamento, que leva à queda na safra, que leva ao aumento de preços), configurando uma cadeia causal, não eventos isolados nem comparação entre regiões.",
@@ -24122,12 +24195,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Basta os primeiros acordes daquela música para que eu volte, sem escolher, à cozinha da casa onde cresci, ao cheiro de bolo no forno, à voz da minha mãe cantando fora do tom. A canção não é boa o bastante para ganhar prêmio nenhum, mas para mim vale mais do que qualquer sinfonia: é a chave que abre um tempo que já não existe em lugar nenhum além da memória.",
                                     "enunciado":  "No texto, a expressão \u0027chave que abre um tempo\u0027 funciona como uma metáfora para indicar que a música",
                                     "alternativas":  {
-                                                         "a":  "tem, para o narrador, o poder de reativar lembranças afetivas de um período específico da vida.",
-                                                         "b":  "possui qualidade técnica bem reconhecida por críticos especializados em composição musical erudita.",
-                                                         "c":  "foi composta especificamente para descrever a casa da infância do narrador em detalhes.",
-                                                         "d":  "é considerada, de forma consensual, a melhor canção já composta na história da música."
+                                                         "a":  "possui qualidade técnica bem reconhecida por críticos especializados em composição musical erudita.",
+                                                         "b":  "foi composta especificamente para descrever a casa da infância do narrador em detalhes.",
+                                                         "c":  "é considerada, de forma consensual, a melhor canção já composta na história da música.",
+                                                         "d":  "tem, para o narrador, o poder de reativar lembranças afetivas de um período específico da vida.",
+                                                         "e":  "marcou uma época e tornou-se referência para toda uma geração de ouvintes."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "d",
                                     "explicacao":  "A metáfora da \u0027chave\u0027 associa a música ao acesso imediato a lembranças afetivas, e não a um julgamento técnico ou consensual sobre sua qualidade, que o próprio narrador relativiza ao dizer que ela \u0027não é boa o bastante para ganhar prêmio\u0027.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
@@ -24137,12 +24211,13 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Escolas situadas em bairros de maior vulnerabilidade social frequentemente enfrentam rotatividade de professores mais alta, biblioteca com acervo desatualizado e turmas mais numerosas do que a média da rede. Esses fatores, combinados, ajudam a explicar por que o desempenho médio dessas escolas em avaliações nacionais costuma ficar abaixo do de escolas em regiões mais centrais, mesmo quando os alunos têm potencial de aprendizagem semelhante.",
                                     "enunciado":  "Qual é a ideia central defendida pelo texto?",
                                     "alternativas":  {
-                                                         "a":  "Diferenças estruturais entre escolas, e não o potencial dos alunos, explicam parte das desigualdades de desempenho.",
-                                                         "b":  "A rotatividade de professores não tem qualquer relação com o desempenho escolar dos alunos avaliados.",
-                                                         "c":  "Alunos de bairros vulneráveis têm, comprovadamente, sempre menor capacidade de aprendizagem do que todos os demais alunos.",
-                                                         "d":  "Todas as escolas do país oferecem exatamente as mesmas condições estruturais de ensino aos alunos."
+                                                         "a":  "A rotatividade de professores não tem qualquer relação com o desempenho escolar dos alunos avaliados.",
+                                                         "b":  "Alunos de bairros vulneráveis têm, comprovadamente, sempre menor capacidade de aprendizagem do que todos os demais alunos.",
+                                                         "c":  "Todas as escolas do país oferecem exatamente as mesmas condições estruturais de ensino aos alunos.",
+                                                         "d":  "O investimento em formação de professores é suficiente para equalizar o desempenho entre escolas.",
+                                                         "e":  "Diferenças estruturais entre escolas, e não o potencial dos alunos, explicam parte das desigualdades de desempenho."
                                                      },
-                                    "resposta":  "a",
+                                    "resposta":  "e",
                                     "explicacao":  "O texto atribui a diferença de desempenho a fatores estruturais (rotatividade docente, acervo desatualizado, turmas numerosas), explicitando que isso ocorre \u0027mesmo quando os alunos têm potencial de aprendizagem semelhante\u0027, o que descarta a ideia de menor capacidade dos alunos.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"

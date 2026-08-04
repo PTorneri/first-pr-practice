@@ -1,0 +1,302 @@
+{
+  "_comentario": [
+    "Conjunto 4 de 10 do Ingles refeito (ingles-46 a ingles-60).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado entre",
+    "colchetes; enunciados em ingles; 13 dos 15 com 'most likely'; distribuicao de",
+    "tipos da prova (7 inferencia, 3 referencia, 2 funcao de paragrafo, 2 excecao,",
+    "1 detalhe); tres gabaritos de cada letra.",
+    "",
+    "Tres dos cinco textos foram escritos com a mesma armadilha da banca: uma",
+    "concessao explicita ao lado contrario no meio do argumento. O texto sobre",
+    "reparo admite que a cola veda a juntura; o de energia diz que a transicao sai",
+    "barata no fim; o de linguas admite que a proibicao ja aconteceu. Sao os",
+    "trechos que fazem o candidato apressado marcar o distrator, porque a frase",
+    "isolada sustenta a opcao errada e so o paragrafo inteiro desfaz."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c04-t1",
+      "fonte": "Texto original em genero de ensaio de divulgacao linguistica",
+      "conteudo": "When a language stops being spoken, the loss is usually described as cultural, and it is. But linguists who work with the last speakers of a language tend to describe something more specific, and harder to replace.\n\nEvery language encodes a set of distinctions its speakers found worth making. A few are famous — the terms for snow, the kinship [parentesco] systems that name a cousin on the mother's side differently from one on the father's. Most are quieter. A language spoken along a coast may oblige a speaker to say whether an object is uphill or downhill of the listener rather than to the left or the right, which means its speakers track the terrain continuously, in ordinary conversation, without effort. When the language goes, that habit of attention goes with it, and no dictionary preserves a habit.\n\nThe mechanics of the loss are rarely dramatic. Languages seldom disappear because they have been banned [proibidas], though that has happened. They disappear because parents make a reasonable calculation about which language will get their child work, and stop passing the other one on. The decisive generation is usually bilingual and entirely aware of what it is doing.\n\nRevival is possible, and it is not a matter of nostalgia. Where communities have brought a language back, the effect most often reported is not that old texts became readable — it is that a group of people acquired something to do together that was theirs. Whether that counts as a linguistic achievement or a social one is a question the linguists mostly decline to settle."
+    },
+    {
+      "id": "ing-c04-t2",
+      "fonte": "Texto original em genero de reportagem analitica sobre politica energetica",
+      "conteudo": "Solar panels and wind turbines are now the cheapest sources of electricity ever built, measured by the cost of the energy they produce across their lifetimes. In several countries this has coincided with electricity bills that did not fall, and the distance between those two facts has become one of the most misused numbers in public argument.\n\nThe cost of generating a unit of power is not the cost of delivering it when it is wanted. A system built on sources that produce according to the weather needs three things the old one did not: enough transmission [transmissão] to move power from where the wind is blowing to where the demand is; enough storage or flexible capacity to cover the hours when neither sun nor wind is available; and a market design that pays for being available rather than only for producing. Each of those is a real cost, and none of them appears in the figure that gets quoted.\n\nThis is not an argument that the transition is expensive in the end. Most analyses find the opposite across a couple of decades. It is an argument about sequence. The cheap part arrives first and is highly visible; the expensive part arrives later and is buried in charges most consumers could not identify on a bill. A public told that the new sources are cheap and then shown a rising bill will draw the obvious conclusion, and it will be the wrong one.\n\nThe political consequence is already visible. Support for the transition has proved most durable where the connection between infrastructure spending and the bill was explained before the bill arrived, rather than defended afterwards."
+    },
+    {
+      "id": "ing-c04-t3",
+      "fonte": "Texto original em genero de divulgacao cientifica sobre ecologia urbana",
+      "conteudo": "Most birds that migrate long distances do so at night, and a great many of them navigate partly by the stars. The arrangement worked for a very long time and then met, in roughly a century and a half, a change it was not built for.\n\nArtificial light disorients migrating birds in two ways. The first is attraction: a bright, steady light pulls them off course and holds them there, and flocks [bandos] have been recorded circling a single illuminated structure until exhaustion [exaustão]. The second is subtler. Skyglow [brilho do céu] — the diffuse dome of light over a city, visible from many kilometres away — does not trap birds, but it washes out the celestial cues [pistas celestes] they use to hold a heading, across a band of sky that widens every year.\n\nThe unusual feature of this problem is how cheaply it can be reduced. Switching off the upward-facing lights of tall buildings during the few weeks of peak migration has produced measurable falls in collisions in every city that has tried it, at essentially no cost and with no loss of function at street level. Very few environmental measures have that profile, which is why the programmes spread quickly once one city published its numbers.\n\nWhat has not spread as quickly is the harder part. Most artificial light at night is not on tall buildings but on streets and car parks, and much of it points at the sky by accident, through fixtures [luminárias] chosen decades ago. Replacing those is a slow municipal expense with no ribbon to cut, and it is where the remaining problem sits."
+    },
+    {
+      "id": "ing-c04-t4",
+      "fonte": "Texto original em genero de artigo sobre financiamento do ensino superior",
+      "conteudo": "A university that recruits students from abroad is usually described as exporting education. In accounting terms it is closer to importing a population: the students arrive, rent housing, pay local taxes and, in most systems, subsidise the tuition [mensalidade] of everyone born in the country, because they pay several times the domestic fee.\n\nThat cross-subsidy [subsídio cruzado] has become structural, and it is fragile in a way that is easy to miss. It rests on decisions taken in ministries with nothing to do with education — visa rules, the right to work after graduating, the treatment of a spouse [cônjuge] — and those decisions are made for reasons of domestic politics on a timescale of months, while a university plans on a timescale of years. A country can announce a change in the spring and watch its applications fall by a third by the autumn.\n\nUniversities that grew on this income have generally built the capacity the income implied: buildings, staff, whole departments whose viability assumed the flow would continue. When it stops, the cuts do not fall on the courses the international students were taking. They fall wherever the deficit [déficit] can be closed fastest, which in practice has meant languages, classics and the smaller sciences — subjects with few students and no obvious outside revenue.\n\nThe uncomfortable observation is that the model was working as designed. Nobody hid the dependency; it appeared in every annual report. What was missing was any mechanism that made the exposure costly to ignore while the money was still arriving."
+    },
+    {
+      "id": "ing-c04-t5",
+      "fonte": "Texto original em genero de reportagem sobre regulacao e consumo",
+      "conteudo": "The economics of repairing a device are settled long before it breaks. If the screws [parafusos] are standard, the battery is held by a clip rather than by glue [cola], the diagnostic software is available and a spare part [peça de reposição] can be bought by anyone, then a repair costs a fraction of a replacement and a used device holds its value. If any one of those conditions fails, the arithmetic reverses, and the same device becomes cheaper to replace than to fix.\n\nManufacturers have generally argued that closed designs follow from making devices thinner, more water-resistant and safer to handle. There is something to this: glue does seal a seam [juntura], and a badly fitted battery is genuinely dangerous. But the argument has been weakened by the parts of the practice that have nothing to do with engineering — software that refuses to recognise a component because an authorised centre did not install it, and manuals released only under contract.\n\nThe regulations now appearing in several markets mostly target that second category. They require that spare parts and manuals be sold to independent shops on the same terms as to authorised ones, and that software not treat a genuine part as counterfeit [falsificada]. What they do not do is mandate a particular design, which is a deliberate choice: writing engineering into law tends to freeze it.\n\nThe early effects have been modest and mostly indirect. Repair shops report shorter waits for parts. The larger change is that resale values have begun to reflect repairability, which puts the incentive where it was always going to work best — in the price a buyer is willing to pay."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-46",
+      "textoId": "ing-c04-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Languages normally disappear because governments have prohibited them.",
+        "b": "A dictionary is enough to preserve what a language encodes.",
+        "c": "The generation that stops transmitting a language is unaware of what it is doing.",
+        "d": "A language can train a form of attention its speakers exercise without effort.",
+        "e": "Linguists agree that reviving a language is a purely linguistic achievement."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo dá o exemplo de uma língua que obriga a dizer se o objeto está acima ou abaixo do interlocutor no terreno, e observa que por isso seus falantes rastreiam o relevo continuamente, na conversa comum, sem esforço. A proibição é mencionada como exceção, e a causa apresentada como regra é o cálculo dos pais; o mesmo parágrafo encerra dizendo que nenhum dicionário preserva um hábito; a geração decisiva é descrita como bilíngue e inteiramente consciente do que faz; e o último parágrafo diz que os linguistas em geral se recusam a decidir se a revitalização é conquista linguística ou social."
+    },
+    {
+      "id": "ingles-47",
+      "textoId": "ing-c04-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'that habit of attention' most likely refers to",
+      "alternativas": {
+        "a": "the practice of collecting terms for snow in a dictionary.",
+        "b": "the continuous tracking of the terrain that the language's spatial terms require.",
+        "c": "the effort of naming a cousin on the mother's side differently.",
+        "d": "the decision to teach a child the language that will get them work.",
+        "e": "the reading of old texts by a community that has revived a language."
+      },
+      "resposta": "b",
+      "explicacao": "A expressão retoma a frase imediatamente anterior: obrigados a marcar 'acima' e 'abaixo' no terreno em vez de 'esquerda' e 'direita', os falantes acompanham o relevo o tempo todo sem perceber. Os termos para neve e o sistema de parentesco são os exemplos 'famosos' que o texto cita para contrastar com esse, mais silencioso; a escolha da língua que dá emprego é assunto do parágrafo seguinte; e a leitura de textos antigos aparece no último parágrafo justamente como o efeito que NÃO é o mais relatado."
+    },
+    {
+      "id": "ingles-48",
+      "textoId": "ing-c04-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "demonstrate that renewable sources are dearer than they appear over their lifetimes.",
+        "b": "describe the technology used to store electricity for later use.",
+        "c": "compare the electricity bills of several different countries.",
+        "d": "argue that markets should pay only for the power actually produced.",
+        "e": "identify the costs that the figure usually quoted leaves out."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo separa gerar de entregar e lista três exigências do novo sistema — transmissão, armazenamento ou capacidade flexível e um desenho de mercado que pague pela disponibilidade —, fechando com a observação de que cada uma é um custo real e nenhuma aparece no número citado. Não se afirma que as fontes sejam caras: o parágrafo seguinte diz que a transição sai mais barata em duas décadas; o armazenamento é citado como necessidade, sem descrição técnica; nenhum país é comparado; e pagar pela disponibilidade é justamente o que o texto aponta como necessário, não o contrário."
+    },
+    {
+      "id": "ingles-49",
+      "textoId": "ing-c04-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The cost of producing power and the cost of supplying it on demand are different things.",
+        "b": "The transition is likely to prove expensive over a period of decades.",
+        "c": "Transmission and storage are included in the cost figures usually quoted.",
+        "d": "Bills have fallen in most of the countries that adopted these sources.",
+        "e": "Consumers can readily identify infrastructure charges on their bills."
+      },
+      "resposta": "a",
+      "explicacao": "É a frase que abre o segundo parágrafo e organiza o texto inteiro: gerar uma unidade de energia e entregá-la na hora em que ela é desejada são coisas de custo diferente. O terceiro parágrafo diz que a maioria das análises encontra o oposto de 'cara' no horizonte de duas décadas; transmissão e armazenamento são apresentados como exatamente o que o número citado deixa de fora; a primeira frase do texto registra contas que não caíram; e o mesmo terceiro parágrafo diz que a parte cara fica enterrada em encargos que o consumidor não conseguiria identificar."
+    },
+    {
+      "id": "ingles-50",
+      "textoId": "ing-c04-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that public support for the transition",
+      "alternativas": {
+        "a": "depends chiefly on how quickly bills come down.",
+        "b": "has been strongest where the new sources were introduced fastest.",
+        "c": "has lasted better where the costs were explained in advance.",
+        "d": "is unaffected by the way charges are presented on a bill.",
+        "e": "has collapsed wherever transmission networks were expanded."
+      },
+      "resposta": "c",
+      "explicacao": "O último parágrafo afirma isso diretamente: o apoio se mostrou mais duradouro onde a ligação entre o gasto em infraestrutura e a conta foi explicada antes de a conta chegar, em vez de defendida depois. A velocidade de queda das contas não é apresentada como condição, e o texto trabalha justamente com contas que não caíram; a velocidade de implantação não é discutida; a forma como o encargo aparece na conta é central no argumento, não indiferente; e a expansão da transmissão é descrita como necessidade técnica, sem qualquer colapso associado."
+    },
+    {
+      "id": "ingles-51",
+      "textoId": "ing-c04-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Wind and solar generation are cheap measured across the lifetime of the equipment.",
+        "b": "A weather-dependent system needs capacity that is available rather than always producing.",
+        "c": "Most analyses expect the transition to be cheaper across a couple of decades.",
+        "d": "The cost of transmission is normally reflected in the figure quoted for these sources.",
+        "e": "The cheapest element of the change is the one the public sees first."
+      },
+      "resposta": "d",
+      "explicacao": "O texto diz o contrário, e com todas as letras: cada um dos três custos novos é real e nenhum deles aparece no número que se cita. As demais estão sustentadas: as fontes são as mais baratas já construídas quando medidas pelo custo ao longo da vida útil; o sistema precisa de um desenho que pague pela disponibilidade; a maioria das análises encontra transição mais barata em duas décadas; e a parte barata chega primeiro e é altamente visível."
+    },
+    {
+      "id": "ingles-52",
+      "textoId": "ing-c04-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Skyglow interferes with navigation without physically trapping the birds.",
+        "b": "Most artificial light at night comes from tall illuminated buildings.",
+        "c": "Switching off building lights has proved costly for the cities that tried it.",
+        "d": "Birds that migrate at night navigate exclusively by the stars.",
+        "e": "Replacing street fixtures is the cheapest measure available."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo distingue os dois mecanismos: a luz brilhante atrai e prende, enquanto o brilho do céu não prende, mas apaga as pistas celestes usadas para manter o rumo. O último parágrafo diz que a maior parte da luz artificial não está em prédios altos, e sim em ruas e estacionamentos; apagar as luzes dos prédios é descrito como praticamente sem custo; a navegação é dita 'em parte' pelas estrelas, não exclusivamente; e trocar as luminárias é apresentado como despesa municipal lenta, isto é, a parte difícil e não a mais barata."
+    },
+    {
+      "id": "ingles-53",
+      "textoId": "ing-c04-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, flocks have been recorded circling until exhaustion around",
+      "alternativas": {
+        "a": "the diffuse dome of light above a city.",
+        "b": "a single brightly illuminated structure.",
+        "c": "a car park lit by older fixtures.",
+        "d": "a stretch of coastline during peak migration.",
+        "e": "a street lamp pointing downwards."
+      },
+      "resposta": "b",
+      "explicacao": "O dado está no segundo parágrafo, no mecanismo de atração: bandos foram registrados circulando uma única estrutura iluminada até a exaustão. A cúpula difusa de luz é o brilho do céu, descrito na frase seguinte justamente como o que NÃO prende as aves; estacionamentos e luminárias antigas aparecem no último parágrafo, e a lâmpada voltada para baixo é o oposto do problema descrito ali."
+    },
+    {
+      "id": "ingles-54",
+      "textoId": "ing-c04-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'where the remaining problem sits' most likely refers to",
+      "alternativas": {
+        "a": "the few weeks of the year in which migration reaches its peak.",
+        "b": "the sky above the cities that have published their collision numbers.",
+        "c": "the tall buildings whose upward lights have already been switched off.",
+        "d": "the celestial cues that birds use to hold a heading.",
+        "e": "the street and car-park lighting that points upwards by accident."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo inteiro constrói essa conclusão: a maior parte da luz artificial está em ruas e estacionamentos, boa parte dela apontando para o céu por acidente, através de luminárias escolhidas décadas atrás — e trocá-las é despesa lenta e sem inauguração. Os prédios altos são justamente a parte já resolvida; as semanas de pico e as cidades que publicaram números pertencem ao parágrafo anterior, o das medidas baratas; e as pistas celestes são o que se perde, não o lugar onde o problema restante está."
+    },
+    {
+      "id": "ingles-55",
+      "textoId": "ing-c04-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "International students are usually charged the same fee as domestic ones.",
+        "b": "Universities were unaware of how far they depended on this income.",
+        "c": "Decisions taken outside education ministries can alter university finances quickly.",
+        "d": "The cuts generally fell on the courses the international students attended.",
+        "e": "The dependency was concealed from the public."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo diz que o subsídio cruzado depende de regras de visto, de trabalho após a formatura e de tratamento do cônjuge, decididas por política doméstica em meses, enquanto a universidade planeja em anos — e que um anúncio na primavera derruba as inscrições em um terço no outono. O primeiro parágrafo informa que o estudante estrangeiro paga várias vezes a mensalidade doméstica; o último diz que ninguém escondeu a dependência e que ela constava de todo relatório anual, o que derruba tanto o desconhecimento quanto a ocultação; e o terceiro afirma que os cortes não caíram sobre os cursos que esses estudantes frequentavam."
+    },
+    {
+      "id": "ingles-56",
+      "textoId": "ing-c04-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the subjects cut first were chosen because",
+      "alternativas": {
+        "a": "international students had stopped enrolling in them.",
+        "b": "the academic quality of those departments had declined.",
+        "c": "they were the most expensive to run per student.",
+        "d": "closing them shut the deficit fastest.",
+        "e": "the ministries involved had required their removal."
+      },
+      "resposta": "d",
+      "explicacao": "O terceiro parágrafo diz que os cortes caem onde o déficit pode ser fechado mais depressa, e que na prática isso significou línguas, clássicos e as ciências menores — disciplinas com poucos alunos e sem receita externa evidente. O critério é de velocidade de ajuste, não de matrícula estrangeira, que o próprio texto exclui ao dizer que os cortes não atingiram os cursos procurados por esses alunos; qualidade acadêmica não é mencionada; custo por aluno não é o critério apresentado; e os ministérios agem sobre vistos, não sobre a grade de cursos."
+    },
+    {
+      "id": "ingles-57",
+      "textoId": "ing-c04-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "locate the failure in the absence of any mechanism that made a known risk costly to ignore.",
+        "b": "accuse the universities of having hidden their true financial position.",
+        "c": "propose that the fees charged to international students be reduced.",
+        "d": "summarise the visa rules that caused applications to fall.",
+        "e": "compare the finances of two different national systems."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo observa que o modelo funcionava como projetado e que a dependência constava de todo relatório anual — o que faltava era algum mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. É justamente por dizer que ninguém escondeu nada que ele não pode ser lido como acusação de ocultação; nenhuma redução de mensalidade é proposta; as regras de visto são citadas no segundo parágrafo, sem serem resumidas aqui; e não há dois sistemas nacionais em comparação."
+    },
+    {
+      "id": "ingles-58",
+      "textoId": "ing-c04-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The regulations described specify how devices must be designed.",
+        "b": "Every closed design follows from a genuine engineering requirement.",
+        "c": "Repair costs are determined mainly by the wages paid to technicians.",
+        "d": "Independent shops have been given priority access to spare parts.",
+        "e": "Whether a repair is worth making is largely settled at the design stage."
+      },
+      "resposta": "e",
+      "explicacao": "É a tese da abertura: a economia do conserto está decidida muito antes de o aparelho quebrar, e depende de parafusos padronizados, bateria presa por clipe, software de diagnóstico disponível e peça à venda para qualquer um. O terceiro parágrafo diz explicitamente que as regras não impõem um desenho, e por decisão deliberada; o segundo concede que há razão técnica em parte dos fechamentos, mas aponta os que nada têm a ver com engenharia; salários de técnicos não são mencionados; e as regras exigem venda às lojas independentes nas mesmas condições, e não em condições melhores."
+    },
+    {
+      "id": "ingles-59",
+      "textoId": "ing-c04-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'that second category' most likely refers to",
+      "alternativas": {
+        "a": "the devices that have been made thinner and more water-resistant.",
+        "b": "the batteries that are held in place by glue.",
+        "c": "the restrictions that have no engineering justification.",
+        "d": "the markets in which the new regulations have appeared.",
+        "e": "the spare parts sold to authorised repair centres."
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo anterior separa duas coisas: o que decorre de fazer aparelhos mais finos e resistentes à água, que o texto concede ter fundamento, e as práticas que nada têm a ver com engenharia — software que rejeita a peça e manuais liberados só sob contrato. É essa segunda categoria que as regras miram, como confirmam as exigências listadas na sequência. Aparelhos finos e baterias coladas são a primeira categoria; e mercados e peças autorizadas são elementos das frases vizinhas, não a categoria em questão."
+    },
+    {
+      "id": "ingles-60",
+      "textoId": "ing-c04-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Sealing a seam with glue serves a genuine technical purpose.",
+        "b": "The new rules oblige manufacturers to adopt a specified design.",
+        "c": "Software has refused to recognise components fitted outside authorised centres.",
+        "d": "Resale values have started to reflect how repairable a device is.",
+        "e": "A device can cost less to replace than to repair."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo diz o contrário e explica por quê: as regras não impõem desenho algum, e essa é uma escolha deliberada, porque escrever engenharia em lei tende a congelá-la. As demais estão sustentadas: o texto concede que a cola de fato veda a juntura; cita software que recusa componente não instalado por centro autorizado; relata que os valores de revenda começaram a refletir a reparabilidade; e abre afirmando que, se qualquer das condições falha, trocar sai mais barato que consertar."
+    }
+  ]
+}

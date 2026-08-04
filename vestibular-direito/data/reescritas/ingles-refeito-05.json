@@ -1,0 +1,301 @@
+{
+  "_comentario": [
+    "Conjunto 5 de 10 do Ingles refeito (ingles-61 a ingles-75).",
+    "",
+    "Cinco textos sustentando 2, 4, 3, 3 e 3 questoes; vocabulario glosado; 13 dos",
+    "15 enunciados com 'most likely'; 7 de inferencia, 3 de referencia, 2 de funcao",
+    "de paragrafo, 2 de excecao, 1 de detalhe; tres gabaritos de cada letra.",
+    "",
+    "Este conjunto puxa para o repertorio de redacao. Pedido de desculpas",
+    "institucional, recuo dos seguros diante do risco climatico, horario de inicio",
+    "das aulas, independencia dos institutos de estatistica e o efeito do modelo de",
+    "pagamento por streaming sobre a forma da cancao sao cinco temas em que o texto",
+    "ja entrega a estrutura de um argumento -- tese, concessao e virada -- que o",
+    "candidato pode reaproveitar inteira numa dissertacao."
+  ],
+  "subtopic": "ingles",
+  "textos": [
+    {
+      "id": "ing-c05-t1",
+      "fonte": "Texto original em genero de ensaio sobre linguagem publica",
+      "conteudo": "There is a sentence that surfaces whenever an institution has done something indefensible, and it repays reading slowly: 'We regret that some people were offended.' Every word in it is doing work, and none of the work is apology.\n\nAn apology has a fixed structure. It names the act, accepts that the actor performed it, and offers something — a change, a restitution [reparação], at minimum a commitment. The sentence above performs none of those operations. It names no act. Its subject is not the institution but the feelings of other people, which relocates the problem into those who noticed it. And 'some' does further work, quietly implying that the reaction was not general.\n\nWhat makes the formula durable is that it is not a lie. The institution does regret the situation, and people were indeed offended. This is why it survives legal review, which is usually the point: counsel [advogado] will approve any statement that concedes no fact, and a statement that concedes no fact is the one thing an apology cannot be.\n\nThe research here is unusually consistent. Apologies that name the act and accept responsibility reduce the likelihood of litigation [litígio] rather than raising it, and several health systems have adopted disclosure [divulgação] policies on that evidence. The obstacle has never been the finding. It is that the person who must sign the apology is rarely the person who bears the cost of not making one."
+    },
+    {
+      "id": "ing-c05-t2",
+      "fonte": "Texto original em genero de reportagem economica sobre risco climatico",
+      "conteudo": "Insurance works by pooling [reunindo] risks that are independent of one another. A fire in one house and a fire in another are unrelated events, so a company can hold reserves against a predictable number of them. A flood is not like that. It arrives everywhere at once, which is why flood cover has always been the hardest line to write, and why the state is involved in it in almost every country.\n\nWhat has changed is that the calculation now has to be made forwards rather than backwards. An insurer prices next year using the record of past years, and that method holds only while the past remains a guide. Where it stops being one, the honest response is either a far higher premium [prêmio] or no offer at all — and both of those, arriving in a market where people have already bought their houses, look less like a technical adjustment than like an eviction [despejo] notice with a stamp on it.\n\nThe pattern that follows is by now familiar. Private insurers withdraw from the highest-risk areas; a state scheme steps in to cover what the market will not; the state scheme charges below the actuarial price, because charging the true one is politically impossible; and the gap becomes a subsidy that encourages building exactly where the risk is greatest. Every step is reasonable and the sequence is not.\n\nSome jurisdictions have begun trying to break it by tying support to relocation or to physical protection rather than to rebuilding in place. These schemes are early and expensive, and they have the one feature the previous arrangement lacked: they treat the premium as information about where it is wise to live, rather than as a bill to be softened."
+    },
+    {
+      "id": "ing-c05-t3",
+      "fonte": "Texto original em genero de artigo sobre evidencia e politica publica",
+      "conteudo": "Adolescent sleep does not run on the same clock as adult sleep. Around puberty the release of melatonin [melatonina] shifts by roughly two hours, so a teenager told to sleep at ten is being asked to sleep at what the body registers as eight. The finding is old, has been replicated in several countries, and is not seriously disputed.\n\nIts policy implication is straightforward, which is what makes the past twenty years interesting. Districts that moved the start of secondary school from around half past seven to after half past eight reported the results the biology predicted: more total sleep, better attendance and — in the studies able to measure it — fewer road accidents among the youngest drivers. Nothing here required a new discovery.\n\nThe obstacle was never the evidence. It was the bus. A district running one fleet across three tiers [turnos] of schools saves a great deal by staggering [escalonar] their start times, and secondary schools are usually placed in the earliest tier because their students can be left unsupervised at the other end of the day. Moving them means either buying buses or sending the youngest children out in the dark, and the second option produces the more alarmed parents.\n\nSo the reform has advanced where it could be paid for and stalled [empacou] elsewhere, in a pattern that has nothing to do with how convincing anyone found the research. It is a useful example of what a scientific consensus can and cannot accomplish on its own."
+    },
+    {
+      "id": "ing-c05-t4",
+      "fonte": "Texto original em genero de artigo sobre instituicoes e governanca",
+      "conteudo": "The most reliable early sign that a government is in trouble is not a fall in a statistic. It is the moment the statistic stops being published.\n\nOfficial numbers are a strange kind of infrastructure. They cost little, almost nobody notices them, and they underwrite [dão sustentação a] an enormous amount: contracts indexed to inflation, transfers between levels of government, the pension a person receives, a company's decision to build a factory. A statistical office that loses its independence does not announce the fact. Series are discontinued for methodological reasons, publication dates slip, a definition is revised so that comparison with last year becomes impossible.\n\nThe damage is slower than a devaluation and harder to reverse. Trust in a number is built across decades of unremarkable publication and destroyed the first time a figure is visibly convenient. And once the official series is doubted, private substitutes appear — supermarket price trackers, satellite estimates of night-time light, employment indices assembled by payroll [folha de pagamento] firms — which is not the reassurance it appears to be. Those substitutes cover what is profitable to measure, and they are not available to the people who most need the number.\n\nWhat makes the problem tractable is that the safeguards [salvaguardas] are known and dull: a calendar of releases fixed in advance, a legal separation between the office and the ministry, microdata released to researchers who can check the aggregate. None of it is expensive. All of it is far easier to establish in a year when nobody wants to interfere."
+    },
+    {
+      "id": "ing-c05-t5",
+      "fonte": "Texto original em genero de reportagem cultural sobre industria da musica",
+      "conteudo": "The length of a pop song fell by about a fifth in the decade after streaming became the dominant way people listen, and the intro — the instrumental opening that once ran fifteen or twenty seconds — has all but disappeared. Neither change was decided by anybody. Both follow from a single accounting rule.\n\nA stream counts, and generates payment, once the listener has heard about thirty seconds. Below that threshold [limiar] it is worth nothing at all. Every incentive in the system therefore points at the first half-minute: reach the chorus [refrão] early, put the hook at the front, and leave the listener no quiet stretch in which to skip. A three-minute song with two choruses earns more than a five-minute song with one, because it is played more often and skipped less.\n\nMusicians describe the constraint without much drama; every era of recorded music has had one, and the three-minute single of the twentieth century was set by the physical capacity of a disc rather than by artistic judgement. What is different now is the speed of the feedback. A producer can see, within days, exactly where listeners stop, and the temptation to edit against that curve is very hard to resist.\n\nThe interesting question is what the rule selects against rather than what it rewards. Slow development, a form that only pays off at the end, an album meant to be heard in order — none of these is prohibited, and all of them now cost their maker money to make. That is a different kind of pressure from censorship [censura], and in the long run possibly a more effective one."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "ingles-61",
+      "textoId": "ing-c05-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The formula quoted works because it contains a falsehood.",
+        "b": "Apologising raises the likelihood that an institution will be sued.",
+        "c": "Legal advisers generally recommend naming the act that caused the harm.",
+        "d": "The word 'some' in the formula carries no particular purpose.",
+        "e": "The formula survives because it concedes no fact."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo diz exatamente isso: a fórmula sobrevive à revisão jurídica porque o advogado aprova qualquer declaração que não conceda fato algum — e não conceder fato é justamente o que um pedido de desculpas não pode fazer. A opção da mentira é negada na primeira frase do mesmo parágrafo; o quarto parágrafo afirma que desculpas que nomeiam o ato reduzem a chance de litígio, e é por isso que o advogado prefere não nomeá-lo; e o segundo parágrafo mostra que 'alguns' trabalha ativamente, sugerindo que a reação não foi geral."
+    },
+    {
+      "id": "ingles-62",
+      "textoId": "ing-c05-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'which relocates the problem' most likely refers to the effect of",
+      "alternativas": {
+        "a": "naming the act that the institution has committed.",
+        "b": "offering a change or a reparation to those who were harmed.",
+        "c": "making the feelings of other people, rather than the act, the subject.",
+        "d": "obtaining approval from the institution's legal counsel.",
+        "e": "publishing a disclosure policy within a health system."
+      },
+      "resposta": "c",
+      "explicacao": "A oração relativa se prende à frase imediatamente anterior: o sujeito da declaração não é a instituição, e sim o sentimento alheio — e é essa troca de sujeito que transfere o problema para quem percebeu o ato. Nomear o ato e oferecer reparação são justamente as operações que o texto diz que a fórmula NÃO executa; a aprovação do advogado é consequência tratada no parágrafo seguinte; e as políticas de divulgação em sistemas de saúde aparecem só no fecho, como evidência a favor do pedido de desculpas real."
+    },
+    {
+      "id": "ingles-63",
+      "textoId": "ing-c05-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "list the countries in which the state provides cover against flooding.",
+        "b": "explain why pricing based on the record of past years is failing.",
+        "c": "compare the cost of flood cover with the cost of fire cover.",
+        "d": "describe the reserves an insurer is required to hold against claims.",
+        "e": "argue that premiums ought to be capped by regulation."
+      },
+      "resposta": "b",
+      "explicacao": "O parágrafo diz que a conta passou a ter de ser feita para a frente, que precificar o ano seguinte pelo histórico só funciona enquanto o passado servir de guia, e descreve o que acontece quando deixa de servir: prêmio muito mais alto ou nenhuma oferta. Nenhum país é listado; a comparação entre enchente e incêndio está no primeiro parágrafo e serve para introduzir a independência dos riscos; as reservas são citadas ali também, de passagem; e o texto não propõe teto de prêmio — o último parágrafo defende o oposto, tratar o prêmio como informação."
+    },
+    {
+      "id": "ingles-64",
+      "textoId": "ing-c05-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the state scheme it describes",
+      "alternativas": {
+        "a": "charges above the actuarial price in order to discourage building.",
+        "b": "has replaced private insurance across every line of business.",
+        "c": "was created because private insurers were charging too little.",
+        "d": "produces a subsidy that encourages building in the riskiest places.",
+        "e": "has succeeded in bringing private cover back to high-risk areas."
+      },
+      "resposta": "d",
+      "explicacao": "O terceiro parágrafo encadeia os quatro passos e termina neste: o esquema estatal cobra abaixo do preço atuarial porque cobrar o verdadeiro é politicamente impossível, e a diferença vira subsídio que estimula construir justamente onde o risco é maior. Cobrar acima inverte o texto; a substituição ocorre só nas áreas de maior risco de enchente, não em todos os ramos; o esquema entra porque a seguradora privada saiu, e não por preço baixo demais do setor privado; e nada indica retorno da cobertura privada."
+    },
+    {
+      "id": "ingles-65",
+      "textoId": "ing-c05-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about flood cover?",
+      "alternativas": {
+        "a": "It is hard to insure because the losses are not independent of one another.",
+        "b": "It is the line in which private companies compete most fiercely.",
+        "c": "It has historically been left entirely to the private market.",
+        "d": "It became difficult only after state schemes were introduced.",
+        "e": "It is priced in the same way as cover against fire."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo constrói a oposição: o seguro funciona reunindo riscos independentes, e a enchente chega a todos de uma vez — por isso é a modalidade mais difícil de subscrever e por isso o Estado participa dela em quase todo país. Isso já descarta a concorrência feroz e o abandono ao mercado privado; a dificuldade é atribuída à natureza correlacionada da perda, anterior a qualquer esquema estatal; e o incêndio é apresentado como o caso oposto, o dos eventos não relacionados entre si."
+    },
+    {
+      "id": "ingles-66",
+      "textoId": "ing-c05-t2",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "A fire in one house is an event independent of a fire in another.",
+        "b": "Charging the actuarially correct price is politically difficult.",
+        "c": "Newer schemes have tied support to relocation or physical protection.",
+        "d": "Each individual step in the sequence described can be defended.",
+        "e": "Private insurers have expanded their presence in the highest-risk areas."
+      },
+      "resposta": "e",
+      "explicacao": "O texto afirma o contrário: o padrão começa justamente com a retirada das seguradoras privadas das áreas de maior risco. As demais estão sustentadas: incêndios em casas distintas são eventos não relacionados; cobrar o preço atuarial verdadeiro é dito politicamente impossível; algumas jurisdições passaram a vincular o apoio a realocação ou proteção física em vez de reconstrução no mesmo lugar; e o texto diz explicitamente que cada passo é razoável, e que o irrazoável é a sequência."
+    },
+    {
+      "id": "ingles-67",
+      "textoId": "ing-c05-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The biological finding about adolescent sleep is still contested.",
+        "b": "Districts that moved their start times reported no measurable change.",
+        "c": "The main obstacle to the reform has been the cost of transport.",
+        "d": "Parents have generally welcomed sending younger children out earlier.",
+        "e": "The reform advanced fastest where the evidence was best understood."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo é explícito: o obstáculo nunca foi a evidência, foi o ônibus — escalonar os turnos com uma única frota economiza muito, e mudar o horário do ensino médio significa comprar ônibus ou mandar as crianças menores para a rua no escuro. O primeiro parágrafo diz que o achado não é seriamente contestado; o segundo relata mais sono, melhor frequência e menos acidentes; o próprio texto diz que a opção de antecipar as crianças menores é a que gera pais mais alarmados; e o fecho afirma que o avanço seguiu a capacidade de pagar, não o grau de convencimento."
+    },
+    {
+      "id": "ingles-68",
+      "textoId": "ing-c05-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, around puberty the release of melatonin shifts by approximately",
+      "alternativas": {
+        "a": "two hours.",
+        "b": "thirty minutes.",
+        "c": "four hours.",
+        "d": "one full night.",
+        "e": "twenty minutes."
+      },
+      "resposta": "a",
+      "explicacao": "O dado está na segunda frase do texto: por volta da puberdade a liberação de melatonina se desloca cerca de duas horas, e é por isso que dormir às dez equivale, para o corpo do adolescente, a dormir às oito. Os demais números do texto pertencem a outra parte do argumento e servem de armadilha para quem lê por varredura: sete e meia e oito e meia são os horários de início de aula comparados no segundo parágrafo, e três é o número de turnos que uma frota de ônibus atende."
+    },
+    {
+      "id": "ingles-69",
+      "textoId": "ing-c05-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely uses this example to illustrate that",
+      "alternativas": {
+        "a": "scientific findings are usually rejected by the officials who read them.",
+        "b": "transport is the largest single item in a school district's budget.",
+        "c": "adolescents perform better when supervised during the afternoon.",
+        "d": "agreement about the evidence does not by itself produce a change in policy.",
+        "e": "research carried out in several countries is inherently more persuasive."
+      },
+      "resposta": "d",
+      "explicacao": "O fecho diz que a reforma avançou onde havia como pagá-la e empacou no resto, num padrão que nada tem a ver com o quanto alguém achou a pesquisa convincente — e chama o caso de exemplo útil do que um consenso científico consegue e não consegue sozinho. A evidência não é rejeitada, e sim aceita e inaplicável; o texto não afirma que transporte seja o maior item do orçamento, só que a economia do escalonamento é grande; a ausência de supervisão à tarde é a razão de o ensino médio ficar no turno mais cedo, não um ganho de desempenho; e a replicação em vários países é mencionada como fato, sem tese sobre persuasão."
+    },
+    {
+      "id": "ingles-70",
+      "textoId": "ing-c05-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A statistical office that loses its independence normally announces it.",
+        "b": "Private substitutes cover what is profitable rather than what is needed.",
+        "c": "Trust in official figures can be rebuilt about as fast as it is lost.",
+        "d": "The safeguards that protect a statistical office are costly to establish.",
+        "e": "A devaluation does damage that is slower to reverse than this kind."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo diz que os substitutos privados cobrem o que é lucrativo medir e não estão disponíveis para quem mais precisa do número — por isso não são o alívio que parecem. O segundo parágrafo afirma que a perda de independência não é anunciada, e sim disfarçada em descontinuidade metodológica e revisão de definição; a confiança é descrita como construída em décadas e destruída na primeira vez em que um número é convenientemente oportuno; o último parágrafo diz que nada disso é caro; e o dano é comparado ao da desvalorização como mais lento e mais difícil de reverter, não o contrário."
+    },
+    {
+      "id": "ingles-71",
+      "textoId": "ing-c05-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'not the reassurance it appears to be' most likely refers to",
+      "alternativas": {
+        "a": "the decades of unremarkable publication behind a trusted figure.",
+        "b": "the revision of a definition that prevents comparison with last year.",
+        "c": "the legal separation between a statistical office and a ministry.",
+        "d": "the slippage of publication dates at an official agency.",
+        "e": "the appearance of private substitutes for the official series."
+      },
+      "resposta": "e",
+      "explicacao": "A expressão fecha a frase que acaba de listar os substitutos privados — rastreadores de preço de supermercado, estimativas de luz noturna por satélite, índices de emprego montados por empresas de folha de pagamento — e é justificada na frase seguinte: eles cobrem o que dá lucro medir e não chegam a quem mais precisa. As décadas de publicação e o adiamento de datas pertencem ao raciocínio anterior, sobre como a confiança se forma e se perde; a revisão de definição é um dos disfarces da perda de independência; e a separação legal está entre as salvaguardas do último parágrafo."
+    },
+    {
+      "id": "ingles-72",
+      "textoId": "ing-c05-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "predict which countries will lose their statistical independence next.",
+        "b": "explain the methods used to construct an index of employment.",
+        "c": "point out that the remedies are known, cheap and easiest to adopt early.",
+        "d": "argue that private data providers ought to be regulated.",
+        "e": "describe the contracts that are indexed to official inflation figures."
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo chama as salvaguardas de conhecidas e monótonas, lista três — calendário fixado com antecedência, separação legal entre instituto e ministério, microdados abertos a pesquisadores —, afirma que nada disso é caro e observa que tudo é bem mais fácil de instituir num ano em que ninguém quer interferir. Nenhum país é previsto; os índices privados são descritos no parágrafo anterior e não são regulados aqui; e os contratos indexados aparecem no segundo parágrafo, como exemplo do que os números sustentam."
+    },
+    {
+      "id": "ingles-73",
+      "textoId": "ing-c05-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The shortening of pop songs was the result of a deliberate industry decision.",
+        "b": "The three-minute single of the twentieth century was chosen on artistic grounds.",
+        "c": "Streaming platforms prohibit long or slowly developing works.",
+        "d": "A payment threshold has reshaped the structure of songs without forbidding anything.",
+        "e": "Producers have no way of knowing where listeners stop."
+      },
+      "resposta": "d",
+      "explicacao": "O texto abre dizendo que nenhuma das duas mudanças foi decidida por alguém e que ambas decorrem de uma única regra contábil, e fecha observando que nada é proibido — apenas passa a custar dinheiro a quem faz. A decisão deliberada é negada na terceira frase; o single de três minutos é atribuído à capacidade física do disco, e não a julgamento artístico; a proibição é exatamente o que o último parágrafo afasta ao distinguir essa pressão da censura; e o terceiro parágrafo diz que o produtor enxerga em poucos dias onde o ouvinte para."
+    },
+    {
+      "id": "ingles-74",
+      "textoId": "ing-c05-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'a more effective one' most likely refers to a more effective form of",
+      "alternativas": {
+        "a": "pressure on what music gets made.",
+        "b": "payment to the musicians who record.",
+        "c": "measurement of where listeners stop.",
+        "d": "editing of a recording before its release.",
+        "e": "protection for albums meant to be heard in order."
+      },
+      "resposta": "a",
+      "explicacao": "A frase compara a regra contábil à censura: é um tipo diferente de pressão e, a longo prazo, possivelmente uma pressão mais eficaz — o substantivo retomado é 'pressure', duas palavras antes. Pagamento, medição e edição são elementos dos parágrafos anteriores e não estão em comparação com a censura; e o álbum ouvido em ordem é um dos formatos que a regra desfavorece, isto é, o objeto da pressão e não a pressão."
+    },
+    {
+      "id": "ingles-75",
+      "textoId": "ing-c05-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "A stream generates payment only after the listener has heard roughly half a minute.",
+        "b": "Long-form works have been removed from the platforms that pay in this way.",
+        "c": "Earlier eras of recorded music also worked under a formal constraint.",
+        "d": "Information about listener behaviour now reaches producers within days.",
+        "e": "A shorter song with more choruses can earn more than a longer one."
+      },
+      "resposta": "b",
+      "explicacao": "O último parágrafo afirma o contrário: nada disso é proibido, e o desenvolvimento lento e o álbum ouvido em ordem apenas passaram a custar dinheiro a quem os faz — a distinção entre essa pressão e a censura depende exatamente disso. As demais estão sustentadas: o pagamento só se conta a partir de cerca de trinta segundos; toda era da música gravada teve sua restrição, e a do século XX foi a capacidade física do disco; o produtor vê em dias onde o ouvinte para; e a canção de três minutos com dois refrões rende mais que a de cinco com um."
+    }
+  ]
+}

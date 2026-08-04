@@ -1,0 +1,491 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027matematica-rlm\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "matematica-rlm",
+    "questoes":  {
+                     "matematica-rlm-01":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-02":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-03":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-04":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-05":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-06":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-07":  {
+                                               "de":  "b",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-09":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-10":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-11":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-16":  {
+                                               "de":  "b",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-17":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-18":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-19":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-20":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-22":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-24":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-25":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-27":  {
+                                               "de":  "c",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-28":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-29":  {
+                                               "de":  "e",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-30":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-31":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-32":  {
+                                               "de":  "c",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-33":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-34":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-35":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-36":  {
+                                               "de":  "b",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-37":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-38":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-39":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-40":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-41":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-42":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-43":  {
+                                               "de":  "d",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-44":  {
+                                               "de":  "e",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-45":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-46":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-48":  {
+                                               "de":  "d",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-49":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-50":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-51":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-52":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-54":  {
+                                               "de":  "e",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-55":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-56":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-57":  {
+                                               "de":  "c",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-58":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-59":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-60":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-62":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-65":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-66":  {
+                                               "de":  "b",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-67":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-68":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-69":  {
+                                               "de":  "e",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-70":  {
+                                               "de":  "a",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-71":  {
+                                               "de":  "b",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-72":  {
+                                               "de":  "c",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-74":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-75":  {
+                                               "de":  "a",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-77":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-78":  {
+                                               "de":  "d",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-79":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-80":  {
+                                               "de":  "a",
+                                               "para":  "c"
+                                           },
+                     "matematica-rlm-87":  {
+                                               "de":  "c",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-88":  {
+                                               "de":  "d",
+                                               "para":  "a"
+                                           },
+                     "matematica-rlm-90":  {
+                                               "de":  "a",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-93":  {
+                                               "de":  "d",
+                                               "para":  "b"
+                                           },
+                     "matematica-rlm-94":  {
+                                               "de":  "e",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-97":  {
+                                               "de":  "c",
+                                               "para":  "d"
+                                           },
+                     "matematica-rlm-98":  {
+                                               "de":  "d",
+                                               "para":  "e"
+                                           },
+                     "matematica-rlm-100":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-101":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-102":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-103":  {
+                                                "de":  "d",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-104":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-105":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-106":  {
+                                                "de":  "b",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-108":  {
+                                                "de":  "d",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-109":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-110":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-111":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-112":  {
+                                                "de":  "c",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-113":  {
+                                                "de":  "d",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-114":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-115":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-116":  {
+                                                "de":  "b",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-118":  {
+                                                "de":  "d",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-119":  {
+                                                "de":  "e",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-120":  {
+                                                "de":  "a",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-121":  {
+                                                "de":  "b",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-122":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-123":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-124":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-125":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-126":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-127":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-128":  {
+                                                "de":  "d",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-129":  {
+                                                "de":  "e",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-130":  {
+                                                "de":  "a",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-131":  {
+                                                "de":  "b",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-132":  {
+                                                "de":  "c",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-133":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-134":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-135":  {
+                                                "de":  "a",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-137":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-138":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-141":  {
+                                                "de":  "e",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-145":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-146":  {
+                                                "de":  "e",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-148":  {
+                                                "de":  "b",
+                                                "para":  "e"
+                                            },
+                     "matematica-rlm-150":  {
+                                                "de":  "d",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-152":  {
+                                                "de":  "a",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-154":  {
+                                                "de":  "c",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-156":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            },
+                     "matematica-rlm-158":  {
+                                                "de":  "b",
+                                                "para":  "c"
+                                            },
+                     "matematica-rlm-159":  {
+                                                "de":  "c",
+                                                "para":  "d"
+                                            },
+                     "matematica-rlm-160":  {
+                                                "de":  "d",
+                                                "para":  "b"
+                                            },
+                     "matematica-rlm-161":  {
+                                                "de":  "e",
+                                                "para":  "a"
+                                            }
+                 }
+}

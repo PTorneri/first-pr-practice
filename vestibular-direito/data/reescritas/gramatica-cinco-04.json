@@ -1,0 +1,40 @@
+{
+  "_comentario": [
+    "Lote 04 da conversao de gramatica: questoes 121 a 150.",
+    "Fecha a frente em 150 questoes com cinco alternativas.",
+    "Distribuicao do gabarito: 6 questoes por letra."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-121": { "letra": "a", "nova": "está correta, mas apenas porque o substantivo masculino aparece antes do feminino; invertida a ordem, o adjetivo iria ao feminino." },
+    "gramatica-122": { "letra": "b", "nova": "está correto, mas apenas porque a oração principal está no passado; com principal no presente, exigir-se-ia o indicativo." },
+    "gramatica-123": { "letra": "c", "nova": "com percentuais, o verbo concorda sempre com o termo preposicionado que os especifica, e nunca com o numeral." },
+    "gramatica-124": { "letra": "d", "nova": "está correta, mas apenas porque a locução tem valor de modo; com valor de intensidade, dispensaria o acento." },
+    "gramatica-125": { "letra": "e", "nova": "está correta, mas a vírgula poderia ser suprimida sem prejuízo, já que 'porém' dispensa pontuação quando une orações curtas." },
+    "gramatica-126": { "letra": "a", "nova": "está correta, mas apenas porque o complemento é pessoa; diante de coisa, 'simpático' passa a reger a preposição 'com'." },
+    "gramatica-127": { "letra": "b", "nova": "estabelece uma relação de alternância, indicando que os dois elementos se excluem mutuamente no contexto." },
+    "gramatica-128": { "letra": "c", "nova": "está correta, mas apenas porque o pronome pessoal vem expresso; omitido o 'nós', o verbo iria à terceira pessoa." },
+    "gramatica-129": { "letra": "d", "nova": "a crase está correta, mas por outra razão: 'casa' é palavra que sempre exige artigo definido em locuções." },
+    "gramatica-130": { "letra": "e", "nova": "a vírgula está correta, mas deveria ser seguida de dois-pontos antes do dia, conforme o padrão de correspondência oficial." },
+    "gramatica-131": { "letra": "a", "nova": "ambas estão corretas, mas por outra razão: 'gostar' é transitivo direto, e a preposição funciona como realce." },
+    "gramatica-132": { "letra": "b", "nova": "estabelece uma relação de concessão, admitindo o primeiro fato apesar da existência do segundo." },
+    "gramatica-133": { "letra": "c", "nova": "está correta, mas apenas porque o complemento indica lugar público; com lugar privado, exige-se a preposição 'em'." },
+    "gramatica-134": { "letra": "d", "nova": "estão corretos, mas apenas porque antecedem os substantivos; pospostos, permaneceriam invariáveis." },
+    "gramatica-135": { "letra": "e", "nova": "estabelece uma relação de conclusão, encerrando o raciocínio iniciado na frase anterior." },
+    "gramatica-136": { "letra": "a", "nova": "está correta, mas apenas em registro oral; na escrita formal, 'a gente' exige o verbo na primeira pessoa do plural." },
+    "gramatica-137": { "letra": "b", "nova": "está correta, mas apenas na forma pronominal; sem o pronome, 'abdicar' passa a ser transitivo direto." },
+    "gramatica-138": { "letra": "c", "nova": "ambas estão corretas, mas por outra razão: 'pagar' tem particípio único, e a escolha do auxiliar é indiferente." },
+    "gramatica-139": { "letra": "d", "nova": "zeugma, caso particular de elipse em que o termo omitido já foi expresso antes no mesmo período." },
+    "gramatica-140": { "letra": "e", "nova": "está correta, mas apenas porque o verbo vem posposto ao sujeito; anteposto, a concordância iria ao singular." },
+    "gramatica-141": { "letra": "a", "nova": "está correto, mas por outra razão: 'à qual' é forma fixa que dispensa análise da regência do termo antecedente." },
+    "gramatica-142": { "letra": "b", "nova": "estão corretos, mas poderiam ser substituídos por aspas, sinal de idêntico valor para comentários do autor." },
+    "gramatica-143": { "letra": "c", "nova": "em ambas as ocorrências o verbo é transitivo indireto, variando apenas o grau de formalidade do complemento." },
+    "gramatica-144": { "letra": "d", "nova": "'por que' está correto, mas 'o porquê' deveria ser grafado sem acento, por se tratar de palavra paroxítona." },
+    "gramatica-145": { "letra": "e", "nova": "ambas estão corretas, mas por outra razão: 'mal' é sempre advérbio, e o hífen depende apenas da vogal seguinte." },
+    "gramatica-146": { "letra": "a", "nova": "está correta, mas apenas porque o sujeito é plural; com sujeito singular, 'aspirar' dispensaria a preposição." },
+    "gramatica-147": { "letra": "b", "nova": "significa 'sob a supervisão direta de', e a grafia com acento grave está correta por se tratar de locução adverbial." },
+    "gramatica-148": { "letra": "c", "nova": "está correta, mas as vírgulas poderiam ser substituídas por travessões, com idêntico valor explicativo." },
+    "gramatica-149": { "letra": "d", "nova": "é expressão impessoal, mas admite flexão quando o termo seguinte vier precedido de artigo definido." },
+    "gramatica-150": { "letra": "e", "nova": "está correta, mas apenas porque o complemento é oracional; diante de substantivo, o verbo dispensa a preposição." }
+  }
+}

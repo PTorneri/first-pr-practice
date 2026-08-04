@@ -1,0 +1,491 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027gramatica\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "gramatica",
+    "questoes":  {
+                     "gramatica-01":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "gramatica-02":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-03":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "gramatica-04":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-05":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "gramatica-06":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "gramatica-07":  {
+                                          "de":  "b",
+                                          "para":  "c"
+                                      },
+                     "gramatica-09":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-10":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "gramatica-11":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "gramatica-12":  {
+                                          "de":  "b",
+                                          "para":  "c"
+                                      },
+                     "gramatica-13":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "gramatica-14":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-15":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-16":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-18":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "gramatica-20":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "gramatica-21":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-23":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "gramatica-24":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-25":  {
+                                          "de":  "e",
+                                          "para":  "a"
+                                      },
+                     "gramatica-26":  {
+                                          "de":  "a",
+                                          "para":  "b"
+                                      },
+                     "gramatica-27":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "gramatica-28":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "gramatica-29":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "gramatica-30":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "gramatica-31":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "gramatica-32":  {
+                                          "de":  "b",
+                                          "para":  "c"
+                                      },
+                     "gramatica-33":  {
+                                          "de":  "c",
+                                          "para":  "b"
+                                      },
+                     "gramatica-34":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-35":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "gramatica-36":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "gramatica-37":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-38":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "gramatica-39":  {
+                                          "de":  "d",
+                                          "para":  "c"
+                                      },
+                     "gramatica-40":  {
+                                          "de":  "e",
+                                          "para":  "a"
+                                      },
+                     "gramatica-41":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "gramatica-42":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-44":  {
+                                          "de":  "d",
+                                          "para":  "b"
+                                      },
+                     "gramatica-45":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "gramatica-46":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "gramatica-47":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "gramatica-48":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "gramatica-50":  {
+                                          "de":  "e",
+                                          "para":  "c"
+                                      },
+                     "gramatica-51":  {
+                                          "de":  "a",
+                                          "para":  "b"
+                                      },
+                     "gramatica-52":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-53":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "gramatica-54":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "gramatica-55":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-56":  {
+                                          "de":  "a",
+                                          "para":  "b"
+                                      },
+                     "gramatica-58":  {
+                                          "de":  "c",
+                                          "para":  "b"
+                                      },
+                     "gramatica-61":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-62":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-63":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "gramatica-64":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-65":  {
+                                          "de":  "e",
+                                          "para":  "b"
+                                      },
+                     "gramatica-66":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-67":  {
+                                          "de":  "b",
+                                          "para":  "e"
+                                      },
+                     "gramatica-68":  {
+                                          "de":  "c",
+                                          "para":  "b"
+                                      },
+                     "gramatica-70":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-71":  {
+                                          "de":  "a",
+                                          "para":  "e"
+                                      },
+                     "gramatica-73":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "gramatica-74":  {
+                                          "de":  "d",
+                                          "para":  "b"
+                                      },
+                     "gramatica-75":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-76":  {
+                                          "de":  "a",
+                                          "para":  "c"
+                                      },
+                     "gramatica-78":  {
+                                          "de":  "c",
+                                          "para":  "a"
+                                      },
+                     "gramatica-79":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "gramatica-81":  {
+                                          "de":  "a",
+                                          "para":  "b"
+                                      },
+                     "gramatica-84":  {
+                                          "de":  "d",
+                                          "para":  "b"
+                                      },
+                     "gramatica-85":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-88":  {
+                                          "de":  "c",
+                                          "para":  "d"
+                                      },
+                     "gramatica-89":  {
+                                          "de":  "d",
+                                          "para":  "e"
+                                      },
+                     "gramatica-91":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-92":  {
+                                          "de":  "b",
+                                          "para":  "d"
+                                      },
+                     "gramatica-93":  {
+                                          "de":  "c",
+                                          "para":  "e"
+                                      },
+                     "gramatica-94":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "gramatica-95":  {
+                                          "de":  "e",
+                                          "para":  "d"
+                                      },
+                     "gramatica-96":  {
+                                          "de":  "a",
+                                          "para":  "d"
+                                      },
+                     "gramatica-97":  {
+                                          "de":  "b",
+                                          "para":  "a"
+                                      },
+                     "gramatica-99":  {
+                                          "de":  "d",
+                                          "para":  "a"
+                                      },
+                     "gramatica-100":  {
+                                           "de":  "e",
+                                           "para":  "d"
+                                       },
+                     "gramatica-101":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "gramatica-102":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "gramatica-103":  {
+                                           "de":  "c",
+                                           "para":  "b"
+                                       },
+                     "gramatica-104":  {
+                                           "de":  "d",
+                                           "para":  "a"
+                                       },
+                     "gramatica-105":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       },
+                     "gramatica-106":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "gramatica-107":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "gramatica-109":  {
+                                           "de":  "d",
+                                           "para":  "a"
+                                       },
+                     "gramatica-110":  {
+                                           "de":  "e",
+                                           "para":  "c"
+                                       },
+                     "gramatica-111":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "gramatica-112":  {
+                                           "de":  "b",
+                                           "para":  "d"
+                                       },
+                     "gramatica-113":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "gramatica-114":  {
+                                           "de":  "d",
+                                           "para":  "b"
+                                       },
+                     "gramatica-115":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       },
+                     "gramatica-116":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "gramatica-117":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "gramatica-118":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "gramatica-119":  {
+                                           "de":  "d",
+                                           "para":  "a"
+                                       },
+                     "gramatica-120":  {
+                                           "de":  "e",
+                                           "para":  "c"
+                                       },
+                     "gramatica-121":  {
+                                           "de":  "a",
+                                           "para":  "c"
+                                       },
+                     "gramatica-122":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "gramatica-123":  {
+                                           "de":  "c",
+                                           "para":  "e"
+                                       },
+                     "gramatica-124":  {
+                                           "de":  "d",
+                                           "para":  "c"
+                                       },
+                     "gramatica-125":  {
+                                           "de":  "e",
+                                           "para":  "b"
+                                       },
+                     "gramatica-126":  {
+                                           "de":  "a",
+                                           "para":  "e"
+                                       },
+                     "gramatica-128":  {
+                                           "de":  "c",
+                                           "para":  "d"
+                                       },
+                     "gramatica-129":  {
+                                           "de":  "d",
+                                           "para":  "c"
+                                       },
+                     "gramatica-130":  {
+                                           "de":  "e",
+                                           "para":  "b"
+                                       },
+                     "gramatica-134":  {
+                                           "de":  "d",
+                                           "para":  "b"
+                                       },
+                     "gramatica-135":  {
+                                           "de":  "e",
+                                           "para":  "d"
+                                       },
+                     "gramatica-137":  {
+                                           "de":  "b",
+                                           "para":  "e"
+                                       },
+                     "gramatica-139":  {
+                                           "de":  "d",
+                                           "para":  "c"
+                                       },
+                     "gramatica-141":  {
+                                           "de":  "a",
+                                           "para":  "d"
+                                       },
+                     "gramatica-143":  {
+                                           "de":  "c",
+                                           "para":  "a"
+                                       },
+                     "gramatica-145":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       },
+                     "gramatica-147":  {
+                                           "de":  "b",
+                                           "para":  "c"
+                                       },
+                     "gramatica-148":  {
+                                           "de":  "c",
+                                           "para":  "d"
+                                       },
+                     "gramatica-149":  {
+                                           "de":  "d",
+                                           "para":  "b"
+                                       },
+                     "gramatica-150":  {
+                                           "de":  "e",
+                                           "para":  "a"
+                                       }
+                 }
+}

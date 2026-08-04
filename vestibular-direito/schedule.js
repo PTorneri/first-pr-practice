@@ -47,6 +47,82 @@ function seededShuffle(array, rng) {
   return a;
 }
 
+// ---------- Clusters de texto ----------
+//
+// A prova real agrupa questões em torno de poucos textos longos: na FGV
+// 2026.1 um romance sustentou 6 questões e um artigo de opinião sustentou 5.
+// Isso não é detalhe de apresentação — é o que cria o risco concentrado que o
+// candidato precisa treinar: ler mal um texto custa seis questões de uma vez.
+//
+// Questões de um mesmo cluster apontam para o mesmo `textoId` e são
+// CONTÍGUAS no arquivo de origem (o build-bundle.ps1 recusa o arquivo se não
+// forem). É essa contiguidade que permite tratar cluster como "corrida" de
+// elementos vizinhos, em vez de varrer o banco atrás dos irmãos de cada
+// questão.
+//
+// Com zero clusters nos dados — a situação atual — cada questão vira um grupo
+// de um só elemento, e as três funções abaixo devolvem exatamente o que a
+// versão anterior devolvia, consumindo o mesmo número de sorteios do RNG. Isso
+// é proposital: a mecânica entra antes do conteúdo para que "quebrei a
+// seleção?" possa ser respondido separadamente de "o cluster está bem escrito?".
+
+function clusterKey(q, prefixo) {
+  if (!q || !q.textoId) return null;
+  return prefixo ? prefixo + "::" + q.textoId : q.textoId;
+}
+
+// Agrupa elementos vizinhos que compartilham a mesma chave de cluster.
+// Elementos sem chave viram grupos unitários.
+function groupRuns(list, keyFn) {
+  const grupos = [];
+  let atual = null;
+  let chaveAtual = null;
+  list.forEach((item) => {
+    const k = keyFn(item);
+    if (k !== null && k === chaveAtual) {
+      atual.push(item);
+      return;
+    }
+    atual = [item];
+    chaveAtual = k;
+    grupos.push(atual);
+  });
+  return grupos;
+}
+
+// Embaralha os GRUPOS, preservando a ordem interna de cada um — as questões de
+// um cluster continuam juntas e na sequência em que foram escritas.
+function shuffleGroups(list, rng, keyFn) {
+  const grupos = groupRuns(list, keyFn);
+  const embaralhados = seededShuffle(grupos, rng);
+  const saida = [];
+  embaralhados.forEach((g) => g.forEach((item) => saida.push(item)));
+  return saida;
+}
+
+// Substitui `list.slice(start, start + count)` sem nunca cortar um cluster ao
+// meio: acumula grupos inteiros até atingir a contagem, aceitando ultrapassá-la.
+// Entregar 4 de um cluster de 6 seria pior do que entregar 6 — o candidato leria
+// o texto inteiro e responderia dois terços dele.
+function takeWholeGroups(list, start, count, keyFn) {
+  if (count <= 0) return [];
+  const grupos = groupRuns(list, keyFn);
+  const saida = [];
+  let pos = 0;
+  grupos.forEach((g) => {
+    const fim = pos + g.length;
+    // `start` pode cair no meio de um grupo quando a chamada anterior já
+    // entregou parte dele; nesse caso o grupo inteiro já foi mostrado e é
+    // simplesmente pulado.
+    if (fim <= start) { pos = fim; return; }
+    if (saida.length >= count) { pos = fim; return; }
+    if (pos < start) { pos = fim; return; }
+    g.forEach((item) => saida.push(item));
+    pos = fim;
+  });
+  return saida;
+}
+
 function hashString(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -235,10 +311,10 @@ function pickQuestions(subtopicId, visitIndex, day) {
   for (let i = 0; i < bank.length; i++) {
     circular.push(bank[(offset + i) % bank.length]);
   }
-  const chosen = circular.slice(0, count);
+  const chosen = takeWholeGroups(circular, 0, count, (q) => clusterKey(q));
 
   const rng = mulberry32(day * 131 + hashString(subtopicId) + visitIndex);
-  return seededShuffle(chosen, rng);
+  return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
 
 // Continua a mesma janela circular que pickQuestions já usou para essa
@@ -259,9 +335,9 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   const count = Math.min(extraCount, Math.max(0, bank.length - start));
   if (count <= 0) return [];
 
-  const chosen = circular.slice(start, start + count);
+  const chosen = takeWholeGroups(circular, start, count, (q) => clusterKey(q));
   const rng = mulberry32(day * 149 + hashString(subtopicId) + visitIndex + alreadyShown);
-  return seededShuffle(chosen, rng);
+  return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
 
 // Monta as ~45 questões do simulado de domingo, distribuídas PROPORCIONALMENTE
@@ -289,11 +365,13 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     const offset = (simuladoVisitIndex * count) % bank.length;
     const circular = [];
     for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
-    circular.slice(0, count).forEach((q) => {
+    takeWholeGroups(circular, 0, count, (q) => clusterKey(q)).forEach((q) => {
       items.push({ question: q, subtopicId: s.id, subtopicNome: s.nome, area: s.area });
     });
   });
-  return seededShuffle(items, rng);
+  // No simulado a chave precisa do prefixo da frente: o array é multifrente e
+  // dois bancos distintos poderiam, por acidente, usar o mesmo textoId.
+  return shuffleGroups(items, rng, (it) => clusterKey(it.question, it.subtopicId));
 }
 
 // Monta o conteúdo completo de um dia: lições (vídeos) + exercícios, ou,

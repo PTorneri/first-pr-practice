@@ -1538,6 +1538,19 @@
     `;
   }
 
+  // Avança um índice de corte até o fim do cluster em que ele caiu, para que
+  // questões que compartilham o mesmo texto não sejam separadas. Sem clusters
+  // nos dados, devolve o índice recebido sem alteração.
+  function snapToGroupBoundary(questions, idx) {
+    if (idx <= 0 || idx >= questions.length) return idx;
+    const chave = (q) => (q && q.textoId) || null;
+    const anterior = chave(questions[idx - 1]);
+    if (anterior === null) return idx;
+    let i = idx;
+    while (i < questions.length && chave(questions[i]) === anterior) i++;
+    return i;
+  }
+
   // Achado 9 (essenciais vs. extras): divide as questões da lição num bloco
   // "essencial" (meta realista do dia, ~12) e um bloco "extras" (o resto,
   // opcional, sem culpa se não fizer) — mais um botão "quero mais" que puxa
@@ -1558,7 +1571,15 @@
         </div>`
       : "";
 
-    const essentialCount = Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length);
+    // O corte entre essenciais e extras não pode cair no meio de um cluster:
+    // as questões de um mesmo texto ficariam em blocos diferentes da tela, e o
+    // usuário leria o texto duas vezes ou responderia metade dele sem contexto.
+    // O ajuste é sempre PARA A FRENTE — o bloco essencial cresce até fechar o
+    // cluster, em vez de encolher e deixar questões órfãs nos extras.
+    const essentialCount = snapToGroupBoundary(
+      lesson.questions,
+      Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length)
+    );
     const essentials = lesson.questions.slice(0, essentialCount);
     const extras = lesson.questions.slice(essentialCount);
     const minutesEstimate = Math.round(essentialCount * MINUTES_PER_QUESTION_ESTIMATE);
@@ -1683,8 +1704,12 @@
     // global (vd_answers, usado só pras stats de frente) já tenha resposta.
     const saved = (hideSavedAnswer || day == null) ? null : getDayAnswers()[dayAnswerKey(day, subtopicId, q.id)];
 
-    const supportHtml = q.texto_apoio
-      ? `<div class="q-support">${escapeHtml(q.texto_apoio)}</div>`
+    // Texto de apoio: inline na própria questão, ou compartilhado por um
+    // cluster e resolvido por textoId. A ordem importa — `texto_apoio` vence,
+    // para que as questões antigas continuem funcionando sem alteração.
+    const support = resolveSupportText(q);
+    const supportHtml = support
+      ? `<div class="q-support">${escapeHtml(support)}</div>`
       : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
     const visualHtml = renderVisual(q.visual);
@@ -2437,6 +2462,17 @@
   // ponto em que conteúdo de arquivo de dados vira markup — e um caminho que
   // aceitasse "javascript:" ou um host externo seria um furo aberto pelo
   // próprio banco de questões.
+  // Resolve o texto de apoio de uma questão. Questões avulsas trazem o texto
+  // inline; questões de cluster apontam para uma entrada de window.QUESTION_TEXTS
+  // por textoId. Passa pelo mesmo escapeHtml do resto, sem caminho novo.
+  function resolveSupportText(q) {
+    if (!q) return "";
+    if (q.texto_apoio) return q.texto_apoio;
+    if (!q.textoId) return "";
+    const t = (window.QUESTION_TEXTS || {})[q.textoId];
+    return (t && t.conteudo) || "";
+  }
+
   const VISUAL_PATH_OK = /^assets\/[A-Za-z0-9._/-]+\.(svg|png|jpg|jpeg|webp)$/;
 
   function renderVisual(visual) {

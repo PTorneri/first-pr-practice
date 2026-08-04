@@ -1,0 +1,491 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027interpretacao-texto\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "interpretacao-texto",
+    "questoes":  {
+                     "interpretacao-texto-01":  {
+                                                    "de":  "a",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-02":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-03":  {
+                                                    "de":  "c",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-04":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-05":  {
+                                                    "de":  "e",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-06":  {
+                                                    "de":  "a",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-07":  {
+                                                    "de":  "b",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-09":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-10":  {
+                                                    "de":  "e",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-11":  {
+                                                    "de":  "a",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-12":  {
+                                                    "de":  "b",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-13":  {
+                                                    "de":  "c",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-14":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-15":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-16":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-18":  {
+                                                    "de":  "c",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-20":  {
+                                                    "de":  "e",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-21":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-23":  {
+                                                    "de":  "c",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-24":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-25":  {
+                                                    "de":  "e",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-26":  {
+                                                    "de":  "a",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-27":  {
+                                                    "de":  "b",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-28":  {
+                                                    "de":  "c",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-29":  {
+                                                    "de":  "d",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-30":  {
+                                                    "de":  "e",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-31":  {
+                                                    "de":  "a",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-32":  {
+                                                    "de":  "b",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-33":  {
+                                                    "de":  "c",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-34":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-35":  {
+                                                    "de":  "e",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-36":  {
+                                                    "de":  "a",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-37":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-38":  {
+                                                    "de":  "c",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-39":  {
+                                                    "de":  "d",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-40":  {
+                                                    "de":  "e",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-41":  {
+                                                    "de":  "a",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-42":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-44":  {
+                                                    "de":  "d",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-45":  {
+                                                    "de":  "e",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-46":  {
+                                                    "de":  "a",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-47":  {
+                                                    "de":  "b",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-48":  {
+                                                    "de":  "c",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-50":  {
+                                                    "de":  "e",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-51":  {
+                                                    "de":  "a",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-52":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-53":  {
+                                                    "de":  "c",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-54":  {
+                                                    "de":  "d",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-55":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-56":  {
+                                                    "de":  "a",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-58":  {
+                                                    "de":  "c",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-61":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-62":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-63":  {
+                                                    "de":  "c",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-64":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-65":  {
+                                                    "de":  "e",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-66":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-67":  {
+                                                    "de":  "b",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-68":  {
+                                                    "de":  "c",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-70":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-71":  {
+                                                    "de":  "a",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-73":  {
+                                                    "de":  "c",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-74":  {
+                                                    "de":  "d",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-75":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-76":  {
+                                                    "de":  "a",
+                                                    "para":  "c"
+                                                },
+                     "interpretacao-texto-78":  {
+                                                    "de":  "c",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-79":  {
+                                                    "de":  "d",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-81":  {
+                                                    "de":  "a",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-84":  {
+                                                    "de":  "d",
+                                                    "para":  "b"
+                                                },
+                     "interpretacao-texto-85":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-88":  {
+                                                    "de":  "c",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-89":  {
+                                                    "de":  "d",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-91":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-92":  {
+                                                    "de":  "b",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-93":  {
+                                                    "de":  "c",
+                                                    "para":  "e"
+                                                },
+                     "interpretacao-texto-94":  {
+                                                    "de":  "d",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-95":  {
+                                                    "de":  "e",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-96":  {
+                                                    "de":  "a",
+                                                    "para":  "d"
+                                                },
+                     "interpretacao-texto-97":  {
+                                                    "de":  "b",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-99":  {
+                                                    "de":  "d",
+                                                    "para":  "a"
+                                                },
+                     "interpretacao-texto-100":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-101":  {
+                                                     "de":  "a",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-102":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-103":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-104":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-105":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-106":  {
+                                                     "de":  "a",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-107":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-109":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-110":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-111":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-112":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-113":  {
+                                                     "de":  "c",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-114":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-115":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-116":  {
+                                                     "de":  "a",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-117":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-118":  {
+                                                     "de":  "c",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-119":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-120":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-121":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-122":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-123":  {
+                                                     "de":  "c",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-124":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-125":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-126":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-128":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-129":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-130":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-134":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-135":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-137":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-139":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "interpretacao-texto-140":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "interpretacao-texto-141":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-142":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "interpretacao-texto-143":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-144":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "interpretacao-texto-146":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "interpretacao-texto-149":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 }
+                 }
+}

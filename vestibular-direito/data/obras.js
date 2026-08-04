@@ -5,9 +5,24 @@
 // transição da modernidade para a pós-modernidade) são comentário crítico
 // original, não reprodução de trechos das obras — a lista de títulos/autores
 // em si é informação factual pública do edital, não conteúdo autoral do site
-// concorrente analisado em analise-app-concorrente.pdf. Como o edital é
-// atualizado a cada ciclo, esta lista deve ser conferida contra a versão mais
-// recente publicada em vestibular.fgv.br quando o próximo edital sair.
+// concorrente analisado em analise-app-concorrente.pdf.
+//
+// CONFERIDA contra CONTEUDO_01_2027.pdf (Conteúdo Programático das Provas,
+// ciclo 1º/2027), seção "Artes e Questões Contemporâneas — Repertório de obras
+// para o exame". O edital de 2027 traz 46 obras obrigatórias, e as 46 estão
+// aqui. As outras 10 entradas ficam com `foraDoEdital2027: true`: caíram de
+// ciclos anteriores e permanecem porque continuam servindo de repertório para
+// a redação e para as discursivas, onde a obra não precisa ser da lista.
+//
+// Atenção ao alcance desta lista: ela vale para a prova de ARTES. A prova de
+// Língua Portuguesa tem seu próprio programa de Literatura, organizado por
+// autor e período (Realismo-Naturalismo: Machado de Assis, Aluísio Azevedo,
+// Raul Pompeia; Modernismo: Mário e Oswald de Andrade, Graciliano Ramos,
+// Clarice Lispector; e assim por diante), e ali obras como O Cortiço, Memórias
+// Póstumas e O Ateneu estão em cheio no programa mesmo sem constar desta
+// lista. Confundir as duas leva a estudar a lista errada.
+//
+// Reconferir quando sair o edital do ciclo seguinte.
 window.OBRAS = [
   // ---------- ENSAIOS / QUESTÕES CONTEMPORÂNEAS ----------
   {
@@ -489,6 +504,13 @@ window.OBRAS = [
   },
   {
     id: "obra-calice-chico-gil",
+    // O edital 2027 lista apenas o "Cálice" do Criolo. A gravação de 1973 fica
+    // aqui de propósito, marcada como fora da lista: a releitura é construída
+    // sobre ela, e quem não conhece a original não tem como perceber o
+    // deslocamento — a mesma imposição de calar, saindo da censura de Estado
+    // para a experiência cotidiana da periferia. É contexto obrigatório de uma
+    // obra obrigatória, e não uma obra obrigatória.
+    foraDoEdital2027: true,
     titulo: "Cálice",
     autor: "Chico Buarque e Gilberto Gil",
     categoria: "Música",

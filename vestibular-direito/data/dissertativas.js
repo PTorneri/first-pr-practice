@@ -667,13 +667,13 @@ window.DISSERTATIVAS = [
     "id": "dissert-artes-09",
     "area": "Artes",
     "tempoSugerido": 25,
-    "texto_apoio": "A Emenda Constitucional 72, de 2013, estendeu às trabalhadoras e aos trabalhadores domésticos direitos que a Constituição já assegurava às demais categorias — jornada limitada, hora extra, FGTS. Até então, uma relação de trabalho realizada dentro de casa era regulada de forma distinta da realizada em qualquer outro lugar.\n\nEm \"Que Horas Ela Volta?\", de Anna Muylaert, Val é empregada doméstica e vive na casa dos patrões. O conflito da narrativa não começa por salário, e sim por espaços: quem pode entrar na piscina, quem come à mesa, qual quarto pertence a quem. A chegada da filha de Val, que não aceita essas fronteiras, é o que torna a regra visível.",
-    "comando": "Discuta por que a desigualdade retratada no filme não se resolve apenas pela extensão de direitos trabalhistas, e apresente seu entendimento sobre o que a regulação jurídica alcança e o que ela não alcança numa relação de trabalho que se dá dentro da casa do empregador.",
+    "texto_apoio": "A Constituição de 1988 condiciona a propriedade rural ao cumprimento de sua função social, que inclui o aproveitamento adequado da terra e a observância das relações de trabalho. O ordenamento também trata como crime a redução de alguém a condição análoga à de escravo, tipo que abrange a servidão por dívida e a restrição da liberdade de locomoção do trabalhador no imóvel.\n\nEm \"Torto Arado\", de Itamar Vieira Junior, famílias trabalham há gerações numa fazenda em que podem plantar para o próprio sustento, mas não podem construir casa de alvenaria nem se dizer donas de coisa alguma. O arranjo não tem contrato, é herdado de pai para filho e sobreviveu por décadas à Abolição sem que ninguém o chamasse de escravidão.",
+    "comando": "Apresente sua posição sobre a seguinte afirmação: um arranjo aceito por todas as partes e mantido por gerações não pode ser tratado como violação, ainda que restrinja direitos. Justifique sua resposta a partir do arranjo retratado no romance.",
     "pontosEsperados": [
-      "Apresenta entendimento próprio sobre os limites da regulação, e não apenas descreve o filme",
-      "Reconhece o alcance real da mudança normativa, sem tratá-la como irrelevante",
-      "Identifica a especificidade do trabalho doméstico: o local de trabalho é a casa de outra pessoa, o que dilui a fronteira entre jornada e convivência",
-      "Trata as regras informais de espaço como parte do problema, e não como detalhe de enredo",
+      "Toma posição explícita diante da afirmação, e não apenas descreve o romance",
+      "Explica por que o consentimento perde força como critério quando não existe alternativa real de saída — que é o ponto que decide a questão",
+      "Relaciona a função social da propriedade ou a proibição do trabalho em condição análoga à de escravo ao arranjo descrito, tratando-os como critérios jurídicos e não como julgamento moral",
+      "Usa elementos concretos do arranjo (ausência de contrato, proibição de construir em alvenaria, transmissão hereditária da sujeição) como argumento",
       "Conclui de forma coerente com a posição sustentada, em norma-padrão"
     ]
   },

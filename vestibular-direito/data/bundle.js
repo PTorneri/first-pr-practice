@@ -10029,12 +10029,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Um panfleto anônimo, distribuído em 1791, defendia que \u0027o poder do governante deve parar onde começa a esfera da consciência e da propriedade de cada cidadão\u0027 e reivindicava garantias contra prisões arbitrárias e censura prévia.",
                                  "enunciado":  "Essa reivindicação, típica das revoluções liberais dos séculos XVII e XVIII, expressa a lógica dos direitos de primeira geração, cuja característica central é:",
                                  "alternativas":  {
-                                                      "a":  "Impor limites à ação do Estado, protegendo liberdades individuais como ir e vir, expressão e propriedade",
-                                                      "b":  "Assegurar direitos coletivos de povos e comunidades tradicionais, como previsto na Convenção 169 da OIT",
+                                                      "a":  "Garantir a titularidade coletiva de bens ambientais às gerações futuras",
+                                                      "b":  "Impor limites à ação do Estado, protegendo liberdades individuais como ir e vir, expressão e propriedade",
                                                       "c":  "Generalizar essa garantia histórica contra a censura estatal para regular a moderação de conteúdo em redes sociais privadas",
-                                                      "d":  "Exigir do Estado prestações positivas, como saúde, educação e moradia, direitos sociais consagrados pelo PIDESC de 1966"
+                                                      "d":  "Assegurar direitos coletivos de povos e comunidades tradicionais, como previsto na Convenção 169 da OIT",
+                                                      "e":  "Exigir do Estado prestações positivas, como saúde, educação e moradia, direitos sociais consagrados pelo PIDESC de 1966"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "Os direitos de primeira geração (civis e políticos), conquistados nas revoluções liberais dos séculos XVII-XVIII, visam limitar o poder do Estado diante do indivíduo — liberdade de ir e vir, expressão, propriedade. A alternativa d ilustra um erro comum: estender o alcance de uma garantia histórica contra o Estado (censura estatal) a um contexto atual estruturalmente diferente (moderação de conteúdo por empresas privadas), que envolve outros sujeitos e outro debate jurídico.",
                                  "formato":  "direta"
                              },
@@ -10043,12 +10044,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Aprovada pela Assembleia Geral da ONU em 1948.",
                                  "enunciado":  "A Declaração Universal dos Direitos Humanos foi proclamada em um contexto histórico marcado principalmente por:",
                                  "alternativas":  {
-                                                      "a":  "A consolidação do sistema colonial europeu na África e na Ásia, expandido pela Conferência de Berlim de 1885, em pleno século XIX",
+                                                      "a":  "A criação da Organização Internacional do Trabalho ao final da Primeira Guerra Mundial",
                                                       "b":  "O fim da Guerra Fria e a queda do Muro de Berlim, marco geopolítico simbólico de 1989, símbolo do fim da bipolaridade mundial",
-                                                      "c":  "As atrocidades cometidas durante a Segunda Guerra Mundial (1939-1945), sobretudo o Holocausto, que impulsionaram a criação da ONU e da própria Declaração",
-                                                      "d":  "A independência das colônias latino-americanas, processo consolidado no século XIX, com destaque para os movimentos de Bolívar e San Martín"
+                                                      "c":  "A consolidação do sistema colonial europeu na África e na Ásia, expandido pela Conferência de Berlim de 1885, em pleno século XIX",
+                                                      "d":  "A independência das colônias latino-americanas, processo consolidado no século XIX, com destaque para os movimentos de Bolívar e San Martín",
+                                                      "e":  "As atrocidades cometidas durante a Segunda Guerra Mundial (1939-1945), sobretudo o Holocausto, que impulsionaram a criação da ONU e da própria Declaração"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "A DUDH de 1948 foi resposta direta às violações massivas de direitos humanos durante a Segunda Guerra Mundial, especialmente o extermínio nazista, buscando estabelecer parâmetros mínimos de dignidade humana.",
                                  "formato":  "direta"
                              },
@@ -10058,11 +10060,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Direitos como os reivindicados nesse abaixo-assinado — saúde, educação e saneamento —, também previstos na Constituição Federal de 1988, são classificados como:",
                                  "alternativas":  {
                                                       "a":  "Direitos difusos, exercidos apenas de forma coletiva pelo bairro, sem possibilidade de exigência individual",
-                                                      "b":  "Direitos de nacionalidade, vinculados à emissão de documentos civis básicos pelo cartório, como certidão de nascimento",
-                                                      "c":  "Direitos políticos, já que foram reivindicados ao lado do direito de votar nas eleições municipais",
-                                                      "d":  "Direitos sociais, que exigem prestações positivas do Estado, como os previstos no art. 6º da Constituição"
+                                                      "b":  "Direitos sociais, que exigem prestações positivas do Estado, como os previstos no art. 6º da Constituição",
+                                                      "c":  "Direitos de terceira geração, ligados à solidariedade e ao meio ambiente equilibrado",
+                                                      "d":  "Direitos de nacionalidade, vinculados à emissão de documentos civis básicos pelo cartório, como certidão de nascimento",
+                                                      "e":  "Direitos políticos, já que foram reivindicados ao lado do direito de votar nas eleições municipais"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "b",
                                  "explicacao":  "Saúde, educação e saneamento são direitos sociais (art. 6º da CF/88), que demandam políticas públicas e prestações positivas do Estado — diferentemente dos direitos políticos (como o voto, citado no abaixo-assinado apenas para reforçar a urgência da pauta) ou dos direitos difusos, que pertencem a uma coletividade indeterminada, e não a um bairro especificamente identificável.",
                                  "formato":  "direta"
                              },
@@ -10071,12 +10074,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "\u0027Tratar igualmente os iguais e desigualmente os desiguais, na medida de sua desigualdade\u0027 é uma máxima atribuída a Rui Barbosa.",
                                  "enunciado":  "Essa formulação está relacionada à distinção entre:",
                                  "alternativas":  {
-                                                      "a":  "Direitos civis e direitos políticos",
-                                                      "b":  "Cidadania ativa e cidadania passiva",
-                                                      "c":  "Direitos individuais e direitos coletivos",
-                                                      "d":  "Igualdade formal e igualdade material"
+                                                      "a":  "Direitos individuais e direitos coletivos",
+                                                      "b":  "Direitos civis e direitos políticos",
+                                                      "c":  "Cidadania ativa e cidadania passiva",
+                                                      "d":  "Direitos fundamentais e garantias processuais",
+                                                      "e":  "Igualdade formal e igualdade material"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "e",
                                  "explicacao":  "A igualdade formal trata todos de modo idêntico perante a lei; a igualdade material reconhece desigualdades reais e busca compensá-las por meio de políticas específicas, como ações afirmativas.",
                                  "formato":  "direta"
                              },
@@ -10085,12 +10089,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "",
                                  "enunciado":  "No Brasil, o direito de voto foi estendido às mulheres em 1932, durante o governo provisório de Getúlio Vargas. Esse marco é resultado direto de:",
                                  "alternativas":  {
-                                                      "a":  "Uma concessão espontânea do Estado, sem qualquer pressão social prévia organizada pela sociedade civil",
-                                                      "b":  "Determinação da Organização das Nações Unidas, fundada na Declaração Universal de 1948",
-                                                      "c":  "Pressão exercida por potências europeias sobre o governo brasileiro, no contexto do pós-Primeira Guerra Mundial",
-                                                      "d":  "Décadas de mobilização do movimento sufragista brasileiro, com destaque para a atuação de Bertha Lutz"
+                                                      "a":  "Pressão exercida por potências europeias sobre o governo brasileiro, no contexto do pós-Primeira Guerra Mundial",
+                                                      "b":  "Exigência formal da Sociedade das Nações como condição para adesão ao organismo",
+                                                      "c":  "Uma concessão espontânea do Estado, sem qualquer pressão social prévia organizada pela sociedade civil",
+                                                      "d":  "Determinação da Organização das Nações Unidas, fundada na Declaração Universal de 1948",
+                                                      "e":  "Décadas de mobilização do movimento sufragista brasileiro, com destaque para a atuação de Bertha Lutz"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "e",
                                  "explicacao":  "O voto feminino no Brasil foi conquistado após décadas de organização do movimento sufragista, no qual Bertha Lutz teve papel de destaque na articulação política pela igualdade de direitos políticos.",
                                  "formato":  "direta"
                              },
@@ -10099,12 +10104,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei Áurea, de 1888, aboliu formalmente a escravidão no Brasil.",
                                  "enunciado":  "Do ponto de vista da história dos direitos humanos, a principal crítica feita ao processo de abolição no Brasil é que:",
                                  "alternativas":  {
-                                                      "a":  "A Lei Áurea concedeu direitos políticos plenos e imediatos à população negra recém-liberta, nos moldes do sufrágio universal",
-                                                      "b":  "A abolição ocorreu antes da independência política do país, ainda sob o Império de Dom Pedro II, antes mesmo da Proclamação da República",
-                                                      "c":  "A escravidão persistiu legalmente até a promulgação da Constituição de 1988, marco da redemocratização, desconsiderando a data correta da abolição",
-                                                      "d":  "A abolição não foi acompanhada de políticas de integração social, terra ou educação para a população negra recém-libertada"
+                                                      "a":  "A abolição foi revogada poucos anos depois e só restabelecida com a República",
+                                                      "b":  "A Lei Áurea concedeu direitos políticos plenos e imediatos à população negra recém-liberta, nos moldes do sufrágio universal",
+                                                      "c":  "A abolição não foi acompanhada de políticas de integração social, terra ou educação para a população negra recém-libertada",
+                                                      "d":  "A escravidão persistiu legalmente até a promulgação da Constituição de 1988, marco da redemocratização, desconsiderando a data correta da abolição",
+                                                      "e":  "A abolição ocorreu antes da independência política do país, ainda sob o Império de Dom Pedro II, antes mesmo da Proclamação da República"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "c",
                                  "explicacao":  "A abolição jurídica não garantiu cidadania efetiva: sem acesso a terra, trabalho, educação ou reparação, a população negra libertada permaneceu à margem da sociedade, o que ajuda a explicar desigualdades raciais persistentes.",
                                  "formato":  "direta"
                              },
@@ -10113,10 +10119,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Antes de 1990, crianças e adolescentes em situação de abandono ou em conflito com a lei eram tratados juridicamente como \u0027menores em situação irregular\u0027, podendo ser internados por decisão de juiz independentemente de terem cometido qualquer ato infracional.",
                                  "enunciado":  "O Estatuto da Criança e do Adolescente (ECA), de 1990, rompeu com essa lógica anterior do \u0027Código de Menores\u0027 ao adotar a doutrina da:",
                                  "alternativas":  {
-                                                      "a":  "Situação irregular, adotada pelo revogado Código de Menores de 1979, superado pela Constituição de 1988",
-                                                      "b":  "Tutela penal máxima, associada a doutrinas de encarceramento juvenil obrigatório, incompatível com o ECA",
+                                                      "a":  "Discricionariedade judicial, prevista no Código de Processo Penal para réus menores de idade",
+                                                      "b":  "Situação irregular, adotada pelo revogado Código de Menores de 1979, superado pela Constituição de 1988",
                                                       "c":  "Proteção integral, consagrada pelo ECA e pela Convenção sobre os Direitos da Criança da ONU",
-                                                      "d":  "Responsabilidade civil objetiva, prevista no Código Civil para atos praticados por menores"
+                                                      "d":  "Responsabilidade civil objetiva, prevista no Código Civil para atos praticados por menores",
+                                                      "e":  "Tutela penal máxima, associada a doutrinas de encarceramento juvenil obrigatório, incompatível com o ECA"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "A doutrina da proteção integral reconhece crianças e adolescentes como sujeitos de direitos em condição peculiar de desenvolvimento, substituindo a antiga doutrina da situação irregular, que os tratava como objeto de tutela estatal, passível de internação por sua mera condição social, e não pela prática de um ato infracional.",
@@ -10127,12 +10134,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2012, o STF julgou constitucional a política de cotas raciais em universidades públicas.",
                                  "enunciado":  "O principal argumento jurídico utilizado pelo STF para validar as cotas raciais foi:",
                                  "alternativas":  {
-                                                      "a":  "A necessidade de correção de desigualdades históricas por meio de ação afirmativa, compatível com a igualdade material",
-                                                      "b":  "A obrigatoriedade imposta por tratados internacionais vinculantes, como a Convenção Interamericana contra o Racismo",
-                                                      "c":  "A inexistência de outros critérios possíveis de seleção universitária, tese rejeitada pelo próprio STF no julgamento, ocorrido em 2012",
-                                                      "d":  "A vedação constitucional a qualquer forma de exame vestibular, atribuída indevidamente ao art. 208 da Constituição"
+                                                      "a":  "A inexistência de outros critérios possíveis de seleção universitária, tese rejeitada pelo próprio STF no julgamento, ocorrido em 2012",
+                                                      "b":  "A vedação constitucional a qualquer forma de exame vestibular, atribuída indevidamente ao art. 208 da Constituição",
+                                                      "c":  "A previsão expressa de reserva de vagas no texto original da Constituição de 1988",
+                                                      "d":  "A necessidade de correção de desigualdades históricas por meio de ação afirmativa, compatível com a igualdade material",
+                                                      "e":  "A obrigatoriedade imposta por tratados internacionais vinculantes, como a Convenção Interamericana contra o Racismo"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "d",
                                  "explicacao":  "O STF entendeu que as cotas raciais são instrumento legítimo de ação afirmativa, compatível com a igualdade material prevista na Constituição, ao buscar compensar desigualdades históricas de acesso à educação superior.",
                                  "formato":  "direta"
                              },
@@ -10141,12 +10149,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O movimento \u0027Diretas Já\u0027 mobilizou milhões de brasileiros entre 1983 e 1984.",
                                  "enunciado":  "Essa mobilização popular reivindicava diretamente:",
                                  "alternativas":  {
-                                                      "a":  "O fim do bicameralismo no Congresso Nacional, com a extinção do Senado Federal, ideia sem respaldo popular",
-                                                      "b":  "A extinção do Supremo Tribunal Federal, substituído por um tribunal constitucional nos moldes europeus",
-                                                      "c":  "A eleição direta para presidente da República, então escolhido indiretamente pelo Colégio Eleitoral, marco da redemocratização",
-                                                      "d":  "A promulgação imediata de uma nova Constituição, redigida por uma assembleia constituinte exclusiva"
+                                                      "a":  "A eleição direta para presidente da República, então escolhido indiretamente pelo Colégio Eleitoral, marco da redemocratização",
+                                                      "b":  "A convocação de uma assembleia constituinte exclusiva, dissolvida após a promulgação",
+                                                      "c":  "A promulgação imediata de uma nova Constituição, redigida por uma assembleia constituinte exclusiva",
+                                                      "d":  "A extinção do Supremo Tribunal Federal, substituído por um tribunal constitucional nos moldes europeus",
+                                                      "e":  "O fim do bicameralismo no Congresso Nacional, com a extinção do Senado Federal, ideia sem respaldo popular"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "a",
                                  "explicacao":  "O movimento Diretas Já exigia a aprovação da emenda Dante de Oliveira, que restabeleceria as eleições presidenciais diretas, ainda restritas pelo regime militar ao voto indireto do Colégio Eleitoral.",
                                  "formato":  "direta"
                              },
@@ -10155,12 +10164,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2019, o STF equiparou a homofobia e a transfobia ao crime de racismo, enquanto a lei específica não fosse aprovada pelo Congresso.",
                                  "enunciado":  "Essa decisão do STF configura um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais",
-                                                      "b":  "Mutação constitucional por meio de emenda aprovada pelo Legislativo, prevista no art. 60",
-                                                      "c":  "Controle de constitucionalidade difuso exercido por juiz de primeira instância, hipótese inaplicável",
-                                                      "d":  "Aplicação direta de tratado internacional sem qualquer base constitucional, tese rejeitada pelo STF"
+                                                      "a":  "Aplicação direta de tratado internacional sem qualquer base constitucional, tese rejeitada pelo STF",
+                                                      "b":  "Controle de constitucionalidade difuso exercido por juiz de primeira instância, hipótese inaplicável",
+                                                      "c":  "Exercício do poder constituinte derivado, mediante emenda aprovada em dois turnos",
+                                                      "d":  "Atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais",
+                                                      "e":  "Mutação constitucional por meio de emenda aprovada pelo Legislativo, prevista no art. 60"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "d",
                                  "explicacao":  "Diante da mora do Congresso em legislar sobre o tema, o STF reconheceu omissão inconstitucional e determinou a aplicação da Lei do Racismo à discriminação por orientação sexual e identidade de gênero até que lei específica seja editada.",
                                  "formato":  "direta"
                              },
@@ -10169,12 +10179,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em determinado ano, tramitou no Congresso Nacional uma proposta de emenda constitucional (PEC) que buscava restringir garantias processuais consideradas direitos e garantias individuais dos acusados em processo penal.",
                                  "enunciado":  "Direitos e garantias individuais, como os discutidos nessa PEC, são protegidos na Constituição de 1988 como cláusulas pétreas, o que significa que:",
                                  "alternativas":  {
-                                                      "a":  "Podem ser livremente alterados por lei ordinária aprovada por maioria simples no Congresso, à semelhança de normas infraconstitucionais comuns",
-                                                      "b":  "Só valem durante estados de exceção, como o estado de sítio previsto no art. 137 da Constituição, sendo automaticamente suspensos fora desse contexto",
-                                                      "c":  "Não podem ser abolidos nem por emenda constitucional, embora admitam regulamentação legislativa que não esvazie seu núcleo essencial",
-                                                      "d":  "Dependem de referendo popular para entrar em vigor, nos moldes do plebiscito de 1993 sobre a forma de governo, regra inexistente na Constituição de 1988"
+                                                      "a":  "Só valem durante estados de exceção, como o estado de sítio previsto no art. 137 da Constituição, sendo automaticamente suspensos fora desse contexto",
+                                                      "b":  "Podem ser suspensos por medida provisória em caso de calamidade pública reconhecida",
+                                                      "c":  "Podem ser livremente alterados por lei ordinária aprovada por maioria simples no Congresso, à semelhança de normas infraconstitucionais comuns",
+                                                      "d":  "Dependem de referendo popular para entrar em vigor, nos moldes do plebiscito de 1993 sobre a forma de governo, regra inexistente na Constituição de 1988",
+                                                      "e":  "Não podem ser abolidos nem por emenda constitucional, embora admitam regulamentação legislativa que não esvazie seu núcleo essencial"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "O art. 60, §4º, da CF/88 estabelece que direitos e garantias individuais são cláusulas pétreas, ou seja, núcleo constitucional protegido contra qualquer tentativa de supressão, mesmo por emenda constitucional — a PEC hipotética descrita poderia, quando muito, regulamentar o exercício desses direitos, mas nunca aboli-los ou esvaziar seu conteúdo essencial.",
                                  "formato":  "direta"
                              },
@@ -10184,11 +10195,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A situação descrita ilustra o que a filósofa Hannah Arendt chamou de perda do \u0027direito a ter direitos\u0027, pois evidencia que:",
                                  "alternativas":  {
                                                       "a":  "A privação de nacionalidade afeta exclusivamente o direito de voto dessas pessoas, sem outras consequências jurídicas relevantes para sua vida civil",
-                                                      "b":  "Direitos humanos, por serem universais, continuam plenamente garantidos a essas pessoas independentemente de sua nacionalidade",
-                                                      "c":  "Sem pertencer a uma comunidade política que a reconheça como sujeito de direito, essa pessoa perde a proteção jurídica básica",
-                                                      "d":  "O problema central enfrentado por essas pessoas é apenas burocrático, relacionado à emissão de novos documentos de identidade"
+                                                      "b":  "O problema central enfrentado por essas pessoas é apenas burocrático, relacionado à emissão de novos documentos de identidade",
+                                                      "c":  "Direitos humanos, por serem universais, continuam plenamente garantidos a essas pessoas independentemente de sua nacionalidade",
+                                                      "d":  "A perda de nacionalidade impede apenas o exercício de direitos políticos, preservados os civis",
+                                                      "e":  "Sem pertencer a uma comunidade política que a reconheça como sujeito de direito, essa pessoa perde a proteção jurídica básica"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "Para Arendt, a experiência de apátridas e refugiados no século XX revelou o paradoxo dos direitos humanos: sem pertencer a uma comunidade política concreta que os reconheça como sujeitos, esses direitos \u0027universais\u0027 tornam-se inacessíveis na prática. Reduzir o problema a uma questão burocrática (documentos) ou a um único direito isolado (como o voto) esconde a dimensão mais profunda: a perda do próprio estatuto de sujeito de direitos.",
                                  "formato":  "direta"
                              },
@@ -10197,12 +10209,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "",
                                  "enunciado":  "A existência de trabalho análogo à escravidão no Brasil contemporâneo, identificada por fiscalizações do Ministério do Trabalho, caracteriza-se principalmente por:",
                                  "alternativas":  {
-                                                      "a":  "Ausência completa de remuneração em qualquer hipótese, ainda que as demais condições de trabalho sejam regulares",
-                                                      "b":  "Contratos de trabalho sem registro em carteira, independentemente das condições concretas de trabalho oferecidas",
-                                                      "c":  "Trabalho forçado, jornadas exaustivas, servidão por dívida ou condições degradantes que retiram a dignidade do trabalhador, nos termos do art. 149 do CP",
-                                                      "d":  "Trabalho realizado por estrangeiros em situação migratória irregular no território nacional, mesmo com contrato formal"
+                                                      "a":  "Contratos de trabalho sem registro em carteira, independentemente das condições concretas de trabalho oferecidas",
+                                                      "b":  "Ausência completa de remuneração em qualquer hipótese, ainda que as demais condições de trabalho sejam regulares",
+                                                      "c":  "Descumprimento das normas de saúde e segurança do trabalho previstas em norma regulamentadora",
+                                                      "d":  "Trabalho forçado, jornadas exaustivas, servidão por dívida ou condições degradantes que retiram a dignidade do trabalhador, nos termos do art. 149 do CP",
+                                                      "e":  "Trabalho realizado por estrangeiros em situação migratória irregular no território nacional, mesmo com contrato formal"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "d",
                                  "explicacao":  "A legislação brasileira (art. 149 do Código Penal) define trabalho escravo contemporâneo por elementos como trabalho forçado, jornada exaustiva, condições degradantes e restrição de locomoção, não apenas pela ausência de pagamento.",
                                  "formato":  "direta"
                              },
@@ -10213,10 +10226,11 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Impor a assimilação obrigatória à cultura nacional, política adotada pelo antigo Serviço de Proteção aos Índios (SPI)",
                                                       "b":  "Transferir a demarcação de terras indígenas aos estados-membros da Federação, nos moldes do federalismo americano",
-                                                      "c":  "Reconhecer sua organização social, costumes, línguas e direitos originários sobre as terras que tradicionalmente ocupam, nos termos do art. 231 da CF",
-                                                      "d":  "Extinguir a tutela da Fundação Nacional do Índio sem órgão substituto de proteção, medida nunca efetivada no Brasil"
+                                                      "c":  "Transferir aos estados a competência para legislar sobre populações indígenas",
+                                                      "d":  "Reconhecer sua organização social, costumes, línguas e direitos originários sobre as terras que tradicionalmente ocupam, nos termos do art. 231 da CF",
+                                                      "e":  "Extinguir a tutela da Fundação Nacional do Índio sem órgão substituto de proteção, medida nunca efetivada no Brasil"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "d",
                                  "explicacao":  "O art. 231 da CF/88 rompeu com a lógica assimilacionista anterior, reconhecendo aos povos indígenas o direito à sua organização social e aos direitos originários sobre suas terras, cabendo à União demarcá-las e protegê-las.",
                                  "formato":  "direta"
                              },
@@ -10225,12 +10239,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "",
                                  "enunciado":  "Políticas de ação afirmativa, como cotas em concursos públicos para pessoas negras, são frequentemente criticadas por opositores sob o argumento de que:",
                                  "alternativas":  {
-                                                      "a":  "Ferem o princípio da igualdade material previsto no art. 5º da Constituição Federal, segundo essa crítica equivocada",
-                                                      "b":  "São impostas por organismos internacionais sem qualquer base na Constituição Federal de 1988, tese sem qualquer amparo jurídico",
-                                                      "c":  "Contrariam a ideia de igualdade puramente formal perante a lei, tratando os candidatos de forma diferenciada",
-                                                      "d":  "Aplicam-se apenas ao Poder Judiciário, conforme resolução do Conselho Nacional de Justiça, entendimento incorreto e minoritário"
+                                                      "a":  "São impostas por organismos internacionais sem qualquer base na Constituição Federal de 1988, tese sem qualquer amparo jurídico",
+                                                      "b":  "Contrariam a ideia de igualdade puramente formal perante a lei, tratando os candidatos de forma diferenciada",
+                                                      "c":  "Ferem o princípio da igualdade material previsto no art. 5º da Constituição Federal, segundo essa crítica equivocada",
+                                                      "d":  "Dependem de renovação periódica por lei ordinária, sob pena de perda automática de validade",
+                                                      "e":  "Aplicam-se apenas ao Poder Judiciário, conforme resolução do Conselho Nacional de Justiça, entendimento incorreto e minoritário"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "b",
                                  "explicacao":  "Críticos das ações afirmativas costumam recorrer ao argumento da igualdade formal (tratamento idêntico a todos), enquanto seus defensores invocam a igualdade material, que busca compensar desigualdades estruturais de origem histórica.",
                                  "formato":  "direta"
                              },
@@ -10240,11 +10255,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Esse tipo de debate, associado por parte da doutrina a uma possível \u0027quarta geração\u0027 de direitos humanos, está centrado principalmente em temas como:",
                                  "alternativas":  {
                                                       "a":  "Generalizar o antigo direito ao sigilo de correspondência do século XIX para bancos de dados genéticos digitais de empresas privadas",
-                                                      "b":  "Sufrágio universal e liberdade de imprensa, temas típicos das primeiras gerações de direitos, consagrados no século XVIII",
-                                                      "c":  "Bioética, manipulação genética e proteção de dados pessoais na era digital, temas centrais da LGPD, debatidos mundialmente",
-                                                      "d":  "Abolição da escravidão e fim do trabalho infantil, pautas típicas dos direitos sociais consolidados no século XX"
+                                                      "b":  "Direito ao desenvolvimento sustentável e à autodeterminação dos povos",
+                                                      "c":  "Sufrágio universal e liberdade de imprensa, temas típicos das primeiras gerações de direitos, consagrados no século XVIII",
+                                                      "d":  "Abolição da escravidão e fim do trabalho infantil, pautas típicas dos direitos sociais consolidados no século XX",
+                                                      "e":  "Bioética, manipulação genética e proteção de dados pessoais na era digital, temas centrais da LGPD, debatidos mundialmente"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "A chamada quarta geração de direitos é associada por parte da doutrina aos desafios trazidos pela biotecnologia, engenharia genética e proteção de dados pessoais. A alternativa c ilustra um raciocínio equivocado comum: tratar uma garantia histórica específica (sigilo de correspondência, ligada à comunicação escrita do século XIX) como se pudesse ser estendida automaticamente a uma tecnologia e um contexto totalmente distintos (bancos genéticos digitais), sem qualquer construção jurídica própria para esse novo cenário.",
                                  "formato":  "direta"
                              },
@@ -10253,12 +10269,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Um ensaio sobre história da democracia observa que, na Atenas clássica, apenas uma fração da população total que habitava a cidade podia integrar a Assembleia e votar as leis, já que mulheres, pessoas escravizadas e estrangeiros (metecos) eram excluídos da cidadania plena.",
                                  "enunciado":  "Diante desse retrato da cidadania na Grécia Antiga, a comparação com a cidadania moderna exige cautela porque:",
                                  "alternativas":  {
-                                                      "a":  "As duas noções de cidadania são idênticas, pois ambas se baseiam exclusivamente no critério de nascimento no território, o chamado jus soli, noção uniforme ao longo da história",
+                                                      "a":  "A cidadania grega já reconhecia direitos sociais, ausentes na cidadania moderna",
                                                       "b":  "A cidadania grega, embora restrita, pode ser tratada como equivalente à cidadania moderna, bastando aplicar suas regras de participação política ao contexto atual sem qualquer ressalva",
-                                                      "c":  "Cidadania, na Antiguidade, era status restrito a uma parcela da população livre e nascida na cidade, enquanto a cidadania moderna se pretende universal",
-                                                      "d":  "A cidadania moderna manteve, sem alterações, a exclusão de mulheres do direito de voto presente na Grécia Antiga até os dias atuais, conforme o modelo ateniense original"
+                                                      "c":  "As duas noções de cidadania são idênticas, pois ambas se baseiam exclusivamente no critério de nascimento no território, o chamado jus soli, noção uniforme ao longo da história",
+                                                      "d":  "Cidadania, na Antiguidade, era status restrito a uma parcela da população livre e nascida na cidade, enquanto a cidadania moderna se pretende universal",
+                                                      "e":  "A cidadania moderna manteve, sem alterações, a exclusão de mulheres do direito de voto presente na Grécia Antiga até os dias atuais, conforme o modelo ateniense original"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "d",
                                  "explicacao":  "A cidadania na pólis grega era privilégio de uma minoria de homens livres, excluindo mulheres, escravizados e estrangeiros — diferente da pretensão de universalidade da cidadania moderna. Um erro comum é generalizar indevidamente um conceito histórico restrito (a cidadania antiga) para o contexto atual, como se as regras de um período pudessem ser aplicadas sem mediação das transformações históricas — incluindo conquistas como o sufrágio universal — que separam os dois momentos.",
                                  "formato":  "direta"
                              },
@@ -10267,12 +10284,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei Brasileira de Inclusão (Lei 13.146/2015) internalizou princípios da Convenção Internacional sobre os Direitos das Pessoas com Deficiência.",
                                  "enunciado":  "Um dos princípios centrais dessa legislação é a mudança do chamado modelo médico para o modelo social da deficiência, que consiste em:",
                                  "alternativas":  {
-                                                      "a":  "Eliminar a necessidade de acessibilidade em espaços públicos e privados de uso coletivo, incompatível com a Lei Brasileira de Inclusão",
-                                                      "b":  "Entender a deficiência como resultado da interação entre a condição da pessoa e barreiras impostas pela sociedade",
+                                                      "a":  "Tratar a deficiência como condição a ser superada por meio de reabilitação individual",
+                                                      "b":  "Eliminar a necessidade de acessibilidade em espaços públicos e privados de uso coletivo, incompatível com a Lei Brasileira de Inclusão",
                                                       "c":  "Considerar a deficiência exclusivamente como uma condição biológica a ser tratada e curada medicamente, ideia rejeitada pela CDPD",
-                                                      "d":  "Restringir direitos de pessoas com deficiência ao ambiente hospitalar e a instituições de longa permanência, noção incompatível com a LBI"
+                                                      "d":  "Entender a deficiência como resultado da interação entre a condição da pessoa e barreiras impostas pela sociedade",
+                                                      "e":  "Restringir direitos de pessoas com deficiência ao ambiente hospitalar e a instituições de longa permanência, noção incompatível com a LBI"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "O modelo social compreende a deficiência não apenas como uma limitação individual, mas como resultado da interação entre a pessoa e barreiras físicas, sociais e atitudinais que a sociedade impõe, deslocando o foco para a acessibilidade e a inclusão.",
                                  "formato":  "direta"
                              },
@@ -10281,12 +10299,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Emenda Constitucional nº 26, de 2000, incluiu a moradia entre os direitos sociais previstos no art. 6º da Constituição Federal.",
                                  "enunciado":  "O reconhecimento constitucional do direito à moradia implica, sobretudo, que o poder público deve:",
                                  "alternativas":  {
-                                                      "a":  "Doar um imóvel próprio a cada cidadão que o solicitar, independentemente de critérios de renda ou vulnerabilidade",
-                                                      "b":  "Formular e executar políticas públicas que garantam acesso a moradia digna, sem se resumir à titulação da propriedade privada",
-                                                      "c":  "Abolir a propriedade privada urbana em favor da propriedade coletiva, nos moldes soviéticos do século XX, solução incompatível com a CF/88",
-                                                      "d":  "Restringir a aplicação desse direito exclusivamente às áreas rurais, excluindo os centros urbanos do país, exceção não prevista em lei"
+                                                      "a":  "Assegurar a todos o direito de permanecer indefinidamente em imóvel ocupado sem título",
+                                                      "b":  "Restringir a aplicação desse direito exclusivamente às áreas rurais, excluindo os centros urbanos do país, exceção não prevista em lei",
+                                                      "c":  "Doar um imóvel próprio a cada cidadão que o solicitar, independentemente de critérios de renda ou vulnerabilidade",
+                                                      "d":  "Formular e executar políticas públicas que garantam acesso a moradia digna, sem se resumir à titulação da propriedade privada",
+                                                      "e":  "Abolir a propriedade privada urbana em favor da propriedade coletiva, nos moldes soviéticos do século XX, solução incompatível com a CF/88"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "O direito à moradia, como direito social, exige prestações positivas do Estado, como programas habitacionais, urbanização de assentamentos precários e infraestrutura, não se limitando à garantia da propriedade individual do imóvel.",
                                  "formato":  "direta"
                              },
@@ -10295,10 +10314,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Estatuto da Cidade (Lei 10.257/2001) regulamenta o capítulo constitucional de política urbana e consagra a função social da propriedade.",
                                  "enunciado":  "Entre os instrumentos previstos pelo Estatuto da Cidade para assegurar que a propriedade urbana cumpra sua função social está:",
                                  "alternativas":  {
-                                                      "a":  "A isenção permanente de impostos para terrenos vazios em áreas centrais das cidades brasileiras, isenção inexistente na legislação municipal",
-                                                      "b":  "A transferência automática da propriedade ao município após um ano de vacância do imóvel, hipótese não prevista no Estatuto da Cidade",
-                                                      "c":  "A proibição total de imóveis não edificados nas cidades, sem qualquer exceção legal prevista, vedação incompatível com a função social da propriedade",
-                                                      "d":  "O parcelamento, a edificação ou a utilização compulsórios de imóveis subutilizados, sob pena de IPTU progressivo no tempo"
+                                                      "a":  "A proibição total de imóveis não edificados nas cidades, sem qualquer exceção legal prevista, vedação incompatível com a função social da propriedade",
+                                                      "b":  "A isenção permanente de impostos para terrenos vazios em áreas centrais das cidades brasileiras, isenção inexistente na legislação municipal",
+                                                      "c":  "A transferência automática da propriedade ao município após um ano de vacância do imóvel, hipótese não prevista no Estatuto da Cidade",
+                                                      "d":  "O parcelamento, a edificação ou a utilização compulsórios de imóveis subutilizados, sob pena de IPTU progressivo no tempo",
+                                                      "e":  "A desapropriação imediata, independentemente de prévia notificação ao proprietário"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O Estatuto da Cidade prevê instrumentos como parcelamento, edificação ou utilização compulsórios e IPTU progressivo no tempo para desestimular a retenção especulativa de imóveis urbanos ociosos, concretizando a função social da propriedade.",
@@ -10309,12 +10329,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O art. 7º, inciso XXXIII, da Constituição Federal trata da proteção ao trabalho de crianças e adolescentes.",
                                  "enunciado":  "De acordo com a Constituição Federal, é vedado qualquer trabalho a menores de:",
                                  "alternativas":  {
-                                                      "a":  "16 anos, salvo na condição de aprendiz a partir dos 14 anos",
-                                                      "b":  "12 anos, desde que haja autorização dos responsáveis legais",
-                                                      "c":  "14 anos, idade a partir da qual se admite o trabalho em qualquer condição",
-                                                      "d":  "18 anos, inclusive na condição de aprendiz e de estagiário"
+                                                      "a":  "18 anos, inclusive na condição de aprendiz e de estagiário",
+                                                      "b":  "16 anos, salvo na condição de aprendiz a partir dos 14 anos",
+                                                      "c":  "12 anos, desde que haja autorização dos responsáveis legais",
+                                                      "d":  "14 anos, idade a partir da qual se admite o trabalho em qualquer condição",
+                                                      "e":  "15 anos, com autorização do Conselho Tutelar do município de residência"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "A Constituição veda qualquer trabalho a menores de 16 anos, abrindo uma única exceção: a condição de aprendiz, admitida a partir dos 14. O limite dos 18 anos é outro e vale para o trabalho noturno, perigoso ou insalubre. O erro mais comum é tomar os 14 anos como idade mínima geral, quando eles marcam apenas o início da exceção do aprendiz (art. 7º, XXXIII, da CF).",
                                  "formato":  "direta"
                              },
@@ -10323,12 +10344,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O ECA instituiu o Sistema de Garantia de Direitos da criança e do adolescente, do qual fazem parte diferentes órgãos e instâncias.",
                                  "enunciado":  "Dentro desse sistema, o Conselho Tutelar é o órgão responsável por:",
                                  "alternativas":  {
-                                                      "a":  "Julgar processos criminais envolvendo adolescentes em conflito com a lei, com pena privativa de liberdade, com poder de aplicar sanções penais",
-                                                      "b":  "Zelar, no âmbito municipal, pelo cumprimento dos direitos da criança e do adolescente, de forma autônoma e não jurisdicional",
-                                                      "c":  "Legislar sobre políticas nacionais de infância e juventude, com força de lei federal, atribuição privativa do Conanda",
-                                                      "d":  "Substituir integralmente o papel da família na criação dos filhos, mediante guarda estatal permanente, papel que compete apenas ao Judiciário"
+                                                      "a":  "Zelar, no âmbito municipal, pelo cumprimento dos direitos da criança e do adolescente, de forma autônoma e não jurisdicional",
+                                                      "b":  "Legislar sobre políticas nacionais de infância e juventude, com força de lei federal, atribuição privativa do Conanda",
+                                                      "c":  "Representar judicialmente crianças e adolescentes em ações de destituição do poder familiar",
+                                                      "d":  "Julgar processos criminais envolvendo adolescentes em conflito com a lei, com pena privativa de liberdade, com poder de aplicar sanções penais",
+                                                      "e":  "Substituir integralmente o papel da família na criação dos filhos, mediante guarda estatal permanente, papel que compete apenas ao Judiciário"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "O Conselho Tutelar é órgão permanente, autônomo e não jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente no âmbito municipal, distinto do Poder Judiciário.",
                                  "formato":  "direta"
                              },
@@ -10338,11 +10360,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa forma de aprovação conferiu à Convenção o status de:",
                                  "alternativas":  {
                                                       "a":  "Lei ordinária, podendo ser revogada por lei posterior de igual hierarquia normativa, equivalente a normas infraconstitucionais comuns",
-                                                      "b":  "Mera recomendação, sem força vinculante no ordenamento jurídico interno, entendimento equivocado sobre tratados de direitos humanos",
-                                                      "c":  "Norma equivalente a emenda constitucional, aprovada em dois turnos por três quintos dos votos, nos termos do art. 5º, §3º",
-                                                      "d":  "Decreto regulamentar de competência exclusiva do Poder Executivo Federal, sem qualquer participação do Congresso Nacional"
+                                                      "b":  "Norma equivalente a emenda constitucional, aprovada em dois turnos por três quintos dos votos, nos termos do art. 5º, §3º",
+                                                      "c":  "Norma supralegal, hierarquicamente acima das leis e abaixo da Constituição",
+                                                      "d":  "Mera recomendação, sem força vinculante no ordenamento jurídico interno, entendimento equivocado sobre tratados de direitos humanos",
+                                                      "e":  "Decreto regulamentar de competência exclusiva do Poder Executivo Federal, sem qualquer participação do Congresso Nacional"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "b",
                                  "explicacao":  "Tratados de direitos humanos aprovados em dois turnos, por três quintos dos votos, em cada Casa do Congresso Nacional, passam a ter status de emenda constitucional, conforme o art. 5º, §3º, da CF/88 — regra até hoje aplicada apenas a poucos tratados, entre eles essa Convenção.",
                                  "formato":  "direta"
                              },
@@ -10351,12 +10374,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
                                  "enunciado":  "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS",
-                                                      "b":  "Isenção fiscal concedida apenas a microempresas de pequeno porte, tese rejeitada pela doutrina majoritária",
-                                                      "c":  "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho, como previsto na Lei 8.213/1991",
-                                                      "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990, sem alcançar empresas privadas"
+                                                      "a":  "Isenção fiscal concedida apenas a microempresas de pequeno porte, tese rejeitada pela doutrina majoritária",
+                                                      "b":  "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho, como previsto na Lei 8.213/1991",
+                                                      "c":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS",
+                                                      "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990, sem alcançar empresas privadas",
+                                                      "e":  "Medida compensatória de natureza tributária, deduzida do imposto devido pela empresa"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "b",
                                  "explicacao":  "A Lei de Cotas obriga empresas privadas com 100 ou mais empregados a reservar de 2% a 5% das vagas a pessoas com deficiência ou reabilitadas, constituindo ação afirmativa voltada à inclusão no mercado de trabalho formal.",
                                  "formato":  "direta"
                              },
@@ -10365,12 +10389,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Declaração de Cartagena, de 1984, ampliou o conceito de refugiado adotado pela Convenção de 1951, incorporado pela legislação brasileira (Lei 9.474/1997).",
                                  "enunciado":  "Essa ampliação passou a reconhecer como refugiadas também pessoas que fogem de seus países devido a:",
                                  "alternativas":  {
-                                                      "a":  "Simples busca por melhores salários no exterior, motivação classificada como migração econômica",
+                                                      "a":  "Grave e generalizada violação de direitos humanos, e não apenas perseguição individualizada",
                                                       "b":  "Desejo de reunificação familiar com parentes já emigrados para outro país",
-                                                      "c":  "Necessidade de completar estudos universitários no exterior, sem qualquer perseguição",
-                                                      "d":  "Grave e generalizada violação de direitos humanos, e não apenas perseguição individualizada"
+                                                      "c":  "Simples busca por melhores salários no exterior, motivação classificada como migração econômica",
+                                                      "d":  "Necessidade de completar estudos universitários no exterior, sem qualquer perseguição",
+                                                      "e":  "Deslocamento provocado por desastres ambientais de origem natural"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "a",
                                  "explicacao":  "Além da perseguição individual por motivos de raça, religião, nacionalidade, grupo social ou opinião política prevista na Convenção de 1951, a Declaração de Cartagena passou a considerar refugiadas pessoas que fogem de contextos de grave e generalizada violação de direitos humanos, conceito incorporado pela lei brasileira.",
                                  "formato":  "direta"
                              },
@@ -10379,12 +10404,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
                                  "enunciado":  "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
                                  "alternativas":  {
-                                                      "a":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra",
-                                                      "b":  "As partes em conflito devem distinguir combatentes de civis, dirigindo ataques apenas contra objetivos militares",
-                                                      "c":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor",
-                                                      "d":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total declarada, segundo o art. 225 da Constituição"
+                                                      "a":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total declarada, segundo o art. 225 da Constituição",
+                                                      "b":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra",
+                                                      "c":  "As partes em conflito devem distinguir combatentes de civis, dirigindo ataques apenas contra objetivos militares",
+                                                      "d":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor",
+                                                      "e":  "Toda infraestrutura de uso misto pode ser atacada, desde que haja aviso prévio"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "O princípio da distinção exige que as partes em conflito armado diferenciem combatentes de civis e bens de caráter civil, dirigindo operações militares apenas contra objetivos militares legítimos, de modo a proteger a população civil.",
                                  "formato":  "direta"
                              },
@@ -10393,12 +10419,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) atua desde 1950 na proteção de refugiados e apátridas.",
                                  "enunciado":  "Uma pessoa apátrida é aquela que:",
                                  "alternativas":  {
-                                                      "a":  "Vive fora de seu país de nascimento, mantendo sua nacionalidade original",
-                                                      "b":  "Não é considerada nacional por nenhum Estado, segundo a legislação de nenhum deles, conforme o ACNUR",
-                                                      "c":  "Possui dupla nacionalidade reconhecida oficialmente por dois Estados diferentes",
-                                                      "d":  "Renunciou a todos os seus direitos civis perante a Justiça Eleitoral"
+                                                      "a":  "Renunciou a todos os seus direitos civis perante a Justiça Eleitoral",
+                                                      "b":  "Teve a nacionalidade suspensa temporariamente por decisão judicial em seu país de origem",
+                                                      "c":  "Não é considerada nacional por nenhum Estado, segundo a legislação de nenhum deles, conforme o ACNUR",
+                                                      "d":  "Possui dupla nacionalidade reconhecida oficialmente por dois Estados diferentes",
+                                                      "e":  "Vive fora de seu país de nascimento, mantendo sua nacionalidade original"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "A apatridia caracteriza-se pela ausência de vínculo de nacionalidade com qualquer Estado, o que priva a pessoa de proteção jurídica básica, como acesso a documentos, serviços públicos e direitos políticos, sendo tema de atuação do ACNUR.",
                                  "formato":  "direta"
                              },
@@ -10407,12 +10434,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992 (Eco-92), consolidou o conceito de desenvolvimento sustentável.",
                                  "enunciado":  "Esse conceito busca conciliar, principalmente:",
                                  "alternativas":  {
-                                                      "a":  "O crescimento econômico com a redução da regulação ambiental sobre os setores produtivos",
-                                                      "b":  "A industrialização acelerada dos países em desenvolvimento, com compensação ambiental posterior",
-                                                      "c":  "O desenvolvimento econômico e social com a preservação ambiental para as gerações futuras",
-                                                      "d":  "A redução das atividades produtivas nos países em desenvolvimento, mediante metas de decrescimento"
+                                                      "a":  "A redução das atividades produtivas nos países em desenvolvimento, mediante metas de decrescimento",
+                                                      "b":  "O crescimento econômico com a redução da regulação ambiental sobre os setores produtivos",
+                                                      "c":  "A soberania sobre recursos naturais com a livre circulação internacional de mercadorias",
+                                                      "d":  "O desenvolvimento econômico e social com a preservação ambiental para as gerações futuras",
+                                                      "e":  "A industrialização acelerada dos países em desenvolvimento, com compensação ambiental posterior"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "d",
                                  "explicacao":  "O desenvolvimento sustentável, definido pelo Relatório Brundtland (1987) e consolidado na Eco-92, propõe atender às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas próprias necessidades, articulando desenvolvimento e proteção ambiental.",
                                  "formato":  "direta"
                              },
@@ -10421,10 +10449,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O art. 225 da Constituição Federal de 1988 trata do direito ao meio ambiente.",
                                  "enunciado":  "Segundo esse dispositivo constitucional, o meio ambiente ecologicamente equilibrado é:",
                                  "alternativas":  {
-                                                      "a":  "Um tema de competência exclusiva dos municípios, conforme o pacto federativo brasileiro",
-                                                      "b":  "Um bem de propriedade exclusiva da União, sem qualquer responsabilidade dos cidadãos",
-                                                      "c":  "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações",
-                                                      "d":  "Um bem de uso comum do povo, cuja defesa é dever tanto do poder público quanto da coletividade"
+                                                      "a":  "Um direito restrito às gerações atualmente vivas, sem menção às futuras gerações",
+                                                      "b":  "Um bem sob tutela exclusiva do Ministério Público, a quem cabe sua defesa judicial",
+                                                      "c":  "Um tema de competência exclusiva dos municípios, conforme o pacto federativo brasileiro",
+                                                      "d":  "Um bem de uso comum do povo, cuja defesa é dever tanto do poder público quanto da coletividade",
+                                                      "e":  "Um bem de propriedade exclusiva da União, sem qualquer responsabilidade dos cidadãos"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O art. 225 da CF/88 define o meio ambiente ecologicamente equilibrado como bem de uso comum do povo e essencial à sadia qualidade de vida, impondo ao poder público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.",
@@ -10435,12 +10464,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2003, o STF julgou o caso conhecido como \u0027Ellwanger\u0027, envolvendo a condenação de um editor por divulgar obras antissemitas.",
                                  "enunciado":  "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
                                  "alternativas":  {
-                                                      "a":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta",
-                                                      "b":  "Não é absoluta e pode ser limitada quando configura discurso de ódio, como a incitação ao racismo, crime inafiançável",
-                                                      "c":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto",
-                                                      "d":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa tradicionais, tese rejeitada pela doutrina majoritária"
+                                                      "a":  "Não é absoluta e pode ser limitada quando configura discurso de ódio, como a incitação ao racismo, crime inafiançável",
+                                                      "b":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa tradicionais, tese rejeitada pela doutrina majoritária",
+                                                      "c":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta",
+                                                      "d":  "Prevalece sempre sobre a honra e a imagem, por integrar o núcleo das cláusulas pétreas",
+                                                      "e":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "O STF reafirmou que a liberdade de expressão, embora fundamental, não é absoluta, devendo ser ponderada com outros valores constitucionais, como a dignidade humana e a igualdade, de modo que manifestações de ódio racial configuram crime de racismo, nos termos da Constituição.",
                                  "formato":  "direta"
                              },
@@ -10449,12 +10479,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
                                  "enunciado":  "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
                                  "alternativas":  {
-                                                      "a":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de ódio contra grupos vulneráveis",
+                                                      "a":  "Transferir ao Estado o controle editorial prévio do conteúdo publicado por particulares na internet",
                                                       "b":  "Suprimir a moderação feita pelas plataformas, deixando toda remoção de conteúdo a cargo do Judiciário",
-                                                      "c":  "Transferir ao Estado o controle editorial prévio do conteúdo publicado por particulares na internet",
-                                                      "d":  "Restringir a discussão aos veículos de imprensa tradicionais, deixando as redes sociais fora do debate"
+                                                      "c":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de ódio contra grupos vulneráveis",
+                                                      "d":  "Atribuir exclusivamente ao Judiciário a decisão prévia sobre cada conteúdo publicado",
+                                                      "e":  "Restringir a discussão aos veículos de imprensa tradicionais, deixando as redes sociais fora do debate"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O debate sobre liberdade de expressão no ambiente digital busca equilibrar a proteção a esse direito fundamental com a necessidade de coibir abusos, como discursos que incitam violência ou discriminação, sem que isso resulte em censura prévia indevida.",
                                  "formato":  "direta"
                              },
@@ -10463,10 +10494,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) regula o tratamento de dados pessoais no Brasil.",
                                  "enunciado":  "Um dos principais objetivos da LGPD é:",
                                  "alternativas":  {
-                                                      "a":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
+                                                      "a":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais",
                                                       "b":  "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados, protegendo a privacidade",
-                                                      "c":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais",
-                                                      "d":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros"
+                                                      "c":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
+                                                      "d":  "Uniformizar a legislação brasileira de dados com o regulamento europeu, sem adaptações",
+                                                      "e":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A LGPD estabelece princípios e regras para o tratamento de dados pessoais por empresas e órgãos públicos, assegurando direitos aos titulares dos dados, como informação, consentimento e finalidade específica, em consonância com o direito fundamental à privacidade.",
@@ -10477,10 +10509,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O chamado \u0027direito ao esquecimento\u0027 tem sido debatido pelos tribunais brasileiros em casos envolvendo a divulgação de fatos passados sobre uma pessoa.",
                                  "enunciado":  "Esse debate envolve, sobretudo, a tensão entre:",
                                  "alternativas":  {
-                                                      "a":  "O direito de propriedade e o direito ao meio ambiente equilibrado, previsto no art. 225 da Constituição",
+                                                      "a":  "O direito de reunião e o poder de polícia administrativa do Estado",
                                                       "b":  "O direito à nacionalidade e o direito de voto, ambos classificados como direitos políticos",
                                                       "c":  "A liberdade de imprensa e o direito à informação, de um lado, e a privacidade e a dignidade da pessoa humana, de outro",
-                                                      "d":  "A liberdade religiosa e a liberdade de associação, direitos individuais de primeira geração"
+                                                      "d":  "O direito de propriedade e o direito ao meio ambiente equilibrado, previsto no art. 225 da Constituição",
+                                                      "e":  "A liberdade religiosa e a liberdade de associação, direitos individuais de primeira geração"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "O debate sobre o direito ao esquecimento envolve a ponderação entre a liberdade de expressão e de imprensa, que asseguram o acesso à informação e à história, e os direitos à privacidade, à honra e à dignidade da pessoa humana, tema analisado pelo STF em repercussão geral.",
@@ -10492,11 +10525,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa lei recebeu esse nome em homenagem a:",
                                  "alternativas":  {
                                                       "a":  "Uma parlamentar que apresentou o projeto de lei original ao Congresso Nacional em 2004",
-                                                      "b":  "Uma farmacêutica cearense que sofreu tentativas de feminicídio pelo marido e levou o caso à Comissão Interamericana",
-                                                      "c":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil, em 1990",
-                                                      "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país, em 1985"
+                                                      "b":  "Uma juíza responsável pela primeira condenação por violência doméstica no Brasil, em 1990",
+                                                      "c":  "Uma delegada responsável pela criação da primeira delegacia especializada do país",
+                                                      "d":  "Uma ativista que fundou o primeiro abrigo para mulheres vítimas de violência no país, em 1985",
+                                                      "e":  "Uma farmacêutica cearense que sofreu tentativas de feminicídio pelo marido e levou o caso à Comissão Interamericana"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "e",
                                  "explicacao":  "Maria da Penha Maia Fernandes sofreu duas tentativas de assassinato por parte do então marido, que a deixaram paraplégica; diante da impunidade prolongada no Brasil, ela recorreu à Comissão Interamericana de Direitos Humanos, cuja recomendação impulsionou a criação da lei que leva seu nome.",
                                  "formato":  "direta"
                              },
@@ -10505,12 +10539,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei 13.104/2015 alterou o Código Penal para incluir o feminicídio como circunstância qualificadora do crime de homicídio.",
                                  "enunciado":  "Segundo essa lei, o feminicídio caracteriza-se pelo homicídio de mulher cometido em contexto de:",
                                  "alternativas":  {
-                                                      "a":  "Qualquer crime cometido por motivo financeiro, independentemente do gênero da vítima",
-                                                      "b":  "Latrocínio praticado exclusivamente em via pública, mediante emprego de arma de fogo",
-                                                      "c":  "Violência doméstica e familiar ou menosprezo e discriminação à condição de mulher",
-                                                      "d":  "Conflitos entre membros de facções criminosas rivais, sem relação com o gênero da vítima"
+                                                      "a":  "Latrocínio praticado exclusivamente em via pública, mediante emprego de arma de fogo",
+                                                      "b":  "Homicídio praticado no exercício de atividade profissional regulamentada",
+                                                      "c":  "Conflitos entre membros de facções criminosas rivais, sem relação com o gênero da vítima",
+                                                      "d":  "Qualquer crime cometido por motivo financeiro, independentemente do gênero da vítima",
+                                                      "e":  "Violência doméstica e familiar ou menosprezo e discriminação à condição de mulher"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "O feminicídio é reconhecido como qualificadora do homicídio quando praticado contra mulher por razões da condição de sexo feminino, o que inclui contextos de violência doméstica e familiar ou de menosprezo e discriminação à mulher, resultando em pena mais grave.",
                                  "formato":  "direta"
                              },
@@ -10519,12 +10554,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O movimento feminista costuma ser analisado pela historiografia em diferentes fases, chamadas de \u0027ondas\u0027.",
                                  "enunciado":  "A chamada primeira onda do feminismo, entre o final do século XIX e o início do XX, teve como principal bandeira:",
                                  "alternativas":  {
-                                                      "a":  "A discussão sobre identidade de gênero e diversidade sexual, pauta associada à quarta onda",
-                                                      "b":  "A conquista de direitos civis e políticos básicos, como o direito ao voto (sufrágio feminino)",
-                                                      "c":  "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais",
-                                                      "d":  "A defesa exclusiva de políticas de cotas em cargos executivos de empresas"
+                                                      "a":  "A conquista de direitos civis e políticos básicos, como o direito ao voto (sufrágio feminino)",
+                                                      "b":  "A discussão sobre identidade de gênero e diversidade sexual, pauta associada à quarta onda",
+                                                      "c":  "A defesa exclusiva de políticas de cotas em cargos executivos de empresas",
+                                                      "d":  "O reconhecimento do trabalho doméstico não remunerado como atividade econômica",
+                                                      "e":  "O combate ao assédio sexual no ambiente de trabalho por meio de redes sociais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "A primeira onda do feminismo concentrou-se na luta por direitos civis e políticos básicos, sobretudo o direito ao voto, movimento sufragista que se espalhou por diversos países entre o final do século XIX e as primeiras décadas do século XX.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10534,12 +10570,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Brasil figura, historicamente, entre os países com maior concentração de renda do mundo, medida por indicadores estatísticos de desigualdade.",
                                  "enunciado":  "O indicador mais utilizado internacionalmente para medir a concentração de renda em um país, que varia de 0 (igualdade absoluta) a 1 (desigualdade absoluta), é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Produto Interno Bruto per capita",
-                                                      "b":  "Índice de Preços ao Consumidor",
+                                                      "a":  "Coeficiente (índice) de Gini",
+                                                      "b":  "Índice de Gini invertido, também chamado de índice de Palma",
                                                       "c":  "Índice de Desenvolvimento Humano",
-                                                      "d":  "Coeficiente (índice) de Gini"
+                                                      "d":  "Índice de Preços ao Consumidor",
+                                                      "e":  "Produto Interno Bruto per capita"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "a",
                                  "explicacao":  "O coeficiente de Gini é o indicador mais utilizado internacionalmente para medir a concentração de renda de um país, variando de 0, que representaria igualdade absoluta, a 1, que representaria desigualdade absoluta; o Brasil mantém, historicamente, índices elevados em comparação internacional, o que evidencia desafios persistentes de desigualdade distributiva mesmo diante de avanços formais de direitos sociais.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10549,12 +10586,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Órgãos de estatística costumam definir parâmetros de renda mínima per capita para classificar uma pessoa como pobre ou extremamente pobre, parâmetros utilizados para dimensionar políticas públicas de assistência social.",
                                  "enunciado":  "A definição de linhas de pobreza e extrema pobreza com base em parâmetros de renda tem como principal função:",
                                  "alternativas":  {
-                                                      "a":  "Substituir qualquer outra forma de avaliação da qualidade de vida e do bem-estar da população",
-                                                      "b":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a pobreza e orientar políticas sociais",
-                                                      "c":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda",
-                                                      "d":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos e organismos multilaterais"
+                                                      "a":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda",
+                                                      "b":  "Substituir qualquer outra forma de avaliação da qualidade de vida e do bem-estar da população",
+                                                      "c":  "Substituir os indicadores multidimensionais por um único critério monetário",
+                                                      "d":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a pobreza e orientar políticas sociais",
+                                                      "e":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos e organismos multilaterais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "Linhas de pobreza e extrema pobreza, baseadas em parâmetros de renda per capita, fornecem um critério objetivo e comparável ao longo do tempo, permitindo dimensionar a magnitude da pobreza em um país e direcionar políticas públicas de assistência social a quem está abaixo desses parâmetros, ainda que critérios exclusivamente monetários não capturem todas as dimensões da privação social.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10565,11 +10603,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "A exigência dessas contrapartidas nesse tipo de programa social tem como principal justificativa:",
                                  "alternativas":  {
                                                       "a":  "Punir famílias de baixa renda por eventual descumprimento de obrigações contratuais",
-                                                      "b":  "Reduzir permanentemente o valor do benefício pago às famílias beneficiárias do programa, entendimento equivocado sobre o Marco Civil da Internet",
-                                                      "c":  "Restringir o acesso ao programa exclusivamente a famílias sem filhos em idade escolar, hipótese não prevista na legislação brasileira vigente",
-                                                      "d":  "Associar a transferência de renda imediata ao investimento em capital humano das novas gerações, como educação e saúde"
+                                                      "b":  "Restringir o acesso ao programa exclusivamente a famílias sem filhos em idade escolar, hipótese não prevista na legislação brasileira vigente",
+                                                      "c":  "Compensar o custo administrativo do programa por meio de contrapartida em serviços",
+                                                      "d":  "Reduzir permanentemente o valor do benefício pago às famílias beneficiárias do programa, entendimento equivocado sobre o Marco Civil da Internet",
+                                                      "e":  "Associar a transferência de renda imediata ao investimento em capital humano das novas gerações, como educação e saúde"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "e",
                                  "explicacao":  "Programas de transferência de renda condicionada associam o alívio imediato da pobreza monetária ao investimento de longo prazo em capital humano das novas gerações, exigindo contrapartidas como frequência escolar e cumprimento do calendário vacinal, na expectativa de romper, ao longo do tempo, o ciclo intergeracional de reprodução da pobreza.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10579,12 +10618,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela significativa da população brasileira adulta, mesmo tendo concluído anos de escolarização formal, apresenta dificuldade para interpretar textos simples e realizar operações matemáticas básicas do cotidiano.",
                                  "enunciado":  "Esse fenômeno, distinto do analfabetismo absoluto (incapacidade de ler e escrever), é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Evasão escolar, medida pela taxa de abandono no ensino básico",
-                                                      "b":  "Defasagem idade-série, medida pela distorção entre idade e ano cursado",
-                                                      "c":  "Analfabetismo funcional, identificado por avaliações amostrais",
-                                                      "d":  "Analfabetismo digital, restrito ao uso de equipamentos e da internet"
+                                                      "a":  "Defasagem idade-série, medida pela distorção entre idade e ano cursado",
+                                                      "b":  "Analfabetismo digital, restrito ao uso de equipamentos e da internet",
+                                                      "c":  "Evasão escolar, medida pela taxa de abandono no ensino básico",
+                                                      "d":  "Analfabetismo residual, restrito a pessoas que nunca frequentaram a escola",
+                                                      "e":  "Analfabetismo funcional, identificado por avaliações amostrais"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "O analfabetismo funcional descreve a situação de pessoas que, embora tenham frequentado a escola e sejam capazes de decodificar palavras, têm dificuldade para compreender e interpretar textos simples ou realizar operações matemáticas básicas do cotidiano, revelando que o direito à educação não se esgota no acesso formal à matrícula, mas exige também qualidade do ensino oferecido.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10594,12 +10634,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Indicadores de saúde pública, como a taxa de mortalidade infantil, costumam apresentar variação expressiva entre diferentes regiões de um mesmo país, refletendo diferenças de acesso a saneamento básico, pré-natal e atendimento hospitalar.",
                                  "enunciado":  "A persistência de diferenças regionais na taxa de mortalidade infantil dentro de um mesmo país é interpretada, do ponto de vista dos direitos humanos, sobretudo como evidência de que:",
                                  "alternativas":  {
-                                                      "a":  "O direito à saúde, embora formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura entre diferentes regiões",
-                                                      "b":  "A mortalidade infantil depende exclusivamente de fatores genéticos da população local, sem relação com políticas públicas",
-                                                      "c":  "A mortalidade infantil é um indicador irrelevante para avaliar políticas públicas de saúde, sendo substituída, para esse fim, pelo Índice de Desenvolvimento Humano",
-                                                      "d":  "A universalização formal de um direito social elimina, por si só, qualquer desigualdade regional em sua efetivação"
+                                                      "a":  "A universalização formal de um direito social elimina, por si só, qualquer desigualdade regional em sua efetivação",
+                                                      "b":  "A mortalidade infantil é um indicador irrelevante para avaliar políticas públicas de saúde, sendo substituída, para esse fim, pelo Índice de Desenvolvimento Humano",
+                                                      "c":  "A mortalidade infantil depende exclusivamente de fatores genéticos da população local, sem relação com políticas públicas",
+                                                      "d":  "As diferenças regionais decorrem sobretudo da variação de perfil etário entre as regiões",
+                                                      "e":  "O direito à saúde, embora formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura entre diferentes regiões"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "e",
                                  "explicacao":  "Diferenças regionais persistentes na taxa de mortalidade infantil evidenciam que a universalidade formal de um direito social, como a saúde, não garante, por si só, sua efetivação igualitária, que depende de investimentos concretos em infraestrutura, saneamento e acesso a serviços, distribuídos de forma desigual entre regiões de um mesmo país.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10609,10 +10650,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Constituição de 1988 criou um sistema de saúde de acesso universal e gratuito, financiado por recursos públicos, em substituição a um modelo anterior de assistência médica vinculado, em grande medida, à contribuição previdenciária do trabalhador formal.",
                                  "enunciado":  "Essa mudança de modelo representou, sobretudo, a consagração do princípio de que a saúde é:",
                                  "alternativas":  {
-                                                      "a":  "Um direito restrito a trabalhadores com carteira assinada e seus dependentes, nos moldes do modelo do INAMPS",
-                                                      "b":  "Um benefício contratual, restrito a quem contribui regularmente para a previdência social",
-                                                      "c":  "Um serviço a ser prestado pela iniciativa privada, sob livre regulação do mercado de planos de saúde",
-                                                      "d":  "Um direito de todos e dever do Estado, garantido de forma universal, independentemente de contribuição prévia (art. 196 da CF)"
+                                                      "a":  "Um direito de titularidade coletiva, exercido apenas por meio de associações de usuários",
+                                                      "b":  "Um serviço a ser prestado pela iniciativa privada, sob livre regulação do mercado de planos de saúde",
+                                                      "c":  "Um direito restrito a trabalhadores com carteira assinada e seus dependentes, nos moldes do modelo do INAMPS",
+                                                      "d":  "Um direito de todos e dever do Estado, garantido de forma universal, independentemente de contribuição prévia (art. 196 da CF)",
+                                                      "e":  "Um benefício contratual, restrito a quem contribui regularmente para a previdência social"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "A criação do Sistema Único de Saúde consagrou o princípio constitucional de que a saúde é direito de todos e dever do Estado, de acesso universal e gratuito, rompendo com o modelo anterior de assistência médica vinculada à contribuição previdenciária, restrita a trabalhadores formais e seus dependentes.",
@@ -10624,10 +10666,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Movimentos sociais do campo reivindicam a redistribuição de terras improdutivas ou griladas a famílias de trabalhadores rurais sem-terra, com base no princípio constitucional de que a propriedade deve cumprir uma função social.",
                                  "enunciado":  "A previsão constitucional de desapropriação de imóvel rural que não cumpre sua função social, mediante indenização, para fins de reforma agrária, busca conciliar:",
                                  "alternativas":  {
-                                                      "a":  "A abolição total da propriedade privada rural no país, nos moldes da reforma agrária cubana de 1959",
+                                                      "a":  "A transferência automática e gratuita de qualquer imóvel rural ao primeiro trabalhador que o ocupar",
                                                       "b":  "O direito de propriedade com o princípio da função social da terra e o objetivo de redução da desigualdade fundiária",
-                                                      "c":  "A transferência automática e gratuita de qualquer imóvel rural ao primeiro trabalhador que o ocupar",
-                                                      "d":  "A eliminação de qualquer indenização ao proprietário desapropriado, medida adotada por reformas agrárias radicais em outros países"
+                                                      "c":  "A eliminação de qualquer indenização ao proprietário desapropriado, medida adotada por reformas agrárias radicais em outros países",
+                                                      "d":  "A abolição total da propriedade privada rural no país, nos moldes da reforma agrária cubana de 1959",
+                                                      "e":  "O direito de propriedade com a competência tributária dos municípios sobre imóveis rurais"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "A previsão constitucional de desapropriação para fins de reforma agrária busca conciliar o direito de propriedade, assegurado mediante indenização ao proprietário, com o princípio da função social da terra e o objetivo de reduzir a desigualdade fundiária historicamente marcante no Brasil, tema que segue gerando intensos conflitos e disputas políticas e jurídicas.",
@@ -10639,12 +10682,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em diversas cidades brasileiras, populações de baixa renda ocupam predominantemente periferias distantes do centro, com menor oferta de transporte, saneamento e equipamentos públicos, enquanto a população de maior renda concentra-se em áreas mais bem providas de infraestrutura.",
                                  "enunciado":  "Esse padrão de distribuição espacial desigual da população conforme sua renda dentro das cidades é analisado pelo conceito de:",
                                  "alternativas":  {
-                                                      "a":  "Conurbação administrativa municipal, categoria de organização territorial",
-                                                      "b":  "Verticalização habitacional compulsória, política nunca adotada no Brasil",
-                                                      "c":  "Gentrificação inversa planejada, fenômeno não descrito na literatura urbana atual",
-                                                      "d":  "Segregação urbana (segregação socioespacial), conceito de geografia urbana"
+                                                      "a":  "Verticalização habitacional compulsória, política nunca adotada no Brasil",
+                                                      "b":  "Especulação imobiliária regulada, mecanismo previsto no Estatuto da Cidade",
+                                                      "c":  "Segregação urbana (segregação socioespacial), conceito de geografia urbana",
+                                                      "d":  "Conurbação administrativa municipal, categoria de organização territorial",
+                                                      "e":  "Gentrificação inversa planejada, fenômeno não descrito na literatura urbana atual"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "c",
                                  "explicacao":  "A segregação urbana, ou segregação socioespacial, descreve o padrão de distribuição desigual da população nas cidades conforme sua renda, com populações de baixa renda concentradas em periferias com menor infraestrutura, o que é analisado como uma dimensão importante da desigualdade e uma das justificativas para políticas de direito à cidade previstas no Estatuto da Cidade.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10654,12 +10698,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisadores das relações raciais no Brasil argumentam que a desigualdade racial não decorre apenas de atos discriminatórios individuais isolados, mas está incorporada de forma difusa ao funcionamento de instituições, mercados e padrões históricos de acesso a oportunidades.",
                                  "enunciado":  "Esse conceito, que associa a desigualdade racial a um padrão histórico e sistêmico, e não apenas a atos individuais de preconceito, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Segregação voluntária",
-                                                      "b":  "Xenofobia institucional",
-                                                      "c":  "Racismo estrutural sistêmico",
-                                                      "d":  "Etnocentrismo formal"
+                                                      "a":  "Racismo estrutural sistêmico",
+                                                      "b":  "Discriminação indireta pontual",
+                                                      "c":  "Xenofobia institucional",
+                                                      "d":  "Segregação voluntária",
+                                                      "e":  "Etnocentrismo formal"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "a",
                                  "explicacao":  "O racismo estrutural refere-se à forma como a desigualdade racial está incorporada, de modo difuso e histórico, ao funcionamento de instituições, mercados e padrões sociais de acesso a oportunidades, distinguindo-se de atos individuais e pontuais de discriminação, ainda que ambos estejam relacionados e se reforcem mutuamente.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10669,12 +10714,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Levantamentos sobre abordagens policiais em diferentes cidades brasileiras apontam maior probabilidade de pessoas negras serem abordadas, revistadas ou terem veículos parados por policiais em comparação a pessoas brancas em situações comparáveis.",
                                  "enunciado":  "Esse padrão de diferenciação no tratamento dado por uma instituição a diferentes grupos, com base em critérios como raça, é analisado por meio do conceito de:",
                                  "alternativas":  {
-                                                      "a":  "Ação afirmativa aplicada ao ingresso no serviço público",
-                                                      "b":  "Igualdade material já efetivada entre os grupos raciais",
-                                                      "c":  "Neutralidade racial no funcionamento das instituições",
-                                                      "d":  "Racismo institucional na atuação da segurança pública"
+                                                      "a":  "Racismo institucional na atuação da segurança pública",
+                                                      "b":  "Neutralidade racial no funcionamento das instituições",
+                                                      "c":  "Igualdade material já efetivada entre os grupos raciais",
+                                                      "d":  "Discricionariedade administrativa, própria da atuação de qualquer órgão público",
+                                                      "e":  "Ação afirmativa aplicada ao ingresso no serviço público"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "a",
                                  "explicacao":  "O racismo institucional refere-se ao tratamento diferenciado dispensado por instituições públicas ou privadas — como órgãos de segurança pública — a diferentes grupos raciais, evidenciado, por exemplo, em disparidades estatísticas de abordagem policial entre pessoas negras e brancas em situações comparáveis, o que caracteriza uma forma de discriminação incorporada ao funcionamento cotidiano de uma instituição.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10684,12 +10730,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Estatísticas de segurança pública mostram que a proporção de mortes decorrentes de intervenção policial entre a população jovem, negra e residente em periferias tende a ser desproporcionalmente maior do que entre outros grupos da população.",
                                  "enunciado":  "Esse dado é frequentemente utilizado, no debate sobre segurança pública e direitos humanos, para sustentar a necessidade de:",
                                  "alternativas":  {
-                                                      "a":  "Reduzir o investimento em políticas de segurança pública em qualquer contexto, inclusive no policiamento comunitário",
-                                                      "b":  "Aprimorar protocolos de uso proporcional da força e ampliar mecanismos de controle externo da atividade policial",
+                                                      "a":  "Aprimorar protocolos de uso proporcional da força e ampliar mecanismos de controle externo da atividade policial",
+                                                      "b":  "Reduzir o investimento em políticas de segurança pública em qualquer contexto, inclusive no policiamento comunitário",
                                                       "c":  "Ampliar, sem qualquer mecanismo de controle, o uso da força letal por agentes de segurança pública, conforme diretrizes já revogadas",
-                                                      "d":  "Eliminar totalmente a atuação de forças policiais em áreas de periferia, política nunca adotada por nenhum estado brasileiro"
+                                                      "d":  "Eliminar totalmente a atuação de forças policiais em áreas de periferia, política nunca adotada por nenhum estado brasileiro",
+                                                      "e":  "Transferir integralmente à Justiça Militar o julgamento de crimes cometidos por policiais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "A desproporcionalidade de mortes decorrentes de intervenção policial entre jovens negros de periferia é utilizada no debate sobre segurança pública para sustentar a necessidade de aprimorar protocolos de uso proporcional da força, ampliar mecanismos de controle externo da atividade policial e adotar políticas de segurança orientadas por dados e pelo respeito aos direitos humanos, sem que isso signifique a ausência de policiamento nessas áreas.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10699,12 +10746,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O sistema prisional brasileiro abriga, em muitas unidades, número de presos superior à capacidade de vagas projetada, resultando em celas superlotadas e condições sanitárias precárias.",
                                  "enunciado":  "Essa condição de superlotação carcerária é apontada por organismos de direitos humanos como violação, sobretudo, ao princípio de que a pena privativa de liberdade deve:",
                                  "alternativas":  {
-                                                      "a":  "Ter duração indeterminada, a critério exclusivo da administração penitenciária estadual, conforme precedente do STJ sobre o tema",
-                                                      "b":  "Ser cumprida em condições que preservem a dignidade da pessoa humana, sem se converter em pena cruel ou degradante",
-                                                      "c":  "Ser aplicada sem qualquer possibilidade de progressão de regime, ainda que prevista na Lei de Execução Penal",
-                                                      "d":  "Ser cumprida exclusivamente em regime fechado, independentemente da gravidade do crime"
+                                                      "a":  "Ser cumprida exclusivamente em regime fechado, independentemente da gravidade do crime",
+                                                      "b":  "Ter duração indeterminada, a critério exclusivo da administração penitenciária estadual, conforme precedente do STJ sobre o tema",
+                                                      "c":  "Ser cumprida em condições que preservem a dignidade da pessoa humana, sem se converter em pena cruel ou degradante",
+                                                      "d":  "Ser aplicada sem qualquer possibilidade de progressão de regime, ainda que prevista na Lei de Execução Penal",
+                                                      "e":  "Ser cumprida em estabelecimento situado na comarca de residência da família do apenado"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "A superlotação carcerária é apontada como violação ao princípio de que a pena privativa de liberdade deve ser cumprida em condições que preservem a dignidade da pessoa humana, sem impor sofrimento adicional além da própria privação de liberdade, o que motivou, inclusive, o reconhecimento pelo STF de um \"estado de coisas inconstitucional\" no sistema prisional brasileiro.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10714,12 +10762,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei de Execução Penal prevê instrumentos como remição de pena por trabalho ou estudo e progressão gradual de regime, condicionados ao comportamento e ao cumprimento de determinados requisitos pelo apenado.",
                                  "enunciado":  "Esses instrumentos previstos na execução penal têm como principal objetivo declarado:",
                                  "alternativas":  {
-                                                      "a":  "Prolongar ao máximo o tempo de permanência do apenado em regime fechado, independentemente de seu comportamento carcerário",
-                                                      "b":  "Eliminar qualquer diferença de tratamento entre apenados de diferentes regimes, prevista erroneamente em normas já revogadas",
-                                                      "c":  "Impedir que o apenado tenha qualquer contato com atividades educacionais durante o cumprimento da pena",
-                                                      "d":  "Favorecer a ressocialização do apenado e sua reintegração gradual à sociedade após o cumprimento da pena"
+                                                      "a":  "Favorecer a ressocialização do apenado e sua reintegração gradual à sociedade após o cumprimento da pena",
+                                                      "b":  "Reduzir o custo do sistema prisional por meio da diminuição do número de vagas necessárias",
+                                                      "c":  "Eliminar qualquer diferença de tratamento entre apenados de diferentes regimes, prevista erroneamente em normas já revogadas",
+                                                      "d":  "Prolongar ao máximo o tempo de permanência do apenado em regime fechado, independentemente de seu comportamento carcerário",
+                                                      "e":  "Impedir que o apenado tenha qualquer contato com atividades educacionais durante o cumprimento da pena"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "a",
                                  "explicacao":  "Institutos como remição de pena por trabalho ou estudo e progressão de regime têm como objetivo favorecer a ressocialização do apenado, incentivando comportamentos que facilitem sua reintegração gradual à sociedade após o cumprimento da pena, em consonância com a função não apenas punitiva, mas também reeducativa atribuída à execução penal.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10729,10 +10778,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em grandes centros urbanos, é comum observar pessoas que vivem e pernoitam em espaços públicos, muitas vezes sem acesso regular a documentação, atendimento de saúde ou renda.",
                                  "enunciado":  "Políticas públicas voltadas à população em situação de rua, no Brasil, têm buscado, sobretudo, superar uma abordagem anterior baseada em:",
                                  "alternativas":  {
-                                                      "a":  "Concessão automática de moradia definitiva a toda pessoa em situação de rua, sem qualquer outro tipo de política complementar",
+                                                      "a":  "Ausência total de qualquer política pública voltada a esse grupo, lacuna nunca reconhecida oficialmente pelo poder público",
                                                       "b":  "Recolhimento compulsório e institucionalização forçada dessa população, substituídos por abordagens baseadas em direitos",
-                                                      "c":  "Ausência total de qualquer política pública voltada a esse grupo, lacuna nunca reconhecida oficialmente pelo poder público",
-                                                      "d":  "Criminalização exclusiva da situação de rua como contravenção penal, prevista na antiga Lei de Contravenções Penais"
+                                                      "c":  "Criminalização exclusiva da situação de rua como contravenção penal, prevista na antiga Lei de Contravenções Penais",
+                                                      "d":  "Transferência compulsória dessa população para municípios de menor porte",
+                                                      "e":  "Concessão automática de moradia definitiva a toda pessoa em situação de rua, sem qualquer outro tipo de política complementar"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "Políticas públicas voltadas à população em situação de rua têm buscado superar abordagens anteriores baseadas em recolhimento compulsório e institucionalização forçada, adotando modelos baseados em direitos, acolhimento voluntário e articulação de serviços de assistência social, saúde e documentação civil, reconhecendo essa população como sujeito de direitos, e não apenas objeto de intervenção estatal.",
@@ -10744,12 +10794,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pessoas trans e travestis podem solicitar, sem necessidade de autorização judicial nem de comprovação de cirurgia de redesignação sexual, a alteração de seu prenome e do campo relativo ao gênero diretamente em cartório, conforme entendimento do STF.",
                                  "enunciado":  "Essa possibilidade de retificação de registro civil sem exigência de procedimento médico prévio é fundamentada, sobretudo, no reconhecimento do direito à:",
                                  "alternativas":  {
-                                                      "a":  "Autodeterminação de gênero, como expressão da dignidade da pessoa humana e do livre desenvolvimento da personalidade",
-                                                      "b":  "Livre iniciativa econômica, princípio que asseguraria ao indivíduo autonomia para definir os dados constantes de seus documentos",
-                                                      "c":  "Anistia política, instituto que permitiria a revisão de registros civis alterados durante períodos de exceção institucional",
-                                                      "d":  "Soberania popular, princípio que atribuiria ao cidadão o poder de decidir sobre os efeitos jurídicos do próprio registro civil"
+                                                      "a":  "Livre iniciativa econômica, princípio que asseguraria ao indivíduo autonomia para definir os dados constantes de seus documentos",
+                                                      "b":  "Direito ao nome como atributo da personalidade, sujeito a alteração apenas no primeiro ano da maioridade",
+                                                      "c":  "Autodeterminação de gênero, como expressão da dignidade da pessoa humana e do livre desenvolvimento da personalidade",
+                                                      "d":  "Anistia política, instituto que permitiria a revisão de registros civis alterados durante períodos de exceção institucional",
+                                                      "e":  "Soberania popular, princípio que atribuiria ao cidadão o poder de decidir sobre os efeitos jurídicos do próprio registro civil"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O STF reconheceu o direito de pessoas trans e travestis à retificação do prenome e do gênero no registro civil diretamente em cartório, sem necessidade de autorização judicial ou de comprovação de procedimento médico, fundamentando essa decisão no direito à autodeterminação de gênero como expressão da dignidade da pessoa humana e do livre desenvolvimento da personalidade.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10759,12 +10810,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2011, o STF reconheceu a união estável entre pessoas do mesmo sexo como entidade familiar, equiparando-a, para efeitos jurídicos, à união estável entre pessoas de sexos diferentes.",
                                  "enunciado":  "Essa decisão do STF é significativa, do ponto de vista dos direitos humanos, porque:",
                                  "alternativas":  {
-                                                      "a":  "Estendeu, por interpretação constitucional, direitos e proteções jurídicas antes restritos a casais heteroafetivos a casais do mesmo sexo",
-                                                      "b":  "Foi resultado de emenda constitucional aprovada pelo Congresso Nacional, nos moldes do art. 5º, §3º",
+                                                      "a":  "Foi resultado de emenda constitucional aprovada pelo Congresso Nacional, nos moldes do art. 5º, §3º",
+                                                      "b":  "Estendeu, por interpretação constitucional, direitos e proteções jurídicas antes restritos a casais heteroafetivos a casais do mesmo sexo",
                                                       "c":  "Restringiu direitos previamente reconhecidos a casais homoafetivos em decisões anteriores do STJ",
-                                                      "d":  "Aplicou-se exclusivamente a casais que já tivessem filhos em comum registrados, exigência do antigo Código Civil de 1916"
+                                                      "d":  "Decorreu de decisão do Superior Tribunal de Justiça em recurso repetitivo, com efeito vinculante",
+                                                      "e":  "Aplicou-se exclusivamente a casais que já tivessem filhos em comum registrados, exigência do antigo Código Civil de 1916"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "Ao reconhecer a união estável homoafetiva como entidade familiar, o STF estendeu, por meio de interpretação constitucional, direitos e proteções jurídicas antes restritos a casais heteroafetivos, como direitos sucessórios e previdenciários, ampliando o conceito constitucional de família e representando um marco na jurisprudência de direitos humanos no Brasil.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10774,12 +10826,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisas sobre o mercado de trabalho indicam que pessoas LGBTQIA+, sobretudo travestis e mulheres trans, enfrentam maiores dificuldades de inserção em empregos formais, mesmo quando possuem qualificação equivalente à de outros candidatos.",
                                  "enunciado":  "Esse cenário evidencia uma tensão entre a igualdade formal prevista na legislação trabalhista e:",
                                  "alternativas":  {
-                                                      "a":  "A garantia automática de emprego a qualquer pessoa, independentemente de sua qualificação",
-                                                      "b":  "A inaplicabilidade de qualquer princípio constitucional de igualdade às relações de trabalho privadas",
-                                                      "c":  "Barreiras práticas de discriminação na contratação e na permanência no emprego, que exigem políticas específicas de inclusão",
-                                                      "d":  "A inexistência de qualquer forma de discriminação no mercado de trabalho brasileiro, segundo pesquisas do IBGE sobre emprego formal"
+                                                      "a":  "Barreiras práticas de discriminação na contratação e na permanência no emprego, que exigem políticas específicas de inclusão",
+                                                      "b":  "A garantia automática de emprego a qualquer pessoa, independentemente de sua qualificação",
+                                                      "c":  "A inexistência de qualquer forma de discriminação no mercado de trabalho brasileiro, segundo pesquisas do IBGE sobre emprego formal",
+                                                      "d":  "A inaplicabilidade de qualquer princípio constitucional de igualdade às relações de trabalho privadas",
+                                                      "e":  "A ausência de previsão legal que proíba discriminação em processos seletivos privados"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "a",
                                  "explicacao":  "A dificuldade de inserção de pessoas LGBTQIA+, sobretudo travestis e mulheres trans, no mercado de trabalho formal, mesmo diante de qualificação equivalente, evidencia a distância entre a igualdade formal prevista na legislação trabalhista e a igualdade material efetivamente vivida, o que tem motivado a criação de políticas específicas de inclusão, como programas de capacitação e cotas em determinados setores.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10789,12 +10842,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Uma mulher negra de baixa renda pode enfrentar, simultaneamente, discriminação de gênero, discriminação racial e desvantagem socioeconômica, de modo que sua experiência de desigualdade não se reduz à soma isolada de cada um desses fatores separadamente.",
                                  "enunciado":  "Esse conceito, que analisa como diferentes marcadores sociais — como raça, gênero e classe — se sobrepõem e se combinam de forma específica na experiência de discriminação de um indivíduo, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Luta de classes, restringindo a análise apenas à dimensão socioeconômica de sua condição",
-                                                      "b":  "Interseccionalidade, conceito que analisa a sobreposição entre raça, gênero e classe",
+                                                      "a":  "Machismo institucional, isolando na dimensão de gênero a explicação suficiente para a situação dessa mulher",
+                                                      "b":  "Vulnerabilidade social agravada, categoria da assistência social que hierarquiza os beneficiários",
                                                       "c":  "Racismo estrutural, isolando na dimensão racial a explicação suficiente para a situação dessa mulher",
-                                                      "d":  "Machismo institucional, isolando na dimensão de gênero a explicação suficiente para a situação dessa mulher"
+                                                      "d":  "Interseccionalidade, conceito que analisa a sobreposição entre raça, gênero e classe",
+                                                      "e":  "Luta de classes, restringindo a análise apenas à dimensão socioeconômica de sua condição"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "A interseccionalidade, conceito central no debate brasileiro sobre desigualdade a partir de autoras como Sueli Carneiro, entende que raça, gênero e classe se combinam e se reforçam na experiência concreta de discriminação, não podendo ser reduzidos à soma de análises isoladas. Isolar apenas o eixo racial (racismo estrutural), apenas o de gênero (machismo institucional) ou apenas o de classe (luta de classes) — como fazem as demais alternativas — explica só parcialmente a situação da mulher descrita, sem captar como os três eixos se cruzam e se potencializam simultaneamente.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10804,12 +10858,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Dados sobre pobreza no Brasil e no mundo mostram que, entre a população em situação de pobreza, mulheres — sobretudo mães solo e chefes de família — estão sobrerrepresentadas em comparação à proporção de mulheres na população total.",
                                  "enunciado":  "Esse padrão de maior incidência da pobreza entre mulheres é analisado pelo conceito de:",
                                  "alternativas":  {
-                                                      "a":  "Feminização da pobreza",
-                                                      "b":  "Ação afirmativa racial",
-                                                      "c":  "Igualdade formal de gênero",
-                                                      "d":  "Sufrágio universal pleno"
+                                                      "a":  "Sufrágio universal pleno",
+                                                      "b":  "Feminização da pobreza",
+                                                      "c":  "Ação afirmativa racial",
+                                                      "d":  "Divisão internacional do trabalho",
+                                                      "e":  "Igualdade formal de gênero"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "A feminização da pobreza descreve o padrão observado em diferentes países, incluindo o Brasil, de maior incidência e intensidade da pobreza entre mulheres, sobretudo mães solo e chefes de família monoparental, fenômeno associado a fatores como menor remuneração média, maior carga de trabalho de cuidado não remunerado e menor acesso a determinados postos de trabalho.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10820,11 +10875,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Esse padrão desigual de distribuição do trabalho doméstico não remunerado entre homens e mulheres é analisado pelo conceito de:",
                                  "alternativas":  {
                                                       "a":  "Divisão técnica do trabalho",
-                                                      "b":  "Segregação ocupacional setorial",
-                                                      "c":  "Divisão sexual do trabalho",
-                                                      "d":  "Mobilidade social intergeracional"
+                                                      "b":  "Dupla jornada compensada, prevista em acordo coletivo",
+                                                      "c":  "Mobilidade social intergeracional",
+                                                      "d":  "Segregação ocupacional setorial",
+                                                      "e":  "Divisão sexual do trabalho"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "A divisão sexual do trabalho refere-se à distribuição desigual de tarefas entre homens e mulheres com base em papéis de gênero social e historicamente construídos, evidenciada, entre outros dados, pela maior carga de trabalho doméstico não remunerado atribuída às mulheres mesmo quando exercem, paralelamente, trabalho remunerado fora de casa, o que impacta sua disponibilidade de tempo, renda e ascensão profissional.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10834,10 +10890,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A legislação trabalhista brasileira prevê mecanismos específicos de proteção contra o assédio sexual no ambiente de trabalho, incluindo a possibilidade de rescisão indireta do contrato pelo empregado assediado e a responsabilização do empregador em determinadas condições.",
                                  "enunciado":  "Esses mecanismos de proteção reconhecem que o assédio sexual no trabalho constitui, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "Uma questão exclusivamente privada, sem relevância jurídica ou trabalhista, conforme jurisprudência trabalhista antiga",
-                                                      "b":  "Um comportamento juridicamente irrelevante quando praticado por superior hierárquico, entendimento minoritário e superado",
+                                                      "a":  "Um comportamento juridicamente irrelevante quando praticado por superior hierárquico, entendimento minoritário e superado",
+                                                      "b":  "Uma falta funcional apurável apenas em processo administrativo interno da empresa",
                                                       "c":  "Uma forma de violência e discriminação que compromete a dignidade do trabalhador, exigindo mecanismos específicos de prevenção",
-                                                      "d":  "Uma conduta que só pode ser denunciada pela própria vítima perante autoridade policial, sem qualquer via trabalhista"
+                                                      "d":  "Uma questão exclusivamente privada, sem relevância jurídica ou trabalhista, conforme jurisprudência trabalhista antiga",
+                                                      "e":  "Uma conduta que só pode ser denunciada pela própria vítima perante autoridade policial, sem qualquer via trabalhista"
                                                   },
                                  "resposta":  "c",
                                  "explicacao":  "A legislação trabalhista reconhece o assédio sexual como forma de violência e discriminação que compromete a dignidade do trabalhador e o ambiente de trabalho, prevendo mecanismos como a rescisão indireta do contrato e a responsabilização do empregador, sobretudo quando este tem conhecimento da conduta e não adota medidas para coibi-la.",
@@ -10850,9 +10907,10 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Esse descompasso entre a proporção de mulheres no eleitorado e sua proporção entre os eleitos evidencia que:",
                                  "alternativas":  {
                                                       "a":  "A igualdade formal de direitos políticos não elimina, por si só, barreiras estruturais de acesso a recursos que afetam a candidatura de mulheres",
-                                                      "b":  "A conquista formal do direito de voto garantiu, automaticamente, igualdade de representação política entre homens e mulheres",
+                                                      "b":  "A ampliação do eleitorado feminino reduz automaticamente a desigualdade de representação",
                                                       "c":  "As mulheres brasileiras não exercem, hoje, o direito de voto em igualdade de condições com os homens, segundo a legislação eleitoral vigente",
-                                                      "d":  "A sub-representação política feminina é um fenômeno exclusivo do Brasil, sem paralelo em qualquer outro país da América Latina"
+                                                      "d":  "A sub-representação política feminina é um fenômeno exclusivo do Brasil, sem paralelo em qualquer outro país da América Latina",
+                                                      "e":  "A conquista formal do direito de voto garantiu, automaticamente, igualdade de representação política entre homens e mulheres"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O descompasso entre a proporção de mulheres no eleitorado e entre os eleitos evidencia que a igualdade formal de direitos políticos, conquistada com o sufrágio feminino, não elimina, por si só, barreiras estruturais de acesso a recursos financeiros, apoio partidário e tempo de exposição na mídia que afetam de forma desigual a candidatura e a eleição de mulheres, fenômeno observado em diferentes países.",
@@ -10865,11 +10923,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa exigência de percentual mínimo de candidaturas femininas é um exemplo de:",
                                  "alternativas":  {
                                                       "a":  "Restrição ao direito de candidatura de homens em qualquer eleição proporcional ou majoritária",
-                                                      "b":  "Medida aplicável exclusivamente a eleições municipais de pequeno porte, com menos de 50 mil eleitores",
-                                                      "c":  "Norma sem qualquer efeito prático sobre a composição das candidaturas partidárias, segundo dados eleitorais recentes",
-                                                      "d":  "Ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica"
+                                                      "b":  "Ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica",
+                                                      "c":  "Medida aplicável exclusivamente a eleições municipais de pequeno porte, com menos de 50 mil eleitores",
+                                                      "d":  "Cláusula de barreira eleitoral, destinada a reduzir a fragmentação partidária",
+                                                      "e":  "Norma sem qualquer efeito prático sobre a composição das candidaturas partidárias, segundo dados eleitorais recentes"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "b",
                                  "explicacao":  "A exigência legal de percentual mínimo de candidaturas femininas, combinada à destinação de recursos financeiros e de tempo de propaganda, constitui ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica que a igualdade meramente formal do direito de candidatura não foi capaz de superar por si só.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10879,12 +10938,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Normas técnicas brasileiras estabelecem parâmetros mínimos, como largura de rampas, altura de rebaixamento de calçadas e sinalização tátil, para que espaços públicos e edificações sejam acessíveis a pessoas com deficiência física, visual ou auditiva.",
                                  "enunciado":  "O cumprimento dessas normas técnicas de acessibilidade é considerado condição necessária para a efetivação de qual direito?",
                                  "alternativas":  {
-                                                      "a":  "Direito de propriedade privada sobre bens imóveis urbanos, sem relação com acessibilidade",
+                                                      "a":  "Direito de ir e vir e de participação social em igualdade de condições",
                                                       "b":  "Direito à livre iniciativa econômica e à exploração comercial, sem relação com esse direito",
-                                                      "c":  "Direito ao sigilo de correspondência e das comunicações privadas, segundo o CNJ",
-                                                      "d":  "Direito de ir e vir e de participação social em igualdade de condições"
+                                                      "c":  "Direito de propriedade privada sobre bens imóveis urbanos, sem relação com acessibilidade",
+                                                      "d":  "Direito ao sigilo de correspondência e das comunicações privadas, segundo o CNJ",
+                                                      "e":  "Direito à privacidade e à inviolabilidade do domicílio"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "a",
                                  "explicacao":  "Normas técnicas de acessibilidade arquitetônica são condição necessária, embora não suficiente, para a efetivação do direito de ir e vir e de participação social em igualdade de condições assegurado a pessoas com deficiência, já que barreiras físicas no ambiente construído restringem, na prática, o exercício desses direitos mesmo quando formalmente reconhecidos em lei.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10894,12 +10954,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em vez de criar soluções específicas e segregadas apenas para pessoas com deficiência, determinada abordagem de projeto propõe que produtos, ambientes e serviços sejam concebidos, desde o início, para serem utilizáveis pelo maior número possível de pessoas, com ou sem deficiência.",
                                  "enunciado":  "Essa abordagem de projeto, incorporada pela Lei Brasileira de Inclusão, é conhecida como:",
                                  "alternativas":  {
-                                                      "a":  "Modelo médico centrado no diagnóstico",
-                                                      "b":  "Tutela permanente exercida pelo Estado",
-                                                      "c":  "Adaptação individual sob demanda",
-                                                      "d":  "Desenho universal de produtos e ambientes"
+                                                      "a":  "Tecnologia assistiva individualizada, fornecida mediante prescrição profissional",
+                                                      "b":  "Modelo médico centrado no diagnóstico",
+                                                      "c":  "Desenho universal de produtos e ambientes",
+                                                      "d":  "Adaptação individual sob demanda",
+                                                      "e":  "Tutela permanente exercida pelo Estado"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "c",
                                  "explicacao":  "O desenho universal é a abordagem de projeto que busca conceber produtos, ambientes e serviços de modo a serem utilizáveis pelo maior número possível de pessoas, com ou sem deficiência, sem necessidade de adaptação posterior, evitando soluções segregadas e específicas apenas para pessoas com deficiência, princípio incorporado pela Lei Brasileira de Inclusão.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10909,10 +10970,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A legislação educacional brasileira prevê o direito de estudantes com deficiência a um serviço pedagógico complementar, oferecido preferencialmente na própria rede regular de ensino, voltado a apoiar sua aprendizagem sem substituir a matrícula em turma comum.",
                                  "enunciado":  "Esse serviço, previsto como parte da política de educação inclusiva, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Ensino técnico profissionalizante integrado, modalidade distinta do AEE",
+                                                      "a":  "Educação de Jovens e Adultos noturna, sem vínculo com a inclusão escolar",
                                                       "b":  "Atendimento Educacional Especializado (AEE), conforme a LDB",
                                                       "c":  "Educação domiciliar obrigatória e exclusiva, sem previsão legal",
-                                                      "d":  "Educação de Jovens e Adultos noturna, sem vínculo com a inclusão escolar"
+                                                      "d":  "Classe hospitalar, destinada a estudantes afastados por tratamento de saúde prolongado",
+                                                      "e":  "Ensino técnico profissionalizante integrado, modalidade distinta do AEE"
                                                   },
                                  "resposta":  "b",
                                  "explicacao":  "O Atendimento Educacional Especializado (AEE) é o serviço pedagógico complementar previsto na política de educação inclusiva, oferecido preferencialmente na própria rede regular de ensino, voltado a apoiar a aprendizagem de estudantes com deficiência sem substituir sua matrícula em turma comum, em consonância com o modelo social da deficiência.",
@@ -10925,9 +10987,10 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "O Estatuto do Idoso, lei federal voltada à proteção dessa população, assegura, entre outros direitos:",
                                  "alternativas":  {
                                                       "a":  "Prioridade no atendimento em serviços públicos e privados e proteção contra negligência, discriminação ou violência",
-                                                      "b":  "Restrição do direito de voto a partir de determinada idade avançada, sem exceção legal",
-                                                      "c":  "Obrigatoriedade de internação em instituições de longa permanência a partir de determinada idade",
-                                                      "d":  "Exclusão de pessoas idosas de qualquer atividade produtiva remunerada, conforme antigas normas trabalhistas"
+                                                      "b":  "Obrigatoriedade de internação em instituições de longa permanência a partir de determinada idade",
+                                                      "c":  "Gratuidade universal em transporte aéreo doméstico a partir dos sessenta anos",
+                                                      "d":  "Restrição do direito de voto a partir de determinada idade avançada, sem exceção legal",
+                                                      "e":  "Exclusão de pessoas idosas de qualquer atividade produtiva remunerada, conforme antigas normas trabalhistas"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O Estatuto do Idoso assegura, entre outros direitos, prioridade no atendimento em serviços públicos e privados e proteção contra negligência, discriminação, violência ou abandono, reconhecendo a vulnerabilidade específica dessa população em um contexto de envelhecimento demográfico acelerado no Brasil.",
@@ -10939,10 +11002,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Estudos e órgãos de defesa dos direitos da pessoa idosa apontam que boa parte dos casos de violência contra idosos ocorre dentro do próprio ambiente familiar e não chega ao conhecimento das autoridades competentes.",
                                  "enunciado":  "Esse fenômeno de casos não registrados oficialmente, apesar de terem efetivamente ocorrido, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Prescrição penal do crime de maus-tratos, prevista no Código Penal",
+                                                      "a":  "Anistia ampla, geral e irrestrita a agressores",
                                                       "b":  "Imunidade parlamentar por foro privilegiado",
-                                                      "c":  "Anistia ampla, geral e irrestrita a agressores",
-                                                      "d":  "Subnotificação de casos de violência doméstica, ainda pouco estudada"
+                                                      "c":  "Prescrição penal do crime de maus-tratos, prevista no Código Penal",
+                                                      "d":  "Subnotificação de casos de violência doméstica, ainda pouco estudada",
+                                                      "e":  "Decadência do direito de representação, prevista para crimes de ação penal privada"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "A subnotificação refere-se à diferença entre o número de casos que efetivamente ocorrem e o número de casos formalmente registrados pelas autoridades, fenômeno especialmente relevante na violência contra idosos, que costuma ocorrer no ambiente doméstico e muitas vezes não é denunciada por dependência do idoso em relação ao próprio agressor ou por medo de retaliação.",
@@ -10954,12 +11018,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pessoas que solicitam refúgio no Brasil, alegando fundado temor de perseguição em seu país de origem, têm seu pedido analisado por um órgão colegiado interministerial responsável por decidir sobre o reconhecimento da condição de refugiado.",
                                  "enunciado":  "Esse órgão brasileiro responsável pela análise dos pedidos de refúgio é conhecido pela sigla:",
                                  "alternativas":  {
-                                                      "a":  "CONARE",
-                                                      "b":  "ACNUR (Alto Comissariado das Nações Unidas para Refugiados), agência multilateral da ONU",
-                                                      "c":  "CNJ (Conselho Nacional de Justiça do Poder Judiciário), órgão de controle administrativo",
-                                                      "d":  "CONANDA (Conselho Nacional dos Direitos da Criança e do Adolescente), órgão de proteção à infância"
+                                                      "a":  "CNJ (Conselho Nacional de Justiça do Poder Judiciário), órgão de controle administrativo",
+                                                      "b":  "CONARE",
+                                                      "c":  "CNIg (Conselho Nacional de Imigração)",
+                                                      "d":  "CONANDA (Conselho Nacional dos Direitos da Criança e do Adolescente), órgão de proteção à infância",
+                                                      "e":  "ACNUR (Alto Comissariado das Nações Unidas para Refugiados), agência multilateral da ONU"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "O CONARE (Comitê Nacional para os Refugiados) é o órgão colegiado interministerial brasileiro responsável por analisar e decidir sobre os pedidos de reconhecimento da condição de refugiado no país, aplicando os critérios definidos pela legislação nacional e pelos tratados internacionais dos quais o Brasil é signatário.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10969,12 +11034,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O aumento do número de imigrantes e refugiados em determinadas cidades brasileiras tem sido acompanhado, em alguns casos, de manifestações de rejeição, discurso de ódio e discriminação contra essa população, sobretudo em períodos de maior competição por vagas de emprego ou serviços públicos.",
                                  "enunciado":  "Esse tipo de rejeição e discriminação dirigida a pessoas por sua condição de estrangeiras é denominado:",
                                  "alternativas":  {
-                                                      "a":  "Etnocentrismo institucionalizado",
-                                                      "b":  "Apatridia por ausência de vínculo",
-                                                      "c":  "Soberania popular exercida pelo voto",
-                                                      "d":  "Xenofobia contra imigrantes e refugiados"
+                                                      "a":  "Nacionalismo cívico de base territorial",
+                                                      "b":  "Soberania popular exercida pelo voto",
+                                                      "c":  "Xenofobia contra imigrantes e refugiados",
+                                                      "d":  "Apatridia por ausência de vínculo",
+                                                      "e":  "Etnocentrismo institucionalizado"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "c",
                                  "explicacao":  "A xenofobia é a rejeição, o preconceito ou a discriminação dirigidos a pessoas por sua condição de estrangeiras, fenômeno que pode se intensificar em contextos de maior fluxo migratório e de competição percebida por recursos como emprego e serviços públicos, e que a legislação e políticas de direitos humanos buscam coibir por meio de mecanismos de proteção e de integração social dos migrantes.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -10984,12 +11050,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Uma pessoa pode ser transportada por terceiros para fora de seu local de origem, com seu consentimento inicial e mediante pagamento, para depois ser explorada em condições análogas à escravidão; em outro caso, uma pessoa pode ser recrutada, transportada e mantida sob coação, fraude ou ameaça, com a finalidade de exploração, independentemente de cruzar fronteiras.",
                                  "enunciado":  "A diferença central entre tráfico de pessoas e contrabando de migrantes está em que o tráfico de pessoas:",
                                  "alternativas":  {
-                                                      "a":  "Envolve elemento de exploração da vítima, como trabalho forçado ou exploração sexual, mediante coação, fraude ou abuso de vulnerabilidade",
-                                                      "b":  "É uma prática já inteiramente erradicada em todo o mundo, ao contrário do contrabando de migrantes",
-                                                      "c":  "Ocorre exclusivamente entre países vizinhos, ao contrário do contrabando de migrantes, conforme define o Protocolo de Palermo",
-                                                      "d":  "É sempre consentido livremente pela vítima em todas as suas etapas, ao contrário do contrabando de migrantes"
+                                                      "a":  "Ocorre exclusivamente entre países vizinhos, ao contrário do contrabando de migrantes, conforme define o Protocolo de Palermo",
+                                                      "b":  "É sempre consentido livremente pela vítima em todas as suas etapas, ao contrário do contrabando de migrantes",
+                                                      "c":  "Envolve elemento de exploração da vítima, como trabalho forçado ou exploração sexual, mediante coação, fraude ou abuso de vulnerabilidade",
+                                                      "d":  "É uma prática já inteiramente erradicada em todo o mundo, ao contrário do contrabando de migrantes",
+                                                      "e":  "Ocorre sempre com travessia irregular de fronteira, elemento ausente no contrabando"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O tráfico de pessoas se distingue do contrabando de migrantes por envolver a exploração da vítima — como trabalho forçado, servidão ou exploração sexual — obtida mediante coação, fraude ou abuso de situação de vulnerabilidade, podendo ocorrer inclusive dentro das fronteiras de um mesmo país, enquanto o contrabando de migrantes está associado à facilitação, geralmente onerosa e consentida, da entrada irregular em outro país, sem necessariamente envolver exploração posterior da pessoa transportada.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -10999,12 +11066,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Crianças e adolescentes empregados em atividades domésticas na casa de terceiros, muitas vezes sob promessa de moradia, alimentação e, em alguns casos, educação, em troca do trabalho realizado, representam uma das formas historicamente mais invisibilizadas de trabalho infantil no Brasil.",
                                  "enunciado":  "Essa modalidade de trabalho infantil é especialmente difícil de fiscalizar porque:",
                                  "alternativas":  {
-                                                      "a":  "Ocorre majoritariamente dentro do ambiente doméstico privado, dificultando o acesso de órgãos de fiscalização trabalhista",
+                                                      "a":  "Ocorre exclusivamente em grandes empresas do setor de serviços domésticos, regulamentadas pela CLT desde 1943",
                                                       "b":  "É expressamente autorizada e regulamentada pela legislação trabalhista brasileira a partir dos 12 anos de idade",
-                                                      "c":  "Não envolve qualquer forma de exploração da criança ou do adolescente envolvido, conforme dados oficiais recentes",
-                                                      "d":  "Ocorre exclusivamente em grandes empresas do setor de serviços domésticos, regulamentadas pela CLT desde 1943"
+                                                      "c":  "Ocorre majoritariamente dentro do ambiente doméstico privado, dificultando o acesso de órgãos de fiscalização trabalhista",
+                                                      "d":  "Envolve remuneração formal registrada, o que a torna visível às bases de dados oficiais",
+                                                      "e":  "Não envolve qualquer forma de exploração da criança ou do adolescente envolvido, conforme dados oficiais recentes"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O trabalho infantil doméstico é especialmente difícil de fiscalizar por ocorrer majoritariamente dentro do ambiente doméstico privado, espaço de mais difícil acesso para órgãos de fiscalização trabalhista, que atuam mais facilmente em estabelecimentos comerciais e industriais, o que contribui para a invisibilização histórica dessa forma de exploração do trabalho infantil no Brasil.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11014,12 +11082,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Levantamentos periódicos sobre o mercado de trabalho brasileiro têm mostrado redução, ao longo das últimas décadas, do número de crianças e adolescentes em situação de trabalho infantil, embora o problema não tenha sido completamente eliminado, sobretudo em atividades informais e em áreas rurais.",
                                  "enunciado":  "Essa trajetória de redução, ainda que incompleta, é atribuída, entre outros fatores, a:",
                                  "alternativas":  {
-                                                      "a":  "Ausência total de qualquer política pública voltada ao tema nas últimas décadas, apesar de compromissos internacionais assumidos",
+                                                      "a":  "Elevação da idade mínima para ingresso no ensino fundamental obrigatório",
                                                       "b":  "Aumento da informalidade no mercado de trabalho como fator isolado suficiente para a redução do trabalho infantil",
-                                                      "c":  "Eliminação completa da pobreza extrema em todo o território nacional, alcançada plenamente na última década",
-                                                      "d":  "Combinação de legislação de proteção, fiscalização, programas de transferência de renda condicionada e ampliação do acesso à escola"
+                                                      "c":  "Ausência total de qualquer política pública voltada ao tema nas últimas décadas, apesar de compromissos internacionais assumidos",
+                                                      "d":  "Eliminação completa da pobreza extrema em todo o território nacional, alcançada plenamente na última década",
+                                                      "e":  "Combinação de legislação de proteção, fiscalização, programas de transferência de renda condicionada e ampliação do acesso à escola"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "e",
                                  "explicacao":  "A redução do trabalho infantil no Brasil ao longo das últimas décadas é atribuída à combinação de fatores como legislação de proteção e fiscalização mais efetiva, programas de transferência de renda condicionada que exigem frequência escolar, e ampliação do acesso à educação básica, ainda que o problema persista, sobretudo em atividades informais, rurais e domésticas de mais difícil fiscalização.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11029,12 +11098,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O direito humano à alimentação adequada não se limita à ausência de fome extrema, mas envolve o acesso regular, permanente e livre a alimentos em quantidade e qualidade suficientes, de forma compatível com a cultura alimentar da população.",
                                  "enunciado":  "Essa definição ampla evidencia que a segurança alimentar de uma população depende de fatores como:",
                                  "alternativas":  {
-                                                      "a":  "Exclusivamente do volume total de alimentos exportados pelo país, segundo indicadores do comércio exterior",
-                                                      "b":  "Renda, disponibilidade e diversidade de alimentos, acesso a água potável e políticas públicas de abastecimento, segundo estudos do tema",
-                                                      "c":  "Exclusivamente da existência de programas de doação pontual de cestas básicas",
-                                                      "d":  "Fatores que não guardam qualquer relação com políticas públicas de renda e assistência social"
+                                                      "a":  "Fatores que não guardam qualquer relação com políticas públicas de renda e assistência social",
+                                                      "b":  "Exclusivamente da existência de programas de doação pontual de cestas básicas",
+                                                      "c":  "Renda, disponibilidade e diversidade de alimentos, acesso a água potável e políticas públicas de abastecimento, segundo estudos do tema",
+                                                      "d":  "Exclusivamente da regularidade das safras agrícolas nacionais",
+                                                      "e":  "Exclusivamente do volume total de alimentos exportados pelo país, segundo indicadores do comércio exterior"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "A segurança alimentar, entendida de forma ampla, depende não apenas da quantidade total de alimentos produzidos ou disponíveis em um país, mas também da renda das famílias para adquiri-los, da diversidade nutricional, do acesso à água potável e de políticas públicas de abastecimento e assistência social, o que explica por que a fome pode persistir mesmo em países com produção agrícola expressiva.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11044,12 +11114,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Pesquisas sobre segurança alimentar classificam domicílios em diferentes graus de insegurança: desde situações em que há preocupação com a possibilidade de falta de alimentos no futuro próximo até situações em que membros da família, incluindo crianças, efetivamente passam fome por falta de recursos para comprar comida.",
                                  "enunciado":  "Essa classificação em graus (leve, moderada e grave) de insegurança alimentar é relevante porque:",
                                  "alternativas":  {
-                                                      "a":  "Substitui integralmente a necessidade de dados sobre renda familiar na formulação de políticas sociais",
-                                                      "b":  "Permite dimensionar com maior precisão a gravidade da situação enfrentada por diferentes famílias, útil para o IBGE",
-                                                      "c":  "Elimina qualquer necessidade de distinguir entre famílias que efetivamente passam fome e famílias que apenas têm receio de vir a passar fome",
-                                                      "d":  "Aplica-se exclusivamente a contextos de guerra ou catástrofe natural, reconhecidos formalmente pela ONU"
+                                                      "a":  "Aplica-se exclusivamente a contextos de guerra ou catástrofe natural, reconhecidos formalmente pela ONU",
+                                                      "b":  "Elimina qualquer necessidade de distinguir entre famílias que efetivamente passam fome e famílias que apenas têm receio de vir a passar fome",
+                                                      "c":  "Permite dimensionar com maior precisão a gravidade da situação enfrentada por diferentes famílias, útil para o IBGE",
+                                                      "d":  "Permite converter a insegurança alimentar em valor monetário para fins de indenização",
+                                                      "e":  "Substitui integralmente a necessidade de dados sobre renda familiar na formulação de políticas sociais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "A classificação da insegurança alimentar em diferentes graus de gravidade permite dimensionar com maior precisão a situação enfrentada por diferentes famílias — desde a preocupação com possível falta futura de alimentos até a fome efetiva de seus membros —, o que orienta a priorização e o desenho de políticas públicas de combate à fome conforme a intensidade da privação identificada.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11060,11 +11131,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa desigualdade de acesso ao saneamento básico entre diferentes regiões e grupos sociais tem impacto direto, sobretudo, sobre:",
                                  "alternativas":  {
                                                       "a":  "O valor de mercado exclusivamente de imóveis comerciais em áreas centrais",
-                                                      "b":  "Indicadores de saúde pública, como a incidência de doenças de veiculação hídrica, sobretudo entre crianças",
-                                                      "c":  "A soberania nacional sobre recursos hídricos internacionais, regulada por tratados internacionais",
-                                                      "d":  "A composição do Produto Interno Bruto do setor de tecnologia, medida pelo IBGE trimestralmente"
+                                                      "b":  "O índice de reprovação escolar nas séries iniciais do ensino fundamental",
+                                                      "c":  "A composição do Produto Interno Bruto do setor de tecnologia, medida pelo IBGE trimestralmente",
+                                                      "d":  "Indicadores de saúde pública, como a incidência de doenças de veiculação hídrica, sobretudo entre crianças",
+                                                      "e":  "A soberania nacional sobre recursos hídricos internacionais, regulada por tratados internacionais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "A desigualdade de acesso ao saneamento básico entre áreas urbanas centrais, periferias e áreas rurais tem impacto direto sobre indicadores de saúde pública, sobretudo a incidência de doenças de veiculação hídrica, mais frequentes entre crianças e em regiões com menor cobertura de rede de água tratada e coleta de esgoto, evidenciando a conexão entre direitos sociais como saneamento e saúde.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11074,12 +11146,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Levantamentos educacionais indicam que a taxa de analfabetismo entre povos indígenas no Brasil tende a ser superior à média nacional, sobretudo em aldeias mais distantes de centros urbanos e com menor oferta de educação escolar indígena diferenciada.",
                                  "enunciado":  "Esse dado evidencia um desafio específico do direito à educação em relação aos povos indígenas, que é:",
                                  "alternativas":  {
-                                                      "a":  "Assegurar uma educação escolar indígena diferenciada, bilíngue e intercultural, que respeite a organização social e as línguas de cada povo",
+                                                      "a":  "Restringir o acesso de povos indígenas ao ensino superior público, adotado por antigas políticas do SPI",
                                                       "b":  "Eliminar completamente qualquer forma de educação escolar em terras indígenas, política já superada desde 1988",
-                                                      "c":  "Garantir o mesmo modelo pedagógico padronizado utilizado no restante do país, sem qualquer adaptação",
-                                                      "d":  "Restringir o acesso de povos indígenas ao ensino superior público, adotado por antigas políticas do SPI"
+                                                      "c":  "Assegurar uma educação escolar indígena diferenciada, bilíngue e intercultural, que respeite a organização social e as línguas de cada povo",
+                                                      "d":  "Ampliar a oferta de ensino a distância como substituto da escola presencial em aldeias",
+                                                      "e":  "Garantir o mesmo modelo pedagógico padronizado utilizado no restante do país, sem qualquer adaptação"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O desafio educacional específico dos povos indígenas envolve assegurar uma educação escolar diferenciada, bilíngue e intercultural, que respeite a organização social, os costumes e as línguas de cada povo, reconhecendo que o acesso meramente formal a um modelo pedagógico padronizado, sem essa adaptação, não é suficiente para garantir a efetividade do direito à educação nesse contexto.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11090,9 +11163,10 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa tese, controversa entre juristas e povos indígenas, é conhecida como:",
                                  "alternativas":  {
                                                       "a":  "Reserva do possível orçamentária",
-                                                      "b":  "Função social da terra produtiva",
-                                                      "c":  "Usucapião especial urbana",
-                                                      "d":  "Marco temporal da posse indígena"
+                                                      "b":  "Prescrição aquisitiva de terras devolutas",
+                                                      "c":  "Função social da terra produtiva",
+                                                      "d":  "Marco temporal da posse indígena",
+                                                      "e":  "Usucapião especial urbana"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "A tese do marco temporal sustenta que os povos indígenas só teriam direito à demarcação de terras que comprovadamente ocupassem em uma data específica fixada como referência, tese contestada por entidades indígenas e parte da doutrina jurídica sob o argumento de que desconsidera processos históricos de expulsão violenta de povos indígenas de seus territórios tradicionais antes dessa data, sendo objeto de intenso debate jurídico e legislativo no Brasil.",
@@ -11104,12 +11178,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Ato das Disposições Constitucionais Transitórias da Constituição de 1988 assegura a comunidades remanescentes de quilombos que estejam ocupando suas terras o reconhecimento da propriedade definitiva, devendo o Estado emitir os respectivos títulos.",
                                  "enunciado":  "Esse dispositivo constitucional reconhece, sobretudo, que:",
                                  "alternativas":  {
-                                                      "a":  "Comunidades quilombolas possuem direito territorial próprio, associado à sua identidade étnica e histórica",
-                                                      "b":  "Comunidades quilombolas não possuem qualquer direito diferenciado sobre território no ordenamento jurídico brasileiro",
-                                                      "c":  "Todas as terras rurais do país devem ser automaticamente tituladas em nome de comunidades quilombolas",
-                                                      "d":  "O reconhecimento de terras quilombolas depende exclusivamente de decisão do Poder Legislativo estadual"
+                                                      "a":  "Todas as terras rurais do país devem ser automaticamente tituladas em nome de comunidades quilombolas",
+                                                      "b":  "Comunidades quilombolas possuem direito territorial próprio, associado à sua identidade étnica e histórica",
+                                                      "c":  "A titulação dessas terras depende de comprovação de posse contínua por prazo superior a cem anos",
+                                                      "d":  "O reconhecimento de terras quilombolas depende exclusivamente de decisão do Poder Legislativo estadual",
+                                                      "e":  "Comunidades quilombolas não possuem qualquer direito diferenciado sobre território no ordenamento jurídico brasileiro"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "O art. 68 do ADCT reconhece às comunidades remanescentes de quilombos um direito territorial próprio, associado à sua identidade étnica, histórica e cultural, distinto do direito de propriedade individual comum, cabendo ao Estado o dever de emitir os respectivos títulos de propriedade definitiva das terras por elas ocupadas.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11119,12 +11194,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Comunidades de terreiro, que praticam religiões de matriz africana, relatam episódios frequentes de discriminação, invasão de espaços de culto e discurso de ódio religioso, muitas vezes associados a preconceito racial.",
                                  "enunciado":  "Esse tipo de violação evidencia a interseção entre:",
                                  "alternativas":  {
-                                                      "a":  "Direito de propriedade e liberdade de imprensa, sem qualquer relação com discriminação religiosa",
-                                                      "b":  "Intolerância religiosa e racismo, já que a discriminação contra religiões de matriz africana está associada a preconceitos étnico-raciais",
-                                                      "c":  "Direito eleitoral e liberdade sindical, temas regulados por normas trabalhistas específicas, conforme a CLT e a legislação eleitoral",
-                                                      "d":  "Direito do consumidor e direito tributário aplicados a instituições religiosas, conforme entendimento equivocado do CDC"
+                                                      "a":  "Direito eleitoral e liberdade sindical, temas regulados por normas trabalhistas específicas, conforme a CLT e a legislação eleitoral",
+                                                      "b":  "Direito do consumidor e direito tributário aplicados a instituições religiosas, conforme entendimento equivocado do CDC",
+                                                      "c":  "Direito de propriedade e liberdade de imprensa, sem qualquer relação com discriminação religiosa",
+                                                      "d":  "Direito de vizinhança e poder de polícia municipal sobre ruído em áreas residenciais",
+                                                      "e":  "Intolerância religiosa e racismo, já que a discriminação contra religiões de matriz africana está associada a preconceitos étnico-raciais"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "e",
                                  "explicacao":  "A discriminação contra comunidades de terreiro evidencia a interseção entre intolerância religiosa e racismo, já que a rejeição a religiões de matriz africana no Brasil está historicamente associada a preconceitos étnico-raciais, o que reforça a importância de políticas de proteção à liberdade religiosa articuladas ao combate ao racismo estrutural.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11134,12 +11210,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Constituição de 1988 estabelece que o Estado brasileiro não pode estabelecer, subvencionar ou embaraçar o funcionamento de cultos religiosos, nem manter relações de dependência ou aliança com qualquer igreja ou culto.",
                                  "enunciado":  "Esse princípio, que assegura a neutralidade do Estado em relação às diferentes religiões, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Laicidade plena do Estado",
-                                                      "b":  "Concordata religiosa",
-                                                      "c":  "Teocracia estatal",
-                                                      "d":  "Confessionalismo"
+                                                      "a":  "Confessionalismo",
+                                                      "b":  "Laicidade plena do Estado",
+                                                      "c":  "Concordata religiosa",
+                                                      "d":  "Pluralismo político",
+                                                      "e":  "Teocracia estatal"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "A laicidade do Estado é o princípio constitucional segundo o qual o Estado brasileiro deve manter neutralidade em relação às diferentes religiões, não podendo estabelecer, subvencionar ou embaraçar cultos religiosos nem manter relação de dependência ou aliança institucional com qualquer igreja, o que é condição para a garantia da liberdade religiosa de todos os cidadãos, independentemente de sua crença.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11149,12 +11226,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Constituição assegura o direito de reunião pacífica em locais públicos, independentemente de autorização, exigindo apenas prévio aviso à autoridade competente, e desde que não frustre outra reunião já convocada para o mesmo local.",
                                  "enunciado":  "A exigência constitucional de mero aviso prévio, e não de autorização, para a realização de manifestações e reuniões em locais públicos revela que esse direito:",
                                  "alternativas":  {
-                                                      "a":  "É exercido independentemente de anuência prévia do poder público, ainda que sujeito a limites como a preservação da ordem pública",
-                                                      "b":  "Pode ser livremente negado pela autoridade pública, a seu critério discricionário, como no regime anterior a 1988",
-                                                      "c":  "Aplica-se apenas a reuniões realizadas em propriedade privada, segundo entendimento superado do STF",
-                                                      "d":  "Foi extinto pela Constituição de 1988, substituído por regime de autorização prévia nos moldes do Ato Institucional nº 5"
+                                                      "a":  "Foi extinto pela Constituição de 1988, substituído por regime de autorização prévia nos moldes do Ato Institucional nº 5",
+                                                      "b":  "Aplica-se apenas a reuniões realizadas em propriedade privada, segundo entendimento superado do STF",
+                                                      "c":  "Pode ser livremente negado pela autoridade pública, a seu critério discricionário, como no regime anterior a 1988",
+                                                      "d":  "É exercido independentemente de anuência prévia do poder público, ainda que sujeito a limites como a preservação da ordem pública",
+                                                      "e":  "Depende de licença prévia quando envolver o uso de equipamentos de som"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "d",
                                  "explicacao":  "A Constituição assegura o direito de reunião pacífica mediante mero aviso prévio à autoridade competente, e não autorização, o que significa que seu exercício independe de anuência discricionária do poder público, embora esteja sujeito a determinados limites, como a preservação da ordem pública e a prioridade de reuniões pacíficas já convocadas para o mesmo local e horário.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11164,12 +11242,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Trabalhadores de determinada categoria profissional podem, coletivamente, interromper suas atividades como forma de pressão em negociações sobre salário e condições de trabalho, direito assegurado pela Constituição, ainda que sujeito a limites em serviços essenciais.",
                                  "enunciado":  "O direito de greve, assegurado constitucionalmente aos trabalhadores, é compreendido, do ponto de vista dos direitos humanos, como instrumento de:",
                                  "alternativas":  {
-                                                      "a":  "Punição unilateral do empregador, sem qualquer contrapartida negocial, prevista como sanção civil no Código Civil, sem previsão legal",
-                                                      "b":  "Equilíbrio de poder de negociação entre trabalhadores e empregadores, reconhecendo a desigualdade estrutural entre as partes",
-                                                      "c":  "Substituição integral da negociação coletiva formal entre sindicatos e empresas, prevista na CLT",
-                                                      "d":  "Restrição de aplicação exclusiva a servidores públicos estatutários, prevista em normas do Regime Jurídico Único federal, incompatível com a CDPD"
+                                                      "a":  "Substituição integral da negociação coletiva formal entre sindicatos e empresas, prevista na CLT",
+                                                      "b":  "Mecanismo de arbitragem obrigatória, que substitui a via judicial em conflitos trabalhistas",
+                                                      "c":  "Restrição de aplicação exclusiva a servidores públicos estatutários, prevista em normas do Regime Jurídico Único federal, incompatível com a CDPD",
+                                                      "d":  "Equilíbrio de poder de negociação entre trabalhadores e empregadores, reconhecendo a desigualdade estrutural entre as partes",
+                                                      "e":  "Punição unilateral do empregador, sem qualquer contrapartida negocial, prevista como sanção civil no Código Civil, sem previsão legal"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "d",
                                  "explicacao":  "O direito de greve é compreendido como instrumento de equilíbrio de poder de negociação entre trabalhadores e empregadores, reconhecendo a desigualdade estrutural entre as partes na relação de trabalho e permitindo que os trabalhadores exerçam pressão coletiva legítima para melhoria de condições salariais e de trabalho, ainda que sujeito a limites em atividades essenciais à população.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11180,11 +11259,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa vedação constitucional à interferência estatal na organização sindical busca, sobretudo, assegurar:",
                                  "alternativas":  {
                                                       "a":  "A extinção de qualquer forma de organização sindical no país, medida adotada durante o Estado Novo de Vargas",
-                                                      "b":  "A autonomia dos trabalhadores para se organizarem coletivamente, sem subordinação política ou administrativa direta ao Estado",
+                                                      "b":  "A criação de um sindicato único estatal para todas as categorias profissionais, nos moldes do modelo corporativista de 1937",
                                                       "c":  "A obrigatoriedade de filiação sindical para o exercício de qualquer profissão, prevista no antigo sistema corporativista",
-                                                      "d":  "A criação de um sindicato único estatal para todas as categorias profissionais, nos moldes do modelo corporativista de 1937"
+                                                      "d":  "A liberdade de o empregador reconhecer ou não a representação sindical de seus empregados",
+                                                      "e":  "A autonomia dos trabalhadores para se organizarem coletivamente, sem subordinação política ou administrativa direta ao Estado"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "e",
                                  "explicacao":  "A vedação à interferência estatal na organização sindical busca assegurar a autonomia dos trabalhadores para se organizarem coletivamente na defesa de seus interesses, sem subordinação política ou administrativa direta ao Estado, princípio associado à liberdade de associação como direito fundamental relacionado ao exercício da cidadania no ambiente de trabalho.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11194,12 +11274,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela expressiva da força de trabalho brasileira exerce atividades sem carteira assinada ou sem registro formal, o que implica ausência de determinadas proteções trabalhistas e previdenciárias garantidas a trabalhadores formais.",
                                  "enunciado":  "Essa alta taxa de informalidade no mercado de trabalho brasileiro é apontada como fator que:",
                                  "alternativas":  {
-                                                      "a":  "Amplia a proteção social do trabalhador informal em relação ao trabalhador formal",
-                                                      "b":  "É juridicamente equivalente, em todos os aspectos, ao trabalho com carteira assinada",
-                                                      "c":  "Foi completamente eliminada pela Constituição de 1988, que universalizou formalmente os direitos trabalhistas",
-                                                      "d":  "Reduz o acesso a direitos como férias remuneradas, décimo terceiro salário e contribuição previdenciária regular"
+                                                      "a":  "Foi completamente eliminada pela Constituição de 1988, que universalizou formalmente os direitos trabalhistas",
+                                                      "b":  "Amplia a proteção social do trabalhador informal em relação ao trabalhador formal",
+                                                      "c":  "É juridicamente equivalente, em todos os aspectos, ao trabalho com carteira assinada",
+                                                      "d":  "Decorre principalmente da preferência dos trabalhadores por maior flexibilidade de horário",
+                                                      "e":  "Reduz o acesso a direitos como férias remuneradas, décimo terceiro salário e contribuição previdenciária regular"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "e",
                                  "explicacao":  "A alta taxa de informalidade no mercado de trabalho brasileiro reduz o acesso de parcela significativa da população a direitos como férias remuneradas, décimo terceiro salário e contribuição previdenciária regular, ampliando sua vulnerabilidade social em situações de doença, acidente ou desemprego, o que evidencia uma lacuna relevante na efetivação de direitos sociais previstos formalmente na legislação trabalhista.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11209,12 +11290,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Trabalhadores contratados por plataformas digitais de entrega e transporte frequentemente não possuem vínculo empregatício formal, o que os deixa fora, em regra, da cobertura previdenciária obrigatória associada ao emprego formal, salvo contribuição facultativa por conta própria.",
                                  "enunciado":  "Esse cenário evidencia um desafio contemporâneo para o direito à seguridade social, relacionado à necessidade de:",
                                  "alternativas":  {
-                                                      "a":  "Eliminar qualquer forma de proteção previdenciária no país, medida incompatível com o art. 201 da Constituição",
-                                                      "b":  "Adaptar mecanismos de proteção previdenciária a novos formatos de trabalho intermediado por plataformas digitais",
-                                                      "c":  "Extinguir totalmente a atividade de plataformas digitais de trabalho intermediado",
-                                                      "d":  "Considerar automaticamente qualquer trabalhador de aplicativo como servidor público"
+                                                      "a":  "Adaptar mecanismos de proteção previdenciária a novos formatos de trabalho intermediado por plataformas digitais",
+                                                      "b":  "Transferir integralmente o custeio da previdência desses trabalhadores às plataformas",
+                                                      "c":  "Eliminar qualquer forma de proteção previdenciária no país, medida incompatível com o art. 201 da Constituição",
+                                                      "d":  "Considerar automaticamente qualquer trabalhador de aplicativo como servidor público",
+                                                      "e":  "Extinguir totalmente a atividade de plataformas digitais de trabalho intermediado"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "A ausência de vínculo empregatício formal para trabalhadores de plataformas digitais evidencia um desafio contemporâneo para o direito à seguridade social, que exige a adaptação de mecanismos de proteção previdenciária a formatos de trabalho que não se enquadram integralmente nas categorias tradicionais de emprego formal ou trabalho autônomo, tema em debate em diferentes países.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11224,12 +11306,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A legislação brasileira reserva, em concursos públicos, percentual de vagas a candidatos com deficiência, desde que a deficiência seja compatível com as atribuições do cargo pretendido.",
                                  "enunciado":  "Essa reserva de vagas em concursos públicos é fundamentada, sobretudo, no princípio de que:",
                                  "alternativas":  {
-                                                      "a":  "A igualdade meramente formal de acesso a cargos públicos pode não ser suficiente para garantir representação equitativa de pessoas com deficiência",
+                                                      "a":  "A reserva de vagas é aplicável exclusivamente a cargos de nível superior, conforme entendimento já superado do STF",
                                                       "b":  "Pessoas com deficiência devem ser automaticamente dispensadas de qualquer etapa do processo seletivo",
-                                                      "c":  "A reserva de vagas é aplicável exclusivamente a cargos de nível superior, conforme entendimento já superado do STF",
-                                                      "d":  "Concursos públicos não podem, em nenhuma hipótese, prever exigências de aptidão física para o cargo pretendido"
+                                                      "c":  "Concursos públicos não podem, em nenhuma hipótese, prever exigências de aptidão física para o cargo pretendido",
+                                                      "d":  "Concursos devem prever critérios de desempate favoráveis a candidatos de menor renda",
+                                                      "e":  "A igualdade meramente formal de acesso a cargos públicos pode não ser suficiente para garantir representação equitativa de pessoas com deficiência"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "e",
                                  "explicacao":  "A reserva de vagas em concursos públicos para pessoas com deficiência é fundamentada no princípio de que a igualdade meramente formal de acesso pode não ser suficiente para garantir representação equitativa desse grupo no serviço público, exigindo uma medida de ação afirmativa que compense barreiras históricas e estruturais de acesso ao emprego, inclusive público.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11239,12 +11322,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Quando um adolescente pratica um ato infracional (conduta prevista como crime ou contravenção caso praticada por adulto), o ECA prevê a aplicação de medidas socioeducativas, como advertência, prestação de serviços à comunidade, liberdade assistida ou, em casos mais graves, internação, e não a aplicação da pena criminal comum.",
                                  "enunciado":  "A adoção de medidas socioeducativas, distintas do sistema penal comum aplicado a adultos, reflete o princípio de que o adolescente em conflito com a lei deve ser tratado, sobretudo, como:",
                                  "alternativas":  {
-                                                      "a":  "Pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada, prioritariamente, à reintegração social",
-                                                      "b":  "Inimputável em qualquer circunstância, sem qualquer forma de responsabilização por seus atos, tese rejeitada pelo ECA",
-                                                      "c":  "Sujeito equiparado a um adulto para todos os efeitos penais, inclusive quanto ao tipo de pena aplicável",
-                                                      "d":  "Indivíduo cuja conduta infracional deve ser resolvida exclusivamente pela família, sem qualquer intervenção estatal"
+                                                      "a":  "Sujeito equiparado a um adulto para todos os efeitos penais, inclusive quanto ao tipo de pena aplicável",
+                                                      "b":  "Pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada, prioritariamente, à reintegração social",
+                                                      "c":  "Inimputável em qualquer circunstância, sem qualquer forma de responsabilização por seus atos, tese rejeitada pelo ECA",
+                                                      "d":  "Sujeito plenamente capaz para atos da vida civil a partir dos dezesseis anos",
+                                                      "e":  "Indivíduo cuja conduta infracional deve ser resolvida exclusivamente pela família, sem qualquer intervenção estatal"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "As medidas socioeducativas previstas no ECA refletem o princípio de que o adolescente em conflito com a lei deve ser tratado como pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada prioritariamente à reintegração social, e não ao sistema penal comum aplicado a adultos, o que não significa ausência completa de responsabilização por seus atos.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11254,12 +11338,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Entre as medidas socioeducativas previstas no ECA, a internação em unidade especializada é a mais restritiva, aplicável apenas em hipóteses específicas, como ato infracional cometido mediante grave ameaça ou violência à pessoa, ou reiteração de outras infrações graves.",
                                  "enunciado":  "A previsão de que a internação seja aplicada apenas em hipóteses específicas e por prazo determinado, sujeito a reavaliação periódica, reflete o princípio de que a privação de liberdade de adolescentes deve ser:",
                                  "alternativas":  {
-                                                      "a":  "Aplicada por prazo indeterminado, até que o adolescente atinja a maioridade",
-                                                      "b":  "Vedada pela legislação brasileira, mesmo diante de atos infracionais graves",
-                                                      "c":  "Excepcional e breve, reservada aos casos mais graves previstos em lei",
-                                                      "d":  "A medida socioeducativa preferencial, aplicável a qualquer ato infracional"
+                                                      "a":  "Cumulativa com a pena privativa de liberdade quando o ato infracional for reincidente",
+                                                      "b":  "Excepcional e breve, reservada aos casos mais graves previstos em lei",
+                                                      "c":  "Vedada pela legislação brasileira, mesmo diante de atos infracionais graves",
+                                                      "d":  "Aplicada por prazo indeterminado, até que o adolescente atinja a maioridade",
+                                                      "e":  "A medida socioeducativa preferencial, aplicável a qualquer ato infracional"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "b",
                                  "explicacao":  "A internação, como medida socioeducativa mais restritiva, deve ser excepcional e breve, aplicada apenas às hipóteses mais graves previstas em lei e sujeita a reavaliação periódica, em consonância com o princípio da proteção integral e com padrões internacionais de direitos humanos que recomendam a privação de liberdade de adolescentes como último recurso e pelo menor tempo possível.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11269,12 +11354,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Crianças e adolescentes destituídos do poder familiar de seus pais biológicos podem ser encaminhados a famílias substitutas, por meio de guarda, tutela ou adoção, priorizando-se, sempre que possível, sua convivência familiar e comunitária.",
                                  "enunciado":  "Essa priorização da convivência familiar, mesmo em família substituta, em detrimento do acolhimento institucional prolongado, reflete o entendimento de que:",
                                  "alternativas":  {
-                                                      "a":  "O convívio familiar é considerado ambiente mais adequado ao desenvolvimento integral da criança e do adolescente",
-                                                      "b":  "O direito à convivência familiar aplica-se exclusivamente a crianças, e não a adolescentes, conforme antiga redação do ECA",
-                                                      "c":  "Instituições de acolhimento devem ser, sempre que possível, a primeira e definitiva opção para crianças destituídas do poder familiar",
-                                                      "d":  "A adoção é vedada a qualquer criança que já tenha vivido em acolhimento institucional, conforme regra do antigo Código de Menores"
+                                                      "a":  "A adoção é vedada a qualquer criança que já tenha vivido em acolhimento institucional, conforme regra do antigo Código de Menores",
+                                                      "b":  "Instituições de acolhimento devem ser, sempre que possível, a primeira e definitiva opção para crianças destituídas do poder familiar",
+                                                      "c":  "A guarda deve ser atribuída preferencialmente a parentes até o terceiro grau, na ordem legal",
+                                                      "d":  "O direito à convivência familiar aplica-se exclusivamente a crianças, e não a adolescentes, conforme antiga redação do ECA",
+                                                      "e":  "O convívio familiar é considerado ambiente mais adequado ao desenvolvimento integral da criança e do adolescente"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "e",
                                  "explicacao":  "A priorização do encaminhamento a famílias substitutas, em detrimento do acolhimento institucional prolongado, reflete o entendimento de que o convívio familiar é considerado ambiente mais adequado ao desenvolvimento integral de crianças e adolescentes, devendo o acolhimento institucional ser medida excepcional e provisória, e não solução definitiva, conforme os princípios da doutrina da proteção integral.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11284,12 +11370,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Após a separação dos pais, a legislação civil brasileira estabeleceu como regra, e não mais exceção, que ambos os genitores compartilhem a responsabilidade e as decisões sobre a criação dos filhos, ainda que a criança resida predominantemente com um deles.",
                                  "enunciado":  "Essa mudança legislativa, que tornou regra a modalidade de guarda compartilhada entre os pais, buscou, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "Assegurar a participação de ambos os genitores nas decisões relevantes sobre a vida dos filhos, mesmo após a separação do casal",
-                                                      "b":  "Aplicar-se exclusivamente a casais que não possuam filhos em comum, conforme requisito extinto pela Lei 13.058/2014",
-                                                      "c":  "Eliminar completamente qualquer forma de convivência entre um dos genitores e os filhos após a separação",
-                                                      "d":  "Estabelecer que a criança deve, obrigatoriamente, residir metade do tempo com cada genitor"
+                                                      "a":  "Eliminar completamente qualquer forma de convivência entre um dos genitores e os filhos após a separação",
+                                                      "b":  "Uniformizar o valor da pensão alimentícia em percentual fixo da renda do alimentante",
+                                                      "c":  "Estabelecer que a criança deve, obrigatoriamente, residir metade do tempo com cada genitor",
+                                                      "d":  "Aplicar-se exclusivamente a casais que não possuam filhos em comum, conforme requisito extinto pela Lei 13.058/2014",
+                                                      "e":  "Assegurar a participação de ambos os genitores nas decisões relevantes sobre a vida dos filhos, mesmo após a separação do casal"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "e",
                                  "explicacao":  "A guarda compartilhada como regra buscou assegurar a participação efetiva de ambos os genitores nas decisões relevantes sobre a vida dos filhos após a separação do casal, ainda que a criança resida predominantemente com um deles, refletindo o entendimento de que a convivência e a responsabilidade parental conjunta favorecem o desenvolvimento da criança, sem que isso implique necessariamente divisão igualitária do tempo de residência.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11301,8 +11388,9 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Como categoria irrelevante para o direito civil contemporâneo, conforme corrente doutrinária hoje minoritária",
                                                       "b":  "Exclusivamente a partir de vínculos biológicos entre seus membros, excluindo qualquer outra forma de constituição",
-                                                      "c":  "Como instituição cuja definição jurídica é imutável desde a Constituição de 1988, segundo interpretação literal superada",
-                                                      "d":  "A partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único predeterminado"
+                                                      "c":  "Exclusivamente a partir do vínculo registral formalizado em cartório",
+                                                      "d":  "A partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único predeterminado",
+                                                      "e":  "Como instituição cuja definição jurídica é imutável desde a Constituição de 1988, segundo interpretação literal superada"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "O reconhecimento ampliado de diferentes arranjos familiares decorre de uma mudança de entendimento sobre a família, compreendida cada vez mais a partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único, tradicional e biológico, o que ampliou a proteção jurídica a arranjos como famílias monoparentais, recompostas e homoafetivas.",
@@ -11314,12 +11402,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Uma lei brasileira do início dos anos 2000 determinou a substituição progressiva de um modelo de tratamento psiquiátrico baseado em internações prolongadas em hospitais especializados por um modelo baseado em serviços comunitários de saúde mental, mais próximos da convivência familiar e social do paciente.",
                                  "enunciado":  "Essa mudança de modelo, conhecida como Reforma Psiquiátrica, buscou assegurar aos pacientes com transtorno mental, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "A obrigatoriedade de internação hospitalar prolongada para qualquer diagnóstico de transtorno mental",
-                                                      "b":  "O direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social",
-                                                      "c":  "A extinção completa de qualquer forma de tratamento hospitalar em casos de crise aguda, medida nunca prevista na Lei 10.216/2001",
-                                                      "d":  "A exclusão do tema saúde mental do âmbito do Sistema Único de Saúde, proposta rejeitada na 8ª Conferência Nacional de Saúde"
+                                                      "a":  "A transferência da responsabilidade pelo tratamento a instituições filantrópicas privadas",
+                                                      "b":  "A extinção completa de qualquer forma de tratamento hospitalar em casos de crise aguda, medida nunca prevista na Lei 10.216/2001",
+                                                      "c":  "O direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social",
+                                                      "d":  "A obrigatoriedade de internação hospitalar prolongada para qualquer diagnóstico de transtorno mental",
+                                                      "e":  "A exclusão do tema saúde mental do âmbito do Sistema Único de Saúde, proposta rejeitada na 8ª Conferência Nacional de Saúde"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "c",
                                  "explicacao":  "A Reforma Psiquiátrica buscou assegurar aos pacientes com transtorno mental o direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social e preservação de vínculos familiares e comunitários, evitando internações hospitalares prolongadas e desnecessárias que caracterizavam o modelo asilar anterior.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11329,12 +11418,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Serviços territoriais de saúde mental, com equipe multiprofissional, oferecem atendimento diário ou ambulatorial a pessoas com transtornos mentais, como alternativa comunitária à internação psiquiátrica prolongada.",
                                  "enunciado":  "Esses serviços, criados no âmbito da Reforma Psiquiátrica brasileira, são conhecidos pela sigla:",
                                  "alternativas":  {
-                                                      "a":  "UPA (Unidade de Pronto Atendimento)",
-                                                      "b":  "UBS (Unidade Básica de Saúde)",
-                                                      "c":  "CAPS (Centro de Atenção Psicossocial)",
-                                                      "d":  "CRAS (Centro de Referência de Assistência Social)"
+                                                      "a":  "CAPS (Centro de Atenção Psicossocial)",
+                                                      "b":  "CRAS (Centro de Referência de Assistência Social)",
+                                                      "c":  "UBS (Unidade Básica de Saúde)",
+                                                      "d":  "CREAS (Centro de Referência Especializado de Assistência Social)",
+                                                      "e":  "UPA (Unidade de Pronto Atendimento)"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "a",
                                  "explicacao":  "Os Centros de Atenção Psicossocial (CAPS) são serviços territoriais de saúde mental, com equipe multiprofissional, criados no âmbito da Reforma Psiquiátrica brasileira como alternativa comunitária à internação psiquiátrica prolongada, buscando oferecer cuidado próximo à residência e à rede social e familiar do paciente.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11345,9 +11435,10 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa disparidade no acesso a vacinas entre países de diferentes níveis de renda ilustra a tensão entre:",
                                  "alternativas":  {
                                                       "a":  "A propriedade intelectual e os contratos comerciais entre fabricantes, de um lado, e o direito à saúde e o acesso a bens essenciais, de outro",
-                                                      "b":  "O direito à liberdade de expressão e o direito de propriedade, sem qualquer relação com saúde pública",
-                                                      "c":  "A soberania nacional e a liberdade religiosa, temas sem conexão com o caso descrito, regulados pela Convenção de Viena",
-                                                      "d":  "O direito eleitoral e o direito ambiental, sem qualquer relação com o caso descrito, tratados no Acordo de Paris"
+                                                      "b":  "O direito eleitoral e o direito ambiental, sem qualquer relação com o caso descrito, tratados no Acordo de Paris",
+                                                      "c":  "O direito à saúde e a competência regulatória das agências sanitárias nacionais",
+                                                      "d":  "A soberania nacional e a liberdade religiosa, temas sem conexão com o caso descrito, regulados pela Convenção de Viena",
+                                                      "e":  "O direito à liberdade de expressão e o direito de propriedade, sem qualquer relação com saúde pública"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "A disparidade no acesso a vacinas entre países ricos e pobres durante emergências sanitárias globais ilustra a tensão entre a proteção da propriedade intelectual e dos contratos comerciais entre fabricantes e países, de um lado, e o direito humano à saúde e o princípio do acesso equitativo a bens essenciais, de outro, tema que motivou debates internacionais sobre flexibilização temporária de patentes em contextos de emergência.",
@@ -11359,12 +11450,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Assembleia Geral das Nações Unidas reconheceu, em resolução específica, o acesso à água potável e ao saneamento como um direito humano essencial à realização plena da vida e de outros direitos humanos.",
                                  "enunciado":  "Esse reconhecimento internacional do direito humano à água implica, sobretudo, que os Estados devem:",
                                  "alternativas":  {
-                                                      "a":  "Fornecer água potável apenas a cidadãos que comprovem capacidade de pagamento integral do serviço",
-                                                      "b":  "Adotar medidas progressivas para assegurar acesso suficiente, seguro e a preço acessível à água potável para toda a população",
-                                                      "c":  "Transferir a gestão de todos os recursos hídricos do planeta a um único órgão internacional",
-                                                      "d":  "Considerar a água um bem exclusivamente privado, sujeito apenas às regras de mercado, modelo adotado por poucos países"
+                                                      "a":  "Adotar medidas progressivas para assegurar acesso suficiente, seguro e a preço acessível à água potável para toda a população",
+                                                      "b":  "Garantir gratuidade integral do fornecimento a todos os domicílios, sem distinção de renda",
+                                                      "c":  "Fornecer água potável apenas a cidadãos que comprovem capacidade de pagamento integral do serviço",
+                                                      "d":  "Considerar a água um bem exclusivamente privado, sujeito apenas às regras de mercado, modelo adotado por poucos países",
+                                                      "e":  "Transferir a gestão de todos os recursos hídricos do planeta a um único órgão internacional"
                                                   },
-                                 "resposta":  "b",
+                                 "resposta":  "a",
                                  "explicacao":  "O reconhecimento do direito humano à água pela ONU implica o dever dos Estados de adotar medidas progressivas para assegurar acesso suficiente, seguro, aceitável, fisicamente acessível e a preço acessível à água potável para toda a população, o que orienta políticas públicas de saneamento e abastecimento, sobretudo para populações de baixa renda e regiões mais vulneráveis.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11374,10 +11466,11 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Alguns povos indígenas na Amazônia optam por não manter qualquer contato com a sociedade envolvente, vivendo em isolamento voluntário em seus territórios tradicionais.",
                                  "enunciado":  "A política brasileira de proteção a esses povos indígenas isolados baseia-se, sobretudo, no princípio de:",
                                  "alternativas":  {
-                                                      "a":  "Transferir compulsoriamente esses povos para áreas urbanas, por razões de segurança, política adotada pelo antigo SPI",
-                                                      "b":  "Buscar ativamente o contato para promover sua integração forçada à sociedade nacional",
+                                                      "a":  "Buscar ativamente o contato para promover sua integração forçada à sociedade nacional",
+                                                      "b":  "Transferir compulsoriamente esses povos para áreas urbanas, por razões de segurança, política adotada pelo antigo SPI",
                                                       "c":  "Considerá-los juridicamente inexistentes até que se estabeleça contato formal com o Estado",
-                                                      "d":  "Respeitar a autodeterminação desses povos, evitando o contato forçado e protegendo seu território de invasões, conforme padrões internacionais"
+                                                      "d":  "Respeitar a autodeterminação desses povos, evitando o contato forçado e protegendo seu território de invasões, conforme padrões internacionais",
+                                                      "e":  "Promover o contato mediante autorização judicial prévia em cada caso"
                                                   },
                                  "resposta":  "d",
                                  "explicacao":  "A política brasileira de proteção a povos indígenas isolados baseia-se no princípio de respeitar sua autodeterminação, evitando o contato forçado — que historicamente resultou em surtos de doenças e violência contra esses povos — e protegendo seu território de invasões que ameacem sua sobrevivência física e cultural, em consonância com padrões internacionais de proteção a povos indígenas em isolamento voluntário.",
@@ -11389,12 +11482,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Uma convenção internacional de 1948 definiu como crime determinados atos cometidos com a intenção de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso, como tal.",
                                  "enunciado":  "Esse crime, cuja definição jurídica exige a comprovação da intenção específica de destruir um grupo determinado, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Genocídio, crime contra grupo nacional, étnico ou religioso",
+                                                      "a":  "Contravenção penal de menor potencial ofensivo",
                                                       "b":  "Crime de responsabilidade do chefe do Executivo",
-                                                      "c":  "Contravenção penal de menor potencial ofensivo",
-                                                      "d":  "Crime de opinião previsto na antiga Lei de Imprensa"
+                                                      "c":  "Genocídio, crime contra grupo nacional, étnico ou religioso",
+                                                      "d":  "Crime de opinião previsto na antiga Lei de Imprensa",
+                                                      "e":  "Crime de perseguição, tipificado de forma autônoma na legislação penal brasileira"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "c",
                                  "explicacao":  "O genocídio é definido pela Convenção para a Prevenção e a Repressão do Crime de Genocídio, de 1948, como determinados atos cometidos com a intenção específica de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso, sendo essa intenção específica (dolo específico) elemento central e de difícil comprovação jurídica na caracterização do crime.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11404,12 +11498,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Após o fim de regimes autoritários ou de conflitos internos marcados por graves violações de direitos humanos, alguns países criaram órgãos oficiais, com participação da sociedade civil, encarregados de investigar e tornar públicos os fatos ocorridos durante esse período.",
                                  "enunciado":  "Esses órgãos, voltados a apurar e divulgar violações de direitos humanos cometidas no passado, ainda que sem competência para aplicar sanções penais, são conhecidos como:",
                                  "alternativas":  {
-                                                      "a":  "Tribunais militares de caráter permanente",
-                                                      "b":  "Conselhos de fiscalização administrativa",
-                                                      "c":  "Cortes constitucionais de transição",
-                                                      "d":  "Comissões da verdade de caráter temporário"
+                                                      "a":  "Cortes constitucionais de transição",
+                                                      "b":  "Tribunais militares de caráter permanente",
+                                                      "c":  "Comissões da verdade de caráter temporário",
+                                                      "d":  "Conselhos de fiscalização administrativa",
+                                                      "e":  "Ouvidorias permanentes de direitos humanos vinculadas ao Poder Executivo"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "c",
                                  "explicacao":  "Comissões da verdade são órgãos oficiais criados após períodos de regime autoritário ou conflito interno, com o objetivo de investigar e tornar públicas graves violações de direitos humanos cometidas no passado, contribuindo para o direito à verdade e à memória das vítimas, ainda que, em geral, não tenham competência para aplicar sanções penais aos responsáveis, tarefa que caberia a outros mecanismos de justiça de transição.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11419,12 +11514,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Leis de anistia, aprovadas em diferentes países após períodos de regime autoritário, costumam perdoar ou impedir a punição criminal de atos cometidos durante esse período, tanto por opositores do regime quanto, em alguns casos, por agentes estatais responsáveis por violações de direitos humanos.",
                                  "enunciado":  "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos, como tortura e desaparecimento forçado, é objeto de controvérsia jurídica internacional porque:",
                                  "alternativas":  {
-                                                      "a":  "Tribunais internacionais de direitos humanos entendem que tais crimes não poderiam ser anistiados, sob pena de comprometer a justiça das vítimas",
-                                                      "b":  "A anistia aplica-se exclusivamente a crimes de natureza tributária, conforme interpretação já rejeitada pelos tribunais superiores",
-                                                      "c":  "Não existe qualquer controvérsia sobre o tema em nenhum país que adotou leis de anistia, conforme consenso doutrinário unânime",
-                                                      "d":  "Leis de anistia são sempre consideradas integralmente compatíveis com tratados internacionais de direitos humanos"
+                                                      "a":  "Leis de anistia são sempre consideradas integralmente compatíveis com tratados internacionais de direitos humanos",
+                                                      "b":  "Tribunais internacionais de direitos humanos entendem que tais crimes não poderiam ser anistiados, sob pena de comprometer a justiça das vítimas",
+                                                      "c":  "Leis de anistia só produzem efeito quando referendadas por consulta popular",
+                                                      "d":  "A anistia aplica-se exclusivamente a crimes de natureza tributária, conforme interpretação já rejeitada pelos tribunais superiores",
+                                                      "e":  "Não existe qualquer controvérsia sobre o tema em nenhum país que adotou leis de anistia, conforme consenso doutrinário unânime"
                                                   },
-                                 "resposta":  "a",
+                                 "resposta":  "b",
                                  "explicacao":  "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos é controversa porque tribunais e organismos internacionais de direitos humanos, como a Corte Interamericana, têm entendido, em diversos casos envolvendo diferentes países, que crimes como tortura e desaparecimento forçado não poderiam ser anistiados, sob o argumento de que a impunidade compromete o direito das vítimas e de seus familiares à justiça e à verdade.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11435,11 +11531,12 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa reivindicação por esclarecimento oficial dos fatos e preservação de sua memória histórica é reconhecida, no campo dos direitos humanos, como:",
                                  "alternativas":  {
                                                       "a":  "Direito à reparação econômica individual",
-                                                      "b":  "Direito à informação de interesse privado",
-                                                      "c":  "Direito de petição aos poderes públicos",
-                                                      "d":  "Direito à verdade e à memória histórica"
+                                                      "b":  "Direito à verdade e à memória histórica",
+                                                      "c":  "Direito à informação de interesse privado",
+                                                      "d":  "Direito de petição aos poderes públicos",
+                                                      "e":  "Direito à autodeterminação informativa sobre dados pessoais sensíveis"
                                                   },
-                                 "resposta":  "d",
+                                 "resposta":  "b",
                                  "explicacao":  "O direito à verdade e à memória reconhece a reivindicação de vítimas e familiares de graves violações de direitos humanos ao esclarecimento oficial das circunstâncias em que os fatos ocorreram e à preservação de registros históricos sobre esse período, sendo considerado componente essencial da justiça de transição, ao lado da responsabilização, da reparação e de garantias de não repetição.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
@@ -11450,9 +11547,10 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Essa característica, segundo a qual o tribunal internacional só atua quando a justiça nacional se mostra inerte ou incapaz, é conhecida como princípio da:",
                                  "alternativas":  {
                                                       "a":  "Complementaridade da jurisdição internacional",
-                                                      "b":  "Anistia ampla concedida por lei interna nesse caso",
-                                                      "c":  "Soberania absoluta do Estado nacional permanente",
-                                                      "d":  "Extraterritorialidade automática da lei penal"
+                                                      "b":  "Soberania absoluta do Estado nacional permanente",
+                                                      "c":  "Anistia ampla concedida por lei interna nesse caso",
+                                                      "d":  "Extraterritorialidade automática da lei penal",
+                                                      "e":  "Subsidiariedade orçamentária no custeio dos tribunais internacionais"
                                                   },
                                  "resposta":  "a",
                                  "explicacao":  "O princípio da complementaridade estabelece que o Tribunal Penal Internacional só exerce sua jurisdição quando o sistema de justiça nacional do país responsável não tem vontade ou capacidade de investigar e julgar genuinamente o caso, preservando, em regra, a primazia da jurisdição doméstica e atuando apenas de forma subsidiária e excepcional.",
@@ -11464,12 +11562,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Diante de situações de genocídio, crimes de guerra, limpeza étnica e crimes contra a humanidade em que um Estado se mostra incapaz ou não disposto a proteger sua própria população, discute-se, no âmbito das Nações Unidas, até que ponto a comunidade internacional teria legitimidade para atuar, inclusive de forma coercitiva, em defesa dessa população.",
                                  "enunciado":  "Esse princípio, discutido e controverso no direito internacional contemporâneo, é conhecido como:",
                                  "alternativas":  {
-                                                      "a":  "Autodeterminação dos povos absoluta",
+                                                      "a":  "Jurisdição universal penal sobre crimes contra a humanidade",
                                                       "b":  "Imunidade diplomática de chefes de Estado",
-                                                      "c":  "Responsabilidade de proteger (R2P)",
-                                                      "d":  "Reserva do possível orçamentária estatal"
+                                                      "c":  "Autodeterminação dos povos absoluta",
+                                                      "d":  "Reserva do possível orçamentária estatal",
+                                                      "e":  "Responsabilidade de proteger (R2P)"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "e",
                                  "explicacao":  "A responsabilidade de proteger (R2P) é o princípio, discutido e controverso no direito internacional contemporâneo, segundo o qual a comunidade internacional teria legitimidade para atuar, inclusive de forma coercitiva em casos extremos e mediante autorização do Conselho de Segurança da ONU, quando um Estado se mostra incapaz ou não disposto a proteger sua própria população de genocídio, crimes de guerra, limpeza étnica ou crimes contra a humanidade, o que tensiona o princípio tradicional de soberania estatal.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
@@ -11479,12 +11578,13 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Parcela da população mundial ainda não tem acesso regular à internet ou a dispositivos digitais adequados, o que a exclui, na prática, de serviços públicos, oportunidades de trabalho e informações cada vez mais disponibilizados prioritariamente por meios digitais.",
                                  "enunciado":  "Diante desse cenário, parte da doutrina de direitos humanos passou a discutir o acesso à internet como:",
                                  "alternativas":  {
-                                                      "a":  "Um privilégio exclusivamente comercial, sem qualquer relação com direitos fundamentais",
-                                                      "b":  "Um direito já plenamente universalizado em todos os países do mundo, sem qualquer desigualdade remanescente",
-                                                      "c":  "Um direito social emergente, cuja ausência pode aprofundar desigualdades preexistentes no acesso à educação e ao trabalho, tema debatido internacionalmente",
-                                                      "d":  "Uma matéria estranha ao campo de estudo dos direitos humanos, conforme entendimento clássico já superado"
+                                                      "a":  "Um direito social emergente, cuja ausência pode aprofundar desigualdades preexistentes no acesso à educação e ao trabalho, tema debatido internacionalmente",
+                                                      "b":  "Um privilégio exclusivamente comercial, sem qualquer relação com direitos fundamentais",
+                                                      "c":  "Um direito de terceira geração já consolidado em tratado internacional vinculante",
+                                                      "d":  "Uma matéria estranha ao campo de estudo dos direitos humanos, conforme entendimento clássico já superado",
+                                                      "e":  "Um direito já plenamente universalizado em todos os países do mundo, sem qualquer desigualdade remanescente"
                                                   },
-                                 "resposta":  "c",
+                                 "resposta":  "a",
                                  "explicacao":  "Diante da crescente centralidade da internet para o exercício de direitos como educação, trabalho e acesso a serviços públicos, parte da doutrina de direitos humanos passou a discutir o acesso à internet como um direito social emergente, cuja ausência — a exclusão digital — pode aprofundar desigualdades sociais e econômicas preexistentes entre diferentes grupos e regiões.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"

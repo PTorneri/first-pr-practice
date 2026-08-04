@@ -1,0 +1,319 @@
+{
+    "_comentario":  [
+                        "Mapa letra-antiga -\u003e letra-nova produzido pelo rebalanceamento de \u0027filosofia-sociologia\u0027.",
+                        "Serve para migrar vd_answers/vd_dayAnswers caso haja progresso salvo:",
+                        "o app guarda a letra marcada e recalcula o acerto na leitura, entao sem",
+                        "esta migracao as respostas antigas passam a ser comparadas com o gabarito novo."
+                    ],
+    "frente":  "filosofia-sociologia",
+    "questoes":  {
+                     "filosofia-sociologia-01":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-02":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-03":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-04":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-06":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-07":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-08":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-09":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-10":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-11":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-12":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-13":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-15":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-16":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-17":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-18":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-20":  {
+                                                     "de":  "e",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-21":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-22":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-23":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-24":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-25":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-26":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-27":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-28":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-30":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-31":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-34":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-37":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-38":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-39":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-41":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-42":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-43":  {
+                                                     "de":  "c",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-44":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-45":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-47":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-49":  {
+                                                     "de":  "d",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-50":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-51":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-53":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-55":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-56":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-57":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-58":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-59":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-60":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-61":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-63":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-65":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-66":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-67":  {
+                                                     "de":  "b",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-69":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-70":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-71":  {
+                                                     "de":  "a",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-72":  {
+                                                     "de":  "b",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-75":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-76":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-78":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-81":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-82":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-83":  {
+                                                     "de":  "c",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-84":  {
+                                                     "de":  "d",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-85":  {
+                                                     "de":  "e",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-86":  {
+                                                     "de":  "a",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-87":  {
+                                                     "de":  "b",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-88":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-89":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-90":  {
+                                                     "de":  "e",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-92":  {
+                                                     "de":  "b",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-93":  {
+                                                     "de":  "c",
+                                                     "para":  "d"
+                                                 },
+                     "filosofia-sociologia-94":  {
+                                                     "de":  "d",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-95":  {
+                                                     "de":  "e",
+                                                     "para":  "c"
+                                                 },
+                     "filosofia-sociologia-96":  {
+                                                     "de":  "a",
+                                                     "para":  "b"
+                                                 },
+                     "filosofia-sociologia-98":  {
+                                                     "de":  "c",
+                                                     "para":  "a"
+                                                 },
+                     "filosofia-sociologia-99":  {
+                                                     "de":  "d",
+                                                     "para":  "e"
+                                                 },
+                     "filosofia-sociologia-100":  {
+                                                      "de":  "e",
+                                                      "para":  "a"
+                                                  }
+                 }
+}

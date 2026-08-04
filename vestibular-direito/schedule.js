@@ -123,6 +123,31 @@ function takeWholeGroups(list, start, count, keyFn) {
   return saida;
 }
 
+// Empurra o ponto de rotação da janela circular para a frente até ele cair
+// numa fronteira de grupo.
+//
+// Sem isto, `bank[(offset + i) % bank.length]` corta o cluster em dois quando o
+// ponto de rotação cai no meio dele: a cauda vai parar no início da lista
+// girada e a cabeça no fim, e `groupRuns` — que só enxerga corridas contíguas —
+// passa a ver dois grupos legítimos em vez de um partido. O sintoma é discreto
+// e foi assim que apareceu: no dia 17 do plano, uma única questão de um texto
+// de três questões, sozinha, sem o texto irmão por perto. `takeWholeGroups`
+// estava correto; ele apenas recebia uma lista já mutilada.
+function snapOffsetToGroup(bank, offset, keyFn) {
+  const n = bank.length;
+  if (n === 0) return 0;
+  let i = offset % n;
+  const chaveAnterior = keyFn(bank[(i - 1 + n) % n]);
+  if (chaveAnterior === null || chaveAnterior === undefined) return i;
+  // O limite de n passos protege o caso degenerado de um banco inteiro sob um
+  // único textoId, em que não existe fronteira nenhuma para encontrar.
+  for (let passos = 0; passos < n; passos++) {
+    if (keyFn(bank[i]) !== chaveAnterior) return i;
+    i = (i + 1) % n;
+  }
+  return offset % n;
+}
+
 function hashString(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -305,7 +330,7 @@ function pickQuestions(subtopicId, visitIndex, day) {
   if (bank.length === 0) return [];
 
   const count = Math.min(pickExerciseCount(day, subtopicId), bank.length);
-  const offset = (visitIndex * count) % bank.length;
+  const offset = snapOffsetToGroup(bank, visitIndex * count, (q) => clusterKey(q));
 
   const circular = [];
   for (let i = 0; i < bank.length; i++) {
@@ -327,7 +352,9 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   if (bank.length === 0) return [];
 
   const baseCount = Math.min(pickExerciseCount(day, subtopicId), bank.length);
-  const offset = (visitIndex * baseCount) % bank.length;
+  // Tem de ser exatamente o mesmo offset de pickQuestions, snap incluído: é o
+  // que faz esta chamada continuar a MESMA janela de onde a outra parou.
+  const offset = snapOffsetToGroup(bank, visitIndex * baseCount, (q) => clusterKey(q));
   const circular = [];
   for (let i = 0; i < bank.length; i++) circular.push(bank[(offset + i) % bank.length]);
 
@@ -362,7 +389,7 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
     if (bank.length === 0) return;
     const count = Math.min(counts[i], bank.length);
-    const offset = (simuladoVisitIndex * count) % bank.length;
+    const offset = snapOffsetToGroup(bank, simuladoVisitIndex * count, (q) => clusterKey(q));
     const circular = [];
     for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
     takeWholeGroups(circular, 0, count, (q) => clusterKey(q)).forEach((q) => {

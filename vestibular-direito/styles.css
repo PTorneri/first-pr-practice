@@ -258,6 +258,13 @@ body {
   background: var(--bg); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px;
   font-size: 0.92rem; color: var(--ink-soft); white-space: pre-wrap;
 }
+/* Marca deixada no lugar do texto de apoio quando a questão anterior já o
+   mostrou. Ocupa uma linha para sinalizar que a questão pertence ao grupo de
+   cima, em vez de sumir e dar a impressão de questão solta. */
+.q-support-ref {
+  font-size: 0.8rem; color: var(--ink-soft); opacity: 0.75; margin-bottom: 10px;
+  padding-left: 10px; border-left: 3px solid var(--border);
+}
 .q-tag {
   display: inline-block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 0.04em;
   font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: 999px;

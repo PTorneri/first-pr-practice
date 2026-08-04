@@ -399,7 +399,9 @@
 
     const questionsContainer = card.querySelector(".questions");
     content.items.forEach((item, idx) => {
-      questionsContainer.appendChild(
+      appendGrouped(
+        questionsContainer,
+        item.question,
         renderQuestion(day, item.subtopicId, item.question, idx, item.area + " · " + item.subtopicNome)
       );
     });
@@ -1625,13 +1627,13 @@
 
     const essentialsContainer = card.querySelector(".essentials-questions");
     essentials.forEach((q, idx) => {
-      essentialsContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, idx));
+      appendGrouped(essentialsContainer, q, renderQuestion(day, lesson.subtopicId, q, idx));
     });
 
     const extrasBlock = card.querySelector(".extras-block");
     const extrasContainer = card.querySelector(".extras-questions");
     extras.forEach((q, idx) => {
-      extrasContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, essentialCount + idx));
+      appendGrouped(extrasContainer, q, renderQuestion(day, lesson.subtopicId, q, essentialCount + idx));
     });
 
     const actions = card.querySelector(".extras-actions");
@@ -1672,7 +1674,7 @@
           // hideSavedAnswer=true: sem "dia" pra rastrear por ocorrência, tratamos
           // como prática avulsa — sempre nasce zerada, mesmo critério do
           // Caderno de Erros.
-          extrasContainer.appendChild(renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }, true));
+          appendGrouped(extrasContainer, q, renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }, true));
         });
         extraPullCounts[extrasKey] = pulled + more.length;
         renderExtrasActions();
@@ -2471,6 +2473,35 @@
     if (!q.textoId) return "";
     const t = (window.QUESTION_TEXTS || {})[q.textoId];
     return (t && t.conteudo) || "";
+  }
+
+  // Anexa uma questão a um container colapsando o texto repetido do cluster.
+  //
+  // Um artigo de 1.900 caracteres impresso de novo em cada uma das quatro
+  // questões que o compartilham não é só feio: empurra as alternativas para
+  // fora da tela e desfaz justamente o que o agrupamento treina, que é
+  // sustentar uma leitura ao longo de várias perguntas.
+  //
+  // O "anterior" sai do DOM, e não de uma variável de closure, porque as
+  // questões extras puxadas pelo botão "puxar mais 10" são acrescentadas ao
+  // mesmo container muito depois, de outra chamada — ler o último filho é o
+  // único jeito de o colapso continuar valendo entre as duas levas.
+  //
+  // Quem anexa sem passar por aqui segue mostrando o texto em cada questão, e
+  // isso está certo: no Caderno de Erros a questão aparece sozinha, sem a
+  // anterior por perto para servir de referência.
+  function appendGrouped(container, q, node) {
+    const tid = (q && q.textoId) || "";
+    node.dataset.textoId = tid;
+    const anterior = container.lastElementChild;
+    if (tid && anterior && anterior.dataset && anterior.dataset.textoId === tid) {
+      const dup = node.querySelector(".q-support");
+      if (dup) {
+        dup.className = "q-support-ref";
+        dup.textContent = "Mesmo texto da questão anterior.";
+      }
+    }
+    container.appendChild(node);
   }
 
   const VISUAL_PATH_OK = /^assets\/[A-Za-z0-9._/-]+\.(svg|png|jpg|jpeg|webp)$/;

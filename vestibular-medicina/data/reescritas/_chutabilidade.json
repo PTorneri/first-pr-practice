@@ -1,0 +1,12 @@
+{
+    "biologia":  {
+                     "longaPct":  8.3,
+                     "absCertaPct":  6.7,
+                     "indice":  8.3,
+                     "n":  24
+                 },
+    "_global":  {
+                    "indice":  8.3,
+                    "n":  24
+                }
+}

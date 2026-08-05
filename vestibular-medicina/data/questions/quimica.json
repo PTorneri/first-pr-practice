@@ -1832,6 +1832,460 @@
                          "resposta":  "b",
                          "explicacao":  "O ácido neutraliza as hidroxilas em solução, e o equilíbrio se desloca no sentido de repor o que foi consumido — ou seja, dissolvendo mais sólido. É exatamente o que ocorre no estômago quando se toma leite de magnésia, e por isso o antiácido age enquanto houver acidez a neutralizar.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-121",
+                         "texto_apoio":  "O sangue humano mantém o pH numa faixa estreita, entre 7,35 e 7,45. O principal sistema responsável por essa estabilidade envolve o gás carbônico dissolvido, o ácido carbônico e o íon bicarbonato, em equilíbrio com a respiração e com a função renal.",
+                         "enunciado":  "Durante um quadro de hiperventilação prolongada, a eliminação excessiva de gás carbônico tende a provocar:",
+                         "alternativas":  {
+                                              "a":  "elevação do pH sanguíneo, porque a remoção de gás carbônico desloca o equilíbrio e reduz a concentração de íons hidrogênio",
+                                              "b":  "queda do pH sanguíneo, uma vez que a saída de gás carbônico aumenta a concentração de ácido carbônico remanescente no plasma do paciente",
+                                              "c":  "manutenção exata do pH original, já que o sistema tampão neutraliza integralmente qualquer variação decorrente da alteração respiratória",
+                                              "d":  "elevação do pH sanguíneo, porque o esforço muscular associado à hiperventilação produz ácido lático em quantidade compensatória no organismo",
+                                              "e":  "queda do pH sanguíneo, em razão da retenção de bicarbonato pelos rins durante o período em que a frequência respiratória se mantém elevada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Retirar gás carbônico desloca o equilíbrio no sentido de repô-lo, consumindo ácido carbônico e, com ele, íons hidrogênio. O pH sobe: é a alcalose respiratória. A alternativa (b) acerta o mecanismo do deslocamento mas inverte seu sentido, que é o ponto testado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-122",
+                         "texto_apoio":  "Uma bateria de íon-lítio de celular pode ser recarregada centenas de vezes. Durante o uso, ela funciona como pilha; durante a recarga, uma fonte externa inverte o sentido do processo.",
+                         "enunciado":  "Durante a recarga, o dispositivo funciona como ______, o processo é ______, e o eletrodo que durante o uso era o ânodo passa a ser ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "cuba eletrolítica – não espontâneo – o cátodo",
+                                              "b":  "pilha – espontâneo – o ânodo ainda, uma vez que a polaridade dos eletrodos permanece inalterada em todo o ciclo de uso e recarga do aparelho",
+                                              "c":  "cuba eletrolítica – espontâneo – o ânodo, já que o sentido do fluxo de elétrons no circuito externo não se altera durante a operação de recarga",
+                                              "d":  "pilha – não espontâneo – o cátodo, condição que decorre da inversão do sentido da corrente imposta pela fonte externa ligada ao dispositivo",
+                                              "e":  "célula de combustível – espontâneo – o eletrodo neutro, que não participa das reações de transferência de elétrons durante nenhuma das etapas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Na recarga, energia elétrica externa força a reação inversa: o dispositivo opera como cuba eletrolítica e o processo é não espontâneo. Com a inversão, o eletrodo que oxidava passa a receber elétrons e se torna o cátodo. Ânodo e cátodo são definidos pela reação, e não por um rótulo fixo no aparelho.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "quimica-123",
+                         "texto_apoio":  "Duas substâncias são testadas quanto à solubilidade: o iodo, apolar, e o cloreto de sódio, iônico. Cada uma é colocada em dois solventes: água, polar, e hexano, apolar.",
+                         "enunciado":  "Os resultados esperados indicam que o iodo se dissolve preferencialmente em ______ e o cloreto de sódio em ______, comportamento resumido pela regra de que ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "água – hexano – solventes polares dissolvem solutos apolares",
+                                              "b":  "hexano – água – semelhante dissolve semelhante",
+                                              "c":  "hexano – hexano – a solubilidade depende apenas da massa molar do soluto considerado em cada um dos dois casos analisados no experimento",
+                                              "d":  "água – água – todos os solutos apresentam maior afinidade pela água em razão de sua elevada constante dielétrica medida a 25 graus Celsius",
+                                              "e":  "hexano – água – a solubilidade é determinada exclusivamente pela temperatura em que o experimento de dissolução é conduzido no laboratório"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As interações entre soluto e solvente precisam compensar as que existiam em cada um separadamente. O iodo, apolar, interage bem com o hexano por forças de dispersão; o cloreto de sódio, iônico, é solvatado pelos polos da água. A regra prática é que semelhante dissolve semelhante.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "quimica-124",
+                         "texto_apoio":  "Uma amostra de 5,6 L de gás nitrogênio, medida nas condições normais de temperatura e pressão, reage completamente com hidrogênio para formar amônia. Nas CNTP, um mol de qualquer gás ocupa 22,4 L.",
+                         "enunciado":  "A quantidade de matéria de amônia formada é de:",
+                         "alternativas":  {
+                                              "a":  "0,25 mol",
+                                              "b":  "0,50 mol",
+                                              "c":  "1,00 mol",
+                                              "d":  "2,00 mol",
+                                              "e":  "5,60 mol"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "5,6 L nas CNTP correspondem a 0,25 mol de nitrogênio. Pela equação N2 + 3 H2 → 2 NH3, cada mol de nitrogênio gera dois de amônia: 0,25 x 2 = 0,50 mol. A alternativa (a) esquece o coeficiente 2 e apresenta a quantidade do reagente em vez da do produto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-125",
+                         "texto_apoio":  "O íon nitrato pode ser representado por três estruturas de Lewis equivalentes, que diferem apenas na posição da ligação dupla entre o nitrogênio e um dos três oxigênios. Medidas experimentais mostram que as três ligações nitrogênio-oxigênio têm exatamente o mesmo comprimento.",
+                         "enunciado":  "O fenômeno que concilia as três representações com o resultado experimental denomina-se:",
+                         "alternativas":  {
+                                              "a":  "ressonância, e a estrutura real é um híbrido intermediário entre as formas representadas",
+                                              "b":  "tautomeria, equilíbrio dinâmico em que a molécula alterna rapidamente entre as três formas representadas ao longo do tempo de observação",
+                                              "c":  "isomeria de posição, uma vez que a dupla ligação ocupa lugares diferentes em cada uma das estruturas propostas para representar o íon nitrato",
+                                              "d":  "hibridação, processo pelo qual os orbitais atômicos do nitrogênio se combinam e produzem três orbitais equivalentes de mesma energia total",
+                                              "e":  "polarização, decorrente da distribuição desigual da densidade eletrônica entre o átomo central e os três oxigênios ligados a ele na estrutura"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "As estruturas de ressonância não são formas que existem alternadamente: a espécie real é um híbrido único, com a densidade eletrônica distribuída igualmente. É por isso que as três ligações têm o mesmo comprimento, intermediário entre simples e dupla. Tautomeria, ao contrário, envolve espécies distintas em equilíbrio real.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-126",
+                         "texto_apoio":  "Compara-se a acidez de três compostos orgânicos em água: o etanol, o fenol e o ácido acético. Os valores de constante de ionização crescem nessa mesma ordem.",
+                         "enunciado":  "A maior acidez do ácido acético em relação aos demais se explica principalmente por:",
+                         "alternativas":  {
+                                              "a":  "a base conjugada ser estabilizada por ressonância entre os dois oxigênios do grupo carboxila",
+                                              "b":  "a molécula apresentar massa molar mais elevada, o que facilita a saída do próton durante o processo de ionização em meio aquoso diluído",
+                                              "c":  "o grupo metila ligado à carboxila ceder densidade eletrônica e assim reforçar a ligação entre o oxigênio e o hidrogênio ionizável presente",
+                                              "d":  "a presença de um anel aromático na estrutura, capaz de deslocalizar a carga negativa formada após a saída do próton da molécula original",
+                                              "e":  "sua maior solubilidade em água, que aumenta o número de moléculas disponíveis para participar do equilíbrio de ionização estabelecido"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Quanto mais estável a base conjugada, mais o equilíbrio favorece a ionização. No íon acetato a carga negativa se distribui igualmente entre dois oxigênios por ressonância. No fenolato há deslocalização pelo anel, mas menos eficaz; no etóxido não há deslocalização alguma. Daí a ordem observada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-127",
+                         "texto_apoio":  "Um álcool é aquecido a 170 °C na presença de ácido sulfúrico concentrado. O produto obtido apresenta uma insaturação entre carbonos, e há liberação de água ao longo do processo.",
+                         "enunciado":  "A reação descrita é classificada como:",
+                         "alternativas":  {
+                                              "a":  "eliminação, especificamente uma desidratação intramolecular que produz um alceno",
+                                              "b":  "adição, com incorporação de uma molécula de água à cadeia carbônica original do álcool empregado como reagente de partida na transformação",
+                                              "c":  "substituição, com troca do grupo hidroxila por um átomo de hidrogênio proveniente do ácido sulfúrico usado como catalisador da reação",
+                                              "d":  "oxidação, com aumento do número de oxidação do carbono ligado ao grupo hidroxila e formação de um composto carbonílico como produto final",
+                                              "e":  "esterificação, com formação de uma ligação entre o álcool e o ácido sulfúrico e liberação de uma molécula de água a cada etapa concluída"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A saída de água entre carbonos vizinhos deixa uma dupla ligação: é eliminação, ou desidratação intramolecular, favorecida a 170 °C. A temperaturas mais baixas, em torno de 140 °C, predomina a desidratação intermolecular, que produz éter em vez de alceno — a distinção depende da condição, não do reagente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-128",
+                         "texto_apoio":  "Uma enzima acelera uma reação bioquímica ao se ligar ao substrato numa região específica de sua estrutura. Um inibidor competitivo apresenta forma semelhante à do substrato e disputa essa mesma região.",
+                         "enunciado":  "O efeito de um inibidor competitivo sobre a reação pode ser revertido por:",
+                         "alternativas":  {
+                                              "a":  "aumento da concentração de substrato, que compete pelo sítio ativo em vantagem numérica",
+                                              "b":  "elevação da temperatura acima da faixa ótima da enzima, condição em que o inibidor perde afinidade pela região a que estava originalmente ligado",
+                                              "c":  "adição de mais inibidor ao meio, o que satura os sítios disponíveis e libera a enzima para atuar sobre o substrato presente na mistura reacional",
+                                              "d":  "redução do pH até valores fortemente ácidos, alteração que desnatura seletivamente o inibidor sem afetar a estrutura da enzima considerada",
+                                              "e":  "diluição do meio reacional, procedimento que reduz simultaneamente as concentrações das duas espécies e restabelece a atividade original"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A inibição competitiva é uma disputa pelo mesmo sítio, e o resultado depende das concentrações relativas. Aumentando o substrato, ele ocupa o sítio com mais frequência e a velocidade se recupera. É justamente essa reversibilidade por excesso de substrato que distingue a inibição competitiva da não competitiva.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-129",
+                         "texto_apoio":  "Um esquema apresenta o mecanismo de destruição do ozônio estratosférico por clorofluorcarbonos. A radiação ultravioleta rompe a ligação carbono-cloro, liberando um átomo de cloro que reage com o ozônio e é regenerado ao final do ciclo.",
+                         "enunciado":  "O fato de o átomo de cloro ser regenerado ao final de cada ciclo significa que ele atua como:",
+                         "alternativas":  {
+                                              "a":  "agente redutor, que transfere elétrons ao ozônio e o converte em oxigênio molecular numa reação que se encerra após uma única etapa",
+                                              "b":  "reagente limitante, consumido integralmente ao longo do processo e responsável por determinar a extensão máxima da destruição observada",
+                                              "c":  "produto intermediário estável, que se acumula na estratosfera e reduz progressivamente a velocidade da reação de destruição do ozônio",
+                                              "d":  "inibidor da reação, cuja presença retarda a decomposição natural do ozônio que ocorreria mesmo na ausência de compostos clorados na atmosfera",
+                                              "e":  "catalisador, e por isso uma única molécula destrói milhares de moléculas de ozônio"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Ser regenerado ao final do ciclo é a definição operacional de catalisador. Por isso a relação entre quantidade de CFC emitido e ozônio destruído é desproporcional — um átomo de cloro percorre o ciclo milhares de vezes antes de ser removido, e é isso que torna o problema tão persistente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-130",
+                         "texto_apoio":  "Um comprimido de medicamento contém 250 mg de princípio ativo e 750 mg de excipientes, entre eles amido, celulose microcristalina e estearato de magnésio.",
+                         "enunciado":  "A função dos excipientes na formulação é:",
+                         "alternativas":  {
+                                              "a":  "substituir parcialmente o princípio ativo em pacientes que apresentam sensibilidade à substância, reduzindo a dose efetivamente absorvida",
+                                              "b":  "potencializar a ação do princípio ativo, aumentando sua eficácia terapêutica em proporção à massa de cada componente adicionado à formulação",
+                                              "c":  "neutralizar os efeitos adversos do princípio ativo, atuando como antídotos preventivos administrados simultaneamente na mesma dose oral",
+                                              "d":  "prolongar indefinidamente o prazo de validade do medicamento, impedindo qualquer degradação química do princípio ativo durante o armazenamento",
+                                              "e":  "dar volume, promover a desintegração e facilitar a produção, sem atividade terapêutica"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Excipientes são farmacologicamente inertes. Eles dão massa suficiente para manipular o comprimido, controlam a desintegração e a liberação, e viabilizam a compressão industrial. Não potencializam nem substituem o princípio ativo, ainda que possam influenciar a velocidade de absorção.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-131",
+                         "texto_apoio":  "Considere o equilíbrio em fase gasosa 2 SO2(g) + O2(g) ⇌ 2 SO3(g), estabelecido em recipiente fechado a temperatura constante. Foram medidas a constante em termos de concentração, Kc, e a constante em termos de pressão parcial, Kp.",
+                         "enunciado":  "Sobre a relação entre Kc e Kp nesse equilíbrio, é correto afirmar que:",
+                         "alternativas":  {
+                                              "a":  "os valores só podem ser comparados após a conversão de todas as pressões parciais em frações molares dos componentes presentes na mistura",
+                                              "b":  "os valores são sempre idênticos, uma vez que ambos descrevem o mesmo estado de equilíbrio atingido pelo sistema nas condições estabelecidas",
+                                              "c":  "os valores são diferentes apenas em temperaturas superiores a cem graus Celsius, faixa em que o comportamento dos gases se afasta da idealidade",
+                                              "d":  "a constante em pressão é sempre maior, independentemente da estequiometria da reação considerada e das condições em que o equilíbrio se estabelece",
+                                              "e":  "os valores são diferentes, porque há variação no número de mols de gás entre reagentes e produtos"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As duas constantes se relacionam por um fator que depende da variação no número de mols de gás. Aqui, três mols de reagentes gasosos produzem dois de produto: a variação não é nula e os valores diferem. Só coincidiriam se o número de mols gasosos fosse igual nos dois lados.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-132",
+                         "texto_apoio":  "Um esquema apresenta os quatro níveis de organização estrutural de uma proteína. O nível I corresponde à sequência de aminoácidos; o II, a arranjos locais em hélice ou folha pregueada; o III, ao enovelamento tridimensional completo de uma cadeia; o IV, à associação de várias cadeias.",
+                         "enunciado":  "As interações que estabilizam predominantemente os níveis II e IV são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "pontes dissulfeto entre resíduos de cisteína e ligações de hidrogênio estabelecidas exclusivamente com as moléculas de água do meio aquoso",
+                                              "b":  "ligações peptídicas entre aminoácidos vizinhos e ligações covalentes formadas entre as extremidades das diferentes cadeias que compõem a proteína",
+                                              "c":  "ligações iônicas entre cadeias laterais carregadas e ligações peptídicas estabelecidas ao longo do esqueleto principal da molécula proteica",
+                                              "d":  "forças de dispersão entre porções apolares e ligações glicosídicas formadas entre resíduos de açúcar ligados à superfície da proteína descrita",
+                                              "e":  "ligações de hidrogênio entre grupos da cadeia principal e interações entre cadeias distintas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A estrutura secundária se estabiliza por ligações de hidrogênio entre carbonilas e aminas do esqueleto peptídico, o que produz hélices e folhas. A quaternária depende de interações entre cadeias polipeptídicas distintas. Ligações peptídicas, citadas em (b) e (c), definem a estrutura primária.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-133",
+                         "texto_apoio":  "Uma peça de ferro parcialmente submersa em água apresenta corrosão mais intensa na região próxima à linha d\u0027água, e não na porção mais profunda, onde o contato com a água é permanente.",
+                         "enunciado":  "O padrão observado é explicado pela formação de uma pilha de aeração diferencial, na qual:",
+                         "alternativas":  {
+                                              "a":  "o processo é puramente químico e independe de qualquer transferência de elétrons entre regiões distintas da mesma peça metálica submersa",
+                                              "b":  "a região mais oxigenada funciona como ânodo, uma vez que o oxigênio dissolvido acelera diretamente a oxidação do metal com que está em contato",
+                                              "c":  "as duas regiões apresentam o mesmo potencial elétrico, e a diferença observada decorre apenas da variação de temperatura ao longo da peça",
+                                              "d":  "a corrosão se concentra na linha d\u0027água porque ali a camada de óxido formada é mais espessa e protege o metal das porções mais profundas",
+                                              "e":  "a região menos oxigenada funciona como ânodo e sofre corrosão preferencial"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A diferença de concentração de oxigênio entre as regiões cria uma diferença de potencial. A porção pobre em oxigênio, mais profunda, oxida e funciona como ânodo, enquanto a região próxima à superfície, rica em oxigênio, atua como cátodo. É o mesmo mecanismo que corrói tubulações enterradas em solos heterogêneos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-134",
+                         "texto_apoio":  "Uma amostra desconhecida é submetida a teste de chama em laboratório. A chama assume coloração amarelo-intensa. Outra amostra produz chama violeta, e uma terceira, chama verde.",
+                         "enunciado":  "O fenômeno observado no teste de chama decorre de:",
+                         "alternativas":  {
+                                              "a":  "absorção seletiva de parte da luz emitida pela chama pelos íons metálicos presentes, o que subtrai determinadas cores do espectro visível",
+                                              "b":  "reações de combustão entre o metal presente na amostra e o oxigênio da chama, cujos produtos apresentam coloração própria e bem definida",
+                                              "c":  "vaporização do sal e dispersão de partículas sólidas incandescentes, cuja cor depende exclusivamente da temperatura atingida pela chama",
+                                              "d":  "ionização completa do metal na chama, processo que libera energia luminosa proporcional à carga adquirida por cada íon formado no processo",
+                                              "e":  "elétrons excitados retornarem ao estado fundamental emitindo luz de comprimento de onda característico"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O calor promove elétrons a níveis de energia mais altos. Ao decaírem, emitem fótons cuja energia corresponde exatamente à diferença entre os níveis, e essa diferença é característica de cada elemento. É a base da espectroscopia de emissão e do modelo atômico de Bohr.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-135",
+                         "texto_apoio":  "A fusão nuclear que ocorre no Sol combina núcleos de hidrogênio para formar hélio, liberando quantidades enormes de energia. Reatores de fusão em desenvolvimento na Terra buscam reproduzir o processo com isótopos de hidrogênio.",
+                         "enunciado":  "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
+                         "alternativas":  {
+                                              "a":  "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
+                                              "b":  "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
+                                              "c":  "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
+                                              "d":  "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão entre os núcleos",
+                                              "e":  "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Núcleos têm carga positiva e se repelem; vencer essa barreira exige energia cinética altíssima, o que significa temperaturas de milhões de graus e confinamento do plasma. A reação em cadeia de (a) é característica da fissão, não da fusão, e a fusão gera muito menos resíduo de vida longa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-136",
+                         "texto_apoio":  "Uma solução coloidal, como a gelatina ou a maionese, apresenta partículas dispersas maiores que as de uma solução verdadeira, mas pequenas o bastante para não sedimentarem espontaneamente. Um feixe de luz atravessando esse sistema torna-se visível lateralmente.",
+                         "enunciado":  "O fenômeno óptico descrito denomina-se ______, ocorre porque as partículas ______, e a separação dos componentes de um coloide pode ser feita por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "refração – desviam a trajetória do feixe luminoso – destilação fracionada conduzida sob pressão reduzida no interior de uma coluna",
+                                              "b":  "difração – absorvem parte da luz incidente – filtração simples em papel",
+                                              "c":  "efeito fotoelétrico – emitem elétrons ao serem atingidas pela luz – decantação prolongada em repouso durante várias horas seguidas",
+                                              "d":  "efeito Tyndall – espalham a luz incidente – ultracentrifugação",
+                                              "e":  "fluorescência – reemitem luz de comprimento de onda maior – cristalização fracionada realizada mediante resfriamento lento da mistura"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Partículas coloidais têm tamanho comparável ao comprimento de onda da luz visível e a espalham, tornando o feixe visível — o efeito Tyndall, que não ocorre em solução verdadeira. Elas atravessam papel de filtro comum, e por isso a separação exige ultracentrifugação ou membranas de porosidade muito fina.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "quimica-137",
+                         "texto_apoio":  "Análises forenses usam o teste de luminol para detectar vestígios de sangue em superfícies aparentemente limpas. Na presença de ferro da hemoglobina, o luminol reage com peróxido de hidrogênio e emite luz azulada visível no escuro.",
+                         "enunciado":  "O papel do ferro presente na hemoglobina nessa reação é o de:",
+                         "alternativas":  {
+                                              "a":  "inibidor da decomposição espontânea do peróxido, o que prolonga a duração da emissão luminosa e facilita o registro fotográfico da cena",
+                                              "b":  "fonte da luz emitida, uma vez que os elétrons do átomo de ferro são excitados e liberam fótons ao retornarem ao seu estado fundamental",
+                                              "c":  "reagente consumido em proporção estequiométrica com o luminol, o que permite quantificar a massa de sangue presente na superfície analisada",
+                                              "d":  "catalisador da oxidação do luminol pelo peróxido de hidrogênio",
+                                              "e":  "solvente do luminol, que sem essa mediação permaneceria insolúvel e incapaz de entrar em contato com o peróxido aplicado sobre a superfície"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O ferro acelera a oxidação do luminol sem ser consumido, o que caracteriza catálise. O produto dessa oxidação é formado em estado excitado e emite luz ao decair — a quimiluminescência. A luz vem do produto orgânico, e não do ferro, o que descarta (b).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-138",
+                         "texto_apoio":  "Uma reação apresenta energia de ativação elevada e ocorre muito lentamente à temperatura ambiente. Ao se aquecer o sistema em dez graus, observa-se que a velocidade praticamente dobra.",
+                         "enunciado":  "O efeito acentuado do aquecimento sobre a velocidade se explica porque a elevação da temperatura:",
+                         "alternativas":  {
+                                              "a":  "aumenta a concentração dos reagentes na mistura, uma vez que a dilatação térmica reduz o volume ocupado por cada uma das espécies presentes",
+                                              "b":  "reduz o valor da energia de ativação da reação, o que aproxima os reagentes do estado de transição necessário para que a transformação ocorra",
+                                              "c":  "desloca o equilíbrio da reação no sentido dos produtos, elevando o rendimento final obtido ao término do processo conduzido em sistema fechado",
+                                              "d":  "aumenta a fração de moléculas com energia suficiente para superar a barreira de ativação",
+                                              "e":  "converte parte das colisões não efetivas em efetivas ao alterar a orientação com que as moléculas se aproximam umas das outras no meio"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A distribuição de energias das moléculas se desloca com a temperatura, e a fração acima da energia de ativação cresce de forma acentuada — daí o efeito ser tão grande. A energia de ativação em si não muda com a temperatura: quem a reduz é o catalisador, o que torna (b) incorreta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-139",
+                         "texto_apoio":  "Uma amostra de 50 mL de solução de ácido clorídrico de concentração desconhecida recebe 100 mL de solução de hidróxido de sódio 0,10 mol/L, em excesso. O excesso de base é então titulado com ácido clorídrico 0,10 mol/L, consumindo 40 mL.",
+                         "enunciado":  "A quantidade de matéria de ácido presente na amostra original era de:",
+                         "alternativas":  {
+                                              "a":  "1,4 × 10⁻² mol",
+                                              "b":  "4,0 × 10⁻³ mol",
+                                              "c":  "1,0 × 10⁻² mol",
+                                              "d":  "6,0 × 10⁻³ mol",
+                                              "e":  "2,0 × 10⁻³ mol"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A base adicionada foi 0,10 x 0,100 = 1,0 x 10⁻² mol. O excesso, medido na titulação de retorno, foi 0,10 x 0,040 = 4,0 x 10⁻³ mol. A base que reagiu com a amostra foi a diferença: 6,0 x 10⁻³ mol, igual à quantidade de ácido original pela proporção 1:1.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-140",
+                         "texto_apoio":  "Um esquema representa a molécula de água e a de gás carbônico. As duas apresentam ligações polares entre átomos diferentes, mas apenas uma delas é uma molécula polar.",
+                         "enunciado":  "A molécula polar é a da água, e a razão da diferença está em:",
+                         "alternativas":  {
+                                              "a":  "a presença de dois pares de elétrons não ligantes no carbono do gás carbônico, que anulam qualquer polaridade resultante naquela molécula",
+                                              "b":  "a maior eletronegatividade do oxigênio em relação ao carbono, diferença que por si só determina a polaridade final de cada uma das moléculas",
+                                              "c":  "sua massa molar mais baixa, o que reduz a simetria da distribuição de cargas ao longo da estrutura tridimensional da molécula considerada",
+                                              "d":  "sua geometria angular, que impede o cancelamento dos vetores de polaridade das ligações",
+                                              "e":  "o número de átomos de cada molécula, sendo polares apenas aquelas formadas por um número ímpar de átomos ligados entre si na estrutura"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As duas moléculas têm ligações polares, mas no gás carbônico a geometria é linear e os dois vetores se cancelam. Na água, a geometria angular imposta pelos pares não ligantes do oxigênio impede o cancelamento, e resta um momento dipolar resultante. Polaridade da molécula depende da geometria, não só das ligações.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-141",
+                         "texto_apoio":  "Um elemento apresenta número atômico 26 e forma o cátion divalente presente na hemoglobina. A distribuição eletrônica do átomo neutro termina em 4s² 3d⁶.",
+                         "enunciado":  "A distribuição eletrônica do cátion divalente desse elemento termina em:",
+                         "alternativas":  {
+                                              "a":  "4s² 3d⁴, arranjo em que o subnível mais externo permanece completo e a retirada dos elétrons ocorre exclusivamente nos orbitais internos",
+                                              "b":  "3d⁴, uma vez que os dois elétrons retirados provêm do subnível de maior energia, que é o 3d segundo o diagrama de preenchimento adotado",
+                                              "c":  "3d⁶, porque os elétrons removidos saem do subnível 4s, mais externo",
+                                              "d":  "4s¹ 3d⁵, distribuição que resulta da retirada de um elétron de cada um dos dois subníveis mais externos do átomo neutro considerado",
+                                              "e":  "3d⁸, configuração obtida pela migração dos elétrons do subnível 4s para o 3d antes que a remoção da carga efetivamente ocorra no processo"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O preenchimento segue a ordem de energia crescente, mas a remoção segue a ordem de distância ao núcleo: saem primeiro os elétrons da camada mais externa, o 4s. O cátion divalente fica com 3d⁶. Essa inversão entre ordem de preenchimento e de remoção é o ponto que a questão testa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-142",
+                         "texto_apoio":  "Duas amostras do mesmo composto, obtidas por rotas diferentes, foram analisadas quanto à composição em massa. A primeira apresentou 40,0% de carbono, 6,7% de hidrogênio e 53,3% de oxigênio. A segunda apresentou exatamente os mesmos percentuais.",
+                         "enunciado":  "O resultado ilustra a lei:",
+                         "alternativas":  {
+                                              "a":  "das proporções múltiplas, aplicável quando dois elementos se combinam formando mais de um composto distinto entre si na mesma reação",
+                                              "b":  "da conservação da massa, segundo a qual a soma das massas dos reagentes iguala a soma das massas dos produtos em qualquer transformação",
+                                              "c":  "das proporções definidas, segundo a qual um composto tem composição fixa em massa",
+                                              "d":  "dos volumes de combinação, que estabelece relações numéricas simples entre os volumes dos gases participantes de uma reação química",
+                                              "e":  "de Avogadro, segundo a qual volumes iguais de gases diferentes contêm o mesmo número de moléculas nas mesmas condições de temperatura"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A lei de Proust afirma que um composto puro tem sempre a mesma proporção em massa entre seus elementos, seja qual for sua origem ou método de preparação. É o que os dois resultados idênticos demonstram. A lei das proporções múltiplas trataria de compostos diferentes formados pelos mesmos elementos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-143",
+                         "texto_apoio":  "Um esquema apresenta a substituição eletrofílica em um anel aromático. O benzeno reage com ácido nítrico em presença de ácido sulfúrico concentrado, produzindo nitrobenzeno e água.",
+                         "enunciado":  "O papel do ácido sulfúrico nessa reação é:",
+                         "alternativas":  {
+                                              "a":  "reduzir o ácido nítrico a óxido de nitrogênio, espécie que se incorpora diretamente ao anel aromático durante a etapa lenta do mecanismo",
+                                              "b":  "atuar como solvente da mistura reacional, permitindo o contato entre o benzeno apolar e o ácido nítrico dissolvido em meio aquoso concentrado",
+                                              "c":  "gerar o eletrófilo que ataca o anel aromático, protonando o ácido nítrico",
+                                              "d":  "neutralizar a água formada ao final da reação, o que desloca o equilíbrio no sentido do produto e eleva o rendimento obtido no processo",
+                                              "e":  "estabilizar o anel aromático durante o ataque, impedindo que ele sofra reações de adição concorrentes com a substituição pretendida"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O ácido sulfúrico protona o ácido nítrico, que perde água e gera o íon nitrônio — o eletrófilo forte capaz de atacar o anel. Sem essa ativação, o ácido nítrico sozinho não é eletrofílico o bastante para reagir com o benzeno, que é pouco reativo por causa da estabilidade aromática.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-144",
+                         "texto_apoio":  "Um recipiente contém uma solução saturada de cloreto de sódio em contato com cristais do sal não dissolvidos. O sistema é mantido a temperatura constante por vários dias, e a massa de sólido no fundo não se altera.",
+                         "enunciado":  "A ausência de variação na massa de sólido indica que:",
+                         "alternativas":  {
+                                              "a":  "a solução atingiu a supersaturação, condição em que o sólido remanescente deixa de interagir com as espécies dissolvidas no meio aquoso",
+                                              "b":  "os dois processos cessaram completamente, e nenhuma partícula atravessa mais a interface entre o sólido e a solução saturada que o envolve",
+                                              "c":  "dissolução e cristalização ocorrem com a mesma velocidade, num equilíbrio dinâmico",
+                                              "d":  "a temperatura constante impede qualquer movimento das partículas, o que congela o sistema no estado em que ele se encontrava inicialmente",
+                                              "e":  "o sólido presente é composto por impurezas insolúveis, e não pelo próprio cloreto de sódio que se encontra dissolvido na solução saturada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Equilíbrio não significa parada: íons continuam saindo do cristal e voltando a ele, e a massa constante reflete a igualdade entre as duas velocidades. É a mesma natureza dinâmica dos equilíbrios químicos, e experimentos com isótopos marcados demonstram essa troca contínua.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-145",
+                         "texto_apoio":  "O DNA é um polímero cujas unidades, os nucleotídeos, são formadas por três componentes. As duas fitas da molécula se mantêm unidas por interações entre as bases nitrogenadas voltadas para o interior da dupla-hélice.",
+                         "enunciado":  "Os três componentes de um nucleotídeo são ______, e as duas fitas se mantêm unidas por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "um açúcar, um ácido graxo e uma base nitrogenada – ligações iônicas formadas entre as cargas positivas e negativas das duas fitas complementares",
+                                              "b":  "um aminoácido, um grupo fosfato e uma base nitrogenada – ligações peptídicas estabelecidas entre resíduos situados em fitas opostas da hélice",
+                                              "c":  "um açúcar, um grupo fosfato e uma base nitrogenada – ligações de hidrogênio",
+                                              "d":  "um açúcar, um grupo fosfato e um aminoácido – ligações covalentes que unem diretamente as bases situadas em posições correspondentes",
+                                              "e":  "três grupos fosfato ligados em sequência – forças de dispersão de London atuando entre as regiões apolares das duas cadeias que compõem a molécula"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Cada nucleotídeo tem desoxirribose, fosfato e uma base. O esqueleto da fita é unido por ligações fosfodiéster, covalentes, mas o pareamento entre as duas fitas se dá por ligações de hidrogênio — duas entre adenina e timina, três entre citosina e guanina. É essa força moderada que permite a fita se abrir na replicação.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "quimica-146",
+                         "texto_apoio":  "Uma reação de neutralização entre ácido forte e base forte apresenta entalpia praticamente constante, em torno de −57 kJ por mol de água formada, independentemente de quais ácido e base sejam empregados.",
+                         "enunciado":  "A constância desse valor se explica porque, nesses casos, a reação efetivamente ocorrida é sempre:",
+                         "alternativas":  {
+                                              "a":  "a dissociação completa do ácido e da base em solução, processo que libera a mesma quantidade de energia em qualquer par considerado",
+                                              "b":  "a formação do sal correspondente, cuja energia de rede é aproximadamente igual em todos os compostos iônicos obtidos nesse tipo de reação",
+                                              "c":  "a combinação entre íons hidrogênio e hidroxila para formar água",
+                                              "d":  "a transferência de elétrons entre o cátion do ácido e o ânion da base, cujo saldo energético independe da natureza dos íons envolvidos",
+                                              "e":  "a solvatação dos íons formados pelas moléculas de água presentes no meio, etapa que domina o balanço energético de todo o processo descrito"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Ácidos e bases fortes já estão dissociados em solução; os demais íons permanecem como espectadores. A única transformação química é a união de íons hidrogênio com hidroxila formando água — sempre a mesma reação, e por isso sempre a mesma entalpia por mol de água.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-147",
+                         "texto_apoio":  "Nanopartículas de prata são incorporadas a tecidos e curativos por sua ação antimicrobiana. Na escala nanométrica, a mesma massa de material apresenta área superficial muito maior do que na forma macroscópica.",
+                         "enunciado":  "A eficácia ampliada das nanopartículas em relação à prata macroscópica decorre principalmente de:",
+                         "alternativas":  {
+                                              "a":  "sua composição química distinta, uma vez que a prata em escala nanométrica apresenta número atômico diferente do observado na forma macroscópica",
+                                              "b":  "sua área superficial muito maior por unidade de massa, o que amplia o contato com o meio",
+                                              "c":  "sua capacidade de se multiplicar no ambiente, o que mantém a concentração do agente antimicrobiano constante ao longo do tempo de uso",
+                                              "d":  "sua solubilidade completa em água, condição que permite distribuição uniforme do metal por toda a extensão do tecido tratado com o material",
+                                              "e":  "sua estabilidade química absoluta, que impede qualquer liberação de íons e garante a permanência indefinida do efeito antimicrobiano no produto"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Reduzir o tamanho da partícula aumenta enormemente a razão entre superfície e volume, e é na superfície que ocorre a liberação de íons prata responsáveis pelo efeito. A alternativa (e) contradiz o mecanismo: é justamente a liberação controlada de íons que produz a ação antimicrobiana.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-148",
+                         "texto_apoio":  "Um esquema representa a diferença entre um sistema aberto, um sistema fechado e um sistema isolado, quanto às trocas de matéria e de energia com a vizinhança.",
+                         "enunciado":  "Uma panela de pressão em uso sobre a chama, com a válvula funcionando normalmente, aproxima-se de um sistema:",
+                         "alternativas":  {
+                                              "a":  "fechado, uma vez que a tampa vedada impede qualquer saída de matéria enquanto o alimento é submetido ao aquecimento durante o cozimento",
+                                              "b":  "aberto, porque troca energia com a chama e libera vapor pela válvula",
+                                              "c":  "isolado, condição em que não há troca de matéria nem de energia com a vizinhança em nenhum momento do processo de preparo do alimento",
+                                              "d":  "fechado e adiabático, pois a espessura da parede metálica impede a transferência de calor entre o interior do recipiente e o ambiente externo",
+                                              "e":  "isolado durante o aquecimento e aberto apenas no momento em que a panela é retirada da chama e a pressão interna é aliviada pelo usuário"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A válvula libera vapor, ou seja, matéria atravessa a fronteira; e a chama transfere calor, ou seja, energia também. Os dois tipos de troca caracterizam sistema aberto. Se a válvula estivesse bloqueada, o sistema seria fechado — e a pressão subiria sem controle, que é justamente o risco que a válvula previne.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-149",
+                         "texto_apoio":  "Considere as espécies HCl, HBr e HI, todas dissolvidas em água. A força ácida cresce nessa ordem, apesar de o cloro ser o elemento mais eletronegativo dos três halogênios envolvidos.",
+                         "enunciado":  "A ordem crescente de acidez observada se explica principalmente por:",
+                         "alternativas":  {
+                                              "a":  "a eletronegatividade crescer do cloro para o iodo, o que enfraquece progressivamente a retenção do hidrogênio ionizável em cada molécula",
+                                              "b":  "a energia da ligação entre hidrogênio e halogênio diminuir conforme o átomo fica maior",
+                                              "c":  "a solubilidade em água aumentar ao longo da série, o que eleva o número de moléculas disponíveis para participar do equilíbrio de ionização",
+                                              "d":  "o caráter iônico da ligação aumentar do cloro para o iodo, o que faz a molécula se comportar como um sal completamente dissociado em água",
+                                              "e":  "a massa molar crescente favorecer a estabilização da molécula não ionizada, deslocando o equilíbrio no sentido da liberação do próton ao meio"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Do cloro ao iodo o átomo cresce, a sobreposição com o orbital do hidrogênio piora e a ligação enfraquece — fica mais fácil liberar o próton. Esse efeito supera o da eletronegatividade, que decresce na série e sozinho previria o contrário. A alternativa (a) inverte a tendência periódica da eletronegatividade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-150",
+                         "texto_apoio":  "Um laboratório precisa descartar resíduo contendo ácido sulfúrico concentrado. O procedimento recomendado envolve diluição cuidadosa seguida de neutralização com carbonato de sódio até pH próximo da neutralidade, antes do descarte na rede coletora.",
+                         "enunciado":  "Na etapa de diluição, a orientação de segurança é adicionar:",
+                         "alternativas":  {
+                                              "a":  "a água ao ácido, lentamente e sob agitação, para que o calor liberado seja distribuído uniformemente por todo o volume do recipiente utilizado",
+                                              "b":  "o ácido à água, lentamente e sob agitação, porque a mistura libera muito calor",
+                                              "c":  "os dois simultaneamente em um terceiro recipiente, o que evita a formação de gradientes de concentração durante a operação de diluição realizada",
+                                              "d":  "o carbonato de sódio diretamente ao ácido concentrado, o que dispensa a etapa de diluição e reduz o tempo total do procedimento de descarte",
+                                              "e":  "a água ao ácido em fluxo rápido, de modo que a diluição se complete antes que o calor liberado eleve a temperatura da mistura resultante"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A hidratação do ácido sulfúrico é fortemente exotérmica. Adicionando ácido à água, o grande volume de água absorve o calor. No caminho inverso, as primeiras gotas de água recebem todo o calor localmente e podem ferver, projetando ácido concentrado — daí a regra de nunca adicionar água ao ácido.",
+                         "formato":  "direta"
                      }
                  ]
 }

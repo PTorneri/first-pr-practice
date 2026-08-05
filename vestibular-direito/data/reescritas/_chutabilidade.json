@@ -12,9 +12,9 @@
                                 "n":  150
                             },
     "atualidades-geopolitica":  {
-                                    "longaPct":  23,
+                                    "longaPct":  18.5,
                                     "absCertaPct":  0,
-                                    "indice":  27.4,
+                                    "indice":  21.5,
                                     "n":  135
                                 },
     "ciencias-natureza":  {
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  21.3,
+                    "indice":  20.9,
                     "n":  2149
                 }
 }

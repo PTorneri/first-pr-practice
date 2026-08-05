@@ -550,12 +550,24 @@ foreach ($file in $files) {
   foreach ($q in $questoes) { if ($q.resposta -and $dist.ContainsKey($q.resposta)) { $dist[$q.resposta]++ } }
   $distTxt = ($LETRAS | ForEach-Object { "$_=$($dist[$_])" }) -join " "
 
-  # desvio de gabarito só é cobrado quando o banco já está todo em 5
+  # Desvio de gabarito só é cobrado quando o banco já está todo em 5.
+  #
+  # A janela era 12-28% e passou a 15-25% porque a antiga era mais larga do que
+  # a coisa que ela protege. O gabarito desbalanceado é uma via de chute que o
+  # índice de chutabilidade não enxerga: ele mede os três tells de conteúdo e
+  # ignora quem marca a mesma letra em tudo. Em atualidades-geopolitica a letra
+  # 'a' valia 28% -- passava calada no limite da janela e rendia MAIS que os
+  # 27,4% de chutabilidade medida da própria frente. Com 25% de teto, o pior
+  # caso admitido volta a ficar abaixo do índice de qualquer frente do banco.
   if ($cinco -eq $total -and $total -gt 0) {
     foreach ($l in $LETRAS) {
       $pct = 100.0 * $dist[$l] / $total
-      if ($pct -lt 12 -or $pct -gt 28) {
-        $avisos += "$nome : gabarito '$l' em $([math]::Round($pct,1))% (alvo ~20%)"
+      if ($pct -lt 15 -or $pct -gt 25) {
+        # Só o excesso é via de chute: a letra rara não rende nada a quem a
+        # marca sempre. Dizer "acerta 13,8%" no caso de baixo inverteria o
+        # sentido do aviso e mandaria consertar pelo lado errado.
+        $rot = if ($pct -gt 25) { " -- marcar sempre essa letra acerta $([math]::Round($pct,1))%" } else { " -- letra sub-representada" }
+        $avisos += "$nome : gabarito '$l' em $([math]::Round($pct,1))% (alvo ~20%)$rot"
       }
     }
   }

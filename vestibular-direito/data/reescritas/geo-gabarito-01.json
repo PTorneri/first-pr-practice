@@ -1,0 +1,67 @@
+{
+    "subtopic":  "atualidades-geopolitica",
+    "questoes":  [
+                     {
+                         "id":  "atualidades-geopolitica-03",
+                         "texto_apoio":  "Diferentemente de organizações puramente intergovernamentais, a União Europeia possui instituições, como a Comissão Europeia e o Tribunal de Justiça da UE, cujas decisões podem vincular diretamente os Estados-membros, inclusive sobre matérias antes de competência exclusivamente nacional.",
+                         "enunciado":  "Essa característica institucional da União Europeia é descrita como:",
+                         "alternativas":  {
+                                              "a":  "subsidiariedade orçamentária, princípio pelo qual cada Estado-membro custeia integralmente as políticas comunitárias que adota",
+                                              "b":  "supranacionalidade das instituições comunitárias europeias",
+                                              "c":  "unilateralismo normativo imposto por um único Estado-membro",
+                                              "d":  "intergovernamentalismo pleno, sem decisões vinculantes automáticas",
+                                              "e":  "soberania absoluta dos Estados-membros, sem cessão de competências"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "atualidades-geopolitica-08",
+                         "texto_apoio":  "Ao conceder empréstimos a países com dificuldades no balanço de pagamentos, o Fundo Monetário Internacional costuma exigir a adoção de determinadas políticas econômicas como contrapartida.",
+                         "enunciado":  "Essas exigências, associadas aos empréstimos concedidos, são conhecidas como:",
+                         "alternativas":  {
+                                              "a":  "direitos especiais de saque",
+                                              "b":  "barreiras não tarifárias",
+                                              "c":  "condicionalidades do FMI",
+                                              "d":  "sanções comerciais formais",
+                                              "e":  "tarifas compensatórias"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "As condicionalidades são compromissos de política econômica — como ajuste fiscal ou reformas estruturais — que países tomadores de empréstimos do FMI se comprometem a adotar como contrapartida ao financiamento recebido.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "atualidades-geopolitica-45",
+                         "texto_apoio":  "Um acordo comercial trilateral entre três países da América do Norte substituiu um tratado anterior, atualizando regras sobre origem de produtos automotivos, proteção trabalhista e comércio digital, entre outros temas.",
+                         "enunciado":  "Esse tipo de renegociação de acordos comerciais regionais reflete, sobretudo:",
+                         "alternativas":  {
+                                              "a":  "o fim completo de qualquer relação comercial entre os três países do acordo trilateral assinado",
+                                              "b":  "a substituição completa do comércio bilateral por comércio exclusivamente multilateral entre os três países",
+                                              "c":  "a conversão de acordos regionais em compromissos multilaterais firmados no âmbito da Organização Mundial do Comércio",
+                                              "d":  "a necessidade de adaptar acordos comerciais a mudanças econômicas, tecnológicas e políticas ocorridas com o tempo",
+                                              "e":  "a permanência estática das regras de comércio internacional ao longo do tempo, sem qualquer necessidade de atualização"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A renegociação de acordos comerciais regionais geralmente decorre da necessidade de atualizar regras diante de mudanças econômicas, tecnológicas (como o comércio digital) e políticas ocorridas desde a assinatura do acordo original, mantendo sua relevância para os países envolvidos.",
+                         "dificuldade":  "media",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "atualidades-geopolitica-53",
+                         "texto_apoio":  "Quando um país-membro considera que outro país-membro está descumprindo as regras acordadas em um organismo multilateral de comércio, ele pode formalmente contestar essa prática por meio de um procedimento específico, que pode resultar na autorização de retaliação comercial caso a violação seja confirmada.",
+                         "enunciado":  "Esse procedimento formal de resolução de controvérsias comerciais entre países-membros de um organismo multilateral é característico:",
+                         "alternativas":  {
+                                              "a":  "do Fundo Monetário Internacional, em suas condicionalidades de empréstimo",
+                                              "b":  "da Corte Internacional de Justiça, restrita a disputas territoriais entre Estados",
+                                              "c":  "do Tribunal Permanente de Arbitragem, competente para litígios comerciais entre Estados e empresas",
+                                              "d":  "do Conselho de Segurança da ONU, exclusivamente, para embargos comerciais",
+                                              "e":  "do mecanismo de solução de controvérsias da Organização Mundial do Comércio (OMC)"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O mecanismo de solução de controvérsias da OMC permite que países-membros contestem formalmente práticas comerciais consideradas incompatíveis com as regras multilaterais, podendo resultar, ao final do processo, na autorização de medidas de retaliação comercial caso a violação seja confirmada.",
+                         "dificuldade":  "media",
+                         "formato":  "direta"
+                     }
+                 ]
+}

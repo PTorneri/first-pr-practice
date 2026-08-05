@@ -1602,13 +1602,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Diferentemente de organizações puramente intergovernamentais, a União Europeia possui instituições, como a Comissão Europeia e o Tribunal de Justiça da UE, cujas decisões podem vincular diretamente os Estados-membros, inclusive sobre matérias antes de competência exclusivamente nacional.",
                                         "enunciado":  "Essa característica institucional da União Europeia é descrita como:",
                                         "alternativas":  {
-                                                             "a":  "supranacionalidade das instituições comunitárias europeias",
-                                                             "b":  "subsidiariedade orçamentária, princípio pelo qual cada Estado-membro custeia integralmente as políticas comunitárias que adota",
+                                                             "a":  "subsidiariedade orçamentária, princípio pelo qual cada Estado-membro custeia integralmente as políticas comunitárias que adota",
+                                                             "b":  "supranacionalidade das instituições comunitárias europeias",
                                                              "c":  "unilateralismo normativo imposto por um único Estado-membro",
                                                              "d":  "intergovernamentalismo pleno, sem decisões vinculantes automáticas",
                                                              "e":  "soberania absoluta dos Estados-membros, sem cessão de competências"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "b",
                                         "explicacao":  "A supranacionalidade caracteriza-se pela existência de instituições com poder de decisão que vinculam os Estados-membros independentemente de sua concordância caso a caso, em contraste com organizações puramente intergovernamentais, cujas decisões dependem do consenso entre governos.",
                                         "formato":  "direta"
                                     },
@@ -1677,13 +1677,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Ao conceder empréstimos a países com dificuldades no balanço de pagamentos, o Fundo Monetário Internacional costuma exigir a adoção de determinadas políticas econômicas como contrapartida.",
                                         "enunciado":  "Essas exigências, associadas aos empréstimos concedidos, são conhecidas como:",
                                         "alternativas":  {
-                                                             "a":  "condicionalidades do FMI",
+                                                             "a":  "direitos especiais de saque",
                                                              "b":  "barreiras não tarifárias",
-                                                             "c":  "direitos especiais de saque",
+                                                             "c":  "condicionalidades do FMI",
                                                              "d":  "sanções comerciais formais",
                                                              "e":  "tarifas compensatórias"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "c",
                                         "explicacao":  "As condicionalidades são compromissos de política econômica — como ajuste fiscal ou reformas estruturais — que países tomadores de empréstimos do FMI se comprometem a adotar como contrapartida ao financiamento recebido.",
                                         "formato":  "direta"
                                     },
@@ -1947,15 +1947,15 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Organizações regionais no continente africano têm buscado ampliar a cooperação política e econômica entre seus membros, incluindo a criação de uma área continental de livre comércio.",
                                         "enunciado":  "Iniciativas desse tipo, voltadas à integração econômica regional no continente africano, têm como principal objetivo declarado:",
                                         "alternativas":  {
-                                                             "a":  "reduzir barreiras ao comércio intra-africano e fortalecer a posição econômica conjunta dos países do continente",
-                                                             "b":  "impedir qualquer forma de investimento estrangeiro na região, restringindo o capital a fontes domésticas",
-                                                             "c":  "isolar o continente africano do comércio internacional, rompendo relações com blocos como a União Europeia",
+                                                             "a":  "isolar o continente africano do comércio internacional, rompendo relações com blocos como a União Europeia",
+                                                             "b":  "restringir o investimento estrangeiro na região, dando preferência a capital de origem africana",
+                                                             "c":  "reduzir barreiras ao comércio intra-africano e fortalecer a posição econômica conjunta do continente",
                                                              "d":  "substituir as moedas nacionais africanas por uma moeda única já em circulação no continente",
-                                                             "e":  "eliminar a soberania nacional dos países-membros em favor de uma autoridade supranacional única"
+                                                             "e":  "eliminar a soberania nacional dos países-membros em favor de uma autoridade supranacional"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "Iniciativas de integração regional africana, como áreas de livre comércio continentais, buscam reduzir barreiras tarifárias entre países africanos, estimular o comércio intrarregional e fortalecer a posição econômica conjunta do continente no cenário internacional.",
-                                        "formato":  "direta"
+                                        "resposta":  "c",
+                                        "formato":  "direta",
+                                        "explicacao":  "O comércio entre países africanos é historicamente baixo em relação ao que cada um faz com fora do continente, e a área continental de livre comércio existe para inverter isso e dar escala à negociação africana com terceiros. Em (b) está o distrator mais plausível, porque protecionismo e integração costumam andar juntos no imaginário: o objetivo declarado é abrir o comércio entre os membros, não fechar a região ao capital externo. Em (a), o isolamento é o oposto da proposta. Em (d) e (e), não há moeda única em circulação nem cessão de soberania."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-27",
@@ -2022,15 +2022,15 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "O número de satélites em órbita e de países e empresas privadas com capacidade de lançamento espacial cresceu significativamente nas últimas décadas.",
                                         "enunciado":  "A crescente presença de atores estatais e privados no espaço orbital tem levantado debates internacionais sobre:",
                                         "alternativas":  {
-                                                             "a":  "a regulação do uso do espaço, incluindo riscos de militarização e disputas por posições orbitais estratégicas",
-                                                             "b":  "a total impossibilidade de qualquer uso militar ou estratégico do espaço orbital por qualquer país",
-                                                             "c":  "a proibição já consolidada de qualquer atividade comercial em órbita, restrita por tratado a agências estatais",
-                                                             "d":  "a ausência completa de interesse comercial nesse domínio, restrito exclusivamente a fins científicos",
-                                                             "e":  "a exclusividade absoluta de um único país sobre todo o espaço orbital, vedada a demais Estados"
+                                                             "a":  "a ausência de interesse comercial nesse domínio, restrito a fins científicos e de pesquisa",
+                                                             "b":  "a impossibilidade técnica de uso militar do espaço orbital com a tecnologia hoje disponível",
+                                                             "c":  "a proibição, já consolidada por tratado, de atividade comercial em órbita fora das agências estatais",
+                                                             "d":  "a regulação do uso do espaço, incluindo riscos de militarização e disputas por posições orbitais",
+                                                             "e":  "a exclusividade de um único país sobre as órbitas geoestacionárias, reconhecida em tratado"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "O aumento de atores estatais e privados no espaço trouxe à tona debates sobre regulação internacional, incluindo riscos de militarização do espaço, acúmulo de detritos orbitais e disputas por posições orbitais estrategicamente valiosas, como as usadas por satélites de comunicação.",
-                                        "formato":  "direta"
+                                        "resposta":  "d",
+                                        "formato":  "direta",
+                                        "explicacao":  "Com mais atores em órbita, o debate passou a girar em torno de quem regula o quê: militarização, detritos e disputa pelas faixas orbitais mais valiosas, como as usadas por satélites de comunicação. Em (c) está o distrator mais bem informado: o Tratado do Espaço Exterior de 1967 realmente impõe limites, mas veda a apropriação soberana e o armamento nuclear, sem proibir atividade comercial — daí a expansão das empresas privadas. Em (a), o interesse comercial é justamente o que cresceu. Em (b) e (e), o uso militar já existe e nenhum país detém exclusividade orbital."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-32",
@@ -2052,15 +2052,15 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Após períodos de colonização, muitas ex-colônias mantiveram, por décadas, relações comerciais concentradas principalmente com suas antigas metrópoles, voltadas sobretudo à exportação de matérias-primas.",
                                         "enunciado":  "Esse padrão de comércio, herdado do período colonial e caracterizado pela exportação de produtos primários em troca de manufaturados, é apontado por parte dos analistas como fator que:",
                                         "alternativas":  {
-                                                             "a":  "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e metrópoles, dificultando a diversificação",
-                                                             "b":  "eliminou qualquer relação comercial entre ex-colônias e antigas metrópoles logo após a independência",
+                                                             "a":  "assegurou às ex-colônias termos de troca favoráveis, por garantir demanda estável para suas exportações",
+                                                             "b":  "eliminou a relação comercial entre ex-colônias e antigas metrópoles logo após a independência",
                                                              "c":  "garantiu desenvolvimento industrial imediato e equilibrado às ex-colônias, superando as antigas metrópoles",
                                                              "d":  "é integralmente desvinculado do processo histórico de colonização e das relações de dependência criadas",
-                                                             "e":  "assegurou às ex-colônias termos de troca favoráveis, por garantir demanda estável para suas exportações"
+                                                             "e":  "contribuiu para a manutenção de assimetrias econômicas entre ex-colônias e metrópoles"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "O padrão de comércio herdado do período colonial, baseado na exportação de matérias-primas e importação de manufaturados, é apontado por parte da literatura econômica como fator que contribuiu para a manutenção de assimetrias estruturais entre ex-colônias e antigas metrópoles, dificultando a diversificação e industrialização das primeiras.",
-                                        "formato":  "direta"
+                                        "resposta":  "e",
+                                        "formato":  "direta",
+                                        "explicacao":  "Exportar primário e importar manufaturado prende o país à ponta de menor valor agregado da cadeia, e a independência política não desfaz sozinha esse arranjo — é o argumento central da literatura sobre dependência. Em (a) está a leitura mais sedutora entre as erradas: demanda estável existe, mas os termos de troca dos produtos primários se deterioram ante os manufaturados, que é precisamente a tese de Prebisch e Singer. Em (c), não houve industrialização imediata. Em (b) e (d), o comércio permaneceu e a origem colonial é o ponto de partida da análise."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-34",
@@ -2240,13 +2240,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Um acordo comercial trilateral entre três países da América do Norte substituiu um tratado anterior, atualizando regras sobre origem de produtos automotivos, proteção trabalhista e comércio digital, entre outros temas.",
                                         "enunciado":  "Esse tipo de renegociação de acordos comerciais regionais reflete, sobretudo:",
                                         "alternativas":  {
-                                                             "a":  "a necessidade de adaptar acordos comerciais a mudanças econômicas, tecnológicas e políticas ocorridas com o tempo",
+                                                             "a":  "o fim completo de qualquer relação comercial entre os três países do acordo trilateral assinado",
                                                              "b":  "a substituição completa do comércio bilateral por comércio exclusivamente multilateral entre os três países",
                                                              "c":  "a conversão de acordos regionais em compromissos multilaterais firmados no âmbito da Organização Mundial do Comércio",
-                                                             "d":  "o fim completo de qualquer relação comercial entre os três países do acordo trilateral assinado",
+                                                             "d":  "a necessidade de adaptar acordos comerciais a mudanças econômicas, tecnológicas e políticas ocorridas com o tempo",
                                                              "e":  "a permanência estática das regras de comércio internacional ao longo do tempo, sem qualquer necessidade de atualização"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "d",
                                         "explicacao":  "A renegociação de acordos comerciais regionais geralmente decorre da necessidade de atualizar regras diante de mudanças econômicas, tecnológicas (como o comércio digital) e políticas ocorridas desde a assinatura do acordo original, mantendo sua relevância para os países envolvidos.",
                                         "dificuldade":  "media",
                                         "formato":  "direta"
@@ -2368,13 +2368,13 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Quando um país-membro considera que outro país-membro está descumprindo as regras acordadas em um organismo multilateral de comércio, ele pode formalmente contestar essa prática por meio de um procedimento específico, que pode resultar na autorização de retaliação comercial caso a violação seja confirmada.",
                                         "enunciado":  "Esse procedimento formal de resolução de controvérsias comerciais entre países-membros de um organismo multilateral é característico:",
                                         "alternativas":  {
-                                                             "a":  "do mecanismo de solução de controvérsias da Organização Mundial do Comércio (OMC)",
+                                                             "a":  "do Fundo Monetário Internacional, em suas condicionalidades de empréstimo",
                                                              "b":  "da Corte Internacional de Justiça, restrita a disputas territoriais entre Estados",
                                                              "c":  "do Tribunal Permanente de Arbitragem, competente para litígios comerciais entre Estados e empresas",
                                                              "d":  "do Conselho de Segurança da ONU, exclusivamente, para embargos comerciais",
-                                                             "e":  "do Fundo Monetário Internacional, em suas condicionalidades de empréstimo"
+                                                             "e":  "do mecanismo de solução de controvérsias da Organização Mundial do Comércio (OMC)"
                                                          },
-                                        "resposta":  "a",
+                                        "resposta":  "e",
                                         "explicacao":  "O mecanismo de solução de controvérsias da OMC permite que países-membros contestem formalmente práticas comerciais consideradas incompatíveis com as regras multilaterais, podendo resultar, ao final do processo, na autorização de medidas de retaliação comercial caso a violação seja confirmada.",
                                         "dificuldade":  "media",
                                         "formato":  "direta"
@@ -2480,16 +2480,16 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Um grupo de países produtores de petróleo coordena, periodicamente, metas de produção entre seus membros, buscando influenciar os preços internacionais do produto por meio do controle coordenado da oferta.",
                                         "enunciado":  "Essa forma de coordenação entre países produtores, buscando influenciar preços por meio de metas conjuntas de produção, caracteriza:",
                                         "alternativas":  {
-                                                             "a":  "um cartel de produtores, organizado para influenciar o mercado internacional de um recurso estratégico",
-                                                             "b":  "uma organização exclusivamente humanitária, sem qualquer objetivo econômico ou comercial",
+                                                             "a":  "uma organização de cooperação técnica, sem objetivo de intervir na formação de preços",
+                                                             "b":  "um cartel de produtores, organizado para influenciar o mercado de um recurso estratégico",
                                                              "c":  "uma união aduaneira, com tarifa externa comum sobre o petróleo entre países vizinhos",
-                                                             "d":  "um monopsônio, em que um único comprador determina o preço pago aos diversos produtores",
-                                                             "e":  "um mercado perfeitamente competitivo, sem qualquer coordenação entre ofertantes"
+                                                             "d":  "um monopsônio, em que um único comprador determina o preço pago aos diversos produtores do bem",
+                                                             "e":  "um mercado perfeitamente competitivo, em que nenhum ofertante influencia o preço"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "A coordenação entre países produtores de petróleo para definir metas conjuntas de produção, com o objetivo de influenciar os preços internacionais, caracteriza um cartel de produtores, mecanismo típico de organizações como a OPEP.",
+                                        "resposta":  "b",
                                         "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "formato":  "direta",
+                                        "explicacao":  "Ofertantes independentes que combinam quanto produzir para sustentar o preço formam um cartel — é a definição, e é o que a OPEP faz nas suas reuniões de cota. Em (d) está a confusão de conceito mais provável, porque monopsônio também descreve poder de mercado concentrado: só que do lado do comprador, e aqui a coordenação é entre vendedores. Em (e), a coordenação é o oposto de concorrência perfeita. Em (c), união aduaneira trata de tarifas de importação. Em (a), a intervenção no preço é o objetivo declarado."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-61",
@@ -3216,16 +3216,16 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "No continente africano, coexistem uma organização política continental voltada à cooperação diplomática e à resolução de conflitos entre seus membros, e uma iniciativa distinta, mais recente, voltada especificamente à criação de uma área de livre comércio abrangendo praticamente todos os países do continente.",
                                         "enunciado":  "Essas duas iniciativas africanas distintas — uma de natureza político-diplomática e outra de natureza comercial — diferenciam-se principalmente porque:",
                                         "alternativas":  {
-                                                             "a":  "a primeira tem enfoque político mais amplo, incluindo segurança e conflitos, enquanto a segunda foca no comércio",
-                                                             "b":  "a primeira restringe-se a questões de segurança coletiva, e a segunda, exclusivamente a políticas monetárias",
-                                                             "c":  "ambas compartilham exatamente o mesmo escopo, sendo apenas nomenclaturas distintas da mesma organização",
+                                                             "a":  "ambas compartilham exatamente o mesmo escopo, sendo apenas nomenclaturas distintas da mesma organização",
+                                                             "b":  "a primeira restringe-se à segurança coletiva, e a segunda, à política monetária do continente",
+                                                             "c":  "a primeira tem enfoque político amplo, com segurança e conflitos, e a segunda foca no comércio",
                                                              "d":  "a segunda substitui integralmente a primeira organização africana mais antiga, que teria deixado de existir",
-                                                             "e":  "essas duas iniciativas restringem sua adesão exclusivamente aos países do Magrebe, excluindo o restante do continente africano"
+                                                             "e":  "as duas iniciativas restringem sua adesão aos países do Magrebe, fora o restante do continente"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "Enquanto a organização política continental africana tem um mandato amplo que inclui cooperação diplomática, segurança e resolução de conflitos, a área de livre comércio continental é uma iniciativa mais recente e específica, voltada à redução de barreiras comerciais e à integração econômica entre os países do continente.",
+                                        "resposta":  "c",
                                         "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "formato":  "direta",
+                                        "explicacao":  "A União Africana tem mandato político largo — diplomacia, segurança, mediação de conflitos —, e a área continental de livre comércio é um instrumento econômico específico, negociado sob esse guarda-chuva. Em (b) está a leitura que estreita as duas na medida errada: reduzir a primeira à segurança coletiva ignora sua atuação diplomática, e a segunda trata de tarifas, não de moeda. Em (d), as duas coexistem. Em (a), os escopos são distintos. Em (e), a adesão é continental, não restrita ao Magrebe."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-107",
@@ -3248,16 +3248,16 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Um agrupamento de economias emergentes, inicialmente formado por um número reduzido de países, passou recentemente a incorporar novos membros de diferentes regiões, ampliando sua abrangência geográfica, mas também tornando mais complexa a busca por consenso entre interesses econômicos e políticos nem sempre alinhados.",
                                         "enunciado":  "Esse processo de expansão de membros em um agrupamento de países emergentes ilustra um desafio comum a blocos que se ampliam rapidamente, que é:",
                                         "alternativas":  {
-                                                             "a":  "o potencial aumento da dificuldade de alcançar consenso interno à medida que a diversidade de interesses cresce",
+                                                             "a":  "a garantia automática de maior coesão política à medida que mais membros são incorporados ao bloco",
                                                              "b":  "a conversão automática do agrupamento em organização internacional com personalidade jurídica própria",
                                                              "c":  "a obrigatoriedade de adoção de uma moeda única imediatamente após a expansão do bloco econômico",
-                                                             "d":  "a garantia automática de maior coesão política à medida que mais membros são incorporados ao bloco",
-                                                             "e":  "a eliminação de qualquer diferença de interesse entre os países membros após a expansão do grupo"
+                                                             "d":  "a maior dificuldade de alcançar consenso interno à medida que a diversidade de interesses cresce",
+                                                             "e":  "a eliminação das diferenças de interesse entre os países membros após a expansão do grupo"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "A ampliação do número de membros de um agrupamento internacional tende a aumentar a diversidade de interesses econômicos e políticos representados, o que pode tornar mais desafiador o processo de construção de consenso interno sobre pautas comuns, um dilema enfrentado por blocos em expansão.",
+                                        "resposta":  "d",
+                                        "formato":  "direta",
                                         "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Mais membros significam mais vetos possíveis: um agrupamento que decide por consenso ganha peso ao crescer e perde velocidade na mesma medida. Em (a) está a intuição contrária e bastante comum — associar tamanho a força política —, e ela ignora que coesão e peso são coisas diferentes. Em (b), agrupamentos informais não adquirem personalidade jurídica por expansão. Em (c), moeda única não decorre de ampliação de membros. Em (e), a diversidade aumenta, e é justamente ela o desafio descrito."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-109",
@@ -3472,16 +3472,16 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Durante um conflito armado envolvendo um importante país produtor e exportador de grãos, organizações internacionais mediaram um acordo temporário que permitiu a retomada parcial das exportações agrícolas por meio de um corredor marítimo específico, apesar da continuidade das hostilidades em outras áreas da região.",
                                         "enunciado":  "Esse tipo de acordo, que viabiliza a exportação de produtos essenciais mesmo durante a continuidade de um conflito armado em outras frentes, ilustra:",
                                         "alternativas":  {
-                                                             "a":  "como acordos pontuais e mediados internacionalmente podem mitigar impactos globais de conflitos sobre cadeias de suprimento",
-                                                             "b":  "que a segurança alimentar global depende exclusivamente do volume produzido, e não das rotas de escoamento",
+                                                             "a":  "a irrelevância do comércio agrícola para a segurança alimentar de outros países importadores",
+                                                             "b":  "que a segurança alimentar global depende do volume produzido, e não das rotas de escoamento",
                                                              "c":  "o fim definitivo e completo do conflito armado envolvido, uma vez firmado esse tipo de acordo comercial",
-                                                             "d":  "a total impossibilidade de qualquer cooperação entre partes em conflito armado, mesmo sobre temas humanitários",
-                                                             "e":  "a irrelevância do comércio agrícola para a segurança alimentar de outros países importadores"
+                                                             "d":  "a impossibilidade de cooperação entre partes em conflito armado, mesmo em temas humanitários",
+                                                             "e":  "como acordos pontuais mediados internacionalmente mitigam impactos globais sobre cadeias de suprimento"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "Acordos pontuais mediados internacionalmente para viabilizar exportações agrícolas durante conflitos armados demonstram como iniciativas diplomáticas específicas podem mitigar, ainda que parcialmente, os impactos globais de conflitos regionais sobre cadeias de suprimento essenciais, como a de alimentos, sem necessariamente encerrar o conflito como um todo.",
+                                        "resposta":  "e",
                                         "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "formato":  "direta",
+                                        "explicacao":  "Um corredor marítimo negociado no meio da guerra não encerra o conflito nem resolve a crise alimentar, mas reduz o dano de terceiros que dependem daquele grão — é diplomacia setorial e limitada, e é exatamente esse alcance parcial que a alternativa descreve. Em (b) está o distrator mais interessante, porque a produção realmente importa: o episódio mostra que ela não basta, já que o gargalo estava na rota, e não na safra. Em (c), as hostilidades seguiram. Em (d), o acordo é a prova de que a cooperação pontual é possível. Em (a), o impacto global foi imediato."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-123",
@@ -3504,16 +3504,16 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Determinadas pessoas não são reconhecidas como cidadãs de nenhum país, seja por falta de registro civil ao nascer, por sucessão de Estados que não as incluiu automaticamente em sua nova legislação de nacionalidade, ou por perda de cidadania sem aquisição de outra, ficando, na prática, sem acesso pleno a direitos básicos vinculados à nacionalidade, como emissão de documentos e proteção consular.",
                                         "enunciado":  "Essa condição jurídica, em que uma pessoa não é reconhecida como nacional por Estado algum, é conhecida como:",
                                         "alternativas":  {
-                                                             "a":  "apatridia, ausência de nacionalidade",
-                                                             "b":  "residência permanente sem cidadania",
-                                                             "c":  "dupla nacionalidade reconhecida",
-                                                             "d":  "asilo político permanente concedido",
-                                                             "e":  "naturalização plena e definitiva"
+                                                             "a":  "residência permanente sem cidadania do país de acolhida",
+                                                             "b":  "apatridia, ausência de nacionalidade",
+                                                             "c":  "dupla nacionalidade reconhecida por tratado",
+                                                             "d":  "asilo político concedido em caráter permanente",
+                                                             "e":  "naturalização plena, já concluída"
                                                          },
-                                        "resposta":  "a",
-                                        "explicacao":  "A apatridia é a condição jurídica de pessoas que não são reconhecidas como nacionais por nenhum Estado, o que as priva, na prática, de direitos básicos vinculados à cidadania, como emissão de documentos, proteção consular e, em muitos casos, acesso a serviços públicos essenciais.",
+                                        "resposta":  "b",
                                         "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "formato":  "direta",
+                                        "explicacao":  "Apátrida é quem nenhum Estado reconhece como nacional, condição tratada na Convenção de 1954 e que priva a pessoa de documento, proteção consular e, com frequência, de serviços públicos. Em (a) está a situação mais próxima e a que mais se confunde com ela: o residente permanente não é cidadão do país onde vive, mas continua sendo nacional de outro, e é essa diferença que decide a questão. Em (c) e (e), há nacionalidade, e não sua ausência. Em (d), o asilado conserva a nacionalidade de origem."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-125",

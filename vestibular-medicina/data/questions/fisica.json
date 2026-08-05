@@ -465,6 +465,459 @@
                          "resposta":  "b",
                          "explicacao":  "A diferença é de 30 dB, ou três fatores de dez: 10³ = 1.000 vezes. A alternativa (a) toma a diferença em decibéis como se fosse a razão de intensidades, confundindo escala logarítmica com escala linear — o erro mais comum nesse tipo de item.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-31",
+                         "texto_apoio":  "Um gráfico apresenta a velocidade de um veículo em função do tempo. Entre 0 e 10 s a curva é uma reta crescente de 0 a 20 m/s; entre 10 e 30 s permanece horizontal em 20 m/s; entre 30 e 40 s decresce linearmente até zero.",
+                         "enunciado":  "A distância total percorrida pelo veículo nos 40 s é de:",
+                         "alternativas":  {
+                                              "a":  "600 m",
+                                              "b":  "800 m",
+                                              "c":  "400 m",
+                                              "d":  "200 m",
+                                              "e":  "1.000 m"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A distância é a área sob o gráfico. O primeiro trecho é um triângulo: 10 x 20 ÷ 2 = 100 m. O segundo é um retângulo: 20 x 20 = 400 m. O terceiro é outro triângulo: 10 x 20 ÷ 2 = 100 m. O total é 600 m. Somar apenas os retângulos deixaria 400 m, valor oferecido em (c).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-32",
+                         "texto_apoio":  "Um bloco de 5,0 kg é abandonado do repouso no alto de um plano inclinado que forma 30° com a horizontal, sem atrito. Adote g = 10 m/s² e sen 30° = 0,50.",
+                         "enunciado":  "A aceleração adquirida pelo bloco ao longo do plano é de:",
+                         "alternativas":  {
+                                              "a":  "5,0 m/s²",
+                                              "b":  "10 m/s²",
+                                              "c":  "2,5 m/s²",
+                                              "d":  "8,7 m/s²",
+                                              "e":  "50 m/s²"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A componente do peso paralela ao plano é P x sen θ, e a aceleração vale g x sen 30° = 10 x 0,50 = 5,0 m/s². A massa não aparece no resultado, porque ela multiplica os dois lados da segunda lei — a alternativa (e) resulta de multiplicar a aceleração pela massa por engano.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-33",
+                         "texto_apoio":  "Uma mola de constante elástica 200 N/m é comprimida em 10 cm e usada para lançar horizontalmente um bloco de 0,40 kg sobre uma superfície sem atrito.",
+                         "enunciado":  "A velocidade adquirida pelo bloco ao se separar da mola é de:",
+                         "alternativas":  {
+                                              "a":  "2,2 m/s",
+                                              "b":  "5,0 m/s",
+                                              "c":  "1,0 m/s",
+                                              "d":  "10 m/s",
+                                              "e":  "0,50 m/s"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A energia elástica armazenada é kx² ÷ 2 = 200 x (0,10)² ÷ 2 = 1,0 J. Convertida integralmente em cinética: 1,0 = 0,40 x v² ÷ 2, logo v² = 5,0 e v ≈ 2,2 m/s. Usar a compressão em centímetros em vez de metros produz erros de duas ordens de grandeza.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-34",
+                         "texto_apoio":  "Uma barra homogênea de 4,0 m e 20 kg está apoiada em dois suportes: um na extremidade esquerda e outro a 3,0 m dela. Um objeto de 10 kg é colocado sobre a extremidade direita da barra. Adote g = 10 m/s².",
+                         "enunciado":  "Para que a barra permaneça em equilíbrio, é necessário que:",
+                         "alternativas":  {
+                                              "a":  "os torques em relação a qualquer ponto se anulem, além de a resultante das forças ser nula",
+                                              "b":  "apenas a soma das forças verticais seja nula, condição suficiente para garantir que um corpo extenso permaneça em repouso sob a ação delas",
+                                              "c":  "o centro de massa da barra coincida exatamente com a posição do suporte situado mais à direita da montagem descrita no enunciado",
+                                              "d":  "as duas forças de apoio tenham módulos iguais entre si, independentemente da posição em que cada um dos suportes esteja colocado",
+                                              "e":  "a massa do objeto colocado sobre a extremidade seja igual à da barra, única situação em que o sistema atinge o equilíbrio estático"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Para um corpo extenso, o equilíbrio exige duas condições: resultante de forças nula, que impede translação, e resultante de torques nula, que impede rotação. A alternativa (b) enuncia só a primeira, o que bastaria para um ponto material mas não para uma barra que pode girar em torno de um apoio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-35",
+                         "texto_apoio":  "Um satélite descreve órbita circular ao redor da Terra a uma altitude em que o período orbital é de 24 horas, permanecendo sempre sobre o mesmo ponto do equador.",
+                         "enunciado":  "A órbita descrita chama-se ______, e a força que mantém o satélite em trajetória circular é ______, dirigida ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "geoestacionária – a atração gravitacional – para o centro da Terra",
+                                              "b":  "polar – a força centrífuga – para fora da trajetória descrita pelo satélite ao longo de cada volta completa em torno do planeta",
+                                              "c":  "geoestacionária – a força centrífuga – tangencialmente à trajetória, no mesmo sentido em que o satélite se desloca em sua órbita",
+                                              "d":  "elíptica de baixa altitude – a atração gravitacional – para fora do centro do planeta em torno do qual o corpo se movimenta",
+                                              "e":  "polar – a atração gravitacional – tangencialmente à órbita descrita pelo corpo em movimento ao redor do planeta considerado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Período igual ao de rotação da Terra e posição fixa sobre o equador definem a órbita geoestacionária. A força centrípeta é a gravitacional, dirigida ao centro do planeta. A força centrífuga citada em (b) e (c) não é uma força real — ela só aparece em referenciais não inerciais.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "fisica-36",
+                         "texto_apoio":  "Dois corpos de massas diferentes são colocados em contato térmico dentro de um recipiente isolado. O corpo A está a 80 °C e o corpo B, a 20 °C. Após algum tempo, os dois atingem a mesma temperatura.",
+                         "enunciado":  "A temperatura final de equilíbrio:",
+                         "alternativas":  {
+                                              "a":  "depende das massas e dos calores específicos dos dois corpos envolvidos",
+                                              "b":  "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
+                                              "c":  "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
+                                              "d":  "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
+                                              "e":  "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O calor cedido por um iguala o recebido pelo outro, e cada parcela é o produto de massa, calor específico e variação de temperatura. A temperatura final é uma média ponderada por essas capacidades térmicas, e só coincide com a média aritmética quando os produtos massa vezes calor específico são iguais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-37",
+                         "texto_apoio":  "Uma panela metálica com cabo de baquelite é usada para ferver água em um fogão a gás. Observa-se que o fundo da panela aquece rapidamente, a água aquece por movimentos ascendentes e descendentes, e o cabo permanece frio ao toque.",
+                         "enunciado":  "Os três processos de transmissão de calor envolvidos na situação descrita são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "radiação em todos os três casos, uma vez que a energia sempre se propaga por ondas eletromagnéticas independentemente do meio material",
+                                              "b":  "radiação no metal, condução na água e convecção ao longo do cabo, que dissipa calor para o ambiente por meio de correntes de ar quente",
+                                              "c":  "convecção no metal, radiação na água e condução no cabo, sequência determinada pelo estado físico de cada um dos materiais envolvidos",
+                                              "d":  "condução no metal, radiação na água e convecção no cabo, arranjo que decorre das diferentes temperaturas atingidas em cada região da panela",
+                                              "e":  "condução no metal, convecção na água e baixa condutividade do cabo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Metais conduzem bem porque os elétrons livres transportam energia. Na água, o aquecimento no fundo reduz a densidade local e cria correntes ascendentes: convecção. A baquelite é isolante e transmite mal por condução, o que mantém o cabo frio — as três situações do enunciado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-38",
+                         "texto_apoio":  "Uma pessoa observa a própria imagem em um espelho plano, mantendo-se a 1,5 m dele. Em seguida, afasta-se mais 0,5 m.",
+                         "enunciado":  "Após o afastamento, a distância entre a pessoa e sua imagem passa a ser de:",
+                         "alternativas":  {
+                                              "a":  "1,0 m",
+                                              "b":  "2,0 m",
+                                              "c":  "3,0 m",
+                                              "d":  "0,5 m",
+                                              "e":  "4,0 m"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "No espelho plano, a imagem é simétrica em relação à superfície: fica tão atrás quanto o objeto está à frente. A 2,0 m do espelho, a imagem está a 2,0 m atrás, e a distância entre os dois é 4,0 m. A alternativa (b) confunde a distância pessoa-imagem com a distância pessoa-espelho.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-39",
+                         "texto_apoio":  "Uma lente delgada convergente tem distância focal de 20 cm. Um objeto é colocado a 60 cm da lente, sobre o eixo principal.",
+                         "enunciado":  "A distância da imagem à lente e sua natureza são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "20 cm, e a imagem se forma exatamente sobre o foco da lente, coincidindo com o ponto em que os raios paralelos convergem após a refração",
+                                              "b":  "15 cm, e a imagem é virtual e direita, condição que se verifica sempre que o objeto se encontra além do dobro da distância focal da lente",
+                                              "c":  "60 cm, e a imagem é real e do mesmo tamanho do objeto, situação característica das lentes convergentes em qualquer posição do objeto",
+                                              "d":  "80 cm, e a imagem é virtual e ampliada, resultado que decorre da soma entre a distância do objeto e a distância focal informada no enunciado",
+                                              "e":  "30 cm, e a imagem é real e invertida"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Pela equação de Gauss, 1/f = 1/p + 1/p\u0027, com f = 20 e p = 60: 1/p\u0027 = 1/20 − 1/60 = 2/60, logo p\u0027 = 30 cm. Valor positivo indica imagem real, que em lente convergente é sempre invertida. Com o objeto além do dobro do foco, a imagem é ainda menor que ele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-40",
+                         "texto_apoio":  "Uma fibra óptica conduz luz ao longo de grandes distâncias com pouca perda. O núcleo da fibra tem índice de refração maior que o da casca que o envolve, e a luz incide na interface com ângulos elevados.",
+                         "enunciado":  "O fenômeno que mantém a luz confinada no núcleo da fibra é:",
+                         "alternativas":  {
+                                              "a":  "a interferência construtiva entre os raios refletidos nas paredes internas, que amplifica progressivamente a intensidade do feixe conduzido",
+                                              "b":  "a difração, que faz a luz contornar os obstáculos encontrados ao longo do percurso e permanecer no interior do material transparente",
+                                              "c":  "a dispersão, que separa as diferentes cores do feixe e as mantém alinhadas ao longo do eixo central da fibra durante toda a propagação",
+                                              "d":  "a polarização, que orienta as vibrações do campo elétrico numa única direção e impede que a luz atravesse a fronteira entre os dois meios",
+                                              "e":  "a reflexão total, que ocorre acima do ângulo limite quando a luz vai do meio mais para o menos refringente"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Quando a luz tenta passar de um meio mais refringente para outro menos refringente com ângulo acima do limite, ela não refrata: reflete integralmente. A fibra é projetada para que a luz sempre incida acima desse ângulo, e por isso ela ricocheteia até a outra ponta sem escapar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-41",
+                         "texto_apoio":  "Um tubo sonoro aberto nas duas extremidades tem 34 cm de comprimento. A velocidade do som no ar é 340 m/s.",
+                         "enunciado":  "A frequência fundamental emitida por esse tubo é de:",
+                         "alternativas":  {
+                                              "a":  "100 Hz",
+                                              "b":  "250 Hz",
+                                              "c":  "1.000 Hz",
+                                              "d":  "1.360 Hz",
+                                              "e":  "500 Hz"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Num tubo aberto, o fundamental corresponde a meio comprimento de onda no interior do tubo: λ = 2L = 0,68 m. A frequência é v ÷ λ = 340 ÷ 0,68 = 500 Hz. A alternativa (b) resultaria de tratar o tubo como fechado numa extremidade, caso em que caberia um quarto de onda.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-42",
+                         "texto_apoio":  "Um bastão de vidro é atritado com um pano de seda e adquire carga positiva. Em seguida, é aproximado — sem tocar — de uma esfera metálica neutra montada sobre um suporte isolante.",
+                         "enunciado":  "Durante a aproximação, a esfera metálica:",
+                         "alternativas":  {
+                                              "a":  "perde parte de seus elétrons para o suporte isolante, o que reduz sua carga total e produz o desequilíbrio observado experimentalmente",
+                                              "b":  "adquire carga positiva por contato, uma vez que a proximidade entre os corpos permite a transferência direta de elétrons entre eles no ar",
+                                              "c":  "adquire carga negativa em toda a sua extensão, o que a faz ser atraída pelo bastão em razão da diferença de sinal estabelecida entre eles",
+                                              "d":  "permanece completamente inalterada, já que não houve contato físico entre os dois corpos durante a aproximação descrita no enunciado",
+                                              "e":  "sofre indução eletrostática, com separação de cargas, mas permanece neutra no total"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A presença da carga positiva atrai os elétrons livres do metal para a face próxima e deixa a face oposta positiva. A carga total continua nula: houve apenas redistribuição. Como a face próxima fica com sinal contrário ao do bastão, a atração predomina e a esfera é atraída, mesmo neutra.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-43",
+                         "texto_apoio":  "Uma carga de prova positiva de 2,0 × 10⁻⁶ C é colocada num ponto onde o campo elétrico tem intensidade de 5,0 × 10³ N/C.",
+                         "enunciado":  "A força elétrica que atua sobre a carga e sua direção em relação ao campo são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "2,5 × 10⁹ N, e a força tem o mesmo sentido do campo, resultado obtido pela divisão do campo pelo valor da carga colocada no ponto",
+                                              "b":  "2,5 × 10⁻¹⁰ N, e a força tem sentido oposto ao do campo, condição que se verifica para qualquer carga de prova colocada naquele ponto",
+                                              "c":  "1,0 × 10⁻² N, e a força tem sentido oposto ao do campo, uma vez que o campo elétrico sempre aponta para as cargas de sinal positivo",
+                                              "d":  "1,0 × 10⁻² N, e a força tem o mesmo sentido do campo",
+                                              "e":  "5,0 × 10³ N, e a direção depende exclusivamente da posição do ponto em relação à fonte que produz o campo elétrico considerado"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A força é o produto da carga pelo campo: 2,0 x 10⁻⁶ x 5,0 x 10³ = 1,0 x 10⁻² N. Para carga positiva, força e campo têm o mesmo sentido; para negativa, sentidos opostos. A alternativa (b) divide em vez de multiplicar e ainda generaliza o sentido para qualquer carga.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-44",
+                         "texto_apoio":  "Um circuito contém um gerador de força eletromotriz 12 V e resistência interna 1,0 Ω, ligado a um resistor externo de 5,0 Ω.",
+                         "enunciado":  "A corrente no circuito e a tensão nos terminais do gerador são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "2,0 A e 12 V, uma vez que a tensão nos terminais de um gerador é sempre igual à sua força eletromotriz durante o funcionamento normal",
+                                              "b":  "2,4 A e 12 V, valores que decorrem de se desprezar a resistência interna do gerador no cálculo da corrente que percorre o circuito fechado",
+                                              "c":  "12 A e 12 V, resultado obtido ao se dividir a força eletromotriz pela resistência interna do gerador utilizado na montagem do circuito",
+                                              "d":  "2,0 A e 10 V",
+                                              "e":  "1,0 A e 5,0 V, condição em que a corrente é limitada exclusivamente pelo valor do resistor externo ligado aos terminais do gerador"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A corrente é a força eletromotriz dividida pela resistência total: 12 ÷ (5,0 + 1,0) = 2,0 A. A tensão nos terminais é a força eletromotriz menos a queda interna: 12 − (2,0 x 1,0) = 10 V. Ela só igualaria a força eletromotriz se a corrente fosse nula, o que descarta (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-45",
+                         "texto_apoio":  "Um fio retilíneo é percorrido por corrente elétrica constante. Uma bússola colocada nas proximidades tem sua agulha desviada, e o desvio se inverte quando o sentido da corrente é invertido.",
+                         "enunciado":  "As linhas do campo magnético gerado por esse fio são ______, seu sentido é dado por ______, e a intensidade do campo ______ com a distância ao fio. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "retas radiais partindo do fio – a regra da mão direita – diminui de acordo com o quadrado da distância medida até o eixo do condutor",
+                                              "b":  "retas paralelas ao fio – a regra da mão esquerda – aumenta",
+                                              "c":  "circunferências concêntricas ao fio – a regra da mão esquerda – permanece constante em qualquer ponto do espaço ao redor do condutor",
+                                              "d":  "circunferências concêntricas ao fio – a regra da mão direita – diminui",
+                                              "e":  "elipses alongadas na direção da corrente – o sentido do movimento das cargas – aumenta proporcionalmente à corrente aplicada ao fio"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O campo de um fio retilíneo forma circunferências ao redor dele, num plano perpendicular ao condutor. A regra da mão direita relaciona o sentido da corrente ao do campo, e a intensidade cai com o inverso da distância — não com o quadrado, o que descarta (a).",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "fisica-46",
+                         "texto_apoio":  "Um transformador ideal tem 200 espiras no primário e 1.000 no secundário. O primário é ligado a uma tensão alternada de 110 V.",
+                         "enunciado":  "A tensão no secundário e a razão de o transformador não funcionar com corrente contínua são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "110 V, e porque a tensão se conserva na passagem entre os dois enrolamentos, variando apenas a corrente que percorre cada um deles",
+                                              "b":  "22 V, e porque a corrente contínua produz campo magnético de intensidade insuficiente para atravessar o núcleo do transformador utilizado",
+                                              "c":  "550 V, e porque a resistência das espiras do secundário impede a passagem de corrente contínua ao longo do enrolamento condutor montado",
+                                              "d":  "550 V, e porque a indução exige variação do fluxo magnético, que a corrente contínua não produz",
+                                              "e":  "5.500 V, e porque a corrente contínua se transforma em alternada ao atravessar o núcleo ferromagnético que une os dois enrolamentos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Num transformador ideal a razão das tensões iguala a das espiras: 110 x (1.000 ÷ 200) = 550 V. O funcionamento depende da variação do fluxo magnético no núcleo, e corrente contínua produz fluxo constante — sem variação, não há força eletromotriz induzida no secundário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-47",
+                         "texto_apoio":  "Um recipiente contém água e um bloco de gelo flutuando. O conjunto é observado até que todo o gelo derreta, sem trocas de calor com o exterior além das necessárias à fusão.",
+                         "enunciado":  "Após a fusão completa do gelo, o nível da água no recipiente:",
+                         "alternativas":  {
+                                              "a":  "sobe consideravelmente, uma vez que todo o volume do bloco de gelo, inclusive a porção emersa, se converte em água líquida ao final",
+                                              "b":  "sobe, porque a água líquida ocupa volume maior que o gelo de mesma massa em razão da menor densidade apresentada pelo estado sólido",
+                                              "c":  "desce, porque parte da água evapora durante o processo de fusão e escapa do recipiente na forma de vapor para o ambiente externo",
+                                              "d":  "permanece o mesmo, porque o volume submerso do gelo já correspondia ao volume da água que ele originaria",
+                                              "e":  "desce, porque a temperatura mais baixa da água resultante provoca contração do volume total contido no interior do recipiente utilizado"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O gelo flutua deslocando um volume de água cujo peso iguala o seu. Ao derreter, ele produz exatamente essa massa de água, que ocupa justamente o volume antes deslocado. O nível não muda — resultado que contraria a intuição de (a), e que explica por que o degelo marinho não eleva o nível do mar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-48",
+                         "texto_apoio":  "Uma pessoa empurra uma caixa pesada contra uma parede com toda a força que consegue, durante um minuto, sem que a caixa se mova nenhum centímetro.",
+                         "enunciado":  "Sobre o trabalho realizado pela força aplicada, é correto afirmar que ele é:",
+                         "alternativas":  {
+                                              "a":  "positivo e igual à energia consumida pelos músculos da pessoa durante o esforço realizado ao longo do intervalo de um minuto descrito",
+                                              "b":  "positivo e proporcional ao tempo durante o qual a força permaneceu aplicada sobre a caixa encostada na parede do ambiente considerado",
+                                              "c":  "negativo, uma vez que a parede exerce sobre a caixa uma força de reação de mesma intensidade e sentido oposto ao da força aplicada",
+                                              "d":  "nulo, porque não houve deslocamento na direção da força aplicada",
+                                              "e":  "indefinido, já que o trabalho só pode ser calculado quando se conhece a massa do corpo sobre o qual a força está sendo aplicada"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Trabalho em física é força vezes deslocamento na direção dela. Sem deslocamento, o trabalho é nulo por definição, ainda que a pessoa gaste energia metabólica e sinta cansaço. A alternativa (a) confunde trabalho mecânico com dispêndio fisiológico de energia — dois conceitos distintos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-49",
+                         "texto_apoio":  "Um elevador de carga eleva 800 kg a uma altura de 15 m em 20 s, com velocidade constante. Adote g = 10 m/s².",
+                         "enunciado":  "A potência mecânica média desenvolvida pelo motor é de:",
+                         "alternativas":  {
+                                              "a":  "600 W",
+                                              "b":  "120.000 W",
+                                              "c":  "6.000 W",
+                                              "d":  "12.000 W",
+                                              "e":  "400 W"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trabalho realizado contra a gravidade é m x g x h = 800 x 10 x 15 = 120.000 J. A potência é o trabalho dividido pelo tempo: 120.000 ÷ 20 = 6.000 W. A alternativa (b) apresenta o trabalho, e não a potência, esquecendo a divisão pelo intervalo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-50",
+                         "texto_apoio":  "Um recipiente em forma de U contém água e é aberto nas duas extremidades. Em um dos ramos, adiciona-se óleo, que não se mistura com a água e apresenta densidade menor que a dela.",
+                         "enunciado":  "No equilíbrio, observa-se que a coluna de óleo:",
+                         "alternativas":  {
+                                              "a":  "tem exatamente a mesma altura da coluna de água, condição imposta pelo princípio dos vasos comunicantes em qualquer situação de equilíbrio",
+                                              "b":  "é mais baixa que a de água acima do nível de separação, uma vez que o líquido menos denso exerce maior pressão por unidade de altura",
+                                              "c":  "é mais alta que a de água acima do nível de separação, porque tem densidade menor",
+                                              "d":  "se distribui igualmente entre os dois ramos do tubo, formando camadas de espessura idêntica sobre a superfície da água em cada lado",
+                                              "e":  "afunda até o fundo do tubo e desloca a água para cima nos dois ramos, elevando os níveis de forma simétrica em toda a montagem"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "No nível da interface, as pressões dos dois lados se igualam. Como pressão é densidade vezes gravidade vezes altura, o líquido menos denso precisa de mais altura para produzir a mesma pressão. O princípio dos vasos comunicantes só iguala níveis quando o líquido é o mesmo nos dois ramos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-51",
+                         "texto_apoio":  "Duas ondas de mesma frequência e amplitude propagam-se numa mesma corda em sentidos opostos e se superpõem. Em certos pontos a corda permanece parada; em outros, oscila com amplitude máxima.",
+                         "enunciado":  "Os pontos que permanecem parados e os de amplitude máxima chamam-se, respectivamente, ______ e ______, e a distância entre dois pontos parados consecutivos vale ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "nós – ventres – um comprimento de onda completo medido ao longo da corda em que as duas ondas se propagam simultaneamente",
+                                              "b":  "ventres – nós – um comprimento de onda",
+                                              "c":  "nós – ventres – meio comprimento de onda",
+                                              "d":  "cristas – vales – a quarta parte do comprimento de onda das duas ondas que se superpõem ao longo do meio material considerado",
+                                              "e":  "ventres – nós – meio comprimento de onda, distância que separa dois pontos consecutivos de amplitude nula na corda vibrante"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Onde a interferência é destrutiva a corda não se move: são os nós. Onde é construtiva, a oscilação é máxima: os ventres. Dois nós consecutivos distam meio comprimento de onda, o que é a base para calcular a frequência de instrumentos de corda a partir de seu comprimento.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "fisica-52",
+                         "texto_apoio":  "Uma pessoa nota que a água de uma piscina parece mais rasa do que realmente é quando observada de fora, de cima. Um objeto colocado no fundo aparenta estar mais próximo da superfície.",
+                         "enunciado":  "O fenômeno responsável por essa observação é:",
+                         "alternativas":  {
+                                              "a":  "a absorção da luz pela água, que reduz a intensidade dos raios provenientes das camadas mais profundas da piscina observada de cima",
+                                              "b":  "a reflexão na superfície da água, que devolve parte da luz ao observador e cria a impressão de que o fundo se encontra mais elevado",
+                                              "c":  "a refração, que desvia os raios ao passarem da água para o ar e forma imagem virtual acima da posição real",
+                                              "d":  "a difração dos raios luminosos ao contornarem as bordas do objeto submerso, o que altera a percepção de sua distância ao observador",
+                                              "e":  "a dispersão da luz branca em suas componentes coloridas, processo que desloca a imagem formada em relação à posição real do objeto"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Ao sair da água para o ar, cada raio se afasta da normal. O observador, que interpreta a luz como se viesse em linha reta, projeta o prolongamento dos raios num ponto mais alto que o objeto real. É o mesmo motivo pelo qual uma vara parcialmente submersa parece quebrada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-53",
+                         "texto_apoio":  "Um circuito é montado com dois resistores em série, de 4,0 Ω e 6,0 Ω, ligados a uma fonte de 20 V com resistência interna desprezível.",
+                         "enunciado":  "A tensão sobre o resistor de 6,0 Ω é de:",
+                         "alternativas":  {
+                                              "a":  "20 V",
+                                              "b":  "8,0 V",
+                                              "c":  "12 V",
+                                              "d":  "10 V",
+                                              "e":  "6,0 V"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A resistência total é 10 Ω e a corrente, 20 ÷ 10 = 2,0 A. Como em série a corrente é a mesma em todos os componentes, a tensão sobre o resistor de 6,0 Ω é 2,0 x 6,0 = 12 V. A alternativa (b) apresenta a tensão sobre o outro resistor da associação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-54",
+                         "texto_apoio":  "Uma partícula carregada positivamente entra numa região de campo magnético uniforme com velocidade perpendicular às linhas de campo.",
+                         "enunciado":  "Sobre o movimento subsequente da partícula, é correto afirmar que ela:",
+                         "alternativas":  {
+                                              "a":  "mantém trajetória retilínea, uma vez que a força magnética atua na mesma direção do movimento e não altera a direção da velocidade",
+                                              "b":  "acelera uniformemente na direção do campo magnético, ganhando energia cinética de forma contínua ao longo de todo o trajeto percorrido",
+                                              "c":  "descreve trajetória circular, e o campo magnético não realiza trabalho sobre ela",
+                                              "d":  "descreve trajetória parabólica, semelhante à de um projétil sob a ação exclusiva da atração gravitacional exercida pelo planeta Terra",
+                                              "e":  "é imediatamente freada até o repouso, porque a força magnética se opõe sempre ao sentido do deslocamento da partícula carregada no campo"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A força magnética é sempre perpendicular à velocidade, o que a torna centrípeta: a trajetória é circular. Sendo perpendicular ao deslocamento, ela não realiza trabalho, e por isso o módulo da velocidade e a energia cinética permanecem constantes — só a direção muda.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-55",
+                         "texto_apoio":  "Um termômetro de mercúrio registra 40 °C. Deseja-se converter essa leitura para as escalas Fahrenheit e Kelvin.",
+                         "enunciado":  "Os valores correspondentes nas escalas Fahrenheit e Kelvin são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "72 °F e 313 K",
+                                              "b":  "104 °F e 313 K",
+                                              "c":  "104 °F e 233 K",
+                                              "d":  "40 °F e 273 K",
+                                              "e":  "313 °F e 104 K"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Para Fahrenheit: (40 x 9 ÷ 5) + 32 = 72 + 32 = 104 °F. Para Kelvin: 40 + 273 = 313 K. A alternativa (a) esquece a soma de 32, que é a diferença entre os zeros das duas escalas — omissão que produz um valor sistematicamente baixo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-56",
+                         "texto_apoio":  "A água apresenta comportamento anômalo entre 0 °C e 4 °C: ao ser aquecida nesse intervalo, seu volume diminui em vez de aumentar. Acima de 4 °C, ela se comporta como a maioria das substâncias.",
+                         "enunciado":  "Uma consequência ecológica direta desse comportamento é que:",
+                         "alternativas":  {
+                                              "a":  "os lagos congelam do fundo para a superfície, o que elimina qualquer possibilidade de sobrevivência da fauna aquática durante o inverno rigoroso",
+                                              "b":  "lagos congelam de cima para baixo, e a camada de gelo isola a água líquida abaixo dela",
+                                              "c":  "a temperatura da água de um lago permanece uniforme em toda a sua profundidade ao longo de todas as estações do ano na mesma região",
+                                              "d":  "a evaporação da água aumenta durante o inverno, o que reduz progressivamente o volume total dos corpos hídricos das regiões temperadas",
+                                              "e":  "os organismos aquáticos precisam migrar anualmente para regiões mais quentes, já que nenhuma camada líquida permanece disponível no inverno"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A água a 4 °C é a mais densa e se acomoda no fundo; a mais fria, menos densa, sobe e congela na superfície. O gelo formado flutua e isola termicamente a coluna abaixo, que permanece líquida — é isso que permite a vida aquática atravessar o inverno em lagos congelados.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-57",
+                         "texto_apoio":  "Um martelo de 1,0 kg atinge um prego com velocidade de 6,0 m/s e para completamente em 0,010 s ao transferir seu movimento.",
+                         "enunciado":  "A força média exercida pelo martelo sobre o prego durante o impacto é de:",
+                         "alternativas":  {
+                                              "a":  "60 N",
+                                              "b":  "600 N",
+                                              "c":  "6,0 N",
+                                              "d":  "6.000 N",
+                                              "e":  "0,060 N"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Pelo teorema do impulso, F x Δt = Δ(mv). A variação da quantidade de movimento é 1,0 x 6,0 = 6,0 kg·m/s, e dividindo pelo intervalo: 6,0 ÷ 0,010 = 600 N. É o mesmo raciocínio do cinto de segurança: quanto menor o tempo de parada, maior a força.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-58",
+                         "texto_apoio":  "Um aluno afirma que, ao empurrar uma parede, ele exerce sobre ela uma força maior do que a que a parede exerce sobre ele, e que é por isso que ele consegue se manter no lugar.",
+                         "enunciado":  "A afirmação está incorreta porque, pela terceira lei de Newton:",
+                         "alternativas":  {
+                                              "a":  "as duas forças têm intensidades diferentes sempre que os corpos envolvidos apresentam massas distintas entre si na interação considerada",
+                                              "b":  "as duas forças têm sempre a mesma intensidade e atuam em corpos diferentes",
+                                              "c":  "a força exercida pela parede é sempre maior, o que impede que ela seja deslocada pela pessoa que a empurra durante a interação descrita",
+                                              "d":  "as duas forças se cancelam mutuamente, o que explica por que nenhum dos dois corpos adquire aceleração durante o contato estabelecido",
+                                              "e":  "apenas a pessoa exerce força, já que a parede é um corpo inanimado e incapaz de originar qualquer interação com os objetos ao seu redor"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Ação e reação têm sempre o mesmo módulo e sentidos opostos, e atuam em corpos diferentes. Por isso não se cancelam, o que descarta (d) — cancelamento exigiria que agissem no mesmo corpo. Quem impede a pessoa de deslizar é o atrito com o chão, e não uma suposta força maior da parede.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-59",
+                         "texto_apoio":  "Um raio de luz branca atravessa um prisma de vidro e emerge decomposto em várias cores, formando um espectro contínuo do vermelho ao violeta.",
+                         "enunciado":  "A separação das cores ocorre porque, no vidro:",
+                         "alternativas":  {
+                                              "a":  "cada cor é absorvida em profundidade distinta e reemitida em direções separadas ao sair pela face oposta do prisma de vidro utilizado",
+                                              "b":  "o índice de refração varia com a frequência da luz, desviando cada cor num ângulo diferente",
+                                              "c":  "a velocidade da luz é a mesma para todas as cores, mas o caminho percorrido por cada uma difere em razão da geometria triangular adotada",
+                                              "d":  "a luz branca se converte em outras cores ao interagir com os átomos do material, num processo de emissão que independe do ângulo de entrada",
+                                              "e":  "as ondas de cores diferentes interferem entre si dentro do material e emergem separadas por efeito da superposição estabelecida no interior"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O índice de refração depende da frequência: o violeta é mais desviado que o vermelho porque enxerga um índice maior. A luz branca já continha todas as cores — o prisma apenas as separa espacialmente, e não as cria, o que descarta (d).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "fisica-60",
+                         "texto_apoio":  "Uma usina hidrelétrica aproveita a queda de água de uma barragem de 80 m de altura, com vazão de 500 kg de água por segundo. Adote g = 10 m/s².",
+                         "enunciado":  "Supondo rendimento de 100%, a potência elétrica gerada seria de:",
+                         "alternativas":  {
+                                              "a":  "40 kW",
+                                              "b":  "400 kW",
+                                              "c":  "4,0 MW",
+                                              "d":  "800 kW",
+                                              "e":  "40 MW"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A energia potencial disponibilizada por segundo é m x g x h por unidade de tempo: 500 x 10 x 80 = 400.000 W, ou 400 kW. A potência é justamente energia por tempo, e como a vazão já está em quilogramas por segundo o cálculo entrega diretamente a potência.",
+                         "formato":  "direta"
                      }
                  ]
 }

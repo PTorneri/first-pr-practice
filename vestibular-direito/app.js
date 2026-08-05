@@ -2506,7 +2506,7 @@
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = "rumo-fgv-insper-progresso.json";
+      a.download = "aprovai-direito-progresso.json";
       a.click();
       URL.revokeObjectURL(url);
     });

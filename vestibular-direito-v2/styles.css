@@ -1,6 +1,6 @@
 :root {
-  /* Identidade "Rumo à FGV/Insper": o cabeçalho fica sempre em azul-marinho,
-     independente do modo claro/escuro do restante do app. */
+  /* Identidade AprovAI: o cabeçalho fica sempre em azul-marinho — o mesmo azul
+     da placa do logo — independente do modo claro/escuro do restante do app. */
   --header-bg: #0A2540;
   --header-ink: #ffffff;
   --header-ink-soft: #9fb2c9;
@@ -105,6 +105,15 @@ body {
 .onboarding-logo-wrap { text-align: center; margin-bottom: 18px; }
 .onboarding-logo { width: 92px; height: auto; }
 .onboarding-card h1 { margin: 0 0 8px; font-size: 1.6rem; }
+
+/* O "AI" de AprovAI, em azul como no logo. É o único trecho de texto do app
+   em que a cor faz parte do nome, então vale um azul próprio e não var(--accent)
+   — o accent muda com o tema e é usado em botão, o que aqui não se aplica. */
+.brand-ai { color: #2B54C8; }
+@media (prefers-color-scheme: dark) {
+  /* #2B54C8 sobre o cartão escuro fica quase ilegível. */
+  .brand-ai { color: #7AA0F5; }
+}
 .subtitle { color: var(--ink-soft); margin: 0 0 20px; }
 .pitch-list { margin: 0 0 24px; padding-left: 20px; color: var(--ink-soft); }
 .pitch-list li { margin-bottom: 6px; }
@@ -155,6 +164,9 @@ body {
 }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--header-ink); }
 .brand-logo { height: 32px; width: auto; display: block; }
+/* O cabeçalho é sempre azul-marinho, nos dois temas — por isso o "AI" aqui é
+   claro sempre, sem depender do prefers-color-scheme. */
+.brand .brand-ai { color: #7AA0F5; }
 .tabs { display: flex; gap: 4px; background: var(--header-pill-bg); border-radius: 999px; padding: 4px; }
 .tab-btn {
   border: none; background: transparent; padding: 8px 16px; border-radius: 999px;

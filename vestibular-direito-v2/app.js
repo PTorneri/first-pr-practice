@@ -316,12 +316,13 @@
 
   // Tudo o que era texto de Direito cravado no HTML passa por aqui. É chamado
   // uma vez, no boot, antes de qualquer render — se rodasse depois, a pessoa
-  // veria "Rumo à FGV & Insper" piscar numa trilha de Medicina.
+  // veria "— Direito" piscar numa trilha de Medicina.
   function aplicarTrilhaNaUI() {
     const cfg = TRILHA_CFG;
     if (!cfg) return;
 
-    document.title = cfg.nome + " — Plano de 90 dias";
+    // document.title não aceita markup: aqui vai a forma de texto da marca.
+    document.title = window.VD_MARCA.texto + " — " + cfg.nome + " · Plano de 90 dias";
 
     const marca = document.querySelector(".brand span");
     if (marca) marca.innerHTML = cfg.marca;
@@ -2833,7 +2834,7 @@
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = "rumo-fgv-insper-progresso.json";
+      a.download = "aprovai-" + TRILHA_CFG.id + "-progresso.json";
       a.click();
       URL.revokeObjectURL(url);
     });

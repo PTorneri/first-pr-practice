@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Rumo à FGV/Insper — Plano de 90 dias (v2)</title>
-<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<title>AprovAI — Plano de 90 dias (v2)</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/logo.png">
 <!-- O GitHub Pages serve os arquivos com Cache-Control: max-age=600, então quem
      já visitou continua vendo a versão antiga do CSS/JS por até 10 minutos após
      uma publicação. O ?v= abaixo muda a URL do arquivo e força o navegador a
@@ -31,7 +32,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=8">
+<link rel="stylesheet" href="styles.css?v=9">
 </head>
 <body>
 <div id="app">
@@ -40,9 +41,11 @@
   <section id="view-login" class="view">
     <div class="card onboarding-card login-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.svg" alt="Rumo à FGV/Insper Direito">
+        <img class="onboarding-logo" src="assets/logo.png" alt="AprovAI">
       </div>
-      <h1>Rumo à FGV &amp; Insper — Direito</h1>
+      <!-- Sem o curso: nesta tela ainda não se sabe qual trilha é. Quem já
+           escolheu vê "AprovAI — Direito"/"— Medicina", posto por app.js. -->
+      <h1>Aprov<span class="brand-ai">AI</span></h1>
       <p class="subtitle">Entre com sua conta Google para salvar seu progresso na nuvem e continuar
       de onde parou em qualquer aparelho — computador, celular ou tablet.</p>
       <ul class="pitch-list">
@@ -71,7 +74,7 @@
   <section id="view-sync-error" class="view" hidden>
     <div class="card onboarding-card login-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.svg" alt="">
+        <img class="onboarding-logo" src="assets/logo.png" alt="">
       </div>
       <h1>Não consegui carregar seu progresso</h1>
       <p class="subtitle">Você entrou na conta, mas não deu pra buscar o seu plano na nuvem —
@@ -89,7 +92,7 @@
   <section id="view-escolha-trilha" class="view" hidden>
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.svg" alt="">
+        <img class="onboarding-logo" src="assets/logo.png" alt="">
       </div>
       <h1>Para qual curso você vai estudar?</h1>
       <p class="subtitle">Cada trilha tem seu próprio plano de 90 dias, montado a partir do formato
@@ -104,9 +107,9 @@
   <section id="view-onboarding" class="view" hidden>
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.svg" alt="Rumo à FGV/Insper Direito">
+        <img class="onboarding-logo" src="assets/logo.png" alt="AprovAI">
       </div>
-      <h1>Rumo à FGV &amp; Insper — Direito</h1>
+      <h1>Aprov<span class="brand-ai">AI</span></h1>
       <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
       Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
       <ul class="pitch-list">
@@ -139,8 +142,8 @@
   <div id="view-main" class="view" hidden>
     <header class="topbar">
       <div class="brand">
-        <img class="brand-logo" src="assets/logo.svg" alt="">
-        <span>Rumo à FGV &amp; Insper</span>
+        <img class="brand-logo" src="assets/logo.png" alt="">
+        <span>Aprov<span class="brand-ai">AI</span></span>
       </div>
       <nav class="tabs">
         <button class="tab-btn active" data-tab="hoje">Hoje</button>
@@ -255,9 +258,9 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=8"></script>
-<script src="schedule.js?v=8"></script>
-<script src="app.js?v=8"></script>
-<script type="module" src="auth.js?v=8"></script>
+<script src="trilhas.js?v=9"></script>
+<script src="schedule.js?v=9"></script>
+<script src="app.js?v=9"></script>
+<script type="module" src="auth.js?v=9"></script>
 </body>
 </html>

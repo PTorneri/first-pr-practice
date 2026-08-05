@@ -11,7 +11,9 @@
 # (vestibular-direito/serve.ps1 continua existindo pra rodar só o v1 na 8843.)
 
 $root = $PSScriptRoot
-$port = 8844
+# 8844 é o padrão; $env:PORT permite subir uma segunda instância sem conflito
+# quando a 8844 já está ocupada.
+$port = if ($env:PORT) { [int]$env:PORT } else { 8844 }
 $listener = New-Object System.Net.HttpListener
 $listener.Prefixes.Add("http://localhost:$port/")
 $listener.Start()
@@ -26,6 +28,8 @@ $mime = @{
   ".json" = "application/json; charset=utf-8"
   ".svg"  = "image/svg+xml"
   ".png"  = "image/png"
+  ".jpg"  = "image/jpeg"
+  ".jpeg" = "image/jpeg"
   ".pdf"  = "application/pdf"
 }
 

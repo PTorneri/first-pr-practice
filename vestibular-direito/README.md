@@ -1,4 +1,4 @@
-# Rumo à FGV & Insper — Direito
+# AprovAI — trilha de Direito
 
 Plano de estudos de 90 dias para os vestibulares de Direito da FGV (SP/Rio) e do Insper,
 baseado no formato real das provas (pesquisado em julho/2026): Língua Portuguesa, Inglês,

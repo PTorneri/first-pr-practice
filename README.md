@@ -1,6 +1,7 @@
-# Rumo à FGV & Insper — Direito
+# AprovAI
 
-Plano de estudos de 90 dias para os vestibulares de Direito da FGV (SP/Rio) e do Insper.
+Plano de estudos de 90 dias para vestibular, montado a partir do formato real das provas.
+Duas trilhas: **Direito** e **Medicina** (a pessoa escolhe ao criar a conta).
 Este repositório hospeda **duas versões do app**, publicadas ao mesmo tempo pelo GitHub Pages.
 
 | Versão | Endereço | O que é |
@@ -25,6 +26,7 @@ as obras obrigatórias) estão em [vestibular-direito/README.md](vestibular-dire
 ```
 vestibular-direito/       v1 — app completo, com todo o conteúdo em data/
 vestibular-direito-v2/    v2 — app com backend; usa o conteúdo do v1
+vestibular-medicina/      conteúdo da trilha de Medicina (sem app próprio)
 serve-root.ps1            servidor local que enxerga as duas pastas
 ```
 
@@ -35,6 +37,20 @@ dissertativas moram só em `vestibular-direito/data/`, e o v2 os carrega por cam
 Por isso: **editar `vestibular-direito/data/` muda o v1 e o v2**. Já editar `app.js`,
 `styles.css` ou `index.html` do v1 mexe só no v1 — esses arquivos foram copiados para o v2 e
 seguem caminhos separados.
+
+## A marca
+
+O nome do app é **AprovAI** e vale para as duas trilhas — o curso é o que vem depois do
+travessão ("AprovAI — Direito"). O nome está definido num lugar só,
+[vestibular-direito-v2/trilhas.js](vestibular-direito-v2/trilhas.js), em duas formas: `html`
+(com o "AI" em azul, como no logo) e `texto` (para `document.title`, `alt` e nome de arquivo
+exportado, onde markup não entra).
+
+Os arquivos do logo ficam em `assets/` de cada app — `logo.png` (320 px, usado no onboarding e
+no cabeçalho) e `favicon.png` (64 px). São a marca sobre uma placa arredondada no mesmo
+azul-marinho do cabeçalho (`--header-bg`): no cabeçalho a placa desaparece e sobra a marca;
+sobre o cartão branco do login ela vira um ícone. A arte original está em
+`vestibular-direito-v2/assets/logo-original.jpg`, para dar pra regerar os PNGs.
 
 ## Rodando localmente
 

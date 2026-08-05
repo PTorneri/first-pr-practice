@@ -27,6 +27,21 @@
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
   const LS_TRILHA = "v2_trilha";
 
+  // ---------- A marca ----------
+  //
+  // Uma marca só, para todas as trilhas: o app é o AprovAI, e o curso é o que
+  // vem depois do travessão. Antes cada trilha carregava a sua ("Rumo à FGV &
+  // Insper", "Rumo à Medicina"), o que amarrava o nome do produto às bancas
+  // que ele treina — trocar de banca obrigaria a trocar de nome.
+  //
+  // Vem em duas formas porque tem dois destinos: `html` para o cabeçalho e os
+  // títulos, onde o "AI" é azul como no logo, e `texto` para onde markup não
+  // entra (document.title, atributo alt, nome de arquivo exportado).
+  const MARCA_TXT = "AprovAI";
+  const MARCA_HTML = 'Aprov<span class="brand-ai">AI</span>';
+
+  window.VD_MARCA = { texto: MARCA_TXT, html: MARCA_HTML };
+
   window.VD_TRILHAS = {
     direito: {
       id: "direito",
@@ -37,9 +52,9 @@
       // cadernos. É o que aparece no cartão de escolha.
       resumo: "Uma prova de língua com filtro de matemática: somando os pesos do edital, " +
               "metade da nota é Redação, Português e Inglês.",
-      logoAlt: "Rumo à FGV/Insper Direito",
-      titulo: "Rumo à FGV &amp; Insper — Direito",
-      marca: "Rumo à FGV &amp; Insper",
+      logoAlt: MARCA_TXT,
+      titulo: MARCA_HTML + " — Direito",
+      marca: MARCA_HTML,
       bancas: ["fgv", "insper"],
       dataDir: "../vestibular-direito/data/",
       arquivos: [
@@ -69,9 +84,9 @@
       subtitulo: "FUVEST, Unicamp, Unesp, Unifesp, Einstein, Santa Casa e PUC-SP",
       resumo: "Sete bancas que medem coisas diferentes: a USP cobra Geografia na 2ª fase e não " +
               "cobra Matemática; a Unicamp não cobra Física.",
-      logoAlt: "Rumo à Medicina",
-      titulo: "Rumo à Medicina — São Paulo",
-      marca: "Rumo à Medicina",
+      logoAlt: MARCA_TXT,
+      titulo: MARCA_HTML + " — Medicina",
+      marca: MARCA_HTML,
       bancas: ["fuvest", "unicamp", "unesp", "unifesp", "einstein", "santacasa", "pucsp"],
       dataDir: "../vestibular-medicina/data/",
       // Sem "obras" e sem "obras-questoes": obras obrigatórias são um

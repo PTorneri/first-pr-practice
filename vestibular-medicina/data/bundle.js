@@ -5515,6 +5515,1356 @@ window.QUESTION_BANKS = {
                                     "resposta":  "c",
                                     "explicacao":  "O autor concede razões à instituição, reduz o pedido ao mínimo e nunca acusa ninguém. Ao mesmo tempo, não recua: nomeia a assimetria e sustenta o pedido até o fim. Firmeza sem hostilidade é exatamente essa combinação.",
                                     "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-61",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A tese central da reportagem é a de que:",
+                                    "alternativas":  {
+                                                         "a":  "a cobertura vacinal deveria ser medida por outro indicador, já que o percentual de esquemas completos não reflete a proteção real da população infantil",
+                                                         "b":  "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem",
+                                                         "c":  "a recusa deliberada à vacinação cresceu de forma acentuada no período analisado e responde pela maior parte da redução observada na cobertura das crianças",
+                                                         "d":  "as doenças imunopreveníveis retornaram porque os laboratórios reduziram a produção de vacinas, o que comprometeu o abastecimento das unidades básicas de saúde",
+                                                         "e":  "boa parte da queda da vacinação se resolve removendo obstáculos, não convencendo"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Os dois últimos parágrafos carregam a tese: a queda vem sobretudo de fricção, não de recusa, e a frase final separa conscientizar de facilitar. A alternativa (c) atribui ao texto exatamente a explicação que ele relativiza.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-62",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "Em \"Uma cobertura vacinal não desaba: ela escorrega\", os dois verbos foram escolhidos para contrapor:",
+                                    "alternativas":  {
+                                                         "a":  "a diminuição observada nas capitais àquela registrada nos municípios do interior, cujo ritmo de perda é descrito como significativamente mais acelerado",
+                                                         "b":  "uma redução provocada por decisão administrativa a outra que decorre do comportamento espontâneo das famílias ao longo dos anos analisados pela reportagem",
+                                                         "c":  "uma queda brusca e visível a uma queda lenta e difícil de perceber",
+                                                         "d":  "a perda de cobertura de uma vacina específica à perda simultânea observada no conjunto das vacinas que compõem o calendário infantil brasileiro",
+                                                         "e":  "o comportamento do indicador antes e depois da adoção das campanhas de conscientização mencionadas nos parágrafos finais do texto reportado"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Desabar é súbito e ruidoso; escorregar é gradual e silencioso. A oposição prepara o argumento seguinte: por cair devagar, a perda não chama atenção — \"nenhum ano concentrou a queda\".",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-63",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "Segundo o texto, a relação entre a queda da cobertura e o retorno das doenças é tal que:",
+                                    "alternativas":  {
+                                                         "a":  "cada ponto percentual perdido na cobertura produz um aumento imediato e mensurável no número de casos registrados pelos serviços de vigilância epidemiológica",
+                                                         "b":  "o retorno não acompanha a queda de forma proporcional, e ocorre de uma vez após um limiar",
+                                                         "c":  "o número de casos permanece constante enquanto a cobertura estiver acima de sessenta por cento, patamar identificado no texto como o limite de segurança",
+                                                         "d":  "o retorno das doenças antecede a queda da cobertura, funcionando como sinal de alerta para as autoridades responsáveis pelo calendário de imunização",
+                                                         "e":  "as duas variáveis são independentes entre si, já que a circulação dos agentes infecciosos depende sobretudo de fatores climáticos e de deslocamentos populacionais"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O segundo parágrafo é explícito: as doenças \"ficam ausentes por anos, mesmo com a proteção diminuindo, e reaparecem de uma vez quando um limiar é cruzado\". É essa defasagem que engana quem acompanha só o número de casos.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-64",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "O trecho \"parece que nada estava acontecendo — até que estava\" produz efeito de:",
+                                    "alternativas":  {
+                                                         "a":  "repetição enfática, ao retomar a mesma informação com outras palavras a fim de assegurar que o leitor compreenda o argumento apresentado",
+                                                         "b":  "hesitação, ao indicar que o autor não dispõe de dados suficientes para afirmar com segurança em que momento o processo descrito teve início",
+                                                         "c":  "concessão, ao admitir que a interpretação contrária à defendida no texto também encontra respaldo nos indicadores epidemiológicos disponíveis",
+                                                         "d":  "reviravolta, ao desmentir em três palavras a impressão descrita antes",
+                                                         "e":  "generalização, ao estender a conclusão obtida para o caso brasileiro a todos os países que enfrentaram redução semelhante em sua cobertura vacinal"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O travessão corta a frase e o verbo muda de tempo: o \"parece que nada estava acontecendo\" é desfeito por \"até que estava\". A brevidade é o recurso — quanto mais curta a virada, mais súbita ela soa, que é justamente o comportamento descrito.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-65",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "Ao afirmar \"Não é irracionalidade: é a experiência disponível\", o autor:",
+                                    "alternativas":  {
+                                                         "a":  "recusa culpar os pais e explica a decisão deles pelo que puderam observar",
+                                                         "b":  "sustenta que a avaliação de risco feita pelas famílias é tecnicamente correta e dispensa qualquer esforço adicional de informação por parte dos serviços de saúde",
+                                                         "c":  "atribui a queda da cobertura ao baixo nível de escolaridade da população, fator que segundo ele limita a compreensão das informações veiculadas nas campanhas",
+                                                         "d":  "afirma que o comportamento dos pais decorre da influência de conteúdos falsos que circulam em redes sociais e aplicativos de mensagem instantânea",
+                                                         "e":  "conclui que a experiência pessoal deve prevalecer sobre a evidência científica na tomada de decisões relativas à saúde das crianças pequenas"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "Quem nunca viu sarampo pesa um risco concreto contra um risco abstrato, e isso é raciocínio, não falta dele. O autor não valida a conclusão dos pais — explica de onde ela vem, o que é diferente do que dizem (b) e (e).",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-66",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A distinção entre \"recusa\" e \"fricção\" importa no texto porque:",
+                                    "alternativas":  {
+                                                         "a":  "cada uma pede um tipo diferente de solução, e tratá-las igual desperdiça recurso",
+                                                         "b":  "a recusa é um fenômeno restrito a grupos organizados, ao passo que a fricção atinge de modo uniforme todas as camadas da população brasileira",
+                                                         "c":  "somente a recusa pode ser medida com precisão pelos sistemas de informação em saúde, o que torna a fricção um fator impossível de incorporar ao planejamento",
+                                                         "d":  "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente",
+                                                         "e":  "as duas expressões designam o mesmo comportamento observado nas famílias, variando apenas o vocabulário adotado por diferentes áreas de pesquisa"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "Recusa é problema de convencimento; fricção é problema de acesso. O texto fecha justamente aí: campanha resolve a primeira e não toca a segunda, e confundir as duas é \"o modo mais rápido de gastar dinheiro sem mover o indicador\".",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-67",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A frase \"não muda de ideia com um cartaz — muda com um posto aberto no sábado\" funciona como:",
+                                    "alternativas":  {
+                                                         "a":  "ressalva ao argumento apresentado anteriormente, indicando que as campanhas de conscientização continuam sendo o instrumento mais eficaz disponível",
+                                                         "b":  "crítica ao custo elevado das peças gráficas produzidas pelas secretarias de saúde, valor que segundo o autor poderia ser aplicado na ampliação da rede",
+                                                         "c":  "constatação de que a população não tem o hábito de ler os materiais informativos afixados nas paredes das unidades básicas de atendimento",
+                                                         "d":  "proposta de alteração da jornada de trabalho dos profissionais de saúde, tema que o texto desenvolve ao longo de seus parágrafos finais em detalhe",
+                                                         "e":  "exemplo concreto que torna visível a diferença entre informar e facilitar"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A frase põe lado a lado a intervenção que fala e a que remove o obstáculo, num caso específico em que a segunda resolve e a primeira não. É o exemplo que sustenta a distinção do parágrafo e prepara a conclusão.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-68",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A crítica que o autor dirige às campanhas de conscientização é a de que elas:",
+                                    "alternativas":  {
+                                                         "a":  "são realizadas em períodos inadequados do ano, quando a demanda pelos serviços de saúde já se encontra reduzida por razões sazonais conhecidas",
+                                                         "b":  "empregam linguagem técnica excessiva e por isso não são compreendidas pelo público a que se destinam, sobretudo nas regiões de menor renda do país",
+                                                         "c":  "veiculam informações desatualizadas sobre o calendário de imunização, o que gera confusão entre os responsáveis pelas crianças em idade de vacinação",
+                                                         "d":  "não são inúteis, mas atacam apenas uma parte do problema",
+                                                         "e":  "deveriam ser inteiramente substituídas por medidas de ampliação do horário de funcionamento das unidades básicas em todos os municípios brasileiros"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O texto diz literalmente que \"elas ajudam, mas partem de um diagnóstico incompleto\". A alternativa (e) radicaliza a posição do autor, que em momento algum propõe abandonar as campanhas.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-69",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A frase final, sobre \"gastar dinheiro sem mover o indicador\", encerra o texto:",
+                                    "alternativas":  {
+                                                         "a":  "atribuindo a responsabilidade pelo problema aos gestores municipais, que segundo o autor não acompanham os indicadores de cobertura de suas unidades",
+                                                         "b":  "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de qualquer discussão sobre a estratégia adotada",
+                                                         "c":  "traduzindo o erro de diagnóstico em custo, o que o torna difícil de ignorar",
+                                                         "d":  "propondo um novo indicador de acompanhamento, capaz de distinguir com precisão os casos de recusa daqueles que decorrem de dificuldade de acesso",
+                                                         "e":  "retomando a imagem do escorregamento apresentada na abertura, recurso que confere circularidade ao conjunto da argumentação desenvolvida no texto"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Até ali o argumento era conceitual: conscientizar e facilitar são coisas diferentes. A frase final converte a distinção em consequência prática — dinheiro gasto sem resultado —, que é o que costuma mover quem decide orçamento.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-70",
+                                    "textoId":  "med-int-t7",
+                                    "enunciado":  "A reportagem se organiza, na ordem, do seguinte modo:",
+                                    "alternativas":  {
+                                                         "a":  "apresentação de um caso individual, generalização estatística, comparação internacional e proposta de política pública detalhada em suas etapas de execução",
+                                                         "b":  "descrição do fenômeno, sua consequência, uma causa pouco lembrada e a correção da resposta usual",
+                                                         "c":  "revisão histórica das campanhas de imunização no país, balanço dos resultados obtidos em cada período e projeção dos cenários esperados para a década seguinte",
+                                                         "d":  "enunciado de uma hipótese, descrição do método empregado para testá-la, apresentação dos resultados encontrados e discussão das limitações do estudo realizado",
+                                                         "e":  "denúncia de irregularidades na distribuição de vacinas, identificação dos responsáveis, apuração das consequências e convocação das autoridades competentes"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O texto abre descrevendo como a cobertura cai, mostra o que isso provoca no retorno das doenças, acrescenta o efeito da experiência que falta aos pais e termina corrigindo o diagnóstico que sustenta as campanhas.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-71",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A finalidade predominante do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "descrever o mecanismo bioquímico pelo qual a substância ativa atua sobre os receptores responsáveis pela percepção da dor e pela regulação da temperatura",
+                                                         "b":  "demonstrar a eficácia terapêutica do produto em comparação com outras substâncias disponíveis no mercado para o tratamento das mesmas condições clínicas",
+                                                         "c":  "resguardar juridicamente o fabricante diante de eventuais processos movidos por pacientes que venham a apresentar reações adversas durante o tratamento",
+                                                         "d":  "orientar o uso seguro do medicamento por quem não tem formação técnica",
+                                                         "e":  "convencer o leitor a adquirir o produto, destacando as vantagens que ele oferece em relação às alternativas vendidas sem necessidade de receita médica"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "As seções são perguntas que um paciente faria, e as respostas vêm em linguagem comum, com quantidades e limites. Nada no texto compara produtos ou explica farmacologia — o gênero existe para instruir quem vai tomar o comprimido.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-72",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A instrução de procurar atendimento \"mesmo que não haja sintomas\" se justifica porque:",
+                                    "alternativas":  {
+                                                         "a":  "os serviços de emergência precisam registrar formalmente todos os casos de ingestão acidental para fins de notificação junto aos órgãos de vigilância sanitária",
+                                                         "b":  "o dano pode já estar em curso antes de qualquer sinal aparecer",
+                                                         "c":  "a ausência de sintomas indica que a quantidade ingerida foi pequena, mas ainda assim convém confirmar essa avaliação com um profissional habilitado",
+                                                         "d":  "o paciente pode não estar em condições de avaliar corretamente os próprios sintomas em razão do efeito analgésico produzido pelo próprio medicamento",
+                                                         "e":  "a legislação exige que qualquer uso de dose superior à recomendada seja comunicado ao fabricante no prazo estabelecido pelas normas do setor farmacêutico"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A frase seguinte fecha o raciocínio: \"a ausência de sintomas nas primeiras horas não afasta a gravidade do quadro\". A instrução existe justamente porque o sinal atrasa em relação à lesão, e esperar por ele custa tempo.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-73",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A advertência de que vários produtos vendidos livremente contêm a mesma substância alerta para o risco de:",
+                                    "alternativas":  {
+                                                         "a":  "pagar mais caro por um produto de marca quando existe alternativa equivalente e mais barata disponível nas mesmas prateleiras das farmácias e drogarias",
+                                                         "b":  "adquirir versões falsificadas do medicamento em estabelecimentos que não possuem autorização de funcionamento concedida pelos órgãos de fiscalização competentes",
+                                                         "c":  "ultrapassar o limite diário sem perceber, somando doses de produtos diferentes",
+                                                         "d":  "desenvolver tolerância à substância ativa em razão do uso frequente, o que exigiria doses progressivamente maiores para obter o mesmo efeito analgésico",
+                                                         "e":  "interromper o tratamento antes do prazo previsto por acreditar que os sintomas já foram controlados, conduta que compromete o resultado esperado"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O texto diz que o uso simultâneo \"pode levar a doses acima do limite diário sem que o paciente perceba\". O perigo não é o produto em si, é a soma invisível — quem toma um antigripal e um analgésico pode estar tomando a mesma substância duas vezes.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-74",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "Nas instruções de uso, predominam formas verbais no:",
+                                    "alternativas":  {
+                                                         "a":  "imperativo, adequado a um texto que orienta condutas",
+                                                         "b":  "futuro do pretérito, escolha que atenua a força das recomendações e as apresenta como sugestões que o paciente pode ou não considerar ao longo do tratamento",
+                                                         "c":  "pretérito perfeito, tempo que situa as orientações como relato de procedimentos já realizados durante os estudos clínicos conduzidos com a substância",
+                                                         "d":  "gerúndio, forma que confere ao texto a impressão de continuidade e acompanha a descrição dos processos metabólicos mencionados ao longo das seções",
+                                                         "e":  "subjuntivo, modo que expressa hipótese e é usado para descrever as situações em que o medicamento poderia eventualmente vir a ser prescrito ao paciente"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "\"Não use\", \"tome com água\", \"informe seu médico\", \"procure atendimento\": são ordens dirigidas ao leitor. O imperativo é a forma própria do texto instrucional, porque não descreve nem hipotetiza — determina o que fazer.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-75",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A organização do texto em perguntas seguidas de respostas produz o efeito de:",
+                                    "alternativas":  {
+                                                         "a":  "conferir ao texto caráter argumentativo, na medida em que cada resposta funciona como justificativa para a pergunta imediatamente anterior a ela",
+                                                         "b":  "simular um diálogo entre o paciente e o profissional de saúde, recurso que substitui a necessidade de consulta médica antes do início do tratamento indicado",
+                                                         "c":  "ordenar as informações segundo o grau de importância clínica de cada uma, das mais críticas para as menos relevantes ao longo da leitura completa",
+                                                         "d":  "reduzir a extensão total do documento, exigência estabelecida pela regulamentação sanitária para as informações destinadas ao público não especializado",
+                                                         "e":  "aproximar o texto da dúvida real do leitor, facilitando a consulta pontual"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Ninguém lê uma bula do começo ao fim: lê a parte de que precisa. Cabeçalhos em forma de pergunta espelham o que a pessoa quer saber e permitem achar a seção certa sem percorrer o resto.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-76",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "Em \"Reações raras, porém graves\", a conjunção destacada estabelece relação de:",
+                                    "alternativas":  {
+                                                         "a":  "adição, somando à lista anterior de reações comuns um segundo conjunto de manifestações observadas com a mesma frequência nos estudos realizados",
+                                                         "b":  "conclusão, indicando que a raridade das reações permite ao paciente considerá-las improváveis durante o período em que estiver fazendo uso do produto",
+                                                         "c":  "oposição, alertando que a baixa frequência não reduz a gravidade",
+                                                         "d":  "explicação, esclarecendo ao leitor o motivo pelo qual determinadas reações adversas ocorrem com menor frequência do que as demais listadas antes",
+                                                         "e":  "condição, estabelecendo que as reações mencionadas em seguida ocorrem apenas quando estiverem presentes os fatores de risco descritos no mesmo trecho"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "\"Porém\" contraria a expectativa criada por \"raras\": o leitor tende a relaxar diante da baixa frequência, e a conjunção o impede. Frequência e gravidade são coisas independentes, e a bula precisa que isso fique claro.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-77",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A escolha de \"doença grave do fígado\" em lugar de um termo técnico equivalente revela:",
+                                    "alternativas":  {
+                                                         "a":  "adequação ao leitor previsto, que não domina vocabulário médico",
+                                                         "b":  "imprecisão do texto, que deixa de delimitar com o rigor necessário quais condições clínicas específicas contraindicam o uso do medicamento pelo paciente",
+                                                         "c":  "preocupação em reduzir a extensão do documento, uma vez que a expressão escolhida ocupa menos espaço do que a designação técnica correspondente",
+                                                         "d":  "intenção de minimizar a percepção de risco associada ao produto, apresentando as contraindicações em termos deliberadamente vagos e pouco alarmantes",
+                                                         "e":  "influência da linguagem publicitária sobre o texto, que abandona o registro formal esperado em documentos de natureza técnica e regulatória do setor"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A seção se chama \"Informações ao paciente\", e é para ele que o texto está escrito. Uma bula que exigisse vocabulário clínico falharia no que se propõe — a escolha lexical acompanha o destinatário, e isso não é imprecisão.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-78",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A diferença entre \"não use este medicamento se\" e \"informe seu médico se\" está em que a primeira:",
+                                    "alternativas":  {
+                                                         "a":  "tem caráter apenas orientador, ao passo que a segunda estabelece uma obrigação legal cujo descumprimento acarreta consequências previstas em norma",
+                                                         "b":  "se dirige ao paciente e a segunda se dirige ao profissional responsável pela prescrição, o que explica a diferença de vocabulário entre as duas formulações",
+                                                         "c":  "trata de situações que já ocorreram com o paciente e a segunda antecipa situações que ainda poderão vir a ocorrer no decorrer do período de tratamento",
+                                                         "d":  "descreve reações adversas e a segunda descreve interações medicamentosas, distinção que a bula mantém de forma consistente em todas as suas seções",
+                                                         "e":  "veda o uso, enquanto a segunda transfere a decisão a quem avalia o caso"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Uma é proibição fechada, que o paciente aplica sozinho; a outra abre uma avaliação que ele não tem como fazer. A bula distingue o que se decide na farmácia do que se decide no consultório.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-79",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A precisão de \"um comprimido a cada 6 horas, não ultrapassando 4 comprimidos em 24 horas\" se explica porque:",
+                                    "alternativas":  {
+                                                         "a":  "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e descanso",
+                                                         "b":  "o intervalo sozinho não impede que o total do dia passe do limite",
+                                                         "c":  "as duas informações se destinam a públicos distintos, sendo a primeira dirigida ao paciente e a segunda ao farmacêutico responsável pela dispensação",
+                                                         "d":  "a repetição da mesma informação em unidades diferentes é exigência da regulamentação aplicável às bulas de medicamentos isentos de prescrição médica",
+                                                         "e":  "o número de comprimidos por dia varia conforme a intensidade dos sintomas, e o intervalo mínimo funciona apenas como referência aproximada de uso"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Quem toma às 8h, 13h, 18h e 22h respeitou aproximadamente o intervalo e chegou a quatro comprimidos; uma quinta dose de madrugada ainda respeitaria as seis horas e estouraria o dia. O teto diário fecha essa brecha.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-80",
+                                    "textoId":  "med-int-t8",
+                                    "enunciado":  "A menção ao consumo de bebida alcoólica aparece no texto associada:",
+                                    "alternativas":  {
+                                                         "a":  "à necessidade de suspender o tratamento por vinte e quatro horas antes de qualquer ingestão de álcool, prazo estabelecido a partir da meia-vida da substância",
+                                                         "b":  "à redução do efeito analgésico do medicamento, que passa a exigir doses mais altas para produzir o alívio esperado pelo paciente que faz uso do produto",
+                                                         "c":  "ao surgimento das reações comuns descritas na mesma seção, entre as quais se destacam a náusea e o desconforto abdominal relatados com frequência",
+                                                         "d":  "ao aumento do risco de lesão do fígado durante o tratamento",
+                                                         "e":  "à contraindicação absoluta do medicamento, que não deve ser utilizado por pessoas que façam consumo de bebida alcoólica em qualquer quantidade"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O texto lista o álcool ao lado das doses excessivas como fator associado à lesão hepática — o mesmo órgão que aparece nas contraindicações. A alternativa (e) transforma um alerta em proibição absoluta, o que a bula não diz.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-81",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O título \"A Troca\" remete, no conto, sobretudo:",
+                                    "alternativas":  {
+                                                         "a":  "à substituição do casaco antigo por um novo, episódio que a personagem mais velha aceita com evidente contrariedade ao chegar para o seu turno",
+                                                         "b":  "à passagem de plantão, que é também passagem de um saber que não está escrito",
+                                                         "c":  "à permuta de horários entre as duas profissionais, acerto que teria sido combinado previamente com a chefia da unidade em que ambas trabalham",
+                                                         "d":  "à alternância entre os pacientes atendidos durante a noite, cujos quartos são mencionados pela personagem ao longo da conversa que mantém",
+                                                         "e":  "ao intercâmbio de opiniões entre gerações de profissionais, tema que o conto desenvolve por meio da discordância explícita entre as duas personagens"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O título nomeia o rito de trabalho — a troca de turno — e, ao mesmo tempo, o que acontece de fato no conto: uma pessoa entrega à outra algo que não cabe no prontuário. O casaco é sinal dessa passagem, não o assunto dela.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-82",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O detalhe do casaco pendurado \"no gancho que era dela desde sempre\" serve para:",
+                                    "alternativas":  {
+                                                         "a":  "caracterizar a personagem como pessoa apegada a bens materiais, traço que o restante da narrativa desenvolve por meio de suas falas e de seus gestos",
+                                                         "b":  "indicar que a unidade não dispõe de armários suficientes para todos os profissionais, o que gera atritos recorrentes entre as equipes dos diferentes turnos",
+                                                         "c":  "informar ao leitor que a personagem chegou antes do horário previsto e por isso encontrou o vestiário ainda ocupado pelos colegas do plantão noturno",
+                                                         "d":  "marcar, sem dizer, que o lugar dela ali começou a mudar",
+                                                         "e":  "estabelecer o tempo transcorrido desde o início da carreira da personagem, dado que o conto retomará explicitamente em seus parágrafos finais"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Onze anos de gancho próprio e, de repente, outro casaco no mesmo lugar. O conto não comenta o fato — mostra o objeto e segue. O final, quando ela pega \"o casaco, o dela\", confirma que o detalhe estava trabalhando o tempo todo.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-83",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "Ao dizer \"Não cabe no prontuário\", a personagem indica que aquele saber:",
+                                    "alternativas":  {
+                                                         "a":  "não tem forma de registro no documento, embora seja parte do cuidado",
+                                                         "b":  "é irrelevante do ponto de vista clínico e por isso foi deliberadamente omitido dos registros oficiais mantidos pela equipe ao longo dos anos de internação",
+                                                         "c":  "está proibido de constar em documentos institucionais por envolver informações de caráter pessoal protegidas pela legislação de sigilo aplicável ao caso",
+                                                         "d":  "excede o espaço físico disponível nos formulários utilizados pela unidade, limitação que a personagem aponta como falha do sistema de informação adotado",
+                                                         "e":  "deveria ser transmitido apenas ao médico responsável pelo caso, e não à profissional que assumirá o plantão seguinte naquele mesmo setor da unidade"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A resposta é sobre a natureza do saber, não sobre espaço em branco na folha. Responder \"ela já vem\" a uma senhora que chama pela irmã morta é conhecimento de cuidado que nenhum campo de formulário comporta — e ainda assim precisa chegar ao próximo turno.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-84",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "A frase isolada \"Anotou até isso\" sugere que a moça nova:",
+                                    "alternativas":  {
+                                                         "a":  "demonstrou desconfiança em relação ao método adotado pela colega, decidindo documentar o episódio para eventual esclarecimento posterior à direção",
+                                                         "b":  "registrou os dados de forma indiscriminada por insegurança, sem conseguir distinguir o que era relevante do que era acessório no relato que ouvia",
+                                                         "c":  "pretendia apresentar as anotações à chefia como comprovação de que havia recebido corretamente todas as informações do plantão anterior",
+                                                         "d":  "não compreendeu o que a colega mais experiente estava dizendo e por isso copiou a fala literalmente para consultá-la depois com outra pessoa",
+                                                         "e":  "reconheceu valor num detalhe que não parecia informação clínica"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O \"até\" marca surpresa: o esperado seria anotar quarto, medicação, intercorrência. Ela anotou também a Marta. A pergunta que faz em seguida — se aquilo vai para o prontuário — mostra que percebeu estar diante de algo de outra ordem.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-85",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "A explicação \"Não porque não soubesse. Porque nunca ninguém tinha perguntado\" revela que a personagem mais velha:",
+                                    "alternativas":  {
+                                                         "a":  "havia esquecido os detalhes do episódio envolvendo a paciente do quarto quinze, o que a obrigou a reconstruir a lembrança antes de responder à pergunta",
+                                                         "b":  "hesitou em responder porque desconfiava das intenções da colega recém-chegada, cuja presença no setor ainda lhe parecia motivo de desconforto naquela manhã",
+                                                         "c":  "domina aquele saber, mas nunca precisara formulá-lo em palavras",
+                                                         "d":  "considerava o assunto excessivamente pessoal e por isso preferia não discuti-lo com alguém que acabara de ser incorporada à equipe daquele setor",
+                                                         "e":  "discordava do procedimento que ela própria adotava com a paciente e sentia constrangimento ao ter de explicá-lo a uma profissional mais jovem"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "As duas frases eliminam a hipótese fácil — ela sabia — e apontam a verdadeira: a demora vem de nunca ter sido interrogada sobre aquilo. Um saber praticado por anos sem jamais ter sido enunciado.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-86",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O último período, \"Mas ela parou um instante antes da porta\", sugere que a personagem:",
+                                    "alternativas":  {
+                                                         "a":  "sentiu-se ofendida ao ouvir a colega repetir literalmente suas palavras, gesto que interpretou como imitação desprovida de compreensão real do caso",
+                                                         "b":  "hesitou em ir embora porque desconfiava de que a colega não seria capaz de conduzir sozinha o atendimento dos pacientes durante o turno seguinte",
+                                                         "c":  "esqueceu de transmitir alguma informação importante sobre um dos pacientes e considerou voltar ao setor antes de deixar definitivamente a unidade",
+                                                         "d":  "aguardava que a colega a chamasse de volta para esclarecer uma última dúvida a respeito do procedimento adotado com a senhora do quarto quinze",
+                                                         "e":  "percebeu que aquilo que ela ensinou acabara de continuar sem ela"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Ela ouve \"ela já vem\" dito por outra voz, para a mesma paciente. A parada é o reconhecimento silencioso de que a transmissão funcionou — e o conto encerra sem explicar, deixando o gesto falar.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-87",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O uso predominante do discurso direto no conto contribui para:",
+                                    "alternativas":  {
+                                                         "a":  "diferenciar o registro linguístico das duas personagens, evidenciando o contraste entre a formação técnica de cada uma delas e a região de origem",
+                                                         "b":  "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa",
+                                                         "c":  "concentrar o sentido nas falas e reduzir ao mínimo o comentário do narrador",
+                                                         "d":  "aproximar o texto do gênero dramático, no qual a ausência de narrador exige que toda a ação seja construída exclusivamente por meio dos diálogos",
+                                                         "e":  "suprir a falta de descrição do ambiente, elemento que o conto deliberadamente omite por considerá-lo irrelevante para a compreensão do enredo"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O narrador informa pouco e não interpreta nada: quem carrega o conto são as réplicas curtas. \"Não cabe no prontuário\" e \"Passa assim\" dizem tudo o que seria preciso um parágrafo inteiro para explicar.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-88",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "A personagem mais velha se caracteriza, ao longo do conto, como alguém:",
+                                    "alternativas":  {
+                                                         "a":  "resistente à chegada de profissionais mais jovens ao setor, atitude que se manifesta na frieza com que responde a cada uma das perguntas que lhe são feitas",
+                                                         "b":  "econômica nas palavras e atenta ao que o procedimento não cobre",
+                                                         "c":  "insatisfeita com as condições de trabalho da unidade, tema que ela aborda repetidamente durante a passagem de plantão para a colega recém-admitida",
+                                                         "d":  "excessivamente apegada às normas institucionais, das quais se recusa a abrir mão mesmo diante das particularidades apresentadas por cada paciente",
+                                                         "e":  "descrente do valor do próprio trabalho, avaliação que transparece na maneira desanimada como descreve a rotina do plantão à profissional que a substitui"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Ela responde em três ou quatro palavras por vez, sem nenhuma frase de efeito — e passou onze anos reparando que corrigir a senhora do quinze funciona pior do que dizer \"ela já vem\". As respostas curtas não são frieza: são o modo dela.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-89",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O narrador do conto pode ser descrito como:",
+                                    "alternativas":  {
+                                                         "a":  "intruso, que interrompe a narrativa em diversos momentos para comentar os acontecimentos e orientar a interpretação que o leitor deve fazer deles",
+                                                         "b":  "personagem que participa da ação narrada e relata em primeira pessoa os acontecimentos daquela manhã sob seu próprio ponto de vista limitado",
+                                                         "c":  "onisciente, com acesso irrestrito aos pensamentos das duas personagens, cujos conflitos internos são detalhadamente expostos ao longo do texto",
+                                                         "d":  "observador em terceira pessoa, que registra gestos e falas sem explicar motivos",
+                                                         "e":  "ausente, uma vez que o conto é integralmente construído por meio de diálogos, sem nenhuma passagem de natureza narrativa ou descritiva no texto"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Há narração em terceira pessoa — chegou, tirou, pendurou, parou —, mas quase nenhum acesso ao interior das personagens. As duas exceções são breves e vêm em forma de negação, o que mantém o relato próximo do que se poderia ver de fora.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-90",
+                                    "textoId":  "med-int-t9",
+                                    "enunciado":  "O conto sugere, a respeito da formação profissional, que:",
+                                    "alternativas":  {
+                                                         "a":  "parte do que se aprende só se transmite de pessoa a pessoa, no exercício do trabalho",
+                                                         "b":  "os registros institucionais deveriam ser reformulados para acomodar as informações de natureza subjetiva que hoje se perdem entre um plantão e o seguinte",
+                                                         "c":  "os profissionais mais experientes tendem a reter conhecimento e a dificultar o aprendizado daqueles que estão chegando ao serviço pela primeira vez",
+                                                         "d":  "a formação técnica recebida nos cursos é suficiente para o exercício da profissão, cabendo à prática apenas consolidar o que já foi aprendido antes",
+                                                         "e":  "o tempo destinado à passagem de plantão é insuficiente e precisaria ser ampliado para permitir a transmissão adequada de todas as informações relevantes"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "\"Passa assim. Do jeito que estou passando agora\" é a resposta do conto: aquele saber não tem manual nem campo em formulário, existe na conversa entre quem sai e quem entra. A alternativa (b) propõe uma solução que o próprio conto descarta.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-91",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "A tese defendida no editorial é a de que:",
+                                    "alternativas":  {
+                                                         "a":  "antes de adotar o sistema é preciso definir quem responde pelos seus erros",
+                                                         "b":  "o uso de algoritmos na leitura de exames de imagem deve ser suspenso até que se comprove desempenho superior ao dos especialistas em todas as categorias de exame",
+                                                         "c":  "a revisão humana das sugestões produzidas pela máquina é suficiente para garantir a segurança do processo, desde que o profissional seja adequadamente treinado",
+                                                         "d":  "os fabricantes de sistemas automatizados devem ser responsabilizados judicialmente por todos os laudos incorretos gerados pelos programas que comercializam",
+                                                         "e":  "a tecnologia de leitura automatizada ainda não atingiu maturidade suficiente e por isso permanece restrita ao ambiente de pesquisa em instituições acadêmicas"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O penúltimo parágrafo já anuncia e o último confirma: \"é objeção a adotá-la sem decidir, antes, quem responde pelo que ela produz\". A alternativa (b) atribui ao texto uma recusa à tecnologia que ele nega expressamente.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-92",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "Ao afirmar que o laudo \"é uma informação que alguém sustenta\", o editorial destaca que o documento:",
+                                    "alternativas":  {
+                                                         "a":  "deve conter a descrição detalhada do método empregado na análise, requisito que os sistemas automatizados costumam cumprir com mais rigor do que os profissionais",
+                                                         "b":  "precisa ser assinado por mais de um profissional para adquirir validade legal perante os órgãos reguladores que fiscalizam a atividade em cada especialidade",
+                                                         "c":  "só tem valor quando emitido por especialista com titulação reconhecida na área correspondente ao exame que está sendo interpretado naquele momento",
+                                                         "d":  "apresenta grau de certeza superior ao de qualquer sistema automatizado disponível, uma vez que resulta da experiência acumulada por quem o redige",
+                                                         "e":  "carrega, além do conteúdo, um responsável a quem se pode pedir contas"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O texto separa a informação de quem a banca: a assinatura \"pode ser questionada, revista, responsabilizada\". Não se trata de o laudo humano ser mais exato — o argumento é sobre haver alguém a quem perguntar por quê.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-93",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "O problema apontado na solução de \"manter um profissional no circuito\" é que:",
+                                    "alternativas":  {
+                                                         "a":  "os sistemas automatizados não apresentam ao revisor a informação necessária para que ele possa reconstruir o raciocínio que levou àquela sugestão",
+                                                         "b":  "o profissional designado para a revisão costuma ter formação insuficiente para avaliar criticamente as sugestões produzidas pelo sistema automatizado",
+                                                         "c":  "o tempo exigido pela revisão anula o ganho de produtividade que justificou a adoção da ferramenta pelos serviços de diagnóstico por imagem",
+                                                         "d":  "uma sequência longa de acertos treina o revisor a deixar de revisar",
+                                                         "e":  "a presença de um revisor humano transfere integralmente a responsabilidade jurídica para ele, isentando o fabricante de qualquer obrigação futura"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O texto é preciso ao afastar a leitura moral do problema: \"não por negligência — por economia de atenção, que é como qualquer pessoa funciona\". A falha é previsível e decorre do próprio bom desempenho do sistema.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-94",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "A frase \"a confiança do revisor é justamente o que ele não deveria estar oferecendo\" significa que:",
+                                    "alternativas":  {
+                                                         "a":  "a relação entre o profissional e a ferramenta deveria ser mediada por um terceiro, encarregado de arbitrar as divergências surgidas durante o processo",
+                                                         "b":  "o revisor precisa manifestar publicamente sua discordância em relação às sugestões do sistema sempre que houver qualquer divergência entre as duas leituras",
+                                                         "c":  "revisar exige desconfiança, e o sistema produz o contrário disso",
+                                                         "d":  "os profissionais que atuam na revisão não deveriam conhecer o desempenho geral do sistema, informação que interfere na avaliação de cada caso isolado",
+                                                         "e":  "a confiança demonstrada pelo revisor constitui prova de que o sistema atingiu o padrão de qualidade exigido para operar sem supervisão permanente"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O papel do revisor é olhar como quem espera encontrar erro. Um sistema que acerta quase sempre corrói essa disposição — e o que ele passa a receber do revisor é confiança, exatamente o oposto da função para a qual o revisor está ali.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-95",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "As medidas de \"desenho\" propostas no quarto parágrafo têm em comum o fato de:",
+                                    "alternativas":  {
+                                                         "a":  "exigirem a participação de um segundo profissional em todas as etapas do processo, medida que o editorial considera indispensável à segurança do diagnóstico",
+                                                         "b":  "agirem sobre o funcionamento do sistema, e não sobre a boa vontade do usuário",
+                                                         "c":  "reduzirem o desempenho geral da ferramenta em troca de maior previsibilidade dos resultados obtidos nos casos que se afastam do padrão esperado",
+                                                         "d":  "dependerem de regulamentação específica ainda inexistente, sem a qual nenhuma delas poderá ser implementada pelos fabricantes de sistemas de apoio",
+                                                         "e":  "transferirem ao paciente a decisão final sobre aceitar ou não o resultado produzido de forma automatizada pelo sistema de leitura de exames"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Mostrar incerteza, sinalizar operação fora da faixa de treino, forçar segunda leitura nos casos limítrofes: nenhuma delas pede mais atenção do revisor. Todas mudam o que o sistema faz — em oposição à advertência no rodapé, que só pede esforço.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-96",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "A distinção entre segunda leitura \"nos casos limítrofes em vez de nos casos aleatórios\" indica preferência por uma verificação:",
+                                    "alternativas":  {
+                                                         "a":  "conduzida por profissional diferente daquele que fez a primeira leitura, exigência que o texto considera mais relevante do que a escolha dos casos",
+                                                         "b":  "aplicada a todos os exames sem exceção, critério que elimina a necessidade de identificar previamente quais casos apresentam maior risco de engano",
+                                                         "c":  "realizada em momento posterior ao envio do laudo ao paciente, de modo a não retardar a entrega do resultado nos casos de rotina do serviço",
+                                                         "d":  "dirigida a onde o erro é mais provável, em vez de distribuída por sorteio",
+                                                         "e":  "definida pelo próprio revisor conforme sua disponibilidade de tempo em cada plantão, arranjo que o editorial apresenta como o mais realista na prática"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Amostra aleatória distribui a atenção uniformemente e a desperdiça nos casos fáceis. Concentrar a segunda leitura onde o sistema está menos seguro usa o mesmo esforço onde ele rende — é a mesma lógica das outras duas medidas propostas.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-97",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "Ao mencionar que o sistema pode estar \"certo em 95% dos casos\", o editorial usa o número para:",
+                                    "alternativas":  {
+                                                         "a":  "demonstrar que a margem de erro dos sistemas automatizados supera a dos especialistas humanos quando se consideram séries longas de exames analisados",
+                                                         "b":  "conceder o bom desempenho e deslocar a discussão para os casos restantes",
+                                                         "c":  "estabelecer o patamar mínimo de acerto a partir do qual uma ferramenta de apoio ao diagnóstico poderia ser autorizada a operar sem supervisão direta",
+                                                         "d":  "apontar que o desempenho divulgado pelos fabricantes é medido em condições de laboratório que não se reproduzem na rotina dos serviços de saúde",
+                                                         "e":  "contestar a validade das métricas usadas para avaliar sistemas de leitura de imagem, que segundo o texto não capturam a complexidade dos casos reais"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O texto não disputa o número: aceita-o e pergunta o que acontece nos 5%. É movimento de concessão — ao admitir o ponto forte do adversário, a objeção que sobra fica mais difícil de descartar.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-98",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "A afirmação de que a decisão sobre responsabilidade \"não é técnica\" implica que ela:",
+                                    "alternativas":  {
+                                                         "a":  "deve ser adiada até que os sistemas alcancem índices de acerto próximos de cem por cento, patamar a partir do qual a questão perderia relevância prática",
+                                                         "b":  "depende de estudos de desempenho ainda não realizados, sem os quais nenhuma instância poderá estabelecer critérios de atribuição de responsabilidade",
+                                                         "c":  "cabe a quem define regras e assume consequências, não a quem desenvolve o sistema",
+                                                         "d":  "compete exclusivamente ao Poder Judiciário, que decidirá caso a caso conforme as circunstâncias em que cada erro de diagnóstico tiver ocorrido",
+                                                         "e":  "pertence ao paciente, a quem cabe autorizar ou recusar a utilização de ferramentas automatizadas na análise de seus próprios exames de imagem"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Dizer que a decisão não é técnica é dizer que nenhuma medida de desempenho a resolve. E o fecho — \"não será a máquina que vai tomá-la\" — deixa claro que ela pertence a quem institui a regra e responde por ela.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-99",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "O título \"O que a máquina não assina\" antecipa o argumento porque:",
+                                    "alternativas":  {
+                                                         "a":  "nomeia o que falta ao sistema, e é essa falta que o texto discute",
+                                                         "b":  "identifica os tipos de exame para os quais a legislação ainda não autoriza a emissão de laudo produzido de forma inteiramente automatizada pelo programa",
+                                                         "c":  "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem em comparação com a acuidade visual dos especialistas humanos",
+                                                         "d":  "sugere que os sistemas ocultam deliberadamente a autoria de suas conclusões, prática que o editorial denuncia ao longo dos parágrafos seguintes",
+                                                         "e":  "anuncia uma comparação entre os documentos emitidos por profissionais e aqueles gerados por sistemas, cotejados item a item no corpo do texto"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A máquina produz a leitura; o que ela não faz é assinar. O título isola exatamente a diferença que o segundo parágrafo desenvolve e da qual decorre todo o resto do editorial.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-100",
+                                    "textoId":  "med-int-t10",
+                                    "enunciado":  "A ressalva \"Nada disso é objeção à tecnologia\" cumpre a função de:",
+                                    "alternativas":  {
+                                                         "a":  "encerrar o texto com uma síntese das ideias apresentadas, retomando na ordem cada um dos pontos desenvolvidos ao longo dos parágrafos anteriores",
+                                                         "b":  "amenizar o tom da argumentação diante de leitores que trabalham no desenvolvimento de sistemas de apoio ao diagnóstico e poderiam se sentir atingidos",
+                                                         "c":  "reconhecer que os argumentos apresentados até ali perderam força ao longo da exposição e precisam ser relativizados antes da conclusão do editorial",
+                                                         "d":  "introduzir um novo assunto, deslocando a discussão do funcionamento dos sistemas para o campo da regulamentação profissional da atividade médica",
+                                                         "e":  "impedir que o texto seja lido como recusa, delimitando o alvo da crítica"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Depois de quatro parágrafos apontando problemas, o leitor poderia concluir que o texto é contra a ferramenta. A ressalva bloqueia essa leitura e reposiciona a crítica: o alvo é a adoção sem decisão prévia, não a tecnologia.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-101",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "A tese com que o orador abre o discurso é a de que:",
+                                    "alternativas":  {
+                                                         "a":  "os primeiros anos de exercício profissional serão mais decisivos para a carreira dos formandos do que todo o período de estudos que os antecedeu",
+                                                         "b":  "a cerimônia de formatura constitui um rito de passagem cuja importância simbólica tem sido subestimada pelas instituições de ensino nos últimos anos",
+                                                         "c":  "o que importa na formação já começou antes da formatura",
+                                                         "d":  "as expectativas depositadas pelas famílias sobre os recém-formados costumam ser desproporcionais em relação ao que a profissão pode oferecer a eles",
+                                                         "e":  "a formação acadêmica recebida pelos estudantes apresenta lacunas importantes que só serão percebidas depois de iniciada a prática profissional cotidiana"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O orador declara que vai discordar da frase \"agora começa o que importa\" e enuncia a contraposição no parágrafo seguinte: \"O que importa já começou\". O resto do discurso decorre daí.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-102",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "O episódio em que \"alguém contou a vocês alguma coisa que não contaria a mais ninguém\" é apresentado como marco porque:",
+                                    "alternativas":  {
+                                                         "a":  "a confiança foi dada antes de qualquer credencial, e é isso que o orador valoriza",
+                                                         "b":  "aquele foi o primeiro contato dos estudantes com informações de caráter sigiloso, cujo tratamento adequado é regulamentado pelo código de ética da profissão",
+                                                         "c":  "o episódio marcou o início do período de atividades práticas no currículo, etapa em que os estudantes passam a acompanhar pacientes sob supervisão",
+                                                         "d":  "os estudantes demonstraram naquele momento domínio técnico suficiente para conduzir sozinhos uma conversa difícil com a pessoa que os procurou",
+                                                         "e":  "a situação revelou aos estudantes que a profissão exige disponibilidade emocional que a formação teórica recebida na universidade não é capaz de desenvolver"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O orador sublinha as duas condições: \"vocês eram estudantes\", \"não tinham autoridade nenhuma\" — e \"mesmo assim a pessoa contou\". O valor está justamente em a confiança não ter dependido de título nenhum.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-103",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "Ao dizer \"Eu queria discordar disso na frente dos seus pais\", o orador:",
+                                    "alternativas":  {
+                                                         "a":  "sugere que os pais dos formandos não compreendem a natureza da profissão que os filhos escolheram e precisam ser esclarecidos a esse respeito",
+                                                         "b":  "critica a postura das famílias presentes, cujas expectativas em relação aos formandos ele considera excessivas e prejudiciais ao início da carreira",
+                                                         "c":  "pede autorização aos responsáveis antes de abordar um tema que poderia constranger os formandos diante das pessoas reunidas na cerimônia",
+                                                         "d":  "indica que sua fala foi previamente combinada com a coordenação do curso, que aprovou o conteúdo do discurso antes da realização do evento",
+                                                         "e":  "assume publicamente uma posição contrária a um lugar-comum da ocasião"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A menção aos pais marca que a discordância é dita diante de quem tem interesse na cerimônia e nas suas frases feitas. Não é crítica às famílias — é o orador se comprometendo publicamente com uma posição incômoda.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-104",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "O orador recusa desejar que os formandos \"acertem sempre\" porque considera esse desejo:",
+                                    "alternativas":  {
+                                                         "a":  "excessivamente ambicioso para uma turma que ainda não iniciou o exercício profissional e precisará de anos até alcançar o domínio técnico necessário",
+                                                         "b":  "irrealizável, e por isso substitui-o por outro que julga possível e mais útil",
+                                                         "c":  "inadequado à ocasião, uma vez que cerimônias de formatura não são o momento apropriado para tratar de erros cometidos na prática profissional",
+                                                         "d":  "menos importante do que o sucesso financeiro, tema que ele desenvolve nos parágrafos seguintes ao dirigir-se diretamente aos formandos presentes",
+                                                         "e":  "próprio de discursos protocolares, gênero do qual ele pretende se afastar por meio de uma linguagem deliberadamente informal ao longo da fala"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "\"Seria um desejo inútil, e vocês descobririam isso na primeira semana.\" Descartado o impossível, ele oferece o que está ao alcance: alguém a quem contar o erro em voz alta.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-105",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "Ao afirmar que ter alguém a quem contar o erro \"é mais raro do que competência técnica, e protege mais\", o orador estabelece:",
+                                    "alternativas":  {
+                                                         "a":  "que as instituições de ensino deveriam incluir em seus currículos disciplinas voltadas ao desenvolvimento de habilidades de relacionamento interpessoal",
+                                                         "b":  "que a competência técnica pode ser dispensada quando o profissional conta com uma rede de apoio suficientemente sólida em seu ambiente de trabalho",
+                                                         "c":  "que os erros cometidos no exercício da profissão decorrem principalmente do isolamento, e não de lacunas na formação recebida pelos profissionais",
+                                                         "d":  "uma hierarquia inesperada entre dois bens, em favor do menos óbvio",
+                                                         "e":  "que a raridade de um bem é o critério adequado para medir sua importância relativa nas decisões que os formandos terão de tomar na carreira"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Numa formatura, o elogio esperado recai sobre a competência técnica. O orador a mantém em segundo plano diante de algo que ninguém certifica — e sustenta a inversão com dois critérios: é mais escasso e protege mais.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-106",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "O pedido para não responder \"com pressa\" a uma pergunta óbvia se sustenta no argumento de que:",
+                                    "alternativas":  {
+                                                         "a":  "as perguntas aparentemente simples costumam esconder dúvidas técnicas complexas que exigem tempo de elaboração por parte de quem vai respondê-las",
+                                                         "b":  "os próprios formandos chegaram ali porque alguém não os apressou",
+                                                         "c":  "a pressa na comunicação entre profissionais é a principal causa de erro nos serviços de saúde, segundo os estudos que o orador menciona na sequência",
+                                                         "d":  "os profissionais mais jovens tendem a formular perguntas mal estruturadas, o que exige de quem responde um esforço adicional de interpretação",
+                                                         "e":  "responder rapidamente transmite insegurança ao interlocutor, que passa a duvidar da competência de quem lhe forneceu aquela orientação apressada"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "\"Alguém, um dia, não respondeu com pressa a vocês — e é por isso que vocês estão aqui.\" O pedido é para devolver o que receberam, o que transforma a recomendação em dívida a ser paga adiante.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-107",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "A frase final, \"E até segunda-feira, porque o hospital não fecha no fim de semana\", produz efeito de:",
+                                    "alternativas":  {
+                                                         "a":  "despedida protocolar, encerrando a cerimônia com a fórmula habitual empregada nesse tipo de evento pelas instituições de ensino superior do país",
+                                                         "b":  "advertência sobre a escala de plantões, cujo cumprimento passa a ser obrigatório para os formandos a partir do primeiro dia útil após a cerimônia",
+                                                         "c":  "crítica às condições de trabalho da instituição, que segundo o orador não respeita os períodos de descanso previstos na legislação vigente",
+                                                         "d":  "quebra do tom solene, devolvendo os formandos à rotina que os espera",
+                                                         "e":  "ironia dirigida aos familiares presentes, que segundo o orador não têm noção da carga de trabalho que os formandos passarão a enfrentar em breve"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Depois do \"parabéns\", que fecharia o discurso no registro cerimonial, vem uma frase de expediente. O contraste tira a formatura do pedestal e devolve todo mundo ao trabalho — que é, no fim, a tese do discurso inteiro.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-108",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "São marcas da oralidade e do gênero discurso presentes no texto:",
+                                    "alternativas":  {
+                                                         "a":  "a interpelação direta ao público, o uso do imperativo e a referência à situação da fala",
+                                                         "b":  "a citação de autores consagrados, o emprego de terminologia especializada e a estrutura em tópicos numerados ao longo de toda a exposição feita",
+                                                         "c":  "a narração de acontecimentos em ordem cronológica rigorosa, acompanhada da indicação precisa das datas em que cada episódio teria ocorrido",
+                                                         "d":  "a ausência completa de marcas de subjetividade, característica que confere ao texto o distanciamento próprio dos documentos institucionais",
+                                                         "e":  "a alternância entre perguntas e respostas, recurso que aproxima o texto do gênero entrevista e permite ao público participar da construção do sentido"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "\"Vocês vão ouvir\", \"guardem isso\", \"não respondam com pressa\", \"na frente dos seus pais\", \"a partir de amanhã\": o texto fala a um público presente, dá ordens e se ancora no aqui e agora da cerimônia.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-109",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "A afirmação de que aquilo é \"a única coisa que nenhum curso devolve se vocês perderem\" indica que o orador considera esse bem:",
+                                    "alternativas":  {
+                                                         "a":  "impossível de ser transmitido entre gerações de profissionais, razão pela qual cada um precisa reconstruí-lo integralmente por conta própria",
+                                                         "b":  "de aquisição obrigatória durante a graduação, período após o qual não haverá mais oportunidade de desenvolvê-lo em nenhuma outra etapa da carreira",
+                                                         "c":  "restrito aos profissionais que atuam em contato direto com pacientes, não se aplicando às demais áreas de exercício previstas para os formandos",
+                                                         "d":  "menos relevante do que a atualização científica permanente, que segundo ele deve ocupar a maior parte do tempo dedicado ao aperfeiçoamento",
+                                                         "e":  "irrecuperável por meio de formação adicional, ao contrário do conhecimento técnico"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O contraste é com o que um curso repõe: técnica se recicla, conteúdo se atualiza. A disposição de receber a confiança de alguém, uma vez perdida, não se recupera fazendo outra especialização — daí o \"guardem isso\".",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-110",
+                                    "textoId":  "med-int-t11",
+                                    "enunciado":  "O discurso se organiza, na ordem, do seguinte modo:",
+                                    "alternativas":  {
+                                                         "a":  "apresentação de dados sobre o mercado de trabalho, análise das dificuldades esperadas e recomendações práticas para os primeiros anos de exercício",
+                                                         "b":  "saudação às autoridades presentes, retrospectiva do curso concluído, agradecimento aos professores e votos de sucesso dirigidos a cada um dos formandos",
+                                                         "c":  "recusa de um lugar-comum, contraproposta, desejo reformulado e pedido final",
+                                                         "d":  "narrativa de um caso vivido pelo orador, generalização a partir dele, comparação com a situação atual e convocação dos presentes a uma mudança",
+                                                         "e":  "enumeração das qualidades da turma, reconhecimento das dificuldades enfrentadas ao longo do curso e encerramento com uma citação de autor consagrado"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Ele nega que o importante comece agora, mostra quando começou de fato, troca o desejo convencional de acerto por outro e termina pedindo que não respondam com pressa. Nenhum dos elementos protocolares de (b) aparece.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-111",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A avaliação geral que a resenha faz do livro é:",
+                                    "alternativas":  {
+                                                         "a":  "ambígua, já que o texto apresenta argumentos igualmente fortes a favor e contra a obra sem indicar qual das duas avaliações o resenhista sustenta",
+                                                         "b":  "desfavorável, uma vez que o resenhista considera a estrutura adotada pela autora um obstáculo à compreensão do conteúdo apresentado em cada capítulo",
+                                                         "c":  "neutra, limitando-se a descrever a organização da obra sem emitir julgamento sobre seus méritos ou sobre as escolhas feitas pela autora ao redigi-la",
+                                                         "d":  "favorável apenas quanto ao público especializado, ao qual o resenhista recomenda a leitura por considerá-la inacessível aos leitores de outras áreas",
+                                                         "e":  "favorável, com uma ressalva localizada na parte final da obra"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "\"Funciona\", \"o melhor do livro\", \"ainda assim, recomenda-se\" — a avaliação é positiva. A crítica existe e é firme, mas está circunscrita às quarenta páginas finais, o que a alternativa (a) desconsidera.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-112",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "Ao dizer que o livro é \"organizado contra a leitura corrida\", o resenhista se refere:",
+                                    "alternativas":  {
+                                                         "a":  "à extensão desproporcional dos capítulos, cuja leitura não pode ser concluída em uma única sessão pelo leitor médio a que a obra se destina",
+                                                         "b":  "à densidade do vocabulário técnico empregado pela autora, que exige consultas frequentes a obras de referência ao longo de todos os capítulos",
+                                                         "c":  "a uma estrutura que obriga o leitor a parar e formular sua própria hipótese",
+                                                         "d":  "à ausência de sumário e de índice remissivo, falhas editoriais que dificultam a localização de passagens específicas no interior do volume",
+                                                         "e":  "à disposição gráfica adotada na edição, com margens estreitas e corpo de letra reduzido que tornam o texto cansativo após poucas páginas"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O parágrafo seguinte explica: caso primeiro, análise depois, e a análise \"quase nunca conclui o que o caso parecia anunciar\". A dificuldade é deliberada e de estrutura, não de vocabulário nem de diagramação.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-113",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "O resenhista considera que os melhores capítulos são aqueles em que a autora:",
+                                    "alternativas":  {
+                                                         "a":  "apresenta com maior detalhamento os aspectos técnicos de cada caso clínico, permitindo ao leitor acompanhar o raciocínio diagnóstico passo a passo",
+                                                         "b":  "admite não ter compreendido o desfecho e escreve na primeira pessoa do singular",
+                                                         "c":  "recorre ao plural para expressar as conclusões da equipe envolvida, recurso que confere maior credibilidade às análises apresentadas na obra",
+                                                         "d":  "estabelece comparações entre casos semelhantes, procedimento que segundo ele revela o padrão comum por trás das situações narradas individualmente",
+                                                         "e":  "propõe orientações práticas aplicáveis a situações análogas, parte que o resenhista considera a contribuição mais duradoura do trabalho publicado"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "São os quatro capítulos em que ela troca \"observamos\" e \"concluímos\" por \"eu não sei\". O resenhista chama a mudança de registro de notável e lamenta que não se estenda ao resto do livro.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-114",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A objeção à última parte do livro se baseia em:",
+                                    "alternativas":  {
+                                                         "a":  "a repetição de conteúdo já apresentado nos capítulos anteriores, o que torna a leitura dessas páginas dispensável para quem acompanhou o livro",
+                                                         "b":  "erros de fato identificados pelo resenhista nos princípios gerais que a autora formula ao encerrar o volume publicado neste ano pela editora",
+                                                         "c":  "a extensão excessiva dessa seção, que segundo ele desequilibra a proporção entre as diferentes partes que compõem a estrutura geral da obra",
+                                                         "d":  "uma incoerência com o que a própria obra defendera até ali",
+                                                         "e":  "a linguagem adotada nessa parte, mais técnica do que a do restante e por isso inacessível ao leitor não especializado que o livro busca alcançar"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O argumento está na frase: depois de cento e cinquenta páginas defendendo que cada caso resiste à generalização, generalizar contraria a própria tese. Por isso soa como \"concessão a uma expectativa editorial\".",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-115",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A frase \"O livro teria terminado melhor no capítulo anterior\" expressa:",
+                                    "alternativas":  {
+                                                         "a":  "uma sugestão editorial que resume, em uma linha, a crítica feita antes",
+                                                         "b":  "a constatação de que o volume foi publicado antes de ser concluído, hipótese que o resenhista sustenta ao longo do parágrafo final de seu texto",
+                                                         "c":  "a recomendação de que o leitor interrompa a leitura antes da última seção, orientação prática que o resenhista dirige a quem for adquirir a obra",
+                                                         "d":  "a discordância do resenhista quanto ao desfecho atribuído pela autora ao último caso clínico narrado ao longo dos capítulos que compõem o livro",
+                                                         "e":  "a avaliação de que a obra deveria ter sido publicada em dois volumes distintos, separando os casos clínicos das conclusões de caráter mais geral"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "É a condensação do parágrafo: se a seção final contraria o livro, o livro estaria melhor sem ela. A frase enuncia o juízo em forma de conselho ao editor, o que é comum no gênero resenha.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-116",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A observação de que a obra \"tem 190 páginas e leva mais tempo do que isso sugere\" serve para:",
+                                    "alternativas":  {
+                                                         "a":  "corrigir a expectativa que o número de páginas cria no leitor",
+                                                         "b":  "criticar o preço de capa fixado pela editora, considerado alto para um volume de extensão reduzida em comparação com outros títulos do mesmo gênero",
+                                                         "c":  "informar que a edição consultada pelo resenhista difere daquela disponível nas livrarias, cuja paginação foi alterada em relação à publicação original",
+                                                         "d":  "indicar que o livro reúne textos publicados anteriormente em outros veículos, o que explicaria a densidade incomum de cada um de seus capítulos",
+                                                         "e":  "sugerir que a autora deveria ter desenvolvido mais os temas abordados, ampliando a extensão do volume para tratar adequadamente de cada caso"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "Contagem de páginas é o atalho pelo qual se estima duração de leitura. O resenhista invoca o número justamente para desmenti-lo, e o \"não porque seja difícil\" da frase seguinte afasta a explicação óbvia.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-117",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "O período de uma só palavra, \"Funciona.\", produz efeito de:",
+                                    "alternativas":  {
+                                                         "a":  "citação, reproduzindo literalmente um trecho do livro resenhado em que a própria autora avalia a eficácia do procedimento que adotou",
+                                                         "b":  "dúvida, deixando em aberto se a estratégia adotada pela autora atinge ou não o objetivo que ela se propôs ao organizar o livro daquela forma",
+                                                         "c":  "transição, indicando ao leitor que o texto passará a tratar de um aspecto diferente da obra a partir do parágrafo imediatamente seguinte",
+                                                         "d":  "ironia, sugerindo que a estrutura descrita produz o efeito contrário ao pretendido pela autora e frustra as expectativas criadas no leitor",
+                                                         "e":  "veredito breve, que fecha a descrição da estrutura com um julgamento"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O parágrafo descreve a estrutura em detalhe e termina com o veredito em uma palavra. A brevidade é o recurso: depois de explicar o mecanismo, o resenhista dispensa argumento e apenas assina embaixo.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-118",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A recomendação final \"inclusive a quem não trabalha na área\" se justifica no texto porque o livro:",
+                                    "alternativas":  {
+                                                         "a":  "aborda temas de interesse público relacionados ao funcionamento dos serviços de saúde, assunto que diz respeito a toda a população atendida por eles",
+                                                         "b":  "emprega linguagem acessível e dispensa conhecimento técnico prévio em todos os seus capítulos, o que o torna adequado ao público geral interessado",
+                                                         "c":  "apresenta os casos clínicos de forma resumida, permitindo que o leitor leigo acompanhe a narrativa sem precisar recorrer a fontes complementares",
+                                                         "d":  "trata de decidir com informação incompleta, situação que não é exclusiva da medicina",
+                                                         "e":  "foi escrito originalmente para um público não especializado e só depois adotado como referência entre profissionais que atuam na área da saúde"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "A justificativa está na última frase, e ela é sobre o assunto do livro, não sobre sua acessibilidade. O resenhista generaliza o tema — decidir sem saber tudo —, não o vocabulário.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-119",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "São elementos característicos do gênero resenha presentes no texto:",
+                                    "alternativas":  {
+                                                         "a":  "a apresentação de dados biográficos da autora, o histórico de suas publicações anteriores e a análise da recepção crítica que cada uma delas obteve",
+                                                         "b":  "o resumo integral do enredo, a transcrição de trechos representativos e a comparação sistemática com as demais obras publicadas pela mesma autora",
+                                                         "c":  "a descrição da obra, o juízo crítico fundamentado e a recomendação ao leitor",
+                                                         "d":  "a exposição neutra do conteúdo, sem manifestação de preferência por parte de quem escreve, seguida da ficha técnica completa da edição analisada",
+                                                         "e":  "a defesa de uma tese própria do resenhista sobre o tema tratado no livro, desenvolvida com argumentos independentes daqueles apresentados na obra"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O texto informa como o livro é organizado, avalia acertos e o ponto fraco com razões explícitas, e fecha recomendando. Resenha não é resumo — e, ao contrário de (d), o juízo é parte constitutiva do gênero.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-120",
+                                    "textoId":  "med-int-t12",
+                                    "enunciado":  "A mudança da primeira pessoa do plural para a do singular, apontada na resenha, é valorizada porque:",
+                                    "alternativas":  {
+                                                         "a":  "aproxima o texto da norma culta escrita, que recomenda o uso do singular nas construções em que o autor se refere a si mesmo ao longo da obra",
+                                                         "b":  "expõe quem assume a dúvida, em lugar de diluí-la num sujeito coletivo",
+                                                         "c":  "torna a leitura mais fluente ao eliminar as construções verbais no plural, cuja repetição prejudicava o ritmo dos capítulos anteriores do volume",
+                                                         "d":  "indica que aqueles capítulos foram redigidos em momento distinto do restante da obra, hipótese que o resenhista confirma no parágrafo seguinte",
+                                                         "e":  "revela que a autora trabalhou sozinha nos casos relatados nesses capítulos, ao contrário do que ocorreu nos demais, conduzidos em equipe"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "\"Observamos\" e \"concluímos\" distribuem a responsabilidade por um coletivo indefinido; \"eu não sei\" tem dono. É essa exposição pessoal que o resenhista chama de notável e gostaria de ver no livro inteiro.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-121",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "O Cartaz 1 constrói seu argumento a partir de:",
+                                    "alternativas":  {
+                                                         "a":  "um apelo à responsabilidade coletiva dos usuários do transporte público, destinatários diretos da mensagem veiculada naquele espaço de circulação",
+                                                         "b":  "um dado epidemiológico sobre a redução de infecções obtida em unidades que adotaram protocolos rigorosos de higienização das mãos entre os profissionais",
+                                                         "c":  "uma advertência sobre as consequências sanitárias da falta de higiene, apresentadas em ordem crescente de gravidade ao longo das linhas do cartaz",
+                                                         "d":  "uma comparação de tempo que usa a própria leitura como medida",
+                                                         "e":  "uma pergunta retórica dirigida ao leitor, cuja resposta é fornecida na linha seguinte pelo próprio texto da peça publicitária apresentada"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O cartaz mede a objeção com a régua de quem a faz: se ler custou 40 segundos, os 20 da higienização deixam de parecer muito. A comparação só funciona porque a primeira grandeza é o próprio ato de leitura em curso.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-122",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "No Cartaz 2, a oposição entre \"não lembra o seu nome\" e \"lembra que você sentou\" sugere que:",
+                                    "alternativas":  {
+                                                         "a":  "os pacientes internados apresentam com frequência quadros de comprometimento cognitivo que dificultam o reconhecimento de familiares e de pessoas próximas",
+                                                         "b":  "o que fica da visita é a presença, e não a informação trocada",
+                                                         "c":  "as visitas devem ser breves para não comprometer o repouso necessário à recuperação de quem se encontra internado nas unidades de saúde",
+                                                         "d":  "o visitante deve se identificar sempre ao chegar, uma vez que o paciente pode não reconhecê-lo em razão do tempo decorrido desde o último encontro",
+                                                         "e":  "a memória dos pacientes registra prioritariamente os acontecimentos ocorridos durante o período de internação, apagando as lembranças anteriores a ele"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O gesto de sentar — ficar, ocupar a cadeira, não passar rápido — sobrevive ao esquecimento do nome. O cartaz desloca o valor da visita do conteúdo da conversa para o simples estar ali, o que também baixa a barreira para quem não sabe o que dizer.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-123",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "No Cartaz 3, o contraste \"O exame leva 15 minutos. A fila para marcar, 15 dias\" tem a função de:",
+                                    "alternativas":  {
+                                                         "a":  "informar ao leitor o tempo médio de espera para cada etapa do procedimento, de modo que ele possa se organizar antes de procurar o serviço",
+                                                         "b":  "denunciar a demora do sistema de saúde na oferta de exames, apontando a necessidade de ampliação da capacidade de atendimento nas unidades da rede",
+                                                         "c":  "mostrar que adiar custa mais do que o próprio exame, o que justifica marcar hoje",
+                                                         "d":  "comparar o desempenho da rede pública com o da rede privada, cuja agilidade no agendamento é apresentada como referência a ser alcançada",
+                                                         "e":  "desestimular a procura por exames de rotina em períodos de alta demanda, quando o tempo de espera se torna significativamente mais longo que o habitual"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A frase reconhece a demora e a transforma em argumento a favor da campanha: como a fila é longa, quem adia a decisão adia também os quinze dias. O cartaz encerra exatamente com \"marque hoje\", não com uma denúncia.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-124",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "A citação \"Depois eu marco\", no Cartaz 3, é eficaz porque:",
+                                    "alternativas":  {
+                                                         "a":  "reproduz a frase que o próprio leitor costuma dizer a si mesmo",
+                                                         "b":  "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem transmitida pela peça publicitária",
+                                                         "c":  "reproduz uma orientação frequentemente dada pelos profissionais de saúde aos pacientes que procuram as unidades sem encaminhamento prévio",
+                                                         "d":  "ironiza a linguagem burocrática utilizada nos serviços de agendamento, cuja complexidade é apontada como causa do adiamento dos exames",
+                                                         "e":  "cita um trecho de campanha anterior veiculada pelo mesmo órgão, estabelecendo continuidade entre as duas ações de comunicação realizadas"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "As aspas devolvem ao leitor uma frase que ele reconhece como sua. Reconhecida a fala, o dado que vem a seguir — seis em cada dez disseram o mesmo — o inclui numa maioria que não cumpriu o que prometeu.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-125",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "A abertura do Cartaz 4, \"Não é frescura\", pressupõe que:",
+                                    "alternativas":  {
+                                                         "a":  "as campanhas anteriores empregaram linguagem excessivamente técnica, o que teria comprometido a compreensão da mensagem pelo público destinatário",
+                                                         "b":  "os serviços de urgência costumam recusar o atendimento de pacientes cujos sintomas sejam considerados de baixa gravidade pela equipe de triagem",
+                                                         "c":  "a população desconhece os sintomas que caracterizam as situações de urgência e por isso precisa ser informada sobre cada um deles em detalhe",
+                                                         "d":  "a febre prolongada constitui, por si só, indicação de internação hospitalar imediata, informação que a peça publicitária busca divulgar amplamente",
+                                                         "e":  "existe quem trate procurar atendimento como exagero, e o cartaz responde a isso"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Negar uma acusação implica que ela circula. O cartaz não começa informando: começa desarmando o julgamento — o de si mesmo ou o dos outros — que faz a pessoa adiar a ida ao serviço.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-126",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "O uso do imperativo ao final de três dos quatro cartazes indica que a campanha:",
+                                    "alternativas":  {
+                                                         "a":  "dirige-se aos profissionais de saúde responsáveis pela execução das medidas descritas, e não ao público que circula no transporte coletivo",
+                                                         "b":  "adota registro autoritário incompatível com o gênero publicitário, escolha que compromete a adesão do público às medidas propostas em cada peça",
+                                                         "c":  "não se limita a informar: pede uma ação determinada de quem lê",
+                                                         "d":  "reproduz o formato dos textos instrucionais, gênero do qual a campanha toma emprestada também a organização em perguntas e respostas breves",
+                                                         "e":  "pretende esgotar a informação disponível sobre cada tema abordado, apresentando ao leitor todas as orientações necessárias em espaço reduzido"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "\"Visite\", \"marque\", \"procure\": cada peça termina com um verbo que nomeia o que fazer. É a função apelativa da linguagem, e é ela que distingue campanha de informativo.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-127",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "A brevidade das frases nas quatro peças se explica sobretudo:",
+                                    "alternativas":  {
+                                                         "a":  "pelo suporte, lido de passagem e em pouco tempo",
+                                                         "b":  "pela exigência de reduzir custos de produção gráfica, uma vez que o valor de cada peça é calculado a partir do número de caracteres impressos nela",
+                                                         "c":  "pela necessidade de adaptar o texto ao público de menor escolaridade, único capaz de ser alcançado por campanhas veiculadas em transporte coletivo",
+                                                         "d":  "pela obrigação legal de limitar a extensão das mensagens de utilidade pública veiculadas em espaços de circulação de pessoas nas grandes cidades",
+                                                         "e":  "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O próprio cabeçalho informa onde as peças serão veiculadas. Um cartaz de ônibus disputa alguns segundos de atenção de alguém em pé — e a extensão da frase é decidida por essa condição de leitura.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-128",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "Entre os quatro cartazes, o que mais se afasta do apelo direto a um procedimento de saúde é o:",
+                                    "alternativas":  {
+                                                         "a":  "Cartaz 1, uma vez que a higienização das mãos constitui medida de eficácia contestada nos estudos mais recentes sobre transmissão de infecções",
+                                                         "b":  "Cartaz 1, que se limita a comparar dois intervalos de tempo sem indicar qualquer conduta a ser adotada pelo leitor da peça publicitária",
+                                                         "c":  "Cartaz 3, cuja mensagem central é a denúncia da demora no agendamento e não a recomendação de realizar o exame preventivo indicado",
+                                                         "d":  "Cartaz 4, que descreve um quadro clínico específico sem estabelecer relação com as demais peças que integram a mesma campanha institucional",
+                                                         "e":  "Cartaz 2, que trata do valor da presença junto a quem está internado"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Os cartazes 1, 3 e 4 pedem higienizar, marcar e procurar atendimento. O 2 pede visitar — gesto que não é procedimento nem exame, e cujo argumento é afetivo, não clínico.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-129",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "O dado \"6 em cada 10\" foi preferido a um percentual porque essa forma:",
+                                    "alternativas":  {
+                                                         "a":  "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados",
+                                                         "b":  "faz o leitor se imaginar dentro do grupo, o que a porcentagem não faz",
+                                                         "c":  "ocupa menos espaço no cartaz, exigência decorrente das dimensões reduzidas das peças destinadas à veiculação no interior dos veículos coletivos",
+                                                         "d":  "corresponde ao formato exigido pelos órgãos de saúde para a divulgação de indicadores obtidos a partir de levantamentos populacionais amostrais",
+                                                         "e":  "permite comparar diretamente o resultado com os de anos anteriores, quando o mesmo indicador foi apresentado na mesma unidade de medida"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Sessenta por cento é uma propriedade da população; seis em cada dez são pessoas contáveis, e o leitor é uma delas. A escolha da forma decide se o dado descreve os outros ou inclui quem lê.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-130",
+                                    "textoId":  "med-int-t13",
+                                    "enunciado":  "As quatro peças têm em comum a estratégia de:",
+                                    "alternativas":  {
+                                                         "a":  "identificar o órgão responsável pela campanha ao final de cada peça, exigência das normas aplicáveis à publicidade de utilidade pública",
+                                                         "b":  "apresentar dados numéricos verificáveis em todas as peças, prática que confere credibilidade científica ao conjunto da campanha veiculada",
+                                                         "c":  "descrever as consequências clínicas de cada comportamento inadequado, apresentadas em ordem crescente de gravidade dentro de cada cartaz",
+                                                         "d":  "antecipar a objeção do leitor e responder a ela antes do pedido",
+                                                         "e":  "recorrer a personagens fictícias com as quais o público possa se identificar, recurso empregado de modo uniforme nos quatro cartazes da série"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Falta de tempo, não saber o que dizer, deixar para depois, achar que é exagero: cada cartaz nomeia a resistência antes de pedir a ação. Nem todos trazem número, o que já elimina (b).",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-131",
+                                    "texto_apoio":  "\"Traga sua caderneta. Confira a data. Não deixe para a semana que vem.\"",
+                                    "enunciado":  "No trecho, predomina a função da linguagem:",
+                                    "alternativas":  {
+                                                         "a":  "referencial, centrada no assunto tratado e caracterizada pela objetividade na transmissão de informações verificáveis sobre o mundo exterior",
+                                                         "b":  "apelativa, centrada no destinatário e na ação que se espera dele",
+                                                         "c":  "emotiva, centrada no emissor e marcada pela expressão de seus sentimentos e de suas impressões pessoais a respeito do que está sendo dito",
+                                                         "d":  "metalinguística, centrada no próprio código e empregada quando a língua é utilizada para explicar termos ou construções da própria língua",
+                                                         "e":  "poética, centrada na elaboração da mensagem e no trabalho com a sonoridade e com a disposição das palavras ao longo do enunciado produzido"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "Três verbos no imperativo dirigidos a um \"você\" implícito: o foco é o destinatário e a conduta que se quer dele. É a marca da função apelativa, ou conativa.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-132",
+                                    "texto_apoio":  "Compare: (I) \"A temperatura do paciente atingiu 39,2 °C às 14h.\" (II) \"Nunca vi ninguém tão quente nas minhas mãos.\"",
+                                    "enunciado":  "Nos enunciados I e II predominam, respectivamente, as funções:",
+                                    "alternativas":  {
+                                                         "a":  "fática e apelativa, considerando que o primeiro estabelece o contato entre os interlocutores e o segundo solicita uma providência ao destinatário",
+                                                         "b":  "emotiva e referencial, uma vez que o primeiro exprime a reação de quem observa e o segundo registra o dado obtido pela medição realizada",
+                                                         "c":  "poética e metalinguística, dada a elaboração formal do primeiro enunciado e o comentário sobre o código presente no segundo deles",
+                                                         "d":  "referencial e emotiva",
+                                                         "e":  "metalinguística e poética, pois o primeiro define um termo técnico e o segundo explora recursos expressivos na construção da frase apresentada"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O enunciado I informa um dado com precisão e sem marca de quem fala; o II tem \"nunca vi\", \"minhas mãos\" e um julgamento intensificado. O primeiro aponta para o referente, o segundo para o emissor.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-133",
+                                    "texto_apoio":  "\"Chamamos de prevalência a proporção de pessoas que têm a doença num dado momento; incidência é outra coisa — são os casos novos surgidos num período.\"",
+                                    "enunciado":  "No trecho, predomina a função:",
+                                    "alternativas":  {
+                                                         "a":  "metalinguística, porque a linguagem é usada para explicar os próprios termos",
+                                                         "b":  "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada",
+                                                         "c":  "apelativa, na medida em que orienta o leitor sobre o modo correto de empregar cada um dos dois conceitos apresentados ao longo do enunciado",
+                                                         "d":  "fática, pois o objetivo do enunciado é verificar se o canal de comunicação entre quem escreve e quem lê permanece aberto durante a exposição",
+                                                         "e":  "emotiva, considerando que o autor manifesta sua preferência pessoal por um dos dois indicadores mencionados no interior do mesmo período"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O verbo \"chamamos de\" e a correção \"incidência é outra coisa\" mostram que o assunto é o vocabulário, não a doença. Sempre que a língua fala de si mesma, a função é metalinguística.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-134",
+                                    "texto_apoio":  "\"O enfermeiro entregou o prontuário ao residente. Ele havia anotado a intercorrência da madrugada.\"",
+                                    "enunciado":  "O problema de coesão presente no segundo período consiste em:",
+                                    "alternativas":  {
+                                                         "a":  "a falta de concordância entre o sujeito do segundo período e a forma verbal empregada para exprimir a ação anterior à entrega do documento",
+                                                         "b":  "a ausência de um conectivo que estabeleça a relação lógica de causa entre os dois períodos que compõem o trecho apresentado ao leitor",
+                                                         "c":  "o emprego do pretérito mais-que-perfeito composto em lugar do pretérito perfeito simples, escolha inadequada ao registro adotado no texto",
+                                                         "d":  "a repetição desnecessária do termo \"prontuário\", que poderia ter sido substituído por um pronome oblíquo na segunda ocorrência do vocábulo",
+                                                         "e":  "o pronome \"ele\" admitir dois antecedentes possíveis"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "\"Ele\" pode retomar o enfermeiro ou o residente, e nada no trecho decide entre os dois. Coesão referencial exige que o pronome tenha um único antecedente recuperável — não é caso de concordância nem de conector.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-135",
+                                    "texto_apoio":  "\"Recomenda-se avaliar o paciente com o novo equipamento.\"",
+                                    "enunciado":  "A ambiguidade da frase decorre de:",
+                                    "alternativas":  {
+                                                         "a":  "o adjetivo \"novo\" admitir dois sentidos distintos, um relativo ao tempo de uso e outro relativo à ordem de aquisição do equipamento pela unidade",
+                                                         "b":  "a forma verbal pronominal não permitir identificar quem é o responsável pela recomendação feita no enunciado apresentado ao leitor do texto",
+                                                         "c":  "o adjunto poder se ligar tanto ao verbo quanto ao substantivo \"paciente\"",
+                                                         "d":  "o verbo \"avaliar\" poder ser interpretado como sinônimo de examinar ou de atribuir valor, acepções que conduzem a leituras inteiramente diversas",
+                                                         "e":  "a ausência de vírgula antes da preposição, sinal que separaria as duas orações e definiria a hierarquia entre os termos que compõem a frase"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Ou se avalia usando o novo equipamento, ou se avalia o paciente que está com ele. A estrutura permite as duas ligações, e é essa indefinição sintática — não o sentido das palavras — que gera a ambiguidade.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-136",
+                                    "texto_apoio":  "\"O município deixou de registrar novos casos em abril.\"",
+                                    "enunciado":  "A frase pressupõe que:",
+                                    "alternativas":  {
+                                                         "a":  "o município nunca havia registrado casos daquela doença antes do mês de abril, quando o primeiro deles foi finalmente identificado e notificado",
+                                                         "b":  "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos",
+                                                         "c":  "os casos continuaram a ocorrer, embora tenham deixado de ser informados aos órgãos responsáveis pela vigilância epidemiológica da região",
+                                                         "d":  "abril foi o mês de maior incidência da doença no período analisado pelas autoridades sanitárias responsáveis pelo acompanhamento do surto",
+                                                         "e":  "havia registro de casos antes de abril"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "\"Deixar de\" marca a interrupção de algo que ocorria — é pressuposto, não afirmação: quem nega a frase continua aceitando que antes havia registros. As alternativas (c) e (a) confundem pressuposto com inferência opcional.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-137",
+                                    "texto_apoio":  "— Você conseguiu revisar o protocolo? — Eu estava de plantão nas últimas três noites.",
+                                    "enunciado":  "A resposta comunica, sem dizer explicitamente, que:",
+                                    "alternativas":  {
+                                                         "a":  "a pessoa considera a tarefa desnecessária e recusa-se a executá-la, posição que manifesta de forma indireta para evitar o confronto aberto",
+                                                         "b":  "o protocolo foi revisado durante os plantões noturnos, período em que houve tempo disponível para dedicar-se à leitura atenta do documento",
+                                                         "c":  "a revisão não foi feita, e há uma justificativa para isso",
+                                                         "d":  "outra pessoa da equipe assumiu a revisão do documento no lugar de quem responde, arranjo combinado previamente entre os dois profissionais",
+                                                         "e":  "a pergunta foi mal formulada e não permite uma resposta objetiva, motivo pelo qual o interlocutor optou por descrever sua rotina recente"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A resposta não contém \"não\", mas quem pergunta entende que sim. É subentendido: a menção aos plantões só é relevante como explicação de uma tarefa não cumprida, e o interlocutor completa o raciocínio sozinho.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-138",
+                                    "texto_apoio":  "Compare: (I) \"O resultado indica infecção bacteriana.\" (II) \"O resultado possivelmente indica infecção bacteriana, embora outras causas não estejam descartadas.\"",
+                                    "enunciado":  "A diferença entre os dois enunciados está em que o segundo:",
+                                    "alternativas":  {
+                                                         "a":  "apresenta informação tecnicamente mais completa, uma vez que menciona a existência de causas alternativas não especificadas no primeiro enunciado",
+                                                         "b":  "modaliza a afirmação, reduzindo o grau de compromisso de quem a enuncia",
+                                                         "c":  "emprega registro mais formal do que o primeiro, adequação exigida pelos documentos de natureza técnica produzidos em ambiente hospitalar",
+                                                         "d":  "contradiz o conteúdo do primeiro enunciado, negando a conclusão que havia sido apresentada de forma categórica na formulação inicial",
+                                                         "e":  "dirige-se a um destinatário diferente, o que explica a mudança de vocabulário observada entre as duas versões do mesmo resultado laboratorial"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "\"Possivelmente\" e \"embora não estejam descartadas\" são marcas de modalização: não mudam o dado, mudam o quanto quem escreve se compromete com ele. Modalizar não é contradizer, o que descarta (d).",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-139",
+                                    "texto_apoio":  "\"Que sorte a nossa: o único aparelho quebrou justamente no dia em que a fila dobrou.\"",
+                                    "enunciado":  "O enunciado se caracteriza pelo emprego de:",
+                                    "alternativas":  {
+                                                         "a":  "metonímia, ao empregar o nome do equipamento em lugar do serviço que ele presta aos pacientes atendidos naquela unidade de referência",
+                                                         "b":  "hipérbole, ao exagerar deliberadamente a extensão da fila de pacientes que aguardavam atendimento naquele dia específico na unidade de saúde",
+                                                         "c":  "eufemismo, ao substituir uma expressão considerada dura por outra mais branda a fim de atenuar o impacto da informação transmitida",
+                                                         "d":  "ironia, ao dizer o contrário do que se quer significar",
+                                                         "e":  "pleonasmo, ao repetir de forma redundante uma ideia já expressa anteriormente no mesmo período, com o objetivo de reforçar o sentido"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "\"Que sorte\" seguido de duas circunstâncias ruins simultâneas: a leitura literal é impossível, e o contexto obriga a inverter o sentido. É a definição de ironia.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-140",
+                                    "texto_apoio":  "Compare: (I) \"Solicita-se ao paciente que compareça em jejum de oito horas.\" (II) \"Vem sem comer nada desde a noite, tá?\"",
+                                    "enunciado":  "A diferença entre os dois enunciados é essencialmente de:",
+                                    "alternativas":  {
+                                                         "a":  "registro, com o primeiro em variedade formal e o segundo em variedade coloquial",
+                                                         "b":  "correção gramatical, sendo o segundo enunciado incorreto do ponto de vista das regras que organizam a língua portuguesa escrita e falada",
+                                                         "c":  "conteúdo informativo, uma vez que o segundo enunciado omite a duração exata do jejum exigido antes da realização do exame solicitado",
+                                                         "d":  "função da linguagem, já que o primeiro se dirige ao destinatário e o segundo se concentra na transmissão objetiva do dado técnico",
+                                                         "e":  "regionalismo, pois o segundo enunciado emprega construções restritas a uma variedade geográfica específica do português brasileiro atual"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "As duas frases dizem a mesma coisa e ambas são adequadas ao contexto em que caberiam — uma numa guia impressa, outra numa conversa de balcão. Registro não é questão de certo e errado, o que elimina (b).",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-141",
+                                    "texto_apoio":  "Uma paciente diz: \"Os home lá do posto falaro que eu tinha que voltar.\" O atendente entende perfeitamente o que ela quer dizer.",
+                                    "enunciado":  "A situação ilustra que:",
+                                    "alternativas":  {
+                                                         "a":  "a variedade usada cumpre plenamente a função comunicativa, ainda que se afaste da norma padrão",
+                                                         "b":  "a comunicação entre profissionais de saúde e pacientes falha sistematicamente quando estes empregam variedades linguísticas distantes da escrita formal",
+                                                         "c":  "o atendente deveria corrigir a fala da paciente para assegurar que a informação seja registrada corretamente no prontuário eletrônico da unidade",
+                                                         "d":  "as marcas de concordância são dispensáveis em qualquer variedade do português, já que o contexto sempre permite recuperar o sentido pretendido",
+                                                         "e":  "a norma padrão constitui a única variedade capaz de garantir precisão na transmissão de informações relevantes em ambientes de atendimento à saúde"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O enunciado registra que o atendente entendeu. Variedades não padrão têm regras próprias e funcionam; a norma padrão é adequada a certas situações, não superior às demais — o que (e) inverte.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-142",
+                                    "texto_apoio":  "\"A sala tinha duas janelas altas, uma pia no canto e um armário de portas de vidro em que se viam frascos alinhados por tamanho.\"",
+                                    "enunciado":  "O trecho é predominantemente:",
+                                    "alternativas":  {
+                                                         "a":  "expositivo, considerando que apresenta ao leitor informações de caráter técnico sobre os requisitos de instalação exigidos para esse tipo de ambiente",
+                                                         "b":  "narrativo, uma vez que apresenta uma sequência de acontecimentos encadeados no tempo e conduzidos por personagens identificáveis no interior da cena",
+                                                         "c":  "dissertativo, na medida em que sustenta uma tese sobre a organização dos espaços destinados ao atendimento por meio de argumentos apresentados",
+                                                         "d":  "injuntivo, já que orienta o leitor sobre o modo correto de dispor os materiais e equipamentos no interior de uma sala destinada a procedimentos",
+                                                         "e":  "descritivo, pois enumera características sem progressão temporal"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Não há ação nem tempo passando: os verbos são de estado e o trecho enumera o que está lá. Descrever é organizar traços no espaço, ao contrário de narrar, que encadeia fatos no tempo.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-143",
+                                    "texto_apoio":  "\"Higienize as mãos. Calce as luvas. Confira a identificação do paciente antes de iniciar o procedimento.\"",
+                                    "enunciado":  "A sequência textual predominante é:",
+                                    "alternativas":  {
+                                                         "a":  "descritiva, na medida em que caracteriza detalhadamente os materiais utilizados em cada uma das etapas mencionadas na sequência apresentada",
+                                                         "b":  "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina",
+                                                         "c":  "argumentativa, uma vez que justifica a necessidade de cada uma das etapas listadas por meio de razões apresentadas ao longo do enunciado",
+                                                         "d":  "injuntiva, porque instrui o leitor sobre como proceder",
+                                                         "e":  "expositiva, considerando que apresenta de forma neutra o conjunto de normas técnicas aplicáveis à execução do procedimento em questão"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Verbos no imperativo em sequência ordenada, sem justificar nada: o texto não conta nem defende, ele instrui. É a sequência injuntiva, típica de manuais, receitas e protocolos.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-144",
+                                    "texto_apoio":  "Uma campanha de doação de sangue adotou o slogan: \"Ninguém é uma ilha — e o seu tipo sanguíneo prova isso.\"",
+                                    "enunciado":  "O slogan se apoia em:",
+                                    "alternativas":  {
+                                                         "a":  "onomatopeia, ao reproduzir por meio de palavras os sons associados ao procedimento de coleta realizado nos postos de doação de sangue",
+                                                         "b":  "neologismo, ao criar uma expressão inédita a partir da combinação de termos técnicos da área de hematologia com vocabulário do uso cotidiano",
+                                                         "c":  "intertextualidade, ao retomar uma formulação conhecida e aplicá-la a novo contexto",
+                                                         "d":  "silepse, ao estabelecer concordância com a ideia expressa e não com a forma gramatical dos termos empregados na construção da frase",
+                                                         "e":  "catacrese, ao empregar um termo em sentido figurado por não existir na língua palavra própria para designar aquilo que se quer nomear"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A primeira metade é uma frase que já circula na cultura; a segunda a desloca para o campo da doação, dando ao dito um sentido literal que ele não tinha. É intertextualidade, e o efeito depende de o leitor reconhecer a origem.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-145",
+                                    "texto_apoio":  "\"O protocolo deve ser revisto: três sociedades médicas já se manifestaram nesse sentido, e a última revisão da literatura aponta na mesma direção.\"",
+                                    "enunciado":  "O tipo de argumento empregado é o de:",
+                                    "alternativas":  {
+                                                         "a":  "exemplificação, que sustenta a conclusão por meio da apresentação de casos concretos observados na prática clínica de diferentes serviços",
+                                                         "b":  "autoridade, que se apoia na posição de quem é reconhecido no campo",
+                                                         "c":  "analogia, que transfere para o caso discutido as conclusões obtidas em uma situação diferente mas considerada semelhante em seus aspectos essenciais",
+                                                         "d":  "causa e consequência, que estabelece um encadeamento necessário entre o fato apresentado inicialmente e o desfecho previsto para ele adiante",
+                                                         "e":  "senso comum, que invoca aquilo que a maioria das pessoas acredita ser verdadeiro sobre o assunto tratado no enunciado apresentado ao leitor"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A força do enunciado vem de quem se manifestou — sociedades médicas, revisão da literatura —, não de casos nem de comparação. Argumento de autoridade não é falacioso por si: depende de a autoridade ser pertinente ao ponto.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-146",
+                                    "texto_apoio":  "\"Conheço duas pessoas que tomaram a vacina e mesmo assim adoeceram. Logo, a vacina não funciona.\"",
+                                    "enunciado":  "O raciocínio apresentado falha porque:",
+                                    "alternativas":  {
+                                                         "a":  "recorre à opinião de pessoas sem formação técnica na área, cuja avaliação não pode ser considerada relevante para a conclusão pretendida",
+                                                         "b":  "utiliza como premissa uma informação que não pode ser verificada de forma independente por quem recebe o argumento apresentado no enunciado",
+                                                         "c":  "confunde a ordem temporal dos acontecimentos, atribuindo à vacina um efeito que teria ocorrido antes mesmo de sua aplicação nas duas pessoas",
+                                                         "d":  "generaliza a partir de dois casos e ignora que eficácia não significa proteção total",
+                                                         "e":  "emprega termos ambíguos que admitem mais de uma interpretação, o que impede determinar com precisão o que está sendo efetivamente afirmado"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "Dois casos não sustentam uma conclusão sobre o todo, e nenhuma vacina promete cem por cento. Casos assim são previstos pela própria medida de eficácia — a existência deles não a contraria.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-147",
+                                    "texto_apoio":  "\"Embora o exame tenha vindo normal, o quadro clínico segue exigindo investigação.\"",
+                                    "enunciado":  "A oração iniciada por \"embora\" estabelece relação de:",
+                                    "alternativas":  {
+                                                         "a":  "causa, apresentando o motivo pelo qual a investigação do quadro clínico deve prosseguir apesar dos resultados obtidos no exame realizado",
+                                                         "b":  "concessão, admitindo um fato que não impede a conclusão",
+                                                         "c":  "condição, indicando a circunstância que precisaria ocorrer para que a investigação clínica pudesse ser considerada concluída pela equipe",
+                                                         "d":  "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente",
+                                                         "e":  "consequência, apontando o resultado decorrente da normalidade observada nos exames laboratoriais solicitados no início do atendimento"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "\"Embora\" reconhece um fato favorável à conclusão contrária e segue adiante mesmo assim. Se fosse causa, o exame normal explicaria a investigação — e ele faz o oposto, é o argumento contra ela.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-148",
+                                    "texto_apoio":  "Compare: (I) \"A unidade ampliou o horário, portanto o número de atendimentos cresceu.\" (II) \"O número de atendimentos cresceu porque a unidade ampliou o horário.\"",
+                                    "enunciado":  "Sobre os dois enunciados, é correto afirmar que:",
+                                    "alternativas":  {
+                                                         "a":  "apenas o segundo estabelece relação de causalidade, ao passo que o primeiro se limita a apresentar dois fatos ocorridos no mesmo período",
+                                                         "b":  "expressam relações lógicas opostas, sendo a ampliação do horário causa no primeiro enunciado e consequência no segundo deles apresentado",
+                                                         "c":  "expressam a mesma relação, invertendo a ordem entre causa e consequência",
+                                                         "d":  "o primeiro apresenta uma hipótese e o segundo uma constatação, diferença marcada pela escolha dos conectivos empregados em cada caso",
+                                                         "e":  "nenhum dos dois estabelece relação causal, uma vez que os conectivos utilizados indicam apenas a sequência temporal entre os dois eventos"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Em ambos, a ampliação é a causa e o crescimento é o efeito. O que muda é a ordem: \"portanto\" introduz a consequência, \"porque\" introduz a causa. Conectivos diferentes podem descrever a mesma relação por caminhos opostos.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-149",
+                                    "texto_apoio":  "Compare: (I) \"O coração bombeia cerca de cinco litros de sangue por minuto.\" (II) \"Aquela enfermaria era o coração do hospital.\"",
+                                    "enunciado":  "A palavra destacada é empregada, respectivamente, em sentido:",
+                                    "alternativas":  {
+                                                         "a":  "denotativo e conotativo",
+                                                         "b":  "conotativo e denotativo, uma vez que o primeiro enunciado atribui à palavra um valor simbólico e o segundo a emprega em sua acepção literal",
+                                                         "c":  "figurado nos dois casos, ainda que com graus distintos de afastamento em relação ao significado registrado nos dicionários da língua portuguesa",
+                                                         "d":  "literal nos dois casos, já que a segunda ocorrência descreve a posição física ocupada pela enfermaria no interior do edifício hospitalar",
+                                                         "e":  "técnico e regional, distinção que decorre do contexto de uso de cada um dos enunciados e não do significado atribuído à palavra em questão"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "No primeiro, coração é o órgão — sentido próprio. No segundo, é o centro vital de que tudo depende — sentido figurado. Denotação é o significado de base; conotação, o deslocamento que o contexto autoriza.",
+                                    "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-150",
+                                    "texto_apoio":  "\"A triagem classifica o risco. Esse risco define a ordem de atendimento. A ordem, por sua vez, determina o tempo que cada pessoa espera.\"",
+                                    "enunciado":  "A progressão do trecho se dá por:",
+                                    "alternativas":  {
+                                                         "a":  "enumeração das etapas do atendimento em ordem cronológica inversa, partindo da última delas até chegar ao momento inicial do processo descrito",
+                                                         "b":  "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado",
+                                                         "c":  "apresentação de três aspectos independentes entre si de um mesmo processo, reunidos no parágrafo sem que haja ligação lógica entre eles",
+                                                         "d":  "oposição sucessiva entre as ideias enunciadas, de modo que cada período nega parcialmente o conteúdo apresentado no período anterior a ele",
+                                                         "e":  "retomada, em cada período, do termo que encerrava o anterior"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "Risco fecha o primeiro período e abre o segundo; ordem fecha o segundo e abre o terceiro. O que era informação nova vira ponto de partida do período seguinte, encadeando o parágrafo sem repetir conteúdo.",
+                                    "formato":  "direta"
                                 }
                             ],
     "matematica":  [
@@ -9988,6 +11338,41 @@ window.QUESTION_TEXTS = {
                        "fonte":  "Carta aberta original escrita para este banco",
                        "conteudo":  "CARTA ABERTA AOS QUE VÃO DECIDIR O HORÁRIO\n\nEscrevo em nome de quem chega às sete.\n\nNão é uma reclamação sobre acordar cedo. Acordar cedo é o de menos, e quem faz esse percurso há anos já não discute com o despertador. É sobre outra coisa: sobre a distância entre a hora marcada no papel e a hora em que a pessoa precisa sair de casa.\n\nEntre a porta de casa e a porta daqui há, para muita gente, duas conduções e uma caminhada. A reunião marcada para as sete começa, na prática, às cinco e meia — e termina, para quem mora longe, depois das oito da noite. Ninguém escreve isso na convocação. A convocação diz apenas \"sete horas\", como se o tempo fosse igual para todos os que vão atendê-la.\n\nSei que há motivos. O turno precisa começar cedo, os leitos não esperam, e adiar o início empurra tudo para o fim do dia. Não estou pedindo que se ignore isso. Estou pedindo que se conte, na hora de decidir, o tempo que não aparece na planilha.\n\nUma reunião às oito custaria, ao serviço, uma hora. Custaria, a quem vem de longe, muito menos que isso — porque a hora que se ganha não é a mesma hora que se perde. Essa assimetria é a única coisa que peço que entre na conta.\n\nNão assino sozinho.\n\nAssino também por quem não escreveria uma carta, por achar que não adianta."
                    },
+    "med-int-t7":  {
+                       "id":  "med-int-t7",
+                       "fonte":  "Reportagem original escrita para este banco",
+                       "conteudo":  "A QUEDA QUE NÃO SE VÊ DE UMA VEZ\n\nUma cobertura vacinal não desaba: ela escorrega. Ao longo de pouco mais de meia década, a proporção de crianças brasileiras com o esquema completo da tríplice viral saiu de patamares acima de 90% para algo em torno de 60%. Nenhum ano concentrou a queda. Cada ano tirou alguns pontos.\n\nEssa forma de cair tem uma consequência prática. Doenças que dependem de alta cobertura para não circular não voltam no mesmo ritmo em que a cobertura cai. Ficam ausentes por anos, mesmo com a proteção diminuindo, e reaparecem de uma vez quando um limiar é cruzado. Para quem acompanha apenas o número de casos, parece que nada estava acontecendo — até que estava.\n\nHá um segundo efeito, mais difícil de medir. Enquanto a doença não circula, ela deixa de ser assustadora. Uma geração de pais que nunca viu sarampo avalia o risco da vacina contra um perigo que, para ela, é abstrato. Não é irracionalidade: é a experiência disponível.\n\nA resposta usual são campanhas de conscientização. Elas ajudam, mas partem de um diagnóstico incompleto. Boa parte da queda não vem de recusa, e sim de fricção: posto que fecha às cinco, mãe que sai do trabalho às seis, caderneta que exige uma segunda viagem. Quem deixou de vacinar o filho por causa do horário do posto não muda de ideia com um cartaz — muda com um posto aberto no sábado.\n\nConscientizar e facilitar não são a mesma coisa, e confundir as duas é o modo mais rápido de gastar dinheiro sem mover o indicador."
+                   },
+    "med-int-t8":  {
+                       "id":  "med-int-t8",
+                       "fonte":  "Bula ficticia original escrita para este banco",
+                       "conteudo":  "INFORMAÇÕES AO PACIENTE\n\nPara que este medicamento é indicado?\nPara o alívio temporário de dores leves a moderadas e para a redução da febre.\n\nComo devo usar?\nAdultos: um comprimido a cada 6 horas, não ultrapassando 4 comprimidos em 24 horas. Não use por mais de 3 dias seguidos sem orientação médica. Tome com água, de preferência após as refeições.\n\nO que devo saber antes de usar?\nInforme seu médico se você faz uso de outros medicamentos, inclusive os que não exigem receita. Vários produtos vendidos livremente contêm a mesma substância deste, e o uso simultâneo pode levar a doses acima do limite diário sem que o paciente perceba.\n\nNão use este medicamento se você tem doença grave do fígado ou se já apresentou reação alérgica a qualquer um de seus componentes.\n\nQuais os males que este medicamento pode causar?\nReações comuns: náusea e desconforto abdominal. Reações raras, porém graves: lesão do fígado, associada principalmente ao uso de doses acima da recomendada ou ao consumo de bebida alcoólica durante o tratamento.\n\nO que fazer se alguém usar uma quantidade maior que a indicada?\nProcure atendimento imediatamente, mesmo que não haja sintomas. A ausência de sintomas nas primeiras horas não afasta a gravidade do quadro."
+                   },
+    "med-int-t9":  {
+                       "id":  "med-int-t9",
+                       "fonte":  "Conto original escrito para este banco",
+                       "conteudo":  "A TROCA\n\nEla chegou às seis e quarenta, como chegava havia onze anos. Tirou o casaco, pendurou no gancho que era dela desde sempre e reparou que havia outro casaco ali.\n\n— Bom dia — disse a moça nova. — Me falaram pra usar esse.\n\n— Pode usar — disse ela.\n\nPassou o plantão em quarenta minutos, o que era rápido para uma noite daquelas. Falou do doze, do dezenove, da senhora do quinze que não tinha família e chamava por uma tal de Marta. Disse que a senhora não estava confusa, que Marta era a irmã, morta em oitenta e nove, e que responder \"ela já vem\" funcionava melhor do que corrigir.\n\nA moça anotou tudo. Anotou até isso.\n\n— A senhora escreve no prontuário? — perguntou. — Isso da Marta.\n\n— Não cabe no prontuário.\n\n— E como é que passa, então?\n\nEla olhou para a moça e demorou a responder. Não porque não soubesse. Porque nunca ninguém tinha perguntado.\n\n— Passa assim — disse. — Do jeito que estou passando agora.\n\nPegou o casaco, o dela, e foi embora. No corredor, ouviu a moça dizendo, para alguém do quinze:\n\n— Ela já vem.\n\nE foi só isso. Mas ela parou um instante antes da porta."
+                   },
+    "med-int-t10":  {
+                        "id":  "med-int-t10",
+                        "fonte":  "Editorial original escrito para este banco",
+                        "conteudo":  "O QUE A MÁQUINA NÃO ASSINA\n\nUm algoritmo que lê exames de imagem com desempenho comparável ao de especialistas deixou de ser promessa há algum tempo. A discussão útil não é mais se a ferramenta funciona. É o que acontece quando ela erra.\n\nUm laudo tem autor. Alguém assina, e essa assinatura carrega consequência: pode ser questionada, revista, responsabilizada. É por isso que o laudo não é apenas uma informação — é uma informação que alguém sustenta. Sistemas automatizados produzem a informação e não sustentam nada. Podem estar certos em 95% dos casos e permanecer, nos outros 5%, sem ninguém a quem perguntar por quê.\n\nA saída que se costuma propor é manter um profissional no circuito, revisando o que a máquina sugere. A ideia é boa e o problema é conhecido: quem revisa uma sequência longa de acertos para de revisar. Não por negligência — por economia de atenção, que é como qualquer pessoa funciona. Um sistema que acerta quase sempre treina o revisor a confiar, e a confiança do revisor é justamente o que ele não deveria estar oferecendo.\n\nNada disso se resolve com uma advertência no rodapé da tela. Resolve-se, se é que se resolve, com desenho: sistemas que mostrem sua incerteza em vez de escondê-la, que sinalizem quando estão operando fora da faixa em que foram treinados, que obriguem a uma segunda leitura nos casos limítrofes em vez de nos casos aleatórios.\n\nNada disso é objeção à tecnologia. É objeção a adotá-la sem decidir, antes, quem responde pelo que ela produz. Essa decisão não é técnica, e não será a máquina que vai tomá-la."
+                    },
+    "med-int-t11":  {
+                        "id":  "med-int-t11",
+                        "fonte":  "Discurso ficticio original escrito para este banco",
+                        "conteudo":  "TRECHO DE DISCURSO PROFERIDO EM CERIMÔNIA DE FORMATURA\n\nVocês vão ouvir muitas vezes, a partir de amanhã, que agora começa o que importa. Eu queria discordar disso na frente dos seus pais.\n\nO que importa já começou. Começou naquela primeira vez em que alguém contou a vocês alguma coisa que não contaria a mais ninguém, e vocês perceberam que aquilo tinha peso. Vocês eram estudantes. Não tinham autoridade nenhuma. E mesmo assim a pessoa contou.\n\nGuardem isso, porque é a única coisa que nenhum curso devolve se vocês perderem.\n\nEu não vou desejar que vocês acertem sempre. Seria um desejo inútil, e vocês descobririam isso na primeira semana. Desejo outra coisa: que, quando errarem, tenham por perto alguém a quem consigam dizer em voz alta o que aconteceu. Isso é mais raro do que competência técnica, e protege mais.\n\nE uma última coisa, que é quase um pedido. Daqui a alguns anos, alguém mais novo vai perguntar a vocês algo óbvio, daquelas perguntas que dá vontade de responder com pressa. Não respondam com pressa. Alguém, um dia, não respondeu com pressa a vocês — e é por isso que vocês estão aqui.\n\nParabéns. E até segunda-feira, porque o hospital não fecha no fim de semana."
+                    },
+    "med-int-t12":  {
+                        "id":  "med-int-t12",
+                        "fonte":  "Resenha original escrita para este banco",
+                        "conteudo":  "RESENHA — UM LIVRO QUE NÃO QUER SER LIDO DE UMA VEZ\n\nO novo trabalho da autora tem 190 páginas e leva mais tempo do que isso sugere. Não porque seja difícil: porque é organizado contra a leitura corrida.\n\nCada capítulo abre com um caso clínico narrado em três ou quatro páginas, sem qualquer comentário. Só depois vem a análise — e ela quase nunca conclui o que o caso parecia anunciar. É uma estrutura que exige do leitor formular a própria hipótese antes de receber a da autora, e depois conviver com o desconforto de tê-la formulado errado. Funciona.\n\nO melhor do livro está nos capítulos em que a autora admite não ter entendido o desfecho. São quatro, e são os únicos em que ela abandona a primeira pessoa do plural — o \"observamos\", o \"concluímos\" — e escreve \"eu não sei\". A diferença de registro é notável, e é pena que se restrinja a essas passagens.\n\nO ponto fraco é a última parte, cerca de quarenta páginas em que a autora tenta extrair princípios gerais do que narrou. Depois de cento e cinquenta páginas defendendo que cada caso resiste à generalização, a seção soa como concessão a uma expectativa editorial. O livro teria terminado melhor no capítulo anterior.\n\nAinda assim, recomenda-se — inclusive a quem não trabalha na área. É um livro sobre decidir com informação incompleta, e isso não é exclusividade da medicina."
+                    },
+    "med-int-t13":  {
+                        "id":  "med-int-t13",
+                        "fonte":  "Pecas de campanha ficticias originais escritas para este banco",
+                        "conteudo":  "PEÇAS DE CAMPANHA — VEICULAÇÃO EM TRANSPORTE PÚBLICO\n\nCARTAZ 1\nVocê levou 40 segundos para ler isto.\nLavar as mãos leva 20.\n\nCARTAZ 2\nEle não lembra o seu nome.\nLembra que você sentou.\nVisite quem está internado.\n\nCARTAZ 3\n\"Depois eu marco.\"\nFoi o que 6 em cada 10 disseram no ano passado.\nO exame leva 15 minutos. A fila para marcar, 15 dias.\nMarque hoje.\n\nCARTAZ 4\nNão é frescura.\nÉ o terceiro dia de febre.\nProcure atendimento."
+                    },
     "med-mat-t1":  {
                        "id":  "med-mat-t1",
                        "fonte":  "Texto original em genero de divulgacao cientifica sobre desempenho de testes diagnosticos",

@@ -141,7 +141,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Duas espécies de aves insetívoras ocupam a mesma mata e utilizam um recurso alimentar comum. A figura representa seus nichos ecológicos como curvas de utilização desse recurso, com considerável área de sobreposição entre elas.",
                          "enunciado":  "Sobre a relação ecológica representada e seus desdobramentos possíveis, é correto afirmar que se trata de:",
                          "alternativas":  {
-                                              "a":  "mutualismo, já que a partilha do mesmo recurso alimentar tende a beneficiar as duas populações envolvidas na área de sobreposição",
+                                              "a":  "mutualismo, já que a partilha de um mesmo recurso alimentar tende a beneficiar as duas populações envolvidas na área de sobreposição dos nichos",
                                               "b":  "comensalismo, já que uma das espécies obtém vantagem do recurso enquanto a outra permanece indiferente à presença da primeira",
                                               "c":  "predação, já que as duas espécies exploram populações de insetos e reduzem seus números ao longo do tempo na mesma mata",
                                               "d":  "competição intraespecífica, já que estão envolvidos indivíduos que disputam entre si o mesmo alimento dentro de um único território",
@@ -171,7 +171,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "O Teste do Pezinho é realizado entre as primeiras 48 horas e o quinto dia de vida do bebê. A triagem básica oferecida pela rede pública identifica um conjunto de condições, entre elas a fenilcetonúria, o hipotireoidismo congênito e a anemia falciforme.",
                          "enunciado":  "A fenilcetonúria é detectada nessa triagem porque:",
                          "alternativas":  {
-                                              "a":  "provoca alterações físicas visíveis já ao nascimento, e o exame serve para confirmar um diagnóstico que a observação clínica sugere",
+                                              "a":  "provoca alterações físicas visíveis já ao nascimento, e o exame laboratorial serve apenas para confirmar um diagnóstico que a observação clínica já sugere",
                                               "b":  "decorre da deficiência de uma enzima do metabolismo da fenilalanina, cujo acúmulo lesa o sistema nervoso e é evitável por dieta precoce",
                                               "c":  "é transmitida por herança dominante, padrão que torna elevada a chance de um recém-nascido de qualquer família apresentar a condição",
                                               "d":  "resulta de uma infecção adquirida durante a gestação, tratável com antibiótico se iniciado ainda nos primeiros dias após o parto",
@@ -1086,6 +1086,373 @@ window.QUESTION_BANKS = {
                                           },
                          "resposta":  "c",
                          "explicacao":  "A barreira glomerular filtra por tamanho e carga: proteínas grandes não passam, e sua presença na urina é sinal de lesão renal. A ureia é filtrada e apenas parcialmente reabsorvida, mas a água é reabsorvida em proporção muito maior ao longo dos túbulos — o soluto se concentra por retirada de solvente, e não por adição de soluto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-73",
+                         "texto_apoio":  "Em 1953, Stanley Miller montou um aparato fechado com metano, amônia, hidrogênio e vapor de água, submetido a descargas elétricas contínuas. Após alguns dias, analisou o líquido acumulado e encontrou aminoácidos que não estavam presentes no início do experimento.",
+                         "enunciado":  "O experimento de Miller ofereceu apoio experimental à hipótese de que a vida na Terra teria surgido a partir de ______, sendo a fonte de energia simulada pelas descargas equivalente ______, e o resultado obtido demonstrou a formação de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "evolução química – às tempestades da atmosfera primitiva – moléculas orgânicas simples",
+                                              "b":  "geração espontânea – à radiação solar incidente sobre os oceanos – seres vivos completos",
+                                              "c":  "panspermia – ao impacto de meteoritos sobre a superfície terrestre – células procarióticas",
+                                              "d":  "evolução química – à radiação ultravioleta de alta energia – organismos autotróficos primitivos",
+                                              "e":  "biogênese – às descargas elétricas de origem vulcânica na atmosfera – moléculas de material genético"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O experimento sustenta a hipótese da evolução química: compostos inorgânicos simples formando moléculas orgânicas sob energia da atmosfera primitiva, simulada pelas descargas equivalentes a raios. O que se obteve foram aminoácidos — moléculas orgânicas simples —, e não células nem seres vivos, o que descarta (b) e (c).",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-74",
+                         "texto_apoio":  "Um esquema mostra três associações entre organismos de espécies diferentes. Na associação I, uma alga e um fungo formam uma estrutura única capaz de colonizar rochas nuas. Na associação II, hifas fúngicas envolvem raízes de plantas e ampliam a absorção de água e sais. Na associação III, um fungo se instala na pele de um mamífero e provoca lesões.",
+                         "enunciado":  "As associações I, II e III são denominadas, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "micorriza, líquen e parasitismo, sendo a primeira delas pioneira na colonização de ambientes recém-formados por rocha exposta",
+                                              "b":  "líquen, micorriza e parasitismo",
+                                              "c":  "comensalismo, mutualismo e predatismo, categorias que descrevem o saldo de custo e benefício entre os organismos envolvidos",
+                                              "d":  "líquen, parasitismo e micorriza, sendo esta última prejudicial à planta por desviar parte dos nutrientes absorvidos pela raiz",
+                                              "e":  "protocooperação, inquilinismo e amensalismo, relações em que ao menos um dos organismos obtém vantagem sem prejudicar o outro"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Alga e fungo formando estrutura única é líquen, e sua capacidade de colonizar rocha nua faz dele organismo pioneiro. Hifas associadas a raízes com ganho mútuo são micorrizas. Fungo causando lesão na pele de um hospedeiro é parasitismo. A alternativa (d) inverte micorriza e parasitismo e ainda descreve a micorriza como prejudicial.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-75",
+                         "texto_apoio":  "Uma figura apresenta o corte de uma flor completa, com destaque para quatro verticilos. O mais externo é formado por sépalas; o seguinte, por pétalas; depois vêm estruturas formadas por filete e antera; e no centro, uma estrutura formada por estigma, estilete e ovário.",
+                         "enunciado":  "O conjunto de filete e antera denomina-se ______, o conjunto central denomina-se ______, e após a fecundação o ovário origina ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "gineceu – androceu – a semente",
+                                              "b":  "androceu – gineceu – o fruto",
+                                              "c":  "corola – cálice – a semente",
+                                              "d":  "androceu – corola – o fruto",
+                                              "e":  "cálice – gineceu – o endosperma"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Estames, formados por filete e antera, compõem o androceu, verticilo masculino. Carpelos, com estigma, estilete e ovário, compõem o gineceu. Após a fecundação, o óvulo origina a semente e a parede do ovário origina o fruto. Cálice e corola são os verticilos de proteção e atração, formados por sépalas e pétalas.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "biologia-76",
+                         "texto_apoio":  "O sarcômero é a unidade contrátil do músculo esquelético. Ao microscópio, apresenta faixas claras e escuras que se alteram durante a contração: a distância entre as linhas Z diminui, a banda A mantém o mesmo comprimento e a banda I encurta.",
+                         "enunciado":  "O padrão descrito é explicado pelo modelo de deslizamento dos filamentos, segundo o qual durante a contração:",
+                         "alternativas":  {
+                                              "a":  "os filamentos de actina e miosina encurtam simultaneamente, o que reduz o comprimento de todas as bandas do sarcômero em igual proporção",
+                                              "b":  "apenas os filamentos de miosina encurtam, arrastando consigo os filamentos de actina em direção ao centro da unidade contrátil",
+                                              "c":  "os filamentos deslizam uns sobre os outros sem mudar de comprimento, e a actina avança sobre a região ocupada pela miosina",
+                                              "d":  "os filamentos de actina se fundem aos de miosina, formando um complexo único cujo comprimento total é menor que a soma dos dois",
+                                              "e":  "as linhas Z se deslocam por contração das próprias proteínas que as compõem, aproximando as extremidades opostas do sarcômero"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A banda A corresponde ao comprimento dos filamentos de miosina e não muda, o que já elimina qualquer hipótese de encurtamento dos filamentos. O que ocorre é deslizamento: as cabeças de miosina tracionam a actina para o centro, as linhas Z se aproximam e a banda I, formada só por actina, encurta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-77",
+                         "texto_apoio":  "Um quadro compara a espermatogênese e a ovulogênese humanas quanto ao número de gametas funcionais formados a partir de cada célula germinativa e ao período da vida em que cada processo ocorre.",
+                         "enunciado":  "De cada espermatócito primário formam-se ______ gametas funcionais, enquanto de cada ovócito primário forma-se ______, sendo o restante do material eliminado na forma de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "dois – um único gameta – corpúsculos polares",
+                                              "b":  "quatro – um único gameta – corpúsculos polares",
+                                              "c":  "quatro – quatro gametas funcionais – células foliculares",
+                                              "d":  "dois – dois gametas – células de Sertoli",
+                                              "e":  "quatro – dois gametas – corpúsculos polares"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A meiose produz quatro células a partir de uma. Na espermatogênese as quatro se diferenciam em espermatozoides funcionais. Na ovulogênese a divisão do citoplasma é desigual: uma célula retém quase todo o material e vira o gameta, e as outras três degeneram como corpúsculos polares — arranjo que concentra reservas num único óvulo.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-78",
+                         "texto_apoio":  "Um esquema mostra os anexos embrionários de um réptil e de um mamífero placentário. Em ambos aparecem âmnio, alantoide e saco vitelínico, mas com funções e proporções distintas em cada grupo.",
+                         "enunciado":  "A função do âmnio e a razão pela qual o saco vitelínico é reduzido nos mamíferos placentários são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "envolver o embrião numa cavidade com líquido que o protege contra choques e dessecação, e a nutrição passar a depender da placenta",
+                                              "b":  "armazenar as excretas nitrogenadas produzidas pelo embrião, e a nutrição ser garantida pelo alantoide durante toda a gestação",
+                                              "c":  "conduzir os vasos sanguíneos até a parede uterina, e o vitelo ser inteiramente consumido nas primeiras horas do desenvolvimento embrionário",
+                                              "d":  "produzir as células sanguíneas do embrião nas fases iniciais, e o âmnio assumir posteriormente a função nutritiva que era do vitelo",
+                                              "e":  "realizar as trocas gasosas entre o embrião e o meio externo, e a reserva de vitelo migrar para o interior da cavidade amniótica"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O âmnio delimita a cavidade amniótica, cheia de líquido, que amortece choques e impede a dessecação — inovação que viabilizou a reprodução longe da água. Nos placentários o vitelo é reduzido porque a nutrição vem da placenta, e não de uma reserva armazenada no ovo. Armazenar excretas é função do alantoide.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-79",
+                         "texto_apoio":  "Uma tabela apresenta quatro tecidos animais com suas características: o tecido I reveste superfícies e tem células muito justapostas, com pouca matriz extracelular; o tecido II tem abundante matriz e células dispersas; o tecido III apresenta células alongadas capazes de encurtar; o tecido IV é formado por células com prolongamentos que conduzem impulsos.",
+                         "enunciado":  "Os tecidos I, II, III e IV são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "conjuntivo, epitelial, nervoso e muscular, classificação que se apoia principalmente na quantidade de matriz extracelular de cada tecido",
+                                              "b":  "epitelial, conjuntivo, muscular e nervoso",
+                                              "c":  "epitelial, muscular, conjuntivo e nervoso, sendo o terceiro deles responsável pela sustentação e pelo preenchimento entre os órgãos",
+                                              "d":  "muscular, conjuntivo, epitelial e nervoso, ordem que reflete a posição relativa desses tecidos na parede dos órgãos ocos do corpo",
+                                              "e":  "conjuntivo, epitelial, muscular e nervoso, agrupamento em que os dois primeiros compartilham a mesma origem embrionária mesodérmica"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Células justapostas com pouca matriz e função de revestimento definem o tecido epitelial. Matriz abundante com células dispersas define o conjuntivo. Células alongadas capazes de encurtar são musculares, e células com prolongamentos condutores de impulso são neurônios. As demais alternativas apenas embaralham essa correspondência.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-80",
+                         "texto_apoio":  "Uma pessoa apresenta níveis elevados de TSH no sangue e níveis reduzidos de T3 e T4, com aumento do volume da glândula tireoide. A investigação descartou alteração na hipófise.",
+                         "enunciado":  "O quadro é compatível com hipotireoidismo de origem primária, e o TSH elevado se explica pelo fato de que:",
+                         "alternativas":  {
+                                              "a":  "o excesso de TSH é a causa da baixa produção hormonal, por dessensibilizar progressivamente os receptores presentes na tireoide",
+                                              "b":  "o aumento do volume da glândula eleva a produção de TSH pelas próprias células tireoidianas, num mecanismo local independente da hipófise",
+                                              "c":  "a tireoide passa a converter o TSH circulante em T3 e T4, o que reduz sua concentração plasmática abaixo dos valores esperados",
+                                              "d":  "o hipotálamo interrompe a produção de TRH ao perceber a queda hormonal, e o TSH se acumula por falta de sinal para ser consumido",
+                                              "e":  "a hipófise, ao detectar a queda de T3 e T4, aumenta a secreção de TSH numa tentativa de estimular a glândula"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O eixo hipotálamo-hipófise-tireoide funciona por retroalimentação negativa: T3 e T4 baixos deixam de inibir a hipófise, que eleva o TSH. Como a glândula não responde, o TSH permanece alto e seu estímulo continuado causa o aumento de volume — o bócio. A alternativa (a) inverte causa e consequência.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-81",
+                         "texto_apoio":  "Um esquema apresenta um ecossistema de campo com quatro cadeias interligadas. Uma delas parte de folhas mortas caídas no solo, passa por invertebrados que se alimentam desse material e chega a aves insetívoras.",
+                         "enunciado":  "A cadeia descrita a partir das folhas mortas é chamada ______, e os organismos que se alimentam do material em decomposição ocupam a função de ______, enquanto bactérias e fungos que mineralizam a matéria orgânica são ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "cadeia de pastagem – produtores – consumidores primários",
+                                              "b":  "cadeia de pastagem – detritívoros – consumidores terciários",
+                                              "c":  "cadeia detritívora – decompositores – produtores",
+                                              "d":  "cadeia detritívora – detritívoros – decompositores",
+                                              "e":  "teia alimentar – consumidores primários – detritívoros"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Cadeias que partem de matéria orgânica morta são detritívoras, em oposição às de pastagem, que partem de produtores vivos. Os invertebrados que consomem o detrito são detritívoros e ocupam nível de consumidor. Bactérias e fungos que devolvem os nutrientes à forma mineral são decompositores, função distinta da dos detritívoros.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-82",
+                         "texto_apoio":  "Um gráfico mostra a variação da concentração de oxigênio dissolvido ao longo de um rio, a partir do ponto em que recebe esgoto doméstico. A curva cai bruscamente logo após o lançamento, permanece baixa por alguns quilômetros e volta a subir gradualmente até os valores originais bem mais adiante.",
+                         "enunciado":  "A recuperação gradual da concentração de oxigênio a jusante do lançamento é denominada:",
+                         "alternativas":  {
+                                              "a":  "eutrofização, processo em que o excesso de nutrientes estimula a proliferação de algas na superfície e altera o equilíbrio do sistema",
+                                              "b":  "bioacumulação, processo pelo qual substâncias pouco excretáveis se concentram nos tecidos dos organismos ao longo da cadeia alimentar",
+                                              "c":  "autodepuração, capacidade natural do corpo hídrico de degradar a carga orgânica recebida e restabelecer suas condições anteriores",
+                                              "d":  "biorremediação, técnica em que micro-organismos selecionados são introduzidos deliberadamente para degradar poluentes específicos",
+                                              "e":  "sucessão ecológica aquática, substituição progressiva das comunidades presentes no rio ao longo do trecho posterior ao lançamento"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Autodepuração é a recuperação natural do corpo d\u0027água: a carga orgânica é oxidada pelos decompositores, e à medida que ela se esgota o consumo de oxigênio diminui e a reaeração restabelece os níveis originais. Biorremediação difere por ser intervenção humana deliberada, e não processo espontâneo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-83",
+                         "texto_apoio":  "Um esquema apresenta o olho humano em corte, com destaque para a camada mais interna, onde se localizam células fotorreceptoras de dois tipos: umas responsáveis pela visão em baixa luminosidade e sem discriminação de cores, outras pela visão de cores em ambientes bem iluminados.",
+                         "enunciado":  "A camada indicada e os dois tipos celulares descritos são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "retina, com bastonetes responsáveis pela visão noturna e cones responsáveis pela visão de cores",
+                                              "b":  "coroide, com cones responsáveis pela visão noturna e bastonetes responsáveis pela discriminação das diferentes cores do espectro visível",
+                                              "c":  "esclera, com bastonetes que atuam em alta luminosidade e cones que respondem por toda a percepção visual em ambientes escuros",
+                                              "d":  "retina, com cones responsáveis pela visão em baixa luminosidade e bastonetes responsáveis pela percepção das cores em ambientes claros",
+                                              "e":  "córnea, com células que se especializam de acordo com a intensidade luminosa a que o indivíduo é exposto ao longo do desenvolvimento"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A retina é a camada interna que contém os fotorreceptores. Bastonetes são muito sensíveis à luz e atuam na penumbra, sem distinguir cores; cones exigem mais luz e respondem pela visão cromática. A alternativa (d) acerta a camada e troca as funções dos dois tipos celulares.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-84",
+                         "texto_apoio":  "Uma tabela compara quatro métodos contraceptivos quanto ao mecanismo de ação: o método I impede a ovulação por ação hormonal; o método II constitui barreira física ao encontro dos gametas; o método III torna o muco cervical hostil e altera o endométrio; o método IV consiste na secção cirúrgica de ductos.",
+                         "enunciado":  "Entre os métodos descritos, aquele que também oferece proteção contra infecções sexualmente transmissíveis é o:",
+                         "alternativas":  {
+                                              "a":  "método I, porque a supressão da ovulação reduz as alterações do muco que facilitariam a ascensão de agentes infecciosos pelo trato genital",
+                                              "b":  "método III, porque o muco espessado funciona como filtro biológico capaz de reter micro-organismos antes que atinjam o útero",
+                                              "c":  "método IV, porque a interrupção dos ductos impede que agentes infecciosos alcancem as porções superiores do sistema reprodutor",
+                                              "d":  "método II, porque a barreira física impede o contato direto entre mucosas e secreções dos parceiros",
+                                              "e":  "nenhum deles, uma vez que a prevenção dessas infecções depende exclusivamente de vacinação e de exames periódicos de rastreamento"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Apenas os métodos de barreira, como o preservativo, impedem o contato entre mucosas e secreções e por isso reduzem a transmissão de infecções. Métodos hormonais e cirúrgicos atuam sobre a fecundação e não interferem na transmissão de agentes infecciosos — distinção que costuma ser cobrada justamente por ser mal compreendida.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-85",
+                         "texto_apoio":  "Uma figura compara o sistema respiratório de um inseto, de um peixe ósseo e de uma ave. No inseto, tubos ramificados levam ar diretamente aos tecidos. No peixe, lamelas muito vascularizadas são banhadas por água que flui em sentido contrário ao do sangue. Na ave, sacos aéreos garantem fluxo unidirecional pelos pulmões.",
+                         "enunciado":  "As estruturas do inseto e o mecanismo destacado no peixe denominam-se, respectivamente, ______ e ______, sendo a vantagem deste último ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "brânquias – fluxo unidirecional – manter constante o volume de água que passa pelas lamelas",
+                                              "b":  "pulmões foliáceos – fluxo unidirecional – permitir trocas gasosas mesmo fora da água",
+                                              "c":  "traqueias – difusão simples – dispensar qualquer gasto de energia com a movimentação da água",
+                                              "d":  "filotraqueias – contracorrente – equilibrar rapidamente as concentrações de gases entre água e sangue",
+                                              "e":  "traqueias – contracorrente – manter um gradiente favorável ao longo de toda a lamela"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O sistema traqueal dos insetos leva ar diretamente às células, sem intermédio do sangue. No peixe, água e sangue correm em sentidos opostos: o sangue que já captou oxigênio encontra água ainda mais oxigenada, e o gradiente se mantém favorável em toda a extensão da lamela — o que não aconteceria em fluxo paralelo, onde as concentrações se equilibrariam na metade do percurso.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "biologia-86",
+                         "texto_apoio":  "Pesquisadores monitoram a qualidade da água de riachos contando os invertebrados presentes no leito. Certos grupos, como larvas de plecópteros e efemerópteros, só ocorrem em águas bem oxigenadas e limpas; outros, como larvas de quironomídeos e oligoquetas, toleram águas com baixa concentração de oxigênio e alta carga orgânica.",
+                         "enunciado":  "O uso desses organismos no monitoramento se apoia no fato de que eles funcionam como:",
+                         "alternativas":  {
+                                              "a":  "bioindicadores, cuja presença ou ausência informa sobre as condições ambientais acumuladas ao longo do tempo",
+                                              "b":  "agentes de biorremediação, capazes de degradar a matéria orgânica presente na água e restabelecer as condições anteriores do riacho",
+                                              "c":  "espécies-chave, cuja remoção provocaria o colapso da estrutura trófica de toda a comunidade aquática presente naquele trecho do rio",
+                                              "d":  "organismos bioacumuladores, que concentram poluentes em seus tecidos e permitem quantificar a carga tóxica presente no corpo hídrico",
+                                              "e":  "espécies exóticas invasoras, cuja proliferação sinaliza o desequilíbrio provocado pelo lançamento de efluentes no ambiente aquático"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Bioindicadores são espécies cuja ocorrência revela as condições do ambiente. A vantagem sobre a medição pontual de oxigênio é temporal: a comunidade reflete o que houve nas semanas anteriores, enquanto uma análise química registra apenas o instante da coleta. Bioacumuladores medem carga de poluente, e não condição geral.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-87",
+                         "texto_apoio":  "Um quadro relaciona quatro relações ecológicas interespecíficas: na relação I, uma espécie se beneficia e a outra é prejudicada, sem que haja morte imediata; na relação II, uma se beneficia e a outra não é afetada; na relação III, ambas se beneficiam e a associação é facultativa; na relação IV, uma espécie inibe o desenvolvimento da outra pela liberação de substâncias.",
+                         "enunciado":  "As relações I, II, III e IV correspondem, respectivamente, a:",
+                         "alternativas":  {
+                                              "a":  "predatismo, mutualismo, protocooperação e competição, sendo esta última a única em que ambas as espécies envolvidas saem prejudicadas",
+                                              "b":  "competição, comensalismo, mutualismo e parasitismo, arranjo em que apenas a terceira relação traz benefício às duas espécies envolvidas",
+                                              "c":  "parasitismo, inquilinismo, mutualismo e predatismo, categorias definidas pelo saldo líquido de custo e benefício de cada participante",
+                                              "d":  "parasitismo, comensalismo, protocooperação e amensalismo",
+                                              "e":  "predatismo, inquilinismo, protocooperação e competição, sendo a segunda uma associação em que o abrigo é a vantagem obtida"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Benefício de um com prejuízo do outro, sem morte imediata, é parasitismo — o predatismo mata a presa. Benefício de um sem afetar o outro é comensalismo. Benefício mútuo em associação facultativa é protocooperação; se fosse obrigatória, seria mutualismo. Inibição por liberação de substâncias é amensalismo, como na antibiose.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-88",
+                         "texto_apoio":  "Um gráfico apresenta a curva de sobrevivência de três espécies. A curva I mantém-se alta durante quase toda a vida e cai bruscamente no final. A curva II decresce de forma constante ao longo de todas as idades. A curva III despenca logo no início e estabiliza depois, com poucos indivíduos alcançando idades avançadas.",
+                         "enunciado":  "As curvas I e III são típicas, respectivamente, de espécies que:",
+                         "alternativas":  {
+                                              "a":  "produzem poucos descendentes com alto cuidado parental e de espécies que produzem muitos descendentes sem cuidado parental",
+                                              "b":  "produzem muitos descendentes sem cuidado parental e de espécies que produzem poucos descendentes com investimento parental elevado",
+                                              "c":  "apresentam taxa de mortalidade constante em todas as idades e de espécies cuja mortalidade se concentra nas fases finais da vida",
+                                              "d":  "vivem em ambientes muito estáveis ao longo do ano e de espécies que enfrentam variações sazonais bruscas nas condições ambientais",
+                                              "e":  "possuem reprodução exclusivamente assexuada e de espécies que alternam reprodução sexuada e assexuada ao longo do ciclo de vida"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A curva I, com mortalidade concentrada no fim, caracteriza espécies de poucos descendentes e cuidado parental intenso, como grandes mamíferos. A curva III, com mortalidade altíssima nas fases iniciais, é típica de espécies que produzem enorme número de descendentes sem cuidado, como peixes e invertebrados marinhos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-89",
+                         "texto_apoio":  "Uma figura mostra o desenvolvimento inicial de um anfíbio: a partir do zigoto ocorrem divisões sucessivas que formam uma esfera de células, depois uma cavidade central, e em seguida uma invaginação que dá origem a um novo folheto e a uma abertura para o exterior.",
+                         "enunciado":  "A esfera com cavidade central chama-se ______, o processo de invaginação chama-se ______ e a abertura formada denomina-se ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "mórula – clivagem – arquêntero",
+                                              "b":  "mórula – gastrulação – blastóporo",
+                                              "c":  "gástrula – nêurulação – celoma",
+                                              "d":  "blástula – clivagem – arquêntero",
+                                              "e":  "blástula – gastrulação – blastóporo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A mórula é maciça; quando surge a cavidade central, a blastocele, o embrião passa a ser blástula. A invaginação que origina a endoderme e o intestino primitivo é a gastrulação, e a abertura que ela cria é o blastóporo. O arquêntero é a cavidade interna formada, e não a abertura externa.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-90",
+                         "texto_apoio":  "Uma tabela compara quatro filos de invertebrados quanto à simetria corporal, ao número de folhetos embrionários e à presença de celoma: o filo I não apresenta simetria definida nem tecidos verdadeiros; o filo II tem simetria radial e dois folhetos; o filo III tem simetria bilateral e três folhetos, sem celoma; o filo IV tem simetria bilateral, três folhetos e celoma verdadeiro.",
+                         "enunciado":  "Os filos I, II, III e IV podem ser exemplificados, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "cnidários, poríferos, anelídeos e platelmintos, agrupamento que segue a ordem crescente de complexidade do sistema nervoso de cada filo",
+                                              "b":  "poríferos, platelmintos, cnidários e equinodermos, arranjo baseado na progressiva especialização dos tecidos de revestimento externo",
+                                              "c":  "platelmintos, poríferos, cnidários e moluscos, sequência que reflete a ordem de aparecimento desses grupos no registro fóssil marinho",
+                                              "d":  "poríferos, cnidários, platelmintos e anelídeos",
+                                              "e":  "cnidários, platelmintos, poríferos e anelídeos, ordenação que acompanha o aumento do número de sistemas de órgãos em cada grupo"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Poríferos não têm simetria definida nem tecidos verdadeiros. Cnidários são diblásticos e de simetria radial. Platelmintos são triblásticos, bilaterais e acelomados — daí o corpo achatado, que favorece as trocas por difusão. Anelídeos são triblásticos, bilaterais e celomados, com o celoma atuando também como esqueleto hidrostático.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-91",
+                         "texto_apoio":  "Uma pessoa exposta a temperatura ambiente elevada apresenta vasodilatação cutânea e sudorese intensa. Outra, exposta ao frio, apresenta vasoconstrição periférica, arrepio e tremores involuntários.",
+                         "enunciado":  "O centro que coordena essas respostas e o efeito fisiológico dos tremores são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "o cerebelo, e os tremores redistribuem o sangue das extremidades para o centro do corpo, conservando o calor nos órgãos internos",
+                                              "b":  "a hipófise, e os tremores reduzem a superfície corporal exposta ao ambiente, diminuindo a perda de calor por convecção e radiação",
+                                              "c":  "o bulbo, e os tremores aumentam a frequência respiratória, o que eleva a temperatura do ar que chega aos alvéolos pulmonares",
+                                              "d":  "o hipotálamo, e os tremores produzem calor por meio da contração muscular repetida",
+                                              "e":  "a medula espinal, e os tremores estimulam a liberação de adrenalina, hormônio responsável direto pela elevação da temperatura corporal"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O hipotálamo é o termostato do organismo: compara a temperatura sanguínea com um valor de referência e dispara respostas corretivas. Os tremores são contrações musculares rápidas e involuntárias cuja função é gerar calor metabólico, já que boa parte da energia da contração se dissipa como calor.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-92",
+                         "texto_apoio":  "Um esquema apresenta os grupos vegetais em ordem de aparecimento: briófitas, pteridófitas, gimnospermas e angiospermas. Ao lado, quatro novidades evolutivas são listadas: vasos condutores, semente, fruto e flor.",
+                         "enunciado":  "O primeiro grupo a apresentar vasos condutores é ______, o primeiro a apresentar semente é ______, e o fruto é exclusivo ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "as briófitas – as pteridófitas – das gimnospermas",
+                                              "b":  "as briófitas – as gimnospermas – das pteridófitas",
+                                              "c":  "as pteridófitas – as angiospermas – das gimnospermas com semente nua",
+                                              "d":  "as gimnospermas – as angiospermas – das angiospermas",
+                                              "e":  "as pteridófitas – as gimnospermas – das angiospermas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Briófitas são avasculares e dependem de difusão, o que limita seu porte. Pteridófitas inauguram os vasos condutores. Gimnospermas trazem a semente, que protege o embrião e dispensa a água para a fecundação. O fruto, formado pelo ovário desenvolvido, é exclusivo das angiospermas e é o que dá nome ao grupo.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-93",
+                         "texto_apoio":  "Um estudo comparou o consumo de oxigênio de um lagarto e de um rato de massas corporais semelhantes, submetidos à mesma temperatura ambiente de 25 °C, em repouso e sem alimento nas 12 horas anteriores.",
+                         "enunciado":  "Espera-se que o consumo de oxigênio do rato seja:",
+                         "alternativas":  {
+                                              "a":  "variável ao longo do experimento, acompanhando as oscilações da temperatura ambiente da mesma forma que ocorre no lagarto observado",
+                                              "b":  "muito inferior, porque o pelo funciona como isolante e reduz a necessidade de produzir calor por meio da atividade metabólica basal",
+                                              "c":  "equivalente, uma vez que animais de massa semelhante apresentam a mesma superfície corporal e portanto as mesmas perdas para o ambiente",
+                                              "d":  "ligeiramente inferior, porque o lagarto precisa gastar energia em deslocamentos frequentes para regular sua temperatura ao longo do dia",
+                                              "e":  "muito superior, porque a manutenção da temperatura corporal por via metabólica tem custo energético elevado"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O rato é endotérmico e mantém a temperatura corporal por produção metabólica de calor, o que exige taxa metabólica basal alta e consumo de oxigênio muito superior. O lagarto é ectotérmico: obtém calor do ambiente e, a 25 °C em repouso, tem metabolismo baixo. O pelo reduz a perda, mas não elimina o custo de produzir calor.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-94",
+                         "texto_apoio":  "Uma amostra de DNA de um suspeito foi comparada, por eletroforese, com material genético recolhido em um local. O padrão de bandas obtido para cada amostra depende do número de repetições de sequências curtas em regiões específicas do genoma, que variam bastante entre indivíduos.",
+                         "enunciado":  "A técnica descrita se apoia no fato de que as regiões analisadas:",
+                         "alternativas":  {
+                                              "a":  "codificam proteínas cuja sequência é única em cada pessoa, o que permite identificar o indivíduo pelo produto gênico correspondente",
+                                              "b":  "apresentam sequências idênticas entre parentes próximos, condição que torna a técnica adequada para excluir familiares da investigação",
+                                              "c":  "sofrem mutação a cada divisão celular, o que faz o padrão de bandas mudar ao longo da vida e permite datar o material recolhido",
+                                              "d":  "estão presentes apenas no cromossomo Y, o que restringe a comparação a indivíduos do sexo masculino e simplifica a análise pericial",
+                                              "e":  "são altamente polimórficas na população, de modo que a combinação de repetições é praticamente exclusiva de cada indivíduo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As regiões usadas em identificação genética são repetições curtas em tandem, não codificantes e muito variáveis entre pessoas quanto ao número de repetições. Analisando vários desses locos ao mesmo tempo, a chance de coincidência entre dois indivíduos não aparentados torna-se ínfima — é isso que dá poder à técnica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-95",
+                         "texto_apoio":  "Uma figura mostra a estrutura de um vírus envelopado, com material genético, capsídeo proteico e um envoltório externo derivado da membrana da célula hospedeira, no qual se inserem glicoproteínas virais.",
+                         "enunciado":  "A presença do envelope lipídico explica por que esses vírus são:",
+                         "alternativas":  {
+                                              "a":  "mais resistentes a sabões e solventes, já que a camada adicional protege o capsídeo do contato direto com esses agentes químicos",
+                                              "b":  "capazes de se replicar fora de células vivas, uma vez que o envelope carrega as enzimas necessárias à síntese de novas partículas",
+                                              "c":  "mais sensíveis a sabões e álcool, que desorganizam a camada lipídica e inativam a partícula",
+                                              "d":  "reconhecidos com dificuldade pelo sistema imune, porque o envelope de origem celular impede a exposição de qualquer antígeno viral",
+                                              "e":  "incapazes de infectar células animais, restringindo-se a hospedeiros vegetais cuja parede celulósica facilita a fusão do envelope"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O envelope é uma bicamada lipídica, e sabões e álcool a desorganizam, o que inativa o vírus — base da recomendação de lavar as mãos. As glicoproteínas inseridas nele são justamente os principais antígenos reconhecidos pelo sistema imune, o que descarta (d). Nenhum vírus se replica fora de célula hospedeira.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-96",
+                         "texto_apoio":  "Um gráfico apresenta a variação da população de linces e de lebres numa mesma região ao longo de noventa anos. As duas curvas oscilam com regularidade, e os picos da população de linces ocorrem sistematicamente alguns anos após os picos da população de lebres.",
+                         "enunciado":  "O padrão descrito é explicado pelo fato de que:",
+                         "alternativas":  {
+                                              "a":  "as duas populações competem pelos mesmos recursos vegetais da região, e a escassez periódica desses recursos afeta ambas de modo alternado",
+                                              "b":  "as duas espécies mantêm relação de mutualismo facultativo, o que faz o crescimento de uma delas favorecer o crescimento da outra pouco depois",
+                                              "c":  "as oscilações decorrem exclusivamente de variações climáticas de longo prazo, que atingem as duas espécies com defasagem de alguns anos",
+                                              "d":  "o predador controla a população de presas de forma tão eficiente que a curva das lebres passa a acompanhar a dos linces com atraso",
+                                              "e":  "o crescimento da presa fornece alimento abundante ao predador, cuja população cresce depois e então reduz a presa, reiniciando o ciclo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "É a oscilação clássica predador-presa. O aumento das lebres oferece mais alimento aos linces, cuja população cresce em seguida; a predação intensa derruba as lebres, e a queda do alimento derruba os linces depois. A defasagem no sentido descrito no gráfico — pico do predador após o da presa — é o que descarta (d).",
                          "formato":  "direta"
                      }
                  ]

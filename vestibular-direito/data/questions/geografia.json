@@ -6,13 +6,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "O intenso processo de urbanização brasileira, acelerado a partir da segunda metade do século XX, esteve diretamente relacionado a:",
                          "alternativas":  {
-                                              "a":  "Uma valorização da pequena propriedade rural, que ampliou o número de postos de trabalho agrícola e reduziu o deslocamento para as cidades",
+                                              "a":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades",
                                               "b":  "O crescimento vegetativo da população já urbana, isoladamente, sem contribuição relevante dos deslocamentos internos no período",
                                               "c":  "Uma política federal de fixação do trabalhador no campo por meio de subsídios à agricultura de subsistência",
                                               "d":  "A transferência do eixo industrial do Sudeste para áreas rurais do Centro-Oeste, que atraiu trabalhadores urbanos de volta ao campo",
-                                              "e":  "O êxodo rural, impulsionado pela modernização e mecanização do campo e pela busca de emprego e serviços nas cidades"
+                                              "e":  "Uma valorização da pequena propriedade rural, que ampliou o número de postos de trabalho agrícola e reduziu o deslocamento para as cidades"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "A modernização agrícola reduziu a demanda por mão de obra no campo, enquanto a industrialização concentrada nas cidades atraía trabalhadores em busca de emprego, resultando em intenso êxodo rural. As demais alternativas invertem o sentido do processo histórico: não houve nem valorização da pequena propriedade que retivesse trabalhadores, nem política de fixação rural, nem retorno de indústrias ao campo.",
                          "formato":  "direta"
                      },
@@ -231,13 +231,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "As migrações internas no Brasil ao longo do século XX, com destaque para o deslocamento de nordestinos rumo ao Sudeste, estiveram associadas principalmente a:",
                          "alternativas":  {
-                                              "a":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes, fenômeno mais expressivo a partir dos anos 1990",
+                                              "a":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste",
                                               "b":  "A expansão da fronteira agrícola no Centro-Oeste, que teria absorvido a maior parte do fluxo migratório nordestino ao longo do século XX",
                                               "c":  "Um programa federal de assentamento que redirecionou trabalhadores rurais nordestinos para a fronteira agrícola amazônica, iniciativa conduzida principalmente durante o regime militar",
                                               "d":  "A busca por melhores condições climáticas, já que o Sudeste apresenta regime de chuvas mais regular do que todo o Nordeste",
-                                              "e":  "A busca por melhores oportunidades de emprego em regiões industrializadas, diante de secas recorrentes e da concentração de terras no Nordeste"
+                                              "e":  "A maior oferta de vagas em universidades do Sudeste em comparação às do Nordeste, o que atraiu sobretudo estudantes, fenômeno mais expressivo a partir dos anos 1990"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "Fatores como secas periódicas, concentração fundiária e escassez de oportunidades de emprego no Nordeste impulsionaram fluxos migratórios rumo às regiões industrializadas do Sudeste. O fluxo migratório histórico foi predominantemente de trabalhadores em busca de emprego industrial e urbano, não de um programa de assentamento amazônico, nem majoritariamente de estudantes, nem motivado centralmente por diferenças climáticas.",
                          "formato":  "direta"
                      },
@@ -351,13 +351,13 @@
                          "texto_apoio":  "A matriz de transportes brasileira é historicamente desequilibrada entre os diferentes modais disponíveis.",
                          "enunciado":  "Esse desequilíbrio se manifesta, sobretudo, pela:",
                          "alternativas":  {
-                                              "a":  "Concentração do transporte de cargas em hidrovias, dada a extensa rede fluvial do território brasileiro",
+                                              "a":  "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias",
                                               "b":  "Concentração do transporte de passageiros no modal aéreo, que responderia pela maior parte dos deslocamentos interestaduais no país",
                                               "c":  "Predominância do modal ferroviário sobre os demais, herdada de investimentos maciços realizados ao longo de todo o século XX",
                                               "d":  "Distribuição equilibrada entre os modais rodoviário, ferroviário e hidroviário, semelhante à observada nos Estados Unidos",
-                                              "e":  "Forte predominância do modal rodoviário no transporte de cargas e passageiros, em detrimento de ferrovias e hidrovias"
+                                              "e":  "Concentração do transporte de cargas em hidrovias, dada a extensa rede fluvial do território brasileiro"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "Desde meados do século XX, o Brasil priorizou investimentos no modal rodoviário, o que resultou em uma matriz de transportes desequilibrada, com custos logísticos elevados. O país não teve investimento maciço em ferrovias ao longo do século XX (pelo contrário, houve desinvestimento relativo), não concentra cargas em hidrovias, e sua matriz está longe do equilíbrio observado em países como os Estados Unidos.",
                          "formato":  "direta"
                      },
@@ -563,13 +563,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "O conceito de macrocefalia urbana descreve situações em que:",
                          "alternativas":  {
-                                              "a":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas",
+                                              "a":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais",
                                               "b":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
                                               "c":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população",
                                               "d":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
-                                              "e":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais"
+                                              "e":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
@@ -627,13 +627,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Em regiões metropolitanas brasileiras, é comum que municípios periféricos funcionem como \u0027cidades-dormitório\u0027. Esse padrão de ocupação está associado a:",
                          "alternativas":  {
-                                              "a":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários",
+                                              "a":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos",
                                               "b":  "Uma política de incentivo fiscal que atraiu indústrias de alta tecnologia para esses municípios periféricos, gerando empregos locais qualificados, padrão observado desde a década de 1990",
                                               "c":  "Um processo de desconcentração industrial planejado, que transferiu plantas produtivas do município-polo para a periferia metropolitana",
                                               "d":  "Uma concentração de sedes de grandes empresas nesses municípios, que atraem moradores de toda a região metropolitana em busca de emprego local",
-                                              "e":  "Segregação socioespacial, em que famílias de menor renda residem em áreas periféricas com menos infraestrutura, mas se deslocam diariamente aos centros urbanos com mais empregos"
+                                              "e":  "Uma oferta de empregos e serviços especializados equivalente à do município-polo da região metropolitana, dispensando deslocamentos diários"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "Cidades-dormitório concentram grande parte de sua população trabalhadora, mas oferecem poucas oportunidades de emprego e serviços especializados, refletindo a segregação socioespacial que obriga a deslocamentos pendulares diários. Não há concentração de sedes empresariais, nem oferta de emprego equivalente ao polo metropolitano, nem indústrias de alta tecnologia atraídas por incentivo fiscal nesses municípios.",
                          "dificuldade":  "media",
                          "formato":  "direta"
@@ -1027,13 +1027,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "O conceito de \u0027pegada de carbono\u0027 refere-se a:",
                          "alternativas":  {
-                                              "a":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões",
+                                              "a":  "Uma medida da quantidade total de gases de efeito estufa emitidos, direta ou indiretamente, por uma atividade ou produto",
                                               "b":  "Uma unidade oficial de medida de temperatura, adotada por climatologistas em substituição ao grau Celsius",
                                               "c":  "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções",
                                               "d":  "Um índice que mede apenas as emissões de carbono provenientes do transporte aéreo internacional",
-                                              "e":  "Uma medida da quantidade total de gases de efeito estufa emitidos, direta ou indiretamente, por uma atividade ou produto"
+                                              "e":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "A pegada de carbono é um indicador que estima o total de gases de efeito estufa emitidos, direta ou indiretamente, por uma pessoa, empresa, produto ou atividade. Não é uma unidade de temperatura, não se limita à área desmatada, e não se restringe às emissões do transporte aéreo — abrange qualquer fonte de emissão.",
                          "dificuldade":  "media",
                          "formato":  "direta"
@@ -1123,13 +1123,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "O desmatamento da Amazônia é frequentemente associado a impactos que vão além da própria região, relacionados ao fenômeno conhecido como \u0027rios voadores\u0027. Esse fenômeno refere-se a:",
                          "alternativas":  {
-                                              "a":  "Um fenômeno observado apenas durante a estação seca, quando a evapotranspiração da floresta é interrompida",
+                                              "a":  "Grandes volumes de vapor d\u0027água liberados pela floresta amazônica por evapotranspiração, transportados pelos ventos até o Centro-Sul",
                                               "b":  "Rios subterrâneos amazônicos que desaguam diretamente na atmosfera por meio de gêiseres naturais",
                                               "c":  "Um sistema de canais artificiais construídos para permitir a navegação aérea de embarcações sobre a floresta amazônica",
                                               "d":  "Correntes marítimas do Atlântico que transportam umidade da costa norte até o interior do continente, alimentando as chuvas do Centro-Sul",
-                                              "e":  "Grandes volumes de vapor d\u0027água liberados pela floresta amazônica por evapotranspiração, transportados pelos ventos até o Centro-Sul"
+                                              "e":  "Um fenômeno observado apenas durante a estação seca, quando a evapotranspiração da floresta é interrompida"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "Os \u0027rios voadores\u0027 são grandes massas de vapor d\u0027água liberadas pela floresta amazônica por evapotranspiração, transportadas pelos ventos e que contribuem para o regime de chuvas em regiões distantes, como o Centro-Sul do Brasil. Não se trata de canais artificiais, nem de rios subterrâneos ligados a gêiseres, e o fenômeno é mais intenso durante o período de maior atividade da floresta, não interrompido na estação seca.",
                          "dificuldade":  "media",
                          "formato":  "direta"
@@ -1315,13 +1315,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "Quando o valor total das exportações de um país supera o valor total de suas importações em determinado período, diz-se que esse país apresentou, em sua balança comercial:",
                          "alternativas":  {
-                                              "a":  "Uma recessão econômica automática, independentemente de outros indicadores da economia",
+                                              "a":  "Um superávit comercial",
                                               "b":  "Um déficit comercial, já que exportar representa uma saída de mercadorias do território nacional",
                                               "c":  "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens",
                                               "d":  "Uma balança de pagamentos necessariamente equilibrada em todas as suas contas",
-                                              "e":  "Um superávit comercial"
+                                              "e":  "Uma recessão econômica automática, independentemente de outros indicadores da economia"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. Déficit é o oposto do superávit, superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
                          "dificuldade":  "media",
                          "formato":  "direta"
@@ -1667,13 +1667,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "A transição energética, com a substituição progressiva de fontes fósseis por fontes renováveis, é frequentemente discutida também sob a ótica do mercado de trabalho, pois:",
                          "alternativas":  {
-                                              "a":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor",
+                                              "a":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais",
                                               "b":  "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções",
                                               "c":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
                                               "d":  "Beneficia exclusivamente trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
-                                              "e":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais"
+                                              "e":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "A transição energética tende a gerar empregos em setores emergentes, como eólica, solar e hidrogênio verde, mas também impõe desafios de requalificação para trabalhadores de setores fósseis tradicionais. O processo gera, e não apenas elimina, empregos em novos setores; não beneficia exclusivamente exportadores de petróleo; e tem impacto direto e relevante sobre o mercado de trabalho, não sendo neutro.",
                          "dificuldade":  "media",
                          "formato":  "direta"
@@ -1731,13 +1731,13 @@
                          "texto_apoio":  "",
                          "enunciado":  "A poluição de rios que cortam grandes centros urbanos brasileiros, como o Rio Tietê em São Paulo, está relacionada, sobretudo, a:",
                          "alternativas":  {
-                                              "a":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê",
+                                              "a":  "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado",
                                               "b":  "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
                                               "c":  "Uma política municipal que restringe a poluição a trechos específicos do rio, mantendo o restante do curso d\u0027água preservado",
                                               "d":  "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
-                                              "e":  "Despejo de esgoto doméstico e industrial sem tratamento adequado, além do descarte irregular de resíduos sólidos, processos associados ao crescimento urbano desordenado"
+                                              "e":  "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê"
                                           },
-                         "resposta":  "e",
+                         "resposta":  "a",
                          "explicacao":  "A poluição de rios urbanos, como o Tietê, decorre principalmente do despejo de esgoto sem tratamento adequado e do descarte irregular de resíduos, agravados pelo crescimento urbano desordenado. O problema não é de origem exclusivamente rural, não é um processo natural de sedimentação, e não existe política que restrinja a poluição a trechos específicos do rio.",
                          "dificuldade":  "media",
                          "formato":  "direta"

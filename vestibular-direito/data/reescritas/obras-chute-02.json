@@ -1,0 +1,199 @@
+{
+  "questoes": [
+    {
+      "id": "obra-lady-bird-q1",
+      "enunciado": "Sobre a produção de Lady Bird: A Hora de Voar (2017), é correto afirmar que",
+      "alternativas": {
+        "a": "foi filmado e ambientado em Nova York, cidade de destino da protagonista",
+        "b": "não recebeu indicação relevante em premiações da crítica ou da Academia",
+        "c": "é o primeiro trabalho de Gerwig como atriz, antes da estreia na direção",
+        "d": "foi codirigido por Noah Baumbach, com quem Gerwig já havia escrito roteiros",
+        "e": "é o primeiro longa dirigido solo por Greta Gerwig, com Saoirse Ronan"
+      },
+      "resposta": "e",
+      "explicacao": "A palavra que carrega a afirmação é solo: Gerwig já vinha do cinema como atriz e corroteirista, e Lady Bird é a primeira direção assinada só por ela. Em (d) está o distrator mais bem informado, porque a parceria com Baumbach é real em roteiro e em atuação — só que ele não codirige este filme. Em (c), a estreia como atriz é muito anterior. Em (a), o filme é rodado e ambientado em Sacramento, e Nova York só aparece no fim. Em (b), houve cinco indicações ao Oscar."
+    },
+    {
+      "id": "obra-lady-bird-q2",
+      "enunciado": "O relacionamento entre Lady Bird e sua mãe, Marion, ao longo do filme, é marcado por",
+      "alternativas": {
+        "a": "harmonia constante, sem divergência sobre o futuro da protagonista",
+        "b": "disputa profissional, já que ambas trabalham no mesmo hospital",
+        "c": "indiferença mútua, já que as duas quase não convivem no filme",
+        "d": "amor intenso com conflitos sobre dinheiro, expectativa e distância",
+        "e": "autoridade sem afeto, com a mãe descrita apenas por sua severidade"
+      },
+      "resposta": "d",
+      "explicacao": "O filme insiste em manter as duas coisas juntas: a briga na loja de vestidos termina em cumplicidade, e a carta que Marion escreve e não envia é a prova do afeto que ela não consegue dizer. Em (e) está a leitura parcial mais tentadora, porque a severidade é real e ocupa boa parte das cenas — reduzir a personagem a ela, porém, apaga o que o filme constrói. Em (a) e (c), harmonia e indiferença contrariam o atrito constante. Em (b), Marion é enfermeira e a filha ainda está no ensino médio."
+    },
+    {
+      "id": "obra-lady-bird-q3",
+      "enunciado": "O apelido 'Lady Bird', que a protagonista exige que usem para se referir a ela, pode ser interpretado como",
+      "alternativas": {
+        "a": "apelido imposto pelas colegas, que ela tenta abandonar no filme",
+        "b": "homenagem dos pais a uma avó de mesmo nome, segundo o filme",
+        "c": "referência a uma personagem de livro infantil que ela lia quando criança",
+        "d": "nome artístico adotado para a peça do colégio em que atua",
+        "e": "afirmação de autonomia, escolhida em oposição ao nome de batismo"
+      },
+      "resposta": "e",
+      "explicacao": "Ela responde que o nome foi dado por ela mesma a ela mesma, o que é o argumento inteiro: nomear-se é o primeiro gesto de autoria sobre a própria vida, e por isso o filme só a chama de Christine quando ela começa a aceitar de onde veio. Em (a) está a inversão exata da origem — o apelido é escolha, não imposição. Em (b) e (c), nem avó homônima nem livro infantil aparecem no filme. Em (d), o nome já é usado antes da peça e vale fora dela."
+    },
+    {
+      "id": "obra-lady-bird-q4",
+      "enunciado": "Comparando as duas obras, observa-se que",
+      "alternativas": {
+        "a": "Lady Bird se passa numa monarquia europeia, e Laranja Mecânica nos EUA",
+        "b": "os dois tratam da tensão entre autonomia e forças que moldam o indivíduo",
+        "c": "os dois retratam jovens que cometem crimes violentos por protesto político",
+        "d": "nenhuma das duas aborda a busca por identidade pessoal",
+        "e": "os dois usam narração em voz over da protagonista para comentar a ação"
+      },
+      "resposta": "b",
+      "explicacao": "Uma jovem que quer escolher quem é contra família, escola e cidade; um jovem submetido a um tratamento que lhe retira a capacidade de escolher — registros opostos, mesma pergunta sobre o quanto o indivíduo se molda a si próprio. Em (e) está o distrator mais fino, porque Laranja Mecânica de fato é narrado em voz over por Alex, e Lady Bird não usa esse recurso. Em (a), Lady Bird se passa em Sacramento e Laranja Mecânica numa Inglaterra distópica. Em (c), Lady Bird não tem crime violento. Em (d), a identidade é o tema comum."
+    },
+    {
+      "id": "obra-lady-bird-q5",
+      "enunciado": "O desfecho de Lady Bird, em que a protagonista se muda para estudar em Nova York, sugere que",
+      "alternativas": {
+        "a": "ela desiste da faculdade por não se adaptar fora de Sacramento",
+        "b": "a mudança resolve de imediato todos os conflitos familiares",
+        "c": "ela rompe o vínculo afetivo com a mãe e com a cidade natal",
+        "d": "a protagonista descobre que Nova York é idêntica a Sacramento",
+        "e": "só à distância ela reconhece o que queria deixar para trás"
+      },
+      "resposta": "e",
+      "explicacao": "No telefonema final ela se apresenta como Christine e descreve Sacramento com afeto — a cidade que passou o filme inteiro querendo abandonar. É o distanciamento que torna visível o que estava perto demais. Em (c) está a leitura oposta: a mudança física não rompe o vínculo, ela o revela. Em (b), o filme evita a reconciliação fácil e deixa o conflito em aberto. Em (a), ela permanece em Nova York. Em (d), o contraste entre as duas cidades é o que produz o reconhecimento."
+    },
+    {
+      "id": "obra-babel-q1",
+      "enunciado": "Sobre a produção de Babel (2006), de Alejandro González Iñárritu, é correto afirmar que",
+      "alternativas": {
+        "a": "foi filmado em estúdio, sem locações reais nos países retratados",
+        "b": "foi o primeiro longa dirigido por Iñárritu em sua carreira",
+        "c": "encerra a trilogia de Iñárritu e Arriaga, iniciada com Amores Perros",
+        "d": "encerra trilogia iniciada por outro diretor, de que Iñárritu fez o final",
+        "e": "foi rodado em uma só língua, dublado depois para os quatro idiomas"
+      },
+      "resposta": "c",
+      "explicacao": "Amores Perros, 21 Gramas e Babel formam a trilogia que Iñárritu escreveu com Guillermo Arriaga, unidas pela estrutura de histórias entrelaçadas e pelo tema da perda. Em (d) está o distrator mais próximo, porque preserva a ideia de trilogia e erra na autoria: os três filmes são do mesmo diretor, e não de mãos diferentes. Em (b), Babel é o terceiro longa. Em (a) e (e), o filme foi rodado no Marrocos, no México e no Japão, com atores falando as próprias línguas — o que é parte do seu argumento."
+    },
+    {
+      "id": "obra-babel-q2",
+      "enunciado": "A estrutura narrativa de Babel, que entrelaça histórias no Marrocos, no México, nos Estados Unidos e no Japão, ilustra o eixo da globalização ao mostrar que",
+      "alternativas": {
+        "a": "fronteiras bem definidas contêm na prática qualquer crise local",
+        "b": "a tecnologia de comunicação elimina o mal-entendido entre culturas",
+        "c": "só países geograficamente vizinhos sofrem consequências recíprocas",
+        "d": "o mal-entendido nasce sobretudo da diferença de idioma entre as partes",
+        "e": "um acidente num ponto do globo repercute em lugares distantes"
+      },
+      "resposta": "e",
+      "explicacao": "Um tiro disparado por dois meninos numa montanha marroquina desemboca em prisão no deserto mexicano e em um quarto de adolescente em Tóquio — a distância física deixou de proteger quem quer que seja. Em (d) está o distrator que o título do filme sugere e que o filme desmente: a personagem japonesa é surda e o abismo dela não é de idioma; o que falha é a escuta, e não a tradução. Em (a) e (c), a contenção pela fronteira e pela vizinhança é o oposto do que se mostra. Em (b), a tecnologia não impede nenhum dos desencontros."
+    },
+    {
+      "id": "obra-babel-q3",
+      "enunciado": "O elo material que conecta as quatro histórias de Babel é",
+      "alternativas": {
+        "a": "uma herança financeira disputada por membros de uma mesma família",
+        "b": "um rifle presenteado por um caçador japonês a seu guia marroquino",
+        "c": "um telefone celular perdido por um turista em viagem internacional",
+        "d": "um documento diplomático extraviado entre duas embaixadas",
+        "e": "um contrato de trabalho que liga a babá mexicana à família americana"
+      },
+      "resposta": "b",
+      "explicacao": "O rifle é o objeto que atravessa o filme inteiro: sai do Japão como presente, é vendido a uma família marroquina, dispara contra a turista americana e, por consequência, deixa os filhos dela aos cuidados da babá que os leva ao México. Em (e) está o distrator mais forte, porque o vínculo empregatício de fato conecta duas das quatro tramas — só que apenas duas, enquanto a pergunta é pelo elo que alcança todas. Em (a), (c) e (d), herança, celular e documento não figuram na trama."
+    },
+    {
+      "id": "obra-babel-q4",
+      "enunciado": "Comparando as duas obras, é correto afirmar que",
+      "alternativas": {
+        "a": "os dois narram só imigração legal e bem-sucedida, sem barreira cultural",
+        "b": "os dois se passam num único país, sem que ninguém cruze fronteiras",
+        "c": "Babel é autobiográfico em primeira pessoa e Persépolis é ficção coral",
+        "d": "os dois usam animação para representar a memória da infância",
+        "e": "Babel entrelaça histórias por um só evento, Persépolis narra um exílio"
+      },
+      "resposta": "e",
+      "explicacao": "São duas formas de tratar deslocamento: uma rede de destinos que um único disparo amarra, e a trajetória de uma só pessoa que sai do Irã e não consegue pertencer a lugar nenhum. Em (c) está a inversão exata dos dois — Persépolis é que é autobiográfico e em primeira pessoa, e Babel é que é coral. Em (d), só Persépolis é animação. Em (b), os dois cruzam fronteiras o tempo todo. Em (a), nenhuma das duas trata de imigração tranquila."
+    },
+    {
+      "id": "obra-babel-q5",
+      "enunciado": "O título Babel remete a",
+      "alternativas": {
+        "a": "o episódio bíblico da Torre de Babel e a fragmentação das línguas",
+        "b": "uma técnica de montagem paralela criada por Iñárritu para o filme",
+        "c": "um tratado internacional de comunicação do pós-guerra",
+        "d": "uma cidade fictícia criada para unificar as quatro tramas",
+        "e": "o nome do rifle que circula entre as quatro histórias do filme"
+      },
+      "resposta": "a",
+      "explicacao": "A referência é ao relato do Gênesis em que a humanidade, ao tentar erguer uma torre até o céu, é dispersada pela confusão das línguas — imagem que o filme atualiza em quatro idiomas que não se alcançam. Em (e) está o distrator mais engenhoso, porque o rifle é mesmo o elo material da trama; ele não tem nome próprio, e o título aponta para outra coisa. Em (b), montagem paralela é técnica anterior a Iñárritu e não batiza o filme. Em (c) e (d), não há tratado nem cidade fictícia com esse nome."
+    },
+    {
+      "id": "obra-la-rentree-q1",
+      "enunciado": "A exposição individual de Anita Malfatti realizada em São Paulo em dezembro de 1917, da qual \"La Rentrée\" fazia parte, é lembrada sobretudo por:",
+      "alternativas": {
+        "a": "ocorreu dentro da Semana de Arte Moderna de 1922, no Municipal",
+        "b": "foi organizada pelo governo federal como mostra de arte acadêmica",
+        "c": "foi a primeira exposição inteiramente abstrata da América Latina",
+        "d": "reuniu obras de Malfatti e Tarsila do Amaral lado a lado na mesma sala",
+        "e": "recebeu duras críticas de Monteiro Lobato, que viu ali deformação"
+      },
+      "resposta": "e",
+      "explicacao": "O artigo de Lobato, publicado no Estado de S. Paulo com o título de Paranoia ou mistificação, transformou a mostra em episódio fundador: a reação hostil deu visibilidade ao que ela trazia e aproximou Malfatti do grupo que faria 1922. Em (d) está o distrator mais plausível, porque as duas seriam depois associadas ao mesmo movimento — em 1917, porém, Tarsila ainda pintava em chave acadêmica e não participou. Em (a), a Semana é de cinco anos depois. Em (b), a exposição foi individual e privada. Em (c), as telas são figurativas."
+    },
+    {
+      "id": "obra-la-rentree-q2",
+      "enunciado": "No eixo da transição da modernidade para a pós-modernidade, a obra de Anita Malfatti costuma ser lida como um marco porque:",
+      "alternativas": {
+        "a": "antecipa técnicas digitais de manipulação de imagem de décadas depois",
+        "b": "rejeita a influência europeia, propondo estética nacionalista fechada",
+        "c": "documenta a chegada de uma vanguarda europeia e o choque que causou",
+        "d": "foi produzida junto a movimentos pós-modernos norte-americanos dos anos 1980",
+        "e": "inaugura o modernismo brasileiro, tornando a Semana de 1922 dispensável"
+      },
+      "resposta": "c",
+      "explicacao": "A tela importa menos pelo que é do que pelo que revelou: uma crítica formada no academicismo diante de uma linguagem que não sabia ler, e a distância entre os dois mundos medida em tempo real pela polêmica. Em (e) está o excesso mais tentador, porque o papel precursor é real — reconhecê-lo, porém, não torna a Semana dispensável, e é justamente a reação de 1917 que ajuda a produzir 1922. Em (b), Malfatti traz a influência europeia em vez de rejeitá-la. Em (a) e (d), as referências digitais e pós-modernas são anacrônicas."
+    },
+    {
+      "id": "obra-la-rentree-q3",
+      "enunciado": "Sobre a formação de Anita Malfatti e sua relação com o Expressionismo, é correto afirmar que:",
+      "alternativas": {
+        "a": "estudou pintura na Alemanha, com contato direto com o Expressionismo",
+        "b": "aprendeu o estilo com Tarsila do Amaral, já radicada em Paris",
+        "c": "nunca deixou o Brasil, desenvolvendo o estilo sozinha, sem a Europa",
+        "d": "formou-se em escolas acadêmicas francesas de pintura neoclássica",
+        "e": "estudou apenas nos Estados Unidos, sem passar por nenhuma escola europeia"
+      },
+      "resposta": "a",
+      "explicacao": "Malfatti estudou em Berlim entre 1910 e 1914, no auge do Expressionismo alemão, e foi de lá que trouxe a deformação da figura e a cor arbitrária que a crítica paulistana estranharia. Em (e) está o distrator mais difícil: ela realmente estudou nos Estados Unidos depois, com Homer Boss em Nova York, e a palavra apenas é o que torna a alternativa falsa. Em (b), Tarsila só iria a Paris nos anos 1920. Em (c), a temporada europeia é decisiva. Em (d), a formação não foi acadêmica nem francesa."
+    },
+    {
+      "id": "obra-la-rentree-q4",
+      "enunciado": "Tanto \"La Rentrée\", de Anita Malfatti, quanto \"Bananal\", de Lasar Segall, remetem à influência do Expressionismo europeu na arte brasileira. A principal diferença entre os dois casos é que:",
+      "alternativas": {
+        "a": "nenhum dos dois teve contato direto com o Expressionismo alemão",
+        "b": "Malfatti é brasileira que foi estudar fora, Segall chegou já formado",
+        "c": "as duas obras são da mesma década, sem diferença de contexto biográfico",
+        "d": "Segall nasceu no Brasil e Malfatti nasceu na Europa e imigrou adulta",
+        "e": "Malfatti pintou no Brasil e Segall pintou Bananal ainda na Alemanha"
+      },
+      "resposta": "b",
+      "explicacao": "O trajeto é inverso e é isso que distingue os dois casos: uma brasileira que vai buscar a linguagem na Alemanha e volta com ela; um europeu que chega com a linguagem pronta e a aplica ao país onde passa a viver. Em (d) está a inversão exata das duas biografias. Em (e), Segall pintou Bananal já em São Paulo, em 1927. Em (c), as obras são de 1915 e 1927, com mais de uma década entre elas. Em (a), ambos tiveram formação alemã direta."
+    },
+    {
+      "id": "obra-la-rentree-q5",
+      "enunciado": "A reação hostil da crítica paulistana à exposição de 1917 de Anita Malfatti pode ser interpretada como evidência de que:",
+      "alternativas": {
+        "a": "a exposição foi aclamada pela imprensa como marco de modernidade",
+        "b": "a crítica de Lobato foi ignorada e não teve repercussão pública",
+        "c": "o público e a crítica já dominavam a linguagem expressionista",
+        "d": "a hostilidade decorreu de motivos pessoais entre Lobato e a pintora",
+        "e": "a modernização não avança em linha reta, e a resistência precede"
+      },
+      "resposta": "e",
+      "explicacao": "O episódio mostra que uma linguagem nova chega antes do repertório capaz de recebê-la: o que em 1917 pareceu deformação e mistificação seria, uma década depois, o vocabulário corrente da pintura brasileira. Em (d) está a redução mais tentadora, porque personaliza um conflito que foi estético e geracional — Lobato escreve como defensor de um critério de arte, e não por desavença particular. Em (a) e (b), a hostilidade e sua repercussão são o próprio fato. Em (c), o domínio da linguagem é o que faltava."
+    }
+  ]
+}

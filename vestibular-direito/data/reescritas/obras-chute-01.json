@@ -1,0 +1,199 @@
+{
+  "questoes": [
+    {
+      "id": "obra-manifesto-antropofago-q1",
+      "enunciado": "O 'Manifesto Antropófago', de Oswald de Andrade, foi publicado em 1928 em estreita relação com:",
+      "alternativas": {
+        "a": "a fundação da Academia Brasileira de Letras, ocorrida no mesmo ano",
+        "b": "um congresso de escritores em Paris de que Oswald teria participado",
+        "c": "a promulgação da primeira Constituição republicana, tomada por Oswald como modelo",
+        "d": "a Semana de Arte Moderna, realizada poucos meses antes do manifesto",
+        "e": "o quadro Abaporu, de Tarsila do Amaral, que originou a ideia antropofágica"
+      },
+      "resposta": "e",
+      "explicacao": "Tarsila pintou o Abaporu como presente de aniversário a Oswald em janeiro de 1928; a tela veio primeiro, e o manifesto nasceu do movimento que ela desencadeou, publicado em maio do mesmo ano. Em (d) está o distrator mais tentador, porque a Semana de Arte Moderna é de fato o marco do Modernismo — só que é de 1922, seis anos antes, e não poucos meses. Em (a), a Academia foi fundada em 1897. Em (c), a primeira Constituição republicana é de 1891 e não serviu de modelo ao texto. Em (b), nenhum congresso parisiense está na origem do manifesto."
+    },
+    {
+      "id": "obra-manifesto-antropofago-q2",
+      "enunciado": "A proposta da 'antropofagia cultural' apresentada no manifesto de Oswald de Andrade consiste, essencialmente, em:",
+      "alternativas": {
+        "a": "copiar fielmente os modelos europeus, sem adaptação às condições locais",
+        "b": "rejeitar a influência estrangeira, isolando a cultura brasileira",
+        "c": "devorar criticamente o que vem de fora, devolvendo algo novo",
+        "d": "restringir a produção cultural a temas e formas de origem indígena",
+        "e": "alternar entre a imitação do modelo europeu e o resgate da tradição local"
+      },
+      "resposta": "c",
+      "explicacao": "Devorar não é copiar nem recusar: é ingerir o que vem de fora, digerir e devolver transformado em algo que já não é nem o original nem o que existia antes. Em (e) está o distrator mais sofisticado, porque também recusa os dois extremos — mas alternar mantém as duas tradições separadas, revezando-se, ao passo que a antropofagia as funde numa terceira coisa. Em (a) e (b) estão os dois extremos que a proposta rejeita de uma vez. Em (d), fechar-se no repertório indígena seria outra forma de purismo."
+    },
+    {
+      "id": "obra-manifesto-antropofago-q3",
+      "enunciado": "O 'Manifesto Antropófago' traz uma datação simbólica que substitui o calendário convencional. Essa datação faz referência:",
+      "alternativas": {
+        "a": "à deglutição do primeiro bispo do Brasil por indígenas, virada em marco",
+        "b": "à chegada da corte portuguesa em 1808, tomada como marco fundador",
+        "c": "à Proclamação da República, entendida como início de nova era cultural",
+        "d": "à Semana de Arte Moderna, cujo aniversário serviria de referência",
+        "e": "ao início da catequese jesuítica, marco da colonização espiritual do país"
+      },
+      "resposta": "a",
+      "explicacao": "O manifesto data-se pelo ano da deglutição do bispo Sardinha pelos caetés, em 1556 — gesto coerente com a tese, já que funda o calendário no episódio que a colonização registrou como barbárie. Em (e) está o distrator mais bem construído: a catequese também é marco de contato entre as duas culturas, mas inverte o sentido, porque marca a absorção do indígena pelo europeu, e não o contrário. Em (b), (c) e (d), corte portuguesa, República e Semana são marcos convencionais, e o gesto do manifesto é justamente recusá-los."
+    },
+    {
+      "id": "obra-manifesto-antropofago-q4",
+      "enunciado": "Comparado a 'As Meninas', de Lygia Fagundes Telles, o 'Manifesto Antropófago' se diferencia principalmente por:",
+      "alternativas": {
+        "a": "utilizar o gênero teatral, como a peça de Dias Gomes da mesma lista",
+        "b": "tratar do período da ditadura militar, com foco em outras personagens",
+        "c": "ser ambientado num pensionato de estudantes, com enredo mais curto",
+        "d": "recorrer à narrativa em primeira pessoa, ausente no romance de Telles",
+        "e": "adotar forma fragmentada e programática, e não narrativa de ficção"
+      },
+      "resposta": "e",
+      "explicacao": "A diferença é de gênero antes de ser de assunto: o manifesto é série de aforismos que propõem um programa, e o romance de Telles conta uma história com personagens num tempo determinado. Em (d) está o distrator mais fino, porque inverte um fato verificável — As Meninas é narrado em boa parte pelas vozes em primeira pessoa das três protagonistas, e é o manifesto que dispensa narrador. Em (b) e (c), a ditadura e o pensionato pertencem ao romance, e não ao manifesto, que é de 1928. Em (a), o manifesto não é teatro."
+    },
+    {
+      "id": "obra-manifesto-antropofago-q5",
+      "enunciado": "O célebre jogo de palavras que funde o nome do povo Tupi à dúvida existencial de um personagem shakespeariano ilustra, no manifesto, a ideia de que:",
+      "alternativas": {
+        "a": "a língua inglesa deveria substituir o português na literatura brasileira",
+        "b": "a herança europeia pode ser assimilada e recriada em chave brasileira",
+        "c": "a cultura brasileira deve escolher entre a tradição indígena e a europeia",
+        "d": "o teatro elisabetano seria o modelo estético válido para o país",
+        "e": "o trocadilho denuncia a pobreza do repertório erudito no Brasil de 1928"
+      },
+      "resposta": "b",
+      "explicacao": "A frase faz na própria sintaxe o que o manifesto propõe: pega Shakespeare, o mais canônico dos europeus, e o funde ao nome do povo indígena, produzindo algo que não existe em nenhuma das duas tradições isoladas. Em (c) está a leitura que a frase desmonta — ela não escolhe entre Tupi e europeu, junta os dois numa palavra só. Em (e), o trocadilho exibe domínio do repertório erudito, e não sua falta. Em (a) e (d), nem a substituição do idioma nem a adoção do teatro elisabetano como modelo têm apoio no texto."
+    },
+    {
+      "id": "obra-bananal-q1",
+      "enunciado": "Sobre a trajetória de Lasar Segall, autor de \"Bananal\", é correto afirmar que:",
+      "alternativas": {
+        "a": "formou-se em escolas acadêmicas francesas, sem ligação com o Expressionismo",
+        "b": "nunca deixou a Europa, pintando Bananal a partir de fotografias enviadas",
+        "c": "nasceu no Brasil e foi estudar pintura na Lituânia antes de voltar",
+        "d": "veio ao Brasil apenas em viagem breve, sem jamais fixar residência aqui",
+        "e": "nasceu na atual Lituânia, estudou na Alemanha e veio ao Brasil em 1923"
+      },
+      "resposta": "e",
+      "explicacao": "Segall nasceu em Vilna, formou-se na Alemanha em pleno Expressionismo, emigrou para São Paulo em 1923 e naturalizou-se brasileiro — biografia que explica por que sua pintura traz linguagem alemã aplicada a assunto nacional. Em (d) está o distrator mais próximo, porque Segall de fato esteve no Brasil antes, numa exposição em 1913; a diferença é que 1923 marca a vinda definitiva. Em (a), sua formação é alemã e expressionista, não acadêmica francesa. Em (b), ele pintou aqui. Em (c), a origem está invertida."
+    },
+    {
+      "id": "obra-bananal-q2",
+      "enunciado": "\"Bananal\" é frequentemente citado no eixo da globalização porque:",
+      "alternativas": {
+        "a": "foi pintada a distância, por Segall na Europa com assistentes em São Paulo",
+        "b": "foi a primeira obra brasileira vendida a um museu europeu",
+        "c": "mostra que artistas e estéticas já circulavam entre continentes bem antes",
+        "d": "retrata o comércio de exportação de bananas para o mercado europeu",
+        "e": "foi encomendada por uma companhia exportadora para divulgar a lavoura paulista"
+      },
+      "resposta": "c",
+      "explicacao": "O quadro é prova de circulação: um pintor formado na vanguarda alemã aplica essa linguagem a trabalhadores de uma plantação paulista, em 1927 — trânsito de pessoas e de estéticas muito anterior ao que hoje se chama globalização. Em (d) está a leitura literal do título, que confunde o bananal representado com o comércio de bananas, assunto que a tela não trata. Em (e), não há encomenda comercial. Em (a), Segall já morava no Brasil. Em (b), a obra não é citada por esse pioneirismo de mercado."
+    },
+    {
+      "id": "obra-bananal-q3",
+      "enunciado": "Do ponto de vista técnico e temático, \"Bananal\" se caracteriza por:",
+      "alternativas": {
+        "a": "técnica pontilhista, com pontos justapostos de cor pura, em cena urbana",
+        "b": "tratamento expressionista de volumes densos, em cena de trabalho rural",
+        "c": "técnica acadêmica neoclássica, aprendida já no Brasil pelo pintor",
+        "d": "composição abstrata sem figuras humanas, focada em formas geométricas",
+        "e": "realismo fotográfico de detalhe minucioso, próximo da pintura de gênero"
+      },
+      "resposta": "b",
+      "explicacao": "As figuras têm peso escultórico e contornos marcados, tratamento típico do Expressionismo, aplicado a trabalhadores entre as bananeiras — é o encontro entre a forma europeia e o assunto brasileiro que define a tela. Em (e) está o distrator mais plausível, porque a cena é reconhecível e figurativa; ela não é, porém, registro minucioso do real, e sim deformação expressiva do volume. Em (a), não há pontilhismo nem cena urbana. Em (c), a formação é europeia e anterior. Em (d), as figuras humanas são o centro da composição."
+    },
+    {
+      "id": "obra-bananal-q4",
+      "enunciado": "Comparando \"Bananal\", de Lasar Segall, com \"Abaporu\", de Tarsila do Amaral, pode-se afirmar que ambas as obras:",
+      "alternativas": {
+        "a": "rejeitam a influência das vanguardas, propondo estética estritamente nacional",
+        "b": "retratam a mesma cena de plantação, apenas com técnicas diferentes",
+        "c": "foram pintadas pelo mesmo artista, sob dois nomes, em fases distintas",
+        "d": "partem do repertório indígena como fonte formal principal de composição",
+        "e": "cruzam vanguarda europeia e tema brasileiro, por caminhos distintos"
+      },
+      "resposta": "e",
+      "explicacao": "As duas são de 1927 e 1928 e fazem a mesma operação por vias opostas: Tarsila, brasileira, traz de Paris o repertório que aplica ao tema nacional; Segall, europeu, traz o Expressionismo alemão e o aplica ao mesmo país depois de se mudar para cá. Em (d) está o distrator mais forte, porque o Abaporu de fato dialoga com o imaginário indígena — mas isso vale para uma das duas telas, e não para ambas, que é o que a questão pede. Em (a), as duas dependem das vanguardas. Em (b) e (c), as cenas e os autores são distintos."
+    },
+    {
+      "id": "obra-bananal-q5",
+      "enunciado": "O fato de Lasar Segall, imigrante europeu, escolher retratar trabalhadores rurais brasileiros com uma linguagem expressionista de origem alemã sugere que:",
+      "alternativas": {
+        "a": "o Expressionismo alemão é incompatível com temática de país tropical",
+        "b": "só artistas nascidos no Brasil retratam legitimamente temas nacionais",
+        "c": "Segall abandonou a técnica expressionista ao pintar Bananal",
+        "d": "identidade cultural e nacionalidade não coincidem necessariamente",
+        "e": "o olhar estrangeiro capta melhor o local do que o olhar de quem nasceu ali"
+      },
+      "resposta": "d",
+      "explicacao": "O caso desfaz a equação entre nascer num lugar e poder representá-lo: Segall chegou adulto e produziu uma das leituras mais densas do trabalho rural brasileiro, com ferramentas trazidas de fora. Em (e) está o excesso simétrico ao de (b) — um nega a legitimidade do estrangeiro, o outro proclama sua superioridade, e o caso não autoriza nenhum dos dois, apenas mostra que a origem não determina o resultado. Em (a), a tela é a prova de compatibilidade. Em (c), a linguagem expressionista está presente no quadro."
+    },
+    {
+      "id": "obra-mao-tsetung-warhol-q1",
+      "enunciado": "A série de retratos de Mao Tsé-Tung feita por Andy Warhol foi produzida logo após qual acontecimento histórico?",
+      "alternativas": {
+        "a": "o rompimento entre China e União Soviética, noticiado nos Estados Unidos",
+        "b": "a Revolução Cultural de 1966, acompanhada por Warhol numa viagem a Pequim",
+        "c": "a morte de Mao em 1976, quando sua imagem virou lembrança política",
+        "d": "a entrada da China na Organização das Nações Unidas, em 1971",
+        "e": "a visita de Nixon à China em 1972, que reaproximou os dois países"
+      },
+      "resposta": "e",
+      "explicacao": "A série é de 1972 e responde à reabertura diplomática: a viagem de Nixon devolveu Mao às capas americanas, e Warhol tratou esse rosto recém-chegado ao repertório visual do Ocidente como tratava qualquer celebridade. Em (d) está o distrator mais difícil de todos, porque a entrada da China na ONU é de 1971 e é acontecimento real e imediatamente anterior — a associação corrente, porém, é com a visita presidencial. Em (c), a morte de Mao é posterior à série. Em (b), Warhol não esteve em Pequim em 1966. Em (a), a ruptura sino-soviética é da década anterior."
+    },
+    {
+      "id": "obra-mao-tsetung-warhol-q2",
+      "enunciado": "O uso da técnica de serigrafia em série para retratar Mao Tsé-Tung, o mesmo procedimento aplicado por Warhol a Marilyn Monroe e a latas de sopa, produz qual efeito crítico central?",
+      "alternativas": {
+        "a": "denuncia a censura chinesa ao reproduzir imagem proibida fora do país",
+        "b": "transforma o símbolo anticapitalista em mercadoria de colecionador",
+        "c": "resgata a pintura manual contra a cultura de massas",
+        "d": "reforça o culto à personalidade ao multiplicar a imagem no Ocidente",
+        "e": "aproxima o retrato oficial do retrato de estúdio, no enquadramento e na pose"
+      },
+      "resposta": "b",
+      "explicacao": "Submeter Mao ao mesmo tratamento dado à lata de sopa é o argumento: o líder que condenava a mercadoria vira mercadoria, reproduzível, colecionável e precificada. Em (e) está uma observação verdadeira sobre a série, e é isso que a torna perigosa — descreve uma semelhança formal de enquadramento, enquanto a questão pede o efeito crítico, que é de ordem econômica. Em (d), a repetição esvazia a aura em vez de reforçá-la. Em (c), Warhol adere à reprodução mecânica. Em (a), a censura chinesa não é o alvo."
+    },
+    {
+      "id": "obra-mao-tsetung-warhol-q3",
+      "enunciado": "Do ponto de vista técnico, o que caracteriza a execução das telas de Mao Tsé-Tung de Warhol?",
+      "alternativas": {
+        "a": "pintura a óleo em camadas finas, sem uso de fotografia como referência",
+        "b": "colagem de recortes de jornais chineses sobre moldura fotográfica",
+        "c": "xilogravura tradicional, aprendida durante estudos feitos na Ásia",
+        "d": "fotomontagem impressa em offset, sem intervenção manual do artista",
+        "e": "serigrafia sobre fotografia oficial, com cor aplicada à mão por cima"
+      },
+      "resposta": "e",
+      "explicacao": "A base é o retrato oficial reproduzido em serigrafia, e por cima vêm pinceladas largas de cor que não seguem o contorno — a mistura de mecânico e manual é o que dá à série seu aspecto de máscara pintada. Em (d) está o distrator mais fino: a reprodução mecânica está lá, mas dizer que não há intervenção manual apaga metade do procedimento e a metade que caracteriza esta série em particular. Em (a) e (c), óleo sem fotografia e xilogravura descrevem técnicas que Warhol não empregou aqui. Em (b), não há colagem de recortes."
+    },
+    {
+      "id": "obra-mao-tsetung-warhol-q4",
+      "enunciado": "A série Mao Tsé-Tung dialoga mais diretamente com qual outro procedimento da obra de Warhol?",
+      "alternativas": {
+        "a": "as esculturas em bronze de líderes feitas por acadêmicos do século XIX",
+        "b": "os retratos seriados de Marilyn, em serigrafia sobre foto de divulgação",
+        "c": "as instalações minimalistas de Donald Judd, feitas de módulos repetidos",
+        "d": "os murais de crítica social pintados por Diego Rivera nos anos 1930",
+        "e": "as caixas de Brillo, que replicam a embalagem comercial em volume tridimensional"
+      },
+      "resposta": "b",
+      "explicacao": "Marilyn e Mao recebem o mesmo tratamento e por isso se explicam um pelo outro: rosto famoso extraído de imagem oficial de divulgação, serigrafado e repetido até virar padrão. Em (e) está o distrator mais forte, porque as caixas de Brillo pertencem a Warhol e tratam do mesmo tema da mercadoria — só que por outro procedimento, objeto tridimensional em vez de retrato serigrafado, e a questão pergunta pelo procedimento. Em (c) e (d), Judd e Rivera são outros artistas. Em (a), a escultura acadêmica é o oposto do método."
+    },
+    {
+      "id": "obra-mao-tsetung-warhol-q5",
+      "enunciado": "Ao vender por milhões de dólares em leilão um retrato de um líder que condenava a propriedade privada, o mercado de arte contemporâneo evidencia, sobre a obra de Warhol, que:",
+      "alternativas": {
+        "a": "o governo chinês patrocinou a obra para promover Mao no Ocidente",
+        "b": "a obra perdeu valor artístico ao circular como produto de mercado",
+        "c": "a crítica de Warhol ao comunismo aboliu o valor simbólico da imagem",
+        "d": "o preço de leilão mede com precisão a relevância histórica da obra",
+        "e": "a lógica capitalista absorve até o símbolo de quem a nega"
+      },
+      "resposta": "e",
+      "explicacao": "O leilão completa o argumento que a obra já fazia: o retrato do inimigo da propriedade privada vira propriedade privada cara, e a crítica não escapa ao circuito que critica. Em (b) está a conclusão moralista que o caso não sustenta — circular como mercadoria não retira valor artístico, e é justamente a permanência desse valor que torna a absorção interessante. Em (d), preço e relevância não se equivalem. Em (a), não houve patrocínio chinês. Em (c), a imagem conserva a carga simbólica, e é dela que vem o preço."
+    }
+  ]
+}

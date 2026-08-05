@@ -6,14 +6,14 @@
                          "texto_apoio":  "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
                          "enunciado":  "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
                          "alternativas":  {
-                                              "a":  "intensificação da atividade das manchas solares ao longo do último século",
-                                              "b":  "aumento da camada de ozônio na estratosfera, que absorveria mais radiação ultravioleta sem retê-la na forma de calor",
+                                              "a":  "intensificação da atividade das manchas solares ao longo do último século, que teria elevado a radiação recebida pela Terra",
+                                              "b":  "aumento do buraco na camada de ozônio, que permitiria a entrada de mais radiação solar e o consequente aquecimento da superfície",
                                               "c":  "diminuição da radiação solar incidente sobre a Terra, o que reduziria o aquecimento da superfície terrestre",
                                               "d":  "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis",
-                                              "e":  "redução da atividade vulcânica em todo o planeta, o que diminuiria a emissão natural de aerossóis e gases sulfurosos"
+                                              "e":  "redução da atividade vulcânica no planeta, o que diminuiria a emissão natural de aerossóis que resfriam a atmosfera"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A queima de combustíveis fósseis (carvão, petróleo, gás natural) e o desmatamento aumentam a concentração de gases de efeito estufa, como o CO2, na atmosfera, intensificando a retenção de calor e contribuindo para o aquecimento global.",
+                         "explicacao":  "A queima de combustíveis fósseis e o desmatamento elevam a concentração de CO2 e outros gases que retêm calor, e é essa retenção adicional que intensifica o efeito estufa. Em (b) está a confusão mais difundida sobre clima: buraco de ozônio e aquecimento global são problemas distintos — um deixa passar radiação ultravioleta, o outro impede a saída de radiação infravermelha. Em (a), a variação solar não explica a curva recente. Em (c) e (e), menos radiação e menos vulcanismo não aqueceriam o planeta.",
                          "formato":  "direta"
                      },
                      {
@@ -22,13 +22,13 @@
                          "enunciado":  "A eutrofização de um corpo d\u0027água ocorre quando",
                          "alternativas":  {
                                               "a":  "há excesso de nutrientes, como nitrogênio e fósforo, causando proliferação excessiva de algas e posterior redução do oxigênio dissolvido",
-                                              "b":  "há aumento da acidez da água por absorção de dióxido de carbono atmosférico",
-                                              "c":  "a temperatura da água diminui abruptamente, impedindo a fotossíntese das plantas aquáticas e reduzindo a demanda por oxigênio",
+                                              "b":  "há aumento da acidez da água pela absorção do dióxido de carbono atmosférico dissolvido na superfície",
+                                              "c":  "a temperatura da água diminui abruptamente, o que impede a fotossíntese das plantas aquáticas e reduz o oxigênio produzido no corpo d\u0027água",
                                               "d":  "ocorre completa ausência de matéria orgânica dissolvida na água, o que eliminaria o substrato para decomposição bacteriana",
                                               "e":  "há aumento da salinidade da água doce até níveis semelhantes aos do mar, inibindo a proliferação de cianobactérias"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O excesso de nutrientes (nitrogênio e fósforo), provenientes de esgotos e fertilizantes, estimula a proliferação de algas. Quando essas algas morrem e são decompostas, o processo consome grande quantidade de oxigênio dissolvido, prejudicando a vida aquática.",
+                         "explicacao":  "Nitrogênio e fósforo em excesso disparam a floração de algas; quando elas morrem, a decomposição consome o oxigênio dissolvido e a vida aquática sufoca. Em (c) está o distrator mais bem construído, porque também termina em queda de oxigênio — só que por caminho inverso, já que a eutrofização começa com excesso de produtividade, e não com a sua interrupção. Em (b) e (e), acidificação e salinização são outros processos. Em (d), a ausência de matéria orgânica é o oposto do quadro.",
                          "formato":  "direta"
                      },
                      {
@@ -82,13 +82,13 @@
                          "enunciado":  "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
                          "alternativas":  {
                                               "a":  "reduz apenas os sintomas da infecção, sem interferir na sobrevivência ou multiplicação das bactérias presentes",
-                                              "b":  "induz mutações diretamente no material genético das bactérias expostas",
+                                              "b":  "induz mutações diretamente no material genético das bactérias expostas, criando a resistência que antes não existia",
                                               "c":  "atua igualmente sobre bactérias sensíveis e resistentes, eliminando ambas as populações na mesma proporção",
-                                              "d":  "torna dispensável a vacinação contra as mesmas bactérias no futuro, já que o efeito do antibiótico seria permanente",
+                                              "d":  "torna dispensável a vacinação contra as mesmas bactérias no futuro, já que o efeito protetor do antibiótico seria permanente no organismo",
                                               "e":  "favorece, por seleção natural, a sobrevivência e a proliferação de bactérias com mutações que conferem resistência ao medicamento"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O uso indiscriminado de antibióticos exerce pressão seletiva sobre populações bacterianas: bactérias sensíveis morrem, enquanto variantes resistentes sobrevivem e se multiplicam, disseminando genes de resistência, um exemplo de seleção natural em ação.",
+                         "explicacao":  "O antibiótico não cria a resistência: ele elimina as bactérias sensíveis e deixa o campo livre para as que já carregavam a mutação, que então se multiplicam. É seleção natural em escala de dias. Em (b) está o erro conceitual que a questão existe para pegar — a mutação é anterior e aleatória, e o medicamento apenas seleciona quem já a tinha. Em (c), a ação não é igual sobre os dois grupos. Em (a) e (d), o antibiótico age sobre a bactéria e não substitui vacina.",
                          "formato":  "direta"
                      },
                      {
@@ -96,14 +96,14 @@
                          "texto_apoio":  "A vacinação em massa é considerada uma das intervenções de saúde pública mais eficazes da história.",
                          "enunciado":  "O conceito de \"imunidade de rebanho\" (ou imunidade coletiva) refere-se à situação em que",
                          "alternativas":  {
-                                              "a":  "uma parcela suficientemente alta da população torna-se imune a uma doença, dificultando sua circulação e protegendo indiretamente até mesmo pessoas não imunizadas",
-                                              "b":  "apenas os indivíduos vacinados diretamente ficam protegidos, sem qualquer efeito sobre a transmissão do patógeno na população",
+                                              "a":  "uma parcela alta o bastante da população fica imune, o que dificulta a circulação do patógeno e protege até quem não foi imunizado",
+                                              "b":  "apenas os indivíduos vacinados ficam protegidos, sem efeito sobre a velocidade de transmissão do patógeno na população",
                                               "c":  "a imunidade individual depende, sobretudo, de fatores genéticos herdados dos pais, e não da exposição prévia a vacinas ou infecções",
                                               "d":  "a vacinação de uma pequena parcela da população já é suficiente para erradicar o agente infeccioso do planeta, independentemente da transmissibilidade",
-                                              "e":  "a imunidade adquirida por infecção natural é sempre mais duradoura que a vacinal"
+                                              "e":  "a imunidade adquirida por infecção natural é mais duradoura que a vacinal, o que tornaria a vacinação dispensável em doenças endêmicas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Quando uma proporção suficientemente grande da população está imunizada, a circulação do patógeno é dificultada, reduzindo a probabilidade de contágio inclusive entre pessoas não vacinadas ou que não podem ser vacinadas, como imunossuprimidos.",
+                         "explicacao":  "Acima de certo limiar de imunizados, cada infectado transmite a menos de uma pessoa em média, e a cadeia se interrompe — daí a proteção indireta de quem não pôde ser vacinado. Em (d) está o distrator mais próximo: a lógica do limiar está certa, mas ele depende da transmissibilidade da doença e costuma exigir a maioria da população, não uma pequena parcela. Em (b), o efeito coletivo é justamente o conceito. Em (c) e (e), genética e duração da imunidade são outra discussão.",
                          "formato":  "direta"
                      },
                      {
@@ -112,13 +112,13 @@
                          "enunciado":  "Uma vantagem ambiental frequentemente associada à energia solar fotovoltaica, em comparação com termelétricas movidas a carvão, é",
                          "alternativas":  {
                                               "a":  "a menor emissão direta de gases de efeito estufa durante a geração de eletricidade, por não haver combustão de combustível",
-                                              "b":  "o menor custo de instalação em praticamente todos os países, independentemente do nível de irradiação solar local",
-                                              "c":  "a garantia de geração de energia constante independentemente da presença de luz solar, mesmo durante a noite",
-                                              "d":  "a dispensa de qualquer sistema de armazenamento, por gerar energia de forma contínua",
-                                              "e":  "a ausência total de qualquer impacto ambiental em todas as etapas de produção dos painéis, da mineração ao descarte"
+                                              "b":  "o menor custo de instalação em relação a uma termelétrica de mesma potência, considerado o investimento inicial",
+                                              "c":  "a garantia de geração constante independentemente da presença de luz solar, inclusive em dias nublados e no período noturno",
+                                              "d":  "a dispensa de sistemas de armazenamento, já que a geração acompanha diretamente a curva de consumo ao longo do dia",
+                                              "e":  "a ausência de impacto ambiental na fabricação dos painéis, cuja produção não envolveria extração mineral relevante"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A geração de eletricidade por painéis fotovoltaicos não envolve queima de combustíveis, resultando em emissões diretas de gases de efeito estufa muito menores do que as termelétricas a carvão, embora existam impactos ambientais em outras etapas, como fabricação e descarte dos painéis.",
+                         "explicacao":  "Sem combustão não há emissão no momento da geração, e é aí que a comparação com o carvão se decide. Em (e) está o exagero mais tentador, porque a alternativa parece apenas reforçar a vantagem — mas a mineração de silício, prata e terras raras e o descarte dos painéis têm impacto real, e é por isso que a alternativa correta fala em emissão direta. Em (b), o custo não é vantagem ambiental. Em (c) e (d), a geração é intermitente e exige armazenamento.",
                          "formato":  "direta"
                      },
                      {
@@ -171,14 +171,14 @@
                          "texto_apoio":  "O tratamento de água para consumo humano envolve diferentes etapas físico-químicas antes de chegar às residências.",
                          "enunciado":  "A etapa de cloração no tratamento de água tem como principal finalidade",
                          "alternativas":  {
-                                              "a":  "remover partículas em suspensão por agregação e sedimentação",
-                                              "b":  "reduzir permanentemente o pH da água a níveis fortemente ácidos",
+                                              "a":  "remover partículas em suspensão por agregação e posterior sedimentação",
+                                              "b":  "reduzir o pH da água a níveis fortemente ácidos, o que inibiria o crescimento bacteriano",
                                               "c":  "eliminar microrganismos patogênicos, prevenindo doenças de veiculação hídrica",
                                               "d":  "aumentar a quantidade de sedimentos e partículas em suspensão na água",
-                                              "e":  "aumentar a turbidez da água para facilitar sua distribuição"
+                                              "e":  "aumentar a turbidez da água para facilitar sua distribuição na rede"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A cloração é uma etapa de desinfecção que utiliza o cloro para eliminar bactérias, vírus e outros microrganismos patogênicos presentes na água, prevenindo doenças como cólera e diarreias infecciosas.",
+                         "explicacao":  "A cloração é a etapa de desinfecção: o cloro elimina bactérias e vírus e ainda deixa residual na rede, prevenindo cólera e diarreias infecciosas. Em (a) está a etapa que se confunde com ela com mais frequência — agregação e sedimentação são coagulação, floculação e decantação, que vêm antes e removem material particulado, não microrganismos. Em (b), o pH é corrigido, não acidificado. Em (d) e (e), aumentar sedimentos e turbidez é o contrário do tratamento.",
                          "formato":  "direta"
                      },
                      {
@@ -186,14 +186,14 @@
                          "texto_apoio":  "A camada de ozônio, localizada na estratosfera, desempenha papel fundamental na proteção da vida na Terra.",
                          "enunciado":  "A principal função da camada de ozônio estratosférico é",
                          "alternativas":  {
-                                              "a":  "refletir parte da radiação infravermelha emitida pela superfície terrestre",
-                                              "b":  "reter o calor irradiado pela superfície terrestre, função na verdade associada aos gases de efeito estufa, como o CO2",
-                                              "c":  "produzir oxigênio necessário à respiração de todos os seres vivos, processo que ocorre na fotossíntese, não na estratosfera",
-                                              "d":  "absorver parte significativa da radiação ultravioleta proveniente do Sol, protegendo os seres vivos de seus efeitos nocivos",
-                                              "e":  "impedir a entrada de qualquer radiação solar na atmosfera terrestre, o que bloquearia também a luz visível"
+                                              "a":  "refletir de volta ao espaço parte da radiação infravermelha emitida pela superfície terrestre aquecida",
+                                              "b":  "reter o calor irradiado pela superfície terrestre, mantendo a temperatura média do planeta em níveis habitáveis",
+                                              "c":  "produzir o oxigênio necessário à respiração dos seres vivos, liberado continuamente na alta atmosfera",
+                                              "d":  "absorver boa parte da radiação ultravioleta vinda do Sol, protegendo os seres vivos de seus efeitos nocivos",
+                                              "e":  "impedir a entrada da radiação solar de alta energia, incluindo a luz visível, na baixa atmosfera terrestre"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O ozônio estratosférico absorve grande parte da radiação ultravioleta (UV) emitida pelo Sol, reduzindo a incidência dessa radiação sobre a superfície terrestre e protegendo organismos vivos de danos como mutações genéticas e câncer de pele.",
+                         "explicacao":  "O ozônio absorve a radiação ultravioleta antes que ela chegue à superfície, o que reduz mutações e câncer de pele. Em (b) está a troca mais comum entre os dois grandes problemas atmosféricos: reter calor é função dos gases de efeito estufa, e confundir as duas coisas leva a supor que o buraco de ozônio causa aquecimento. Em (a), o ozônio não reflete infravermelho. Em (c), o oxigênio vem da fotossíntese. Em (e), a luz visível atravessa a camada normalmente.",
                          "formato":  "direta"
                      },
                      {
@@ -216,14 +216,14 @@
                          "texto_apoio":  "O desmatamento de florestas tropicais, como a Amazônia, tem sido associado a diversos impactos ambientais em escala regional e global.",
                          "enunciado":  "Entre os impactos ecológicos diretamente associados ao desmatamento de grandes florestas tropicais está",
                          "alternativas":  {
-                                              "a":  "a diminuição da erosão do solo nas áreas sem cobertura vegetal, quando na verdade a erosão tende a se intensificar",
+                                              "a":  "a diminuição da erosão do solo nas áreas abertas, já que a remoção das árvores reduziria o impacto direto das chuvas sobre o terreno",
                                               "b":  "o aumento da biodiversidade local em razão da abertura de novas áreas, com substituição por espécies invasoras",
-                                              "c":  "o aumento da umidade do solo em todas as áreas desmatadas, ao contrário do ressecamento observado na prática",
+                                              "c":  "o aumento da umidade do solo nas áreas desmatadas, pela redução do consumo de água pelas árvores",
                                               "d":  "a redução da capacidade de absorção de dióxido de carbono pela vegetação e a alteração dos regimes locais de chuva",
-                                              "e":  "a elevação do lençol freático por redução da evapotranspiração"
+                                              "e":  "a elevação do lençol freático, resultado da redução da evapotranspiração pela vegetação removida"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As florestas atuam como importantes sumidouros de carbono e reguladoras do ciclo hidrológico local. O desmatamento reduz a absorção de CO2, contribui para o aquecimento global e pode alterar padrões regionais de chuva, além de aumentar a erosão do solo.",
+                         "explicacao":  "A floresta é sumidouro de carbono e motor do ciclo hidrológico regional; removê-la reduz a absorção de CO2 e desorganiza o regime de chuvas — os chamados rios voadores. Em (e) está o raciocínio mais elaborado entre os errados: menos evapotranspiração de fato significa menos água devolvida à atmosfera, mas o solo compactado e a maior escoada superficial reduzem a recarga, e o lençol tende a baixar. Em (a) e (c), erosão aumenta e o solo resseca. Em (b), a biodiversidade cai.",
                          "formato":  "direta"
                      },
                      {
@@ -233,12 +233,12 @@
                          "alternativas":  {
                                               "a":  "é reposta pela natureza em uma escala de tempo compatível com o consumo humano, como energia solar, eólica e hídrica",
                                               "b":  "está disponível apenas em quantidade fixa e limitada, definida no momento da formação do planeta",
-                                              "c":  "é obtida a partir de reações de fissão nuclear, processo considerado, por definição, uma fonte renovável de energia",
+                                              "c":  "é obtida a partir de reações de fissão nuclear, processo classificado como renovável por não depender de combustíveis fósseis",
                                               "d":  "está associada a usinas termelétricas movidas a gás natural, consideradas fontes renováveis de baixo impacto",
-                                              "e":  "não emite gases de efeito estufa em nenhuma etapa de sua cadeia produtiva"
+                                              "e":  "não emite gases de efeito estufa em etapa alguma de sua cadeia produtiva, da fabricação ao descarte"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Fontes renováveis, como a solar, a eólica e a hídrica, são continuamente repostas pela natureza em prazos compatíveis com o consumo humano, diferentemente de fontes não renováveis, como o petróleo, que se formam ao longo de milhões de anos.",
+                         "explicacao":  "O critério é a velocidade de reposição: o que a natureza repõe no ritmo em que consumimos é renovável, e o que leva milhões de anos para se formar não é. Em (e) está a confusão conceitual mais frequente — renovável não é sinônimo de limpo, e uma hidrelétrica é renovável mesmo emitindo metano no reservatório. Em (c), a fissão depende de urânio, recurso finito. Em (d), o gás natural é fóssil. Em (b), a descrição é a de uma fonte não renovável.",
                          "formato":  "direta"
                      },
                      {
@@ -306,14 +306,14 @@
                          "texto_apoio":  "A introdução de espécies exóticas em ecossistemas onde não ocorrem naturalmente pode gerar desequilíbrios ecológicos significativos.",
                          "enunciado":  "Espécies exóticas invasoras podem representar ameaça à biodiversidade nativa de um ecossistema principalmente porque",
                          "alternativas":  {
-                                              "a":  "são incapazes de se reproduzir fora de seu habitat de origem, premissa que contraria o próprio conceito de invasão",
-                                              "b":  "podem competir com espécies nativas por recursos, predá-las ou transmitir doenças, na ausência de predadores naturais que controlariam sua população",
-                                              "c":  "tendem a se extinguir logo após a introdução, por não estarem adaptadas ao clima, ao contrário de invasões bem-sucedidas",
-                                              "d":  "aumentam automaticamente a diversidade genética das espécies nativas locais, efeito oposto ao empobrecimento observado",
-                                              "e":  "ocupam nichos vagos sem interferir nas populações nativas já estabelecidas"
+                                              "a":  "são incapazes de se reproduzir fora do habitat de origem, o que as tornaria dependentes de reintroduções humanas sucessivas",
+                                              "b":  "podem competir com as nativas por recursos, predá-las ou transmitir doenças, sem predadores naturais que as controlem",
+                                              "c":  "tendem a se extinguir logo após a introdução, por não estarem adaptadas ao clima e ao solo da nova região",
+                                              "d":  "aumentam a diversidade genética das populações nativas, por meio do cruzamento com espécies aparentadas locais",
+                                              "e":  "ocupam nichos ecológicos vagos, sem interferir nas populações nativas já estabelecidas no local"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Sem os predadores, parasitas ou competidores naturais que limitariam sua população no ambiente de origem, espécies exóticas invasoras podem se proliferar descontroladamente, competindo com espécies nativas, predando-as ou introduzindo doenças, o que pode levar a desequilíbrios e perda de biodiversidade.",
+                         "explicacao":  "No ecossistema de origem, predadores e parasitas limitam a população da espécie; fora dele, essa trava não existe, e a expansão se dá às custas das nativas. Em (e) está a hipótese mais razoável entre as erradas, porque nichos realmente vagos existem — o problema é que a invasora quase sempre ocupa nicho já usado, e a sobreposição é o mecanismo do dano. Em (a) e (c), a reprodução bem-sucedida é a definição de invasora. Em (d), o cruzamento com nativas empobrece a diversidade em vez de ampliá-la.",
                          "formato":  "direta"
                      },
                      {
@@ -321,14 +321,14 @@
                          "texto_apoio":  "As vacinas são um dos principais instrumentos de prevenção de doenças infecciosas utilizados pela medicina moderna.",
                          "enunciado":  "O princípio de funcionamento da maioria das vacinas consiste em",
                          "alternativas":  {
-                                              "a":  "eliminar diretamente o agente infeccioso circulante no ambiente, efeito que as vacinas não produzem no meio externo",
-                                              "b":  "fornecer anticorpos prontos, produzidos previamente em laboratório",
-                                              "c":  "substituir permanentemente as células de defesa do organismo por células artificiais, procedimento inexistente na imunização",
-                                              "d":  "estimular o sistema imunológico a reconhecer e produzir defesas contra um agente infeccioso, preparando resposta mais rápida futura",
-                                              "e":  "eliminar diretamente o agente infeccioso já presente no organismo doente, ação típica de antivirais, não de vacinas"
+                                              "a":  "eliminar diretamente o agente infeccioso que circula no ambiente, reduzindo a exposição da população ao patógeno",
+                                              "b":  "fornecer ao organismo anticorpos prontos, produzidos previamente em laboratório, que agem desde o momento da aplicação",
+                                              "c":  "substituir de forma permanente as células de defesa do organismo por células de memória produzidas em laboratório",
+                                              "d":  "estimular o sistema imunológico a reconhecer o agente e produzir defesas contra ele",
+                                              "e":  "eliminar diretamente o agente infeccioso já presente no organismo de quem está doente, curando a infecção em curso"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As vacinas expõem o sistema imunológico a um antígeno (agente enfraquecido, inativado, ou parte dele, como proteínas ou material genético), estimulando a produção de anticorpos e células de memória, o que permite uma resposta imune mais rápida e eficaz em caso de exposição futura ao patógeno real.",
+                         "explicacao":  "A vacina apresenta um antígeno ao organismo — agente atenuado, inativado ou apenas parte dele — e deixa que o próprio sistema imune produza anticorpos e células de memória. Em (b) está a confusão mais instrutiva da questão: fornecer anticorpos prontos é o que faz o soro, cuja proteção é imediata e passageira, ao contrário da vacina, que é lenta e duradoura. Em (e), curar infecção em curso é papel de antivirais e antibióticos. Em (a) e (c), a vacina não age no ambiente nem substitui células.",
                          "formato":  "direta"
                      },
                      {
@@ -336,14 +336,14 @@
                          "texto_apoio":  "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
                          "enunciado":  "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
                          "alternativas":  {
-                                              "a":  "exposição da planta a altas temperaturas, que alteram aleatoriamente seu DNA, sem direcionamento genético algum",
+                                              "a":  "exposição da planta a altas temperaturas, que alteram seu DNA de forma aleatória",
                                               "b":  "cruzamento seletivo tradicional entre variedades da mesma espécie, técnica utilizada há séculos no melhoramento genético",
                                               "c":  "seleção de mutantes espontâneos resistentes, obtidos por gerações sucessivas de cultivo",
-                                              "d":  "inserção, em laboratório, de um gene específico (por exemplo, de outra espécie) no genoma da planta, conferindo-lhe a característica desejada",
-                                              "e":  "aplicação exclusiva de agrotóxicos sobre sementes comuns, sem alteração de seu DNA nem resistência hereditária"
+                                              "d":  "inserção em laboratório de um gene específico, muitas vezes de outra espécie, no genoma da planta",
+                                              "e":  "aplicação de agrotóxicos sobre sementes comuns, sem alteração do material genético da planta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A transgenia envolve técnicas de engenharia genética que inserem, em laboratório, um ou mais genes de interesse (por vezes de outra espécie) no genoma do organismo receptor, conferindo-lhe características específicas, como resistência a pragas ou a herbicidas.",
+                         "explicacao":  "O que define a transgenia é a inserção dirigida de um gene no genoma receptor, frequentemente vindo de outra espécie — é o caso do gene de Bacillus thuringiensis nas variedades Bt. Em (b) está a alternativa que exige a distinção mais fina: o melhoramento clássico também altera o patrimônio genético da planta, mas por recombinação dentro da mesma espécie, sem transferência dirigida entre espécies. Em (c), a seleção de mutantes tampouco insere genes. Em (a) e (e), calor e agrotóxico não modificam o genoma de forma hereditária.",
                          "formato":  "direta"
                      },
                      {
@@ -396,14 +396,14 @@
                          "texto_apoio":  "O consumo de energia elétrica residencial está relacionado a grandezas físicas básicas, como tensão, corrente e resistência elétrica.",
                          "enunciado":  "De acordo com a Primeira Lei de Ohm, em um resistor ôhmico, mantendo-se a resistência constante, ao dobrar a tensão elétrica aplicada, a corrente elétrica que passa pelo resistor",
                          "alternativas":  {
-                                              "a":  "cai para a metade do valor original, como ocorreria se a corrente fosse inversamente proporcional à tensão",
-                                              "b":  "também dobra de valor, pois a corrente é diretamente proporcional à tensão quando a resistência é constante",
-                                              "c":  "permanece exatamente a mesma, como se a corrente independesse da tensão aplicada ao resistor",
-                                              "d":  "cai a um quarto, pois a corrente varia com o inverso do quadrado da tensão",
-                                              "e":  "torna-se independente da tensão aplicada, contrariando a proporcionalidade direta prevista pela Lei de Ohm"
+                                              "a":  "cai para a metade do valor original, por ser a corrente inversamente proporcional à tensão",
+                                              "b":  "também dobra, pois a corrente é diretamente proporcional à tensão com resistência constante",
+                                              "c":  "permanece exatamente a mesma, já que a corrente dependeria apenas da resistência própria do condutor",
+                                              "d":  "cai a um quarto do valor original, pois a corrente varia com o inverso do quadrado da tensão",
+                                              "e":  "passa a depender apenas da potência dissipada pelo resistor, e não mais da tensão aplicada"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Primeira Lei de Ohm estabelece que U = R × i, ou seja, a tensão é diretamente proporcional à corrente quando a resistência é constante. Assim, dobrando a tensão (U) e mantendo R constante, a corrente (i) também dobra.",
+                         "explicacao":  "De U = R × i, com R fixo, dobrar U dobra i: a relação é de proporcionalidade direta. Em (c) está o erro mais recorrente, porque a resistência é de fato a grandeza característica do resistor — mas ela relaciona tensão e corrente em vez de fixar a corrente, que continua variando com U. Em (a) e (d), inverte-se a proporcionalidade. Em (e), a potência é consequência de U e i, e não uma variável independente.",
                          "formato":  "direta"
                      },
                      {
@@ -456,14 +456,14 @@
                          "texto_apoio":  "Diferentes tipos de radiação eletromagnética, como ondas de rádio, micro-ondas, luz visível, raios X e raios gama, fazem parte do espectro eletromagnético.",
                          "enunciado":  "Uma diferença relevante entre radiações eletromagnéticas ionizantes (como raios X e gama) e não ionizantes (como ondas de rádio e micro-ondas) é que as ionizantes",
                          "alternativas":  {
-                                              "a":  "têm, em geral, menor frequência e menor energia do que as ondas de rádio, tornando-as incapazes de ionizar átomos",
+                                              "a":  "têm, em geral, menor frequência e menor energia do que as ondas de rádio",
                                               "b":  "possuem efeito apenas térmico sobre os tecidos biológicos, de forma semelhante à radiação não ionizante",
                                               "c":  "apresentam maior comprimento de onda que a luz visível, o que amplia sua penetração nos tecidos",
-                                              "d":  "possuem energia suficiente para remover elétrons de átomos e moléculas, podendo danificar estruturas biológicas como o DNA",
+                                              "d":  "possuem energia suficiente para arrancar elétrons de átomos e moléculas, podendo danificar o DNA",
                                               "e":  "correspondem à mesma faixa de frequência utilizada por fornos de micro-ondas domésticos, independentemente de sua origem"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Radiações ionizantes, como raios X e gama, possuem energia suficientemente alta para arrancar elétrons de átomos e moléculas (ionização), podendo causar danos a estruturas biológicas, como o DNA. Já as radiações não ionizantes, como ondas de rádio e micro-ondas, têm energia insuficiente para causar esse tipo de dano direto.",
+                         "explicacao":  "A fronteira entre os dois grupos é energética: acima de certo limiar, o fóton arranca elétrons e quebra ligações químicas, e é daí que vem o dano ao DNA. Em (b) está o distrator que separa quem entendeu o critério: as não ionizantes de fato agitam moléculas e aquecem tecido — é assim que funciona o micro-ondas —, mas reduzir as ionizantes a esse mesmo efeito apaga justamente o que as distingue. Em (a) e (c), frequência e comprimento de onda estão invertidos. Em (e), as faixas são muito distantes.",
                          "formato":  "direta"
                      },
                      {
@@ -486,14 +486,14 @@
                          "texto_apoio":  "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
                          "enunciado":  "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
                          "alternativas":  {
-                                              "a":  "é o único gás de efeito estufa existente na atmosfera terrestre, desconsiderando a contribuição do CO2 e do vapor d\u0027água",
-                                              "b":  "não possui nenhuma capacidade de retenção de calor na atmosfera, contrariando seu papel como gás de efeito estufa",
-                                              "c":  "permanece na atmosfera por período muito superior ao do dióxido de carbono",
+                                              "a":  "é o único gás de efeito estufa de origem biológica presente na atmosfera terrestre",
+                                              "b":  "tem capacidade de retenção de calor muito inferior à do dióxido de carbono na atmosfera",
+                                              "c":  "permanece na atmosfera por período muito superior ao do dióxido de carbono, o que amplia seu efeito acumulado",
                                               "d":  "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono",
-                                              "e":  "possui, molécula a molécula, potencial de aquecimento global maior que o CO2 em horizonte de tempo curto, apesar de permanecer menos tempo na atmosfera"
+                                              "e":  "tem, molécula a molécula, potencial de aquecimento maior que o do CO2 em horizonte curto, apesar de durar menos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O metano tem um potencial de aquecimento global, molécula a molécula, significativamente maior que o do CO2 em horizontes de tempo mais curtos, apesar de permanecer menos tempo na atmosfera antes de se decompor, o que o torna um alvo importante de políticas de mitigação climática.",
+                         "explicacao":  "O metano retém muito mais calor por molécula que o CO2, e é por isso que cortar suas emissões dá resultado climático rápido — mesmo que ele se decomponha em cerca de uma década. Em (c) está a inversão exata dessa característica, e ela engana porque parece a explicação natural para um gás ser considerado perigoso: aqui a potência compensa a permanência curta, e não o contrário. Em (b), a premissa nega o próprio enunciado. Em (d), a origem é sobretudo biológica. Em (a), há outros gases de origem biológica.",
                          "formato":  "direta"
                      },
                      {
@@ -501,14 +501,14 @@
                          "texto_apoio":  "Usinas nucleares geram eletricidade a partir de reações nucleares controladas, sendo utilizadas em diversos países como fonte de energia de baixa emissão de carbono.",
                          "enunciado":  "O processo utilizado em usinas nucleares convencionais para gerar energia é a",
                          "alternativas":  {
-                                              "a":  "fissão nuclear, em que núcleos pesados, como os de urânio, se dividem em núcleos menores, liberando grande quantidade de energia",
-                                              "b":  "fusão nuclear, em que núcleos leves se combinam para formar núcleos mais pesados, como ocorre no Sol",
-                                              "c":  "aquecimento da água do reservatório por meio da queima controlada de urânio, semelhante à queima de carvão em termelétricas",
-                                              "d":  "decaimento radioativo espontâneo, aproveitado diretamente como fonte de calor",
-                                              "e":  "combustão química direta de átomos de urânio, semelhante à queima de carvão, sem divisão do núcleo atômico"
+                                              "a":  "fissão nuclear, em que núcleos pesados como os de urânio se dividem, liberando grande quantidade de energia",
+                                              "b":  "fusão nuclear, em que núcleos leves se combinam para formar núcleos mais pesados, como ocorre no interior do Sol",
+                                              "c":  "aquecimento da água do reservatório pela queima controlada de urânio em caldeiras de alta pressão",
+                                              "d":  "decaimento radioativo espontâneo do urânio, aproveitado diretamente como fonte de calor",
+                                              "e":  "combustão química direta de átomos de urânio, sem divisão do núcleo atômico"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Usinas nucleares convencionais utilizam a fissão nuclear, processo em que o núcleo de átomos pesados, como o urânio-235, se divide ao ser bombardeado por nêutrons, liberando grande quantidade de energia na forma de calor, utilizada para gerar vapor e movimentar turbinas.",
+                         "explicacao":  "O urânio-235 é bombardeado por nêutrons, o núcleo se parte e libera calor, que vira vapor e move turbinas. Em (b) está a troca mais comum entre os dois processos nucleares: a fusão é o que ocorre no Sol e ainda não existe como usina comercial, justamente por exigir temperaturas que nenhum reator consegue sustentar. Em (d), o decaimento espontâneo é lento demais e alimenta baterias de sondas espaciais, não usinas. Em (c) e (e), não há queima nem combustão química de urânio.",
                          "formato":  "direta"
                      },
                      {
@@ -546,15 +546,14 @@
                          "texto_apoio":  "O diabetes tipo 2 é uma das doenças crônicas não transmissíveis com prevalência crescente no Brasil e no mundo, associada a fatores como obesidade e sedentarismo.",
                          "enunciado":  "No diabetes tipo 2, diferentemente do tipo 1, o principal mecanismo fisiológico envolvido é",
                          "alternativas":  {
-                                              "a":  "a produção insuficiente de glucagon pelas células alfa do pâncreas",
-                                              "b":  "a resistência progressiva das células à ação da insulina, tornando-a menos eficaz para a entrada de glicose, mesmo com produção pancreática mantida",
+                                              "a":  "a produção insuficiente de glucagon pelas células alfa das ilhotas pancreáticas",
+                                              "b":  "a resistência progressiva das células à ação da insulina, mesmo com a produção pancreática mantida",
                                               "c":  "a produção excessiva de insulina pelo pâncreas, que se torna mais eficiente em reduzir a glicemia do que em indivíduos saudáveis",
-                                              "d":  "a destruição autoimune progressiva das células produtoras de insulina no pâncreas, mecanismo típico do diabetes tipo 1",
-                                              "e":  "a ausência total e congênita do pâncreas desde o nascimento, condição rara e distinta do mecanismo do diabetes tipo 2"
+                                              "d":  "a destruição autoimune progressiva das células do pâncreas responsáveis pela produção de insulina",
+                                              "e":  "a ausência congênita do pâncreas, presente desde o nascimento do paciente"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "No diabetes tipo 2, as células do organismo desenvolvem progressiva resistência à ação da insulina, dificultando a entrada de glicose nas células e elevando a glicemia, mesmo que o pâncreas ainda produza o hormônio, ao menos nas fases iniciais da doença — quadro associado a fatores como obesidade, sedentarismo e predisposição genética, diferentemente do tipo 1, de origem autoimune.",
-                         "dificuldade":  "media",
+                         "explicacao":  "No tipo 2 o hormônio existe, mas as células respondem cada vez menos a ele, e a glicemia sobe apesar da produção mantida — ao menos nas fases iniciais. Em (d) está exatamente o mecanismo do tipo 1, que o enunciado pede para distinguir: lá as células beta são destruídas por autoimunidade e a insulina falta. Em (c), o excesso de insulina até ocorre como compensação, mas ela é menos eficaz, não mais. Em (a), o glucagon eleva a glicemia. Em (e), a ausência de pâncreas é outra condição.",
                          "formato":  "direta"
                      },
                      {
@@ -562,15 +561,14 @@
                          "texto_apoio":  "A hipertensão arterial é um dos principais fatores de risco para doenças cardiovasculares, como infarto e acidente vascular cerebral (AVC).",
                          "enunciado":  "Entre os fatores associados ao aumento do risco de hipertensão arterial, destacado por campanhas de saúde pública, está o",
                          "alternativas":  {
-                                              "a":  "consumo excessivo e frequente de sódio (sal), que contribui para retenção de líquidos e aumento da pressão sobre as artérias",
-                                              "b":  "aumento do consumo de frutas, verduras e legumes na dieta habitual, hábito protetor, e não fator de risco cardiovascular",
-                                              "c":  "prática regular de atividades físicas aeróbicas, fator reconhecidamente protetor contra a hipertensão arterial",
-                                              "d":  "consumo reduzido de sódio (sal) na alimentação diária, fator associado à redução, e não ao aumento, da pressão arterial",
-                                              "e":  "consumo elevado de fibras solúveis presentes em cereais integrais"
+                                              "a":  "consumo excessivo e frequente de sódio, que favorece a retenção de líquidos e eleva a pressão nas artérias",
+                                              "b":  "aumento do consumo de frutas, verduras e legumes na dieta habitual",
+                                              "c":  "prática regular de atividades físicas de alta intensidade, apontada como causa de sobrecarga permanente do coração",
+                                              "d":  "consumo reduzido de sódio na alimentação diária",
+                                              "e":  "consumo elevado de fibras solúveis presentes em cereais integrais e leguminosas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O consumo excessivo de sódio está associado ao aumento da retenção de líquidos no organismo, o que eleva o volume sanguíneo circulante e a pressão exercida sobre as paredes das artérias, sendo um dos principais fatores de risco modificáveis para a hipertensão arterial, ao lado do sedentarismo, da obesidade e do tabagismo.",
-                         "dificuldade":  "media",
+                         "explicacao":  "O sódio em excesso retém água, aumenta o volume de sangue circulante e eleva a pressão sobre a parede das artérias — é o principal fator de risco modificável, ao lado de sedentarismo, obesidade e tabagismo. Em (c) está a crença mais difundida entre as erradas: o exercício intenso eleva a pressão durante o esforço, mas o efeito crônico é o oposto, e a atividade física regular reduz o risco. Em (b), (d) e (e), dieta rica em vegetais, menos sal e mais fibras são todos fatores de proteção.",
                          "formato":  "direta"
                      },
                      {
@@ -579,14 +577,13 @@
                          "enunciado":  "Do ponto de vista fisiológico básico, a obesidade está relacionada, principalmente, a um",
                          "alternativas":  {
                                               "a":  "aumento do consumo de água associado à retenção de líquidos, independentemente do total de calorias ingeridas",
-                                              "b":  "deficiência de vitaminas lipossolúveis, que compromete o metabolismo das gorduras",
+                                              "b":  "deficiência de vitaminas lipossolúveis, o que comprometeria o metabolismo das gorduras",
                                               "c":  "excesso exclusivo de proteínas na dieta, independentemente do total calórico consumido, fator isolado e insuficiente",
-                                              "d":  "balanço energético positivo prolongado, em que a ingestão calórica excede, de forma sustentada, o gasto energético total do organismo",
+                                              "d":  "balanço energético positivo prolongado, em que a ingestão calórica excede de forma sustentada o gasto do organismo",
                                               "e":  "balanço energético neutro, mantido ao longo do tempo, em que a ingestão calórica tende a se igualar ao gasto energético do organismo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "De forma simplificada, a obesidade está associada a um balanço energético positivo mantido ao longo do tempo, em que a quantidade de calorias ingeridas supera, de forma sustentada, o gasto energético do organismo, levando ao armazenamento de energia excedente na forma de gordura corporal — processo influenciado por fatores genéticos, metabólicos, comportamentais e ambientais.",
-                         "dificuldade":  "media",
+                         "explicacao":  "O acúmulo de gordura corresponde a energia ingerida que não foi gasta, sustentada ao longo do tempo — sobre o que atuam fatores genéticos, metabólicos, comportamentais e ambientais. Em (e) está o distrator mais bem construído, porque usa o vocabulário certo e erra o sinal: balanço neutro é exatamente a condição de peso estável, e não de ganho. Em (a) e (b), retenção de água e deficiência vitamínica não produzem acúmulo de tecido adiposo. Em (c), o que pesa é o total calórico, não o macronutriente isolado.",
                          "formato":  "direta"
                      },
                      {
@@ -610,15 +607,14 @@
                          "texto_apoio":  "O tabagismo é apontado pela Organização Mundial da Saúde como uma das principais causas evitáveis de morte no mundo.",
                          "enunciado":  "Entre os componentes presentes na fumaça do cigarro, a nicotina é responsável, principalmente,",
                          "alternativas":  {
-                                              "a":  "pela dependência química associada ao tabagismo, atuando no sistema nervoso central, enquanto o alcatrão se liga mais ao câncer",
-                                              "b":  "por não gerar qualquer efeito sobre o sistema nervoso central do fumante, contrariando seu papel na dependência química",
-                                              "c":  "por ser a substância mais associada ao desenvolvimento de câncer de pulmão em fumantes, mais até do que o alcatrão",
-                                              "d":  "por ser o principal agente cancerígeno presente na fumaça inalada",
-                                              "e":  "por causar diretamente todos os tipos de câncer associados ao tabagismo, sendo a única substância nociva presente no cigarro"
+                                              "a":  "pela dependência química do tabagismo, agindo sobre o sistema nervoso central",
+                                              "b":  "por um efeito apenas passageiro sobre o sistema nervoso, sem gerar dependência",
+                                              "c":  "por ser a substância mais associada ao desenvolvimento de câncer de pulmão entre fumantes de longa data",
+                                              "d":  "por ser o principal agente cancerígeno presente na fumaça inalada pelo fumante",
+                                              "e":  "por causar diretamente o enfisema pulmonar, principal doença respiratória associada ao cigarro"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A nicotina é a substância presente no tabaco associada à dependência química, atuando sobre receptores do sistema nervoso central. Já outras substâncias presentes na fumaça do cigarro, como o alcatrão, estão mais diretamente relacionadas ao desenvolvimento de diferentes tipos de câncer, o que evidencia que os danos do tabagismo decorrem da combinação de diversas substâncias presentes na fumaça, e não apenas da nicotina isoladamente.",
-                         "dificuldade":  "dificil",
+                         "explicacao":  "A nicotina age em receptores do sistema nervoso central e é o que prende o fumante ao cigarro. Em (c) está a atribuição equivocada mais comum, e ela tem consequência prática: quem acredita que a nicotina causa o câncer supõe que a reposição por adesivo ou goma seja tão perigosa quanto fumar, quando o carcinógeno está no alcatrão e nos demais produtos da combustão. Em (d), pelo mesmo motivo. Em (e), o enfisema decorre da irritação crônica pela fumaça. Em (b), a dependência é justamente o efeito central.",
                          "formato":  "direta"
                      },
                      {

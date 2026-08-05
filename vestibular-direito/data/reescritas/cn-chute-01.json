@@ -1,0 +1,155 @@
+{
+  "subtopic": "ciencias-natureza",
+  "questoes": [
+    {
+      "id": "ciencias-natureza-01",
+      "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
+      "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
+      "alternativas": {
+        "a": "intensificação da atividade das manchas solares ao longo do último século, que teria elevado a radiação recebida pela Terra",
+        "b": "aumento do buraco na camada de ozônio, que permitiria a entrada de mais radiação solar e o consequente aquecimento da superfície",
+        "c": "diminuição da radiação solar incidente sobre a Terra, o que reduziria o aquecimento da superfície terrestre",
+        "d": "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis",
+        "e": "redução da atividade vulcânica no planeta, o que diminuiria a emissão natural de aerossóis que resfriam a atmosfera"
+      },
+      "resposta": "d",
+      "explicacao": "A queima de combustíveis fósseis e o desmatamento elevam a concentração de CO2 e outros gases que retêm calor, e é essa retenção adicional que intensifica o efeito estufa. Em (b) está a confusão mais difundida sobre clima: buraco de ozônio e aquecimento global são problemas distintos — um deixa passar radiação ultravioleta, o outro impede a saída de radiação infravermelha. Em (a), a variação solar não explica a curva recente. Em (c) e (e), menos radiação e menos vulcanismo não aqueceriam o planeta.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-02",
+      "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
+      "enunciado": "A eutrofização de um corpo d'água ocorre quando",
+      "alternativas": {
+        "a": "há excesso de nutrientes, como nitrogênio e fósforo, causando proliferação excessiva de algas e posterior redução do oxigênio dissolvido",
+        "b": "há aumento da acidez da água pela absorção do dióxido de carbono atmosférico dissolvido na superfície",
+        "c": "a temperatura da água diminui abruptamente, o que impede a fotossíntese das plantas aquáticas e reduz o oxigênio produzido no corpo d'água",
+        "d": "ocorre completa ausência de matéria orgânica dissolvida na água, o que eliminaria o substrato para decomposição bacteriana",
+        "e": "há aumento da salinidade da água doce até níveis semelhantes aos do mar, inibindo a proliferação de cianobactérias"
+      },
+      "resposta": "a",
+      "explicacao": "Nitrogênio e fósforo em excesso disparam a floração de algas; quando elas morrem, a decomposição consome o oxigênio dissolvido e a vida aquática sufoca. Em (c) está o distrator mais bem construído, porque também termina em queda de oxigênio — só que por caminho inverso, já que a eutrofização começa com excesso de produtividade, e não com a sua interrupção. Em (b) e (e), acidificação e salinização são outros processos. Em (d), a ausência de matéria orgânica é o oposto do quadro.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-06",
+      "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
+      "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
+      "alternativas": {
+        "a": "reduz apenas os sintomas da infecção, sem interferir na sobrevivência ou multiplicação das bactérias presentes",
+        "b": "induz mutações diretamente no material genético das bactérias expostas, criando a resistência que antes não existia",
+        "c": "atua igualmente sobre bactérias sensíveis e resistentes, eliminando ambas as populações na mesma proporção",
+        "d": "torna dispensável a vacinação contra as mesmas bactérias no futuro, já que o efeito protetor do antibiótico seria permanente no organismo",
+        "e": "favorece, por seleção natural, a sobrevivência e a proliferação de bactérias com mutações que conferem resistência ao medicamento"
+      },
+      "resposta": "e",
+      "explicacao": "O antibiótico não cria a resistência: ele elimina as bactérias sensíveis e deixa o campo livre para as que já carregavam a mutação, que então se multiplicam. É seleção natural em escala de dias. Em (b) está o erro conceitual que a questão existe para pegar — a mutação é anterior e aleatória, e o medicamento apenas seleciona quem já a tinha. Em (c), a ação não é igual sobre os dois grupos. Em (a) e (d), o antibiótico age sobre a bactéria e não substitui vacina.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-07",
+      "texto_apoio": "A vacinação em massa é considerada uma das intervenções de saúde pública mais eficazes da história.",
+      "enunciado": "O conceito de \"imunidade de rebanho\" (ou imunidade coletiva) refere-se à situação em que",
+      "alternativas": {
+        "a": "uma parcela alta o bastante da população fica imune, o que dificulta a circulação do patógeno e protege até quem não foi imunizado",
+        "b": "apenas os indivíduos vacinados ficam protegidos, sem efeito sobre a velocidade de transmissão do patógeno na população",
+        "c": "a imunidade individual depende, sobretudo, de fatores genéticos herdados dos pais, e não da exposição prévia a vacinas ou infecções",
+        "d": "a vacinação de uma pequena parcela da população já é suficiente para erradicar o agente infeccioso do planeta, independentemente da transmissibilidade",
+        "e": "a imunidade adquirida por infecção natural é mais duradoura que a vacinal, o que tornaria a vacinação dispensável em doenças endêmicas"
+      },
+      "resposta": "a",
+      "explicacao": "Acima de certo limiar de imunizados, cada infectado transmite a menos de uma pessoa em média, e a cadeia se interrompe — daí a proteção indireta de quem não pôde ser vacinado. Em (d) está o distrator mais próximo: a lógica do limiar está certa, mas ele depende da transmissibilidade da doença e costuma exigir a maioria da população, não uma pequena parcela. Em (b), o efeito coletivo é justamente o conceito. Em (c) e (e), genética e duração da imunidade são outra discussão.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-08",
+      "texto_apoio": "A energia solar fotovoltaica tem crescido como alternativa às fontes de energia baseadas em combustíveis fósseis.",
+      "enunciado": "Uma vantagem ambiental frequentemente associada à energia solar fotovoltaica, em comparação com termelétricas movidas a carvão, é",
+      "alternativas": {
+        "a": "a menor emissão direta de gases de efeito estufa durante a geração de eletricidade, por não haver combustão de combustível",
+        "b": "o menor custo de instalação em relação a uma termelétrica de mesma potência, considerado o investimento inicial",
+        "c": "a garantia de geração constante independentemente da presença de luz solar, inclusive em dias nublados e no período noturno",
+        "d": "a dispensa de sistemas de armazenamento, já que a geração acompanha diretamente a curva de consumo ao longo do dia",
+        "e": "a ausência de impacto ambiental na fabricação dos painéis, cuja produção não envolveria extração mineral relevante"
+      },
+      "resposta": "a",
+      "explicacao": "Sem combustão não há emissão no momento da geração, e é aí que a comparação com o carvão se decide. Em (e) está o exagero mais tentador, porque a alternativa parece apenas reforçar a vantagem — mas a mineração de silício, prata e terras raras e o descarte dos painéis têm impacto real, e é por isso que a alternativa correta fala em emissão direta. Em (b), o custo não é vantagem ambiental. Em (c) e (d), a geração é intermitente e exige armazenamento.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-12",
+      "texto_apoio": "O tratamento de água para consumo humano envolve diferentes etapas físico-químicas antes de chegar às residências.",
+      "enunciado": "A etapa de cloração no tratamento de água tem como principal finalidade",
+      "alternativas": {
+        "a": "remover partículas em suspensão por agregação e posterior sedimentação",
+        "b": "reduzir o pH da água a níveis fortemente ácidos, o que inibiria o crescimento bacteriano",
+        "c": "eliminar microrganismos patogênicos, prevenindo doenças de veiculação hídrica",
+        "d": "aumentar a quantidade de sedimentos e partículas em suspensão na água",
+        "e": "aumentar a turbidez da água para facilitar sua distribuição na rede"
+      },
+      "resposta": "c",
+      "explicacao": "A cloração é a etapa de desinfecção: o cloro elimina bactérias e vírus e ainda deixa residual na rede, prevenindo cólera e diarreias infecciosas. Em (a) está a etapa que se confunde com ela com mais frequência — agregação e sedimentação são coagulação, floculação e decantação, que vêm antes e removem material particulado, não microrganismos. Em (b), o pH é corrigido, não acidificado. Em (d) e (e), aumentar sedimentos e turbidez é o contrário do tratamento.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-13",
+      "texto_apoio": "A camada de ozônio, localizada na estratosfera, desempenha papel fundamental na proteção da vida na Terra.",
+      "enunciado": "A principal função da camada de ozônio estratosférico é",
+      "alternativas": {
+        "a": "refletir de volta ao espaço parte da radiação infravermelha emitida pela superfície terrestre aquecida",
+        "b": "reter o calor irradiado pela superfície terrestre, mantendo a temperatura média do planeta em níveis habitáveis",
+        "c": "produzir o oxigênio necessário à respiração dos seres vivos, liberado continuamente na alta atmosfera",
+        "d": "absorver boa parte da radiação ultravioleta vinda do Sol, protegendo os seres vivos de seus efeitos nocivos",
+        "e": "impedir a entrada da radiação solar de alta energia, incluindo a luz visível, na baixa atmosfera terrestre"
+      },
+      "resposta": "d",
+      "explicacao": "O ozônio absorve a radiação ultravioleta antes que ela chegue à superfície, o que reduz mutações e câncer de pele. Em (b) está a troca mais comum entre os dois grandes problemas atmosféricos: reter calor é função dos gases de efeito estufa, e confundir as duas coisas leva a supor que o buraco de ozônio causa aquecimento. Em (a), o ozônio não reflete infravermelho. Em (c), o oxigênio vem da fotossíntese. Em (e), a luz visível atravessa a camada normalmente.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-15",
+      "texto_apoio": "O desmatamento de florestas tropicais, como a Amazônia, tem sido associado a diversos impactos ambientais em escala regional e global.",
+      "enunciado": "Entre os impactos ecológicos diretamente associados ao desmatamento de grandes florestas tropicais está",
+      "alternativas": {
+        "a": "a diminuição da erosão do solo nas áreas abertas, já que a remoção das árvores reduziria o impacto direto das chuvas sobre o terreno",
+        "b": "o aumento da biodiversidade local em razão da abertura de novas áreas, com substituição por espécies invasoras",
+        "c": "o aumento da umidade do solo nas áreas desmatadas, pela redução do consumo de água pelas árvores",
+        "d": "a redução da capacidade de absorção de dióxido de carbono pela vegetação e a alteração dos regimes locais de chuva",
+        "e": "a elevação do lençol freático, resultado da redução da evapotranspiração pela vegetação removida"
+      },
+      "resposta": "d",
+      "explicacao": "A floresta é sumidouro de carbono e motor do ciclo hidrológico regional; removê-la reduz a absorção de CO2 e desorganiza o regime de chuvas — os chamados rios voadores. Em (e) está o raciocínio mais elaborado entre os errados: menos evapotranspiração de fato significa menos água devolvida à atmosfera, mas o solo compactado e a maior escoada superficial reduzem a recarga, e o lençol tende a baixar. Em (a) e (c), erosão aumenta e o solo resseca. Em (b), a biodiversidade cai.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-16",
+      "texto_apoio": "Painéis solares, usinas eólicas e hidrelétricas são frequentemente classificados como fontes de energia renovável.",
+      "enunciado": "Uma fonte de energia é classificada como renovável quando",
+      "alternativas": {
+        "a": "é reposta pela natureza em uma escala de tempo compatível com o consumo humano, como energia solar, eólica e hídrica",
+        "b": "está disponível apenas em quantidade fixa e limitada, definida no momento da formação do planeta",
+        "c": "é obtida a partir de reações de fissão nuclear, processo classificado como renovável por não depender de combustíveis fósseis",
+        "d": "está associada a usinas termelétricas movidas a gás natural, consideradas fontes renováveis de baixo impacto",
+        "e": "não emite gases de efeito estufa em etapa alguma de sua cadeia produtiva, da fabricação ao descarte"
+      },
+      "resposta": "a",
+      "explicacao": "O critério é a velocidade de reposição: o que a natureza repõe no ritmo em que consumimos é renovável, e o que leva milhões de anos para se formar não é. Em (e) está a confusão conceitual mais frequente — renovável não é sinônimo de limpo, e uma hidrelétrica é renovável mesmo emitindo metano no reservatório. Em (c), a fissão depende de urânio, recurso finito. Em (d), o gás natural é fóssil. Em (b), a descrição é a de uma fonte não renovável.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-21",
+      "texto_apoio": "A introdução de espécies exóticas em ecossistemas onde não ocorrem naturalmente pode gerar desequilíbrios ecológicos significativos.",
+      "enunciado": "Espécies exóticas invasoras podem representar ameaça à biodiversidade nativa de um ecossistema principalmente porque",
+      "alternativas": {
+        "a": "são incapazes de se reproduzir fora do habitat de origem, o que as tornaria dependentes de reintroduções humanas sucessivas",
+        "b": "podem competir com as nativas por recursos, predá-las ou transmitir doenças, sem predadores naturais que as controlem",
+        "c": "tendem a se extinguir logo após a introdução, por não estarem adaptadas ao clima e ao solo da nova região",
+        "d": "aumentam a diversidade genética das populações nativas, por meio do cruzamento com espécies aparentadas locais",
+        "e": "ocupam nichos ecológicos vagos, sem interferir nas populações nativas já estabelecidas no local"
+      },
+      "resposta": "b",
+      "explicacao": "No ecossistema de origem, predadores e parasitas limitam a população da espécie; fora dele, essa trava não existe, e a expansão se dá às custas das nativas. Em (e) está a hipótese mais razoável entre as erradas, porque nichos realmente vagos existem — o problema é que a invasora quase sempre ocupa nicho já usado, e a sobreposição é o mecanismo do dano. Em (a) e (c), a reprodução bem-sucedida é a definição de invasora. Em (d), o cruzamento com nativas empobrece a diversidade em vez de ampliá-la.",
+      "formato": "direta"
+    }
+  ]
+}

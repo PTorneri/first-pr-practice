@@ -1,0 +1,155 @@
+{
+  "subtopic": "ciencias-natureza",
+  "questoes": [
+    {
+      "id": "ciencias-natureza-22",
+      "texto_apoio": "As vacinas são um dos principais instrumentos de prevenção de doenças infecciosas utilizados pela medicina moderna.",
+      "enunciado": "O princípio de funcionamento da maioria das vacinas consiste em",
+      "alternativas": {
+        "a": "eliminar diretamente o agente infeccioso que circula no ambiente, reduzindo a exposição da população ao patógeno",
+        "b": "fornecer ao organismo anticorpos prontos, produzidos previamente em laboratório, que agem desde o momento da aplicação",
+        "c": "substituir de forma permanente as células de defesa do organismo por células de memória produzidas em laboratório",
+        "d": "estimular o sistema imunológico a reconhecer o agente e produzir defesas contra ele",
+        "e": "eliminar diretamente o agente infeccioso já presente no organismo de quem está doente, curando a infecção em curso"
+      },
+      "resposta": "d",
+      "explicacao": "A vacina apresenta um antígeno ao organismo — agente atenuado, inativado ou apenas parte dele — e deixa que o próprio sistema imune produza anticorpos e células de memória. Em (b) está a confusão mais instrutiva da questão: fornecer anticorpos prontos é o que faz o soro, cuja proteção é imediata e passageira, ao contrário da vacina, que é lenta e duradoura. Em (e), curar infecção em curso é papel de antivirais e antibióticos. Em (a) e (c), a vacina não age no ambiente nem substitui células.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-23",
+      "texto_apoio": "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
+      "enunciado": "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
+      "alternativas": {
+        "a": "exposição da planta a altas temperaturas, que alteram seu DNA de forma aleatória",
+        "b": "cruzamento seletivo tradicional entre variedades da mesma espécie, técnica utilizada há séculos no melhoramento genético",
+        "c": "seleção de mutantes espontâneos resistentes, obtidos por gerações sucessivas de cultivo",
+        "d": "inserção em laboratório de um gene específico, muitas vezes de outra espécie, no genoma da planta",
+        "e": "aplicação de agrotóxicos sobre sementes comuns, sem alteração do material genético da planta"
+      },
+      "resposta": "d",
+      "explicacao": "O que define a transgenia é a inserção dirigida de um gene no genoma receptor, frequentemente vindo de outra espécie — é o caso do gene de Bacillus thuringiensis nas variedades Bt. Em (b) está a alternativa que exige a distinção mais fina: o melhoramento clássico também altera o patrimônio genético da planta, mas por recombinação dentro da mesma espécie, sem transferência dirigida entre espécies. Em (c), a seleção de mutantes tampouco insere genes. Em (a) e (e), calor e agrotóxico não modificam o genoma de forma hereditária.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-27",
+      "texto_apoio": "O consumo de energia elétrica residencial está relacionado a grandezas físicas básicas, como tensão, corrente e resistência elétrica.",
+      "enunciado": "De acordo com a Primeira Lei de Ohm, em um resistor ôhmico, mantendo-se a resistência constante, ao dobrar a tensão elétrica aplicada, a corrente elétrica que passa pelo resistor",
+      "alternativas": {
+        "a": "cai para a metade do valor original, por ser a corrente inversamente proporcional à tensão",
+        "b": "também dobra, pois a corrente é diretamente proporcional à tensão com resistência constante",
+        "c": "permanece exatamente a mesma, já que a corrente dependeria apenas da resistência própria do condutor",
+        "d": "cai a um quarto do valor original, pois a corrente varia com o inverso do quadrado da tensão",
+        "e": "passa a depender apenas da potência dissipada pelo resistor, e não mais da tensão aplicada"
+      },
+      "resposta": "b",
+      "explicacao": "De U = R × i, com R fixo, dobrar U dobra i: a relação é de proporcionalidade direta. Em (c) está o erro mais recorrente, porque a resistência é de fato a grandeza característica do resistor — mas ela relaciona tensão e corrente em vez de fixar a corrente, que continua variando com U. Em (a) e (d), inverte-se a proporcionalidade. Em (e), a potência é consequência de U e i, e não uma variável independente.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-31",
+      "texto_apoio": "Diferentes tipos de radiação eletromagnética, como ondas de rádio, micro-ondas, luz visível, raios X e raios gama, fazem parte do espectro eletromagnético.",
+      "enunciado": "Uma diferença relevante entre radiações eletromagnéticas ionizantes (como raios X e gama) e não ionizantes (como ondas de rádio e micro-ondas) é que as ionizantes",
+      "alternativas": {
+        "a": "têm, em geral, menor frequência e menor energia do que as ondas de rádio",
+        "b": "possuem efeito apenas térmico sobre os tecidos biológicos, de forma semelhante à radiação não ionizante",
+        "c": "apresentam maior comprimento de onda que a luz visível, o que amplia sua penetração nos tecidos",
+        "d": "possuem energia suficiente para arrancar elétrons de átomos e moléculas, podendo danificar o DNA",
+        "e": "correspondem à mesma faixa de frequência utilizada por fornos de micro-ondas domésticos, independentemente de sua origem"
+      },
+      "resposta": "d",
+      "explicacao": "A fronteira entre os dois grupos é energética: acima de certo limiar, o fóton arranca elétrons e quebra ligações químicas, e é daí que vem o dano ao DNA. Em (b) está o distrator que separa quem entendeu o critério: as não ionizantes de fato agitam moléculas e aquecem tecido — é assim que funciona o micro-ondas —, mas reduzir as ionizantes a esse mesmo efeito apaga justamente o que as distingue. Em (a) e (c), frequência e comprimento de onda estão invertidos. Em (e), as faixas são muito distantes.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-33",
+      "texto_apoio": "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
+      "enunciado": "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
+      "alternativas": {
+        "a": "é o único gás de efeito estufa de origem biológica presente na atmosfera terrestre",
+        "b": "tem capacidade de retenção de calor muito inferior à do dióxido de carbono na atmosfera",
+        "c": "permanece na atmosfera por período muito superior ao do dióxido de carbono, o que amplia seu efeito acumulado",
+        "d": "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono",
+        "e": "tem, molécula a molécula, potencial de aquecimento maior que o do CO2 em horizonte curto, apesar de durar menos"
+      },
+      "resposta": "e",
+      "explicacao": "O metano retém muito mais calor por molécula que o CO2, e é por isso que cortar suas emissões dá resultado climático rápido — mesmo que ele se decomponha em cerca de uma década. Em (c) está a inversão exata dessa característica, e ela engana porque parece a explicação natural para um gás ser considerado perigoso: aqui a potência compensa a permanência curta, e não o contrário. Em (b), a premissa nega o próprio enunciado. Em (d), a origem é sobretudo biológica. Em (a), há outros gases de origem biológica.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-34",
+      "texto_apoio": "Usinas nucleares geram eletricidade a partir de reações nucleares controladas, sendo utilizadas em diversos países como fonte de energia de baixa emissão de carbono.",
+      "enunciado": "O processo utilizado em usinas nucleares convencionais para gerar energia é a",
+      "alternativas": {
+        "a": "fissão nuclear, em que núcleos pesados como os de urânio se dividem, liberando grande quantidade de energia",
+        "b": "fusão nuclear, em que núcleos leves se combinam para formar núcleos mais pesados, como ocorre no interior do Sol",
+        "c": "aquecimento da água do reservatório pela queima controlada de urânio em caldeiras de alta pressão",
+        "d": "decaimento radioativo espontâneo do urânio, aproveitado diretamente como fonte de calor",
+        "e": "combustão química direta de átomos de urânio, sem divisão do núcleo atômico"
+      },
+      "resposta": "a",
+      "explicacao": "O urânio-235 é bombardeado por nêutrons, o núcleo se parte e libera calor, que vira vapor e move turbinas. Em (b) está a troca mais comum entre os dois processos nucleares: a fusão é o que ocorre no Sol e ainda não existe como usina comercial, justamente por exigir temperaturas que nenhum reator consegue sustentar. Em (d), o decaimento espontâneo é lento demais e alimenta baterias de sondas espaciais, não usinas. Em (c) e (e), não há queima nem combustão química de urânio.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-37",
+      "texto_apoio": "O diabetes tipo 2 é uma das doenças crônicas não transmissíveis com prevalência crescente no Brasil e no mundo, associada a fatores como obesidade e sedentarismo.",
+      "enunciado": "No diabetes tipo 2, diferentemente do tipo 1, o principal mecanismo fisiológico envolvido é",
+      "alternativas": {
+        "a": "a produção insuficiente de glucagon pelas células alfa das ilhotas pancreáticas",
+        "b": "a resistência progressiva das células à ação da insulina, mesmo com a produção pancreática mantida",
+        "c": "a produção excessiva de insulina pelo pâncreas, que se torna mais eficiente em reduzir a glicemia do que em indivíduos saudáveis",
+        "d": "a destruição autoimune progressiva das células do pâncreas responsáveis pela produção de insulina",
+        "e": "a ausência congênita do pâncreas, presente desde o nascimento do paciente"
+      },
+      "resposta": "b",
+      "explicacao": "No tipo 2 o hormônio existe, mas as células respondem cada vez menos a ele, e a glicemia sobe apesar da produção mantida — ao menos nas fases iniciais. Em (d) está exatamente o mecanismo do tipo 1, que o enunciado pede para distinguir: lá as células beta são destruídas por autoimunidade e a insulina falta. Em (c), o excesso de insulina até ocorre como compensação, mas ela é menos eficaz, não mais. Em (a), o glucagon eleva a glicemia. Em (e), a ausência de pâncreas é outra condição.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-38",
+      "texto_apoio": "A hipertensão arterial é um dos principais fatores de risco para doenças cardiovasculares, como infarto e acidente vascular cerebral (AVC).",
+      "enunciado": "Entre os fatores associados ao aumento do risco de hipertensão arterial, destacado por campanhas de saúde pública, está o",
+      "alternativas": {
+        "a": "consumo excessivo e frequente de sódio, que favorece a retenção de líquidos e eleva a pressão nas artérias",
+        "b": "aumento do consumo de frutas, verduras e legumes na dieta habitual",
+        "c": "prática regular de atividades físicas de alta intensidade, apontada como causa de sobrecarga permanente do coração",
+        "d": "consumo reduzido de sódio na alimentação diária",
+        "e": "consumo elevado de fibras solúveis presentes em cereais integrais e leguminosas"
+      },
+      "resposta": "a",
+      "explicacao": "O sódio em excesso retém água, aumenta o volume de sangue circulante e eleva a pressão sobre a parede das artérias — é o principal fator de risco modificável, ao lado de sedentarismo, obesidade e tabagismo. Em (c) está a crença mais difundida entre as erradas: o exercício intenso eleva a pressão durante o esforço, mas o efeito crônico é o oposto, e a atividade física regular reduz o risco. Em (b), (d) e (e), dieta rica em vegetais, menos sal e mais fibras são todos fatores de proteção.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-39",
+      "texto_apoio": "A obesidade é definida, do ponto de vista clínico, como o acúmulo excessivo de gordura corporal, associado a diversos riscos à saúde.",
+      "enunciado": "Do ponto de vista fisiológico básico, a obesidade está relacionada, principalmente, a um",
+      "alternativas": {
+        "a": "aumento do consumo de água associado à retenção de líquidos, independentemente do total de calorias ingeridas",
+        "b": "deficiência de vitaminas lipossolúveis, o que comprometeria o metabolismo das gorduras",
+        "c": "excesso exclusivo de proteínas na dieta, independentemente do total calórico consumido, fator isolado e insuficiente",
+        "d": "balanço energético positivo prolongado, em que a ingestão calórica excede de forma sustentada o gasto do organismo",
+        "e": "balanço energético neutro, mantido ao longo do tempo, em que a ingestão calórica tende a se igualar ao gasto energético do organismo"
+      },
+      "resposta": "d",
+      "explicacao": "O acúmulo de gordura corresponde a energia ingerida que não foi gasta, sustentada ao longo do tempo — sobre o que atuam fatores genéticos, metabólicos, comportamentais e ambientais. Em (e) está o distrator mais bem construído, porque usa o vocabulário certo e erra o sinal: balanço neutro é exatamente a condição de peso estável, e não de ganho. Em (a) e (b), retenção de água e deficiência vitamínica não produzem acúmulo de tecido adiposo. Em (c), o que pesa é o total calórico, não o macronutriente isolado.",
+      "formato": "direta"
+    },
+    {
+      "id": "ciencias-natureza-41",
+      "texto_apoio": "O tabagismo é apontado pela Organização Mundial da Saúde como uma das principais causas evitáveis de morte no mundo.",
+      "enunciado": "Entre os componentes presentes na fumaça do cigarro, a nicotina é responsável, principalmente,",
+      "alternativas": {
+        "a": "pela dependência química do tabagismo, agindo sobre o sistema nervoso central",
+        "b": "por um efeito apenas passageiro sobre o sistema nervoso, sem gerar dependência",
+        "c": "por ser a substância mais associada ao desenvolvimento de câncer de pulmão entre fumantes de longa data",
+        "d": "por ser o principal agente cancerígeno presente na fumaça inalada pelo fumante",
+        "e": "por causar diretamente o enfisema pulmonar, principal doença respiratória associada ao cigarro"
+      },
+      "resposta": "a",
+      "explicacao": "A nicotina age em receptores do sistema nervoso central e é o que prende o fumante ao cigarro. Em (c) está a atribuição equivocada mais comum, e ela tem consequência prática: quem acredita que a nicotina causa o câncer supõe que a reposição por adesivo ou goma seja tão perigosa quanto fumar, quando o carcinógeno está no alcatrão e nos demais produtos da combustão. Em (d), pelo mesmo motivo. Em (e), o enfisema decorre da irritação crônica pela fumaça. Em (b), a dependência é justamente o efeito central.",
+      "formato": "direta"
+    }
+  ]
+}

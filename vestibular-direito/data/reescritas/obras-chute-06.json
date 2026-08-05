@@ -1,0 +1,201 @@
+{
+    "questoes":  [
+                     {
+                         "id":  "obra-domingo-no-parque-q1",
+                         "enunciado":  "\"Domingo no Parque\", de Gilberto Gil, foi apresentada em 1967 em um evento que se tornou decisivo para o lançamento de um movimento cultural brasileiro. Esse evento foi:",
+                         "alternativas":  {
+                                              "a":  "o primeiro Rock in Rio, no Rio de Janeiro, ícone das décadas seguintes",
+                                              "b":  "o III Festival da Música Popular Brasileira, promovido pela TV Record",
+                                              "c":  "a Bienal de São Paulo, dedicada às artes plásticas",
+                                              "d":  "o Festival de Woodstock, marco da contracultura internacional",
+                                              "e":  "o Festival Internacional da Canção, da TV Globo, em sua primeira edição"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Os festivais da Record foram o palco em que a Tropicália se apresentou ao país, e é do III Festival, em 1967, que saem ao mesmo tempo Domingo no Parque e Alegria, Alegria. Em (e) está o distrator mais difícil, porque o Festival Internacional da Canção existiu e foi importante no mesmo período — só que era da Globo e é outro evento, e não o que lançou as duas canções. Em (a) e (d), Rock in Rio e Woodstock são de 1985 e 1969. Em (c), a Bienal é de artes plásticas."
+                     },
+                     {
+                         "id":  "obra-domingo-no-parque-q2",
+                         "enunciado":  "A fusão entre berimbau, arranjos de rock e orquestração erudita presente em \"Domingo no Parque\" deve ser entendida, no eixo da globalização cultural, como:",
+                         "alternativas":  {
+                                              "a":  "cópia de arranjos de bandas britânicas, sem elemento da cultura popular",
+                                              "b":  "rejeição de influência internacional, só com instrumentos regionais",
+                                              "c":  "justaposição de estilos que permanecem separados dentro da canção",
+                                              "d":  "estratégia comercial sem intenção estética por parte de Gilberto Gil",
+                                              "e":  "recusa da hierarquia entre cultura popular e influência estrangeira"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Berimbau e guitarra elétrica na mesma faixa afirmam que não há repertório mais legítimo que outro — é o gesto antropofágico aplicado à música popular. Em (c) está o distrator mais fino: os elementos não convivem lado a lado sem se tocar, eles se fundem, e é a síntese, não a colagem, que caracteriza a proposta. Em (a) e (b), copiar o estrangeiro e recusá-lo são os dois extremos que a Tropicália rejeita. Em (d), o investimento estético do movimento é documentado e deliberado."
+                     },
+                     {
+                         "id":  "obra-domingo-no-parque-q3",
+                         "enunciado":  "Dois nomes fundamentais associados ao arranjo e à orquestração de \"Domingo no Parque\" foram:",
+                         "alternativas":  {
+                                              "a":  "Os Mutantes, no arranjo de rock, e Rogério Duprat, na orquestração",
+                                              "b":  "Os Incríveis, no arranjo, e Heitor Villa-Lobos, na orquestração da faixa",
+                                              "c":  "Secos e Molhados, no arranjo, e Cláudio Santoro, na orquestração",
+                                              "d":  "Os Titãs, no arranjo, e Tom Jobim, na orquestração da canção",
+                                              "e":  "Os Novos Baianos, no arranjo, e Rogério Duprat, na orquestração"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A parceria é uma das assinaturas da Tropicália: Os Mutantes na guitarra e Duprat na regência, misturando pop e vanguarda erudita na mesma faixa. Em (e) está o distrator mais bem construído, porque acerta Duprat, que de fato orquestrou quase tudo do movimento, e erra a banda — Os Novos Baianos surgem depois e não participam. Em (c) e (d), Secos e Molhados e Titãs são dos anos 1970 e 1980. Em (b), Villa-Lobos morreu em 1959."
+                     },
+                     {
+                         "id":  "obra-domingo-no-parque-q4",
+                         "enunciado":  "\"Domingo no Parque\" e \"Alegria, Alegria\", de Caetano Veloso, apresentadas no mesmo festival de 1967, são consideradas conjuntamente como:",
+                         "alternativas":  {
+                                              "a":  "composições instrumentais, sem letra cantada, como as de trilha sonora de cinema",
+                                              "b":  "sambas-enredo compostos para desfiles de escolas de samba cariocas",
+                                              "c":  "as duas primeiras gravações de Gil e Caetano em carreira solo no país",
+                                              "d":  "canções de protesto direto, sem elemento de inovação musical",
+                                              "e":  "marcos do lançamento da Tropicália, unindo tradição e rock internacional"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As duas canções, no mesmo festival, tornaram públicos o programa e o som do movimento — daí serem tratadas como par fundador. Em (d) está o distrator que mais confunde, porque a canção de protesto dominava os festivais da época e as duas são politicamente carregadas; o que as distingue, porém, é justamente a inovação musical que a alternativa nega. Em (c), nenhum dos dois estreava em disco em 1967. Em (a) e (b), as canções têm letra e não são sambas-enredo."
+                     },
+                     {
+                         "id":  "obra-domingo-no-parque-q5",
+                         "enunciado":  "O desfecho trágico do triângulo amoroso narrado em \"Domingo no Parque\" contribui para o efeito geral da canção sobretudo porque:",
+                         "alternativas":  {
+                                              "a":  "reduz a narrativa a caso policial, sem função no conjunto do arranjo",
+                                              "b":  "serve de pretexto para virtuosismo instrumental, sem relação com a letra",
+                                              "c":  "transforma a canção em crítica explícita ao regime militar da época",
+                                              "d":  "elimina a conexão com o cotidiano popular, tornando-a fábula abstrata",
+                                              "e":  "reforça o contraste entre a leveza do lazer popular e a violência súbita"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sorvete, roda-gigante e domingo de sol montam um cenário de lazer que a facada rompe de uma vez — e é o choque entre os dois registros, também audível no arranjo, que dá à canção sua força. Em (a) está a leitura mais tentadora, porque a trama é de fato de crime passional; tratá-la como caso policial isolado, porém, desliga a narrativa do arranjo, que a acompanha e a intensifica. Em (c), a crítica ao regime não está na letra. Em (b) e (d), a história e o cenário popular são centrais."
+                     },
+                     {
+                         "id":  "obra-as-meninas-q1",
+                         "enunciado":  "O romance \u0027As Meninas\u0027, de Lygia Fagundes Telles, foi publicado em 1973, período que corresponde:",
+                         "alternativas":  {
+                                              "a":  "ao recrudescimento da repressão durante a ditadura, após o AI-5",
+                                              "b":  "ao período de redemocratização, já com eleições diretas para presidente",
+                                              "c":  "à Segunda Guerra Mundial, quando a autora iniciou sua carreira",
+                                              "d":  "ao início da colonização portuguesa, retratado de forma alegórica",
+                                              "e":  "à abertura lenta e gradual iniciada pelo governo Geisel em 1974"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "1973 é o auge dos anos de chumbo: AI-5 em vigor desde 1968, censura prévia e repressão à luta armada — o que explica que o romance tenha sido escrito e publicado sob vigilância. Em (e) está o distrator mais próximo, porque a distensão começa mesmo no governo seguinte; ela é, porém, posterior ao livro, e por pouco. Em (b), as diretas só viriam em 1989. Em (c) e (d), a Segunda Guerra e a colonização estão fora do período."
+                     },
+                     {
+                         "id":  "obra-as-meninas-q2",
+                         "enunciado":  "A estrutura narrativa de \u0027As Meninas\u0027, que alterna os pontos de vista de Lorena, Lia e Ana Clara, contribui para o eixo modernidade-pós-modernidade porque:",
+                         "alternativas":  {
+                                              "a":  "alterna as vozes sem que elas discordem sobre os fatos narrados",
+                                              "b":  "elimina a subjetividade das personagens em favor da descrição objetiva",
+                                              "c":  "adota narrador onisciente clássico, com visão totalizante e estável",
+                                              "d":  "concentra a narrativa apenas no ponto de vista de Ana Clara",
+                                              "e":  "recusa o narrador único, questionando a verdade única sobre o real"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Três consciências narram a mesma época e não chegam ao mesmo país: a estrutura formal do romance é ela própria o argumento de que não há um relato autorizado sobre aquele momento. Em (a) está o distrator mais fino — a alternância de vozes só faz esse trabalho porque elas divergem; se concordassem, a multiplicidade seria decorativa. Em (c) e (d), narrador onisciente e voz única contrariam a estrutura descrita. Em (b), a subjetividade é o material do livro."
+                     },
+                     {
+                         "id":  "obra-as-meninas-q3",
+                         "enunciado":  "Das três protagonistas de \u0027As Meninas\u0027, a que se envolve diretamente na luta armada clandestina contra a ditadura militar é:",
+                         "alternativas":  {
+                                              "a":  "Lia, engajada na resistência política ao regime militar",
+                                              "b":  "Lorena, que vive um romance idealizado com um homem casado",
+                                              "c":  "nenhuma das três, já que todas evitam envolvimento político",
+                                              "d":  "Ana Clara, que enfrenta problemas de dependência de drogas",
+                                              "e":  "as três em conjunto, atuando na mesma organização clandestina"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Lia é a militante: participa da organização, esconde companheiros e termina no exílio, enquanto as outras duas atravessam o período por outros caminhos. Em (e) está o erro que a estrutura do romance desmente — as três dividem a pensão e pouco mais, e é a divergência entre elas que sustenta o livro. Em (b) e (d), Lorena e Ana Clara existem como descrito, mas fora da militância. Em (c), a ausência de política contraria o eixo do romance."
+                     },
+                     {
+                         "id":  "obra-as-meninas-q4",
+                         "enunciado":  "Assim como \u0027O Bem-Amado\u0027, de Dias Gomes, o romance \u0027As Meninas\u0027 também pode ser lido como uma obra que:",
+                         "alternativas":  {
+                                              "a":  "usa o humor como principal recurso para criticar instituições políticas",
+                                              "b":  "narra acontecimentos no interior nordestino, sem cenário urbano",
+                                              "c":  "adota a forma de comédia teatral em três atos, com tipos regionais",
+                                              "d":  "reflete, por vias distintas, tensões do Brasil sob a ditadura militar",
+                                              "e":  "foi adaptada para a televisão pouco depois de sua primeira publicação"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A afinidade é de objeto, não de forma: uma sátira do coronelismo e um romance de pensionato universitário tratam, cada um a seu modo, do país sob autoritarismo. Em (a) está a característica de apenas uma das duas — o humor é o recurso de Dias Gomes, e As Meninas não é obra cômica. Em (e), a adaptação televisiva vale para O Bem-Amado. Em (b) e (c), o cenário nordestino e a comédia em atos descrevem só a peça."
+                     },
+                     {
+                         "id":  "obra-as-meninas-q5",
+                         "enunciado":  "O desfecho de \u0027As Meninas\u0027, em que os destinos das três protagonistas se separam de forma abrupta, pode ser interpretado como uma representação de:",
+                         "alternativas":  {
+                                              "a":  "a ausência de consequências pessoais do contexto político vivido",
+                                              "b":  "a vitória dos valores tradicionais sobre o engajamento político",
+                                              "c":  "uma geração fragmentada por respostas divergentes às pressões da época",
+                                              "d":  "um final feliz em que as três reconstroem juntas suas vidas",
+                                              "e":  "o fracasso individual de cada uma, sem relação com o momento histórico"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Exílio, morte e permanência: três saídas incompatíveis para a mesma pressão, e o romance recusa eleger uma delas como a certa. A dispersão final é o retrato da geração. Em (e) está a leitura despolitizada mais tentadora, porque cada destino tem mesmo dimensão pessoal — atribuí-los a fracasso individual, porém, apaga a força que os produziu. Em (a), as consequências são o desfecho. Em (b) e (d), não há vitória tradicionalista nem reconciliação."
+                     },
+                     {
+                         "id":  "obra-origens-totalitarismo-q1",
+                         "texto_apoio":  "Hannah Arendt escreveu boa parte de sua obra a partir da experiência de exílio: fugiu da Alemanha nazista em 1933 e foi brevemente internada num campo de detenção na França antes de emigrar para os Estados Unidos.",
+                         "enunciado":  "Essa trajetória biográfica é relevante para compreender \"As Origens do Totalitarismo\" porque:",
+                         "alternativas":  {
+                                              "a":  "a autora só teve acesso a arquivos soviéticos como diplomata na Guerra Fria",
+                                              "b":  "a autora conheceu Hitler antes da guerra e usa esse contato como fonte",
+                                              "c":  "o livro foi escrito em alemão e publicado na Alemanha antes da tradução",
+                                              "d":  "ela reconstitui o campo francês em que esteve como estudo de caso central",
+                                              "e":  "ela escreve como atingida pelo fenômeno, publicando em inglês em 1951"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A análise nasce de dentro da experiência: apátrida, internada e depois exilada, Arendt escreve sobre a perda de estatuto jurídico tendo passado por ela, e publica nos Estados Unidos, em inglês, já em 1951. Em (d) está o distrator mais sedutor, porque o internamento é real e o tema dos apátridas é central no livro — o campo em que ela esteve, porém, não vira estudo de caso, e a obra é análise histórica ampla. Em (a) e (b), não houve carreira diplomática nem contato com Hitler. Em (c), o original é em inglês."
+                     },
+                     {
+                         "id":  "obra-origens-totalitarismo-q2",
+                         "enunciado":  "No eixo da crise das certezas modernas, a análise de Arendt sobre o totalitarismo é mobilizada porque a autora argumenta que esse fenômeno:",
+                         "alternativas":  {
+                                              "a":  "resulta do colapso das instituições, sem projeto próprio de sociedade",
+                                              "b":  "só pode ser compreendido como fenômeno russo, sem paralelo ocidental",
+                                              "c":  "é sobrevivência de formas arcaicas que o Estado ainda não eliminou",
+                                              "d":  "decorre da globalização econômica, sem vínculo com a política interna europeia",
+                                              "e":  "nasce da radicalização de um projeto moderno de controle racional total"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O incômodo da tese está aí: o totalitarismo não é recaída na barbárie, é filho da confiança moderna em organizar tudo racionalmente, levada ao limite. Em (a) está a leitura mais difundida e mais confortável — atribuir tudo ao colapso institucional dispensa examinar o que havia de projeto ali, e Arendt insiste que havia. Em (c), a interpretação como resíduo arcaico é exatamente a que ela recusa. Em (b), o livro compara nazismo e stalinismo. Em (d), a explicação econômica não é a dela."
+                     },
+                     {
+                         "id":  "obra-origens-totalitarismo-q3",
+                         "enunciado":  "Assinale a alternativa que descreve corretamente um elemento estrutural ou argumentativo de \"As Origens do Totalitarismo\":",
+                         "alternativas":  {
+                                              "a":  "concentra-se no regime nazista, sem menção ao stalinismo soviético",
+                                              "b":  "introduz o conceito de banalidade do mal, formulado nesta obra",
+                                              "c":  "divide-se em Antissemitismo, Imperialismo e Totalitarismo",
+                                              "d":  "defende que os campos eram sobretudo instrumentos de exploração econômica",
+                                              "e":  "trata os três volumes como estudos independentes, sem tese que os una"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "As três partes não são capítulos avulsos: o antissemitismo fornece o inimigo, o imperialismo fornece a técnica de dominação, e o totalitarismo é o que resulta da combinação. Em (b) está o erro cronológico mais comum — a banalidade do mal vem de Eichmann em Jerusalém, doze anos depois. Em (e), a tese que une as partes é o argumento do livro. Em (d), Arendt sustenta o contrário: o campo é irracional do ponto de vista econômico. Em (a), o stalinismo é metade da análise."
+                     },
+                     {
+                         "id":  "obra-origens-totalitarismo-q4",
+                         "texto_apoio":  "Tanto \"As Origens do Totalitarismo\", de Hannah Arendt, quanto o romance \"1984\", de George Orwell, tratam do fenômeno totalitário a partir de perspectivas diferentes.",
+                         "enunciado":  "A principal diferença entre as duas abordagens é que:",
+                         "alternativas":  {
+                                              "a":  "Arendt escreve como romancista e Orwell produz um tratado estatístico",
+                                              "b":  "as duas obras foram escritas em coautoria, após pesquisa conjunta",
+                                              "c":  "Arendt analisa só o stalinismo e Orwell descreve apenas o nazismo",
+                                              "d":  "Arendt faz análise filosófica e histórica, e Orwell narra em ficção",
+                                              "e":  "Arendt escreve antes da guerra e Orwell publica seu romance depois"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Uma reconstrói as condições históricas que tornaram o regime possível; o outro imagina como é viver dentro dele — conceito de um lado, experiência do outro. Em (e) está o distrator mais fino, porque a cronologia é próxima e parece decisiva: 1984 é de 1949 e As Origens de 1951, ambos posteriores à guerra, e a ordem inverte o que a alternativa afirma. Em (a), os gêneros estão trocados. Em (c), Arendt compara os dois regimes e Orwell não retrata um só. Em (b), não houve coautoria."
+                     },
+                     {
+                         "id":  "obra-origens-totalitarismo-q5",
+                         "enunciado":  "Considerando o argumento de Arendt sobre a \"superfluidade\" do indivíduo sob o totalitarismo, é correto afirmar que a autora sustenta que esse tipo de regime busca:",
+                         "alternativas":  {
+                                              "a":  "eliminar só opositores organizados, mantendo intacta a vida privada",
+                                              "b":  "promover eficiência econômica máxima por meio do controle populacional",
+                                              "c":  "restaurar pela força tradições pré-modernas de hierarquia social",
+                                              "d":  "obter a adesão sincera de cada cidadão ao projeto oficial do regime",
+                                              "e":  "tornar cada pessoa substituível, atacando a individualidade humana"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Superfluidade é o termo exato: não basta silenciar quem discorda, é preciso que ninguém seja insubstituível, que a pessoa se torne exemplar de uma espécie e não indivíduo. Em (d) está o distrator mais sofisticado, porque a propaganda de fato busca adesão; o alvo último, porém, é mais radical que a convicção — é a supressão da espontaneidade que tornaria a convicção possível. Em (a), a vida privada é justamente o que se invade. Em (b), o campo contraria a racionalidade econômica. Em (c), o regime é moderno, não restaurador."
+                     }
+                 ]
+}

@@ -6,62 +6,67 @@ window.OBRAS_QUESTOES = {
                                            "texto_apoio":  "Hannah Arendt escreveu boa parte de sua obra a partir da experiência de exílio: fugiu da Alemanha nazista em 1933 e foi brevemente internada num campo de detenção na França antes de emigrar para os Estados Unidos.",
                                            "enunciado":  "Essa trajetória biográfica é relevante para compreender \"As Origens do Totalitarismo\" porque:",
                                            "alternativas":  {
-                                                                "a":  "a autora só teve acesso aos arquivos soviéticos depois de atuar como diplomata da União Soviética durante a Guerra Fria",
-                                                                "b":  "a autora conheceu pessoalmente Adolf Hitler antes da guerra e usa esse contato como fonte primária de todo o livro",
-                                                                "c":  "o livro foi escrito originalmente em alemão e publicado na própria Alemanha antes de ser traduzido para o inglês em 1951",
-                                                                "d":  "a autora escreve como intelectual diretamente atingida pelo fenômeno que analisa, publicando o livro nos Estados Unidos, em inglês, já em 1951"
+                                                                "a":  "a autora só teve acesso a arquivos soviéticos como diplomata na Guerra Fria",
+                                                                "b":  "a autora conheceu Hitler antes da guerra e usa esse contato como fonte",
+                                                                "c":  "o livro foi escrito em alemão e publicado na Alemanha antes da tradução",
+                                                                "d":  "ela reconstitui o campo francês em que esteve como estudo de caso central",
+                                                                "e":  "ela escreve como atingida pelo fenômeno, publicando em inglês em 1951"
                                                             },
-                                           "resposta":  "d",
-                                           "explicacao":  "Arendt fugiu da Alemanha nazista em 1933 e foi internada num campo francês antes de emigrar para os EUA, onde escreveu e publicou o livro originalmente em inglês, em 1951 — sua reflexão nasce da experiência direta de perseguição, e não de arquivos soviéticos obtidos como diplomata, nem de contato pessoal com Hitler, nem de uma versão alemã anterior."
+                                           "resposta":  "e",
+                                           "explicacao":  "A análise nasce de dentro da experiência: apátrida, internada e depois exilada, Arendt escreve sobre a perda de estatuto jurídico tendo passado por ela, e publica nos Estados Unidos, em inglês, já em 1951. Em (d) está o distrator mais sedutor, porque o internamento é real e o tema dos apátridas é central no livro — o campo em que ela esteve, porém, não vira estudo de caso, e a obra é análise histórica ampla. Em (a) e (b), não houve carreira diplomática nem contato com Hitler. Em (c), o original é em inglês."
                                        },
                                        {
                                            "id":  "obra-origens-totalitarismo-q2",
                                            "enunciado":  "No eixo da crise das certezas modernas, a análise de Arendt sobre o totalitarismo é mobilizada porque a autora argumenta que esse fenômeno:",
                                            "alternativas":  {
-                                                                "a":  "nasce da radicalização de um projeto propriamente moderno de controle racional total sobre a sociedade, e não de um simples retrocesso à barbárie",
-                                                                "b":  "só pode ser compreendido como um fenômeno estritamente russo, sem qualquer paralelo em outros países ocidentais da mesma época",
-                                                                "c":  "representa a sobrevivência de formas arcaicas e pré-modernas de poder que a racionalização do Estado ainda não havia eliminado por completo",
-                                                                "d":  "é consequência direta e exclusiva da globalização econômica do século XX, sem vínculo com a política interna europeia"
+                                                                "a":  "resulta do colapso das instituições, sem projeto próprio de sociedade",
+                                                                "b":  "só pode ser compreendido como fenômeno russo, sem paralelo ocidental",
+                                                                "c":  "é sobrevivência de formas arcaicas que o Estado ainda não eliminou",
+                                                                "d":  "decorre da globalização econômica, sem vínculo com a política interna europeia",
+                                                                "e":  "nasce da radicalização de um projeto moderno de controle racional total"
                                                             },
-                                           "resposta":  "a",
-                                           "explicacao":  "Para Arendt, o totalitarismo não é resquício de barbárie antiga, mas fruto da radicalização da própria confiança moderna no controle racional total sobre a sociedade e a natureza humana — daí sua relevância para a crise das certezas modernas, e não uma explicação econômica, geográfica ou de mero atraso institucional."
+                                           "resposta":  "e",
+                                           "explicacao":  "O incômodo da tese está aí: o totalitarismo não é recaída na barbárie, é filho da confiança moderna em organizar tudo racionalmente, levada ao limite. Em (a) está a leitura mais difundida e mais confortável — atribuir tudo ao colapso institucional dispensa examinar o que havia de projeto ali, e Arendt insiste que havia. Em (c), a interpretação como resíduo arcaico é exatamente a que ela recusa. Em (b), o livro compara nazismo e stalinismo. Em (d), a explicação econômica não é a dela."
                                        },
                                        {
                                            "id":  "obra-origens-totalitarismo-q3",
                                            "enunciado":  "Assinale a alternativa que descreve corretamente um elemento estrutural ou argumentativo de \"As Origens do Totalitarismo\":",
                                            "alternativas":  {
-                                                                "a":  "a obra concentra-se exclusivamente no regime nazista, sem qualquer menção ao stalinismo soviético como fenômeno comparável",
-                                                                "b":  "a obra introduz o conceito de \"banalidade do mal\", que na verdade Arendt cunhou apenas numa obra posterior sobre o julgamento de Adolf Eichmann",
-                                                                "c":  "a obra divide-se em três partes — Antissemitismo, Imperialismo e Totalitarismo — que se combinam na formação do totalitarismo",
-                                                                "d":  "a obra defende que os campos de concentração eram, sobretudo, instrumentos de exploração econômica da mão de obra prisioneira"
+                                                                "a":  "concentra-se no regime nazista, sem menção ao stalinismo soviético",
+                                                                "b":  "introduz o conceito de banalidade do mal, formulado nesta obra",
+                                                                "c":  "divide-se em Antissemitismo, Imperialismo e Totalitarismo",
+                                                                "d":  "defende que os campos eram sobretudo instrumentos de exploração econômica",
+                                                                "e":  "trata os três volumes como estudos independentes, sem tese que os una"
                                                             },
                                            "resposta":  "c",
-                                           "explicacao":  "O livro se estrutura em três partes (Antissemitismo, Imperialismo, Totalitarismo) e trata nazismo e stalinismo como variantes de um mesmo fenômeno. A ideia de \"banalidade do mal\" vem de uma obra posterior de Arendt sobre o julgamento de Eichmann (1963), e os campos são analisados por sua função ideológica de dominação total, não por exploração econômica."
+                                           "explicacao":  "As três partes não são capítulos avulsos: o antissemitismo fornece o inimigo, o imperialismo fornece a técnica de dominação, e o totalitarismo é o que resulta da combinação. Em (b) está o erro cronológico mais comum — a banalidade do mal vem de Eichmann em Jerusalém, doze anos depois. Em (e), a tese que une as partes é o argumento do livro. Em (d), Arendt sustenta o contrário: o campo é irracional do ponto de vista econômico. Em (a), o stalinismo é metade da análise."
                                        },
                                        {
                                            "id":  "obra-origens-totalitarismo-q4",
                                            "texto_apoio":  "Tanto \"As Origens do Totalitarismo\", de Hannah Arendt, quanto o romance \"1984\", de George Orwell, tratam do fenômeno totalitário a partir de perspectivas diferentes.",
                                            "enunciado":  "A principal diferença entre as duas abordagens é que:",
                                            "alternativas":  {
-                                                                "a":  "Arendt escreve como romancista, enquanto Orwell produz um tratado exclusivamente estatístico sobre regimes autoritários",
-                                                                "b":  "Arendt e Orwell escreveram as duas obras em coautoria, a partir de pesquisas de campo conjuntas na União Soviética",
-                                                                "c":  "Arendt oferece uma análise filosófica e histórica do totalitarismo, enquanto Orwell narra, em ficção distópica, os efeitos cotidianos desse controle",
-                                                                "d":  "Arendt analisa exclusivamente o regime totalitário soviético de Josef Stálin, enquanto Orwell descreve apenas o regime nazista de Adolf Hitler"
+                                                                "a":  "Arendt escreve como romancista e Orwell produz um tratado estatístico",
+                                                                "b":  "as duas obras foram escritas em coautoria, após pesquisa conjunta",
+                                                                "c":  "Arendt analisa só o stalinismo e Orwell descreve apenas o nazismo",
+                                                                "d":  "Arendt faz análise filosófica e histórica, e Orwell narra em ficção",
+                                                                "e":  "Arendt escreve antes da guerra e Orwell publica seu romance depois"
                                                             },
-                                           "resposta":  "c",
-                                           "explicacao":  "Arendt produz uma análise filosófico-histórica do totalitarismo como fenômeno real (nazismo e stalinismo), enquanto Orwell imagina, em ficção, os efeitos cotidianos desse controle sobre a linguagem e a vida privada — não há coautoria entre os dois, nem recorte exclusivo a um único regime em cada obra."
+                                           "resposta":  "d",
+                                           "explicacao":  "Uma reconstrói as condições históricas que tornaram o regime possível; o outro imagina como é viver dentro dele — conceito de um lado, experiência do outro. Em (e) está o distrator mais fino, porque a cronologia é próxima e parece decisiva: 1984 é de 1949 e As Origens de 1951, ambos posteriores à guerra, e a ordem inverte o que a alternativa afirma. Em (a), os gêneros estão trocados. Em (c), Arendt compara os dois regimes e Orwell não retrata um só. Em (b), não houve coautoria."
                                        },
                                        {
                                            "id":  "obra-origens-totalitarismo-q5",
                                            "enunciado":  "Considerando o argumento de Arendt sobre a \"superfluidade\" do indivíduo sob o totalitarismo, é correto afirmar que a autora sustenta que esse tipo de regime busca:",
                                            "alternativas":  {
-                                                                "a":  "eliminar apenas os opositores políticos organizados, mantendo intacta a liberdade privada dos demais cidadãos comuns",
-                                                                "b":  "promover eficiência econômica máxima por meio do controle populacional, sendo esse o principal objetivo do regime",
-                                                                "c":  "restaurar, pela força do Estado, tradições pré-modernas de hierarquia social que a democracia liberal já havia formalmente abolido",
-                                                                "d":  "tornar cada pessoa substituível e descartável, atacando a própria individualidade humana, e não apenas a dissidência política"
+                                                                "a":  "eliminar só opositores organizados, mantendo intacta a vida privada",
+                                                                "b":  "promover eficiência econômica máxima por meio do controle populacional",
+                                                                "c":  "restaurar pela força tradições pré-modernas de hierarquia social",
+                                                                "d":  "obter a adesão sincera de cada cidadão ao projeto oficial do regime",
+                                                                "e":  "tornar cada pessoa substituível, atacando a individualidade humana"
                                                             },
-                                           "resposta":  "d",
-                                           "explicacao":  "Arendt argumenta que o totalitarismo visa dominar a condição humana como um todo, tornando as pessoas intercambiáveis e supérfluas, e não apenas reprimir opositores políticos — o objetivo não é eficiência econômica nem restauração de hierarquias antigas, mas a própria eliminação da espontaneidade individual."
+                                           "resposta":  "e",
+                                           "explicacao":  "Superfluidade é o termo exato: não basta silenciar quem discorda, é preciso que ninguém seja insubstituível, que a pessoa se torne exemplar de uma espécie e não indivíduo. Em (d) está o distrator mais sofisticado, porque a propaganda de fato busca adesão; o alvo último, porém, é mais radical que a convicção — é a supressão da espontaneidade que tornaria a convicção possível. Em (a), a vida privada é justamente o que se invade. Em (b), o campo contraria a racionalidade econômica. Em (c), o regime é moderno, não restaurador."
                                        }
                                    ],
     "obra-ruptura-castells":  [
@@ -515,61 +520,66 @@ window.OBRAS_QUESTOES = {
                                 "id":  "obra-as-meninas-q1",
                                 "enunciado":  "O romance \u0027As Meninas\u0027, de Lygia Fagundes Telles, foi publicado em 1973, período que corresponde:",
                                 "alternativas":  {
-                                                     "a":  "à fase de maior recrudescimento da repressão durante a ditadura militar brasileira, após o AI-5.",
-                                                     "b":  "ao período de redemocratização do Brasil, já com eleições diretas para presidente.",
-                                                     "c":  "à Segunda Guerra Mundial, quando a autora começou sua carreira como escritora.",
-                                                     "d":  "ao início da colonização portuguesa no Brasil, retratado de forma alegórica pela autora."
+                                                     "a":  "ao recrudescimento da repressão durante a ditadura, após o AI-5",
+                                                     "b":  "ao período de redemocratização, já com eleições diretas para presidente",
+                                                     "c":  "à Segunda Guerra Mundial, quando a autora iniciou sua carreira",
+                                                     "d":  "ao início da colonização portuguesa, retratado de forma alegórica",
+                                                     "e":  "à abertura lenta e gradual iniciada pelo governo Geisel em 1974"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "Publicado em 1973, o romance surge durante os chamados \u0027anos de chumbo\u0027, fase de maior repressão da ditadura militar após o Ato Institucional nº 5, de 1968."
+                                "explicacao":  "1973 é o auge dos anos de chumbo: AI-5 em vigor desde 1968, censura prévia e repressão à luta armada — o que explica que o romance tenha sido escrito e publicado sob vigilância. Em (e) está o distrator mais próximo, porque a distensão começa mesmo no governo seguinte; ela é, porém, posterior ao livro, e por pouco. Em (b), as diretas só viriam em 1989. Em (c) e (d), a Segunda Guerra e a colonização estão fora do período."
                             },
                             {
                                 "id":  "obra-as-meninas-q2",
                                 "enunciado":  "A estrutura narrativa de \u0027As Meninas\u0027, que alterna os pontos de vista de Lorena, Lia e Ana Clara, contribui para o eixo modernidade-pós-modernidade porque:",
                                 "alternativas":  {
-                                                     "a":  "recusa um narrador único e onisciente, questionando a existência de uma verdade única sobre a realidade política e afetiva retratada.",
-                                                     "b":  "elimina qualquer subjetividade das personagens, privilegiando uma descrição objetiva e distanciada dos acontecimentos narrados no romance.",
-                                                     "c":  "adota um narrador onisciente clássico, reforçando uma visão totalizante e estável da sociedade brasileira da época retratada.",
-                                                     "d":  "concentra toda a narrativa exclusivamente no ponto de vista de uma única personagem, Ana Clara, ignorando por completo Lorena e Lia."
+                                                     "a":  "alterna as vozes sem que elas discordem sobre os fatos narrados",
+                                                     "b":  "elimina a subjetividade das personagens em favor da descrição objetiva",
+                                                     "c":  "adota narrador onisciente clássico, com visão totalizante e estável",
+                                                     "d":  "concentra a narrativa apenas no ponto de vista de Ana Clara",
+                                                     "e":  "recusa o narrador único, questionando a verdade única sobre o real"
                                                  },
-                                "resposta":  "a",
-                                "explicacao":  "A fragmentação e a multiplicidade de vozes narrativas do romance recusam uma perspectiva única e totalizante, gesto formal que dialoga com a crise das certezas típica da passagem para a pós-modernidade."
+                                "resposta":  "e",
+                                "explicacao":  "Três consciências narram a mesma época e não chegam ao mesmo país: a estrutura formal do romance é ela própria o argumento de que não há um relato autorizado sobre aquele momento. Em (a) está o distrator mais fino — a alternância de vozes só faz esse trabalho porque elas divergem; se concordassem, a multiplicidade seria decorativa. Em (c) e (d), narrador onisciente e voz única contrariam a estrutura descrita. Em (b), a subjetividade é o material do livro."
                             },
                             {
                                 "id":  "obra-as-meninas-q3",
                                 "enunciado":  "Das três protagonistas de \u0027As Meninas\u0027, a que se envolve diretamente na luta armada clandestina contra a ditadura militar é:",
                                 "alternativas":  {
-                                                     "a":  "Lia, engajada na resistência política ao regime militar.",
-                                                     "b":  "Lorena, que vive um romance idealizado com um homem casado.",
-                                                     "c":  "Nenhuma das três, já que todas evitam qualquer envolvimento político.",
-                                                     "d":  "Ana Clara, que enfrenta problemas de dependência de drogas."
+                                                     "a":  "Lia, engajada na resistência política ao regime militar",
+                                                     "b":  "Lorena, que vive um romance idealizado com um homem casado",
+                                                     "c":  "nenhuma das três, já que todas evitam envolvimento político",
+                                                     "d":  "Ana Clara, que enfrenta problemas de dependência de drogas",
+                                                     "e":  "as três em conjunto, atuando na mesma organização clandestina"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "Lia é a personagem politicamente engajada do romance, envolvida na resistência clandestina contra a ditadura militar, em contraste com as trajetórias de Lorena e Ana Clara."
+                                "explicacao":  "Lia é a militante: participa da organização, esconde companheiros e termina no exílio, enquanto as outras duas atravessam o período por outros caminhos. Em (e) está o erro que a estrutura do romance desmente — as três dividem a pensão e pouco mais, e é a divergência entre elas que sustenta o livro. Em (b) e (d), Lorena e Ana Clara existem como descrito, mas fora da militância. Em (c), a ausência de política contraria o eixo do romance."
                             },
                             {
                                 "id":  "obra-as-meninas-q4",
                                 "enunciado":  "Assim como \u0027O Bem-Amado\u0027, de Dias Gomes, o romance \u0027As Meninas\u0027 também pode ser lido como uma obra que:",
                                 "alternativas":  {
-                                                     "a":  "utiliza o humor como principal recurso para criticar diretamente as instituições políticas locais.",
-                                                     "b":  "narra exclusivamente acontecimentos ambientados no interior nordestino do país, sem qualquer cenário urbano ou universitário.",
-                                                     "c":  "adota a forma de comédia teatral em três atos, com personagens tipicamente regionais e ambientação exclusivamente rural.",
-                                                     "d":  "reflete, ainda que por vias distintas, tensões políticas e sociais vividas no Brasil sob a ditadura militar."
+                                                     "a":  "usa o humor como principal recurso para criticar instituições políticas",
+                                                     "b":  "narra acontecimentos no interior nordestino, sem cenário urbano",
+                                                     "c":  "adota a forma de comédia teatral em três atos, com tipos regionais",
+                                                     "d":  "reflete, por vias distintas, tensões do Brasil sob a ditadura militar",
+                                                     "e":  "foi adaptada para a televisão pouco depois de sua primeira publicação"
                                                  },
                                 "resposta":  "d",
-                                "explicacao":  "Embora com tons e recursos muito diferentes — comédia satírica versus romance psicológico —, ambas as obras dialogam com tensões políticas do Brasil sob regimes autoritários, cada uma à sua maneira."
+                                "explicacao":  "A afinidade é de objeto, não de forma: uma sátira do coronelismo e um romance de pensionato universitário tratam, cada um a seu modo, do país sob autoritarismo. Em (a) está a característica de apenas uma das duas — o humor é o recurso de Dias Gomes, e As Meninas não é obra cômica. Em (e), a adaptação televisiva vale para O Bem-Amado. Em (b) e (c), o cenário nordestino e a comédia em atos descrevem só a peça."
                             },
                             {
                                 "id":  "obra-as-meninas-q5",
                                 "enunciado":  "O desfecho de \u0027As Meninas\u0027, em que os destinos das três protagonistas se separam de forma abrupta, pode ser interpretado como uma representação de:",
                                 "alternativas":  {
-                                                     "a":  "a ausência total de consequências pessoais decorrentes do contexto político vivido pelas personagens.",
-                                                     "b":  "a vitória definitiva dos valores tradicionais de família e religião sobre o engajamento político.",
-                                                     "c":  "uma geração fragmentada por respostas divergentes às pressões políticas e sociais da época.",
-                                                     "d":  "um final feliz e harmonioso, em que as três amigas reconstroem juntas suas vidas."
+                                                     "a":  "a ausência de consequências pessoais do contexto político vivido",
+                                                     "b":  "a vitória dos valores tradicionais sobre o engajamento político",
+                                                     "c":  "uma geração fragmentada por respostas divergentes às pressões da época",
+                                                     "d":  "um final feliz em que as três reconstroem juntas suas vidas",
+                                                     "e":  "o fracasso individual de cada uma, sem relação com o momento histórico"
                                                  },
                                 "resposta":  "c",
-                                "explicacao":  "A separação abrupta e trágica dos destinos das três personagens simboliza a fragmentação de uma geração dividida entre fé, desejo e engajamento político sob a ditadura."
+                                "explicacao":  "Exílio, morte e permanência: três saídas incompatíveis para a mesma pressão, e o romance recusa eleger uma delas como a certa. A dispersão final é o retrato da geração. Em (e) está a leitura despolitizada mais tentadora, porque cada destino tem mesmo dimensão pessoal — atribuí-los a fracasso individual, porém, apaga a força que os produziu. Em (a), as consequências são o desfecho. Em (b) e (d), não há vitória tradicionalista nem reconciliação."
                             }
                         ],
     "obra-barroco-tropical":  [
@@ -830,61 +840,66 @@ window.OBRAS_QUESTOES = {
                                      "id":  "obra-dicas-imensidao-q1",
                                      "enunciado":  "Sobre o contexto de produção de \u0027Dicas da Imensidão\u0027 (Moral Disorder), de Margaret Atwood, é correto afirmar que",
                                      "alternativas":  {
-                                                          "a":  "o livro narra exclusivamente acontecimentos futuros e especulativos, na linha de \u0027O Conto da Aia\u0027, outro romance amplamente premiado da autora.",
-                                                          "b":  "trata-se de uma coletânea de contos interligados, publicada em 2006, após o sucesso internacional de romances distópicos anteriores da autora.",
-                                                          "c":  "trata-se do primeiro livro publicado pela autora, anterior a qualquer de suas obras distópicas mais conhecidas, ainda no início dos anos 1970.",
-                                                          "d":  "a obra foi escrita em coautoria com outra escritora canadense, sendo os contos divididos entre as duas autoras conforme a temática de cada um."
+                                                          "a":  "narra só acontecimentos futuros e especulativos, como O Conto da Aia",
+                                                          "b":  "é o primeiro livro da autora, anterior às distopias, nos anos 1970",
+                                                          "c":  "foi escrito em coautoria com outra escritora canadense",
+                                                          "d":  "é coletânea de contos interligados, de 2006, após as distopias",
+                                                          "e":  "é romance único publicado no mesmo ano de O Conto da Aia"
                                                       },
-                                     "resposta":  "b",
-                                     "explicacao":  "\u0027Moral Disorder\u0027 foi publicado em 2006, quando Atwood já era mundialmente reconhecida por romances distópicos como \u0027O Conto da Aia\u0027 e \u0027Oryx e Crake\u0027; é uma coletânea de contos interligados de autoria única, sem caráter especulativo predominante."
+                                     "resposta":  "d",
+                                     "explicacao":  "O livro é de 2006, quando Atwood já era conhecida pelas distopias, e sua forma é a de contos que se ligam por uma protagonista comum — registro realista, distante do especulativo. Em (a) está a expectativa que o nome da autora cria e que o livro frustra: nem toda Atwood é distopia. Em (b), a estreia é de 1969, com A Mulher Comestível. Em (e), O Conto da Aia é de 1985. Em (c), não há coautoria."
                                  },
                                  {
                                      "id":  "obra-dicas-imensidao-q2",
                                      "enunciado":  "Ainda que mais realista do que as distopias mais famosas de Atwood, \u0027Dicas da Imensidão\u0027 dialoga com os eixos do exame na medida em que",
                                      "alternativas":  {
-                                                          "a":  "evita completamente qualquer discussão sobre papéis sociais de gênero, tema ausente de toda a obra da autora, inclusive de seus romances mais conhecidos.",
-                                                          "b":  "apresenta uma sociedade futura totalitária que controla o corpo e a reprodução das mulheres por meio de leis explícitas, tal como em outros romances distópicos da autora.",
-                                                          "c":  "recusa uma narrativa linear e redentora sobre a vida da protagonista, aproximando-se da desconfiança pós-moderna em relação às grandes narrativas de progresso biográfico.",
-                                                          "d":  "narra exclusivamente eventos ocorridos em um único dia, dispensando qualquer referência ao passado ou à memória da protagonista ao longo da narrativa."
+                                                          "a":  "evita discussão sobre papéis de gênero, tema ausente da obra da autora",
+                                                          "b":  "apresenta sociedade futura que controla o corpo e a reprodução",
+                                                          "c":  "narra eventos de um único dia, sem referência ao passado",
+                                                          "d":  "propõe uma narrativa de superação em que a protagonista se reconcilia",
+                                                          "e":  "recusa narrativa linear e redentora, na desconfiança pós-moderna"
                                                       },
-                                     "resposta":  "c",
-                                     "explicacao":  "A estrutura fragmentária em contos interligados, sem linearidade rígida, recusa uma narrativa redentora e coerente sobre a vida da protagonista — o que aproxima a obra da crítica pós-moderna às grandes narrativas de progresso, ainda que sem o aparato especulativo de outras obras de Atwood."
+                                     "resposta":  "e",
+                                     "explicacao":  "A vida de Nell não é contada como trajetória com lição no fim: são episódios que não se resolvem, e a recusa da grande narrativa biográfica é o que aproxima o livro do eixo. Em (d) está exatamente a forma que ele evita, e é a que o leitor espera de um livro sobre uma vida inteira. Em (b), a distopia descrita pertence a O Conto da Aia. Em (a), gênero atravessa toda a obra da autora. Em (c), o livro percorre décadas."
                                  },
                                  {
                                      "id":  "obra-dicas-imensidao-q3",
                                      "enunciado":  "Sobre a estrutura e os elementos concretos de \u0027Dicas da Imensidão\u0027, assinale a alternativa correta.",
                                      "alternativas":  {
-                                                          "a":  "a obra foi originalmente concebida como roteiro televisivo e só posteriormente adaptada para o formato de livro de contos, segundo entrevistas da autora.",
-                                                          "b":  "o livro é um romance de enredo único, narrado inteiramente em ordem cronológica linear, sem qualquer fragmentação temporal ou retorno ao passado.",
-                                                          "c":  "todos os contos do livro se passam no mesmo dia e no mesmo cenário, uma fazenda isolada no interior do Canadá, sem qualquer mudança de local.",
-                                                          "d":  "a obra reúne contos que acompanham uma mesma protagonista recorrente, frequentemente identificada como Nell, em diferentes fases da vida."
+                                                          "a":  "foi concebida como roteiro televisivo e só depois adaptada para livro de contos",
+                                                          "b":  "é romance de enredo único, em ordem cronológica linear",
+                                                          "c":  "todos os contos se passam no mesmo dia, numa fazenda isolada",
+                                                          "d":  "reúne contos com uma mesma protagonista, Nell, em fases da vida",
+                                                          "e":  "reúne contos sem qualquer personagem em comum entre eles"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "\u0027Moral Disorder\u0027 é composto por contos interligados que acompanham a protagonista recorrente (Nell) em diferentes momentos de sua vida, sem ordem estritamente cronológica nem unidade de cenário único."
+                                     "explicacao":  "É o formato que dá nome ao gênero: contos autônomos que, lidos em sequência, acompanham a mesma mulher da infância à maturidade sem virar romance. Em (e) está o distrator que exige a distinção fina — coletânea de contos costuma mesmo não ter personagem comum, e é justamente a recorrência de Nell que faz deste livro um caso especial. Em (b), não há enredo único nem linearidade. Em (c), os cenários e tempos variam. Em (a), a origem não é televisiva."
                                  },
                                  {
                                      "id":  "obra-dicas-imensidao-q4",
                                      "enunciado":  "Comparando a estrutura fragmentária de \u0027Dicas da Imensidão\u0027 com o projeto autobiográfico de Annie Ernaux em \u0027A Vergonha\u0027, pode-se afirmar que",
                                      "alternativas":  {
-                                                          "a":  "nenhuma das duas obras trata de relações familiares ou da passagem do tempo na vida das protagonistas, temas restritos a romances de cunho histórico.",
-                                                          "b":  "ambas as obras revisitam o passado de forma não linear e desconfiada de narrativas redentoras, ainda que uma seja ficção e a outra, autoficção assumida.",
-                                                          "c":  "apenas Ernaux recorre à memória pessoal como material narrativo, enquanto Atwood evita completamente qualquer elemento biográfico em sua ficção publicada.",
-                                                          "d":  "as duas obras narram exatamente os mesmos acontecimentos históricos, apenas ambientados em países e décadas diferentes entre si."
+                                                          "a":  "nenhuma das duas trata de relações familiares ou da passagem do tempo",
+                                                          "b":  "só Ernaux recorre à memória pessoal, e Atwood evita o biográfico",
+                                                          "c":  "as duas narram os mesmos acontecimentos históricos, em países diferentes",
+                                                          "d":  "só Atwood fragmenta o tempo, e Ernaux narra em ordem cronológica",
+                                                          "e":  "as duas revisitam o passado de forma não linear e desconfiada"
                                                       },
-                                     "resposta":  "b",
-                                     "explicacao":  "Tanto Atwood, em registro ficcional semi-autobiográfico, quanto Ernaux, em autoficção assumida, revisitam o passado de maneira fragmentada e sem oferecer uma narrativa coerente e redentora sobre a trajetória de suas protagonistas, ainda que por vias formais distintas."
+                                     "resposta":  "e",
+                                     "explicacao":  "Ficção de um lado, autoficção assumida do outro, e o mesmo procedimento: voltar ao passado sem prometer que ele faz sentido, recusando o arco de superação. Em (d) está o distrator mais informado, porque a fragmentação é evidente em Atwood — Ernaux, porém, também rompe a linearidade, retomando a mesma cena por ângulos distintos. Em (b), Ernaux parte da memória e Atwood dialoga com material biográfico. Em (a), família e tempo são o assunto das duas. Em (c), os acontecimentos são distintos."
                                  },
                                  {
                                      "id":  "obra-dicas-imensidao-q5",
                                      "enunciado":  "O fato de os contos de \u0027Dicas da Imensidão\u0027 poderem ser lidos de forma independente, mas se iluminarem mutuamente quando lidos em conjunto, sugere sobretudo que",
                                      "alternativas":  {
-                                                          "a":  "a autora considerava os contos individualmente fracassados e por isso os reuniu para compensar as fragilidades de cada um perante a crítica especializada.",
-                                                          "b":  "o livro deve ser lido necessariamente na ordem inversa à publicada, começando pelo último conto e terminando no primeiro capítulo do livro.",
-                                                          "c":  "a memória da protagonista é apresentada como uma sequência de fatos objetivos, sem qualquer subjetividade ou lacuna ao longo de toda a narrativa.",
-                                                          "d":  "a vida é retratada como um conjunto de fragmentos que só adquirem sentido mais amplo quando recompostos pela leitura, e não como uma linha reta e coerente."
+                                                          "a":  "a vida é conjunto de fragmentos que só se compõem na leitura",
+                                                          "b":  "a autora considerava os contos fracassados e os reuniu para compensar",
+                                                          "c":  "o livro deve ser lido na ordem inversa à publicada, do fim ao começo",
+                                                          "d":  "a memória da protagonista é sequência de fatos objetivos, sem lacuna",
+                                                          "e":  "cada conto anula o anterior, de modo que só o último vale como versão"
                                                       },
-                                     "resposta":  "d",
-                                     "explicacao":  "A forma fragmentária do livro é também um argumento de conteúdo: a vida da protagonista, como a memória humana em geral, é apresentada como um conjunto de fragmentos que ganham sentido mais amplo quando recompostos, e não como uma narrativa linear e plenamente coerente."
+                                     "resposta":  "a",
+                                     "explicacao":  "A forma imita a memória: episódios que se sustentam sozinhos e que, postos lado a lado, revelam um desenho que nenhum deles continha isoladamente — o sentido é produzido por quem lê. Em (e) está o distrator mais engenhoso, porque também trata da relação entre os contos; anular-se mutuamente, porém, é o oposto de iluminar-se, e destruiria o efeito descrito no enunciado. Em (c), não há ordem inversa prescrita. Em (d), a memória do livro é lacunar. Em (b), a reunião é projeto, não remendo."
                                  }
                              ],
     "obra-olho-mais-azul":  [
@@ -892,61 +907,66 @@ window.OBRAS_QUESTOES = {
                                     "id":  "obra-olho-mais-azul-q1",
                                     "enunciado":  "\u0027O Olho Mais Azul\u0027, romance de estreia de Toni Morrison, foi publicado em 1970. Sobre seu contexto de produção, é correto afirmar que",
                                     "alternativas":  {
-                                                         "a":  "surge em meio à efervescência dos movimentos por direitos civis e do movimento Black is Beautiful, que contestavam os padrões de beleza branca hegemônicos.",
-                                                         "b":  "foi publicado originalmente sob pseudônimo masculino, prática comum entre autoras negras nos Estados Unidos da década de 1970, segundo historiadores da literatura afro-americana.",
-                                                         "c":  "foi escrito décadas depois de \u0027Amada\u0027, já no final da carreira da autora, como uma espécie de balanço final de sua obra literária mais reconhecida.",
-                                                         "d":  "narra acontecimentos situados no Sul escravista do século XIX, período em que a autora efetivamente viveu, segundo relatos de sua própria biografia e de seus biógrafos."
+                                                         "a":  "publicado sob pseudônimo masculino, prática comum entre autoras negras",
+                                                         "b":  "escrito décadas depois de Amada, no fim da carreira da autora",
+                                                         "c":  "narra o Sul escravista do século XIX, período em que a autora viveu",
+                                                         "d":  "foi o romance que rendeu à autora o Nobel de Literatura de 1993",
+                                                         "e":  "surge junto aos movimentos por direitos civis e Black is Beautiful"
                                                      },
-                                    "resposta":  "a",
-                                    "explicacao":  "O romance foi publicado em 1970, no contexto dos movimentos por direitos civis e do movimento Black is Beautiful; é anterior a \u0027Amada\u0027 (1987), se passa nos anos 1940, não no século XIX, e foi publicado sob o próprio nome de Morrison."
+                                    "resposta":  "e",
+                                    "explicacao":  "O romance é de 1970 e conversa diretamente com o Black is Beautiful: enquanto o movimento afirmava a beleza negra, Morrison escreve sobre uma menina que deseja olhos azuis, mostrando o custo do padrão que se tentava desmontar. Em (d) está o distrator mais bem construído, porque o Nobel de 1993 é fato — só que foi concedido pelo conjunto da obra, e o romance mais associado à autora é Amada. Em (b), Amada é de 1987, posterior. Em (c), a trama se passa em Ohio, nos anos 1940. Em (a), o livro saiu assinado."
                                 },
                                 {
                                     "id":  "obra-olho-mais-azul-q2",
                                     "enunciado":  "O desejo de Pecola Breedlove por ter olhos azuis permite discutir, nos eixos do exame, principalmente",
                                     "alternativas":  {
-                                                         "a":  "a hierarquia racial de beleza que associa traços da branquitude a valor e afeto, dialogando com a crise das certezas modernas e a circulação global de padrões estéticos.",
-                                                         "b":  "a ideia de que o racismo, no romance, é praticado exclusivamente por personagens brancos, nunca reproduzido dentro da própria comunidade negra.",
-                                                         "c":  "a valorização exclusivamente pessoal e individual de um gosto estético, sem qualquer relação com estruturas sociais mais amplas, sendo apenas uma escolha íntima da personagem.",
-                                                         "d":  "a defesa de que os padrões de beleza são sempre definidos democraticamente por consenso entre todos os grupos étnicos de uma sociedade, sem qualquer disputa de poder envolvida."
+                                                         "a":  "o racismo do romance é praticado só por personagens brancos",
+                                                         "b":  "valorização individual de um gosto estético, sem estrutura social",
+                                                         "c":  "hierarquia racial de beleza que associa branquitude a valor e afeto",
+                                                         "d":  "os padrões de beleza são definidos por consenso entre os grupos",
+                                                         "e":  "o desejo de Pecola é passageiro e se dissolve ao longo da narrativa do livro"
                                                      },
-                                    "resposta":  "a",
-                                    "explicacao":  "O desejo de Pecola expõe a hierarquia racial de beleza que privilegia traços brancos, tema que dialoga com a crise das certezas modernas sobre quem define o \u0027belo\u0027 e com a circulação global de padrões estéticos; Morrison mostra ainda como esse racismo é reproduzido inclusive dentro da comunidade negra."
+                                    "resposta":  "c",
+                                    "explicacao":  "Pecola não quer olhos azuis por gosto: ela aprendeu que olhos azuis são o que faz uma criança ser amada, e o romance mostra como esse ensinamento circula em bonecas, filmes e olhares. Em (a) está a simplificação que o livro recusa com mais força — a hierarquia é reproduzida também dentro da comunidade negra, e é isso que a torna devastadora. Em (b), o desejo é efeito de estrutura, não escolha íntima. Em (d), não há consenso, e sim imposição. Em (e), o desejo se aprofunda até o fim."
                                 },
                                 {
                                     "id":  "obra-olho-mais-azul-q3",
                                     "enunciado":  "Sobre a estrutura e os elementos concretos de \u0027O Olho Mais Azul\u0027, assinale a alternativa correta.",
                                     "alternativas":  {
-                                                         "a":  "Claudia MacTeer é uma personagem adulta e desconhecida da família Breedlove, sem qualquer vínculo com Pecola.",
-                                                         "b":  "a narrativa é organizada segundo as estações do ano e precedida por um trecho distorcido de uma cartilha infantil.",
-                                                         "c":  "o romance é narrado inteiramente em primeira pessoa por Pecola Breedlove, sem qualquer outra voz narrativa.",
-                                                         "d":  "a trama se passa numa cidade fictícia do Sul dos Estados Unidos durante o período da Reconstrução, no século XIX."
+                                                         "a":  "Claudia MacTeer é adulta e sem vínculo com a família Breedlove",
+                                                         "b":  "a narrativa segue as estações e é precedida por cartilha distorcida",
+                                                         "c":  "o romance é narrado só em primeira pessoa por Pecola Breedlove",
+                                                         "d":  "a trama se passa no Sul dos EUA durante a Reconstrução, no século XIX",
+                                                         "e":  "o livro é dividido em capítulos que seguem a ordem do calendário escolar"
                                                      },
                                     "resposta":  "b",
-                                    "explicacao":  "O romance se organiza segundo as quatro estações do ano e é precedido por um trecho de uma cartilha infantil apresentado de forma progressivamente distorcida; é narrado tanto pela voz de Claudia MacTeer, colega de infância de Pecola, quanto por capítulos em terceira pessoa, e se passa em Lorain, Ohio, no início dos anos 1940."
+                                    "explicacao":  "As quatro partes levam nomes de estações, e a epígrafe reproduz uma cartilha de leitura infantil — casa bonita, família feliz — que vai se desfazendo tipograficamente até virar bloco ilegível, imagem do mundo que Pecola não alcança. Em (e) está o distrator mais próximo, porque as estações e o ano letivo se sobrepõem na vida de uma criança; a organização, porém, é sazonal, e o efeito depende disso. Em (c), Claudia também narra. Em (a), ela é criança e vizinha. Em (d), o cenário é Ohio nos anos 1940."
                                 },
                                 {
                                     "id":  "obra-olho-mais-azul-q4",
                                     "enunciado":  "Comparando a internalização do racismo em Pecola Breedlove, em \u0027O Olho Mais Azul\u0027, com a vigilância ideológica descrita em \u00271984\u0027, de George Orwell, pode-se afirmar que",
                                     "alternativas":  {
-                                                         "a":  "apenas Orwell trata de mecanismos de controle que atuam sobre a subjetividade e a autoimagem dos indivíduos, tema ausente da obra de Toni Morrison segundo alguns críticos.",
-                                                         "b":  "ambas as obras mostram, em contextos diferentes, como valores impostos externamente podem ser internalizados pelos sujeitos oprimidos, moldando sua autopercepção.",
-                                                         "c":  "as duas obras descrevem exatamente o mesmo tipo de opressão, exercida por um Estado totalitário formalmente instituído em ambos os romances, segundo a maioria dos críticos.",
-                                                         "d":  "nenhuma das duas obras discute como valores impostos externamente podem ser assimilados pelas próprias vítimas da opressão em qualquer momento da narrativa."
+                                                         "a":  "só Orwell trata de controle sobre a subjetividade e a autoimagem",
+                                                         "b":  "as duas descrevem opressão por Estado totalitário formalmente instituído",
+                                                         "c":  "nenhuma discute valores impostos e assimilados pelas próprias vítimas",
+                                                         "d":  "as duas mostram valores impostos sendo internalizados pelos oprimidos",
+                                                         "e":  "só Morrison trata de internalização, ausente do romance de Orwell"
                                                      },
-                                    "resposta":  "b",
-                                    "explicacao":  "Tanto a distopia totalitária de Orwell quanto o racismo estrutural retratado por Morrison mostram como padrões impostos de fora podem ser internalizados pelas vítimas da opressão, moldando sua própria autoimagem, ainda que os contextos históricos e as formas de opressão sejam muito distintos."
+                                    "resposta":  "d",
+                                    "explicacao":  "Winston acaba amando o Grande Irmão; Pecola acaba desejando os olhos de quem a despreza. Em contextos incomparáveis, o mesmo mecanismo: a opressão vence quando é adotada por dentro. Em (b) está a diferença que a comparação não pode apagar — em Orwell há Estado totalitário explícito, e em Morrison a coerção é difusa, sem lei nem polícia. Em (a) e (e), atribuir a internalização a apenas um dos dois desfaz o paralelo. Em (c), é justamente esse o tema comum."
                                 },
                                 {
                                     "id":  "obra-olho-mais-azul-q5",
                                     "enunciado":  "O desfecho trágico de Pecola Breedlove ao final do romance sugere sobretudo que",
                                     "alternativas":  {
-                                                         "a":  "o romance defende que apenas mudanças legais e institucionais seriam suficientes para resolver o sofrimento de personagens como Pecola.",
-                                                         "b":  "a comunidade de Lorain se une, ao final, para proteger e acolher integralmente Pecola após a tragédia vivida por ela, tal como ocorre no desfecho do romance.",
-                                                         "c":  "a violência do racismo estrutural, quando internalizada de forma extrema, pode levar à destruição psíquica da vítima, e não apenas a formas visíveis de discriminação.",
-                                                         "d":  "Pecola consegue, de fato, alcançar a beleza convencional que desejava, sendo reconhecida como tal por toda a comunidade de Lorain, celebrada como um símbolo de beleza."
+                                                         "a":  "só mudanças legais e institucionais resolveriam o sofrimento de Pecola",
+                                                         "b":  "a comunidade de Lorain se une para acolher Pecola após a tragédia",
+                                                         "c":  "o racismo internalizado pode levar à destruição psíquica da vítima",
+                                                         "d":  "Pecola alcança a beleza convencional e é reconhecida pela comunidade",
+                                                         "e":  "a tragédia decorre apenas da violência doméstica, sem dimensão racial"
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "O desfecho de Pecola, que mergulha na loucura acreditando ter finalmente recebido os olhos azuis que desejava, evidencia como o racismo estrutural, quando profundamente internalizado, pode destruir psiquicamente a vítima, indo muito além de formas visíveis e pontuais de discriminação."
+                                    "explicacao":  "Pecola termina convencida de que enfim tem os olhos azuis, falando com uma amiga que não existe — a loucura é o único lugar onde o desejo pôde se realizar, e é essa a medida do dano. Em (e) está a leitura mais tentadora, porque a violência sofrida em casa é real e decisiva; ela é, contudo, produzida dentro do mesmo circuito de humilhação racial, e separá-las esvazia o romance. Em (b), a comunidade a rejeita. Em (d), o reconhecimento é delírio. Em (a), o livro não aponta solução institucional."
                                 }
                             ],
     "obra-a-vergonha":  [
@@ -1016,61 +1036,66 @@ window.OBRAS_QUESTOES = {
                              "id":  "obra-abaporu-q1",
                              "enunciado":  "Sobre o contexto de produção de \"Abaporu\", de Tarsila do Amaral, é correto afirmar que:",
                              "alternativas":  {
-                                                  "a":  "foi encomendado pelo governo federal para representar oficialmente o Brasil na Bienal de Veneza de 1928",
-                                                  "b":  "foi pintado em 1928 como presente de aniversário para o marido da artista, o escritor Oswald de Andrade",
-                                                  "c":  "foi criado em colaboração direta entre Tarsila do Amaral e Anita Malfatti, como projeto conjunto das duas artistas",
-                                                  "d":  "foi pintado durante a própria Semana de Arte Moderna de 1922, como cenário de fundo para as apresentações"
+                                                  "a":  "encomendado pelo governo federal para a Bienal de Veneza de 1928",
+                                                  "b":  "criado em colaboração direta com Anita Malfatti, como projeto das duas artistas",
+                                                  "c":  "pintado durante a Semana de Arte Moderna de 1922, como cenário",
+                                                  "d":  "pintado em 1928 como presente de aniversário para Oswald de Andrade",
+                                                  "e":  "comprado por um museu europeu antes de ser exibido no Brasil"
                                               },
-                             "resposta":  "b",
-                             "explicacao":  "\"Abaporu\" foi pintado em 1928 como presente de aniversário de Tarsila do Amaral para Oswald de Andrade — não houve encomenda oficial do governo, não foi produzido durante a Semana de 22 (seis anos antes) nem em colaboração com Anita Malfatti."
+                             "resposta":  "d",
+                             "explicacao":  "A tela nasceu como presente doméstico, em janeiro de 1928, e a reação de Oswald ao quadro é que desencadeou o Manifesto Antropófago meses depois — a ordem importa. Em (c) está o erro cronológico que a questão testa: a Semana é de 1922, seis anos antes, e Tarsila nem estava no Brasil na ocasião. Em (a), não houve encomenda oficial, e a Bienal de Veneza não é o destino da obra. Em (b), Malfatti não participou. Em (e), a tela só sairia do país décadas depois."
                          },
                          {
                              "id":  "obra-abaporu-q2",
                              "enunciado":  "A leitura de \"Abaporu\" pelo eixo da globalização, hoje reforçada por historiadores da arte, sustenta que a obra simboliza:",
                              "alternativas":  {
-                                                  "a":  "uma identidade nacional construída pela absorção crítica de referências estrangeiras, e não pela pureza ou isolamento cultural",
-                                                  "b":  "a rejeição total de qualquer influência europeia na arte brasileira, em nome de um nacionalismo estritamente isolacionista",
-                                                  "c":  "a ausência de qualquer diálogo entre a pintura brasileira e as vanguardas internacionais do início do século XX",
-                                                  "d":  "a submissão completa, voluntária e duradoura da arte brasileira aos padrões estéticos ditados por museus e academias europeias da época"
+                                                  "a":  "identidade nacional feita pela absorção crítica do estrangeiro",
+                                                  "b":  "rejeição de influência europeia, em nome de nacionalismo isolacionista",
+                                                  "c":  "ausência de diálogo entre a pintura brasileira e as vanguardas",
+                                                  "d":  "submissão da arte brasileira aos padrões estéticos europeus",
+                                                  "e":  "exportação de um repertório indígena puro para o mercado europeu"
                                               },
                              "resposta":  "a",
-                             "explicacao":  "A leitura antropofágica de \"Abaporu\" destaca justamente a absorção crítica e a transformação de referências estrangeiras (como o cubismo) em algo original, e não a rejeição, a submissão ou o isolamento em relação às vanguardas europeias."
+                             "explicacao":  "Tarsila pinta com o cubismo que aprendeu em Paris uma figura que nomeia em tupi: o nacional aqui não é o que resta depois de expulsar o estrangeiro, é o que se produz digerindo-o. Em (e) está o distrator mais sofisticado, porque também envolve o indígena e a circulação internacional — só que inverte o sentido, propondo pureza a ser exportada onde há mistura deliberada. Em (b) e (c), isolamento e ausência de diálogo contrariam a formação da artista. Em (d), submeter-se é o oposto de devorar."
                          },
                          {
                              "id":  "obra-abaporu-q3",
                              "enunciado":  "A respeito do nome e da composição de \"Abaporu\", assinale a alternativa correta:",
                              "alternativas":  {
-                                                  "a":  "a composição retrata várias figuras humanas reunidas em torno de uma fogueira, numa cena de ritual coletivo",
-                                                  "b":  "a tela é um autorretrato realista da própria Tarsila do Amaral, com traços fiéis ao rosto da artista",
-                                                  "c":  "o nome é uma palavra de origem francesa, escolhida por Tarsila em homenagem aos professores que teve durante os anos de estudo em Paris",
-                                                  "d":  "o nome, de origem tupi-guarani, foi sugerido com ajuda do poeta Raul Bopp, e a figura tem pés e mãos enormes"
+                                                  "a":  "retrata várias figuras humanas em torno de uma fogueira, em ritual",
+                                                  "b":  "é autorretrato realista de Tarsila, com traços fiéis ao seu rosto",
+                                                  "c":  "o nome é de origem francesa, homenagem aos professores que teve em Paris",
+                                                  "d":  "o nome foi sugerido por Oswald a partir de um verso do manifesto",
+                                                  "e":  "o nome é tupi-guarani, sugerido com Raul Bopp, e os pés são enormes"
                                               },
-                             "resposta":  "d",
-                             "explicacao":  "O nome tem origem tupi-guarani e foi sugerido com ajuda de Raul Bopp; a composição mostra uma única figura de pés e mãos enormes, e não um autorretrato realista ou uma cena coletiva em torno de fogueira."
+                             "resposta":  "e",
+                             "explicacao":  "Abaporu vem de aba (homem), poru (que come) — o homem que come, encontrado num dicionário tupi-guarani consultado por Tarsila, Oswald e Raul Bopp —, e a figura solitária tem pés e mãos desproporcionais sobre uma cabeça pequena. Em (d) está o distrator mais fino: Oswald participou da escolha, mas o manifesto é posterior ao quadro, de modo que o nome não pode vir de um verso dele. Em (c), a origem é indígena, não francesa. Em (a) e (b), há uma só figura, e ela não é retrato."
                          },
                          {
                              "id":  "obra-abaporu-q4",
                              "enunciado":  "Comparada a \"La Rentrée\", de Anita Malfatti, pintada anos antes, \"Abaporu\" representa um estágio diferente do modernismo brasileiro porque:",
                              "alternativas":  {
-                                                  "a":  "\"Abaporu\" foi pintada antes de \"La Rentrée\", invertendo a ordem cronológica real de produção das duas obras",
-                                                  "b":  "\"La Rentrée\" (1917) marca o choque com a crítica conservadora paulistana; \"Abaporu\" (1928) expressa um projeto antropofágico consolidado",
-                                                  "c":  "\"La Rentrée\" já apresenta o programa antropofágico completo e definitivo, do qual \"Abaporu\" seria apenas uma cópia tardia",
-                                                  "d":  "as duas obras foram pintadas exatamente pela mesma artista brasileira, apenas em fases bem diferentes e distantes de sua longa carreira"
+                                                  "a":  "Abaporu foi pintada antes de La Rentrée, invertendo a cronologia",
+                                                  "b":  "as duas foram pintadas pela mesma artista, em fases diferentes",
+                                                  "c":  "La Rentrée marca o choque de 1917; Abaporu, o projeto consolidado",
+                                                  "d":  "La Rentrée já traz o programa antropofágico completo e definitivo",
+                                                  "e":  "as duas foram expostas juntas na mesma mostra individual de 1917"
                                               },
-                             "resposta":  "b",
-                             "explicacao":  "\"La Rentrée\" (1917) marca o choque inicial da vanguarda expressionista com a crítica conservadora paulistana, enquanto \"Abaporu\" (1928) já expressa um projeto de identidade nacional antropofágica consolidado — são artistas diferentes, e a cronologia não se inverte nem se repete como cópia."
+                             "resposta":  "c",
+                             "explicacao":  "Onze anos separam um momento do outro, e a diferença é de estágio: 1917 é a chegada conflituosa da vanguarda, 1928 é o programa próprio já formulado. Em (d) está o anacronismo que a questão cobra — a antropofagia não existia em 1917, e atribuí-la a Malfatti é adiantar em uma década o que só viria com o manifesto. Em (a), a cronologia está invertida. Em (b), as artistas são duas. Em (e), Abaporu não poderia estar numa mostra de 1917."
                          },
                          {
                              "id":  "obra-abaporu-q5",
                              "enunciado":  "A desproporção entre os pés e mãos enormes e a cabeça minúscula da figura de \"Abaporu\" pode ser interpretada como:",
                              "alternativas":  {
-                                                  "a":  "uma valorização simbólica da força física e do enraizamento na terra em detrimento da razão abstrata europeia",
-                                                  "b":  "uma crítica direta e explícita ao trabalho rural escravo no período colonial brasileiro",
-                                                  "c":  "um simples erro técnico de perspectiva, atribuído à falta de formação acadêmica da artista",
-                                                  "d":  "uma homenagem realista às proporções do corpo humano descritas por tratados de anatomia renascentistas"
+                                                  "a":  "valorização da força física e do enraizamento contra a razão abstrata",
+                                                  "b":  "crítica direta ao trabalho rural escravo no período colonial",
+                                                  "c":  "erro técnico de perspectiva, por falta de formação acadêmica",
+                                                  "d":  "homenagem às proporções descritas por tratados renascentistas",
+                                                  "e":  "representação fiel do corpo de trabalhadores rurais observados por Tarsila"
                                               },
                              "resposta":  "a",
-                             "explicacao":  "A desproporção é escolha estética deliberada, associada à valorização simbólica da matéria e da terra em detrimento da razão abstrata — Tarsila tinha formação acadêmica sólida (inclusive em Paris), e a obra não se propõe realista nem faz uma crítica histórica específica à escravidão."
+                             "explicacao":  "O pé enorme fincado no chão e a cabeça diminuta invertem a hierarquia europeia entre pensar e fazer — é uma tese sobre o país, dita pela proporção. Em (e) está o distrator mais plausível, porque o trabalho rural aparece em outras telas de Tarsila; aqui, porém, a deformação é simbólica e deliberada, não registro do corpo observado. Em (c), a artista tinha formação sólida e a distorção é escolha. Em (d), o Renascimento buscava proporção canônica. Em (b), não há referência ao período colonial."
                          }
                      ],
     "obra-la-rentree":  [
@@ -2436,61 +2461,66 @@ window.OBRAS_QUESTOES = {
                                        "id":  "obra-domingo-no-parque-q1",
                                        "enunciado":  "\"Domingo no Parque\", de Gilberto Gil, foi apresentada em 1967 em um evento que se tornou decisivo para o lançamento de um movimento cultural brasileiro. Esse evento foi:",
                                        "alternativas":  {
-                                                            "a":  "O primeiro Rock in Rio, realizado no Rio de Janeiro, evento que se tornaria ícone das décadas seguintes.",
-                                                            "b":  "O III Festival da Música Popular Brasileira, promovido pela TV Record, realizado em 1967.",
-                                                            "c":  "A Bienal de São Paulo, dedicada às artes plásticas e um dos maiores eventos de arte do país.",
-                                                            "d":  "O Festival de Woodstock, realizado nos Estados Unidos, marco da contracultura internacional."
+                                                            "a":  "o primeiro Rock in Rio, no Rio de Janeiro, ícone das décadas seguintes",
+                                                            "b":  "o III Festival da Música Popular Brasileira, promovido pela TV Record",
+                                                            "c":  "a Bienal de São Paulo, dedicada às artes plásticas",
+                                                            "d":  "o Festival de Woodstock, marco da contracultura internacional",
+                                                            "e":  "o Festival Internacional da Canção, da TV Globo, em sua primeira edição"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "A canção foi apresentada no III Festival da Música Popular Brasileira, promovido pela TV Record em 1967, considerado um dos eventos fundadores do movimento Tropicália."
+                                       "explicacao":  "Os festivais da Record foram o palco em que a Tropicália se apresentou ao país, e é do III Festival, em 1967, que saem ao mesmo tempo Domingo no Parque e Alegria, Alegria. Em (e) está o distrator mais difícil, porque o Festival Internacional da Canção existiu e foi importante no mesmo período — só que era da Globo e é outro evento, e não o que lançou as duas canções. Em (a) e (d), Rock in Rio e Woodstock são de 1985 e 1969. Em (c), a Bienal é de artes plásticas."
                                    },
                                    {
                                        "id":  "obra-domingo-no-parque-q2",
                                        "enunciado":  "A fusão entre berimbau, arranjos de rock e orquestração erudita presente em \"Domingo no Parque\" deve ser entendida, no eixo da globalização cultural, como:",
                                        "alternativas":  {
-                                                            "a":  "Cópia fiel de arranjos de bandas de rock britânicas, sem qualquer elemento da cultura popular brasileira, tendência atribuída a outros grupos do período.",
-                                                            "b":  "Rejeição total de qualquer influência internacional, priorizando exclusivamente instrumentos regionais brasileiros.",
-                                                            "c":  "Recusa da hierarquia entre cultura popular \"pura\" e influência estrangeira, propondo síntese sem julgamento de valor.",
-                                                            "d":  "Estratégia comercial sem qualquer intenção estética ou cultural por parte de Gilberto Gil, apesar do reconhecido investimento estético do movimento tropicalista."
+                                                            "a":  "cópia de arranjos de bandas britânicas, sem elemento da cultura popular",
+                                                            "b":  "rejeição de influência internacional, só com instrumentos regionais",
+                                                            "c":  "justaposição de estilos que permanecem separados dentro da canção",
+                                                            "d":  "estratégia comercial sem intenção estética por parte de Gilberto Gil",
+                                                            "e":  "recusa da hierarquia entre cultura popular e influência estrangeira"
                                                         },
-                                       "resposta":  "c",
-                                       "explicacao":  "A canção sintetiza elementos regionais brasileiros e linguagem internacional de rock sem hierarquizá-los, gesto central da proposta tropicalista de antropofagia cultural."
+                                       "resposta":  "e",
+                                       "explicacao":  "Berimbau e guitarra elétrica na mesma faixa afirmam que não há repertório mais legítimo que outro — é o gesto antropofágico aplicado à música popular. Em (c) está o distrator mais fino: os elementos não convivem lado a lado sem se tocar, eles se fundem, e é a síntese, não a colagem, que caracteriza a proposta. Em (a) e (b), copiar o estrangeiro e recusá-lo são os dois extremos que a Tropicália rejeita. Em (d), o investimento estético do movimento é documentado e deliberado."
                                    },
                                    {
                                        "id":  "obra-domingo-no-parque-q3",
                                        "enunciado":  "Dois nomes fundamentais associados ao arranjo e à orquestração de \"Domingo no Parque\" foram:",
                                        "alternativas":  {
-                                                            "a":  "A banda Os Mutantes, responsável pelo arranjo de rock, e o maestro Rogério Duprat, responsável pela orquestração.",
-                                                            "b":  "O conjunto Os Incríveis, responsável pelo arranjo, e o maestro Villa-Lobos, responsável pela orquestração.",
-                                                            "c":  "A banda Secos e Molhados, responsável pelo arranjo, e o maestro Cláudio Santoro, responsável pela orquestração.",
-                                                            "d":  "A banda Os Titãs, responsável pelo arranjo, e o maestro Tom Jobim, responsável pela orquestração."
+                                                            "a":  "Os Mutantes, no arranjo de rock, e Rogério Duprat, na orquestração",
+                                                            "b":  "Os Incríveis, no arranjo, e Heitor Villa-Lobos, na orquestração da faixa",
+                                                            "c":  "Secos e Molhados, no arranjo, e Cláudio Santoro, na orquestração",
+                                                            "d":  "Os Titãs, no arranjo, e Tom Jobim, na orquestração da canção",
+                                                            "e":  "Os Novos Baianos, no arranjo, e Rogério Duprat, na orquestração"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A canção contou com arranjo de rock da banda Os Mutantes e orquestração do maestro Rogério Duprat, colaboradores centrais do movimento Tropicália."
+                                       "explicacao":  "A parceria é uma das assinaturas da Tropicália: Os Mutantes na guitarra e Duprat na regência, misturando pop e vanguarda erudita na mesma faixa. Em (e) está o distrator mais bem construído, porque acerta Duprat, que de fato orquestrou quase tudo do movimento, e erra a banda — Os Novos Baianos surgem depois e não participam. Em (c) e (d), Secos e Molhados e Titãs são dos anos 1970 e 1980. Em (b), Villa-Lobos morreu em 1959."
                                    },
                                    {
                                        "id":  "obra-domingo-no-parque-q4",
                                        "enunciado":  "\"Domingo no Parque\" e \"Alegria, Alegria\", de Caetano Veloso, apresentadas no mesmo festival de 1967, são consideradas conjuntamente como:",
                                        "alternativas":  {
-                                                            "a":  "Composições exclusivamente instrumentais, sem qualquer letra cantada, formato típico de certas trilhas sonoras da época.",
-                                                            "b":  "Sambas-enredo compostos para desfiles de escolas de samba do Rio de Janeiro, tradição consolidada desde as primeiras décadas do século XX.",
-                                                            "c":  "Marcos de lançamento do movimento Tropicália, por unirem tradição musical brasileira e linguagem do rock internacional.",
-                                                            "d":  "Canções de protesto direto contra a censura, sem qualquer elemento de inovação musical, característica mais associada a outros compositores da MPB."
+                                                            "a":  "composições instrumentais, sem letra cantada, como as de trilha sonora de cinema",
+                                                            "b":  "sambas-enredo compostos para desfiles de escolas de samba cariocas",
+                                                            "c":  "as duas primeiras gravações de Gil e Caetano em carreira solo no país",
+                                                            "d":  "canções de protesto direto, sem elemento de inovação musical",
+                                                            "e":  "marcos do lançamento da Tropicália, unindo tradição e rock internacional"
                                                         },
-                                       "resposta":  "c",
-                                       "explicacao":  "Ambas as canções, apresentadas no mesmo festival, são consideradas marcos fundadores da Tropicália justamente por combinarem elementos da tradição musical brasileira com arranjos e instrumentação de rock internacional."
+                                       "resposta":  "e",
+                                       "explicacao":  "As duas canções, no mesmo festival, tornaram públicos o programa e o som do movimento — daí serem tratadas como par fundador. Em (d) está o distrator que mais confunde, porque a canção de protesto dominava os festivais da época e as duas são politicamente carregadas; o que as distingue, porém, é justamente a inovação musical que a alternativa nega. Em (c), nenhum dos dois estreava em disco em 1967. Em (a) e (b), as canções têm letra e não são sambas-enredo."
                                    },
                                    {
                                        "id":  "obra-domingo-no-parque-q5",
                                        "enunciado":  "O desfecho trágico do triângulo amoroso narrado em \"Domingo no Parque\" contribui para o efeito geral da canção sobretudo porque:",
                                        "alternativas":  {
-                                                            "a":  "Reforça o contraste entre a leveza do lazer dominical popular e a violência que irrompe inesperadamente nesse cotidiano.",
-                                                            "b":  "Serve apenas de pretexto para mostrar virtuosismo instrumental, sem qualquer relação com o restante da letra.",
-                                                            "c":  "Transforma a canção em crítica direta e explícita ao regime militar, sem relação com a vida amorosa dos personagens.",
-                                                            "d":  "Elimina qualquer conexão da canção com o cotidiano popular, tornando-a uma fábula abstrata sem cenário definido."
+                                                            "a":  "reduz a narrativa a caso policial, sem função no conjunto do arranjo",
+                                                            "b":  "serve de pretexto para virtuosismo instrumental, sem relação com a letra",
+                                                            "c":  "transforma a canção em crítica explícita ao regime militar da época",
+                                                            "d":  "elimina a conexão com o cotidiano popular, tornando-a fábula abstrata",
+                                                            "e":  "reforça o contraste entre a leveza do lazer popular e a violência súbita"
                                                         },
-                                       "resposta":  "a",
-                                       "explicacao":  "A tragédia que interrompe o passeio dominical no parque cria um contraste marcante entre a normalidade do lazer popular e a violência súbita, reforçando o caráter quase cinematográfico da narrativa."
+                                       "resposta":  "e",
+                                       "explicacao":  "Sorvete, roda-gigante e domingo de sol montam um cenário de lazer que a facada rompe de uma vez — e é o choque entre os dois registros, também audível no arranjo, que dá à canção sua força. Em (a) está a leitura mais tentadora, porque a trama é de fato de crime passional; tratá-la como caso policial isolado, porém, desliga a narrativa do arranjo, que a acompanha e a intensifica. Em (c), a crítica ao regime não está na letra. Em (b) e (d), a história e o cenário popular são centrais."
                                    }
                                ],
     "obra-mundo-e-um-moinho":  [

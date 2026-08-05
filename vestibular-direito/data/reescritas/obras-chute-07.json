@@ -1,0 +1,199 @@
+{
+  "questoes": [
+    {
+      "id": "obra-abaporu-q1",
+      "enunciado": "Sobre o contexto de produção de \"Abaporu\", de Tarsila do Amaral, é correto afirmar que:",
+      "alternativas": {
+        "a": "encomendado pelo governo federal para a Bienal de Veneza de 1928",
+        "b": "criado em colaboração direta com Anita Malfatti, como projeto das duas artistas",
+        "c": "pintado durante a Semana de Arte Moderna de 1922, como cenário",
+        "d": "pintado em 1928 como presente de aniversário para Oswald de Andrade",
+        "e": "comprado por um museu europeu antes de ser exibido no Brasil"
+      },
+      "resposta": "d",
+      "explicacao": "A tela nasceu como presente doméstico, em janeiro de 1928, e a reação de Oswald ao quadro é que desencadeou o Manifesto Antropófago meses depois — a ordem importa. Em (c) está o erro cronológico que a questão testa: a Semana é de 1922, seis anos antes, e Tarsila nem estava no Brasil na ocasião. Em (a), não houve encomenda oficial, e a Bienal de Veneza não é o destino da obra. Em (b), Malfatti não participou. Em (e), a tela só sairia do país décadas depois."
+    },
+    {
+      "id": "obra-abaporu-q2",
+      "enunciado": "A leitura de \"Abaporu\" pelo eixo da globalização, hoje reforçada por historiadores da arte, sustenta que a obra simboliza:",
+      "alternativas": {
+        "a": "identidade nacional feita pela absorção crítica do estrangeiro",
+        "b": "rejeição de influência europeia, em nome de nacionalismo isolacionista",
+        "c": "ausência de diálogo entre a pintura brasileira e as vanguardas",
+        "d": "submissão da arte brasileira aos padrões estéticos europeus",
+        "e": "exportação de um repertório indígena puro para o mercado europeu"
+      },
+      "resposta": "a",
+      "explicacao": "Tarsila pinta com o cubismo que aprendeu em Paris uma figura que nomeia em tupi: o nacional aqui não é o que resta depois de expulsar o estrangeiro, é o que se produz digerindo-o. Em (e) está o distrator mais sofisticado, porque também envolve o indígena e a circulação internacional — só que inverte o sentido, propondo pureza a ser exportada onde há mistura deliberada. Em (b) e (c), isolamento e ausência de diálogo contrariam a formação da artista. Em (d), submeter-se é o oposto de devorar."
+    },
+    {
+      "id": "obra-abaporu-q3",
+      "enunciado": "A respeito do nome e da composição de \"Abaporu\", assinale a alternativa correta:",
+      "alternativas": {
+        "a": "retrata várias figuras humanas em torno de uma fogueira, em ritual",
+        "b": "é autorretrato realista de Tarsila, com traços fiéis ao seu rosto",
+        "c": "o nome é de origem francesa, homenagem aos professores que teve em Paris",
+        "d": "o nome foi sugerido por Oswald a partir de um verso do manifesto",
+        "e": "o nome é tupi-guarani, sugerido com Raul Bopp, e os pés são enormes"
+      },
+      "resposta": "e",
+      "explicacao": "Abaporu vem de aba (homem), poru (que come) — o homem que come, encontrado num dicionário tupi-guarani consultado por Tarsila, Oswald e Raul Bopp —, e a figura solitária tem pés e mãos desproporcionais sobre uma cabeça pequena. Em (d) está o distrator mais fino: Oswald participou da escolha, mas o manifesto é posterior ao quadro, de modo que o nome não pode vir de um verso dele. Em (c), a origem é indígena, não francesa. Em (a) e (b), há uma só figura, e ela não é retrato."
+    },
+    {
+      "id": "obra-abaporu-q4",
+      "enunciado": "Comparada a \"La Rentrée\", de Anita Malfatti, pintada anos antes, \"Abaporu\" representa um estágio diferente do modernismo brasileiro porque:",
+      "alternativas": {
+        "a": "Abaporu foi pintada antes de La Rentrée, invertendo a cronologia",
+        "b": "as duas foram pintadas pela mesma artista, em fases diferentes",
+        "c": "La Rentrée marca o choque de 1917; Abaporu, o projeto consolidado",
+        "d": "La Rentrée já traz o programa antropofágico completo e definitivo",
+        "e": "as duas foram expostas juntas na mesma mostra individual de 1917"
+      },
+      "resposta": "c",
+      "explicacao": "Onze anos separam um momento do outro, e a diferença é de estágio: 1917 é a chegada conflituosa da vanguarda, 1928 é o programa próprio já formulado. Em (d) está o anacronismo que a questão cobra — a antropofagia não existia em 1917, e atribuí-la a Malfatti é adiantar em uma década o que só viria com o manifesto. Em (a), a cronologia está invertida. Em (b), as artistas são duas. Em (e), Abaporu não poderia estar numa mostra de 1917."
+    },
+    {
+      "id": "obra-abaporu-q5",
+      "enunciado": "A desproporção entre os pés e mãos enormes e a cabeça minúscula da figura de \"Abaporu\" pode ser interpretada como:",
+      "alternativas": {
+        "a": "valorização da força física e do enraizamento contra a razão abstrata",
+        "b": "crítica direta ao trabalho rural escravo no período colonial",
+        "c": "erro técnico de perspectiva, por falta de formação acadêmica",
+        "d": "homenagem às proporções descritas por tratados renascentistas",
+        "e": "representação fiel do corpo de trabalhadores rurais observados por Tarsila"
+      },
+      "resposta": "a",
+      "explicacao": "O pé enorme fincado no chão e a cabeça diminuta invertem a hierarquia europeia entre pensar e fazer — é uma tese sobre o país, dita pela proporção. Em (e) está o distrator mais plausível, porque o trabalho rural aparece em outras telas de Tarsila; aqui, porém, a deformação é simbólica e deliberada, não registro do corpo observado. Em (c), a artista tinha formação sólida e a distorção é escolha. Em (d), o Renascimento buscava proporção canônica. Em (b), não há referência ao período colonial."
+    },
+    {
+      "id": "obra-olho-mais-azul-q1",
+      "enunciado": "'O Olho Mais Azul', romance de estreia de Toni Morrison, foi publicado em 1970. Sobre seu contexto de produção, é correto afirmar que",
+      "alternativas": {
+        "a": "publicado sob pseudônimo masculino, prática comum entre autoras negras",
+        "b": "escrito décadas depois de Amada, no fim da carreira da autora",
+        "c": "narra o Sul escravista do século XIX, período em que a autora viveu",
+        "d": "foi o romance que rendeu à autora o Nobel de Literatura de 1993",
+        "e": "surge junto aos movimentos por direitos civis e Black is Beautiful"
+      },
+      "resposta": "e",
+      "explicacao": "O romance é de 1970 e conversa diretamente com o Black is Beautiful: enquanto o movimento afirmava a beleza negra, Morrison escreve sobre uma menina que deseja olhos azuis, mostrando o custo do padrão que se tentava desmontar. Em (d) está o distrator mais bem construído, porque o Nobel de 1993 é fato — só que foi concedido pelo conjunto da obra, e o romance mais associado à autora é Amada. Em (b), Amada é de 1987, posterior. Em (c), a trama se passa em Ohio, nos anos 1940. Em (a), o livro saiu assinado."
+    },
+    {
+      "id": "obra-olho-mais-azul-q2",
+      "enunciado": "O desejo de Pecola Breedlove por ter olhos azuis permite discutir, nos eixos do exame, principalmente",
+      "alternativas": {
+        "a": "o racismo do romance é praticado só por personagens brancos",
+        "b": "valorização individual de um gosto estético, sem estrutura social",
+        "c": "hierarquia racial de beleza que associa branquitude a valor e afeto",
+        "d": "os padrões de beleza são definidos por consenso entre os grupos",
+        "e": "o desejo de Pecola é passageiro e se dissolve ao longo da narrativa do livro"
+      },
+      "resposta": "c",
+      "explicacao": "Pecola não quer olhos azuis por gosto: ela aprendeu que olhos azuis são o que faz uma criança ser amada, e o romance mostra como esse ensinamento circula em bonecas, filmes e olhares. Em (a) está a simplificação que o livro recusa com mais força — a hierarquia é reproduzida também dentro da comunidade negra, e é isso que a torna devastadora. Em (b), o desejo é efeito de estrutura, não escolha íntima. Em (d), não há consenso, e sim imposição. Em (e), o desejo se aprofunda até o fim."
+    },
+    {
+      "id": "obra-olho-mais-azul-q3",
+      "enunciado": "Sobre a estrutura e os elementos concretos de 'O Olho Mais Azul', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Claudia MacTeer é adulta e sem vínculo com a família Breedlove",
+        "b": "a narrativa segue as estações e é precedida por cartilha distorcida",
+        "c": "o romance é narrado só em primeira pessoa por Pecola Breedlove",
+        "d": "a trama se passa no Sul dos EUA durante a Reconstrução, no século XIX",
+        "e": "o livro é dividido em capítulos que seguem a ordem do calendário escolar"
+      },
+      "resposta": "b",
+      "explicacao": "As quatro partes levam nomes de estações, e a epígrafe reproduz uma cartilha de leitura infantil — casa bonita, família feliz — que vai se desfazendo tipograficamente até virar bloco ilegível, imagem do mundo que Pecola não alcança. Em (e) está o distrator mais próximo, porque as estações e o ano letivo se sobrepõem na vida de uma criança; a organização, porém, é sazonal, e o efeito depende disso. Em (c), Claudia também narra. Em (a), ela é criança e vizinha. Em (d), o cenário é Ohio nos anos 1940."
+    },
+    {
+      "id": "obra-olho-mais-azul-q4",
+      "enunciado": "Comparando a internalização do racismo em Pecola Breedlove, em 'O Olho Mais Azul', com a vigilância ideológica descrita em '1984', de George Orwell, pode-se afirmar que",
+      "alternativas": {
+        "a": "só Orwell trata de controle sobre a subjetividade e a autoimagem",
+        "b": "as duas descrevem opressão por Estado totalitário formalmente instituído",
+        "c": "nenhuma discute valores impostos e assimilados pelas próprias vítimas",
+        "d": "as duas mostram valores impostos sendo internalizados pelos oprimidos",
+        "e": "só Morrison trata de internalização, ausente do romance de Orwell"
+      },
+      "resposta": "d",
+      "explicacao": "Winston acaba amando o Grande Irmão; Pecola acaba desejando os olhos de quem a despreza. Em contextos incomparáveis, o mesmo mecanismo: a opressão vence quando é adotada por dentro. Em (b) está a diferença que a comparação não pode apagar — em Orwell há Estado totalitário explícito, e em Morrison a coerção é difusa, sem lei nem polícia. Em (a) e (e), atribuir a internalização a apenas um dos dois desfaz o paralelo. Em (c), é justamente esse o tema comum."
+    },
+    {
+      "id": "obra-olho-mais-azul-q5",
+      "enunciado": "O desfecho trágico de Pecola Breedlove ao final do romance sugere sobretudo que",
+      "alternativas": {
+        "a": "só mudanças legais e institucionais resolveriam o sofrimento de Pecola",
+        "b": "a comunidade de Lorain se une para acolher Pecola após a tragédia",
+        "c": "o racismo internalizado pode levar à destruição psíquica da vítima",
+        "d": "Pecola alcança a beleza convencional e é reconhecida pela comunidade",
+        "e": "a tragédia decorre apenas da violência doméstica, sem dimensão racial"
+      },
+      "resposta": "c",
+      "explicacao": "Pecola termina convencida de que enfim tem os olhos azuis, falando com uma amiga que não existe — a loucura é o único lugar onde o desejo pôde se realizar, e é essa a medida do dano. Em (e) está a leitura mais tentadora, porque a violência sofrida em casa é real e decisiva; ela é, contudo, produzida dentro do mesmo circuito de humilhação racial, e separá-las esvazia o romance. Em (b), a comunidade a rejeita. Em (d), o reconhecimento é delírio. Em (a), o livro não aponta solução institucional."
+    },
+    {
+      "id": "obra-dicas-imensidao-q1",
+      "enunciado": "Sobre o contexto de produção de 'Dicas da Imensidão' (Moral Disorder), de Margaret Atwood, é correto afirmar que",
+      "alternativas": {
+        "a": "narra só acontecimentos futuros e especulativos, como O Conto da Aia",
+        "b": "é o primeiro livro da autora, anterior às distopias, nos anos 1970",
+        "c": "foi escrito em coautoria com outra escritora canadense",
+        "d": "é coletânea de contos interligados, de 2006, após as distopias",
+        "e": "é romance único publicado no mesmo ano de O Conto da Aia"
+      },
+      "resposta": "d",
+      "explicacao": "O livro é de 2006, quando Atwood já era conhecida pelas distopias, e sua forma é a de contos que se ligam por uma protagonista comum — registro realista, distante do especulativo. Em (a) está a expectativa que o nome da autora cria e que o livro frustra: nem toda Atwood é distopia. Em (b), a estreia é de 1969, com A Mulher Comestível. Em (e), O Conto da Aia é de 1985. Em (c), não há coautoria."
+    },
+    {
+      "id": "obra-dicas-imensidao-q2",
+      "enunciado": "Ainda que mais realista do que as distopias mais famosas de Atwood, 'Dicas da Imensidão' dialoga com os eixos do exame na medida em que",
+      "alternativas": {
+        "a": "evita discussão sobre papéis de gênero, tema ausente da obra da autora",
+        "b": "apresenta sociedade futura que controla o corpo e a reprodução",
+        "c": "narra eventos de um único dia, sem referência ao passado",
+        "d": "propõe uma narrativa de superação em que a protagonista se reconcilia",
+        "e": "recusa narrativa linear e redentora, na desconfiança pós-moderna"
+      },
+      "resposta": "e",
+      "explicacao": "A vida de Nell não é contada como trajetória com lição no fim: são episódios que não se resolvem, e a recusa da grande narrativa biográfica é o que aproxima o livro do eixo. Em (d) está exatamente a forma que ele evita, e é a que o leitor espera de um livro sobre uma vida inteira. Em (b), a distopia descrita pertence a O Conto da Aia. Em (a), gênero atravessa toda a obra da autora. Em (c), o livro percorre décadas."
+    },
+    {
+      "id": "obra-dicas-imensidao-q3",
+      "enunciado": "Sobre a estrutura e os elementos concretos de 'Dicas da Imensidão', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "foi concebida como roteiro televisivo e só depois adaptada para livro de contos",
+        "b": "é romance de enredo único, em ordem cronológica linear",
+        "c": "todos os contos se passam no mesmo dia, numa fazenda isolada",
+        "d": "reúne contos com uma mesma protagonista, Nell, em fases da vida",
+        "e": "reúne contos sem qualquer personagem em comum entre eles"
+      },
+      "resposta": "d",
+      "explicacao": "É o formato que dá nome ao gênero: contos autônomos que, lidos em sequência, acompanham a mesma mulher da infância à maturidade sem virar romance. Em (e) está o distrator que exige a distinção fina — coletânea de contos costuma mesmo não ter personagem comum, e é justamente a recorrência de Nell que faz deste livro um caso especial. Em (b), não há enredo único nem linearidade. Em (c), os cenários e tempos variam. Em (a), a origem não é televisiva."
+    },
+    {
+      "id": "obra-dicas-imensidao-q4",
+      "enunciado": "Comparando a estrutura fragmentária de 'Dicas da Imensidão' com o projeto autobiográfico de Annie Ernaux em 'A Vergonha', pode-se afirmar que",
+      "alternativas": {
+        "a": "nenhuma das duas trata de relações familiares ou da passagem do tempo",
+        "b": "só Ernaux recorre à memória pessoal, e Atwood evita o biográfico",
+        "c": "as duas narram os mesmos acontecimentos históricos, em países diferentes",
+        "d": "só Atwood fragmenta o tempo, e Ernaux narra em ordem cronológica",
+        "e": "as duas revisitam o passado de forma não linear e desconfiada"
+      },
+      "resposta": "e",
+      "explicacao": "Ficção de um lado, autoficção assumida do outro, e o mesmo procedimento: voltar ao passado sem prometer que ele faz sentido, recusando o arco de superação. Em (d) está o distrator mais informado, porque a fragmentação é evidente em Atwood — Ernaux, porém, também rompe a linearidade, retomando a mesma cena por ângulos distintos. Em (b), Ernaux parte da memória e Atwood dialoga com material biográfico. Em (a), família e tempo são o assunto das duas. Em (c), os acontecimentos são distintos."
+    },
+    {
+      "id": "obra-dicas-imensidao-q5",
+      "enunciado": "O fato de os contos de 'Dicas da Imensidão' poderem ser lidos de forma independente, mas se iluminarem mutuamente quando lidos em conjunto, sugere sobretudo que",
+      "alternativas": {
+        "a": "a vida é conjunto de fragmentos que só se compõem na leitura",
+        "b": "a autora considerava os contos fracassados e os reuniu para compensar",
+        "c": "o livro deve ser lido na ordem inversa à publicada, do fim ao começo",
+        "d": "a memória da protagonista é sequência de fatos objetivos, sem lacuna",
+        "e": "cada conto anula o anterior, de modo que só o último vale como versão"
+      },
+      "resposta": "a",
+      "explicacao": "A forma imita a memória: episódios que se sustentam sozinhos e que, postos lado a lado, revelam um desenho que nenhum deles continha isoladamente — o sentido é produzido por quem lê. Em (e) está o distrator mais engenhoso, porque também trata da relação entre os contos; anular-se mutuamente, porém, é o oposto de iluminar-se, e destruiria o efeito descrito no enunciado. Em (c), não há ordem inversa prescrita. Em (d), a memória do livro é lacunar. Em (b), a reunião é projeto, não remendo."
+    }
+  ]
+}

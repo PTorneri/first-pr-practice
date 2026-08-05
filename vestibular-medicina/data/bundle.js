@@ -2275,6 +2275,461 @@ window.QUESTION_BANKS = {
                          "formato":  "direta"
                      }
                  ],
+    "fisica":  [
+                   {
+                       "id":  "fisica-01",
+                       "textoId":  "med-fis-t1",
+                       "enunciado":  "Segundo o texto, a formação da imagem no exame de raio X depende principalmente:",
+                       "alternativas":  {
+                                            "a":  "da absorção diferencial dos fótons conforme a densidade e o número atômico do tecido",
+                                            "b":  "do tempo que cada pulso leva para retornar ao detector, o que informa a profundidade da estrutura atravessada pela radiação emitida",
+                                            "c":  "do comportamento dos núcleos de hidrogênio submetidos a um campo magnético intenso, propriedade que varia entre os diferentes tecidos moles",
+                                            "d":  "da reflexão dos fótons nas interfaces entre tecidos de impedâncias acústicas diferentes ao longo do trajeto percorrido pela radiação",
+                                            "e":  "da emissão espontânea de radiação pelos tecidos aquecidos durante o exame, cuja intensidade é registrada pelo detector posicionado ao lado"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O texto é explícito: os fótons são atenuados conforme densidade e número atômico, e o contraste entre osso e tecido mole vem daí. O tempo de eco descrito em (b) e a impedância de (d) são do ultrassom; o comportamento dos núcleos de hidrogênio, de (c), é da ressonância.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-02",
+                       "textoId":  "med-fis-t1",
+                       "enunciado":  "Um eco de ultrassom retorna ao transdutor 26 microssegundos após a emissão do pulso. Considerando a velocidade do som nos tecidos moles informada no texto, a profundidade da interface refletora é de, aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "4,0 cm",
+                                            "b":  "2,0 cm",
+                                            "c":  "8,0 cm",
+                                            "d":  "40 cm",
+                                            "e":  "1,0 cm"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A distância percorrida pelo pulso é v x t = 1.540 x 26 x 10⁻⁶ ≈ 0,040 m, ou 4,0 cm. Mas esse é o caminho de ida e volta: a profundidade é a metade, cerca de 2,0 cm. Esquecer que o eco percorre o trajeto duas vezes leva ao valor de (a), que é a distratora principal.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-03",
+                       "texto_apoio":  "Um vaso de 0,50 kg cai em queda livre da sacada de um edifício e passa pela janela de um andar inferior com velocidade de 8,0 m/s. Adote g = 10 m/s² e despreze a resistência do ar.",
+                       "enunciado":  "A altura de queda percorrida até esse ponto é de:",
+                       "alternativas":  {
+                                            "a":  "0,80 m",
+                                            "b":  "1,6 m",
+                                            "c":  "3,2 m",
+                                            "d":  "6,4 m",
+                                            "e":  "8,0 m"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela equação de Torricelli, v² = 2gh, então h = v² ÷ (2g) = 64 ÷ 20 = 3,2 m. A massa do vaso é informação irrelevante em queda livre: todos os corpos caem com a mesma aceleração quando se despreza a resistência do ar.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-04",
+                       "textoId":  "med-fis-t2",
+                       "enunciado":  "De acordo com o texto, o cinto de segurança protege o ocupante porque:",
+                       "alternativas":  {
+                                            "a":  "reduz a energia cinética que o corpo possuía no instante imediatamente anterior ao início da colisão contra o obstáculo encontrado",
+                                            "b":  "aumenta o intervalo de tempo da desaceleração, o que reduz a força média sobre o corpo",
+                                            "c":  "impede completamente a variação da quantidade de movimento do ocupante, mantendo-o em repouso em relação ao referencial da via",
+                                            "d":  "distribui a energia da colisão entre os demais ocupantes do veículo, reduzindo a parcela que atinge cada um deles individualmente",
+                                            "e":  "converte a energia mecânica do impacto em energia elétrica, dissipada pelo sistema de acionamento dos dispositivos de segurança do carro"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O texto deixa claro que a variação da quantidade de movimento é a mesma com ou sem cinto — o que muda é o tempo em que ela ocorre. Como a força média é essa variação dividida pelo intervalo, prolongar o tempo reduz a força. A alternativa (c) contraria o texto: o corpo para, e portanto sua quantidade de movimento varia.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-05",
+                       "texto_apoio":  "Um bloco de 4,0 kg é puxado sobre uma superfície horizontal por uma força de 20 N paralela ao deslocamento. O coeficiente de atrito cinético entre o bloco e a superfície é 0,25. Adote g = 10 m/s².",
+                       "enunciado":  "A aceleração adquirida pelo bloco é de:",
+                       "alternativas":  {
+                                            "a":  "2,5 m/s²",
+                                            "b":  "5,0 m/s²",
+                                            "c":  "1,25 m/s²",
+                                            "d":  "7,5 m/s²",
+                                            "e":  "10 m/s²"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A força de atrito é o coeficiente vezes a normal: 0,25 x 4,0 x 10 = 10 N. A resultante é 20 − 10 = 10 N, e a aceleração é 10 ÷ 4,0 = 2,5 m/s². A alternativa (b) resulta de esquecer o atrito e usar apenas a força aplicada.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-06",
+                       "texto_apoio":  "Uma pessoa de 60 kg está em pé sobre uma balança dentro de um elevador. O elevador sobe com aceleração constante de 2,0 m/s². Adote g = 10 m/s².",
+                       "enunciado":  "A leitura da balança, em newtons, e a explicação para o valor observado são:",
+                       "alternativas":  {
+                                            "a":  "600 N, porque a balança sempre registra o peso real do corpo, independentemente do movimento do elevador em que ele se encontra",
+                                            "b":  "720 N, porque a normal precisa superar o peso para produzir a aceleração para cima",
+                                            "c":  "480 N, porque a aceleração do elevador se subtrai da aceleração da gravidade e reduz a força que a balança exerce sobre a pessoa",
+                                            "d":  "120 N, valor que corresponde ao produto entre a massa da pessoa e a aceleração do elevador durante a subida realizada pelo equipamento",
+                                            "e":  "1.200 N, porque as duas acelerações se somam e cada uma contribui integralmente para a força registrada pelo instrumento de medição"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A balança mede a normal. Aplicando a segunda lei na vertical: N − P = ma, logo N = m(g + a) = 60 x 12 = 720 N. A alternativa (c) descreveria a descida acelerada, e (a) ignora que a normal só iguala o peso quando a aceleração vertical é nula.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-07",
+                       "texto_apoio":  "Uma pequena esfera presa a um fio de comprimento 0,50 m descreve um movimento circular uniforme no plano horizontal, completando 2 voltas por segundo.",
+                       "enunciado":  "A frequência do movimento é ______, o período é ______ e a velocidade escalar da esfera é aproximadamente ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "2 Hz – 0,5 s – 6,3 m/s",
+                                            "b":  "0,5 Hz – 2 s – 1,6 m/s",
+                                            "c":  "2 Hz – 0,5 s – 1,6 m/s",
+                                            "d":  "4 Hz – 0,25 s – 12,6 m/s",
+                                            "e":  "2 Hz – 2 s – 3,1 m/s"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Duas voltas por segundo correspondem a 2 Hz, e o período é o inverso: 0,5 s. Em cada volta a esfera percorre o comprimento da circunferência, 2πR ≈ 3,14 m; em 0,5 s isso dá cerca de 6,3 m/s. A alternativa (c) usa o raio em vez do comprimento da circunferência.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "fisica-08",
+                       "texto_apoio":  "Um carrinho de 2,0 kg move-se a 3,0 m/s e colide frontalmente com outro de 4,0 kg inicialmente em repouso. Após a colisão, os dois seguem juntos, grudados, ao longo da mesma direção.",
+                       "enunciado":  "A velocidade do conjunto após a colisão é de:",
+                       "alternativas":  {
+                                            "a":  "1,0 m/s",
+                                            "b":  "1,5 m/s",
+                                            "c":  "2,0 m/s",
+                                            "d":  "3,0 m/s",
+                                            "e":  "0,5 m/s"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A quantidade de movimento se conserva: 2,0 x 3,0 + 4,0 x 0 = (2,0 + 4,0) x v, logo v = 6,0 ÷ 6,0 = 1,0 m/s. A energia cinética, ao contrário, não se conserva numa colisão perfeitamente inelástica — parte dela se converte em deformação e calor.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-09",
+                       "texto_apoio":  "Um objeto de 200 g é colocado sobre a superfície de um líquido de densidade 0,80 g/cm³ e flutua com 60% de seu volume submerso.",
+                       "enunciado":  "A densidade do objeto é de:",
+                       "alternativas":  {
+                                            "a":  "0,48 g/cm³",
+                                            "b":  "0,60 g/cm³",
+                                            "c":  "0,80 g/cm³",
+                                            "d":  "1,33 g/cm³",
+                                            "e":  "1,00 g/cm³"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "No equilíbrio de flutuação, o empuxo iguala o peso: a densidade do corpo é o produto entre a densidade do líquido e a fração submersa. Assim, 0,80 x 0,60 = 0,48 g/cm³. A massa de 200 g é informação adicional que não altera a razão entre as densidades.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-10",
+                       "texto_apoio":  "Uma prensa hidráulica tem êmbolos de áreas 20 cm² e 500 cm². Uma força de 40 N é aplicada sobre o êmbolo menor.",
+                       "enunciado":  "A força transmitida ao êmbolo maior é de:",
+                       "alternativas":  {
+                                            "a":  "1.000 N",
+                                            "b":  "1,6 N",
+                                            "c":  "40 N",
+                                            "d":  "500 N",
+                                            "e":  "25 N"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Pelo princípio de Pascal, a pressão se transmite integralmente: F₁/A₁ = F₂/A₂. Assim F₂ = 40 x (500 ÷ 20) = 1.000 N. A força é multiplicada por 25, mas o deslocamento do êmbolo maior é 25 vezes menor — o trabalho se conserva, e a prensa não cria energia.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-11",
+                       "texto_apoio":  "Uma barra metálica de 2,0 m de comprimento a 20 °C é aquecida até 120 °C. O coeficiente de dilatação linear do material é 2,0 × 10⁻⁵ °C⁻¹.",
+                       "enunciado":  "A variação no comprimento da barra é de:",
+                       "alternativas":  {
+                                            "a":  "0,04 mm",
+                                            "b":  "0,40 mm",
+                                            "c":  "40 mm",
+                                            "d":  "4,0 cm",
+                                            "e":  "4,0 mm"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "ΔL = L₀ x α x ΔT = 2,0 x 2,0 x 10⁻⁵ x 100 = 4,0 x 10⁻³ m, ou 4,0 mm. A alternativa (c) resulta de usar a temperatura final em vez da variação, e (b), de errar uma casa decimal na conversão de unidades.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-12",
+                       "texto_apoio":  "Um bloco de gelo de 100 g a 0 °C recebe calor até se fundir completamente, permanecendo a 0 °C. O calor latente de fusão do gelo é 80 cal/g.",
+                       "enunciado":  "A quantidade de calor absorvida e a razão de a temperatura não variar durante o processo são:",
+                       "alternativas":  {
+                                            "a":  "16.000 cal, e a constância da temperatura decorre da compensação exata entre o calor recebido e o calor perdido para o ambiente circundante",
+                                            "b":  "800 cal, e a temperatura permanece constante porque a massa de gelo é pequena demais para registrar variação nos instrumentos usuais de medição",
+                                            "c":  "8.000 cal, e a temperatura só voltaria a subir se a pressão sobre a amostra fosse simultaneamente reduzida durante a fusão do material",
+                                            "d":  "80 cal, e a energia fornecida se distribui igualmente entre a elevação da temperatura e a alteração do estado físico da amostra considerada",
+                                            "e":  "8.000 cal, e a energia é usada para romper as ligações entre as moléculas na mudança de estado"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Q = m x L = 100 x 80 = 8.000 cal. Durante a mudança de estado toda a energia é usada para vencer as interações que mantêm a estrutura do sólido, e não para aumentar a energia cinética média das partículas — que é o que a temperatura mede.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-13",
+                       "texto_apoio":  "Um espelho esférico côncavo tem raio de curvatura de 40 cm. Um objeto é colocado a 30 cm do vértice do espelho, sobre o eixo principal.",
+                       "enunciado":  "A distância focal do espelho e a natureza da imagem formada são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "10 cm, e a imagem é virtual e invertida, combinação característica dos espelhos côncavos quando o objeto se encontra além do centro",
+                                            "b":  "40 cm, e a imagem é virtual e direita, uma vez que o objeto se encontra situado entre o foco e o vértice do espelho côncavo considerado",
+                                            "c":  "20 cm, e a imagem é virtual e direita, o que ocorre sempre que o objeto é colocado a uma distância menor que o raio de curvatura",
+                                            "d":  "80 cm, e a imagem é real e direita, situação em que a ampliação obtida supera a unidade em razão da posição escolhida para o objeto",
+                                            "e":  "20 cm, e a imagem é real e invertida"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A distância focal é metade do raio: 20 cm. Com o objeto a 30 cm, ele está entre o foco e o centro de curvatura, e a imagem é real, invertida e maior. Imagem virtual em espelho côncavo só ocorre com o objeto entre o foco e o vértice, situação diferente da descrita.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-14",
+                       "texto_apoio":  "Um raio de luz monocromática propaga-se no ar e incide sobre a superfície da água com ângulo de incidência de 45°. O índice de refração do ar é 1,0 e o da água, 1,33.",
+                       "enunciado":  "Ao penetrar na água, o raio:",
+                       "alternativas":  {
+                                            "a":  "sofre reflexão total, condição esperada sempre que a luz atravessa a fronteira entre dois meios de índices de refração diferentes entre si",
+                                            "b":  "afasta-se da normal e tem sua velocidade de propagação aumentada, uma vez que o meio de destino apresenta índice de refração mais elevado",
+                                            "c":  "aproxima-se da normal e mantém a mesma velocidade, já que a frequência da onda não se altera ao passar de um meio para o outro",
+                                            "d":  "afasta-se da normal e mantém a mesma velocidade, pois a mudança de direção não implica alteração no módulo da velocidade de propagação",
+                                            "e":  "aproxima-se da normal e tem sua velocidade de propagação reduzida"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Ao passar para um meio mais refringente, a luz se aproxima da normal e desacelera — as duas coisas estão ligadas, já que o índice de refração é a razão entre a velocidade no vácuo e no meio. A frequência de fato não muda, mas o comprimento de onda sim, e por isso a velocidade se altera.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-15",
+                       "texto_apoio":  "Uma pessoa com dificuldade para enxergar objetos próximos recebe a prescrição de lentes convergentes. Outra, com dificuldade para enxergar objetos distantes, recebe lentes divergentes.",
+                       "enunciado":  "As duas condições descritas são, respectivamente, ______ e ______, e a primeira decorre de a imagem se formar ______ da retina. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "miopia – hipermetropia – antes",
+                                            "b":  "hipermetropia – miopia – depois",
+                                            "c":  "astigmatismo – presbiopia – sobre a superfície anterior",
+                                            "d":  "hipermetropia – astigmatismo – antes",
+                                            "e":  "presbiopia – miopia – exatamente no centro"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Dificuldade com objetos próximos e correção convergente caracterizam hipermetropia, em que o sistema óptico é pouco convergente e a imagem se formaria depois da retina. Dificuldade com objetos distantes e correção divergente caracterizam miopia, em que a imagem se forma antes da retina.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "fisica-16",
+                       "texto_apoio":  "Uma onda sonora propaga-se no ar com frequência de 680 Hz. A velocidade do som no ar, nas condições do experimento, é de 340 m/s.",
+                       "enunciado":  "O comprimento de onda dessa onda sonora é de:",
+                       "alternativas":  {
+                                            "a":  "2,0 cm",
+                                            "b":  "2,0 m",
+                                            "c":  "0,20 m",
+                                            "d":  "5,0 m",
+                                            "e":  "0,50 m"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A equação fundamental da ondulatória dá λ = v ÷ f = 340 ÷ 680 = 0,50 m. A alternativa (b) inverte a razão, calculando frequência sobre velocidade — erro de ordem de grandeza que a questão testa com um par de números redondos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-17",
+                       "texto_apoio":  "Uma ambulância com sirene ligada aproxima-se de um observador parado na calçada e depois se afasta dele, mantendo velocidade constante durante todo o trajeto.",
+                       "enunciado":  "O observador percebe que o som da sirene:",
+                       "alternativas":  {
+                                            "a":  "muda de frequência apenas quando a ambulância está parada, situação em que as ondas emitidas alcançam o observador simultaneamente",
+                                            "b":  "tem frequência mais baixa na aproximação e mais alta no afastamento, porque as ondas se comprimem atrás da fonte em movimento pela via",
+                                            "c":  "mantém a mesma frequência durante todo o percurso, variando apenas em intensidade conforme a distância entre a fonte e o observador",
+                                            "d":  "aumenta de frequência continuamente ao longo de todo o trajeto, sem apresentar qualquer alteração no momento da passagem pela calçada",
+                                            "e":  "tem frequência mais alta na aproximação e mais baixa no afastamento, embora a fonte emita sempre a mesma frequência"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "É o efeito Doppler. Aproximando-se, as frentes de onda chegam com intervalos menores e a frequência aparente sobe; afastando-se, ocorre o inverso. A frequência emitida pela fonte não muda em nenhum momento — o que muda é a percebida, e a alternativa (b) inverte os dois sentidos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-18",
+                       "texto_apoio":  "Duas cargas puntiformes de +2,0 μC e −3,0 μC estão separadas por 30 cm no vácuo. A constante eletrostática do vácuo vale 9,0 × 10⁹ N·m²/C².",
+                       "enunciado":  "A força entre as cargas tem módulo aproximado e natureza, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "0,20 N e repulsiva, condição esperada sempre que duas cargas de módulos diferentes são colocadas a uma distância fixa uma da outra",
+                                            "b":  "0,60 N e repulsiva, uma vez que o produto dos módulos das cargas é positivo em qualquer combinação de sinais adotada no problema",
+                                            "c":  "1,8 N e atrativa, valor que resulta da divisão do produto das cargas pela distância que separa os dois corpos eletrizados no vácuo",
+                                            "d":  "0,60 N e atrativa",
+                                            "e":  "6,0 N e atrativa, resultado obtido ao se considerar a distância entre as cargas expressa diretamente em centímetros no cálculo realizado"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela lei de Coulomb, F = 9,0 x 10⁹ x (2,0 x 10⁻⁶ x 3,0 x 10⁻⁶) ÷ (0,30)² = 0,60 N. Cargas de sinais opostos se atraem. O erro de (e) vem de não converter centímetros em metros, o que altera o resultado por um fator de dez mil.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-19",
+                       "texto_apoio":  "Três resistores de 6,0 Ω cada são associados em paralelo e ligados a uma fonte de tensão de 12 V com resistência interna desprezível.",
+                       "enunciado":  "A resistência equivalente da associação e a corrente total fornecida pela fonte são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "2,0 Ω e 24 A, corrente que corresponde ao dobro do valor obtido pela aplicação direta da primeira lei de Ohm ao circuito considerado",
+                                            "b":  "18 Ω e 0,67 A, valores que decorrem da soma direta das três resistências individuais empregadas na montagem do circuito descrito",
+                                            "c":  "6,0 Ω e 2,0 A, resultado que se obtém quando a associação em paralelo mantém inalterada a resistência de cada um dos componentes",
+                                            "d":  "2,0 Ω e 6,0 A",
+                                            "e":  "0,50 Ω e 24 A, condição em que a resistência equivalente corresponde ao inverso da soma das três resistências associadas em paralelo"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Em paralelo com resistores iguais, a equivalente é o valor de um dividido pelo número deles: 6,0 ÷ 3 = 2,0 Ω. A corrente total é U ÷ Req = 12 ÷ 2,0 = 6,0 A. A soma direta descrita em (b) valeria para associação em série, não em paralelo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-20",
+                       "texto_apoio":  "Um chuveiro elétrico tem potência de 5.500 W e opera em 220 V. A conta de energia é cobrada em quilowatt-hora.",
+                       "enunciado":  "A corrente que percorre o chuveiro e a energia consumida em 20 minutos de uso diário são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "50 A e 3,67 kWh, resultado que decorre da aplicação da potência em uma rede de tensão igual à metade do valor informado no enunciado",
+                                            "b":  "25 A e 110 kWh, valor que corresponde ao produto entre a potência do aparelho e o tempo total de uso expresso diretamente em minutos",
+                                            "c":  "12,5 A e 1,83 kWh, corrente obtida ao se dividir a potência do chuveiro pelo dobro da tensão da rede elétrica utilizada na instalação",
+                                            "d":  "25 A e 1,83 kWh",
+                                            "e":  "25 A e 0,092 kWh, energia calculada considerando o tempo de uso expresso em horas sem a conversão da potência para quilowatts"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A corrente é P ÷ U = 5.500 ÷ 220 = 25 A. Em 20 minutos, ou um terço de hora, a energia é 5,5 kW x (1/3) h ≈ 1,83 kWh. A alternativa (b) usa o tempo em minutos sem converter para horas, o que multiplica o resultado por sessenta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-21",
+                       "texto_apoio":  "Um ímã é aproximado rapidamente de uma espira condutora fechada, ligada a um galvanômetro. O ponteiro do instrumento se desloca enquanto o ímã se aproxima e volta ao zero quando o ímã fica parado junto à espira.",
+                       "enunciado":  "O fenômeno observado é a indução eletromagnética, e a corrente aparece apenas durante o movimento porque:",
+                       "alternativas":  {
+                                            "a":  "o atrito entre o ímã e o ar produz a energia que alimenta a corrente registrada pelo galvanômetro durante a etapa de aproximação do ímã",
+                                            "b":  "o campo magnético do ímã só existe enquanto ele se encontra em movimento em relação ao condutor utilizado na montagem experimental descrita",
+                                            "c":  "a espira precisa estar em movimento para que seus elétrons livres adquiram a energia necessária para percorrer o circuito ligado ao instrumento",
+                                            "d":  "o que gera força eletromotriz é a variação do fluxo magnético através da espira, e não o fluxo em si",
+                                            "e":  "o galvanômetro só registra correntes alternadas, e o campo estático produzido pelo ímã parado gera uma corrente contínua não detectável por ele"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A lei de Faraday relaciona a força eletromotriz induzida à taxa de variação do fluxo magnético. Com o ímã parado, o fluxo é grande mas constante, e a variação é nula — por isso não há corrente. O campo do ímã existe independentemente do movimento, o que descarta (b).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-22",
+                       "texto_apoio":  "Um gás ideal sofre uma transformação isotérmica em que seu volume é reduzido à metade. O sistema troca calor com o ambiente durante o processo.",
+                       "enunciado":  "Nessa transformação, a variação da energia interna do gás e o sinal do calor trocado são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "nula, e o gás recebe calor do ambiente, já que o trabalho realizado sobre ele precisa ser compensado por um fluxo de energia térmica",
+                                            "b":  "positiva, e o gás recebe calor do ambiente, uma vez que a compressão eleva a temperatura do sistema e exige aporte adicional de energia",
+                                            "c":  "negativa, e o gás cede calor ao ambiente, condição decorrente da redução simultânea do volume e da temperatura do gás considerado",
+                                            "d":  "nula, e o gás cede calor ao ambiente",
+                                            "e":  "positiva, e não há troca de calor, situação em que toda a energia do trabalho realizado permanece armazenada no interior do sistema"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Num gás ideal a energia interna depende só da temperatura; sendo isotérmica, a variação é nula. Pela primeira lei, o calor iguala o trabalho realizado pelo gás. Como o gás é comprimido, o trabalho realizado por ele é negativo, e o calor também: o gás cede energia ao ambiente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-23",
+                       "texto_apoio":  "Uma máquina térmica opera entre uma fonte quente a 600 K e uma fonte fria a 300 K. Um engenheiro afirma que conseguiu construir uma máquina com rendimento de 60% operando entre essas mesmas temperaturas.",
+                       "enunciado":  "A afirmação do engenheiro é:",
+                       "alternativas":  {
+                                            "a":  "impossível, porque nenhuma máquina térmica consegue ultrapassar o rendimento de 40% em qualquer condição de operação já registrada",
+                                            "b":  "possível, desde que a máquina utilize um fluido de trabalho com calor específico elevado e opere em ciclos de duração bastante curta",
+                                            "c":  "possível, uma vez que o rendimento de uma máquina térmica depende exclusivamente da qualidade construtiva dos componentes empregados",
+                                            "d":  "impossível, porque o rendimento máximo teórico entre essas temperaturas é de 50%",
+                                            "e":  "possível apenas se a máquina operar em ciclo reversível, condição em que o rendimento pode superar o limite previsto para o ciclo de Carnot"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O rendimento máximo é o do ciclo de Carnot: 1 − (T fria ÷ T quente) = 1 − (300 ÷ 600) = 0,50, ou 50%. Nenhuma máquina real supera esse limite, que decorre da segunda lei da termodinâmica. A alternativa (e) inverte o papel do ciclo reversível, que estabelece o teto e não o ultrapassa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-24",
+                       "texto_apoio":  "Uma pessoa em pé projeta sobre o solo uma força correspondente ao seu peso. A área de contato dos dois pés é de 300 cm². A mesma pessoa, calçando esquis com área total de 6.000 cm², caminha sobre a neve sem afundar.",
+                       "enunciado":  "A grandeza física que explica a diferença de comportamento nas duas situações é:",
+                       "alternativas":  {
+                                            "a":  "a força de atrito entre os pés e a superfície, cuja intensidade cresce com o aumento da área de contato entre os corpos considerados",
+                                            "b":  "o peso da pessoa, que se reduz proporcionalmente ao aumento da área de apoio proporcionada pelos esquis utilizados sobre a superfície nevada",
+                                            "c":  "a pressão, que é a razão entre a força aplicada e a área de contato",
+                                            "d":  "o empuxo exercido pela neve sobre a pessoa, que aumenta quando a área da superfície de apoio se torna maior durante o deslocamento",
+                                            "e":  "a energia potencial gravitacional acumulada pelo corpo, que se distribui por uma superfície mais ampla no caso do deslocamento com esquis"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O peso não muda com os esquis — o que muda é a área sobre a qual ele se distribui, e portanto a pressão. Com vinte vezes mais área, a pressão cai a um vigésimo, e a neve suporta. A força de atrito, aliás, não depende da área de contato, o que descarta (a).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-25",
+                       "texto_apoio":  "Uma corda de violão de 60 cm de comprimento vibra em seu modo fundamental, produzindo uma onda estacionária com um ventre no centro e nós nas duas extremidades fixas.",
+                       "enunciado":  "No modo fundamental, o comprimento de onda da onda estacionária corresponde a ______ do comprimento da corda, e ao encurtar a corda com o dedo a frequência emitida ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "o dobro – diminui",
+                                            "b":  "a metade – diminui",
+                                            "c":  "o dobro – aumenta",
+                                            "d":  "o quádruplo – aumenta",
+                                            "e":  "a quarta parte – permanece a mesma, uma vez que a frequência de uma corda depende apenas de sua tensão e de sua densidade linear"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "fisica-26",
+                       "texto_apoio":  "Um projétil é lançado obliquamente do solo com velocidade inicial de 50 m/s, formando ângulo de 30° com a horizontal. Adote g = 10 m/s², sen 30° = 0,50 e cos 30° = 0,87, e despreze a resistência do ar.",
+                       "enunciado":  "A altura máxima atingida pelo projétil é de, aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "94 m",
+                                            "b":  "125 m",
+                                            "c":  "31 m",
+                                            "d":  "62 m",
+                                            "e":  "16 m"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A componente vertical da velocidade inicial é 50 x 0,50 = 25 m/s. No ponto mais alto ela se anula, e por Torricelli h = v² ÷ (2g) = 625 ÷ 20 ≈ 31 m. A alternativa (b) usaria a velocidade total sem decompô-la, erro que a escolha do ângulo torna fácil de cometer.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-27",
+                       "texto_apoio":  "Uma esfera de 0,20 kg é abandonada do repouso de uma altura de 5,0 m e atinge o solo. Adote g = 10 m/s² e despreze a resistência do ar.",
+                       "enunciado":  "A energia cinética da esfera no instante em que atinge o solo é de:",
+                       "alternativas":  {
+                                            "a":  "100 J",
+                                            "b":  "1,0 J",
+                                            "c":  "10 J",
+                                            "d":  "50 J",
+                                            "e":  "2,0 J"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Sem resistência do ar, toda a energia potencial se converte em cinética: E = m x g x h = 0,20 x 10 x 5,0 = 10 J. A alternativa (d) ignora a massa e usa apenas o produto de g pela altura, e (a) multiplica por dez a mais.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-28",
+                       "texto_apoio":  "Um circuito é montado com uma lâmpada, uma bateria e uma chave. Quando a chave é fechada, a lâmpada acende. Um estudante propõe ligar uma segunda lâmpada idêntica em série com a primeira, mantendo a mesma bateria.",
+                       "enunciado":  "Com a segunda lâmpada em série, espera-se que o brilho de cada uma:",
+                       "alternativas":  {
+                                            "a":  "permaneça igual, já que cada lâmpada continua submetida à mesma diferença de potencial fornecida pelos terminais da bateria utilizada",
+                                            "b":  "aumente, uma vez que a associação em série soma as potências individuais das duas lâmpadas ligadas ao mesmo circuito elétrico alimentado",
+                                            "c":  "diminua, porque a resistência total aumenta e a corrente no circuito cai",
+                                            "d":  "diminua apenas na segunda lâmpada, que recebe a corrente já parcialmente consumida pela primeira ao longo do trajeto do circuito montado",
+                                            "e":  "aumente na primeira e diminua na segunda, em razão da ordem em que cada componente é atravessado pela corrente elétrica fornecida"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Em série as resistências se somam, a corrente cai e a potência dissipada em cada lâmpada diminui. A corrente é a mesma em todos os pontos de um circuito em série, o que descarta (d) e (e) — não existe corrente sendo consumida ao longo do caminho.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-29",
+                       "texto_apoio":  "Segundo o modelo proposto por Einstein em 1905, a luz é composta por fótons cuja energia é proporcional à frequência da radiação. No efeito fotoelétrico, elétrons só são ejetados de uma placa metálica quando a frequência da luz incidente supera um valor mínimo, independentemente da intensidade do feixe.",
+                       "enunciado":  "A existência dessa frequência mínima é incompatível com o modelo ondulatório clássico porque, segundo ele:",
+                       "alternativas":  {
+                                            "a":  "a energia da onda dependeria apenas de sua frequência, e não da amplitude do feixe luminoso incidente sobre a superfície do material metálico",
+                                            "b":  "bastaria aumentar a intensidade do feixe para fornecer energia suficiente a qualquer frequência",
+                                            "c":  "elétrons não poderiam ser ejetados de um metal em nenhuma circunstância, já que permanecem ligados aos átomos que compõem a rede cristalina",
+                                            "d":  "a emissão de elétrons ocorreria apenas após um intervalo prolongado de exposição, tempo necessário para o acúmulo gradual da energia recebida",
+                                            "e":  "a frequência da luz não teria qualquer influência sobre o processo, sendo determinante apenas a distância entre a fonte luminosa e a placa"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "No modelo clássico a energia de uma onda depende da amplitude, ou seja, da intensidade. Um feixe intenso o bastante deveria arrancar elétrons em qualquer frequência, o que não se observa. A explicação de Einstein é que cada fóton entrega sua energia individualmente, e ela depende da frequência.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-30",
+                       "texto_apoio":  "Um exame de audiometria mede o limiar auditivo de um paciente em várias frequências. O nível de intensidade sonora é expresso em decibéis, numa escala logarítmica em que cada 10 dB correspondem a um fator de dez na intensidade da onda.",
+                       "enunciado":  "Um som de 80 dB tem intensidade quantas vezes maior que um de 50 dB?",
+                       "alternativas":  {
+                                            "a":  "30 vezes",
+                                            "b":  "1.000 vezes",
+                                            "c":  "100 vezes",
+                                            "d":  "1,6 vez",
+                                            "e":  "10.000 vezes"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A diferença é de 30 dB, ou três fatores de dez: 10³ = 1.000 vezes. A alternativa (a) toma a diferença em decibéis como se fosse a razão de intensidades, confundindo escala logarítmica com escala linear — o erro mais comum nesse tipo de item.",
+                       "formato":  "direta"
+                   }
+               ],
     "quimica":  [
                     {
                         "id":  "quimica-01",
@@ -4567,6 +5022,16 @@ window.QUESTION_TEXTS = {
                        "id":  "med-bio-t4",
                        "fonte":  "Texto original em genero de reportagem cientifica sobre edicao genetica, no registro de fonte recente usado pelas bancas",
                        "conteudo":  "A anemia falciforme é causada por uma única troca de base no gene da hemoglobina. Um adenina vira timina, o glutamato da posição seis vira valina, e a proteína resultante polimeriza quando desoxigenada, deformando a hemácia. A doença é conhecida em detalhe molecular há mais de setenta anos, e por décadas isso não mudou nada para quem a tinha.\n\nO que mudou foi a chegada de ferramentas capazes de editar o genoma em um ponto escolhido. O sistema mais usado deriva de um mecanismo de defesa de bactérias contra vírus: uma molécula de RNA guia uma enzima até uma sequência específica do DNA, e a enzima corta ali. A célula então repara o corte, e é durante esse reparo que a alteração desejada pode ser introduzida.\n\nA primeira terapia aprovada para anemia falciforme não corrige, porém, a mutação original. Ela desliga um gene diferente — o que reprime a produção de hemoglobina fetal depois do nascimento. Sem esse freio, o paciente volta a produzir a forma fetal da proteína, que não polimeriza e compensa a hemoglobina defeituosa. É uma solução oblíqua, e funciona.\n\nHá um limite importante. A edição é feita em células retiradas do próprio paciente e depois devolvidas, o que altera apenas as células daquele indivíduo. Nada do que se faz ali é transmitido à descendência, porque as células modificadas não são as germinativas. A distinção entre editar células somáticas e editar a linhagem germinativa é a fronteira central do debate ético sobre a técnica."
+                   },
+    "med-fis-t1":  {
+                       "id":  "med-fis-t1",
+                       "fonte":  "Texto original em genero de divulgacao cientifica sobre fisica aplicada a medicina",
+                       "conteudo":  "Toda técnica de imagem médica resolve o mesmo problema: enxergar dentro do corpo sem abri-lo. O que muda é a onda usada e a propriedade do tecido que ela consegue distinguir.\n\nO raio X funciona por absorção diferencial. Fótons de alta energia atravessam o corpo e são atenuados conforme a densidade e o número atômico do que encontram pelo caminho. Osso, rico em cálcio, absorve muito mais que tecido mole, e é essa diferença que aparece na imagem. Por serem radiação ionizante, esses fótons carregam energia suficiente para arrancar elétrons de átomos — daí a preocupação com a dose acumulada.\n\nO ultrassom não usa radiação nenhuma. Um transdutor emite pulsos de onda mecânica de frequência acima de 20 mil hertz e escuta os ecos que voltam de cada interface entre tecidos de impedâncias diferentes. O tempo até o eco chegar informa a profundidade, porque a velocidade do som nos tecidos moles é razoavelmente constante, em torno de 1.540 metros por segundo. Como a onda é mecânica, ela não ioniza nada, e é por isso que a técnica é a de escolha na gestação.\n\nA ressonância magnética explora outra propriedade: o comportamento dos núcleos de hidrogênio sob campo magnético intenso. Ela distingue muito bem tecidos moles entre si, justamente onde o raio X é pobre, e também não usa radiação ionizante. O custo é o tempo de exame e a impossibilidade de uso em pacientes com certos implantes metálicos."
+                   },
+    "med-fis-t2":  {
+                       "id":  "med-fis-t2",
+                       "fonte":  "Texto original em genero de reportagem sobre seguranca veicular",
+                       "conteudo":  "O cinto de segurança e o airbag não reduzem a energia de uma colisão. Eles fazem outra coisa, e entender qual é a diferença entre sobreviver e não sobreviver.\n\nNuma batida, o veículo para em uma fração de segundo. O passageiro, por inércia, continua com a velocidade que tinha. A questão passa a ser em quanto tempo essa velocidade vai a zero, porque a força média que atua sobre o corpo é a variação da quantidade de movimento dividida pelo intervalo em que ela ocorre. A variação é a mesma com ou sem cinto — o que muda é o denominador.\n\nSem cinto, o corpo para ao atingir o para-brisa ou a coluna de direção, num intervalo de poucos milissegundos. Com cinto, a faixa se estica um pouco e a estrutura do carro se deforma de forma programada, e a parada leva algo em torno de dez vezes mais tempo. A força média cai na mesma proporção. O airbag acrescenta uma etapa: aumenta a área de contato, o que reduz a pressão sobre o tórax, e prolonga um pouco mais o tempo de desaceleração ao esvaziar de forma controlada.\n\nÉ também por isso que as zonas de deformação programada da carroceria são uma virtude, e não um defeito de projeto. Um carro rígido demais transfere a desaceleração inteira aos ocupantes. Um carro que amassa de forma controlada gasta tempo e energia amassando, e esse tempo é exatamente o que protege quem está dentro."
                    },
     "med-qui-t1":  {
                        "id":  "med-qui-t1",

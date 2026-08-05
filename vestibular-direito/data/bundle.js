@@ -5728,17 +5728,17 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-16",
                                      "texto_apoio":  "Um editorial publicado por um jornal de grande circulação afirmou que \"o excesso de rigidez da legislação trabalhista brasileira é o principal entrave à geração de empregos formais no país\", defendendo a ampliação da prevalência do negociado sobre o legislado e a flexibilização das formas de contratação — posição contestada por entidades sindicais, para as quais o diagnóstico do editorial simplifica um problema multicausal.",
+                                     "formato":  "direta",
                                      "enunciado":  "O editorial expressa uma opinião sobre a causa do desemprego; o argumento factual normalmente usado para sustentar essa posição, distinto da conclusão em si, é o de que a flexibilização tende a:",
                                      "alternativas":  {
-                                                          "a":  "resolver, isoladamente, a totalidade das causas do desemprego no país, tornando desnecessárias políticas de qualificação",
-                                                          "b":  "eliminar a necessidade de qualificação profissional dos trabalhadores desempregados",
-                                                          "c":  "eliminar a necessidade de qualquer legislação trabalhista, extinguindo a CLT e os direitos nela previstos, inclusive normas de segurança ocupacional",
-                                                          "d":  "ser uma posição unânime entre economistas e entidades sindicais, sem qualquer contestação de centrais sindicais",
-                                                          "e":  "favorecer a geração de empregos e a adaptação das empresas a diferentes contextos econômicos, ao reduzir custos de contratação e demissão"
+                                                          "a":  "resolver isoladamente todas as causas do desemprego no país",
+                                                          "b":  "eliminar a necessidade de qualificação profissional do desempregado",
+                                                          "c":  "eliminar a legislação trabalhista, extinguindo a CLT e os direitos nela previstos",
+                                                          "d":  "ser posição unânime entre economistas e entidades sindicais",
+                                                          "e":  "favorecer a geração de emprego ao reduzir o custo de contratar e demitir"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O editorial expressa uma opinião — de que a rigidez trabalhista seria o principal entrave ao emprego —, mas o argumento típico usado para sustentar a posição favorável à flexibilização é o de que regras mais adaptáveis reduzem custos de contratação e demissão, estimulando a criação de empregos formais, sem que isso implique consenso sobre a causa única do desemprego, tema sobre o qual há divergência, inclusive sindical.",
-                                     "formato":  "direta"
+                                     "explicacao":  "A questão pede a premissa, não a tese: quem defende a flexibilização apoia-se na afirmação de que contratar e demitir mais barato aumenta a disposição da empresa a contratar — proposição sobre o mundo, verificável, distinta da conclusão de que essa é a causa principal do desemprego. Em (a) está exatamente a conclusão repetida em forma ampliada, e confundi-la com a premissa é o erro que a questão testa. Em (d), a unanimidade é desmentida pelo próprio enunciado, que registra a contestação sindical. Em (b) e (c), nenhum defensor da posição sustenta dispensar qualificação ou extinguir a CLT."
                                  },
                                  {
                                      "id":  "atualidades-politica-17",
@@ -5773,17 +5773,17 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-19",
                                      "texto_apoio":  "Uma parcela significativa da receita de estados e, sobretudo, de municípios brasileiros não provém de tributos arrecadados diretamente por esses entes, mas de repasses constitucionais calculados a partir da arrecadação de tributos federais, como o Fundo de Participação dos Estados (FPE) e o Fundo de Participação dos Municípios (FPM).",
+                                     "formato":  "direta",
                                      "enunciado":  "Essa forte dependência de muitos entes subnacionais em relação a transferências constitucionais da União é um traço do federalismo fiscal brasileiro que evidencia, sobretudo:",
                                      "alternativas":  {
-                                                          "a":  "a vedação constitucional a que estados e municípios instituam tributos próprios",
-                                                          "b":  "a plena autonomia financeira de todos os municípios brasileiros, que dispensam qualquer repasse da União, mesmo os de pequeno porte econômico",
-                                                          "c":  "a inexistência de qualquer competência tributária própria dos municípios, que dependeriam integralmente de repasses da União",
-                                                          "d":  "um desequilíbrio entre a capacidade de arrecadação própria e as responsabilidades de gasto atribuídas a estados e municípios",
-                                                          "e":  "a concentração de toda a arrecadação tributária nacional exclusivamente nos municípios, dispensando repasses aos estados"
+                                                          "a":  "a vedação a que estados e municípios instituam tributos próprios",
+                                                          "b":  "a plena autonomia financeira dos municípios, que dispensariam repasse",
+                                                          "c":  "a inexistência de competência tributária própria dos municípios",
+                                                          "d":  "o desequilíbrio entre arrecadação própria e responsabilidade de gasto",
+                                                          "e":  "a concentração da arrecadação nacional nos municípios, sem repasse aos estados"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O federalismo fiscal brasileiro é marcado por um desequilíbrio vertical entre a arrecadação tributária, concentrada principalmente na União, e as responsabilidades de prestação de serviços públicos, atribuídas também a estados e sobretudo a municípios, o que torna estes últimos fortemente dependentes de transferências constitucionais como o FPM.",
-                                     "formato":  "direta"
+                                     "explicacao":  "A Constituição atribuiu aos municípios encargos pesados em saúde, educação e assistência, e uma base tributária estreita para financiá-los — o repasse existe para cobrir esse vão, e é a distância entre o que se deve gastar e o que se consegue arrecadar que o dado revela. Em (c) está o exagero mais próximo: o município tem competência própria e cobra IPTU, ISS e ITBI, mas em cidade pequena essa base rende pouco. Em (a), a competência existe e é exercida. Em (b), a dependência descrita é o oposto de autonomia plena. Em (e), a arrecadação se concentra na União."
                                  },
                                  {
                                      "id":  "atualidades-politica-20",
@@ -6075,18 +6075,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-39",
                                      "texto_apoio":  "O Poder Legislativo federal brasileiro é bicameral, composto pela Câmara dos Deputados e pelo Senado Federal.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa estrutura bicameral reflete, entre outros aspectos, a busca por:",
                                      "alternativas":  {
-                                                          "a":  "eliminar qualquer forma de representação popular direta no Congresso Nacional, transformando o Legislativo em órgão técnico",
-                                                          "b":  "extinguir a autonomia política dos estados membros da federação, subordinando-os ao governo federal em toda e qualquer matéria",
-                                                          "c":  "assegurar que cada Casa represente uma geração distinta de eleitores, por meio de mandatos alternados",
-                                                          "d":  "concentrar toda a competência legislativa exclusivamente na Câmara dos Deputados, esvaziando as atribuições do Senado Federal",
-                                                          "e":  "equilibrar a representação da população, proporcional na Câmara dos Deputados, com a representação igualitária dos estados no Senado Federal"
+                                                          "a":  "eliminar a representação popular direta no Congresso Nacional",
+                                                          "b":  "extinguir a autonomia política dos estados membros da federação",
+                                                          "c":  "fazer cada Casa representar uma geração distinta de eleitores, por mandatos alternados",
+                                                          "d":  "concentrar a competência legislativa na Câmara dos Deputados",
+                                                          "e":  "equilibrar a representação da população com a igualdade entre os estados"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O bicameralismo federativo busca equilibrar a representação proporcional da população, na Câmara dos Deputados, com a representação igualitária dos estados, no Senado Federal, no qual cada unidade da federação elege o mesmo número de senadores, independentemente de seu tamanho populacional.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O bicameralismo brasileiro resolve uma tensão da federação: na Câmara, quem tem mais gente tem mais cadeiras; no Senado, Roraima e São Paulo têm três cada. As duas lógicas convivem porque nenhuma sozinha seria aceitável. Em (c) está o distrator mais engenhoso, porque a renovação do Senado é de fato alternada, em um e dois terços — mas isso é regra de mandato, e não critério de representação. Em (b), o Senado existe justamente para dar voz aos estados. Em (a) e (d), a representação popular está na Câmara e as duas Casas legislam."
                                  },
                                  {
                                      "id":  "atualidades-politica-40",
@@ -6107,34 +6107,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-41",
                                      "texto_apoio":  "A Constituição de 1988 prevê determinados dispositivos que não podem ser abolidos nem mesmo por emenda constitucional.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esses dispositivos, conhecidos como cláusulas pétreas, têm como função:",
                                      "alternativas":  {
-                                                          "a":  "permitir que o Congresso Nacional revogue livremente qualquer direito fundamental por maioria simples, inclusive cláusulas pétreas",
-                                                          "b":  "impedir qualquer alteração na Constituição, tornando-a um texto absolutamente imutável mesmo em normas procedimentais",
-                                                          "c":  "restringir cláusulas pétreas apenas a normas de natureza tributária, excluindo direitos fundamentais dessa proteção",
-                                                          "d":  "vedar qualquer proposta de emenda durante a vigência de intervenção federal ou estado de sítio",
-                                                          "e":  "proteger princípios e direitos essenciais à ordem constitucional, como a forma federativa de Estado, contra supressão por emenda"
+                                                          "a":  "permitir ao Congresso revogar direito fundamental por maioria simples",
+                                                          "b":  "impedir alteração alguma na Constituição, tornando o texto imutável",
+                                                          "c":  "restringir a proteção às normas tributárias, deixando de fora os direitos fundamentais",
+                                                          "d":  "vedar proposta de emenda durante intervenção federal ou estado de sítio",
+                                                          "e":  "proteger princípios essenciais, como a forma federativa, contra supressão"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "As cláusulas pétreas protegem princípios e direitos considerados essenciais à ordem constitucional — como a forma federativa de Estado, o voto direto e secreto, a separação de poderes e os direitos e garantias individuais — contra tentativas de supressão ou enfraquecimento, mesmo por meio de emenda constitucional.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A cláusula pétrea retira do poder de reforma um núcleo — federação, voto direto, separação de poderes e direitos e garantias individuais —, de modo que emenda tendente a aboli-lo é inconstitucional mesmo aprovada por três quintos. Em (d) está o distrator mais difícil, porque a Constituição de fato veda emenda durante intervenção federal, estado de defesa e estado de sítio: é limitação verdadeira, mas circunstancial e temporária, e não material como a cláusula pétrea. Em (b), o texto segue emendável fora desse núcleo. Em (a) e (c), maioria simples e restrição a matéria tributária não correspondem ao instituto."
                                  },
                                  {
                                      "id":  "atualidades-politica-42",
                                      "texto_apoio":  "Em situações excepcionais de grave instabilidade institucional ou ameaça à ordem pública, a Constituição prevê mecanismos que permitem a restrição temporária de determinados direitos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "O Estado de Defesa e o Estado de Sítio são exemplos desses mecanismos, caracterizados por:",
                                      "alternativas":  {
-                                                          "a":  "transferirem ao Poder Judiciário a administração dos serviços públicos essenciais",
-                                                          "b":  "serem medidas permanentes, sem qualquer prazo de vigência ou controle do Congresso Nacional, mesmo após cessada a instabilidade",
-                                                          "c":  "eliminarem definitivamente a Constituição enquanto estiverem em vigor, suspendendo sua vigência e todos os direitos nela previstos",
-                                                          "d":  "permitirem a restrição temporária de certos direitos individuais, mediante decisão do presidente sujeita a controle do Congresso Nacional",
-                                                          "e":  "dispensarem qualquer forma de fiscalização pelo Poder Legislativo, concentrando a decisão no Poder Executivo"
+                                                          "a":  "transferirem ao Judiciário a administração dos serviços públicos essenciais",
+                                                          "b":  "serem medidas permanentes, sem prazo de vigência nem controle do Congresso",
+                                                          "c":  "suspenderem a vigência da Constituição inteira enquanto durarem",
+                                                          "d":  "permitirem restrição temporária de direitos, sob controle do Congresso",
+                                                          "e":  "dispensarem a fiscalização do Legislativo, concentrando a decisão no Executivo"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O Estado de Defesa e o Estado de Sítio são mecanismos constitucionais excepcionais que permitem a restrição temporária de determinados direitos individuais em situações de grave instabilidade, mas sua decretação e prorrogação estão sujeitas a controle e aprovação do Congresso Nacional, com prazos determinados.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "São institutos de exceção dentro da Constituição, e não fora dela: têm prazo, alcance definido, hipóteses fechadas e passam pelo Congresso — que aprova previamente o estado de sítio e pode sustar o de defesa. Em (c) está o erro conceitual central: a Constituição não se suspende, ela mesma prevê e limita a restrição. Em (b) e (e), a permanência e a ausência de controle legislativo contrariam a disciplina dos dois institutos. Em (a), a administração dos serviços não passa ao Judiciário em nenhum dos dois."
                                  },
                                  {
                                      "id":  "atualidades-politica-43",
@@ -6171,18 +6171,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-45",
                                      "texto_apoio":  "O planejamento orçamentário do setor público brasileiro é organizado por meio de três instrumentos legais principais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "O Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA) relacionam-se, respectivamente, com:",
                                      "alternativas":  {
-                                                          "a":  "o planejamento de médio prazo das ações de governo, a definição de prioridades para o exercício seguinte e a previsão de receitas e despesas anuais",
-                                                          "b":  "a fixação do salário mínimo nacional e do piso das carreiras do funcionalismo",
-                                                          "c":  "a definição exclusiva da taxa de juros básica da economia, atribuição que cabe ao Comitê de Política Monetária, e não ao Congresso Nacional",
-                                                          "d":  "questões exclusivas de política externa, sem qualquer relação com o orçamento público, tema tratado só por tratados internacionais",
-                                                          "e":  "normas eleitorais aplicáveis apenas aos partidos políticos, matéria disciplinada por lei complementar eleitoral"
+                                                          "a":  "planejamento de médio prazo, prioridades do exercício seguinte e previsão anual",
+                                                          "b":  "a fixação do salário mínimo e do piso das carreiras do funcionalismo",
+                                                          "c":  "a definição da taxa básica de juros, atribuição do Comitê de Política Monetária do Banco Central",
+                                                          "d":  "questões de política externa, sem relação com o orçamento público",
+                                                          "e":  "normas eleitorais aplicáveis aos partidos políticos, em lei complementar"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "O PPA estabelece diretrizes e metas para um período de quatro anos, a LDO orienta a elaboração do orçamento do exercício seguinte, definindo prioridades e metas fiscais, e a LOA detalha, ano a ano, a previsão de receitas e a autorização de despesas, formando o ciclo orçamentário do setor público brasileiro.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Os três formam um funil temporal: o PPA desenha as diretrizes de quatro anos, a LDO seleciona o que entra no ano seguinte e fixa metas fiscais, e a LOA estima a receita e autoriza a despesa daquele exercício. Em (b) está o distrator mais plausível, porque o salário mínimo tem impacto orçamentário direto e sua política costuma ser tratada na LDO — o reajuste, porém, é fixado em lei própria, e não é o objeto dos três instrumentos. Em (c), a taxa de juros é decidida pelo Copom. Em (d) e (e), política externa e norma eleitoral não integram o ciclo orçamentário."
                                  },
                                  {
                                      "id":  "atualidades-politica-46",
@@ -6203,34 +6203,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-47",
                                      "texto_apoio":  "Desde 1999, o Brasil adota um regime de câmbio flutuante, no qual o valor da moeda nacional em relação a outras moedas é determinado, em grande medida, pelas forças de oferta e demanda no mercado de câmbio.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Uma vantagem geralmente associada a esse regime cambial, em comparação com um câmbio fixo, é:",
                                      "alternativas":  {
-                                                          "a":  "permitir que o câmbio funcione como amortecedor de choques externos, ajustando-se às condições de mercado sem exigir uso constante de reservas",
-                                                          "b":  "eliminar completamente a possibilidade de choques externos afetarem a economia doméstica, mesmo em crises globais",
-                                                          "c":  "garantir que a taxa de câmbio permaneça sempre estável, sem qualquer oscilação mesmo diante de crises internacionais",
-                                                          "d":  "eliminar a necessidade de o país manter reservas internacionais, tornando desnecessária qualquer intervenção do Banco Central no câmbio",
-                                                          "e":  "impedir a formação de déficits na balança comercial em qualquer cenário externo"
+                                                          "a":  "o câmbio amortece choques externos, ajustando-se às condições de mercado",
+                                                          "b":  "elimina a possibilidade de choque externo afetar a economia doméstica",
+                                                          "c":  "garante que a taxa permaneça estável, sem oscilação diante de crises",
+                                                          "d":  "dispensa o país de manter reservas internacionais e de intervir no câmbio",
+                                                          "e":  "impede a formação de déficit na balança comercial em qualquer cenário"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "No regime de câmbio flutuante, a taxa de câmbio se ajusta às condições de oferta e demanda no mercado, funcionando como um amortecedor de choques externos, sem que o Banco Central precise utilizar continuamente suas reservas internacionais para sustentar uma paridade fixa, como ocorreria em um regime de câmbio fixo.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "No câmbio fixo, o choque externo bate na reserva do banco central até ela acabar; no flutuante, bate no preço da moeda, que se desvaloriza e reequilibra o balanço de pagamentos sem queimar reserva. Em (d) está o excesso mais tentador: o regime reduz a necessidade de reserva, mas não a elimina, e o Banco Central segue intervindo para conter volatilidade excessiva. Em (b) e (c), o flutuante transmite o choque em vez de bloqueá-lo — é justamente essa transmissão que o ajusta. Em (e), o regime não impede déficit comercial."
                                  },
                                  {
                                      "id":  "atualidades-politica-48",
                                      "texto_apoio":  "O balanço de pagamentos registra todas as transações econômicas de um país com o restante do mundo.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "A conta corrente do balanço de pagamentos inclui, entre outros itens, a balança comercial (exportações menos importações de bens) e:",
                                      "alternativas":  {
-                                                          "a":  "exclusivamente o fluxo de investimentos diretos estrangeiros no país, contabilizado à parte na conta financeira",
-                                                          "b":  "apenas as reservas internacionais mantidas pelo Banco Central, sem qualquer relação com serviços ou rendas",
-                                                          "c":  "a balança de serviços e rendas, que registra pagamentos de juros, lucros e dividendos remetidos ao exterior",
-                                                          "d":  "somente as transações realizadas em criptomoedas, registradas separadamente na conta financeira do balanço",
-                                                          "e":  "a conta financeira, que registra empréstimos e investimentos entre residentes e não residentes"
+                                                          "a":  "o fluxo de investimento direto estrangeiro, contabilizado na conta financeira do balanço",
+                                                          "b":  "as reservas internacionais mantidas pelo Banco Central",
+                                                          "c":  "a balança de serviços e rendas, com juros, lucros e dividendos remetidos",
+                                                          "d":  "as transações em criptomoedas, registradas em conta separada",
+                                                          "e":  "a conta financeira, com empréstimos entre residentes e não residentes"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Além da balança comercial, a conta corrente do balanço de pagamentos inclui a balança de serviços e a balança de rendas, que registram, entre outros itens, pagamentos de juros, lucros e dividendos remetidos ao exterior, compondo um retrato mais completo das transações correntes de um país com o resto do mundo.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A conta corrente registra o que entra e sai sem contrapartida em ativo: bens, serviços, renda de fatores e transferências unilaterais — daí a remessa de lucro e o pagamento de juros pertencerem a ela. Em (e) está a distinção que a questão cobra: a conta financeira é a outra grande divisão do balanço, e registra a variação de ativos e passivos externos, não a renda que eles geram. Em (a), o investimento direto é justamente conta financeira. Em (b), as reservas aparecem como ativo de reserva. Em (d), criptomoedas não formam conta própria no balanço."
                                  },
                                  {
                                      "id":  "atualidades-politica-49",
@@ -6251,18 +6251,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-50",
                                      "texto_apoio":  "Entre as propostas recorrentes de reforma política no Brasil, está a adoção do voto distrital ou distrital misto para a eleição de deputados, em substituição, total ou parcial, ao sistema proporcional de lista aberta.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Um dos principais argumentos favoráveis à adoção do voto distrital é:",
                                      "alternativas":  {
-                                                          "a":  "eliminar por completo a necessidade de eleições periódicas, substituindo-as por mandatos vitalícios para todos os cargos eletivos",
-                                                          "b":  "aproximar o eleitor de seu representante, associando-o a uma base territorial específica e fortalecendo a prestação de contas",
-                                                          "c":  "impedir qualquer forma de fiscalização do mandato parlamentar pelo eleitor",
+                                                          "a":  "eliminar a necessidade de eleições periódicas, com mandatos vitalícios",
+                                                          "b":  "aproximar o eleitor do representante, associando-o a base territorial",
+                                                          "c":  "impedir a fiscalização do mandato parlamentar pelo eleitor",
                                                           "d":  "assegurar que cada partido eleja ao menos um representante por unidade da Federação",
-                                                          "e":  "reduzir ainda mais a proximidade entre o eleitor e o representante eleito"
+                                                          "e":  "reduzir a proximidade entre o eleitor e o representante eleito"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Defensores do voto distrital argumentam que a associação de cada representante a uma base territorial específica tenderia a aproximar o eleitor de seu mandato, fortalecendo mecanismos de prestação de contas e identificação, em contraste com o sistema proporcional de lista aberta atualmente vigente.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "No distrital, o eleitor sabe quem é o seu deputado e o deputado sabe a quem responde — é essa identificação territorial que os defensores apresentam como ganho de responsabilização, difícil na lista aberta em circunscrição estadual. Em (d) está o distrator mais bem construído, porque também trata de distribuição territorial de cadeiras; garantir uma cadeira por partido em cada estado, porém, não é efeito do distrital, e sim outro desenho eleitoral. Em (e), a redução de proximidade é o oposto do argumento. Em (a) e (c), mandato vitalício e ausência de fiscalização não são defendidos por ninguém no debate."
                                  },
                                  {
                                      "id":  "atualidades-politica-51",
@@ -6283,18 +6283,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-52",
                                      "texto_apoio":  "A jurisprudência eleitoral brasileira consolidou o entendimento de que o mandato parlamentar obtido pelo sistema proporcional pertence, em certa medida, ao partido pelo qual o candidato foi eleito, e não exclusivamente ao candidato.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse entendimento, conhecido como fidelidade partidária, tem como principal efeito:",
                                      "alternativas":  {
-                                                          "a":  "impedir que qualquer parlamentar mude de partido durante o mandato, sob qualquer circunstância",
-                                                          "b":  "sujeitar à perda do mandato o parlamentar que trocar de partido sem justa causa reconhecida pela Justiça Eleitoral",
-                                                          "c":  "eliminar a necessidade de qualquer filiação partidária para concorrer a cargos eletivos, mesmo os de natureza majoritária",
-                                                          "d":  "vedar a criação de novos partidos durante o período de mandato em curso",
-                                                          "e":  "transferir automaticamente o mandato ao partido, independentemente de qualquer decisão judicial"
+                                                          "a":  "impedir que o parlamentar mude de partido durante o mandato",
+                                                          "b":  "sujeitar à perda do mandato quem troca de partido sem justa causa",
+                                                          "c":  "dispensar a filiação partidária para concorrer a cargo eletivo",
+                                                          "d":  "vedar a criação de novos partidos durante o mandato em curso",
+                                                          "e":  "transferir o mandato ao partido sem necessidade de decisão judicial"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "A fidelidade partidária sujeita à perda do mandato o parlamentar eleito pelo sistema proporcional que mudar de partido sem justa causa reconhecida pela Justiça Eleitoral, mecanismo que busca reduzir a migração partidária motivada por interesses pessoais e reforçar o papel dos partidos na representação política.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A troca de legenda continua possível: o que ela produz é o risco de perder o mandato, salvo justa causa reconhecida — mudança substancial de programa, grave discriminação pessoal ou criação de novo partido. Em (a) está a distinção que a questão cobra: a regra não proíbe, ela impõe consequência. Em (e), a perda depende de processo na Justiça Eleitoral, e não opera automaticamente. Em (c), a filiação partidária segue sendo condição de elegibilidade. Em (d), criar partido é livre e chegou a ser hipótese de justa causa para a migração."
                                  },
                                  {
                                      "id":  "atualidades-politica-53",
@@ -6315,34 +6315,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-54",
                                      "texto_apoio":  "Determinadas autoridades públicas, como parlamentares e ministros de Estado, têm o direito de ser processadas e julgadas criminalmente por tribunais superiores, e não pela primeira instância da Justiça comum.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa prerrogativa, conhecida como foro por prerrogativa de função (ou \u0027foro privilegiado\u0027), é justificada por seus defensores, sobretudo, como forma de:",
                                      "alternativas":  {
-                                                          "a":  "eliminar qualquer possibilidade de investigação criminal contra autoridades públicas",
-                                                          "b":  "concentrar no Supremo Tribunal Federal o julgamento de todas as ações contra agentes públicos",
-                                                          "c":  "garantir impunidade a autoridades públicas por qualquer crime cometido, impedindo responsabilização penal durante e mesmo depois de encerrado o mandato",
-                                                          "d":  "proteger o exercício do cargo contra pressões políticas indevidas sobre autoridades de relevância institucional, submetendo-as a tribunais superiores",
-                                                          "e":  "substituir integralmente o julgamento pelo Poder Judiciário por julgamento político no Congresso Nacional"
+                                                          "a":  "eliminar a possibilidade de investigação criminal contra a autoridade",
+                                                          "b":  "concentrar no STF o julgamento de todas as ações contra agente público",
+                                                          "c":  "garantir impunidade por crime cometido, durante e depois do mandato",
+                                                          "d":  "proteger o exercício do cargo contra pressão política indevida",
+                                                          "e":  "substituir o julgamento judicial por julgamento político no Congresso"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O foro por prerrogativa de função é justificado por seus defensores como mecanismo de proteção do exercício do cargo contra pressões políticas indevidas sobre autoridades de relevância institucional, submetendo-as a julgamento por tribunais colegiados de maior hierarquia, ainda que a extensão dessa prerrogativa seja objeto de debate público recorrente.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O argumento de quem defende o instituto é institucional, e não pessoal: julgar um parlamentar na primeira instância exporia o mandato a decisões de juízes singulares em disputa local, e o tribunal superior daria distância a esse jogo. Em (c) está a crítica que os adversários fazem ao efeito prático — prescrição e demora —, e não a justificativa de quem o sustenta, que é o que a questão pede. Em (b), o foro alcança tribunais diversos, não só o STF, e apenas matéria criminal. Em (a) e (e), a investigação continua possível e o julgamento segue judicial."
                                  },
                                  {
                                      "id":  "atualidades-politica-55",
                                      "texto_apoio":  "A Constituição assegura a deputados e senadores imunidade material e formal no exercício do mandato.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "A imunidade material garante que parlamentares:",
                                      "alternativas":  {
-                                                          "a":  "possam descumprir livremente qualquer lei do país sem qualquer consequência",
-                                                          "b":  "não possam ser responsabilizados civil ou penalmente por opiniões, palavras e votos no exercício do mandato",
-                                                          "c":  "sejam isentos de qualquer forma de responsabilização criminal durante toda a vida, inclusive por atos anteriores ao mandato",
-                                                          "d":  "só possam ser presos em flagrante por crime inafiançável, mediante autorização da respectiva Casa",
-                                                          "e":  "estejam dispensados de pagar qualquer tributo enquanto exercerem o cargo"
+                                                          "a":  "possam descumprir a lei sem consequência enquanto durar o mandato",
+                                                          "b":  "não sejam responsabilizados por opiniões, palavras e votos no mandato",
+                                                          "c":  "fiquem isentos de responsabilização criminal por atos anteriores ao cargo",
+                                                          "d":  "só possam ser presos em flagrante de crime inafiançável",
+                                                          "e":  "estejam dispensados de tributos enquanto exercerem o cargo"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "A imunidade material garante que parlamentares não sejam responsabilizados civil ou penalmente por suas opiniões, palavras e votos proferidos no exercício do mandato, protegendo a liberdade de expressão política necessária ao exercício da função legislativa, sem, no entanto, isentá-los de responsabilização por atos estranhos a essa atividade.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A imunidade material protege a palavra: o parlamentar não responde civil nem penalmente pelo que diz e vota no exercício do mandato, porque o debate não pode ser inibido por medo de processo. Em (d) está exatamente a imunidade formal, que o enunciado menciona ao lado da material e que trata de prisão e de processo — distinguir as duas é o que a questão cobra. Em (a), a proteção alcança a manifestação, e não a conduta em geral. Em (c), atos anteriores ao mandato não são cobertos. Em (e), não há imunidade tributária."
                                  },
                                  {
                                      "id":  "atualidades-politica-56",
@@ -6379,50 +6379,50 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-58",
                                      "texto_apoio":  "Desde 1999, o Brasil adota o regime de metas de inflação como principal referência para a condução da política monetária.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Nesse regime, o Banco Central tem como principal atribuição:",
                                      "alternativas":  {
-                                                          "a":  "utilizar a taxa básica de juros para conduzir a inflação observada em direção a uma meta definida pelo Conselho Monetário Nacional",
-                                                          "b":  "administrar diretamente as reservas cambiais para manter a paridade com moeda estrangeira",
-                                                          "c":  "garantir que a inflação seja sempre igual a zero, independentemente das condições econômicas",
-                                                          "d":  "fixar diretamente os preços de todos os bens e serviços da economia, substituindo o mercado por tabelamento oficial definido mensalmente",
-                                                          "e":  "eliminar qualquer flutuação na taxa de câmbio, fixando artificialmente o valor da moeda nacional"
+                                                          "a":  "usar a taxa básica de juros para levar a inflação à meta definida pelo CMN",
+                                                          "b":  "administrar as reservas cambiais para manter paridade com moeda estrangeira",
+                                                          "c":  "garantir inflação igual a zero, seja qual for a condição da economia",
+                                                          "d":  "definir a própria meta de inflação que perseguirá no ano seguinte",
+                                                          "e":  "fixar o valor da moeda nacional, eliminando a flutuação do câmbio"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "No regime de metas de inflação, o Banco Central utiliza principalmente a taxa básica de juros (Selic) para conduzir a inflação observada em direção a uma meta previamente estabelecida, geralmente fixada pelo Conselho Monetário Nacional, e não busca controlar diretamente preços individuais ou eliminar toda a variação cambial.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O desenho separa duas funções: quem fixa a meta é o Conselho Monetário Nacional, e quem a persegue é o Banco Central, com um instrumento principal, a taxa básica de juros. Em (d) está o erro institucional mais comum, porque a autonomia operacional do Banco Central se confunde com o poder de escolher o próprio alvo — ele tem o primeiro, não o segundo. Em (c), a meta não é zero e admite intervalo de tolerância. Em (b) e (e), administrar reservas para fixar paridade descreve o regime de câmbio fixo, abandonado justamente em 1999."
                                  },
                                  {
                                      "id":  "atualidades-politica-59",
                                      "texto_apoio":  "Em momentos de desaceleração econômica, alguns governos optam por ampliar gastos públicos ou reduzir impostos para estimular a atividade econômica, revertendo essa postura em períodos de expansão.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa estratégia, conhecida como política fiscal anticíclica, tem como principal fundamento teórico:",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que o governo nunca deve intervir na economia, em qualquer circunstância ou fase do ciclo",
-                                                          "b":  "a noção, de inspiração keynesiana, de que o Estado pode suavizar flutuações do ciclo econômico, estimulando a demanda em recessões",
-                                                          "c":  "a obrigatoriedade constitucional de sempre gerar déficit orçamentário, independentemente das metas fiscais vigentes",
-                                                          "d":  "a exigência constitucional de superávit primário em todos os exercícios financeiros",
-                                                          "e":  "a ideia de que o Estado deve manter gastos constantes independentemente do ciclo econômico, mesmo diante de recessões severas"
+                                                          "a":  "a defesa de que o governo não deve intervir na economia em fase alguma",
+                                                          "b":  "a noção keynesiana de que o Estado suaviza o ciclo estimulando a demanda",
+                                                          "c":  "a obrigação constitucional de gerar déficit orçamentário, seja qual for a meta fiscal",
+                                                          "d":  "a exigência de superávit primário em todos os exercícios financeiros",
+                                                          "e":  "a ideia de que o gasto deve ser constante ao longo de todo o ciclo"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "A política fiscal anticíclica fundamenta-se na noção, de inspiração keynesiana, de que a atuação do Estado pode suavizar as flutuações do ciclo econômico, ampliando gastos ou reduzindo impostos para estimular a demanda em recessões, e contendo-os em períodos de sobreaquecimento da economia.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A demanda privada cai na recessão, e o gasto público entra no lugar dela para sustentar a atividade — recolhendo-se depois, na expansão. É por isso que a política é anticíclica, e não expansionista permanente. Em (c) está a distorção mais frequente: déficit na recessão é meio, e não fim, e o outro lado da regra é superávit na expansão. Em (e), gasto constante é justamente a política neutra que a estratégia rejeita. Em (a) e (d), a não intervenção e o superávit em todo exercício descrevem posições opostas à anticíclica."
                                  },
                                  {
                                      "id":  "atualidades-politica-60",
                                      "texto_apoio":  "Segundo a teoria econômica, um aumento nos gastos do governo pode gerar um impacto sobre a renda total da economia superior ao valor originalmente gasto.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse fenômeno, conhecido como efeito multiplicador do gasto público, ocorre porque:",
                                      "alternativas":  {
-                                                          "a":  "a renda gerada pelo gasto inicial é parcialmente reinjetada na economia pelo consumo das famílias e empresas que a recebem",
-                                                          "b":  "o governo emite moeda automaticamente para cobrir qualquer gasto adicional",
-                                                          "c":  "o gasto público é sempre integralmente poupado pelos agentes econômicos, sem qualquer efeito sobre o consumo ou a demanda agregada",
-                                                          "d":  "impostos sempre anulam integralmente o efeito de qualquer gasto público",
-                                                          "e":  "o Estado recupera integralmente o gasto realizado por meio do aumento da arrecadação"
+                                                          "a":  "a renda gerada é reinjetada na economia pelo consumo de quem a recebe",
+                                                          "b":  "o governo emite moeda automaticamente para cobrir cada gasto adicional realizado",
+                                                          "c":  "o gasto público é integralmente poupado pelos agentes que o recebem",
+                                                          "d":  "os impostos anulam por completo o efeito do gasto sobre a demanda",
+                                                          "e":  "o Estado recupera o gasto pelo aumento equivalente da arrecadação"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "O efeito multiplicador ocorre porque a renda gerada por um gasto público inicial é parcialmente reinjetada na economia por meio do consumo das famílias e empresas que a recebem, gerando novas rodadas sucessivas de renda e consumo, de modo que o impacto total sobre a economia tende a superar o valor originalmente gasto.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O dinheiro não para na primeira mão: quem recebe gasta parte, gerando renda para outro, que gasta parte de novo — e a soma dessas rodadas supera o valor inicial. O tamanho do multiplicador depende justamente de quanto se consome a cada rodada. Em (c) está o contrário exato: se tudo fosse poupado, não haveria rodada seguinte e o multiplicador seria um. Em (d), impostos reduzem o efeito sem anulá-lo. Em (e), a recuperação via arrecadação é consequência possível, e não a explicação do mecanismo. Em (b), o multiplicador independe de emissão de moeda."
                                  },
                                  {
                                      "id":  "atualidades-politica-61",
@@ -6491,34 +6491,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-65",
                                      "texto_apoio":  "Um marco legal aprovado em 2020 estabeleceu novas regras para o setor de saneamento básico no Brasil, incluindo metas de universalização do acesso a água tratada e coleta de esgoto.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Entre as principais mudanças trazidas por esse marco regulatório estava:",
                                      "alternativas":  {
-                                                          "a":  "a transferência da competência sobre saneamento básico do âmbito municipal para o âmbito exclusivamente federal",
-                                                          "b":  "a ampliação das possibilidades de licitação e concessão dos serviços de saneamento, atraindo investimentos privados",
-                                                          "c":  "a vedação de subsídios cruzados entre municípios atendidos por um mesmo prestador",
-                                                          "d":  "o fim de qualquer meta de universalização do saneamento no país, eliminando prazos legais de atendimento",
-                                                          "e":  "a proibição de qualquer participação da iniciativa privada na prestação de serviços de saneamento ou concessão pública"
+                                                          "a":  "transferir a competência sobre saneamento do município para a União",
+                                                          "b":  "ampliar as possibilidades de licitação e concessão dos serviços",
+                                                          "c":  "vedar o subsídio cruzado entre municípios atendidos pelo mesmo prestador",
+                                                          "d":  "extinguir as metas de universalização e os prazos legais de atendimento",
+                                                          "e":  "proibir a participação da iniciativa privada na prestação do serviço"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "O novo marco regulatório do saneamento básico ampliou as possibilidades de licitação e concessão dos serviços a operadores privados, buscando atrair investimentos capazes de acelerar as metas de universalização do acesso à água tratada e à coleta de esgoto, mantendo, porém, a titularidade municipal sobre o serviço.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O eixo do marco foi abrir o setor à concorrência: substituiu a contratação direta da companhia estadual pela licitação, o que permitiu ao operador privado disputar concessões antes praticamente reservadas. Em (c) está o distrator mais informado e o mais difícil, porque o subsídio cruzado foi de fato afetado — a lei o preservou por outro caminho, a prestação regionalizada em blocos, em vez de vedá-lo. Em (e), a inversão é direta: o marco amplia a participação privada. Em (a), a titularidade permanece municipal, exercida de forma regionalizada. Em (d), as metas de universalização são o coração da lei."
                                  },
                                  {
                                      "id":  "atualidades-politica-66",
                                      "texto_apoio":  "Após a vigência de uma regra que limitava o crescimento das despesas públicas à inflação do ano anterior, um novo conjunto de regras fiscais foi debatido para substituí-la, buscando conciliar sustentabilidade da dívida com espaço para investimentos públicos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Regras fiscais desse tipo, que vinculam o crescimento dos gastos públicos a parâmetros como o crescimento da receita ou metas de resultado primário, têm como objetivo comum:",
                                      "alternativas":  {
-                                                          "a":  "vincular o crescimento da despesa à variação do Produto Interno Bruto do exercício anterior",
-                                                          "b":  "transferir toda a política fiscal do país ao Poder Judiciário, retirando essa atribuição do Executivo e do Legislativo",
-                                                          "c":  "estabelecer parâmetros críveis de disciplina fiscal que sinalizem sustentabilidade da dívida pública no médio prazo",
-                                                          "d":  "garantir o crescimento ilimitado das despesas públicas, independentemente da arrecadação",
-                                                          "e":  "eliminar qualquer necessidade de planejamento orçamentário de médio prazo"
+                                                          "a":  "vincular a despesa à variação do Produto Interno Bruto do ano anterior",
+                                                          "b":  "transferir a política fiscal ao Judiciário, retirando-a do Executivo",
+                                                          "c":  "sinalizar disciplina fiscal crível e sustentabilidade da dívida",
+                                                          "d":  "garantir o crescimento ilimitado da despesa, independentemente da receita",
+                                                          "e":  "eliminar a necessidade de planejamento orçamentário de médio prazo"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Regras fiscais que vinculam o crescimento dos gastos a parâmetros como a variação da receita ou metas de resultado primário buscam estabelecer critérios críveis de disciplina fiscal, sinalizando sustentabilidade da dívida pública no médio prazo, sem necessariamente impedir toda e qualquer expansão do gasto público, desde que compatível com a arrecadação.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Regra fiscal é, antes de tudo, um compromisso observável: ela existe para que credor e investidor consigam prever a trajetória da dívida sem depender da promessa do governo da vez, e é essa credibilidade que barateia o financiamento do país. Em (a) está o distrator mais sofisticado, porque descreve um desenho concreto de regra, plausível e já usado em outros países — mas é um parâmetro possível entre vários, e não o objetivo comum a todos eles. Em (d), o crescimento ilimitado é o que a regra impede. Em (b) e (e), a política fiscal segue com Executivo e Legislativo, e o planejamento de médio prazo é reforçado."
                                  },
                                  {
                                      "id":  "atualidades-politica-67",
@@ -6571,34 +6571,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-70",
                                      "texto_apoio":  "A aprovação de emendas à Constituição exige um procedimento mais rigoroso do que o exigido para leis ordinárias.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse procedimento diferenciado, que inclui votação em dois turnos em cada Casa do Congresso Nacional e aprovação por maioria qualificada de três quintos dos votos, tem como objetivo:",
                                      "alternativas":  {
-                                                          "a":  "dispensar qualquer participação do Senado Federal no processo de emenda constitucional, concentrando a aprovação na Câmara",
-                                                          "b":  "permitir que uma única Casa do Congresso altere a Constituição sozinha",
-                                                          "c":  "conferir maior estabilidade e legitimidade às mudanças na Constituição, exigindo consenso político mais amplo",
-                                                          "d":  "permitir que emendas sejam aprovadas por maioria simples em sessão conjunta única",
-                                                          "e":  "facilitar ao máximo a alteração do texto constitucional a qualquer momento"
+                                                          "a":  "dispensar a participação do Senado Federal, concentrando a aprovação na Câmara",
+                                                          "b":  "permitir que uma única Casa altere a Constituição sozinha",
+                                                          "c":  "dar estabilidade e legitimidade à mudança, exigindo consenso mais amplo",
+                                                          "d":  "permitir aprovação por maioria simples em sessão conjunta única",
+                                                          "e":  "facilitar ao máximo a alteração do texto a qualquer momento"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "O quórum qualificado e a votação em dois turnos em cada Casa do Congresso Nacional para a aprovação de emendas constitucionais buscam conferir maior estabilidade e legitimidade às mudanças no texto constitucional, exigindo um consenso político mais amplo do que o necessário para a aprovação de leis ordinárias.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Exigir três quintos em dois turnos nas duas Casas significa que nenhuma maioria de ocasião muda a Constituição: é preciso reunir apoio que atravesse partidos e sobreviva a um intervalo de reflexão entre as votações. Em (d) está a confusão de quórum que a questão testa — maioria simples e sessão conjunta descrevem outros ritos, não o da emenda. Em (a) e (b), o bicameralismo é reforçado, e não dispensado. Em (e), facilitar a alteração é exatamente o contrário do que o rito agravado busca."
                                  },
                                  {
                                      "id":  "atualidades-politica-71",
                                      "texto_apoio":  "A Constituição de 1988 distribui competências legislativas entre União, estados e municípios, distinguindo, entre outras categorias, competências privativas e competências concorrentes.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Nas competências concorrentes entre União e estados, prevalece a regra segundo a qual:",
                                      "alternativas":  {
-                                                          "a":  "apenas a União pode legislar sobre a matéria, cabendo aos estados exclusivamente a execução das normas federais",
-                                                          "b":  "a competência concorrente é sempre exercida exclusivamente pelo Poder Judiciário",
-                                                          "c":  "cabe à União estabelecer normas gerais sobre a matéria, podendo os estados legislar de forma suplementar",
-                                                          "d":  "a competência concorrente exclui os estados sempre que houver lei federal em vigor sobre o tema",
-                                                          "e":  "os municípios têm competência exclusiva sobre qualquer matéria concorrente, excluindo estados e União"
+                                                          "a":  "apenas a União legisla, cabendo aos estados a execução das normas federais",
+                                                          "b":  "a competência é exercida pelo Judiciário na ausência de lei estadual",
+                                                          "c":  "cabe à União as normas gerais, podendo os estados legislar em suplemento",
+                                                          "d":  "a superveniência de lei federal revoga a lei estadual anterior sobre o tema",
+                                                          "e":  "os municípios têm competência exclusiva sobre a matéria concorrente"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Nas competências concorrentes, cabe à União estabelecer normas gerais sobre a matéria, podendo os estados legislar de forma suplementar e, na ausência de norma geral federal, exercer competência legislativa plena para atender a suas peculiaridades, mecanismo que busca equilibrar uniformidade nacional com autonomia estadual.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A repartição é vertical: a União fixa o piso normativo comum e o estado desce ao detalhe conforme suas circunstâncias, podendo até legislar plenamente enquanto a norma geral não existir. Em (d) está o erro técnico que a questão testa — a lei federal superveniente suspende a eficácia da lei estadual no que lhe for contrário, e não a revoga; se a federal for depois retirada, a estadual volta a produzir efeito. Em (a), o estado legisla, e não apenas executa. Em (e), o município legisla sobre interesse local. Em (b), o Judiciário não exerce competência legislativa."
                                  },
                                  {
                                      "id":  "atualidades-politica-72",
@@ -6619,50 +6619,50 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-73",
                                      "texto_apoio":  "A Constituição de 1988 é reconhecida por conferir aos municípios brasileiros um grau de autonomia política, administrativa e financeira incomum em comparação com outras federações do mundo.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa autonomia municipal se expressa, entre outros aspectos, em:",
                                      "alternativas":  {
-                                                          "a":  "subordinação direta e hierárquica de todos os municípios aos respectivos governos estaduais, inclusive na escolha de prefeitos",
-                                                          "b":  "ausência completa de qualquer competência tributária própria dos municípios, dependendo integralmente de repasses estaduais",
-                                                          "c":  "capacidade de os municípios elaborarem sua própria lei orgânica e instituir e arrecadar tributos de sua competência, como o IPTU e o ISS",
-                                                          "d":  "competência para legislar sobre direito civil e processual no âmbito de seu território",
-                                                          "e":  "impossibilidade de os municípios legislarem sobre assuntos de interesse local, competência exclusiva dos estados"
+                                                          "a":  "subordinação hierárquica dos municípios ao governo estadual",
+                                                          "b":  "ausência de competência tributária própria dos municípios",
+                                                          "c":  "elaborar lei orgânica própria e instituir tributos como IPTU e ISS",
+                                                          "d":  "competência para legislar sobre direito civil e processual no seu território",
+                                                          "e":  "impossibilidade de legislar sobre assunto de interesse local"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A autonomia municipal se expressa, entre outros aspectos, na capacidade de cada município elaborar sua própria lei orgânica, eleger diretamente prefeitos e vereadores, e instituir e arrecadar tributos de sua competência, como o IPTU e o ISS, além de legislar sobre assuntos de interesse local.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A autonomia se materializa em duas capacidades concretas: o município escreve a própria lei orgânica, que funciona como sua constituição, e cobra tributos que ele mesmo institui. Em (d) está o excesso mais tentador, porque parece continuar a lista — mas direito civil e processual é competência privativa da União, e nenhum município legisla sobre isso. Em (a) e (e), a subordinação ao estado e a impossibilidade de tratar do interesse local negam a autonomia. Em (b), a competência tributária própria é justamente parte dela."
                                  },
                                  {
                                      "id":  "atualidades-politica-74",
                                      "texto_apoio":  "A Constituição prevê mecanismos de participação popular direta na formação da vontade política, complementares à democracia representativa.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Plebiscito, referendo e iniciativa popular de lei diferenciam-se, entre outros aspectos, porque:",
                                      "alternativas":  {
-                                                          "a":  "esses institutos são utilizados exclusivamente em nível municipal, sendo vedados em âmbito federal pela Constituição de 1988",
+                                                          "a":  "esses institutos são usados apenas no nível municipal, vedados na União",
                                                           "b":  "a iniciativa popular exige aprovação prévia do Tribunal Superior Eleitoral para tramitar",
-                                                          "c":  "todos são exatamente equivalentes, sem qualquer distinção de momento ou procedimento, podendo ser usados indistintamente pelo Executivo",
-                                                          "d":  "o plebiscito precede o ato normativo, o referendo o sucede para ratificação popular, e a iniciativa popular permite propor leis por assinaturas",
-                                                          "e":  "apenas o Poder Executivo pode convocar qualquer um desses mecanismos, sem participação do Congresso"
+                                                          "c":  "todos são equivalentes, sem distinção de momento ou de procedimento",
+                                                          "d":  "o plebiscito precede o ato, o referendo o ratifica, a iniciativa propõe lei",
+                                                          "e":  "apenas o Executivo pode convocar qualquer um desses mecanismos"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O plebiscito é consultado previamente à edição de um ato legislativo ou administrativo, o referendo é convocado posteriormente à sua edição para ratificação ou rejeição popular, e a iniciativa popular de lei permite que cidadãos, mediante coleta de assinaturas em quantidade mínima definida constitucionalmente, apresentem diretamente projetos de lei ao Poder Legislativo.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O critério que separa os dois primeiros é temporal: consulta-se antes de editar o ato, e chama-se plebiscito; consulta-se depois, para confirmar ou rejeitar, e chama-se referendo. A iniciativa popular é de outra natureza — não é consulta, é proposta de lei subscrita por eleitores. Em (b) está a confusão de competência: quem autoriza plebiscito e referendo é o Congresso Nacional, e a iniciativa popular é apresentada à Câmara, sem crivo prévio do TSE. Em (a), aplicam-se nas três esferas. Em (e), a convocação é do Congresso. Em (c), a distinção é justamente o objeto da questão."
                                  },
                                  {
                                      "id":  "atualidades-politica-75",
                                      "texto_apoio":  "A Ação Direta de Inconstitucionalidade (ADI) é o principal instrumento de controle concentrado de constitucionalidade no Brasil, julgada originariamente pelo Supremo Tribunal Federal.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "A Constituição estabelece um rol de legitimados a propor esse tipo de ação, o que revela que:",
                                      "alternativas":  {
-                                                          "a":  "somente o Poder Judiciário pode propor ações desse tipo contra suas próprias decisões administrativas",
-                                                          "b":  "apenas determinadas autoridades e entidades, como o presidente da República, mesas do Congresso e partidos políticos, têm legitimidade para propor a ação",
-                                                          "c":  "a legitimidade é exclusiva do Procurador-Geral da República, na qualidade de custos legis",
-                                                          "d":  "a legitimidade para propor ADI é irrestrita e não prevista em lei, podendo qualquer entidade privada ajuizá-la sem comprovar pertinência",
-                                                          "e":  "qualquer cidadão pode propor diretamente uma ADI perante o Supremo Tribunal Federal, sem necessidade de advogado ou interesse específico"
+                                                          "a":  "somente o Poder Judiciário pode propor a ação contra as próprias decisões",
+                                                          "b":  "apenas certas autoridades e entidades têm legitimidade para propô-la",
+                                                          "c":  "a legitimidade é exclusiva do Procurador-Geral da República",
+                                                          "d":  "a legitimidade é irrestrita e não vem prevista em norma alguma",
+                                                          "e":  "qualquer cidadão pode propor a ação diretamente perante o Supremo"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Diferentemente do controle difuso, que pode ser suscitado por qualquer parte em um processo, a ADI só pode ser proposta por um rol taxativo de legitimados previstos na Constituição, como o presidente da República, mesas do Congresso, partidos políticos com representação no Congresso e confederações sindicais, entre outros.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O rol é fechado e nominal — presidente da República, mesas das Casas legislativas, governadores, Procurador-Geral, Conselho Federal da OAB, partido com representação no Congresso e entidades de classe de âmbito nacional —, o que reserva o controle concentrado a atores institucionais. Em (e) está o erro que a questão mais quer flagrar: o cidadão comum não propõe ADI, e a via que lhe resta é o controle difuso, no caso concreto. Em (c), o Procurador-Geral é um dos legitimados, não o único. Em (a) e (d), o Judiciário não figura no rol e a legitimidade é expressamente prevista."
                                  },
                                  {
                                      "id":  "atualidades-politica-76",
@@ -6747,18 +6747,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-81",
                                      "texto_apoio":  "Apesar do nome, o Tribunal de Contas da União não integra formalmente o Poder Judiciário.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Sua natureza jurídica é a de:",
                                      "alternativas":  {
-                                                          "a":  "entidade de natureza privada, sem qualquer vínculo com a administração pública",
-                                                          "b":  "órgão jurisdicional que substitui integralmente o Poder Judiciário em causas envolvendo recursos públicos",
-                                                          "c":  "órgão diretamente subordinado ao Poder Executivo, sem qualquer autonomia, dependendo de aprovação prévia para suas decisões",
-                                                          "d":  "órgão do Poder Executivo com competência para fiscalizar a aplicação de recursos federais",
-                                                          "e":  "órgão auxiliar do Poder Legislativo no exercício do controle externo da administração pública, com autonomia técnica"
+                                                          "a":  "entidade privada, sem vínculo com a administração pública",
+                                                          "b":  "órgão jurisdicional que substitui o Judiciário em causa de recurso público",
+                                                          "c":  "órgão subordinado ao Executivo, dependente de aprovação para suas decisões",
+                                                          "d":  "órgão do Executivo com competência para fiscalizar recursos federais",
+                                                          "e":  "órgão auxiliar do Legislativo no controle externo, com autonomia técnica"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O Tribunal de Contas da União, apesar do nome, não integra o Poder Judiciário: é órgão auxiliar do Poder Legislativo no exercício do controle externo da administração pública, dotado de autonomia técnica e administrativa próprias para exercer suas competências de fiscalização e julgamento de contas.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O controle externo das contas públicas cabe ao Congresso, e o Tribunal de Contas é o órgão que o instrumentaliza — auxilia sem se subordinar, decidindo com autonomia técnica sobre a regularidade das contas. Em (b) está o equívoco que o nome induz: suas decisões não são jurisdicionais e podem ser revistas pelo Judiciário, embora o título de crédito que ele emite tenha eficácia executiva. Em (c) e (d), o vínculo é com o Legislativo, e não com o Executivo que ele fiscaliza. Em (a), trata-se de órgão público de estatura constitucional."
                                  },
                                  {
                                      "id":  "atualidades-politica-82",
@@ -6779,18 +6779,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-83",
                                      "texto_apoio":  "Servidores públicos efetivos, após cumprido o estágio probatório, adquirem estabilidade no cargo, o que dificulta sua exoneração fora das hipóteses previstas em lei.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Entre os argumentos utilizados para justificar a manutenção dessa estabilidade está:",
                                      "alternativas":  {
-                                                          "a":  "reduzir a qualidade da prestação de serviços públicos à população, pela ausência de qualquer cobrança de resultados",
-                                                          "b":  "impedir definitivamente qualquer forma de exoneração de servidores públicos, mesmo por decisão judicial transitada em julgado",
-                                                          "c":  "eliminar qualquer possibilidade de avaliação de desempenho dos servidores, mesmo em casos de faltas reiteradas comprovadas",
-                                                          "d":  "assegurar a continuidade dos serviços públicos durante períodos de transição de governo",
-                                                          "e":  "proteger o servidor de pressões políticas indevidas, garantindo continuidade e imparcialidade técnica na execução de políticas públicas"
+                                                          "a":  "reduzir a qualidade do serviço pela ausência de cobrança de resultados",
+                                                          "b":  "impedir a exoneração do servidor mesmo por decisão judicial definitiva",
+                                                          "c":  "eliminar a avaliação de desempenho, mesmo diante de falta reiterada",
+                                                          "d":  "assegurar a continuidade do serviço na transição entre governos",
+                                                          "e":  "proteger o servidor de pressão política, garantindo imparcialidade"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "A estabilidade do servidor público é justificada, entre outros argumentos, como forma de protegê-lo de pressões políticas indevidas, garantindo maior continuidade administrativa e imparcialidade técnica na execução de políticas públicas ao longo de diferentes governos, sem que isso signifique impossibilidade absoluta de exoneração nas hipóteses previstas em lei.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A estabilidade existe para que o fiscal possa autuar quem tem influência e o técnico possa dizer não ao gestor sem perder o emprego — protege a função, e não a pessoa. Em (d) está o distrator mais forte, porque a continuidade na transição de governo é efeito real e frequentemente citado; ele descreve, porém, uma consequência do arranjo, e não o fundamento, que é a proteção contra pressão. Em (b) e (c), a exoneração por sentença e a avaliação de desempenho continuam previstas. Em (a), a perda de qualidade é a crítica ao instituto, não sua justificativa."
                                  },
                                  {
                                      "id":  "atualidades-politica-84",
@@ -6811,50 +6811,50 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-85",
                                      "texto_apoio":  "Em vigor desde 2012, a Lei de Acesso à Informação regulamenta o direito constitucional de qualquer cidadão de solicitar informações a órgãos públicos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "O princípio geral estabelecido por essa lei é o de que:",
                                      "alternativas":  {
-                                                          "a":  "o sigilo é a regra para documentos produzidos por órgãos de segurança e o acesso, a exceção",
-                                                          "b":  "o acesso é a regra geral e o sigilo, a exceção, que deve ser justificada em hipóteses legais específicas",
-                                                          "c":  "apenas jornalistas credenciados podem solicitar informações a órgãos públicos",
-                                                          "d":  "toda informação em poder do Estado deve permanecer sigilosa, salvo autorização expressa da autoridade máxima do órgão",
-                                                          "e":  "a lei se aplica exclusivamente a informações de natureza orçamentária"
+                                                          "a":  "o sigilo é a regra para órgão de segurança e o acesso, a exceção",
+                                                          "b":  "o acesso é a regra e o sigilo, a exceção justificada em hipótese legal",
+                                                          "c":  "apenas jornalistas credenciados podem solicitar informação ao Estado",
+                                                          "d":  "a informação em poder do Estado é sigilosa, salvo autorização da autoridade máxima",
+                                                          "e":  "a lei alcança apenas informação de natureza orçamentária"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "A Lei de Acesso à Informação estabelece que o acesso à informação pública é a regra geral, e o sigilo é a exceção, que deve ser justificada e fundamentada em hipóteses legais específicas, como segurança nacional ou proteção à intimidade, podendo qualquer cidadão, e não apenas jornalistas, solicitar informações aos órgãos públicos.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A lei inverteu o ônus: antes cabia ao cidadão justificar por que queria a informação, e agora cabe ao Estado justificar por que a nega, dentro de hipóteses legais de sigilo e por prazo determinado. Em (a) está o distrator mais fino, porque órgãos de segurança e inteligência de fato concentram informação classificada — mas a classificação é exceção fundamentada caso a caso, e não regra geral que inverta o princípio para esses órgãos. Em (d), o sigilo como padrão é o modelo anterior. Em (c) e (e), o pedido independe de profissão e alcança qualquer informação pública."
                                  },
                                  {
                                      "id":  "atualidades-politica-86",
                                      "texto_apoio":  "Órgãos e entidades públicas têm adotado, de forma crescente, programas de integridade voltados a prevenir, detectar e remediar práticas de corrupção e fraude na gestão pública.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esses programas, também chamados de compliance público, geralmente incluem medidas como:",
                                      "alternativas":  {
-                                                          "a":  "extinção de auditorias internas nos órgãos públicos, eliminando qualquer verificação prévia de gastos ou controle preventivo",
-                                                          "b":  "concentração de todas as decisões administrativas em uma única autoridade, sem qualquer controle interno ou externo",
-                                                          "c":  "vinculação obrigatória das decisões administrativas a pareceres emitidos por órgão de controle externo",
-                                                          "d":  "eliminação de qualquer canal de denúncia interna sobre irregularidades, mesmo diante de fraude comprovada por auditoria",
-                                                          "e":  "códigos de conduta, canais de denúncia, treinamentos e mecanismos de gestão de riscos voltados a fortalecer a integridade institucional"
+                                                          "a":  "extinção das auditorias internas e do controle preventivo de gastos",
+                                                          "b":  "concentração das decisões em uma autoridade, sem controle interno",
+                                                          "c":  "vinculação das decisões administrativas a parecer do controle externo",
+                                                          "d":  "eliminação do canal de denúncia interna sobre irregularidades",
+                                                          "e":  "código de conduta, canal de denúncia, treinamento e gestão de riscos"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Programas de integridade no setor público geralmente incluem códigos de conduta, canais de denúncia, treinamentos e mecanismos de gestão de riscos voltados a fortalecer a integridade institucional e a reduzir a ocorrência de irregularidades, articulando prevenção, detecção e resposta a práticas de corrupção e fraude.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Integridade se constrói por dentro: define-se o que é conduta esperada, cria-se um caminho seguro para relatar desvio, treina-se quem decide e mapeia-se onde o risco de fraude é maior. Em (c) está o distrator mais plausível, porque também envolve controle — mas vincular cada decisão a parecer externo é tutela, e o compliance opera na própria estrutura do órgão, sem substituir a autoridade administrativa. Em (a), (b) e (d), extinguir auditoria, concentrar decisão e fechar canal de denúncia são o oposto do que esses programas fazem."
                                  },
                                  {
                                      "id":  "atualidades-politica-87",
                                      "texto_apoio":  "Um marco legal aprovado em 2014 estabeleceu novas regras para as parcerias entre o poder público e organizações da sociedade civil na execução de políticas públicas.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse marco regulatório teve como principal objetivo:",
                                      "alternativas":  {
-                                                          "a":  "transformar todas as organizações da sociedade civil em órgãos públicos, extinguindo sua natureza privada e autonomia",
-                                                          "b":  "vedar a celebração de parcerias com organizações que recebam recursos de origem estrangeira",
-                                                          "c":  "eliminar qualquer forma de prestação de contas nas parcerias com entidades privadas, ainda que exigida pela legislação",
-                                                          "d":  "proibir qualquer forma de parceria entre o Estado e organizações da sociedade civil sem fins lucrativos",
-                                                          "e":  "conferir maior transparência, segurança jurídica e padronização aos instrumentos de parceria com organizações da sociedade civil"
+                                                          "a":  "transformar as organizações da sociedade civil em órgãos públicos",
+                                                          "b":  "vedar parceria com entidade que receba recurso de origem estrangeira",
+                                                          "c":  "eliminar a prestação de contas nas parcerias com entidades privadas",
+                                                          "d":  "proibir a parceria entre o Estado e organização sem fins lucrativos",
+                                                          "e":  "dar transparência, segurança jurídica e padronização às parcerias"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O marco regulatório das organizações da sociedade civil buscou conferir maior transparência, segurança jurídica e padronização aos instrumentos de parceria entre o poder público e entidades sem fins lucrativos, estabelecendo regras mais claras de seleção, execução e prestação de contas dessas parcerias.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Antes do marco, cada convênio seguia regra própria, o que gerava insegurança para as duas pontas: a entidade não sabia o que seria cobrado e o gestor não sabia como controlar. A lei padronizou o chamamento público, o instrumento e a prestação de contas. Em (c) está a inversão mais direta — o marco reforçou a prestação de contas em vez de dispensá-la, e passou a exigi-la por resultado, não só por nota fiscal. Em (a) e (d), as organizações permanecem privadas e a parceria continua possível. Em (b), a origem do recurso não é critério de vedação."
                                  },
                                  {
                                      "id":  "atualidades-politica-88",
@@ -6923,18 +6923,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-92",
                                      "texto_apoio":  "O artigo 23 da Constituição de 1988 lista um conjunto de competências que são exercidas conjuntamente pela União, pelos estados, pelo Distrito Federal e pelos municípios, como a proteção do meio ambiente e do patrimônio histórico.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essas competências, chamadas de comuns, exigem, para sua efetividade, sobretudo:",
                                      "alternativas":  {
-                                                          "a":  "mecanismos de cooperação e coordenação entre os entes federativos, já que a Constituição não estabelece hierarquia rígida entre eles",
+                                                          "a":  "mecanismos de cooperação entre os entes, sem hierarquia rígida entre eles",
                                                           "b":  "a definição, por lei complementar, de qual ente responde isoladamente por cada matéria",
-                                                          "c":  "a delegação obrigatória de toda a competência à União, que passaria a ser o único ente responsável por saúde e educação",
-                                                          "d":  "a exclusão automática dos municípios de qualquer responsabilidade nessas áreas, transferindo-a à União e aos estados",
-                                                          "e":  "que cada ente federativo atue isoladamente, sem qualquer coordenação com os demais níveis de governo"
+                                                          "c":  "a delegação de toda a competência à União, único ente responsável",
+                                                          "d":  "a exclusão dos municípios da responsabilidade sobre essas matérias",
+                                                          "e":  "que cada ente atue isoladamente, sem coordenação com os demais"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "As competências comuns previstas no artigo 23 exigem, para sua efetividade, mecanismos de cooperação e coordenação entre os entes federativos, já que a Constituição não estabelece, por si só, uma hierarquia rígida entre eles nessas matérias, cabendo a leis complementares fixar normas de cooperação.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Competência comum significa que os quatro entes podem e devem atuar sobre a mesma matéria, o que só funciona com divisão combinada de tarefas — daí a Constituição prever leis complementares para fixar normas de cooperação. Em (b) está o distrator mais informado e o mais difícil: essas leis complementares existem no texto constitucional, mas servem para organizar a cooperação, e não para atribuir a matéria a um ente com exclusão dos demais. Em (c) e (d), concentrar na União ou excluir municípios contraria a natureza comum. Em (e), a atuação isolada é o problema que a cooperação resolve."
                                  },
                                  {
                                      "id":  "atualidades-politica-93",
@@ -6971,18 +6971,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-95",
                                      "texto_apoio":  "Municípios vizinhos podem se associar formalmente para executar em conjunto determinados serviços públicos, como tratamento de resíduos sólidos ou serviços de saúde de maior complexidade.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa forma de cooperação, conhecida como consórcio público, tem como principal vantagem:",
                                      "alternativas":  {
-                                                          "a":  "eliminar qualquer economia de escala na prestação de serviços públicos",
-                                                          "b":  "concentrar toda a gestão pública regional nas mãos de um único prefeito",
-                                                          "c":  "permitir ganhos de escala e viabilizar serviços que seriam economicamente inviáveis para um único município executar isoladamente",
-                                                          "d":  "substituir integralmente a competência dos estados sobre políticas regionais, retirando dos governadores qualquer atribuição de planejamento",
-                                                          "e":  "transferir a titularidade dos serviços públicos municipais ao governo estadual"
+                                                          "a":  "eliminar a economia de escala na prestação do serviço público",
+                                                          "b":  "concentrar a gestão pública regional nas mãos de um único prefeito",
+                                                          "c":  "permitir ganho de escala em serviço inviável para um município isolado",
+                                                          "d":  "substituir a competência dos estados sobre as políticas de alcance regional",
+                                                          "e":  "transferir a titularidade do serviço municipal ao governo estadual"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Os consórcios públicos permitem ganhos de escala e viabilizam a prestação de serviços que seriam economicamente inviáveis para um único município executar isoladamente, especialmente em municípios pequenos, sem que isso implique a extinção da autonomia de cada ente consorciado ou a substituição da competência estadual.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Um aterro sanitário ou um hospital de média complexidade exige população mínima para se pagar, e municípios pequenos não a têm sozinhos — somando demanda, o serviço se torna viável para todos. Em (e) está a confusão que a questão cobra: o consórcio é associação entre municípios, que mantêm a titularidade do serviço, sem transferi-la ao estado. Em (b), a gestão é compartilhada por instância própria, e não entregue a um prefeito. Em (d), a competência estadual permanece intacta. Em (a), a economia de escala é justamente o que se busca."
                                  },
                                  {
                                      "id":  "atualidades-politica-96",
@@ -7051,18 +7051,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "atualidades-politica-100",
                                      "texto_apoio":  "Diversos órgãos públicos mantêm unidades de ouvidoria, responsáveis por receber reclamações, sugestões e denúncias de cidadãos sobre a prestação de serviços públicos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "A atuação das ouvidorias públicas está associada, sobretudo, ao fortalecimento de:",
                                      "alternativas":  {
-                                                          "a":  "canais de participação e controle social, que permitem à população contribuir para a melhoria da qualidade dos serviços públicos",
-                                                          "b":  "mecanismos de controle interno hierárquico, sem qualquer participação do cidadão ou da sociedade civil",
-                                                          "c":  "órgãos de controle externo com competência para aplicar sanções administrativas a servidores",
-                                                          "d":  "processos eleitorais, sem qualquer relação com a prestação de serviços públicos, tema tratado pela Justiça Eleitoral",
-                                                          "e":  "instâncias exclusivamente judiciais de resolução de conflitos entre cidadãos e o Estado, substituindo canais administrativos"
+                                                          "a":  "canais de participação e controle social sobre a qualidade do serviço",
+                                                          "b":  "mecanismos de controle interno hierárquico, sem participação do cidadão",
+                                                          "c":  "órgãos de controle externo com poder de sancionar servidores públicos",
+                                                          "d":  "processos eleitorais, sem relação com a prestação do serviço público",
+                                                          "e":  "instâncias judiciais de resolução de conflito entre cidadão e Estado"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "As ouvidorias públicas fortalecem canais de participação e controle social, permitindo que a população contribua diretamente, por meio de reclamações, sugestões e denúncias, para a melhoria da qualidade dos serviços públicos e para a identificação de irregularidades na atuação da administração.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A ouvidoria abre uma porta pela qual o usuário do serviço entra na avaliação dele: a reclamação vira dado, o dado vira diagnóstico, e o controle passa a ser exercido também de fora da estrutura administrativa. Em (c) está o distrator mais fino, porque também trata de controle — mas o controle externo é feito por tribunais de contas e Ministério Público, com poder sancionador, ao passo que a ouvidoria acolhe e encaminha, sem punir. Em (b), a participação do cidadão é o elemento definidor. Em (d) e (e), a ouvidoria é administrativa, e não eleitoral nem judicial."
                                  }
                              ],
     "atualidades-tecnologia":  [

@@ -1,0 +1,243 @@
+{
+  "subtopic": "atualidades-politica",
+  "questoes": [
+    {
+      "id": "atualidades-politica-16",
+      "texto_apoio": "Um editorial publicado por um jornal de grande circulação afirmou que \"o excesso de rigidez da legislação trabalhista brasileira é o principal entrave à geração de empregos formais no país\", defendendo a ampliação da prevalência do negociado sobre o legislado e a flexibilização das formas de contratação — posição contestada por entidades sindicais, para as quais o diagnóstico do editorial simplifica um problema multicausal.",
+      "formato": "direta",
+      "enunciado": "O editorial expressa uma opinião sobre a causa do desemprego; o argumento factual normalmente usado para sustentar essa posição, distinto da conclusão em si, é o de que a flexibilização tende a:",
+      "alternativas": {
+        "a": "resolver isoladamente todas as causas do desemprego no país",
+        "b": "eliminar a necessidade de qualificação profissional do desempregado",
+        "c": "eliminar a legislação trabalhista, extinguindo a CLT e os direitos nela previstos",
+        "d": "ser posição unânime entre economistas e entidades sindicais",
+        "e": "favorecer a geração de emprego ao reduzir o custo de contratar e demitir"
+      },
+      "resposta": "e",
+      "explicacao": "A questão pede a premissa, não a tese: quem defende a flexibilização apoia-se na afirmação de que contratar e demitir mais barato aumenta a disposição da empresa a contratar — proposição sobre o mundo, verificável, distinta da conclusão de que essa é a causa principal do desemprego. Em (a) está exatamente a conclusão repetida em forma ampliada, e confundi-la com a premissa é o erro que a questão testa. Em (d), a unanimidade é desmentida pelo próprio enunciado, que registra a contestação sindical. Em (b) e (c), nenhum defensor da posição sustenta dispensar qualificação ou extinguir a CLT."
+    },
+    {
+      "id": "atualidades-politica-19",
+      "texto_apoio": "Uma parcela significativa da receita de estados e, sobretudo, de municípios brasileiros não provém de tributos arrecadados diretamente por esses entes, mas de repasses constitucionais calculados a partir da arrecadação de tributos federais, como o Fundo de Participação dos Estados (FPE) e o Fundo de Participação dos Municípios (FPM).",
+      "formato": "direta",
+      "enunciado": "Essa forte dependência de muitos entes subnacionais em relação a transferências constitucionais da União é um traço do federalismo fiscal brasileiro que evidencia, sobretudo:",
+      "alternativas": {
+        "a": "a vedação a que estados e municípios instituam tributos próprios",
+        "b": "a plena autonomia financeira dos municípios, que dispensariam repasse",
+        "c": "a inexistência de competência tributária própria dos municípios",
+        "d": "o desequilíbrio entre arrecadação própria e responsabilidade de gasto",
+        "e": "a concentração da arrecadação nacional nos municípios, sem repasse aos estados"
+      },
+      "resposta": "d",
+      "explicacao": "A Constituição atribuiu aos municípios encargos pesados em saúde, educação e assistência, e uma base tributária estreita para financiá-los — o repasse existe para cobrir esse vão, e é a distância entre o que se deve gastar e o que se consegue arrecadar que o dado revela. Em (c) está o exagero mais próximo: o município tem competência própria e cobra IPTU, ISS e ITBI, mas em cidade pequena essa base rende pouco. Em (a), a competência existe e é exercida. Em (b), a dependência descrita é o oposto de autonomia plena. Em (e), a arrecadação se concentra na União."
+    },
+    {
+      "id": "atualidades-politica-39",
+      "texto_apoio": "O Poder Legislativo federal brasileiro é bicameral, composto pela Câmara dos Deputados e pelo Senado Federal.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa estrutura bicameral reflete, entre outros aspectos, a busca por:",
+      "alternativas": {
+        "a": "eliminar a representação popular direta no Congresso Nacional",
+        "b": "extinguir a autonomia política dos estados membros da federação",
+        "c": "fazer cada Casa representar uma geração distinta de eleitores, por mandatos alternados",
+        "d": "concentrar a competência legislativa na Câmara dos Deputados",
+        "e": "equilibrar a representação da população com a igualdade entre os estados"
+      },
+      "resposta": "e",
+      "explicacao": "O bicameralismo brasileiro resolve uma tensão da federação: na Câmara, quem tem mais gente tem mais cadeiras; no Senado, Roraima e São Paulo têm três cada. As duas lógicas convivem porque nenhuma sozinha seria aceitável. Em (c) está o distrator mais engenhoso, porque a renovação do Senado é de fato alternada, em um e dois terços — mas isso é regra de mandato, e não critério de representação. Em (b), o Senado existe justamente para dar voz aos estados. Em (a) e (d), a representação popular está na Câmara e as duas Casas legislam."
+    },
+    {
+      "id": "atualidades-politica-41",
+      "texto_apoio": "A Constituição de 1988 prevê determinados dispositivos que não podem ser abolidos nem mesmo por emenda constitucional.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esses dispositivos, conhecidos como cláusulas pétreas, têm como função:",
+      "alternativas": {
+        "a": "permitir ao Congresso revogar direito fundamental por maioria simples",
+        "b": "impedir alteração alguma na Constituição, tornando o texto imutável",
+        "c": "restringir a proteção às normas tributárias, deixando de fora os direitos fundamentais",
+        "d": "vedar proposta de emenda durante intervenção federal ou estado de sítio",
+        "e": "proteger princípios essenciais, como a forma federativa, contra supressão"
+      },
+      "resposta": "e",
+      "explicacao": "A cláusula pétrea retira do poder de reforma um núcleo — federação, voto direto, separação de poderes e direitos e garantias individuais —, de modo que emenda tendente a aboli-lo é inconstitucional mesmo aprovada por três quintos. Em (d) está o distrator mais difícil, porque a Constituição de fato veda emenda durante intervenção federal, estado de defesa e estado de sítio: é limitação verdadeira, mas circunstancial e temporária, e não material como a cláusula pétrea. Em (b), o texto segue emendável fora desse núcleo. Em (a) e (c), maioria simples e restrição a matéria tributária não correspondem ao instituto."
+    },
+    {
+      "id": "atualidades-politica-42",
+      "texto_apoio": "Em situações excepcionais de grave instabilidade institucional ou ameaça à ordem pública, a Constituição prevê mecanismos que permitem a restrição temporária de determinados direitos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O Estado de Defesa e o Estado de Sítio são exemplos desses mecanismos, caracterizados por:",
+      "alternativas": {
+        "a": "transferirem ao Judiciário a administração dos serviços públicos essenciais",
+        "b": "serem medidas permanentes, sem prazo de vigência nem controle do Congresso",
+        "c": "suspenderem a vigência da Constituição inteira enquanto durarem",
+        "d": "permitirem restrição temporária de direitos, sob controle do Congresso",
+        "e": "dispensarem a fiscalização do Legislativo, concentrando a decisão no Executivo"
+      },
+      "resposta": "d",
+      "explicacao": "São institutos de exceção dentro da Constituição, e não fora dela: têm prazo, alcance definido, hipóteses fechadas e passam pelo Congresso — que aprova previamente o estado de sítio e pode sustar o de defesa. Em (c) está o erro conceitual central: a Constituição não se suspende, ela mesma prevê e limita a restrição. Em (b) e (e), a permanência e a ausência de controle legislativo contrariam a disciplina dos dois institutos. Em (a), a administração dos serviços não passa ao Judiciário em nenhum dos dois."
+    },
+    {
+      "id": "atualidades-politica-45",
+      "texto_apoio": "O planejamento orçamentário do setor público brasileiro é organizado por meio de três instrumentos legais principais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "O Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA) relacionam-se, respectivamente, com:",
+      "alternativas": {
+        "a": "planejamento de médio prazo, prioridades do exercício seguinte e previsão anual",
+        "b": "a fixação do salário mínimo e do piso das carreiras do funcionalismo",
+        "c": "a definição da taxa básica de juros, atribuição do Comitê de Política Monetária do Banco Central",
+        "d": "questões de política externa, sem relação com o orçamento público",
+        "e": "normas eleitorais aplicáveis aos partidos políticos, em lei complementar"
+      },
+      "resposta": "a",
+      "explicacao": "Os três formam um funil temporal: o PPA desenha as diretrizes de quatro anos, a LDO seleciona o que entra no ano seguinte e fixa metas fiscais, e a LOA estima a receita e autoriza a despesa daquele exercício. Em (b) está o distrator mais plausível, porque o salário mínimo tem impacto orçamentário direto e sua política costuma ser tratada na LDO — o reajuste, porém, é fixado em lei própria, e não é o objeto dos três instrumentos. Em (c), a taxa de juros é decidida pelo Copom. Em (d) e (e), política externa e norma eleitoral não integram o ciclo orçamentário."
+    },
+    {
+      "id": "atualidades-politica-48",
+      "texto_apoio": "O balanço de pagamentos registra todas as transações econômicas de um país com o restante do mundo.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A conta corrente do balanço de pagamentos inclui, entre outros itens, a balança comercial (exportações menos importações de bens) e:",
+      "alternativas": {
+        "a": "o fluxo de investimento direto estrangeiro, contabilizado na conta financeira do balanço",
+        "b": "as reservas internacionais mantidas pelo Banco Central",
+        "c": "a balança de serviços e rendas, com juros, lucros e dividendos remetidos",
+        "d": "as transações em criptomoedas, registradas em conta separada",
+        "e": "a conta financeira, com empréstimos entre residentes e não residentes"
+      },
+      "resposta": "c",
+      "explicacao": "A conta corrente registra o que entra e sai sem contrapartida em ativo: bens, serviços, renda de fatores e transferências unilaterais — daí a remessa de lucro e o pagamento de juros pertencerem a ela. Em (e) está a distinção que a questão cobra: a conta financeira é a outra grande divisão do balanço, e registra a variação de ativos e passivos externos, não a renda que eles geram. Em (a), o investimento direto é justamente conta financeira. Em (b), as reservas aparecem como ativo de reserva. Em (d), criptomoedas não formam conta própria no balanço."
+    },
+    {
+      "id": "atualidades-politica-50",
+      "texto_apoio": "Entre as propostas recorrentes de reforma política no Brasil, está a adoção do voto distrital ou distrital misto para a eleição de deputados, em substituição, total ou parcial, ao sistema proporcional de lista aberta.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Um dos principais argumentos favoráveis à adoção do voto distrital é:",
+      "alternativas": {
+        "a": "eliminar a necessidade de eleições periódicas, com mandatos vitalícios",
+        "b": "aproximar o eleitor do representante, associando-o a base territorial",
+        "c": "impedir a fiscalização do mandato parlamentar pelo eleitor",
+        "d": "assegurar que cada partido eleja ao menos um representante por unidade da Federação",
+        "e": "reduzir a proximidade entre o eleitor e o representante eleito"
+      },
+      "resposta": "b",
+      "explicacao": "No distrital, o eleitor sabe quem é o seu deputado e o deputado sabe a quem responde — é essa identificação territorial que os defensores apresentam como ganho de responsabilização, difícil na lista aberta em circunscrição estadual. Em (d) está o distrator mais bem construído, porque também trata de distribuição territorial de cadeiras; garantir uma cadeira por partido em cada estado, porém, não é efeito do distrital, e sim outro desenho eleitoral. Em (e), a redução de proximidade é o oposto do argumento. Em (a) e (c), mandato vitalício e ausência de fiscalização não são defendidos por ninguém no debate."
+    },
+    {
+      "id": "atualidades-politica-65",
+      "texto_apoio": "Um marco legal aprovado em 2020 estabeleceu novas regras para o setor de saneamento básico no Brasil, incluindo metas de universalização do acesso a água tratada e coleta de esgoto.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Entre as principais mudanças trazidas por esse marco regulatório estava:",
+      "alternativas": {
+        "a": "transferir a competência sobre saneamento do município para a União",
+        "b": "ampliar as possibilidades de licitação e concessão dos serviços",
+        "c": "vedar o subsídio cruzado entre municípios atendidos pelo mesmo prestador",
+        "d": "extinguir as metas de universalização e os prazos legais de atendimento",
+        "e": "proibir a participação da iniciativa privada na prestação do serviço"
+      },
+      "resposta": "b",
+      "explicacao": "O eixo do marco foi abrir o setor à concorrência: substituiu a contratação direta da companhia estadual pela licitação, o que permitiu ao operador privado disputar concessões antes praticamente reservadas. Em (c) está o distrator mais informado e o mais difícil, porque o subsídio cruzado foi de fato afetado — a lei o preservou por outro caminho, a prestação regionalizada em blocos, em vez de vedá-lo. Em (e), a inversão é direta: o marco amplia a participação privada. Em (a), a titularidade permanece municipal, exercida de forma regionalizada. Em (d), as metas de universalização são o coração da lei."
+    },
+    {
+      "id": "atualidades-politica-66",
+      "texto_apoio": "Após a vigência de uma regra que limitava o crescimento das despesas públicas à inflação do ano anterior, um novo conjunto de regras fiscais foi debatido para substituí-la, buscando conciliar sustentabilidade da dívida com espaço para investimentos públicos.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Regras fiscais desse tipo, que vinculam o crescimento dos gastos públicos a parâmetros como o crescimento da receita ou metas de resultado primário, têm como objetivo comum:",
+      "alternativas": {
+        "a": "vincular a despesa à variação do Produto Interno Bruto do ano anterior",
+        "b": "transferir a política fiscal ao Judiciário, retirando-a do Executivo",
+        "c": "sinalizar disciplina fiscal crível e sustentabilidade da dívida",
+        "d": "garantir o crescimento ilimitado da despesa, independentemente da receita",
+        "e": "eliminar a necessidade de planejamento orçamentário de médio prazo"
+      },
+      "resposta": "c",
+      "explicacao": "Regra fiscal é, antes de tudo, um compromisso observável: ela existe para que credor e investidor consigam prever a trajetória da dívida sem depender da promessa do governo da vez, e é essa credibilidade que barateia o financiamento do país. Em (a) está o distrator mais sofisticado, porque descreve um desenho concreto de regra, plausível e já usado em outros países — mas é um parâmetro possível entre vários, e não o objetivo comum a todos eles. Em (d), o crescimento ilimitado é o que a regra impede. Em (b) e (e), a política fiscal segue com Executivo e Legislativo, e o planejamento de médio prazo é reforçado."
+    },
+    {
+      "id": "atualidades-politica-70",
+      "texto_apoio": "A aprovação de emendas à Constituição exige um procedimento mais rigoroso do que o exigido para leis ordinárias.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse procedimento diferenciado, que inclui votação em dois turnos em cada Casa do Congresso Nacional e aprovação por maioria qualificada de três quintos dos votos, tem como objetivo:",
+      "alternativas": {
+        "a": "dispensar a participação do Senado Federal, concentrando a aprovação na Câmara",
+        "b": "permitir que uma única Casa altere a Constituição sozinha",
+        "c": "dar estabilidade e legitimidade à mudança, exigindo consenso mais amplo",
+        "d": "permitir aprovação por maioria simples em sessão conjunta única",
+        "e": "facilitar ao máximo a alteração do texto a qualquer momento"
+      },
+      "resposta": "c",
+      "explicacao": "Exigir três quintos em dois turnos nas duas Casas significa que nenhuma maioria de ocasião muda a Constituição: é preciso reunir apoio que atravesse partidos e sobreviva a um intervalo de reflexão entre as votações. Em (d) está a confusão de quórum que a questão testa — maioria simples e sessão conjunta descrevem outros ritos, não o da emenda. Em (a) e (b), o bicameralismo é reforçado, e não dispensado. Em (e), facilitar a alteração é exatamente o contrário do que o rito agravado busca."
+    },
+    {
+      "id": "atualidades-politica-73",
+      "texto_apoio": "A Constituição de 1988 é reconhecida por conferir aos municípios brasileiros um grau de autonomia política, administrativa e financeira incomum em comparação com outras federações do mundo.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa autonomia municipal se expressa, entre outros aspectos, em:",
+      "alternativas": {
+        "a": "subordinação hierárquica dos municípios ao governo estadual",
+        "b": "ausência de competência tributária própria dos municípios",
+        "c": "elaborar lei orgânica própria e instituir tributos como IPTU e ISS",
+        "d": "competência para legislar sobre direito civil e processual no seu território",
+        "e": "impossibilidade de legislar sobre assunto de interesse local"
+      },
+      "resposta": "c",
+      "explicacao": "A autonomia se materializa em duas capacidades concretas: o município escreve a própria lei orgânica, que funciona como sua constituição, e cobra tributos que ele mesmo institui. Em (d) está o excesso mais tentador, porque parece continuar a lista — mas direito civil e processual é competência privativa da União, e nenhum município legisla sobre isso. Em (a) e (e), a subordinação ao estado e a impossibilidade de tratar do interesse local negam a autonomia. Em (b), a competência tributária própria é justamente parte dela."
+    },
+    {
+      "id": "atualidades-politica-75",
+      "texto_apoio": "A Ação Direta de Inconstitucionalidade (ADI) é o principal instrumento de controle concentrado de constitucionalidade no Brasil, julgada originariamente pelo Supremo Tribunal Federal.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A Constituição estabelece um rol de legitimados a propor esse tipo de ação, o que revela que:",
+      "alternativas": {
+        "a": "somente o Poder Judiciário pode propor a ação contra as próprias decisões",
+        "b": "apenas certas autoridades e entidades têm legitimidade para propô-la",
+        "c": "a legitimidade é exclusiva do Procurador-Geral da República",
+        "d": "a legitimidade é irrestrita e não vem prevista em norma alguma",
+        "e": "qualquer cidadão pode propor a ação diretamente perante o Supremo"
+      },
+      "resposta": "b",
+      "explicacao": "O rol é fechado e nominal — presidente da República, mesas das Casas legislativas, governadores, Procurador-Geral, Conselho Federal da OAB, partido com representação no Congresso e entidades de classe de âmbito nacional —, o que reserva o controle concentrado a atores institucionais. Em (e) está o erro que a questão mais quer flagrar: o cidadão comum não propõe ADI, e a via que lhe resta é o controle difuso, no caso concreto. Em (c), o Procurador-Geral é um dos legitimados, não o único. Em (a) e (d), o Judiciário não figura no rol e a legitimidade é expressamente prevista."
+    },
+    {
+      "id": "atualidades-politica-81",
+      "texto_apoio": "Apesar do nome, o Tribunal de Contas da União não integra formalmente o Poder Judiciário.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Sua natureza jurídica é a de:",
+      "alternativas": {
+        "a": "entidade privada, sem vínculo com a administração pública",
+        "b": "órgão jurisdicional que substitui o Judiciário em causa de recurso público",
+        "c": "órgão subordinado ao Executivo, dependente de aprovação para suas decisões",
+        "d": "órgão do Executivo com competência para fiscalizar recursos federais",
+        "e": "órgão auxiliar do Legislativo no controle externo, com autonomia técnica"
+      },
+      "resposta": "e",
+      "explicacao": "O controle externo das contas públicas cabe ao Congresso, e o Tribunal de Contas é o órgão que o instrumentaliza — auxilia sem se subordinar, decidindo com autonomia técnica sobre a regularidade das contas. Em (b) está o equívoco que o nome induz: suas decisões não são jurisdicionais e podem ser revistas pelo Judiciário, embora o título de crédito que ele emite tenha eficácia executiva. Em (c) e (d), o vínculo é com o Legislativo, e não com o Executivo que ele fiscaliza. Em (a), trata-se de órgão público de estatura constitucional."
+    },
+    {
+      "id": "atualidades-politica-85",
+      "texto_apoio": "Em vigor desde 2012, a Lei de Acesso à Informação regulamenta o direito constitucional de qualquer cidadão de solicitar informações a órgãos públicos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O princípio geral estabelecido por essa lei é o de que:",
+      "alternativas": {
+        "a": "o sigilo é a regra para órgão de segurança e o acesso, a exceção",
+        "b": "o acesso é a regra e o sigilo, a exceção justificada em hipótese legal",
+        "c": "apenas jornalistas credenciados podem solicitar informação ao Estado",
+        "d": "a informação em poder do Estado é sigilosa, salvo autorização da autoridade máxima",
+        "e": "a lei alcança apenas informação de natureza orçamentária"
+      },
+      "resposta": "b",
+      "explicacao": "A lei inverteu o ônus: antes cabia ao cidadão justificar por que queria a informação, e agora cabe ao Estado justificar por que a nega, dentro de hipóteses legais de sigilo e por prazo determinado. Em (a) está o distrator mais fino, porque órgãos de segurança e inteligência de fato concentram informação classificada — mas a classificação é exceção fundamentada caso a caso, e não regra geral que inverta o princípio para esses órgãos. Em (d), o sigilo como padrão é o modelo anterior. Em (c) e (e), o pedido independe de profissão e alcança qualquer informação pública."
+    }
+  ]
+}

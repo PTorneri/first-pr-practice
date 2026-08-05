@@ -1,8 +1,14 @@
 {
     "_global":  {
-                    "indice":  0.7,
-                    "n":  450
+                    "indice":  0.5,
+                    "n":  600
                 },
+    "matematica":  {
+                       "longaPct":  0,
+                       "absCertaPct":  3.2,
+                       "indice":  0,
+                       "n":  150
+                   },
     "fisica":  {
                    "longaPct":  0.7,
                    "absCertaPct":  6.7,

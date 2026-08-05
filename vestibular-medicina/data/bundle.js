@@ -4543,6 +4543,2139 @@ window.QUESTION_BANKS = {
                        "formato":  "direta"
                    }
                ],
+    "matematica":  [
+                       {
+                           "id":  "matematica-01",
+                           "textoId":  "med-mat-t1",
+                           "enunciado":  "O valor preditivo positivo do teste, tal como calculado no texto, é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "95%",
+                                                "b":  "90%",
+                                                "c":  "15%",
+                                                "d":  "85%",
+                                                "e":  "1%"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "São 585 positivos ao todo, dos quais 90 são doentes de verdade: 90 ÷ 585 ≈ 0,154. A alternativa (b) repete a sensibilidade, que responde a outra pergunta — dos doentes, quantos o teste pega —, e é justamente essa troca de condicional que o texto quer expor.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-02",
+                           "textoId":  "med-mat-t1",
+                           "enunciado":  "Se a prevalência da doença fosse de 10% em vez de 1%, mantidas a sensibilidade e a especificidade e o total de 10.000 pessoas, o valor preditivo positivo passaria a ser de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "67%",
+                                                "b":  "15%",
+                                                "c":  "90%",
+                                                "d":  "10%",
+                                                "e":  "45%"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Com 1.000 doentes e 9.000 sadios: 900 verdadeiros positivos e 450 falsos positivos, num total de 1.350. O valor preditivo positivo é 900 ÷ 1.350 ≈ 0,667. O teste não mudou em nada — só a população mudou, e é esse o ponto do texto.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-03",
+                           "textoId":  "med-mat-t1",
+                           "enunciado":  "O valor preditivo negativo do teste descrito no texto, ou seja, a probabilidade de não ter a doença dado um resultado negativo, é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "94,1%",
+                                                "b":  "95%",
+                                                "c":  "90%",
+                                                "d":  "15%",
+                                                "e":  "99,9%"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Os negativos somam 9.405 verdadeiros e 10 falsos, num total de 9.415. A razão é 9.405 ÷ 9.415 ≈ 0,999. A alternativa (b) repete a especificidade, que condiciona ao estado de saúde e não ao resultado do exame; a (a) divide os verdadeiros negativos pela população inteira, e não pelo grupo dos que testaram negativo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-04",
+                           "textoId":  "med-mat-t1",
+                           "enunciado":  "A sensibilidade é uma probabilidade condicionada ao ______, e o valor preditivo positivo, ao ______; a distância entre as duas explica ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "resultado do exame – estado de saúde – por que a especificidade de um teste diminui quando ele é aplicado a uma população muito grande e heterogênea",
+                                                "b":  "estado de saúde – resultado do exame – por que um teste sensível rende poucos positivos verdadeiros numa doença rara",
+                                                "c":  "tamanho da amostra – custo do exame – por que testes mais caros apresentam desempenho superior aos testes de triagem usados em campanhas públicas",
+                                                "d":  "estado de saúde – tamanho da amostra – por que ampliar o número de pessoas testadas melhora automaticamente a confiabilidade do resultado obtido em cada uma",
+                                                "e":  "resultado do exame – custo do exame – por que os laboratórios preferem indicar exames complementares antes de fechar qualquer diagnóstico definitivo"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Sensibilidade parte de quem tem a doença e pergunta quantos o teste pega; o valor preditivo positivo parte de quem testou positivo e pergunta quantos estão doentes. Como os doentes são poucos numa doença rara, os falsos positivos vindos da massa de sadios acabam dominando o conjunto dos positivos.",
+                           "formato":  "lacunas",
+                           "banca":  "einstein"
+                       },
+                       {
+                           "id":  "matematica-05",
+                           "textoId":  "med-mat-t1",
+                           "enunciado":  "Se a sensibilidade do teste subisse para 98%, mantidas a prevalência de 1% e a população de 10.000 pessoas, o número de falsos negativos passaria a ser de:",
+                           "alternativas":  {
+                                                "a":  "20",
+                                                "b":  "10",
+                                                "c":  "98",
+                                                "d":  "2",
+                                                "e":  "200"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Os doentes continuam sendo 100. Com sensibilidade de 98%, escapam 2% deles: 2 pessoas. A alternativa (e) aplica os 2% à população inteira, e não ao grupo de doentes, que é o único onde falso negativo faz sentido.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-06",
+                           "textoId":  "med-mat-t2",
+                           "enunciado":  "Um fármaco com meia-vida de 6 horas é administrado em dose única de 200 mg. O tempo necessário para que restem 25 mg no organismo é de:",
+                           "alternativas":  {
+                                                "a":  "6 horas",
+                                                "b":  "18 horas",
+                                                "c":  "24 horas",
+                                                "d":  "12 horas",
+                                                "e":  "8 horas"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "De 200 para 25 há três divisões por dois: 200, 100, 50, 25. Cada uma consome uma meia-vida, então são 3 x 6 = 18 horas. Formalmente, 2^(−t/6) = 1/8 = 2⁻³, e daí t = 18.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-07",
+                           "textoId":  "med-mat-t2",
+                           "enunciado":  "Segundo o texto, após cinco meia-vidas resta cerca de 3% da dose inicial. Esse valor corresponde a:",
+                           "alternativas":  {
+                                                "a":  "1/25 da dose",
+                                                "b":  "1/5 da dose",
+                                                "c":  "1/10 da dose",
+                                                "d":  "1/32 da dose",
+                                                "e":  "1/16 da dose"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Cada meia-vida divide por dois, e cinco delas dividem por 2⁵ = 32. Como 1 ÷ 32 ≈ 0,031, chega-se aos 3% citados. A alternativa (e) para em quatro meia-vidas, o que daria 6,25%.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-08",
+                           "textoId":  "med-mat-t2",
+                           "enunciado":  "O texto afirma que resolver a conta no sentido inverso exige logaritmos. Isso ocorre porque, nesse caso, a incógnita:",
+                           "alternativas":  {
+                                                "a":  "está no expoente, e o logaritmo é a operação que o isola",
+                                                "b":  "aparece multiplicada pela meia-vida do fármaco, o que impede o uso das operações elementares de divisão empregadas nos demais casos do modelo",
+                                                "c":  "assume valores negativos ao longo do intervalo considerado, e apenas a função logarítmica é definida para esse conjunto de números reais",
+                                                "d":  "corresponde à massa inicial do fármaco, grandeza que não pode ser medida diretamente e precisa ser estimada a partir de dados experimentais",
+                                                "e":  "varia de forma linear com o tempo, comportamento que exige uma transformação de escala antes de qualquer cálculo aritmético ser aplicado"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Em m(t) = m₀ · 2^(−t/T), o tempo aparece no expoente. Para tirá-lo de lá é preciso aplicar logaritmo aos dois lados, já que log de uma potência traz o expoente para a frente como fator. Quando os números são potências exatas de 2, dá para resolver de cabeça — fora disso, não.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-09",
+                           "enunciado":  "A concentração de um medicamento no sangue, em mg/L, varia com o tempo t em horas segundo C(t) = −2t² + 12t. A concentração máxima atingida e o instante em que isso ocorre são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "18 mg/L em 6 horas",
+                                                "b":  "12 mg/L em 2 horas",
+                                                "c":  "16 mg/L em 4 horas",
+                                                "d":  "10 mg/L em 3 horas",
+                                                "e":  "18 mg/L em 3 horas"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A parábola tem concavidade para baixo, então o vértice é o máximo: t = −b ÷ 2a = −12 ÷ (−4) = 3. Substituindo, C(3) = −18 + 36 = 18. A alternativa (a) usa a raiz t = 6, onde a concentração já voltou a zero.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-10",
+                           "enunciado":  "Um protocolo prevê 20 mg no primeiro dia e um aumento diário de 5 mg. A dose do 12º dia e o total administrado nos 12 dias são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "75 mg e 900 mg",
+                                                "b":  "80 mg e 600 mg",
+                                                "c":  "75 mg e 570 mg",
+                                                "d":  "70 mg e 540 mg",
+                                                "e":  "85 mg e 630 mg"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "É uma progressão aritmética de razão 5: a₁₂ = 20 + 11 x 5 = 75 mg. A soma é 12 x (20 + 75) ÷ 2 = 570 mg. A alternativa (d) usa 10 saltos em vez de 11, erro clássico de contar os termos em vez dos intervalos entre eles.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-11",
+                           "enunciado":  "Uma cultura de bactérias dobra de tamanho a cada 20 minutos. Partindo de 500 bactérias, o número esperado após 3 horas é de:",
+                           "alternativas":  {
+                                                "a":  "9.000",
+                                                "b":  "4.500",
+                                                "c":  "512.000",
+                                                "d":  "128.000",
+                                                "e":  "256.000"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Três horas comportam 180 ÷ 20 = 9 duplicações, logo 500 x 2⁹ = 500 x 512 = 256.000. A alternativa (b) multiplica por 9 em vez de elevar a 9 — troca de progressão geométrica por aritmética, que é o erro central desse tipo de item.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-12",
+                           "enunciado":  "O preço de um medicamento sofre um aumento de 20% e, no mês seguinte, um desconto de 20% sobre o novo preço. Em relação ao preço original, o preço final é:",
+                           "alternativas":  {
+                                                "a":  "4% maior",
+                                                "b":  "igual ao original",
+                                                "c":  "4% menor",
+                                                "d":  "40% maior",
+                                                "e":  "20% menor"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Os fatores se multiplicam: 1,20 x 0,80 = 0,96, ou seja, 96% do preço original. A alternativa (b) supõe que os percentuais se cancelam, o que só valeria se o desconto incidisse sobre o preço antigo, e não sobre o já aumentado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-13",
+                           "enunciado":  "Um capital de R$ 1.000,00 é aplicado a juros compostos de 10% ao mês. Ao fim de 3 meses, o montante é de:",
+                           "alternativas":  {
+                                                "a":  "R$ 1.300,00",
+                                                "b":  "R$ 1.331,00",
+                                                "c":  "R$ 1.210,00",
+                                                "d":  "R$ 1.100,00",
+                                                "e":  "R$ 1.500,00"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O montante é 1.000 x 1,10³ = 1.000 x 1,331 = 1.331. A alternativa (a) é o resultado a juros simples, e a diferença de 31 reais é exatamente o juro que incidiu sobre juros nos dois últimos meses.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-14",
+                           "enunciado":  "Devem-se infundir 500 mL de soro em 4 horas. O equipo utilizado fornece 20 gotas por mililitro. O gotejamento deve ser ajustado para, aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "84 gotas por minuto",
+                                                "b":  "21 gotas por minuto",
+                                                "c":  "125 gotas por minuto",
+                                                "d":  "42 gotas por minuto",
+                                                "e":  "33 gotas por minuto"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "São 500 x 20 = 10.000 gotas em 240 minutos, o que dá 10.000 ÷ 240 ≈ 41,7 gotas por minuto. A alternativa (c) apresenta a vazão em mililitros por hora, grandeza correta mas unidade errada para o que se pede.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-15",
+                           "enunciado":  "Um setor circular de 60° é recortado de um círculo de raio 6 cm. Adotando π = 3, a área do setor é de:",
+                           "alternativas":  {
+                                                "a":  "18 cm²",
+                                                "b":  "6 cm²",
+                                                "c":  "36 cm²",
+                                                "d":  "108 cm²",
+                                                "e":  "12 cm²"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A área total é 3 x 36 = 108 cm², e o setor de 60° é um sexto dela: 18 cm². A alternativa (d) devolve a área do círculo inteiro, sem aplicar a fração correspondente ao ângulo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-16",
+                           "enunciado":  "Uma pessoa de 1,8 m de altura projeta uma sombra de 1,2 m. No mesmo instante, um prédio projeta sombra de 20 m. A altura do prédio é de:",
+                           "alternativas":  {
+                                                "a":  "30 m",
+                                                "b":  "13,3 m",
+                                                "c":  "24 m",
+                                                "d":  "36 m",
+                                                "e":  "15 m"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Os triângulos são semelhantes, então altura ÷ sombra é constante: 1,8 ÷ 1,2 = 1,5. Logo a altura é 20 x 1,5 = 30 m. A alternativa (b) inverte a razão, resultado que seria menor que a própria sombra — sinal de que a proporção foi montada ao contrário.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-17",
+                           "enunciado":  "Um terreno retangular mede 60 m por 80 m. Comparado ao percurso que segue dois lados consecutivos, o trajeto pela diagonal economiza:",
+                           "alternativas":  {
+                                                "a":  "60 m",
+                                                "b":  "100 m",
+                                                "c":  "20 m",
+                                                "d":  "140 m",
+                                                "e":  "40 m"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A diagonal é a hipotenusa de um triângulo 60-80, ou seja, 100 m. Pelos dois lados seriam 140 m. A economia é 140 − 100 = 40 m. As alternativas (b) e (d) trazem os dois percursos, e não a diferença entre eles.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-18",
+                           "enunciado":  "Um frasco cilíndrico tem raio de 5 cm e altura de 20 cm. Adotando π = 3, sua capacidade é de:",
+                           "alternativas":  {
+                                                "a":  "500 cm³",
+                                                "b":  "6.000 cm³",
+                                                "c":  "300 cm³",
+                                                "d":  "1.500 cm³",
+                                                "e":  "600 cm³"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O volume do cilindro é π x r² x h = 3 x 25 x 20 = 1.500 cm³, ou 1,5 litro. A alternativa (b) usa o diâmetro no lugar do raio, e (c) esquece de elevar o raio ao quadrado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-19",
+                           "enunciado":  "Uma esfera tem raio de 2 cm. Adotando π = 3, seu volume é de:",
+                           "alternativas":  {
+                                                "a":  "24 cm³",
+                                                "b":  "48 cm³",
+                                                "c":  "32 cm³",
+                                                "d":  "16 cm³",
+                                                "e":  "96 cm³"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O volume da esfera é (4 ÷ 3) x π x r³ = (4 ÷ 3) x 3 x 8 = 32 cm³. A alternativa (b) traz o valor numérico da área da superfície, 4πr² = 48, e a (e) esquece o fator um terço.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-20",
+                           "enunciado":  "Se todas as dimensões lineares de um corpo são multiplicadas por 2, a área de sua superfície fica multiplicada por ______ e o volume, por ______, de modo que a razão entre superfície e volume ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "2 – 2 – permanece exatamente a mesma, uma vez que as duas grandezas crescem na mesma proporção quando o corpo é ampliado de modo uniforme",
+                                                "b":  "4 – 8 – cai à metade",
+                                                "c":  "8 – 4 – dobra, o que explica por que os organismos de maior porte trocam calor com o ambiente de forma mais eficiente do que os pequenos",
+                                                "d":  "4 – 6 – diminui em um terço, resultado que decorre da contagem das faces do sólido considerado no problema em sua forma mais simples",
+                                                "e":  "2 – 8 – cai a um quarto, proporção que se mantém para qualquer fator de ampliação aplicado às três dimensões do corpo simultaneamente"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Área cresce com o quadrado do fator (2² = 4) e volume com o cubo (2³ = 8). A razão superfície/volume, portanto, cai por um fator 2. É a mesma matemática que limita o tamanho das células e obriga animais grandes a resolver a troca de calor de outro jeito.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "matematica-21",
+                           "enunciado":  "Dois lados de um triângulo medem 5 cm e 8 cm e formam entre si um ângulo de 60°. O terceiro lado mede:",
+                           "alternativas":  {
+                                                "a":  "3 cm",
+                                                "b":  "13 cm",
+                                                "c":  "9,4 cm",
+                                                "d":  "7 cm",
+                                                "e":  "11 cm"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Pela lei dos cossenos: c² = 25 + 64 − 2 x 5 x 8 x cos 60° = 89 − 40 = 49, logo c = 7. A alternativa (c) corresponde a ignorar o termo do cosseno, o que equivaleria a supor um ângulo de 90°.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-22",
+                           "enunciado":  "Uma rampa de acesso tem 6 m de comprimento e forma um ângulo de 30° com a horizontal. O desnível vencido por ela é de:",
+                           "alternativas":  {
+                                                "a":  "5,2 m",
+                                                "b":  "3,0 m",
+                                                "c":  "12 m",
+                                                "d":  "6,0 m",
+                                                "e":  "3,5 m"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O desnível é o cateto oposto ao ângulo: 6 x sen 30° = 6 x 0,5 = 3,0 m. A alternativa (a) usa o cosseno e devolve o avanço horizontal, que é a projeção da rampa no piso, não a altura ganha.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-23",
+                           "enunciado":  "A pressão arterial de um paciente é modelada por P(t) = 100 + 20 · sen(2πt), com P em mmHg e t em minutos. O valor máximo é ______, o mínimo é ______ e o período da função é ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "120 mmHg – 100 mmHg – 2 minutos, uma vez que a função completa meia oscilação a cada unidade de tempo considerada no modelo",
+                                                "b":  "100 mmHg – 20 mmHg – 2π minutos, intervalo obtido diretamente do coeficiente que multiplica a variável dentro da função seno",
+                                                "c":  "120 mmHg – 80 mmHg – 1 minuto",
+                                                "d":  "20 mmHg – −20 mmHg – 1 minuto, valores que correspondem à amplitude da oscilação em torno da posição central do gráfico",
+                                                "e":  "140 mmHg – 60 mmHg – 2π minutos, resultado da soma e da subtração do dobro da amplitude ao valor médio da pressão registrada"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O seno varia entre −1 e 1, então P vai de 100 − 20 a 100 + 20. O período é 2π dividido pelo coeficiente de t, isto é, 2π ÷ 2π = 1 minuto. A alternativa (d) confunde a amplitude com os valores extremos, esquecendo o deslocamento vertical de 100.",
+                           "formato":  "lacunas",
+                           "banca":  "einstein"
+                       },
+                       {
+                           "id":  "matematica-24",
+                           "enunciado":  "De um grupo de 10 médicos, deseja-se formar uma comissão de 3, sem distinção de cargos. O número de comissões possíveis é:",
+                           "alternativas":  {
+                                                "a":  "120",
+                                                "b":  "720",
+                                                "c":  "30",
+                                                "d":  "1.000",
+                                                "e":  "240"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Como a ordem não importa, é combinação: C(10,3) = (10 x 9 x 8) ÷ 6 = 120. A alternativa (b) é o arranjo, que valeria se os três cargos fossem distintos — presidente, secretário e relator, por exemplo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-25",
+                           "enunciado":  "O número de anagramas distintos da palavra MEDICINA é:",
+                           "alternativas":  {
+                                                "a":  "6.720",
+                                                "b":  "40.320",
+                                                "c":  "5.040",
+                                                "d":  "10.080",
+                                                "e":  "20.160"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "São 8 letras, com a letra I repetida duas vezes: 8! ÷ 2! = 40.320 ÷ 2 = 20.160. A alternativa (b) é o 8! puro, que contaria duas vezes cada anagrama por trocar as duas letras iguais de lugar.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-26",
+                           "enunciado":  "Num grupo, 60% das pessoas praticam atividade física, 50% seguem dieta orientada e 30% fazem as duas coisas. A probabilidade de uma pessoa escolhida ao acaso fazer pelo menos uma das duas é de:",
+                           "alternativas":  {
+                                                "a":  "50%",
+                                                "b":  "110%",
+                                                "c":  "80%",
+                                                "d":  "30%",
+                                                "e":  "20%"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pela regra da união: 60% + 50% − 30% = 80%. A alternativa (b) soma sem descontar a interseção, e o resultado acima de 100% já denuncia que quem faz as duas coisas foi contado duas vezes.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-27",
+                           "enunciado":  "Uma caixa contém 5 comprimidos do tipo A e 3 do tipo B. Retirando-se 2 comprimidos ao acaso, sem reposição, a probabilidade de ambos serem do tipo A é de:",
+                           "alternativas":  {
+                                                "a":  "5/14",
+                                                "b":  "25/64",
+                                                "c":  "5/8",
+                                                "d":  "1/2",
+                                                "e":  "3/28"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A primeira retirada tem probabilidade 5/8; a segunda, com um A a menos e um comprimido a menos na caixa, tem 4/7. O produto é 20/56 = 5/14. A alternativa (b) supõe reposição, mantendo 5/8 nas duas retiradas.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-28",
+                           "enunciado":  "Os tempos de espera, em minutos, de cinco pacientes foram 2, 3, 3, 4 e 88. A média e a mediana desse conjunto são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "20 e 88",
+                                                "b":  "3 e 20",
+                                                "c":  "20 e 4",
+                                                "d":  "4 e 3",
+                                                "e":  "20 e 3"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A soma é 100 e a média, 100 ÷ 5 = 20. Ordenados, o valor central é 3. O caso mostra por que a mediana costuma descrever melhor um conjunto com valor extremo: nenhum paciente esperou perto de 20 minutos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-29",
+                           "enunciado":  "Duas turmas obtiveram a mesma média em uma avaliação, mas a turma A apresentou desvio padrão maior. Isso significa que, na turma A, as notas ______ e que a média ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "são mais altas em geral – descreve com maior fidelidade o rendimento de cada estudante da turma ao longo de todo o período avaliado",
+                                                "b":  "estão mais espalhadas – representa pior o desempenho individual",
+                                                "c":  "estão mais concentradas – resume adequadamente o conjunto, já que a dispersão observada não interfere na leitura da tendência central",
+                                                "d":  "são mais baixas em geral – precisa ser corrigida por um fator proporcional à dispersão antes de qualquer comparação entre as duas turmas",
+                                                "e":  "seguem distribuição simétrica – coincide necessariamente com a mediana e com a moda do conjunto de notas obtidas pelos estudantes"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Desvio padrão mede dispersão em torno da média. Maior dispersão significa notas mais afastadas do centro, e um centro que descreve mal os casos individuais. Média igual com dispersões diferentes é o exemplo padrão de por que uma medida de posição sozinha não basta.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "matematica-30",
+                           "enunciado":  "Deseja-se obter 400 mL de uma solução a 20%, misturando uma solução a 10% com outra a 50%. Os volumes necessários de cada uma são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "250 mL e 150 mL",
+                                                "b":  "200 mL e 200 mL",
+                                                "c":  "100 mL e 300 mL",
+                                                "d":  "300 mL e 100 mL",
+                                                "e":  "350 mL e 50 mL"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Com x + y = 400 e 0,10x + 0,50y = 80, chega-se a y = 100 e x = 300. A alternativa (b) supõe que a média das concentrações é a média aritmética simples, o que daria 30% e não 20%.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-31",
+                           "enunciado":  "No plano cartesiano, a distância entre os pontos A(1, 2) e B(4, 6) é de:",
+                           "alternativas":  {
+                                                "a":  "7",
+                                                "b":  "5",
+                                                "c":  "25",
+                                                "d":  "√7",
+                                                "e":  "3"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A distância é a raiz de (4 − 1)² + (6 − 2)² = raiz de 9 + 16 = raiz de 25 = 5. A alternativa (c) para antes da raiz, e a (a) soma as diferenças em vez de aplicar Pitágoras.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-32",
+                           "enunciado":  "A equação (x − 3)² + (y + 1)² = 16 representa uma circunferência de centro e raio, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "(−3, 1) e 16",
+                                                "b":  "(−3, 1) e 4",
+                                                "c":  "(3, −1) e 16",
+                                                "d":  "(3, −1) e 4",
+                                                "e":  "(3, 1) e 4"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Na forma reduzida, o centro é (a, b) com os sinais trocados em relação aos que aparecem nos parênteses, e o termo à direita é o raio ao quadrado. Assim, centro (3, −1) e raio 4. A alternativa (c) confunde o raio com o seu quadrado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-33",
+                           "enunciado":  "O coeficiente angular da reta que passa por P(2, 1) e Q(6, 9) é:",
+                           "alternativas":  {
+                                                "a":  "2",
+                                                "b":  "1/2",
+                                                "c":  "4",
+                                                "d":  "−2",
+                                                "e":  "8"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O coeficiente angular é a variação de y dividida pela de x: (9 − 1) ÷ (6 − 2) = 8 ÷ 4 = 2. A alternativa (b) inverte a razão, e a (e) apresenta apenas a variação vertical, sem dividir pela horizontal.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-34",
+                           "enunciado":  "Sendo f(x) = 2x + 3 e g(x) = x², o valor de f(g(2)) é:",
+                           "alternativas":  {
+                                                "a":  "14",
+                                                "b":  "49",
+                                                "c":  "7",
+                                                "d":  "25",
+                                                "e":  "11"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Primeiro g(2) = 4, depois f(4) = 8 + 3 = 11. A alternativa (b) calcula g(f(2)), isto é, aplica as funções na ordem inversa — e o fato de os dois resultados diferirem mostra que a composição não é comutativa.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-35",
+                           "enunciado":  "As soluções reais da equação |2x − 6| = 4 são:",
+                           "alternativas":  {
+                                                "a":  "1",
+                                                "b":  "5",
+                                                "c":  "5 e 1",
+                                                "d":  "5 e −1",
+                                                "e":  "−5 e 1"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O módulo abre em dois casos: 2x − 6 = 4, que dá x = 5, e 2x − 6 = −4, que dá x = 1. Ficar só com o primeiro caso, como em (b), é o descuido mais comum em equação modular.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-36",
+                           "enunciado":  "O pH de uma solução é dado por pH = −log[H⁺]. Para [H⁺] = 4 × 10⁻⁶ mol/L, adotando log 2 = 0,30, o pH vale:",
+                           "alternativas":  {
+                                                "a":  "4,0",
+                                                "b":  "6,0",
+                                                "c":  "5,6",
+                                                "d":  "6,6",
+                                                "e":  "5,4"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "pH = −log(4 x 10⁻⁶) = 6 − log 4 = 6 − 2 x 0,30 = 5,4. A alternativa (b) ignora o fator 4 e considera apenas a potência de dez; a (d) soma em vez de subtrair o logaritmo de 4.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-37",
+                           "enunciado":  "O determinante da matriz de primeira linha (3, 2) e segunda linha (1, 4) é:",
+                           "alternativas":  {
+                                                "a":  "12",
+                                                "b":  "14",
+                                                "c":  "10",
+                                                "d":  "2",
+                                                "e":  "−10"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Num determinante de ordem 2, multiplica-se a diagonal principal e subtrai-se o produto da secundária: 3 x 4 − 2 x 1 = 12 − 2 = 10. A alternativa (b) soma os dois produtos em vez de subtrair.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-38",
+                           "enunciado":  "Uma farmácia vendeu 30 caixas entre dois medicamentos, um a R$ 20,00 e outro a R$ 35,00, arrecadando R$ 750,00. As quantidades vendidas de cada um foram, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "10 e 20",
+                                                "b":  "20 e 10",
+                                                "c":  "15 e 15",
+                                                "d":  "25 e 5",
+                                                "e":  "5 e 25"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com x + y = 30 e 20x + 35y = 750, substitui-se x = 30 − y e chega-se a 600 + 15y = 750, logo y = 10 e x = 20. Vale conferir: 20 x 20 + 10 x 35 = 400 + 350 = 750.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-39",
+                           "enunciado":  "Um cone circular reto tem raio da base 3 cm e altura 4 cm. Adotando π = 3, seu volume é de:",
+                           "alternativas":  {
+                                                "a":  "48 cm³",
+                                                "b":  "108 cm³",
+                                                "c":  "12 cm³",
+                                                "d":  "36 cm³",
+                                                "e":  "27 cm³"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O volume do cone é um terço do produto da área da base pela altura: (1 ÷ 3) x 3 x 9 x 4 = 36 cm³. A alternativa (b) é o volume do cilindro de mesma base e altura, exatamente o triplo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-40",
+                           "enunciado":  "Uma pirâmide de base quadrada tem aresta da base 6 cm e altura 10 cm. Seu volume é de:",
+                           "alternativas":  {
+                                                "a":  "120 cm³",
+                                                "b":  "360 cm³",
+                                                "c":  "60 cm³",
+                                                "d":  "180 cm³",
+                                                "e":  "240 cm³"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A base tem 36 cm² e o volume é (1 ÷ 3) x 36 x 10 = 120 cm³. A alternativa (b) omite o fator um terço, que é o que distingue a pirâmide do prisma de mesma base e altura.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-41",
+                           "enunciado":  "Uma caixa em forma de paralelepípedo mede 20 cm por 15 cm por 10 cm e será totalmente forrada por fora. A área a ser forrada é de:",
+                           "alternativas":  {
+                                                "a":  "1.300 cm²",
+                                                "b":  "650 cm²",
+                                                "c":  "3.000 cm²",
+                                                "d":  "900 cm²",
+                                                "e":  "2.600 cm²"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "As faces são iguais duas a duas: 2 x (20 x 15 + 20 x 10 + 15 x 10) = 2 x 650 = 1.300 cm². A alternativa (b) conta cada par uma vez só, e a (c) devolve o volume, que é outra grandeza.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-42",
+                           "enunciado":  "Num triângulo, o lado a mede 10 cm e é oposto a um ângulo de 30°. O lado b é oposto a um ângulo de 45°. A medida de b é:",
+                           "alternativas":  {
+                                                "a":  "15√2 cm",
+                                                "b":  "5√2 cm",
+                                                "c":  "20 cm",
+                                                "d":  "10 cm",
+                                                "e":  "10√2 cm"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Pela lei dos senos, b = a x sen 45° ÷ sen 30° = 10 x (√2 ÷ 2) ÷ (1 ÷ 2) = 10√2. Como 45° é maior que 30°, o lado b tem de ser maior que a — o que já elimina a alternativa (b).",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-43",
+                           "enunciado":  "O ângulo de 240°, expresso em radianos, corresponde a:",
+                           "alternativas":  {
+                                                "a":  "5π/3",
+                                                "b":  "3π/4",
+                                                "c":  "2π/3",
+                                                "d":  "4π/3",
+                                                "e":  "3π/2"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Basta multiplicar por π e dividir por 180: 240π ÷ 180 = 4π/3. A alternativa (c) corresponde a 120°, e a (a), a 300° — todas do terceiro ou quarto quadrante, o que exige atenção ao valor exato e não só ao quadrante.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-44",
+                           "enunciado":  "Um paciente caminha 15 minutos no primeiro dia de um programa e aumenta 3 minutos por dia. Ele atingirá 60 minutos de caminhada no dia:",
+                           "alternativas":  {
+                                                "a":  "20º",
+                                                "b":  "15º",
+                                                "c":  "16º",
+                                                "d":  "45º",
+                                                "e":  "12º"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Numa progressão aritmética, 15 + (n − 1) x 3 = 60 leva a n − 1 = 15 e n = 16. A alternativa (b) conta os saltos em vez dos dias, esquecendo que o primeiro dia já é um termo da sequência.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-45",
+                           "enunciado":  "A soma dos infinitos termos da progressão geométrica de primeiro termo 80 e razão 1/2 é:",
+                           "alternativas":  {
+                                                "a":  "80",
+                                                "b":  "160",
+                                                "c":  "120",
+                                                "d":  "240",
+                                                "e":  "40"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com razão de módulo menor que 1, a soma converge para a₁ ÷ (1 − q) = 80 ÷ 0,5 = 160. A alternativa (c) soma apenas os primeiros termos e para cedo, sem perceber que a série inteira tende ao dobro do primeiro termo neste caso.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-46",
+                           "enunciado":  "Dois eventos são mutuamente exclusivos quando ______ e são independentes quando ______; dois eventos de probabilidade não nula ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "sempre ocorrem juntos – nunca ocorrem juntos – são necessariamente as duas coisas, uma vez que as duas definições descrevem propriedades complementares do mesmo fenômeno",
+                                                "b":  "a ocorrência de um não altera a chance do outro – não podem ocorrer juntos – são sempre as duas coisas ao mesmo tempo, desde que o espaço amostral seja finito e equiprovável",
+                                                "c":  "têm a mesma probabilidade – têm probabilidades diferentes – podem ser as duas coisas apenas quando a soma de suas probabilidades individuais for exatamente igual a um",
+                                                "d":  "não podem ocorrer juntos – a ocorrência de um não altera a chance do outro – não podem ser as duas coisas ao mesmo tempo",
+                                                "e":  "pertencem ao mesmo espaço amostral – pertencem a espaços amostrais distintos – não podem ser comparados entre si por meio das regras usuais do cálculo de probabilidades"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Mutuamente exclusivos significa interseção vazia; independentes significa que a probabilidade da interseção é o produto das probabilidades. Se as duas probabilidades são não nulas, o produto é positivo e a interseção não pode ser vazia — as duas condições se excluem.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "matematica-47",
+                           "enunciado":  "Um tratamento tem 50% de chance de sucesso em cada paciente, de forma independente. Aplicado a 3 pacientes, a probabilidade de exatamente 2 sucessos é de:",
+                           "alternativas":  {
+                                                "a":  "1/8",
+                                                "b":  "3/8",
+                                                "c":  "1/2",
+                                                "d":  "2/3",
+                                                "e":  "1/4"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Cada sequência específica tem probabilidade (1/2)³ = 1/8, e há C(3,2) = 3 sequências com dois sucessos. Logo, 3 x 1/8 = 3/8. A alternativa (a) esquece de contar as três ordens possíveis.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-48",
+                           "enunciado":  "Num conjunto ordenado de dados, a mediana divide ______, o primeiro quartil deixa abaixo de si ______ e a amplitude interquartil mede ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "os dados pela média aritmética – 75% dos dados – o afastamento médio de cada observação em relação ao valor central do conjunto",
+                                                "b":  "o conjunto em quatro partes – 50% dos dados – a diferença entre o maior e o menor valor observado em toda a distribuição estudada",
+                                                "c":  "o conjunto em duas metades – 25% dos dados – a dispersão do miolo central",
+                                                "d":  "o conjunto em duas metades – 10% dos dados – a soma dos quadrados dos desvios em torno da média, dividida pelo número de observações",
+                                                "e":  "os dados em partes iguais em número – 25% dos dados – a amplitude total da amostra, incluindo os valores extremos registrados nas duas pontas"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A mediana é o segundo quartil e parte o conjunto ao meio; o primeiro quartil marca os 25% inferiores. A amplitude interquartil, diferença entre o terceiro e o primeiro quartil, cobre os 50% centrais — e por isso não se abala com valores extremos, ao contrário da amplitude total.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "matematica-49",
+                           "enunciado":  "Uma população cresce 8% ao ano. Adotando log 1,08 = 0,0334 e log 2 = 0,301, o tempo aproximado para que ela dobre é de:",
+                           "alternativas":  {
+                                                "a":  "9 anos",
+                                                "b":  "12,5 anos",
+                                                "c":  "8 anos",
+                                                "d":  "25 anos",
+                                                "e":  "5 anos"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "De 1,08ⁿ = 2 vem n = log 2 ÷ log 1,08 = 0,301 ÷ 0,0334 ≈ 9. A alternativa (b) divide 100 por 8, tratando o crescimento como se fosse linear — e a diferença de três anos e meio mostra o quanto essa aproximação custa.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-50",
+                           "enunciado":  "Num mapa de escala 1:50.000, dois pontos estão separados por 6 cm. A distância real entre eles é de:",
+                           "alternativas":  {
+                                                "a":  "50 km",
+                                                "b":  "30 km",
+                                                "c":  "300 m",
+                                                "d":  "0,3 km",
+                                                "e":  "3 km"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A distância real é 6 x 50.000 = 300.000 cm. Convertendo, 300.000 cm são 3.000 m, ou 3 km. Os demais valores nascem de errar uma casa na conversão entre centímetro, metro e quilômetro.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-51",
+                           "enunciado":  "Um município tem 1.200.000 habitantes e área de 4.000 km². Sua densidade demográfica é de:",
+                           "alternativas":  {
+                                                "a":  "3.000 hab/km²",
+                                                "b":  "30 hab/km²",
+                                                "c":  "300 hab/km²",
+                                                "d":  "0,003 hab/km²",
+                                                "e":  "480 hab/km²"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Densidade demográfica é população dividida por área: 1.200.000 ÷ 4.000 = 300 habitantes por quilômetro quadrado. A alternativa (d) inverte a divisão, o que dá a área disponível por habitante e não a densidade.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-52",
+                           "enunciado":  "O índice de massa corporal é a razão entre a massa, em quilogramas, e o quadrado da altura, em metros. Para uma pessoa de 81 kg e 1,8 m, esse índice é de:",
+                           "alternativas":  {
+                                                "a":  "25,0",
+                                                "b":  "45,0",
+                                                "c":  "22,5",
+                                                "d":  "27,8",
+                                                "e":  "14,6"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O quadrado da altura é 3,24, e 81 ÷ 3,24 = 25,0. A alternativa (b) divide pela altura sem elevá-la ao quadrado — erro que produz um número quase o dobro do correto e fora de qualquer faixa plausível do índice.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-53",
+                           "enunciado":  "Uma solução de 200 mL a 15% de soluto é diluída com água até completar 600 mL. A concentração final é de:",
+                           "alternativas":  {
+                                                "a":  "10%",
+                                                "b":  "45%",
+                                                "c":  "7,5%",
+                                                "d":  "3%",
+                                                "e":  "5%"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A quantidade de soluto não muda: 200 x 0,15 = 30 unidades, agora distribuídas em 600 mL, o que dá 30 ÷ 600 = 5%. Como o volume triplicou, a concentração cai a um terço — a alternativa (b) multiplica em vez de dividir.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-54",
+                           "enunciado":  "O número de atendimentos de um posto caiu de 250 para 200 por semana. A redução percentual foi de:",
+                           "alternativas":  {
+                                                "a":  "25%",
+                                                "b":  "20%",
+                                                "c":  "50%",
+                                                "d":  "80%",
+                                                "e":  "5%"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A queda de 50 deve ser comparada ao valor inicial: 50 ÷ 250 = 0,20. A alternativa (a) divide pelo valor final, e é justamente por isso que uma queda de 20% e um aumento de 25% se desfazem mutuamente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-55",
+                           "enunciado":  "A juros simples, o rendimento incide sempre sobre ______; a juros compostos, incide sobre ______; por isso, para prazos maiores que um período e à mesma taxa, o montante composto é ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "o saldo devedor médio – o saldo devedor final – maior apenas no primeiro período, passando a ser menor a partir do segundo mês de aplicação do capital",
+                                                "b":  "o montante do período anterior – o capital inicial – sempre menor, uma vez que a capitalização simples acumula os rendimentos de forma progressiva ao longo do prazo",
+                                                "c":  "o capital inicial – o capital inicial corrigido pela inflação – igual, já que as duas modalidades produzem o mesmo resultado quando a taxa aplicada é constante",
+                                                "d":  "o capital inicial – o montante do período anterior – sempre maior",
+                                                "e":  "o montante final – o montante inicial – imprevisível, pois depende do número de períodos e da forma como a taxa é convertida entre as diferentes unidades de tempo"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "No regime simples a base de cálculo é fixa; no composto ela cresce a cada período, porque os juros passam a render juros. No primeiro período os dois coincidem; a partir do segundo, o composto abre vantagem, e a diferença cresce com o prazo.",
+                           "formato":  "lacunas",
+                           "banca":  "santacasa"
+                       },
+                       {
+                           "id":  "matematica-56",
+                           "enunciado":  "Uma população de bactérias é descrita por P(t) = 5.000 · 1,2ᵗ, com t em horas. Após 3 horas, a população será de:",
+                           "alternativas":  {
+                                                "a":  "8.000",
+                                                "b":  "8.640",
+                                                "c":  "6.000",
+                                                "d":  "18.000",
+                                                "e":  "7.200"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Como 1,2³ = 1,728, tem-se 5.000 x 1,728 = 8.640. A alternativa (a) aplica 20% três vezes de forma aditiva, isto é, 60% sobre o valor inicial, o que subestima o crescimento composto.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-57",
+                           "enunciado":  "Numa banca, a redação tem peso 2, a prova de matemática tem peso 0,5 e cada uma das outras três provas tem peso 1. Um candidato obteve 8,0 na redação, 4,0 em matemática e 6,0 em cada uma das demais. Sua média ponderada é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "7,2",
+                                                "b":  "6,0",
+                                                "c":  "5,6",
+                                                "d":  "6,5",
+                                                "e":  "6,8"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A soma dos pesos é 2 + 0,5 + 3 = 5,5, e a soma ponderada é 8 x 2 + 4 x 0,5 + 6 x 3 = 36. Logo 36 ÷ 5,5 ≈ 6,5. A alternativa (b) é a média simples das cinco notas, que ignora os pesos e apaga o efeito da redação.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-58",
+                           "enunciado":  "Dois lados de um triângulo medem 8 cm e 10 cm e formam entre si um ângulo de 30°. A área do triângulo é de:",
+                           "alternativas":  {
+                                                "a":  "20 cm²",
+                                                "b":  "40 cm²",
+                                                "c":  "80 cm²",
+                                                "d":  "10 cm²",
+                                                "e":  "34,6 cm²"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A área é metade do produto dos dois lados pelo seno do ângulo entre eles: 0,5 x 8 x 10 x 0,5 = 20 cm². A alternativa (b) esquece o fator um meio, e a (e) usa o seno de 60° no lugar do de 30°.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-59",
+                           "enunciado":  "Um reservatório de 2,5 m³ está completamente cheio. Seu conteúdo, em litros, é de:",
+                           "alternativas":  {
+                                                "a":  "25 L",
+                                                "b":  "250 L",
+                                                "c":  "25.000 L",
+                                                "d":  "2,5 L",
+                                                "e":  "2.500 L"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Um metro cúbico corresponde a mil litros, então 2,5 m³ são 2.500 litros. Os demais valores nascem de deslocar a vírgula uma ou duas casas — o tipo de erro que uma checagem de ordem de grandeza pega de imediato.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-60",
+                           "enunciado":  "Uma escala de plantão precisa de um médico, escolhido entre 4, um enfermeiro, entre 6, e um técnico, entre 5. O número de equipes distintas que podem ser formadas é:",
+                           "alternativas":  {
+                                                "a":  "60",
+                                                "b":  "15",
+                                                "c":  "120",
+                                                "d":  "455",
+                                                "e":  "30"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pelo princípio multiplicativo, 4 x 6 x 5 = 120. A alternativa (b) soma os grupos em vez de multiplicá-los, e a (d) trata os quinze profissionais como um conjunto único do qual se escolheriam três sem distinguir as funções.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-61",
+                           "enunciado":  "Um quadrado de lado 10 cm tem uma circunferência inscrita. Adotando π = 3, a área da região interna ao quadrado e externa à circunferência é de:",
+                           "alternativas":  {
+                                                "a":  "175 cm²",
+                                                "b":  "75 cm²",
+                                                "c":  "100 cm²",
+                                                "d":  "50 cm²",
+                                                "e":  "25 cm²"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A circunferência inscrita tem raio igual à metade do lado, isto é, 5 cm, e área 3 x 25 = 75 cm². A região pedida é 100 − 75 = 25 cm². A alternativa (b) devolve a área do círculo, e não a sobra entre as duas figuras.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-62",
+                           "enunciado":  "O custo de produção de um item é C(x) = 500 + 20x e a receita é R(x) = 45x, ambos em reais. A produção a partir da qual há lucro é de:",
+                           "alternativas":  {
+                                                "a":  "500 unidades",
+                                                "b":  "25 unidades",
+                                                "c":  "20 unidades",
+                                                "d":  "10 unidades",
+                                                "e":  "8 unidades"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "No ponto de equilíbrio, 45x = 500 + 20x, logo 25x = 500 e x = 20. A alternativa (b) usa a diferença entre os coeficientes como se fosse a resposta, confundindo a margem por unidade com a quantidade que zera o resultado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-63",
+                           "enunciado":  "O conjunto solução da inequação x² − 5x + 6 \u003c 0, no conjunto dos reais, é:",
+                           "alternativas":  {
+                                                "a":  "x \u003c 2 ou x \u003e 3",
+                                                "b":  "2 \u003c x \u003c 3",
+                                                "c":  "x \u003c 2",
+                                                "d":  "x \u003e 3",
+                                                "e":  "−3 \u003c x \u003c −2"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "As raízes são 2 e 3, e a parábola tem concavidade para cima, então ela fica abaixo do eixo apenas entre as raízes. A alternativa (a) responde à inequação de sinal contrário, que é o erro mais frequente aqui.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-64",
+                           "enunciado":  "O domínio da função real f(x) = √(x − 4) é:",
+                           "alternativas":  {
+                                                "a":  "x ≥ −4",
+                                                "b":  "x \u003e 4",
+                                                "c":  "x ≤ 4",
+                                                "d":  "x ≥ 4",
+                                                "e":  "todos os reais"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O radicando de uma raiz de índice par não pode ser negativo, mas pode ser zero: x − 4 ≥ 0, logo x ≥ 4. A alternativa (b) exclui o 4 sem motivo, já que a raiz de zero é definida e vale zero.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-65",
+                           "enunciado":  "Adotando log 2 = 0,30 e log 3 = 0,48, o valor de log 12 é:",
+                           "alternativas":  {
+                                                "a":  "1,08",
+                                                "b":  "0,78",
+                                                "c":  "1,44",
+                                                "d":  "0,144",
+                                                "e":  "0,90"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Como 12 = 2² x 3, tem-se log 12 = 2 x 0,30 + 0,48 = 1,08. A alternativa (b) calcula log 6, e a (d) multiplica os logaritmos em vez de somá-los — o logaritmo transforma produto em soma, não em produto.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-66",
+                           "enunciado":  "A solução real da equação 3^(x + 1) = 81 é:",
+                           "alternativas":  {
+                                                "a":  "3",
+                                                "b":  "4",
+                                                "c":  "27",
+                                                "d":  "2",
+                                                "e":  "80"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Escrevendo 81 como 3⁴, igualam-se os expoentes: x + 1 = 4, logo x = 3. A alternativa (b) para no expoente sem resolver a equação do primeiro grau que sobra, esquecendo do 1 somado a x.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-67",
+                           "enunciado":  "Multiplicando-se a matriz de linhas (1, 2) e (3, 0) pela matriz coluna de elementos 2 e 1, obtém-se a matriz coluna de elementos:",
+                           "alternativas":  {
+                                                "a":  "2 e 3",
+                                                "b":  "2 e 6",
+                                                "c":  "4 e 3",
+                                                "d":  "3 e 5",
+                                                "e":  "4 e 6"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Cada elemento é o produto de uma linha pela coluna: 1 x 2 + 2 x 1 = 4 e 3 x 2 + 0 x 1 = 6. A alternativa (a) multiplica elemento a elemento na mesma posição, o que não é multiplicação de matrizes.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-68",
+                           "enunciado":  "Um sistema linear é possível e determinado quando ______, possível e indeterminado quando ______ e impossível quando ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "todos os coeficientes são positivos – algum coeficiente se anula – o termo independente assume valor diferente de zero em pelo menos uma das linhas",
+                                                "b":  "tem infinitas soluções – tem solução única – admite soluções apenas para determinados valores atribuídos previamente às incógnitas do problema",
+                                                "c":  "o número de equações iguala o de incógnitas – há mais equações que incógnitas – há mais incógnitas do que equações no conjunto apresentado",
+                                                "d":  "tem solução única – tem infinitas soluções – não tem solução alguma",
+                                                "e":  "não tem solução alguma – tem solução única – tem infinitas soluções, situação em que as equações representam retas coincidentes no plano cartesiano"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A classificação depende só do conjunto solução: um ponto, infinitos pontos ou nenhum. Comparar o número de equações com o de incógnitas, como faz (c), sugere o resultado mas não decide — duas equações e duas incógnitas podem descrever retas paralelas, e aí o sistema é impossível.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "matematica-69",
+                           "enunciado":  "Um recipiente cilíndrico de raio 4 cm contém água até a altura de 10 cm. Ao se mergulhar nele um corpo que afunda completamente, o nível sobe para 12 cm. Adotando π = 3, o volume do corpo é de:",
+                           "alternativas":  {
+                                                "a":  "576 cm³",
+                                                "b":  "480 cm³",
+                                                "c":  "96 cm³",
+                                                "d":  "32 cm³",
+                                                "e":  "192 cm³"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O volume do corpo é o volume de água deslocada: 3 x 16 x 2 = 96 cm³. As alternativas (b) e (a) trazem os volumes de líquido antes e depois, e não a diferença entre eles, que é o que o corpo ocupa.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-70",
+                           "enunciado":  "Uma esfera tem raio de 5 cm. Adotando π = 3, a área de sua superfície é de:",
+                           "alternativas":  {
+                                                "a":  "500 cm²",
+                                                "b":  "300 cm²",
+                                                "c":  "75 cm²",
+                                                "d":  "150 cm²",
+                                                "e":  "1.500 cm²"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A área da superfície esférica é 4πr² = 4 x 3 x 25 = 300 cm². A alternativa (a) traz o valor numérico do volume, e a (c) usa πr², que é a área de um círculo de mesmo raio — quatro vezes menor.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-71",
+                           "enunciado":  "Sendo sen x = 3/5, com x no primeiro quadrante, o valor de cos x é:",
+                           "alternativas":  {
+                                                "a":  "−4/5",
+                                                "b":  "2/5",
+                                                "c":  "5/4",
+                                                "d":  "4/5",
+                                                "e":  "3/4"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Pela relação fundamental, cos²x = 1 − 9/25 = 16/25, logo cos x = 4/5, positivo por se tratar do primeiro quadrante. A alternativa (b) subtrai as frações diretamente, sem passar pelos quadrados.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-72",
+                           "enunciado":  "Ainda com sen x = 3/5 e cos x = 4/5, o valor de sen 2x é:",
+                           "alternativas":  {
+                                                "a":  "12/25",
+                                                "b":  "24/25",
+                                                "c":  "6/5",
+                                                "d":  "7/25",
+                                                "e":  "24/5"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Pela fórmula do arco duplo, sen 2x = 2 x sen x x cos x = 2 x (3/5) x (4/5) = 24/25. A alternativa (c) dobra o seno, como se sen 2x fosse 2 sen x — e o resultado maior que 1 já mostra que isso não pode valer.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-73",
+                           "enunciado":  "Inserindo-se 5 meios aritméticos entre 4 e 28, a razão da progressão obtida é:",
+                           "alternativas":  {
+                                                "a":  "4,8",
+                                                "b":  "6",
+                                                "c":  "4",
+                                                "d":  "24",
+                                                "e":  "5"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com os cinco meios, a sequência tem 7 termos, então 28 = 4 + 6r e r = 4. A alternativa (a) divide a diferença por 5 em vez de 6, contando os meios em vez dos intervalos entre termos consecutivos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-74",
+                           "enunciado":  "Numa progressão geométrica de primeiro termo 3 e razão 2, o oitavo termo é:",
+                           "alternativas":  {
+                                                "a":  "384",
+                                                "b":  "768",
+                                                "c":  "192",
+                                                "d":  "24",
+                                                "e":  "48"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O termo geral é a₁ x q^(n−1) = 3 x 2⁷ = 3 x 128 = 384. A alternativa (b) usa expoente 8 em vez de 7, e a (d) multiplica o primeiro termo pelo número de termos, tratando a progressão como se fosse aritmética.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-75",
+                           "enunciado":  "Seis pessoas vão se sentar ao redor de uma mesa circular. Considerando equivalentes as disposições que diferem apenas por rotação, o número de arrumações distintas é:",
+                           "alternativas":  {
+                                                "a":  "60",
+                                                "b":  "720",
+                                                "c":  "24",
+                                                "d":  "30",
+                                                "e":  "120"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Na permutação circular fixa-se uma pessoa e permutam-se as demais: (6 − 1)! = 120. A alternativa (b) é 6!, que valeria numa fila, onde girar todo mundo um lugar produz uma disposição diferente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-76",
+                           "enunciado":  "Um cardápio oferece 3 entradas, 4 pratos principais e 2 sobremesas. O número de refeições completas com um item de cada tipo e o número de escolhas de um único item, de qualquer tipo, são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "24 e 24",
+                                                "b":  "9 e 24",
+                                                "c":  "24 e 9",
+                                                "d":  "9 e 9",
+                                                "e":  "12 e 9"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Escolher um de cada tipo é caso do princípio multiplicativo: 3 x 4 x 2 = 24. Escolher um único item entre os três grupos é caso do princípio aditivo: 3 + 4 + 2 = 9. O que decide qual usar é a conjunção do enunciado: \"e\" multiplica, \"ou\" soma.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-77",
+                           "enunciado":  "Três pacientes têm, cada um e de forma independente, 20% de chance de apresentar determinada reação. A probabilidade de pelo menos um deles apresentá-la é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "48,8%",
+                                                "b":  "60%",
+                                                "c":  "51,2%",
+                                                "d":  "20%",
+                                                "e":  "80%"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O caminho curto é pelo complementar: nenhum reagir tem probabilidade 0,8³ = 0,512, então pelo menos um tem 1 − 0,512 = 0,488. A alternativa (b) soma os 20% três vezes, o que conta duas vezes os casos em que mais de um reage.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-78",
+                           "enunciado":  "Um alvo circular de raio 10 cm tem, no centro, um círculo de raio 2 cm. Supondo que o ponto atingido seja aleatório e uniformemente distribuído no alvo, a probabilidade de acertar o círculo central é de:",
+                           "alternativas":  {
+                                                "a":  "2%",
+                                                "b":  "20%",
+                                                "c":  "40%",
+                                                "d":  "10%",
+                                                "e":  "4%"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Em probabilidade geométrica, a chance é a razão entre as áreas: (2² ÷ 10²) = 4 ÷ 100 = 4%. A alternativa (b) usa a razão entre os raios, esquecendo que a área cresce com o quadrado da dimensão linear.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-79",
+                           "enunciado":  "Numa distribuição de frequências, a moda é ______ e a mediana é ______; numa distribuição simétrica e unimodal, as duas ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "o valor de posição central – o valor mais frequente – afastam-se necessariamente da média aritmética calculada para o mesmo conjunto de observações",
+                                                "b":  "o valor mais frequente – o valor de posição central – coincidem com a média",
+                                                "c":  "a média dos extremos – a média de todos os valores – dividem o conjunto em quatro partes com o mesmo número de elementos em cada uma delas",
+                                                "d":  "o maior valor observado – o menor valor observado – delimitam a amplitude total, medida que resume a variabilidade da amostra em um único número",
+                                                "e":  "o valor mais frequente – a média aritmética simples – assumem valores distintos, ainda que a distribuição apresente perfeito equilíbrio entre as duas caudas"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Moda é frequência, mediana é posição e média é equilíbrio. As três só coincidem em distribuições simétricas e de um único pico; quando há assimetria, a média é a que mais se desloca na direção da cauda mais longa.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "matematica-80",
+                           "enunciado":  "Um posto registrou os seguintes atendimentos: segunda 40, terça 55, quarta 35, quinta 50 e sexta 70. O aumento percentual de quinta para sexta foi de:",
+                           "alternativas":  {
+                                                "a":  "30%",
+                                                "b":  "20%",
+                                                "c":  "28,6%",
+                                                "d":  "40%",
+                                                "e":  "70%"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O aumento de 20 atendimentos deve ser dividido pelo valor de partida: 20 ÷ 50 = 0,40. A alternativa (c) divide pelo valor de chegada, que responderia a outra pergunta — quanto sexta teria de cair para voltar ao patamar de quinta.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-81",
+                           "enunciado":  "Um produto recebe um desconto de 10% e, em seguida, outro de 20% sobre o valor já reduzido. O desconto único equivalente é de:",
+                           "alternativas":  {
+                                                "a":  "30%",
+                                                "b":  "28%",
+                                                "c":  "26%",
+                                                "d":  "32%",
+                                                "e":  "18%"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Os fatores se multiplicam: 0,90 x 0,80 = 0,72, ou seja, paga-se 72% e o desconto é de 28%. A alternativa (a) soma os percentuais, o que ignora que o segundo desconto incide sobre uma base já menor.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-82",
+                           "enunciado":  "Seis funcionários realizam determinado serviço em 10 dias. Mantido o mesmo ritmo, quatro funcionários realizariam o mesmo serviço em:",
+                           "alternativas":  {
+                                                "a":  "12 dias",
+                                                "b":  "6,7 dias",
+                                                "c":  "20 dias",
+                                                "d":  "15 dias",
+                                                "e":  "8 dias"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "As grandezas são inversamente proporcionais: 6 x 10 = 4 x t, logo t = 15 dias. A alternativa (b) monta a proporção como se fossem diretamente proporcionais, e o resultado, menor que 10, já contraria o bom senso.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-83",
+                           "enunciado":  "Uma quantia de R$ 4.500,00 é dividida em partes diretamente proporcionais a 2, 3 e 4. A maior das partes é de:",
+                           "alternativas":  {
+                                                "a":  "R$ 2.000,00",
+                                                "b":  "R$ 1.500,00",
+                                                "c":  "R$ 1.000,00",
+                                                "d":  "R$ 2.250,00",
+                                                "e":  "R$ 1.800,00"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A soma dos índices é 9, então cada unidade vale 4.500 ÷ 9 = 500. A maior parte corresponde a 4 unidades: 2.000 reais. A alternativa (d) simplesmente divide a metade do total, sem usar a proporção pedida.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-84",
+                           "enunciado":  "Duas retas não verticais são paralelas quando ______ e perpendiculares quando ______; assim, a reta y = 2x + 1 é perpendicular à reta ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "cruzam o eixo das abscissas no mesmo ponto – cruzam o eixo das ordenadas no mesmo ponto – y = x/2 + 3, cujo coeficiente angular é o inverso do dado",
+                                                "b":  "têm o mesmo coeficiente linear – o produto dos coeficientes lineares vale −1 – y = 2x + 5, uma vez que ambas cruzam o eixo vertical em pontos distintos",
+                                                "c":  "têm coeficientes angulares opostos – os coeficientes angulares são iguais em módulo – y = −2x + 3, obtida pela simples troca de sinal do coeficiente angular",
+                                                "d":  "têm o mesmo coeficiente angular – a soma dos coeficientes angulares vale zero – y = −2x + 1, que preserva o valor do coeficiente linear da reta original",
+                                                "e":  "têm o mesmo coeficiente angular – o produto dos coeficientes angulares vale −1 – y = −x/2 + 3"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Paralelismo é igualdade de inclinação; perpendicularidade exige que o produto das inclinações seja −1, ou seja, uma é o oposto do inverso da outra. Como 2 x (−1/2) = −1, a reta de coeficiente angular −1/2 serve. Trocar apenas o sinal, como em (c), não basta.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "matematica-85",
+                           "enunciado":  "Um triângulo tem vértices em A(1, 1), B(5, 1) e C(3, 6). Sua área é de:",
+                           "alternativas":  {
+                                                "a":  "5",
+                                                "b":  "20",
+                                                "c":  "10",
+                                                "d":  "12",
+                                                "e":  "15"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O lado AB é horizontal e mede 4; a altura relativa a ele é a distância vertical até C, isto é, 6 − 1 = 5. A área é 4 x 5 ÷ 2 = 10. A alternativa (b) esquece de dividir por dois, devolvendo a área do retângulo correspondente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-86",
+                           "enunciado":  "Dois plantões se repetem, respectivamente, a cada 6 e a cada 8 dias. Se hoje ambos coincidiram, voltarão a coincidir daqui a:",
+                           "alternativas":  {
+                                                "a":  "12 dias",
+                                                "b":  "48 dias",
+                                                "c":  "14 dias",
+                                                "d":  "2 dias",
+                                                "e":  "24 dias"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A próxima coincidência ocorre no mínimo múltiplo comum de 6 e 8, que é 24. A alternativa (b) usa o produto dos dois números, que também é múltiplo comum, mas não o menor deles.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-87",
+                           "enunciado":  "Uma ambulância percorre 60 km a 60 km/h e, em seguida, mais 60 km a 120 km/h. A velocidade média no percurso completo é de:",
+                           "alternativas":  {
+                                                "a":  "100 km/h",
+                                                "b":  "90 km/h",
+                                                "c":  "80 km/h",
+                                                "d":  "75 km/h",
+                                                "e":  "60 km/h"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Velocidade média é distância total dividida por tempo total: 120 km em 1 h + 0,5 h = 1,5 h, o que dá 80 km/h. A alternativa (b) é a média aritmética das duas velocidades, que só valeria se os tempos fossem iguais — aqui as distâncias é que são.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-88",
+                           "enunciado":  "Uma solução a 1% contém ______ de soluto em cada 100 mL, o que corresponde a ______; uma ampola de 10 mL dessa solução contém ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "1 miligrama – 1 mg/mL – 10 mg, valor que independe do volume da ampola escolhida para o preparo da dose prescrita ao paciente",
+                                                "b":  "1 grama – 10 mg/mL – 100 mg",
+                                                "c":  "10 gramas – 100 mg/mL – 1 grama, quantidade obtida ao multiplicar a concentração percentual pelo volume total do frasco original",
+                                                "d":  "1 grama – 1 mg/mL – 10 mg, uma vez que a conversão entre unidades de massa e de volume mantém a mesma ordem de grandeza",
+                                                "e":  "100 miligramas – 1 mg/mL – 1 miligrama, resultado da divisão da massa total de soluto pelo número de ampolas preparadas a partir da solução"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Um por cento em massa por volume significa 1 g em 100 mL, ou 1.000 mg em 100 mL, isto é, 10 mg por mililitro. Numa ampola de 10 mL, são 10 x 10 = 100 mg. É a conversão que sustenta praticamente todo cálculo de dose.",
+                           "formato":  "lacunas",
+                           "banca":  "einstein"
+                       },
+                       {
+                           "id":  "matematica-89",
+                           "enunciado":  "O resultado de (3 × 10⁵) × (4 × 10⁻²), em notação científica, é:",
+                           "alternativas":  {
+                                                "a":  "7 × 10³",
+                                                "b":  "1,2 × 10³",
+                                                "c":  "12 × 10⁻¹⁰",
+                                                "d":  "1,2 × 10⁴",
+                                                "e":  "1,2 × 10⁻⁴"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Multiplicam-se as mantissas e somam-se os expoentes: 12 x 10³, que em notação científica vira 1,2 x 10⁴. A alternativa (c) multiplica os expoentes, e a (a) soma as mantissas.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-90",
+                           "enunciado":  "As raízes da equação x² − 7x + 12 = 0 são:",
+                           "alternativas":  {
+                                                "a":  "3 e 4",
+                                                "b":  "−3 e −4",
+                                                "c":  "2 e 6",
+                                                "d":  "1 e 12",
+                                                "e":  "7 e 12"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Pelas relações de soma e produto, procuram-se dois números que somem 7 e multipliquem 12: são 3 e 4. A alternativa (c) acerta o produto mas erra a soma, e a (b) inverte os sinais, o que daria soma −7.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-91",
+                           "enunciado":  "Um capital aplicado a juros compostos de 10% ao ano resultou, após 2 anos, em um montante de R$ 2.420,00. O capital inicial era de:",
+                           "alternativas":  {
+                                                "a":  "R$ 2.000,00",
+                                                "b":  "R$ 2.200,00",
+                                                "c":  "R$ 1.980,00",
+                                                "d":  "R$ 2.420,00",
+                                                "e":  "R$ 1.800,00"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O montante é C x 1,10² = C x 1,21, então C = 2.420 ÷ 1,21 = 2.000. A alternativa (c) desconta 20% do montante, o que não desfaz dois aumentos de 10% — desconto e acréscimo de mesmo percentual não se cancelam.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-92",
+                           "enunciado":  "Num círculo de raio 6 cm, o comprimento do arco correspondente a um ângulo central de 60°, adotando π = 3, é de:",
+                           "alternativas":  {
+                                                "a":  "3 cm",
+                                                "b":  "36 cm",
+                                                "c":  "18 cm",
+                                                "d":  "12 cm",
+                                                "e":  "6 cm"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A circunferência inteira mede 2 x 3 x 6 = 36 cm, e o arco de 60° é um sexto dela: 6 cm. A alternativa (b) devolve a circunferência completa, sem aplicar a fração do ângulo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-93",
+                           "enunciado":  "A soma dos ângulos internos de um decágono convexo é de:",
+                           "alternativas":  {
+                                                "a":  "1.260°",
+                                                "b":  "1.800°",
+                                                "c":  "360°",
+                                                "d":  "1.440°",
+                                                "e":  "144°"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A soma é (n − 2) x 180° = 8 x 180° = 1.440°. A alternativa (e) traz a medida de cada ângulo interno do decágono regular, e a (c), a soma dos ângulos externos, que vale 360° em qualquer polígono convexo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-94",
+                           "enunciado":  "Cada ângulo interno de um hexágono regular mede:",
+                           "alternativas":  {
+                                                "a":  "720°",
+                                                "b":  "60°",
+                                                "c":  "120°",
+                                                "d":  "90°",
+                                                "e":  "135°"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A soma dos internos é (6 − 2) x 180° = 720°, e dividindo pelos 6 vértices chega-se a 120°. A alternativa (a) apresenta a soma sem dividir, e a (b) traz o ângulo externo, suplementar do interno.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-95",
+                           "enunciado":  "De um ponto do solo situado a 30 m da base de uma torre, avista-se o topo sob um ângulo de 60° com a horizontal. Adotando tg 60° = 1,73, a altura da torre é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "17,3 m",
+                                                "b":  "51,9 m",
+                                                "c":  "30 m",
+                                                "d":  "60 m",
+                                                "e":  "34,6 m"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A tangente é o cateto oposto sobre o adjacente, então altura = 30 x 1,73 = 51,9 m. A alternativa (a) divide em vez de multiplicar, e o resultado menor que a distância horizontal contraria um ângulo maior que 45°.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-96",
+                           "enunciado":  "Na função f(x) = 3 · cos(2x), a amplitude vale ______, o período vale ______ e a imagem é ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "6 – π/2 – o intervalo de −6 a 6, resultado da multiplicação da amplitude pelo dobro do coeficiente angular observado",
+                                                "b":  "2 – 3 – o intervalo de −2 a 2, obtido a partir do coeficiente que multiplica a variável no interior da função cosseno",
+                                                "c":  "3 – 2π – o intervalo de 0 a 3, uma vez que a função cosseno nunca assume valores negativos ao longo de seu domínio",
+                                                "d":  "3 – π – o intervalo de −3 a 3",
+                                                "e":  "1 – 2π – o intervalo de −1 a 1, valores que correspondem aos extremos da função cosseno em sua forma mais elementar"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A amplitude é o fator que multiplica o cosseno, isto é, 3. O período é 2π dividido pelo coeficiente de x: 2π ÷ 2 = π. Como o cosseno varia de −1 a 1, a função varia de −3 a 3. A alternativa (e) descreve o cosseno puro, sem os dois coeficientes.",
+                           "formato":  "lacunas",
+                           "banca":  "einstein"
+                       },
+                       {
+                           "id":  "matematica-97",
+                           "enunciado":  "Quantos anagramas da palavra CLARO começam por consoante?",
+                           "alternativas":  {
+                                                "a":  "120",
+                                                "b":  "72",
+                                                "c":  "48",
+                                                "d":  "24",
+                                                "e":  "60"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "As cinco letras são distintas e há 3 consoantes disponíveis para a primeira posição; as outras quatro se permutam livremente: 3 x 4! = 3 x 24 = 72. A alternativa (a) é o total de anagramas, sem a restrição.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-98",
+                           "enunciado":  "Dois dados honestos de seis faces são lançados. A probabilidade de a soma dos resultados ser 7 é de:",
+                           "alternativas":  {
+                                                "a":  "7/36",
+                                                "b":  "1/36",
+                                                "c":  "1/6",
+                                                "d":  "1/12",
+                                                "e":  "5/36"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "São 36 resultados possíveis e 6 favoráveis: (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1). Logo 6/36 = 1/6. A alternativa (e) esquece um dos pares, e a (b) conta como se houvesse um único caso favorável.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-99",
+                           "enunciado":  "Num grupo de 200 pessoas há 120 mulheres, das quais 30 praticam corrida; entre os 80 homens, 20 praticam. A probabilidade de praticar corrida dado que a pessoa é mulher vale ______, e a de ser mulher dado que a pessoa pratica vale ______, o que mostra que ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "25% – 60% – inverter a condicional muda o resultado",
+                                                "b":  "60% – 25% – as duas probabilidades condicionais são sempre complementares entre si e somam cem por cento em qualquer situação",
+                                                "c":  "25% – 25% – a ordem em que se enunciam a condição e o evento é irrelevante para o cálculo de qualquer probabilidade condicional",
+                                                "d":  "15% – 40% – a probabilidade condicional coincide com a proporção do evento no total geral das pessoas que compõem o grupo estudado",
+                                                "e":  "50% – 50% – a igualdade entre as duas medidas decorre diretamente do fato de os dois subgrupos apresentarem tamanhos diferentes"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Entre as 120 mulheres, 30 correm: 25%. Entre os 50 corredores, 30 são mulheres: 60%. As duas perguntas partem de denominadores diferentes, e trocar uma pela outra é o mesmo erro que confunde sensibilidade com valor preditivo positivo.",
+                           "formato":  "lacunas",
+                           "banca":  "unifesp"
+                       },
+                       {
+                           "id":  "matematica-100",
+                           "enunciado":  "Considere o conjunto de dados 2, 4, 4, 4, 5, 5, 7 e 9. A variância e o desvio padrão são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "4 e 4",
+                                                "b":  "2 e 4",
+                                                "c":  "5 e 2",
+                                                "d":  "32 e 8",
+                                                "e":  "4 e 2"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A média é 40 ÷ 8 = 5. A soma dos quadrados dos desvios é 9 + 1 + 1 + 1 + 0 + 0 + 4 + 16 = 32, e a variância é 32 ÷ 8 = 4. O desvio padrão é a raiz da variância: 2. A alternativa (d) esquece de dividir pelo número de observações.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-101",
+                           "enunciado":  "A turma A, com 20 alunos, obteve média 6,0; a turma B, com 30 alunos, obteve média 8,0. A média das 50 notas é de:",
+                           "alternativas":  {
+                                                "a":  "6,8",
+                                                "b":  "7,0",
+                                                "c":  "7,2",
+                                                "d":  "14,0",
+                                                "e":  "7,5"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A soma das notas é 20 x 6 + 30 x 8 = 120 + 240 = 360, e 360 ÷ 50 = 7,2. A alternativa (b) é a média das duas médias, que só valeria se as turmas tivessem o mesmo número de alunos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-102",
+                           "enunciado":  "Dizer que uma criança está no percentil 25 de peso para a idade significa que ______; tomado isoladamente, um percentil baixo ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "25% das crianças da mesma idade pesam menos que ela – não indica doença por si só",
+                                                "b":  "ela pesa 25% do peso médio esperado para a sua faixa etária – aponta necessariamente para um quadro de desnutrição que exige intervenção imediata",
+                                                "c":  "seu peso está 25% abaixo da mediana da população de referência – permite concluir que houve interrupção do crescimento nos últimos meses de acompanhamento",
+                                                "d":  "75% das crianças da mesma idade pesam menos que ela – deve ser interpretado como sinal de excesso de peso em relação ao padrão de referência adotado",
+                                                "e":  "ela pertence ao grupo dos 25% com maior variação de peso – indica que as medidas foram tomadas com instrumentos de precisão insuficiente para o acompanhamento"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Percentil é posição relativa numa distribuição de referência, não porcentagem de peso. O que importa no acompanhamento é a trajetória: uma criança que se mantém no percentil 25 ao longo do tempo está crescendo de forma regular; o alarme vem da queda de canal, não do valor em si.",
+                           "formato":  "lacunas",
+                           "banca":  "santacasa"
+                       },
+                       {
+                           "id":  "matematica-103",
+                           "enunciado":  "Na sequência 2, 6, 12, 20, 30, ..., o próximo termo é:",
+                           "alternativas":  {
+                                                "a":  "44",
+                                                "b":  "40",
+                                                "c":  "36",
+                                                "d":  "45",
+                                                "e":  "42"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "As diferenças entre termos consecutivos são 4, 6, 8 e 10, crescendo de 2 em 2, então a próxima é 12 e o termo é 30 + 12 = 42. Cada termo também é n x (n + 1), o que confirma 6 x 7 = 42.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-104",
+                           "enunciado":  "No conjunto dos reais, a função f(x) = 5 − 2x é ______, a função g(x) = 3ˣ é ______ e a função h(x) = (1/2)ˣ é ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "crescente – decrescente – crescente, uma vez que toda função exponencial de base positiva apresenta comportamento oposto ao da função afim correspondente",
+                                                "b":  "decrescente – crescente – decrescente",
+                                                "c":  "decrescente – decrescente – crescente, porque a base menor que um inverte o sentido de variação apenas quando o expoente assume valores positivos",
+                                                "d":  "crescente – crescente – crescente, já que todas as três funções apresentadas têm coeficientes positivos em suas respectivas leis de formação",
+                                                "e":  "constante – crescente – constante, pois as funções exponenciais de base racional mantêm o mesmo valor para expoentes inteiros consecutivos"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Na função afim, o sinal do coeficiente de x decide: −2 é negativo, logo decresce. Na exponencial, decide a base: maior que 1 cresce, entre 0 e 1 decresce. Por isso 3ˣ sobe e (1/2)ˣ desce.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "matematica-105",
+                           "enunciado":  "O ponto médio do segmento de extremos A(−2, 5) e B(6, 1) é:",
+                           "alternativas":  {
+                                                "a":  "(8, −4)",
+                                                "b":  "(4, 6)",
+                                                "c":  "(2, 2)",
+                                                "d":  "(2, 3)",
+                                                "e":  "(−4, 2)"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "As coordenadas do ponto médio são as médias das coordenadas: (−2 + 6) ÷ 2 = 2 e (5 + 1) ÷ 2 = 3. A alternativa (b) soma sem dividir, e a (a) subtrai as coordenadas, o que dá o vetor entre os pontos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-106",
+                           "enunciado":  "O ponto de intersecção das retas y = 2x + 1 e y = −x + 7 é:",
+                           "alternativas":  {
+                                                "a":  "(5, 2)",
+                                                "b":  "(2, 5)",
+                                                "c":  "(2, 3)",
+                                                "d":  "(1, 3)",
+                                                "e":  "(3, 4)"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Igualando as expressões, 2x + 1 = −x + 7 leva a 3x = 6 e x = 2; substituindo, y = 5. A alternativa (a) troca a ordem das coordenadas, e vale sempre conferir o par nas duas equações.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-107",
+                           "enunciado":  "Três valores somam 12; o segundo é o dobro do primeiro e o terceiro é o triplo do primeiro. Esses valores são, na ordem:",
+                           "alternativas":  {
+                                                "a":  "4, 4 e 4",
+                                                "b":  "3, 4 e 5",
+                                                "c":  "1, 2 e 9",
+                                                "d":  "2, 4 e 6",
+                                                "e":  "2, 3 e 7"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Chamando o primeiro de x, tem-se x + 2x + 3x = 6x = 12, logo x = 2 e os valores são 2, 4 e 6. As demais alternativas somam 12, mas nenhuma respeita as duas relações de proporção do enunciado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-108",
+                           "enunciado":  "A matriz transposta de uma matriz A é obtida ______; a matriz identidade tem ______; e o produto de uma matriz quadrada pela identidade de mesma ordem ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "trocando linhas por colunas – uns na diagonal principal e zeros nas demais posições – devolve a própria matriz",
+                                                "b":  "trocando os sinais de todos os elementos – zeros na diagonal principal e uns nas demais posições – devolve sempre a matriz nula de mesma ordem que a original",
+                                                "c":  "invertendo a ordem das linhas – todos os elementos iguais a um em todas as posições – devolve uma matriz cujos elementos são a soma de cada linha da original",
+                                                "d":  "trocando linhas por colunas – uns em todas as posições da primeira linha – devolve a matriz transposta da original, com as mesmas dimensões do produto",
+                                                "e":  "elevando cada elemento ao quadrado – uns na diagonal secundária e zeros nas demais – devolve a matriz original com os elementos permutados entre as linhas"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A transposição espelha a matriz pela diagonal principal. A identidade é o elemento neutro da multiplicação de matrizes, e é por isso que multiplicar por ela não altera nada — o papel que o número 1 desempenha entre os reais.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "matematica-109",
+                           "enunciado":  "Um frasco contém 250 mL de uma solução com concentração de 4 mg/mL. A massa total de fármaco no frasco é de:",
+                           "alternativas":  {
+                                                "a":  "4 g",
+                                                "b":  "100 mg",
+                                                "c":  "10 g",
+                                                "d":  "62,5 mg",
+                                                "e":  "1 g"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A massa é 250 x 4 = 1.000 mg, isto é, 1 grama. A alternativa (d) divide o volume pela concentração em vez de multiplicar, operação que devolveria um volume, não uma massa.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-110",
+                           "enunciado":  "Num gráfico cujo eixo vertical está em escala logarítmica, distâncias iguais representam ______ e uma reta ascendente indica ______; por isso essa escala é adotada quando ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "intervalos de tempo iguais – estabilidade completa – as medições foram realizadas em momentos regularmente espaçados ao longo de todo o período estudado",
+                                                "b":  "diferenças iguais – crescimento linear – os valores se concentram num intervalo estreito e é preciso ampliar as pequenas variações observadas entre eles",
+                                                "c":  "razões iguais – crescimento exponencial – os valores variam por várias ordens de grandeza",
+                                                "d":  "razões iguais – decrescimento constante – os dados apresentam valores negativos que não poderiam ser representados numa escala aritmética convencional",
+                                                "e":  "diferenças iguais – crescimento exponencial – há necessidade de comparar diretamente as taxas percentuais de variação entre duas séries distintas de dados"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Na escala logarítmica, o mesmo espaço vertical separa 1 de 10 e 10 de 100 — o que é constante é a razão, não a diferença. Uma exponencial, que multiplica por um fator fixo a cada intervalo, aparece como reta. É a escala usada em curvas epidêmicas justamente por comprimir várias ordens de grandeza.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "matematica-111",
+                           "enunciado":  "De um grupo de 5 homens e 4 mulheres, o número de comissões de 3 pessoas com pelo menos uma mulher é:",
+                           "alternativas":  {
+                                                "a":  "10",
+                                                "b":  "84",
+                                                "c":  "64",
+                                                "d":  "40",
+                                                "e":  "74"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O caminho curto é pelo complementar: das C(9,3) = 84 comissões possíveis, C(5,3) = 10 são só de homens, restando 74. Contar caso a caso — uma, duas ou três mulheres — dá o mesmo, mas com três vezes mais trabalho.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-112",
+                           "enunciado":  "Uma urna contém 4 bolas vermelhas e 6 azuis. Retiram-se duas bolas, uma de cada vez, com reposição. A probabilidade de ambas serem vermelhas é de:",
+                           "alternativas":  {
+                                                "a":  "2/5",
+                                                "b":  "2/15",
+                                                "c":  "4/25",
+                                                "d":  "6/25",
+                                                "e":  "8/25"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com reposição, as retiradas são independentes e a probabilidade é (4/10)² = 16/100 = 4/25. A alternativa (b) é o resultado sem reposição, em que a segunda retirada teria 3/9 — sempre menor, porque uma vermelha já saiu.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-113",
+                           "enunciado":  "Um lote de 1.000 comprimidos é embalado em cartelas de 12 unidades, completas. O número de comprimidos que sobram é:",
+                           "alternativas":  {
+                                                "a":  "8",
+                                                "b":  "4",
+                                                "c":  "83",
+                                                "d":  "84",
+                                                "e":  "0"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Como 83 x 12 = 996, formam-se 83 cartelas completas e sobram 4 comprimidos. A alternativa (c) traz o número de cartelas, e não o resto, que é o que a questão pede.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-114",
+                           "enunciado":  "O valor da expressão (2³)² ÷ 2⁴ é:",
+                           "alternativas":  {
+                                                "a":  "8",
+                                                "b":  "2",
+                                                "c":  "32",
+                                                "d":  "4",
+                                                "e":  "16"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Potência de potência multiplica expoentes: (2³)² = 2⁶. Na divisão de mesma base, subtraem-se: 2⁶ ÷ 2⁴ = 2² = 4. A alternativa (c) soma os expoentes na primeira etapa em vez de multiplicá-los.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-115",
+                           "enunciado":  "A forma racionalizada da expressão 6/√3 é:",
+                           "alternativas":  {
+                                                "a":  "2√3",
+                                                "b":  "6√3",
+                                                "c":  "√3/2",
+                                                "d":  "3√2",
+                                                "e":  "√6"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Multiplicando numerador e denominador por √3: 6√3 ÷ 3 = 2√3. A alternativa (b) esquece de dividir pelo 3 que aparece no denominador após a multiplicação.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-116",
+                           "enunciado":  "A solução da equação x/3 + x/4 = 7 é:",
+                           "alternativas":  {
+                                                "a":  "12",
+                                                "b":  "7",
+                                                "c":  "84",
+                                                "d":  "3",
+                                                "e":  "21"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Reduzindo ao denominador comum 12: (4x + 3x) ÷ 12 = 7, logo 7x = 84 e x = 12. A alternativa (c) para no valor de 7x, sem concluir a divisão final.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-117",
+                           "enunciado":  "Foram prescritos 600 mg de um fármaco, a serem infundidos em 4 horas a partir de uma solução de 3 mg/mL. A bomba de infusão deve ser programada para:",
+                           "alternativas":  {
+                                                "a":  "100 mL/h",
+                                                "b":  "150 mL/h",
+                                                "c":  "200 mL/h",
+                                                "d":  "25 mL/h",
+                                                "e":  "50 mL/h"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O volume necessário é 600 ÷ 3 = 200 mL, a serem administrados em 4 horas: 50 mL por hora. A alternativa (c) traz o volume total, que é o valor intermediário do cálculo, e a (b) divide a massa pelo tempo sem converter para volume.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-118",
+                           "enunciado":  "Dois triângulos semelhantes têm lados correspondentes na razão 2 para 5. A razão entre suas áreas é de:",
+                           "alternativas":  {
+                                                "a":  "5 para 2",
+                                                "b":  "2 para 5",
+                                                "c":  "8 para 125",
+                                                "d":  "4 para 25",
+                                                "e":  "16 para 25"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A razão entre áreas é o quadrado da razão de semelhança: (2/5)² = 4/25. A alternativa (c) eleva ao cubo, o que daria a razão entre volumes de sólidos semelhantes, e a (b) repete a razão linear.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-119",
+                           "enunciado":  "A diagonal de um cubo de aresta 4 cm mede:",
+                           "alternativas":  {
+                                                "a":  "12 cm",
+                                                "b":  "4√2 cm",
+                                                "c":  "4√3 cm",
+                                                "d":  "8 cm",
+                                                "e":  "4 cm"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A diagonal do cubo é a raiz de três vezes a aresta ao quadrado, ou seja, a√3 = 4√3. A alternativa (b) traz a diagonal de uma face, que percorre duas dimensões apenas, e não as três.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-120",
+                           "enunciado":  "No terceiro quadrante do ciclo trigonométrico, os sinais do seno, do cosseno e da tangente são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "negativo, positivo e negativo",
+                                                "b":  "negativo, negativo e positivo",
+                                                "c":  "positivo, negativo e negativo",
+                                                "d":  "negativo, negativo e negativo",
+                                                "e":  "positivo, positivo e positivo"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "No terceiro quadrante, tanto a abscissa quanto a ordenada são negativas, então seno e cosseno são negativos. A tangente, sendo o quociente entre os dois, resulta positiva — é o único quadrante além do primeiro em que ela é positiva.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-121",
+                           "enunciado":  "No gráfico de f(x) = ax² + bx + c, a concavidade é voltada para cima quando ______, a parábola corta o eixo das ordenadas em ______ e há duas raízes reais distintas quando ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "c \u003e 0 – (0, a) – a soma dos coeficientes resulta em um número positivo qualquer, independentemente dos valores individuais atribuídos a cada um",
+                                                "b":  "a \u003c 0 – (c, 0) – o discriminante é nulo, situação em que a parábola toca o eixo das abscissas em um único ponto de tangência",
+                                                "c":  "b \u003e 0 – (0, b) – o coeficiente a assume valor negativo, o que garante a existência de dois pontos de intersecção com o eixo horizontal",
+                                                "d":  "a \u003e 0 – (0, c) – o discriminante é positivo",
+                                                "e":  "a \u003e 0 – (c, c) – o discriminante é negativo, condição que assegura o cruzamento da curva com o eixo das abscissas em dois pontos distintos"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O sinal de a governa a concavidade; fazendo x = 0 sobra apenas c, então o ponto de corte no eixo vertical é (0, c). Discriminante positivo dá duas raízes, nulo dá uma e negativo, nenhuma real.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "matematica-122",
+                           "enunciado":  "Um plano de saúde cobra R$ 80,00 fixos por mês mais R$ 1,50 por consulta realizada. O custo de um mês com 40 consultas é de:",
+                           "alternativas":  {
+                                                "a":  "R$ 120,00",
+                                                "b":  "R$ 140,00",
+                                                "c":  "R$ 60,00",
+                                                "d":  "R$ 3.200,00",
+                                                "e":  "R$ 81,50"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O custo é 80 + 1,50 x 40 = 80 + 60 = 140. A alternativa (c) esquece a parcela fixa, que é justamente o coeficiente linear da função afim, e a (a) multiplica o valor fixo pelo número de consultas.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-123",
+                           "enunciado":  "Três retas paralelas são cortadas por duas transversais. Na primeira transversal, os segmentos determinados medem 4 cm e 6 cm; na segunda, o segmento correspondente ao de 4 cm mede 6 cm. O outro segmento da segunda transversal mede:",
+                           "alternativas":  {
+                                                "a":  "8 cm",
+                                                "b":  "4 cm",
+                                                "c":  "9 cm",
+                                                "d":  "12 cm",
+                                                "e":  "6 cm"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pelo teorema de Tales, 4 ÷ 6 = 6 ÷ x, logo 4x = 36 e x = 9. A alternativa (a) monta a proporção somando em vez de multiplicar em cruz, e a (d) supõe que a razão entre os segmentos seja de 1 para 2.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-124",
+                           "enunciado":  "Num triângulo retângulo de catetos 6 cm e 8 cm, a altura relativa à hipotenusa mede:",
+                           "alternativas":  {
+                                                "a":  "4,8 cm",
+                                                "b":  "5,0 cm",
+                                                "c":  "3,6 cm",
+                                                "d":  "7,0 cm",
+                                                "e":  "10 cm"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A hipotenusa mede 10, e a relação métrica dá altura = (6 x 8) ÷ 10 = 4,8. A alternativa (b) usa a metade da hipotenusa, que é o raio da circunferência circunscrita, não a altura.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-125",
+                           "enunciado":  "Numa circunferência de raio 5 cm, uma corda está a 3 cm do centro. O comprimento dessa corda é de:",
+                           "alternativas":  {
+                                                "a":  "16 cm",
+                                                "b":  "4 cm",
+                                                "c":  "10 cm",
+                                                "d":  "6 cm",
+                                                "e":  "8 cm"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A perpendicular do centro à corda a divide ao meio e forma um triângulo retângulo de hipotenusa 5 e cateto 3, sobrando 4 para a metade da corda. O total é 8 cm. A alternativa (b) para na metade.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-126",
+                           "enunciado":  "Dobrando-se o raio de um cilindro e mantendo-se a altura, o volume fica multiplicado por:",
+                           "alternativas":  {
+                                                "a":  "8",
+                                                "b":  "2",
+                                                "c":  "4",
+                                                "d":  "6",
+                                                "e":  "16"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O volume depende do quadrado do raio, então dobrá-lo quadruplica o resultado. A alternativa (a) valeria se as três dimensões fossem dobradas, e a (b) trata a relação como se fosse linear.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-127",
+                           "enunciado":  "As soluções da equação sen x = 1/2 no intervalo de 0 a 2π são:",
+                           "alternativas":  {
+                                                "a":  "π/6 e 5π/6",
+                                                "b":  "π/6 e 7π/6",
+                                                "c":  "π/3 e 2π/3",
+                                                "d":  "π/6",
+                                                "e":  "π/4 e 3π/4"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O seno é positivo no primeiro e no segundo quadrantes, e os arcos com seno 1/2 são π/6 e seu suplementar, 5π/6. A alternativa (b) usa o arco do terceiro quadrante, onde o seno seria negativo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-128",
+                           "enunciado":  "Um triângulo tem lados 3 cm, 5 cm e 7 cm. O maior de seus ângulos internos mede:",
+                           "alternativas":  {
+                                                "a":  "45°",
+                                                "b":  "60°",
+                                                "c":  "90°",
+                                                "d":  "150°",
+                                                "e":  "120°"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O maior ângulo opõe-se ao maior lado. Pela lei dos cossenos, cos θ = (9 + 25 − 49) ÷ 30 = −0,5, logo θ = 120°. O cosseno negativo já indicava ângulo obtuso, o que elimina de saída as alternativas (b), (c) e (a).",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-129",
+                           "enunciado":  "O nível sonoro, em decibéis, é dado por 10 · log(I/I₀). Se a intensidade sonora é multiplicada por 100, o nível aumenta em:",
+                           "alternativas":  {
+                                                "a":  "100 dB",
+                                                "b":  "20 dB",
+                                                "c":  "2 dB",
+                                                "d":  "10 dB",
+                                                "e":  "1.000 dB"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O acréscimo é 10 x log 100 = 10 x 2 = 20 dB. A alternativa (a) confunde o fator de multiplicação da intensidade com o aumento em decibéis, que é justamente o que a escala logarítmica comprime.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-130",
+                           "enunciado":  "A concentração de uma substância cai 30% a cada hora. Após 3 horas, a fração restante em relação ao valor inicial é de aproximadamente:",
+                           "alternativas":  {
+                                                "a":  "30%",
+                                                "b":  "10%",
+                                                "c":  "90%",
+                                                "d":  "34,3%",
+                                                "e":  "65,7%"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Resta 70% a cada hora, então 0,7³ = 0,343. A alternativa (b) subtrai 30% três vezes do valor inicial, tratando um decaimento multiplicativo como se fosse aditivo — e a diferença aqui é de mais de três vezes. A (e) traz a fração eliminada, que é o complemento do que a questão pede.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-131",
+                           "enunciado":  "A soma dos 20 primeiros números ímpares positivos é:",
+                           "alternativas":  {
+                                                "a":  "210",
+                                                "b":  "400",
+                                                "c":  "39",
+                                                "d":  "420",
+                                                "e":  "200"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "É uma progressão aritmética de razão 2 começando em 1, cujo vigésimo termo é 39. A soma é 20 x (1 + 39) ÷ 2 = 400 — que também é 20², resultado geral para a soma dos n primeiros ímpares. A alternativa (c) traz apenas o último termo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-132",
+                           "enunciado":  "A soma dos 10 primeiros termos da progressão geométrica 1, 2, 4, 8, ... é:",
+                           "alternativas":  {
+                                                "a":  "2.046",
+                                                "b":  "1.024",
+                                                "c":  "512",
+                                                "d":  "1.023",
+                                                "e":  "511"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A soma é a₁ x (q^n − 1) ÷ (q − 1) = (2¹⁰ − 1) ÷ 1 = 1.023. A alternativa (b) é 2¹⁰, e a (c), o décimo termo isolado — três números vizinhos que exigem atenção a qual deles a questão pede.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-133",
+                           "enunciado":  "Quantas senhas de 4 dígitos podem ser formadas com os algarismos de 0 a 9, permitindo repetição?",
+                           "alternativas":  {
+                                                "a":  "10.000",
+                                                "b":  "5.040",
+                                                "c":  "1.048.576",
+                                                "d":  "40",
+                                                "e":  "24"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Cada posição admite 10 possibilidades independentes: 10⁴ = 10.000. A alternativa (b) é o arranjo de 10 elementos tomados 4 a 4, que valeria se a repetição fosse proibida; a (c) inverte base e expoente, calculando 4¹⁰.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-134",
+                           "enunciado":  "Numa linha de produção, a máquina A produz 60% das peças e a B, 40%. A taxa de defeito é de 2% em A e 5% em B. Escolhida ao acaso uma peça defeituosa, a probabilidade de ela ter vindo da máquina B é de:",
+                           "alternativas":  {
+                                                "a":  "50%",
+                                                "b":  "40%",
+                                                "c":  "5%",
+                                                "d":  "37,5%",
+                                                "e":  "62,5%"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Os defeitos totais são 0,6 x 0,02 + 0,4 x 0,05 = 0,012 + 0,020 = 0,032, e a parcela de B é 0,020. A razão é 0,020 ÷ 0,032 = 0,625. A alternativa (b) repete a participação de B na produção, ignorando que ela erra mais.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-135",
+                           "enunciado":  "Um procedimento tem 1/3 de chance de sucesso em cada tentativa, de forma independente, e é repetido até dar certo. A probabilidade de o sucesso ocorrer exatamente na terceira tentativa é de:",
+                           "alternativas":  {
+                                                "a":  "1/3",
+                                                "b":  "1/27",
+                                                "c":  "4/27",
+                                                "d":  "2/9",
+                                                "e":  "8/27"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "São dois fracassos seguidos de um sucesso: (2/3) x (2/3) x (1/3) = 4/27. A alternativa (b) supõe três sucessos, e a (e) descreve três fracassos consecutivos, sem o sucesso final que a questão exige.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-136",
+                           "enunciado":  "Numa pesquisa por amostragem, aumentar o tamanho da amostra tende a ______, a margem de erro indica ______ e um empate dentro da margem de erro significa ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "eliminar completamente a margem de erro – a quantidade de pessoas que mudaram de opinião entre uma rodada de coleta e a rodada seguinte do mesmo estudo",
+                                                "b":  "aumentar a margem de erro – o percentual de entrevistados que se recusaram a responder ao questionário aplicado durante a coleta dos dados da pesquisa",
+                                                "c":  "manter a margem de erro constante – a diferença exata entre o resultado obtido e o valor verdadeiro observado na população inteira – que o levantamento foi mal conduzido",
+                                                "d":  "reduzir o intervalo de confiança adotado – a proporção de respostas consideradas inválidas pelos responsáveis pela tabulação final dos questionários aplicados",
+                                                "e":  "reduzir a margem de erro – o intervalo em que o valor real provavelmente está – que não há diferença detectável"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Mais dados, menos incerteza. A margem de erro delimita uma faixa plausível para o valor da população, não um erro conhecido. Quando as faixas de dois candidatos se sobrepõem, os dados não sustentam dizer quem está à frente.",
+                           "formato":  "lacunas",
+                           "banca":  "unifesp"
+                       },
+                       {
+                           "id":  "matematica-137",
+                           "enunciado":  "Uma correlação forte entre duas variáveis indica que ______, mas não autoriza concluir ______, porque ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "as duas são independentes entre si – que exista qualquer associação – a independência estatística impede qualquer forma de variação conjunta entre as medidas",
+                                                "b":  "uma delas determina a outra – que elas variem juntas – a associação estatística observada é sempre resultado direto de um mecanismo causal subjacente",
+                                                "c":  "elas variam juntas – que uma cause a outra – pode haver uma terceira variável agindo sobre ambas",
+                                                "d":  "a amostra é representativa da população – que os dados sejam confiáveis – o cálculo do coeficiente exige distribuição normal em todas as variáveis envolvidas",
+                                                "e":  "os dados foram coletados corretamente – que a amostra seja suficiente – o tamanho amostral é o único fator capaz de alterar o valor do coeficiente obtido"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Correlação mede associação, não mecanismo. Duas séries podem subir juntas porque uma causa a outra, porque a segunda causa a primeira, porque uma terceira causa as duas, ou por coincidência. Só um desenho experimental separa essas hipóteses.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "matematica-138",
+                           "enunciado":  "Num gráfico de setores, uma categoria que representa 25% do total ocupa um ângulo central de:",
+                           "alternativas":  {
+                                                "a":  "25°",
+                                                "b":  "90°",
+                                                "c":  "45°",
+                                                "d":  "100°",
+                                                "e":  "180°"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O círculo completo corresponde a 360° e a 100%, então 25% valem 0,25 x 360 = 90°. A alternativa (a) transporta o percentual direto para graus, o que só funcionaria se o total fosse 100°.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-139",
+                           "enunciado":  "Se uma taxa passa de 20% para 25%, o aumento é de ______ em pontos percentuais e de ______ em termos relativos; confundir as duas formas de medir ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "20 pontos – 25% – apenas dificulta a comparação entre séries históricas medidas em períodos distintos ao longo de um mesmo levantamento estatístico",
+                                                "b":  "25 pontos – 5% – não altera a interpretação do dado, já que as duas medidas expressam exatamente a mesma informação em unidades diferentes",
+                                                "c":  "5 pontos – 5% – é irrelevante para a leitura do resultado, pois qualquer das duas leituras conduz o leitor à mesma conclusão sobre a tendência",
+                                                "d":  "5 pontos – 25% – exagera ou minimiza a variação conforme convenha",
+                                                "e":  "5 pontos – 20% – ocorre somente quando os valores comparados são inferiores à metade da escala percentual utilizada na apresentação dos dados"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A diferença absoluta é 25 − 20 = 5 pontos percentuais. Em termos relativos, 5 ÷ 20 = 0,25, isto é, 25% de aumento. Quem quer impressionar diz \"subiu 25%\"; quem quer minimizar diz \"subiu 5 pontos\" — e os dois estão certos.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "matematica-140",
+                           "enunciado":  "A dose recomendada de um medicamento é de 15 mg por quilograma de massa corporal, a cada 8 horas. Para uma criança de 20 kg, a quantidade total administrada em 24 horas é de:",
+                           "alternativas":  {
+                                                "a":  "900 mg",
+                                                "b":  "300 mg",
+                                                "c":  "2.400 mg",
+                                                "d":  "600 mg",
+                                                "e":  "100 mg"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Cada tomada é 15 x 20 = 300 mg, e a cada 8 horas são três tomadas por dia: 900 mg. A alternativa (b) traz a dose de uma única tomada, e a (c) multiplica pelas 24 horas em vez de pelo número de administrações.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-141",
+                           "enunciado":  "A distância da origem à reta de equação 3x + 4y − 10 = 0 é de:",
+                           "alternativas":  {
+                                                "a":  "2",
+                                                "b":  "10",
+                                                "c":  "2,5",
+                                                "d":  "5",
+                                                "e":  "1,4"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A distância é o módulo de (3 x 0 + 4 x 0 − 10) dividido pela raiz de 3² + 4², ou seja, 10 ÷ 5 = 2. A alternativa (b) esquece de dividir pelo módulo do vetor de coeficientes, que é o que normaliza a expressão.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-142",
+                           "enunciado":  "A equação da reta de coeficiente angular 3 que passa pelo ponto (2, 1) é:",
+                           "alternativas":  {
+                                                "a":  "y = x/3 − 5",
+                                                "b":  "y = 3x + 1",
+                                                "c":  "y = 3x − 1",
+                                                "d":  "y = 3x + 5",
+                                                "e":  "y = 3x − 5"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "De y − 1 = 3(x − 2) vem y = 3x − 5. Conferindo no ponto: 3 x 2 − 5 = 1. A alternativa (b) usa a ordenada do ponto como coeficiente linear, o que só valeria se a reta passasse por (0, 1).",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-143",
+                           "enunciado":  "O número 0,04982, arredondado para duas casas decimais, é ______ e, para três algarismos significativos, é ______; a distinção entre os dois critérios importa porque ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "0,050 – 0,05 – a quantidade de casas decimais determina diretamente a precisão do instrumento utilizado para obter aquele valor experimental",
+                                                "b":  "0,04 – 0,050 – os dois critérios produzem sempre o mesmo resultado quando o número analisado é menor do que uma unidade na escala decimal",
+                                                "c":  "0,05 – 0,04982 – o arredondamento por algarismos significativos preserva integralmente todos os dígitos originalmente registrados na medição realizada",
+                                                "d":  "0,05 – 0,0498 – um conta posições e o outro conta dígitos com informação",
+                                                "e":  "0,04 – 0,0498 – zeros à esquerda contam como algarismos significativos e devem ser incluídos na contagem realizada da esquerda para a direita"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Duas casas decimais olham as posições depois da vírgula: 0,04982 vira 0,05. Três algarismos significativos contam a partir do primeiro dígito diferente de zero — 4, 9, 8 —, o que dá 0,0498. Zeros à esquerda apenas posicionam a vírgula e não são significativos.",
+                           "formato":  "lacunas",
+                           "banca":  "santacasa"
+                       },
+                       {
+                           "id":  "matematica-144",
+                           "enunciado":  "Uma dose de 0,25 mg equivale a:",
+                           "alternativas":  {
+                                                "a":  "2.500 µg",
+                                                "b":  "25 µg",
+                                                "c":  "250 µg",
+                                                "d":  "0,25 g",
+                                                "e":  "25.000 µg"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Um miligrama tem mil microgramas, então 0,25 x 1.000 = 250 µg. A alternativa (b) usa fator 100, e a (d) troca miligrama por grama — erro de mil vezes, do tipo que em prescrição real tem consequência grave.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-145",
+                           "enunciado":  "A função real f(x) = 2x − 6 assume valores positivos para:",
+                           "alternativas":  {
+                                                "a":  "x \u003c 3",
+                                                "b":  "x \u003e 3",
+                                                "c":  "x \u003e 6",
+                                                "d":  "x \u003e −3",
+                                                "e":  "x \u003c 6"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A raiz é x = 3, e como o coeficiente de x é positivo a função cresce, sendo positiva à direita da raiz. A alternativa (c) confunde a raiz com o termo independente da lei de formação.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-146",
+                           "enunciado":  "Hoje, um pai tem 40 anos e seu filho, 10. A idade do pai será o dobro da do filho daqui a:",
+                           "alternativas":  {
+                                                "a":  "15 anos",
+                                                "b":  "10 anos",
+                                                "c":  "30 anos",
+                                                "d":  "20 anos",
+                                                "e":  "5 anos"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "De 40 + t = 2(10 + t) vem 40 + t = 20 + 2t e t = 20. Conferindo: 60 é o dobro de 30. O erro comum é esquecer que o tempo passa para os dois, aplicando o acréscimo a apenas uma das idades.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-147",
+                           "enunciado":  "Numa malha de ruas, é preciso caminhar 3 quadras para leste e 2 para norte, sempre avançando nessas direções. O número de trajetos mínimos distintos é:",
+                           "alternativas":  {
+                                                "a":  "6",
+                                                "b":  "10",
+                                                "c":  "20",
+                                                "d":  "5",
+                                                "e":  "120"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Todo trajeto tem 5 passos, dos quais 2 são para o norte; basta escolher em quais posições eles ocorrem: C(5,2) = 10. A alternativa (a) multiplica as quadras, e a (e) permuta os 5 passos como se todos fossem distintos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-148",
+                           "enunciado":  "Um exame apresenta 10% de resultados falsos negativos. Aplicado duas vezes, de forma independente, em uma pessoa doente, a probabilidade de os dois resultados serem negativos é de:",
+                           "alternativas":  {
+                                                "a":  "20%",
+                                                "b":  "10%",
+                                                "c":  "1%",
+                                                "d":  "19%",
+                                                "e":  "0,1%"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Por independência, 0,10 x 0,10 = 0,01. A alternativa (a) soma as probabilidades, o que responderia a \"pelo menos um negativo\" e ainda assim de forma incorreta. Repetir o exame é justamente o que derruba a chance de escapar do diagnóstico.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-149",
+                           "enunciado":  "Uma coroa circular é limitada por circunferências concêntricas de raios 5 cm e 3 cm. Adotando π = 3, sua área é de:",
+                           "alternativas":  {
+                                                "a":  "48 cm²",
+                                                "b":  "75 cm²",
+                                                "c":  "27 cm²",
+                                                "d":  "6 cm²",
+                                                "e":  "102 cm²"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A área da coroa é a diferença entre os dois círculos: 3 x (25 − 9) = 48 cm². A alternativa (d) subtrai os raios antes de elevar ao quadrado, e a (e) soma as duas áreas em vez de subtraí-las.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "matematica-150",
+                           "enunciado":  "Para reduzir à metade a margem de erro de uma pesquisa, o tamanho da amostra deve ser multiplicado por ______, porque a margem de erro varia ______; por isso, apenas dobrar a amostra ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "2 – com o inverso do logaritmo do tamanho da amostra – não produz efeito mensurável sobre a precisão final da estimativa apresentada ao público",
+                                                "b":  "2 – de forma inversamente proporcional ao tamanho da amostra – reduz o erro exatamente pela metade, resultado que vale para qualquer nível de confiança adotado",
+                                                "c":  "16 – com o inverso do quadrado do tamanho da amostra – praticamente elimina a incerteza associada à estimativa obtida a partir do levantamento realizado",
+                                                "d":  "4 – de forma diretamente proporcional ao tamanho da amostra – aumenta o erro, já que amostras maiores incorporam grupos mais heterogêneos de entrevistados",
+                                                "e":  "4 – com o inverso da raiz do tamanho da amostra – reduz o erro em cerca de 30%"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A margem de erro é proporcional a 1 dividido pela raiz de n. Para dividi-la por 2, é preciso multiplicar n por 4. Dobrar a amostra divide o erro por raiz de 2, ou seja, o reduz em cerca de 30% — o que explica por que ganhar precisão fica caro depressa.",
+                           "formato":  "lacunas",
+                           "banca":  "unifesp"
+                       }
+                   ],
     "quimica":  [
                     {
                         "id":  "quimica-01",
@@ -6845,6 +8978,16 @@ window.QUESTION_TEXTS = {
                        "id":  "med-fis-t2",
                        "fonte":  "Texto original em genero de reportagem sobre seguranca veicular",
                        "conteudo":  "O cinto de segurança e o airbag não reduzem a energia de uma colisão. Eles fazem outra coisa, e entender qual é a diferença entre sobreviver e não sobreviver.\n\nNuma batida, o veículo para em uma fração de segundo. O passageiro, por inércia, continua com a velocidade que tinha. A questão passa a ser em quanto tempo essa velocidade vai a zero, porque a força média que atua sobre o corpo é a variação da quantidade de movimento dividida pelo intervalo em que ela ocorre. A variação é a mesma com ou sem cinto — o que muda é o denominador.\n\nSem cinto, o corpo para ao atingir o para-brisa ou a coluna de direção, num intervalo de poucos milissegundos. Com cinto, a faixa se estica um pouco e a estrutura do carro se deforma de forma programada, e a parada leva algo em torno de dez vezes mais tempo. A força média cai na mesma proporção. O airbag acrescenta uma etapa: aumenta a área de contato, o que reduz a pressão sobre o tórax, e prolonga um pouco mais o tempo de desaceleração ao esvaziar de forma controlada.\n\nÉ também por isso que as zonas de deformação programada da carroceria são uma virtude, e não um defeito de projeto. Um carro rígido demais transfere a desaceleração inteira aos ocupantes. Um carro que amassa de forma controlada gasta tempo e energia amassando, e esse tempo é exatamente o que protege quem está dentro."
+                   },
+    "med-mat-t1":  {
+                       "id":  "med-mat-t1",
+                       "fonte":  "Texto original em genero de divulgacao cientifica sobre desempenho de testes diagnosticos",
+                       "conteudo":  "Um teste diagnóstico nunca é perfeito. Para descrever seu desempenho, usam-se duas medidas complementares. A sensibilidade é a proporção de doentes que o teste identifica corretamente como positivos. A especificidade é a proporção de sadios que ele identifica corretamente como negativos.\n\nConsidere uma população de 10.000 pessoas, na qual 1% tem determinada doença. Um teste com sensibilidade de 90% e especificidade de 95% é aplicado a todas elas.\n\nEntre os 100 doentes, o teste acerta 90 e deixa escapar 10 — os falsos negativos. Entre os 9.900 sadios, ele acerta 9.405 e aponta 495 como positivos — os falsos positivos.\n\nO total de resultados positivos é, portanto, 90 + 495 = 585. Desses, apenas 90 correspondem a pessoas realmente doentes. O valor preditivo positivo, isto é, a probabilidade de estar doente dado um resultado positivo, é de 90 dividido por 585, cerca de 15%.\n\nEsse número costuma surpreender. Ele mostra que o desempenho de um teste não depende só de suas características internas: depende também de quão comum é a doença na população testada. Quanto mais rara a doença, mais os falsos positivos dominam o conjunto dos positivos — e é por isso que rastrear a população inteira em busca de uma condição rara produz muito mais alarme do que diagnóstico."
+                   },
+    "med-mat-t2":  {
+                       "id":  "med-mat-t2",
+                       "fonte":  "Texto original em genero de divulgacao cientifica sobre eliminacao de farmacos",
+                       "conteudo":  "A quantidade de um fármaco no organismo raramente cai de forma linear. Na maioria dos casos, o corpo elimina uma fração fixa do que está presente por unidade de tempo, e não uma quantidade fixa. O resultado é um decaimento exponencial, descrito por uma função do tipo m(t) = m₀ · 2^(−t/T), em que T é a meia-vida do fármaco.\n\nA meia-vida é o intervalo necessário para que a quantidade caia à metade, qualquer que seja o ponto de partida. Um fármaco com meia-vida de 4 horas cai de 400 mg para 200 mg em 4 horas, de 200 mg para 100 mg nas 4 horas seguintes, e assim por diante. Depois de cinco meia-vidas, resta cerca de 3% da dose inicial, e é essa conta que costuma definir quando se pode considerar o fármaco praticamente eliminado.\n\nO intervalo entre as doses de um tratamento é escolhido a partir desse número. Doses muito espaçadas deixam a concentração cair abaixo da faixa em que o medicamento funciona; doses muito próximas fazem o fármaco se acumular, porque a dose seguinte chega antes de a anterior ter sido eliminada, e o acúmulo pode levar a concentração à faixa tóxica.\n\nResolver a conta no sentido inverso — descobrir em quanto tempo se chega a uma quantidade dada — exige logaritmos, já que a incógnita está no expoente."
                    },
     "med-qui-t1":  {
                        "id":  "med-qui-t1",

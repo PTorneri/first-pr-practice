@@ -251,17 +251,18 @@
                      {
                          "id":  "interpretacao-texto-13",
                          "textoId":  "med-int-t2",
-                         "enunciado":  "Em \"o corte, esperando, continua sendo um corte. A dor no peito, esperando, pode virar outra coisa\", o paralelismo entre as duas frases serve para:",
+                         "enunciado":  "No trecho \"o corte, esperando, continua sendo um corte. A dor no peito, esperando, pode virar outra coisa\", as duas frases têm ______ e diferem apenas ______, o que serve para ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "demonstrar que os dois quadros clínicos apresentam gravidade equivalente e que a escolha entre eles depende exclusivamente da disponibilidade de profissionais no momento",
-                                              "b":  "isolar a única variável que distingue os dois casos: o que a espera faz com cada um",
-                                              "c":  "sugerir que a avaliação de risco deveria considerar o tempo de permanência do paciente na sala de espera como critério principal para definir a ordem de chamada",
-                                              "d":  "indicar que o ferimento superficial tende a se agravar quando o atendimento demora, ainda que em ritmo mais lento do que o observado nos casos cardiológicos",
-                                              "e":  "reforçar que ambos os pacientes têm direito ao mesmo tratamento e que qualquer distinção entre eles configuraria uma forma de privilégio dentro do serviço"
+                                              "a":  "estruturas opostas – no vocabulário empregado – demonstrar que os dois quadros clínicos exigem o mesmo tipo de conduta por parte da equipe de triagem",
+                                              "b":  "a mesma estrutura – no desfecho – isolar o que a espera faz com cada caso",
+                                              "c":  "a mesma estrutura – na extensão de cada uma – reforçar que o segundo caso é mais grave em razão do maior número de palavras dedicadas a ele",
+                                              "d":  "estruturas opostas – no tempo verbal adotado – indicar que o primeiro caso já ocorreu enquanto o segundo permanece como possibilidade futura",
+                                              "e":  "sentidos equivalentes – na ordem em que aparecem – sugerir que a escolha entre os dois pacientes é indiferente do ponto de vista clínico"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "As duas frases têm estrutura idêntica e mudam só o desfecho. Repetir a forma e alterar o resultado é o que faz a diferença saltar: o tempo é inofensivo num caso e perigoso no outro, e é exatamente isso que a triagem mede.",
-                         "formato":  "direta"
+                         "explicacao":  "As duas frases repetem a mesma forma e trocam só o final. Manter tudo igual e alterar um elemento é o que faz esse elemento saltar: aqui, o efeito do tempo de espera, que é exatamente o que a triagem mede.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-14",
@@ -341,17 +342,18 @@
                      {
                          "id":  "interpretacao-texto-19",
                          "textoId":  "med-int-t2",
-                         "enunciado":  "O artigo se organiza, na ordem, segundo o seguinte encadeamento:",
+                         "enunciado":  "O artigo abre com ______, desenvolve ______ e encerra com ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "narração de um caso particular, generalização a partir dele, refutação de teses concorrentes e apelo emocional dirigido diretamente ao leitor do periódico",
-                                              "b":  "apresentação de dados estatísticos, comparação entre países, discussão das causas históricas do fenômeno e formulação de uma recomendação de política pública",
-                                              "c":  "constatação provocativa, explicação do critério, diagnóstico do problema, concessão e proposta",
-                                              "d":  "definição de conceitos técnicos, revisão da literatura especializada disponível sobre o assunto, apresentação de método e discussão dos resultados encontrados",
-                                              "e":  "enumeração de queixas frequentes, atribuição de responsabilidade aos gestores públicos, denúncia de irregularidades e convocação dos leitores à mobilização"
+                                              "a":  "a narração de um atendimento específico – a generalização daquele caso para o conjunto dos serviços de urgência do país – um apelo dirigido às autoridades",
+                                              "b":  "um dado estatístico sobre o tempo médio de espera – a comparação entre os modelos de triagem adotados em diferentes países – uma proposta de alteração normativa",
+                                              "c":  "uma frase que choca – a explicação do critério, o diagnóstico da falha e uma concessão – uma reformulação do que é a fila",
+                                              "d":  "a definição técnica de classificação de risco – a revisão dos estudos disponíveis sobre a eficácia do método – a apresentação dos resultados encontrados",
+                                              "e":  "uma pergunta dirigida ao leitor – a enumeração das queixas mais frequentes registradas nas salas de espera – a resposta à pergunta formulada na abertura"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto abre com a frase que choca, explica por que ela é verdadeira, aponta o que falha — a invisibilidade —, concede que o sistema erra e termina indicando o que fazer. É a arquitetura clássica do artigo de opinião.",
-                         "formato":  "direta"
+                         "explicacao":  "\"Quem chega primeiro não é atendido primeiro\" é a frase que provoca; o corpo explica por que ela é verdadeira, aponta a invisibilidade do critério e admite que o sistema erra; o fecho troca \"distribuir atendimento\" por \"decidir quem pode esperar\".",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-20",
@@ -431,17 +433,18 @@
                      {
                          "id":  "interpretacao-texto-25",
                          "textoId":  "med-int-t3",
-                         "enunciado":  "Quanto à forma, o poema se caracteriza por:",
+                         "enunciado":  "O poema é composto por versos ______, sem ______, e sua unidade se apoia ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "alexandrinos distribuídos em duas estrofes de igual extensão, arranjo que confere solenidade ao tratamento dado ao tema abordado no texto poético",
-                                              "b":  "estrofes regulares de quatro versos decassílabos com rimas alternadas, estrutura que remete diretamente à tradição do soneto na literatura de língua portuguesa",
-                                              "c":  "redondilha maior sustentada do início ao fim, com rimas emparelhadas que reforçam o caráter narrativo da cena hospitalar apresentada pelo eu lírico",
-                                              "d":  "versos brancos organizados em tercetos, dispostos de modo a produzir um efeito de simetria entre a abertura e o encerramento da composição poética",
-                                              "e":  "versos livres, sem metro fixo nem esquema de rimas"
+                                              "a":  "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe da composição apresentada",
+                                              "b":  "decassílabos – variação no número de sílabas poéticas ao longo das estrofes – na regularidade métrica que percorre toda a composição do início ao fim",
+                                              "c":  "brancos – qualquer recurso de repetição sonora ou sintática – na sucessão cronológica dos acontecimentos narrados ao longo da noite de plantão",
+                                              "d":  "redondilhos – estrofes de extensão desigual entre si – no esquema de rimas emparelhadas que fecha cada uma das quatro estrofes do poema",
+                                              "e":  "livres – metro fixo nem esquema de rimas – nas imagens e no contraste entre dentro e fora"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Basta conferir: os versos variam de duas a onze sílabas e não há coincidência sonora regular nos finais. Verso livre é justamente isso — a estrutura obedece ao ritmo do que se diz, não a um molde prévio.",
-                         "formato":  "direta"
+                         "explicacao":  "Os versos vão de duas a onze sílabas e não há coincidência sonora regular nos finais. O que costura o poema não é forma fixa: é a luz que não sabe que é noite, o pingo que conta sobrevida e a cidade que continua lá fora.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
                      },
                      {
                          "id":  "interpretacao-texto-26",
@@ -566,17 +569,18 @@
                      {
                          "id":  "interpretacao-texto-34",
                          "textoId":  "med-int-t4",
-                         "enunciado":  "A distinção entre \"ajuste comportamental\" e \"ajuste fisiológico\" é usada no texto para explicar por que:",
+                         "enunciado":  "Segundo o texto, o ajuste ______ acontece com o tempo, o ajuste ______ não se completa, e é por isso que ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "o relato subjetivo dos trabalhadores é mais confiável do que os exames laboratoriais na avaliação do impacto do trabalho noturno sobre a saúde individual",
-                                              "b":  "alguns trabalhadores se adaptam com facilidade ao trabalho noturno enquanto outros jamais conseguem, diferença atribuída a características genéticas de cada indivíduo",
-                                              "c":  "as medidas de organização de escala apresentadas no final do texto conseguem eliminar completamente os riscos associados à atividade profissional noturna",
-                                              "d":  "os estudos sobre trabalho em turnos apresentam resultados contraditórios entre si, o que impede conclusões definitivas sobre os efeitos do horário na saúde",
-                                              "e":  "dormir bem de dia não basta para eliminar o efeito do turno noturno"
+                                              "a":  "temporário – permanente – o retorno ao turno diurno reverte integralmente todos os efeitos acumulados durante o período de trabalho noturno",
+                                              "b":  "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam qualquer alteração",
+                                              "c":  "hormonal – metabólico – as alterações observadas se restringem ao período imediatamente posterior ao início da escala noturna de trabalho",
+                                              "d":  "individual – coletivo – as medidas de organização da escala produzem resultado apenas quando adotadas simultaneamente por toda a equipe do serviço",
+                                              "e":  "comportamental – fisiológico – dormir bem de dia não elimina o efeito do turno"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A distinção separa o que a pessoa consegue mudar do que não consegue. Dormir de dia é aprendizado possível; o metabolismo da glicose segue alterado. Sem essa separação, o dado do parágrafo — alterações em quem dorme bem — pareceria contraditório.",
-                         "formato":  "direta"
+                         "explicacao":  "A distinção é a chave do parágrafo: muitos aprendem a dormir de dia, mas as alterações no metabolismo da glicose persistem \"mesmo entre os que relatam dormir bem\". Sem separar as duas coisas, esse dado pareceria contraditório.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
                      },
                      {
                          "id":  "interpretacao-texto-35",
@@ -611,17 +615,18 @@
                      {
                          "id":  "interpretacao-texto-37",
                          "textoId":  "med-int-t4",
-                         "enunciado":  "O par de frases \"Nenhuma delas elimina o problema. Todas reduzem\" caracteriza a postura do texto como:",
+                         "enunciado":  "Ao afirmar que nenhuma medida elimina o problema e que todas reduzem, o texto recusa ______ e recusa também ______, assumindo postura ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "otimista, ao afirmar que a combinação adequada das medidas apresentadas é suficiente para neutralizar integralmente os efeitos do trabalho noturno",
-                                              "b":  "pessimista, ao concluir que os esforços de organização das escalas não produzem qualquer benefício mensurável para a saúde dos profissionais envolvidos",
-                                              "c":  "realista, ao recusar tanto a solução completa quanto a inutilidade das medidas",
-                                              "d":  "neutra, ao apresentar as medidas disponíveis sem emitir qualquer avaliação sobre a eficácia relativa de cada uma delas no contexto hospitalar descrito",
-                                              "e":  "irônica, ao sugerir que as recomendações listadas são adotadas apenas para dar aparência de cuidado sem produzir mudança efetiva na rotina dos serviços"
+                                              "a":  "a adoção de qualquer das medidas listadas – a manutenção do modelo atual de organização dos turnos – propositiva em relação ao futuro do setor",
+                                              "b":  "a validade dos estudos citados – a possibilidade de intervenção sobre as escalas – cética quanto ao conhecimento disponível a respeito do trabalho noturno",
+                                              "c":  "a promessa de solução completa – a conclusão de que nada adianta – realista",
+                                              "d":  "a responsabilidade das instituições empregadoras – a autonomia dos trabalhadores sobre a própria rotina – neutra diante do conflito entre as duas partes",
+                                              "e":  "a existência de custo fisiológico mensurável – a necessidade de manter o trabalho noturno em serviços essenciais – contraditória em relação ao início do texto"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "As duas frases se equilibram: a primeira impede a promessa de cura, a segunda impede o abandono. É a posição que o texto sustenta desde o início — o custo é real, mensurável e administrável, não abolível.",
-                         "formato":  "direta"
+                         "explicacao":  "As duas frases se equilibram: a primeira impede prometer cura, a segunda impede o abandono. É a mesma posição que o texto vinha sustentando — o custo é real, mensurável e administrável, mas não abolível.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
                      },
                      {
                          "id":  "interpretacao-texto-38",
@@ -1001,17 +1006,18 @@
                      {
                          "id":  "interpretacao-texto-63",
                          "textoId":  "med-int-t7",
-                         "enunciado":  "Segundo o texto, a relação entre a queda da cobertura e o retorno das doenças é tal que:",
+                         "enunciado":  "Segundo o texto, a cobertura cai ______ e a doença retorna ______, o que faz com que ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "cada ponto percentual perdido na cobertura produz um aumento imediato e mensurável no número de casos registrados pelos serviços de vigilância epidemiológica",
-                                              "b":  "o retorno não acompanha a queda de forma proporcional, e ocorre de uma vez após um limiar",
-                                              "c":  "o número de casos permanece constante enquanto a cobertura estiver acima de sessenta por cento, patamar identificado no texto como o limite de segurança",
-                                              "d":  "o retorno das doenças antecede a queda da cobertura, funcionando como sinal de alerta para as autoridades responsáveis pelo calendário de imunização",
-                                              "e":  "as duas variáveis são independentes entre si, já que a circulação dos agentes infecciosos depende sobretudo de fatores climáticos e de deslocamentos populacionais"
+                                              "a":  "de uma vez, num único ano – aos poucos, ao longo de várias temporadas – as autoridades disponham de tempo suficiente para reagir antes do agravamento",
+                                              "b":  "aos poucos, ano a ano – de uma vez, ao cruzar um limiar – quem olhe só os casos não veja a perda em curso",
+                                              "c":  "aos poucos, ano a ano – na mesma proporção da queda observada – o número de casos funcione como indicador confiável do nível de proteção da população",
+                                              "d":  "de forma imprevisível – sempre no período seguinte ao da maior queda registrada – seja possível antecipar com precisão o momento do retorno de cada doença",
+                                              "e":  "apenas nas regiões de menor renda – de modo uniforme em todo o território – a vigilância precise concentrar seus esforços nas áreas mais vulneráveis"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O segundo parágrafo é explícito: as doenças \"ficam ausentes por anos, mesmo com a proteção diminuindo, e reaparecem de uma vez quando um limiar é cruzado\". É essa defasagem que engana quem acompanha só o número de casos.",
-                         "formato":  "direta"
+                         "explicacao":  "A defasagem entre as duas curvas é o ponto do parágrafo: a proteção escorrega devagar, o retorno é súbito. Quem acompanha apenas a contagem de casos recebe, durante anos, um sinal tranquilizador que já não corresponde à situação.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
                      },
                      {
                          "id":  "interpretacao-texto-64",
@@ -1106,17 +1112,18 @@
                      {
                          "id":  "interpretacao-texto-70",
                          "textoId":  "med-int-t7",
-                         "enunciado":  "A reportagem se organiza, na ordem, do seguinte modo:",
+                         "enunciado":  "A reportagem apresenta, na ordem: ______, depois ______, em seguida ______ e por fim ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "apresentação de um caso individual, generalização estatística, comparação internacional e proposta de política pública detalhada em suas etapas de execução",
-                                              "b":  "descrição do fenômeno, sua consequência, uma causa pouco lembrada e a correção da resposta usual",
-                                              "c":  "revisão histórica das campanhas de imunização no país, balanço dos resultados obtidos em cada período e projeção dos cenários esperados para a década seguinte",
-                                              "d":  "enunciado de uma hipótese, descrição do método empregado para testá-la, apresentação dos resultados encontrados e discussão das limitações do estudo realizado",
-                                              "e":  "denúncia de irregularidades na distribuição de vacinas, identificação dos responsáveis, apuração das consequências e convocação das autoridades competentes"
+                                              "a":  "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas do estudo",
+                                              "b":  "como a cobertura cai – o que isso provoca – uma causa pouco lembrada – a correção da resposta usual",
+                                              "c":  "o depoimento de uma família – a reação dos serviços de saúde locais – a posição oficial do ministério responsável – o desfecho do caso relatado na abertura",
+                                              "d":  "a definição de cobertura vacinal – o histórico do calendário brasileiro – os resultados alcançados em cada década – as projeções para os anos seguintes",
+                                              "e":  "a denúncia de falhas na distribuição – a identificação dos responsáveis por elas – as consequências apuradas até o momento – a convocação das autoridades"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto abre descrevendo como a cobertura cai, mostra o que isso provoca no retorno das doenças, acrescenta o efeito da experiência que falta aos pais e termina corrigindo o diagnóstico que sustenta as campanhas.",
-                         "formato":  "direta"
+                         "explicacao":  "O texto descreve o escorregamento, mostra a defasagem no retorno das doenças, acrescenta o efeito da experiência que falta aos pais e termina corrigindo o diagnóstico em que as campanhas se apoiam.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-71",
@@ -1166,17 +1173,18 @@
                      {
                          "id":  "interpretacao-texto-74",
                          "textoId":  "med-int-t8",
-                         "enunciado":  "Nas instruções de uso, predominam formas verbais no:",
+                         "enunciado":  "Nas instruções de uso predominam verbos no modo ______, adequado a um texto que ______; nas advertências, esse modo aparece combinado a ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "imperativo, adequado a um texto que orienta condutas",
-                                              "b":  "futuro do pretérito, escolha que atenua a força das recomendações e as apresenta como sugestões que o paciente pode ou não considerar ao longo do tratamento",
-                                              "c":  "pretérito perfeito, tempo que situa as orientações como relato de procedimentos já realizados durante os estudos clínicos conduzidos com a substância",
-                                              "d":  "gerúndio, forma que confere ao texto a impressão de continuidade e acompanha a descrição dos processos metabólicos mencionados ao longo das seções",
-                                              "e":  "subjuntivo, modo que expressa hipótese e é usado para descrever as situações em que o medicamento poderia eventualmente vir a ser prescrito ao paciente"
+                                              "a":  "imperativo – orienta condutas – orações condicionais iniciadas por \"se\"",
+                                              "b":  "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente",
+                                              "c":  "indicativo – relata fatos verificados – construções na voz passiva que ocultam o agente responsável pela execução de cada uma das etapas descritas",
+                                              "d":  "infinitivo – enumera procedimentos sem destinatário definido – expressões de tempo que delimitam a duração máxima recomendada para o tratamento",
+                                              "e":  "gerúndio – descreve processos em andamento – complementos de finalidade que justificam cada uma das recomendações apresentadas ao longo do texto"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "\"Não use\", \"tome com água\", \"informe seu médico\", \"procure atendimento\": são ordens dirigidas ao leitor. O imperativo é a forma própria do texto instrucional, porque não descreve nem hipotetiza — determina o que fazer.",
-                         "formato":  "direta"
+                         "explicacao":  "\"Não use\", \"tome com água\", \"informe seu médico\", \"procure atendimento\" são ordens. Nas advertências elas vêm acopladas a condições — \"se você tem doença grave do fígado\", \"se já apresentou reação alérgica\" —, que delimitam quando a ordem vale.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
                      },
                      {
                          "id":  "interpretacao-texto-75",
@@ -1226,17 +1234,18 @@
                      {
                          "id":  "interpretacao-texto-78",
                          "textoId":  "med-int-t8",
-                         "enunciado":  "A diferença entre \"não use este medicamento se\" e \"informe seu médico se\" está em que a primeira:",
+                         "enunciado":  "A expressão \"não use este medicamento se\" ______, ao passo que \"informe seu médico se\" ______; a diferença entre as duas está em ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "tem caráter apenas orientador, ao passo que a segunda estabelece uma obrigação legal cujo descumprimento acarreta consequências previstas em norma",
-                                              "b":  "se dirige ao paciente e a segunda se dirige ao profissional responsável pela prescrição, o que explica a diferença de vocabulário entre as duas formulações",
-                                              "c":  "trata de situações que já ocorreram com o paciente e a segunda antecipa situações que ainda poderão vir a ocorrer no decorrer do período de tratamento",
-                                              "d":  "descreve reações adversas e a segunda descreve interações medicamentosas, distinção que a bula mantém de forma consistente em todas as suas seções",
-                                              "e":  "veda o uso, enquanto a segunda transfere a decisão a quem avalia o caso"
+                                              "a":  "tem caráter apenas orientador – estabelece obrigação prevista em norma – o grau de exigibilidade jurídica atribuído a cada uma das duas recomendações",
+                                              "b":  "orienta o paciente – orienta o farmacêutico responsável pela dispensação – o destinatário a que cada uma das formulações se dirige dentro do estabelecimento",
+                                              "c":  "trata de reações adversas – trata de interações com outros medicamentos – a natureza do risco descrito em cada uma das seções da bula apresentada",
+                                              "d":  "descreve situações já ocorridas – antecipa situações futuras – o momento em que cada uma das duas circunstâncias pode vir a se verificar no tratamento",
+                                              "e":  "veda o uso – abre uma avaliação – quem decide em cada caso"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Uma é proibição fechada, que o paciente aplica sozinho; a outra abre uma avaliação que ele não tem como fazer. A bula distingue o que se decide na farmácia do que se decide no consultório.",
-                         "formato":  "direta"
+                         "explicacao":  "Uma é proibição fechada, que o paciente aplica sozinho; a outra abre uma avaliação que ele não tem como fazer. A bula separa o que se resolve na farmácia do que se resolve no consultório.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
                      },
                      {
                          "id":  "interpretacao-texto-79",
@@ -1436,17 +1445,18 @@
                      {
                          "id":  "interpretacao-texto-92",
                          "textoId":  "med-int-t10",
-                         "enunciado":  "Ao afirmar que o laudo \"é uma informação que alguém sustenta\", o editorial destaca que o documento:",
+                         "enunciado":  "Segundo o editorial, um laudo é uma informação que ______, enquanto um sistema automatizado ______; é essa diferença que ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "deve conter a descrição detalhada do método empregado na análise, requisito que os sistemas automatizados costumam cumprir com mais rigor do que os profissionais",
-                                              "b":  "precisa ser assinado por mais de um profissional para adquirir validade legal perante os órgãos reguladores que fiscalizam a atividade em cada especialidade",
-                                              "c":  "só tem valor quando emitido por especialista com titulação reconhecida na área correspondente ao exame que está sendo interpretado naquele momento",
-                                              "d":  "apresenta grau de certeza superior ao de qualquer sistema automatizado disponível, uma vez que resulta da experiência acumulada por quem o redige",
-                                              "e":  "carrega, além do conteúdo, um responsável a quem se pode pedir contas"
+                                              "a":  "circula entre profissionais da mesma equipe – é entregue diretamente ao paciente sem intermediação – recomenda a revisão dos fluxos internos de comunicação",
+                                              "b":  "resulta de anos de experiência clínica – depende exclusivamente do volume de dados usado no treinamento – explica a superioridade do especialista humano",
+                                              "c":  "obedece a um padrão técnico definido – opera fora de qualquer regulamentação aplicável – justifica a suspensão do uso dessas ferramentas nos serviços",
+                                              "d":  "pode ser revista a qualquer tempo – emite conclusões definitivas e irreversíveis – impede a adoção desses sistemas em ambientes de diagnóstico por imagem",
+                                              "e":  "alguém sustenta – produz a informação sem sustentá-la – o texto discute"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto separa a informação de quem a banca: a assinatura \"pode ser questionada, revista, responsabilizada\". Não se trata de o laudo humano ser mais exato — o argumento é sobre haver alguém a quem perguntar por quê.",
-                         "formato":  "direta"
+                         "explicacao":  "A assinatura \"pode ser questionada, revista, responsabilizada\". O sistema entrega a leitura e não responde por ela — e o editorial não afirma que o laudo humano seja mais exato, só que ele tem a quem se perguntar por quê.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
                      },
                      {
                          "id":  "interpretacao-texto-93",
@@ -1496,17 +1506,18 @@
                      {
                          "id":  "interpretacao-texto-96",
                          "textoId":  "med-int-t10",
-                         "enunciado":  "A distinção entre segunda leitura \"nos casos limítrofes em vez de nos casos aleatórios\" indica preferência por uma verificação:",
+                         "enunciado":  "O editorial prefere a segunda leitura ______ à segunda leitura ______, porque ela ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "conduzida por profissional diferente daquele que fez a primeira leitura, exigência que o texto considera mais relevante do que a escolha dos casos",
-                                              "b":  "aplicada a todos os exames sem exceção, critério que elimina a necessidade de identificar previamente quais casos apresentam maior risco de engano",
-                                              "c":  "realizada em momento posterior ao envio do laudo ao paciente, de modo a não retardar a entrega do resultado nos casos de rotina do serviço",
-                                              "d":  "dirigida a onde o erro é mais provável, em vez de distribuída por sorteio",
-                                              "e":  "definida pelo próprio revisor conforme sua disponibilidade de tempo em cada plantão, arranjo que o editorial apresenta como o mais realista na prática"
+                                              "a":  "posterior à entrega do laudo – anterior à liberação do resultado – evita o atraso no atendimento dos pacientes que aguardam o exame de rotina",
+                                              "b":  "realizada por outro profissional – feita pelo mesmo que assinou a primeira – elimina a possibilidade de repetição do mesmo equívoco de interpretação",
+                                              "c":  "aplicada a todos os exames – restrita a uma amostra dos casos – dispensa qualquer critério prévio de seleção e por isso simplifica a rotina do serviço",
+                                              "d":  "nos casos limítrofes – em casos sorteados – concentra a atenção onde o erro é mais provável",
+                                              "e":  "definida pelo revisor a cada plantão – estabelecida previamente pelo protocolo – respeita a autonomia técnica de quem responde pela leitura naquele turno"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Amostra aleatória distribui a atenção uniformemente e a desperdiça nos casos fáceis. Concentrar a segunda leitura onde o sistema está menos seguro usa o mesmo esforço onde ele rende — é a mesma lógica das outras duas medidas propostas.",
-                         "formato":  "direta"
+                         "explicacao":  "Sorteio distribui a atenção por igual e a gasta nos casos fáceis. Dirigir a segunda leitura ao que o sistema classificou como incerto usa o mesmo esforço onde ele rende — a mesma lógica das outras duas medidas propostas no parágrafo.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
                      },
                      {
                          "id":  "interpretacao-texto-97",
@@ -1631,17 +1642,18 @@
                      {
                          "id":  "interpretacao-texto-105",
                          "textoId":  "med-int-t11",
-                         "enunciado":  "Ao afirmar que ter alguém a quem contar o erro \"é mais raro do que competência técnica, e protege mais\", o orador estabelece:",
+                         "enunciado":  "O orador considera ter a quem contar o erro ______ do que a competência técnica e ______ do que ela, o que inverte ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "que as instituições de ensino deveriam incluir em seus currículos disciplinas voltadas ao desenvolvimento de habilidades de relacionamento interpessoal",
-                                              "b":  "que a competência técnica pode ser dispensada quando o profissional conta com uma rede de apoio suficientemente sólida em seu ambiente de trabalho",
-                                              "c":  "que os erros cometidos no exercício da profissão decorrem principalmente do isolamento, e não de lacunas na formação recebida pelos profissionais",
-                                              "d":  "uma hierarquia inesperada entre dois bens, em favor do menos óbvio",
-                                              "e":  "que a raridade de um bem é o critério adequado para medir sua importância relativa nas decisões que os formandos terão de tomar na carreira"
+                                              "a":  "menos exigível – mais fácil de desenvolver – a expectativa de que os primeiros anos de carreira sejam dedicados ao aperfeiçoamento técnico permanente",
+                                              "b":  "mais frequente – menos decisivo – a ordem em que as duas qualidades costumam ser apresentadas aos estudantes durante os anos de formação acadêmica",
+                                              "c":  "igualmente comum – igualmente relevante – a distinção que as instituições de ensino estabelecem entre as habilidades técnicas e as demais competências",
+                                              "d":  "mais raro – mais protetor – a hierarquia esperada numa formatura",
+                                              "e":  "mais discutido – menos verificável – o critério adotado pelos serviços de saúde na avaliação periódica do desempenho de seus próprios profissionais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Numa formatura, o elogio esperado recai sobre a competência técnica. O orador a mantém em segundo plano diante de algo que ninguém certifica — e sustenta a inversão com dois critérios: é mais escasso e protege mais.",
-                         "formato":  "direta"
+                         "explicacao":  "Numa formatura, o elogio previsível recai sobre a competência técnica. O orador a mantém em segundo plano diante de algo que nenhum diploma certifica, e sustenta a inversão com dois critérios: é mais escasso e protege mais.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
                      },
                      {
                          "id":  "interpretacao-texto-106",
@@ -1751,17 +1763,18 @@
                      {
                          "id":  "interpretacao-texto-113",
                          "textoId":  "med-int-t12",
-                         "enunciado":  "O resenhista considera que os melhores capítulos são aqueles em que a autora:",
+                         "enunciado":  "Os capítulos que o resenhista considera melhores são aqueles em que a autora ______ e ______; a mudança se dá ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "apresenta com maior detalhamento os aspectos técnicos de cada caso clínico, permitindo ao leitor acompanhar o raciocínio diagnóstico passo a passo",
-                                              "b":  "admite não ter compreendido o desfecho e escreve na primeira pessoa do singular",
-                                              "c":  "recorre ao plural para expressar as conclusões da equipe envolvida, recurso que confere maior credibilidade às análises apresentadas na obra",
-                                              "d":  "estabelece comparações entre casos semelhantes, procedimento que segundo ele revela o padrão comum por trás das situações narradas individualmente",
-                                              "e":  "propõe orientações práticas aplicáveis a situações análogas, parte que o resenhista considera a contribuição mais duradoura do trabalho publicado"
+                                              "a":  "detalha o raciocínio diagnóstico passo a passo – apresenta as evidências que sustentam cada decisão – no grau de tecnicidade exigido do leitor",
+                                              "b":  "admite não ter entendido o desfecho – escreve na primeira pessoa do singular – no registro, não no assunto",
+                                              "c":  "compara casos semelhantes entre si – extrai deles o padrão comum – no método de análise adotado a partir da metade do volume publicado",
+                                              "d":  "recorre ao plural para expressar conclusões de equipe – atribui a autoria coletiva das decisões – na quantidade de profissionais envolvidos em cada caso",
+                                              "e":  "propõe orientações aplicáveis a situações análogas – organiza os princípios gerais da obra – na finalidade prática atribuída a cada um dos capítulos"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "São os quatro capítulos em que ela troca \"observamos\" e \"concluímos\" por \"eu não sei\". O resenhista chama a mudança de registro de notável e lamenta que não se estenda ao resto do livro.",
-                         "formato":  "direta"
+                         "explicacao":  "São quatro capítulos, e neles o \"observamos\" e o \"concluímos\" dão lugar a \"eu não sei\". O que muda não é o tipo de caso analisado — é a pessoa gramatical, e com ela a exposição de quem assume a dúvida.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-114",
@@ -1856,17 +1869,18 @@
                      {
                          "id":  "interpretacao-texto-120",
                          "textoId":  "med-int-t12",
-                         "enunciado":  "A mudança da primeira pessoa do plural para a do singular, apontada na resenha, é valorizada porque:",
+                         "enunciado":  "O \"observamos\" ______ a responsabilidade, ao passo que o \"eu não sei\" ______; o resenhista valoriza o segundo por ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "aproxima o texto da norma culta escrita, que recomenda o uso do singular nas construções em que o autor se refere a si mesmo ao longo da obra",
-                                              "b":  "expõe quem assume a dúvida, em lugar de diluí-la num sujeito coletivo",
-                                              "c":  "torna a leitura mais fluente ao eliminar as construções verbais no plural, cuja repetição prejudicava o ritmo dos capítulos anteriores do volume",
-                                              "d":  "indica que aqueles capítulos foram redigidos em momento distinto do restante da obra, hipótese que o resenhista confirma no parágrafo seguinte",
-                                              "e":  "revela que a autora trabalhou sozinha nos casos relatados nesses capítulos, ao contrário do que ocorreu nos demais, conduzidos em equipe"
+                                              "a":  "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática",
+                                              "b":  "dilui – tem dono – expor quem assume a dúvida",
+                                              "c":  "explicita – oculta a autoria da conclusão apresentada – preservar o anonimato dos profissionais envolvidos nos casos relatados ao longo do volume",
+                                              "d":  "atenua – reforça a certeza expressa pela autora – transmitir ao leitor maior segurança quanto às conclusões apresentadas em cada um dos capítulos",
+                                              "e":  "aproxima da norma culta – afasta do registro formal esperado – demonstrar domínio de diferentes variedades da língua ao longo de uma mesma obra"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "\"Observamos\" e \"concluímos\" distribuem a responsabilidade por um coletivo indefinido; \"eu não sei\" tem dono. É essa exposição pessoal que o resenhista chama de notável e gostaria de ver no livro inteiro.",
-                         "formato":  "direta"
+                         "explicacao":  "A primeira pessoa do plural reparte a responsabilidade por um coletivo que ninguém consegue nomear; \"eu não sei\" tem sujeito. É essa exposição pessoal que o resenhista chama de notável e lamenta ver restrita a quatro capítulos.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
                      },
                      {
                          "id":  "interpretacao-texto-121",
@@ -2006,17 +2020,18 @@
                      {
                          "id":  "interpretacao-texto-130",
                          "textoId":  "med-int-t13",
-                         "enunciado":  "As quatro peças têm em comum a estratégia de:",
+                         "enunciado":  "As quatro peças ______ antes de ______, estratégia que ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "identificar o órgão responsável pela campanha ao final de cada peça, exigência das normas aplicáveis à publicidade de utilidade pública",
-                                              "b":  "apresentar dados numéricos verificáveis em todas as peças, prática que confere credibilidade científica ao conjunto da campanha veiculada",
-                                              "c":  "descrever as consequências clínicas de cada comportamento inadequado, apresentadas em ordem crescente de gravidade dentro de cada cartaz",
-                                              "d":  "antecipar a objeção do leitor e responder a ela antes do pedido",
-                                              "e":  "recorrer a personagens fictícias com as quais o público possa se identificar, recurso empregado de modo uniforme nos quatro cartazes da série"
+                                              "a":  "identificam o órgão responsável pela campanha – transmitir a mensagem principal – atende à exigência normativa aplicável à publicidade de utilidade pública",
+                                              "b":  "apresentam um dado numérico verificável – enunciar a recomendação final – confere respaldo científico ao conjunto da campanha veiculada nos coletivos",
+                                              "c":  "descrevem as consequências clínicas do descuido – indicar o comportamento esperado – impressiona o público por meio do apelo ao medo da doença",
+                                              "d":  "nomeiam a resistência do leitor – pedir a ação – desarma a objeção antes que ela seja formulada",
+                                              "e":  "criam uma personagem com quem o público se identifique – dirigir a ela o pedido – estabelece vínculo afetivo entre o leitor e a situação retratada na peça"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Falta de tempo, não saber o que dizer, deixar para depois, achar que é exagero: cada cartaz nomeia a resistência antes de pedir a ação. Nem todos trazem número, o que já elimina (b).",
-                         "formato":  "direta"
+                         "explicacao":  "Falta de tempo, não saber o que dizer, deixar para depois, achar que é exagero: cada cartaz enuncia primeiro o motivo pelo qual a pessoa não agiria. Nem todas as peças trazem número, o que já elimina (b).",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-131",
@@ -2036,17 +2051,18 @@
                      {
                          "id":  "interpretacao-texto-132",
                          "texto_apoio":  "Compare: (I) \"A temperatura do paciente atingiu 39,2 °C às 14h.\" (II) \"Nunca vi ninguém tão quente nas minhas mãos.\"",
-                         "enunciado":  "Nos enunciados I e II predominam, respectivamente, as funções:",
+                         "enunciado":  "Nos enunciados I e II predominam, respectivamente, as funções ______ e ______, reconhecíveis ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "fática e apelativa, considerando que o primeiro estabelece o contato entre os interlocutores e o segundo solicita uma providência ao destinatário",
-                                              "b":  "emotiva e referencial, uma vez que o primeiro exprime a reação de quem observa e o segundo registra o dado obtido pela medição realizada",
-                                              "c":  "poética e metalinguística, dada a elaboração formal do primeiro enunciado e o comentário sobre o código presente no segundo deles",
-                                              "d":  "referencial e emotiva",
-                                              "e":  "metalinguística e poética, pois o primeiro define um termo técnico e o segundo explora recursos expressivos na construção da frase apresentada"
+                                              "a":  "fática – apelativa – pelo estabelecimento do contato entre os interlocutores no primeiro e pelo pedido de providência dirigido ao destinatário no segundo",
+                                              "b":  "emotiva – referencial – pela presença de vocabulário técnico no primeiro e pela ausência completa de qualquer termo especializado no segundo enunciado",
+                                              "c":  "poética – metalinguística – pela elaboração formal observada no primeiro e pelo comentário sobre o próprio código presente no segundo dos enunciados",
+                                              "d":  "referencial – emotiva – pelo foco no dado, no primeiro, e nas marcas de quem fala, no segundo",
+                                              "e":  "metalinguística – poética – pela definição de um termo técnico no primeiro e pela exploração de recursos expressivos na construção sintática do segundo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O enunciado I informa um dado com precisão e sem marca de quem fala; o II tem \"nunca vi\", \"minhas mãos\" e um julgamento intensificado. O primeiro aponta para o referente, o segundo para o emissor.",
-                         "formato":  "direta"
+                         "explicacao":  "O primeiro informa um valor medido, sem marca de quem mediu. O segundo traz \"nunca vi\", \"minhas mãos\" e um julgamento intensificado. Um aponta para o referente, o outro para quem enuncia.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-133",
@@ -2126,17 +2142,18 @@
                      {
                          "id":  "interpretacao-texto-138",
                          "texto_apoio":  "Compare: (I) \"O resultado indica infecção bacteriana.\" (II) \"O resultado possivelmente indica infecção bacteriana, embora outras causas não estejam descartadas.\"",
-                         "enunciado":  "A diferença entre os dois enunciados está em que o segundo:",
+                         "enunciado":  "O enunciado II difere do I por ______, recurso que altera ______ sem alterar ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "apresenta informação tecnicamente mais completa, uma vez que menciona a existência de causas alternativas não especificadas no primeiro enunciado",
-                                              "b":  "modaliza a afirmação, reduzindo o grau de compromisso de quem a enuncia",
-                                              "c":  "emprega registro mais formal do que o primeiro, adequação exigida pelos documentos de natureza técnica produzidos em ambiente hospitalar",
-                                              "d":  "contradiz o conteúdo do primeiro enunciado, negando a conclusão que havia sido apresentada de forma categórica na formulação inicial",
-                                              "e":  "dirige-se a um destinatário diferente, o que explica a mudança de vocabulário observada entre as duas versões do mesmo resultado laboratorial"
+                                              "a":  "corrigir a conclusão apresentada – o resultado laboratorial descrito no exame – a forma como ele é comunicado ao paciente que aguarda o diagnóstico",
+                                              "b":  "modalizar a afirmação – o grau de compromisso de quem escreve – o dado informado",
+                                              "c":  "elevar o registro para o nível formal – o vocabulário empregado na redação – o destinatário a que o documento se dirige dentro do serviço de saúde",
+                                              "d":  "acrescentar informação técnica ausente no primeiro – a completude do laudo emitido – o grau de certeza com que a conclusão é sustentada por quem assina",
+                                              "e":  "negar o conteúdo do primeiro enunciado – a conclusão diagnóstica apresentada – a linguagem adotada na descrição dos achados obtidos pelo exame"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "\"Possivelmente\" e \"embora não estejam descartadas\" são marcas de modalização: não mudam o dado, mudam o quanto quem escreve se compromete com ele. Modalizar não é contradizer, o que descarta (d).",
-                         "formato":  "direta"
+                         "explicacao":  "\"Possivelmente\" e \"embora outras causas não estejam descartadas\" são marcas de modalização: o achado é o mesmo, o que muda é quanto quem escreve se compromete com a leitura dele. Modalizar não é corrigir nem negar.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
                      },
                      {
                          "id":  "interpretacao-texto-139",
@@ -2156,17 +2173,18 @@
                      {
                          "id":  "interpretacao-texto-140",
                          "texto_apoio":  "Compare: (I) \"Solicita-se ao paciente que compareça em jejum de oito horas.\" (II) \"Vem sem comer nada desde a noite, tá?\"",
-                         "enunciado":  "A diferença entre os dois enunciados é essencialmente de:",
+                         "enunciado":  "Os enunciados I e II estão, respectivamente, em variedade ______ e ______, e a diferença entre eles é de ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "registro, com o primeiro em variedade formal e o segundo em variedade coloquial",
-                                              "b":  "correção gramatical, sendo o segundo enunciado incorreto do ponto de vista das regras que organizam a língua portuguesa escrita e falada",
-                                              "c":  "conteúdo informativo, uma vez que o segundo enunciado omite a duração exata do jejum exigido antes da realização do exame solicitado",
-                                              "d":  "função da linguagem, já que o primeiro se dirige ao destinatário e o segundo se concentra na transmissão objetiva do dado técnico",
-                                              "e":  "regionalismo, pois o segundo enunciado emprega construções restritas a uma variedade geográfica específica do português brasileiro atual"
+                                              "a":  "formal – coloquial – adequação à situação, não de correção",
+                                              "b":  "coloquial – formal – conteúdo informativo, uma vez que o segundo suprime a duração exata do jejum exigido para a realização do exame solicitado",
+                                              "c":  "escrita – falada – correção gramatical, sendo o segundo enunciado incompatível com as regras que organizam a língua portuguesa em qualquer contexto",
+                                              "d":  "regional – nacional – abrangência geográfica, já que o segundo emprega construções restritas a uma área específica do território brasileiro atual",
+                                              "e":  "técnica – literária – função da linguagem, pois o primeiro se concentra no dado objetivo e o segundo explora recursos expressivos na formulação"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As duas frases dizem a mesma coisa e ambas são adequadas ao contexto em que caberiam — uma numa guia impressa, outra numa conversa de balcão. Registro não é questão de certo e errado, o que elimina (b).",
-                         "formato":  "direta"
+                         "explicacao":  "As duas frases dizem a mesma coisa e cada uma cabe no lugar onde apareceria: uma guia impressa e uma conversa de balcão. Registro é ajuste à situação — chamar o coloquial de errado confunde variedade com erro.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
                      },
                      {
                          "id":  "interpretacao-texto-141",
@@ -2276,32 +2294,34 @@
                      {
                          "id":  "interpretacao-texto-148",
                          "texto_apoio":  "Compare: (I) \"A unidade ampliou o horário, portanto o número de atendimentos cresceu.\" (II) \"O número de atendimentos cresceu porque a unidade ampliou o horário.\"",
-                         "enunciado":  "Sobre os dois enunciados, é correto afirmar que:",
+                         "enunciado":  "Em I, o conectivo introduz ______; em II, introduz ______; quanto aos fatos, a relação entre eles ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "apenas o segundo estabelece relação de causalidade, ao passo que o primeiro se limita a apresentar dois fatos ocorridos no mesmo período",
-                                              "b":  "expressam relações lógicas opostas, sendo a ampliação do horário causa no primeiro enunciado e consequência no segundo deles apresentado",
-                                              "c":  "expressam a mesma relação, invertendo a ordem entre causa e consequência",
-                                              "d":  "o primeiro apresenta uma hipótese e o segundo uma constatação, diferença marcada pela escolha dos conectivos empregados em cada caso",
-                                              "e":  "nenhum dos dois estabelece relação causal, uma vez que os conectivos utilizados indicam apenas a sequência temporal entre os dois eventos"
+                                              "a":  "uma condição – uma finalidade – depende de informação que nenhum dos dois enunciados fornece ao leitor sobre o período considerado na comparação",
+                                              "b":  "a causa – a consequência – se inverte, de modo que a ampliação do horário passa a ser efeito do crescimento observado no número de atendimentos",
+                                              "c":  "a consequência – a causa – é a mesma nos dois enunciados",
+                                              "d":  "uma concessão – uma oposição – se desfaz, já que os dois fatos apenas ocorreram no mesmo intervalo sem qualquer vínculo de determinação entre si",
+                                              "e":  "uma hipótese – uma constatação – varia conforme o grau de certeza expresso por quem enuncia cada uma das duas versões apresentadas na comparação"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Em ambos, a ampliação é a causa e o crescimento é o efeito. O que muda é a ordem: \"portanto\" introduz a consequência, \"porque\" introduz a causa. Conectivos diferentes podem descrever a mesma relação por caminhos opostos.",
-                         "formato":  "direta"
+                         "explicacao":  "Nos dois casos a ampliação do horário é a causa e o crescimento é o efeito. O que muda é o percurso: \"portanto\" parte da causa e chega à consequência, \"porque\" parte da consequência e volta à causa.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
                      },
                      {
                          "id":  "interpretacao-texto-149",
                          "texto_apoio":  "Compare: (I) \"O coração bombeia cerca de cinco litros de sangue por minuto.\" (II) \"Aquela enfermaria era o coração do hospital.\"",
-                         "enunciado":  "A palavra destacada é empregada, respectivamente, em sentido:",
+                         "enunciado":  "Em I, \"coração\" está empregado em sentido ______; em II, em sentido ______; o deslocamento é autorizado ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "denotativo e conotativo",
-                                              "b":  "conotativo e denotativo, uma vez que o primeiro enunciado atribui à palavra um valor simbólico e o segundo a emprega em sua acepção literal",
-                                              "c":  "figurado nos dois casos, ainda que com graus distintos de afastamento em relação ao significado registrado nos dicionários da língua portuguesa",
-                                              "d":  "literal nos dois casos, já que a segunda ocorrência descreve a posição física ocupada pela enfermaria no interior do edifício hospitalar",
-                                              "e":  "técnico e regional, distinção que decorre do contexto de uso de cada um dos enunciados e não do significado atribuído à palavra em questão"
+                                              "a":  "denotativo – conotativo – pelo contexto",
+                                              "b":  "conotativo – denotativo – pela existência de acepção registrada em dicionário para as duas ocorrências da mesma palavra dentro dos enunciados",
+                                              "c":  "figurado – figurado – pelo grau de afastamento em relação ao significado de base, que varia entre as duas ocorrências apresentadas na comparação",
+                                              "d":  "literal – literal – pela descrição da posição física ocupada pela enfermaria no interior do edifício em que funciona a unidade hospitalar citada",
+                                              "e":  "técnico – regional – pela área de conhecimento em que cada um dos dois enunciados foi produzido e pelo público a que cada um deles se destina"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "No primeiro, coração é o órgão — sentido próprio. No segundo, é o centro vital de que tudo depende — sentido figurado. Denotação é o significado de base; conotação, o deslocamento que o contexto autoriza.",
-                         "formato":  "direta"
+                         "explicacao":  "No primeiro, coração é o órgão que bombeia — sentido de base. No segundo, é o centro de que tudo depende, e nada na palavra indica isso: é o enunciado inteiro que autoriza a leitura figurada.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
                      },
                      {
                          "id":  "interpretacao-texto-150",

@@ -3635,6 +3635,461 @@ window.QUESTION_BANKS = {
                         "resposta":  "c",
                         "explicacao":  "Dissociaram-se 0,80 mol dos 1,0 mol iniciais, o que dá grau de 80%. Pela estequiometria, cada mol de N2O4 gera dois de NO2: 0,80 x 2 = 1,6 mol. A alternativa (a) acerta o grau e esquece o coeficiente 2, e (b) toma o remanescente como se fosse o dissociado.",
                         "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-91",
+                        "texto_apoio":  "A talidomida foi comercializada nos anos 1950 como sedativo e antiemético para gestantes. O medicamento era vendido como mistura das duas formas espelhadas da molécula. Uma delas produz o efeito terapêutico; a outra é teratogênica e causou malformações em milhares de crianças.",
+                        "enunciado":  "A propriedade da molécula que explica a existência das duas formas com efeitos tão distintos é:",
+                        "alternativas":  {
+                                             "a":  "a quiralidade, que produz enantiômeros com interações diferentes com receptores biológicos",
+                                             "b":  "a isomeria geométrica, decorrente da presença de uma dupla ligação com substituintes distintos em cada um dos carbonos que a compõem",
+                                             "c":  "a tautomeria, equilíbrio dinâmico em que um átomo de hidrogênio migra entre dois sítios da molécula e altera sua atividade farmacológica",
+                                             "d":  "a polimerização espontânea do princípio ativo durante o armazenamento, que gera cadeias de comprimentos variados e atividades diferentes",
+                                             "e":  "a variação do estado de oxidação do nitrogênio presente na estrutura, que assume valores distintos em cada uma das duas formas descritas"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Enantiômeros são imagens especulares não sobreponíveis e têm propriedades físicas idênticas, mas interagem de modo diferente com estruturas biológicas, que também são quirais. O caso da talidomida é o exemplo histórico que levou as agências a exigirem avaliação separada de cada enantiômero.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-92",
+                        "texto_apoio":  "Um fóssil vegetal é datado pelo método do carbono-14, cuja meia-vida é de aproximadamente 5.730 anos. A razão entre carbono-14 e carbono-12 medida na amostra corresponde a um oitavo da razão encontrada em organismos vivos atuais.",
+                        "enunciado":  "A idade estimada do fóssil é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "5.730 anos",
+                                             "b":  "11.460 anos",
+                                             "c":  "17.190 anos",
+                                             "d":  "22.920 anos",
+                                             "e":  "45.840 anos"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Um oitavo corresponde a três meias-vidas sucessivas: 1 → 1/2 → 1/4 → 1/8. Multiplicando por 5.730, obtém-se cerca de 17.190 anos. A alternativa (d) usaria quatro meias-vidas, que levariam a um dezesseis avos, e não a um oitavo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-93",
+                        "texto_apoio":  "Reagem 10 g de gás hidrogênio com 160 g de gás oxigênio para formar água, segundo a equação 2 H2 + O2 → 2 H2O. Considere as massas molares: H2 = 2 g/mol e O2 = 32 g/mol.",
+                        "enunciado":  "O reagente limitante e a massa de água formada são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "o oxigênio e 90 g, uma vez que a quantidade de matéria desse gás é insuficiente para consumir todo o hidrogênio colocado no recipiente",
+                                             "b":  "o hidrogênio e 90 g",
+                                             "c":  "o oxigênio e 45 g, valor que corresponde à metade da massa total dos dois gases que foram colocados a reagir no início do experimento",
+                                             "d":  "o hidrogênio e 170 g, quantidade que resulta da soma das massas dos dois reagentes empregados na transformação química descrita acima",
+                                             "e":  "nenhum deles, pois os dois gases estão em proporção estequiométrica exata e são integralmente consumidos ao final da reação descrita"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "São 5,0 mol de hidrogênio e 5,0 mol de oxigênio. A proporção exige 2 de hidrogênio para 1 de oxigênio, então os 5,0 mol de hidrogênio consomem apenas 2,5 mol de oxigênio: o hidrogênio é o limitante e sobra oxigênio. Formam-se 5,0 mol de água, ou 90 g.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-94",
+                        "texto_apoio":  "Um recipiente de 10 L contém uma mistura gasosa a 27 °C composta por 0,20 mol de nitrogênio e 0,30 mol de oxigênio. Considere R = 0,082 atm·L·mol⁻¹·K⁻¹.",
+                        "enunciado":  "A pressão parcial do oxigênio e a pressão total da mistura são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "0,74 atm e 1,23 atm",
+                                             "b":  "1,23 atm e 0,74 atm, valores que decorrem da aplicação da equação de Clapeyron a cada um dos gases presentes na mistura considerada",
+                                             "c":  "0,49 atm e 1,23 atm, resultado obtido ao se considerar a fração molar do nitrogênio como base para o cálculo da pressão parcial pedida",
+                                             "d":  "0,74 atm e 0,74 atm, uma vez que a pressão total de uma mistura gasosa corresponde à maior das pressões parciais dos componentes presentes",
+                                             "e":  "2,46 atm e 4,10 atm, valores que resultam do uso da temperatura em graus Celsius na aplicação da equação geral dos gases ideais"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Pela lei de Dalton, cada gás exerce a pressão que teria sozinho no volume total. Para o oxigênio: P = (0,30 x 0,082 x 300) ÷ 10 = 0,74 atm. A pressão total corresponde a 0,50 mol: (0,50 x 0,082 x 300) ÷ 10 = 1,23 atm — igual à soma das parciais.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-95",
+                        "texto_apoio":  "Um diagrama de energia mostra o caminho de uma reação com e sem catalisador. A curva sem catalisador apresenta um pico mais alto; a curva com catalisador apresenta pico mais baixo. Os níveis de energia dos reagentes e dos produtos são idênticos nas duas curvas.",
+                        "enunciado":  "O fato de os níveis de reagentes e produtos serem idênticos nas duas curvas indica que o catalisador:",
+                        "alternativas":  {
+                                             "a":  "não altera a variação de entalpia da reação, apenas a energia de ativação",
+                                             "b":  "reduz a variação de entalpia da reação, o que torna o processo mais favorável do ponto de vista termodinâmico do que seria sem sua presença",
+                                             "c":  "desloca o equilíbrio no sentido dos produtos, aumentando o rendimento final obtido ao término do processo conduzido em sistema fechado",
+                                             "d":  "é consumido ao longo do processo, o que explica por que a energia final do sistema permanece a mesma nas duas situações representadas",
+                                             "e":  "atua somente sobre a reação direta, deixando a reação inversa com a mesma energia de ativação que apresentava antes de sua adição ao meio"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A variação de entalpia é a diferença entre os níveis de produtos e reagentes, e ambos permanecem inalterados: o catalisador não mexe na termodinâmica. Ele abaixa a barreira, acelerando os dois sentidos igualmente — e por isso também não desloca o equilíbrio, o que descarta (c) e (e).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-96",
+                        "texto_apoio":  "Uma reação de neutralização é conduzida entre 50 mL de solução de ácido sulfúrico 0,10 mol/L e 50 mL de solução de hidróxido de sódio 0,10 mol/L. O ácido sulfúrico possui dois hidrogênios ionizáveis.",
+                        "enunciado":  "Ao final da mistura, a solução resultante apresenta caráter:",
+                        "alternativas":  {
+                                             "a":  "ácido, pois metade dos hidrogênios ionizáveis do ácido permanece sem neutralizar",
+                                             "b":  "básico, uma vez que a base adicionada se encontra em excesso em relação à quantidade de ácido presente no volume que foi utilizado",
+                                             "c":  "neutro, já que os volumes e as concentrações das duas soluções empregadas são numericamente iguais entre si na mistura realizada",
+                                             "d":  "ácido, porque o ácido sulfúrico é um ácido forte e sua presença determina o caráter da solução independentemente da quantidade de base",
+                                             "e":  "básico, porque o sal formado sofre hidrólise do ânion e libera hidroxila em quantidade suficiente para elevar o pH acima da neutralidade"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "São 5,0 mmol de ácido, capazes de liberar 10 mmol de hidrogênio ionizável, contra apenas 5,0 mmol de hidroxila. Metade da acidez sobra e a solução fica ácida. A alternativa (c) cai na armadilha de comparar concentrações e volumes sem considerar o número de hidrogênios por molécula.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-97",
+                        "texto_apoio":  "O biodiesel é obtido pela reação de um óleo vegetal com um álcool de cadeia curta, geralmente metanol ou etanol, na presença de catalisador básico. Além do biodiesel, o processo produz glicerol como subproduto.",
+                        "enunciado":  "A reação descrita denomina-se ______, o produto principal pertence à função ______, e o subproduto obtido é ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "saponificação – sal de ácido graxo – água",
+                                             "b":  "transesterificação – éster – um triálcool",
+                                             "c":  "hidrogenação – hidrocarboneto saturado – gás carbônico liberado durante a etapa de aquecimento da mistura reacional empregada no processo",
+                                             "d":  "fermentação – álcool de cadeia longa – gás carbônico produzido pela ação de leveduras sobre os açúcares presentes na matéria-prima",
+                                             "e":  "esterificação – ácido carboxílico – uma molécula de água formada a cada ligação estabelecida entre os reagentes durante o processo"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O triglicerídeo já é um éster do glicerol; a reação troca esse álcool por um de cadeia curta, o que caracteriza a transesterificação. O produto continua sendo éster, e o glicerol liberado é um triálcool. A saponificação usaria base como reagente e não como catalisador, produzindo sabão em vez de éster.",
+                        "formato":  "lacunas",
+                        "banca":  "unesp"
+                    },
+                    {
+                        "id":  "quimica-98",
+                        "texto_apoio":  "Uma amostra de 200 g de água a 20 °C é aquecida até 80 °C. O calor específico da água é 4,2 J·g⁻¹·°C⁻¹.",
+                        "enunciado":  "A quantidade de calor absorvida pela amostra é de:",
+                        "alternativas":  {
+                                             "a":  "5,04 × 10⁴ J",
+                                             "b":  "1,68 × 10⁴ J",
+                                             "c":  "6,72 × 10⁴ J",
+                                             "d":  "8,40 × 10² J",
+                                             "e":  "2,52 × 10³ J"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Q = m x c x ΔT = 200 x 4,2 x 60 = 50.400 J, ou 5,04 x 10⁴ J. A alternativa (c) usa a temperatura final em vez da variação, erro que aparece quando a temperatura inicial é ignorada no cálculo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-99",
+                        "texto_apoio":  "Uma figura apresenta quatro cadeias carbônicas: a cadeia I tem apenas carbonos e hidrogênios, sem ramificações e sem duplas; a II apresenta um átomo de oxigênio entre dois carbonos; a III tem ramificações e apenas ligações simples; a IV apresenta um anel de seis carbonos com alternância de ligações.",
+                        "enunciado":  "As cadeias I, II, III e IV são classificadas, respectivamente, como:",
+                        "alternativas":  {
+                                             "a":  "acíclica normal saturada homogênea, acíclica heterogênea, acíclica ramificada saturada e cíclica aromática",
+                                             "b":  "cíclica saturada, acíclica homogênea, acíclica normal insaturada e cíclica alicíclica, agrupamento que reflete a presença de anéis nas duas últimas",
+                                             "c":  "acíclica ramificada, cíclica heterogênea, acíclica normal e aromática, classificação determinada pela quantidade de átomos de carbono presentes",
+                                             "d":  "acíclica insaturada, acíclica saturada, cíclica ramificada e cíclica heterogênea, distribuição compatível com o número de ligações de cada cadeia",
+                                             "e":  "aromática, heterogênea, alicíclica e normal, sequência que acompanha a ordem crescente de complexidade estrutural das quatro cadeias descritas"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Sem anel, a cadeia é acíclica; sem ramificação, normal; sem dupla, saturada; só com carbonos na cadeia principal, homogênea. Oxigênio entre carbonos torna a cadeia heterogênea. Anel de seis carbonos com alternância de ligações caracteriza a cadeia aromática, e não uma alicíclica qualquer.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-100",
+                        "texto_apoio":  "Duas moléculas apresentam a fórmula C4H8 e possuem uma dupla ligação entre o segundo e o terceiro carbono. Numa delas, os dois grupos metila estão do mesmo lado do plano da dupla; na outra, em lados opostos.",
+                        "enunciado":  "As duas formas descritas constituem um caso de isomeria:",
+                        "alternativas":  {
+                                             "a":  "de função, e existem porque os dois compostos pertencem a classes funcionais distintas apesar de compartilharem a mesma fórmula molecular",
+                                             "b":  "óptica, e existem porque a molécula apresenta ao menos um carbono ligado a quatro grupos diferentes entre si em sua estrutura tridimensional",
+                                             "c":  "de cadeia, e existem porque o esqueleto carbônico se organiza de maneiras distintas mantendo a mesma fórmula molecular em ambos os casos",
+                                             "d":  "de posição, e existem porque a insaturação ocupa lugares diferentes ao longo da cadeia carbônica principal em cada uma das duas moléculas",
+                                             "e":  "geométrica, e existem porque a dupla ligação impede a rotação livre entre os carbonos"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A dupla ligação trava a rotação, e os substituintes ficam fixos de um lado ou de outro do plano: é a isomeria geométrica, cis e trans. Ela exige que cada carbono da dupla tenha dois substituintes diferentes entre si — condição que a questão descreve ao situar os metilas.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-101",
+                        "texto_apoio":  "Segundo a definição de Brønsted-Lowry, ácido é a espécie que doa próton e base é a que o recebe. Considere o equilíbrio: NH3 + H2O ⇌ NH4⁺ + OH⁻.",
+                        "enunciado":  "Nesse equilíbrio, a água atua como ______, e o ácido conjugado da amônia é ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "base – o íon hidroxila",
+                                             "b":  "ácido – o íon amônio",
+                                             "c":  "ácido – o íon hidroxila",
+                                             "d":  "base – o íon amônio",
+                                             "e":  "espécie anfótera sem participação no equilíbrio – o par formado pelo íon amônio e pelo íon hidroxila em conjunto"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A água cede um próton à amônia, o que a define como ácido de Brønsted nesse equilíbrio — ela é anfótera e o papel depende do parceiro. A amônia recebe o próton e vira íon amônio, seu ácido conjugado: pares conjugados diferem por exatamente um próton.",
+                        "formato":  "lacunas",
+                        "banca":  "einstein"
+                    },
+                    {
+                        "id":  "quimica-102",
+                        "texto_apoio":  "O gás hidrogênio e o gás hélio, ambos a 25 °C, escapam por um pequeno orifício de um recipiente. Mede-se o tempo necessário para que a mesma quantidade de matéria de cada gás atravesse o orifício. As massas molares são 2 g/mol e 4 g/mol, respectivamente.",
+                        "enunciado":  "A relação entre as velocidades de efusão do hidrogênio e do hélio é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "igual para os dois gases, uma vez que ambos se encontram à mesma temperatura e portanto possuem a mesma energia cinética média por molécula",
+                                             "b":  "2,0 vezes maior para o hidrogênio, valor que corresponde diretamente à razão entre as massas molares dos dois gases considerados no experimento",
+                                             "c":  "1,4 vez maior para o hélio, em razão de sua maior massa molar e da consequente redução da energia cinética média de suas partículas",
+                                             "d":  "4,0 vezes maior para o hidrogênio, resultado do quadrado da razão entre as massas molares dos dois gases envolvidos na comparação feita",
+                                             "e":  "1,4 vez maior para o hidrogênio"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Pela lei de Graham, a velocidade de efusão é inversamente proporcional à raiz quadrada da massa molar. A razão é a raiz de 4/2, ou seja, raiz de 2, cerca de 1,4. A alternativa (b) usa a razão direta das massas, esquecendo a raiz quadrada — o erro que a lei justamente corrige.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-103",
+                        "texto_apoio":  "Uma tabela apresenta as energias médias de ligação: H–H = 436 kJ/mol; Cl–Cl = 243 kJ/mol; H–Cl = 431 kJ/mol. Considere a reação H2(g) + Cl2(g) → 2 HCl(g).",
+                        "enunciado":  "A variação de entalpia da reação, calculada a partir das energias de ligação, é de:",
+                        "alternativas":  {
+                                             "a":  "−862 kJ",
+                                             "b":  "+183 kJ",
+                                             "c":  "−248 kJ",
+                                             "d":  "+248 kJ",
+                                             "e":  "−183 kJ"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Romper as ligações dos reagentes consome 436 + 243 = 679 kJ. Formar duas ligações H–Cl libera 2 x 431 = 862 kJ. O saldo é 679 − 862 = −183 kJ: exotérmica. Inverter a ordem da subtração produz o valor positivo de (b), que é o erro mais frequente nesse cálculo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-104",
+                        "texto_apoio":  "Um esquema representa uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo.",
+                        "enunciado":  "Nessas condições, a razão entre as quantidades de matéria de prata e de cobre depositadas é:",
+                        "alternativas":  {
+                                             "a":  "4:1, resultado da combinação entre a diferença de carga dos íons e a diferença entre as massas molares dos dois metais considerados",
+                                             "b":  "1:1, uma vez que a mesma quantidade de carga atravessa as duas células ao longo do mesmo intervalo de tempo em que a corrente circula",
+                                             "c":  "1:2, porque o cobre apresenta massa molar inferior à da prata e deposita, portanto, o dobro de átomos para a mesma carga fornecida ao sistema",
+                                             "d":  "108:64, razão que corresponde diretamente à proporção entre as massas molares dos dois metais envolvidos no processo eletrolítico descrito",
+                                             "e":  "2:1, porque a prata precisa de um elétron por átomo e o cobre, de dois"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A mesma carga atravessa as duas células, mas Ag⁺ precisa de um elétron por átomo e Cu²⁺ de dois. Com o mesmo número de elétrons, deposita-se o dobro de mols de prata em relação ao de cobre. Massa molar afeta a massa depositada, e não a quantidade de matéria, o que descarta (d).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-105",
+                        "texto_apoio":  "Uma amostra de carbonato de cálcio é aquecida e se decompõe em óxido de cálcio e gás carbônico. Ao final do experimento, obtêm-se 2,24 g de óxido de cálcio. O rendimento teórico previsto pela estequiometria é de 2,80 g.",
+                        "enunciado":  "O rendimento percentual da reação é de:",
+                        "alternativas":  {
+                                             "a":  "22,4%",
+                                             "b":  "44,8%",
+                                             "c":  "56%",
+                                             "d":  "125%",
+                                             "e":  "80%"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Rendimento é a razão entre o obtido e o teórico: 2,24 ÷ 2,80 = 0,80, ou 80%. A alternativa (d) inverte a razão, produzindo um valor acima de 100% — impossível, já que não se obtém mais produto do que a estequiometria permite.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-106",
+                        "texto_apoio":  "Um esquema mostra a estrutura do grafite e a do diamante. No grafite, cada átomo de carbono se liga a outros três no mesmo plano, formando camadas que deslizam umas sobre as outras. No diamante, cada carbono se liga a outros quatro numa rede tridimensional rígida.",
+                        "enunciado":  "As hibridações do carbono no grafite e no diamante são, respectivamente, ______ e ______, o que explica que o grafite seja ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "sp³ – sp² – isolante elétrico",
+                                             "b":  "sp² – sp³ – condutor de eletricidade",
+                                             "c":  "sp – sp³ – transparente à luz visível em qualquer espessura da amostra considerada",
+                                             "d":  "sp³ – sp³ – mais duro que o diamante em razão do arranjo em camadas sobrepostas",
+                                             "e":  "sp² – sp² – quimicamente inerte diante da maioria dos reagentes utilizados em laboratório de química inorgânica"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "No grafite, três ligações no plano indicam hibridação sp², e o elétron restante em orbital p forma um sistema deslocalizado entre as camadas — daí a condução elétrica. No diamante, quatro ligações simples indicam sp³, com todos os elétrons localizados, o que o torna isolante e extremamente duro.",
+                        "formato":  "lacunas",
+                        "banca":  "santacasa"
+                    },
+                    {
+                        "id":  "quimica-107",
+                        "texto_apoio":  "Uma curva de titulação registra o pH em função do volume de base forte adicionado a um ácido fraco. A curva parte de pH em torno de 3, sobe lentamente formando um patamar, depois apresenta um salto abrupto e volta a subir lentamente.",
+                        "enunciado":  "O patamar observado antes do salto corresponde à região em que:",
+                        "alternativas":  {
+                                             "a":  "a base adicionada precipita na forma de sal insolúvel, deixando de contribuir para a variação do pH até que todo o precipitado se dissolva",
+                                             "b":  "todo o ácido já foi neutralizado, e o excesso de base adicionada passa a determinar sozinho o valor do pH medido ao longo do processo",
+                                             "c":  "o indicador utilizado atinge sua faixa de viragem, o que estabiliza temporariamente a leitura registrada pelo instrumento de medição empregado",
+                                             "d":  "a temperatura da solução se eleva pelo calor de neutralização, o que compensa a variação de pH esperada para aquele trecho da titulação",
+                                             "e":  "a solução funciona como tampão, com o ácido e sua base conjugada em concentrações comparáveis"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "À medida que a base converte parte do ácido em sua base conjugada, a solução passa a conter as duas espécies em quantidades comparáveis — que é a definição de tampão. O patamar reflete essa resistência à variação de pH, e desaparece quando o ácido se esgota e vem o salto.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-108",
+                        "texto_apoio":  "Uma tabela apresenta o índice de octanagem de três combustíveis: o combustível I tem octanagem 87; o II, 95; e o III, 110. O índice mede a resistência do combustível à detonação espontânea sob compressão no motor.",
+                        "enunciado":  "Um combustível de octanagem mais alta é adequado para motores de maior taxa de compressão porque:",
+                        "alternativas":  {
+                                             "a":  "queima de forma mais completa, reduzindo a emissão de monóxido de carbono e de material particulado pelo escapamento do veículo",
+                                             "b":  "libera maior quantidade de energia por unidade de massa queimada, o que aumenta proporcionalmente a potência entregue pelo motor ao veículo",
+                                             "c":  "apresenta temperatura de ebulição mais elevada, o que impede sua vaporização precoce no interior do sistema de alimentação do motor",
+                                             "d":  "resiste melhor à autoignição, permitindo que a queima ocorra apenas no momento da centelha",
+                                             "e":  "possui densidade maior, o que permite armazenar mais massa de combustível no mesmo volume ocupado pelo tanque do automóvel"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Octanagem mede resistência à detonação, não conteúdo energético. Em alta compressão, um combustível pouco resistente inflama antes da centelha e produz a batida de pino, que danifica o motor. Um combustível de octanagem alta num motor de baixa compressão não traz ganho — apenas custa mais.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-109",
+                        "texto_apoio":  "Uma solução aquosa de nitrato de prata é adicionada a uma solução de cloreto de sódio. Observa-se imediatamente a formação de um precipitado branco, que escurece quando exposto à luz.",
+                        "enunciado":  "A equação iônica que representa a transformação observada é:",
+                        "alternativas":  {
+                                             "a":  "Ag⁺(aq) + NO3⁻(aq) → AgNO3(s), processo em que o sal de prata original se recompõe na forma sólida ao entrar em contato com a segunda solução",
+                                             "b":  "Na⁺(aq) + NO3⁻(aq) → NaNO3(s), reação que explica a formação do precipitado branco observado imediatamente após a mistura das soluções",
+                                             "c":  "AgNO3(aq) + NaCl(aq) → AgCl(aq) + NaNO3(aq), transformação em que todos os participantes permanecem dissolvidos no meio aquoso resultante",
+                                             "d":  "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)",
+                                             "e":  "Cl⁻(aq) + Na⁺(aq) → NaCl(s), formação que decorre do aumento da concentração total de íons no meio após a adição da segunda solução aquosa"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A equação iônica registra apenas as espécies que efetivamente reagem. Sódio e nitrato permanecem dissolvidos como íons espectadores; o precipitado é o cloreto de prata, insolúvel. O escurecimento pela luz é a decomposição fotoquímica que fundamentou a fotografia em filme.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-110",
+                        "texto_apoio":  "As vitaminas A, D, E e K são lipossolúveis, enquanto as do complexo B e a vitamina C são hidrossolúveis. Essa diferença tem consequências práticas sobre armazenamento no organismo e risco de intoxicação por suplementação excessiva.",
+                        "enunciado":  "A consequência direta dessa diferença de solubilidade é que as vitaminas lipossolúveis:",
+                        "alternativas":  {
+                                             "a":  "atuam exclusivamente no interior das células, ao contrário das hidrossolúveis, cuja ação se restringe aos líquidos extracelulares do corpo",
+                                             "b":  "são eliminadas rapidamente pela urina, o que torna necessária a reposição diária por meio da alimentação ou de suplementos adequados",
+                                             "c":  "não podem ser obtidas pela dieta e precisam ser sintetizadas integralmente pelo próprio organismo a partir de precursores disponíveis",
+                                             "d":  "acumulam-se no tecido adiposo e no fígado, com risco de toxicidade em doses excessivas",
+                                             "e":  "apresentam estrutura molecular polar, o que explica sua afinidade pelos lipídios presentes nas membranas e nos tecidos de reserva do organismo"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Sendo apolares, essas vitaminas se dissolvem nas gorduras e são armazenadas, o que permite reservas mas cria risco de hipervitaminose. As hidrossolúveis são excretadas na urina e raramente se acumulam. A alternativa (e) inverte a lógica: afinidade por lipídios decorre de apolaridade, não de polaridade.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-111",
+                        "texto_apoio":  "Uma indústria libera efluente contendo íons cromo(VI), altamente tóxicos. O tratamento consiste em reduzir esses íons a cromo(III), bem menos tóxico, e em seguida elevar o pH para que precipitem como hidróxido.",
+                        "enunciado":  "No tratamento descrito, o agente empregado na primeira etapa deve ser:",
+                        "alternativas":  {
+                                             "a":  "um agente complexante, que se liga aos íons cromo e forma espécies solúveis facilmente removidas por filtração convencional em leito de areia",
+                                             "b":  "um oxidante forte, capaz de retirar elétrons do cromo presente no efluente e assim reduzir seu número de oxidação para valores menos tóxicos",
+                                             "c":  "um catalisador metálico, cuja presença acelera a conversão espontânea entre os dois estados de oxidação do cromo sem ser consumido no processo",
+                                             "d":  "um redutor, capaz de ceder elétrons ao cromo(VI)",
+                                             "e":  "um ácido forte, cuja adição reduz o pH do efluente e converte diretamente o cromo(VI) na forma trivalente correspondente por hidrólise"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Passar de +6 para +3 significa ganhar elétrons, ou seja, sofrer redução — e quem fornece esses elétrons é um agente redutor. A alternativa (b) é internamente contraditória: um oxidante retira elétrons e elevaria o número de oxidação, não o contrário.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-112",
+                        "texto_apoio":  "Uma amostra de gás é comprimida lentamente à temperatura constante. Mede-se a pressão em três volumes diferentes e verifica-se que o produto entre pressão e volume permanece praticamente constante ao longo de todo o experimento.",
+                        "enunciado":  "O comportamento descrito corresponde à lei de ______, é válido para ______, e o gráfico de pressão em função do volume tem a forma de ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "Boyle – transformação adiabática – uma parábola de concavidade voltada para cima em todo o intervalo de volumes considerado",
+                                             "b":  "Charles – transformação isobárica – uma reta crescente",
+                                             "c":  "Gay-Lussac – transformação isovolumétrica – uma reta horizontal traçada paralelamente ao eixo das abscissas do gráfico construído",
+                                             "d":  "Boyle – transformação isotérmica – uma hipérbole",
+                                             "e":  "Avogadro – transformação isotérmica – uma reta que passa pela origem do sistema de coordenadas utilizado na representação gráfica"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Produto pressão-volume constante à temperatura fixa é a lei de Boyle, e a transformação é isotérmica. Como a pressão é inversamente proporcional ao volume, o gráfico é uma hipérbole equilátera. Charles e Gay-Lussac descrevem, respectivamente, transformações a pressão e a volume constantes.",
+                        "formato":  "lacunas",
+                        "banca":  "unesp"
+                    },
+                    {
+                        "id":  "quimica-113",
+                        "texto_apoio":  "Um agrotóxico organoclorado usado em décadas passadas foi banido em muitos países por sua persistência no ambiente e por se acumular nos tecidos de aves predadoras, afinando a casca de seus ovos.",
+                        "enunciado":  "A persistência ambiental desse tipo de composto está associada, principalmente, a:",
+                        "alternativas":  {
+                                             "a":  "sua rápida decomposição em compostos intermediários, cuja toxicidade supera a da substância original aplicada nas lavouras tratadas",
+                                             "b":  "sua alta solubilidade em água, que o dispersa rapidamente pelos corpos hídricos e dificulta a remoção por processos convencionais de tratamento",
+                                             "c":  "sua volatilidade elevada, que o mantém em circulação na atmosfera por períodos prolongados antes de retornar à superfície com a precipitação",
+                                             "d":  "sua elevada estabilidade química e baixa biodegradabilidade, combinadas à lipossolubilidade",
+                                             "e":  "sua reatividade com a matéria orgânica do solo, que forma continuamente novas moléculas ativas a partir dos resíduos deixados pela aplicação"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Ligações carbono-cloro são fortes e resistem à degradação microbiana, e a apolaridade faz o composto se alojar em tecidos gordurosos. As duas propriedades juntas produzem persistência e bioacumulação, com concentração crescente ao longo da cadeia — daí o efeito sobre predadores de topo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-114",
+                        "texto_apoio":  "Uma amostra contém uma amina primária e uma amida, ambas com quatro átomos de carbono. Testes indicam que a amina apresenta caráter básico em água, enquanto a amida é praticamente neutra.",
+                        "enunciado":  "A diferença de basicidade entre os dois compostos se explica porque, na amida:",
+                        "alternativas":  {
+                                             "a":  "a presença do oxigênio confere caráter ácido à molécula, que passa a doar prótons em vez de recebê-los quando dissolvida em meio aquoso",
+                                             "b":  "o nitrogênio se encontra ligado a um número maior de átomos de carbono, o que impede estericamente a aproximação de qualquer próton do meio",
+                                             "c":  "o par de elétrons do nitrogênio é deslocalizado pela carbonila vizinha e fica menos disponível",
+                                             "d":  "o nitrogênio perde completamente seu par de elétrons não ligante ao formar a ligação com o carbono da carbonila presente na estrutura",
+                                             "e":  "a molécula apresenta massa molar mais elevada, o que reduz proporcionalmente sua capacidade de interagir com as moléculas de água do meio"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A basicidade depende da disponibilidade do par de elétrons do nitrogênio para capturar um próton. Na amida, esse par é deslocalizado por ressonância com a carbonila, e fica muito menos disponível. O par não desaparece, o que descarta (d) — ele apenas se distribui pela estrutura.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-115",
+                        "texto_apoio":  "Uma tabela apresenta a composição de três ligas metálicas: o aço, com ferro e carbono; o bronze, com cobre e estanho; e o latão, com cobre e zinco. Todas apresentam propriedades mecânicas distintas das dos metais puros que as compõem.",
+                        "enunciado":  "A alteração das propriedades mecânicas nas ligas em relação aos metais puros decorre de:",
+                        "alternativas":  {
+                                             "a":  "o aumento do número de elétrons livres na estrutura, o que eleva simultaneamente a condutividade elétrica e a resistência mecânica do material",
+                                             "b":  "a formação de ligações covalentes entre os átomos dos dois metais, que substituem completamente a ligação metálica original da estrutura",
+                                             "c":  "os átomos diferentes perturbarem o arranjo regular do retículo e dificultarem o deslizamento entre planos",
+                                             "d":  "a separação dos dois metais em fases distintas, cada uma preservando integralmente as propriedades que apresentava quando isolada",
+                                             "e":  "a redução da temperatura de fusão da mistura, que torna o material mais facilmente moldável sem alterar sua resistência à deformação plástica"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A deformação de um metal ocorre pelo deslizamento de planos de átomos. Átomos de tamanho diferente introduzidos no retículo criam distorções que travam esse deslizamento, e a liga fica mais dura e resistente. As ligações continuam metálicas, o que descarta (b).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-116",
+                        "texto_apoio":  "Um recipiente aberto contendo água a 25 °C é colocado sob uma campânula, e o ar é progressivamente retirado com uma bomba de vácuo. A certa altura, observa-se a água entrar em ebulição, ainda a 25 °C.",
+                        "enunciado":  "O fenômeno descrito ocorre porque a ebulição acontece quando:",
+                        "alternativas":  {
+                                             "a":  "a energia cinética das moléculas supera a energia das ligações covalentes que unem os átomos de hidrogênio ao oxigênio em cada molécula",
+                                             "b":  "a temperatura do líquido atinge exatamente cem graus Celsius, valor fixo que independe das condições de pressão a que o sistema está submetido",
+                                             "c":  "a pressão de vapor do líquido se iguala à pressão exercida sobre sua superfície",
+                                             "d":  "o ar dissolvido no líquido é integralmente removido, o que elimina os núcleos de formação das bolhas e permite a mudança de estado observada",
+                                             "e":  "a densidade do vapor formado se iguala à densidade do líquido remanescente no recipiente, condição em que as duas fases coexistem em equilíbrio"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A ebulição é a formação de vapor no interior do líquido, e só ocorre quando a pressão de vapor iguala a pressão externa. Reduzindo a pressão externa, a condição é atingida em temperatura menor — princípio usado na liofilização e razão de a água ferver antes em altitude elevada.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-117",
+                        "texto_apoio":  "Plásticos são identificados por códigos numéricos que orientam a reciclagem. O politereftalato de etileno, usado em garrafas, pode ser fundido e remoldado diversas vezes. Já certos polímeros, uma vez curados, não amolecem com o aquecimento e se degradam antes de fundir.",
+                        "enunciado":  "Os dois comportamentos descritos caracterizam polímeros, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "de adição e de condensação, classificação determinada pelo mecanismo por meio do qual os monômeros se incorporam à cadeia em crescimento",
+                                             "b":  "termofixos e termoplásticos, distinção que decorre da presença de anéis aromáticos na estrutura das cadeias que compõem cada um dos materiais",
+                                             "c":  "termoplásticos e termofixos, sendo os primeiros formados por cadeias sem ligações cruzadas entre si",
+                                             "d":  "naturais e sintéticos, categorias que refletem a origem da matéria-prima utilizada na produção industrial de cada um dos dois materiais citados",
+                                             "e":  "elastômeros e fibras, agrupamento baseado na capacidade de cada material recuperar sua forma original após a aplicação de esforço mecânico"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Termoplásticos têm cadeias independentes, unidas por forças intermoleculares que o calor vence: amolecem e podem ser remoldados. Termofixos formam ligações covalentes cruzadas durante a cura, criando uma rede única que se degrada antes de fundir — e é por isso que não são recicláveis por fusão.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-118",
+                        "texto_apoio":  "Uma solução de amônia em água apresenta constante de ionização igual a 1,8 × 10⁻⁵ a 25 °C. Uma solução de hidróxido de sódio de mesma concentração apresenta pH consideravelmente mais elevado.",
+                        "enunciado":  "A diferença de pH entre as duas soluções, de mesma concentração, decorre de:",
+                        "alternativas":  {
+                                             "a":  "a amônia reagir com o gás carbônico do ar durante a preparação, o que consome parte do soluto e reduz a concentração efetiva da base no meio",
+                                             "b":  "o hidróxido de sódio apresentar duas hidroxilas por fórmula, o que dobra a concentração de íons hidroxila liberados na solução aquosa preparada",
+                                             "c":  "a amônia ser base fraca e ionizar-se apenas parcialmente, ao contrário do hidróxido de sódio",
+                                             "d":  "o hidróxido de sódio apresentar massa molar menor, o que resulta em maior número de partículas dissolvidas para a mesma massa de soluto usada",
+                                             "e":  "a amônia ser um gás em condições ambientes, o que faz parte dela escapar da solução e reduzir a concentração de base efetivamente dissolvida"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "O valor pequeno da constante indica que só uma fração das moléculas de amônia captura próton da água e libera hidroxila. O hidróxido de sódio é base forte e se dissocia praticamente por completo. Mesma concentração analítica, portanto, produz concentrações de hidroxila muito diferentes.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-119",
+                        "texto_apoio":  "Uma amostra de água é analisada e apresenta concentração de íons cálcio e magnésio muito acima da média. Ao ser aquecida em uma chaleira, forma depósitos brancos nas paredes internas do recipiente.",
+                        "enunciado":  "A propriedade descrita é chamada ______, o depósito formado é composto principalmente por ______, e uma forma de abrandar essa água é ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "salinidade – cloreto de sódio – filtração em leito de areia",
+                                             "b":  "dureza – carbonato de cálcio – troca iônica com resina",
+                                             "c":  "alcalinidade – hidróxido de cálcio – adição de ácido forte até a neutralização completa dos íons presentes na amostra analisada",
+                                             "d":  "turbidez – material particulado em suspensão – decantação seguida de filtração em membrana de porosidade adequada ao processo",
+                                             "e":  "dureza – sulfato de sódio – destilação simples conduzida a pressão reduzida para evitar a decomposição térmica dos sais dissolvidos"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Dureza é a concentração de cálcio e magnésio. Ao aquecer, o bicarbonato se decompõe e precipita carbonato de cálcio — a incrustação. O abrandamento por troca iônica substitui esses cátions por sódio numa resina, e é o princípio dos abrandadores domésticos e industriais.",
+                        "formato":  "lacunas",
+                        "banca":  "einstein"
+                    },
+                    {
+                        "id":  "quimica-120",
+                        "texto_apoio":  "Um esquema apresenta o equilíbrio de solubilidade do hidróxido de magnésio, componente do leite de magnésia: Mg(OH)2(s) ⇌ Mg²⁺(aq) + 2 OH⁻(aq). O produto de solubilidade é da ordem de 10⁻¹¹.",
+                        "enunciado":  "A adição de ácido clorídrico a uma suspensão desse hidróxido provoca:",
+                        "alternativas":  {
+                                             "a":  "aumento da quantidade de sólido em suspensão, uma vez que a adição de íons ao meio eleva a força iônica e favorece a precipitação do hidróxido",
+                                             "b":  "dissolução do sólido, porque o ácido consome as hidroxilas e desloca o equilíbrio",
+                                             "c":  "nenhuma alteração perceptível, já que o produto de solubilidade é uma constante e não pode ser modificado por adições feitas ao sistema",
+                                             "d":  "formação de um complexo insolúvel entre o magnésio e os íons cloreto adicionados, que se deposita junto ao hidróxido já presente no meio",
+                                             "e":  "elevação do pH da suspensão, porque a dissolução adicional do hidróxido libera mais hidroxilas do que o ácido adicionado é capaz de neutralizar"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O ácido neutraliza as hidroxilas em solução, e o equilíbrio se desloca no sentido de repor o que foi consumido — ou seja, dissolvendo mais sólido. É exatamente o que ocorre no estômago quando se toma leite de magnésia, e por isso o antiácido age enquanto houver acidez a neutralizar.",
+                        "formato":  "direta"
                     }
                 ]
 };

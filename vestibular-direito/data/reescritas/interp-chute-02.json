@@ -1,0 +1,244 @@
+{
+  "subtopic": "interpretacao-texto",
+  "questoes": [
+    {
+      "id": "interpretacao-texto-36",
+      "texto_apoio": "O desmatamento contínuo em regiões de transição climática reduz a capacidade do solo de reter umidade, o que diminui a formação de chuvas locais. Com menos chuva, a vegetação nativa tem dificuldade de se regenerar, criando um ciclo que pode levar, em décadas, à desertificação de áreas antes férteis.",
+      "formato": "direta",
+      "enunciado": "A estrutura argumentativa do texto é organizada principalmente em torno de",
+      "alternativas": {
+        "a": "uma comparação entre dois biomas distintos, sem relação causal entre eles",
+        "b": "uma definição isolada de desertificação, sem relação com o desmatamento",
+        "c": "uma cadeia de causas e consequências que forma um ciclo",
+        "d": "uma crítica do autor às políticas ambientais vigentes na região",
+        "e": "uma progressão cronológica da evolução histórica do fenômeno"
+      },
+      "resposta": "c",
+      "explicacao": "Cada elo puxa o seguinte — menos mata, menos umidade no solo; menos umidade, menos chuva; menos chuva, menos regeneração — e o último elo realimenta o primeiro, o que fecha o ciclo. Em (e) está o distrator mais fino: há sim marcação temporal, quando o texto fala em décadas, mas o tempo indica a duração do processo, e não uma sucessão histórica de fases. Em (a) e (b), não há dois biomas comparados nem definição isolada do conceito. Em (d), o texto descreve o mecanismo sem julgar política alguma."
+    },
+    {
+      "id": "interpretacao-texto-60",
+      "texto_apoio": "A prefeitura anunciou a instalação de sensores de tráfego em 200 cruzamentos, capazes de ajustar o tempo dos semáforos em tempo real conforme o volume de veículos. 'Essa é a cidade inteligente que os moradores merecem', declarou o prefeito na cerimônia de lançamento. Técnicos da secretaria de trânsito, porém, ressaltaram que a eficácia do sistema só poderá ser avaliada após ao menos um ano de operação.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "No texto, é possível identificar uma tensão entre",
+      "alternativas": {
+        "a": "dois dados técnicos que se contradizem sobre o número de cruzamentos",
+        "b": "opiniões idênticas do prefeito e dos técnicos sobre o novo sistema",
+        "c": "a posição do prefeito e a de moradores ouvidos pela reportagem",
+        "d": "a inexistência de posicionamento público da prefeitura sobre o sistema",
+        "e": "o entusiasmo do prefeito e a cautela técnica da secretaria"
+      },
+      "resposta": "e",
+      "explicacao": "As duas falas vêm do mesmo governo e apontam para lados opostos: uma celebra o resultado antes de ele existir, a outra lembra que só se poderá avaliar depois de um ano — e o porém marca a virada. Em (c) está o distrator mais plausível, porque tensão entre poder público e população é o padrão esperado nesse tipo de notícia; aqui, porém, nenhum morador é ouvido, e o contraponto vem de dentro da própria prefeitura. Em (b), as posições diferem. Em (a) e (d), não há dado contraditório nem ausência de manifestação oficial."
+    },
+    {
+      "id": "interpretacao-texto-62",
+      "texto_apoio": "Hortas comunitárias instaladas em terrenos baldios têm se multiplicado nas periferias de grandes centros urbanos. Além de fornecer alimentos frescos a preços mais acessíveis, essas iniciativas reduzem áreas antes usadas para descarte irregular de lixo e criam pontos de encontro entre vizinhos que, muitas vezes, mal se conheciam antes do projeto.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Segundo o texto, quais são os efeitos associados à criação de hortas comunitárias em terrenos baldios?",
+      "alternativas": {
+        "a": "alimento mais barato, menos descarte irregular e laços entre vizinhos",
+        "b": "valorização imobiliária dos terrenos vizinhos e novos empreendimentos",
+        "c": "o desaparecimento dos terrenos baldios em todas as áreas urbanas do país",
+        "d": "apenas o aumento no preço dos alimentos vendidos na região",
+        "e": "a substituição dos mercados tradicionais da região pelas hortas"
+      },
+      "resposta": "a",
+      "explicacao": "O texto enumera três efeitos em camadas diferentes: alimentar, ambiental e social — e a alternativa correta é a única que recolhe os três. Em (b) está o distrator mais razoável, porque a valorização imobiliária é efeito documentado de intervenções urbanas desse tipo; ela não consta do texto, e a questão pede o que ele diz. Em (d), o preço cai, e não sobe. Em (c), o texto trata de terrenos específicos, sem generalizar ao país. Em (e), não há substituição de mercados."
+    },
+    {
+      "id": "interpretacao-texto-65",
+      "texto_apoio": "Aplicativos de assistente de voz permanecem, por padrão, em modo de escuta parcial para reconhecer a palavra de ativação. Fabricantes garantem que apenas fragmentos de áudio processados localmente são descartados sem envio a servidores. Auditorias independentes, contudo, já identificaram casos em que trechos de conversas foram, sim, armazenados e revisados por funcionários humanos para 'melhorar o reconhecimento de voz'.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "O que se pode inferir da contraposição entre a garantia dos fabricantes e os achados das auditorias independentes?",
+      "alternativas": {
+        "a": "auditorias e fabricantes divergem só no vocabulário técnico, não nos fatos",
+        "b": "a prática real pode divergir do que se declara sobre privacidade",
+        "c": "as auditorias independentes não têm credibilidade técnica reconhecida",
+        "d": "os assistentes não processam áudio localmente, ao contrário do declarado",
+        "e": "as auditorias confirmaram integralmente a garantia dada pelos fabricantes"
+      },
+      "resposta": "b",
+      "explicacao": "A garantia diz que o áudio é descartado localmente; a auditoria encontrou trechos guardados e ouvidos por gente. A inferência cabível é que o declarado e o praticado não coincidem, sem que se possa afirmar mais que isso. Em (a) está o distrator mais sutil, porque desacordos técnicos às vezes são mesmo de terminologia — aqui, porém, a divergência é sobre um fato verificável: houve ou não armazenamento. Em (e), o achado contraria a garantia. Em (d), o texto não nega o processamento local, apenas mostra que nem tudo fica nele. Em (c), a credibilidade das auditorias não é discutida."
+    },
+    {
+      "id": "interpretacao-texto-73",
+      "texto_apoio": "A redução das chuvas na região reduziu o nível dos reservatórios que abastecem a cidade, levando ao racionamento de água. O racionamento, por sua vez, afetou a irrigação das lavouras próximas, reduzindo a safra local, o que elevou o preço dos alimentos vendidos na própria cidade que enfrenta a escassez hídrica.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A estrutura do texto é organizada, do início ao fim, como uma sequência de",
+      "alternativas": {
+        "a": "causas e consequências encadeadas, cada efeito virando causa do problema seguinte",
+        "b": "opiniões contraditórias de especialistas sobre a crise hídrica da região",
+        "c": "comparações detalhadas entre a cidade descrita e outras regiões do país afetadas pela seca",
+        "d": "eventos independentes, sem relação de causa entre si ao longo do texto",
+        "e": "hipóteses alternativas para o mesmo fenômeno, avaliadas uma a uma"
+      },
+      "resposta": "a",
+      "explicacao": "Menos chuva leva a reservatório baixo, que leva a racionamento, que leva a lavoura sem irrigação, que leva a safra menor, que leva a alimento caro — e o encarecimento volta a atingir a mesma cidade que ficou sem água. Cada consequência é a causa do passo seguinte. Em (d) está a leitura oposta, e as expressões por sua vez e o que elevou marcam justamente o encadeamento. Em (b) e (e), não há especialistas nem hipóteses concorrentes no texto. Em (c), nenhuma outra região é comparada."
+    },
+    {
+      "id": "interpretacao-texto-78",
+      "texto_apoio": "Uma equipe de vendas registrou aumento de 22% nos resultados após um programa de treinamento voltado não a técnicas de persuasão, mas ao reconhecimento das próprias reações emocionais diante de rejeições frequentes. Segundo os gestores responsáveis, vendedores que aprenderam a lidar melhor com a frustração de propostas recusadas voltavam a fazer novas ofertas com mais disposição e menos desgaste.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Que tipo de argumento sustenta a relação entre inteligência emocional e desempenho em vendas no texto?",
+      "alternativas": {
+        "a": "um exemplo concreto, com dado de resultado, sobre o efeito do treinamento",
+        "b": "uma opinião do autor, sem dado numérico que a sustente no texto",
+        "c": "uma analogia entre o trabalho do vendedor e o de um negociador diplomático",
+        "d": "uma comparação entre duas equipes de vendas distintas entre si",
+        "e": "uma definição técnica de inteligência emocional, sem exemplo prático"
+      },
+      "resposta": "a",
+      "explicacao": "O texto não define o conceito nem argumenta em abstrato: apresenta um caso, um número — 22% — e o mecanismo que ligaria uma coisa à outra, na fala dos gestores. Em (d) está o distrator mais próximo, porque há comparação implícita entre o antes e o depois da mesma equipe, e não entre duas equipes diferentes, que é o que a alternativa descreve. Em (b), o dado numérico está presente. Em (e), falta a definição e sobra o exemplo. Em (c), nenhuma analogia é construída."
+    },
+    {
+      "id": "interpretacao-texto-86",
+      "texto_apoio": "Marcas que se autodenominam sustentáveis lançam, todos os anos, novas coleções chamadas de 'eco', 'verde' ou 'consciente', incentivando o consumidor a substituir peças ainda em bom estado por versões supostamente mais responsáveis. Ora, produzir e descartar roupas em ritmo acelerado, mesmo usando materiais reciclados, ainda é produzir e descartar em ritmo acelerado.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual contradição o autor aponta na prática descrita das marcas de moda 'sustentável'?",
+      "alternativas": {
+        "a": "o discurso sustentável convive com o ritmo de produção que ele combate",
+        "b": "as marcas deixaram de vender roupas novas todos os anos, diz o texto",
+        "c": "o material reciclado encarece a peça e restringe o acesso ao público que a campanha diz priorizar",
+        "d": "o material reciclado torna qualquer ritmo de produção sustentável",
+        "e": "não existe, segundo o autor, contradição na prática dessas marcas"
+      },
+      "resposta": "a",
+      "explicacao": "A contradição está no verbo, não no material: trocar peça boa por peça nova todo ano é consumo acelerado, e mudar o tecido não altera esse ritmo — daí a repetição irônica no fecho. Em (c) está uma crítica real ao setor, e é isso que a torna tentadora; ela trata de preço e acesso, dimensão que o autor não aborda. Em (d), a alternativa afirma justamente o que o texto nega. Em (b), o lançamento anual de coleções é a premissa. Em (e), a contradição é o assunto do texto."
+    },
+    {
+      "id": "interpretacao-texto-104",
+      "texto_apoio": "Estudar em blocos curtos com intervalos regulares, técnica conhecida por alternar períodos de foco intenso e descanso breve, tem se mostrado, segundo pesquisas em neurociência cognitiva, mais eficaz para retenção de longo prazo do que sessões únicas e prolongadas de estudo, mesmo quando o tempo total dedicado ao conteúdo é exatamente o mesmo nos dois formatos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual é o dado central apresentado pela pesquisa mencionada no texto?",
+      "alternativas": {
+        "a": "a distribuição do tempo, e não só o total de horas, influencia a retenção",
+        "b": "o tempo total de estudo é a única variável relevante para a retenção do conteúdo",
+        "c": "estudar em blocos curtos é menos eficaz do que em sessões longas",
+        "d": "sessões prolongadas sem intervalo são recomendadas pela neurociência",
+        "e": "o intervalo ideal entre sessões é o mesmo para qualquer conteúdo"
+      },
+      "resposta": "a",
+      "explicacao": "A oração final é o que dá força ao achado: mesmo tempo total, resultados diferentes — logo, o que muda é a forma de distribuir as horas, não a quantidade delas. Em (b) está a variável que o texto isola justamente para descartá-la como explicação suficiente. Em (c), a comparação está invertida. Em (d), o formato prolongado sem intervalo é o menos eficaz dos dois. Em (e), o texto não trata da duração ideal do intervalo nem a generaliza para qualquer conteúdo."
+    },
+    {
+      "id": "interpretacao-texto-112",
+      "texto_apoio": "Trocar o carro por transporte público em pelo menos dois dias da semana, escolher produtos com menos embalagem e reduzir o desperdício de alimentos são hábitos que, individualmente, parecem pouco significativos diante da escala dos problemas ambientais globais. Ainda assim, pesquisadores em comportamento defendem que a adoção generalizada desses pequenos hábitos, somada à pressão que consumidores mais conscientes exercem sobre empresas, pode produzir efeito cumulativo relevante ao longo do tempo.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual é a ideia central defendida pelo texto sobre hábitos individuais de consumo consciente?",
+      "alternativas": {
+        "a": "hábitos individuais são irrelevantes diante da escala do problema",
+        "b": "a pressão de consumidores sobre empresas nunca produziu resultado",
+        "c": "apenas as grandes empresas têm responsabilidade real sobre a questão ambiental",
+        "d": "apesar de pequenos, os hábitos podem gerar efeito cumulativo relevante",
+        "e": "hábitos só produzem efeito com mudança na legislação tributária"
+      },
+      "resposta": "d",
+      "explicacao": "O texto concede a objeção e depois a supera: isoladamente cada gesto é pequeno, mas a adoção em massa somada à pressão sobre as empresas acumula efeito — o ainda assim marca a virada. Em (a) está a metade concedida tomada como conclusão, que é o erro de leitura mais frequente em textos de concessão. Em (c), a responsabilidade das empresas aparece via pressão do consumidor, não como responsabilidade exclusiva delas. Em (b), a pressão é apresentada como parte da solução. Em (e), a legislação tributária não é mencionada."
+    },
+    {
+      "id": "interpretacao-texto-114",
+      "texto_apoio": "Uma cooperativa de artesãs de um município do interior baiano passou a vender bordados diretamente para compradores de outras regiões por meio de redes sociais, eliminando intermediários que antes ficavam com parcela significativa do valor final da venda. A renda média das artesãs mais que dobrou em dois anos, segundo levantamento da própria cooperativa, sem que o preço final cobrado do comprador tivesse aumentado na mesma proporção.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual argumento o texto utiliza para sustentar o impacto positivo da venda direta sobre a renda das artesãs?",
+      "alternativas": {
+        "a": "uma opinião genérica sobre os benefícios do comércio eletrônico",
+        "b": "um caso concreto, com dado numérico, sobre a renda da cooperativa",
+        "c": "um argumento de autoridade baseado na opinião de especialistas",
+        "d": "uma comparação entre duas cooperativas de artesanato de regiões diferentes",
+        "e": "um dado histórico sobre a origem da técnica praticada pelo grupo"
+      },
+      "resposta": "b",
+      "explicacao": "O argumento se apoia num caso singular acompanhado de número — renda média mais que dobrada em dois anos — e a ressalva sobre o preço final ao comprador fecha a explicação: o ganho veio da margem que ficava com o intermediário. Em (c) está o distrator que exige atenção à fonte: o levantamento é da própria cooperativa, o que é dado de interessado, e não opinião de especialista externo. Em (a), há dado concreto. Em (d), só uma cooperativa é tratada. Em (e), a origem da técnica não é mencionada."
+    },
+    {
+      "id": "interpretacao-texto-117",
+      "texto_apoio": "O tempo médio de espera para consultas com especialistas na rede pública de determinada cidade caiu de 94 para 61 dias após a adoção de um sistema unificado de agendamento entre unidades de saúde. 'Ainda estamos longe do ideal, mas essa é a melhora mais consistente que já vi em quinze anos de gestão', avaliou a secretária de saúde municipal.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "No texto, é possível distinguir",
+      "alternativas": {
+        "a": "dois dados estatísticos que se contradizem sobre o tempo de espera",
+        "b": "duas opiniões pessoais da secretária, sem nenhum dado numérico que as sustente",
+        "c": "um dado objetivo sobre a queda e uma avaliação subjetiva da secretária",
+        "d": "uma crítica direta da secretária ao sistema de agendamento implantado",
+        "e": "um dado objetivo e uma projeção da secretária sobre os próximos meses"
+      },
+      "resposta": "c",
+      "explicacao": "Os números — de 94 para 61 dias — são verificáveis; a melhora mais consistente em quinze anos é juízo de quem fala, apoiado na própria experiência. O texto junta as duas coisas sem confundi-las, e distingui-las é a tarefa. Em (e) está o distrator mais fino: a secretária avalia o passado, e não projeta o futuro; dizer que ainda se está longe do ideal é medir a distância já percorrida, não prever a próxima. Em (b), o dado numérico existe. Em (a), os números não se contradizem. Em (d), a fala é positiva com ressalva, e não crítica ao sistema."
+    },
+    {
+      "id": "interpretacao-texto-123",
+      "texto_apoio": "Setores que dependem de tarefas repetitivas e previsíveis, como triagem inicial de documentos ou atendimento a perguntas frequentes, têm sido os primeiros a incorporar sistemas automatizados de inteligência artificial em larga escala. Economistas do trabalho divergem, porém, sobre se essa automação resultará em substituição líquida de postos de trabalho ou em realocação de profissionais para funções que ainda exigem julgamento humano mais complexo, como ocorreu em ondas anteriores de automação.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Segundo o texto, qual é o ponto de divergência entre os economistas do trabalho citados?",
+      "alternativas": {
+        "a": "se os sistemas automatizados conseguem realizar a triagem de documentos",
+        "b": "se a inteligência artificial já é usada em tarefas repetitivas hoje",
+        "c": "se a automação atinge primeiro ocupações de menor ou de maior escolaridade",
+        "d": "se ondas anteriores de automação já ocorreram na história do trabalho",
+        "e": "se haverá perda líquida de postos ou realocação para funções complexas"
+      },
+      "resposta": "e",
+      "explicacao": "A divergência é sobre o saldo futuro: some emprego ou o emprego muda de lugar. Tudo o que vem antes disso no texto é consenso, inclusive a existência de ondas anteriores. Em (c) está o distrator mais informado, porque a distribuição do impacto por escolaridade é debate real entre economistas do trabalho — só que não é o que este texto registra. Em (a), (b) e (d), a capacidade dos sistemas, seu uso atual e as ondas anteriores são apresentados como fatos, e não como pontos em disputa."
+    },
+    {
+      "id": "interpretacao-texto-124",
+      "texto_apoio": "A primeira vez que viajei sozinho, aos dezoito anos, passei a primeira noite inteira verificando se tinha trancado a porta do quarto de hotel, três, quatro vezes. Na segunda noite, já discutia com um estranho do albergue sobre qual era o melhor caminho até a estação de trem. No terceiro dia, percebi que viajar sozinho não era sobre não ter medo, era sobre descobrir que o medo passava rápido quando eu tinha só a mim para decidir o próximo passo.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Ao longo do relato, a relação do narrador com o medo de viajar sozinho é descrita como",
+      "alternativas": {
+        "a": "constante e imutável, sem alteração perceptível entre o primeiro e o último dia",
+        "b": "alternada, com o medo voltando na mesma intensidade a cada cidade",
+        "c": "um processo gradual, em que a insegurança dá lugar a mais autonomia",
+        "d": "agravada a cada novo dia da viagem, segundo o relato do narrador",
+        "e": "inexistente desde o início, já que ele nunca demonstrou insegurança"
+      },
+      "resposta": "c",
+      "explicacao": "O relato é datado dia a dia de propósito: na primeira noite ele confere a porta várias vezes, na segunda já discute rota com um desconhecido, no terceiro dia formula o que aprendeu. A progressão é a forma do texto. Em (e) está o erro mais tentador, porque o narrador conclui que a viagem não era sobre não ter medo — o que reconhece o medo, e não o nega. Em (a) e (d), a mudança é evidente e é de melhora. Em (b), não há retorno cíclico do medo a cada nova cidade."
+    },
+    {
+      "id": "interpretacao-texto-128",
+      "texto_apoio": "Bibliotecas móveis, montadas em ônibus adaptados, têm levado acervos gratuitos a bairros distantes de centros culturais tradicionais. Para muitos moradores dessas regiões, esse ônibus é o único acesso regular a livros fora do ambiente escolar, o que reforça o argumento de que democratizar cultura exige, muitas vezes, levar a oferta até onde as pessoas já estão, e não apenas esperar que elas cheguem até ela.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual é a tese central defendida pelo texto?",
+      "alternativas": {
+        "a": "o acesso a livros depende menos da distância que do hábito familiar de leitura",
+        "b": "as bibliotecas móveis deveriam substituir as fixas em todas as cidades",
+        "c": "as bibliotecas móveis não afetam o acesso à leitura nos bairros atendidos",
+        "d": "democratizar cultura exige levar a oferta até onde as pessoas já estão",
+        "e": "o acesso a livros fora da escola não é relevante para esses moradores"
+      },
+      "resposta": "d",
+      "explicacao": "A tese está enunciada no fecho, e o ônibus é o exemplo que a sustenta: política cultural que espera o público aparecer atende quem já estava perto. Em (a) está a tese rival mais forte, e ela é defensável em outros contextos — só que desloca a explicação da oferta para a família, exatamente o oposto do que este texto argumenta. Em (b), o texto não propõe substituir as bibliotecas fixas. Em (c) e (e), negar o impacto ou a relevância do acesso contraria a premissa de que esse ônibus é, para muitos, a única porta de entrada."
+    },
+    {
+      "id": "interpretacao-texto-134",
+      "texto_apoio": "Escolas que atrasaram o horário de início das aulas para adolescentes, de modo a respeitar o ciclo de sono naturalmente mais tardio característico dessa faixa etária, relataram queda na taxa de faltas e melhora no desempenho em avaliações no primeiro horário, segundo levantamento de secretarias de educação em três países que adotaram a medida experimentalmente.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Qual é a relação de causa e efeito sugerida pelo texto entre o novo horário escolar e os resultados observados?",
+      "alternativas": {
+        "a": "o atraso reduziu as faltas, mas sem efeito sobre o desempenho",
+        "b": "o atraso está associado à queda nas faltas e à melhora no desempenho",
+        "c": "a medida foi adotada, mas nenhum país registrou mudança nos indicadores",
+        "d": "não há, segundo o levantamento, relação entre horário e desempenho",
+        "e": "o atraso no horário piorou o desempenho dos adolescentes nas avaliações"
+      },
+      "resposta": "b",
+      "explicacao": "O levantamento registra dois resultados na mesma direção, e a alternativa correta recolhe os dois sem exagerar o vínculo — o texto fala em relato de escolas, e associação é o quanto se pode afirmar. Em (a) está a leitura parcial, que fica com metade do achado e descarta a outra sem razão no texto. Em (e), a direção do efeito está invertida. Em (c) e (d), a ausência de mudança contraria o que o levantamento apurou nos três países."
+    }
+  ]
+}

@@ -109,17 +109,17 @@
                      {
                          "id":  "interpretacao-texto-08",
                          "texto_apoio":  "Microplásticos, fragmentos com menos de cinco milímetros, já foram encontrados em amostras de água potável, sal de cozinha e até no sangue humano. Sua origem vai desde a degradação de garrafas plásticas até fibras sintéticas liberadas na lavagem de roupas. Embora os efeitos de longo prazo na saúde humana ainda estejam sob investigação, cientistas já recomendam medidas preventivas de redução do consumo de plástico descartável.",
+                         "formato":  "direta",
                          "enunciado":  "O que se pode inferir sobre o estágio atual das pesquisas mencionadas no texto?",
                          "alternativas":  {
-                                              "a":  "As pesquisas foram interrompidas por falta de financiamento, o que impede qualquer conclusão sobre os efeitos observados.",
-                                              "b":  "Não existe nenhuma evidência de microplásticos no corpo humano, apesar dos achados citados no texto.",
-                                              "c":  "As pesquisas sobre os efeitos de longo prazo ainda estão em andamento, mas já há recomendações preventivas.",
-                                              "d":  "Os cientistas descartaram qualquer relação entre plástico descartável e microplásticos encontrados no sangue.",
-                                              "e":  "Os cientistas já comprovaram todos os efeitos dos microplásticos na saúde humana, encerrando as pesquisas."
+                                              "a":  "as pesquisas foram interrompidas por falta de financiamento no setor",
+                                              "b":  "não há evidência de microplástico no corpo humano, apesar dos achados",
+                                              "c":  "os efeitos de longo prazo seguem em estudo, mas já há recomendação",
+                                              "d":  "os cientistas descartaram a relação entre plástico descartável e microplástico",
+                                              "e":  "todos os efeitos na saúde já foram comprovados e a pesquisa se encerrou"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto afirma explicitamente que os efeitos de longo prazo ainda estão sob investigação, mas que recomendações preventivas já são feitas, o que caracteriza uma pesquisa em andamento com cautela prática.",
-                         "formato":  "direta"
+                         "explicacao":  "O texto separa duas coisas com cuidado: a presença dos fragmentos está documentada, o dano de longo prazo ainda não, e mesmo assim já se recomenda prevenção — recomendar sem prova conclusiva é postura de precaução, não contradição. Em (e) está a leitura apressada que a questão quer flagrar: encontrar a substância não é o mesmo que conhecer seus efeitos. Em (b), o sangue humano está entre as amostras citadas. Em (d), a degradação de garrafas plásticas é apontada como uma das origens. Em (a), nada no texto trata de financiamento."
                      },
                      {
                          "id":  "interpretacao-texto-09",
@@ -529,17 +529,17 @@
                      {
                          "id":  "interpretacao-texto-36",
                          "texto_apoio":  "O desmatamento contínuo em regiões de transição climática reduz a capacidade do solo de reter umidade, o que diminui a formação de chuvas locais. Com menos chuva, a vegetação nativa tem dificuldade de se regenerar, criando um ciclo que pode levar, em décadas, à desertificação de áreas antes férteis.",
+                         "formato":  "direta",
                          "enunciado":  "A estrutura argumentativa do texto é organizada principalmente em torno de",
                          "alternativas":  {
-                                              "a":  "uma comparação entre dois biomas distintos apresentados no texto sem qualquer relação causal.",
-                                              "b":  "uma definição isolada do conceito de desertificação, sem qualquer relação causal com o desmatamento.",
-                                              "c":  "uma sequência de causas e consequências encadeadas, formando um ciclo que leva à desertificação.",
-                                              "d":  "uma crítica pessoal do autor às políticas ambientais vigentes na região de transição climática.",
-                                              "e":  "uma progressão cronológica que acompanha a evolução histórica do fenômeno na região."
+                                              "a":  "uma comparação entre dois biomas distintos, sem relação causal entre eles",
+                                              "b":  "uma definição isolada de desertificação, sem relação com o desmatamento",
+                                              "c":  "uma cadeia de causas e consequências que forma um ciclo",
+                                              "d":  "uma crítica do autor às políticas ambientais vigentes na região",
+                                              "e":  "uma progressão cronológica da evolução histórica do fenômeno"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto encadeia uma sequência de causas e efeitos (desmatamento, redução de umidade, menos chuva, dificuldade de regeneração, desertificação), formando um ciclo argumentativo característico da relação de causa e consequência.",
-                         "formato":  "direta"
+                         "explicacao":  "Cada elo puxa o seguinte — menos mata, menos umidade no solo; menos umidade, menos chuva; menos chuva, menos regeneração — e o último elo realimenta o primeiro, o que fecha o ciclo. Em (e) está o distrator mais fino: há sim marcação temporal, quando o texto fala em décadas, mas o tempo indica a duração do processo, e não uma sucessão histórica de fases. Em (a) e (b), não há dois biomas comparados nem definição isolada do conceito. Em (d), o texto descreve o mecanismo sem julgar política alguma."
                      },
                      {
                          "id":  "interpretacao-texto-37",
@@ -592,18 +592,18 @@
                      {
                          "id":  "interpretacao-texto-40",
                          "texto_apoio":  "Três da manhã e lá estou eu, contando não ovelhas, mas os motivos pelos quais ainda não durmo. Primeiro foi o barulho do vizinho; depois, a preocupação com a reunião de amanhã; agora, a certeza de que, se eu dormir agora, ainda sobram só quatro horas, o que parece pior do que não dormir nada. A lógica é péssima, eu sei, mas às três da manhã ela parece impecável.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "O humor do texto surge principalmente do fato de o narrador",
                          "alternativas":  {
-                                              "a":  "reconhecer que seu próprio raciocínio é falho, mas ainda assim se deixar convencer por ele no momento.",
-                                              "b":  "descrever com exagero cômico a sequência de ruídos que ouviu ao longo de toda a madrugada.",
-                                              "c":  "explicar cientificamente as causas biológicas da insônia, tema que o texto não desenvolve em nenhum momento.",
-                                              "d":  "culpar exclusivamente o vizinho barulhento por toda a sua noite maldormida, sem mencionar a própria lógica.",
-                                              "e":  "afirmar que dormir pouco nunca trouxe nenhuma consequência real para ele, ao longo de toda a crônica."
+                                              "a":  "reconhecer que o raciocínio é falho e ainda assim se deixar convencer",
+                                              "b":  "exagerar a sequência de ruídos que ouviu ao longo da madrugada",
+                                              "c":  "atribuir a insônia a causas biológicas que ele mesmo enumera",
+                                              "d":  "culpar o vizinho barulhento pela noite maldormida que teve",
+                                              "e":  "comparar a própria contagem de motivos à tradicional contagem de ovelhas do ditado"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O efeito cômico vem da autoconsciência irônica do narrador: ele admite que a lógica de não dormir é \u0027péssima\u0027, mas cede a ela mesmo assim, um recurso típico da crônica de observação do cotidiano.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A última frase é a piada inteira: ele sabe que a lógica é péssima e continua convencido por ela — a lucidez não o salva, e é essa rendição consciente que faz rir. Em (e) está o distrator mais tentador, porque a troca das ovelhas pelos motivos abre o texto e é de fato um trocadilho; ele prepara o tom, mas o humor se resolve no reconhecimento final. Em (d), o vizinho é só o primeiro item de uma lista que segue. Em (b), não há exagero na descrição dos ruídos. Em (c), o texto não menciona nenhuma causa biológica."
                      },
                      {
                          "id":  "interpretacao-texto-41",
@@ -912,18 +912,18 @@
                      {
                          "id":  "interpretacao-texto-60",
                          "texto_apoio":  "A prefeitura anunciou a instalação de sensores de tráfego em 200 cruzamentos, capazes de ajustar o tempo dos semáforos em tempo real conforme o volume de veículos. \u0027Essa é a cidade inteligente que os moradores merecem\u0027, declarou o prefeito na cerimônia de lançamento. Técnicos da secretaria de trânsito, porém, ressaltaram que a eficácia do sistema só poderá ser avaliada após ao menos um ano de operação.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "No texto, é possível identificar uma tensão entre",
                          "alternativas":  {
-                                              "a":  "dois dados técnicos que se contradizem entre si sobre o número de cruzamentos monitorados.",
-                                              "b":  "duas opiniões absolutamente idênticas do prefeito e de todos os técnicos da secretaria sobre o novo sistema instalado.",
-                                              "c":  "a posição do prefeito e a de moradores ouvidos pela reportagem, que divergem quanto ao prazo da obra.",
-                                              "d":  "a inexistência de qualquer posicionamento público por parte da prefeitura sobre o novo sistema.",
-                                              "e":  "a avaliação entusiástica do prefeito e a cautela mais técnica manifestada pelos próprios técnicos da secretaria."
+                                              "a":  "dois dados técnicos que se contradizem sobre o número de cruzamentos",
+                                              "b":  "opiniões idênticas do prefeito e dos técnicos sobre o novo sistema",
+                                              "c":  "a posição do prefeito e a de moradores ouvidos pela reportagem",
+                                              "d":  "a inexistência de posicionamento público da prefeitura sobre o sistema",
+                                              "e":  "o entusiasmo do prefeito e a cautela técnica da secretaria"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A fala do prefeito é uma avaliação otimista e política (\u0027cidade inteligente que os moradores merecem\u0027), enquanto os técnicos adotam postura mais cautelosa, condicionando a avaliação de eficácia a um prazo futuro, o que evidencia tensão entre discurso político e prudência técnica.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "As duas falas vêm do mesmo governo e apontam para lados opostos: uma celebra o resultado antes de ele existir, a outra lembra que só se poderá avaliar depois de um ano — e o porém marca a virada. Em (c) está o distrator mais plausível, porque tensão entre poder público e população é o padrão esperado nesse tipo de notícia; aqui, porém, nenhum morador é ouvido, e o contraponto vem de dentro da própria prefeitura. Em (b), as posições diferem. Em (a) e (d), não há dado contraditório nem ausência de manifestação oficial."
                      },
                      {
                          "id":  "interpretacao-texto-61",
@@ -944,18 +944,18 @@
                      {
                          "id":  "interpretacao-texto-62",
                          "texto_apoio":  "Hortas comunitárias instaladas em terrenos baldios têm se multiplicado nas periferias de grandes centros urbanos. Além de fornecer alimentos frescos a preços mais acessíveis, essas iniciativas reduzem áreas antes usadas para descarte irregular de lixo e criam pontos de encontro entre vizinhos que, muitas vezes, mal se conheciam antes do projeto.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Segundo o texto, quais são os efeitos associados à criação de hortas comunitárias em terrenos baldios?",
                          "alternativas":  {
-                                              "a":  "Acesso a alimentos mais baratos, redução do descarte irregular de lixo e fortalecimento de laços entre vizinhos.",
-                                              "b":  "Valorização imobiliária dos terrenos vizinhos, o que estimulou novos empreendimentos na área.",
-                                              "c":  "O desaparecimento total dos terrenos baldios em todas as áreas urbanas do país, segundo relata claramente o texto.",
-                                              "d":  "Apenas o aumento no preço dos alimentos vendidos na região, sem qualquer outro efeito citado.",
-                                              "e":  "A substituição completa dos mercados tradicionais da região pelas hortas comunitárias citadas."
+                                              "a":  "alimento mais barato, menos descarte irregular e laços entre vizinhos",
+                                              "b":  "valorização imobiliária dos terrenos vizinhos e novos empreendimentos",
+                                              "c":  "o desaparecimento dos terrenos baldios em todas as áreas urbanas do país",
+                                              "d":  "apenas o aumento no preço dos alimentos vendidos na região",
+                                              "e":  "a substituição dos mercados tradicionais da região pelas hortas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto relaciona a criação das hortas a três efeitos distintos: alimentos mais acessíveis, redução do descarte irregular de lixo e aproximação entre vizinhos, sem mencionar aumento de preços ou substituição de mercados.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto enumera três efeitos em camadas diferentes: alimentar, ambiental e social — e a alternativa correta é a única que recolhe os três. Em (b) está o distrator mais razoável, porque a valorização imobiliária é efeito documentado de intervenções urbanas desse tipo; ela não consta do texto, e a questão pede o que ele diz. Em (d), o preço cai, e não sobe. Em (c), o texto trata de terrenos específicos, sem generalizar ao país. Em (e), não há substituição de mercados."
                      },
                      {
                          "id":  "interpretacao-texto-63",
@@ -992,34 +992,34 @@
                      {
                          "id":  "interpretacao-texto-65",
                          "texto_apoio":  "Aplicativos de assistente de voz permanecem, por padrão, em modo de escuta parcial para reconhecer a palavra de ativação. Fabricantes garantem que apenas fragmentos de áudio processados localmente são descartados sem envio a servidores. Auditorias independentes, contudo, já identificaram casos em que trechos de conversas foram, sim, armazenados e revisados por funcionários humanos para \u0027melhorar o reconhecimento de voz\u0027.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "O que se pode inferir da contraposição entre a garantia dos fabricantes e os achados das auditorias independentes?",
                          "alternativas":  {
-                                              "a":  "As auditorias e os fabricantes divergem apenas quanto ao vocabulário técnico, não quanto aos fatos.",
-                                              "b":  "Há indícios de que a prática real das empresas pode divergir do que é declarado publicamente sobre privacidade dos usuários.",
-                                              "c":  "As auditorias independentes não têm absolutamente qualquer credibilidade técnica reconhecida no mercado atual de tecnologia digital.",
-                                              "d":  "Os assistentes de voz nunca processam áudio localmente, ao contrário do que os fabricantes afirmam.",
-                                              "e":  "As auditorias independentes confirmaram integralmente a garantia de privacidade dada pelos fabricantes."
+                                              "a":  "auditorias e fabricantes divergem só no vocabulário técnico, não nos fatos",
+                                              "b":  "a prática real pode divergir do que se declara sobre privacidade",
+                                              "c":  "as auditorias independentes não têm credibilidade técnica reconhecida",
+                                              "d":  "os assistentes não processam áudio localmente, ao contrário do declarado",
+                                              "e":  "as auditorias confirmaram integralmente a garantia dada pelos fabricantes"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Ao apresentar a garantia dos fabricantes seguida do advérbio \u0027contudo\u0027 e de achados que a contradizem, o texto sugere uma divergência entre discurso institucional e prática, permitindo inferir uma possível quebra da promessa de privacidade.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A garantia diz que o áudio é descartado localmente; a auditoria encontrou trechos guardados e ouvidos por gente. A inferência cabível é que o declarado e o praticado não coincidem, sem que se possa afirmar mais que isso. Em (a) está o distrator mais sutil, porque desacordos técnicos às vezes são mesmo de terminologia — aqui, porém, a divergência é sobre um fato verificável: houve ou não armazenamento. Em (e), o achado contraria a garantia. Em (d), o texto não nega o processamento local, apenas mostra que nem tudo fica nele. Em (c), a credibilidade das auditorias não é discutida."
                      },
                      {
                          "id":  "interpretacao-texto-66",
                          "texto_apoio":  "No sertão nordestino, o uso de raízes e ervas do bioma caatinga para temperar carnes de sol e caldos não é apenas questão de sabor: é também estratégia de aproveitamento de uma vegetação adaptada à seca, transmitida de geração em geração como parte de um saber culinário que resiste mesmo diante da escassez de água.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a ideia central do texto sobre a culinária sertaneja descrita?",
                          "alternativas":  {
-                                              "a":  "O uso de ervas da caatinga difundiu-se a partir da gastronomia de restaurantes urbanos, e não do saber local.",
-                                              "b":  "A escassez de água impede completamente o preparo de qualquer prato tradicional no sertão nordestino.",
-                                              "c":  "As ervas da caatinga são usadas exclusivamente fora da culinária, sem relação com a alimentação local.",
-                                              "d":  "A culinária sertaneja com ervas da caatinga une valor gastronômico e adaptação prática ao bioma, transmitida entre gerações.",
-                                              "e":  "O uso de ervas da caatinga seria uma prática muito recente, sem qualquer tradição histórica de fato na região sertaneja."
+                                              "a":  "o uso de ervas da caatinga veio da gastronomia urbana, e não do saber local",
+                                              "b":  "a escassez de água impede o preparo dos pratos tradicionais do sertão",
+                                              "c":  "as ervas da caatinga têm uso medicinal, sem relação com a alimentação",
+                                              "d":  "a culinária une sabor e adaptação ao bioma, transmitida entre gerações",
+                                              "e":  "o uso dessas ervas seria prática recente, sem tradição histórica na região"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto associa a prática culinária a um saber adaptativo, prático e tradicional, ligado às condições do bioma, sem afirmar que se trata de algo recente ou que a escassez impede completamente o preparo dos pratos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto recusa a leitura que reduz a culinária a gosto: o mesmo tempero que dá sabor aproveita o que a caatinga oferece, e o conhecimento de qual planta usar passa de uma geração à seguinte. São três camadas na mesma prática. Em (a) está a inversão de origem — o saber é local e anterior, não importado da cidade. Em (e), a transmissão entre gerações afirma o oposto de prática recente. Em (b), a escassez é o contexto que a prática enfrenta, não um impedimento. Em (c), o uso descrito é alimentar."
                      },
                      {
                          "id":  "interpretacao-texto-67",
@@ -1120,18 +1120,18 @@
                      {
                          "id":  "interpretacao-texto-73",
                          "texto_apoio":  "A redução das chuvas na região reduziu o nível dos reservatórios que abastecem a cidade, levando ao racionamento de água. O racionamento, por sua vez, afetou a irrigação das lavouras próximas, reduzindo a safra local, o que elevou o preço dos alimentos vendidos na própria cidade que enfrenta a escassez hídrica.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "A estrutura do texto é organizada, do início ao fim, como uma sequência de",
                          "alternativas":  {
-                                              "a":  "causas e consequências encadeadas, em que cada efeito se torna, na sequência, causa de um novo problema.",
-                                              "b":  "opiniões contraditórias de diferentes especialistas sobre a crise hídrica da região.",
-                                              "c":  "comparações detalhadas entre a situação da cidade descrita e a de todas as outras regiões do país afetadas pela seca.",
-                                              "d":  "eventos independentes, sem qualquer relação de causa entre si ao longo de todo o texto.",
-                                              "e":  "hipóteses alternativas para o mesmo fenômeno, avaliadas uma a uma pelo autor."
+                                              "a":  "causas e consequências encadeadas, cada efeito virando causa do problema seguinte",
+                                              "b":  "opiniões contraditórias de especialistas sobre a crise hídrica da região",
+                                              "c":  "comparações detalhadas entre a cidade descrita e outras regiões do país afetadas pela seca",
+                                              "d":  "eventos independentes, sem relação de causa entre si ao longo do texto",
+                                              "e":  "hipóteses alternativas para o mesmo fenômeno, avaliadas uma a uma"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto encadeia efeitos que se tornam causas de novos problemas (redução de chuvas leva a racionamento, que leva à queda na safra, que leva ao aumento de preços), configurando uma cadeia causal, não eventos isolados nem comparação entre regiões.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Menos chuva leva a reservatório baixo, que leva a racionamento, que leva a lavoura sem irrigação, que leva a safra menor, que leva a alimento caro — e o encarecimento volta a atingir a mesma cidade que ficou sem água. Cada consequência é a causa do passo seguinte. Em (d) está a leitura oposta, e as expressões por sua vez e o que elevou marcam justamente o encadeamento. Em (b) e (e), não há especialistas nem hipóteses concorrentes no texto. Em (c), nenhuma outra região é comparada."
                      },
                      {
                          "id":  "interpretacao-texto-74",
@@ -1152,18 +1152,18 @@
                      {
                          "id":  "interpretacao-texto-75",
                          "texto_apoio":  "Escolas situadas em bairros de maior vulnerabilidade social frequentemente enfrentam rotatividade de professores mais alta, biblioteca com acervo desatualizado e turmas mais numerosas do que a média da rede. Esses fatores, combinados, ajudam a explicar por que o desempenho médio dessas escolas em avaliações nacionais costuma ficar abaixo do de escolas em regiões mais centrais, mesmo quando os alunos têm potencial de aprendizagem semelhante.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a ideia central defendida pelo texto?",
                          "alternativas":  {
-                                              "a":  "O investimento em formação de professores é suficiente para equalizar o desempenho entre escolas.",
-                                              "b":  "Todas as escolas do país oferecem exatamente as mesmas condições estruturais de ensino aos alunos.",
-                                              "c":  "Alunos de bairros vulneráveis têm, comprovadamente, sempre menor capacidade de aprendizagem do que todos os demais alunos.",
-                                              "d":  "Diferenças estruturais entre escolas, e não o potencial dos alunos, explicam parte das desigualdades de desempenho.",
-                                              "e":  "A rotatividade de professores não tem qualquer relação com o desempenho escolar dos alunos avaliados."
+                                              "a":  "o investimento na formação de professores basta para equalizar o desempenho entre escolas",
+                                              "b":  "todas as escolas oferecem as mesmas condições estruturais de ensino",
+                                              "c":  "alunos de bairro vulnerável têm menor capacidade de aprendizagem",
+                                              "d":  "diferenças estruturais, e não o potencial do aluno, explicam parte do resultado",
+                                              "e":  "a rotatividade de professores não afeta o desempenho dos alunos avaliados"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto atribui a diferença de desempenho a fatores estruturais (rotatividade docente, acervo desatualizado, turmas numerosas), explicitando que isso ocorre \u0027mesmo quando os alunos têm potencial de aprendizagem semelhante\u0027, o que descarta a ideia de menor capacidade dos alunos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A última oração é decisiva: o potencial dos alunos é semelhante, e o que difere são as condições da escola — rotatividade, acervo, tamanho de turma. A desigualdade está na estrutura, não nas crianças. Em (a) está o erro de leitura mais fino: o texto lista três fatores combinados, e escolher um deles como suficiente contraria justamente a palavra combinados. Em (c), a igualdade de potencial é afirmada expressamente. Em (e), a rotatividade abre a lista de fatores. Em (b), a diferença de condições é a premissa do texto."
                      },
                      {
                          "id":  "interpretacao-texto-76",
@@ -1200,34 +1200,34 @@
                      {
                          "id":  "interpretacao-texto-78",
                          "texto_apoio":  "Uma equipe de vendas registrou aumento de 22% nos resultados após um programa de treinamento voltado não a técnicas de persuasão, mas ao reconhecimento das próprias reações emocionais diante de rejeições frequentes. Segundo os gestores responsáveis, vendedores que aprenderam a lidar melhor com a frustração de propostas recusadas voltavam a fazer novas ofertas com mais disposição e menos desgaste.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Que tipo de argumento sustenta a relação entre inteligência emocional e desempenho em vendas no texto?",
                          "alternativas":  {
-                                              "a":  "Um exemplo concreto, com dado de resultado, ilustrando o efeito do treinamento emocional sobre o desempenho.",
-                                              "b":  "Uma opinião pessoal do autor, sem qualquer dado numérico que a sustente ao longo do texto.",
-                                              "c":  "Uma analogia entre o trabalho do vendedor e o de um negociador diplomático.",
-                                              "d":  "Um argumento de comparação entre duas equipes de vendas totalmente distintas entre si.",
-                                              "e":  "Uma definição técnica do conceito de inteligência emocional, sem qualquer exemplo prático real citado."
+                                              "a":  "um exemplo concreto, com dado de resultado, sobre o efeito do treinamento",
+                                              "b":  "uma opinião do autor, sem dado numérico que a sustente no texto",
+                                              "c":  "uma analogia entre o trabalho do vendedor e o de um negociador diplomático",
+                                              "d":  "uma comparação entre duas equipes de vendas distintas entre si",
+                                              "e":  "uma definição técnica de inteligência emocional, sem exemplo prático"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto ilustra a tese com um caso concreto (aumento de 22% nos resultados de uma equipe específica), caracterizando argumento de exemplificação apoiado em dado numérico, e não comparação entre equipes ou definição teórica isolada.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto não define o conceito nem argumenta em abstrato: apresenta um caso, um número — 22% — e o mecanismo que ligaria uma coisa à outra, na fala dos gestores. Em (d) está o distrator mais próximo, porque há comparação implícita entre o antes e o depois da mesma equipe, e não entre duas equipes diferentes, que é o que a alternativa descreve. Em (b), o dado numérico está presente. Em (e), falta a definição e sobra o exemplo. Em (c), nenhuma analogia é construída."
                      },
                      {
                          "id":  "interpretacao-texto-79",
                          "texto_apoio":  "A conquista do direito ao voto para mulheres, no início do século XX em diversos países, não resultou de uma concessão espontânea de governos, mas de décadas de mobilização, greves de fome e protestos que, muitas vezes, enfrentaram repressão violenta. O reconhecimento formal do direito foi, em geral, a etapa final de um processo de pressão social sustentado.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Qual relação de causa e consequência o texto estabelece em relação à conquista do direito ao voto feminino?",
                          "alternativas":  {
-                                              "a":  "A mobilização social sustentada, incluindo protestos e greves, foi determinante para o reconhecimento formal do direito ao voto.",
-                                              "b":  "A ampliação do acesso feminino ao ensino superior antecedeu e tornou dispensável a mobilização de rua.",
-                                              "c":  "O reconhecimento do direito ao voto ocorreu antes de qualquer mobilização social relevante nesses países.",
-                                              "d":  "O direito ao voto foi concedido espontaneamente pelos governos, sem qualquer pressão prévia da sociedade.",
-                                              "e":  "A repressão violenta sofrida impediu definitivamente e para sempre a conquista do direito ao voto em todos os países mencionados."
+                                              "a":  "a mobilização sustentada foi determinante para o reconhecimento do direito",
+                                              "b":  "o acesso feminino ao ensino superior tornou dispensável a mobilização de rua",
+                                              "c":  "o reconhecimento do direito ocorreu antes de qualquer mobilização relevante",
+                                              "d":  "o direito foi concedido de forma espontânea pelos governos da época",
+                                              "e":  "a repressão sofrida impediu a conquista do direito nos países mencionados"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto afirma explicitamente que o direito \u0027não resultou de uma concessão espontânea\u0027, mas de décadas de mobilização, estabelecendo essa pressão social como causa do reconhecimento formal, contrariando as demais alternativas.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O texto inverte a ordem que o senso comum supõe: a lei não veio primeiro, veio por último, como resultado de décadas de pressão. A mobilização é causa, e o reconhecimento formal, consequência. Em (d) está exatamente a versão que a primeira oração nega. Em (c), a cronologia está trocada. Em (e), a repressão aparece como obstáculo enfrentado, e não como impedimento definitivo, já que o direito foi conquistado. Em (b), o ensino superior feminino não é mencionado no texto."
                      },
                      {
                          "id":  "interpretacao-texto-80",
@@ -1328,18 +1328,18 @@
                      {
                          "id":  "interpretacao-texto-86",
                          "texto_apoio":  "Marcas que se autodenominam sustentáveis lançam, todos os anos, novas coleções chamadas de \u0027eco\u0027, \u0027verde\u0027 ou \u0027consciente\u0027, incentivando o consumidor a substituir peças ainda em bom estado por versões supostamente mais responsáveis. Ora, produzir e descartar roupas em ritmo acelerado, mesmo usando materiais reciclados, ainda é produzir e descartar em ritmo acelerado.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual contradição o autor aponta na prática descrita das marcas de moda \u0027sustentável\u0027?",
                          "alternativas":  {
-                                              "a":  "O discurso de sustentabilidade convive com um ritmo de produção e descarte que reproduz o consumo acelerado que combate.",
-                                              "b":  "As marcas mencionadas deixaram completamente de vender roupas novas todos os anos, segundo relata o texto.",
-                                              "c":  "O uso de materiais reciclados encarece a peça e restringe o acesso justamente ao público que a campanha diz priorizar.",
-                                              "d":  "O uso de materiais reciclados torna qualquer ritmo de produção automaticamente sustentável, afirma claramente o autor do texto.",
-                                              "e":  "Não existe, segundo o autor, nenhuma contradição na prática dessas marcas de moda sustentável."
+                                              "a":  "o discurso sustentável convive com o ritmo de produção que ele combate",
+                                              "b":  "as marcas deixaram de vender roupas novas todos os anos, diz o texto",
+                                              "c":  "o material reciclado encarece a peça e restringe o acesso ao público que a campanha diz priorizar",
+                                              "d":  "o material reciclado torna qualquer ritmo de produção sustentável",
+                                              "e":  "não existe, segundo o autor, contradição na prática dessas marcas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O autor evidencia, com a repetição irônica de \u0027produzir e descartar em ritmo acelerado\u0027, que o discurso sustentável não elimina a lógica de consumo rápido, apenas a revestindo com um vocabulário ecológico, o que caracteriza a contradição apontada.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A contradição está no verbo, não no material: trocar peça boa por peça nova todo ano é consumo acelerado, e mudar o tecido não altera esse ritmo — daí a repetição irônica no fecho. Em (c) está uma crítica real ao setor, e é isso que a torna tentadora; ela trata de preço e acesso, dimensão que o autor não aborda. Em (d), a alternativa afirma justamente o que o texto nega. Em (b), o lançamento anual de coleções é a premissa. Em (e), a contradição é o assunto do texto."
                      },
                      {
                          "id":  "interpretacao-texto-87",
@@ -1504,34 +1504,34 @@
                      {
                          "id":  "interpretacao-texto-97",
                          "texto_apoio":  "Concurseiros relatam meses, às vezes anos, de estudo intenso para editais que, quando enfim publicados, trazem exigências de titulação alteradas em relação ao anunciado anteriormente, ou têm o número de vagas reduzido sem aviso prévio. Associações de candidatos cobram, há anos, um marco legal que garanta previsibilidade mínima nas regras de concursos públicos já em andamento.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é o problema central apontado pelo texto em relação aos concursos públicos?",
                          "alternativas":  {
-                                              "a":  "A falta de previsibilidade nas regras dos concursos, que podem ser alteradas depois de o candidato já ter iniciado os estudos.",
-                                              "b":  "O excesso de vagas oferecidas em relação ao número de candidatos inscritos no concurso analisado.",
-                                              "c":  "A concentração das vagas em poucas carreiras, que desestimula candidatos de outras formações.",
-                                              "d":  "A inexistência completa e absoluta de qualquer tipo de exigência de titulação nos editais de concurso público aqui analisados.",
-                                              "e":  "A ausência total de associações que representem os interesses dos concurseiros em todo o país."
+                                              "a":  "a falta de previsibilidade nas regras, alteradas depois de iniciado o estudo",
+                                              "b":  "o excesso de vagas oferecidas em relação ao número de inscritos",
+                                              "c":  "a concentração das vagas em poucas carreiras, que desestimula candidatos de outras áreas",
+                                              "d":  "a ausência de exigência de titulação nos editais analisados",
+                                              "e":  "a inexistência de associações que representem os concurseiros"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto relata mudanças posteriores em exigências e no número de vagas como fonte de instabilidade para quem já estuda para o concurso, o que justifica a cobrança por um marco legal de previsibilidade, e não os demais problemas apresentados nas outras alternativas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O prejuízo descrito não é a exigência em si, e sim o fato de ela mudar depois que o candidato já investiu meses no preparo — daí a reivindicação por um marco legal de previsibilidade. Em (d) está a inversão: o texto reclama de titulação alterada, não de titulação ausente. Em (b), a queixa é sobre redução de vagas, e não excesso delas. Em (e), as associações existem e são justamente quem faz a cobrança. Em (c), a distribuição das vagas entre carreiras não é tratada."
                      },
                      {
                          "id":  "interpretacao-texto-98",
                          "texto_apoio":  "Empresas que adaptam processos seletivos para candidatos com deficiência, oferecendo, por exemplo, provas em formatos acessíveis e entrevistas com tempo flexível, relatam retenção de talentos igual ou superior à média geral de seus quadros. Ainda assim, a taxa de contratação de pessoas com deficiência no mercado formal segue muito abaixo da proporção que esse grupo representa na população em idade ativa.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual contraste o texto estabelece entre os dois dados apresentados?",
                          "alternativas":  {
-                                              "a":  "Uma afirmação de que a contratação de pessoas com deficiência já reflete plenamente sua proporção na população.",
-                                              "b":  "Uma negação de que exista qualquer dificuldade de inclusão de pessoas com deficiência no mercado de trabalho.",
-                                              "c":  "Um contraste entre a boa retenção de talentos com deficiência em empresas adaptadas e a persistente sub-representação no mercado formal.",
-                                              "d":  "Uma negação categórica de que exista qualquer diferença real entre empresas que adaptam processos seletivos e as que não adaptam.",
-                                              "e":  "Um contraste entre o número de vagas anunciadas e o de vagas efetivamente preenchidas no ano."
+                                              "a":  "a contratação de pessoas com deficiência já reflete plenamente sua proporção na população",
+                                              "b":  "não existe dificuldade de inclusão dessas pessoas no mercado de trabalho",
+                                              "c":  "boa retenção nas empresas adaptadas e sub-representação persistente no mercado",
+                                              "d":  "não há diferença entre empresas que adaptam o processo seletivo e as que não",
+                                              "e":  "contraste entre vagas anunciadas e vagas efetivamente preenchidas no ano"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto contrapõe um dado positivo específico (boa retenção em empresas que adaptam processos) à persistência de uma sub-representação geral no mercado formal, evidenciando que a inclusão ainda é insuficiente apesar de resultados positivos pontuais.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O contraste é entre o que funciona e o que não acontece: onde a empresa adapta, o resultado é bom e comprovado; ainda assim, o conjunto do mercado contrata muito abaixo da proporção devida. O primeiro dado retira do segundo qualquer justificativa técnica. Em (a) está a negação direta do segundo dado. Em (b), a persistência da sub-representação é a dificuldade que o texto documenta. Em (d), a diferença entre empresas adaptadas e não adaptadas é o primeiro dado. Em (e), o texto não trata de vagas anunciadas."
                      },
                      {
                          "id":  "interpretacao-texto-99",
@@ -1584,18 +1584,18 @@
                      {
                          "id":  "interpretacao-texto-102",
                          "texto_apoio":  "Durante a Revolução Industrial, jornadas de quatorze horas e trabalho infantil em fábricas eram práticas comuns antes da consolidação de legislações trabalhistas ao longo do século seguinte. Comparações contemporâneas entre aquele período e o atual costumam ser usadas tanto para relativizar problemas do presente (\u0027hoje é bem melhor\u0027) quanto para alertar sobre riscos de retrocesso em direitos conquistados, dependendo do argumento que se pretende sustentar.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Segundo o texto, a comparação entre a Revolução Industrial e o presente pode ser usada",
                          "alternativas":  {
-                                              "a":  "apenas para sustentar que toda inovação tecnológica gera, no curto prazo, perda líquida de postos de trabalho.",
-                                              "b":  "apenas para demonstrar que a situação trabalhista atual não mudou em nada desde aquele período histórico.",
-                                              "c":  "com finalidades argumentativas distintas: tanto para relativizar problemas atuais quanto para alertar sobre riscos de retrocesso.",
-                                              "d":  "exclusivamente para defender publicamente o retorno a jornadas de trabalho muito mais longas na atualidade, segundo esse texto específico.",
-                                              "e":  "apenas por historiadores especializados, sem qualquer uso em debates públicos contemporâneos relevantes."
+                                              "a":  "para sustentar que a inovação tecnológica destrói postos de trabalho",
+                                              "b":  "para demonstrar que a situação trabalhista não mudou desde o período",
+                                              "c":  "com finalidades opostas: relativizar o presente ou alertar sobre recuo",
+                                              "d":  "para defender o retorno a jornadas de trabalho mais longas na atualidade",
+                                              "e":  "apenas por historiadores, sem uso em debate público contemporâneo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto explicita que a mesma comparação histórica serve a propósitos argumentativos diferentes e até opostos, dependendo de quem a utiliza: relativizar o presente ou alertar sobre riscos de retrocesso.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto não toma partido: descreve um mesmo repertório histórico servindo a dois usos contrários, conforme a tese que se quer sustentar. É um comentário sobre o uso do argumento, não sobre o argumento. Em (b) está uma das duas leituras isolada e radicalizada — o texto registra que se pode relativizar o presente, e não que nada mudou. Em (d), defender jornadas mais longas não é uso mencionado. Em (e), o texto trata justamente do uso público dessas comparações. Em (a), a inovação tecnológica não é o tema."
                      },
                      {
                          "id":  "interpretacao-texto-103",
@@ -1616,34 +1616,34 @@
                      {
                          "id":  "interpretacao-texto-104",
                          "texto_apoio":  "Estudar em blocos curtos com intervalos regulares, técnica conhecida por alternar períodos de foco intenso e descanso breve, tem se mostrado, segundo pesquisas em neurociência cognitiva, mais eficaz para retenção de longo prazo do que sessões únicas e prolongadas de estudo, mesmo quando o tempo total dedicado ao conteúdo é exatamente o mesmo nos dois formatos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é o dado central apresentado pela pesquisa mencionada no texto?",
                          "alternativas":  {
-                                              "a":  "A forma de distribuir o tempo de estudo, e não apenas a quantidade total de horas, influencia a retenção de longo prazo do conteúdo.",
-                                              "b":  "O tempo total de estudo é a única variável relevante para a retenção de conteúdo, segundo essa pesquisa citada.",
-                                              "c":  "Estudar em blocos curtos é sempre bem menos eficaz do que sessões longas, mesmo com exatamente o mesmo tempo total dedicado ao conteúdo.",
-                                              "d":  "Sessões prolongadas de estudo sem intervalos são recomendadas pela neurociência cognitiva atual.",
-                                              "e":  "O intervalo ideal entre sessões de estudo é o mesmo para qualquer tipo de conteúdo."
+                                              "a":  "a distribuição do tempo, e não só o total de horas, influencia a retenção",
+                                              "b":  "o tempo total de estudo é a única variável relevante para a retenção do conteúdo",
+                                              "c":  "estudar em blocos curtos é menos eficaz do que em sessões longas",
+                                              "d":  "sessões prolongadas sem intervalo são recomendadas pela neurociência",
+                                              "e":  "o intervalo ideal entre sessões é o mesmo para qualquer conteúdo"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto compara dois formatos com o \u0027mesmo tempo total\u0027 de estudo, mas conclui que a distribuição em blocos com intervalos é mais eficaz, o que evidencia que a forma de organizar o tempo, e não só a quantidade, importa para a retenção.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A oração final é o que dá força ao achado: mesmo tempo total, resultados diferentes — logo, o que muda é a forma de distribuir as horas, não a quantidade delas. Em (b) está a variável que o texto isola justamente para descartá-la como explicação suficiente. Em (c), a comparação está invertida. Em (d), o formato prolongado sem intervalo é o menos eficaz dos dois. Em (e), o texto não trata da duração ideal do intervalo nem a generaliza para qualquer conteúdo."
                      },
                      {
                          "id":  "interpretacao-texto-105",
                          "texto_apoio":  "Traduzir poesia, dizem alguns teóricos, é uma tarefa impossível por definição: o som, o ritmo e a ambiguidade de uma palavra na língua original raramente encontram equivalente exato em outro idioma. Ainda assim, tradutores continuam produzindo versões de grandes poemas, não porque tenham resolvido essa impossibilidade, mas porque decidiram que uma tradução imperfeita, que recria parte do efeito original, vale mais do que o silêncio de não traduzir.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Qual é a ideia central defendida pelo texto sobre a tradução de poesia?",
                          "alternativas":  {
-                                              "a":  "Apesar da impossibilidade teórica de uma equivalência perfeita, tradutores optam por versões imperfeitas em vez de deixar de traduzir.",
-                                              "b":  "A tradução de poesia só se justifica quando o tradutor é, ele próprio, poeta reconhecido.",
-                                              "c":  "A tradução de poesia é sempre uma tarefa plenamente possível, sem qualquer perda em relação ao original, segundo afirma o texto.",
-                                              "d":  "O ritmo e o som de um poema nunca são considerados relevantes no processo de tradução, afirma o texto claramente.",
-                                              "e":  "Tradutores abandonaram completamente a prática de traduzir poesia devido às dificuldades apontadas pelos teóricos."
+                                              "a":  "apesar da impossibilidade teórica, prefere-se a versão imperfeita ao silêncio",
+                                              "b":  "a tradução de poesia só se justifica quando o próprio tradutor é poeta reconhecido",
+                                              "c":  "a tradução de poesia é plenamente possível, sem perda diante do original",
+                                              "d":  "o ritmo e o som do poema não são considerados no processo de tradução",
+                                              "e":  "os tradutores abandonaram a prática diante das dificuldades apontadas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto reconhece a impossibilidade teórica de uma tradução perfeita, mas conclui que tradutores preferem produzir versões imperfeitas a não traduzir, valorizando a recriação parcial do efeito original em vez do silêncio.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O texto concede a premissa dos teóricos e recusa a conclusão: a equivalência exata é mesmo impossível, e ainda assim traduzir compensa, porque o parcial vale mais que o nada. A decisão é prática, não uma refutação. Em (c) está a negação da premissa que o texto aceita. Em (e), a conclusão oposta à que ele defende, já que os tradutores continuam. Em (d), som e ritmo são citados como o que se perde, o que os torna centrais. Em (b), a condição de poeta não aparece no texto."
                      },
                      {
                          "id":  "interpretacao-texto-106",
@@ -1664,18 +1664,18 @@
                      {
                          "id":  "interpretacao-texto-107",
                          "texto_apoio":  "Poucas das centenas de startups que recebem investimento inicial em determinado ano chegam à década seguinte ainda em operação. Investidores experientes, no entanto, afirmam que essa alta taxa de fracasso não invalida o modelo: parte relevante do retorno financeiro do setor vem justamente de um pequeno número de casos de sucesso expressivo, capazes de compensar as perdas de todos os demais investimentos malsucedidos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Segundo os investidores citados no texto, por que a alta taxa de fracasso das startups não invalida o modelo de investimento?",
                          "alternativas":  {
-                                              "a":  "Porque a grande maioria das startups investidas, de fato, obtém sempre sucesso financeiro expressivo e muito rápido.",
-                                              "b":  "Porque as perdas com startups fracassadas são integralmente compensadas por incentivos fiscais.",
-                                              "c":  "Porque o modelo de investimento em startups não depende de nenhum tipo de retorno financeiro.",
-                                              "d":  "Porque os investidores afirmam que o fracasso das startups nunca ocorre de fato no setor.",
-                                              "e":  "Porque um pequeno número de casos de sucesso pode gerar retorno suficiente para compensar as perdas das demais."
+                                              "a":  "porque a maioria das startups investidas acaba obtendo sucesso financeiro rápido",
+                                              "b":  "porque as perdas são compensadas integralmente por incentivos fiscais",
+                                              "c":  "porque o modelo de investimento não depende de retorno financeiro",
+                                              "d":  "porque o fracasso de startups não ocorre de fato no setor analisado",
+                                              "e":  "porque poucos casos de sucesso geram retorno que cobre as demais perdas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto explica que o retorno do setor vem de poucos casos de sucesso expressivo, capazes de compensar as perdas dos investimentos malsucedidos, e não da maioria das startups atingindo sucesso.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O argumento é sobre a distribuição do retorno, e não sobre a frequência do sucesso: o modelo aceita perder na maioria porque o ganho de um único acerto grande paga todo o resto. Em (a) está a inversão que a questão testa — supor que a maioria dá certo desmontaria o próprio raciocínio, que parte da alta taxa de fracasso como fato. Em (d), o fracasso é a premissa do texto. Em (b), incentivos fiscais não são mencionados. Em (c), o retorno financeiro é justamente o critério em discussão."
                      },
                      {
                          "id":  "interpretacao-texto-108",
@@ -1728,34 +1728,34 @@
                      {
                          "id":  "interpretacao-texto-111",
                          "texto_apoio":  "Defensores de restrições à publicidade voltada ao público infantil argumentam que crianças pequenas não têm maturidade cognitiva para distinguir, com clareza, conteúdo publicitário de conteúdo de entretenimento. Representantes do setor de comunicação contrapõem que cabe principalmente aos pais, e não ao Estado, mediar o consumo de mídia dos filhos, e que restrições legais tendem a ser ineficazes diante da variedade de plataformas digitais atuais.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Como o texto organiza o debate sobre a publicidade infantil?",
                          "alternativas":  {
-                                              "a":  "Organiza o debate em ordem cronológica, mostrando como a posição do setor publicitário mudou ao longo das décadas.",
-                                              "b":  "Defende exclusivamente a posição dos representantes do setor de comunicação, sem apresentar o lado oposto do debate.",
-                                              "c":  "Contrapõe o argumento da imaturidade cognitiva infantil, favorável à restrição, ao argumento da responsabilidade parental, contrário a ela.",
-                                              "d":  "Apresenta apenas um único lado do debate sobre publicidade infantil, sem contrapor nenhum argumento contrário, ignorando totalmente o outro lado.",
-                                              "e":  "Afirma que não existe controvérsia relevante sobre o tema da publicidade voltada ao público infantil, segundo o texto."
+                                              "a":  "organiza o debate em ordem cronológica, mostrando a mudança de posição",
+                                              "b":  "defende a posição do setor de comunicação, sem apresentar o lado oposto",
+                                              "c":  "contrapõe a imaturidade cognitiva à responsabilidade parental",
+                                              "d":  "apresenta apenas um lado, sem contrapor argumento contrário algum",
+                                              "e":  "afirma que não existe controvérsia relevante sobre o tema tratado"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto estrutura-se como um contraponto equilibrado entre dois argumentos opostos: a imaturidade cognitiva infantil (a favor da restrição) e a responsabilidade parental somada à ineficácia legal (contra a restrição), sem favorecer explicitamente nenhum dos lados.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A estrutura é de contraposição direta: um argumento sobre a criança, que não distingue anúncio de programa, e outro sobre quem deve mediar, os pais e não o Estado. Cada lado responde a uma pergunta diferente, e é isso que mantém o debate aberto. Em (b) e (d) está a mesma acusação de unilateralidade, desmentida pela presença dos dois lados no texto. Em (a), não há marcação temporal nem mudança de posição ao longo do tempo. Em (e), a controvérsia é o próprio assunto."
                      },
                      {
                          "id":  "interpretacao-texto-112",
                          "texto_apoio":  "Trocar o carro por transporte público em pelo menos dois dias da semana, escolher produtos com menos embalagem e reduzir o desperdício de alimentos são hábitos que, individualmente, parecem pouco significativos diante da escala dos problemas ambientais globais. Ainda assim, pesquisadores em comportamento defendem que a adoção generalizada desses pequenos hábitos, somada à pressão que consumidores mais conscientes exercem sobre empresas, pode produzir efeito cumulativo relevante ao longo do tempo.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a ideia central defendida pelo texto sobre hábitos individuais de consumo consciente?",
                          "alternativas":  {
-                                              "a":  "Hábitos individuais são completamente irrelevantes diante da escala dos problemas ambientais globais.",
-                                              "b":  "A pressão de consumidores sobre empresas nunca produziu nenhum resultado mensurável, segundo pesquisadores.",
-                                              "c":  "Apenas as grandes empresas têm real responsabilidade sobre questões ambientais, segundo todos os pesquisadores citados.",
-                                              "d":  "Apesar de parecerem pouco significativos isoladamente, hábitos individuais podem gerar efeito cumulativo relevante.",
-                                              "e":  "Hábitos individuais só produzem efeito quando acompanhados de mudança na legislação tributária sobre consumo."
+                                              "a":  "hábitos individuais são irrelevantes diante da escala do problema",
+                                              "b":  "a pressão de consumidores sobre empresas nunca produziu resultado",
+                                              "c":  "apenas as grandes empresas têm responsabilidade real sobre a questão ambiental",
+                                              "d":  "apesar de pequenos, os hábitos podem gerar efeito cumulativo relevante",
+                                              "e":  "hábitos só produzem efeito com mudança na legislação tributária"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto reconhece a aparente insignificância individual dos hábitos, mas defende que sua adoção generalizada, somada à pressão sobre empresas, pode gerar efeito cumulativo relevante, o que descarta tanto a irrelevância total quanto a responsabilidade exclusiva das empresas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto concede a objeção e depois a supera: isoladamente cada gesto é pequeno, mas a adoção em massa somada à pressão sobre as empresas acumula efeito — o ainda assim marca a virada. Em (a) está a metade concedida tomada como conclusão, que é o erro de leitura mais frequente em textos de concessão. Em (c), a responsabilidade das empresas aparece via pressão do consumidor, não como responsabilidade exclusiva delas. Em (b), a pressão é apresentada como parte da solução. Em (e), a legislação tributária não é mencionada."
                      },
                      {
                          "id":  "interpretacao-texto-113",
@@ -1776,18 +1776,18 @@
                      {
                          "id":  "interpretacao-texto-114",
                          "texto_apoio":  "Uma cooperativa de artesãs de um município do interior baiano passou a vender bordados diretamente para compradores de outras regiões por meio de redes sociais, eliminando intermediários que antes ficavam com parcela significativa do valor final da venda. A renda média das artesãs mais que dobrou em dois anos, segundo levantamento da própria cooperativa, sem que o preço final cobrado do comprador tivesse aumentado na mesma proporção.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual argumento o texto utiliza para sustentar o impacto positivo da venda direta sobre a renda das artesãs?",
                          "alternativas":  {
-                                              "a":  "Uma opinião genérica sobre os benefícios do comércio eletrônico, sem qualquer dado concreto apresentado.",
-                                              "b":  "Um caso concreto, com dado numérico específico, mostrando o aumento de renda de uma cooperativa após eliminar intermediários.",
-                                              "c":  "Um argumento de autoridade baseado exclusivamente na opinião de especialistas em economia rural.",
-                                              "d":  "Uma comparação entre duas cooperativas de artesanato de regiões diferentes do país nordestino brasileiro.",
-                                              "e":  "Um dado histórico sobre a origem da técnica de artesanato praticada pelo grupo."
+                                              "a":  "uma opinião genérica sobre os benefícios do comércio eletrônico",
+                                              "b":  "um caso concreto, com dado numérico, sobre a renda da cooperativa",
+                                              "c":  "um argumento de autoridade baseado na opinião de especialistas",
+                                              "d":  "uma comparação entre duas cooperativas de artesanato de regiões diferentes",
+                                              "e":  "um dado histórico sobre a origem da técnica praticada pelo grupo"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto apresenta um caso concreto de uma cooperativa específica, com dado numérico (renda mais que dobrada), caracterizando argumento de exemplificação apoiado em dado real, e não opinião genérica, comparação entre cooperativas ou argumento de autoridade.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O argumento se apoia num caso singular acompanhado de número — renda média mais que dobrada em dois anos — e a ressalva sobre o preço final ao comprador fecha a explicação: o ganho veio da margem que ficava com o intermediário. Em (c) está o distrator que exige atenção à fonte: o levantamento é da própria cooperativa, o que é dado de interessado, e não opinião de especialista externo. Em (a), há dado concreto. Em (d), só uma cooperativa é tratada. Em (e), a origem da técnica não é mencionada."
                      },
                      {
                          "id":  "interpretacao-texto-115",
@@ -1824,18 +1824,18 @@
                      {
                          "id":  "interpretacao-texto-117",
                          "texto_apoio":  "O tempo médio de espera para consultas com especialistas na rede pública de determinada cidade caiu de 94 para 61 dias após a adoção de um sistema unificado de agendamento entre unidades de saúde. \u0027Ainda estamos longe do ideal, mas essa é a melhora mais consistente que já vi em quinze anos de gestão\u0027, avaliou a secretária de saúde municipal.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "No texto, é possível distinguir",
                          "alternativas":  {
-                                              "a":  "dois dados estatísticos que se contradizem entre si sobre o tempo de espera relatado na entrevista.",
-                                              "b":  "duas opiniões pessoais da secretária, sem qualquer dado numérico que as sustente de fato.",
-                                              "c":  "um dado objetivo sobre a redução do tempo de espera e uma avaliação subjetiva da secretária sobre a magnitude dessa melhora.",
-                                              "d":  "uma crítica bastante direta da secretária ao sistema de agendamento recentemente implementado em toda a rede municipal de saúde.",
-                                              "e":  "um dado objetivo sobre o tempo de espera e uma projeção da secretária sobre os próximos meses."
+                                              "a":  "dois dados estatísticos que se contradizem sobre o tempo de espera",
+                                              "b":  "duas opiniões pessoais da secretária, sem nenhum dado numérico que as sustente",
+                                              "c":  "um dado objetivo sobre a queda e uma avaliação subjetiva da secretária",
+                                              "d":  "uma crítica direta da secretária ao sistema de agendamento implantado",
+                                              "e":  "um dado objetivo e uma projeção da secretária sobre os próximos meses"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A redução de 94 para 61 dias é um dado objetivo e verificável, enquanto a afirmação sobre ser \u0027a melhora mais consistente\u0027 em quinze anos é uma avaliação subjetiva da secretária, introduzida por aspas como fala direta.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Os números — de 94 para 61 dias — são verificáveis; a melhora mais consistente em quinze anos é juízo de quem fala, apoiado na própria experiência. O texto junta as duas coisas sem confundi-las, e distingui-las é a tarefa. Em (e) está o distrator mais fino: a secretária avalia o passado, e não projeta o futuro; dizer que ainda se está longe do ideal é medir a distância já percorrida, não prever a próxima. Em (b), o dado numérico existe. Em (a), os números não se contradizem. Em (d), a fala é positiva com ressalva, e não crítica ao sistema."
                      },
                      {
                          "id":  "interpretacao-texto-118",
@@ -1920,34 +1920,34 @@
                      {
                          "id":  "interpretacao-texto-123",
                          "texto_apoio":  "Setores que dependem de tarefas repetitivas e previsíveis, como triagem inicial de documentos ou atendimento a perguntas frequentes, têm sido os primeiros a incorporar sistemas automatizados de inteligência artificial em larga escala. Economistas do trabalho divergem, porém, sobre se essa automação resultará em substituição líquida de postos de trabalho ou em realocação de profissionais para funções que ainda exigem julgamento humano mais complexo, como ocorreu em ondas anteriores de automação.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Segundo o texto, qual é o ponto de divergência entre os economistas do trabalho citados?",
                          "alternativas":  {
-                                              "a":  "Se sistemas automatizados são, comprovadamente, incapazes de realizar absolutamente qualquer tarefa de triagem simples de documentos.",
-                                              "b":  "Se a inteligência artificial já está sendo usada, ou não, em tarefas repetitivas na atualidade.",
-                                              "c":  "Se a automação atinge primeiro as ocupações de menor ou de maior escolaridade.",
-                                              "d":  "Se ondas anteriores de automação já ocorreram alguma vez ao longo de toda a história do trabalho.",
-                                              "e":  "Se a automação resultará em perda líquida de postos de trabalho ou em realocação de profissionais para funções mais complexas."
+                                              "a":  "se os sistemas automatizados conseguem realizar a triagem de documentos",
+                                              "b":  "se a inteligência artificial já é usada em tarefas repetitivas hoje",
+                                              "c":  "se a automação atinge primeiro ocupações de menor ou de maior escolaridade",
+                                              "d":  "se ondas anteriores de automação já ocorreram na história do trabalho",
+                                              "e":  "se haverá perda líquida de postos ou realocação para funções complexas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto identifica explicitamente a divergência entre os economistas: se a automação levará à substituição líquida de empregos ou à realocação de trabalhadores para funções mais complexas, e não os outros pontos apresentados.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A divergência é sobre o saldo futuro: some emprego ou o emprego muda de lugar. Tudo o que vem antes disso no texto é consenso, inclusive a existência de ondas anteriores. Em (c) está o distrator mais informado, porque a distribuição do impacto por escolaridade é debate real entre economistas do trabalho — só que não é o que este texto registra. Em (a), (b) e (d), a capacidade dos sistemas, seu uso atual e as ondas anteriores são apresentados como fatos, e não como pontos em disputa."
                      },
                      {
                          "id":  "interpretacao-texto-124",
                          "texto_apoio":  "A primeira vez que viajei sozinho, aos dezoito anos, passei a primeira noite inteira verificando se tinha trancado a porta do quarto de hotel, três, quatro vezes. Na segunda noite, já discutia com um estranho do albergue sobre qual era o melhor caminho até a estação de trem. No terceiro dia, percebi que viajar sozinho não era sobre não ter medo, era sobre descobrir que o medo passava rápido quando eu tinha só a mim para decidir o próximo passo.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Ao longo do relato, a relação do narrador com o medo de viajar sozinho é descrita como",
                          "alternativas":  {
-                                              "a":  "constante e completamente imutável, sem qualquer alteração perceptível entre o primeiro e o último dia da viagem relatada.",
-                                              "b":  "alternada, com o medo retornando com a mesma intensidade a cada nova cidade visitada.",
-                                              "c":  "um processo gradual de adaptação, em que a insegurança inicial dá lugar, em poucos dias, a maior autonomia e confiança.",
-                                              "d":  "agravada progressivamente a cada novo dia da viagem, segundo o relato completo do narrador.",
-                                              "e":  "inexistente desde o início, já que o narrador nunca demonstrou qualquer insegurança na viagem."
+                                              "a":  "constante e imutável, sem alteração perceptível entre o primeiro e o último dia",
+                                              "b":  "alternada, com o medo voltando na mesma intensidade a cada cidade",
+                                              "c":  "um processo gradual, em que a insegurança dá lugar a mais autonomia",
+                                              "d":  "agravada a cada novo dia da viagem, segundo o relato do narrador",
+                                              "e":  "inexistente desde o início, já que ele nunca demonstrou insegurança"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O relato mostra uma progressão clara: da insegurança extrema da primeira noite (verificar a porta várias vezes) à interação despreocupada da segunda noite, culminando na reflexão sobre autonomia no terceiro dia, o que caracteriza adaptação gradual, não constância nem agravamento.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O relato é datado dia a dia de propósito: na primeira noite ele confere a porta várias vezes, na segunda já discute rota com um desconhecido, no terceiro dia formula o que aprendeu. A progressão é a forma do texto. Em (e) está o erro mais tentador, porque o narrador conclui que a viagem não era sobre não ter medo — o que reconhece o medo, e não o nega. Em (a) e (d), a mudança é evidente e é de melhora. Em (b), não há retorno cíclico do medo a cada nova cidade."
                      },
                      {
                          "id":  "interpretacao-texto-125",
@@ -2000,18 +2000,18 @@
                      {
                          "id":  "interpretacao-texto-128",
                          "texto_apoio":  "Bibliotecas móveis, montadas em ônibus adaptados, têm levado acervos gratuitos a bairros distantes de centros culturais tradicionais. Para muitos moradores dessas regiões, esse ônibus é o único acesso regular a livros fora do ambiente escolar, o que reforça o argumento de que democratizar cultura exige, muitas vezes, levar a oferta até onde as pessoas já estão, e não apenas esperar que elas cheguem até ela.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a tese central defendida pelo texto?",
                          "alternativas":  {
-                                              "a":  "O acesso a livros depende menos da distância física até a biblioteca do que do hábito familiar de leitura.",
-                                              "b":  "Bibliotecas móveis deveriam substituir integralmente as bibliotecas fixas em todas as cidades do país.",
-                                              "c":  "As bibliotecas móveis não têm qualquer impacto sobre o acesso à leitura nos bairros por elas atendidos.",
-                                              "d":  "A democratização cultural exige, em certos contextos, levar a oferta até a população, não apenas aguardar sua procura.",
-                                              "e":  "O acesso a livros fora do ambiente escolar não é relevante para a formação dos moradores dessas regiões."
+                                              "a":  "o acesso a livros depende menos da distância que do hábito familiar de leitura",
+                                              "b":  "as bibliotecas móveis deveriam substituir as fixas em todas as cidades",
+                                              "c":  "as bibliotecas móveis não afetam o acesso à leitura nos bairros atendidos",
+                                              "d":  "democratizar cultura exige levar a oferta até onde as pessoas já estão",
+                                              "e":  "o acesso a livros fora da escola não é relevante para esses moradores"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto argumenta, com o exemplo das bibliotecas móveis, que democratizar cultura pode exigir levar a oferta ativamente até a população, e não apenas disponibilizá-la passivamente, sem defender a substituição total das bibliotecas fixas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A tese está enunciada no fecho, e o ônibus é o exemplo que a sustenta: política cultural que espera o público aparecer atende quem já estava perto. Em (a) está a tese rival mais forte, e ela é defensável em outros contextos — só que desloca a explicação da oferta para a família, exatamente o oposto do que este texto argumenta. Em (b), o texto não propõe substituir as bibliotecas fixas. Em (c) e (e), negar o impacto ou a relevância do acesso contraria a premissa de que esse ônibus é, para muitos, a única porta de entrada."
                      },
                      {
                          "id":  "interpretacao-texto-129",
@@ -2032,18 +2032,18 @@
                      {
                          "id":  "interpretacao-texto-130",
                          "texto_apoio":  "Serviços de streaming musical frequentemente sugerem que suas playlists de descoberta ajudam artistas independentes a alcançar novos públicos. Análises de dados do próprio setor mostram, porém, que a maior parte das reproduções geradas por essas playlists ainda se concentra em artistas que já possuíam número expressivo de ouvintes antes de entrar na lista, o que relativiza o alcance real da \u0027descoberta\u0027 prometida para nomes verdadeiramente desconhecidos.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Qual relação o texto estabelece entre o discurso das plataformas e os dados do próprio setor sobre playlists de descoberta?",
                          "alternativas":  {
-                                              "a":  "As plataformas de streaming deixaram de utilizar playlists de descoberta em seus aplicativos atuais.",
-                                              "b":  "Há uma tensão entre o discurso de descoberta de novos talentos e os dados que mostram concentração em artistas já estabelecidos.",
-                                              "c":  "As playlists de descoberta favorecem artistas independentes, o que contraria o discurso das gravadoras.",
-                                              "d":  "Os dados do setor confirmam totalmente e sem qualquer ressalva o discurso das plataformas sobre a eficácia das playlists de descoberta.",
-                                              "e":  "Artistas independentes nunca aparecem, em nenhuma hipótese, nas playlists analisadas pelo setor musical."
+                                              "a":  "as plataformas deixaram de usar playlists de descoberta em seus aplicativos",
+                                              "b":  "há tensão entre o discurso de descoberta e a concentração em nomes já grandes",
+                                              "c":  "as playlists favorecem o artista independente, ao contrário do que dizem as gravadoras",
+                                              "d":  "os dados do setor confirmam o discurso das plataformas sobre a eficácia",
+                                              "e":  "artistas independentes não aparecem nas playlists analisadas pelo setor"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto contrapõe o discurso institucional (\u0027ajudam artistas independentes\u0027) aos dados reais do setor, que mostram concentração em artistas já populares, evidenciando uma tensão entre promessa e prática, sem negar totalmente a presença de independentes.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O texto opõe promessa e medição: diz-se que a playlist revela o desconhecido, e o dado mostra que a maior parte das reproduções vai para quem já tinha público. A palavra relativiza marca a tensão sem negar a plataforma por inteiro. Em (c) está a inversão do resultado, além de trocar o autor do discurso — quem promete a descoberta é a plataforma, não a gravadora. Em (d), os dados relativizam o discurso em vez de confirmá-lo. Em (e), o texto não diz que independentes ficam de fora, e sim que colhem parte menor das reproduções."
                      },
                      {
                          "id":  "interpretacao-texto-131",
@@ -2064,18 +2064,18 @@
                      {
                          "id":  "interpretacao-texto-132",
                          "texto_apoio":  "Murais espalhados pelos viadutos da cidade retratam, lado a lado, figuras históricas locais quase esquecidas e rostos anônimos de moradores atuais do bairro, escolhidos por votação popular. Para os artistas responsáveis, a intenção não era apenas embelezar espaços degradados, mas devolver visibilidade simbólica a uma população historicamente pouco representada em espaços públicos oficiais da cidade.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Segundo o texto, qual é a função social atribuída aos murais para além da estética?",
                          "alternativas":  {
-                                              "a":  "Substituir integralmente os monumentos históricos oficiais já existentes em toda a cidade.",
-                                              "b":  "Conferir visibilidade simbólica a uma população pouco representada em espaços públicos oficiais da cidade.",
-                                              "c":  "Aumentar exclusivamente o valor imobiliário dos imóveis próximos aos viadutos pintados.",
-                                              "d":  "Registrar a memória arquitetônica dos edifícios antes de sua demolição.",
-                                              "e":  "Servir unicamente como propaganda para os próprios artistas responsáveis pelos murais."
+                                              "a":  "substituir os monumentos históricos oficiais existentes na cidade",
+                                              "b":  "dar visibilidade simbólica a quem é pouco representado no espaço público",
+                                              "c":  "aumentar o valor imobiliário dos imóveis próximos aos viadutos",
+                                              "d":  "registrar a memória arquitetônica dos edifícios antes da demolição",
+                                              "e":  "preservar a memória das figuras históricas locais que andavam esquecidas na cidade"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto afirma explicitamente que a intenção vai além do embelezamento, buscando \u0027devolver visibilidade simbólica\u0027 a uma população pouco representada, o que caracteriza uma função social específica além da estética.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto nomeia a intenção dos artistas: devolver presença simbólica a uma população que os monumentos oficiais nunca retrataram — e a votação popular para escolher os rostos faz parte desse gesto. Em (e) está o distrator mais forte, porque as figuras históricas esquecidas realmente aparecem nos murais; elas dividem o painel com os moradores atuais, e é a presença destes que caracteriza a função descrita. Em (a), acrescentar não é substituir. Em (c) e (d), valorização imobiliária e registro arquitetônico não são mencionados."
                      },
                      {
                          "id":  "interpretacao-texto-133",
@@ -2096,34 +2096,34 @@
                      {
                          "id":  "interpretacao-texto-134",
                          "texto_apoio":  "Escolas que atrasaram o horário de início das aulas para adolescentes, de modo a respeitar o ciclo de sono naturalmente mais tardio característico dessa faixa etária, relataram queda na taxa de faltas e melhora no desempenho em avaliações no primeiro horário, segundo levantamento de secretarias de educação em três países que adotaram a medida experimentalmente.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a relação de causa e efeito sugerida pelo texto entre o novo horário escolar e os resultados observados?",
                          "alternativas":  {
-                                              "a":  "O atraso no horário reduziu o número de faltas, mas sem efeito mensurável sobre o desempenho.",
-                                              "b":  "O atraso no horário de início das aulas está associado à queda nas faltas e à melhora no desempenho no primeiro horário.",
-                                              "c":  "A medida foi adotada, mas nenhum país registrou qualquer mudança nos indicadores escolares avaliados.",
-                                              "d":  "Não existe, segundo o levantamento, nenhuma relação entre horário escolar e desempenho dos alunos.",
-                                              "e":  "O atraso no horário de início das aulas de fato sempre piorou o desempenho dos adolescentes nas avaliações do primeiro horário."
+                                              "a":  "o atraso reduziu as faltas, mas sem efeito sobre o desempenho",
+                                              "b":  "o atraso está associado à queda nas faltas e à melhora no desempenho",
+                                              "c":  "a medida foi adotada, mas nenhum país registrou mudança nos indicadores",
+                                              "d":  "não há, segundo o levantamento, relação entre horário e desempenho",
+                                              "e":  "o atraso no horário piorou o desempenho dos adolescentes nas avaliações"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O texto associa diretamente o ajuste de horário ao ciclo de sono adolescente com dois efeitos positivos relatados (queda de faltas e melhora de desempenho), sustentando uma relação de causa e efeito entre a medida e os resultados observados.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O levantamento registra dois resultados na mesma direção, e a alternativa correta recolhe os dois sem exagerar o vínculo — o texto fala em relato de escolas, e associação é o quanto se pode afirmar. Em (a) está a leitura parcial, que fica com metade do achado e descarta a outra sem razão no texto. Em (e), a direção do efeito está invertida. Em (c) e (d), a ausência de mudança contraria o que o levantamento apurou nos três países."
                      },
                      {
                          "id":  "interpretacao-texto-135",
                          "texto_apoio":  "Bairros com forte concentração de bares, restaurantes e casas de show costumam registrar aumento na arrecadação de impostos municipais e geração de empregos noturnos, mas também concentram reclamações recorrentes de moradores sobre poluição sonora e insegurança nas primeiras horas da madrugada, criando um dilema recorrente para gestões municipais sobre como equilibrar economia noturna e qualidade de vida residencial.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual dilema o texto atribui à concentração de estabelecimentos noturnos em determinados bairros?",
                          "alternativas":  {
-                                              "a":  "A ausência completa de qualquer benefício econômico gerado pela presença de bares e casas de show na região.",
-                                              "b":  "A escolha entre proibir totalmente o funcionamento de bares e restaurantes ou fechar toda a economia noturna da cidade.",
-                                              "c":  "A inexistência de qualquer reclamação por parte dos moradores que vivem nesses bairros mais noturnos.",
-                                              "d":  "A necessidade de equilibrar os ganhos econômicos e de emprego da economia noturna com os impactos sobre a qualidade de vida dos moradores.",
-                                              "e":  "A escolha entre concentrar os estabelecimentos num único bairro ou distribuí-los por toda a cidade."
+                                              "a":  "a ausência de benefício econômico gerado pelos bares e casas de show",
+                                              "b":  "a escolha entre proibir os bares ou fechar a economia noturna inteira",
+                                              "c":  "a inexistência de reclamação por parte dos moradores desses bairros",
+                                              "d":  "equilibrar o ganho econômico com a qualidade de vida dos moradores",
+                                              "e":  "a escolha entre concentrar os estabelecimentos ou distribuí-los pela cidade"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto descreve dois efeitos opostos e simultâneos (ganho econômico e de emprego versus incômodo e insegurança para moradores), configurando explicitamente um dilema de equilíbrio, não uma escolha extrema entre proibição total e ausência de regulação.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O dilema tem os dois lados no próprio texto: imposto e emprego de um lado, ruído e insegurança de outro, ambos reais e no mesmo bairro. Por isso é dilema, e não problema com solução óbvia. Em (e) está o distrator mais plausível, porque distribuir ou concentrar é uma decisão urbanística verdadeira — só que o texto não a apresenta, e ela seria uma resposta ao dilema, não o dilema. Em (b), proibir tudo é radicalização de um dos lados. Em (a) e (c), negar o benefício econômico ou as reclamações elimina metade do impasse."
                      },
                      {
                          "id":  "interpretacao-texto-136",
@@ -2192,18 +2192,18 @@
                      {
                          "id":  "interpretacao-texto-140",
                          "texto_apoio":  "Plataformas de terapia online reduziram, para muitos usuários, barreiras como custo, deslocamento e falta de profissionais especializados na própria cidade. Psicólogos ouvidos por uma reportagem, porém, ponderam que o formato pode não ser adequado a todos os quadros clínicos, especialmente casos que exigem intervenção presencial mais próxima e acompanhamento contínuo de outros profissionais de saúde.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Qual é a estrutura argumentativa predominante no texto sobre a terapia online?",
                          "alternativas":  {
-                                              "a":  "Uma comparação exclusivamente de custos entre terapia online e presencial, sem outros critérios.",
-                                              "b":  "Uma defesa da terapia online restrita aos casos em que não exista serviço presencial disponível.",
-                                              "c":  "Uma rejeição total e categórica da terapia online, sem qualquer menção a alguma vantagem prática desse formato de atendimento.",
-                                              "d":  "Uma defesa unilateral e sem ressalvas da terapia online como solução completa para todos os casos.",
-                                              "e":  "Um reconhecimento dos benefícios de acesso da terapia online, ponderado por uma ressalva sobre suas limitações clínicas."
+                                              "a":  "uma comparação de custos entre terapia online e presencial, sem outro critério",
+                                              "b":  "uma defesa da terapia online restrita a onde falta serviço presencial",
+                                              "c":  "uma rejeição categórica da terapia online, sem menção a vantagem alguma",
+                                              "d":  "uma defesa sem ressalvas da terapia online como solução para todos os casos",
+                                              "e":  "reconhecimento dos benefícios de acesso, ponderado por ressalva clínica"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto apresenta benefícios concretos (custo, deslocamento, acesso) e, em seguida, introduz uma ressalva de especialistas sobre limitações em certos quadros clínicos, configurando uma argumentação equilibrada, não uma defesa ou rejeição unilateral.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A estrutura é de concessão seguida de ressalva, marcada pelo porém: primeiro o ganho de acesso, depois o limite clínico, sem que um anule o outro. Em (b) está a leitura que estreita demais a concessão — o texto reconhece a redução de custo e de deslocamento para muitos usuários, e não apenas para quem não tem serviço presencial disponível. Em (c) e (d), a rejeição categórica e a defesa sem ressalvas são os dois extremos que o texto evita. Em (a), o custo é uma das barreiras citadas, e não o critério único."
                      },
                      {
                          "id":  "interpretacao-texto-141",

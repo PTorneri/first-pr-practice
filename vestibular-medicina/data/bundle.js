@@ -724,6 +724,369 @@ window.QUESTION_BANKS = {
                          "resposta":  "c",
                          "explicacao":  "O pico de LH, acompanhado de elevação de FSH, dispara a ovulação por volta do décimo quarto dia. O folículo rompido se transforma em corpo lúteo, que secreta progesterona e mantém o endométrio. O corpo albicans de (e) é o estágio posterior de regressão do corpo lúteo, quando não há gestação.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-49",
+                         "textoId":  "med-bio-t4",
+                         "enunciado":  "Segundo o texto, a terapia aprovada para anemia falciforme atua de modo indireto porque:",
+                         "alternativas":  {
+                                              "a":  "desliga o gene que reprime a hemoglobina fetal, cuja produção retomada compensa a proteína defeituosa do paciente",
+                                              "b":  "substitui a timina original por adenina no ponto exato em que a mutação ocorreu, restaurando a sequência normal do gene",
+                                              "c":  "insere uma cópia adicional do gene da hemoglobina adulta em outro cromossomo, elevando a produção total da proteína funcional",
+                                              "d":  "impede a polimerização da hemoglobina defeituosa por meio de uma proteína sintética introduzida junto com a enzima de corte",
+                                              "e":  "corrige a mutação nas células germinativas do paciente, o que faz a alteração beneficiar também a sua futura descendência"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O texto é explícito: a terapia não corrige a mutação original, e sim desliga o gene que reprime a hemoglobina fetal depois do nascimento. Sem o freio, a forma fetal volta a ser produzida e não polimeriza. A alternativa (e) contraria o último parágrafo, que restringe a edição às células somáticas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-50",
+                         "textoId":  "med-bio-t4",
+                         "enunciado":  "A distinção que o texto apresenta como fronteira central do debate ético sobre a técnica é a que separa:",
+                         "alternativas":  {
+                                              "a":  "terapias caras de terapias acessíveis, questão que determina quais pacientes conseguem de fato ter acesso ao tratamento aprovado",
+                                              "b":  "a edição de células somáticas da edição da linhagem germinativa, porque só a segunda é transmitida à descendência",
+                                              "c":  "doenças causadas por um único gene daquelas que resultam da interação entre muitos genes e fatores ambientais diversos",
+                                              "d":  "o uso da técnica em bactérias, onde o mecanismo se originou, do uso em células humanas retiradas e depois devolvidas ao paciente",
+                                              "e":  "a correção da mutação original da ativação de um gene compensatório, estratégias com resultados clínicos bastante diferentes entre si"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O texto encerra apontando que editar células somáticas altera apenas o indivíduo tratado, enquanto editar a linhagem germinativa modificaria também seus descendentes — e é essa diferença que ele nomeia como fronteira do debate ético. As demais alternativas trazem distinções mencionadas ou plausíveis, mas não a apontada como central.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-51",
+                         "texto_apoio":  "Um gráfico relaciona a velocidade de uma reação catalisada por enzima com a temperatura do meio. A curva sobe até um valor máximo em torno de 37 °C e, a partir daí, cai de forma abrupta, chegando a zero por volta de 60 °C. Um segundo gráfico, para a mesma enzima, mostra comportamento semelhante em relação ao pH.",
+                         "enunciado":  "A queda abrupta da velocidade acima da temperatura ótima é explicada pela:",
+                         "alternativas":  {
+                                              "a":  "redução da energia cinética das moléculas, que diminui a frequência de colisões entre a enzima e o substrato disponível no meio",
+                                              "b":  "saturação de todos os sítios ativos pelo substrato, condição em que a adição de mais reagente não eleva a velocidade da reação",
+                                              "c":  "desnaturação da enzima, que perde a conformação do sítio ativo e deixa de reconhecer o substrato",
+                                              "d":  "ligação de um inibidor competitivo ao sítio ativo, favorecida pelo aumento da agitação térmica das moléculas em solução",
+                                              "e":  "conversão da enzima em substrato de outra reação, processo que se torna espontâneo acima da faixa de temperatura ótima"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Enzimas são proteínas, e a atividade depende da conformação tridimensional do sítio ativo. Temperaturas acima da ótima rompem as interações que sustentam essa estrutura: a enzima desnatura e a catálise cessa. A alternativa (a) descreve o que ocorre abaixo da ótima, quando a curva sobe, e não a queda observada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-52",
+                         "texto_apoio":  "Uma tabela apresenta o local de ação, o pH ótimo e o substrato de quatro enzimas do sistema digestório humano: pepsina, amilase salivar, tripsina e lipase pancreática.",
+                         "enunciado":  "A pepsina e a amilase salivar atuam, respectivamente, sobre:",
+                         "alternativas":  {
+                                              "a":  "lipídios em meio ácido e proteínas em meio alcalino, ambas atuando no interior do estômago durante a fase gástrica da digestão",
+                                              "b":  "proteínas em meio alcalino e amido em meio ácido, o que explica a inativação de ambas ao chegarem ao duodeno após a refeição",
+                                              "c":  "amido em meio ácido e proteínas em meio neutro, sendo a segunda secretada pelas glândulas salivares junto com a saliva",
+                                              "d":  "proteínas em meio ácido e amido em meio próximo do neutro",
+                                              "e":  "lipídios em meio neutro e proteínas em meio ácido, condição encontrada respectivamente na boca e no estômago do indivíduo"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A pepsina é secretada no estômago e tem pH ótimo em torno de 2, atuando sobre proteínas. A amilase salivar age na boca, em pH próximo do neutro, sobre o amido — e é inativada ao chegar ao estômago justamente pela acidez. As demais alternativas trocam substratos, pH ou local de ação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-53",
+                         "texto_apoio":  "Um esquema compara a circulação sanguínea de um peixe, de um anfíbio adulto e de um mamífero. No peixe, o sangue passa uma única vez pelo coração a cada volta completa. No anfíbio, há duas passagens, mas os átrios desembocam num único ventrículo. No mamífero, há duas passagens e quatro cavidades completamente separadas.",
+                         "enunciado":  "As circulações do peixe, do anfíbio e do mamífero são classificadas, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "dupla e incompleta, simples, dupla e completa, o que corresponde à ordem crescente de eficiência na oxigenação dos tecidos",
+                                              "b":  "simples, dupla e completa, dupla e incompleta, sequência que acompanha a conquista progressiva do ambiente terrestre",
+                                              "c":  "dupla e completa, dupla e incompleta, simples, arranjo que reflete a ordem de surgimento dos três grupos ao longo da evolução",
+                                              "d":  "simples, simples, dupla e completa, já que a presença de um único ventrículo no anfíbio o aproxima do padrão observado nos peixes",
+                                              "e":  "simples, dupla e incompleta, dupla e completa"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "No peixe o sangue passa uma vez pelo coração por volta completa: circulação simples. No anfíbio há dois circuitos, mas o ventrículo único permite mistura parcial: dupla e incompleta. No mamífero os dois circuitos são totalmente separados: dupla e completa. A alternativa (d) ignora que o anfíbio tem dois circuitos, ainda que com mistura.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-54",
+                         "texto_apoio":  "Dois genes, A e B, situam-se no mesmo cromossomo. Num cruzamento-teste envolvendo um indivíduo duplo-heterozigoto, foram obtidos 820 descendentes com os fenótipos parentais e 180 com fenótipos recombinantes, num total de mil indivíduos analisados.",
+                         "enunciado":  "A distância entre os dois genes, em unidades de mapa, e o processo que originou os descendentes recombinantes são:",
+                         "alternativas":  {
+                                              "a":  "18 unidades, e a permuta entre cromátides homólogas durante a prófase I",
+                                              "b":  "82 unidades, e a segregação independente dos dois genes durante a anáfase I da primeira divisão meiótica do indivíduo",
+                                              "c":  "18 unidades, e a não disjunção dos cromossomos homólogos durante a formação dos gametas do indivíduo duplo-heterozigoto",
+                                              "d":  "36 unidades, e a permuta entre cromátides irmãs de um mesmo cromossomo, ocorrida antes do pareamento dos homólogos",
+                                              "e":  "9 unidades, e a mutação espontânea em um dos dois genes durante a replicação do material genético que antecede a meiose"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A frequência de recombinação é 180 em 1.000, ou 18%, e cada ponto percentual equivale a uma unidade de mapa: 18 unidades. Os recombinantes surgem da permuta entre cromátides de cromossomos homólogos na prófase I. A alternativa (b) usaria a frequência dos parentais, e a permuta entre cromátides irmãs de (d) não gera recombinação detectável.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-55",
+                         "texto_apoio":  "O daltonismo para verde e vermelho é determinado por um alelo recessivo situado na porção não homóloga do cromossomo X. Um casal formado por um homem de visão normal e uma mulher de visão normal, filha de pai daltônico, planeja ter filhos.",
+                         "enunciado":  "A probabilidade de o casal ter uma criança daltônica e o sexo dessa criança são:",
+                         "alternativas":  {
+                                              "a":  "1/2, e a criança poderá ser tanto do sexo masculino quanto do feminino, já que ambos os pais carregam o alelo recessivo em questão",
+                                              "b":  "1/4, e a criança será necessariamente do sexo masculino",
+                                              "c":  "1/4, e a criança será necessariamente do sexo feminino, pois precisaria receber um alelo recessivo de cada um dos dois genitores",
+                                              "d":  "1/8, e a criança poderá ser de qualquer sexo, dependendo de qual dos cromossomos sexuais paternos participar da fecundação",
+                                              "e":  "zero, uma vez que o pai apresenta visão normal e não teria como transmitir o alelo do daltonismo a nenhum de seus descendentes"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A mulher é obrigatoriamente portadora, pois recebeu do pai daltônico um X com o alelo. O homem, de visão normal, tem o X normal. Filhas recebem o X paterno normal e não manifestam; filhos recebem X da mãe, com metade de chance de ser o afetado. Metade dos filhos são meninos, e metade deles é daltônica: 1/4 do total, sempre do sexo masculino.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-56",
+                         "texto_apoio":  "Um cariótipo apresenta 47 cromossomos, com três cópias do cromossomo 21. Outro, também com 47 cromossomos, mostra a constituição sexual XXY. Um terceiro apresenta 45 cromossomos, com uma única cópia do cromossomo X e ausência do segundo cromossomo sexual.",
+                         "enunciado":  "As três condições descritas são denominadas, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "síndrome de Turner, síndrome de Down e síndrome de Klinefelter, todas resultantes de erros ocorridos na primeira divisão meiótica",
+                                              "b":  "síndrome de Klinefelter, síndrome de Turner e síndrome de Down, sendo as três decorrentes de alterações estruturais nos cromossomos",
+                                              "c":  "síndrome de Down, síndrome de Klinefelter e síndrome de Turner",
+                                              "d":  "trissomia do 21, monossomia do X e trissomia sexual, nomes que se referem à quantidade de material genético e não às síndromes",
+                                              "e":  "síndrome de Down, síndrome de Turner e síndrome de Klinefelter, condições cuja origem comum é a duplicação de um segmento cromossômico"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Trissomia do 21 corresponde à síndrome de Down; a constituição XXY, à síndrome de Klinefelter; a monossomia do X, à síndrome de Turner. As três são aneuploidias, causadas por não disjunção na meiose — e não por alterações estruturais ou duplicações de segmento, como afirmam (b) e (e).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-57",
+                         "texto_apoio":  "Um esquema representa o ciclo de vida de um verme platelminto. O ser humano ingere carne malpassada contendo larvas e desenvolve o verme adulto no intestino. Em outra via, o ser humano ingere ovos eliminados nas fezes de uma pessoa parasitada e as larvas se alojam em tecidos, inclusive no sistema nervoso.",
+                         "enunciado":  "As duas condições descritas e a medida de prevenção específica da segunda via são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "cisticercose e teníase, sendo a prevenção da segunda a inspeção sanitária rigorosa da carne suína e bovina comercializada",
+                                              "b":  "teníase e cisticercose, e a prevenção da segunda depende de saneamento e higiene, e não do cozimento da carne",
+                                              "c":  "teníase e ascaridíase, e a prevenção da segunda se faz pelo uso de calçados, já que a larva penetra ativamente pela pele dos pés",
+                                              "d":  "esquistossomose e teníase, sendo a prevenção da segunda o combate aos caramujos que atuam como hospedeiros intermediários do parasita",
+                                              "e":  "cisticercose e esquistossomose, e a prevenção da segunda exige evitar o contato com águas de coleções onde vivem os hospedeiros"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Ingerir carne com cisticercos leva à teníase, com o verme adulto no intestino. Ingerir ovos leva à cisticercose, em que as larvas migram para tecidos — inclusive o nervoso, na neurocisticercose. Como a via da cisticercose é fecal-oral, cozinhar a carne não previne: o que previne é saneamento e higiene das mãos e dos alimentos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-58",
+                         "texto_apoio":  "Uma figura compara três padrões de seleção natural atuando sobre a distribuição de um caractere quantitativo numa população. No padrão I, os extremos são eliminados e a variância diminui. No padrão II, um dos extremos é favorecido e a média se desloca. No padrão III, os dois extremos são favorecidos em detrimento dos valores intermediários.",
+                         "enunciado":  "Os padrões I, II e III correspondem, respectivamente, à seleção:",
+                         "alternativas":  {
+                                              "a":  "direcional, disruptiva e estabilizadora, sendo esta última a responsável pela manutenção do peso ao nascer na espécie humana",
+                                              "b":  "disruptiva, estabilizadora e direcional, sequência que acompanha o aumento progressivo da variabilidade genética da população",
+                                              "c":  "estabilizadora, disruptiva e direcional, sendo a segunda a que pode conduzir a população ao surgimento de duas espécies distintas",
+                                              "d":  "direcional, estabilizadora e disruptiva, padrões que atuam sempre em conjunto sobre qualquer caractere de herança quantitativa",
+                                              "e":  "estabilizadora, direcional e disruptiva"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Eliminar os extremos e reduzir a variância é seleção estabilizadora, exemplificada pelo peso ao nascer. Favorecer um extremo e deslocar a média é seleção direcional, como na resistência a inseticidas. Favorecer os dois extremos contra os intermediários é seleção disruptiva, que pode levar à divergência da população em dois grupos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-59",
+                         "texto_apoio":  "Uma tempestade levou poucos indivíduos de uma espécie continental de ave para uma ilha distante, onde eles fundaram uma nova população. Décadas depois, verificou-se que a frequência de certos alelos raros nessa população insular é muito superior à observada na população de origem, sem que houvesse vantagem adaptativa associada a eles.",
+                         "enunciado":  "O processo evolutivo que melhor explica a situação descrita é:",
+                         "alternativas":  {
+                                              "a":  "o efeito fundador, em que a amostra pequena que originou a nova população não representa as frequências alélicas da original",
+                                              "b":  "a seleção natural direcional, que teria favorecido justamente os portadores dos alelos raros nas condições ambientais da ilha",
+                                              "c":  "o fluxo gênico contínuo entre a ilha e o continente, capaz de elevar a frequência de alelos raros na população recém-estabelecida",
+                                              "d":  "a irradiação adaptativa, processo pelo qual um grupo se diversifica rapidamente ao ocupar nichos ecológicos ainda desocupados",
+                                              "e":  "a convergência adaptativa entre as duas populações, resultante de pressões seletivas semelhantes atuando nos dois ambientes"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Quando poucos indivíduos fundam uma população, os alelos que eles por acaso carregam ficam super-representados — é deriva genética na modalidade efeito fundador. O enunciado exclui explicitamente a vantagem adaptativa, o que descarta (b). Fluxo gênico exigiria troca continuada com o continente, que a distância torna improvável.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-60",
+                         "texto_apoio":  "Um esquema mostra o ciclo de vida de uma pteridófita e o de uma angiosperma. Nos dois há alternância entre uma fase haploide, produtora de gametas, e uma fase diploide, produtora de esporos. A proporção entre as duas fases, porém, é bastante diferente em cada grupo.",
+                         "enunciado":  "Sobre a fase predominante e a dependência de água para a fecundação nos dois grupos, é correto afirmar que:",
+                         "alternativas":  {
+                                              "a":  "nos dois grupos predomina o gametófito, e apenas a angiosperma dispensa a água, graças ao tubo polínico que conduz os gametas",
+                                              "b":  "na pteridófita predomina o esporófito e há dependência de água; na angiosperma predomina o esporófito e não há tal dependência",
+                                              "c":  "na pteridófita predomina o gametófito e não há dependência de água; na angiosperma predomina o esporófito e a dependência persiste",
+                                              "d":  "nos dois grupos predomina o esporófito, e ambos dependem de água para que o gameta masculino alcance o feminino durante a fecundação",
+                                              "e":  "na pteridófita predomina o esporófito e não há dependência de água; na angiosperma predomina o gametófito, que produz o tubo polínico"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Nos dois grupos a planta visível é o esporófito diploide. A diferença está na fecundação: a pteridófita tem anterozoide flagelado, que precisa de lâmina de água para nadar até a oosfera, enquanto a angiosperma conduz os gametas pelo tubo polínico e por isso independe de água — uma das chaves da conquista de ambientes secos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-61",
+                         "texto_apoio":  "A teoria da coesão-tensão explica a ascensão da seiva bruta desde as raízes até as folhas de uma árvore alta, sem que haja bombeamento ativo em nenhum ponto do trajeto.",
+                         "enunciado":  "Segundo essa teoria, a força que puxa a coluna de água para cima é gerada ______, e a continuidade da coluna se mantém graças ______, sendo o tecido condutor envolvido o ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "pela pressão positiva das raízes – à ação de bombas de prótons da endoderme – floema",
+                                              "b":  "pela transpiração nas folhas – às pontes de hidrogênio entre moléculas de água – floema",
+                                              "c":  "pela transpiração nas folhas – às pontes de hidrogênio entre moléculas de água – xilema",
+                                              "d":  "pela pressão positiva das raízes – à diferença de concentração de sacarose entre fonte e dreno – xilema",
+                                              "e":  "pela gravidade sobre a seiva elaborada – às pontes dissulfeto entre proteínas da parede – floema"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A evaporação de água nas folhas cria tensão que se transmite por toda a coluna. A coesão entre moléculas de água, por pontes de hidrogênio, impede que a coluna se rompa, e a adesão às paredes do vaso ajuda a sustentá-la. O tecido é o xilema. A diferença de sacarose entre fonte e dreno explica o transporte no floema, e não no xilema.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-62",
+                         "texto_apoio":  "Uma tabela compara três grupos de artrópodes quanto ao número de pares de pernas locomotoras, à divisão do corpo e à presença de antenas.",
+                         "enunciado":  "Os insetos apresentam ______ pares de pernas e corpo dividido em ______, enquanto os aracnídeos apresentam ______ pares de pernas e não possuem antenas. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "quatro – cefalotórax e abdome – três",
+                                              "b":  "três – cabeça, tórax e abdome – cinco",
+                                              "c":  "cinco – cefalotórax e abdome – quatro",
+                                              "d":  "três – cabeça, tórax e abdome – quatro",
+                                              "e":  "quatro – cabeça, tórax e abdome – cinco"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Insetos têm três pares de pernas, um par de antenas e corpo dividido em cabeça, tórax e abdome. Aracnídeos têm quatro pares de pernas, não têm antenas e o corpo se divide em cefalotórax e abdome. Cinco pares de pernas e dois pares de antenas caracterizam os crustáceos, e não os grupos citados na questão.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "biologia-63",
+                         "texto_apoio":  "Um esquema mostra dois destinos possíveis para um bacteriófago que infecta uma bactéria. Na via I, o material genético viral é replicado e novas partículas são montadas, com posterior rompimento da célula. Na via II, o material genético viral se integra ao cromossomo bacteriano e é replicado junto com ele ao longo de várias gerações.",
+                         "enunciado":  "As vias I e II correspondem, respectivamente, aos ciclos ______ e ______, e a transferência de genes bacterianos de uma célula a outra por meio do vírus denomina-se ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "lisogênico – lítico – conjugação",
+                                              "b":  "lítico – lisogênico – transformação",
+                                              "c":  "lítico – lisogênico – transdução",
+                                              "d":  "lisogênico – lítico – transdução",
+                                              "e":  "lítico – lisogênico – conjugação"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A via que monta partículas e rompe a célula é o ciclo lítico; a que integra o genoma viral ao cromossomo bacteriano é o lisogênico. Quando o vírus carrega, por engano, um trecho de DNA da bactéria hospedeira para outra célula, o processo é transdução. Conjugação envolve contato direto entre bactérias, e transformação, captação de DNA livre do meio.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-64",
+                         "texto_apoio":  "Um paciente apresenta contagem muito reduzida de um tipo específico de linfócito, o que compromete tanto a resposta mediada por células quanto a produção adequada de anticorpos, embora esse linfócito não seja o produtor direto dessas moléculas.",
+                         "enunciado":  "O tipo celular reduzido e a razão pela qual sua falta afeta também a produção de anticorpos são:",
+                         "alternativas":  {
+                                              "a":  "linfócito T auxiliar, porque ele ativa os linfócitos B e é necessário à sua diferenciação em plasmócitos",
+                                              "b":  "linfócito B, porque ele se diferencia em plasmócitos e ao mesmo tempo apresenta antígenos aos macrófagos do tecido linfoide",
+                                              "c":  "macrófago, porque essa célula fagocita o antígeno e, além disso, secreta diretamente os anticorpos na corrente sanguínea",
+                                              "d":  "linfócito T citotóxico, porque ele destrói células infectadas e também converte antígenos em formas reconhecíveis pelos plasmócitos",
+                                              "e":  "célula natural killer, porque atua na resposta inata e transmite aos linfócitos B a informação necessária à síntese dos anticorpos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O linfócito T auxiliar coordena a resposta adaptativa: ativa T citotóxicos e macrófagos e fornece aos linfócitos B o sinal necessário para que se diferenciem em plasmócitos produtores de anticorpos. Sua queda derruba os dois braços da resposta, e é o que ocorre na infecção pelo HIV, cujo alvo é justamente essa célula.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-65",
+                         "texto_apoio":  "Um gráfico mostra a concentração atmosférica de gás carbônico medida continuamente num observatório de altitude ao longo de seis décadas. A curva apresenta oscilações anuais regulares, com queda durante a primavera e o verão do hemisfério norte e elevação no outono e no inverno, sobrepostas a uma tendência de aumento contínuo ao longo de todo o período.",
+                         "enunciado":  "As oscilações anuais e a tendência de aumento no longo prazo decorrem, respectivamente, de:",
+                         "alternativas":  {
+                                              "a":  "variações na atividade vulcânica ao longo do ano e do aumento da população mundial ao longo das décadas analisadas no gráfico",
+                                              "b":  "variação sazonal da fotossíntese da vegetação terrestre e da queima de combustíveis fósseis somada ao desmatamento",
+                                              "c":  "mudanças na temperatura média do oceano entre as estações e da redução progressiva da capacidade de absorção das águas oceânicas",
+                                              "d":  "alternância entre as estações no hemisfério sul e do aumento das emissões de metano provenientes da pecuária em escala industrial",
+                                              "e":  "oscilação da atividade solar em ciclos regulares e do acúmulo de material particulado na alta atmosfera ao longo dos anos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A maior parte da vegetação terrestre está no hemisfério norte: durante sua primavera e verão a fotossíntese retira gás carbônico do ar, e no outono e inverno a respiração e a decomposição predominam — daí a oscilação anual. A tendência de alta ao longo das décadas vem da queima de combustíveis fósseis e do desmatamento.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-66",
+                         "texto_apoio":  "Uma figura apresenta o perfil de vegetação de dois biomas brasileiros. No primeiro, predominam árvores de casca grossa, troncos tortuosos e raízes profundas, sobre solo ácido e pobre em nutrientes. No segundo, a vegetação é composta por plantas de porte reduzido, muitas com espinhos, folhas modificadas e caules capazes de armazenar água.",
+                         "enunciado":  "Os dois biomas descritos e a adaptação que explica o segundo conjunto de características são:",
+                         "alternativas":  {
+                                              "a":  "Pantanal e Caatinga, e as adaptações do segundo bioma reduzem a absorção de água em períodos de alagamento prolongado do terreno",
+                                              "b":  "Cerrado e Pampa, e as adaptações do segundo respondem às baixas temperaturas registradas durante o inverno na região sul do país",
+                                              "c":  "Cerrado e Caatinga, e as adaptações do segundo reduzem a perda de água por transpiração num regime de chuvas escasso",
+                                              "d":  "Mata Atlântica e Cerrado, e as adaptações do segundo bioma protegem a vegetação contra a alta incidência de raios ultravioleta",
+                                              "e":  "Caatinga e Cerrado, e as adaptações do segundo permitem que a vegetação sobreviva às queimadas naturais frequentes na região"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Casca grossa, tortuosidade e raízes profundas em solo ácido caracterizam o Cerrado, cuja casca espessa é associada à resistência ao fogo. Porte reduzido, espinhos e caules suculentos caracterizam a Caatinga, e essas adaptações reduzem a superfície de transpiração e armazenam água num regime semiárido.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-67",
+                         "texto_apoio":  "Duas amostras de tecido vegetal foram colocadas em soluções distintas. Após uma hora, as células da amostra I apresentavam a membrana plasmática descolada da parede celular, com o citoplasma retraído. As células da amostra II mantinham a membrana justaposta à parede e apresentavam vacúolo bem desenvolvido.",
+                         "enunciado":  "As soluções em que as amostras I e II foram colocadas eram, em relação ao suco celular, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "hipotônica e hipertônica, sendo o descolamento da membrana na amostra I consequência da entrada excessiva de água nas células",
+                                              "b":  "isotônica e hipertônica, situação em que apenas a segunda amostra apresentaria alteração perceptível no volume de suas células",
+                                              "c":  "hipertônica e isotônica, condições que produziriam turgor máximo na primeira amostra e nenhuma alteração visível na segunda",
+                                              "d":  "hipotônica e isotônica, já que a saída de água das células da amostra I decorreria da menor concentração do meio externo",
+                                              "e":  "hipertônica e hipotônica"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Membrana descolada da parede com citoplasma retraído é plasmólise, resultado da saída de água para um meio hipertônico. Células com membrana justaposta à parede e vacúolo desenvolvido estão túrgidas, o que ocorre em meio hipotônico. As alternativas (a) e (d) invertem o sentido do fluxo osmótico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-68",
+                         "texto_apoio":  "Frutos climatéricos, como banana e tomate, continuam amadurecendo depois de colhidos. Produtores costumam transportá-los ainda verdes e, no destino, expô-los a um gás em câmaras fechadas para acelerar o processo de maneira controlada.",
+                         "enunciado":  "O hormônio vegetal utilizado nesse procedimento e seu efeito sobre o fruto são:",
+                         "alternativas":  {
+                                              "a":  "etileno, que estimula a degradação da clorofila e a conversão do amido em açúcares solúveis",
+                                              "b":  "auxina, que promove o alongamento das células do pericarpo e com isso aumenta o volume final do fruto colhido ainda verde",
+                                              "c":  "giberelina, que interrompe a dormência das sementes e desencadeia a produção de enzimas responsáveis pela quebra das reservas",
+                                              "d":  "ácido abscísico, que induz o fechamento dos estômatos do fruto e concentra os açúcares presentes na polpa durante o transporte",
+                                              "e":  "citocinina, que estimula a divisão celular nos tecidos do fruto e retarda a senescência das folhas ligadas ao ramo frutífero"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O etileno é um hormônio gasoso que dispara o amadurecimento: degrada clorofila, converte amido em açúcares e amolece a parede celular. É por isso que uma fruta madura acelera o amadurecimento das vizinhas. Giberelina e citocinina atuam em outros processos, e o ácido abscísico está associado ao estresse hídrico e à dormência.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-69",
+                         "texto_apoio":  "Um estudo acompanhou dois grupos de camundongos geneticamente idênticos submetidos a dietas diferentes durante a gestação. A prole apresentou diferenças persistentes na expressão de determinados genes e no fenótipo adulto, sem qualquer alteração na sequência de nucleotídeos do DNA desses animais.",
+                         "enunciado":  "O mecanismo compatível com os resultados descritos envolve:",
+                         "alternativas":  {
+                                              "a":  "mutações pontuais induzidas pela dieta, transmitidas à prole e responsáveis pelas diferenças observadas na expressão dos genes",
+                                              "b":  "modificações químicas no DNA e nas histonas, como metilação, que alteram a expressão gênica sem mudar a sequência",
+                                              "c":  "recombinação gênica adicional durante a meiose, favorecida por componentes específicos presentes na dieta materna do grupo estudado",
+                                              "d":  "seleção natural atuando sobre a prole ainda no útero, o que eliminaria os embriões cujo genótipo fosse incompatível com a dieta",
+                                              "e":  "duplicação de segmentos cromossômicos nas células germinativas maternas, responsável pelo aumento da expressão dos genes envolvidos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O enunciado exclui alteração na sequência de nucleotídeos, o que descarta mutação, recombinação e duplicação. Restam as marcas epigenéticas — metilação do DNA e modificações de histonas —, que alteram o acesso da maquinaria de transcrição ao gene e podem persistir por divisões celulares e mesmo entre gerações.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-70",
+                         "texto_apoio":  "Um esquema representa a mitocôndria em corte, com destaque para as invaginações da membrana interna e para o espaço entre as duas membranas. Setas indicam o bombeamento de prótons do interior da organela para esse espaço intermembranar, e a passagem de volta desses prótons por um complexo proteico específico.",
+                         "enunciado":  "O processo representado e o papel do gradiente de prótons são:",
+                         "alternativas":  {
+                                              "a":  "ciclo de Krebs, e o gradiente fornece o substrato para as reações de descarboxilação que ocorrem na matriz da organela",
+                                              "b":  "glicólise, e o gradiente permite o transporte do piruvato do citoplasma para o interior da mitocôndria através das duas membranas",
+                                              "c":  "fosforilação oxidativa, e a energia do gradiente é usada pela ATP sintase para produzir ATP",
+                                              "d":  "fermentação lática, e o gradiente regenera o NAD+ necessário para que a via glicolítica continue funcionando no citoplasma",
+                                              "e":  "fotofosforilação, e o gradiente acumulado é dissipado na forma de calor pelas proteínas desacopladoras da membrana interna"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A cadeia transportadora de elétrons bombeia prótons para o espaço intermembranar, criando um gradiente eletroquímico. O retorno desses prótons pela ATP sintase movimenta o complexo e produz ATP — é a hipótese quimiosmótica. As cristas aumentam a superfície disponível para esse conjunto de proteínas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-71",
+                         "texto_apoio":  "Uma população de insetos foi tratada com um inseticida durante várias safras consecutivas. Nas primeiras aplicações a mortalidade foi superior a 95%; após alguns anos, a mesma dose passou a matar menos de 20% dos indivíduos, e os produtores relataram perda de eficácia do produto.",
+                         "enunciado":  "A explicação evolutiva correta para a perda de eficácia é que:",
+                         "alternativas":  {
+                                              "a":  "os insetos sobreviventes adquiriram resistência ao longo da vida e a transmitiram aos descendentes por meio de mudanças fisiológicas",
+                                              "b":  "o inseticida induziu mutações dirigidas nos genes ligados à detoxificação, produzindo variantes capazes de degradar a substância aplicada",
+                                              "c":  "a exposição repetida ao produto habituou progressivamente os organismos à substância, num processo comparável ao da tolerância a fármacos",
+                                              "d":  "as aplicações sucessivas reduziram a variabilidade genética da população, tornando todos os indivíduos igualmente resistentes ao produto",
+                                              "e":  "variantes resistentes já existiam na população, e o inseticida selecionou-as ao eliminar as sensíveis"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A variação genética precede a pressão seletiva e é independente dela. O inseticida não cria resistência: elimina os sensíveis e permite que os poucos resistentes se reproduzam, elevando a frequência do alelo a cada safra. As alternativas (a), (b) e (c) descrevem herança de caracteres adquiridos ou mutação dirigida, ambas incompatíveis com a teoria evolutiva.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-72",
+                         "texto_apoio":  "Uma tabela apresenta a composição do plasma sanguíneo, do filtrado glomerular e da urina de uma pessoa saudável. Proteínas de alto peso molecular aparecem no plasma, mas estão praticamente ausentes no filtrado. A ureia aparece nos três, com concentração muito maior na urina do que no filtrado.",
+                         "enunciado":  "A ausência de proteínas no filtrado e a concentração elevada de ureia na urina decorrem, respectivamente, de:",
+                         "alternativas":  {
+                                              "a":  "secreção ativa das proteínas de volta ao sangue e da produção adicional de ureia pelas células dos túbulos renais durante a passagem do filtrado",
+                                              "b":  "degradação das proteínas por enzimas do glomérulo e da reabsorção seletiva de ureia nas porções finais do néfron antes da excreção",
+                                              "c":  "seletividade da barreira glomerular por tamanho e da reabsorção de água ao longo dos túbulos",
+                                              "d":  "ligação das proteínas a transportadores da cápsula renal e do bloqueio completo da reabsorção de ureia pelas células tubulares do néfron",
+                                              "e":  "precipitação das proteínas no interior dos capilares glomerulares e da secreção tubular de ureia a partir do sangue peritubular"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A barreira glomerular filtra por tamanho e carga: proteínas grandes não passam, e sua presença na urina é sinal de lesão renal. A ureia é filtrada e apenas parcialmente reabsorvida, mas a água é reabsorvida em proporção muito maior ao longo dos túbulos — o soluto se concentra por retirada de solvente, e não por adição de soluto.",
+                         "formato":  "direta"
                      }
                  ]
 };
@@ -742,5 +1105,10 @@ window.QUESTION_TEXTS = {
                        "id":  "med-bio-t3",
                        "fonte":  "Texto original em genero de artigo de divulgacao sobre resistencia antimicrobiana",
                        "conteudo":  "A resistência a antibióticos costuma ser contada como uma história de bactérias que \u0027aprendem\u0027 a resistir. A descrição é conveniente e errada, e o erro tem consequências práticas.\n\nO que ocorre é seleção. Numa população bacteriana existem, antes de qualquer contato com o medicamento, variantes que por acaso carregam alelos capazes de neutralizá-lo — uma bomba de efluxo mais eficiente, uma enzima que degrada o fármaco, uma alteração no sítio onde ele se ligaria. Essas variantes surgem de mutações aleatórias, sem relação com a presença do antibiótico. Quando o medicamento chega, ele não cria a resistência: ele elimina as bactérias sensíveis e deixa o campo livre para as que já eram resistentes se multiplicarem.\n\nÉ por isso que interromper o tratamento assim que os sintomas melhoram é perigoso. Nesse ponto as bactérias mais sensíveis já morreram — são elas que causavam o grosso dos sintomas —, mas as intermediárias seguem vivas. Terminar o esquema é o que as alcança.\n\nHá ainda um agravante que não existe em organismos com reprodução exclusivamente vertical. Bactérias trocam material genético entre si por conjugação, transformação e transdução, e plasmídeos que carregam genes de resistência podem passar inclusive entre espécies diferentes. Uma bactéria inofensiva do intestino pode, assim, funcionar como reservatório de genes que mais tarde aparecerão num patógeno."
+                   },
+    "med-bio-t4":  {
+                       "id":  "med-bio-t4",
+                       "fonte":  "Texto original em genero de reportagem cientifica sobre edicao genetica, no registro de fonte recente usado pelas bancas",
+                       "conteudo":  "A anemia falciforme é causada por uma única troca de base no gene da hemoglobina. Um adenina vira timina, o glutamato da posição seis vira valina, e a proteína resultante polimeriza quando desoxigenada, deformando a hemácia. A doença é conhecida em detalhe molecular há mais de setenta anos, e por décadas isso não mudou nada para quem a tinha.\n\nO que mudou foi a chegada de ferramentas capazes de editar o genoma em um ponto escolhido. O sistema mais usado deriva de um mecanismo de defesa de bactérias contra vírus: uma molécula de RNA guia uma enzima até uma sequência específica do DNA, e a enzima corta ali. A célula então repara o corte, e é durante esse reparo que a alteração desejada pode ser introduzida.\n\nA primeira terapia aprovada para anemia falciforme não corrige, porém, a mutação original. Ela desliga um gene diferente — o que reprime a produção de hemoglobina fetal depois do nascimento. Sem esse freio, o paciente volta a produzir a forma fetal da proteína, que não polimeriza e compensa a hemoglobina defeituosa. É uma solução oblíqua, e funciona.\n\nHá um limite importante. A edição é feita em células retiradas do próprio paciente e depois devolvidas, o que altera apenas as células daquele indivíduo. Nada do que se faz ali é transmitido à descendência, porque as células modificadas não são as germinativas. A distinção entre editar células somáticas e editar a linhagem germinativa é a fronteira central do debate ético sobre a técnica."
                    }
 };

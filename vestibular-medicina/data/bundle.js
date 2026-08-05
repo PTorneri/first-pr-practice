@@ -2274,7 +2274,463 @@ window.QUESTION_BANKS = {
                          "explicacao":  "É o efeito Bohr. Tecidos em atividade produzem gás carbônico e ácido, baixando o pH, e geram calor: as duas condições reduzem a afinidade da hemoglobina e aumentam a liberação de oxigênio exatamente onde ele é mais necessário. Deslocamento para a direita significa menor afinidade, e não maior, o que descarta (a).",
                          "formato":  "direta"
                      }
-                 ]
+                 ],
+    "quimica":  [
+                    {
+                        "id":  "quimica-01",
+                        "textoId":  "med-qui-t1",
+                        "enunciado":  "De acordo com o texto, a chuva natural é levemente ácida porque:",
+                        "alternativas":  {
+                                             "a":  "o gás carbônico atmosférico se dissolve na água e forma ácido carbônico",
+                                             "b":  "os óxidos de nitrogênio produzidos naturalmente por descargas elétricas atingem concentrações suficientes para acidificar toda a água das nuvens",
+                                             "c":  "a água pura apresenta pH naturalmente inferior a 7 quando exposta às baixas temperaturas encontradas nas camadas mais altas da atmosfera",
+                                             "d":  "o dióxido de enxofre liberado por vulcões se dissolve e forma ácido sulfúrico em concentração suficiente para reduzir o pH da precipitação",
+                                             "e":  "a poeira mineral em suspensão reage com o vapor de água e origina compostos de caráter ácido durante a formação das gotas de chuva"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O texto atribui o pH natural de 5,6 ao equilíbrio entre gás carbônico atmosférico e água, que forma ácido carbônico — um ácido fraco. Os óxidos de enxofre e de nitrogênio de origem antrópica são responsáveis pelo desvio para valores em torno de 4, que caracteriza a chuva ácida propriamente dita.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-02",
+                        "textoId":  "med-qui-t1",
+                        "enunciado":  "A calagem, citada no texto como correção para lagos e solos acidificados, corresponde a uma reação de:",
+                        "alternativas":  {
+                                             "a":  "oxirredução, em que o cálcio adicionado transfere elétrons aos íons hidrogênio presentes em excesso no meio acidificado pela precipitação",
+                                             "b":  "neutralização, em que uma base reage com os ácidos presentes e eleva o pH do meio",
+                                             "c":  "precipitação, em que os íons hidrogênio se combinam com o carbonato e formam um sólido insolúvel que se deposita no fundo do lago",
+                                             "d":  "complexação, em que o cálcio adicionado se liga ao alumínio dissolvido e impede que ele exerça efeito tóxico sobre a fauna aquática",
+                                             "e":  "hidrólise, em que a água presente no solo reage com o carbonato de cálcio e libera íons capazes de sequestrar a acidez acumulada"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Carbonato e óxido de cálcio têm caráter básico e reagem com os ácidos presentes, elevando o pH: é neutralização. O texto reforça que se trata de tratar o sintoma — enquanto a emissão dos óxidos continuar, a correção precisa ser repetida, porque a causa da acidificação permanece.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-03",
+                        "texto_apoio":  "Uma amostra de água mineral apresenta no rótulo a informação de que contém íons bicarbonato, cálcio, magnésio e sódio dissolvidos, além de gás carbônico dissolvido sob pressão.",
+                        "enunciado":  "O ácido de que deriva o íon bicarbonato é classificado como ______, sua fórmula é ______, e o bicarbonato de sódio em água produz solução de caráter ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "diácido forte – H2SO4 – ácido",
+                                             "b":  "monoácido fraco – HCl – neutro",
+                                             "c":  "diácido fraco – H2CO3 – básico",
+                                             "d":  "triácido moderado – H3PO4 – ácido",
+                                             "e":  "monoácido forte – HNO3 – básico"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "O bicarbonato deriva do ácido carbônico, H2CO3, que possui dois hidrogênios ionizáveis e é fraco. O sal formado com uma base forte sofre hidrólise do ânion, que captura íons hidrogênio da água e libera hidroxila — daí a solução básica, motivo pelo qual o bicarbonato de sódio é usado contra acidez estomacal.",
+                        "formato":  "lacunas",
+                        "banca":  "unesp"
+                    },
+                    {
+                        "id":  "quimica-04",
+                        "texto_apoio":  "A bauxita é o principal minério de alumínio. Do beneficiamento obtém-se o óxido de alumínio, Al2O3, que é submetido a eletrólise ígnea para a produção do metal. O processo consome grande quantidade de energia elétrica, e a reciclagem da lata de alumínio economiza cerca de 95% dessa energia.",
+                        "enunciado":  "Na eletrólise ígnea do óxido de alumínio, o metal é obtido:",
+                        "alternativas":  {
+                                             "a":  "no ânodo, por perda de elétrons dos íons alumínio presentes no material fundido submetido à passagem de corrente elétrica contínua",
+                                             "b":  "no cátodo, por redução dos íons Al3+ a alumínio metálico",
+                                             "c":  "no ânodo, por oxidação dos íons óxido que se transformam em gás oxigênio e liberam o metal na forma de um depósito sólido",
+                                             "d":  "em solução aquosa, o que dispensaria a fusão do minério e reduziria substancialmente o consumo energético de todo o processo industrial",
+                                             "e":  "no cátodo, por oxidação dos íons alumínio, processo que exige a presença de um agente redutor adicionado à cuba eletrolítica"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Cátodo é o eletrodo onde ocorre redução, e o alumínio se forma quando Al3+ recebe três elétrons. A eletrólise precisa ser ígnea porque, em meio aquoso, a água seria reduzida antes do alumínio, dada a diferença de potencial. A alternativa (e) contradiz a si mesma ao associar cátodo à oxidação.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-05",
+                        "texto_apoio":  "Uma bebida gaseificada é engarrafada sob pressão de gás carbônico. Ao abrir a garrafa, observa-se liberação imediata de bolhas. Se a bebida estiver quente, a liberação é visivelmente mais intensa do que se estiver gelada.",
+                        "enunciado":  "Os dois fatores que explicam as observações descritas são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "a diminuição da pressão sobre o líquido e o aumento da temperatura, ambos reduzindo a solubilidade do gás",
+                                             "b":  "o aumento da pressão interna da garrafa e a redução da temperatura da bebida, condições que juntas favorecem a saída do gás dissolvido",
+                                             "c":  "a diminuição da pressão e a redução da temperatura, fatores que atuam no mesmo sentido de expulsar o gás carbônico da solução aquosa",
+                                             "d":  "a agitação mecânica no momento da abertura e o contato com o oxigênio do ar, que desloca o gás carbônico das posições que ele ocupava",
+                                             "e":  "o aumento do volume disponível no interior do recipiente e a evaporação parcial da água, que arrasta consigo o gás anteriormente dissolvido"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A solubilidade de gases em líquidos cresce com a pressão, conforme a lei de Henry, e diminui com a temperatura — comportamento oposto ao da maioria dos sólidos. Abrir a garrafa reduz a pressão e aquecer reduz ainda mais a solubilidade, e por isso os dois fatores empurram o gás para fora.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-06",
+                        "texto_apoio":  "Uma solução aquosa de hidróxido de sódio de concentração 0,10 mol/L é usada para titular 20,0 mL de uma solução de ácido clorídrico de concentração desconhecida. O ponto final é atingido com o consumo de 25,0 mL da base.",
+                        "enunciado":  "A concentração da solução de ácido clorídrico é de:",
+                        "alternativas":  {
+                                             "a":  "0,125 mol/L",
+                                             "b":  "0,080 mol/L",
+                                             "c":  "0,050 mol/L",
+                                             "d":  "0,200 mol/L",
+                                             "e":  "0,250 mol/L"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A reação é 1:1. A quantidade de base é 0,10 mol/L x 0,0250 L = 2,5 x 10⁻³ mol, igual à quantidade de ácido presente. Dividindo pelo volume de ácido: 2,5 x 10⁻³ mol ÷ 0,0200 L = 0,125 mol/L. A alternativa (b) resulta de inverter a razão entre os volumes.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-07",
+                        "texto_apoio":  "Um sinalizador de fumaça de embarcação contém clorato de sódio, que se decompõe quando aquecido segundo a equação: 2 NaClO3 → 2 NaCl + 3 O2. Considere as massas molares: NaClO3 = 106,5 g/mol e O2 = 32 g/mol.",
+                        "enunciado":  "A massa de clorato de sódio necessária para produzir 48 g de oxigênio é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "71 g",
+                                             "b":  "107 g",
+                                             "c":  "160 g",
+                                             "d":  "213 g",
+                                             "e":  "320 g"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "48 g de O2 correspondem a 1,5 mol. Pela estequiometria, 3 mol de O2 vêm de 2 mol de NaClO3, então 1,5 mol de O2 exige 1,0 mol de NaClO3, ou 106,5 g. A alternativa (c) resulta de usar a proporção invertida, e (d) de esquecer de converter a massa de oxigênio em quantidade de matéria.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-08",
+                        "texto_apoio":  "Um descalcificante doméstico usado para remover incrustações do interior de eletrodomésticos tem como princípio ativo o ácido cítrico. As incrustações são formadas principalmente por carbonato de cálcio, depositado a partir de águas com alta dureza.",
+                        "enunciado":  "A remoção da incrustação pelo ácido cítrico ocorre porque a reação entre eles produz:",
+                        "alternativas":  {
+                                             "a":  "um sal insolúvel que se desprende da superfície por diferença de densidade em relação ao material do qual o eletrodoméstico é fabricado",
+                                             "b":  "hidróxido de cálcio, composto de elevada solubilidade que se dissolve na água quente presente no interior do aparelho durante o uso",
+                                             "c":  "um sal solúvel, água e gás carbônico, o que dissolve o depósito",
+                                             "d":  "cal virgem e vapor de água, produtos que se desprendem sob a forma de gás durante o aquecimento do equipamento em funcionamento",
+                                             "e":  "carbonato ácido de cálcio no estado sólido, mais friável que o carbonato original e por isso removível com escovação mecânica leve"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A reação entre um ácido e um carbonato produz sal, água e gás carbônico — a efervescência observada. O citrato de cálcio formado é solúvel, e é essa solubilização que remove a incrustação. A alternativa (a) inverte a lógica: um sal insolúvel permaneceria depositado sobre a superfície.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-09",
+                        "texto_apoio":  "A figura mostra a estrutura do etanol e a do dimetil-éter, ambos com fórmula molecular C2H6O. Suas temperaturas de ebulição a 1 atm são, respectivamente, 78 °C e −24 °C.",
+                        "enunciado":  "As duas substâncias são exemplos de isomeria ______, e a diferença entre as temperaturas de ebulição se explica porque apenas o etanol forma ______, interação mais intensa que ______ presente no éter. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "de cadeia – ligações iônicas – as forças de London",
+                                             "b":  "geométrica – dipolo permanente – a ligação de hidrogênio",
+                                             "c":  "de função – ligações de hidrogênio – o dipolo permanente",
+                                             "d":  "óptica – ligações covalentes – a interação dipolo-dipolo",
+                                             "e":  "de posição – ligações de hidrogênio – a ligação iônica presente entre as moléculas do éter no estado líquido"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Mesma fórmula molecular e funções diferentes — álcool e éter — caracterizam isomeria de função. O etanol tem hidrogênio ligado a oxigênio e forma ligações de hidrogênio entre suas moléculas; o éter, sem esse hidrogênio, conta apenas com dipolo permanente, bem mais fraco. Daí a diferença de mais de cem graus.",
+                        "formato":  "lacunas",
+                        "banca":  "santacasa"
+                    },
+                    {
+                        "id":  "quimica-10",
+                        "texto_apoio":  "Uma tabela apresenta as temperaturas de fusão e de ebulição de quatro substâncias a 1 atm: substância I, fusão −114 °C e ebulição 78 °C; substância II, fusão 801 °C e ebulição 1413 °C; substância III, fusão −218 °C e ebulição −183 °C; substância IV, fusão 1535 °C e ebulição 2750 °C.",
+                        "enunciado":  "Considerando a temperatura ambiente de 25 °C, os estados físicos das substâncias I, II, III e IV são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "líquido, sólido, gasoso e sólido",
+                                             "b":  "gasoso, sólido, líquido e sólido, uma vez que apenas a substância III apresenta temperatura de ebulição inferior à temperatura considerada",
+                                             "c":  "líquido, líquido, gasoso e sólido, situação em que duas das quatro substâncias se encontram no estado líquido nas condições descritas",
+                                             "d":  "sólido, sólido, líquido e gasoso, arranjo compatível com a ordem crescente das temperaturas de fusão apresentadas na tabela do enunciado",
+                                             "e":  "gasoso, líquido, gasoso e líquido, condição em que nenhuma das substâncias analisadas se encontraria no estado sólido a 25 °C"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A 25 °C, uma substância é líquida se a temperatura estiver entre a de fusão e a de ebulição. I está entre −114 e 78: líquida. II e IV têm fusão muito acima de 25: sólidas. III já ferveu a −183: gasosa. Os valores de II e IV, muito altos, sugerem composto iônico e metal, respectivamente.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-11",
+                        "textoId":  "med-qui-t2",
+                        "enunciado":  "Segundo o texto, a absorção do ácido acetilsalicílico é favorecida no estômago porque, em pH próximo de 2, o grupo carboxila:",
+                        "alternativas":  {
+                                             "a":  "permanece majoritariamente não ionizado, forma que atravessa membranas com mais facilidade",
+                                             "b":  "sofre ionização completa, o que aumenta a solubilidade da molécula em água e facilita sua passagem pelas membranas das células gástricas",
+                                             "c":  "reage com o ácido clorídrico presente e origina um sal de sódio, muito mais permeável às membranas do que a molécula de origem",
+                                             "d":  "converte-se em grupo éster por ação da acidez do meio, o que altera a polaridade da molécula e favorece sua entrada nas células",
+                                             "e":  "libera o ácido salicílico original, forma na qual o princípio ativo é efetivamente absorvido pela mucosa do estômago do paciente"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Em meio muito ácido, o equilíbrio de ionização de um ácido fraco se desloca para a forma não dissociada, menos polar e mais capaz de atravessar a bicamada lipídica. No intestino, com pH mais alto, o grupo se ioniza e a absorção passiva cai — o mecanismo que o texto descreve.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-12",
+                        "textoId":  "med-qui-t2",
+                        "enunciado":  "O cheiro de vinagre em comprimidos mal armazenados, mencionado no texto, é explicado pela:",
+                        "alternativas":  {
+                                             "a":  "oxidação do grupo carboxila da molécula pelo oxigênio do ar, processo acelerado pela exposição prolongada à luz durante o armazenamento",
+                                             "b":  "hidrólise da função éster, que regenera o ácido salicílico e libera ácido acético",
+                                             "c":  "sublimação de parte do princípio ativo, que se converte diretamente do estado sólido ao gasoso e produz o odor característico percebido",
+                                             "d":  "fermentação de excipientes de origem vegetal presentes na formulação do comprimido, processo conduzido por micro-organismos do ambiente",
+                                             "e":  "reação entre o princípio ativo e o material da embalagem, que libera compostos voláteis responsáveis pelo odor semelhante ao do vinagre"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A função éster é hidrolisável, e a umidade a quebra devolvendo os dois componentes da acetilação: o ácido salicílico e o ácido acético — este último é o componente do vinagre e responde pelo odor. É por isso que o texto destaca a proteção contra umidade, e não só contra luz.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-13",
+                        "texto_apoio":  "Um comprimido contém 500 mg de ácido acetilsalicílico, cuja massa molar é 180 g/mol.",
+                        "enunciado":  "A quantidade de matéria de princípio ativo presente em um comprimido é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "2,8 mol",
+                                             "b":  "0,28 mol",
+                                             "c":  "2,8 × 10⁻³ mol",
+                                             "d":  "9,0 × 10⁻³ mol",
+                                             "e":  "3,6 × 10⁻⁴ mol"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Convertendo a massa: 500 mg equivalem a 0,500 g. Dividindo pela massa molar: 0,500 ÷ 180 ≈ 2,8 x 10⁻³ mol. As alternativas (a) e (b) resultam de esquecer a conversão de miligramas para gramas, erro de ordem de grandeza que as bancas exploram deliberadamente.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-14",
+                        "texto_apoio":  "O processo Haber-Bosch produz amônia a partir de nitrogênio e hidrogênio, segundo a equação N2(g) + 3 H2(g) ⇌ 2 NH3(g), com variação de entalpia negativa. Industrialmente, a reação é conduzida sob pressões elevadas e em temperaturas em torno de 450 °C, com catalisador.",
+                        "enunciado":  "O aumento da pressão desloca o equilíbrio no sentido da formação de amônia porque:",
+                        "alternativas":  {
+                                             "a":  "o sistema se desloca no sentido do menor número de mols de gás, e há 4 mols de reagentes contra 2 de produto",
+                                             "b":  "a elevação da pressão aumenta a energia cinética das moléculas e favorece a reação direta por elevar a frequência das colisões efetivas",
+                                             "c":  "o catalisador utilizado só se torna ativo acima de determinada pressão, e sua ação é seletiva para o sentido de formação da amônia",
+                                             "d":  "a reação direta é exotérmica, e o aumento da pressão remove calor do sistema deslocando o equilíbrio no sentido dos produtos formados",
+                                             "e":  "a amônia produzida se liquefaz sob alta pressão e deixa o sistema, o que é o único fator que explica o deslocamento observado no processo"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Pelo princípio de Le Chatelier, aumentar a pressão desloca o equilíbrio para o lado com menos mols de gás — aqui, o dos produtos, com 2 contra 4. A alternativa (b) confunde efeito sobre a velocidade com efeito sobre o equilíbrio: catalisador e colisões alteram o tempo até o equilíbrio, não sua posição.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-15",
+                        "texto_apoio":  "Uma pilha é montada com um eletrodo de zinco imerso em solução de sulfato de zinco e um eletrodo de cobre imerso em solução de sulfato de cobre, unidos por uma ponte salina. Os potenciais padrão de redução são: Zn2+ + 2e− → Zn, E° = −0,76 V; Cu2+ + 2e− → Cu, E° = +0,34 V.",
+                        "enunciado":  "Nessa pilha, o eletrodo de zinco funciona como ______, sofre ______, e a diferença de potencial padrão da pilha é ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "cátodo – redução – 0,42 V",
+                                             "b":  "ânodo – oxidação – 1,10 V",
+                                             "c":  "cátodo – oxidação – 1,10 V",
+                                             "d":  "ânodo – redução – 0,42 V",
+                                             "e":  "ânodo – oxidação – 0,42 V"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O zinco tem o menor potencial de redução e portanto oxida: é o ânodo, o polo negativo da pilha. A diferença de potencial é a do cátodo menos a do ânodo: 0,34 − (−0,76) = 1,10 V. O valor 0,42 V, oferecido em três alternativas, vem de somar os módulos com sinal trocado — erro frequente.",
+                        "formato":  "lacunas",
+                        "banca":  "einstein"
+                    },
+                    {
+                        "id":  "quimica-16",
+                        "texto_apoio":  "O gás natural veicular é composto majoritariamente por metano. Sua combustão completa libera cerca de 890 kJ por mol de metano queimado, segundo a equação CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l).",
+                        "enunciado":  "Sobre a reação descrita, é correto afirmar que se trata de um processo:",
+                        "alternativas":  {
+                                             "a":  "endotérmico, com variação de entalpia negativa, condição em que o sistema absorve energia do ambiente e a armazena nas ligações formadas",
+                                             "b":  "endotérmico, com variação de entalpia positiva, uma vez que a quebra das ligações do metano exige fornecimento contínuo de energia ao sistema",
+                                             "c":  "exotérmico, com variação de entalpia positiva, já que a energia é liberada na forma de calor para o ambiente durante toda a combustão",
+                                             "d":  "exotérmico, com variação de entalpia negativa e produtos de menor conteúdo energético que os reagentes",
+                                             "e":  "atérmico, sem variação líquida de entalpia, pois a energia gasta para romper ligações iguala exatamente a liberada na formação das novas"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Liberar calor caracteriza processo exotérmico, e por convenção a variação de entalpia é negativa: os produtos têm entalpia menor que os reagentes. As alternativas (c) e (a) combinam classificação e sinal de forma incoerente, que é exatamente o erro conceitual testado pela questão.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-17",
+                        "texto_apoio":  "O eugenol é uma substância extraída do cravo-da-índia e utilizada em odontologia por suas propriedades anestésica e antisséptica. Sua estrutura apresenta um anel aromático ao qual estão ligados um grupo hidroxila, um grupo metoxila e uma cadeia com dupla ligação terminal.",
+                        "enunciado":  "As funções orgânicas presentes na molécula descrita são:",
+                        "alternativas":  {
+                                             "a":  "álcool e cetona, além da insaturação característica dos compostos que apresentam dupla ligação entre carbonos na extremidade da cadeia",
+                                             "b":  "fenol e éter",
+                                             "c":  "ácido carboxílico e éster, combinação responsável tanto pelo caráter ácido quanto pelo aroma característico do óleo extraído do cravo",
+                                             "d":  "aldeído e amina, grupos que respondem pela ação antisséptica atribuída ao composto em aplicações odontológicas de uso corrente",
+                                             "e":  "álcool e éster, funções que conferem à molécula polaridade suficiente para dissolver-se em água em qualquer proporção utilizada"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Hidroxila ligada diretamente ao anel aromático caracteriza fenol, e não álcool — distinção que a questão testa. O grupo metoxila é um oxigênio entre dois carbonos, o que define a função éter. A dupla ligação terminal é uma insaturação, mas não constitui função orgânica oxigenada.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-18",
+                        "texto_apoio":  "Um béquer contém 200 mL de solução aquosa de glicose de concentração 0,50 mol/L. Adiciona-se água até que o volume final atinja 500 mL, com agitação para homogeneizar.",
+                        "enunciado":  "A concentração da solução final é de:",
+                        "alternativas":  {
+                                             "a":  "0,10 mol/L",
+                                             "b":  "0,15 mol/L",
+                                             "c":  "0,20 mol/L",
+                                             "d":  "0,25 mol/L",
+                                             "e":  "1,25 mol/L"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Na diluição a quantidade de soluto não muda: 0,50 mol/L x 0,200 L = 0,10 mol. Dividindo pelo novo volume: 0,10 mol ÷ 0,500 L = 0,20 mol/L. A alternativa (a) confunde a quantidade de matéria com a concentração, e (e) inverte a razão entre os volumes inicial e final.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-19",
+                        "texto_apoio":  "O radioisótopo iodo-131 é usado no tratamento de algumas doenças da tireoide, por se concentrar naturalmente nessa glândula. Sua meia-vida é de aproximadamente 8 dias.",
+                        "enunciado":  "Partindo de uma amostra de 80 mg desse radioisótopo, a massa restante após 24 dias será de:",
+                        "alternativas":  {
+                                             "a":  "40 mg",
+                                             "b":  "20 mg",
+                                             "c":  "10 mg",
+                                             "d":  "5 mg",
+                                             "e":  "zero, uma vez que o decaimento se completa integralmente após três períodos sucessivos de meia-vida do radioisótopo considerado"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Vinte e quatro dias correspondem a três meias-vidas. A cada uma delas a massa cai pela metade: 80 → 40 → 20 → 10 mg. O decaimento é exponencial e nunca chega a zero em tempo finito, o que descarta (e) — a amostra apenas se torna indetectável na prática.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-20",
+                        "texto_apoio":  "Uma indústria alimentícia utiliza dois conservantes: o benzoato de sódio, eficaz apenas em meio ácido, e o sorbato de potássio, eficaz em faixa de pH mais ampla. O benzoato só age quando presente na forma de ácido benzoico não dissociado.",
+                        "enunciado":  "A eficácia do benzoato de sódio restrita a meios ácidos se explica porque, em pH baixo:",
+                        "alternativas":  {
+                                             "a":  "o conservante reage com os íons hidrogênio e forma um complexo estável que se acumula nas membranas dos micro-organismos presentes",
+                                             "b":  "o sal se decompõe liberando gás carbônico, que reduz o pH do alimento e cria um ambiente hostil ao desenvolvimento de micro-organismos",
+                                             "c":  "a solubilidade do conservante aumenta de forma acentuada, o que eleva sua concentração efetiva no meio e amplia a ação antimicrobiana",
+                                             "d":  "o íon sódio se dissocia e passa a exercer efeito osmótico sobre as células microbianas, desidratando-as e impedindo sua multiplicação",
+                                             "e":  "o equilíbrio se desloca no sentido da forma não dissociada, que é a espécie ativa"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O ácido benzoico é fraco, e o excesso de íons hidrogênio desloca seu equilíbrio de ionização para a forma molecular. Só ela, sem carga, atravessa a membrana do micro-organismo e age no interior da célula. Em pH alto predomina o íon benzoato, que não atravessa a membrana e é inativo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-21",
+                        "texto_apoio":  "A tabela periódica organiza os elementos em ordem crescente de número atômico. Ao longo de um período, da esquerda para a direita, e ao longo de um grupo, de cima para baixo, algumas propriedades variam de forma regular.",
+                        "enunciado":  "Comparando o sódio (Z = 11) e o cloro (Z = 17), ambos do terceiro período, é correto afirmar que o sódio apresenta:",
+                        "alternativas":  {
+                                             "a":  "menor raio atômico e menor eletronegatividade, combinação que o torna especialmente estável em relação aos demais elementos do período",
+                                             "b":  "menor raio atômico e maior energia de ionização, propriedades que resultam da atração mais intensa exercida pelo núcleo sobre a eletrosfera",
+                                             "c":  "maior raio atômico e maior afinidade eletrônica, o que explica sua tendência a receber elétrons na formação de compostos com metais",
+                                             "d":  "maior raio atômico e menor eletronegatividade",
+                                             "e":  "raio atômico equivalente ao do cloro, uma vez que ambos possuem o mesmo número de camadas eletrônicas preenchidas em seu estado fundamental"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Ao longo de um período o número de camadas não muda, mas a carga nuclear cresce e atrai mais a eletrosfera: o raio diminui da esquerda para a direita, e o sódio, mais à esquerda, é maior. Pelo mesmo motivo, sua eletronegatividade é menor. A alternativa (e) confunde número de camadas com tamanho do átomo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-22",
+                        "texto_apoio":  "Uma amostra de água do mar é submetida a destilação simples em laboratório. Após o processo, obtém-se um líquido incolor no recipiente coletor e um resíduo sólido branco no balão de destilação.",
+                        "enunciado":  "O processo descrito e a razão de sua eficácia para separar os componentes da mistura são:",
+                        "alternativas":  {
+                                             "a":  "filtração, e a eficácia decorre da diferença de tamanho entre as partículas do soluto e os poros do material filtrante empregado",
+                                             "b":  "centrifugação, e a eficácia decorre da aceleração aplicada à mistura, que separa os componentes conforme a massa de cada partícula presente",
+                                             "c":  "decantação, e a eficácia decorre da diferença de densidade entre a água e os sais, que se depositam no fundo do recipiente por gravidade",
+                                             "d":  "destilação simples, e a eficácia decorre da grande diferença entre as temperaturas de ebulição da água e dos sais dissolvidos",
+                                             "e":  "cristalização fracionada, e a eficácia decorre das diferentes solubilidades dos sais presentes na água do mar em função da temperatura"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A água ferve a 100 °C, enquanto os sais dissolvidos têm temperaturas de ebulição na casa dos milhares de graus. Aquecendo a mistura, apenas a água vaporiza e é condensada no coletor, restando os sais no balão. Filtração não separa soluto dissolvido, o que descarta (a).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-23",
+                        "texto_apoio":  "O peróxido de hidrogênio em solução aquosa decompõe-se lentamente em água e oxigênio. Ao se adicionar um pedaço de fígado cru à solução, observa-se efervescência intensa e imediata. O fígado contém a enzima catalase.",
+                        "enunciado":  "A catalase acelera a decomposição do peróxido porque:",
+                        "alternativas":  {
+                                             "a":  "eleva a temperatura do meio reacional, fornecendo a energia necessária para que as moléculas de peróxido atinjam o estado de transição",
+                                             "b":  "desloca o equilíbrio da reação no sentido dos produtos, aumentando a quantidade de oxigênio formada ao final do processo de decomposição",
+                                             "c":  "aumenta a concentração de peróxido disponível na solução, o que eleva a frequência de colisões entre as moléculas de reagente presentes",
+                                             "d":  "diminui a energia de ativação, oferecendo um caminho alternativo para a reação",
+                                             "e":  "é consumida durante o processo, e sua degradação libera a energia necessária para que a decomposição do peróxido ocorra rapidamente"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Um catalisador oferece um caminho de menor energia de ativação, o que aumenta a fração de colisões efetivas e acelera a reação nos dois sentidos igualmente. Por isso não altera a posição do equilíbrio nem a quantidade final de produto, o que descarta (b), e não é consumido, o que descarta (e).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-24",
+                        "texto_apoio":  "Um esquema mostra a estrutura de três moléculas: metano (CH4), amônia (NH3) e água (H2O). Todas apresentam o átomo central com quatro pares de elétrons na camada de valência, mas com números diferentes de pares não ligantes.",
+                        "enunciado":  "As geometrias moleculares do metano, da amônia e da água são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
+                                             "b":  "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
+                                             "c":  "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
+                                             "d":  "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
+                                             "e":  "tetraédrica, piramidal e angular"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A distribuição dos quatro pares é tetraédrica nas três moléculas, mas a geometria é definida pelas posições dos átomos, não dos pares isolados. Sem par não ligante, o metano é tetraédrico; com um, a amônia é piramidal; com dois, a água é angular. A alternativa (c) confunde arranjo eletrônico com geometria molecular.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-25",
+                        "texto_apoio":  "Um tanque de aço enterrado é protegido da corrosão pela ligação a blocos de magnésio metálico, substituídos periodicamente. Os potenciais padrão de redução são: Fe2+ + 2e− → Fe, E° = −0,44 V; Mg2+ + 2e− → Mg, E° = −2,37 V.",
+                        "enunciado":  "A técnica descrita protege o tanque porque o magnésio:",
+                        "alternativas":  {
+                                             "a":  "forma uma camada isolante sobre a superfície do aço, impedindo o contato entre o metal e a umidade presente no solo ao redor do tanque",
+                                             "b":  "recebe elétrons do ferro e assim impede que o metal do tanque seja reduzido durante o contato prolongado com a umidade do subsolo",
+                                             "c":  "reage com o oxigênio dissolvido no solo e o consome integralmente, o que elimina o agente oxidante necessário à corrosão do ferro",
+                                             "d":  "eleva o pH do solo ao redor do tanque, criando condições alcalinas nas quais a corrosão do aço deixa de ocorrer de forma espontânea",
+                                             "e":  "oxida preferencialmente ao ferro, por ter menor potencial de redução, e assim é consumido no lugar do tanque"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "É proteção catódica com anodo de sacrifício. Tendo potencial de redução muito menor, o magnésio cede elétrons com mais facilidade e oxida no lugar do ferro, que passa a receber elétrons e fica protegido. A alternativa (b) inverte o sentido do fluxo e ainda confunde oxidação com redução do tanque.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-26",
+                        "texto_apoio":  "Uma solução tampão é preparada misturando ácido acético e acetato de sódio em concentrações comparáveis. Ao se adicionar pequena quantidade de ácido forte a essa solução, o pH varia muito pouco, ao contrário do que ocorreria em água pura.",
+                        "enunciado":  "A capacidade tamponante da solução se deve à presença simultânea de:",
+                        "alternativas":  {
+                                             "a":  "um indicador ácido-base e um eletrólito forte, combinação que sinaliza e simultaneamente corrige qualquer desvio do pH original da solução",
+                                             "b":  "um ácido forte e uma base forte em quantidades equimolares, que se neutralizam mutuamente e mantêm o pH constante ao longo do tempo",
+                                             "c":  "dois ácidos de forças diferentes, cujo equilíbrio de ionização se ajusta reciprocamente sempre que a concentração de um deles é alterada",
+                                             "d":  "um sal insolúvel em equilíbrio com seus íons, que precipita ou se dissolve conforme a variação da acidez do meio em que se encontra",
+                                             "e":  "um ácido fraco e sua base conjugada, que consomem os íons adicionados"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "No tampão, o ácido fraco reage com hidroxila adicionada e a base conjugada reage com íons hidrogênio adicionados. Como as duas espécies estão presentes em quantidades apreciáveis, o sistema absorve pequenas adições sem variação expressiva de pH. É o mecanismo do tampão bicarbonato no sangue.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-27",
+                        "texto_apoio":  "Os triglicerídeos são os principais constituintes dos óleos e gorduras. Na indústria, a reação desses compostos com hidróxido de sódio produz glicerol e sais de ácidos graxos, empregados como agentes de limpeza.",
+                        "enunciado":  "A reação descrita denomina-se ______, os sais obtidos são conhecidos como ______, e sua ação de limpeza se deve ao fato de a molécula possuir ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "esterificação – ésteres – uma cadeia inteiramente apolar",
+                                             "b":  "fermentação – álcoois – grupos hidroxila em toda a extensão da cadeia carbônica que compõe a molécula",
+                                             "c":  "hidrogenação – margarinas – ligações duplas saturadas por hidrogênio",
+                                             "d":  "saponificação – sabões – uma parte polar e outra apolar",
+                                             "e":  "polimerização – poliésteres – unidades repetidas de monômeros ligados entre si por ligações do tipo éster"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A hidrólise alcalina de um éster é a saponificação, e os sais de ácidos graxos obtidos são os sabões. A molécula tem cabeça iônica, que interage com a água, e cauda hidrocarbônica, que interage com a gordura — é essa dupla afinidade que permite emulsionar e remover a sujeira oleosa.",
+                        "formato":  "lacunas",
+                        "banca":  "unesp"
+                    },
+                    {
+                        "id":  "quimica-28",
+                        "texto_apoio":  "Uma amostra de vinagre comercial foi analisada e apresentou concentração de ácido acético de 0,83 mol/L. A constante de ionização desse ácido é 1,8 × 10⁻⁵ a 25 °C.",
+                        "enunciado":  "Sobre essa solução, é correto afirmar que:",
+                        "alternativas":  {
+                                             "a":  "o ácido está totalmente ionizado, e a concentração de íons hidrogênio é igual à concentração analítica do ácido presente na amostra",
+                                             "b":  "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
+                                             "c":  "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
+                                             "d":  "apenas uma pequena fração das moléculas está ionizada, e o pH resultante fica em torno de 2,4",
+                                             "e":  "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-29",
+                        "texto_apoio":  "Uma tabela apresenta quatro materiais e suas propriedades: o material I conduz corrente elétrica no estado sólido e é maleável; o material II conduz corrente apenas quando fundido ou dissolvido em água; o material III não conduz corrente em nenhum estado e apresenta baixa temperatura de fusão; o material IV é muito duro e não conduz corrente.",
+                        "enunciado":  "Os materiais I, II e III correspondem, respectivamente, a substâncias de ligação:",
+                        "alternativas":  {
+                                             "a":  "iônica, metálica e covalente, sequência que acompanha a ordem crescente das temperaturas de fusão observadas para cada um dos materiais",
+                                             "b":  "covalente, iônica e metálica, arranjo que reflete a capacidade de cada tipo de ligação em conduzir a corrente elétrica no estado sólido",
+                                             "c":  "iônica, covalente e metálica, distribuição compatível com a dureza elevada apresentada pelo quarto material descrito na tabela do enunciado",
+                                             "d":  "metálica, covalente e iônica, agrupamento em que apenas o primeiro dos três materiais apresenta elétrons livres em sua estrutura interna",
+                                             "e":  "metálica, iônica e covalente molecular"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Condução no estado sólido com maleabilidade indica ligação metálica, com elétrons deslocalizados. Condução apenas fundido ou em solução indica composto iônico, cujos íons só ficam livres quando o retículo se desfaz. Não conduzir em nenhum estado e fundir a baixa temperatura aponta substância molecular.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-30",
+                        "texto_apoio":  "Cientistas monitoram a acidificação dos oceanos, processo pelo qual a absorção do gás carbônico atmosférico pela água do mar tem reduzido o pH médio dos oceanos desde a Revolução Industrial. Organismos que constroem conchas e esqueletos de carbonato de cálcio são particularmente afetados.",
+                        "enunciado":  "A dificuldade desses organismos em formar suas estruturas calcárias decorre de que a entrada de gás carbônico na água:",
+                        "alternativas":  {
+                                             "a":  "eleva a temperatura da água do mar, o que reduz a solubilidade dos sais de cálcio e impede sua deposição nas estruturas em formação",
+                                             "b":  "forma um revestimento gasoso sobre as conchas, isolando-as do contato com os íons dissolvidos necessários ao seu crescimento contínuo",
+                                             "c":  "aumenta diretamente a concentração de íons carbonato, o que provoca precipitação descontrolada e enfraquece a estrutura já formada",
+                                             "d":  "reduz a salinidade da água por diluição, o que compromete o transporte ativo de cálcio através das membranas dos organismos afetados",
+                                             "e":  "aumenta a concentração de íons hidrogênio, que consomem carbonato e reduzem sua disponibilidade"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O gás carbônico dissolvido forma ácido carbônico, que libera íons hidrogênio. Esses íons reagem com o carbonato disponível convertendo-o em bicarbonato, e com menos carbonato livre a formação de carbonato de cálcio fica desfavorecida. A alternativa (c) inverte o efeito sobre a concentração de carbonato.",
+                        "formato":  "direta"
+                    }
+                ]
 };
 window.QUESTION_TEXTS = {
     "med-bio-t1":  {
@@ -2296,5 +2752,15 @@ window.QUESTION_TEXTS = {
                        "id":  "med-bio-t4",
                        "fonte":  "Texto original em genero de reportagem cientifica sobre edicao genetica, no registro de fonte recente usado pelas bancas",
                        "conteudo":  "A anemia falciforme é causada por uma única troca de base no gene da hemoglobina. Um adenina vira timina, o glutamato da posição seis vira valina, e a proteína resultante polimeriza quando desoxigenada, deformando a hemácia. A doença é conhecida em detalhe molecular há mais de setenta anos, e por décadas isso não mudou nada para quem a tinha.\n\nO que mudou foi a chegada de ferramentas capazes de editar o genoma em um ponto escolhido. O sistema mais usado deriva de um mecanismo de defesa de bactérias contra vírus: uma molécula de RNA guia uma enzima até uma sequência específica do DNA, e a enzima corta ali. A célula então repara o corte, e é durante esse reparo que a alteração desejada pode ser introduzida.\n\nA primeira terapia aprovada para anemia falciforme não corrige, porém, a mutação original. Ela desliga um gene diferente — o que reprime a produção de hemoglobina fetal depois do nascimento. Sem esse freio, o paciente volta a produzir a forma fetal da proteína, que não polimeriza e compensa a hemoglobina defeituosa. É uma solução oblíqua, e funciona.\n\nHá um limite importante. A edição é feita em células retiradas do próprio paciente e depois devolvidas, o que altera apenas as células daquele indivíduo. Nada do que se faz ali é transmitido à descendência, porque as células modificadas não são as germinativas. A distinção entre editar células somáticas e editar a linhagem germinativa é a fronteira central do debate ético sobre a técnica."
+                   },
+    "med-qui-t1":  {
+                       "id":  "med-qui-t1",
+                       "fonte":  "Texto original em genero de divulgacao cientifica sobre quimica ambiental",
+                       "conteudo":  "A chuva não precisa de poluição para ser ácida. O gás carbônico da atmosfera se dissolve na água das nuvens e forma ácido carbônico, um ácido fraco que basta para deixar a chuva natural em torno de pH 5,6. É esse o valor de referência, e não 7.\n\nO que se chama de chuva ácida é um desvio bem mais acentuado, com pH que pode chegar a 4 ou menos. Ele vem de dois óxidos que a queima de combustíveis fósseis lança no ar. O dióxido de enxofre, presente como impureza no carvão e em derivados de petróleo, oxida na atmosfera e forma ácido sulfúrico. Os óxidos de nitrogênio, produzidos quando o nitrogênio e o oxigênio do próprio ar reagem sob as altas temperaturas dos motores, formam ácido nítrico. Os dois são ácidos fortes, e a diferença em relação ao ácido carbônico está justamente aí.\n\nOs efeitos combinam química e biologia. Em lagos com pouca capacidade de tamponamento, a queda de pH mobiliza alumínio dos sedimentos, e é o alumínio dissolvido, mais que a acidez em si, que mata os peixes. Em solos, o excesso de íons hidrogênio desloca cálcio e magnésio dos sítios de troca das argilas, e esses nutrientes são lixiviados. Monumentos de mármore e calcário sofrem porque o carbonato de cálcio reage com ácido e se dissolve.\n\nA correção mais usada em lagos e solos afetados é a calagem, com adição de carbonato ou óxido de cálcio. É uma neutralização, e trata o sintoma: enquanto a emissão continuar, o tratamento precisa ser repetido."
+                   },
+    "med-qui-t2":  {
+                       "id":  "med-qui-t2",
+                       "fonte":  "Texto original em genero de reportagem sobre quimica de medicamentos",
+                       "conteudo":  "O ácido acetilsalicílico foi sintetizado pela primeira vez no fim do século XIX a partir do ácido salicílico, extraído da casca do salgueiro e conhecido desde a Antiguidade por seu efeito contra a dor e a febre. O problema do composto original era a agressão à mucosa do estômago, e a acetilação do grupo hidroxila fenólico atenuou justamente isso.\n\nA molécula resultante tem duas funções orgânicas com oxigênio: um grupo carboxila, que lhe dá caráter ácido, e um grupo éster formado na acetilação. Essa combinação explica seu comportamento no organismo. No estômago, em pH próximo de 2, o grupo carboxila permanece majoritariamente na forma não ionizada, que atravessa membranas com facilidade. No intestino delgado, com pH acima de 6, ele se ioniza e a absorção pela via passiva diminui.\n\nA função éster é o ponto frágil da molécula. Em presença de água, sobretudo em meio úmido e quente, ela sofre hidrólise e regenera o ácido salicílico e o ácido acético — daí o cheiro de vinagre em comprimidos velhos ou mal armazenados. É por isso que a embalagem precisa proteger da umidade, e não apenas da luz.\n\nO comprimido comum contém quinhentos miligramas do princípio ativo. Como a massa molar do ácido acetilsalicílico é 180 gramas por mol, cada comprimido carrega pouco menos de três milimols da substância."
                    }
 };

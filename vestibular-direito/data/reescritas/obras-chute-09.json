@@ -1,0 +1,200 @@
+{
+  "questoes": [
+    {
+      "id": "obra-ruptura-castells-q4",
+      "enunciado": "Diferentemente de Hannah Arendt em \"As Origens do Totalitarismo\", que analisa a ruptura política do século XX marcada pelo totalitarismo de Estado, Manuel Castells em \"Ruptura\" concentra-se em:",
+      "alternativas": {
+        "a": "crise da democracia liberal ligada à rede, pós-verdade e vigilância",
+        "b": "defesa da eficiência dos regimes autoritários de partido único",
+        "c": "reconstrução do nazismo e do stalinismo como idênticos ao populismo",
+        "d": "análise literária de romances distópicos, sem base documental",
+        "e": "o retorno do totalitarismo de Estado nos mesmos moldes que Arendt descreveu"
+      },
+      "resposta": "a",
+      "explicacao": "Castells descreve uma erosão que vem de dentro: a democracia liberal perde legitimidade sem que um partido único a substitua, e os agentes são a comunicação em rede, a pós-verdade e a vigilância de dados. Em (e) está o distrator que o enunciado pede para descartar — a diferença em relação a Arendt está justamente na ausência de um regime totalitário centralizado. Em (c), equiparar nazismo e populismo atual desfaz a distinção. Em (b) e (d), não há defesa do autoritarismo nem análise literária."
+    },
+    {
+      "id": "obra-bras-cubas-q1",
+      "enunciado": "Memórias Póstumas de Brás Cubas foi publicado em 1881 e costuma ser apontado pela crítica como um marco na trajetória de Machado de Assis. Esse marco corresponde a:",
+      "alternativas": {
+        "a": "a passagem da fase romântica à madura, com ironia e experimentação",
+        "b": "a estreia literária do autor, sem romance anterior a 1881",
+        "c": "a adesão ao naturalismo determinista, seguindo o modelo de Émile Zola",
+        "d": "o abandono do Rio como cenário, com a trama toda na Europa",
+        "e": "o primeiro romance brasileiro narrado em primeira pessoa"
+      },
+      "resposta": "a",
+      "explicacao": "1881 é a linha que a crítica traça: antes, romances de enredo e convenção; depois, um narrador que interrompe, provoca e desmonta a própria história. Em (c) está a confusão mais frequente do período — o naturalismo é contemporâneo, e Machado escreve contra ele, tratando a conduta como matéria de análise e não como efeito de raça e meio. Em (b), há quatro romances anteriores. Em (d), o Rio permanece o cenário. Em (e), a primeira pessoa já existia na ficção brasileira."
+    },
+    {
+      "id": "obra-bras-cubas-q2",
+      "enunciado": "A crítica associa Brás Cubas a uma sensibilidade 'pós-moderna avant la lettre'. Essa leitura se apoia sobretudo:",
+      "alternativas": {
+        "a": "na ambientação num Brasil futurista, além do século em que foi escrito",
+        "b": "no registro documental preciso dos acontecimentos do Segundo Reinado",
+        "c": "no narrador morto que expõe os bastidores e desconfia da verdade",
+        "d": "no emprego de gírias urbanas idênticas às usadas hoje no Brasil",
+        "e": "na recusa de qualquer enredo, já que o livro não tem acontecimentos"
+      },
+      "resposta": "c",
+      "explicacao": "O defunto autor comenta a própria escrita, dedica capítulos a digressões e avisa o leitor de que o livro poderia ser outro — procedimentos que a crítica reconheceria como pós-modernos um século depois. Em (e) está o exagero mais próximo: há metaficção e digressão, mas também há enredo, com Virgília, o emplasto e a carreira frustrada. Em (b), a precisão documental é o oposto da ironia machadiana. Em (a) e (d), não há futurismo nem gíria contemporânea."
+    },
+    {
+      "id": "obra-hora-estrela-q1",
+      "enunciado": "A Hora da Estrela, de Clarice Lispector, foi publicado em 1977, pouco antes da morte da autora. Sobre o contexto de produção da obra, é correto afirmar que:",
+      "alternativas": {
+        "a": "aproxima-se de tema social e de voz pobre, sem largar o existencial",
+        "b": "substitui o estilo introspectivo por narrativa jornalística sem ficção",
+        "c": "foi o romance de estreia, escrito quando a autora vivia na Ucrânia",
+        "d": "foi escrito em parceria com Graciliano Ramos sobre a seca nordestina",
+        "e": "foi publicado postumamente, organizado por editores a partir de notas"
+      },
+      "resposta": "a",
+      "explicacao": "Macabéa é a personagem mais pobre e mais desprovida de linguagem da obra de Clarice, e ainda assim o livro conserva o narrador que se interroga sobre o direito de contá-la — o social entra sem expulsar o existencial. Em (e) está o distrator mais plausível, porque a autora morreu poucos meses depois; o livro, contudo, saiu em vida e por decisão dela. Em (b), a mediação ficcional é o assunto do romance. Em (c), a estreia é de 1943. Em (d), não houve parceria."
+    },
+    {
+      "id": "obra-torto-arado-q2",
+      "enunciado": "Torto Arado retrata relações de trabalho em uma fazenda baiana marcadas por dívidas, dependência e falta de autonomia dos moradores da terra. Essa representação dialoga com o eixo modernidade/pós-modernidade cobrado pela banca porque:",
+      "alternativas": {
+        "a": "após a abolição, o Brasil eliminou o trabalho servil no campo",
+        "b": "a vida urbana e a vida rural do romance não têm conexão histórica",
+        "c": "o atraso do campo resulta do clima, sem herança histórica",
+        "d": "estruturas da escravidão persistem num país formalmente moderno",
+        "e": "a modernização chegou ao campo e apagou as hierarquias anteriores"
+      },
+      "resposta": "d",
+      "explicacao": "A fazenda do romance é posterior à abolição em mais de um século e reproduz sua lógica: moradores sem terra, dívida que não se quita, casa que se perde ao desagradar o patrão. A modernidade é jurídica, e não vivida. Em (e) está exatamente a promessa que o livro desmente. Em (a), a persistência do trabalho análogo ao escravo é o assunto. Em (c), o clima não explica a estrutura fundiária. Em (b), campo e cidade estão ligados pela mesma herança."
+    },
+    {
+      "id": "obra-torto-arado-q5",
+      "texto_apoio": "Um episódio central da infância das irmãs Bibiana e Belonísia é o contato com uma faca guardada sob a cama da avó, que resulta em um grave acidente.",
+      "enunciado": "Esse episódio pode ser interpretado como:",
+      "alternativas": {
+        "a": "episódio cômico que alivia a tensão, sem consequência no enredo",
+        "b": "símbolo do rompimento feliz das irmãs com as tradições da comunidade",
+        "c": "alegoria da modernização tecnológica que chega pela nova ferramenta",
+        "d": "prova de negligência da avó, que o romance julga com severidade",
+        "e": "marco que liga as irmãs a uma herança de silêncios da comunidade"
+      },
+      "resposta": "e",
+      "explicacao": "Uma das irmãs perde a língua, e a mudez que se instala organiza o resto do livro: a faca guardada, o que não se conta, o que se transmite sem palavra. O acidente é a imagem de uma comunidade que herda silêncios. Em (d) está a leitura mais tentadora, porque a faca estava mesmo ao alcance das meninas; o romance, porém, não constrói culpa individual, e sim uma cadeia de heranças. Em (b), não há rompimento feliz. Em (a) e (c), o episódio é grave e simbólico, não cômico nem tecnológico."
+    },
+    {
+      "id": "obra-bem-amado-q2",
+      "enunciado": "A sátira construída por Dias Gomes em 'O Bem-Amado' relaciona-se ao eixo modernidade-pós-modernidade sobretudo porque:",
+      "alternativas": {
+        "a": "o contraste entre discurso de progresso e prática política arcaica",
+        "b": "só reformas educacionais radicais modernizariam a administração",
+        "c": "a transição pacífica de Sucupira da economia agrária para a industrial",
+        "d": "o avanço tecnológico das cidades deveria substituir a política do interior",
+        "e": "a modernização do país já eliminou o clientelismo das cidades pequenas"
+      },
+      "resposta": "a",
+      "explicacao": "Odorico inaugura um cemitério como se fosse obra de progresso, e a piada é exatamente essa: o vocabulário da modernização a serviço da mesma política de favor e compadrio de sempre. Em (e) está a tese que a sátira existe para desmentir. Em (c), Sucupira não industrializa nada. Em (b) e (d), a peça não propõe reforma educacional nem substituição tecnológica — ela expõe o descompasso sem receitar solução."
+    },
+    {
+      "id": "obra-bem-amado-q4",
+      "enunciado": "Tanto 'O Bem-Amado', de Dias Gomes, quanto o 'Manifesto Antropófago', de Oswald de Andrade, integram o repertório de obras obrigatórias por também compartilharem:",
+      "alternativas": {
+        "a": "estrutura idêntica de peça em três atos, com enredo semelhante",
+        "b": "origem estrangeira, já que os autores viveram fora do Brasil",
+        "c": "o mesmo ano de composição, ambos na década de 1920",
+        "d": "reflexão crítica sobre a formação social e cultural brasileira",
+        "e": "o uso do humor como recurso central de crítica social nas duas obras"
+      },
+      "resposta": "d",
+      "explicacao": "Um pergunta o que o país come e devolve, o outro mostra como ele se governa — gêneros e décadas distintos para a mesma indagação sobre o que o Brasil é. Em (e) está o distrator mais fino: o humor é o recurso central de Dias Gomes, mas o manifesto opera por aforismo e provocação, não por comédia. Em (c), 1928 e 1962 separam as obras. Em (a), o manifesto não é peça teatral. Em (b), os dois autores são brasileiros."
+    },
+    {
+      "id": "obra-mandragora-q4",
+      "enunciado": "Comparando o 'maquiavelismo' de Ligurio e Callimaco em 'A Mandrágora' com a crítica à razão totalitária presente em '1984', de George Orwell, pode-se afirmar que",
+      "alternativas": {
+        "a": "nenhuma das duas trata de poder, engano ou controle sobre o outro",
+        "b": "as duas exploram o cálculo racional de meios para atingir fins",
+        "c": "1984 antecede A Mandrágora e influenciou os personagens de Maquiavel",
+        "d": "as duas defendem que a manipulação é aceitável se beneficia o Estado",
+        "e": "as duas situam o cálculo no plano privado, sem dimensão política"
+      },
+      "resposta": "b",
+      "explicacao": "Numa comédia do século XVI e numa distopia do XX, o mesmo procedimento: escolher os meios pela eficácia, e não pela moral. O que muda é a escala e o que está em jogo. Em (e) está a diferença que a alternativa apaga — em Maquiavel o cálculo é doméstico e em Orwell é estatal, e reduzir os dois ao privado desmancha a comparação. Em (d), nenhuma das duas defende a manipulação; uma a exibe e a outra a denuncia. Em (c), a cronologia está invertida em quatro séculos."
+    },
+    {
+      "id": "obra-1984-q1",
+      "enunciado": "'1984', de George Orwell, foi publicado em 1949, poucos meses antes da morte do autor. Sobre o contexto de produção da obra, é correto afirmar que",
+      "alternativas": {
+        "a": "foi publicado sob pseudônimo, com a autoria revelada décadas depois",
+        "b": "Orwell concebeu a distopia como previsão otimista sobre a tecnologia",
+        "c": "reflete a preocupação com o stalinismo e com a propaganda de Estado",
+        "d": "foi reação exclusiva à Segunda Guerra, sem relação com o totalitarismo",
+        "e": "foi escrito antes da Guerra Civil Espanhola, que Orwell ainda não vivera"
+      },
+      "resposta": "c",
+      "explicacao": "Duas experiências alimentam o livro: a Espanha, onde Orwell viu a propaganda reescrever o que ele próprio presenciara, e a BBC, onde trabalhou produzindo material de guerra. O Ministério da Verdade nasce das duas. Em (e) está a inversão cronológica que decide a questão: a guerra espanhola é de 1936, treze anos antes do romance, e é uma de suas fontes. Em (a), Orwell já era pseudônimo conhecido e o livro saiu assim. Em (b), a distopia não é otimista. Em (d), o totalitarismo é o alvo."
+    },
+    {
+      "id": "obra-a-vergonha-q1",
+      "enunciado": "Annie Ernaux, autora de 'A Vergonha', recebeu o Prêmio Nobel de Literatura em 2022. Sobre o contexto biográfico e de produção da obra, é correto afirmar que",
+      "alternativas": {
+        "a": "foi o primeiro livro de Ernaux, ainda na década de 1960",
+        "b": "cresceu em Yvetot, onde os pais tinham um café-mercearia",
+        "c": "nasceu em Paris, em família de classe média alta, e escreveu jovem",
+        "d": "nunca teve reconhecimento internacional relevante por sua obra",
+        "e": "escreveu o livro em francês e depois o traduziu ela mesma ao inglês"
+      },
+      "resposta": "b",
+      "explicacao": "A origem operária na Normandia é o material e o problema da obra inteira: Ernaux escreve de dentro de uma classe que a escola a fez deixar, e a vergonha do título é a desse deslocamento. Em (c) está a inversão exata dessa biografia, e ela desmontaria o projeto literário da autora. Em (a), A Vergonha é de 1997. Em (d), o Nobel citado no enunciado desmente a alternativa. Em (e), a tradução ao inglês não é dela."
+    },
+    {
+      "id": "obra-jogadores-cartas-q1",
+      "enunciado": "Quem eram, em geral, os modelos retratados na série Jogadores de Cartas de Cézanne?",
+      "alternativas": {
+        "a": "personagens fictícios inspirados em romances populares franceses",
+        "b": "colegas pintores impressionistas que jogavam cartas nos ateliês",
+        "c": "camponeses que trabalhavam na propriedade da família, em Aix",
+        "d": "nobres da corte retratados em salões de jogos de Paris",
+        "e": "membros da própria família do pintor, posando em sua casa"
+      },
+      "resposta": "c",
+      "explicacao": "Cézanne pintou trabalhadores rurais do Jas de Bouffan, a propriedade da família em Aix-en-Provence, e a escolha importa: gente comum tratada com a gravidade que a pintura reservava a temas nobres. Em (e) está o distrator mais próximo, porque a propriedade é de fato familiar; os modelos, porém, eram os empregados dela, e não os parentes. Em (d), nada mais distante da corte parisiense. Em (a) e (b), não há personagens de romance nem colegas pintores nas telas."
+    },
+    {
+      "id": "obra-jogadores-cartas-q2",
+      "enunciado": "Por que Jogadores de Cartas costuma ser associada ao eixo modernidade versus pós-modernidade nas provas da FGV?",
+      "alternativas": {
+        "a": "foi a primeira obra a usar fotografia como base da composição",
+        "b": "retrata as tensões da urbanização acelerada do século XIX francês",
+        "c": "documenta os costumes populares antes de desaparecerem",
+        "d": "antecipa, pela geometrização, a ruptura cubista da arte moderna",
+        "e": "inaugura o impressionismo ao registrar a luz de um instante"
+      },
+      "resposta": "d",
+      "explicacao": "As figuras são reduzidas a volumes elementares — cilindro, cone, esfera — e é dessa lição que Picasso e Braque partiriam vinte anos depois. Cézanne está na dobradiça entre um regime de representação e outro. Em (e) está o distrator mais informado, porque Cézanne participou do impressionismo e expôs com o grupo; a associação ao eixo, porém, vem do que ele antecipa, e não do que ele deixou para trás. Em (b) e (c), a cena é rural e não documental. Em (a), não há base fotográfica."
+    },
+    {
+      "id": "obra-morte-marat-q5",
+      "enunciado": "O fato de Jacques-Louis David ser amigo pessoal e aliado político de Marat afeta a interpretação da obra sobretudo porque:",
+      "alternativas": {
+        "a": "torna a pintura registro neutro e documental do assassinato",
+        "b": "reforça o caráter de propaganda, pois o pintor quis heroicizar Marat",
+        "c": "invalida o valor artístico da obra pelo conflito de interesses",
+        "d": "demonstra que David era contrário ao movimento jacobino",
+        "e": "explica a fidelidade anatômica com que a ferida do peito foi representada"
+      },
+      "resposta": "b",
+      "explicacao": "David era jacobino e organizou o funeral de Marat; a tela idealiza o corpo, suaviza a doença de pele e compõe a cena como uma piedade cristã laica — é peça de culto político, não registro. Em (e) está o distrator mais sedutor, porque a amizade poderia sugerir precisão; ela produz o contrário, e a proximidade serviu para embelezar em vez de documentar. Em (a), a neutralidade é o que a obra não tem. Em (c), o engajamento não anula o valor artístico. Em (d), David era aliado dos jacobinos."
+    },
+    {
+      "id": "obra-pagador-promessas-q1",
+      "enunciado": "O filme 'O Pagador de Promessas' (1962), de Anselmo Duarte, ocupa lugar único na história do cinema brasileiro por qual conquista internacional?",
+      "alternativas": {
+        "a": "venceu a Palma de Ouro em Cannes, único brasileiro a consegui-lo",
+        "b": "abriu a primeira edição do Festival de Brasília de Cinema",
+        "c": "recebeu o Oscar de melhor filme estrangeiro em 1962",
+        "d": "foi o primeiro filme brasileiro exibido oficialmente em Veneza",
+        "e": "foi o primeiro filme falado em português exibido no Festival de Cannes"
+      },
+      "resposta": "a",
+      "explicacao": "A Palma de Ouro de 1962 segue sendo a única conquistada por um longa brasileiro, e é isso que dá ao filme o lugar único de que fala o enunciado. Em (c) está o distrator mais frequente: o filme foi indicado ao Oscar de melhor filme estrangeiro, e a indicação costuma ser lembrada como prêmio — mas ele não venceu. Em (e), houve filmes brasileiros em Cannes antes dele. Em (b) e (d), nem a abertura em Brasília nem o pioneirismo em Veneza lhe pertencem."
+    }
+  ]
+}

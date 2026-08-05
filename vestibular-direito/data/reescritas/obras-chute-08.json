@@ -1,0 +1,200 @@
+{
+  "questoes": [
+    {
+      "id": "obra-laranja-mecanica-q1",
+      "enunciado": "Sobre a produção de Laranja Mecânica (1971), de Stanley Kubrick, é correto afirmar que",
+      "alternativas": {
+        "a": "venceu Melhor Filme e Melhor Diretor no Oscar de 1972",
+        "b": "adapta o romance de Burgess e foi retirado do Reino Unido por Kubrick",
+        "c": "o roteiro é inteiramente de Kubrick, sem base em romance de outro autor",
+        "d": "permaneceu proibido nos Estados Unidos durante toda a década de 1970",
+        "e": "foi indicado ao Oscar de Melhor Filme e venceu na categoria de Melhor Roteiro"
+      },
+      "resposta": "b",
+      "explicacao": "O filme adapta o romance de Anthony Burgess, e a retirada de circulação britânica partiu do próprio diretor, depois de ameaças à família e de crimes atribuídos à influência do filme — decisão que durou até a morte dele. Em (e) está o distrator mais difícil: as indicações ao Oscar de 1972 existiram, inclusive a de roteiro adaptado, mas o filme não venceu nenhuma. Em (a), quem levou Filme e Diretor foi Operação França. Em (c), há romance na base. Em (d), a exibição nos Estados Unidos nunca foi proibida."
+    },
+    {
+      "id": "obra-laranja-mecanica-q2",
+      "enunciado": "O tratamento a que Alex é submetido na prisão, conhecido como Técnica Ludovico, está no centro do debate do filme sobre",
+      "alternativas": {
+        "a": "a eficácia de tratamentos psiquiátricos para reincidência criminal",
+        "b": "a necessidade de ampliar penas de prisão para jovens infratores",
+        "c": "a possibilidade de o Estado anular o livre-arbítrio do indivíduo",
+        "d": "os limites da censura estatal sobre os meios de comunicação",
+        "e": "a superioridade da reabilitação sobre a punição no sistema penal"
+      },
+      "resposta": "c",
+      "explicacao": "A pergunta que o capelão formula é a do filme inteiro: um homem impedido de escolher o mal continua sendo homem? A técnica funciona, e é justamente por funcionar que ela incomoda. Em (e) está o distrator mais sofisticado, porque reabilitar contra punir é debate real de política penal — o filme, porém, não escolhe entre os dois, e sim questiona se uma reabilitação imposta ainda é moralmente admissível. Em (a), a eficácia clínica não é o problema. Em (b) e (d), pena de prisão e censura não são o eixo."
+    },
+    {
+      "id": "obra-laranja-mecanica-q3",
+      "enunciado": "Em Laranja Mecânica, o grupo de jovens liderado por Alex DeLarge é caracterizado por",
+      "alternativas": {
+        "a": "praticar violência gratuita e falar a gíria inventada Nadsat",
+        "b": "trabalhar como funcionário subalterno da prisão onde Alex cumpre pena",
+        "c": "vestir uniforme escolar e frequentar um internato disciplinar rigoroso",
+        "d": "integrar uma orquestra amadora dedicada a obras de Beethoven",
+        "e": "organizar protestos políticos contra o governo retratado no filme"
+      },
+      "resposta": "a",
+      "explicacao": "Os droogs agridem sem motivo e falam uma gíria construída por Burgess a partir do russo, o que afasta o espectador do horror ao mesmo tempo que o obriga a decifrá-lo. Em (d) está o distrator que aproveita um elemento real do filme — Alex é devoto de Beethoven, e a Nona é usada no condicionamento —, mas o gosto é individual dele e não define o grupo. Em (b), um dos ex-membros vira policial, e não funcionário da prisão. Em (c) e (e), não há internato nem militância política."
+    },
+    {
+      "id": "obra-laranja-mecanica-q4",
+      "texto_apoio": "Laranja Mecânica e The Post: A Guerra Secreta integram o eixo modernidade/pós-modernidade da FGV.",
+      "enunciado": "Comparando as duas obras quanto à desconfiança em relação às instituições, é correto afirmar que",
+      "alternativas": {
+        "a": "os dois discutem a moralidade da pena de morte para jovens infratores",
+        "b": "os dois discutem apenas a validade de eleições presidenciais americanas",
+        "c": "os dois tratam do papel da família na educação dos filhos",
+        "d": "um questiona o controle da mente pelo Estado, o outro o sigilo estatal",
+        "e": "os dois defendem que a instituição sempre age no interesse público"
+      },
+      "resposta": "d",
+      "explicacao": "A desconfiança é a mesma e o objeto muda: num caso o Estado invade a consciência do indivíduo, no outro esconde do público o que decidiu em seu nome. Em (e) está a posição contrária à que os dois filmes sustentam, e reconhecer isso é o que a comparação pede. Em (a), a pena de morte não aparece em nenhum dos dois. Em (b), The Post trata de sigilo sobre a Guerra do Vietnã, e não de eleições. Em (c), a família não é o eixo comum."
+    },
+    {
+      "id": "obra-laranja-mecanica-q5",
+      "enunciado": "O desfecho de Laranja Mecânica, em que o condicionamento de Alex é revertido pelo governo, pode ser interpretado como",
+      "alternativas": {
+        "a": "prova de que a violência juvenil retratada era exagerada e sem fundamento",
+        "b": "celebração do sucesso da Técnica Ludovico como política de segurança",
+        "c": "indício de que Alex jamais fora submetido a tratamento científico algum",
+        "d": "sugestão de que Alex se regenerou de fato, dispensando o condicionamento",
+        "e": "crítica ao uso político da cura, mais atenta à imagem do que à moral"
+      },
+      "resposta": "e",
+      "explicacao": "O mesmo governo que impôs o tratamento o desfaz quando ele vira escândalo, e a foto ao lado do ministro fecha o filme: a decisão nunca foi sobre o que é certo, e sim sobre o que repercute. Em (d) está o distrator mais tentador, porque a frase final de Alex sugere restauração — o que se restaura, porém, é a capacidade de escolher o mal, não a regeneração. Em (b), a reversão é o contrário de celebração. Em (a) e (c), a violência e o tratamento são fatos da trama."
+    },
+    {
+      "id": "obra-arte-reza-q1",
+      "enunciado": "A peça 'Arte', de Yasmina Reza, estreou em Paris em 1994 e alcançou reconhecimento internacional nas décadas seguintes. Sobre o contexto de produção e a estrutura da obra, é correto afirmar que",
+      "alternativas": {
+        "a": "foi escrita em inglês por autora britânica e traduzida ao francês",
+        "b": "tem cinco atos e segue as unidades clássicas de tempo e espaço",
+        "c": "foi escrita como roteiro de cinema e adaptada ao teatro depois",
+        "d": "é em ato único, com diálogos e monólogos dirigidos ao público",
+        "e": "é monólogo de um só ator que interpreta os três amigos em cena"
+      },
+      "resposta": "d",
+      "explicacao": "A peça corre sem intervalo, e as cenas de conversa são cortadas por falas em que cada personagem se dirige diretamente à plateia — recurso que dá ao espectador acesso ao que os amigos não dizem uns aos outros. Em (e) está o distrator mais fino, porque os monólogos são reais e chamativos; eles são, porém, distribuídos entre três atores, e não concentrados em um. Em (b), não há cinco atos nem estrutura clássica. Em (a) e (c), Reza é francesa e escreveu para o teatro."
+    },
+    {
+      "id": "obra-arte-reza-q2",
+      "enunciado": "O conflito entre Serge e Marc a respeito do quadro branco comprado por um preço altíssimo permite discutir, no eixo globalização, principalmente",
+      "alternativas": {
+        "a": "toda arte contemporânea é fraude deliberada, sem legitimidade estética",
+        "b": "não existia mercado de arte antes do século XX, quando não havia preço",
+        "c": "fetichismo da mercadoria: o objeto vale pelo prestígio que o cerca",
+        "d": "o valor da tela depende do tamanho e do material nela empregado",
+        "e": "o preço da obra reflete com precisão o trabalho técnico do artista"
+      },
+      "resposta": "c",
+      "explicacao": "A tela é quase nada — branco sobre branco — e custa uma fortuna: o preço não vem do objeto, vem do circuito de galerias, críticos e compradores que o legitima, e é isso que enfurece Marc. Em (a) está a conclusão apressada que a peça evita: ela expõe o mecanismo sem decretar que toda arte contemporânea é embuste, e o desfecho justamente recusa esse veredito. Em (e) e (d), técnica e material são o que o caso desmente. Em (b), o mercado de arte é anterior ao século XX."
+    },
+    {
+      "id": "obra-arte-reza-q3",
+      "enunciado": "Sobre os elementos concretos da trama de 'Arte', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Serge compra uma tela branca por quantia exorbitante, e Marc se enfurece",
+        "b": "Yvan compra o quadro e o exibe com orgulho na primeira cena da peça",
+        "c": "Marc é quem vai se casar, o que o deixa tolerante com os gastos de Serge",
+        "d": "os três concordam desde o início que a tela é uma obra-prima",
+        "e": "o quadro é uma tela figurativa clássica, o que Marc considera brega"
+      },
+      "resposta": "a",
+      "explicacao": "A compra é de Serge, a tela é branca com finas linhas diagonais quase invisíveis, e a reação de Marc põe a peça em movimento. Em (c) está a troca de personagem que a questão testa: quem se casa é Yvan, e é por isso que ele chega às cenas exausto e disposto a concordar com todo mundo. Em (e), a tela é monocromática, e é essa quase ausência de imagem que gera o conflito. Em (b), Yvan não compra nada. Em (d), o desacordo é o motor da peça."
+    },
+    {
+      "id": "obra-arte-reza-q4",
+      "enunciado": "Marc e Yvan representam, na peça, posturas distintas diante do conflito gerado pela compra do quadro. Pode-se afirmar que",
+      "alternativas": {
+        "a": "Marc condena a compra e Yvan tenta conciliar para não romper o grupo",
+        "b": "Yvan compra um segundo quadro idêntico só para provocar Marc",
+        "c": "Marc apoia a compra e Yvan é o único a criticar o quadro branco",
+        "d": "os dois desprezam Serge e querem o fim da amizade desde a primeira cena",
+        "e": "Yvan toma partido de Marc e ambos rompem com Serge no segundo ato"
+      },
+      "resposta": "a",
+      "explicacao": "Marc não consegue calar o desprezo e Yvan não consegue tomar partido — é o contraste entre os dois que expõe o que estava por baixo de vinte e cinco anos de amizade. Em (e) está o distrator mais plausível, porque a pressão para escolher um lado existe; Yvan, porém, resiste a ela até o fim, e sua recusa em decidir é o traço que o define. Em (c), as posições estão invertidas. Em (b), não há segundo quadro. Em (d), nenhum dos dois quer romper."
+    },
+    {
+      "id": "obra-arte-reza-q5",
+      "enunciado": "O desfecho de 'Arte', em que Marc aceita ver algo de valor no quadro de Serge, sugere sobretudo que",
+      "alternativas": {
+        "a": "Serge desiste da pintura e a devolve à galeria diante dos amigos",
+        "b": "Marc se convence de que o quadro é obra-prima superior a toda pintura figurativa",
+        "c": "os três encerram a amizade ao final e nunca mais se falam",
+        "d": "a amizade exige concessão e reinterpretação, não a vitória de um lado",
+        "e": "o quadro é destruído, e é a destruição que reconcilia os três amigos"
+      },
+      "resposta": "d",
+      "explicacao": "Ninguém convence ninguém: Serge oferece a tela a Marc para que ele a marque, Marc descreve nela uma cena que só ele vê, e a amizade continua sobre uma ficção que os dois aceitam sustentar. Em (e) está o distrator mais próximo do que acontece em cena, porque Marc de fato desenha sobre o quadro — a caneta, porém, é lavável, e Serge sabia disso, o que faz do gesto um teste e não uma destruição. Em (b), Marc não muda de opinião sobre o valor da tela. Em (a) e (c), não há devolução nem ruptura."
+    },
+    {
+      "id": "obra-calice-criolo-q1",
+      "enunciado": "A releitura de \"Cálice\" feita por Criolo se insere em um movimento mais amplo de sua carreira, marcado por:",
+      "alternativas": {
+        "a": "o diálogo entre o rap paulistano e a tradição da MPB de crítica social",
+        "b": "a reconstrução fiel de sambas-enredo cariocas dos anos 1930",
+        "c": "a composição de trilhas instrumentais para cinema, sem parte cantada",
+        "d": "o afastamento da MPB, com prioridade só para referências do hip-hop americano",
+        "e": "a gravação exclusiva de versões de canções alheias, sem obra autoral"
+      },
+      "resposta": "a",
+      "explicacao": "Criolo vem do rap e atravessa samba, afrobeat e MPB sem trocar de lugar de fala, e a releitura de Cálice é um caso exemplar dessa ponte entre a periferia paulistana e a canção de protesto dos anos 1970. Em (d) está a leitura mais comum sobre rappers e a mais errada neste caso: o diálogo com a MPB é constitutivo da obra dele. Em (e), Criolo é compositor antes de intérprete. Em (b) e (c), samba-enredo carioca e trilha instrumental não descrevem sua produção."
+    },
+    {
+      "id": "obra-calice-criolo-q2",
+      "enunciado": "A releitura de \"Cálice\" por Criolo pode ser lida sob dois eixos temáticos da prova ao mesmo tempo porque:",
+      "alternativas": {
+        "a": "trata só de tema histórico do século XIX, sem relação com o presente",
+        "b": "ignora a canção de Chico e Gil, criando letra sem relação temática",
+        "c": "reativa a memória da censura e a faz circular entre gêneros",
+        "d": "aborda só questões de tecnologia digital, sem relação com censura",
+        "e": "transpõe a canção para o inglês, ampliando seu alcance internacional"
+      },
+      "resposta": "c",
+      "explicacao": "O gesto tem duas camadas: recupera um símbolo da ditadura e o transporta do samba-canção para o rap, o que o faz atravessar tempo e gênero de uma vez — daí caber em dois eixos. Em (e) está o distrator que parece atender ao eixo da globalização e não corresponde ao que a releitura faz: ela permanece em português e circula entre gêneros, não entre idiomas. Em (b), a relação com o original é o ponto de partida. Em (a) e (d), nem o século XIX nem a tecnologia digital estão em causa."
+    },
+    {
+      "id": "obra-calice-criolo-q3",
+      "enunciado": "Um elemento estrutural mantido por Criolo em sua releitura de \"Cálice\", em relação à composição original de Chico Buarque e Gilberto Gil, é:",
+      "alternativas": {
+        "a": "a substituição do tema da censura por narrativa amorosa sem crítica",
+        "b": "a tradução integral da letra para o inglês, mantendo só a melodia",
+        "c": "o trocadilho entre o cálice bíblico e o pedido de silêncio",
+        "d": "a ausência de referência sonora ou temática à canção original",
+        "e": "a manutenção integral da melodia e do arranjo de violão originais"
+      },
+      "resposta": "c",
+      "explicacao": "O achado da canção de 1973 é fonético: cálice e cale-se soam igual, e a censura fica registrada na própria palavra que a nomeia. É esse núcleo que a releitura conserva, e sem ele não haveria releitura. Em (e) está o distrator mais próximo, porque manter algo do original é a premissa da pergunta — o que se mantém, porém, é o jogo verbal, e não o arranjo, que é justamente o que Criolo refaz. Em (a) e (d), o tema e a referência permanecem. Em (b), não há tradução."
+    },
+    {
+      "id": "obra-calice-criolo-q4",
+      "enunciado": "Em relação à versão original de Chico Buarque e Gilberto Gil, a releitura de Criolo se diferencia sobretudo:",
+      "alternativas": {
+        "a": "pela autoria, pois Criolo reivindica ter composto a letra antes deles",
+        "b": "pelo idioma, pois a releitura é cantada inteiramente em outra língua",
+        "c": "pelo tema, já que Criolo trata de assuntos sem relação com censura",
+        "d": "pela linguagem musical, que incorpora rap e música urbana ao arranjo",
+        "e": "pela extensão, pois a versão de Criolo tem menos de um minuto de duração"
+      },
+      "resposta": "d",
+      "explicacao": "O que muda é o corpo sonoro: o violão e a voz de 1973 dão lugar a batida, fraseado e dicção do rap, e a mesma denúncia passa a soar vinda de outro lugar da cidade. Em (c) está a inversão do que a releitura faz — é a permanência do tema, atualizado, que dá sentido ao gesto. Em (a), Criolo nunca reivindicou a autoria original. Em (b), a versão é em português. Em (e), a duração não é o traço distintivo."
+    },
+    {
+      "id": "obra-calice-criolo-q5",
+      "enunciado": "O gesto de Criolo de revisitar uma canção símbolo da censura da ditadura militar sugere, sobretudo, que:",
+      "alternativas": {
+        "a": "a releitura não guarda relação de sentido com o contexto original",
+        "b": "símbolos de resistência podem ser reativados por novas gerações",
+        "c": "Criolo pretende apagar a memória da canção original e substituí-la",
+        "d": "o tema da censura perdeu relevância, tornando a releitura nostálgica",
+        "e": "a canção original já previa o rap como forma futura de resistência"
+      },
+      "resposta": "b",
+      "explicacao": "Cantar Cálice hoje é dizer que o silenciamento mudou de forma sem desaparecer, e que um símbolo de 1973 ainda serve para nomear o que se cala agora. Em (d) está a leitura que esvazia o gesto: se o tema tivesse perdido relevância, a releitura seria peça de museu, e é justamente por ele persistir que ela existe. Em (c), a versão convive com a original em vez de substituí-la. Em (a), a relação com o contexto é o que a sustenta. Em (e), atribuir previsão à canção de 1973 é anacronismo."
+    }
+  ]
+}

@@ -795,15 +795,14 @@ if ($avisos.Count -gt 0) {
   $avisos | ForEach-Object { Write-Output "  ~ $_" }
 }
 
-if ($falhas.Count -gt 0) {
-  Write-Output ""
-  Write-Output "--- FALHAS ($($falhas.Count)) ---"
-  $falhas | ForEach-Object { Write-Output "  ! $_" }
-  Write-Output ""
-  Write-Output "REPROVADO."
-  exit 1
-}
-
+# Os dois blocos de baseline vêm ANTES do exit das falhas de propósito.
+# Enquanto a campanha de chutabilidade não fechar, alguma frente vai estar
+# acima da meta de 30% em toda rodada, e o banco inteiro reprova. Se a
+# gravação ficasse depois do exit, -AtualizarChutabilidade só funcionaria
+# quando já não fosse necessário, e a catraca passaria a campanha inteira
+# comparando contra um número velho — sem proteger nada. Gravar aqui é
+# seguro porque as duas escritas exigem a flag explícita, e a flag já
+# desliga a comparação da catraca: não existe alarme para apagar.
 if ($AtualizarContagem) {
   $dir = Split-Path -Parent $contagemPath
   if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Force $dir | Out-Null }
@@ -828,6 +827,15 @@ if ($AtualizarChutabilidade) {
   [System.IO.File]::WriteAllText($chutePath, $txt, [System.Text.UTF8Encoding]::new($false))
   Write-Output ""
   Write-Output "Baseline de chutabilidade atualizada em data/reescritas/_chutabilidade.json (global: $chuteGlobal%)"
+}
+
+if ($falhas.Count -gt 0) {
+  Write-Output ""
+  Write-Output "--- FALHAS ($($falhas.Count)) ---"
+  $falhas | ForEach-Object { Write-Output "  ! $_" }
+  Write-Output ""
+  Write-Output "REPROVADO."
+  exit 1
 }
 
 Write-Output ""

@@ -110,13 +110,14 @@ window.OBRAS_QUESTOES = {
                                       "id":  "obra-ruptura-castells-q4",
                                       "enunciado":  "Diferentemente de Hannah Arendt em \"As Origens do Totalitarismo\", que analisa a ruptura política do século XX marcada pelo totalitarismo de Estado, Manuel Castells em \"Ruptura\" concentra-se em:",
                                       "alternativas":  {
-                                                           "a":  "uma crise contemporânea da democracia liberal ligada à comunicação em rede, à pós-verdade e à vigilância de dados, sem regime totalitário centralizado",
-                                                           "b":  "uma defesa entusiasmada da eficiência dos regimes autoritários de partido único como alternativa à democracia liberal",
-                                                           "c":  "uma reconstrução histórica do nazismo alemão e do stalinismo soviético como fenômenos idênticos ao populismo atual",
-                                                           "d":  "uma análise exclusivamente literária de romances distópicos publicados ao longo do século XX, sem qualquer base documental histórica"
+                                                           "a":  "crise da democracia liberal ligada à rede, pós-verdade e vigilância",
+                                                           "b":  "defesa da eficiência dos regimes autoritários de partido único",
+                                                           "c":  "reconstrução do nazismo e do stalinismo como idênticos ao populismo",
+                                                           "d":  "análise literária de romances distópicos, sem base documental",
+                                                           "e":  "o retorno do totalitarismo de Estado nos mesmos moldes que Arendt descreveu"
                                                        },
                                       "resposta":  "a",
-                                      "explicacao":  "Castells diagnostica uma crise institucional contemporânea ligada a redes digitais, pós-verdade e vigilância, sem que exista um regime totalitário centralizado como o analisado por Arendt — a obra não é uma defesa do autoritarismo, nem análise literária, nem equivalência entre nazismo/stalinismo e populismo atual."
+                                      "explicacao":  "Castells descreve uma erosão que vem de dentro: a democracia liberal perde legitimidade sem que um partido único a substitua, e os agentes são a comunicação em rede, a pós-verdade e a vigilância de dados. Em (e) está o distrator que o enunciado pede para descartar — a diferença em relação a Arendt está justamente na ausência de um regime totalitário centralizado. Em (c), equiparar nazismo e populismo atual desfaz a distinção. Em (b) e (d), não há defesa do autoritarismo nem análise literária."
                                   },
                                   {
                                       "id":  "obra-ruptura-castells-q5",
@@ -136,25 +137,27 @@ window.OBRAS_QUESTOES = {
                                 "id":  "obra-bras-cubas-q1",
                                 "enunciado":  "Memórias Póstumas de Brás Cubas foi publicado em 1881 e costuma ser apontado pela crítica como um marco na trajetória de Machado de Assis. Esse marco corresponde a:",
                                 "alternativas":  {
-                                                     "a":  "Marca a transição de uma fase romântica inicial para uma fase madura, com ironia e experimentação formal.",
-                                                     "b":  "A estreia literária do autor, que não havia publicado nenhum romance antes de 1881.",
-                                                     "c":  "A adesão do autor ao naturalismo determinista, seguindo diretamente o modelo de Émile Zola.",
-                                                     "d":  "O abandono definitivo do Rio de Janeiro como cenário, com a trama toda ambientada na Europa."
+                                                     "a":  "a passagem da fase romântica à madura, com ironia e experimentação",
+                                                     "b":  "a estreia literária do autor, sem romance anterior a 1881",
+                                                     "c":  "a adesão ao naturalismo determinista, seguindo o modelo de Émile Zola",
+                                                     "d":  "o abandono do Rio como cenário, com a trama toda na Europa",
+                                                     "e":  "o primeiro romance brasileiro narrado em primeira pessoa"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "Antes de 1881, Machado já havia publicado romances de tom mais romântico, como Ressurreição, A Mão e a Luva, Helena e Iaiá Garcia. Brás Cubas inaugura sua fase mais irônica e experimental. A trama continua ambientada no Rio de Janeiro (b é falsa), não é sua estreia (c é falsa) e Machado se distancia do determinismo naturalista de Zola (d é falsa)."
+                                "explicacao":  "1881 é a linha que a crítica traça: antes, romances de enredo e convenção; depois, um narrador que interrompe, provoca e desmonta a própria história. Em (c) está a confusão mais frequente do período — o naturalismo é contemporâneo, e Machado escreve contra ele, tratando a conduta como matéria de análise e não como efeito de raça e meio. Em (b), há quatro romances anteriores. Em (d), o Rio permanece o cenário. Em (e), a primeira pessoa já existia na ficção brasileira."
                             },
                             {
                                 "id":  "obra-bras-cubas-q2",
                                 "enunciado":  "A crítica associa Brás Cubas a uma sensibilidade \u0027pós-moderna avant la lettre\u0027. Essa leitura se apoia sobretudo:",
                                 "alternativas":  {
-                                                     "a":  "No uso de um narrador morto que expõe os bastidores da escrita e desconfia de contar uma verdade única.",
-                                                     "b":  "Na ambientação da trama em um Brasil futurista, situado além do século em que foi escrito.",
-                                                     "c":  "No fato de narrar com precisão documental os acontecimentos do Segundo Reinado ao longo dos capítulos.",
-                                                     "d":  "No emprego sistemático de gírias urbanas idênticas às utilizadas atualmente no cotidiano brasileiro."
+                                                     "a":  "na ambientação num Brasil futurista, além do século em que foi escrito",
+                                                     "b":  "no registro documental preciso dos acontecimentos do Segundo Reinado",
+                                                     "c":  "no narrador morto que expõe os bastidores e desconfia da verdade",
+                                                     "d":  "no emprego de gírias urbanas idênticas às usadas hoje no Brasil",
+                                                     "e":  "na recusa de qualquer enredo, já que o livro não tem acontecimentos"
                                                  },
-                                "resposta":  "a",
-                                "explicacao":  "O narrador defunto, que interrompe a narrativa, dialoga com o leitor e questiona sua própria confiabilidade, antecipa recursos ligados à desconfiança pós-moderna em relação a narrativas totalizantes. O romance não pretende precisão documental (a), não é futurista (c) e não usa gírias contemporâneas (d)."
+                                "resposta":  "c",
+                                "explicacao":  "O defunto autor comenta a própria escrita, dedica capítulos a digressões e avisa o leitor de que o livro poderia ser outro — procedimentos que a crítica reconheceria como pós-modernos um século depois. Em (e) está o exagero mais próximo: há metaficção e digressão, mas também há enredo, com Virgília, o emplasto e a carreira frustrada. Em (b), a precisão documental é o oposto da ironia machadiana. Em (a) e (d), não há futurismo nem gíria contemporânea."
                             },
                             {
                                 "id":  "obra-bras-cubas-q3",
@@ -198,13 +201,14 @@ window.OBRAS_QUESTOES = {
                                   "id":  "obra-hora-estrela-q1",
                                   "enunciado":  "A Hora da Estrela, de Clarice Lispector, foi publicado em 1977, pouco antes da morte da autora. Sobre o contexto de produção da obra, é correto afirmar que:",
                                   "alternativas":  {
-                                                       "a":  "Marca uma aproximação a temas sociais e à voz de uma personagem pobre e nordestina, sem abandonar o questionamento existencial de sua prosa.",
-                                                       "b":  "Substitui por completo o estilo introspectivo da autora por uma narrativa jornalística sem qualquer mediação ficcional.",
-                                                       "c":  "Foi o romance de estreia da autora, ainda escrito quando ela vivia na Ucrânia, país de seu nascimento.",
-                                                       "d":  "Foi escrito em parceria direta com Graciliano Ramos, como parte de um projeto sobre a seca nordestina."
+                                                       "a":  "aproxima-se de tema social e de voz pobre, sem largar o existencial",
+                                                       "b":  "substitui o estilo introspectivo por narrativa jornalística sem ficção",
+                                                       "c":  "foi o romance de estreia, escrito quando a autora vivia na Ucrânia",
+                                                       "d":  "foi escrito em parceria com Graciliano Ramos sobre a seca nordestina",
+                                                       "e":  "foi publicado postumamente, organizado por editores a partir de notas"
                                                    },
                                   "resposta":  "a",
-                                  "explicacao":  "Clarice já tinha uma longa carreira antes de 1977 (a é falsa, seu romance de estreia foi Perto do Coração Selvagem, de 1943); não há parceria com Graciliano Ramos (c é falsa); o livro mantém forte reflexão metaficcional e existencial (d é falsa)."
+                                  "explicacao":  "Macabéa é a personagem mais pobre e mais desprovida de linguagem da obra de Clarice, e ainda assim o livro conserva o narrador que se interroga sobre o direito de contá-la — o social entra sem expulsar o existencial. Em (e) está o distrator mais plausível, porque a autora morreu poucos meses depois; o livro, contudo, saiu em vida e por decisão dela. Em (b), a mediação ficcional é o assunto do romance. Em (c), a estreia é de 1943. Em (d), não houve parceria."
                               },
                               {
                                   "id":  "obra-hora-estrela-q2",
@@ -273,13 +277,14 @@ window.OBRAS_QUESTOES = {
                                  "id":  "obra-torto-arado-q2",
                                  "enunciado":  "Torto Arado retrata relações de trabalho em uma fazenda baiana marcadas por dívidas, dependência e falta de autonomia dos moradores da terra. Essa representação dialoga com o eixo modernidade/pós-modernidade cobrado pela banca porque:",
                                  "alternativas":  {
-                                                      "a":  "Demonstra que, após a abolição, o Brasil eliminou por completo o trabalho servil no campo, encerrando toda forma de exploração rural no país.",
-                                                      "b":  "Sustenta que a vida urbana moderna e a vida rural do romance são realidades sem qualquer conexão histórica ou social entre si.",
-                                                      "c":  "Defende que o atraso do campo é resultado exclusivo do clima da região, sem relação alguma com heranças históricas do país.",
-                                                      "d":  "Evidencia como estruturas herdadas da escravidão persistem num país formalmente moderno, revelando limites da modernização institucional."
+                                                      "a":  "após a abolição, o Brasil eliminou o trabalho servil no campo",
+                                                      "b":  "a vida urbana e a vida rural do romance não têm conexão histórica",
+                                                      "c":  "o atraso do campo resulta do clima, sem herança histórica",
+                                                      "d":  "estruturas da escravidão persistem num país formalmente moderno",
+                                                      "e":  "a modernização chegou ao campo e apagou as hierarquias anteriores"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "O romance mostra justamente o contrário da alternativa a: práticas próximas da servidão persistem muito depois da abolição formal, revelando que a modernização institucional não elimina estruturas sociais arcaicas, o que também contraria as alternativas c e d."
+                                 "explicacao":  "A fazenda do romance é posterior à abolição em mais de um século e reproduz sua lógica: moradores sem terra, dívida que não se quita, casa que se perde ao desagradar o patrão. A modernidade é jurídica, e não vivida. Em (e) está exatamente a promessa que o livro desmente. Em (a), a persistência do trabalho análogo ao escravo é o assunto. Em (c), o clima não explica a estrutura fundiária. Em (b), campo e cidade estão ligados pela mesma herança."
                              },
                              {
                                  "id":  "obra-torto-arado-q3",
@@ -310,13 +315,14 @@ window.OBRAS_QUESTOES = {
                                  "texto_apoio":  "Um episódio central da infância das irmãs Bibiana e Belonísia é o contato com uma faca guardada sob a cama da avó, que resulta em um grave acidente.",
                                  "enunciado":  "Esse episódio pode ser interpretado como:",
                                  "alternativas":  {
-                                                      "a":  "Um marco que atravessa a vida das irmãs, ligando-as a uma herança de silêncios e forças da comunidade rural.",
-                                                      "b":  "Um episódio cômico que alivia a tensão dramática, sem maiores consequências no enredo.",
-                                                      "c":  "Um símbolo do rompimento definitivo e feliz das irmãs com as tradições da comunidade.",
-                                                      "d":  "Uma alegoria da modernização tecnológica que chega à fazenda por novos instrumentos agrícolas."
+                                                      "a":  "episódio cômico que alivia a tensão, sem consequência no enredo",
+                                                      "b":  "símbolo do rompimento feliz das irmãs com as tradições da comunidade",
+                                                      "c":  "alegoria da modernização tecnológica que chega pela nova ferramenta",
+                                                      "d":  "prova de negligência da avó, que o romance julga com severidade",
+                                                      "e":  "marco que liga as irmãs a uma herança de silêncios da comunidade"
                                                   },
-                                 "resposta":  "a",
-                                 "explicacao":  "O acidente com a faca, que deixa Belonísia muda, é um marco simbólico que acompanha as duas irmãs ao longo de todo o romance, e não um episódio cômico, tecnológico ou de ruptura feliz com a comunidade."
+                                 "resposta":  "e",
+                                 "explicacao":  "Uma das irmãs perde a língua, e a mudez que se instala organiza o resto do livro: a faca guardada, o que não se conta, o que se transmite sem palavra. O acidente é a imagem de uma comunidade que herda silêncios. Em (d) está a leitura mais tentadora, porque a faca estava mesmo ao alcance das meninas; o romance, porém, não constrói culpa individual, e sim uma cadeia de heranças. Em (b), não há rompimento feliz. Em (a) e (c), o episódio é grave e simbólico, não cômico nem tecnológico."
                              }
                          ],
     "obra-vidas-secas":  [
@@ -403,13 +409,14 @@ window.OBRAS_QUESTOES = {
                                "id":  "obra-bem-amado-q2",
                                "enunciado":  "A sátira construída por Dias Gomes em \u0027O Bem-Amado\u0027 relaciona-se ao eixo modernidade-pós-modernidade sobretudo porque:",
                                "alternativas":  {
-                                                    "a":  "expõe o contraste entre um discurso de progresso e modernização e a permanência de práticas políticas arcaicas e clientelistas.",
-                                                    "b":  "propõe que somente reformas educacionais radicais seriam capazes de modernizar a administração pública municipal.",
-                                                    "c":  "narra a transição pacífica e bem-sucedida de Sucupira de uma economia agrária para uma economia industrial moderna.",
-                                                    "d":  "defende que o avanço tecnológico das cidades grandes deveria substituir por completo a política tradicional do interior."
+                                                    "a":  "o contraste entre discurso de progresso e prática política arcaica",
+                                                    "b":  "só reformas educacionais radicais modernizariam a administração",
+                                                    "c":  "a transição pacífica de Sucupira da economia agrária para a industrial",
+                                                    "d":  "o avanço tecnológico das cidades deveria substituir a política do interior",
+                                                    "e":  "a modernização do país já eliminou o clientelismo das cidades pequenas"
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "A peça satiriza o descompasso entre a retórica modernizadora de Odorico e a manutenção de práticas de poder pessoal e clientelista típicas do coronelismo, tema central do eixo modernidade-pós-modernidade."
+                               "explicacao":  "Odorico inaugura um cemitério como se fosse obra de progresso, e a piada é exatamente essa: o vocabulário da modernização a serviço da mesma política de favor e compadrio de sempre. Em (e) está a tese que a sátira existe para desmentir. Em (c), Sucupira não industrializa nada. Em (b) e (d), a peça não propõe reforma educacional nem substituição tecnológica — ela expõe o descompasso sem receitar solução."
                            },
                            {
                                "id":  "obra-bem-amado-q3",
@@ -427,13 +434,14 @@ window.OBRAS_QUESTOES = {
                                "id":  "obra-bem-amado-q4",
                                "enunciado":  "Tanto \u0027O Bem-Amado\u0027, de Dias Gomes, quanto o \u0027Manifesto Antropófago\u0027, de Oswald de Andrade, integram o repertório de obras obrigatórias por também compartilharem:",
                                "alternativas":  {
-                                                    "a":  "uma estrutura idêntica de peça teatral em três atos, com personagens e enredo praticamente idênticos entre as duas obras.",
-                                                    "b":  "uma origem estrangeira, já que ambos os autores teriam nascido e vivido fora do Brasil durante toda a vida, segundo essa leitura equivocada.",
-                                                    "c":  "o mesmo período histórico de composição, tendo sido escritas e publicadas exatamente no mesmo ano da década de 1920.",
-                                                    "d":  "uma reflexão crítica sobre aspectos da formação social e cultural brasileira, ainda que por meio de gêneros e recursos muito diferentes."
+                                                    "a":  "estrutura idêntica de peça em três atos, com enredo semelhante",
+                                                    "b":  "origem estrangeira, já que os autores viveram fora do Brasil",
+                                                    "c":  "o mesmo ano de composição, ambos na década de 1920",
+                                                    "d":  "reflexão crítica sobre a formação social e cultural brasileira",
+                                                    "e":  "o uso do humor como recurso central de crítica social nas duas obras"
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "Apesar de pertencerem a gêneros muito diferentes — comédia teatral e manifesto modernista —, ambas as obras oferecem, à sua maneira, uma crítica da formação social, política ou cultural do Brasil, o que justifica sua presença conjunta no eixo de leitura da banca."
+                               "explicacao":  "Um pergunta o que o país come e devolve, o outro mostra como ele se governa — gêneros e décadas distintos para a mesma indagação sobre o que o Brasil é. Em (e) está o distrator mais fino: o humor é o recurso central de Dias Gomes, mas o manifesto opera por aforismo e provocação, não por comédia. Em (c), 1928 e 1962 separam as obras. Em (a), o manifesto não é peça teatral. Em (b), os dois autores são brasileiros."
                            },
                            {
                                "id":  "obra-bem-amado-q5",
@@ -654,61 +662,66 @@ window.OBRAS_QUESTOES = {
                                "id":  "obra-arte-reza-q1",
                                "enunciado":  "A peça \u0027Arte\u0027, de Yasmina Reza, estreou em Paris em 1994 e alcançou reconhecimento internacional nas décadas seguintes. Sobre o contexto de produção e a estrutura da obra, é correto afirmar que",
                                "alternativas":  {
-                                                    "a":  "a peça foi escrita originalmente em inglês por uma autora britânica e só posteriormente traduzida para o francês, língua de sua estreia mundial.",
-                                                    "b":  "a peça possui cinco atos estruturados como uma tragédia clássica, seguindo rigorosamente as unidades de tempo, espaço e ação, formato hoje considerado incomum no teatro contemporâneo europeu.",
-                                                    "c":  "a peça foi escrita como roteiro cinematográfico e adaptada para o teatro somente depois do sucesso de um filme homônimo protagonizado por atores norte-americanos renomados.",
-                                                    "d":  "a peça é organizada em ato único, com cenas fluidas e falas que alternam diálogos e monólogos diretos ao público, tendo conquistado prêmios em Paris, Londres e Nova York."
+                                                    "a":  "foi escrita em inglês por autora britânica e traduzida ao francês",
+                                                    "b":  "tem cinco atos e segue as unidades clássicas de tempo e espaço",
+                                                    "c":  "foi escrita como roteiro de cinema e adaptada ao teatro depois",
+                                                    "d":  "é em ato único, com diálogos e monólogos dirigidos ao público",
+                                                    "e":  "é monólogo de um só ator que interpreta os três amigos em cena"
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "\u0027Arte\u0027 foi escrita em francês pela autora franco-húngara Yasmina Reza e estreou em Paris em 1994, montada em ato único com falas que combinam diálogo e monólogos diretos ao público; alcançou sucesso em Londres e na Broadway, recebendo o Tony Award de melhor peça em 1998."
+                               "explicacao":  "A peça corre sem intervalo, e as cenas de conversa são cortadas por falas em que cada personagem se dirige diretamente à plateia — recurso que dá ao espectador acesso ao que os amigos não dizem uns aos outros. Em (e) está o distrator mais fino, porque os monólogos são reais e chamativos; eles são, porém, distribuídos entre três atores, e não concentrados em um. Em (b), não há cinco atos nem estrutura clássica. Em (a) e (c), Reza é francesa e escreveu para o teatro."
                            },
                            {
                                "id":  "obra-arte-reza-q2",
                                "enunciado":  "O conflito entre Serge e Marc a respeito do quadro branco comprado por um preço altíssimo permite discutir, no eixo globalização, principalmente",
                                "alternativas":  {
-                                                    "a":  "a demonstração de que toda arte contemporânea é uma fraude deliberada, sem qualquer legitimidade estética reconhecida pelos museus e críticos especializados.",
-                                                    "b":  "a crítica à completa inexistência de um mercado de arte anterior ao século XX, quando as obras circulavam sem preço nem disputa comercial.",
-                                                    "c":  "a ideia de fetichismo da mercadoria, pela qual um objeto passa a valer pelo prestígio e pela convenção social que o cercam, e não por qualidades intrínsecas.",
-                                                    "d":  "a comprovação de que o valor de uma tela depende apenas de suas dimensões físicas e da quantidade de material empregado em sua confecção."
+                                                    "a":  "toda arte contemporânea é fraude deliberada, sem legitimidade estética",
+                                                    "b":  "não existia mercado de arte antes do século XX, quando não havia preço",
+                                                    "c":  "fetichismo da mercadoria: o objeto vale pelo prestígio que o cerca",
+                                                    "d":  "o valor da tela depende do tamanho e do material nela empregado",
+                                                    "e":  "o preço da obra reflete com precisão o trabalho técnico do artista"
                                                 },
                                "resposta":  "c",
-                               "explicacao":  "A peça ilustra o conceito de fetichismo da mercadoria (Marx): o quadro branco vale o que vale por convenções sociais e prestígio de mercado, não por atributos visíveis da obra — debate central para pensar a globalização do mercado de arte contemporânea."
+                               "explicacao":  "A tela é quase nada — branco sobre branco — e custa uma fortuna: o preço não vem do objeto, vem do circuito de galerias, críticos e compradores que o legitima, e é isso que enfurece Marc. Em (a) está a conclusão apressada que a peça evita: ela expõe o mecanismo sem decretar que toda arte contemporânea é embuste, e o desfecho justamente recusa esse veredito. Em (e) e (d), técnica e material são o que o caso desmente. Em (b), o mercado de arte é anterior ao século XX."
                            },
                            {
                                "id":  "obra-arte-reza-q3",
                                "enunciado":  "Sobre os elementos concretos da trama de \u0027Arte\u0027, assinale a alternativa correta.",
                                "alternativas":  {
-                                                    "a":  "Serge compra uma tela branca com finas linhas diagonais por uma quantia exorbitante, o que provoca a fúria de Marc.",
-                                                    "b":  "Yvan é quem compra o quadro branco e o exibe com orgulho logo na primeira cena da peça, contrariando a opinião inicial dos outros dois amigos presentes.",
-                                                    "c":  "Marc é o personagem prestes a se casar, o que o deixa mais tolerante com os gastos supérfluos de Serge do que costuma ser em outras circunstâncias.",
-                                                    "d":  "os três amigos concordam, desde o início da peça, que a tela é uma obra-prima indiscutível para todos os presentes na sala de estar."
+                                                    "a":  "Serge compra uma tela branca por quantia exorbitante, e Marc se enfurece",
+                                                    "b":  "Yvan compra o quadro e o exibe com orgulho na primeira cena da peça",
+                                                    "c":  "Marc é quem vai se casar, o que o deixa tolerante com os gastos de Serge",
+                                                    "d":  "os três concordam desde o início que a tela é uma obra-prima",
+                                                    "e":  "o quadro é uma tela figurativa clássica, o que Marc considera brega"
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "É Serge quem adquire a tela branca com listras diagonais por um preço altíssimo, provocando a reação exaltada de Marc; é Yvan, e não Marc, quem está prestes a se casar e enfrenta dilemas familiares."
+                               "explicacao":  "A compra é de Serge, a tela é branca com finas linhas diagonais quase invisíveis, e a reação de Marc põe a peça em movimento. Em (c) está a troca de personagem que a questão testa: quem se casa é Yvan, e é por isso que ele chega às cenas exausto e disposto a concordar com todo mundo. Em (e), a tela é monocromática, e é essa quase ausência de imagem que gera o conflito. Em (b), Yvan não compra nada. Em (d), o desacordo é o motor da peça."
                            },
                            {
                                "id":  "obra-arte-reza-q4",
                                "enunciado":  "Marc e Yvan representam, na peça, posturas distintas diante do conflito gerado pela compra do quadro. Pode-se afirmar que",
                                "alternativas":  {
-                                                    "a":  "Marc condena abertamente a compra por considerá-la esteticamente vazia, enquanto Yvan busca conciliar os amigos para evitar o rompimento do grupo.",
-                                                    "b":  "Yvan compra um segundo quadro idêntico só para provocar Marc, o que agrava ainda mais a rivalidade entre os dois amigos ao longo de praticamente toda a peça.",
-                                                    "c":  "Marc apoia integralmente a compra de Serge, ao passo que Yvan é o único a criticar duramente o quadro branco desde a primeira cena até o desfecho da trama.",
-                                                    "d":  "ambos os personagens desprezam igualmente Serge e desejam o fim da amizade dos três já na primeira cena, sem qualquer hesitação ao longo da peça."
+                                                    "a":  "Marc condena a compra e Yvan tenta conciliar para não romper o grupo",
+                                                    "b":  "Yvan compra um segundo quadro idêntico só para provocar Marc",
+                                                    "c":  "Marc apoia a compra e Yvan é o único a criticar o quadro branco",
+                                                    "d":  "os dois desprezam Serge e querem o fim da amizade desde a primeira cena",
+                                                    "e":  "Yvan toma partido de Marc e ambos rompem com Serge no segundo ato"
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "Marc rejeita a compra por julgá-la destituída de valor estético, enquanto Yvan, mais conciliador e às voltas com seus próprios problemas, tenta mediar as tensões para preservar a amizade dos três."
+                               "explicacao":  "Marc não consegue calar o desprezo e Yvan não consegue tomar partido — é o contraste entre os dois que expõe o que estava por baixo de vinte e cinco anos de amizade. Em (e) está o distrator mais plausível, porque a pressão para escolher um lado existe; Yvan, porém, resiste a ela até o fim, e sua recusa em decidir é o traço que o define. Em (c), as posições estão invertidas. Em (b), não há segundo quadro. Em (d), nenhum dos dois quer romper."
                            },
                            {
                                "id":  "obra-arte-reza-q5",
                                "enunciado":  "O desfecho de \u0027Arte\u0027, em que Marc aceita ver algo de valor no quadro de Serge, sugere sobretudo que",
                                "alternativas":  {
-                                                    "a":  "Serge desiste da pintura e a devolve à galeria, reconhecendo publicamente, diante dos amigos, o erro de tê-la comprado por um valor tão alto.",
-                                                    "b":  "Marc foi definitivamente convencido de que o quadro branco é uma obra-prima superior a qualquer pintura figurativa já criada.",
-                                                    "c":  "os três amigos decidem, ao final da peça, encerrar de vez a amizade que os unia havia muitos anos, sem nunca mais voltar a se falar ou se reencontrar.",
-                                                    "d":  "a amizade, para se manter, por vezes exige gestos de concessão e reinterpretação mútua, mais do que a resolução definitiva de um desacordo estético."
+                                                    "a":  "Serge desiste da pintura e a devolve à galeria diante dos amigos",
+                                                    "b":  "Marc se convence de que o quadro é obra-prima superior a toda pintura figurativa",
+                                                    "c":  "os três encerram a amizade ao final e nunca mais se falam",
+                                                    "d":  "a amizade exige concessão e reinterpretação, não a vitória de um lado",
+                                                    "e":  "o quadro é destruído, e é a destruição que reconcilia os três amigos"
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "O final da peça é ambíguo e conciliador: Marc chega a \u0027ver\u0027 algo diferente no quadro, num gesto de afeto pela amizade mais do que de conversão estética real — sugerindo que vínculos afetivos sobrevivem por meio de concessões, não de consensos absolutos."
+                               "explicacao":  "Ninguém convence ninguém: Serge oferece a tela a Marc para que ele a marque, Marc descreve nela uma cena que só ele vê, e a amizade continua sobre uma ficção que os dois aceitam sustentar. Em (e) está o distrator mais próximo do que acontece em cena, porque Marc de fato desenha sobre o quadro — a caneta, porém, é lavável, e Serge sabia disso, o que faz do gesto um teste e não uma destruição. Em (b), Marc não muda de opinião sobre o valor da tela. Em (a) e (c), não há devolução nem ruptura."
                            }
                        ],
     "obra-mandragora":  [
@@ -752,13 +765,14 @@ window.OBRAS_QUESTOES = {
                                 "id":  "obra-mandragora-q4",
                                 "enunciado":  "Comparando o \u0027maquiavelismo\u0027 de Ligurio e Callimaco em \u0027A Mandrágora\u0027 com a crítica à razão totalitária presente em \u00271984\u0027, de George Orwell, pode-se afirmar que",
                                 "alternativas":  {
-                                                     "a":  "nenhuma das duas obras trata de temas relacionados a poder, engano ou controle sobre as ações e decisões alheias, temas restritos exclusivamente a tratados filosóficos formais da época.",
-                                                     "b":  "ambas as obras exploram, de formas distintas, as possibilidades do cálculo racional de meios para se atingir determinados fins, ainda que em contextos muito diferentes.",
-                                                     "c":  "\u00271984\u0027 antecede historicamente \u0027A Mandrágora\u0027 e por isso teria influenciado diretamente a construção dos personagens de Maquiavel, hipótese hoje rejeitada pela crítica especializada.",
-                                                     "d":  "as duas obras defendem abertamente que qualquer forma de manipulação é moralmente aceitável, desde que beneficie a coletividade representada pelo Estado."
+                                                     "a":  "nenhuma das duas trata de poder, engano ou controle sobre o outro",
+                                                     "b":  "as duas exploram o cálculo racional de meios para atingir fins",
+                                                     "c":  "1984 antecede A Mandrágora e influenciou os personagens de Maquiavel",
+                                                     "d":  "as duas defendem que a manipulação é aceitável se beneficia o Estado",
+                                                     "e":  "as duas situam o cálculo no plano privado, sem dimensão política"
                                                  },
                                 "resposta":  "b",
-                                "explicacao":  "Embora em registros e épocas muito distintos — a comédia renascentista de Maquiavel e a distopia totalitária de Orwell —, ambas as obras dialogam com o uso do cálculo racional de meios para atingir fins determinados; \u0027A Mandrágora\u0027 é anterior a \u00271984\u0027 em cerca de quatro séculos, não o contrário."
+                                "explicacao":  "Numa comédia do século XVI e numa distopia do XX, o mesmo procedimento: escolher os meios pela eficácia, e não pela moral. O que muda é a escala e o que está em jogo. Em (e) está a diferença que a alternativa apaga — em Maquiavel o cálculo é doméstico e em Orwell é estatal, e reduzir os dois ao privado desmancha a comparação. Em (d), nenhuma das duas defende a manipulação; uma a exibe e a outra a denuncia. Em (c), a cronologia está invertida em quatro séculos."
                             },
                             {
                                 "id":  "obra-mandragora-q5",
@@ -778,13 +792,14 @@ window.OBRAS_QUESTOES = {
                           "id":  "obra-1984-q1",
                           "enunciado":  "\u00271984\u0027, de George Orwell, foi publicado em 1949, poucos meses antes da morte do autor. Sobre o contexto de produção da obra, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "o romance foi originalmente publicado sob pseudônimo e só teve a autoria de Orwell revelada décadas depois de sua morte, fato esclarecido por biógrafos britânicos em pesquisas de arquivo.",
-                                               "b":  "a obra reflete as preocupações de Orwell com o totalitarismo stalinista e com o uso da propaganda de Estado, alimentadas por sua experiência na Guerra Civil Espanhola e no trabalho em rádio estatal britânica.",
-                                               "c":  "Orwell concebeu a distopia como uma previsão otimista sobre os avanços tecnológicos que a humanidade alcançaria até o ano 2000, tese defendida pelo autor em cartas pessoais da época.",
-                                               "d":  "Orwell escreveu o romance como reação exclusiva à Segunda Guerra Mundial, sem qualquer relação com os regimes totalitários soviético ou fascista que marcaram o mesmo período histórico."
+                                               "a":  "foi publicado sob pseudônimo, com a autoria revelada décadas depois",
+                                               "b":  "Orwell concebeu a distopia como previsão otimista sobre a tecnologia",
+                                               "c":  "reflete a preocupação com o stalinismo e com a propaganda de Estado",
+                                               "d":  "foi reação exclusiva à Segunda Guerra, sem relação com o totalitarismo",
+                                               "e":  "foi escrito antes da Guerra Civil Espanhola, que Orwell ainda não vivera"
                                            },
-                          "resposta":  "b",
-                          "explicacao":  "A desconfiança de Orwell com o totalitarismo, alimentada por sua experiência na Guerra Civil Espanhola, onde presenciou perseguições stalinistas, e por seu trabalho na BBC durante a guerra, que teria inspirado o Ministério da Verdade, molda diretamente a crítica presente em \u00271984\u0027."
+                          "resposta":  "c",
+                          "explicacao":  "Duas experiências alimentam o livro: a Espanha, onde Orwell viu a propaganda reescrever o que ele próprio presenciara, e a BBC, onde trabalhou produzindo material de guerra. O Ministério da Verdade nasce das duas. Em (e) está a inversão cronológica que decide a questão: a guerra espanhola é de 1936, treze anos antes do romance, e é uma de suas fontes. Em (a), Orwell já era pseudônimo conhecido e o livro saiu assim. Em (b), a distopia não é otimista. Em (d), o totalitarismo é o alvo."
                       },
                       {
                           "id":  "obra-1984-q2",
@@ -974,13 +989,14 @@ window.OBRAS_QUESTOES = {
                                 "id":  "obra-a-vergonha-q1",
                                 "enunciado":  "Annie Ernaux, autora de \u0027A Vergonha\u0027, recebeu o Prêmio Nobel de Literatura em 2022. Sobre o contexto biográfico e de produção da obra, é correto afirmar que",
                                 "alternativas":  {
-                                                     "a":  "\u0027A Vergonha\u0027 foi o primeiro livro publicado por Ernaux, ainda na década de 1960, antes de qualquer outro título autobiográfico de sua carreira.",
-                                                     "b":  "Ernaux cresceu em Yvetot, na Normandia, onde os pais administravam um café-mercearia, experiência de origem social que atravessa boa parte de sua obra autobiográfica.",
-                                                     "c":  "Ernaux nasceu em Paris, em uma família de classe média alta, e escreveu \u0027A Vergonha\u0027 ainda jovem, antes de se tornar professora de literatura.",
-                                                     "d":  "a autora nunca recebeu reconhecimento internacional relevante por sua obra, sendo mais conhecida apenas na França até o final do século XX."
+                                                     "a":  "foi o primeiro livro de Ernaux, ainda na década de 1960",
+                                                     "b":  "cresceu em Yvetot, onde os pais tinham um café-mercearia",
+                                                     "c":  "nasceu em Paris, em família de classe média alta, e escreveu jovem",
+                                                     "d":  "nunca teve reconhecimento internacional relevante por sua obra",
+                                                     "e":  "escreveu o livro em francês e depois o traduziu ela mesma ao inglês"
                                                  },
                                 "resposta":  "b",
-                                "explicacao":  "Ernaux nasceu em Lillebonne e cresceu em Yvetot, na Normandia, onde a família administrava um café-mercearia; essa origem social atravessa livros como \u0027O Lugar\u0027 e \u0027A Vergonha\u0027, publicados décadas depois de sua estreia literária, e a autora recebeu o Nobel de Literatura em 2022."
+                                "explicacao":  "A origem operária na Normandia é o material e o problema da obra inteira: Ernaux escreve de dentro de uma classe que a escola a fez deixar, e a vergonha do título é a desse deslocamento. Em (c) está a inversão exata dessa biografia, e ela desmontaria o projeto literário da autora. Em (a), A Vergonha é de 1997. Em (d), o Nobel citado no enunciado desmente a alternativa. Em (e), a tradução ao inglês não é dela."
                             },
                             {
                                 "id":  "obra-a-vergonha-q2",
@@ -1371,25 +1387,27 @@ window.OBRAS_QUESTOES = {
                                       "id":  "obra-jogadores-cartas-q1",
                                       "enunciado":  "Quem eram, em geral, os modelos retratados na série Jogadores de Cartas de Cézanne?",
                                       "alternativas":  {
-                                                           "a":  "Personagens fictícios inspirados em romances populares franceses do século XIX.",
-                                                           "b":  "Colegas pintores impressionistas que se reuniam para jogar cartas nos ateliês.",
-                                                           "c":  "Camponeses que trabalhavam na propriedade da família do pintor, em Aix-en-Provence.",
-                                                           "d":  "Nobres da corte francesa retratados em salões de jogos de cartas de Paris."
+                                                           "a":  "personagens fictícios inspirados em romances populares franceses",
+                                                           "b":  "colegas pintores impressionistas que jogavam cartas nos ateliês",
+                                                           "c":  "camponeses que trabalhavam na propriedade da família, em Aix",
+                                                           "d":  "nobres da corte retratados em salões de jogos de Paris",
+                                                           "e":  "membros da própria família do pintor, posando em sua casa"
                                                        },
                                       "resposta":  "c",
-                                      "explicacao":  "Cézanne utilizou como modelos trabalhadores da propriedade de sua família, o Jas de Bouffan, retratando-os em cenas cotidianas e despidas de teatralidade."
+                                      "explicacao":  "Cézanne pintou trabalhadores rurais do Jas de Bouffan, a propriedade da família em Aix-en-Provence, e a escolha importa: gente comum tratada com a gravidade que a pintura reservava a temas nobres. Em (e) está o distrator mais próximo, porque a propriedade é de fato familiar; os modelos, porém, eram os empregados dela, e não os parentes. Em (d), nada mais distante da corte parisiense. Em (a) e (b), não há personagens de romance nem colegas pintores nas telas."
                                   },
                                   {
                                       "id":  "obra-jogadores-cartas-q2",
                                       "enunciado":  "Por que Jogadores de Cartas costuma ser associada ao eixo modernidade versus pós-modernidade nas provas da FGV?",
                                       "alternativas":  {
-                                                           "a":  "Porque foi a primeira obra a empregar fotografia como base direta para a composição pictórica.",
-                                                           "b":  "Porque retrata diretamente as tensões da urbanização acelerada do século XIX francês.",
-                                                           "c":  "Porque documenta fielmente os costumes populares antes de seu desaparecimento pela indústria.",
-                                                           "d":  "Porque antecipa, pela geometrização das formas, a ruptura cubista que redefiniria a arte moderna."
+                                                           "a":  "foi a primeira obra a usar fotografia como base da composição",
+                                                           "b":  "retrata as tensões da urbanização acelerada do século XIX francês",
+                                                           "c":  "documenta os costumes populares antes de desaparecerem",
+                                                           "d":  "antecipa, pela geometrização, a ruptura cubista da arte moderna",
+                                                           "e":  "inaugura o impressionismo ao registrar a luz de um instante"
                                                        },
                                       "resposta":  "d",
-                                      "explicacao":  "A simplificação geométrica dos corpos e objetos na série é apontada como ponte direta entre o pós-impressionismo e o cubismo, marco da ruptura formal que definiria boa parte da arte moderna do século XX."
+                                      "explicacao":  "As figuras são reduzidas a volumes elementares — cilindro, cone, esfera — e é dessa lição que Picasso e Braque partiriam vinte anos depois. Cézanne está na dobradiça entre um regime de representação e outro. Em (e) está o distrator mais informado, porque Cézanne participou do impressionismo e expôs com o grupo; a associação ao eixo, porém, vem do que ele antecipa, e não do que ele deixou para trás. Em (b) e (c), a cena é rural e não documental. Em (a), não há base fotográfica."
                                   },
                                   {
                                       "id":  "obra-jogadores-cartas-q3",
@@ -1615,13 +1633,14 @@ window.OBRAS_QUESTOES = {
                                  "id":  "obra-morte-marat-q5",
                                  "enunciado":  "O fato de Jacques-Louis David ser amigo pessoal e aliado político de Marat afeta a interpretação da obra sobretudo porque:",
                                  "alternativas":  {
-                                                      "a":  "Torna a pintura um registro estritamente neutro e puramente documental do assassinato ocorrido.",
-                                                      "b":  "Reforça o caráter de propaganda política, já que o pintor tinha interesse direto em heroicizar o amigo morto.",
-                                                      "c":  "Invalida por completo o valor artístico da obra em razão do evidente conflito de interesses.",
-                                                      "d":  "Demonstra que David era, na verdade, contrário ao movimento jacobino ao qual Marat pertencia."
+                                                      "a":  "torna a pintura registro neutro e documental do assassinato",
+                                                      "b":  "reforça o caráter de propaganda, pois o pintor quis heroicizar Marat",
+                                                      "c":  "invalida o valor artístico da obra pelo conflito de interesses",
+                                                      "d":  "demonstra que David era contrário ao movimento jacobino",
+                                                      "e":  "explica a fidelidade anatômica com que a ferida do peito foi representada"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "Por ser amigo e correligionário político de Marat, David tinha interesse direto em transformar sua morte em símbolo de martírio revolucionário, o que reforça o caráter de propaganda política da obra, mais do que de registro neutro."
+                                 "explicacao":  "David era jacobino e organizou o funeral de Marat; a tela idealiza o corpo, suaviza a doença de pele e compõe a cena como uma piedade cristã laica — é peça de culto político, não registro. Em (e) está o distrator mais sedutor, porque a amizade poderia sugerir precisão; ela produz o contrário, e a proximidade serviu para embelezar em vez de documentar. Em (a), a neutralidade é o que a obra não tem. Em (c), o engajamento não anula o valor artístico. Em (d), David era aliado dos jacobinos."
                              }
                          ],
     "obra-pagador-promessas":  [
@@ -1629,13 +1648,14 @@ window.OBRAS_QUESTOES = {
                                        "id":  "obra-pagador-promessas-q1",
                                        "enunciado":  "O filme \u0027O Pagador de Promessas\u0027 (1962), de Anselmo Duarte, ocupa lugar único na história do cinema brasileiro por qual conquista internacional?",
                                        "alternativas":  {
-                                                            "a":  "Foi escolhido para abrir a primeira edição do Festival de Brasília de Cinema.",
-                                                            "b":  "Venceu a Palma de Ouro em Cannes, sendo até hoje o único longa brasileiro premiado dessa forma.",
-                                                            "c":  "Recebeu o Oscar de melhor filme estrangeiro na cerimônia realizada em 1962.",
-                                                            "d":  "Foi o primeiro filme brasileiro exibido oficialmente na Mostra de Cinema de Veneza."
+                                                            "a":  "venceu a Palma de Ouro em Cannes, único brasileiro a consegui-lo",
+                                                            "b":  "abriu a primeira edição do Festival de Brasília de Cinema",
+                                                            "c":  "recebeu o Oscar de melhor filme estrangeiro em 1962",
+                                                            "d":  "foi o primeiro filme brasileiro exibido oficialmente em Veneza",
+                                                            "e":  "foi o primeiro filme falado em português exibido no Festival de Cannes"
                                                         },
-                                       "resposta":  "b",
-                                       "explicacao":  "O Pagador de Promessas venceu a Palma de Ouro em Cannes em 1962 e continua sendo o único filme brasileiro a receber essa premiação, marco na projeção internacional do cinema nacional."
+                                       "resposta":  "a",
+                                       "explicacao":  "A Palma de Ouro de 1962 segue sendo a única conquistada por um longa brasileiro, e é isso que dá ao filme o lugar único de que fala o enunciado. Em (c) está o distrator mais frequente: o filme foi indicado ao Oscar de melhor filme estrangeiro, e a indicação costuma ser lembrada como prêmio — mas ele não venceu. Em (e), houve filmes brasileiros em Cannes antes dele. Em (b) e (d), nem a abertura em Brasília nem o pioneirismo em Veneza lhe pertencem."
                                    },
                                    {
                                        "id":  "obra-pagador-promessas-q2",
@@ -1885,62 +1905,67 @@ window.OBRAS_QUESTOES = {
                                       "id":  "obra-laranja-mecanica-q1",
                                       "enunciado":  "Sobre a produção de Laranja Mecânica (1971), de Stanley Kubrick, é correto afirmar que",
                                       "alternativas":  {
-                                                           "a":  "o filme venceu os prêmios de Melhor Filme e de Melhor Diretor na cerimônia do Oscar realizada em 1972, além de outras categorias",
-                                                           "b":  "a obra adapta o romance de Anthony Burgess e foi retirada de circulação no Reino Unido por decisão do próprio Kubrick",
-                                                           "c":  "o roteiro foi escrito inteiramente por Kubrick, sem qualquer base em romances ou peças de outros autores",
-                                                           "d":  "a obra permaneceu proibida de exibição comercial nos Estados Unidos durante toda a década de 1970 e parte da seguinte"
+                                                           "a":  "venceu Melhor Filme e Melhor Diretor no Oscar de 1972",
+                                                           "b":  "adapta o romance de Burgess e foi retirado do Reino Unido por Kubrick",
+                                                           "c":  "o roteiro é inteiramente de Kubrick, sem base em romance de outro autor",
+                                                           "d":  "permaneceu proibido nos Estados Unidos durante toda a década de 1970",
+                                                           "e":  "foi indicado ao Oscar de Melhor Filme e venceu na categoria de Melhor Roteiro"
                                                        },
                                       "resposta":  "b",
-                                      "explicacao":  "Laranja Mecânica adapta o romance de Anthony Burgess (1962). Após relatos de crimes supostamente inspirados no filme, Kubrick solicitou sua retirada de circulação no Reino Unido, medida só revertida após sua morte, em 1999. O filme foi indicado a quatro Oscars, mas não venceu nenhum, e circulou normalmente nos Estados Unidos, com classificação restritiva."
+                                      "explicacao":  "O filme adapta o romance de Anthony Burgess, e a retirada de circulação britânica partiu do próprio diretor, depois de ameaças à família e de crimes atribuídos à influência do filme — decisão que durou até a morte dele. Em (e) está o distrator mais difícil: as indicações ao Oscar de 1972 existiram, inclusive a de roteiro adaptado, mas o filme não venceu nenhuma. Em (a), quem levou Filme e Diretor foi Operação França. Em (c), há romance na base. Em (d), a exibição nos Estados Unidos nunca foi proibida."
                                   },
                                   {
                                       "id":  "obra-laranja-mecanica-q2",
                                       "enunciado":  "O tratamento a que Alex é submetido na prisão, conhecido como Técnica Ludovico, está no centro do debate do filme sobre",
                                       "alternativas":  {
-                                                           "a":  "a eficácia comprovada de tratamentos psiquiátricos tradicionais aplicados a casos de reincidência criminal grave",
-                                                           "b":  "a necessidade de ampliar as penas de prisão para crimes violentos cometidos por jovens infratores",
-                                                           "c":  "a possibilidade de o Estado anular o livre-arbítrio de um indivíduo em nome da segurança pública",
-                                                           "d":  "os limites da censura estatal aplicada aos meios de comunicação de massa em regimes autoritários"
+                                                           "a":  "a eficácia de tratamentos psiquiátricos para reincidência criminal",
+                                                           "b":  "a necessidade de ampliar penas de prisão para jovens infratores",
+                                                           "c":  "a possibilidade de o Estado anular o livre-arbítrio do indivíduo",
+                                                           "d":  "os limites da censura estatal sobre os meios de comunicação",
+                                                           "e":  "a superioridade da reabilitação sobre a punição no sistema penal"
                                                        },
                                       "resposta":  "c",
-                                      "explicacao":  "A Técnica Ludovico condiciona Alex a sentir náusea física diante de qualquer ato violento, retirando-lhe a capacidade de escolher entre o bem e o mal. O filme discute, assim, se uma sociedade mais \u0027segura\u0027 à custa do livre-arbítrio individual ainda é desejável, tema central do eixo modernidade/pós-modernidade."
+                                      "explicacao":  "A pergunta que o capelão formula é a do filme inteiro: um homem impedido de escolher o mal continua sendo homem? A técnica funciona, e é justamente por funcionar que ela incomoda. Em (e) está o distrator mais sofisticado, porque reabilitar contra punir é debate real de política penal — o filme, porém, não escolhe entre os dois, e sim questiona se uma reabilitação imposta ainda é moralmente admissível. Em (a), a eficácia clínica não é o problema. Em (b) e (d), pena de prisão e censura não são o eixo."
                                   },
                                   {
                                       "id":  "obra-laranja-mecanica-q3",
                                       "enunciado":  "Em Laranja Mecânica, o grupo de jovens liderado por Alex DeLarge é caracterizado por",
                                       "alternativas":  {
-                                                           "a":  "praticar atos de violência gratuita e se comunicar por meio da gíria inventada Nadsat",
-                                                           "b":  "trabalhar como funcionários subalternos da prisão em que o próprio Alex cumpre pena",
-                                                           "c":  "vestir uniformes escolares e frequentar diariamente um internato disciplinar extremamente rigoroso",
-                                                           "d":  "integrar uma orquestra amadora dedicada exclusivamente à execução de obras de Beethoven"
+                                                           "a":  "praticar violência gratuita e falar a gíria inventada Nadsat",
+                                                           "b":  "trabalhar como funcionário subalterno da prisão onde Alex cumpre pena",
+                                                           "c":  "vestir uniforme escolar e frequentar um internato disciplinar rigoroso",
+                                                           "d":  "integrar uma orquestra amadora dedicada a obras de Beethoven",
+                                                           "e":  "organizar protestos políticos contra o governo retratado no filme"
                                                        },
                                       "resposta":  "a",
-                                      "explicacao":  "Alex e seus companheiros de gangue, chamados de \u0027drugues\u0027, praticam assaltos e agressões por puro prazer estético e se comunicam através do Nadsat, gíria fictícia criada por Anthony Burgess que mescla inglês e russo."
+                                      "explicacao":  "Os droogs agridem sem motivo e falam uma gíria construída por Burgess a partir do russo, o que afasta o espectador do horror ao mesmo tempo que o obriga a decifrá-lo. Em (d) está o distrator que aproveita um elemento real do filme — Alex é devoto de Beethoven, e a Nona é usada no condicionamento —, mas o gosto é individual dele e não define o grupo. Em (b), um dos ex-membros vira policial, e não funcionário da prisão. Em (c) e (e), não há internato nem militância política."
                                   },
                                   {
                                       "id":  "obra-laranja-mecanica-q4",
                                       "texto_apoio":  "Laranja Mecânica e The Post: A Guerra Secreta integram o eixo modernidade/pós-modernidade da FGV.",
                                       "enunciado":  "Comparando as duas obras quanto à desconfiança em relação às instituições, é correto afirmar que",
                                       "alternativas":  {
-                                                           "a":  "os dois filmes discutem a moralidade da pena de morte para jovens infratores, tema ausente na obra de Kubrick e também na de Spielberg",
-                                                           "b":  "os dois filmes discutem apenas a validade de eleições presidenciais americanas, sem qualquer relação com liberdade individual ou de imprensa",
-                                                           "c":  "os dois filmes tratam do papel da família na educação dos filhos como o único tema efetivamente compartilhado entre eles",
-                                                           "d":  "Laranja Mecânica questiona o controle da mente de um indivíduo pelo Estado, e The Post questiona o sigilo estatal sobre informações de interesse público"
+                                                           "a":  "os dois discutem a moralidade da pena de morte para jovens infratores",
+                                                           "b":  "os dois discutem apenas a validade de eleições presidenciais americanas",
+                                                           "c":  "os dois tratam do papel da família na educação dos filhos",
+                                                           "d":  "um questiona o controle da mente pelo Estado, o outro o sigilo estatal",
+                                                           "e":  "os dois defendem que a instituição sempre age no interesse público"
                                                        },
                                       "resposta":  "d",
-                                      "explicacao":  "Laranja Mecânica coloca em xeque o condicionamento comportamental imposto pelo Estado; The Post discute o sigilo governamental sobre a Guerra do Vietnã. Ambos expõem, por caminhos diferentes, a fragilidade da confiança nas instituições, marca da transição para a pós-modernidade."
+                                      "explicacao":  "A desconfiança é a mesma e o objeto muda: num caso o Estado invade a consciência do indivíduo, no outro esconde do público o que decidiu em seu nome. Em (e) está a posição contrária à que os dois filmes sustentam, e reconhecer isso é o que a comparação pede. Em (a), a pena de morte não aparece em nenhum dos dois. Em (b), The Post trata de sigilo sobre a Guerra do Vietnã, e não de eleições. Em (c), a família não é o eixo comum."
                                   },
                                   {
                                       "id":  "obra-laranja-mecanica-q5",
                                       "enunciado":  "O desfecho de Laranja Mecânica, em que o condicionamento de Alex é revertido pelo governo, pode ser interpretado como",
                                       "alternativas":  {
-                                                           "a":  "uma crítica ao uso político da \u0027cura\u0027, mais preocupada com a imagem do governo do que com valores morais",
-                                                           "b":  "uma prova de que a violência juvenil retratada no filme era exagerada e sem qualquer fundamento social real",
-                                                           "c":  "uma celebração do sucesso definitivo da Técnica Ludovico como política pública de segurança nacional",
-                                                           "d":  "um indício de que Alex jamais havia sido de fato submetido a qualquer tratamento científico verdadeiro"
+                                                           "a":  "prova de que a violência juvenil retratada era exagerada e sem fundamento",
+                                                           "b":  "celebração do sucesso da Técnica Ludovico como política de segurança",
+                                                           "c":  "indício de que Alex jamais fora submetido a tratamento científico algum",
+                                                           "d":  "sugestão de que Alex se regenerou de fato, dispensando o condicionamento",
+                                                           "e":  "crítica ao uso político da cura, mais atenta à imagem do que à moral"
                                                        },
-                                      "resposta":  "a",
-                                      "explicacao":  "Ao final, o governo reverte o condicionamento de Alex por conveniência política, diante da repercussão negativa do caso, e não por reconhecer um erro moral no tratamento. A cena final sugere que a \u0027cura\u0027 nunca foi, de fato, uma questão ética, mas de imagem pública."
+                                      "resposta":  "e",
+                                      "explicacao":  "O mesmo governo que impôs o tratamento o desfaz quando ele vira escândalo, e a foto ao lado do ministro fecha o filme: a decisão nunca foi sobre o que é certo, e sim sobre o que repercute. Em (d) está o distrator mais tentador, porque a frase final de Alex sugere restauração — o que se restaura, porém, é a capacidade de escolher o mal, não a regeneração. Em (b), a reversão é o contrário de celebração. Em (a) e (c), a violência e o tratamento são fatos da trama."
                                   }
                               ],
     "obra-babel":  [
@@ -2337,61 +2362,66 @@ window.OBRAS_QUESTOES = {
                                    "id":  "obra-calice-criolo-q1",
                                    "enunciado":  "A releitura de \"Cálice\" feita por Criolo se insere em um movimento mais amplo de sua carreira, marcado por:",
                                    "alternativas":  {
-                                                        "a":  "O diálogo constante entre o rap e a música urbana paulistana com a tradição da música popular brasileira de crítica social.",
-                                                        "b":  "A reconstrução fiel de sambas-enredo de escolas de samba cariocas dos anos 1930, gênero que teve em Noel Rosa um de seus grandes nomes.",
-                                                        "c":  "A composição de trilhas sonoras instrumentais para o cinema, sem qualquer conteúdo cantado ou falado, formato explorado por músicos brasileiros ao longo do século XX.",
-                                                        "d":  "O afastamento total de qualquer influência da MPB, priorizando exclusivamente referências ao hip-hop norte-americano."
+                                                        "a":  "o diálogo entre o rap paulistano e a tradição da MPB de crítica social",
+                                                        "b":  "a reconstrução fiel de sambas-enredo cariocas dos anos 1930",
+                                                        "c":  "a composição de trilhas instrumentais para cinema, sem parte cantada",
+                                                        "d":  "o afastamento da MPB, com prioridade só para referências do hip-hop americano",
+                                                        "e":  "a gravação exclusiva de versões de canções alheias, sem obra autoral"
                                                     },
                                    "resposta":  "a",
-                                   "explicacao":  "Criolo é reconhecido justamente por unir crítica social, oralidade do rap e diálogo constante com a tradição da MPB, o que explica sua releitura de uma canção símbolo da resistência musical à ditadura."
+                                   "explicacao":  "Criolo vem do rap e atravessa samba, afrobeat e MPB sem trocar de lugar de fala, e a releitura de Cálice é um caso exemplar dessa ponte entre a periferia paulistana e a canção de protesto dos anos 1970. Em (d) está a leitura mais comum sobre rappers e a mais errada neste caso: o diálogo com a MPB é constitutivo da obra dele. Em (e), Criolo é compositor antes de intérprete. Em (b) e (c), samba-enredo carioca e trilha instrumental não descrevem sua produção."
                                },
                                {
                                    "id":  "obra-calice-criolo-q2",
                                    "enunciado":  "A releitura de \"Cálice\" por Criolo pode ser lida sob dois eixos temáticos da prova ao mesmo tempo porque:",
                                    "alternativas":  {
-                                                        "a":  "Trata exclusivamente de um tema histórico do século XIX, sem qualquer relação com debates atuais, período anterior ao surgimento do samba urbano carioca.",
-                                                        "b":  "Ignora completamente a canção original de Chico Buarque e Gilberto Gil, criando uma letra sem relação temática.",
-                                                        "c":  "Reativa a memória da censura na ditadura militar e insere esse símbolo na circulação cultural entre gêneros distintos.",
-                                                        "d":  "Aborda apenas questões de tecnologia digital, sem qualquer relação com censura ou repressão política, tema frequente na produção eletrônica contemporânea."
+                                                        "a":  "trata só de tema histórico do século XIX, sem relação com o presente",
+                                                        "b":  "ignora a canção de Chico e Gil, criando letra sem relação temática",
+                                                        "c":  "reativa a memória da censura e a faz circular entre gêneros",
+                                                        "d":  "aborda só questões de tecnologia digital, sem relação com censura",
+                                                        "e":  "transpõe a canção para o inglês, ampliando seu alcance internacional"
                                                     },
                                    "resposta":  "c",
-                                   "explicacao":  "A releitura dialoga tanto com a memória da repressão da ditadura (eixo modernidade) quanto com a circulação de símbolos culturais entre gêneros e gerações no presente (eixo da cultura contemporânea/globalização)."
+                                   "explicacao":  "O gesto tem duas camadas: recupera um símbolo da ditadura e o transporta do samba-canção para o rap, o que o faz atravessar tempo e gênero de uma vez — daí caber em dois eixos. Em (e) está o distrator que parece atender ao eixo da globalização e não corresponde ao que a releitura faz: ela permanece em português e circula entre gêneros, não entre idiomas. Em (b), a relação com o original é o ponto de partida. Em (a) e (d), nem o século XIX nem a tecnologia digital estão em causa."
                                },
                                {
                                    "id":  "obra-calice-criolo-q3",
                                    "enunciado":  "Um elemento estrutural mantido por Criolo em sua releitura de \"Cálice\", em relação à composição original de Chico Buarque e Gilberto Gil, é:",
                                    "alternativas":  {
-                                                        "a":  "A substituição do tema da censura por uma narrativa amorosa sem qualquer crítica social, recurso comum em releituras de canções antigas por artistas pop.",
-                                                        "b":  "A tradução integral da letra original para o inglês, mantendo apenas a melodia em português, prática adotada por artistas brasileiros em turnês internacionais.",
-                                                        "c":  "O jogo de palavras fundado na semelhança sonora entre a taça do sofrimento bíblico e o pedido de silêncio, preservando o núcleo estrutural da canção original.",
-                                                        "d":  "A ausência total de qualquer referência sonora ou temática à canção original, opção que caracteriza versões completamente autorais de outros artistas."
+                                                        "a":  "a substituição do tema da censura por narrativa amorosa sem crítica",
+                                                        "b":  "a tradução integral da letra para o inglês, mantendo só a melodia",
+                                                        "c":  "o trocadilho entre o cálice bíblico e o pedido de silêncio",
+                                                        "d":  "a ausência de referência sonora ou temática à canção original",
+                                                        "e":  "a manutenção integral da melodia e do arranjo de violão originais"
                                                     },
                                    "resposta":  "c",
-                                   "explicacao":  "A releitura preserva o núcleo estrutural da canção original, o trocadilho fonético entre as duas palavras, deslocando-o para uma nova sonoridade e contexto de enunciação."
+                                   "explicacao":  "O achado da canção de 1973 é fonético: cálice e cale-se soam igual, e a censura fica registrada na própria palavra que a nomeia. É esse núcleo que a releitura conserva, e sem ele não haveria releitura. Em (e) está o distrator mais próximo, porque manter algo do original é a premissa da pergunta — o que se mantém, porém, é o jogo verbal, e não o arranjo, que é justamente o que Criolo refaz. Em (a) e (d), o tema e a referência permanecem. Em (b), não há tradução."
                                },
                                {
                                    "id":  "obra-calice-criolo-q4",
                                    "enunciado":  "Em relação à versão original de Chico Buarque e Gilberto Gil, a releitura de Criolo se diferencia sobretudo:",
                                    "alternativas":  {
-                                                        "a":  "Pela autoria, uma vez que Criolo reivindica ter composto a letra original antes de Chico Buarque e Gilberto Gil.",
-                                                        "b":  "Pelo idioma, pois a releitura de Criolo é cantada inteiramente em um idioma estrangeiro, escolha usada por artistas em versões para o mercado internacional.",
-                                                        "c":  "Pela linguagem musical utilizada, que incorpora elementos do rap e da música urbana contemporânea ao arranjo original.",
-                                                        "d":  "Pelo tema abordado, já que Criolo trata de assuntos completamente distintos, sem qualquer relação com censura."
+                                                        "a":  "pela autoria, pois Criolo reivindica ter composto a letra antes deles",
+                                                        "b":  "pelo idioma, pois a releitura é cantada inteiramente em outra língua",
+                                                        "c":  "pelo tema, já que Criolo trata de assuntos sem relação com censura",
+                                                        "d":  "pela linguagem musical, que incorpora rap e música urbana ao arranjo",
+                                                        "e":  "pela extensão, pois a versão de Criolo tem menos de um minuto de duração"
                                                     },
-                                   "resposta":  "c",
-                                   "explicacao":  "A principal diferença está na linguagem musical: Criolo traz para a canção a sonoridade e a oralidade do rap e da música urbana contemporânea, mantendo o tema original da censura."
+                                   "resposta":  "d",
+                                   "explicacao":  "O que muda é o corpo sonoro: o violão e a voz de 1973 dão lugar a batida, fraseado e dicção do rap, e a mesma denúncia passa a soar vinda de outro lugar da cidade. Em (c) está a inversão do que a releitura faz — é a permanência do tema, atualizado, que dá sentido ao gesto. Em (a), Criolo nunca reivindicou a autoria original. Em (b), a versão é em português. Em (e), a duração não é o traço distintivo."
                                },
                                {
                                    "id":  "obra-calice-criolo-q5",
                                    "enunciado":  "O gesto de Criolo de revisitar uma canção símbolo da censura da ditadura militar sugere, sobretudo, que:",
                                    "alternativas":  {
-                                                        "a":  "A releitura não guarda nenhuma relação de sentido com o contexto histórico da canção original, hipótese incomum em releituras de forte carga simbólica.",
-                                                        "b":  "Símbolos de resistência cultural podem ser reativados por novas gerações para discutir tensões entre poder e liberdade no presente.",
-                                                        "c":  "Criolo pretende apagar a memória da canção original, substituindo-a definitivamente por sua própria versão.",
-                                                        "d":  "O tema da censura perdeu totalmente relevância no Brasil contemporâneo, tornando a releitura um exercício apenas nostálgico."
+                                                        "a":  "a releitura não guarda relação de sentido com o contexto original",
+                                                        "b":  "símbolos de resistência podem ser reativados por novas gerações",
+                                                        "c":  "Criolo pretende apagar a memória da canção original e substituí-la",
+                                                        "d":  "o tema da censura perdeu relevância, tornando a releitura nostálgica",
+                                                        "e":  "a canção original já previa o rap como forma futura de resistência"
                                                     },
                                    "resposta":  "b",
-                                   "explicacao":  "Ao revisitar a canção, Criolo demonstra como um símbolo de resistência nascido em um contexto histórico específico pode continuar operando como ferramenta crítica em outro momento e para outro público."
+                                   "explicacao":  "Cantar Cálice hoje é dizer que o silenciamento mudou de forma sem desaparecer, e que um símbolo de 1973 ainda serve para nomear o que se cala agora. Em (d) está a leitura que esvazia o gesto: se o tema tivesse perdido relevância, a releitura seria peça de museu, e é justamente por ele persistir que ela existe. Em (c), a versão convive com a original em vez de substituí-la. Em (a), a relação com o contexto é o que a sustenta. Em (e), atribuir previsão à canção de 1973 é anacronismo."
                                }
                            ],
     "obra-que-pais-e-esse":  [

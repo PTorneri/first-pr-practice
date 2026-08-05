@@ -1,0 +1,241 @@
+{
+  "subtopic": "direitos-humanos",
+  "questoes": [
+    {
+      "id": "direitos-humanos-08",
+      "texto_apoio": "Em 2012, o STF julgou constitucional a política de cotas raciais em universidades públicas.",
+      "formato": "direta",
+      "enunciado": "O principal argumento jurídico utilizado pelo STF para validar as cotas raciais foi:",
+      "alternativas": {
+        "a": "a inexistência de outros critérios possíveis de seleção para a universidade pública",
+        "b": "a vedação constitucional a qualquer forma de exame vestibular",
+        "c": "a previsão expressa de reserva de vagas no texto original de 1988",
+        "d": "a correção de desigualdades históricas, compatível com a igualdade material",
+        "e": "a obrigatoriedade imposta por tratados internacionais vinculantes"
+      },
+      "resposta": "d",
+      "explicacao": "O tribunal separou igualdade formal de igualdade material: tratar como iguais candidatos que partiram de posições desiguais reproduz a desigualdade, e a ação afirmativa é o instrumento admitido para corrigir isso, com caráter transitório. Em (e) está o distrator mais informado, porque o Brasil é parte de convenções contra a discriminação racial — elas reforçam o argumento, mas o fundamento invocado foi constitucional, e não a obrigação externa. Em (c), a Constituição não prevê expressamente cotas raciais no ensino superior. Em (a) e (b), o vestibular permanece válido e não foi vedado."
+    },
+    {
+      "id": "direitos-humanos-24",
+      "texto_apoio": "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
+      "formato": "direta",
+      "enunciado": "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
+      "alternativas": {
+        "a": "isenção fiscal concedida apenas a microempresas de pequeno porte",
+        "b": "ação afirmativa para inclusão da pessoa com deficiência no trabalho",
+        "c": "benefício assistencial substitutivo do salário mínimo previsto na LOAS",
+        "d": "política aplicável apenas ao setor público, sem alcançar a empresa privada",
+        "e": "medida compensatória de natureza tributária, deduzida do imposto devido"
+      },
+      "resposta": "b",
+      "explicacao": "A lei impõe à empresa privada um percentual de contratação, criando obrigação de resultado onde a igualdade formal não produzia inclusão — é ação afirmativa no mercado de trabalho, e não incentivo. Em (c) está a confusão mais frequente entre dois institutos: o benefício de prestação continuada é assistencial, pago a quem não tem meios de subsistência, ao passo que a cota trata de emprego. Em (d), a lei alcança justamente as empresas privadas acima de cem empregados. Em (a) e (e), não há isenção nem dedução tributária associada à cota."
+    },
+    {
+      "id": "direitos-humanos-31",
+      "texto_apoio": "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
+      "formato": "direta",
+      "enunciado": "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
+      "alternativas": {
+        "a": "transferir ao Estado o controle editorial prévio do conteúdo publicado",
+        "b": "suprimir a moderação das plataformas, deixando a remoção ao Judiciário",
+        "c": "ponderar liberdade de expressão e o combate ao discurso de ódio",
+        "d": "atribuir ao Judiciário a decisão prévia sobre cada conteúdo publicado",
+        "e": "restringir a discussão aos veículos de imprensa, fora das redes sociais"
+      },
+      "resposta": "c",
+      "explicacao": "O debate não busca um vencedor entre os dois valores: procura o desenho institucional que reduza discurso de ódio sem entregar a alguém o poder de decidir de antemão o que pode ser dito. Em (b) e (d) está a mesma solução em duas formas, e ela é inviável na prática — exigir decisão judicial prévia para cada publicação paralisaria tanto a moderação quanto o Judiciário. Em (a), o controle editorial estatal prévio é censura, vedada pela Constituição. Em (e), a rede social é justamente onde o problema se coloca."
+    },
+    {
+      "id": "direitos-humanos-32",
+      "texto_apoio": "A Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) regula o tratamento de dados pessoais no Brasil.",
+      "formato": "direta",
+      "enunciado": "Um dos principais objetivos da LGPD é:",
+      "alternativas": {
+        "a": "regular o tratamento de dados apenas por órgãos governamentais",
+        "b": "assegurar transparência, consentimento e finalidade no tratamento",
+        "c": "permitir o compartilhamento de dados entre empresas sem consentimento do titular",
+        "d": "reproduzir o regulamento europeu de dados sem adaptação ao país",
+        "e": "proibir a coleta de dados pessoais por empresas e órgãos públicos"
+      },
+      "resposta": "b",
+      "explicacao": "A lei não impede o uso do dado: condiciona-o. Exige que o titular saiba o que é coletado, autorize ou se enquadre em outra base legal, e que o dado sirva apenas à finalidade declarada no momento da coleta. Em (e) está o excesso mais comum: proibir a coleta seria inviabilizar serviços que a própria lei pressupõe existirem. Em (c), o compartilhamento sem base legal é exatamente o que ela veda. Em (a), a LGPD alcança o setor privado e o público. Em (d), a inspiração europeia é real, mas o texto traz adaptações próprias, como o rol de bases legais."
+    },
+    {
+      "id": "direitos-humanos-43",
+      "texto_apoio": "Movimentos sociais do campo reivindicam a redistribuição de terras improdutivas ou griladas a famílias de trabalhadores rurais sem-terra, com base no princípio constitucional de que a propriedade deve cumprir uma função social.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A previsão constitucional de desapropriação de imóvel rural que não cumpre sua função social, mediante indenização, para fins de reforma agrária, busca conciliar:",
+      "alternativas": {
+        "a": "a transferência gratuita de imóvel rural ao primeiro trabalhador que o ocupar",
+        "b": "o direito de propriedade com a função social da terra e a redução da desigualdade",
+        "c": "a supressão da indenização devida ao proprietário desapropriado",
+        "d": "a abolição da propriedade privada rural no território nacional",
+        "e": "o direito de propriedade com a competência tributária dos municípios sobre o imóvel rural"
+      },
+      "resposta": "b",
+      "explicacao": "A Constituição preserva a propriedade e a condiciona: quem cumpre a função social não é desapropriado, quem não cumpre pode ser, e ainda assim recebe indenização — é essa conciliação, e não a supressão de um dos termos, que o instituto realiza. Em (c) está o ponto que mais se confunde: a desapropriação para reforma agrária é indenizada, em títulos da dívida agrária, e não confiscatória. Em (d), a propriedade privada rural permanece garantida. Em (a), a ocupação não gera título. Em (e), o imposto territorial rural é federal, e a competência tributária não está em jogo."
+    },
+    {
+      "id": "direitos-humanos-50",
+      "texto_apoio": "Em grandes centros urbanos, é comum observar pessoas que vivem e pernoitam em espaços públicos, muitas vezes sem acesso regular a documentação, atendimento de saúde ou renda.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Políticas públicas voltadas à população em situação de rua, no Brasil, têm buscado, sobretudo, superar uma abordagem anterior baseada em:",
+      "alternativas": {
+        "a": "ausência de política pública voltada a esse grupo até o período recente",
+        "b": "recolhimento compulsório e institucionalização forçada dessa população",
+        "c": "criminalização da situação de rua como contravenção penal autônoma",
+        "d": "transferência compulsória dessa população para municípios de menor porte",
+        "e": "concessão automática de moradia definitiva a toda pessoa em situação de rua"
+      },
+      "resposta": "b",
+      "explicacao": "A virada foi de método: sair da remoção da pessoa da rua, por recolhimento e abrigo compulsório, para o atendimento que reconhece direitos — documentação, saúde, renda — e admite a permanência no território onde ela tem seus vínculos. Em (c) está o distrator mais próximo, porque a criminalização da vadiagem existiu na Lei de Contravenções Penais e alcançava essa população indiretamente; a abordagem que as políticas atuais substituem, porém, é a assistencial-higienista, e não a penal. Em (a), houve política anterior, ainda que dessa natureza. Em (d) e (e), nem a transferência para o interior nem a moradia automática integraram o modelo superado."
+    },
+    {
+      "id": "direitos-humanos-57",
+      "texto_apoio": "A legislação trabalhista brasileira prevê mecanismos específicos de proteção contra o assédio sexual no ambiente de trabalho, incluindo a possibilidade de rescisão indireta do contrato pelo empregado assediado e a responsabilização do empregador em determinadas condições.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esses mecanismos de proteção reconhecem que o assédio sexual no trabalho constitui, sobretudo:",
+      "alternativas": {
+        "a": "comportamento juridicamente irrelevante quando praticado por superior",
+        "b": "falta funcional apurável apenas em processo administrativo da empresa",
+        "c": "forma de violência e discriminação que atinge a dignidade do trabalhador",
+        "d": "questão privada, sem relevância jurídica no âmbito da relação de trabalho",
+        "e": "conduta denunciável apenas pela vítima perante autoridade policial"
+      },
+      "resposta": "c",
+      "explicacao": "Tratar o assédio como violência e discriminação, e não como desentendimento entre duas pessoas, é o que justifica responsabilizar o empregador e permitir que o empregado rompa o contrato por culpa dele — a relação de poder no trabalho faz parte do problema. Em (b) está o enquadramento reducionista mais comum: a apuração interna existe e é devida, mas não esgota a matéria, que tem repercussão trabalhista e penal. Em (d), a relevância jurídica é a premissa dos mecanismos citados. Em (e), há via trabalhista além da policial. Em (a), a hierarquia agrava a conduta em vez de torná-la irrelevante."
+    },
+    {
+      "id": "direitos-humanos-68",
+      "texto_apoio": "Crianças e adolescentes empregados em atividades domésticas na casa de terceiros, muitas vezes sob promessa de moradia, alimentação e, em alguns casos, educação, em troca do trabalho realizado, representam uma das formas historicamente mais invisibilizadas de trabalho infantil no Brasil.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa modalidade de trabalho infantil é especialmente difícil de fiscalizar porque:",
+      "alternativas": {
+        "a": "ocorre em grandes empresas do setor de serviços domésticos regulamentadas",
+        "b": "é autorizada pela legislação trabalhista a partir dos doze anos de idade",
+        "c": "ocorre dentro do domicílio privado, fora do alcance da fiscalização",
+        "d": "envolve remuneração formal registrada, visível às bases de dados oficiais",
+        "e": "não envolve exploração da criança ou do adolescente que a realiza"
+      },
+      "resposta": "c",
+      "explicacao": "A casa é inviolável, e o auditor fiscal do trabalho não entra sem autorização — o que torna esse trabalho estatisticamente invisível e praticamente inalcançável pela fiscalização de rotina. Em (d) está a inversão que a questão testa: é justamente a ausência de registro que impede a detecção, já que a criança aparece como agregada da família, e não como empregada. Em (b), o trabalho doméstico é proibido a menores de dezoito anos. Em (a), não se trata de empresa, e sim de residência particular. Em (e), a exploração é o que caracteriza a prática."
+    },
+    {
+      "id": "direitos-humanos-69",
+      "texto_apoio": "Levantamentos periódicos sobre o mercado de trabalho brasileiro têm mostrado redução, ao longo das últimas décadas, do número de crianças e adolescentes em situação de trabalho infantil, embora o problema não tenha sido completamente eliminado, sobretudo em atividades informais e em áreas rurais.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa trajetória de redução, ainda que incompleta, é atribuída, entre outros fatores, a:",
+      "alternativas": {
+        "a": "elevação da idade mínima de ingresso no ensino fundamental obrigatório",
+        "b": "aumento da informalidade no mercado como fator isolado da redução",
+        "c": "ausência de política pública voltada ao tema nas últimas décadas",
+        "d": "eliminação da pobreza extrema em todo o território nacional",
+        "e": "legislação, fiscalização, transferência de renda e acesso à escola"
+      },
+      "resposta": "e",
+      "explicacao": "A queda não veio de uma medida só: proibir, fiscalizar, compensar a renda que a criança deixava de trazer e ocupar o dia dela na escola operam juntos, e é a combinação que explica o resultado. Em (b) está a inversão do sinal — a informalidade é onde o trabalho infantil resiste, e não o que o reduziu. Em (a), a idade de ingresso no fundamental foi antecipada, e não elevada, o que aliás contribuiu na direção certa. Em (d), a pobreza extrema não foi eliminada. Em (c), a política pública é justamente parte da explicação."
+    },
+    {
+      "id": "direitos-humanos-71",
+      "texto_apoio": "Pesquisas sobre segurança alimentar classificam domicílios em diferentes graus de insegurança: desde situações em que há preocupação com a possibilidade de falta de alimentos no futuro próximo até situações em que membros da família, incluindo crianças, efetivamente passam fome por falta de recursos para comprar comida.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa classificação em graus (leve, moderada e grave) de insegurança alimentar é relevante porque:",
+      "alternativas": {
+        "a": "aplica-se a contextos de guerra ou catástrofe natural reconhecidos pela ONU",
+        "b": "dispensa a distinção entre quem passa fome e quem teme vir a passar",
+        "c": "permite dimensionar a gravidade enfrentada por cada família",
+        "d": "permite converter a insegurança alimentar em valor de indenização",
+        "e": "substitui os dados de renda familiar na formulação de política social"
+      },
+      "resposta": "c",
+      "explicacao": "Sem graus, o indicador só diria quantos estão inseguros; com eles, distingue a família que reduziu a variedade da mesa daquela em que a criança passa o dia sem comer — e política pública para uma não serve para a outra. Em (b) está exatamente o oposto do que a escala faz. Em (e), a classificação complementa os dados de renda, que seguem indispensáveis. Em (a), a medição é de rotina, em domicílios comuns, e não restrita a emergências. Em (d), a escala mede gravidade, e não valor indenizatório."
+    },
+    {
+      "id": "direitos-humanos-83",
+      "texto_apoio": "A legislação brasileira reserva, em concursos públicos, percentual de vagas a candidatos com deficiência, desde que a deficiência seja compatível com as atribuições do cargo pretendido.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa reserva de vagas em concursos públicos é fundamentada, sobretudo, no princípio de que:",
+      "alternativas": {
+        "a": "a reserva de vagas aplica-se apenas a cargos de nível superior",
+        "b": "a pessoa com deficiência é dispensada de etapas do processo seletivo",
+        "c": "o concurso não pode prever exigência de aptidão física para o cargo",
+        "d": "o concurso deve prever critério de desempate favorável a candidatos de menor renda",
+        "e": "a igualdade formal de acesso pode não bastar para garantir representação"
+      },
+      "resposta": "e",
+      "explicacao": "Abrir o concurso a todos não produz, sozinho, presença de pessoas com deficiência no serviço público, porque as barreiras vêm antes da prova — na escola, no transporte, na formação. A reserva corrige o resultado, não a regra de acesso. Em (b) está a confusão entre reserva e dispensa: o candidato concorre e é avaliado como os demais, apenas numa lista própria, e pode receber adaptação de tempo ou de formato. Em (c), a exigência de aptidão é válida quando compatível com o cargo, como o próprio enunciado registra. Em (a) e (d), nem a limitação a nível superior nem o desempate por renda integram o instituto."
+    },
+    {
+      "id": "direitos-humanos-87",
+      "texto_apoio": "Após a separação dos pais, a legislação civil brasileira estabeleceu como regra, e não mais exceção, que ambos os genitores compartilhem a responsabilidade e as decisões sobre a criação dos filhos, ainda que a criança resida predominantemente com um deles.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa mudança legislativa, que tornou regra a modalidade de guarda compartilhada entre os pais, buscou, sobretudo:",
+      "alternativas": {
+        "a": "eliminar a convivência de um dos genitores com os filhos após a separação",
+        "b": "uniformizar o valor da pensão em percentual fixo da renda do alimentante",
+        "c": "estabelecer que a criança resida metade do tempo com cada genitor",
+        "d": "aplicar-se apenas a casais que não possuam filhos em comum",
+        "e": "assegurar a participação de ambos nas decisões sobre a vida dos filhos"
+      },
+      "resposta": "e",
+      "explicacao": "Guarda compartilhada é divisão de autoridade parental — escola, saúde, viagem, religião —, e não divisão de calendário: a criança pode ter residência principal com um dos pais e ainda assim ter os dois decidindo. Em (c) está exatamente a confusão que a lei precisou desfazer, porque o próprio enunciado registra a residência predominante com um deles. Em (a), o objetivo é preservar a convivência, e não eliminá-la. Em (b), o valor dos alimentos segue o binômio necessidade e possibilidade. Em (d), o instituto pressupõe filhos em comum."
+    },
+    {
+      "id": "direitos-humanos-88",
+      "texto_apoio": "Ao longo das últimas décadas, o reconhecimento jurídico e social de arranjos familiares diferentes do modelo tradicional composto por pai, mãe e filhos biológicos — como famílias monoparentais, recompostas e homoafetivas — tem se ampliado, ainda que de forma gradual e desigual entre diferentes contextos sociais.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse reconhecimento ampliado de diferentes arranjos familiares pela jurisprudência e pela legislação decorre, sobretudo, de uma mudança de entendimento sobre a família, que passa a ser compreendida:",
+      "alternativas": {
+        "a": "como categoria irrelevante para o direito civil contemporâneo brasileiro",
+        "b": "apenas a partir de vínculos biológicos entre os seus membros",
+        "c": "apenas a partir do vínculo registral formalizado em cartório",
+        "d": "a partir do vínculo de afeto e da função social entre seus membros",
+        "e": "instituição de definição jurídica imutável desde a Constituição de 1988"
+      },
+      "resposta": "d",
+      "explicacao": "O critério deixou de ser a forma e passou a ser o vínculo: onde há convivência, afeto e cuidado recíproco, há família a ser protegida — o que abriu espaço para arranjos que o modelo único não previa. Em (b) e (c) estão os dois critérios formais que o entendimento novo superou, um pelo sangue e outro pelo registro, e ambos deixariam de fora famílias hoje reconhecidas. Em (e), a interpretação constitucional evoluiu justamente por não ser imutável. Em (a), a família segue sendo categoria central do direito civil, e é por isso que sua definição importa."
+    },
+    {
+      "id": "direitos-humanos-91",
+      "texto_apoio": "Durante o desenvolvimento e a distribuição inicial de vacinas contra determinada doença que se espalhou globalmente, países de maior renda garantiram, por meio de contratos antecipados, acesso a volume de doses proporcionalmente muito superior ao de países de menor renda, mesmo em fases críticas da resposta sanitária.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa disparidade no acesso a vacinas entre países de diferentes níveis de renda ilustra a tensão entre:",
+      "alternativas": {
+        "a": "os contratos e a propriedade intelectual dos fabricantes e o direito à saúde",
+        "b": "o direito eleitoral e o direito ambiental, tratados no Acordo de Paris",
+        "c": "o direito à saúde e a competência regulatória das agências sanitárias nacionais",
+        "d": "a soberania nacional e a liberdade religiosa, sem conexão com o caso",
+        "e": "a liberdade de expressão e o direito de propriedade privada"
+      },
+      "resposta": "a",
+      "explicacao": "De um lado, patente e contrato de compra antecipada, que garantem retorno ao fabricante e prioridade a quem pagou; de outro, o acesso a um bem sem o qual pessoas morrem. A disputa sobre quebra de patentes durante a emergência é a forma jurídica dessa tensão. Em (c) está o distrator mais plausível, porque agências sanitárias de fato aprovam ou atrasam vacinas — mas o gargalo descrito no enunciado é de contrato e de volume, e não de registro regulatório. Em (b), (d) e (e), os pares de direitos indicados não têm relação com a situação apresentada."
+    },
+    {
+      "id": "direitos-humanos-100",
+      "texto_apoio": "Parcela da população mundial ainda não tem acesso regular à internet ou a dispositivos digitais adequados, o que a exclui, na prática, de serviços públicos, oportunidades de trabalho e informações cada vez mais disponibilizados prioritariamente por meios digitais.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Diante desse cenário, parte da doutrina de direitos humanos passou a discutir o acesso à internet como:",
+      "alternativas": {
+        "a": "direito social emergente, cuja ausência aprofunda desigualdades existentes",
+        "b": "privilégio comercial, sem relação com os direitos fundamentais",
+        "c": "direito de terceira geração já consolidado em tratado vinculante",
+        "d": "matéria estranha ao campo de estudo dos direitos humanos",
+        "e": "direito já universalizado no conjunto dos países, sem desigualdade remanescente"
+      },
+      "resposta": "a",
+      "explicacao": "O argumento é instrumental: a conexão não vale por si, e sim porque virou condição de acesso a serviços, trabalho e informação — quem está fora perde direitos que já tinha, e a exclusão digital se soma às desigualdades anteriores. Em (c) está o distrator que exige atenção ao verbo: a doutrina discute o reconhecimento, o que significa que ele ainda não está consolidado em tratado vinculante. Em (e), a universalização é o oposto do quadro descrito. Em (b) e (d), tratar o acesso como mercadoria ou como tema alheio aos direitos humanos é a posição que o debate contesta."
+    }
+  ]
+}

@@ -48,9 +48,9 @@
                                    "n":  100
                                },
     "direitos-humanos":  {
-                             "longaPct":  42,
-                             "absCertaPct":  1.7,
-                             "indice":  50,
+                             "longaPct":  22,
+                             "absCertaPct":  3.7,
+                             "indice":  20,
                              "n":  100
                          },
     "literatura":  {
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  34.3,
+                    "indice":  32.9,
                     "n":  2149
                 }
 }

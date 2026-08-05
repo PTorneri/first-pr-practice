@@ -10532,17 +10532,17 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-08",
                                  "texto_apoio":  "Em 2012, o STF julgou constitucional a política de cotas raciais em universidades públicas.",
+                                 "formato":  "direta",
                                  "enunciado":  "O principal argumento jurídico utilizado pelo STF para validar as cotas raciais foi:",
                                  "alternativas":  {
-                                                      "a":  "A inexistência de outros critérios possíveis de seleção universitária, tese rejeitada pelo próprio STF no julgamento, ocorrido em 2012",
-                                                      "b":  "A vedação constitucional a qualquer forma de exame vestibular, atribuída indevidamente ao art. 208 da Constituição",
-                                                      "c":  "A previsão expressa de reserva de vagas no texto original da Constituição de 1988",
-                                                      "d":  "A necessidade de correção de desigualdades históricas por meio de ação afirmativa, compatível com a igualdade material",
-                                                      "e":  "A obrigatoriedade imposta por tratados internacionais vinculantes, como a Convenção Interamericana contra o Racismo"
+                                                      "a":  "a inexistência de outros critérios possíveis de seleção para a universidade pública",
+                                                      "b":  "a vedação constitucional a qualquer forma de exame vestibular",
+                                                      "c":  "a previsão expressa de reserva de vagas no texto original de 1988",
+                                                      "d":  "a correção de desigualdades históricas, compatível com a igualdade material",
+                                                      "e":  "a obrigatoriedade imposta por tratados internacionais vinculantes"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "O STF entendeu que as cotas raciais são instrumento legítimo de ação afirmativa, compatível com a igualdade material prevista na Constituição, ao buscar compensar desigualdades históricas de acesso à educação superior.",
-                                 "formato":  "direta"
+                                 "explicacao":  "O tribunal separou igualdade formal de igualdade material: tratar como iguais candidatos que partiram de posições desiguais reproduz a desigualdade, e a ação afirmativa é o instrumento admitido para corrigir isso, com caráter transitório. Em (e) está o distrator mais informado, porque o Brasil é parte de convenções contra a discriminação racial — elas reforçam o argumento, mas o fundamento invocado foi constitucional, e não a obrigação externa. Em (c), a Constituição não prevê expressamente cotas raciais no ensino superior. Em (a) e (b), o vestibular permanece válido e não foi vedado."
                              },
                              {
                                  "id":  "direitos-humanos-09",
@@ -10772,17 +10772,17 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-24",
                                  "texto_apoio":  "A Lei 8.213/1991 estabelece percentuais obrigatórios de vagas para pessoas com deficiência em empresas com determinado número de empregados.",
+                                 "formato":  "direta",
                                  "enunciado":  "Essa política, conhecida como Lei de Cotas para pessoas com deficiência, é um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Isenção fiscal concedida apenas a microempresas de pequeno porte, tese rejeitada pela doutrina majoritária",
-                                                      "b":  "Ação afirmativa voltada à inclusão da pessoa com deficiência no mercado de trabalho, como previsto na Lei 8.213/1991",
-                                                      "c":  "Benefício assistencial substitutivo do salário mínimo, previsto na LOAS",
-                                                      "d":  "Política aplicável exclusivamente ao setor público, nos termos da Lei 8.112/1990, sem alcançar empresas privadas",
-                                                      "e":  "Medida compensatória de natureza tributária, deduzida do imposto devido pela empresa"
+                                                      "a":  "isenção fiscal concedida apenas a microempresas de pequeno porte",
+                                                      "b":  "ação afirmativa para inclusão da pessoa com deficiência no trabalho",
+                                                      "c":  "benefício assistencial substitutivo do salário mínimo previsto na LOAS",
+                                                      "d":  "política aplicável apenas ao setor público, sem alcançar a empresa privada",
+                                                      "e":  "medida compensatória de natureza tributária, deduzida do imposto devido"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "A Lei de Cotas obriga empresas privadas com 100 ou mais empregados a reservar de 2% a 5% das vagas a pessoas com deficiência ou reabilitadas, constituindo ação afirmativa voltada à inclusão no mercado de trabalho formal.",
-                                 "formato":  "direta"
+                                 "explicacao":  "A lei impõe à empresa privada um percentual de contratação, criando obrigação de resultado onde a igualdade formal não produzia inclusão — é ação afirmativa no mercado de trabalho, e não incentivo. Em (c) está a confusão mais frequente entre dois institutos: o benefício de prestação continuada é assistencial, pago a quem não tem meios de subsistência, ao passo que a cota trata de emprego. Em (d), a lei alcança justamente as empresas privadas acima de cem empregados. Em (a) e (e), não há isenção nem dedução tributária associada à cota."
                              },
                              {
                                  "id":  "direitos-humanos-25",
@@ -10802,17 +10802,17 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-26",
                                  "texto_apoio":  "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
+                                 "formato":  "direta",
                                  "enunciado":  "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
                                  "alternativas":  {
-                                                      "a":  "Todo civil pode ser tratado como alvo militar legítimo em caso de guerra total declarada, segundo o art. 225 da Constituição",
-                                                      "b":  "Apenas os países vencedores estão obrigados a respeitar as regras humanitárias de Genebra",
-                                                      "c":  "As partes em conflito devem distinguir combatentes de civis, dirigindo ataques apenas contra objetivos militares",
-                                                      "d":  "Prisioneiros de guerra podem ser submetidos a qualquer forma de tratamento pelo país captor",
-                                                      "e":  "Toda infraestrutura de uso misto pode ser atacada, desde que haja aviso prévio"
+                                                      "a":  "todo civil pode ser tratado como alvo legítimo em guerra total declarada",
+                                                      "b":  "apenas os países vencedores devem respeitar as regras humanitárias",
+                                                      "c":  "as partes devem separar combatentes de civis e atacar só objetivos militares",
+                                                      "d":  "prisioneiros de guerra podem receber qualquer tratamento do país captor",
+                                                      "e":  "a infraestrutura de uso misto pode ser atacada, desde que haja aviso prévio à população"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "O princípio da distinção exige que as partes em conflito armado diferenciem combatentes de civis e bens de caráter civil, dirigindo operações militares apenas contra objetivos militares legítimos, de modo a proteger a população civil.",
-                                 "formato":  "direta"
+                                 "explicacao":  "A distinção é a regra que separa guerra de massacre: quem combate pode ser alvo, quem não combate não pode, e o ataque tem de ser dirigido a objetivo militar identificado. Em (e) está o distrator mais difícil, porque o alvo de uso misto é categoria real e disputada — o aviso prévio, porém, pertence ao princípio da precaução, e não dispensa o exame de proporcionalidade que a distinção exige. Em (a), civis não perdem proteção por declaração de guerra total. Em (b), as convenções obrigam todas as partes. Em (d), o tratamento de prisioneiros é regulado em detalhe pela Terceira Convenção."
                              },
                              {
                                  "id":  "direitos-humanos-27",
@@ -10862,47 +10862,47 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-30",
                                  "texto_apoio":  "Em 2003, o STF julgou o caso conhecido como \u0027Ellwanger\u0027, envolvendo a condenação de um editor por divulgar obras antissemitas.",
+                                 "formato":  "direta",
                                  "enunciado":  "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
                                  "alternativas":  {
-                                                      "a":  "Não é absoluta e pode ser limitada quando configura discurso de ódio, como a incitação ao racismo, crime inafiançável",
-                                                      "b":  "Aplica-se apenas a manifestações realizadas por meios de comunicação de massa tradicionais, tese rejeitada pela doutrina majoritária",
-                                                      "c":  "É um direito absoluto, que não admite qualquer tipo de limitação constitucional ou legal imposta",
-                                                      "d":  "Prevalece sempre sobre a honra e a imagem, por integrar o núcleo das cláusulas pétreas",
-                                                      "e":  "Não encontra limites no ordenamento jurídico brasileiro em nenhuma hipótese ou contexto"
+                                                      "a":  "não é absoluta e admite limite quando configura discurso de ódio e racismo",
+                                                      "b":  "alcança apenas as manifestações veiculadas pelos meios de imprensa tradicionais",
+                                                      "c":  "é direito absoluto, que não admite limitação constitucional ou legal",
+                                                      "d":  "prevalece sobre a honra e a imagem, por integrar as cláusulas pétreas",
+                                                      "e":  "não encontra limite algum no ordenamento jurídico brasileiro vigente"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "O STF reafirmou que a liberdade de expressão, embora fundamental, não é absoluta, devendo ser ponderada com outros valores constitucionais, como a dignidade humana e a igualdade, de modo que manifestações de ódio racial configuram crime de racismo, nos termos da Constituição.",
-                                 "formato":  "direta"
+                                 "explicacao":  "O tribunal ponderou dois direitos de mesma estatura e concluiu que a expressão cede diante da prática de racismo, crime que a Constituição declara imprescritível e inafiançável — a liberdade protege a opinião, não a incitação. Em (d) está o erro de técnica que a questão testa: ser cláusula pétrea impede a supressão do direito, e não estabelece hierarquia sobre os demais direitos fundamentais. Em (c) e (e), a inexistência de limites é justamente a tese afastada no julgamento. Em (b), a proteção não depende do meio em que a manifestação circula."
                              },
                              {
                                  "id":  "direitos-humanos-31",
                                  "texto_apoio":  "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.",
+                                 "formato":  "direta",
                                  "enunciado":  "Em relação à moderação de conteúdo por plataformas digitais, o debate contemporâneo sobre liberdade de expressão e discurso de ódio busca principalmente:",
                                  "alternativas":  {
-                                                      "a":  "Transferir ao Estado o controle editorial prévio do conteúdo publicado por particulares na internet",
-                                                      "b":  "Suprimir a moderação feita pelas plataformas, deixando toda remoção de conteúdo a cargo do Judiciário",
-                                                      "c":  "Ponderar a liberdade de expressão com a necessidade de coibir discursos de ódio contra grupos vulneráveis",
-                                                      "d":  "Atribuir exclusivamente ao Judiciário a decisão prévia sobre cada conteúdo publicado",
-                                                      "e":  "Restringir a discussão aos veículos de imprensa tradicionais, deixando as redes sociais fora do debate"
+                                                      "a":  "transferir ao Estado o controle editorial prévio do conteúdo publicado",
+                                                      "b":  "suprimir a moderação das plataformas, deixando a remoção ao Judiciário",
+                                                      "c":  "ponderar liberdade de expressão e o combate ao discurso de ódio",
+                                                      "d":  "atribuir ao Judiciário a decisão prévia sobre cada conteúdo publicado",
+                                                      "e":  "restringir a discussão aos veículos de imprensa, fora das redes sociais"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "O debate sobre liberdade de expressão no ambiente digital busca equilibrar a proteção a esse direito fundamental com a necessidade de coibir abusos, como discursos que incitam violência ou discriminação, sem que isso resulte em censura prévia indevida.",
-                                 "formato":  "direta"
+                                 "explicacao":  "O debate não busca um vencedor entre os dois valores: procura o desenho institucional que reduza discurso de ódio sem entregar a alguém o poder de decidir de antemão o que pode ser dito. Em (b) e (d) está a mesma solução em duas formas, e ela é inviável na prática — exigir decisão judicial prévia para cada publicação paralisaria tanto a moderação quanto o Judiciário. Em (a), o controle editorial estatal prévio é censura, vedada pela Constituição. Em (e), a rede social é justamente onde o problema se coloca."
                              },
                              {
                                  "id":  "direitos-humanos-32",
                                  "texto_apoio":  "A Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) regula o tratamento de dados pessoais no Brasil.",
+                                 "formato":  "direta",
                                  "enunciado":  "Um dos principais objetivos da LGPD é:",
                                  "alternativas":  {
-                                                      "a":  "Regular exclusivamente o tratamento de dados por órgãos governamentais federais e estaduais",
-                                                      "b":  "Assegurar direitos como transparência, consentimento e finalidade específica no tratamento de dados, protegendo a privacidade",
-                                                      "c":  "Permitir o compartilhamento irrestrito de dados pessoais entre empresas, sem necessidade de consentimento",
-                                                      "d":  "Uniformizar a legislação brasileira de dados com o regulamento europeu, sem adaptações",
-                                                      "e":  "Proibir qualquer coleta de dados pessoais por empresas privadas e órgãos públicos brasileiros"
+                                                      "a":  "regular o tratamento de dados apenas por órgãos governamentais",
+                                                      "b":  "assegurar transparência, consentimento e finalidade no tratamento",
+                                                      "c":  "permitir o compartilhamento de dados entre empresas sem consentimento do titular",
+                                                      "d":  "reproduzir o regulamento europeu de dados sem adaptação ao país",
+                                                      "e":  "proibir a coleta de dados pessoais por empresas e órgãos públicos"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "A LGPD estabelece princípios e regras para o tratamento de dados pessoais por empresas e órgãos públicos, assegurando direitos aos titulares dos dados, como informação, consentimento e finalidade específica, em consonância com o direito fundamental à privacidade.",
-                                 "formato":  "direta"
+                                 "explicacao":  "A lei não impede o uso do dado: condiciona-o. Exige que o titular saiba o que é coletado, autorize ou se enquadre em outra base legal, e que o dado sirva apenas à finalidade declarada no momento da coleta. Em (e) está o excesso mais comum: proibir a coleta seria inviabilizar serviços que a própria lei pressupõe existirem. Em (c), o compartilhamento sem base legal é exatamente o que ela veda. Em (a), a LGPD alcança o setor privado e o público. Em (d), a inspiração europeia é real, mas o texto traz adaptações próprias, como o rol de bases legais."
                              },
                              {
                                  "id":  "direitos-humanos-33",
@@ -10984,18 +10984,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-38",
                                  "texto_apoio":  "Órgãos de estatística costumam definir parâmetros de renda mínima per capita para classificar uma pessoa como pobre ou extremamente pobre, parâmetros utilizados para dimensionar políticas públicas de assistência social.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "A definição de linhas de pobreza e extrema pobreza com base em parâmetros de renda tem como principal função:",
                                  "alternativas":  {
-                                                      "a":  "Eliminar a necessidade de qualquer política pública voltada à população de baixa renda",
-                                                      "b":  "Substituir qualquer outra forma de avaliação da qualidade de vida e do bem-estar da população",
-                                                      "c":  "Substituir os indicadores multidimensionais por um único critério monetário",
-                                                      "d":  "Fornecer um critério objetivo e comparável ao longo do tempo para dimensionar a pobreza e orientar políticas sociais",
-                                                      "e":  "Aplicar-se exclusivamente a comparações entre países desenvolvidos e organismos multilaterais"
+                                                      "a":  "eliminar a necessidade de política pública voltada à população de baixa renda",
+                                                      "b":  "substituir outras formas de avaliar a qualidade de vida da população",
+                                                      "c":  "substituir os indicadores multidimensionais por um critério monetário único",
+                                                      "d":  "fornecer critério objetivo e comparável no tempo para dimensionar a pobreza",
+                                                      "e":  "servir apenas a comparações entre países desenvolvidos e organismos multilaterais"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "Linhas de pobreza e extrema pobreza, baseadas em parâmetros de renda per capita, fornecem um critério objetivo e comparável ao longo do tempo, permitindo dimensionar a magnitude da pobreza em um país e direcionar políticas públicas de assistência social a quem está abaixo desses parâmetros, ainda que critérios exclusivamente monetários não capturem todas as dimensões da privação social.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A linha de renda serve para contar e comparar: define quem entra no programa, permite acompanhar a série ao longo dos anos e dimensionar o orçamento necessário. Em (c) está o distrator mais fino, porque a crítica que ele embute é legítima — a renda não capta acesso a saúde, escola e saneamento —, mas a linha monetária convive com os índices multidimensionais em vez de substituí-los. Em (b), o mesmo excesso em versão mais ampla. Em (a), o critério existe para orientar a política, não para dispensá-la. Em (e), é usada sobretudo para medir a pobreza dentro de cada país."
                              },
                              {
                                  "id":  "direitos-humanos-39",
@@ -11064,18 +11064,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-43",
                                  "texto_apoio":  "Movimentos sociais do campo reivindicam a redistribuição de terras improdutivas ou griladas a famílias de trabalhadores rurais sem-terra, com base no princípio constitucional de que a propriedade deve cumprir uma função social.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "A previsão constitucional de desapropriação de imóvel rural que não cumpre sua função social, mediante indenização, para fins de reforma agrária, busca conciliar:",
                                  "alternativas":  {
-                                                      "a":  "A transferência automática e gratuita de qualquer imóvel rural ao primeiro trabalhador que o ocupar",
-                                                      "b":  "O direito de propriedade com o princípio da função social da terra e o objetivo de redução da desigualdade fundiária",
-                                                      "c":  "A eliminação de qualquer indenização ao proprietário desapropriado, medida adotada por reformas agrárias radicais em outros países",
-                                                      "d":  "A abolição total da propriedade privada rural no país, nos moldes da reforma agrária cubana de 1959",
-                                                      "e":  "O direito de propriedade com a competência tributária dos municípios sobre imóveis rurais"
+                                                      "a":  "a transferência gratuita de imóvel rural ao primeiro trabalhador que o ocupar",
+                                                      "b":  "o direito de propriedade com a função social da terra e a redução da desigualdade",
+                                                      "c":  "a supressão da indenização devida ao proprietário desapropriado",
+                                                      "d":  "a abolição da propriedade privada rural no território nacional",
+                                                      "e":  "o direito de propriedade com a competência tributária dos municípios sobre o imóvel rural"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "A previsão constitucional de desapropriação para fins de reforma agrária busca conciliar o direito de propriedade, assegurado mediante indenização ao proprietário, com o princípio da função social da terra e o objetivo de reduzir a desigualdade fundiária historicamente marcante no Brasil, tema que segue gerando intensos conflitos e disputas políticas e jurídicas.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "A Constituição preserva a propriedade e a condiciona: quem cumpre a função social não é desapropriado, quem não cumpre pode ser, e ainda assim recebe indenização — é essa conciliação, e não a supressão de um dos termos, que o instituto realiza. Em (c) está o ponto que mais se confunde: a desapropriação para reforma agrária é indenizada, em títulos da dívida agrária, e não confiscatória. Em (d), a propriedade privada rural permanece garantida. Em (a), a ocupação não gera título. Em (e), o imposto territorial rural é federal, e a competência tributária não está em jogo."
                              },
                              {
                                  "id":  "direitos-humanos-44",
@@ -11128,18 +11128,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-47",
                                  "texto_apoio":  "Estatísticas de segurança pública mostram que a proporção de mortes decorrentes de intervenção policial entre a população jovem, negra e residente em periferias tende a ser desproporcionalmente maior do que entre outros grupos da população.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "Esse dado é frequentemente utilizado, no debate sobre segurança pública e direitos humanos, para sustentar a necessidade de:",
                                  "alternativas":  {
-                                                      "a":  "Aprimorar protocolos de uso proporcional da força e ampliar mecanismos de controle externo da atividade policial",
-                                                      "b":  "Reduzir o investimento em políticas de segurança pública em qualquer contexto, inclusive no policiamento comunitário",
-                                                      "c":  "Ampliar, sem qualquer mecanismo de controle, o uso da força letal por agentes de segurança pública, conforme diretrizes já revogadas",
-                                                      "d":  "Eliminar totalmente a atuação de forças policiais em áreas de periferia, política nunca adotada por nenhum estado brasileiro",
-                                                      "e":  "Transferir integralmente à Justiça Militar o julgamento de crimes cometidos por policiais"
+                                                      "a":  "aprimorar protocolos de uso proporcional da força e ampliar o controle externo",
+                                                      "b":  "reduzir o investimento em políticas de segurança pública, inclusive comunitárias",
+                                                      "c":  "ampliar o uso da força letal por agentes de segurança, sem mecanismo de controle",
+                                                      "d":  "retirar as forças policiais das áreas de periferia das grandes cidades",
+                                                      "e":  "transferir à Justiça Militar o julgamento de crimes cometidos por policiais"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "A desproporcionalidade de mortes decorrentes de intervenção policial entre jovens negros de periferia é utilizada no debate sobre segurança pública para sustentar a necessidade de aprimorar protocolos de uso proporcional da força, ampliar mecanismos de controle externo da atividade policial e adotar políticas de segurança orientadas por dados e pelo respeito aos direitos humanos, sem que isso signifique a ausência de policiamento nessas áreas.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "A desproporção sugere falha de procedimento e de fiscalização, e a resposta que o debate constrói combina as duas frentes: regra clara sobre quando atirar e instância externa capaz de apurar o que aconteceu. Em (e) está o distrator mais consistente, porque a competência para julgar policiais é discussão institucional real — só que deslocá-la para a Justiça Militar reduz o controle externo, indo na direção oposta. Em (b) e (d), retirar investimento ou policiamento não é o que o dado sustenta. Em (c), ampliar a letalidade sem controle agravaria o problema medido."
                              },
                              {
                                  "id":  "direitos-humanos-48",
@@ -11176,18 +11176,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-50",
                                  "texto_apoio":  "Em grandes centros urbanos, é comum observar pessoas que vivem e pernoitam em espaços públicos, muitas vezes sem acesso regular a documentação, atendimento de saúde ou renda.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Políticas públicas voltadas à população em situação de rua, no Brasil, têm buscado, sobretudo, superar uma abordagem anterior baseada em:",
                                  "alternativas":  {
-                                                      "a":  "Ausência total de qualquer política pública voltada a esse grupo, lacuna nunca reconhecida oficialmente pelo poder público",
-                                                      "b":  "Recolhimento compulsório e institucionalização forçada dessa população, substituídos por abordagens baseadas em direitos",
-                                                      "c":  "Criminalização exclusiva da situação de rua como contravenção penal, prevista na antiga Lei de Contravenções Penais",
-                                                      "d":  "Transferência compulsória dessa população para municípios de menor porte",
-                                                      "e":  "Concessão automática de moradia definitiva a toda pessoa em situação de rua, sem qualquer outro tipo de política complementar"
+                                                      "a":  "ausência de política pública voltada a esse grupo até o período recente",
+                                                      "b":  "recolhimento compulsório e institucionalização forçada dessa população",
+                                                      "c":  "criminalização da situação de rua como contravenção penal autônoma",
+                                                      "d":  "transferência compulsória dessa população para municípios de menor porte",
+                                                      "e":  "concessão automática de moradia definitiva a toda pessoa em situação de rua"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "Políticas públicas voltadas à população em situação de rua têm buscado superar abordagens anteriores baseadas em recolhimento compulsório e institucionalização forçada, adotando modelos baseados em direitos, acolhimento voluntário e articulação de serviços de assistência social, saúde e documentação civil, reconhecendo essa população como sujeito de direitos, e não apenas objeto de intervenção estatal.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A virada foi de método: sair da remoção da pessoa da rua, por recolhimento e abrigo compulsório, para o atendimento que reconhece direitos — documentação, saúde, renda — e admite a permanência no território onde ela tem seus vínculos. Em (c) está o distrator mais próximo, porque a criminalização da vadiagem existiu na Lei de Contravenções Penais e alcançava essa população indiretamente; a abordagem que as políticas atuais substituem, porém, é a assistencial-higienista, e não a penal. Em (a), houve política anterior, ainda que dessa natureza. Em (d) e (e), nem a transferência para o interior nem a moradia automática integraram o modelo superado."
                              },
                              {
                                  "id":  "direitos-humanos-51",
@@ -11224,18 +11224,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-53",
                                  "texto_apoio":  "Pesquisas sobre o mercado de trabalho indicam que pessoas LGBTQIA+, sobretudo travestis e mulheres trans, enfrentam maiores dificuldades de inserção em empregos formais, mesmo quando possuem qualificação equivalente à de outros candidatos.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Esse cenário evidencia uma tensão entre a igualdade formal prevista na legislação trabalhista e:",
                                  "alternativas":  {
-                                                      "a":  "Barreiras práticas de discriminação na contratação e na permanência no emprego, que exigem políticas específicas de inclusão",
-                                                      "b":  "A garantia automática de emprego a qualquer pessoa, independentemente de sua qualificação",
-                                                      "c":  "A inexistência de qualquer forma de discriminação no mercado de trabalho brasileiro, segundo pesquisas do IBGE sobre emprego formal",
-                                                      "d":  "A inaplicabilidade de qualquer princípio constitucional de igualdade às relações de trabalho privadas",
-                                                      "e":  "A ausência de previsão legal que proíba discriminação em processos seletivos privados"
+                                                      "a":  "barreiras práticas de discriminação na contratação e na permanência no emprego",
+                                                      "b":  "a garantia de emprego a toda pessoa, seja qual for sua qualificação",
+                                                      "c":  "a inexistência de discriminação no mercado de trabalho formal brasileiro",
+                                                      "d":  "a inaplicabilidade do princípio da igualdade às relações de trabalho de natureza privada",
+                                                      "e":  "a ausência de norma que proíba discriminação em processo seletivo privado"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "A dificuldade de inserção de pessoas LGBTQIA+, sobretudo travestis e mulheres trans, no mercado de trabalho formal, mesmo diante de qualificação equivalente, evidencia a distância entre a igualdade formal prevista na legislação trabalhista e a igualdade material efetivamente vivida, o que tem motivado a criação de políticas específicas de inclusão, como programas de capacitação e cotas em determinados setores.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A lei já proíbe discriminar, e mesmo assim o resultado no mercado é desigual entre candidatos de qualificação equivalente — é essa distância entre a norma e o que acontece na porta da entrevista que a igualdade formal não fecha sozinha. Em (d) está o erro técnico mais frequente: os direitos fundamentais também vinculam relações entre particulares, e a contratação privada não fica fora do alcance da igualdade. Em (c) e (e), a inexistência de discriminação e a ausência de norma proibitiva são desmentidas pelo enunciado e pela lei. Em (b), ninguém propõe emprego garantido sem qualificação."
                              },
                              {
                                  "id":  "direitos-humanos-54",
@@ -11288,18 +11288,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-57",
                                  "texto_apoio":  "A legislação trabalhista brasileira prevê mecanismos específicos de proteção contra o assédio sexual no ambiente de trabalho, incluindo a possibilidade de rescisão indireta do contrato pelo empregado assediado e a responsabilização do empregador em determinadas condições.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Esses mecanismos de proteção reconhecem que o assédio sexual no trabalho constitui, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "Um comportamento juridicamente irrelevante quando praticado por superior hierárquico, entendimento minoritário e superado",
-                                                      "b":  "Uma falta funcional apurável apenas em processo administrativo interno da empresa",
-                                                      "c":  "Uma forma de violência e discriminação que compromete a dignidade do trabalhador, exigindo mecanismos específicos de prevenção",
-                                                      "d":  "Uma questão exclusivamente privada, sem relevância jurídica ou trabalhista, conforme jurisprudência trabalhista antiga",
-                                                      "e":  "Uma conduta que só pode ser denunciada pela própria vítima perante autoridade policial, sem qualquer via trabalhista"
+                                                      "a":  "comportamento juridicamente irrelevante quando praticado por superior",
+                                                      "b":  "falta funcional apurável apenas em processo administrativo da empresa",
+                                                      "c":  "forma de violência e discriminação que atinge a dignidade do trabalhador",
+                                                      "d":  "questão privada, sem relevância jurídica no âmbito da relação de trabalho",
+                                                      "e":  "conduta denunciável apenas pela vítima perante autoridade policial"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "A legislação trabalhista reconhece o assédio sexual como forma de violência e discriminação que compromete a dignidade do trabalhador e o ambiente de trabalho, prevendo mecanismos como a rescisão indireta do contrato e a responsabilização do empregador, sobretudo quando este tem conhecimento da conduta e não adota medidas para coibi-la.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "Tratar o assédio como violência e discriminação, e não como desentendimento entre duas pessoas, é o que justifica responsabilizar o empregador e permitir que o empregado rompa o contrato por culpa dele — a relação de poder no trabalho faz parte do problema. Em (b) está o enquadramento reducionista mais comum: a apuração interna existe e é devida, mas não esgota a matéria, que tem repercussão trabalhista e penal. Em (d), a relevância jurídica é a premissa dos mecanismos citados. Em (e), há via trabalhista além da policial. Em (a), a hierarquia agrava a conduta em vez de torná-la irrelevante."
                              },
                              {
                                  "id":  "direitos-humanos-58",
@@ -11320,18 +11320,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-59",
                                  "texto_apoio":  "A legislação eleitoral brasileira estabelece um percentual mínimo de candidaturas de cada sexo que os partidos devem registrar para concorrer a cargos legislativos, além de destinar parcela obrigatória do fundo partidário e do tempo de propaganda eleitoral a candidaturas femininas.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa exigência de percentual mínimo de candidaturas femininas é um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Restrição ao direito de candidatura de homens em qualquer eleição proporcional ou majoritária",
-                                                      "b":  "Ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica",
-                                                      "c":  "Medida aplicável exclusivamente a eleições municipais de pequeno porte, com menos de 50 mil eleitores",
-                                                      "d":  "Cláusula de barreira eleitoral, destinada a reduzir a fragmentação partidária",
-                                                      "e":  "Norma sem qualquer efeito prático sobre a composição das candidaturas partidárias, segundo dados eleitorais recentes"
+                                                      "a":  "restrição ao direito de candidatura de homens nas eleições proporcionais",
+                                                      "b":  "ação afirmativa para ampliar a participação política das mulheres",
+                                                      "c":  "medida aplicável apenas a eleições municipais de pequeno porte",
+                                                      "d":  "cláusula de barreira, destinada a reduzir a fragmentação partidária",
+                                                      "e":  "norma sem efeito prático sobre a composição das candidaturas partidárias"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "A exigência legal de percentual mínimo de candidaturas femininas, combinada à destinação de recursos financeiros e de tempo de propaganda, constitui ação afirmativa voltada a ampliar a participação política das mulheres, buscando corrigir uma sub-representação histórica que a igualdade meramente formal do direito de candidatura não foi capaz de superar por si só.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A cota é tratamento desigual deliberado, criado para corrigir uma desigualdade anterior — a definição mesma de ação afirmativa —, e por isso vem acompanhada de recursos e tempo de propaganda, sem os quais a candidatura registrada não disputa de fato. Em (d) está o distrator que exige distinguir dois institutos eleitorais: a cláusula de barreira filtra partidos por desempenho, e nada tem a ver com a composição por sexo das candidaturas. Em (a), a reserva vale para ambos os sexos. Em (c), a exigência alcança todas as eleições proporcionais. Em (e), o efeito sobre o registro de candidaturas é mensurável."
                              },
                              {
                                  "id":  "direitos-humanos-60",
@@ -11448,82 +11448,82 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-67",
                                  "texto_apoio":  "Uma pessoa pode ser transportada por terceiros para fora de seu local de origem, com seu consentimento inicial e mediante pagamento, para depois ser explorada em condições análogas à escravidão; em outro caso, uma pessoa pode ser recrutada, transportada e mantida sob coação, fraude ou ameaça, com a finalidade de exploração, independentemente de cruzar fronteiras.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "A diferença central entre tráfico de pessoas e contrabando de migrantes está em que o tráfico de pessoas:",
                                  "alternativas":  {
-                                                      "a":  "Ocorre exclusivamente entre países vizinhos, ao contrário do contrabando de migrantes, conforme define o Protocolo de Palermo",
-                                                      "b":  "É sempre consentido livremente pela vítima em todas as suas etapas, ao contrário do contrabando de migrantes",
-                                                      "c":  "Envolve elemento de exploração da vítima, como trabalho forçado ou exploração sexual, mediante coação, fraude ou abuso de vulnerabilidade",
-                                                      "d":  "É uma prática já inteiramente erradicada em todo o mundo, ao contrário do contrabando de migrantes",
-                                                      "e":  "Ocorre sempre com travessia irregular de fronteira, elemento ausente no contrabando"
+                                                      "a":  "ocorre apenas entre países vizinhos, ao contrário do que se dá no contrabando de migrantes",
+                                                      "b":  "é consentido livremente pela vítima em todas as etapas do deslocamento",
+                                                      "c":  "envolve exploração da vítima mediante coação, fraude ou abuso de vulnerabilidade",
+                                                      "d":  "é prática já erradicada, ao contrário do contrabando de migrantes",
+                                                      "e":  "supõe travessia irregular de fronteira, elemento ausente no contrabando"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "O tráfico de pessoas se distingue do contrabando de migrantes por envolver a exploração da vítima — como trabalho forçado, servidão ou exploração sexual — obtida mediante coação, fraude ou abuso de situação de vulnerabilidade, podendo ocorrer inclusive dentro das fronteiras de um mesmo país, enquanto o contrabando de migrantes está associado à facilitação, geralmente onerosa e consentida, da entrada irregular em outro país, sem necessariamente envolver exploração posterior da pessoa transportada.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "O que define o tráfico é a finalidade de exploração e o vício da vontade, não o deslocamento: pode ocorrer dentro do mesmo município, e o consentimento inicial não o descaracteriza quando obtido por fraude. Em (e) está a inversão exata do critério — a travessia irregular de fronteira é o que caracteriza o contrabando de migrantes, cujo objeto é a entrada ilegal e não a pessoa. Em (b), a coação e a fraude afastam o consentimento livre. Em (a), o alcance não se limita a países vizinhos. Em (d), o tráfico de pessoas persiste em escala global."
                              },
                              {
                                  "id":  "direitos-humanos-68",
                                  "texto_apoio":  "Crianças e adolescentes empregados em atividades domésticas na casa de terceiros, muitas vezes sob promessa de moradia, alimentação e, em alguns casos, educação, em troca do trabalho realizado, representam uma das formas historicamente mais invisibilizadas de trabalho infantil no Brasil.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa modalidade de trabalho infantil é especialmente difícil de fiscalizar porque:",
                                  "alternativas":  {
-                                                      "a":  "Ocorre exclusivamente em grandes empresas do setor de serviços domésticos, regulamentadas pela CLT desde 1943",
-                                                      "b":  "É expressamente autorizada e regulamentada pela legislação trabalhista brasileira a partir dos 12 anos de idade",
-                                                      "c":  "Ocorre majoritariamente dentro do ambiente doméstico privado, dificultando o acesso de órgãos de fiscalização trabalhista",
-                                                      "d":  "Envolve remuneração formal registrada, o que a torna visível às bases de dados oficiais",
-                                                      "e":  "Não envolve qualquer forma de exploração da criança ou do adolescente envolvido, conforme dados oficiais recentes"
+                                                      "a":  "ocorre em grandes empresas do setor de serviços domésticos regulamentadas",
+                                                      "b":  "é autorizada pela legislação trabalhista a partir dos doze anos de idade",
+                                                      "c":  "ocorre dentro do domicílio privado, fora do alcance da fiscalização",
+                                                      "d":  "envolve remuneração formal registrada, visível às bases de dados oficiais",
+                                                      "e":  "não envolve exploração da criança ou do adolescente que a realiza"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "O trabalho infantil doméstico é especialmente difícil de fiscalizar por ocorrer majoritariamente dentro do ambiente doméstico privado, espaço de mais difícil acesso para órgãos de fiscalização trabalhista, que atuam mais facilmente em estabelecimentos comerciais e industriais, o que contribui para a invisibilização histórica dessa forma de exploração do trabalho infantil no Brasil.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A casa é inviolável, e o auditor fiscal do trabalho não entra sem autorização — o que torna esse trabalho estatisticamente invisível e praticamente inalcançável pela fiscalização de rotina. Em (d) está a inversão que a questão testa: é justamente a ausência de registro que impede a detecção, já que a criança aparece como agregada da família, e não como empregada. Em (b), o trabalho doméstico é proibido a menores de dezoito anos. Em (a), não se trata de empresa, e sim de residência particular. Em (e), a exploração é o que caracteriza a prática."
                              },
                              {
                                  "id":  "direitos-humanos-69",
                                  "texto_apoio":  "Levantamentos periódicos sobre o mercado de trabalho brasileiro têm mostrado redução, ao longo das últimas décadas, do número de crianças e adolescentes em situação de trabalho infantil, embora o problema não tenha sido completamente eliminado, sobretudo em atividades informais e em áreas rurais.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa trajetória de redução, ainda que incompleta, é atribuída, entre outros fatores, a:",
                                  "alternativas":  {
-                                                      "a":  "Elevação da idade mínima para ingresso no ensino fundamental obrigatório",
-                                                      "b":  "Aumento da informalidade no mercado de trabalho como fator isolado suficiente para a redução do trabalho infantil",
-                                                      "c":  "Ausência total de qualquer política pública voltada ao tema nas últimas décadas, apesar de compromissos internacionais assumidos",
-                                                      "d":  "Eliminação completa da pobreza extrema em todo o território nacional, alcançada plenamente na última década",
-                                                      "e":  "Combinação de legislação de proteção, fiscalização, programas de transferência de renda condicionada e ampliação do acesso à escola"
+                                                      "a":  "elevação da idade mínima de ingresso no ensino fundamental obrigatório",
+                                                      "b":  "aumento da informalidade no mercado como fator isolado da redução",
+                                                      "c":  "ausência de política pública voltada ao tema nas últimas décadas",
+                                                      "d":  "eliminação da pobreza extrema em todo o território nacional",
+                                                      "e":  "legislação, fiscalização, transferência de renda e acesso à escola"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A redução do trabalho infantil no Brasil ao longo das últimas décadas é atribuída à combinação de fatores como legislação de proteção e fiscalização mais efetiva, programas de transferência de renda condicionada que exigem frequência escolar, e ampliação do acesso à educação básica, ainda que o problema persista, sobretudo em atividades informais, rurais e domésticas de mais difícil fiscalização.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A queda não veio de uma medida só: proibir, fiscalizar, compensar a renda que a criança deixava de trazer e ocupar o dia dela na escola operam juntos, e é a combinação que explica o resultado. Em (b) está a inversão do sinal — a informalidade é onde o trabalho infantil resiste, e não o que o reduziu. Em (a), a idade de ingresso no fundamental foi antecipada, e não elevada, o que aliás contribuiu na direção certa. Em (d), a pobreza extrema não foi eliminada. Em (c), a política pública é justamente parte da explicação."
                              },
                              {
                                  "id":  "direitos-humanos-70",
                                  "texto_apoio":  "O direito humano à alimentação adequada não se limita à ausência de fome extrema, mas envolve o acesso regular, permanente e livre a alimentos em quantidade e qualidade suficientes, de forma compatível com a cultura alimentar da população.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa definição ampla evidencia que a segurança alimentar de uma população depende de fatores como:",
                                  "alternativas":  {
-                                                      "a":  "Fatores que não guardam qualquer relação com políticas públicas de renda e assistência social",
-                                                      "b":  "Exclusivamente da existência de programas de doação pontual de cestas básicas",
-                                                      "c":  "Renda, disponibilidade e diversidade de alimentos, acesso a água potável e políticas públicas de abastecimento, segundo estudos do tema",
-                                                      "d":  "Exclusivamente da regularidade das safras agrícolas nacionais",
-                                                      "e":  "Exclusivamente do volume total de alimentos exportados pelo país, segundo indicadores do comércio exterior"
+                                                      "a":  "fatores sem relação com as políticas públicas de renda e de assistência social",
+                                                      "b":  "apenas da existência de programas de doação pontual de cestas básicas às famílias",
+                                                      "c":  "renda, oferta e diversidade de alimentos e política pública de abastecimento",
+                                                      "d":  "apenas da regularidade das safras agrícolas colhidas no território nacional",
+                                                      "e":  "do volume total de alimentos que o país exporta a cada ano-safra"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "A segurança alimentar, entendida de forma ampla, depende não apenas da quantidade total de alimentos produzidos ou disponíveis em um país, mas também da renda das famílias para adquiri-los, da diversidade nutricional, do acesso à água potável e de políticas públicas de abastecimento e assistência social, o que explica por que a fome pode persistir mesmo em países com produção agrícola expressiva.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "Comer bem depende de haver alimento disponível, variado e ao alcance do bolso — o que envolve produção, distribuição e renda ao mesmo tempo, e não uma dessas pontas isolada. Em (d) está o distrator mais plausível, porque a safra determina a oferta; ela é condição necessária e insuficiente, já que país com colheita recorde pode conviver com insegurança alimentar se a renda não acompanhar. Em (e), o Brasil é grande exportador e ainda assim registra insegurança alimentar. Em (b), a cesta básica é medida emergencial. Em (a), a relação com política de renda é direta."
                              },
                              {
                                  "id":  "direitos-humanos-71",
                                  "texto_apoio":  "Pesquisas sobre segurança alimentar classificam domicílios em diferentes graus de insegurança: desde situações em que há preocupação com a possibilidade de falta de alimentos no futuro próximo até situações em que membros da família, incluindo crianças, efetivamente passam fome por falta de recursos para comprar comida.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "Essa classificação em graus (leve, moderada e grave) de insegurança alimentar é relevante porque:",
                                  "alternativas":  {
-                                                      "a":  "Aplica-se exclusivamente a contextos de guerra ou catástrofe natural, reconhecidos formalmente pela ONU",
-                                                      "b":  "Elimina qualquer necessidade de distinguir entre famílias que efetivamente passam fome e famílias que apenas têm receio de vir a passar fome",
-                                                      "c":  "Permite dimensionar com maior precisão a gravidade da situação enfrentada por diferentes famílias, útil para o IBGE",
-                                                      "d":  "Permite converter a insegurança alimentar em valor monetário para fins de indenização",
-                                                      "e":  "Substitui integralmente a necessidade de dados sobre renda familiar na formulação de políticas sociais"
+                                                      "a":  "aplica-se a contextos de guerra ou catástrofe natural reconhecidos pela ONU",
+                                                      "b":  "dispensa a distinção entre quem passa fome e quem teme vir a passar",
+                                                      "c":  "permite dimensionar a gravidade enfrentada por cada família",
+                                                      "d":  "permite converter a insegurança alimentar em valor de indenização",
+                                                      "e":  "substitui os dados de renda familiar na formulação de política social"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "A classificação da insegurança alimentar em diferentes graus de gravidade permite dimensionar com maior precisão a situação enfrentada por diferentes famílias — desde a preocupação com possível falta futura de alimentos até a fome efetiva de seus membros —, o que orienta a priorização e o desenho de políticas públicas de combate à fome conforme a intensidade da privação identificada.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "Sem graus, o indicador só diria quantos estão inseguros; com eles, distingue a família que reduziu a variedade da mesa daquela em que a criança passa o dia sem comer — e política pública para uma não serve para a outra. Em (b) está exatamente o oposto do que a escala faz. Em (e), a classificação complementa os dados de renda, que seguem indispensáveis. Em (a), a medição é de rotina, em domicílios comuns, e não restrita a emergências. Em (d), a escala mede gravidade, e não valor indenizatório."
                              },
                              {
                                  "id":  "direitos-humanos-72",
@@ -11544,18 +11544,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-73",
                                  "texto_apoio":  "Levantamentos educacionais indicam que a taxa de analfabetismo entre povos indígenas no Brasil tende a ser superior à média nacional, sobretudo em aldeias mais distantes de centros urbanos e com menor oferta de educação escolar indígena diferenciada.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "Esse dado evidencia um desafio específico do direito à educação em relação aos povos indígenas, que é:",
                                  "alternativas":  {
-                                                      "a":  "Restringir o acesso de povos indígenas ao ensino superior público, adotado por antigas políticas do SPI",
-                                                      "b":  "Eliminar completamente qualquer forma de educação escolar em terras indígenas, política já superada desde 1988",
-                                                      "c":  "Assegurar uma educação escolar indígena diferenciada, bilíngue e intercultural, que respeite a organização social e as línguas de cada povo",
-                                                      "d":  "Ampliar a oferta de ensino a distância como substituto da escola presencial em aldeias",
-                                                      "e":  "Garantir o mesmo modelo pedagógico padronizado utilizado no restante do país, sem qualquer adaptação"
+                                                      "a":  "restringir o acesso de povos indígenas ao ensino superior público",
+                                                      "b":  "eliminar a educação escolar formal nas terras indígenas demarcadas",
+                                                      "c":  "assegurar educação indígena diferenciada, bilíngue e intercultural",
+                                                      "d":  "ampliar o ensino a distância como substituto da escola presencial na aldeia",
+                                                      "e":  "aplicar o mesmo modelo pedagógico do restante do país, sem adaptação"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "O desafio educacional específico dos povos indígenas envolve assegurar uma educação escolar diferenciada, bilíngue e intercultural, que respeite a organização social, os costumes e as línguas de cada povo, reconhecendo que o acesso meramente formal a um modelo pedagógico padronizado, sem essa adaptação, não é suficiente para garantir a efetividade do direito à educação nesse contexto.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "A Constituição garante às comunidades indígenas o uso de suas línguas e processos próprios de aprendizagem, de modo que o direito à educação, aqui, não se satisfaz levando a escola comum até a aldeia. Em (d) está o distrator mais atual, porque a distância é o obstáculo apontado no enunciado e o ensino remoto parece resolvê-lo — mas substituir a escola presencial não enfrenta a questão da língua nem da organização social de cada povo. Em (e), o modelo padronizado é justamente o que a educação diferenciada corrige. Em (a) e (b), restringir acesso e eliminar a escola contrariam o direito em questão."
                              },
                              {
                                  "id":  "direitos-humanos-74",
@@ -11576,18 +11576,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-75",
                                  "texto_apoio":  "O Ato das Disposições Constitucionais Transitórias da Constituição de 1988 assegura a comunidades remanescentes de quilombos que estejam ocupando suas terras o reconhecimento da propriedade definitiva, devendo o Estado emitir os respectivos títulos.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Esse dispositivo constitucional reconhece, sobretudo, que:",
                                  "alternativas":  {
-                                                      "a":  "Todas as terras rurais do país devem ser automaticamente tituladas em nome de comunidades quilombolas",
-                                                      "b":  "Comunidades quilombolas possuem direito territorial próprio, associado à sua identidade étnica e histórica",
-                                                      "c":  "A titulação dessas terras depende de comprovação de posse contínua por prazo superior a cem anos",
-                                                      "d":  "O reconhecimento de terras quilombolas depende exclusivamente de decisão do Poder Legislativo estadual",
-                                                      "e":  "Comunidades quilombolas não possuem qualquer direito diferenciado sobre território no ordenamento jurídico brasileiro"
+                                                      "a":  "todas as terras rurais devem ser tituladas em nome de comunidades quilombolas",
+                                                      "b":  "as comunidades têm direito territorial próprio, ligado à identidade étnica",
+                                                      "c":  "a titulação depende de posse contínua comprovada por mais de cem anos",
+                                                      "d":  "o reconhecimento depende de decisão do Poder Legislativo de cada estado",
+                                                      "e":  "não há direito territorial diferenciado no ordenamento jurídico brasileiro"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "O art. 68 do ADCT reconhece às comunidades remanescentes de quilombos um direito territorial próprio, associado à sua identidade étnica, histórica e cultural, distinto do direito de propriedade individual comum, cabendo ao Estado o dever de emitir os respectivos títulos de propriedade definitiva das terras por elas ocupadas.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "O título quilombola não decorre de posse comum, e sim do vínculo entre um território e a história de um grupo étnico — o que o aproxima do regime das terras indígenas e o afasta da propriedade civil ordinária. Em (c) está o erro de requisito: a Constituição exige que a comunidade esteja ocupando as terras, sem prazo mínimo de posse. Em (d), o reconhecimento se dá em processo administrativo federal, e não por lei estadual. Em (a), o dispositivo alcança as terras ocupadas por essas comunidades. Em (e), o direito diferenciado é exatamente o que o texto constitucional institui."
                              },
                              {
                                  "id":  "direitos-humanos-76",
@@ -11656,18 +11656,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-80",
                                  "texto_apoio":  "A Constituição assegura aos trabalhadores a liberdade de se associarem em sindicatos para a defesa de seus interesses coletivos e individuais, vedando ao poder público qualquer interferência na organização sindical.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa vedação constitucional à interferência estatal na organização sindical busca, sobretudo, assegurar:",
                                  "alternativas":  {
-                                                      "a":  "A extinção de qualquer forma de organização sindical no país, medida adotada durante o Estado Novo de Vargas",
-                                                      "b":  "A criação de um sindicato único estatal para todas as categorias profissionais, nos moldes do modelo corporativista de 1937",
-                                                      "c":  "A obrigatoriedade de filiação sindical para o exercício de qualquer profissão, prevista no antigo sistema corporativista",
-                                                      "d":  "A liberdade de o empregador reconhecer ou não a representação sindical de seus empregados",
-                                                      "e":  "A autonomia dos trabalhadores para se organizarem coletivamente, sem subordinação política ou administrativa direta ao Estado"
+                                                      "a":  "a extinção das organizações sindicais, como se fez durante o Estado Novo",
+                                                      "b":  "a criação de um sindicato único estatal para as categorias profissionais do país",
+                                                      "c":  "a obrigatoriedade de filiação sindical para o exercício da profissão",
+                                                      "d":  "a faculdade de o empregador reconhecer ou não a representação sindical",
+                                                      "e":  "a autonomia dos trabalhadores para se organizarem sem subordinação ao Estado"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A vedação à interferência estatal na organização sindical busca assegurar a autonomia dos trabalhadores para se organizarem coletivamente na defesa de seus interesses, sem subordinação política ou administrativa direta ao Estado, princípio associado à liberdade de associação como direito fundamental relacionado ao exercício da cidadania no ambiente de trabalho.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A regra existe contra uma experiência concreta: o sindicalismo atrelado ao Estado, que reconhecia a entidade e podia intervir nela. Vedar a interferência é devolver aos próprios trabalhadores a decisão sobre como se organizam. Em (b) está o modelo corporativista que a Constituição rompeu, e reconhecê-lo como o oposto do dispositivo é o que a questão cobra. Em (c), a filiação é livre. Em (d), a liberdade protegida é a dos trabalhadores, e não a faculdade patronal de reconhecer o sindicato. Em (a), extinguir a organização sindical é a negação da liberdade assegurada."
                              },
                              {
                                  "id":  "direitos-humanos-81",
@@ -11704,34 +11704,34 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-83",
                                  "texto_apoio":  "A legislação brasileira reserva, em concursos públicos, percentual de vagas a candidatos com deficiência, desde que a deficiência seja compatível com as atribuições do cargo pretendido.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa reserva de vagas em concursos públicos é fundamentada, sobretudo, no princípio de que:",
                                  "alternativas":  {
-                                                      "a":  "A reserva de vagas é aplicável exclusivamente a cargos de nível superior, conforme entendimento já superado do STF",
-                                                      "b":  "Pessoas com deficiência devem ser automaticamente dispensadas de qualquer etapa do processo seletivo",
-                                                      "c":  "Concursos públicos não podem, em nenhuma hipótese, prever exigências de aptidão física para o cargo pretendido",
-                                                      "d":  "Concursos devem prever critérios de desempate favoráveis a candidatos de menor renda",
-                                                      "e":  "A igualdade meramente formal de acesso a cargos públicos pode não ser suficiente para garantir representação equitativa de pessoas com deficiência"
+                                                      "a":  "a reserva de vagas aplica-se apenas a cargos de nível superior",
+                                                      "b":  "a pessoa com deficiência é dispensada de etapas do processo seletivo",
+                                                      "c":  "o concurso não pode prever exigência de aptidão física para o cargo",
+                                                      "d":  "o concurso deve prever critério de desempate favorável a candidatos de menor renda",
+                                                      "e":  "a igualdade formal de acesso pode não bastar para garantir representação"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A reserva de vagas em concursos públicos para pessoas com deficiência é fundamentada no princípio de que a igualdade meramente formal de acesso pode não ser suficiente para garantir representação equitativa desse grupo no serviço público, exigindo uma medida de ação afirmativa que compense barreiras históricas e estruturais de acesso ao emprego, inclusive público.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "Abrir o concurso a todos não produz, sozinho, presença de pessoas com deficiência no serviço público, porque as barreiras vêm antes da prova — na escola, no transporte, na formação. A reserva corrige o resultado, não a regra de acesso. Em (b) está a confusão entre reserva e dispensa: o candidato concorre e é avaliado como os demais, apenas numa lista própria, e pode receber adaptação de tempo ou de formato. Em (c), a exigência de aptidão é válida quando compatível com o cargo, como o próprio enunciado registra. Em (a) e (d), nem a limitação a nível superior nem o desempate por renda integram o instituto."
                              },
                              {
                                  "id":  "direitos-humanos-84",
                                  "texto_apoio":  "Quando um adolescente pratica um ato infracional (conduta prevista como crime ou contravenção caso praticada por adulto), o ECA prevê a aplicação de medidas socioeducativas, como advertência, prestação de serviços à comunidade, liberdade assistida ou, em casos mais graves, internação, e não a aplicação da pena criminal comum.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "A adoção de medidas socioeducativas, distintas do sistema penal comum aplicado a adultos, reflete o princípio de que o adolescente em conflito com a lei deve ser tratado, sobretudo, como:",
                                  "alternativas":  {
-                                                      "a":  "Sujeito equiparado a um adulto para todos os efeitos penais, inclusive quanto ao tipo de pena aplicável",
-                                                      "b":  "Pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada, prioritariamente, à reintegração social",
-                                                      "c":  "Inimputável em qualquer circunstância, sem qualquer forma de responsabilização por seus atos, tese rejeitada pelo ECA",
-                                                      "d":  "Sujeito plenamente capaz para atos da vida civil a partir dos dezesseis anos",
-                                                      "e":  "Indivíduo cuja conduta infracional deve ser resolvida exclusivamente pela família, sem qualquer intervenção estatal"
+                                                      "a":  "sujeito equiparado ao adulto para todos os efeitos penais e de pena aplicável",
+                                                      "b":  "pessoa em desenvolvimento, responsabilizada de modo voltado à reintegração",
+                                                      "c":  "inimputável sem forma alguma de responsabilização pelos atos praticados",
+                                                      "d":  "sujeito plenamente capaz para os atos da vida civil a partir dos dezesseis anos",
+                                                      "e":  "indivíduo cuja conduta deve ser resolvida pela família, sem intervenção estatal"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "As medidas socioeducativas previstas no ECA refletem o princípio de que o adolescente em conflito com a lei deve ser tratado como pessoa em condição peculiar de desenvolvimento, sujeita a responsabilização compatível com sua idade e voltada prioritariamente à reintegração social, e não ao sistema penal comum aplicado a adultos, o que não significa ausência completa de responsabilização por seus atos.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "A condição peculiar de pessoa em desenvolvimento não isenta: ela muda a natureza da resposta, que responsabiliza com finalidade pedagógica e prazo limitado, em vez de punir com pena criminal. Em (c) está a confusão mais comum e mais grave: o adolescente é penalmente inimputável e, ainda assim, responde por medida socioeducativa, inclusive privativa de liberdade. Em (a), a equiparação ao adulto é o que o sistema afasta. Em (d), a capacidade civil é matéria distinta da responsabilização por ato infracional. Em (e), a intervenção estatal existe e é judicial."
                              },
                              {
                                  "id":  "direitos-humanos-85",
@@ -11752,66 +11752,66 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-86",
                                  "texto_apoio":  "Crianças e adolescentes destituídos do poder familiar de seus pais biológicos podem ser encaminhados a famílias substitutas, por meio de guarda, tutela ou adoção, priorizando-se, sempre que possível, sua convivência familiar e comunitária.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa priorização da convivência familiar, mesmo em família substituta, em detrimento do acolhimento institucional prolongado, reflete o entendimento de que:",
                                  "alternativas":  {
-                                                      "a":  "A adoção é vedada a qualquer criança que já tenha vivido em acolhimento institucional, conforme regra do antigo Código de Menores",
-                                                      "b":  "Instituições de acolhimento devem ser, sempre que possível, a primeira e definitiva opção para crianças destituídas do poder familiar",
-                                                      "c":  "A guarda deve ser atribuída preferencialmente a parentes até o terceiro grau, na ordem legal",
-                                                      "d":  "O direito à convivência familiar aplica-se exclusivamente a crianças, e não a adolescentes, conforme antiga redação do ECA",
-                                                      "e":  "O convívio familiar é considerado ambiente mais adequado ao desenvolvimento integral da criança e do adolescente"
+                                                      "a":  "a adoção é vedada a criança que já tenha vivido em acolhimento institucional",
+                                                      "b":  "a instituição de acolhimento deve ser a primeira e definitiva opção",
+                                                      "c":  "a guarda deve caber preferencialmente a parentes até o terceiro grau",
+                                                      "d":  "o direito à convivência familiar alcança a criança, e não o adolescente",
+                                                      "e":  "o convívio familiar é ambiente mais adequado ao desenvolvimento integral"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A priorização do encaminhamento a famílias substitutas, em detrimento do acolhimento institucional prolongado, reflete o entendimento de que o convívio familiar é considerado ambiente mais adequado ao desenvolvimento integral de crianças e adolescentes, devendo o acolhimento institucional ser medida excepcional e provisória, e não solução definitiva, conforme os princípios da doutrina da proteção integral.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "O acolhimento institucional é medida provisória e excepcional porque o vínculo estável com um adulto de referência é o que o desenvolvimento exige, e a instituição, por melhor que seja, não o substitui. Em (c) está o distrator mais próximo, porque a família extensa realmente tem preferência na colocação — mas isso é regra de ordem entre alternativas familiares, e não o fundamento da prioridade dada à família sobre a instituição. Em (b), a inversão é direta. Em (d), o direito alcança crianças e adolescentes. Em (a), a passagem por acolhimento não impede a adoção."
                              },
                              {
                                  "id":  "direitos-humanos-87",
                                  "texto_apoio":  "Após a separação dos pais, a legislação civil brasileira estabeleceu como regra, e não mais exceção, que ambos os genitores compartilhem a responsabilidade e as decisões sobre a criação dos filhos, ainda que a criança resida predominantemente com um deles.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa mudança legislativa, que tornou regra a modalidade de guarda compartilhada entre os pais, buscou, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "Eliminar completamente qualquer forma de convivência entre um dos genitores e os filhos após a separação",
-                                                      "b":  "Uniformizar o valor da pensão alimentícia em percentual fixo da renda do alimentante",
-                                                      "c":  "Estabelecer que a criança deve, obrigatoriamente, residir metade do tempo com cada genitor",
-                                                      "d":  "Aplicar-se exclusivamente a casais que não possuam filhos em comum, conforme requisito extinto pela Lei 13.058/2014",
-                                                      "e":  "Assegurar a participação de ambos os genitores nas decisões relevantes sobre a vida dos filhos, mesmo após a separação do casal"
+                                                      "a":  "eliminar a convivência de um dos genitores com os filhos após a separação",
+                                                      "b":  "uniformizar o valor da pensão em percentual fixo da renda do alimentante",
+                                                      "c":  "estabelecer que a criança resida metade do tempo com cada genitor",
+                                                      "d":  "aplicar-se apenas a casais que não possuam filhos em comum",
+                                                      "e":  "assegurar a participação de ambos nas decisões sobre a vida dos filhos"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A guarda compartilhada como regra buscou assegurar a participação efetiva de ambos os genitores nas decisões relevantes sobre a vida dos filhos após a separação do casal, ainda que a criança resida predominantemente com um deles, refletindo o entendimento de que a convivência e a responsabilidade parental conjunta favorecem o desenvolvimento da criança, sem que isso implique necessariamente divisão igualitária do tempo de residência.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "Guarda compartilhada é divisão de autoridade parental — escola, saúde, viagem, religião —, e não divisão de calendário: a criança pode ter residência principal com um dos pais e ainda assim ter os dois decidindo. Em (c) está exatamente a confusão que a lei precisou desfazer, porque o próprio enunciado registra a residência predominante com um deles. Em (a), o objetivo é preservar a convivência, e não eliminá-la. Em (b), o valor dos alimentos segue o binômio necessidade e possibilidade. Em (d), o instituto pressupõe filhos em comum."
                              },
                              {
                                  "id":  "direitos-humanos-88",
                                  "texto_apoio":  "Ao longo das últimas décadas, o reconhecimento jurídico e social de arranjos familiares diferentes do modelo tradicional composto por pai, mãe e filhos biológicos — como famílias monoparentais, recompostas e homoafetivas — tem se ampliado, ainda que de forma gradual e desigual entre diferentes contextos sociais.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Esse reconhecimento ampliado de diferentes arranjos familiares pela jurisprudência e pela legislação decorre, sobretudo, de uma mudança de entendimento sobre a família, que passa a ser compreendida:",
                                  "alternativas":  {
-                                                      "a":  "Como categoria irrelevante para o direito civil contemporâneo, conforme corrente doutrinária hoje minoritária",
-                                                      "b":  "Exclusivamente a partir de vínculos biológicos entre seus membros, excluindo qualquer outra forma de constituição",
-                                                      "c":  "Exclusivamente a partir do vínculo registral formalizado em cartório",
-                                                      "d":  "A partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único predeterminado",
-                                                      "e":  "Como instituição cuja definição jurídica é imutável desde a Constituição de 1988, segundo interpretação literal superada"
+                                                      "a":  "como categoria irrelevante para o direito civil contemporâneo brasileiro",
+                                                      "b":  "apenas a partir de vínculos biológicos entre os seus membros",
+                                                      "c":  "apenas a partir do vínculo registral formalizado em cartório",
+                                                      "d":  "a partir do vínculo de afeto e da função social entre seus membros",
+                                                      "e":  "instituição de definição jurídica imutável desde a Constituição de 1988"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "O reconhecimento ampliado de diferentes arranjos familiares decorre de uma mudança de entendimento sobre a família, compreendida cada vez mais a partir do vínculo de afeto e da função social exercida entre seus membros, e não apenas de um modelo único, tradicional e biológico, o que ampliou a proteção jurídica a arranjos como famílias monoparentais, recompostas e homoafetivas.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "O critério deixou de ser a forma e passou a ser o vínculo: onde há convivência, afeto e cuidado recíproco, há família a ser protegida — o que abriu espaço para arranjos que o modelo único não previa. Em (b) e (c) estão os dois critérios formais que o entendimento novo superou, um pelo sangue e outro pelo registro, e ambos deixariam de fora famílias hoje reconhecidas. Em (e), a interpretação constitucional evoluiu justamente por não ser imutável. Em (a), a família segue sendo categoria central do direito civil, e é por isso que sua definição importa."
                              },
                              {
                                  "id":  "direitos-humanos-89",
                                  "texto_apoio":  "Uma lei brasileira do início dos anos 2000 determinou a substituição progressiva de um modelo de tratamento psiquiátrico baseado em internações prolongadas em hospitais especializados por um modelo baseado em serviços comunitários de saúde mental, mais próximos da convivência familiar e social do paciente.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Essa mudança de modelo, conhecida como Reforma Psiquiátrica, buscou assegurar aos pacientes com transtorno mental, sobretudo:",
                                  "alternativas":  {
-                                                      "a":  "A transferência da responsabilidade pelo tratamento a instituições filantrópicas privadas",
-                                                      "b":  "A extinção completa de qualquer forma de tratamento hospitalar em casos de crise aguda, medida nunca prevista na Lei 10.216/2001",
-                                                      "c":  "O direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social",
-                                                      "d":  "A obrigatoriedade de internação hospitalar prolongada para qualquer diagnóstico de transtorno mental",
-                                                      "e":  "A exclusão do tema saúde mental do âmbito do Sistema Único de Saúde, proposta rejeitada na 8ª Conferência Nacional de Saúde"
+                                                      "a":  "a transferência do tratamento a instituições filantrópicas privadas",
+                                                      "b":  "a extinção do tratamento hospitalar, mesmo nos casos de crise aguda e surto",
+                                                      "c":  "o tratamento preferencial em serviços comunitários de base territorial",
+                                                      "d":  "a internação hospitalar prolongada para todo diagnóstico de transtorno",
+                                                      "e":  "a exclusão da saúde mental do âmbito do Sistema Único de Saúde"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "A Reforma Psiquiátrica buscou assegurar aos pacientes com transtorno mental o direito de serem tratados, preferencialmente, em serviços comunitários de base territorial, com o objetivo de reinserção social e preservação de vínculos familiares e comunitários, evitando internações hospitalares prolongadas e desnecessárias que caracterizavam o modelo asilar anterior.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "A reforma trocou o eixo do cuidado: em vez de afastar o paciente do convívio por longos períodos, trata-o perto de casa, em rede territorial, preservando os laços que sustentam a recuperação. Em (b) está a leitura radical que a própria lei afasta — a internação continua prevista para a crise aguda, como recurso breve e excepcional, e não foi abolida. Em (d), a internação prolongada como regra é exatamente o modelo superado. Em (a) e (e), o cuidado permanece público e dentro do Sistema Único de Saúde."
                              },
                              {
                                  "id":  "direitos-humanos-90",
@@ -11832,18 +11832,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-91",
                                  "texto_apoio":  "Durante o desenvolvimento e a distribuição inicial de vacinas contra determinada doença que se espalhou globalmente, países de maior renda garantiram, por meio de contratos antecipados, acesso a volume de doses proporcionalmente muito superior ao de países de menor renda, mesmo em fases críticas da resposta sanitária.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "Essa disparidade no acesso a vacinas entre países de diferentes níveis de renda ilustra a tensão entre:",
                                  "alternativas":  {
-                                                      "a":  "A propriedade intelectual e os contratos comerciais entre fabricantes, de um lado, e o direito à saúde e o acesso a bens essenciais, de outro",
-                                                      "b":  "O direito eleitoral e o direito ambiental, sem qualquer relação com o caso descrito, tratados no Acordo de Paris",
-                                                      "c":  "O direito à saúde e a competência regulatória das agências sanitárias nacionais",
-                                                      "d":  "A soberania nacional e a liberdade religiosa, temas sem conexão com o caso descrito, regulados pela Convenção de Viena",
-                                                      "e":  "O direito à liberdade de expressão e o direito de propriedade, sem qualquer relação com saúde pública"
+                                                      "a":  "os contratos e a propriedade intelectual dos fabricantes e o direito à saúde",
+                                                      "b":  "o direito eleitoral e o direito ambiental, tratados no Acordo de Paris",
+                                                      "c":  "o direito à saúde e a competência regulatória das agências sanitárias nacionais",
+                                                      "d":  "a soberania nacional e a liberdade religiosa, sem conexão com o caso",
+                                                      "e":  "a liberdade de expressão e o direito de propriedade privada"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "A disparidade no acesso a vacinas entre países ricos e pobres durante emergências sanitárias globais ilustra a tensão entre a proteção da propriedade intelectual e dos contratos comerciais entre fabricantes e países, de um lado, e o direito humano à saúde e o princípio do acesso equitativo a bens essenciais, de outro, tema que motivou debates internacionais sobre flexibilização temporária de patentes em contextos de emergência.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "De um lado, patente e contrato de compra antecipada, que garantem retorno ao fabricante e prioridade a quem pagou; de outro, o acesso a um bem sem o qual pessoas morrem. A disputa sobre quebra de patentes durante a emergência é a forma jurídica dessa tensão. Em (c) está o distrator mais plausível, porque agências sanitárias de fato aprovam ou atrasam vacinas — mas o gargalo descrito no enunciado é de contrato e de volume, e não de registro regulatório. Em (b), (d) e (e), os pares de direitos indicados não têm relação com a situação apresentada."
                              },
                              {
                                  "id":  "direitos-humanos-92",
@@ -11912,18 +11912,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-96",
                                  "texto_apoio":  "Leis de anistia, aprovadas em diferentes países após períodos de regime autoritário, costumam perdoar ou impedir a punição criminal de atos cometidos durante esse período, tanto por opositores do regime quanto, em alguns casos, por agentes estatais responsáveis por violações de direitos humanos.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "dificil",
                                  "enunciado":  "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos, como tortura e desaparecimento forçado, é objeto de controvérsia jurídica internacional porque:",
                                  "alternativas":  {
-                                                      "a":  "Leis de anistia são sempre consideradas integralmente compatíveis com tratados internacionais de direitos humanos",
-                                                      "b":  "Tribunais internacionais de direitos humanos entendem que tais crimes não poderiam ser anistiados, sob pena de comprometer a justiça das vítimas",
-                                                      "c":  "Leis de anistia só produzem efeito quando referendadas por consulta popular",
-                                                      "d":  "A anistia aplica-se exclusivamente a crimes de natureza tributária, conforme interpretação já rejeitada pelos tribunais superiores",
-                                                      "e":  "Não existe qualquer controvérsia sobre o tema em nenhum país que adotou leis de anistia, conforme consenso doutrinário unânime"
+                                                      "a":  "leis de anistia são compatíveis com os tratados internacionais de direitos humanos",
+                                                      "b":  "tribunais internacionais entendem que esses crimes não poderiam ser anistiados",
+                                                      "c":  "leis de anistia só produzem efeito quando referendadas por consulta popular",
+                                                      "d":  "a anistia alcança apenas crimes de natureza tributária e patrimonial",
+                                                      "e":  "não há controvérsia sobre o tema nos países que adotaram leis de anistia"
                                                   },
                                  "resposta":  "b",
-                                 "explicacao":  "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos é controversa porque tribunais e organismos internacionais de direitos humanos, como a Corte Interamericana, têm entendido, em diversos casos envolvendo diferentes países, que crimes como tortura e desaparecimento forçado não poderiam ser anistiados, sob o argumento de que a impunidade compromete o direito das vítimas e de seus familiares à justiça e à verdade.",
-                                 "dificuldade":  "dificil",
-                                 "formato":  "direta"
+                                 "explicacao":  "A jurisprudência internacional trata tortura e desaparecimento forçado como crimes cuja apuração o Estado não pode dispensar, de modo que a anistia interna colide com o dever de investigar e punir assumido em tratado — daí a tensão entre a decisão nacional e a obrigação externa. Em (a) está a afirmação oposta à que gera a controvérsia. Em (e), a existência do conflito é a premissa do enunciado. Em (c), a validade da anistia não depende de referendo. Em (d), restringir a anistia a crimes tributários desconhece o alcance dessas leis, que é penal e político."
                              },
                              {
                                  "id":  "direitos-humanos-97",
@@ -11976,18 +11976,18 @@ window.QUESTION_BANKS = {
                              {
                                  "id":  "direitos-humanos-100",
                                  "texto_apoio":  "Parcela da população mundial ainda não tem acesso regular à internet ou a dispositivos digitais adequados, o que a exclui, na prática, de serviços públicos, oportunidades de trabalho e informações cada vez mais disponibilizados prioritariamente por meios digitais.",
+                                 "formato":  "direta",
+                                 "dificuldade":  "media",
                                  "enunciado":  "Diante desse cenário, parte da doutrina de direitos humanos passou a discutir o acesso à internet como:",
                                  "alternativas":  {
-                                                      "a":  "Um direito social emergente, cuja ausência pode aprofundar desigualdades preexistentes no acesso à educação e ao trabalho, tema debatido internacionalmente",
-                                                      "b":  "Um privilégio exclusivamente comercial, sem qualquer relação com direitos fundamentais",
-                                                      "c":  "Um direito de terceira geração já consolidado em tratado internacional vinculante",
-                                                      "d":  "Uma matéria estranha ao campo de estudo dos direitos humanos, conforme entendimento clássico já superado",
-                                                      "e":  "Um direito já plenamente universalizado em todos os países do mundo, sem qualquer desigualdade remanescente"
+                                                      "a":  "direito social emergente, cuja ausência aprofunda desigualdades existentes",
+                                                      "b":  "privilégio comercial, sem relação com os direitos fundamentais",
+                                                      "c":  "direito de terceira geração já consolidado em tratado vinculante",
+                                                      "d":  "matéria estranha ao campo de estudo dos direitos humanos",
+                                                      "e":  "direito já universalizado no conjunto dos países, sem desigualdade remanescente"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "Diante da crescente centralidade da internet para o exercício de direitos como educação, trabalho e acesso a serviços públicos, parte da doutrina de direitos humanos passou a discutir o acesso à internet como um direito social emergente, cuja ausência — a exclusão digital — pode aprofundar desigualdades sociais e econômicas preexistentes entre diferentes grupos e regiões.",
-                                 "dificuldade":  "media",
-                                 "formato":  "direta"
+                                 "explicacao":  "O argumento é instrumental: a conexão não vale por si, e sim porque virou condição de acesso a serviços, trabalho e informação — quem está fora perde direitos que já tinha, e a exclusão digital se soma às desigualdades anteriores. Em (c) está o distrator que exige atenção ao verbo: a doutrina discute o reconhecimento, o que significa que ele ainda não está consolidado em tratado vinculante. Em (e), a universalização é o oposto do quadro descrito. Em (b) e (d), tratar o acesso como mercadoria ou como tema alheio aos direitos humanos é a posição que o debate contesta."
                              }
                          ],
     "filosofia-sociologia":  [

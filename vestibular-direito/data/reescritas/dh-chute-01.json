@@ -1,0 +1,243 @@
+{
+  "subtopic": "direitos-humanos",
+  "questoes": [
+    {
+      "id": "direitos-humanos-26",
+      "texto_apoio": "As Convenções de Genebra e seus protocolos adicionais formam o núcleo do Direito Internacional Humanitário.",
+      "formato": "direta",
+      "enunciado": "Um dos princípios fundamentais do Direito Internacional Humanitário, aplicável em conflitos armados, é o princípio da distinção, segundo o qual:",
+      "alternativas": {
+        "a": "todo civil pode ser tratado como alvo legítimo em guerra total declarada",
+        "b": "apenas os países vencedores devem respeitar as regras humanitárias",
+        "c": "as partes devem separar combatentes de civis e atacar só objetivos militares",
+        "d": "prisioneiros de guerra podem receber qualquer tratamento do país captor",
+        "e": "a infraestrutura de uso misto pode ser atacada, desde que haja aviso prévio à população"
+      },
+      "resposta": "c",
+      "explicacao": "A distinção é a regra que separa guerra de massacre: quem combate pode ser alvo, quem não combate não pode, e o ataque tem de ser dirigido a objetivo militar identificado. Em (e) está o distrator mais difícil, porque o alvo de uso misto é categoria real e disputada — o aviso prévio, porém, pertence ao princípio da precaução, e não dispensa o exame de proporcionalidade que a distinção exige. Em (a), civis não perdem proteção por declaração de guerra total. Em (b), as convenções obrigam todas as partes. Em (d), o tratamento de prisioneiros é regulado em detalhe pela Terceira Convenção."
+    },
+    {
+      "id": "direitos-humanos-30",
+      "texto_apoio": "Em 2003, o STF julgou o caso conhecido como 'Ellwanger', envolvendo a condenação de um editor por divulgar obras antissemitas.",
+      "formato": "direta",
+      "enunciado": "Nesse julgamento, o STF entendeu que a liberdade de expressão:",
+      "alternativas": {
+        "a": "não é absoluta e admite limite quando configura discurso de ódio e racismo",
+        "b": "alcança apenas as manifestações veiculadas pelos meios de imprensa tradicionais",
+        "c": "é direito absoluto, que não admite limitação constitucional ou legal",
+        "d": "prevalece sobre a honra e a imagem, por integrar as cláusulas pétreas",
+        "e": "não encontra limite algum no ordenamento jurídico brasileiro vigente"
+      },
+      "resposta": "a",
+      "explicacao": "O tribunal ponderou dois direitos de mesma estatura e concluiu que a expressão cede diante da prática de racismo, crime que a Constituição declara imprescritível e inafiançável — a liberdade protege a opinião, não a incitação. Em (d) está o erro de técnica que a questão testa: ser cláusula pétrea impede a supressão do direito, e não estabelece hierarquia sobre os demais direitos fundamentais. Em (c) e (e), a inexistência de limites é justamente a tese afastada no julgamento. Em (b), a proteção não depende do meio em que a manifestação circula."
+    },
+    {
+      "id": "direitos-humanos-38",
+      "texto_apoio": "Órgãos de estatística costumam definir parâmetros de renda mínima per capita para classificar uma pessoa como pobre ou extremamente pobre, parâmetros utilizados para dimensionar políticas públicas de assistência social.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A definição de linhas de pobreza e extrema pobreza com base em parâmetros de renda tem como principal função:",
+      "alternativas": {
+        "a": "eliminar a necessidade de política pública voltada à população de baixa renda",
+        "b": "substituir outras formas de avaliar a qualidade de vida da população",
+        "c": "substituir os indicadores multidimensionais por um critério monetário único",
+        "d": "fornecer critério objetivo e comparável no tempo para dimensionar a pobreza",
+        "e": "servir apenas a comparações entre países desenvolvidos e organismos multilaterais"
+      },
+      "resposta": "d",
+      "explicacao": "A linha de renda serve para contar e comparar: define quem entra no programa, permite acompanhar a série ao longo dos anos e dimensionar o orçamento necessário. Em (c) está o distrator mais fino, porque a crítica que ele embute é legítima — a renda não capta acesso a saúde, escola e saneamento —, mas a linha monetária convive com os índices multidimensionais em vez de substituí-los. Em (b), o mesmo excesso em versão mais ampla. Em (a), o critério existe para orientar a política, não para dispensá-la. Em (e), é usada sobretudo para medir a pobreza dentro de cada país."
+    },
+    {
+      "id": "direitos-humanos-47",
+      "texto_apoio": "Estatísticas de segurança pública mostram que a proporção de mortes decorrentes de intervenção policial entre a população jovem, negra e residente em periferias tende a ser desproporcionalmente maior do que entre outros grupos da população.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse dado é frequentemente utilizado, no debate sobre segurança pública e direitos humanos, para sustentar a necessidade de:",
+      "alternativas": {
+        "a": "aprimorar protocolos de uso proporcional da força e ampliar o controle externo",
+        "b": "reduzir o investimento em políticas de segurança pública, inclusive comunitárias",
+        "c": "ampliar o uso da força letal por agentes de segurança, sem mecanismo de controle",
+        "d": "retirar as forças policiais das áreas de periferia das grandes cidades",
+        "e": "transferir à Justiça Militar o julgamento de crimes cometidos por policiais"
+      },
+      "resposta": "a",
+      "explicacao": "A desproporção sugere falha de procedimento e de fiscalização, e a resposta que o debate constrói combina as duas frentes: regra clara sobre quando atirar e instância externa capaz de apurar o que aconteceu. Em (e) está o distrator mais consistente, porque a competência para julgar policiais é discussão institucional real — só que deslocá-la para a Justiça Militar reduz o controle externo, indo na direção oposta. Em (b) e (d), retirar investimento ou policiamento não é o que o dado sustenta. Em (c), ampliar a letalidade sem controle agravaria o problema medido."
+    },
+    {
+      "id": "direitos-humanos-53",
+      "texto_apoio": "Pesquisas sobre o mercado de trabalho indicam que pessoas LGBTQIA+, sobretudo travestis e mulheres trans, enfrentam maiores dificuldades de inserção em empregos formais, mesmo quando possuem qualificação equivalente à de outros candidatos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse cenário evidencia uma tensão entre a igualdade formal prevista na legislação trabalhista e:",
+      "alternativas": {
+        "a": "barreiras práticas de discriminação na contratação e na permanência no emprego",
+        "b": "a garantia de emprego a toda pessoa, seja qual for sua qualificação",
+        "c": "a inexistência de discriminação no mercado de trabalho formal brasileiro",
+        "d": "a inaplicabilidade do princípio da igualdade às relações de trabalho de natureza privada",
+        "e": "a ausência de norma que proíba discriminação em processo seletivo privado"
+      },
+      "resposta": "a",
+      "explicacao": "A lei já proíbe discriminar, e mesmo assim o resultado no mercado é desigual entre candidatos de qualificação equivalente — é essa distância entre a norma e o que acontece na porta da entrevista que a igualdade formal não fecha sozinha. Em (d) está o erro técnico mais frequente: os direitos fundamentais também vinculam relações entre particulares, e a contratação privada não fica fora do alcance da igualdade. Em (c) e (e), a inexistência de discriminação e a ausência de norma proibitiva são desmentidas pelo enunciado e pela lei. Em (b), ninguém propõe emprego garantido sem qualificação."
+    },
+    {
+      "id": "direitos-humanos-59",
+      "texto_apoio": "A legislação eleitoral brasileira estabelece um percentual mínimo de candidaturas de cada sexo que os partidos devem registrar para concorrer a cargos legislativos, além de destinar parcela obrigatória do fundo partidário e do tempo de propaganda eleitoral a candidaturas femininas.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa exigência de percentual mínimo de candidaturas femininas é um exemplo de:",
+      "alternativas": {
+        "a": "restrição ao direito de candidatura de homens nas eleições proporcionais",
+        "b": "ação afirmativa para ampliar a participação política das mulheres",
+        "c": "medida aplicável apenas a eleições municipais de pequeno porte",
+        "d": "cláusula de barreira, destinada a reduzir a fragmentação partidária",
+        "e": "norma sem efeito prático sobre a composição das candidaturas partidárias"
+      },
+      "resposta": "b",
+      "explicacao": "A cota é tratamento desigual deliberado, criado para corrigir uma desigualdade anterior — a definição mesma de ação afirmativa —, e por isso vem acompanhada de recursos e tempo de propaganda, sem os quais a candidatura registrada não disputa de fato. Em (d) está o distrator que exige distinguir dois institutos eleitorais: a cláusula de barreira filtra partidos por desempenho, e nada tem a ver com a composição por sexo das candidaturas. Em (a), a reserva vale para ambos os sexos. Em (c), a exigência alcança todas as eleições proporcionais. Em (e), o efeito sobre o registro de candidaturas é mensurável."
+    },
+    {
+      "id": "direitos-humanos-67",
+      "texto_apoio": "Uma pessoa pode ser transportada por terceiros para fora de seu local de origem, com seu consentimento inicial e mediante pagamento, para depois ser explorada em condições análogas à escravidão; em outro caso, uma pessoa pode ser recrutada, transportada e mantida sob coação, fraude ou ameaça, com a finalidade de exploração, independentemente de cruzar fronteiras.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A diferença central entre tráfico de pessoas e contrabando de migrantes está em que o tráfico de pessoas:",
+      "alternativas": {
+        "a": "ocorre apenas entre países vizinhos, ao contrário do que se dá no contrabando de migrantes",
+        "b": "é consentido livremente pela vítima em todas as etapas do deslocamento",
+        "c": "envolve exploração da vítima mediante coação, fraude ou abuso de vulnerabilidade",
+        "d": "é prática já erradicada, ao contrário do contrabando de migrantes",
+        "e": "supõe travessia irregular de fronteira, elemento ausente no contrabando"
+      },
+      "resposta": "c",
+      "explicacao": "O que define o tráfico é a finalidade de exploração e o vício da vontade, não o deslocamento: pode ocorrer dentro do mesmo município, e o consentimento inicial não o descaracteriza quando obtido por fraude. Em (e) está a inversão exata do critério — a travessia irregular de fronteira é o que caracteriza o contrabando de migrantes, cujo objeto é a entrada ilegal e não a pessoa. Em (b), a coação e a fraude afastam o consentimento livre. Em (a), o alcance não se limita a países vizinhos. Em (d), o tráfico de pessoas persiste em escala global."
+    },
+    {
+      "id": "direitos-humanos-70",
+      "texto_apoio": "O direito humano à alimentação adequada não se limita à ausência de fome extrema, mas envolve o acesso regular, permanente e livre a alimentos em quantidade e qualidade suficientes, de forma compatível com a cultura alimentar da população.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa definição ampla evidencia que a segurança alimentar de uma população depende de fatores como:",
+      "alternativas": {
+        "a": "fatores sem relação com as políticas públicas de renda e de assistência social",
+        "b": "apenas da existência de programas de doação pontual de cestas básicas às famílias",
+        "c": "renda, oferta e diversidade de alimentos e política pública de abastecimento",
+        "d": "apenas da regularidade das safras agrícolas colhidas no território nacional",
+        "e": "do volume total de alimentos que o país exporta a cada ano-safra"
+      },
+      "resposta": "c",
+      "explicacao": "Comer bem depende de haver alimento disponível, variado e ao alcance do bolso — o que envolve produção, distribuição e renda ao mesmo tempo, e não uma dessas pontas isolada. Em (d) está o distrator mais plausível, porque a safra determina a oferta; ela é condição necessária e insuficiente, já que país com colheita recorde pode conviver com insegurança alimentar se a renda não acompanhar. Em (e), o Brasil é grande exportador e ainda assim registra insegurança alimentar. Em (b), a cesta básica é medida emergencial. Em (a), a relação com política de renda é direta."
+    },
+    {
+      "id": "direitos-humanos-73",
+      "texto_apoio": "Levantamentos educacionais indicam que a taxa de analfabetismo entre povos indígenas no Brasil tende a ser superior à média nacional, sobretudo em aldeias mais distantes de centros urbanos e com menor oferta de educação escolar indígena diferenciada.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse dado evidencia um desafio específico do direito à educação em relação aos povos indígenas, que é:",
+      "alternativas": {
+        "a": "restringir o acesso de povos indígenas ao ensino superior público",
+        "b": "eliminar a educação escolar formal nas terras indígenas demarcadas",
+        "c": "assegurar educação indígena diferenciada, bilíngue e intercultural",
+        "d": "ampliar o ensino a distância como substituto da escola presencial na aldeia",
+        "e": "aplicar o mesmo modelo pedagógico do restante do país, sem adaptação"
+      },
+      "resposta": "c",
+      "explicacao": "A Constituição garante às comunidades indígenas o uso de suas línguas e processos próprios de aprendizagem, de modo que o direito à educação, aqui, não se satisfaz levando a escola comum até a aldeia. Em (d) está o distrator mais atual, porque a distância é o obstáculo apontado no enunciado e o ensino remoto parece resolvê-lo — mas substituir a escola presencial não enfrenta a questão da língua nem da organização social de cada povo. Em (e), o modelo padronizado é justamente o que a educação diferenciada corrige. Em (a) e (b), restringir acesso e eliminar a escola contrariam o direito em questão."
+    },
+    {
+      "id": "direitos-humanos-75",
+      "texto_apoio": "O Ato das Disposições Constitucionais Transitórias da Constituição de 1988 assegura a comunidades remanescentes de quilombos que estejam ocupando suas terras o reconhecimento da propriedade definitiva, devendo o Estado emitir os respectivos títulos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse dispositivo constitucional reconhece, sobretudo, que:",
+      "alternativas": {
+        "a": "todas as terras rurais devem ser tituladas em nome de comunidades quilombolas",
+        "b": "as comunidades têm direito territorial próprio, ligado à identidade étnica",
+        "c": "a titulação depende de posse contínua comprovada por mais de cem anos",
+        "d": "o reconhecimento depende de decisão do Poder Legislativo de cada estado",
+        "e": "não há direito territorial diferenciado no ordenamento jurídico brasileiro"
+      },
+      "resposta": "b",
+      "explicacao": "O título quilombola não decorre de posse comum, e sim do vínculo entre um território e a história de um grupo étnico — o que o aproxima do regime das terras indígenas e o afasta da propriedade civil ordinária. Em (c) está o erro de requisito: a Constituição exige que a comunidade esteja ocupando as terras, sem prazo mínimo de posse. Em (d), o reconhecimento se dá em processo administrativo federal, e não por lei estadual. Em (a), o dispositivo alcança as terras ocupadas por essas comunidades. Em (e), o direito diferenciado é exatamente o que o texto constitucional institui."
+    },
+    {
+      "id": "direitos-humanos-80",
+      "texto_apoio": "A Constituição assegura aos trabalhadores a liberdade de se associarem em sindicatos para a defesa de seus interesses coletivos e individuais, vedando ao poder público qualquer interferência na organização sindical.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa vedação constitucional à interferência estatal na organização sindical busca, sobretudo, assegurar:",
+      "alternativas": {
+        "a": "a extinção das organizações sindicais, como se fez durante o Estado Novo",
+        "b": "a criação de um sindicato único estatal para as categorias profissionais do país",
+        "c": "a obrigatoriedade de filiação sindical para o exercício da profissão",
+        "d": "a faculdade de o empregador reconhecer ou não a representação sindical",
+        "e": "a autonomia dos trabalhadores para se organizarem sem subordinação ao Estado"
+      },
+      "resposta": "e",
+      "explicacao": "A regra existe contra uma experiência concreta: o sindicalismo atrelado ao Estado, que reconhecia a entidade e podia intervir nela. Vedar a interferência é devolver aos próprios trabalhadores a decisão sobre como se organizam. Em (b) está o modelo corporativista que a Constituição rompeu, e reconhecê-lo como o oposto do dispositivo é o que a questão cobra. Em (c), a filiação é livre. Em (d), a liberdade protegida é a dos trabalhadores, e não a faculdade patronal de reconhecer o sindicato. Em (a), extinguir a organização sindical é a negação da liberdade assegurada."
+    },
+    {
+      "id": "direitos-humanos-84",
+      "texto_apoio": "Quando um adolescente pratica um ato infracional (conduta prevista como crime ou contravenção caso praticada por adulto), o ECA prevê a aplicação de medidas socioeducativas, como advertência, prestação de serviços à comunidade, liberdade assistida ou, em casos mais graves, internação, e não a aplicação da pena criminal comum.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A adoção de medidas socioeducativas, distintas do sistema penal comum aplicado a adultos, reflete o princípio de que o adolescente em conflito com a lei deve ser tratado, sobretudo, como:",
+      "alternativas": {
+        "a": "sujeito equiparado ao adulto para todos os efeitos penais e de pena aplicável",
+        "b": "pessoa em desenvolvimento, responsabilizada de modo voltado à reintegração",
+        "c": "inimputável sem forma alguma de responsabilização pelos atos praticados",
+        "d": "sujeito plenamente capaz para os atos da vida civil a partir dos dezesseis anos",
+        "e": "indivíduo cuja conduta deve ser resolvida pela família, sem intervenção estatal"
+      },
+      "resposta": "b",
+      "explicacao": "A condição peculiar de pessoa em desenvolvimento não isenta: ela muda a natureza da resposta, que responsabiliza com finalidade pedagógica e prazo limitado, em vez de punir com pena criminal. Em (c) está a confusão mais comum e mais grave: o adolescente é penalmente inimputável e, ainda assim, responde por medida socioeducativa, inclusive privativa de liberdade. Em (a), a equiparação ao adulto é o que o sistema afasta. Em (d), a capacidade civil é matéria distinta da responsabilização por ato infracional. Em (e), a intervenção estatal existe e é judicial."
+    },
+    {
+      "id": "direitos-humanos-86",
+      "texto_apoio": "Crianças e adolescentes destituídos do poder familiar de seus pais biológicos podem ser encaminhados a famílias substitutas, por meio de guarda, tutela ou adoção, priorizando-se, sempre que possível, sua convivência familiar e comunitária.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa priorização da convivência familiar, mesmo em família substituta, em detrimento do acolhimento institucional prolongado, reflete o entendimento de que:",
+      "alternativas": {
+        "a": "a adoção é vedada a criança que já tenha vivido em acolhimento institucional",
+        "b": "a instituição de acolhimento deve ser a primeira e definitiva opção",
+        "c": "a guarda deve caber preferencialmente a parentes até o terceiro grau",
+        "d": "o direito à convivência familiar alcança a criança, e não o adolescente",
+        "e": "o convívio familiar é ambiente mais adequado ao desenvolvimento integral"
+      },
+      "resposta": "e",
+      "explicacao": "O acolhimento institucional é medida provisória e excepcional porque o vínculo estável com um adulto de referência é o que o desenvolvimento exige, e a instituição, por melhor que seja, não o substitui. Em (c) está o distrator mais próximo, porque a família extensa realmente tem preferência na colocação — mas isso é regra de ordem entre alternativas familiares, e não o fundamento da prioridade dada à família sobre a instituição. Em (b), a inversão é direta. Em (d), o direito alcança crianças e adolescentes. Em (a), a passagem por acolhimento não impede a adoção."
+    },
+    {
+      "id": "direitos-humanos-89",
+      "texto_apoio": "Uma lei brasileira do início dos anos 2000 determinou a substituição progressiva de um modelo de tratamento psiquiátrico baseado em internações prolongadas em hospitais especializados por um modelo baseado em serviços comunitários de saúde mental, mais próximos da convivência familiar e social do paciente.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa mudança de modelo, conhecida como Reforma Psiquiátrica, buscou assegurar aos pacientes com transtorno mental, sobretudo:",
+      "alternativas": {
+        "a": "a transferência do tratamento a instituições filantrópicas privadas",
+        "b": "a extinção do tratamento hospitalar, mesmo nos casos de crise aguda e surto",
+        "c": "o tratamento preferencial em serviços comunitários de base territorial",
+        "d": "a internação hospitalar prolongada para todo diagnóstico de transtorno",
+        "e": "a exclusão da saúde mental do âmbito do Sistema Único de Saúde"
+      },
+      "resposta": "c",
+      "explicacao": "A reforma trocou o eixo do cuidado: em vez de afastar o paciente do convívio por longos períodos, trata-o perto de casa, em rede territorial, preservando os laços que sustentam a recuperação. Em (b) está a leitura radical que a própria lei afasta — a internação continua prevista para a crise aguda, como recurso breve e excepcional, e não foi abolida. Em (d), a internação prolongada como regra é exatamente o modelo superado. Em (a) e (e), o cuidado permanece público e dentro do Sistema Único de Saúde."
+    },
+    {
+      "id": "direitos-humanos-96",
+      "texto_apoio": "Leis de anistia, aprovadas em diferentes países após períodos de regime autoritário, costumam perdoar ou impedir a punição criminal de atos cometidos durante esse período, tanto por opositores do regime quanto, em alguns casos, por agentes estatais responsáveis por violações de direitos humanos.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A extensão de leis de anistia a agentes estatais responsáveis por graves violações de direitos humanos, como tortura e desaparecimento forçado, é objeto de controvérsia jurídica internacional porque:",
+      "alternativas": {
+        "a": "leis de anistia são compatíveis com os tratados internacionais de direitos humanos",
+        "b": "tribunais internacionais entendem que esses crimes não poderiam ser anistiados",
+        "c": "leis de anistia só produzem efeito quando referendadas por consulta popular",
+        "d": "a anistia alcança apenas crimes de natureza tributária e patrimonial",
+        "e": "não há controvérsia sobre o tema nos países que adotaram leis de anistia"
+      },
+      "resposta": "b",
+      "explicacao": "A jurisprudência internacional trata tortura e desaparecimento forçado como crimes cuja apuração o Estado não pode dispensar, de modo que a anistia interna colide com o dever de investigar e punir assumido em tratado — daí a tensão entre a decisão nacional e a obrigação externa. Em (a) está a afirmação oposta à que gera a controvérsia. Em (e), a existência do conflito é a premissa do enunciado. Em (c), a validade da anistia não depende de referendo. Em (d), restringir a anistia a crimes tributários desconhece o alcance dessas leis, que é penal e político."
+    }
+  ]
+}

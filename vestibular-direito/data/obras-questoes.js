@@ -319,62 +319,66 @@ window.OBRAS_QUESTOES = {
                                  "id":  "obra-vidas-secas-q1",
                                  "enunciado":  "Vidas Secas, publicado em 1938 por Graciliano Ramos, é frequentemente associado à chamada geração de 30 do romance regionalista/social brasileiro. Sobre o autor e o contexto da obra, é correto afirmar que:",
                                  "alternativas":  {
-                                                      "a":  "Era alagoano, esteve preso em 1936 por acusação política, e a obra integra sua produção regionalista de denúncia social.",
-                                                      "b":  "Foi originalmente escrito em francês, traduzido ao português apenas na década de 1960, décadas após sua primeira edição.",
-                                                      "c":  "Era carioca e escreveu a obra a partir de viagens turísticas feitas ao Nordeste do país, sem vínculo pessoal com a região.",
-                                                      "d":  "Foi a única obra em prosa do autor, que dedicou o restante da carreira à poesia, nunca voltando a escrever romances."
+                                                      "a":  "era alagoano, esteve preso em 1936, e a obra denuncia o sertão",
+                                                      "b":  "foi escrito em francês e traduzido ao português só nos anos 1960",
+                                                      "c":  "era carioca e escreveu a partir de viagens turísticas ao Nordeste",
+                                                      "d":  "foi sua única obra em prosa, tendo se dedicado depois à poesia",
+                                                      "e":  "integra a geração de 22, ao lado de Mário e Oswald de Andrade"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "Graciliano Ramos nasceu em Alagoas e foi preso em 1936 sob acusação de envolvimento comunista durante o Estado Novo, experiência relatada em Memórias do Cárcere. Ele escreveu vários romances em prosa (c é falsa) e a obra foi escrita originalmente em português (d é falsa)."
+                                 "explicacao":  "Graciliano nasceu em Quebrangulo, viveu o sertão que descreve e passou pela prisão política de 1936, experiência que atravessa sua obra — o romance de 1938 pertence à safra regionalista de denúncia. Em (e) está a confusão de geração que a questão testa: o próprio enunciado situa o autor na geração de 30, que é a do romance social, e não na de 22, que é a da ruptura formal modernista. Em (c), o vínculo com o Nordeste é de origem, não de turismo. Em (b) e (d), o livro é escrito em português e ele publicou vários romances."
                              },
                              {
                                  "id":  "obra-vidas-secas-q2",
                                  "enunciado":  "A linguagem econômica e o vocabulário reduzido das personagens de Vidas Secas reforçam, no plano da forma, qual aspecto discutido pela banca no eixo modernidade/pós-modernidade?",
                                  "alternativas":  {
-                                                      "a":  "A defesa de que a linguagem rebuscada é sempre superior à linguagem simples na ficção, hierarquia que a obra de Graciliano contraria.",
-                                                      "b":  "A celebração da vida no sertão como modelo de simplicidade para as grandes cidades, romantizando a pobreza como valor a ser imitado.",
-                                                      "c":  "A denúncia de um Brasil arcaico e marginalizado, cuja privação persiste à margem do projeto de modernização nacional.",
-                                                      "d":  "A ideia de que a modernização avançou de modo uniforme, beneficiando igualmente todas as regiões do país, sem disparidades internas."
+                                                      "a":  "a linguagem rebuscada é superior à simples na ficção literária",
+                                                      "b":  "celebra a vida no sertão como modelo de simplicidade para a cidade",
+                                                      "c":  "a modernização avançou de modo uniforme por todas as regiões",
+                                                      "d":  "a pobreza de vocabulário retrata falha de caráter das personagens",
+                                                      "e":  "denuncia um Brasil arcaico à margem do projeto de modernização"
                                                   },
-                                 "resposta":  "c",
-                                 "explicacao":  "A linguagem seca reflete a privação material e simbólica de personagens à margem da modernização do país, o oposto de uma modernização uniforme (a) e sem qualquer intenção de celebrar o sertão (d) ou hierarquizar estilos de linguagem (c)."
+                                 "resposta":  "e",
+                                 "explicacao":  "A escassez de palavras é a escassez de tudo o mais: quem não teve escola nem conversa não dispõe do vocabulário que a narrativa então empresta, e a forma do livro reproduz a privação que ele denuncia. Em (d) está a leitura mais cruel e mais tentadora — atribuir a pobreza de língua a defeito das personagens inverte a direção da crítica, que aponta para a estrutura, não para elas. Em (b), não há romantização da pobreza. Em (c), a desigualdade regional é o assunto. Em (a), o livro desmente a hierarquia entre registros."
                              },
                              {
                                  "id":  "obra-vidas-secas-q3",
                                  "enunciado":  "Sobre os membros da família retratada em Vidas Secas, é correto afirmar que:",
                                  "alternativas":  {
-                                                      "a":  "A cachorra Baleia é apenas uma alegoria da seca, sem existência concreta na trama.",
-                                                      "b":  "Fabiano abandona a família logo no início da obra para trabalhar em fazenda distante.",
-                                                      "c":  "É composta por Fabiano, Sinha Vitória, dois filhos sem nome revelado e a cachorra Baleia.",
-                                                      "d":  "Fabiano e Sinha Vitória têm três filhos, todos nomeados explicitamente ao longo da narrativa."
+                                                      "a":  "Baleia é alegoria da seca, sem existência concreta na trama",
+                                                      "b":  "Fabiano abandona a família no início para trabalhar longe",
+                                                      "c":  "Fabiano, Sinha Vitória, dois filhos sem nome e a cachorra Baleia",
+                                                      "d":  "Fabiano e Sinha Vitória têm três filhos, todos nomeados no texto",
+                                                      "e":  "o casal não tem filhos, e Baleia ocupa o lugar deles na narrativa"
                                                   },
                                  "resposta":  "c",
-                                 "explicacao":  "A família tem apenas dois filhos, cujos nomes nunca são revelados ao leitor (a é falsa); Baleia é uma personagem concreta, com capítulo narrado a partir de sua própria percepção (c é falsa); e a família permanece unida durante toda a fuga da seca (d é falsa)."
+                                 "explicacao":  "São cinco: o casal, o menino mais velho, o menino mais novo — designados apenas assim, sem nome próprio — e a cachorra, que é a única com nome. A inversão é deliberada e diz muito. Em (a) está o distrator mais fino, porque Baleia carrega mesmo peso simbólico; ela é, ainda assim, personagem concreta, com capítulo próprio e morte narrada. Em (d), os filhos são dois e não têm nome. Em (e), o casal tem filhos. Em (b), Fabiano permanece com a família durante toda a narrativa."
                              },
                              {
                                  "id":  "obra-vidas-secas-q4",
                                  "enunciado":  "Em comparação com Memórias Póstumas de Brás Cubas, Vidas Secas se aproxima de uma tradição literária diferente porque:",
                                  "alternativas":  {
-                                                      "a":  "Ambas adotam o mesmo narrador defunto, que relata os fatos após a própria morte, recurso na verdade exclusivo de Brás Cubas.",
-                                                      "b":  "As duas obras narram exatamente o mesmo período histórico, o da Guerra de Canudos, conflito ausente em ambas as narrativas.",
-                                                      "c":  "Vidas Secas é anterior a Brás Cubas, tendo influenciado diretamente sua técnica narrativa, quando a cronologia real é o inverso.",
-                                                      "d":  "Vidas Secas segue a tradição regionalista de denúncia social, enquanto Brás Cubas se destaca pela ironia de um narrador culto."
+                                                      "a":  "ambas adotam o narrador defunto que relata após a própria morte",
+                                                      "b":  "as duas narram o mesmo período, o da Guerra de Canudos",
+                                                      "c":  "Vidas Secas é anterior e influenciou a técnica de Brás Cubas",
+                                                      "d":  "Vidas Secas é regionalista de denúncia, Brás Cubas é ironia culta",
+                                                      "e":  "as duas usam foco narrativo em terceira pessoa com discurso indireto livre"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "Vidas Secas (1938) segue a tradição regionalista e social da geração de 30, enquanto Brás Cubas (1881) se destaca pela ironia e experimentação de um narrador defunto e culto; não há narrador defunto em Vidas Secas (a é falsa) e a cronologia de d está invertida."
+                                 "explicacao":  "Uma tradição olha para fora, para a condição material de quem não tem voz; a outra olha para dentro, com um narrador que domina a palavra e a usa para se exibir e se desmentir. Em (e) está o distrator mais técnico e o mais perigoso: Vidas Secas usa mesmo terceira pessoa com discurso indireto livre, mas Brás Cubas é narrado em primeira pessoa, de modo que a afirmação vale só para metade do par. Em (a), o defunto autor é exclusivo de Machado. Em (c), a cronologia é inversa. Em (b), Canudos não aparece em nenhum dos dois."
                              },
                              {
                                  "id":  "obra-vidas-secas-q5",
-                                 "texto_apoio":  "Em determinado capítulo, Fabiano é preso e humilhado por um soldado sem que tenha cometido qualquer crime evidente.",
                                  "enunciado":  "Esse episódio pode ser interpretado como:",
                                  "alternativas":  {
-                                                      "a":  "Uma defesa implícita da atuação das autoridades locais na manutenção da ordem no sertão.",
-                                                      "b":  "Uma crítica à arbitrariedade e à violência das relações de poder que atingem os mais pobres.",
-                                                      "c":  "Um momento de alívio cômico que contrasta com o tom geral sério da obra.",
-                                                      "d":  "Um episódio isolado, sem relação com as demais críticas sociais presentes no romance."
+                                                      "a":  "defesa implícita da atuação das autoridades locais no sertão",
+                                                      "b":  "alívio cômico que contrasta com o tom sério da obra",
+                                                      "c":  "episódio isolado, sem relação com as demais críticas do romance",
+                                                      "d":  "prova de que Fabiano provocou o conflito por não saber se conter",
+                                                      "e":  "crítica à arbitrariedade do poder sobre os mais pobres"
                                                   },
-                                 "resposta":  "b",
-                                 "explicacao":  "A prisão injusta de Fabiano evidencia a arbitrariedade do poder sobre os mais vulneráveis, reforçando a crítica social do romance, e não uma defesa das autoridades (c), um episódio isolado (b) ou cômico (d)."
+                                 "resposta":  "e",
+                                 "explicacao":  "O soldado amarelo prende Fabiano por nada e o humilha porque pode; depois, desarmado no mato, é poupado. Os dois momentos juntos mostram que o poder ali não decorre da razão nem da força, e sim da posição que cada um ocupa. Em (d) está a leitura que culpa a vítima, e ela ignora que a prisão é anterior a qualquer reação de Fabiano. Em (c), o episódio condensa a crítica que atravessa o livro. Em (a) e (b), não há defesa das autoridades nem intenção cômica."
                              }
                          ],
     "obra-bem-amado":  [
@@ -573,61 +577,66 @@ window.OBRAS_QUESTOES = {
                                       "id":  "obra-barroco-tropical-q1",
                                       "enunciado":  "O romance \u0027Barroco Tropical\u0027, de José Eduardo Agualusa, publicado em 2009, retrata Luanda num contexto histórico marcado sobretudo:",
                                       "alternativas":  {
-                                                           "a":  "pela luta pela independência de Angola, ainda em curso durante a escrita do romance.",
-                                                           "b":  "pelo boom econômico do petróleo no período posterior ao fim da guerra civil angolana.",
-                                                           "c":  "pela crise do petróleo mundial dos anos 1970, que teria afetado diretamente Angola.",
-                                                           "d":  "pela colonização portuguesa inicial do território angolano, no século XVI."
+                                                           "a":  "pela luta pela independência de Angola, ainda em curso na escrita",
+                                                           "b":  "pelo boom do petróleo depois do fim da guerra civil angolana",
+                                                           "c":  "pela crise do petróleo dos anos 1970, que teria afetado Angola",
+                                                           "d":  "pela colonização portuguesa inicial do território, no século XVI",
+                                                           "e":  "pela guerra civil angolana ainda em curso, com a cidade sitiada"
                                                        },
                                       "resposta":  "b",
-                                      "explicacao":  "O romance situa-se no período posterior ao fim da guerra civil angolana (2002), marcado pelo boom de reconstrução alimentado pela exportação de petróleo e pela ascensão de novas elites em Luanda."
+                                      "explicacao":  "A guerra civil terminou em 2002, e a Luanda do romance é a que vem depois: dinheiro do petróleo, construção acelerada e uma elite nova exibindo riqueza numa cidade de desigualdade extrema. Em (e) está o distrator mais próximo, porque a guerra é a memória que assombra o livro — mas ela já acabou, e é o pós-guerra que o romance retrata. Em (a), a independência é de 1975. Em (c), a crise dos anos 1970 é de outro contexto. Em (d), o século XVI está fora do escopo."
                                   },
                                   {
                                       "id":  "obra-barroco-tropical-q2",
                                       "enunciado":  "A inserção de \u0027Barroco Tropical\u0027 no eixo de globalização da banca se justifica principalmente porque a obra:",
                                       "alternativas":  {
-                                                           "a":  "narra exclusivamente eventos ocorridos em território europeu, sem qualquer referência direta a Angola ou à sua capital, Luanda.",
-                                                           "b":  "foi escrita originalmente em inglês e depois traduzida para o português apenas para atender ao mercado editorial brasileiro.",
-                                                           "c":  "é exemplo de circulação de bens simbólicos em português entre continentes, unindo autor angolano e público brasileiro.",
-                                                           "d":  "defende o isolamento cultural de Angola em relação aos demais países de língua portuguesa, incluindo o próprio Brasil."
+                                                           "a":  "narra só eventos na Europa, sem referência a Angola ou Luanda",
+                                                           "b":  "foi escrita em inglês e traduzida para atender ao mercado brasileiro",
+                                                           "c":  "defende o isolamento cultural de Angola em relação à lusofonia",
+                                                           "d":  "descreve a migração de angolanos para Portugal como tema central",
+                                                           "e":  "é circulação de bens simbólicos em português entre continentes"
                                                        },
-                                      "resposta":  "c",
-                                      "explicacao":  "Escrito por um autor angolano e amplamente lido no Brasil e em Portugal, o romance exemplifica a circulação global de bens simbólicos em língua portuguesa, tema central do eixo de globalização."
+                                      "resposta":  "e",
+                                      "explicacao":  "Um autor angolano, publicado no Brasil e em Portugal, lido em três continentes na mesma língua e sem tradução — a própria existência do livro na lista de uma banca brasileira é o fenômeno que ele ilustra. Em (d) está o distrator mais plausível, porque migração é tema clássico da lusofonia; não é, porém, o assunto deste romance, que se passa em Luanda. Em (b), o original é em português. Em (a) e (c), a obra é angolana e integra o circuito lusófono em vez de recusá-lo."
                                   },
                                   {
                                       "id":  "obra-barroco-tropical-q3",
                                       "enunciado":  "A trama de \u0027Barroco Tropical\u0027 combina uma investigação de tom policial com:",
                                       "alternativas":  {
-                                                           "a":  "uma estrutura epistolar, composta inteiramente por cartas trocadas entre as personagens.",
-                                                           "b":  "diálogos exclusivamente em versos, no formato de uma peça de teatro em atos.",
-                                                           "c":  "uma reconstituição histórica rigorosa e estritamente documental da guerra civil angolana.",
-                                                           "d":  "elementos de realismo mágico e uma narrativa de tom onírico e fantasioso."
+                                                           "a":  "estrutura epistolar, composta inteiramente por cartas trocadas",
+                                                           "b":  "diálogos em verso, no formato de peça de teatro em atos",
+                                                           "c":  "reconstituição histórica documental da guerra civil angolana",
+                                                           "d":  "elementos de realismo mágico e narrativa de tom onírico",
+                                                           "e":  "relato jornalístico em primeira pessoa sobre a Luanda do petróleo"
                                                        },
                                       "resposta":  "d",
-                                      "explicacao":  "Agualusa combina, em \u0027Barroco Tropical\u0027, uma investigação de tom policial a elementos de realismo mágico e a uma narrativa onírica, marca recorrente de sua ficção."
+                                      "explicacao":  "O romance abre com uma mulher caindo do céu sobre Luanda, e segue misturando a apuração de um crime com acontecimentos que a lógica realista não comporta — é a combinação que define o livro. Em (e) está o distrator mais próximo, porque há narração em primeira pessoa e a cidade do petróleo é o cenário; o registro, porém, é ficcional e fantástico, não jornalístico. Em (c), não há intenção documental. Em (a) e (b), a forma não é epistolar nem teatral."
                                   },
                                   {
                                       "id":  "obra-barroco-tropical-q4",
                                       "enunciado":  "Diferentemente de \u0027O Bem-Amado\u0027 e \u0027As Meninas\u0027, que tratam de contextos internos ao Brasil, \u0027Barroco Tropical\u0027 se distingue por:",
                                       "alternativas":  {
-                                                           "a":  "não apresentar nenhuma forma de crítica social ou política em seu enredo, ao contrário das demais obras do grupo.",
-                                                           "b":  "situar sua crítica social num país africano de língua portuguesa, ampliando o escopo lusófono das obras obrigatórias.",
-                                                           "c":  "abordar exclusivamente temas relacionados à história antiga da Europa medieval, sem qualquer conexão com a realidade africana.",
-                                                           "d":  "ser a única obra do grupo escrita originalmente em espanhol, antes de traduzida para o português do Brasil."
+                                                           "a":  "não apresentar crítica social ou política em seu enredo",
+                                                           "b":  "abordar só temas da Europa medieval, sem conexão africana",
+                                                           "c":  "ser a única do grupo escrita originalmente em espanhol",
+                                                           "d":  "ser a única narrada em primeira pessoa por uma testemunha dos fatos",
+                                                           "e":  "situar a crítica social num país africano de língua portuguesa"
                                                        },
-                                      "resposta":  "b",
-                                      "explicacao":  "Enquanto as demais obras têm o Brasil como cenário direto, \u0027Barroco Tropical\u0027 desloca a crítica social para Angola, ampliando o repertório lusófono estudado e reforçando a dimensão de circulação global da língua portuguesa."
+                                      "resposta":  "e",
+                                      "explicacao":  "O enunciado já dá o critério — contextos internos ao Brasil — e o que distingue o romance é o deslocamento geográfico sem saída da língua: mesma crítica de poder e desigualdade, feita a partir de Angola. Em (d) está o distrator mais fino, porque a narração em primeira pessoa é real neste livro; ela não é, contudo, o traço que o separa das outras duas, e As Meninas também recorre a vozes em primeira pessoa. Em (a), a crítica social é central. Em (b) e (c), o cenário é africano e o original é em português."
                                   },
                                   {
                                       "id":  "obra-barroco-tropical-q5",
                                       "enunciado":  "O título \u0027Barroco Tropical\u0027 sugere uma leitura interpretativa em que o excesso estético barroco se relaciona a:",
                                       "alternativas":  {
-                                                           "a":  "uma homenagem nostálgica e não crítica à arquitetura colonial portuguesa remanescente na cidade de Luanda.",
-                                                           "b":  "uma descrição técnica e neutra do processo de extração petrolífera realizado ao longo da costa angolana.",
-                                                           "c":  "uma crítica sóbria e minimalista à sociedade angolana, sem qualquer traço de exagero estilístico.",
-                                                           "d":  "um retrato de contrastes e excessos morais e sociais das novas elites enriquecidas pelo petróleo em Angola."
+                                                           "a":  "homenagem nostálgica à arquitetura colonial portuguesa remanescente em Luanda",
+                                                           "b":  "descrição neutra da extração petrolífera na costa angolana",
+                                                           "c":  "crítica sóbria e minimalista à sociedade angolana, sem exagero",
+                                                           "d":  "retrato dos contrastes e excessos das novas elites do petróleo",
+                                                           "e":  "referência ao estilo barroco da própria prosa, sem carga social"
                                                        },
                                       "resposta":  "d",
-                                      "explicacao":  "O \u0027barroco tropical\u0027 do título dialoga com o excesso e os contrastes morais e sociais das elites enriquecidas pelo petróleo, retratados de forma crítica pelo romance."
+                                      "explicacao":  "Barroco, aqui, é diagnóstico: ostentação, contraste violento entre riqueza e miséria, acúmulo que beira o grotesco — a forma nomeia o que a cidade se tornou. Em (e) está a leitura que fica a meio caminho, porque a prosa é de fato exuberante; reduzir o título a traço de estilo, porém, descarta a crítica social que ele carrega. Em (c), a sobriedade é o oposto do que o título anuncia. Em (a), não há nostalgia colonial. Em (b), a neutralidade descritiva não descreve o romance."
                                   }
                               ],
     "obra-arte-reza":  [
@@ -1203,61 +1212,66 @@ window.OBRAS_QUESTOES = {
                            "id":  "obra-bicho-q1",
                            "enunciado":  "A série \"Bicho\", de Lygia Clark, está diretamente associada a qual movimento artístico brasileiro?",
                            "alternativas":  {
-                                                "a":  "o modernismo paulista, movimento ligado à Semana de Arte Moderna de 1922",
-                                                "b":  "o barroco mineiro do século XVIII, movimento ligado à obra de Aleijadinho",
-                                                "c":  "o concretismo paulista de São Paulo, de orientação geométrica e racional bastante rígida",
-                                                "d":  "o movimento neoconcreto carioca, formado no Rio de Janeiro a partir de 1959"
+                                                "a":  "o modernismo paulista, ligado à Semana de Arte Moderna de 1922",
+                                                "b":  "o barroco mineiro do século XVIII, ligado à obra de Aleijadinho",
+                                                "c":  "o concretismo paulista, de orientação geométrica rígida",
+                                                "d":  "o movimento neoconcreto carioca, formado no Rio a partir de 1959",
+                                                "e":  "o tropicalismo, movimento das artes visuais e da música dos anos 1960"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "\"Bicho\" nasce do movimento neoconcreto carioca (a partir de 1959), que surgiu justamente como ruptura em relação ao rigor geométrico do concretismo paulista — não tem relação direta com a Semana de 22 nem com o barroco mineiro."
+                           "explicacao":  "Os Bichos são a realização mais direta do programa neoconcreto: forma geométrica que, em vez de obedecer a uma regra matemática fechada, se abre ao corpo de quem a manipula. Em (c) está o distrator que exige a distinção mais fina, porque o neoconcretismo nasce exatamente de uma cisão com o concretismo paulista — o Manifesto Neoconcreto de 1959 rompe com o rigor racionalista que a alternativa descreve. Em (a) e (b), modernismo de 1922 e barroco mineiro são de outros séculos. Em (e), o tropicalismo é posterior e de outra matriz."
                        },
                        {
                            "id":  "obra-bicho-q2",
                            "enunciado":  "A proposta de \"Bicho\" de dissolver a fronteira entre obra e espectador é mobilizada, no eixo da transição da modernidade para a pós-modernidade, para argumentar que:",
                            "alternativas":  {
-                                                "a":  "a arte contemporânea tende a se tornar processual e aberta, dependente da participação do público",
-                                                "b":  "a pós-modernidade elimina definitivamente qualquer forma de escultura tridimensional na arte contemporânea",
-                                                "c":  "a escultura neoconcreta rejeita qualquer contato físico do público com a obra, mantendo distância total",
-                                                "d":  "toda arte moderna, sem qualquer exceção, já previa desde o século XIX a participação física direta do espectador"
+                                                "a":  "a pós-modernidade elimina a escultura tridimensional na arte atual",
+                                                "b":  "a escultura neoconcreta rejeita o contato físico do público com a obra",
+                                                "c":  "toda arte moderna já previa a participação física do espectador",
+                                                "d":  "a obra só existe enquanto durar o gesto de quem a manipula, sem permanência",
+                                                "e":  "a arte tende a se tornar processual e aberta, dependente do público"
                                             },
-                           "resposta":  "a",
-                           "explicacao":  "\"Bicho\" antecipa a lógica de uma arte processual e participativa, característica da sensibilidade pós-moderna, rompendo com a ideia moderna de obra fechada e autônoma — não há generalização válida para toda arte moderna, nem rejeição do contato físico, nem fim da escultura tridimensional."
+                           "resposta":  "e",
+                           "explicacao":  "O Bicho desloca o centro de gravidade da obra: ela deixa de estar pronta no ateliê e passa a se completar na mão de quem a dobra, o que faz do processo, e não do objeto, o lugar do sentido. Em (d) está o excesso mais fino — o objeto permanece entre uma manipulação e outra, e o argumento é sobre abertura de forma, não sobre desaparecimento. Em (b), o contato é a condição da obra. Em (c), a participação física é justamente a novidade. Em (a), a escultura não desaparece."
                        },
                        {
                            "id":  "obra-bicho-q3",
                            "enunciado":  "Do ponto de vista técnico, os \"Bichos\" de Lygia Clark se caracterizam por:",
                            "alternativas":  {
-                                                "a":  "serem peças fixas montadas sobre pedestal, que o público pode apenas observar, sem tocar",
-                                                "b":  "serem placas de metal articuladas por dobradiças, sem forma fixa, manuseadas livremente pelo espectador",
-                                                "c":  "serem esculturas de mármore talhadas para representar animais de forma realista e detalhada",
-                                                "d":  "serem projeções audiovisuais e interativas em tela digital, sem qualquer componente físico ou tridimensional"
+                                                "a":  "peças fixas sobre pedestal, que o público só pode observar sem tocar",
+                                                "b":  "esculturas de mármore talhadas para representar animais realistas",
+                                                "c":  "projeções audiovisuais em tela digital, sem componente físico",
+                                                "d":  "placas de metal soldadas em posição definitiva pela própria artista",
+                                                "e":  "placas de metal unidas por dobradiças, manuseadas pelo espectador"
                                             },
-                           "resposta":  "b",
-                           "explicacao":  "Os \"Bichos\" são placas de metal articuladas por dobradiças, sem forma fixa e manuseáveis pelo público — não são esculturas de mármore realistas, projeções audiovisuais ou peças fixas sobre pedestal."
+                           "resposta":  "e",
+                           "explicacao":  "A dobradiça é o elemento decisivo: sem ela, seriam esculturas metálicas comuns; com ela, o mesmo conjunto de placas assume configurações que a artista não determinou. Em (d) está o distrator mais preciso e o mais errado — mesmo material, princípio oposto, porque soldar em posição definitiva é justamente o que a obra recusa. Em (a), o pedestal e a proibição de tocar contrariam a proposta. Em (b) e (c), mármore figurativo e projeção digital descrevem outras coisas."
                        },
                        {
                            "id":  "obra-bicho-q4",
                            "enunciado":  "Diferentemente de obras como \"Guernica\", de Pablo Picasso, ou \"A Morte de Marat\", de Jacques-Louis David — pinturas de composição fechada e definitiva —, a série \"Bicho\", de Lygia Clark, se distingue por:",
                            "alternativas":  {
-                                                "a":  "ter sido produzida exatamente no mesmo ano e no mesmo país de origem que as outras duas obras mencionadas no enunciado",
-                                                "b":  "representar cenas de guerra e violência política, assim como as outras duas obras citadas",
-                                                "c":  "não ter forma final fixa, dependendo da manipulação física do espectador para assumir configurações variáveis",
-                                                "d":  "ser uma pintura bidimensional feita a óleo sobre tela, mesma técnica empregada nas outras duas obras citadas"
+                                                "a":  "ter sido produzida no mesmo ano e país das outras duas obras citadas",
+                                                "b":  "representar cenas de guerra e violência política, como as outras duas",
+                                                "c":  "não ter forma final fixa, dependendo da manipulação do espectador",
+                                                "d":  "ser pintura bidimensional a óleo sobre tela, como as outras duas",
+                                                "e":  "ter sido concebida para um espaço público específico, e não para museu"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "\"Bicho\" é escultura tridimensional aberta e sem forma fixa, ao contrário das pinturas fechadas e definitivas de Picasso e David — não é pintura a óleo, não foi produzida no mesmo contexto histórico das outras duas, e não representa cenas de guerra."
+                           "explicacao":  "O enunciado já dá o critério — composição fechada e definitiva — e o Bicho é o contrário disso: cada manipulação produz uma configuração que não estava prevista, e nenhuma delas é a versão certa. Em (e) está o distrator mais plausível, porque a arte participativa costuma sair do museu; os Bichos, porém, foram concebidos para a exposição, e o que muda é a relação com quem olha, não o lugar. Em (a), (b) e (d), ano, tema e técnica são justamente o que separa as três obras."
                        },
                        {
                            "id":  "obra-bicho-q5",
                            "enunciado":  "O fato de os \"Bichos\" não terem uma configuração final \"correta\" sugere que Lygia Clark concebia a obra de arte como:",
                            "alternativas":  {
-                                                "a":  "um produto acabado, que deve ser preservado exatamente na forma imaginada originalmente pela artista",
-                                                "b":  "um processo aberto, cujo sentido se completa apenas no momento da interação entre objeto e participante",
-                                                "c":  "uma reprodução em série de peças idênticas, destinada à venda em larga escala",
-                                                "d":  "um objeto puramente decorativo, sem qualquer intenção conceitual por trás da proposta"
+                                                "a":  "um produto acabado, preservado na forma imaginada pela artista",
+                                                "b":  "uma reprodução em série de peças idênticas, para venda em escala",
+                                                "c":  "um objeto decorativo, sem intenção conceitual por trás",
+                                                "d":  "um registro do gesto da artista, que o público deve reconstituir",
+                                                "e":  "um processo aberto, completado na interação com o participante"
                                             },
-                           "resposta":  "b",
-                           "explicacao":  "A ausência de forma final \"correta\" revela que, para Clark, a obra só se completa no ato da interação com o participante — ela não é um produto acabado e fixo, nem um objeto meramente decorativo, nem uma mercadoria em série."
+                           "resposta":  "e",
+                           "explicacao":  "Não haver posição correta significa que a artista abriu mão do controle sobre o resultado: ela projeta as condições, e quem manipula produz a forma. Em (d) está a leitura mais sutil e ainda assim equivocada — reconstituir um gesto original suporia que existe um estado certo a alcançar, e é exatamente isso que a obra elimina. Em (a), o produto acabado é o modelo que ela rompe. Em (b) e (c), série industrial e ornamento não descrevem a proposta."
                        }
                    ],
     "obra-mao-tsetung-warhol":  [
@@ -1394,61 +1408,66 @@ window.OBRAS_QUESTOES = {
                               "id":  "obra-guernica-q1",
                               "enunciado":  "Guernica foi pintada por Picasso em reação direta a qual evento histórico?",
                               "alternativas":  {
-                                                   "a":  "O bombardeio da cidade basca de Guernica pela aviação alemã e italiana em 1937.",
-                                                   "b":  "A invasão da Espanha pelas tropas napoleônicas no início do século XIX.",
-                                                   "c":  "A eclosão da Primeira Guerra Mundial na Europa, em 1914.",
-                                                   "d":  "O bombardeio de Hiroshima pelos Estados Unidos, ocorrido em 1945."
+                                                   "a":  "o bombardeio da cidade basca de Guernica pela aviação alemã e italiana",
+                                                   "b":  "a invasão da Espanha pelas tropas napoleônicas no início do século XIX, retratada por Goya",
+                                                   "c":  "a eclosão da Primeira Guerra Mundial na Europa, em 1914",
+                                                   "d":  "o bombardeio de Hiroshima pelos Estados Unidos, em 1945",
+                                                   "e":  "o cerco de Madri pelas tropas franquistas durante a Guerra Civil"
                                                },
                               "resposta":  "a",
-                              "explicacao":  "A obra reage de forma imediata ao bombardeio da cidade basca de Guernica pela aviação alemã e italiana, em abril de 1937, durante a Guerra Civil Espanhola."
+                              "explicacao":  "Em 26 de abril de 1937, aviões da Legião Condor alemã e da Aviação Legionária italiana destruíram a cidade basca a serviço de Franco, e Picasso pintou a tela nas semanas seguintes, para o pavilhão espanhol da Exposição de Paris. Em (e) está o distrator mais próximo, porque o cerco de Madri é da mesma guerra e igualmente brutal — não é, porém, o episódio que dá nome e origem ao quadro. Em (b), a invasão napoleônica é o assunto de Goya. Em (c) e (d), 1914 e 1945 estão fora do período."
                           },
                           {
                               "id":  "obra-guernica-q2",
                               "enunciado":  "Guernica é frequentemente citada em provas que exploram o eixo modernidade e pós-modernidade porque a obra:",
                               "alternativas":  {
-                                                   "a":  "Celebra os avanços da aviação militar como símbolo do progresso técnico do século XX.",
-                                                   "b":  "Defende o retorno a técnicas artísticas pré-modernas como forma de resistência política.",
-                                                   "c":  "Questiona a confiança no progresso técnico ao mostrar seu uso na destruição em massa de civis.",
-                                                   "d":  "Ignora o contexto político da guerra para focar apenas em experimentações formais abstratas."
+                                                   "a":  "celebra os avanços da aviação militar como símbolo do progresso técnico",
+                                                   "b":  "defende o retorno a técnicas pré-modernas como resistência política",
+                                                   "c":  "ignora o contexto político para focar em experimentação formal abstrata",
+                                                   "d":  "apresenta a técnica como neutra, cujo uso depende de quem a maneja",
+                                                   "e":  "questiona a confiança no progresso ao mostrá-lo destruindo civis"
                                                },
-                              "resposta":  "c",
-                              "explicacao":  "Ao retratar o bombardeio de civis por aviões, Guernica expõe o lado sombrio do progresso técnico moderno, questionando diretamente o otimismo iluminista em relação à razão e à tecnologia."
+                              "resposta":  "e",
+                              "explicacao":  "Guernica foi um dos primeiros bombardeios aéreos deliberados contra população civil, e a tela mostra o avião — invenção que o século saudava como triunfo — usado para matar quem não combate. É a promessa moderna virada contra si mesma. Em (d) está o distrator mais interessante, porque a tese da neutralidade técnica é posição filosófica respeitável; o quadro, porém, vai além dela e implica o próprio projeto de progresso. Em (a), não há celebração. Em (c), o contexto político é a razão de existir da obra. Em (b), a linguagem é vanguardista."
                           },
                           {
                               "id":  "obra-guernica-q3",
                               "enunciado":  "Do ponto de vista cromático, o que caracteriza Guernica?",
                               "alternativas":  {
-                                                   "a":  "Cores vivas e fortemente contrastantes, associadas à tradição decorativa popular espanhola.",
-                                                   "b":  "Uma gradação predominante de azuis, semelhante à fase azul anterior da carreira de Picasso.",
-                                                   "c":  "Uma paleta quase monocromática de preto, branco e cinza, que evoca fotografias de jornal.",
-                                                   "d":  "O uso quase exclusivo de tons dourados, associado à tradição da pintura religiosa espanhola."
+                                                   "a":  "cores vivas e contrastantes, ligadas à tradição decorativa espanhola",
+                                                   "b":  "gradação de azuis, como na fase azul anterior de Picasso",
+                                                   "c":  "paleta quase monocromática de preto, branco e cinza, como jornal",
+                                                   "d":  "tons dourados, associados à tradição da pintura religiosa espanhola",
+                                                   "e":  "contraste de vermelho e preto, evocando as cores da bandeira republicana"
                                                },
                               "resposta":  "c",
-                              "explicacao":  "Picasso optou por uma paleta reduzida a preto, branco e cinza, o que reforça o caráter de denúncia quase jornalística do bombardeio retratado."
+                              "explicacao":  "A ausência de cor aproxima a tela da fotografia de jornal e do noticiário — o registro pelo qual o mundo soube do bombardeio —, e retira da cena qualquer beleza que distraísse do horror. Em (e) está o distrator mais bem construído, porque o engajamento republicano de Picasso é fato e as cores propostas soam plausíveis para uma obra de guerra; a tela, porém, recusa exatamente esse recurso. Em (b), a fase azul é de trinta anos antes. Em (a) e (d), vivacidade decorativa e dourado religioso contrariam o que se vê."
                           },
                           {
                               "id":  "obra-guernica-q4",
                               "enunciado":  "Guernica é comumente comparada a qual outra obra como marco da pintura de denúncia contra a violência da guerra?",
                               "alternativas":  {
-                                                   "a":  "A Liberdade Guiando o Povo, de Eugène Delacroix, sobre a Revolução de 1830.",
-                                                   "b":  "A Balsa da Medusa, de Théodore Géricault, sobre um naufrágio francês.",
-                                                   "c":  "O Fuzilamento de 3 de Maio de 1808, de Francisco de Goya.",
-                                                   "d":  "O Grito, de Edvard Munch, pintura expressionista sobre a angústia individual."
+                                                   "a":  "A Liberdade Guiando o Povo, de Delacroix, sobre a Revolução de 1830",
+                                                   "b":  "A Balsa da Medusa, de Géricault, sobre um naufrágio francês",
+                                                   "c":  "O Grito, de Munch, expressionista sobre a angústia individual",
+                                                   "d":  "O Fuzilamento de 3 de Maio de 1808, de Francisco de Goya",
+                                                   "e":  "Os Desastres da Guerra, série de gravuras também de Goya sobre a mesma guerra"
                                                },
-                              "resposta":  "c",
-                              "explicacao":  "Assim como Picasso em Guernica, Goya retratou em O Fuzilamento de 3 de Maio de 1808 a violência da guerra contra civis, sendo ambas obras consideradas marcos da pintura política antibélica espanhola."
+                              "resposta":  "d",
+                              "explicacao":  "A comparação é canônica e espanhola: Goya pinta civis fuzilados por tropas napoleônicas, Picasso pinta civis bombardeados por aviões, e as duas telas fundam a denúncia da violência contra quem não combate. Em (e) está o distrator mais informado de todos, porque Os Desastres da Guerra são do mesmo Goya e sobre a mesma invasão — a comparação corrente, porém, é com a grande tela do Fuzilamento, e não com a série de gravuras. Em (a) e (b), Delacroix e Géricault tratam de revolução e naufrágio. Em (c), Munch trata de angústia individual."
                           },
                           {
                               "id":  "obra-guernica-q5",
                               "enunciado":  "A escolha de Picasso por figuras simbólicas — touro, cavalo ferido, mulher com criança morta — em vez de uma cena realista do bombardeio sugere que seu objetivo era:",
                               "alternativas":  {
-                                                   "a":  "Universalizar o sofrimento provocado pela guerra, para além do episódio histórico específico.",
-                                                   "b":  "Homenagear a tradição da tourada espanhola como símbolo da identidade nacional.",
-                                                   "c":  "Evitar qualquer crítica política direta ao regime instaurado pelo general Franco.",
-                                                   "d":  "Facilitar a censura da obra pelas autoridades franquistas espanholas da época."
+                                                   "a":  "homenagear a tradição da tourada como símbolo da identidade nacional",
+                                                   "b":  "universalizar o sofrimento da guerra, para além do episódio específico",
+                                                   "c":  "evitar crítica política direta ao regime instaurado por Franco",
+                                                   "d":  "facilitar a censura da obra pelas autoridades franquistas da época",
+                                                   "e":  "manter a ambiguidade para que cada espectador atribua o sentido que quiser"
                                                },
-                              "resposta":  "a",
-                              "explicacao":  "Ao recorrer a símbolos e não a uma cena documental, Picasso transforma o bombardeio de Guernica num relato universal sobre o sofrimento causado pela guerra, ampliando o alcance político e humano da obra."
+                              "resposta":  "b",
+                              "explicacao":  "O símbolo atravessa fronteiras que a reportagem não atravessa: a mãe com o filho morto não é de Guernica, é de qualquer lugar bombardeado, e por isso a tela seguiu significando em guerras que Picasso não viveu. Em (e) está a confusão mais fina — universalizar não é abrir mão do sentido, e a obra é inequívoca em sua acusação, ainda que não datada. Em (c) e (d), a tela é denúncia explícita e foi exposta contra o regime. Em (a), o touro é figura de violência, não homenagem à tourada."
                           }
                       ],
     "obra-banksy":  [
@@ -1456,61 +1475,66 @@ window.OBRAS_QUESTOES = {
                             "id":  "obra-banksy-q1",
                             "enunciado":  "Qual das características abaixo é fundamental para compreender a produção artística de Banksy?",
                             "alternativas":  {
-                                                 "a":  "A colaboração constante com o governo britânico em campanhas publicitárias oficiais.",
-                                                 "b":  "O uso exclusivo de tintas a óleo em telas de grande formato vendidas em galerias.",
-                                                 "c":  "O anonimato do artista, que nunca revelou publicamente sua identidade.",
-                                                 "d":  "A produção exclusiva de obras encomendadas por museus e instituições oficiais de arte."
+                                                 "a":  "a colaboração com o governo britânico em campanhas publicitárias oficiais",
+                                                 "b":  "o uso de tintas a óleo em telas de grande formato vendidas em galerias",
+                                                 "c":  "a produção de obras encomendadas por museus e instituições oficiais",
+                                                 "d":  "a assinatura de cada peça com o nome civil do artista, para autenticá-la",
+                                                 "e":  "o anonimato do artista, que nunca revelou publicamente sua identidade"
                                              },
-                            "resposta":  "c",
-                            "explicacao":  "O anonimato de Banksy é elemento central de sua obra e de sua crítica ao sistema institucional da arte, distinguindo-o de artistas de rua que assumem publicamente sua identidade."
+                            "resposta":  "e",
+                            "explicacao":  "O anonimato não é excentricidade biográfica: é condição de trabalho de quem pinta sem autorização, e virou parte do sentido da obra, que circula sem a assinatura que o mercado de arte exige. Em (d) está a inversão exata desse traço. Em (c) e (a), encomenda oficial e parceria com o governo contradizem a intervenção não autorizada. Em (b), a técnica de rua é o estêncil com spray, e a passagem eventual pela galeria é posterior e tensa, não o modo de produção."
                         },
                         {
                             "id":  "obra-banksy-q2",
                             "enunciado":  "A obra de Banksy é associada ao eixo da globalização principalmente porque:",
                             "alternativas":  {
-                                                 "a":  "O artista expõe suas obras simultaneamente em museus oficiais de todos os continentes.",
-                                                 "b":  "Ele recebe financiamento regular de organizações internacionais para produzir grafites.",
-                                                 "c":  "Suas obras são reproduzidas oficialmente por editoras de arte em diferentes países.",
-                                                 "d":  "Suas imagens ganham relevância mundial sobretudo pela circulação digital em redes sociais."
+                                                 "a":  "expõe suas obras simultaneamente em museus oficiais de todos os continentes",
+                                                 "b":  "recebe financiamento de organizações internacionais para produzir grafites",
+                                                 "c":  "suas obras são reproduzidas por editoras de arte em diferentes países",
+                                                 "d":  "suas imagens circulam pelo mundo sobretudo por meio das redes sociais",
+                                                 "e":  "ele pinta em vários países, o que basta para dar alcance mundial à obra"
                                              },
                             "resposta":  "d",
-                            "explicacao":  "As imagens de Banksy alcançam alcance global principalmente por serem fotografadas e compartilhadas em redes sociais, e não por meio dos circuitos tradicionais de museus e galerias."
+                            "explicacao":  "Um muro alcança quem passa na rua; a fotografia daquele muro alcança o planeta em horas — e é a circulação digital, não a localização física, que faz de um grafite local um acontecimento global. Em (e) está o distrator mais próximo, porque Banksy de fato pinta em vários países; a intervenção física, sozinha, teria público restrito, e é a imagem que viaja. Em (a) e (c), museus e editoras são o circuito oficial de que ele se mantém à margem. Em (b), não há financiamento institucional."
                         },
                         {
                             "id":  "obra-banksy-q3",
                             "enunciado":  "Qual técnica é característica da execução das obras de rua de Banksy?",
                             "alternativas":  {
-                                                 "a":  "Estêncil, que permite aplicar a imagem rapidamente com spray sobre um molde vazado.",
-                                                 "b":  "Afresco, técnica de pintura sobre reboco ainda úmido, usada desde o Renascimento italiano.",
-                                                 "c":  "Mosaico, com pequenas peças de cerâmica ou vidro coladas diretamente sobre o muro.",
-                                                 "d":  "Têmpera sobre madeira, técnica típica da pintura religiosa medieval e renascentista."
+                                                 "a":  "estêncil, que aplica a imagem rapidamente com spray sobre molde vazado",
+                                                 "b":  "afresco, pintura sobre reboco úmido, usada desde o Renascimento italiano",
+                                                 "c":  "mosaico, com peças de cerâmica ou vidro coladas sobre o muro",
+                                                 "d":  "têmpera sobre madeira, típica da pintura religiosa medieval",
+                                                 "e":  "grafite a mão livre com spray, sem uso de molde ou máscara prévia"
                                              },
                             "resposta":  "a",
-                            "explicacao":  "O estêncil é a técnica-assinatura de Banksy, pois permite reproduzir a imagem com rapidez e precisão em locais públicos, muitas vezes sem autorização e sob risco de ser flagrado."
+                            "explicacao":  "O molde vazado resolve o problema central de quem pinta sem permissão: a imagem complexa sai em segundos, e o artista não fica exposto. Forma e clandestinidade se explicam uma pela outra. Em (e) está o distrator que exige a distinção fina — também é spray, também é rua, mas o traço à mão livre é a técnica do grafite tradicional, e Banksy se define justamente por não usá-la. Em (b), (c) e (d), afresco, mosaico e têmpera são técnicas lentas, incompatíveis com a intervenção rápida."
                         },
                         {
                             "id":  "obra-banksy-q4",
                             "enunciado":  "Em comparação com movimentos de arte urbana anteriores, como o grafite de Nova York dos anos 1970 e 1980, a obra de Banksy se destaca principalmente por:",
                             "alternativas":  {
-                                                 "a":  "Abandonar completamente o espaço público em favor de exposições exclusivas em galerias.",
-                                                 "b":  "Utilizar exclusivamente letras estilizadas, as chamadas tags, sem qualquer elemento figurativo.",
-                                                 "c":  "Ser produzida sempre sob encomenda direta de prefeituras para fins de embelezamento urbano.",
-                                                 "d":  "Aliar a intervenção urbana não autorizada a uma crítica social explícita e à ampla difusão digital."
+                                                 "a":  "abandonar o espaço público em favor de exposições em galerias",
+                                                 "b":  "usar apenas letras estilizadas, as tags, sem elemento figurativo",
+                                                 "c":  "ser produzida sob encomenda de prefeituras para embelezamento urbano",
+                                                 "d":  "trabalhar em escala mural, ao contrário das peças pequenas dos anos 1970",
+                                                 "e":  "aliar intervenção não autorizada a crítica social e difusão digital"
                                              },
-                            "resposta":  "d",
-                            "explicacao":  "Banksy herda a tradição do grafite urbano não autorizado, mas soma a ela uma crítica social e política explícita e uma difusão inédita por meio das redes digitais."
+                            "resposta":  "e",
+                            "explicacao":  "O grafite nova-iorquino afirmava presença e nome; Banksy mantém a ilegalidade e acrescenta duas coisas — o conteúdo é argumento político legível, e a imagem foi feita para ser fotografada e compartilhada. Em (b) está a caracterização do grafite anterior, cujo repertório era a letra estilizada, e não o desenho figurativo. Em (d), a escala não distingue os dois: os trens e murais dos anos 1970 eram grandes. Em (a) e (c), Banksy permanece na rua e sem encomenda."
                         },
                         {
                             "id":  "obra-banksy-q5",
                             "enunciado":  "A imagem de soldados armados aplicando um símbolo de paz em um muro, recorrente na obra de Banksy, produz sentido crítico principalmente pela:",
                             "alternativas":  {
-                                                 "a":  "Comemoração de um tratado de paz internacional assinado por potências europeias no século XX.",
-                                                 "b":  "Justaposição irônica entre o instrumental bélico e o ícone pacifista, expondo contradições da propaganda de guerra.",
-                                                 "c":  "Denúncia de um conflito militar específico e datado, sem qualquer pretensão de alcance simbólico mais amplo.",
-                                                 "d":  "Homenagem direta às forças armadas responsáveis pela manutenção da paz em conflitos internacionais."
+                                                 "a":  "comemoração de um tratado de paz assinado por potências no século XX",
+                                                 "b":  "denúncia de um conflito específico e datado, sem alcance simbólico",
+                                                 "c":  "homenagem às forças armadas que mantêm a paz em conflitos externos",
+                                                 "d":  "crítica ao vandalismo, já que os soldados também pintam o muro sem permissão",
+                                                 "e":  "justaposição irônica entre o aparato bélico e o ícone pacifista"
                                              },
-                            "resposta":  "b",
-                            "explicacao":  "O contraste entre soldados armados e o símbolo de paz que eles próprios pintam gera um efeito irônico típico de Banksy, que expõe a contradição entre discurso pacifista e aparato militar."
+                            "resposta":  "e",
+                            "explicacao":  "A imagem funciona pelo curto-circuito: quem porta a arma é quem pinta o símbolo da paz, e o gesto vira propaganda em vez de gesto. Nada precisa ser dito — a contradição está na própria cena. Em (d) está a leitura mais engenhosa e mais equivocada, porque inverte o alvo: o incômodo não é o soldado pichar, é o exército se apresentar como pacificador. Em (b), a imagem não se prende a um conflito datado. Em (a) e (c), comemoração e homenagem desfazem a ironia que sustenta a obra."
                         }
                     ],
     "obra-morte-marat":  [
@@ -1643,62 +1667,66 @@ window.OBRAS_QUESTOES = {
                                       "id":  "obra-auto-compadecida-q1",
                                       "enunciado":  "O longa-metragem \u0027O Auto da Compadecida\u0027 (2000), dirigido por Guel Arraes, tem qual origem imediata?",
                                       "alternativas":  {
-                                                           "a":  "Foi adaptado diretamente de um filme espanhol homônimo lançado nos anos 1950.",
-                                                           "b":  "Foi originalmente uma minissérie da Rede Globo, exibida em 1999, depois remontada para os cinemas.",
-                                                           "c":  "Nasceu de um roteiro inédito, escrito exclusivamente para o cinema, sem relação com produções de TV.",
-                                                           "d":  "Foi rodado originalmente como curta-metragem estudantil ainda na década de 1970."
+                                                           "a":  "foi adaptado de um filme espanhol homônimo dos anos 1950",
+                                                           "b":  "foi uma minissérie da Globo em 1999, depois remontada para o cinema",
+                                                           "c":  "nasceu de roteiro inédito escrito só para o cinema, sem relação com TV",
+                                                           "d":  "foi rodado como curta-metragem estudantil na década de 1970",
+                                                           "e":  "adaptou diretamente a peça de Suassuna, sem passar por versão televisiva"
                                                        },
                                       "resposta":  "b",
-                                      "explicacao":  "O filme nasceu de uma minissérie da Rede Globo exibida em 1999; dado o sucesso, Guel Arraes remontou o material em versão para os cinemas, lançada em 2000."
+                                      "explicacao":  "A palavra que decide é imediata: o filme é a remontagem de quatro capítulos exibidos na televisão em 1999, condensados para a sala de cinema no ano seguinte. Em (e) está o distrator mais forte, porque a peça de Ariano Suassuna é mesmo a origem última da história — só que entre ela e o longa existe a minissérie, e é dela que o filme vem diretamente. Em (c), o roteiro não é inédito nem exclusivo do cinema. Em (a) e (d), não há filme espanhol homônimo nem curta estudantil na origem."
                                   },
                                   {
                                       "id":  "obra-auto-compadecida-q2",
                                       "enunciado":  "A resolução da trama no Juízo Final, em que a Compadecida intercede por João Grilo, reforça qual leitura sobre religiosidade no filme?",
                                       "alternativas":  {
-                                                           "a":  "A defesa de que apenas membros do clero têm autoridade legítima para perdoar pecados alheios.",
-                                                           "b":  "A crítica direta à própria existência de qualquer julgamento divino após a morte, ausente do desfecho da trama.",
-                                                           "c":  "A ideia de que pecados cometidos em vida não geram nenhuma consequência espiritual depois da morte.",
-                                                           "d":  "A valorização de uma espiritualidade popular compassiva, mais flexível que o julgamento rígido da lei."
+                                                           "a":  "só membros do clero têm autoridade para perdoar pecados alheios",
+                                                           "b":  "crítica à existência de qualquer julgamento divino após a morte",
+                                                           "c":  "pecados cometidos em vida não geram consequência espiritual",
+                                                           "d":  "a intercessão vale por ser Maria a mãe de Cristo, e não pela compaixão que demonstra",
+                                                           "e":  "valorização de uma espiritualidade popular mais compassiva que a lei"
                                                        },
-                                      "resposta":  "d",
-                                      "explicacao":  "Ao fazer a Compadecida pesar as boas ações de João Grilo contra seus pecados, o filme valoriza uma espiritualidade popular mais misericordiosa do que a aplicação estrita da doutrina."
+                                      "resposta":  "e",
+                                      "explicacao":  "O julgamento existe e é levado a sério, mas quem decide o desfecho é a compaixão de quem olha o réu de perto — teologia do cordel, em que a santa entende o pobre melhor que o tribunal. Em (d) está o distrator mais sutil: a autoridade mariana é real na cena, e ainda assim o filme faz questão de que ela intervenha por misericórdia, não por prerrogativa. Em (a), o padre da trama é o menos indulgente de todos. Em (b) e (c), o juízo ocorre e os atos pesam — a questão é como são pesados."
                                   },
                                   {
                                       "id":  "obra-auto-compadecida-q3",
                                       "enunciado":  "Quais atores interpretam, respectivamente, João Grilo e Chicó no filme?",
                                       "alternativas":  {
-                                                           "a":  "Selton Mello interpreta João Grilo, e Rodrigo Santoro interpreta Chicó.",
-                                                           "b":  "Lázaro Ramos interpreta João Grilo, e Wagner Moura interpreta Chicó.",
-                                                           "c":  "Matheus Nachtergaele interpreta João Grilo, e Selton Mello interpreta Chicó.",
-                                                           "d":  "Marco Nanini interpreta João Grilo, e Matheus Nachtergaele interpreta Chicó."
+                                                           "a":  "Selton Mello como João Grilo e Rodrigo Santoro como Chicó",
+                                                           "b":  "Lázaro Ramos como João Grilo e Wagner Moura como Chicó",
+                                                           "c":  "Matheus Nachtergaele como João Grilo e Selton Mello como Chicó",
+                                                           "d":  "Marco Nanini como João Grilo e Matheus Nachtergaele como Chicó",
+                                                           "e":  "Selton Mello como João Grilo e Matheus Nachtergaele como Chicó"
                                                        },
                                       "resposta":  "c",
-                                      "explicacao":  "Matheus Nachtergaele interpreta João Grilo e Selton Mello interpreta Chicó, a dupla de protagonistas trapaceiros do sertão de Taperoá."
+                                      "explicacao":  "Nachtergaele é o João Grilo esperto e miúdo, e Selton Mello é o Chicó mentiroso e medroso — a dupla que sustenta o filme. Em (e) está a troca exata dos dois papéis, que é o erro mais comum de quem lembra dos atores e não de quem fez o quê. Em (d), Marco Nanini está no elenco, mas como o coronel Antônio Morais. Em (a) e (b), Rodrigo Santoro, Lázaro Ramos e Wagner Moura não integram o elenco deste filme."
                                   },
                                   {
                                       "id":  "obra-auto-compadecida-q4",
-                                      "texto_apoio":  "\u0027Cabra Marcado para Morrer\u0027 é um documentário construído sobre fatos históricos reais.",
                                       "enunciado":  "Diferentemente dele, \u0027O Auto da Compadecida\u0027 se caracteriza por que traço central de sua estrutura?",
                                       "alternativas":  {
-                                                           "a":  "É uma ficção baseada em fatos policiais reais ocorridos na Paraíba dos anos 1960.",
-                                                           "b":  "É uma animação totalmente desvinculada de qualquer fonte literária anterior ao roteiro.",
-                                                           "c":  "É também um documentário, mas voltado à vida do dramaturgo Ariano Suassuna.",
-                                                           "d":  "É uma ficção cômica e fantástica, adaptada de peça inspirada no cordel nordestino."
+                                                           "a":  "é ficção baseada em fatos policiais reais da Paraíba dos anos 1960",
+                                                           "b":  "é animação desvinculada de qualquer fonte literária anterior",
+                                                           "c":  "é documentário voltado à vida do dramaturgo Ariano Suassuna",
+                                                           "d":  "é drama realista sobre a seca, sem elemento cômico ou fantástico",
+                                                           "e":  "é ficção cômica e fantástica, vinda de peça inspirada no cordel"
                                                        },
-                                      "resposta":  "d",
-                                      "explicacao":  "O Auto da Compadecida é uma ficção cômica adaptada da peça de Ariano Suassuna (1955), que bebe do cordel e do folclore nordestino, diferente do registro documental de Cabra Marcado para Morrer."
+                                      "resposta":  "e",
+                                      "explicacao":  "O filme mistura comédia de trapaça, milagre e julgamento sobrenatural, tudo herdado da matriz do cordel nordestino que Suassuna levou ao teatro. Em (d) está o distrator mais plausível, porque o sertão e a seca estão lá e essa é a chave de boa parte do cinema nordestino — só que aqui o registro é cômico e fantástico, não realista. Em (a) e (c), não há base em fato policial nem intenção documental. Em (b), o filme é live-action e tem fonte literária explícita."
                                   },
                                   {
                                       "id":  "obra-auto-compadecida-q5",
                                       "enunciado":  "No julgamento final, a Compadecida menciona um gesto de bondade de João Grilo para com um animal a fim de amenizar sua condenação. O que essa passagem sugere sobre a moral do filme?",
                                       "alternativas":  {
-                                                           "a":  "Que a bondade só é reconhecida quando praticada publicamente, diante de testemunhas.",
-                                                           "b":  "Que João Grilo jamais cometeu qualquer falta grave ao longo de toda a história, apesar das trapaças relatadas.",
-                                                           "c":  "Que os animais têm, na trama, poder de julgar diretamente os seres humanos, papel que cabe apenas à Compadecida.",
-                                                           "d":  "Que pequenos gestos de bondade podem pesar mais que uma vida inteira de espertezas e trapaças."
+                                                           "a":  "que a bondade só é reconhecida quando praticada diante de testemunhas",
+                                                           "b":  "que João Grilo jamais cometeu falta grave, apesar das trapaças relatadas",
+                                                           "c":  "que os animais têm, na trama, poder de julgar diretamente os humanos",
+                                                           "d":  "que a intenção de quem age importa menos que o resultado do gesto",
+                                                           "e":  "que pequenos gestos de bondade pesam mais que uma vida de espertezas"
                                                        },
-                                      "resposta":  "d",
-                                      "explicacao":  "A cena sugere que, na moral do filme, gestos simples de bondade têm peso decisivo no julgamento de uma vida marcada por pequenas trapaças e espertezas de sobrevivência."
+                                      "resposta":  "e",
+                                      "explicacao":  "A balança do filme não é aritmética: um gesto miúdo, feito sem plateia e sem cálculo, vale mais que a soma das trapaças, porque revela o que a pessoa é quando ninguém está olhando. Em (b) está o excesso que a cena não autoriza — as faltas existem e são graves, e o ponto é que não bastam para condenar. Em (a), a bondade contou justamente por ter sido sem testemunha. Em (d), é a intenção que pesa, e não o resultado. Em (c), quem julga é o tribunal celeste."
                                   }
                               ],
     "obra-cabra-marcado":  [
@@ -2155,61 +2183,66 @@ window.OBRAS_QUESTOES = {
                                    "id":  "obra-com-que-roupa-q1",
                                    "enunciado":  "\"Com que Roupa\", de Noel Rosa, foi composta em 1930, ano que também marcou um acontecimento decisivo na história política brasileira. Sobre o contexto de produção da canção, é correto afirmar que:",
                                    "alternativas":  {
-                                                        "a":  "A canção foi composta décadas após a morte de Noel Rosa, como homenagem póstuma feita por outros sambistas da Vila Isabel.",
-                                                        "b":  "A canção só ganhou registro fonográfico nos anos 1960, quando o samba já havia perdido espaço para o rock nacional.",
-                                                        "c":  "A canção nasceu de uma encomenda oficial do governo Vargas para promover a etiqueta social entre as classes populares.",
-                                                        "d":  "A canção surge no mesmo ano da Revolução de 1930, período de consolidação do samba carioca como gênero urbano difundido pelo rádio."
+                                                        "a":  "foi composta décadas após a morte de Noel, como homenagem póstuma",
+                                                        "b":  "só ganhou registro fonográfico nos anos 1960, com o samba em baixa",
+                                                        "c":  "nasceu de encomenda do governo Vargas para promover etiqueta social",
+                                                        "d":  "surge no ano da Revolução de 1930, com o samba se firmando no rádio",
+                                                        "e":  "foi censurada na época e só pôde ser gravada após o fim do Estado Novo"
                                                     },
                                    "resposta":  "d",
-                                   "explicacao":  "\"Com que Roupa\" foi composta e gravada em 1930, mesmo ano da Revolução que levou Vargas ao poder, período em que o samba carioca se consolidava como gênero urbano nacional, impulsionado pela expansão do rádio."
+                                   "explicacao":  "A canção é contemporânea da Revolução de 1930 e do momento em que o rádio transforma o samba carioca em gênero de alcance nacional — dois processos que explicam por que uma crítica social embalada em humor circulou tanto. Em (e) está o distrator mais plausível, porque a censura do Estado Novo é fato conhecido do período; ela é, porém, posterior a 1937, e a canção já era sucesso antes disso. Em (a), Noel a compôs em vida e morreu em 1937. Em (b), o registro é imediato. Em (c), não houve encomenda oficial."
                                },
                                {
                                    "id":  "obra-com-que-roupa-q2",
                                    "enunciado":  "A ironia empregada por Noel Rosa em \"Com que Roupa\" ao tratar da falta de vestimenta adequada para frequentar ambientes da elite carioca funciona, no contexto da canção, principalmente como:",
                                    "alternativas":  {
-                                                        "a":  "Manifesto político explícito contra o governo Vargas, comparável em tom aos discursos oficiais da época.",
-                                                        "b":  "Crítica exclusiva à moda europeia, sem qualquer relação com as diferenças econômicas entre os cariocas.",
-                                                        "c":  "Elogio velado aos costumes da elite, sugerindo que o narrador deseja apenas ser aceito nesse meio sem questionar suas regras.",
-                                                        "d":  "Recurso de humor que suaviza e evidencia, ao mesmo tempo, a desigualdade de classes por trás das convenções sociais da época."
+                                                        "a":  "manifesto político explícito contra o governo Vargas",
+                                                        "b":  "crítica à moda europeia, sem relação com diferença econômica",
+                                                        "c":  "elogio velado aos costumes da elite, que o narrador quer integrar",
+                                                        "d":  "lamento pessoal do compositor sobre a própria situação financeira",
+                                                        "e":  "humor que suaviza e expõe a desigualdade por trás das convenções"
                                                     },
-                                   "resposta":  "d",
-                                   "explicacao":  "O humor da canção não anula a crítica social; pelo contrário, é o meio escolhido por Noel Rosa para tornar visível, de forma leve, a desigualdade e a exclusão social vividas por quem não podia seguir a etiqueta da elite."
+                                   "resposta":  "e",
+                                   "explicacao":  "A pergunta do título é engraçada e devastadora ao mesmo tempo: quem não tem roupa não entra, e a etiqueta social funciona como filtro de classe disfarçado de bom gosto. O humor é o que permite dizer isso sem discursar. Em (d) está a redução biográfica mais tentadora — a dificuldade material existe na vida de Noel, mas a canção fala de uma condição coletiva, não de um caso pessoal. Em (a), não há manifesto explícito. Em (c), a ironia questiona a regra em vez de elogiá-la. Em (b), a diferença econômica é o centro."
                                },
                                {
                                    "id":  "obra-com-que-roupa-q3",
                                    "enunciado":  "Noel Rosa, autor de \"Com que Roupa\", é frequentemente descrito pela crítica como uma figura de trânsito entre dois universos do samba carioca do início do século XX. Esse trânsito refere-se:",
                                    "alternativas":  {
-                                                        "a":  "À alternância entre composições de samba e peças eruditas para orquestra sinfônica ao longo de sua carreira.",
-                                                        "b":  "À transição entre o samba e o rock nacional, gênero que Noel Rosa teria ajudado a fundar nos anos 1950.",
-                                                        "c":  "À aproximação entre o samba do morro, associado às comunidades populares, e o samba do asfalto, ligado à boemia urbana.",
-                                                        "d":  "À divisão de sua obra entre canções feitas no Brasil e outras compostas durante um longo exílio na Europa."
+                                                        "a":  "à alternância entre samba e peças eruditas para orquestra sinfônica",
+                                                        "b":  "à transição entre o samba e o rock nacional, que teria ajudado a fundar",
+                                                        "c":  "à aproximação entre o samba do morro e o samba do asfalto",
+                                                        "d":  "à divisão entre canções feitas no Brasil e outras compostas no exílio",
+                                                        "e":  "à passagem do samba de partido-alto para o samba-enredo de escola"
                                                     },
                                    "resposta":  "c",
-                                   "explicacao":  "Noel Rosa, morador de Vila Isabel, é visto como uma ponte entre o samba de morro e o samba de asfalto, unindo em sua obra a linguagem popular e a observação irônica da vida urbana de diferentes classes sociais."
+                                   "explicacao":  "Noel era de Vila Isabel, de família de classe média, e circulava entre a boemia do asfalto e os sambistas do morro, parceria que rendeu obras com Cartola e Ismael Silva — é essa ponte que a crítica destaca. Em (e) está o distrator mais informado, porque partido-alto e samba-enredo são de fato subgêneros distintos; a divisão que define Noel, porém, é social e geográfica, não de subgênero. Em (b), o rock é de décadas depois. Em (a) e (d), não há produção erudita nem exílio em sua trajetória."
                                },
                                {
                                    "id":  "obra-com-que-roupa-q4",
                                    "enunciado":  "Tanto \"Com que Roupa\", de Noel Rosa, quanto \"Que País é Esse?\", da Legião Urbana, tratam de desigualdade e crítica social, mas se diferenciam principalmente:",
                                    "alternativas":  {
-                                                        "a":  "No tema, pois \"Com que Roupa\" trata exclusivamente de moda e \"Que País é Esse?\" não aborda aspecto social algum.",
-                                                        "b":  "No gênero musical, já que \"Com que Roupa\" é uma balada romântica e \"Que País é Esse?\" é um samba-canção tradicional.",
-                                                        "c":  "No tom: enquanto Noel Rosa usa humor e ironia leve, a Legião Urbana adota um tom de denúncia direta e inconformada.",
-                                                        "d":  "Na autoria, uma vez que ambas as canções foram compostas pelo mesmo autor em décadas diferentes."
+                                                        "a":  "no tema, pois uma trata apenas de moda e a outra não aborda o social",
+                                                        "b":  "no gênero, sendo uma balada romântica e a outra samba-canção",
+                                                        "c":  "na autoria, já que ambas foram compostas pelo mesmo autor",
+                                                        "d":  "na época, pois as duas são separadas por menos de uma década",
+                                                        "e":  "no tom: humor e ironia leve de um lado, denúncia direta do outro"
                                                     },
-                                   "resposta":  "c",
-                                   "explicacao":  "Ambas tratam de crítica social e desigualdade, mas Noel Rosa opta pelo humor e pela ironia sutil, enquanto a Legião Urbana expressa indignação geracional direta com a herança de um país desigual."
+                                   "resposta":  "e",
+                                   "explicacao":  "As duas dizem coisa parecida por vias opostas: Noel faz rir para que a desigualdade apareça, e a Legião nomeia o problema sem mediação alguma. O objeto é comum, o procedimento é que difere. Em (d) está o erro de cronologia que a questão cobra: 1930 e 1987 separam as canções por quase sessenta anos. Em (a), ambas tratam do social. Em (b), os gêneros estão trocados. Em (c), os autores são distintos."
                                },
                                {
                                    "id":  "obra-com-que-roupa-q5",
                                    "enunciado":  "O fato de a expressão \"com que roupa\" ter se tornado um ditado popular do português coloquial, usado para indicar constrangimento diante de situação inesperada, indica que:",
                                    "alternativas":  {
-                                                        "a":  "A expressão perdeu totalmente o significado original e hoje é usada apenas em contextos de moda e vestuário, leitura pouco sustentada por estudiosos da língua.",
-                                                        "b":  "A canção de Noel Rosa transformou uma observação social específica de sua época em imagem de alcance duradouro na cultura brasileira.",
-                                                        "c":  "O sucesso do ditado se deve unicamente à melodia da canção, sem relação alguma com o sentido da letra, tese pouco aceita por estudiosos da língua.",
-                                                        "d":  "A expressão já existia na língua portuguesa antes da canção e Noel Rosa apenas repetiu um provérbio popular conhecido, hipótese não confirmada por dicionários da época."
+                                                        "a":  "a expressão perdeu o sentido original e só se usa sobre vestuário",
+                                                        "b":  "a canção transformou uma observação de época em imagem duradoura",
+                                                        "c":  "o sucesso do ditado se deve só à melodia, sem relação com a letra",
+                                                        "d":  "a expressão já existia antes e Noel apenas repetiu um provérbio",
+                                                        "e":  "o ditado nasceu no rádio, e não na canção, que só o popularizou"
                                                     },
                                    "resposta":  "b",
-                                   "explicacao":  "A permanência da expressão como ditado popular mostra como a observação social de Noel Rosa ultrapassou o contexto imediato da canção, tornando-se parte do repertório expressivo da língua portuguesa."
+                                   "explicacao":  "Uma frase escrita sobre um problema específico de 1930 sobreviveu ao problema e virou modo de dizer — é o que acontece quando a imagem alcança algo mais geral que o caso que a originou. Em (e) está o distrator mais engenhoso, porque separa a canção da difusão radiofônica; o rádio espalhou a expressão, mas ela nasce na letra. Em (d), a anterioridade não se confirma. Em (a), o uso corrente é justamente figurado. Em (c), é o sentido da letra que o ditado conserva."
                                }
                            ],
     "obra-calice-chico-gil":  [
@@ -2717,62 +2750,66 @@ window.OBRAS_QUESTOES = {
                                        "id":  "obra-boy-in-the-bubble-q1",
                                        "enunciado":  "\u0027The Boy in the Bubble\u0027, faixa de abertura de \u0027Graceland\u0027 (1986), resultou de um processo de composição e gravação marcado por:",
                                        "alternativas":  {
-                                                            "a":  "Uma gravação exclusivamente em estúdios de Nova York, sem participação de músicos africanos.",
-                                                            "b":  "Uma adaptação direta de uma canção tradicional sul-africana de domínio público, sem coautoria.",
-                                                            "c":  "Uma parceria de Paul Simon com o músico sul-africano Forere Motloheloa e sessões gravadas em Joanesburgo.",
-                                                            "d":  "Uma composição feita a distância, por correspondência, sem encontro presencial entre os autores."
+                                                            "a":  "gravação só em estúdios de Nova York, sem músicos africanos",
+                                                            "b":  "adaptação de canção tradicional sul-africana de domínio público",
+                                                            "c":  "parceria com Forere Motloheloa e sessões gravadas em Joanesburgo",
+                                                            "d":  "composição feita a distância, sem encontro presencial entre os autores",
+                                                            "e":  "regravação de uma faixa que Simon já lançara em disco anterior"
                                                         },
                                        "resposta":  "c",
-                                       "explicacao":  "A canção foi composta por Paul Simon em parceria com o músico sul-africano Forere Motloheloa, resultado de sessões de gravação realizadas com músicos locais em Joanesburgo, incorporando a sonoridade do mbaqanga à produção pop."
+                                       "explicacao":  "Simon foi a Joanesburgo gravar com músicos locais, e a base de acordeão da faixa vem de Forere Motloheloa, creditado como coautor — detalhe que importa no debate posterior sobre apropriação. Em (b) está o distrator mais próximo, porque a matriz sonora é sul-africana; a diferença é que houve autoria identificada e crédito, e não domínio público. Em (a) e (d), a viagem e o encontro presencial são o núcleo do processo. Em (e), a faixa é inédita no álbum."
                                    },
                                    {
                                        "id":  "obra-boy-in-the-bubble-q2",
                                        "enunciado":  "No eixo da globalização, \u0027The Boy in the Bubble\u0027 é frequentemente citada como exemplo de:",
                                        "alternativas":  {
-                                                            "a":  "Isolamento cultural, com músicos trabalhando separadamente sem qualquer troca entre tradições, cada qual preso à sua própria cena local.",
-                                                            "b":  "Fusão musical entre tradições distintas, que amplia a visibilidade de músicos periféricos e gera debate sobre apropriação cultural.",
-                                                            "c":  "Nacionalismo musical, voltado exclusivamente à valorização da música norte-americana tradicional, sem qualquer abertura a outras culturas.",
-                                                            "d":  "Padronização musical total, eliminando diferenças entre tradições regionais em favor de um único estilo global."
+                                                            "a":  "isolamento cultural, com músicos trabalhando sem troca entre tradições",
+                                                            "b":  "nacionalismo musical, voltado só à música norte-americana tradicional",
+                                                            "c":  "padronização total, eliminando diferenças entre tradições regionais",
+                                                            "d":  "apropriação sem contrapartida, já que os músicos locais não foram creditados",
+                                                            "e":  "fusão de tradições distintas, que dá visibilidade a músicos periféricos"
                                                         },
-                                       "resposta":  "b",
-                                       "explicacao":  "A canção combina tradições musicais sul-africanas e norte-americanas, exemplificando tanto o potencial de intercâmbio cultural da globalização quanto suas tensões, como o debate sobre apropriação cultural gerado pelo contexto do apartheid."
+                                       "resposta":  "e",
+                                       "explicacao":  "O caso é citado porque tem os dois lados: músicos sul-africanos alcançaram público mundial, e o crédito principal ficou com o artista já famoso — o que abriu a discussão sobre quem lucra com a fusão. Em (d) está a versão radicalizada dessa crítica, e ela é factualmente falsa neste caso: Motloheloa assina a coautoria. Em (a) e (c), isolamento e padronização são o oposto de fusão. Em (b), a canção se define pela abertura ao repertório estrangeiro."
                                    },
                                    {
                                        "id":  "obra-boy-in-the-bubble-q3",
                                        "enunciado":  "O álbum \u0027Graceland\u0027 foi gravado em um contexto histórico específico na África do Sul. Qual?",
                                        "alternativas":  {
-                                                            "a":  "O período imediatamente posterior às eleições democráticas de 1994, quando Nelson Mandela assumiu a presidência do país.",
-                                                            "b":  "A Guerra dos Bôeres, travada no início do século XX, conflito entre colonos neerlandeses e o Império Britânico.",
-                                                            "c":  "O regime do apartheid e o boicote cultural internacional imposto ao país na época.",
-                                                            "d":  "A independência da África do Sul em relação ao Império Britânico, ocorrida na década de 1980."
+                                                            "a":  "o regime do apartheid e o boicote cultural internacional ao país",
+                                                            "b":  "o período posterior às eleições de 1994, com Mandela na presidência",
+                                                            "c":  "a Guerra dos Bôeres, entre colonos neerlandeses e o Império Britânico",
+                                                            "d":  "a independência sul-africana em relação ao Império Britânico, nos anos 1980",
+                                                            "e":  "o fim do boicote, já suspenso quando o disco foi gravado em 1985"
                                                         },
-                                       "resposta":  "c",
-                                       "explicacao":  "\u0027Graceland\u0027 foi gravado em 1985-1986, durante o regime do apartheid, período em que vigorava um boicote cultural internacional ao país, decretado por organismos como a ONU — contexto que gerou controvérsia sobre a gravação do álbum em Joanesburgo."
+                                       "resposta":  "a",
+                                       "explicacao":  "As sessões são de 1985, em pleno apartheid e sob boicote cultural das Nações Unidas — o que tornou o disco imediatamente polêmico, acusado de furar o cerco mesmo colaborando com músicos negros. Em (e) está o distrator que decide a questão: o boicote estava em vigor, e é justamente por isso que a viagem gerou controvérsia. Em (b), Mandela assume nove anos depois. Em (c), a Guerra dos Bôeres é de 1899. Em (d), a independência é de 1931, e não dos anos 1980."
                                    },
                                    {
                                        "id":  "obra-boy-in-the-bubble-q4",
-                                       "texto_apoio":  "Compare \u0027The Boy in the Bubble\u0027 a \u0027Young Americans\u0027, de David Bowie, quanto ao processo de fusão musical.",
                                        "enunciado":  "Assim como \u0027Young Americans\u0027 incorpora o soul afro-americano à música de um artista britânico, \u0027The Boy in the Bubble\u0027:",
                                        "alternativas":  {
-                                                            "a":  "Incorpora ritmos sul-africanos à produção pop de um artista norte-americano, por meio de colaboração direta com músicos locais.",
-                                                            "b":  "Utiliza apenas instrumentos eletrônicos, sem qualquer instrumento acústico tradicional africano.",
-                                                            "c":  "Foi composta inteiramente por músicos sul-africanos, sem qualquer participação de Paul Simon.",
-                                                            "d":  "Recusa qualquer influência musical externa, mantendo-se fiel exclusivamente ao rock norte-americano tradicional."
+                                                            "a":  "usa só instrumentos eletrônicos, sem instrumento acústico africano",
+                                                            "b":  "foi composta só por músicos sul-africanos, sem participação de Simon",
+                                                            "c":  "recusa influência externa, fiel ao rock norte-americano tradicional",
+                                                            "d":  "inverte o trajeto, levando o pop americano para o público africano",
+                                                            "e":  "traz ritmos sul-africanos ao pop americano, em colaboração direta"
                                                         },
-                                       "resposta":  "a",
-                                       "explicacao":  "Ambas as faixas envolvem artistas ocidentais incorporando tradições musicais de outra origem étnica/nacional às próprias composições: Bowie com o soul afro-americano, Simon com ritmos sul-africanos como o mbaqanga, em colaboração direta com músicos locais."
+                                       "resposta":  "e",
+                                       "explicacao":  "O paralelo pedido é de estrutura: em ambos os casos, um artista de um centro da indústria absorve uma tradição que não é a sua, com músicos daquela tradição em estúdio. Em (d) está a inversão do sentido do fluxo — o movimento é de fora para dentro do pop, e não de exportação. Em (b), Simon assina a composição. Em (a), o acordeão de Motloheloa é acústico e é a base da faixa. Em (c), a recusa de influência externa contraria toda a premissa do enunciado."
                                    },
                                    {
                                        "id":  "obra-boy-in-the-bubble-q5",
                                        "enunciado":  "A convivência entre imagens de avanço tecnológico e de instabilidade na canção pode ser interpretada como:",
                                        "alternativas":  {
-                                                            "a":  "Uma condenação explícita e unilateral de qualquer forma de progresso tecnológico, postura associada a movimentos neoludistas do século XX.",
-                                                            "b":  "Um elogio incondicional à tecnologia como solução definitiva para os problemas sociais da época.",
-                                                            "c":  "Uma alegoria específica sobre a corrida espacial entre Estados Unidos e União Soviética, disputa que marcou boa parte da Guerra Fria.",
-                                                            "d":  "Uma reflexão ambígua sobre a modernidade, que fascina e ao mesmo tempo gera incerteza sobre o futuro do mundo."
+                                                            "a":  "condenação unilateral de qualquer progresso tecnológico, ao modo neoludista",
+                                                            "b":  "elogio incondicional à tecnologia como solução dos problemas sociais",
+                                                            "c":  "alegoria da corrida espacial entre Estados Unidos e União Soviética",
+                                                            "d":  "reflexão ambígua sobre a modernidade, que fascina e gera incerteza",
+                                                            "e":  "nostalgia de um passado pré-industrial, apresentado como perdido"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "A canção não assume uma posição unívoca sobre o progresso: constrói uma atmosfera ambígua, de fascínio e inquietação simultâneos diante da modernidade e da vida contemporânea, sem se reduzir a elogio ou condenação absoluta."
+                                       "explicacao":  "A letra alterna o assombro diante do que a técnica realiza com a violência que ela também produz, e não resolve a tensão — é o desconforto que fica. Em (e) está o distrator mais atraente, porque a ambivalência costuma vir acompanhada de saudade do que veio antes; aqui, porém, não há passado idealizado, e o fascínio pelo novo é genuíno. Em (a) e (b), a condenação e o elogio desfazem a ambiguidade. Em (c), a corrida espacial não é o tema."
                                    }
                                ],
     "obra-young-americans":  [
@@ -2780,62 +2817,66 @@ window.OBRAS_QUESTOES = {
                                      "id":  "obra-young-americans-q1",
                                      "enunciado":  "O álbum \u0027Young Americans\u0027 foi gravado em qual cidade, marco importante para o gênero musical incorporado por David Bowie na faixa-título?",
                                      "alternativas":  {
-                                                          "a":  "Filadélfia, nos estúdios Sigma Sound, polo da soul music norte-americana dos anos 1970.",
-                                                          "b":  "Berlim, em estúdios associados à música eletrônica europeia da época.",
-                                                          "c":  "Nova Orleans, centro histórico do jazz tradicional norte-americano.",
-                                                          "d":  "Los Angeles, em estúdios voltados à produção do rock progressivo californiano."
+                                                          "a":  "Filadélfia, nos estúdios Sigma Sound, polo da soul dos anos 1970",
+                                                          "b":  "Berlim, em estúdios associados à música eletrônica europeia",
+                                                          "c":  "Nova Orleans, centro histórico do jazz tradicional americano",
+                                                          "d":  "Los Angeles, em estúdios do rock progressivo californiano",
+                                                          "e":  "Detroit, sede da gravadora Motown e berço do soul que Bowie quis absorver"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "\u0027Young Americans\u0027 foi gravado nos estúdios Sigma Sound, na Filadélfia, um dos principais centros da chamada \u0027Philadelphia soul\u0027 dos anos 1970, sonoridade que Bowie incorporou à faixa."
+                                     "explicacao":  "O Philly soul dos estúdios Sigma Sound é o som que Bowie foi buscar, com os arranjos de sopro e cordas que definem o disco. Em (e) está o distrator mais forte de todos, porque Detroit e a Motown são de fato uma capital da soul — só que de outra escola e de uma década anterior, e não foi lá que o álbum foi gravado. Em (b), Berlim vem depois, na trilogia seguinte de Bowie. Em (c) e (d), jazz tradicional e rock progressivo não são o gênero em causa."
                                  },
                                  {
                                      "id":  "obra-young-americans-q2",
                                      "enunciado":  "A incorporação do soul e do R\u0026B afro-americanos por David Bowie em \u0027Young Americans\u0027 ilustra, no eixo da globalização, principalmente:",
                                      "alternativas":  {
-                                                          "a":  "O isolamento das tradições musicais nacionais em relação a influências estrangeiras, fenômeno típico de regimes culturalmente fechados.",
-                                                          "b":  "A substituição definitiva do rock britânico por gêneros exclusivamente norte-americanos, tendência apontada por críticos dos anos 1980.",
-                                                          "c":  "A padronização de todos os gêneros musicais num único estilo internacional único, processo associado à indústria do streaming atual.",
-                                                          "d":  "A circulação e fusão de tradições musicais através de fronteiras nacionais e raciais na indústria fonográfica."
+                                                          "a":  "o isolamento das tradições nacionais frente a influências estrangeiras",
+                                                          "b":  "a substituição do rock britânico por gêneros só norte-americanos",
+                                                          "c":  "a padronização de todos os gêneros num único estilo internacional",
+                                                          "d":  "a exportação da cultura britânica para o mercado dos Estados Unidos",
+                                                          "e":  "a fusão de tradições através de fronteiras nacionais e raciais"
                                                       },
-                                     "resposta":  "d",
-                                     "explicacao":  "Ao incorporar soul e R\u0026B afro-americanos à própria música, Bowie exemplifica a circulação de tradições musicais entre fronteiras nacionais e raciais, processo típico da indústria musical globalizada — sem que isso implique isolamento, substituição total de gêneros ou padronização musical."
+                                     "resposta":  "e",
+                                     "explicacao":  "Um inglês branco gravando soul com músicos negros americanos atravessa duas fronteiras ao mesmo tempo, a nacional e a racial, e é esse duplo cruzamento que faz do disco um caso exemplar. Em (d) está a inversão do sentido do fluxo: o movimento é de absorção do que é americano, e não de exportação do que é britânico. Em (b), o rock britânico não é substituído, e Bowie volta a ele depois. Em (a) e (c), isolamento e padronização descrevem o contrário de uma fusão."
                                  },
                                  {
                                      "id":  "obra-young-americans-q3",
                                      "enunciado":  "O termo utilizado pelo próprio David Bowie para descrever o estilo musical de \u0027Young Americans\u0027 foi:",
                                      "alternativas":  {
-                                                          "a":  "\u0027Plastic soul\u0027, expressão que sintetiza sua incorporação pessoal da tradição soul norte-americana.",
-                                                          "b":  "\u0027Glam funk\u0027, termo cunhado pela crítica musical britânica da época, associado à estética visual extravagante de Bowie.",
-                                                          "c":  "\u0027Space soul\u0027, em referência à fase Ziggy Stardust do artista, período anterior marcado pela estética futurista e alienígena.",
-                                                          "d":  "\u0027Blue-eyed disco\u0027, expressão usada posteriormente por outros artistas dos anos 1980."
+                                                          "a":  "\u0027Glam funk\u0027, cunhado pela crítica britânica da época",
+                                                          "b":  "\u0027Plastic soul\u0027, que sintetiza sua apropriação da tradição soul",
+                                                          "c":  "\u0027Space soul\u0027, em referência à fase Ziggy Stardust anterior",
+                                                          "d":  "\u0027Blue-eyed disco\u0027, usado depois por outros artistas dos anos 1980",
+                                                          "e":  "\u0027Blue-eyed soul\u0027, termo já corrente para soul feito por brancos"
                                                       },
-                                     "resposta":  "a",
-                                     "explicacao":  "Bowie descreveu o estilo do álbum como \u0027plastic soul\u0027, reconhecendo abertamente sua condição de artista britânico incorporando, de forma pessoal e um tanto artificial, a tradição soul norte-americana."
+                                     "resposta":  "b",
+                                     "explicacao":  "Plastic soul é autoirônico: Bowie assume que faz uma imitação, soul de plástico produzido por um inglês branco que não pertence àquela tradição. Em (e) está o distrator mais difícil, porque blue-eyed soul é termo real e corrente para exatamente esse fenômeno — só que é rótulo da crítica, e a pergunta é pela expressão que o próprio artista usou. Em (a), (c) e (d), nenhum dos três é atribuído a Bowie para descrever este disco."
                                  },
                                  {
                                      "id":  "obra-young-americans-q4",
-                                     "texto_apoio":  "Compare \u0027Young Americans\u0027 a \u0027The Boy in the Bubble\u0027, de Paul Simon, quanto ao eixo da globalização musical.",
                                      "enunciado":  "Enquanto \u0027The Boy in the Bubble\u0027 resultou de gravações diretas com músicos sul-africanos em Joanesburgo, \u0027Young Americans\u0027:",
                                      "alternativas":  {
-                                                          "a":  "Foi gravada também na África do Sul, com os mesmos músicos que participaram de \u0027Graceland\u0027, registro posterior de Paul Simon.",
-                                                          "b":  "Recusou qualquer músico de sessão norte-americano, sendo tocada apenas por músicos britânicos trazidos de Londres.",
-                                                          "c":  "Foi composta exclusivamente com instrumentos eletrônicos, sem participação de músicos de sessão, recurso raro na soul.",
-                                                          "d":  "Foi gravada nos Estados Unidos, absorvendo a tradição soul local sem tratar diretamente de temas políticos do país de origem do gênero."
+                                                          "a":  "foi gravada na África do Sul, com os músicos de Graceland",
+                                                          "b":  "recusou músicos de sessão americanos, usando só britânicos",
+                                                          "c":  "foi composta só com instrumentos eletrônicos, sem músicos de sessão",
+                                                          "d":  "foi gravada nos EUA, absorvendo a soul local sem tratar de política",
+                                                          "e":  "reuniu músicos americanos e africanos no mesmo estúdio de Filadélfia"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "Bowie gravou \u0027Young Americans\u0027 na Filadélfia com músicos de sessão norte-americanos, absorvendo a tradição soul local, mas sem o mesmo pano de fundo político explícito (como o boicote ao apartheid) presente no contexto de gravação de \u0027The Boy in the Bubble\u0027."
+                                     "explicacao":  "Bowie foi até a fonte do gênero, gravou com instrumentistas americanos e trouxe o som sem trazer o contexto político que o produziu — diferença relevante em relação a Graceland, cuja gravação era, ela própria, um gesto político. Em (e) está o distrator mais bem construído, porque o estúdio está correto e a colaboração americana também; o que não houve foi participação de músicos africanos. Em (a), a África do Sul não entra no disco. Em (b) e (c), houve músicos americanos e instrumentação acústica."
                                  },
                                  {
                                      "id":  "obra-young-americans-q5",
                                      "enunciado":  "O olhar lançado sobre a juventude norte-americana na canção pode ser descrito como:",
                                      "alternativas":  {
-                                                          "a":  "Uma descrição estritamente jornalística, sem qualquer elaboração artística ou subjetiva, tal como nas reportagens da imprensa musical especializada da época.",
-                                                          "b":  "Um misto de fascínio e distanciamento crítico, próprio de um artista estrangeiro observando e absorvendo uma cultura que não é a sua de origem.",
-                                                          "c":  "Uma condenação explícita e unilateral do modo de vida norte-americano da época, postura comum entre críticos do establishment cultural.",
-                                                          "d":  "Uma celebração acrítica e sem ressalvas do sonho americano dos anos 1970, tom associado a certo pop otimista comercial da década."
+                                                          "a":  "descrição jornalística, sem elaboração artística ou subjetiva",
+                                                          "b":  "condenação unilateral do modo de vida norte-americano da época",
+                                                          "c":  "celebração acrítica do sonho americano dos anos 1970",
+                                                          "d":  "identificação plena com a juventude ali retratada, sem nenhuma distância crítica",
+                                                          "e":  "misto de fascínio e distância crítica, de um estrangeiro que observa"
                                                       },
-                                     "resposta":  "b",
-                                     "explicacao":  "A canção combina fascínio e certo distanciamento crítico, típico de um artista britânico absorvendo e comentando, a partir de fora, aspectos da cultura e da juventude norte-americanas de meados dos anos 1970."
+                                     "resposta":  "e",
+                                     "explicacao":  "Bowie canta uma América que o atrai e da qual não faz parte, e a canção guarda as duas coisas: a adesão ao som e a desconfiança em relação ao que descreve. Em (d) está o distrator mais fino, porque o entusiasmo é real e a adesão musical é completa — mas identificação plena apagaria a distância que faz da letra um retrato, e não um hino. Em (b) e (c), condenação e celebração eliminam metade do gesto. Em (a), a canção é elaborada e subjetiva."
                                  }
                              ],
     "obra-racismo-sexismo-desigualdade":  [

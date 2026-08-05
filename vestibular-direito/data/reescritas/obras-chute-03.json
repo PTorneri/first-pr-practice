@@ -1,0 +1,199 @@
+{
+  "questoes": [
+    {
+      "id": "obra-banksy-q1",
+      "enunciado": "Qual das características abaixo é fundamental para compreender a produção artística de Banksy?",
+      "alternativas": {
+        "a": "a colaboração com o governo britânico em campanhas publicitárias oficiais",
+        "b": "o uso de tintas a óleo em telas de grande formato vendidas em galerias",
+        "c": "a produção de obras encomendadas por museus e instituições oficiais",
+        "d": "a assinatura de cada peça com o nome civil do artista, para autenticá-la",
+        "e": "o anonimato do artista, que nunca revelou publicamente sua identidade"
+      },
+      "resposta": "e",
+      "explicacao": "O anonimato não é excentricidade biográfica: é condição de trabalho de quem pinta sem autorização, e virou parte do sentido da obra, que circula sem a assinatura que o mercado de arte exige. Em (d) está a inversão exata desse traço. Em (c) e (a), encomenda oficial e parceria com o governo contradizem a intervenção não autorizada. Em (b), a técnica de rua é o estêncil com spray, e a passagem eventual pela galeria é posterior e tensa, não o modo de produção."
+    },
+    {
+      "id": "obra-banksy-q2",
+      "enunciado": "A obra de Banksy é associada ao eixo da globalização principalmente porque:",
+      "alternativas": {
+        "a": "expõe suas obras simultaneamente em museus oficiais de todos os continentes",
+        "b": "recebe financiamento de organizações internacionais para produzir grafites",
+        "c": "suas obras são reproduzidas por editoras de arte em diferentes países",
+        "d": "suas imagens circulam pelo mundo sobretudo por meio das redes sociais",
+        "e": "ele pinta em vários países, o que basta para dar alcance mundial à obra"
+      },
+      "resposta": "d",
+      "explicacao": "Um muro alcança quem passa na rua; a fotografia daquele muro alcança o planeta em horas — e é a circulação digital, não a localização física, que faz de um grafite local um acontecimento global. Em (e) está o distrator mais próximo, porque Banksy de fato pinta em vários países; a intervenção física, sozinha, teria público restrito, e é a imagem que viaja. Em (a) e (c), museus e editoras são o circuito oficial de que ele se mantém à margem. Em (b), não há financiamento institucional."
+    },
+    {
+      "id": "obra-banksy-q3",
+      "enunciado": "Qual técnica é característica da execução das obras de rua de Banksy?",
+      "alternativas": {
+        "a": "estêncil, que aplica a imagem rapidamente com spray sobre molde vazado",
+        "b": "afresco, pintura sobre reboco úmido, usada desde o Renascimento italiano",
+        "c": "mosaico, com peças de cerâmica ou vidro coladas sobre o muro",
+        "d": "têmpera sobre madeira, típica da pintura religiosa medieval",
+        "e": "grafite a mão livre com spray, sem uso de molde ou máscara prévia"
+      },
+      "resposta": "a",
+      "explicacao": "O molde vazado resolve o problema central de quem pinta sem permissão: a imagem complexa sai em segundos, e o artista não fica exposto. Forma e clandestinidade se explicam uma pela outra. Em (e) está o distrator que exige a distinção fina — também é spray, também é rua, mas o traço à mão livre é a técnica do grafite tradicional, e Banksy se define justamente por não usá-la. Em (b), (c) e (d), afresco, mosaico e têmpera são técnicas lentas, incompatíveis com a intervenção rápida."
+    },
+    {
+      "id": "obra-banksy-q4",
+      "enunciado": "Em comparação com movimentos de arte urbana anteriores, como o grafite de Nova York dos anos 1970 e 1980, a obra de Banksy se destaca principalmente por:",
+      "alternativas": {
+        "a": "abandonar o espaço público em favor de exposições em galerias",
+        "b": "usar apenas letras estilizadas, as tags, sem elemento figurativo",
+        "c": "ser produzida sob encomenda de prefeituras para embelezamento urbano",
+        "d": "trabalhar em escala mural, ao contrário das peças pequenas dos anos 1970",
+        "e": "aliar intervenção não autorizada a crítica social e difusão digital"
+      },
+      "resposta": "e",
+      "explicacao": "O grafite nova-iorquino afirmava presença e nome; Banksy mantém a ilegalidade e acrescenta duas coisas — o conteúdo é argumento político legível, e a imagem foi feita para ser fotografada e compartilhada. Em (b) está a caracterização do grafite anterior, cujo repertório era a letra estilizada, e não o desenho figurativo. Em (d), a escala não distingue os dois: os trens e murais dos anos 1970 eram grandes. Em (a) e (c), Banksy permanece na rua e sem encomenda."
+    },
+    {
+      "id": "obra-banksy-q5",
+      "enunciado": "A imagem de soldados armados aplicando um símbolo de paz em um muro, recorrente na obra de Banksy, produz sentido crítico principalmente pela:",
+      "alternativas": {
+        "a": "comemoração de um tratado de paz assinado por potências no século XX",
+        "b": "denúncia de um conflito específico e datado, sem alcance simbólico",
+        "c": "homenagem às forças armadas que mantêm a paz em conflitos externos",
+        "d": "crítica ao vandalismo, já que os soldados também pintam o muro sem permissão",
+        "e": "justaposição irônica entre o aparato bélico e o ícone pacifista"
+      },
+      "resposta": "e",
+      "explicacao": "A imagem funciona pelo curto-circuito: quem porta a arma é quem pinta o símbolo da paz, e o gesto vira propaganda em vez de gesto. Nada precisa ser dito — a contradição está na própria cena. Em (d) está a leitura mais engenhosa e mais equivocada, porque inverte o alvo: o incômodo não é o soldado pichar, é o exército se apresentar como pacificador. Em (b), a imagem não se prende a um conflito datado. Em (a) e (c), comemoração e homenagem desfazem a ironia que sustenta a obra."
+    },
+    {
+      "id": "obra-auto-compadecida-q1",
+      "enunciado": "O longa-metragem 'O Auto da Compadecida' (2000), dirigido por Guel Arraes, tem qual origem imediata?",
+      "alternativas": {
+        "a": "foi adaptado de um filme espanhol homônimo dos anos 1950",
+        "b": "foi uma minissérie da Globo em 1999, depois remontada para o cinema",
+        "c": "nasceu de roteiro inédito escrito só para o cinema, sem relação com TV",
+        "d": "foi rodado como curta-metragem estudantil na década de 1970",
+        "e": "adaptou diretamente a peça de Suassuna, sem passar por versão televisiva"
+      },
+      "resposta": "b",
+      "explicacao": "A palavra que decide é imediata: o filme é a remontagem de quatro capítulos exibidos na televisão em 1999, condensados para a sala de cinema no ano seguinte. Em (e) está o distrator mais forte, porque a peça de Ariano Suassuna é mesmo a origem última da história — só que entre ela e o longa existe a minissérie, e é dela que o filme vem diretamente. Em (c), o roteiro não é inédito nem exclusivo do cinema. Em (a) e (d), não há filme espanhol homônimo nem curta estudantil na origem."
+    },
+    {
+      "id": "obra-auto-compadecida-q2",
+      "enunciado": "A resolução da trama no Juízo Final, em que a Compadecida intercede por João Grilo, reforça qual leitura sobre religiosidade no filme?",
+      "alternativas": {
+        "a": "só membros do clero têm autoridade para perdoar pecados alheios",
+        "b": "crítica à existência de qualquer julgamento divino após a morte",
+        "c": "pecados cometidos em vida não geram consequência espiritual",
+        "d": "a intercessão vale por ser Maria a mãe de Cristo, e não pela compaixão que demonstra",
+        "e": "valorização de uma espiritualidade popular mais compassiva que a lei"
+      },
+      "resposta": "e",
+      "explicacao": "O julgamento existe e é levado a sério, mas quem decide o desfecho é a compaixão de quem olha o réu de perto — teologia do cordel, em que a santa entende o pobre melhor que o tribunal. Em (d) está o distrator mais sutil: a autoridade mariana é real na cena, e ainda assim o filme faz questão de que ela intervenha por misericórdia, não por prerrogativa. Em (a), o padre da trama é o menos indulgente de todos. Em (b) e (c), o juízo ocorre e os atos pesam — a questão é como são pesados."
+    },
+    {
+      "id": "obra-auto-compadecida-q3",
+      "enunciado": "Quais atores interpretam, respectivamente, João Grilo e Chicó no filme?",
+      "alternativas": {
+        "a": "Selton Mello como João Grilo e Rodrigo Santoro como Chicó",
+        "b": "Lázaro Ramos como João Grilo e Wagner Moura como Chicó",
+        "c": "Matheus Nachtergaele como João Grilo e Selton Mello como Chicó",
+        "d": "Marco Nanini como João Grilo e Matheus Nachtergaele como Chicó",
+        "e": "Selton Mello como João Grilo e Matheus Nachtergaele como Chicó"
+      },
+      "resposta": "c",
+      "explicacao": "Nachtergaele é o João Grilo esperto e miúdo, e Selton Mello é o Chicó mentiroso e medroso — a dupla que sustenta o filme. Em (e) está a troca exata dos dois papéis, que é o erro mais comum de quem lembra dos atores e não de quem fez o quê. Em (d), Marco Nanini está no elenco, mas como o coronel Antônio Morais. Em (a) e (b), Rodrigo Santoro, Lázaro Ramos e Wagner Moura não integram o elenco deste filme."
+    },
+    {
+      "id": "obra-auto-compadecida-q4",
+      "enunciado": "Diferentemente dele, 'O Auto da Compadecida' se caracteriza por que traço central de sua estrutura?",
+      "alternativas": {
+        "a": "é ficção baseada em fatos policiais reais da Paraíba dos anos 1960",
+        "b": "é animação desvinculada de qualquer fonte literária anterior",
+        "c": "é documentário voltado à vida do dramaturgo Ariano Suassuna",
+        "d": "é drama realista sobre a seca, sem elemento cômico ou fantástico",
+        "e": "é ficção cômica e fantástica, vinda de peça inspirada no cordel"
+      },
+      "resposta": "e",
+      "explicacao": "O filme mistura comédia de trapaça, milagre e julgamento sobrenatural, tudo herdado da matriz do cordel nordestino que Suassuna levou ao teatro. Em (d) está o distrator mais plausível, porque o sertão e a seca estão lá e essa é a chave de boa parte do cinema nordestino — só que aqui o registro é cômico e fantástico, não realista. Em (a) e (c), não há base em fato policial nem intenção documental. Em (b), o filme é live-action e tem fonte literária explícita."
+    },
+    {
+      "id": "obra-auto-compadecida-q5",
+      "enunciado": "No julgamento final, a Compadecida menciona um gesto de bondade de João Grilo para com um animal a fim de amenizar sua condenação. O que essa passagem sugere sobre a moral do filme?",
+      "alternativas": {
+        "a": "que a bondade só é reconhecida quando praticada diante de testemunhas",
+        "b": "que João Grilo jamais cometeu falta grave, apesar das trapaças relatadas",
+        "c": "que os animais têm, na trama, poder de julgar diretamente os humanos",
+        "d": "que a intenção de quem age importa menos que o resultado do gesto",
+        "e": "que pequenos gestos de bondade pesam mais que uma vida de espertezas"
+      },
+      "resposta": "e",
+      "explicacao": "A balança do filme não é aritmética: um gesto miúdo, feito sem plateia e sem cálculo, vale mais que a soma das trapaças, porque revela o que a pessoa é quando ninguém está olhando. Em (b) está o excesso que a cena não autoriza — as faltas existem e são graves, e o ponto é que não bastam para condenar. Em (a), a bondade contou justamente por ter sido sem testemunha. Em (d), é a intenção que pesa, e não o resultado. Em (c), quem julga é o tribunal celeste."
+    },
+    {
+      "id": "obra-guernica-q1",
+      "enunciado": "Guernica foi pintada por Picasso em reação direta a qual evento histórico?",
+      "alternativas": {
+        "a": "o bombardeio da cidade basca de Guernica pela aviação alemã e italiana",
+        "b": "a invasão da Espanha pelas tropas napoleônicas no início do século XIX, retratada por Goya",
+        "c": "a eclosão da Primeira Guerra Mundial na Europa, em 1914",
+        "d": "o bombardeio de Hiroshima pelos Estados Unidos, em 1945",
+        "e": "o cerco de Madri pelas tropas franquistas durante a Guerra Civil"
+      },
+      "resposta": "a",
+      "explicacao": "Em 26 de abril de 1937, aviões da Legião Condor alemã e da Aviação Legionária italiana destruíram a cidade basca a serviço de Franco, e Picasso pintou a tela nas semanas seguintes, para o pavilhão espanhol da Exposição de Paris. Em (e) está o distrator mais próximo, porque o cerco de Madri é da mesma guerra e igualmente brutal — não é, porém, o episódio que dá nome e origem ao quadro. Em (b), a invasão napoleônica é o assunto de Goya. Em (c) e (d), 1914 e 1945 estão fora do período."
+    },
+    {
+      "id": "obra-guernica-q2",
+      "enunciado": "Guernica é frequentemente citada em provas que exploram o eixo modernidade e pós-modernidade porque a obra:",
+      "alternativas": {
+        "a": "celebra os avanços da aviação militar como símbolo do progresso técnico",
+        "b": "defende o retorno a técnicas pré-modernas como resistência política",
+        "c": "ignora o contexto político para focar em experimentação formal abstrata",
+        "d": "apresenta a técnica como neutra, cujo uso depende de quem a maneja",
+        "e": "questiona a confiança no progresso ao mostrá-lo destruindo civis"
+      },
+      "resposta": "e",
+      "explicacao": "Guernica foi um dos primeiros bombardeios aéreos deliberados contra população civil, e a tela mostra o avião — invenção que o século saudava como triunfo — usado para matar quem não combate. É a promessa moderna virada contra si mesma. Em (d) está o distrator mais interessante, porque a tese da neutralidade técnica é posição filosófica respeitável; o quadro, porém, vai além dela e implica o próprio projeto de progresso. Em (a), não há celebração. Em (c), o contexto político é a razão de existir da obra. Em (b), a linguagem é vanguardista."
+    },
+    {
+      "id": "obra-guernica-q3",
+      "enunciado": "Do ponto de vista cromático, o que caracteriza Guernica?",
+      "alternativas": {
+        "a": "cores vivas e contrastantes, ligadas à tradição decorativa espanhola",
+        "b": "gradação de azuis, como na fase azul anterior de Picasso",
+        "c": "paleta quase monocromática de preto, branco e cinza, como jornal",
+        "d": "tons dourados, associados à tradição da pintura religiosa espanhola",
+        "e": "contraste de vermelho e preto, evocando as cores da bandeira republicana"
+      },
+      "resposta": "c",
+      "explicacao": "A ausência de cor aproxima a tela da fotografia de jornal e do noticiário — o registro pelo qual o mundo soube do bombardeio —, e retira da cena qualquer beleza que distraísse do horror. Em (e) está o distrator mais bem construído, porque o engajamento republicano de Picasso é fato e as cores propostas soam plausíveis para uma obra de guerra; a tela, porém, recusa exatamente esse recurso. Em (b), a fase azul é de trinta anos antes. Em (a) e (d), vivacidade decorativa e dourado religioso contrariam o que se vê."
+    },
+    {
+      "id": "obra-guernica-q4",
+      "enunciado": "Guernica é comumente comparada a qual outra obra como marco da pintura de denúncia contra a violência da guerra?",
+      "alternativas": {
+        "a": "A Liberdade Guiando o Povo, de Delacroix, sobre a Revolução de 1830",
+        "b": "A Balsa da Medusa, de Géricault, sobre um naufrágio francês",
+        "c": "O Grito, de Munch, expressionista sobre a angústia individual",
+        "d": "O Fuzilamento de 3 de Maio de 1808, de Francisco de Goya",
+        "e": "Os Desastres da Guerra, série de gravuras também de Goya sobre a mesma guerra"
+      },
+      "resposta": "d",
+      "explicacao": "A comparação é canônica e espanhola: Goya pinta civis fuzilados por tropas napoleônicas, Picasso pinta civis bombardeados por aviões, e as duas telas fundam a denúncia da violência contra quem não combate. Em (e) está o distrator mais informado de todos, porque Os Desastres da Guerra são do mesmo Goya e sobre a mesma invasão — a comparação corrente, porém, é com a grande tela do Fuzilamento, e não com a série de gravuras. Em (a) e (b), Delacroix e Géricault tratam de revolução e naufrágio. Em (c), Munch trata de angústia individual."
+    },
+    {
+      "id": "obra-guernica-q5",
+      "enunciado": "A escolha de Picasso por figuras simbólicas — touro, cavalo ferido, mulher com criança morta — em vez de uma cena realista do bombardeio sugere que seu objetivo era:",
+      "alternativas": {
+        "a": "homenagear a tradição da tourada como símbolo da identidade nacional",
+        "b": "universalizar o sofrimento da guerra, para além do episódio específico",
+        "c": "evitar crítica política direta ao regime instaurado por Franco",
+        "d": "facilitar a censura da obra pelas autoridades franquistas da época",
+        "e": "manter a ambiguidade para que cada espectador atribua o sentido que quiser"
+      },
+      "resposta": "b",
+      "explicacao": "O símbolo atravessa fronteiras que a reportagem não atravessa: a mãe com o filho morto não é de Guernica, é de qualquer lugar bombardeado, e por isso a tela seguiu significando em guerras que Picasso não viveu. Em (e) está a confusão mais fina — universalizar não é abrir mão do sentido, e a obra é inequívoca em sua acusação, ainda que não datada. Em (c) e (d), a tela é denúncia explícita e foi exposta contra o regime. Em (a), o touro é figura de violência, não homenagem à tourada."
+    }
+  ]
+}

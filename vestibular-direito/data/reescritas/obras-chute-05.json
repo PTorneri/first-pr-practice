@@ -1,0 +1,199 @@
+{
+  "questoes": [
+    {
+      "id": "obra-vidas-secas-q1",
+      "enunciado": "Vidas Secas, publicado em 1938 por Graciliano Ramos, é frequentemente associado à chamada geração de 30 do romance regionalista/social brasileiro. Sobre o autor e o contexto da obra, é correto afirmar que:",
+      "alternativas": {
+        "a": "era alagoano, esteve preso em 1936, e a obra denuncia o sertão",
+        "b": "foi escrito em francês e traduzido ao português só nos anos 1960",
+        "c": "era carioca e escreveu a partir de viagens turísticas ao Nordeste",
+        "d": "foi sua única obra em prosa, tendo se dedicado depois à poesia",
+        "e": "integra a geração de 22, ao lado de Mário e Oswald de Andrade"
+      },
+      "resposta": "a",
+      "explicacao": "Graciliano nasceu em Quebrangulo, viveu o sertão que descreve e passou pela prisão política de 1936, experiência que atravessa sua obra — o romance de 1938 pertence à safra regionalista de denúncia. Em (e) está a confusão de geração que a questão testa: o próprio enunciado situa o autor na geração de 30, que é a do romance social, e não na de 22, que é a da ruptura formal modernista. Em (c), o vínculo com o Nordeste é de origem, não de turismo. Em (b) e (d), o livro é escrito em português e ele publicou vários romances."
+    },
+    {
+      "id": "obra-vidas-secas-q2",
+      "enunciado": "A linguagem econômica e o vocabulário reduzido das personagens de Vidas Secas reforçam, no plano da forma, qual aspecto discutido pela banca no eixo modernidade/pós-modernidade?",
+      "alternativas": {
+        "a": "a linguagem rebuscada é superior à simples na ficção literária",
+        "b": "celebra a vida no sertão como modelo de simplicidade para a cidade",
+        "c": "a modernização avançou de modo uniforme por todas as regiões",
+        "d": "a pobreza de vocabulário retrata falha de caráter das personagens",
+        "e": "denuncia um Brasil arcaico à margem do projeto de modernização"
+      },
+      "resposta": "e",
+      "explicacao": "A escassez de palavras é a escassez de tudo o mais: quem não teve escola nem conversa não dispõe do vocabulário que a narrativa então empresta, e a forma do livro reproduz a privação que ele denuncia. Em (d) está a leitura mais cruel e mais tentadora — atribuir a pobreza de língua a defeito das personagens inverte a direção da crítica, que aponta para a estrutura, não para elas. Em (b), não há romantização da pobreza. Em (c), a desigualdade regional é o assunto. Em (a), o livro desmente a hierarquia entre registros."
+    },
+    {
+      "id": "obra-vidas-secas-q3",
+      "enunciado": "Sobre os membros da família retratada em Vidas Secas, é correto afirmar que:",
+      "alternativas": {
+        "a": "Baleia é alegoria da seca, sem existência concreta na trama",
+        "b": "Fabiano abandona a família no início para trabalhar longe",
+        "c": "Fabiano, Sinha Vitória, dois filhos sem nome e a cachorra Baleia",
+        "d": "Fabiano e Sinha Vitória têm três filhos, todos nomeados no texto",
+        "e": "o casal não tem filhos, e Baleia ocupa o lugar deles na narrativa"
+      },
+      "resposta": "c",
+      "explicacao": "São cinco: o casal, o menino mais velho, o menino mais novo — designados apenas assim, sem nome próprio — e a cachorra, que é a única com nome. A inversão é deliberada e diz muito. Em (a) está o distrator mais fino, porque Baleia carrega mesmo peso simbólico; ela é, ainda assim, personagem concreta, com capítulo próprio e morte narrada. Em (d), os filhos são dois e não têm nome. Em (e), o casal tem filhos. Em (b), Fabiano permanece com a família durante toda a narrativa."
+    },
+    {
+      "id": "obra-vidas-secas-q4",
+      "enunciado": "Em comparação com Memórias Póstumas de Brás Cubas, Vidas Secas se aproxima de uma tradição literária diferente porque:",
+      "alternativas": {
+        "a": "ambas adotam o narrador defunto que relata após a própria morte",
+        "b": "as duas narram o mesmo período, o da Guerra de Canudos",
+        "c": "Vidas Secas é anterior e influenciou a técnica de Brás Cubas",
+        "d": "Vidas Secas é regionalista de denúncia, Brás Cubas é ironia culta",
+        "e": "as duas usam foco narrativo em terceira pessoa com discurso indireto livre"
+      },
+      "resposta": "d",
+      "explicacao": "Uma tradição olha para fora, para a condição material de quem não tem voz; a outra olha para dentro, com um narrador que domina a palavra e a usa para se exibir e se desmentir. Em (e) está o distrator mais técnico e o mais perigoso: Vidas Secas usa mesmo terceira pessoa com discurso indireto livre, mas Brás Cubas é narrado em primeira pessoa, de modo que a afirmação vale só para metade do par. Em (a), o defunto autor é exclusivo de Machado. Em (c), a cronologia é inversa. Em (b), Canudos não aparece em nenhum dos dois."
+    },
+    {
+      "id": "obra-vidas-secas-q5",
+      "enunciado": "Esse episódio pode ser interpretado como:",
+      "alternativas": {
+        "a": "defesa implícita da atuação das autoridades locais no sertão",
+        "b": "alívio cômico que contrasta com o tom sério da obra",
+        "c": "episódio isolado, sem relação com as demais críticas do romance",
+        "d": "prova de que Fabiano provocou o conflito por não saber se conter",
+        "e": "crítica à arbitrariedade do poder sobre os mais pobres"
+      },
+      "resposta": "e",
+      "explicacao": "O soldado amarelo prende Fabiano por nada e o humilha porque pode; depois, desarmado no mato, é poupado. Os dois momentos juntos mostram que o poder ali não decorre da razão nem da força, e sim da posição que cada um ocupa. Em (d) está a leitura que culpa a vítima, e ela ignora que a prisão é anterior a qualquer reação de Fabiano. Em (c), o episódio condensa a crítica que atravessa o livro. Em (a) e (b), não há defesa das autoridades nem intenção cômica."
+    },
+    {
+      "id": "obra-com-que-roupa-q1",
+      "enunciado": "\"Com que Roupa\", de Noel Rosa, foi composta em 1930, ano que também marcou um acontecimento decisivo na história política brasileira. Sobre o contexto de produção da canção, é correto afirmar que:",
+      "alternativas": {
+        "a": "foi composta décadas após a morte de Noel, como homenagem póstuma",
+        "b": "só ganhou registro fonográfico nos anos 1960, com o samba em baixa",
+        "c": "nasceu de encomenda do governo Vargas para promover etiqueta social",
+        "d": "surge no ano da Revolução de 1930, com o samba se firmando no rádio",
+        "e": "foi censurada na época e só pôde ser gravada após o fim do Estado Novo"
+      },
+      "resposta": "d",
+      "explicacao": "A canção é contemporânea da Revolução de 1930 e do momento em que o rádio transforma o samba carioca em gênero de alcance nacional — dois processos que explicam por que uma crítica social embalada em humor circulou tanto. Em (e) está o distrator mais plausível, porque a censura do Estado Novo é fato conhecido do período; ela é, porém, posterior a 1937, e a canção já era sucesso antes disso. Em (a), Noel a compôs em vida e morreu em 1937. Em (b), o registro é imediato. Em (c), não houve encomenda oficial."
+    },
+    {
+      "id": "obra-com-que-roupa-q2",
+      "enunciado": "A ironia empregada por Noel Rosa em \"Com que Roupa\" ao tratar da falta de vestimenta adequada para frequentar ambientes da elite carioca funciona, no contexto da canção, principalmente como:",
+      "alternativas": {
+        "a": "manifesto político explícito contra o governo Vargas",
+        "b": "crítica à moda europeia, sem relação com diferença econômica",
+        "c": "elogio velado aos costumes da elite, que o narrador quer integrar",
+        "d": "lamento pessoal do compositor sobre a própria situação financeira",
+        "e": "humor que suaviza e expõe a desigualdade por trás das convenções"
+      },
+      "resposta": "e",
+      "explicacao": "A pergunta do título é engraçada e devastadora ao mesmo tempo: quem não tem roupa não entra, e a etiqueta social funciona como filtro de classe disfarçado de bom gosto. O humor é o que permite dizer isso sem discursar. Em (d) está a redução biográfica mais tentadora — a dificuldade material existe na vida de Noel, mas a canção fala de uma condição coletiva, não de um caso pessoal. Em (a), não há manifesto explícito. Em (c), a ironia questiona a regra em vez de elogiá-la. Em (b), a diferença econômica é o centro."
+    },
+    {
+      "id": "obra-com-que-roupa-q3",
+      "enunciado": "Noel Rosa, autor de \"Com que Roupa\", é frequentemente descrito pela crítica como uma figura de trânsito entre dois universos do samba carioca do início do século XX. Esse trânsito refere-se:",
+      "alternativas": {
+        "a": "à alternância entre samba e peças eruditas para orquestra sinfônica",
+        "b": "à transição entre o samba e o rock nacional, que teria ajudado a fundar",
+        "c": "à aproximação entre o samba do morro e o samba do asfalto",
+        "d": "à divisão entre canções feitas no Brasil e outras compostas no exílio",
+        "e": "à passagem do samba de partido-alto para o samba-enredo de escola"
+      },
+      "resposta": "c",
+      "explicacao": "Noel era de Vila Isabel, de família de classe média, e circulava entre a boemia do asfalto e os sambistas do morro, parceria que rendeu obras com Cartola e Ismael Silva — é essa ponte que a crítica destaca. Em (e) está o distrator mais informado, porque partido-alto e samba-enredo são de fato subgêneros distintos; a divisão que define Noel, porém, é social e geográfica, não de subgênero. Em (b), o rock é de décadas depois. Em (a) e (d), não há produção erudita nem exílio em sua trajetória."
+    },
+    {
+      "id": "obra-com-que-roupa-q4",
+      "enunciado": "Tanto \"Com que Roupa\", de Noel Rosa, quanto \"Que País é Esse?\", da Legião Urbana, tratam de desigualdade e crítica social, mas se diferenciam principalmente:",
+      "alternativas": {
+        "a": "no tema, pois uma trata apenas de moda e a outra não aborda o social",
+        "b": "no gênero, sendo uma balada romântica e a outra samba-canção",
+        "c": "na autoria, já que ambas foram compostas pelo mesmo autor",
+        "d": "na época, pois as duas são separadas por menos de uma década",
+        "e": "no tom: humor e ironia leve de um lado, denúncia direta do outro"
+      },
+      "resposta": "e",
+      "explicacao": "As duas dizem coisa parecida por vias opostas: Noel faz rir para que a desigualdade apareça, e a Legião nomeia o problema sem mediação alguma. O objeto é comum, o procedimento é que difere. Em (d) está o erro de cronologia que a questão cobra: 1930 e 1987 separam as canções por quase sessenta anos. Em (a), ambas tratam do social. Em (b), os gêneros estão trocados. Em (c), os autores são distintos."
+    },
+    {
+      "id": "obra-com-que-roupa-q5",
+      "enunciado": "O fato de a expressão \"com que roupa\" ter se tornado um ditado popular do português coloquial, usado para indicar constrangimento diante de situação inesperada, indica que:",
+      "alternativas": {
+        "a": "a expressão perdeu o sentido original e só se usa sobre vestuário",
+        "b": "a canção transformou uma observação de época em imagem duradoura",
+        "c": "o sucesso do ditado se deve só à melodia, sem relação com a letra",
+        "d": "a expressão já existia antes e Noel apenas repetiu um provérbio",
+        "e": "o ditado nasceu no rádio, e não na canção, que só o popularizou"
+      },
+      "resposta": "b",
+      "explicacao": "Uma frase escrita sobre um problema específico de 1930 sobreviveu ao problema e virou modo de dizer — é o que acontece quando a imagem alcança algo mais geral que o caso que a originou. Em (e) está o distrator mais engenhoso, porque separa a canção da difusão radiofônica; o rádio espalhou a expressão, mas ela nasce na letra. Em (d), a anterioridade não se confirma. Em (a), o uso corrente é justamente figurado. Em (c), é o sentido da letra que o ditado conserva."
+    },
+    {
+      "id": "obra-barroco-tropical-q1",
+      "enunciado": "O romance 'Barroco Tropical', de José Eduardo Agualusa, publicado em 2009, retrata Luanda num contexto histórico marcado sobretudo:",
+      "alternativas": {
+        "a": "pela luta pela independência de Angola, ainda em curso na escrita",
+        "b": "pelo boom do petróleo depois do fim da guerra civil angolana",
+        "c": "pela crise do petróleo dos anos 1970, que teria afetado Angola",
+        "d": "pela colonização portuguesa inicial do território, no século XVI",
+        "e": "pela guerra civil angolana ainda em curso, com a cidade sitiada"
+      },
+      "resposta": "b",
+      "explicacao": "A guerra civil terminou em 2002, e a Luanda do romance é a que vem depois: dinheiro do petróleo, construção acelerada e uma elite nova exibindo riqueza numa cidade de desigualdade extrema. Em (e) está o distrator mais próximo, porque a guerra é a memória que assombra o livro — mas ela já acabou, e é o pós-guerra que o romance retrata. Em (a), a independência é de 1975. Em (c), a crise dos anos 1970 é de outro contexto. Em (d), o século XVI está fora do escopo."
+    },
+    {
+      "id": "obra-barroco-tropical-q2",
+      "enunciado": "A inserção de 'Barroco Tropical' no eixo de globalização da banca se justifica principalmente porque a obra:",
+      "alternativas": {
+        "a": "narra só eventos na Europa, sem referência a Angola ou Luanda",
+        "b": "foi escrita em inglês e traduzida para atender ao mercado brasileiro",
+        "c": "defende o isolamento cultural de Angola em relação à lusofonia",
+        "d": "descreve a migração de angolanos para Portugal como tema central",
+        "e": "é circulação de bens simbólicos em português entre continentes"
+      },
+      "resposta": "e",
+      "explicacao": "Um autor angolano, publicado no Brasil e em Portugal, lido em três continentes na mesma língua e sem tradução — a própria existência do livro na lista de uma banca brasileira é o fenômeno que ele ilustra. Em (d) está o distrator mais plausível, porque migração é tema clássico da lusofonia; não é, porém, o assunto deste romance, que se passa em Luanda. Em (b), o original é em português. Em (a) e (c), a obra é angolana e integra o circuito lusófono em vez de recusá-lo."
+    },
+    {
+      "id": "obra-barroco-tropical-q3",
+      "enunciado": "A trama de 'Barroco Tropical' combina uma investigação de tom policial com:",
+      "alternativas": {
+        "a": "estrutura epistolar, composta inteiramente por cartas trocadas",
+        "b": "diálogos em verso, no formato de peça de teatro em atos",
+        "c": "reconstituição histórica documental da guerra civil angolana",
+        "d": "elementos de realismo mágico e narrativa de tom onírico",
+        "e": "relato jornalístico em primeira pessoa sobre a Luanda do petróleo"
+      },
+      "resposta": "d",
+      "explicacao": "O romance abre com uma mulher caindo do céu sobre Luanda, e segue misturando a apuração de um crime com acontecimentos que a lógica realista não comporta — é a combinação que define o livro. Em (e) está o distrator mais próximo, porque há narração em primeira pessoa e a cidade do petróleo é o cenário; o registro, porém, é ficcional e fantástico, não jornalístico. Em (c), não há intenção documental. Em (a) e (b), a forma não é epistolar nem teatral."
+    },
+    {
+      "id": "obra-barroco-tropical-q4",
+      "enunciado": "Diferentemente de 'O Bem-Amado' e 'As Meninas', que tratam de contextos internos ao Brasil, 'Barroco Tropical' se distingue por:",
+      "alternativas": {
+        "a": "não apresentar crítica social ou política em seu enredo",
+        "b": "abordar só temas da Europa medieval, sem conexão africana",
+        "c": "ser a única do grupo escrita originalmente em espanhol",
+        "d": "ser a única narrada em primeira pessoa por uma testemunha dos fatos",
+        "e": "situar a crítica social num país africano de língua portuguesa"
+      },
+      "resposta": "e",
+      "explicacao": "O enunciado já dá o critério — contextos internos ao Brasil — e o que distingue o romance é o deslocamento geográfico sem saída da língua: mesma crítica de poder e desigualdade, feita a partir de Angola. Em (d) está o distrator mais fino, porque a narração em primeira pessoa é real neste livro; ela não é, contudo, o traço que o separa das outras duas, e As Meninas também recorre a vozes em primeira pessoa. Em (a), a crítica social é central. Em (b) e (c), o cenário é africano e o original é em português."
+    },
+    {
+      "id": "obra-barroco-tropical-q5",
+      "enunciado": "O título 'Barroco Tropical' sugere uma leitura interpretativa em que o excesso estético barroco se relaciona a:",
+      "alternativas": {
+        "a": "homenagem nostálgica à arquitetura colonial portuguesa remanescente em Luanda",
+        "b": "descrição neutra da extração petrolífera na costa angolana",
+        "c": "crítica sóbria e minimalista à sociedade angolana, sem exagero",
+        "d": "retrato dos contrastes e excessos das novas elites do petróleo",
+        "e": "referência ao estilo barroco da própria prosa, sem carga social"
+      },
+      "resposta": "d",
+      "explicacao": "Barroco, aqui, é diagnóstico: ostentação, contraste violento entre riqueza e miséria, acúmulo que beira o grotesco — a forma nomeia o que a cidade se tornou. Em (e) está a leitura que fica a meio caminho, porque a prosa é de fato exuberante; reduzir o título a traço de estilo, porém, descarta a crítica social que ele carrega. Em (c), a sobriedade é o oposto do que o título anuncia. Em (a), não há nostalgia colonial. Em (b), a neutralidade descritiva não descreve o romance."
+    }
+  ]
+}

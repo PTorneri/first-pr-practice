@@ -10,6 +10,11 @@
       "id": "med-bio-t2",
       "fonte": "Texto original em genero de reportagem de saude publica, no registro das bancas que usam noticia recente como base",
       "conteudo": "A dengue é causada por um vírus com quatro sorotipos distintos, e essa multiplicidade explica um fenômeno que confunde muita gente: já ter tido dengue não protege contra ter de novo. A infecção por um sorotipo gera memória imunológica duradoura contra aquele sorotipo específico, mas apenas proteção parcial e temporária contra os demais.\n\nHá um agravante bem documentado. Quando uma pessoa que já teve um sorotipo é infectada por outro, os anticorpos remanescentes reconhecem o vírus novo o suficiente para se ligarem a ele, mas não o suficiente para neutralizá-lo. Esses complexos são então internalizados por células de defesa, que acabam servindo de porta de entrada para o vírus. O mecanismo tem nome — amplificação dependente de anticorpos — e é a principal explicação para a segunda infecção tender a ser mais grave que a primeira.\n\nEsse é o motivo pelo qual as vacinas contra dengue enfrentam um problema que não existe, por exemplo, na vacina contra sarampo. Uma vacina que gere resposta forte contra apenas parte dos sorotipos pode, em tese, colocar o vacinado na mesma situação de quem teve uma infecção prévia. Por isso as formulações atuais são tetravalentes: buscam resposta equilibrada contra os quatro de uma vez.\n\nA vacina hoje distribuída na rede pública brasileira usa vírus vivos atenuados, o que traz a contrapartida conhecida desse tipo de imunizante — a contraindicação para pessoas com imunossupressão significativa, nas quais um vírus atenuado pode se comportar como um vírus capaz de causar doença."
+    },
+    {
+      "id": "med-bio-t3",
+      "fonte": "Texto original em genero de artigo de divulgacao sobre resistencia antimicrobiana",
+      "conteudo": "A resistência a antibióticos costuma ser contada como uma história de bactérias que 'aprendem' a resistir. A descrição é conveniente e errada, e o erro tem consequências práticas.\n\nO que ocorre é seleção. Numa população bacteriana existem, antes de qualquer contato com o medicamento, variantes que por acaso carregam alelos capazes de neutralizá-lo — uma bomba de efluxo mais eficiente, uma enzima que degrada o fármaco, uma alteração no sítio onde ele se ligaria. Essas variantes surgem de mutações aleatórias, sem relação com a presença do antibiótico. Quando o medicamento chega, ele não cria a resistência: ele elimina as bactérias sensíveis e deixa o campo livre para as que já eram resistentes se multiplicarem.\n\nÉ por isso que interromper o tratamento assim que os sintomas melhoram é perigoso. Nesse ponto as bactérias mais sensíveis já morreram — são elas que causavam o grosso dos sintomas —, mas as intermediárias seguem vivas. Terminar o esquema é o que as alcança.\n\nHá ainda um agravante que não existe em organismos com reprodução exclusivamente vertical. Bactérias trocam material genético entre si por conjugação, transformação e transdução, e plasmídeos que carregam genes de resistência podem passar inclusive entre espécies diferentes. Uma bactéria inofensiva do intestino pode, assim, funcionar como reservatório de genes que mais tarde aparecerão num patógeno."
     }
   ],
   "questoes": [
@@ -371,6 +376,370 @@
       },
       "resposta": "d",
       "explicacao": "Em ilhas oceânicas sem mamíferos predadores, a seleção não favoreceu vigilância, fuga ou nidificação protegida — comportamentos custosos e sem função naquele contexto. Quando o predador chega, a defesa simplesmente não existe. A alternativa (e) generaliza para as aves insulares uma condição que apenas parte delas apresenta.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-25",
+      "textoId": "med-bio-t3",
+      "enunciado": "De acordo com o texto, a afirmação de que as bactérias 'aprendem' a resistir ao antibiótico é incorreta porque:",
+      "alternativas": {
+        "a": "as variantes resistentes já existiam na população antes do contato com o fármaco, e o medicamento apenas seleciona as sobreviventes",
+        "b": "a resistência resulta de alterações fisiológicas reversíveis, que desaparecem assim que o antibiótico é retirado do meio de cultura em que a colônia cresce",
+        "c": "as bactérias adquirem resistência ao entrar em contato com doses baixas do fármaco, num processo gradual de adaptação de cada indivíduo ao longo da exposição",
+        "d": "somente bactérias de espécies patogênicas conseguem desenvolver mecanismos capazes de neutralizar a ação de um antimicrobiano administrado por via sistêmica",
+        "e": "o antibiótico induz mutações específicas no material genético bacteriano, dirigidas justamente aos genes que ele mesmo tem como alvo terapêutico"
+      },
+      "resposta": "a",
+      "explicacao": "O texto descreve seleção, não aprendizado: mutações aleatórias produzem variantes resistentes antes de qualquer exposição, e o fármaco elimina as sensíveis. As alternativas (c) e (e) supõem que o antibiótico dirija a mudança, o que inverteria a relação entre variação e seleção — a variação vem primeiro e é cega ao ambiente.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-26",
+      "textoId": "med-bio-t3",
+      "enunciado": "O texto aponta um agravante da resistência bacteriana que não existe em organismos de reprodução exclusivamente vertical. Esse agravante é:",
+      "alternativas": {
+        "a": "a taxa elevada de divisão celular, que multiplica em poucas horas o número de descendentes portadores do gene de resistência",
+        "b": "o tamanho reduzido do genoma bacteriano, que faz cada mutação ter peso proporcionalmente maior sobre o fenótipo do micro-organismo",
+        "c": "a capacidade de formar esporos resistentes, estruturas que sobrevivem ao tratamento e germinam depois que o fármaco é retirado",
+        "d": "a transferência horizontal de genes, que permite a plasmídeos de resistência circularem inclusive entre espécies diferentes",
+        "e": "a ausência de núcleo organizado, condição que deixaria o material genético mais exposto à ação direta do antibiótico no citoplasma"
+      },
+      "resposta": "d",
+      "explicacao": "Conjugação, transformação e transdução permitem que genes passem entre bactérias que não são descendentes umas das outras — inclusive entre espécies. É isso que o texto contrapõe à herança apenas vertical. A alta taxa de divisão de (a) é real, mas continua sendo transmissão vertical, e não o agravante que o texto destaca.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-27",
+      "texto_apoio": "Um gráfico relaciona a taxa de fotossíntese de uma planta com a intensidade luminosa, mantendo constantes a temperatura e a concentração de gás carbônico. A curva sobe de forma acentuada nas intensidades iniciais, depois perde inclinação progressivamente e por fim estabiliza num patamar, permanecendo constante mesmo quando a intensidade continua a aumentar.",
+      "enunciado": "A estabilização da curva no patamar, apesar do aumento continuado da luz, indica que a taxa de fotossíntese passou a ser limitada:",
+      "alternativas": {
+        "a": "pela quantidade de clorofila disponível, que se degrada sob intensidades luminosas elevadas e reduz a captação de fótons",
+        "b": "pelo fechamento dos estômatos, que ocorre em resposta direta ao excesso de luz e interrompe as trocas gasosas com o ambiente",
+        "c": "por outro fator, como a concentração de gás carbônico, já que a luz deixou de ser o elemento em falta no processo",
+        "d": "pela saturação dos pigmentos acessórios, incapazes de transferir energia ao centro de reação acima de certa intensidade luminosa",
+        "e": "pelo aumento simultâneo da respiração celular, que consumiria toda a glicose produzida e zeraria o saldo do processo fotossintético"
+      },
+      "resposta": "c",
+      "explicacao": "Trata-se do princípio dos fatores limitantes: enquanto a luz é escassa, ela controla a taxa; a partir de certo ponto ela deixa de ser o fator em falta e outro elemento assume o limite — no experimento descrito, o gás carbônico, mantido constante. A alternativa (e) confunde saldo fotossintético com taxa bruta, que é o que o gráfico apresenta.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-28",
+      "texto_apoio": "Durante um exercício físico intenso e prolongado, a demanda muscular por ATP supera a capacidade de fornecimento de oxigênio pelo sistema cardiovascular. Nessas condições, parte do piruvato produzido na glicólise segue uma via alternativa no citoplasma das fibras musculares.",
+      "enunciado": "Nessa situação, a via seguida pelo piruvato e o rendimento energético do processo, comparado ao da respiração aeróbia completa, são:",
+      "alternativas": {
+        "a": "fermentação alcoólica, com rendimento equivalente, já que o número de moléculas de ATP produzidas por glicose é o mesmo nas duas vias",
+        "b": "fermentação lática, com rendimento bem menor, pois a glicose é apenas parcialmente oxidada e não chega à cadeia respiratória",
+        "c": "ciclo de Krebs anaeróbio, com rendimento intermediário entre a fermentação e a respiração aeróbia realizada na mitocôndria",
+        "d": "fotofosforilação, com rendimento superior, uma vez que o processo aproveita gradientes de prótons acumulados durante o esforço",
+        "e": "fermentação lática, com rendimento superior, porque a via dispensa o transporte de elétrons e economiza o gasto energético dele"
+      },
+      "resposta": "b",
+      "explicacao": "Sem oxigênio suficiente, o piruvato é reduzido a lactato no citoplasma, o que regenera o NAD+ e mantém a glicólise funcionando. O saldo é de 2 ATP por glicose, contra algo em torno de 30 a 32 na respiração aeróbia completa: a glicose é oxidada só parcialmente. A alternativa (a) descreve a via de leveduras, não a do músculo humano.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-29",
+      "texto_apoio": "Uma sequência de DNA molde apresenta os nucleotídeos 3' TAC GGA TTT ACT 5'. A partir dela é transcrito um RNA mensageiro, posteriormente traduzido em um peptídeo. Considere o código genético universal, no qual AUG é o códon de início.",
+      "enunciado": "O RNA mensageiro transcrito a partir dessa fita molde e o número de aminoácidos do peptídeo resultante são, respectivamente:",
+      "alternativas": {
+        "a": "5' AUG CCU AAA UGA 3' e quatro aminoácidos",
+        "b": "5' AUG GGA UUU ACU 3' e quatro aminoácidos",
+        "c": "5' UAC GGA UUU ACU 3' e quatro aminoácidos",
+        "d": "3' AUG CCU AAA UGA 5' e quatro aminoácidos",
+        "e": "5' AUG CCU AAA UGA 3' e três aminoácidos"
+      },
+      "resposta": "e",
+      "explicacao": "A transcrição é complementar e antiparalela: TAC vira AUG, GGA vira CCU, TTT vira AAA e ACT vira UGA. O último códon é de terminação e não codifica aminoácido, de modo que o peptídeo tem três resíduos. A alternativa (a) acerta a sequência e erra a contagem justamente por incluir o códon de parada.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-30",
+      "texto_apoio": "O néfron é a unidade funcional do rim. O sangue chega ao glomérulo sob pressão elevada e parte do plasma atravessa a barreira de filtração para a cápsula renal. Ao longo dos túbulos, substâncias são devolvidas ao sangue ou lançadas no filtrado, até que a urina definitiva chegue aos ductos coletores.",
+      "enunciado": "A presença de glicose na urina de uma pessoa com diabetes descompensada é explicada pelo fato de que a glicose:",
+      "alternativas": {
+        "a": "não atravessa a barreira glomerular em condições normais e passa a fazê-lo quando a concentração plasmática se eleva acima do habitual",
+        "b": "deixa de ser reabsorvida porque a insulina, ausente ou ineficaz, é o hormônio que aciona diretamente os transportadores tubulares de glicose",
+        "c": "é secretada ativamente pelos túbulos renais para o filtrado sempre que sua concentração no sangue ultrapassa determinado limiar fisiológico",
+        "d": "é filtrada e reabsorvida nos túbulos, e a concentração plasmática elevada satura os transportadores dessa reabsorção",
+        "e": "sofre degradação enzimática no interior do túbulo contorcido proximal, e os produtos dessa quebra é que apareceriam no exame de urina"
+      },
+      "resposta": "d",
+      "explicacao": "A glicose é livremente filtrada e, em condições normais, integralmente reabsorvida no túbulo proximal por transportadores específicos. Acima de um limiar de concentração plasmática esses transportadores saturam, e o excedente segue para a urina. A alternativa (a) supõe que a glicose não seja filtrada normalmente, o que contraria o funcionamento do glomérulo.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-31",
+      "texto_apoio": "Em uma sinapse química, o potencial de ação chega ao terminal do axônio e desencadeia a liberação de neurotransmissores na fenda sináptica. As moléculas se ligam a receptores da membrana pós-sináptica e alteram sua permeabilidade a determinados íons.",
+      "enunciado": "O evento que, no terminal pré-sináptico, acopla a chegada do potencial de ação à liberação do neurotransmissor é a entrada de:",
+      "alternativas": {
+        "a": "íons potássio, cuja saída seria revertida pela despolarização e provocaria a fusão das vesículas com a membrana pré-sináptica",
+        "b": "íons cloreto, responsáveis por hiperpolarizar o terminal e assim desencadear a liberação do conteúdo das vesículas na fenda",
+        "c": "íons sódio, que ao se acumularem no terminal dissolveriam a membrana das vesículas e liberariam seu conteúdo por difusão simples",
+        "d": "moléculas de ATP vindas da fenda sináptica, utilizadas como sinal para o transporte das vesículas até a membrana do terminal",
+        "e": "íons cálcio, que atravessam canais dependentes de voltagem e disparam a fusão das vesículas com a membrana pré-sináptica"
+      },
+      "resposta": "e",
+      "explicacao": "A despolarização abre canais de cálcio dependentes de voltagem no terminal. O influxo de cálcio ativa as proteínas que promovem a fusão das vesículas com a membrana e a exocitose do neurotransmissor. Sódio e potássio participam do potencial de ação ao longo do axônio, mas não são o gatilho da liberação, o que descarta (a) e (c).",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-32",
+      "texto_apoio": "Após uma refeição rica em carboidratos, a concentração de glicose no sangue se eleva. Poucos minutos depois, ela começa a cair e volta à faixa habitual. Horas mais tarde, num período de jejum, a glicemia volta a ser mantida dentro dessa mesma faixa por um mecanismo de sentido oposto.",
+      "enunciado": "Os hormônios responsáveis pela queda após a refeição e pela manutenção durante o jejum, e o tipo de regulação envolvido, são:",
+      "alternativas": {
+        "a": "insulina e glucagon, num mecanismo de retroalimentação negativa",
+        "b": "glucagon e insulina, num mecanismo de retroalimentação negativa em que cada hormônio estimula a liberação do outro em sequência",
+        "c": "insulina e adrenalina, num mecanismo de retroalimentação positiva que amplifica progressivamente o desvio inicial da glicemia",
+        "d": "cortisol e insulina, num mecanismo de regulação nervosa direta exercida pelo hipotálamo sobre as células do pâncreas endócrino",
+        "e": "glucagon e cortisol, num mecanismo de retroalimentação positiva acionado pela variação da concentração plasmática de glicose"
+      },
+      "resposta": "a",
+      "explicacao": "A insulina baixa a glicemia favorecendo captação e armazenamento; o glucagon a eleva mobilizando o glicogênio hepático. Como cada hormônio é liberado em resposta a um desvio e atua para corrigi-lo, a regulação é por retroalimentação negativa. As alternativas (c) e (e) invertem isso: retroalimentação positiva amplificaria o desvio, e não o corrigiria.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-33",
+      "texto_apoio": "Análises de tecidos de peixes de um estuário próximo a uma área industrial detectaram concentrações de mercúrio muito superiores às medidas na água. Os maiores valores foram registrados em espécies predadoras de grande porte, e os menores, em espécies que se alimentam diretamente de algas e detritos.",
+      "enunciado": "O padrão descrito caracteriza o fenômeno de magnificação trófica, que ocorre porque o mercúrio:",
+      "alternativas": {
+        "a": "atinge apenas espécies predadoras, uma vez que os organismos dos níveis tróficos inferiores não conseguem absorvê-lo diretamente da água",
+        "b": "sofre transformação química ao longo da cadeia alimentar, tornando-se progressivamente mais solúvel em água a cada transferência trófica",
+        "c": "é produzido pelos próprios organismos aquáticos em resposta ao estresse causado pela presença de efluentes industriais no estuário",
+        "d": "é excretado com dificuldade e se acumula nos tecidos, e cada nível trófico soma o que veio dos anteriores",
+        "e": "se dilui a cada transferência trófica, mas os predadores compensam esse efeito ingerindo um volume muito maior de alimento ao longo da vida"
+      },
+      "resposta": "d",
+      "explicacao": "Metais pesados e compostos lipossolúveis são retidos nos tecidos e mal excretados. Como um predador consome muitos indivíduos do nível anterior ao longo da vida, ele soma o que cada um deles havia acumulado, e a concentração cresce a cada degrau. A alternativa (e) descreve o oposto do que o padrão dos dados mostra.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-34",
+      "texto_apoio": "O ciclo de vida de um protozoário flagelado envolve um inseto hematófago que se alimenta durante a noite e defeca logo após a picada. O parasita presente nas fezes penetra pela lesão ou por mucosas e atinge a corrente sanguínea, alojando-se posteriormente em células musculares, inclusive as do coração.",
+      "enunciado": "A doença descrita e a medida de controle mais eficaz em áreas endêmicas são, respectivamente:",
+      "alternativas": {
+        "a": "leishmaniose visceral e o controle da população de cães domésticos, que atuam como principal reservatório do parasita nessas áreas",
+        "b": "malária e o uso de mosquiteiros impregnados com inseticida sobre as camas, capaz de reduzir o contato noturno com o vetor alado",
+        "c": "doença de Chagas e a melhoria das habitações, eliminando frestas em paredes de pau a pique onde o inseto vetor se abriga",
+        "d": "esquistossomose e o saneamento básico associado ao combate aos caramujos hospedeiros presentes nas coleções de água doce",
+        "e": "toxoplasmose e o controle sanitário da carne consumida crua ou malpassada, principal via de transmissão do parasita ao ser humano"
+      },
+      "resposta": "c",
+      "explicacao": "O quadro descreve a doença de Chagas: o triatomíneo pica à noite, defeca em seguida e o Trypanosoma cruzi penetra pela lesão, com tropismo posterior por musculatura cardíaca. Como o vetor se abriga em frestas de paredes, a melhoria habitacional é a medida estrutural mais eficaz. As demais alternativas descrevem parasitoses com vetores e vias de transmissão distintos.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-35",
+      "texto_apoio": "Uma área de floresta foi completamente removida para a instalação de uma pastagem, que depois foi abandonada. Ao longo das décadas seguintes, a vegetação retornou em etapas: primeiro gramíneas e ervas de crescimento rápido, depois arbustos e árvores pioneiras de vida curta e, por fim, espécies arbóreas de maior porte e crescimento lento.",
+      "enunciado": "Sobre o processo descrito e a comunidade final, é correto afirmar que se trata de:",
+      "alternativas": {
+        "a": "sucessão primária, com aumento progressivo da biodiversidade e da produtividade primária líquida até o estágio final da comunidade",
+        "b": "sucessão secundária, com aumento da biomassa e da diversidade e redução da produtividade primária líquida no estágio de clímax",
+        "c": "sucessão primária, com redução gradual da biomassa total e estabilização da diversidade em valores próximos aos do início do processo",
+        "d": "sucessão secundária, com redução da biomassa acumulada e aumento contínuo da produtividade primária líquida ao longo dos anos",
+        "e": "regeneração natural sem caráter sucessional, já que a área retornou à mesma composição de espécies existente antes do desmatamento"
+      },
+      "resposta": "b",
+      "explicacao": "Como havia solo formado e propágulos remanescentes, trata-se de sucessão secundária, e não primária. Ao longo do processo a biomassa e a diversidade aumentam, enquanto a produtividade primária líquida cai: no clímax, quase toda a produção bruta é consumida pela própria respiração da comunidade. A alternativa (d) inverte as duas tendências.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-36",
+      "texto_apoio": "Certos vírus possuem material genético de RNA e carregam consigo uma enzima capaz de sintetizar DNA a partir desse RNA. O DNA produzido é então integrado ao genoma da célula hospedeira, onde pode permanecer por longos períodos antes de dirigir a produção de novas partículas virais.",
+      "enunciado": "A enzima responsável por essa etapa e a consequência de sua baixa fidelidade de cópia são, respectivamente:",
+      "alternativas": {
+        "a": "DNA polimerase, e a manutenção de um genoma viral muito estável ao longo das sucessivas gerações de partículas produzidas",
+        "b": "RNA polimerase dependente de DNA, e a produção de proteínas virais em quantidade proporcional à carga viral do paciente",
+        "c": "integrase, e a inserção do genoma viral sempre no mesmo ponto do cromossomo humano, o que facilitaria a remoção terapêutica",
+        "d": "transcriptase reversa, e a elevada taxa de mutação, que favorece o surgimento de variantes resistentes aos antivirais",
+        "e": "protease, e a clivagem das poliproteínas virais em unidades funcionais montadas na superfície da célula infectada"
+      },
+      "resposta": "d",
+      "explicacao": "A transcriptase reversa sintetiza DNA a partir de RNA e não possui mecanismo eficiente de revisão, o que produz taxa de erro alta. Essa variabilidade é a base do surgimento rápido de variantes resistentes — razão pela qual o tratamento combina vários fármacos. Integrase e protease atuam em outras etapas do ciclo, e não na descrita.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-37",
+      "texto_apoio": "Durante o desenvolvimento embrionário de um vertebrado, formam-se três folhetos germinativos a partir dos quais se originam todos os tecidos e órgãos do animal adulto.",
+      "enunciado": "O sistema nervoso, a musculatura esquelética e o epitélio de revestimento do intestino derivam, respectivamente, de:",
+      "alternativas": {
+        "a": "ectoderme, mesoderme e endoderme",
+        "b": "ectoderme, endoderme e mesoderme, sendo esta última a origem também dos anexos embrionários que nutrem o embrião",
+        "c": "mesoderme, ectoderme e endoderme, folhetos que se organizam nessa ordem a partir da região dorsal do embrião em desenvolvimento",
+        "d": "endoderme, mesoderme e ectoderme, numa disposição que reflete a posição relativa de cada tecido no organismo já formado",
+        "e": "ectoderme, mesoderme e mesoderme, uma vez que músculo e epitélio intestinal compartilham a mesma origem embrionária comum"
+      },
+      "resposta": "a",
+      "explicacao": "A ectoderme origina epiderme e sistema nervoso; a mesoderme, musculatura, esqueleto, sistema circulatório e excretor; a endoderme, o epitélio de revestimento do tubo digestório e das vias respiratórias, além do fígado e do pâncreas. A alternativa (e) confunde a origem do epitélio intestinal, que é endodérmica.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-38",
+      "texto_apoio": "Um paciente recebe soro antiofídico após uma picada de serpente. Outro paciente, na mesma semana, recebe a vacina contra o tétano. Ambos os procedimentos visam à proteção contra toxinas, mas os mecanismos envolvidos são distintos.",
+      "enunciado": "Os dois procedimentos conferem, respectivamente, imunização:",
+      "alternativas": {
+        "a": "ativa e passiva, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e memória duradoura",
+        "b": "passiva e ativa, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e memória duradoura",
+        "c": "ativa nos dois casos, diferindo apenas na natureza do antígeno utilizado para desencadear a resposta imunológica do paciente",
+        "d": "passiva nos dois casos, já que em ambos são administradas moléculas prontas capazes de neutralizar a toxina circulante no organismo",
+        "e": "passiva e ativa, sendo a primeira capaz de gerar memória imunológica duradoura e a segunda de agir imediatamente após a aplicação"
+      },
+      "resposta": "b",
+      "explicacao": "O soro traz anticorpos prontos, produzidos em outro organismo: age de imediato e não gera memória, sendo imunização passiva. A vacina apresenta o antígeno e o próprio paciente produz a resposta, que demora a se instalar mas deixa memória — imunização ativa. A alternativa (e) acerta a classificação e troca as propriedades de cada uma.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-39",
+      "texto_apoio": "O gráfico compara a variação da temperatura corporal de dois animais ao longo de 24 horas, em um ambiente cuja temperatura oscilou entre 12 °C e 34 °C. A curva do animal I acompanha de perto as oscilações do ambiente; a curva do animal II permanece praticamente constante em torno de 37 °C durante todo o período.",
+      "enunciado": "Sobre os dois animais e o custo energético de suas estratégias, é correto afirmar que o animal I é:",
+      "alternativas": {
+        "a": "homeotérmico e apresenta gasto energético equivalente ao do animal II, diferindo apenas na velocidade de resposta às mudanças externas",
+        "b": "endotérmico e apresenta gasto energético basal menor, já que dispensa mecanismos ativos de produção interna de calor corporal",
+        "c": "ectotérmico e apresenta gasto energético basal maior, porque precisa compensar continuamente as perdas de calor para o ambiente",
+        "d": "endotérmico e apresenta gasto energético basal maior, condição associada à manutenção de uma temperatura interna estável",
+        "e": "ectotérmico e apresenta gasto basal menor, o que reduz sua necessidade de alimento"
+      },
+      "resposta": "e",
+      "explicacao": "A temperatura corporal do animal I acompanha o ambiente: ele é ectotérmico, e não gasta energia produzindo calor metabólico para se manter aquecido. O animal II mantém temperatura constante e paga por isso com taxa metabólica basal alta e maior demanda alimentar. As alternativas (b) e (c) trocam as classificações ou os custos.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-40",
+      "texto_apoio": "Um peixe ósseo de água doce e um peixe ósseo marinho enfrentam desafios osmóticos opostos. O primeiro vive num meio menos concentrado que seus fluidos corporais; o segundo, num meio mais concentrado que eles.",
+      "enunciado": "Sobre a osmorregulação desses animais, é correto afirmar que o peixe de água doce:",
+      "alternativas": {
+        "a": "ganha água por osmose e produz urina abundante e diluída, enquanto o marinho perde água e ingere água do mar",
+        "b": "perde água por osmose e ingere grande volume de água do mar, enquanto o marinho ganha água e produz urina bastante diluída",
+        "c": "ganha água por osmose e produz urina escassa e concentrada, para reter o máximo possível dos sais dissolvidos em seus fluidos",
+        "d": "mantém equilíbrio osmótico passivo com o meio, enquanto apenas o peixe marinho precisa gastar energia com transporte ativo de sais",
+        "e": "perde sais pelas brânquias por difusão simples, enquanto o marinho os absorve do ambiente pelo mesmo mecanismo passivo"
+      },
+      "resposta": "a",
+      "explicacao": "Em água doce o meio é hipotônico: a água entra por osmose e o animal a elimina em urina volumosa e diluída, captando sais ativamente pelas brânquias. No mar ocorre o inverso — o meio é hipertônico, o peixe perde água, bebe água do mar e excreta o excesso de sais ativamente. A alternativa (b) descreve exatamente a situação trocada.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-41",
+      "texto_apoio": "Bactérias fixadoras de nitrogênio vivem em nódulos nas raízes de plantas leguminosas. Elas convertem o nitrogênio atmosférico em amônia, aproveitável pela planta, e recebem em troca compostos orgânicos produzidos na fotossíntese.",
+      "enunciado": "A relação entre a bactéria e a leguminosa e a etapa do ciclo do nitrogênio realizada por essas bactérias são denominadas, respectivamente, ______ e ______, e a conversão posterior da amônia em nitrato no solo chama-se ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "protocooperação – nitrificação – amonificação",
+        "b": "comensalismo – amonificação – desnitrificação",
+        "c": "mutualismo – amonificação – nitrificação",
+        "d": "parasitismo – fixação – desnitrificação",
+        "e": "mutualismo – fixação – nitrificação"
+      },
+      "resposta": "e",
+      "explicacao": "Os dois organismos se beneficiam e a associação é obrigatória para a bactéria dentro do nódulo: mutualismo. Converter N2 atmosférico em amônia é fixação. A oxidação posterior da amônia a nitrito e depois a nitrato, feita por outras bactérias do solo, é a nitrificação. Amonificação seria a liberação de amônia pela decomposição da matéria orgânica.",
+      "formato": "lacunas",
+      "banca": "unesp"
+    },
+    {
+      "id": "biologia-42",
+      "texto_apoio": "Um esquema representa uma cadeia alimentar de ambiente terrestre composta por capim, gafanhotos, sapos e gaviões. Ao lado, três pirâmides ecológicas construídas para essa mesma cadeia apresentam formatos diferentes entre si.",
+      "enunciado": "Nessa cadeia, a pirâmide de ______ é sempre ereta, e a pirâmide de números pode aparecer invertida quando ______, situação em que a base é ocupada por ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "biomassa – o produtor é de grande porte – poucos indivíduos de tamanho elevado",
+        "b": "números – o consumidor primário é muito pequeno – muitos organismos decompositores",
+        "c": "energia – o produtor é de grande porte – poucos indivíduos de tamanho elevado",
+        "d": "energia – o ambiente é aquático e raso – organismos fotossintetizantes microscópicos",
+        "e": "biomassa – há muitos níveis tróficos na cadeia – predadores de topo de grande porte"
+      },
+      "resposta": "c",
+      "explicacao": "A pirâmide de energia é sempre ereta, porque a transferência entre níveis tróficos é sempre acompanhada de perda — decorrência direta da segunda lei da termodinâmica. A de números se inverte quando um produtor grande, como uma árvore, sustenta muitos consumidores pequenos. A de biomassa pode inverter em ambientes aquáticos com fitoplâncton de renovação rápida.",
+      "formato": "lacunas",
+      "banca": "santacasa"
+    },
+    {
+      "id": "biologia-43",
+      "texto_apoio": "Uma técnica de laboratório permite amplificar uma região específica do DNA a partir de quantidades mínimas de material. O procedimento envolve ciclos repetidos de aquecimento e resfriamento, com uma enzima capaz de resistir às temperaturas elevadas empregadas em cada ciclo.",
+      "enunciado": "A técnica descrita denomina-se ______, e a enzima que a viabiliza foi isolada de ______, sendo sua função ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "eletroforese em gel de agarose – bactérias intestinais – separar fragmentos de DNA por tamanho",
+        "b": "reação em cadeia da polimerase – bactérias de fontes termais – sintetizar fitas de DNA",
+        "c": "clonagem molecular – vírus bacteriófagos – inserir genes em vetores plasmidiais de expressão",
+        "d": "reação em cadeia da polimerase – vírus bacteriófagos – cortar o DNA em sítios específicos de reconhecimento",
+        "e": "sequenciamento automatizado – bactérias de fontes termais – determinar a ordem dos nucleotídeos"
+      },
+      "resposta": "b",
+      "explicacao": "A PCR amplifica um trecho de DNA por ciclos de desnaturação, anelamento e extensão. Ela só é viável porque a Taq polimerase, isolada de bactérias que vivem em fontes termais, resiste às temperaturas altas de cada ciclo — uma polimerase comum seria desnaturada logo no primeiro. Cortar o DNA em sítios específicos é função das enzimas de restrição.",
+      "formato": "lacunas",
+      "banca": "einstein"
+    },
+    {
+      "id": "biologia-44",
+      "texto_apoio": "Numa população em equilíbrio de Hardy-Weinberg, uma característica recessiva manifesta-se em 16% dos indivíduos. A população é grande, o cruzamento é aleatório e não há migração, mutação relevante nem seleção atuando sobre esse gene.",
+      "enunciado": "Nessa população, a frequência do alelo dominante e a proporção esperada de heterozigotos são, respectivamente:",
+      "alternativas": {
+        "a": "0,4 e 48%",
+        "b": "0,4 e 32%",
+        "c": "0,6 e 32%",
+        "d": "0,6 e 48%",
+        "e": "0,84 e 16%"
+      },
+      "resposta": "d",
+      "explicacao": "Se os recessivos são 16%, então q² = 0,16 e q = 0,4. Logo p = 0,6, que é a frequência do alelo dominante. A proporção de heterozigotos é 2pq = 2 x 0,6 x 0,4 = 0,48, ou 48%. A alternativa (a) confunde p com q, e (c) usa a frequência correta do alelo com um cálculo errado de heterozigotos.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-45",
+      "texto_apoio": "Uma figura mostra células estomáticas da folha de uma planta de mata atlântica em dois momentos distintos. No momento I, as duas células-guarda estão distendidas e o ostíolo encontra-se amplamente aberto. No momento II, as células estão murchas e o ostíolo, fechado.",
+      "enunciado": "A passagem do momento I para o momento II ocorre, principalmente, em resposta a:",
+      "alternativas": {
+        "a": "elevação da umidade do ar, que reduz a demanda por transpiração e leva a planta a interromper as trocas gasosas com o ambiente",
+        "b": "aumento da concentração de gás carbônico no mesofilo durante os períodos de maior atividade fotossintética ao longo do dia",
+        "c": "déficit hídrico, que provoca saída de água das células-guarda, perda de turgor e fechamento do ostíolo",
+        "d": "elevação da intensidade luminosa, estímulo que promove o acúmulo de íons potássio no interior das células-guarda da epiderme",
+        "e": "queda da temperatura foliar durante a madrugada, momento em que a planta interrompe completamente o processo de respiração celular"
+      },
+      "resposta": "c",
+      "explicacao": "As células-guarda abrem o ostíolo quando ganham água e turgor, e o fecham quando a perdem. Em déficit hídrico, o ácido abscísico promove a saída de íons e, com ela, de água, o que murcha as células e fecha o estômato — mecanismo que protege a planta da dessecação. A alternativa (d) descreve o estímulo que produz a abertura, e não o fechamento.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-46",
+      "texto_apoio": "Pesquisadores compararam o esqueleto do membro anterior de um ser humano, de um morcego e de uma baleia. Apesar das funções muito distintas — manipular, voar e nadar —, os três apresentam a mesma sequência de ossos, na mesma disposição relativa, ainda que com proporções bastante diferentes.",
+      "enunciado": "As estruturas comparadas são classificadas como órgãos ______, e o padrão evolutivo que as explica é a ______, que decorre de ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "análogos – convergência adaptativa – pressões seletivas semelhantes sobre grupos evolutivamente distantes",
+        "b": "homólogos – convergência adaptativa – adaptação independente a ambientes com exigências parecidas",
+        "c": "vestigiais – irradiação adaptativa – perda progressiva de função ao longo de sucessivas gerações",
+        "d": "homólogos – irradiação adaptativa – ocupação de ambientes diversos a partir de um ancestral",
+        "e": "análogos – irradiação adaptativa – diversificação de um grupo em nichos ecológicos muito distintos"
+      },
+      "resposta": "d",
+      "explicacao": "Mesma origem embrionária e mesmo plano estrutural, com funções diferentes, caracterizam órgãos homólogos, o que elimina as opções com análogos. O padrão em que descendentes de um ancestral comum se diversificam ao ocupar ambientes distintos é a irradiação adaptativa. Convergência produziria estruturas análogas, de origens diferentes e funções parecidas.",
+      "formato": "lacunas",
+      "banca": "unesp"
+    },
+    {
+      "id": "biologia-47",
+      "texto_apoio": "Em um ecossistema aquático, a introdução contínua de esgoto doméstico não tratado elevou a concentração de nutrientes na água. Meses depois, observou-se intensa proliferação de algas na superfície, seguida de mortandade de peixes e de forte odor característico nas margens.",
+      "enunciado": "A mortandade de peixes observada nesse processo decorre principalmente de:",
+      "alternativas": {
+        "a": "toxinas liberadas diretamente pelo esgoto doméstico, que atingem concentrações letais para os peixes poucas semanas após o despejo",
+        "b": "redução da concentração de nutrientes na água, esgotados pelo crescimento acelerado da população de algas na superfície do corpo hídrico",
+        "c": "elevação da temperatura da água provocada pela camada de algas na superfície, que absorve radiação solar e aquece o corpo hídrico",
+        "d": "competição direta por alimento entre as algas em proliferação e os peixes herbívoros presentes nas camadas superiores do ecossistema",
+        "e": "consumo do oxigênio dissolvido pelos decompositores que atuam sobre as algas mortas"
+      },
+      "resposta": "e",
+      "explicacao": "Na eutrofização, o excesso de nutrientes desencadeia a proliferação de algas; ao morrerem, elas se tornam matéria orgânica para bactérias aeróbias, cuja respiração consome o oxigênio dissolvido. É essa queda de oxigênio que mata os peixes. O bloqueio de luz pela camada superficial agrava o quadro ao reduzir a fotossíntese nas camadas mais profundas.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-48",
+      "texto_apoio": "O gráfico apresenta as concentrações plasmáticas de quatro hormônios ao longo de um ciclo menstrual de 28 dias. Por volta do décimo quarto dia, dois deles atingem um pico acentuado e de curta duração, imediatamente antes da liberação do gameta pelo ovário.",
+      "enunciado": "Os hormônios cujo pico antecede imediatamente a ovulação e a estrutura que se forma no ovário logo após esse evento são, respectivamente:",
+      "alternativas": {
+        "a": "FSH e LH, e o folículo primordial, que retoma seu desenvolvimento no início da fase seguinte do ciclo ovariano",
+        "b": "estrogênio e progesterona, e o corpo lúteo, responsável pela manutenção do endométrio durante a segunda metade do ciclo",
+        "c": "LH e FSH, e o corpo lúteo, que passa a secretar progesterona e mantém o endométrio preparado para a implantação",
+        "d": "progesterona e LH, e o folículo maduro, que permanece íntegro até o final da fase secretora do ciclo menstrual",
+        "e": "FSH e progesterona, e o corpo albicans, estrutura que regride ao longo dos dias seguintes à liberação do gameta"
+      },
+      "resposta": "c",
+      "explicacao": "O pico de LH, acompanhado de elevação de FSH, dispara a ovulação por volta do décimo quarto dia. O folículo rompido se transforma em corpo lúteo, que secreta progesterona e mantém o endométrio. O corpo albicans de (e) é o estágio posterior de regressão do corpo lúteo, quando não há gestação.",
       "formato": "direta"
     }
   ]

@@ -10,9 +10,20 @@
 // CONFERIDA contra CONTEUDO_01_2027.pdf (Conteúdo Programático das Provas,
 // ciclo 1º/2027), seção "Artes e Questões Contemporâneas — Repertório de obras
 // para o exame". O edital de 2027 traz 46 obras obrigatórias, e as 46 estão
-// aqui. As outras 10 entradas ficam com `foraDoEdital2027: true`: caíram de
-// ciclos anteriores e permanecem porque continuam servindo de repertório para
-// a redação e para as discursivas, onde a obra não precisa ser da lista.
+// aqui. As outras 17 entradas ficam com `foraDoEdital2027: true` e aparecem no
+// app sob "complementares", nunca sob "obrigatórias": 10 caíram de ciclos
+// anteriores da FGV e 7 vêm da lista de leitura obrigatória da FUVEST 2026.
+// Todas permanecem porque continuam servindo de repertório para a redação e
+// para as discursivas, onde a obra não precisa ser da lista.
+//
+// Por que as 7 da FUVEST estão num arquivo da trilha de Direito: elas são a
+// lista da FUVEST (resolução 2026, anexo "LEITURAS OBRIGATÓRIAS"), cobrada nas
+// duas fases do vestibular de Medicina, e a mesma lista alimenta a trilha de
+// Medicina em vestibular-medicina/data/obras.js. Aqui elas valem só como
+// repertório — marcá-las como obrigatórias faria o app dizer a um candidato da
+// FGV que precisa ler Nísia Floresta para a prova de Artes, o que é falso.
+// Duas obras da lista da FUVEST NÃO entram como complementares porque já
+// constam do edital da FGV: "As Meninas" e "Caminho de Pedras".
 //
 // Atenção ao alcance desta lista: ela vale para a prova de ARTES. A prova de
 // Língua Portuguesa tem seu próprio programa de Literatura, organizado por
@@ -786,5 +797,111 @@ window.OBRAS = [
     contextoHistorico: "Leonard Cohen (1934-2016), poeta e romancista canadense antes de se tornar cantor, lançou \"I'm Your Man\" em 1988, disco que marcou sua reinvenção estética com uso intenso de sintetizadores e vocais femininos de apoio, e que reabilitou sua carreira comercial. \"Everybody Knows\" foi escrita em parceria com Sharon Robinson, colaboradora frequente do artista. A canção ganhou grande circulação ao ser usada em cinema e televisão nas décadas seguintes, tornando-se uma das mais conhecidas de seu repertório.",
     pontosChave: ["Canção de Leonard Cohen e Sharon Robinson, do álbum \"I'm Your Man\" (1988)", "Estrutura construída sobre a repetição da fórmula \"todo mundo sabe\"", "Enumera injustiças sociais e traições íntimas no mesmo registro de constatação resignada", "O tema central é o conhecimento que não gera ação, e não a ocultação da verdade", "Marca a reinvenção estética de Cohen, com sintetizadores e vocais de apoio femininos"],
     cenaOuTrechoChave: "A passagem em que a canção desloca a enumeração das injustiças econômicas e políticas para a traição amorosa doméstica, sem mudar o tom nem o ritmo, é o achado central do texto: coloca no mesmo plano o escândalo público e o privado, sugerindo que ambos são sustentados pela mesma cumplicidade silenciosa.",
+  },
+
+  // ---------- LISTA DA FUVEST 2026 (complementares nesta trilha) ----------
+  //
+  // As sete abaixo vêm do anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da
+  // resolução da FUVEST. Não constam de nenhum edital da FGV e por isso todas
+  // levam foraDoEdital2027. Servem de repertório para a redação e para as
+  // discursivas de Direito, e são a lista obrigatória da trilha de Medicina.
+
+  {
+    id: "obra-opusculo-humanitario",
+    titulo: "Opúsculo Humanitário",
+    autor: "Nísia Floresta",
+    categoria: "Ensaio",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    foraDoEdital2027: true,
+    resumo: "Reunião de artigos que Nísia Floresta publicou na imprensa em 1853 e depois organizou em livro, defendendo a educação das mulheres como condição do progresso de um país. O texto percorre a situação da instrução feminina em diferentes povos e períodos históricos para chegar a um diagnóstico do Brasil de meados do século XIX, onde a autora vê meninas educadas apenas para o casamento e para a aparência social. O argumento não é de igualdade abstrata: é utilitário e dirigido à elite dirigente, e sustenta que uma nação que mantém metade de sua população sem instrução não se moderniza de fato, por mais que importe ferrovias e códigos.",
+    analiseEixos: "O ensaio é um documento do projeto moderno em sua versão brasileira e, ao mesmo tempo, a denúncia de sua fratura: a autora aceita integralmente o vocabulário do progresso, da razão e da civilização, e usa esse mesmo vocabulário para mostrar que ele exclui as mulheres por decisão, não por acidente. É o tipo de crítica interna à modernidade que a banca costuma valorizar, porque não opõe tradição a progresso — mostra o progresso operando com uma exclusão embutida. O texto também antecipa em mais de um século o argumento hoje corrente de que indicadores de educação feminina predizem desenvolvimento.",
+    contextoHistorico: "Nísia Floresta Brasileira Augusta (1810-1885) é o pseudônimo de Dionísia Gonçalves Pinto, nascida no Rio Grande do Norte. Educadora e escritora, dirigiu o Colégio Augusto no Rio de Janeiro e viveu longos períodos na Europa, onde conviveu com o círculo do positivista Auguste Comte. Em 1832 já publicara \"Direitos das Mulheres e Injustiça dos Homens\", livre adaptação de Mary Wollstonecraft, e é reconhecida como uma das primeiras vozes feministas do Brasil. O \"Opúsculo Humanitário\" sai em 1853, no Segundo Reinado, quando a instrução formal feminina no país era rara e restrita às elites.",
+    pontosChave: ["Reunião de artigos de imprensa de 1853, depois organizados em livro", "Defende a educação feminina como condição do progresso nacional, em argumento dirigido à elite", "Percorre a instrução das mulheres em vários povos e épocas antes de julgar o Brasil", "Nísia Floresta é pseudônimo de Dionísia Gonçalves Pinto, potiguar, educadora e escritora", "Sua obra anterior, de 1832, adapta livremente Mary Wollstonecraft ao contexto brasileiro"],
+    cenaOuTrechoChave: "O movimento central do livro é comparativo: ao alinhar a condição da mulher brasileira à de outros povos e períodos, a autora retira do leitor a saída de tratar o atraso nacional como natureza ou destino, e o apresenta como escolha política de uma elite que se diz moderna.",
+  },
+  {
+    id: "obra-nebulosas",
+    titulo: "Nebulosas",
+    autor: "Narcisa Amália",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    foraDoEdital2027: true,
+    resumo: "Único livro de poemas publicado por Narcisa Amália, em 1872, reunindo composições de juventude que combinam o tom grandiloquente da poesia condoreira com temas incomuns para uma autora brasileira do período: a liberdade, a abolição, a condição da mulher e a contemplação do cosmos. O título dá a chave: as nebulosas são ao mesmo tempo objeto astronômico e imagem do que ainda não tomou forma, e vários poemas usam o céu, as estrelas e o infinito como espaço onde a poeta projeta ideais de justiça e de irmandade humana. A antologia alterna o registro cívico e combativo com poemas de intimidade e melancolia.",
+    analiseEixos: "O livro é um caso claro de como o século XIX brasileiro absorve a ciência dentro da linguagem poética: a astronomia entra não como assunto técnico, mas como repertório de imagens para pensar a pequenez humana e a fraternidade entre os povos, gesto típico do otimismo científico da modernidade. Ao mesmo tempo, a autora usa esse repertório universalista para falar de escravidão e da submissão feminina, questões locais e imediatas — a tensão entre o olhar cósmico e a denúncia concreta é o que dá interesse ao conjunto. Para a banca, é um exemplo de como o ideal moderno de progresso convive com a permanência de estruturas que ele deveria ter dissolvido.",
+    contextoHistorico: "Narcisa Amália de Campos (1852-1924), nascida em Resende, no Rio de Janeiro, foi a primeira brasileira a viver profissionalmente do jornalismo, dirigindo periódicos e assinando artigos em causa própria numa época em que a autoria feminina era objeto de escárnio. \"Nebulosas\" saiu em 1872, sob o Império e ainda sob a escravidão, e recebeu elogios de Machado de Assis e de Victor Hugo. Foi o único livro que publicou: a hostilidade que enfrentou, somada a um casamento infeliz e a perseguições, encerrou cedo sua carreira literária.",
+    pontosChave: ["Único livro de poemas de Narcisa Amália, publicado em 1872", "Combina poesia condoreira de tom cívico com imagens astronômicas e cósmicas", "Temas: liberdade, abolição, condição da mulher e fraternidade entre os povos", "A autora foi a primeira brasileira a viver profissionalmente do jornalismo", "Elogiada por Machado de Assis e Victor Hugo; não voltou a publicar livro"],
+    cenaOuTrechoChave: "Os poemas em que o eu lírico observa o céu noturno e vê nas sombras e nebulosas figuras de sonho e de sofrimento condensam o procedimento do livro: o infinito não serve à evasão, e sim de escala contra a qual as injustiças terrenas aparecem como pequenas e, por isso mesmo, indefensáveis.",
+  },
+  {
+    id: "obra-memorias-de-martha",
+    titulo: "Memórias de Martha",
+    autor: "Júlia Lopes de Almeida",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    foraDoEdital2027: true,
+    resumo: "Romance de 1899 narrado em primeira pessoa por Martha, que reconstitui a própria infância e juventude depois que a morte do pai leva a família a descer socialmente e a se instalar num cortiço do Rio de Janeiro. A narradora acompanha o convívio forçado, a vigilância mútua entre vizinhos e o trabalho da mãe como costureira, e vai construindo, pelo estudo e pelo trabalho, a saída daquela condição. A trajetória não é de golpe de sorte nem de casamento salvador: é lenta, feita de instrução e de esforço, e o romance dá tanto peso ao ambiente do cortiço quanto à formação interior da personagem que consegue deixá-lo.",
+    analiseEixos: "O livro põe o cortiço no centro como espaço que forma as pessoas — o mesmo espaço que Antonio Candido descreveria como \"centro de convergência\" ao analisar o romance de Aluísio Azevedo. A diferença de tratamento é o que interessa: onde o naturalismo vê o meio determinando o indivíduo sem resto, aqui a instrução aparece como força capaz de romper esse determinismo, e a modernização urbana surge com as duas faces, a que empurra a família para baixo e a que oferece à filha uma saída pelo estudo. É a modernidade brasileira mostrada como promessa cumprida pela metade, e cumprida individualmente, nunca para o conjunto dos moradores.",
+    contextoHistorico: "Júlia Lopes de Almeida (1862-1934) foi uma das escritoras mais lidas e prestigiadas do Brasil na virada do século XIX para o XX, com romances, crônicas, teatro e livros de conselhos domésticos. Participou das articulações que levaram à fundação da Academia Brasileira de Letras, mas ficou de fora por ser mulher — quem entrou foi seu marido, o poeta Filinto de Almeida. \"Memórias de Martha\" é de 1899, no Rio da Primeira República, cidade que crescia com a imigração e a migração interna e onde o cortiço era a forma de moradia popular predominante, poucos anos antes das reformas urbanas que os demoliriam.",
+    pontosChave: ["Romance de 1899 narrado em primeira pessoa pela própria protagonista", "A morte do pai leva Martha e a mãe a descer socialmente e morar num cortiço carioca", "A ascensão da personagem se dá por instrução e trabalho, não por casamento", "O cortiço é tratado como espaço formador, e não apenas como cenário de miséria", "A autora foi preterida na fundação da ABL por ser mulher; seu marido foi admitido"],
+    cenaOuTrechoChave: "A convivência diária no cortiço — a falta de privacidade, o julgamento das vizinhas, a costura da mãe atravessando a noite — é o que dá densidade à saída posterior de Martha: o romance faz questão de mostrar quanto custa sair, e quantos ficam.",
+  },
+  {
+    id: "obra-o-cristo-cigano",
+    titulo: "O Cristo Cigano",
+    autor: "Sophia de Mello Breyner Andresen",
+    categoria: "Literatura",
+    origem: "Estrangeira",
+    eixo: "modernidade-posmodernidade",
+    foraDoEdital2027: true,
+    resumo: "Poema narrativo longo, publicado em 1961, construído a partir de uma história de tradição popular sobre um cigano encarregado de esculpir uma imagem de Cristo. Dividido em partes, o texto conta essa história em verso, alternando a voz que narra e as vozes das personagens, e opõe dois mundos: o do poder e da riqueza que encomenda a obra sacra, e o do artista marginal e perseguido de quem se espera que a produza. A escultura do Cristo torna-se o ponto em que essas duas ordens se encontram, e o poema deixa em aberto quem, na cena, está mais próximo do sagrado que a imagem representa.",
+    analiseEixos: "Sophia escreve sob o Estado Novo salazarista, e o poema faz o que a censura tornava difícil fazer diretamente: discute justiça, poder e exclusão usando o vocabulário do sagrado e da lenda. O interesse para o eixo está na desconfiança em relação às instituições que se apresentam como guardiãs dos valores universais — a arte religiosa encomendada pelos poderosos aparece como aparato de legitimação, enquanto a experiência do sagrado se desloca para quem está fora da ordem social. É a crítica moderna à autoridade instituída feita na chave da poesia, e não do panfleto.",
+    contextoHistorico: "Sophia de Mello Breyner Andresen (1919-2004) é uma das maiores poetas portuguesas do século XX e foi a primeira mulher a receber o Prêmio Camões, em 1999. Católica e opositora declarada do salazarismo, foi ativa na resistência democrática e elegeu-se deputada pelo Partido Socialista após a Revolução dos Cravos. \"O Cristo Cigano\" saiu em 1961, ano em que começa a Guerra Colonial portuguesa e em que o regime endurece a repressão interna. Sua poesia é conhecida pela clareza da imagem, pela ligação com o mar e com a Grécia clássica e por uma exigência ética constante.",
+    pontosChave: ["Poema narrativo longo publicado em 1961, dividido em partes", "Parte de uma história de tradição popular sobre um cigano que esculpe um Cristo", "Opõe o mundo do poder que encomenda a obra ao do artista marginalizado", "Sophia foi opositora do salazarismo e primeira mulher a ganhar o Prêmio Camões", "Publicado no ano de início da Guerra Colonial e de endurecimento do regime"],
+    cenaOuTrechoChave: "O encontro entre quem encomenda a imagem sagrada e quem tem as mãos para fazê-la é o eixo do poema: a obra de arte religiosa nasce de uma relação desigual, e o texto obriga o leitor a decidir de que lado dessa relação o sagrado efetivamente está.",
+  },
+  {
+    id: "obra-balada-de-amor-ao-vento",
+    titulo: "Balada de Amor ao Vento",
+    autor: "Paulina Chiziane",
+    categoria: "Literatura",
+    origem: "Estrangeira",
+    eixo: "ambos",
+    foraDoEdital2027: true,
+    resumo: "Primeiro romance publicado por uma mulher em Moçambique, de 1990, narrado por Sarnau, que reconstitui o amor de juventude por Mwando e tudo o que veio depois dele. A relação não sobrevive às regras que a cercam: a família, o lobolo, a expectativa religiosa e a poligamia decidem por eles, e cada um segue um caminho que não escolheu. Sarnau casa-se com um rei e passa a viver dentro de um sistema poligâmico, e o romance acompanha essa vida por dentro, com as alianças e as rivalidades entre as esposas. O reencontro tardio dos dois amantes não repara nada: mostra o tamanho do que foi perdido.",
+    analiseEixos: "O romance é útil aos dois eixos ao mesmo tempo. Na chave da globalização, mostra um Moçambique onde tradição local e cristianismo trazido de fora disputam a definição do que é casamento, família e pecado, sem que nenhum dos dois sistemas liberte a mulher. Na chave da modernidade, expõe a promessa de emancipação que não chega à vida das mulheres: a independência do país e as instituições modernas não desmontam as estruturas que decidem por Sarnau. Ao narrar a poligamia de dentro, e não como curiosidade etnográfica, o livro recusa tanto a idealização da tradição quanto a leitura colonial que a trataria como atraso.",
+    contextoHistorico: "Paulina Chiziane (1955) nasceu em Manjacaze, Moçambique, e tornou-se a primeira mulher moçambicana a publicar um romance, com \"Balada de Amor ao Vento\", em 1990. Recebeu o Prêmio Camões em 2021, a primeira escritora africana a ganhá-lo. Militou na Frelimo na juventude e depois se afastou; costuma recusar o rótulo de romancista, dizendo-se contadora de histórias na tradição oral de seu povo. O livro sai quinze anos após a independência de Portugal e em meio à guerra civil moçambicana, período em que o país discutia o que manter e o que abandonar de suas tradições.",
+    pontosChave: ["Primeiro romance publicado por uma mulher em Moçambique, em 1990", "Narrado por Sarnau, que reconstitui o amor frustrado por Mwando", "Trata a poligamia por dentro, pelas alianças e rivalidades entre as esposas", "Opõe tradição local e cristianismo sem que nenhum dos dois emancipe a mulher", "Paulina Chiziane foi a primeira escritora africana a receber o Prêmio Camões, em 2021"],
+    cenaOuTrechoChave: "A entrada de Sarnau na casa poligâmica é o centro do livro: o que poderia ser descrito de fora como costume exótico aparece como uma economia doméstica de poder, com hierarquia, disputa por recursos e afeto negociado, e é essa visão de dentro que sustenta a crítica.",
+  },
+  {
+    id: "obra-cancao-para-ninar-menino-grande",
+    titulo: "Canção para Ninar Menino Grande",
+    autor: "Conceição Evaristo",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    foraDoEdital2027: true,
+    resumo: "Romance de 2018 construído em torno de Fio, homem negro cuja vida é contada pelas relações que teve com várias mulheres, cada uma delas com história e voz próprias. A narrativa avança por fragmentos e camadas de memória, sem cronologia contínua, e o que se examina não é a biografia do protagonista, e sim uma masculinidade formada em condições de violência, abandono e desamparo afetivo. O livro abre com uma introdução em que a autora reflete sobre o próprio ofício: escrever a partir da vida vivida, e sobre a dificuldade de transpor para a escrita o silêncio e a hesitação da fala lembrada.",
+    analiseEixos: "A obra interessa ao eixo pela recusa da forma romanesca tradicional e pela desconfiança quanto à possibilidade de contar uma vida inteira de um só ponto de vista: a fragmentação, as vozes múltiplas e a interrupção do relato são gestos formais que a crítica reconhece como pós-modernos, aqui postos a serviço de uma experiência histórica específica. A escrevivência, conceito que a autora formulou, articula memória individual e memória coletiva de mulheres negras, e desloca a autoridade de quem narra — quem escreve não observa de fora, escreve de dentro, e diz isso no próprio texto.",
+    contextoHistorico: "Conceição Evaristo (1946), nascida em uma favela de Belo Horizonte e formada em Letras, é uma das autoras centrais da literatura brasileira contemporânea e criadora do conceito de escrevivência, que descreve a escrita a partir da experiência vivida de mulheres negras. Publicou \"Ponciá Vicêncio\" (2003), \"Becos da Memória\" (2006) e \"Olhos d'Água\" (2014), entre outros. \"Canção para Ninar Menino Grande\" é de 2018 e chega num momento de forte circulação da literatura negra brasileira, com a autora já reconhecida internacionalmente e reivindicada como referência por movimentos sociais.",
+    pontosChave: ["Romance de 2018 centrado em Fio, homem negro, contado pelas mulheres de sua vida", "Narrativa fragmentada, sem cronologia contínua, com vozes femininas múltiplas", "Examina a formação de uma masculinidade em contexto de violência e desamparo", "A introdução discute o próprio ofício de escrever a partir da memória", "Aplica a escrevivência, conceito formulado pela autora, à experiência de mulheres negras"],
+    cenaOuTrechoChave: "A introdução, em que a narradora se pergunta se ouviu direito e observa que a grafia não registra a intensidade de um silêncio, é a chave de leitura do romance inteiro: o livro assume que contar é sempre incompleto, e faz dessa incompletude o seu método.",
+  },
+  {
+    id: "obra-a-visao-das-plantas",
+    titulo: "A Visão das Plantas",
+    autor: "Djaimilia Pereira de Almeida",
+    categoria: "Literatura",
+    origem: "Estrangeira",
+    eixo: "globalizacao",
+    foraDoEdital2027: true,
+    resumo: "Romance curto de 2019 sobre Celestino, antigo capitão de navio negreiro e pirata, que passa a velhice recolhido numa casa com jardim, cuidando de plantas. O livro alterna o presente dessa velhice quase silenciosa com o passado de violência extrema no mar, incluindo o episódio em que ele asfixia com cal os africanos escravizados que restavam no porão depois de uma revolta. Não há arrependimento declarado nem julgamento explícito do narrador: o que o romance oferece é a convivência desconfortável entre o horror cometido e a mansidão senil de quem o cometeu, com as plantas do quintal ocupando o lugar que antes foi do oceano.",
+    analiseEixos: "O tráfico atlântico é o caso fundador da globalização, e o romance o aborda pelo ângulo menos frequentado: não pela vítima, e sim pelo agente, e não no auge, e sim na sobrevida. Ao recusar tanto a punição narrativa quanto a redenção, o livro obriga o leitor a pensar o que acontece com a violência histórica quando ela não é ajustada de contas — ela não desaparece, apenas muda de escala e passa a habitar um jardim em Portugal. É uma reflexão sobre a herança colonial que continua presente nas sociedades que a produziram, tema central do eixo da globalização.",
+    contextoHistorico: "Djaimilia Pereira de Almeida (1982) nasceu em Luanda, Angola, e foi criada nos arredores de Lisboa. Doutora em teoria literária, é uma das vozes mais reconhecidas da literatura de língua portuguesa contemporânea, com obras que examinam as marcas do colonialismo português na vida presente, como \"Esse Cabelo\" (2015) e \"Luanda, Lisboa, Paraíso\" (2018). \"A Visão das Plantas\" saiu em 2019 e recebeu o Prêmio Oceanos, num momento em que Portugal debatia publicamente como tratar seu passado colonial e escravista na memória oficial.",
+    pontosChave: ["Romance curto de 2019 sobre Celestino, ex-capitão de navio negreiro e pirata", "Alterna a velhice silenciosa no jardim com o passado de violência no mar", "Inclui o episódio em que asfixia com cal os africanos sobreviventes de uma revolta", "Recusa tanto a punição narrativa quanto o arrependimento redentor do protagonista", "A autora nasceu em Luanda, foi criada em Portugal e recebeu o Prêmio Oceanos por este livro"],
+    cenaOuTrechoChave: "A frase em que o velho, no quintal, já não se julga no mar onde navegou, mas num \"mar outro, sem homens e sem tempo\", condensa o livro: o cenário do crime é substituído por uma versão dele esvaziada de vítimas, que é exatamente o que uma memória sem acerto de contas produz.",
   },
 ];

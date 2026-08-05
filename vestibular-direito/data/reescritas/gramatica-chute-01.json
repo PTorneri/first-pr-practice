@@ -1,0 +1,185 @@
+{
+  "subtopic": "gramatica",
+  "questoes": [
+    {
+      "id": "gramatica-10",
+      "texto_apoio": "\"Aluga-se apartamentos mobiliados no centro da cidade.\"",
+      "enunciado": "Sobre a concordância verbal com a partícula 'se', é correto afirmar que",
+      "alternativas": {
+        "a": "a frase está correta, pois 'se' é aqui índice de indeterminação do sujeito, o que mantém o verbo no singular.",
+        "b": "a frase está incorreta; como 'apartamentos' é o sujeito paciente da oração, o verbo deveria concordar no plural: 'Alugam-se apartamentos'.",
+        "c": "a frase está incorreta; o correto seria 'alugam-se de apartamentos', com a preposição exigida pelo verbo.",
+        "d": "a frase está correta, porque o sujeito 'apartamentos' vem posposto ao verbo, e a norma dispensa a concordância quando o sujeito segue a forma verbal.",
+        "e": "a frase está incorreta porque falta a preposição 'de' antes de 'apartamentos', complemento exigido pelo verbo 'alugar' nessa construção."
+      },
+      "resposta": "b",
+      "explicacao": "'Alugar' é transitivo direto, e 'apartamentos' é o sujeito paciente da passiva sintética — daí o plural 'Alugam-se'. Em (a) está a confusão que decide a questão: 'se' só é índice de indeterminação com verbo intransitivo ou transitivo indireto, casos em que não há sujeito a concordar; com transitivo direto, é partícula apassivadora. Em (d), a posposição do sujeito não dispensa concordância. Em (c) e (e), 'alugar' não rege preposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-14",
+      "texto_apoio": "\"Segundo dados da pesquisa, a maioria dos entrevistados afirmaram estar satisfeitos com o novo sistema.\"",
+      "enunciado": "Sobre a concordância verbal com a expressão 'a maioria dos entrevistados', é correto afirmar que",
+      "alternativas": {
+        "a": "o verbo só pode ir para o plural quando a expressão partitiva aparece no início do período.",
+        "b": "o verbo deve ficar no singular, porque o núcleo do sujeito é 'maioria' e o adjunto 'dos entrevistados' não interfere na concordância.",
+        "c": "o verbo deve concordar no plural, sendo a frase apresentada a única forma correta, já que 'maioria' perde a força de núcleo diante do adjunto plural.",
+        "d": "a concordância é atraída pelo termo mais próximo do verbo, regra que aqui impõe o plural 'afirmaram' e exclui o singular.",
+        "e": "o verbo pode ir ao singular, com o núcleo 'maioria', ou ao plural, por atração com 'entrevistados' — a norma culta aceita as duas."
+      },
+      "resposta": "e",
+      "explicacao": "Com expressões partitivas seguidas de substantivo plural, a norma culta admite as duas concordâncias: 'a maioria afirmou' e 'a maioria dos entrevistados afirmaram'. Em (b) está a resposta mais defensável entre as erradas, e é a que os manuais escolares costumam ensinar como única — a análise do núcleo está certa, mas a conclusão de que só o singular cabe não é a da norma culta. Em (c) e (d), o erro é simétrico: elege-se o plural como forma única. Em (a), a posição no período é irrelevante.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-16",
+      "texto_apoio": "\"Fui na casa dela ontem à tarde e conversamos sobre o novo projeto que ela irá apresentar na faculdade.\"",
+      "enunciado": "Sobre a regência do verbo 'ir' na frase, a norma culta recomenda que",
+      "alternativas": {
+        "a": "não há preposição adequada para reger o verbo 'ir' nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento.",
+        "b": "a construção 'fui na casa' está adequada, pois com nomes de lugar determinados o verbo 'ir' rege a preposição 'em'.",
+        "c": "a construção 'fui até a casa dela' é a única aceita pela norma culta, por explicitar o percurso completo.",
+        "d": "a construção mais adequada à norma culta é 'fui à casa dela', com a preposição 'a' indicando destino, unida por crase ao artigo feminino.",
+        "e": "a construção correta seria 'fui para a casa dela', já que 'para' indica destino com permanência e 'a' caberia apenas em deslocamentos breves."
+      },
+      "resposta": "d",
+      "explicacao": "'Ir' indicando destino rege 'a', e o encontro dessa preposição com o artigo de 'a casa' produz a crase: 'fui à casa dela'. Em (e) está o distrator mais bem informado: a distinção entre 'a' (deslocamento breve) e 'para' (permanência) existe de fato na tradição gramatical, mas ela não torna 'para' obrigatório aqui, e sim opcional. Em (b), 'em' com verbo de movimento é traço de oralidade. Em (c), 'até' é possível, não exclusivo. Em (a), 'ir' é transitivo indireto nesse uso.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-17",
+      "texto_apoio": "\"Comprei um relógio de pulso, uma camisa listrada, e um par de sapatos pretos para a formatura.\"",
+      "enunciado": "Do ponto de vista da pontuação em enumerações, a frase apresenta um desvio porque",
+      "alternativas": {
+        "a": "a vírgula depois de 'listrada' é que está sobrando, pois só se separam por vírgula os dois primeiros itens de uma série.",
+        "b": "não se usa vírgula antes do 'e' que liga o último elemento de uma enumeração simples; a vírgula antes de 'e um par' é desnecessária.",
+        "c": "faltam vírgulas separando os adjetivos de cada item, já que 'de pulso', 'listrada' e 'pretos' qualificam substantivos diferentes entre si.",
+        "d": "a vírgula antes de 'e' é exigida quando a enumeração tem três ou mais itens, recurso que evita ambiguidade na leitura.",
+        "e": "os itens deveriam vir separados por ponto e vírgula, e não por vírgula, por se tratar de enumeração com mais de dois elementos."
+      },
+      "resposta": "b",
+      "explicacao": "Em enumeração simples, o 'e' que liga o último termo já cumpre a função de separação, e a vírgula antes dele sobra. Em (d) está o distrator mais tentador, porque descreve a vírgula de série do inglês, que muita gente supõe valer também em português — em português ela só se justifica quando os termos têm sujeitos distintos ou há risco real de ambiguidade. Em (a), a vírgula entre os dois primeiros itens está correta. Em (c) e (e), não faltam vírgulas nem cabe ponto e vírgula numa série curta.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-23",
+      "texto_apoio": "\"Livros, cadernos, canetas, nada foi esquecido na mochila.\"",
+      "enunciado": "Sobre a concordância verbal na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "está incorreta porque falta uma vírgula antes de 'nada', termo recapitulativo que precisaria vir isolado do restante do período.",
+        "b": "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: 'nada foram esquecidos', por regra de concordância com sujeitos compostos.",
+        "c": "está correta apenas porque a enumeração antecede o verbo; se viesse depois, a concordância teria de ser feita no plural.",
+        "d": "está correta; quando um sujeito composto é resumido por um pronome indefinido como 'nada' ou 'tudo', o verbo concorda com esse pronome.",
+        "e": "está incorreta; o pronome resumidor exige que o verbo concorde com o núcleo mais próximo do sujeito composto."
+      },
+      "resposta": "d",
+      "explicacao": "O pronome recapitulativo assume o lugar do sujeito composto, e o verbo concorda com ele: 'nada foi esquecido'. Em (b) está o erro mais natural, porque a enumeração plural puxa a leitura para 'foram esquecidos' — é justamente essa atração que a regra do pronome resumidor bloqueia. Em (c), a ordem dos termos não altera a concordância. Em (e), o núcleo mais próximo é o próprio 'nada'. Em (a), a vírgula antes do recapitulativo já está lá.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-27",
+      "texto_apoio": "\"O candidato aprovado está apto para assumir o cargo, desde que seja obediente às normas internas da empresa.\"",
+      "enunciado": "Sobre a regência nominal dos termos destacados, é correto afirmar que",
+      "alternativas": {
+        "a": "nenhuma das regências empregadas está de acordo com a norma culta, que exigiria 'apto a' e 'obediente para' nessa construção nominal.",
+        "b": "'apto para' está correto, mas 'obediente às' exige a preposição 'de', e não 'a'.",
+        "c": "'obediente às' está incorreto; o correto seria 'obediente para', preposição que o adjetivo 'obediente' exigiria nessa construção formal.",
+        "d": "'apto para' está incorreto; a norma culta registra apenas 'apto a', com a preposição 'a' regendo o complemento do adjetivo nesse tipo de construção.",
+        "e": "'apto para' e 'obediente às' estão de acordo com a norma culta, que admite a preposição 'para' ou 'a' após 'apto', e exige 'a' após 'obediente'."
+      },
+      "resposta": "e",
+      "explicacao": "'Apto' aceita 'a' ou 'para', e 'obediente' rege 'a' — as duas construções da frase estão corretas. Em (d) está o distrator mais forte: 'apto a' é de fato regência legítima e a mais citada nos manuais, mas ser a mais citada não a torna exclusiva, e 'apto para' é igualmente aceita. Em (a), a inversão proposta erra as duas. Em (b) e (c), 'obediente' não rege 'de' nem 'para'.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-28",
+      "texto_apoio": "\"Quando cheguei no aeroporto, o avião já tinha partido; cheguei em casa, então, muito mais tarde do que o previsto.\"",
+      "enunciado": "De acordo com a norma culta, qual é a regência recomendada para o verbo 'chegar' indicando lugar?",
+      "alternativas": {
+        "a": "O verbo 'chegar' rege obrigatoriamente a preposição 'até', por indicar deslocamento com ponto final definido.",
+        "b": "O verbo 'chegar' rege a preposição 'em' diante de lugar fechado e a preposição 'a' diante de lugar aberto.",
+        "c": "É indiferente, para a norma culta, usar 'a', 'em' ou 'no' com o verbo 'chegar', já que as três preposições seriam plenamente equivalentes nesse tipo de regência.",
+        "d": "'Chegar em' é a forma da norma culta escrita, e 'chegar a' é um arcaísmo hoje restrito a textos literários do século XIX.",
+        "e": "O verbo 'chegar', indicando lugar, rege preferencialmente 'a' na norma culta escrita: 'cheguei ao aeroporto'; 'chegar em' é mais associado à oralidade."
+      },
+      "resposta": "e",
+      "explicacao": "A norma culta escrita recomenda 'chegar a' para indicar destino, e 'chegar em/no' pertence ao registro falado. Em (c) está a alternativa que mais engana, porque a frequência de 'cheguei no aeroporto' na fala sugere equivalência plena — a norma escrita mantém a preferência, e é sobre ela que a questão pergunta. Em (d), a relação está invertida. Em (b), a distinção entre lugar fechado e aberto não existe para 'chegar'. Em (a), 'até' é possível, não obrigatório.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-34",
+      "texto_apoio": "\"As candidatas ficaram bastante confiantes após a prova, embora estivessem meia inseguras com os resultados finais.\"",
+      "enunciado": "Sobre a concordância nominal na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "'bastante' deveria ser flexionado no plural, pois acompanha substantivo no plural.",
+        "b": "'meia' está correto, pois concorda com 'inseguras', adjetivo feminino plural que o modificador acompanha em gênero.",
+        "c": "'bastante' e 'meia' estão corretamente flexionados, pois concordam com 'candidatas', substantivo feminino plural que regeria ambos os modificadores da frase.",
+        "d": "ambas as palavras deveriam ir ao plural, concordando com 'candidatas', núcleo do sujeito a que os dois termos se referem.",
+        "e": "'bastante' está correto, pois é advérbio e invariável; 'meia', porém, deveria ser 'meio', igualmente invariável nesse uso."
+      },
+      "resposta": "e",
+      "explicacao": "Diante de adjetivo, 'meio' é advérbio e não flexiona: 'meio inseguras'. 'Bastante', com valor de 'muito', também é invariável nesse emprego. Em (b) está o raciocínio mais sedutor, porque parece aplicar concordância de gênero corretamente — mas advérbio não concorda com nada, e é essa a natureza de 'meio' aqui. Em (c) e (d), o erro é o mesmo, estendido às duas palavras. Em (a), 'bastante' modifica o adjetivo, não o substantivo.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-35",
+      "texto_apoio": "\"Machado de Assis o maior escritor da literatura brasileira nasceu no Rio de Janeiro em 1839.\"",
+      "enunciado": "Sobre a pontuação da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "a frase está corretamente pontuada, pois o aposto vem imediatamente após o nome próprio e a proximidade dispensa as vírgulas.",
+        "b": "o trecho 'o maior escritor da literatura brasileira' é adjunto adnominal, e não aposto, razão pela qual não se separa por vírgulas.",
+        "c": "o aposto explicativo 'o maior escritor da literatura brasileira' deveria vir isolado por vírgulas dos dois lados.",
+        "d": "deveria haver apenas um ponto de exclamação após 'brasileira', marca de ênfase que substituiria integralmente a necessidade de isolar o aposto por vírgulas.",
+        "e": "o aposto está corretamente pontuado, pois apostos explicativos dispensam vírgula quando aparecem no fim do período."
+      },
+      "resposta": "c",
+      "explicacao": "O aposto explicativo acrescenta informação sem ser exigido pela sintaxe da oração, e por isso vem isolado: 'Machado de Assis, o maior escritor da literatura brasileira, nasceu...'. Em (b) está a análise que mais convence entre as erradas, porque adjunto adnominal de fato não se separa por vírgula — o trecho, porém, é um sintagma nominal que identifica o termo anterior, e não um modificador dele. Em (a) e (e), a posição do aposto não dispensa a pontuação. Em (d), não cabe exclamação.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-36",
+      "texto_apoio": "\"A escola informou os pais do novo calendário de provas, mas alguns alunos não foram informados sobre a mudança.\"",
+      "enunciado": "Sobre a regência do verbo 'informar' no texto, é correto afirmar que",
+      "alternativas": {
+        "a": "apenas uma das construções está de acordo com a norma culta, sendo a outra um erro grave que comprometeria a compreensão da mensagem enviada aos pais.",
+        "b": "o verbo 'informar' é transitivo direto, e o trecho 'sobre a mudança' funciona como adjunto adverbial, não como complemento.",
+        "c": "o verbo 'informar' admite duas construções na norma culta — 'informar alguém de/sobre algo' e 'informar algo a alguém' —, ambas presentes no texto.",
+        "d": "a regência de 'informar' segue a de 'avisar', que exigiria a preposição 'de' antes do complemento que indica pessoa.",
+        "e": "o verbo 'informar' exige a preposição 'sobre' antes do complemento que indica o assunto, o que invalida 'do novo calendário'."
+      },
+      "resposta": "c",
+      "explicacao": "'Informar' é bitransitivo e aceita as duas ordens: informa-se alguém de algo ou algo a alguém — as duas ocorrências do texto estão certas. Em (e) está o erro mais comum, porque 'sobre' soa mais natural e leva a rejeitar 'do novo calendário'; a preposição 'de' é igualmente legítima nessa regência. Em (b), há dois complementos, não um. Em (d), 'avisar' tem regência própria e não serve de modelo. Em (a), nenhuma das duas está errada.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-44",
+      "texto_apoio": "\"Esqueci completamente o aniversário da minha prima e só me esqueci do presente porque estava sobrecarregado de trabalho naquela semana.\"",
+      "enunciado": "Sobre a regência do verbo 'esquecer' nas duas ocorrências da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "nenhuma das duas está de acordo com a norma culta, que exigiria a preposição 'de' nos dois casos: 'esqueci do aniversário' e 'esqueci-me do presente' na mesma construção.",
+        "b": "ambas as construções estão corretas: 'esquecer algo', sem o pronome 'se', é transitivo direto; 'esquecer-se de algo', com o pronome, exige a preposição 'de'.",
+        "c": "a primeira ocorrência está incorreta; mesmo sem o pronome, o verbo exige a preposição 'de': 'esqueci do aniversário'.",
+        "d": "as duas construções são aceitas, mas a forma pronominal é a única recomendada em registro escrito formal.",
+        "e": "a segunda ocorrência está incorreta; deveria ser 'me esqueci o presente', sem preposição, já que o pronome 'me' dispensaria o uso de 'de'."
+      },
+      "resposta": "b",
+      "explicacao": "A presença do pronome muda a regência: sem ele, 'esquecer' é transitivo direto ('esqueci o aniversário'); com ele, exige 'de' ('esqueci-me do presente'). As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente da fala brasileira — 'esqueci do aniversário' é corrente, mas mistura as duas regências. Em (a), o mesmo erro generalizado. Em (e), a inversão é dupla. Em (d), a forma não pronominal também é de norma culta.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-45",
+      "texto_apoio": "\"O projeto reúne três eixos principais: capacitação de professores, reforma de bibliotecas e distribuição de material didático.\"",
+      "enunciado": "Sobre o uso dos dois-pontos na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "deveria ser substituído por ponto final, encerrando a frase antes da enumeração e transformando os três eixos em uma oração à parte.",
+        "b": "está correto, pois os dois-pontos introduzem uma enumeração que detalha o termo anterior, 'três eixos principais'.",
+        "c": "deveria ser substituído por vírgula, já que a enumeração não explica o termo anterior, apenas o continua.",
+        "d": "está incorreto; a enumeração já vem anunciada por 'três eixos principais', e os dois-pontos apenas repetem essa informação.",
+        "e": "está incorreto, pois os dois-pontos exigem oração completa depois deles, e aqui seguem-se apenas sintagmas nominais."
+      },
+      "resposta": "b",
+      "explicacao": "Anunciar um termo genérico e detalhá-lo em seguida é o emprego clássico dos dois-pontos, e é o que a frase faz. Em (e) está a objeção mais técnica e mais errada: os dois-pontos introduzem enumerações, citações e explicações, e não exigem oração completa depois. Em (d), o anúncio prévio é a condição do uso, não um impedimento. Em (c), a enumeração explica o termo anterior. Em (a), o ponto final quebraria a relação entre os eixos e o que os nomeia.",
+      "formato": "direta"
+    }
+  ]
+}

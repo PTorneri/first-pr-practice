@@ -3634,6 +3634,459 @@ window.QUESTION_BANKS = {
                        "resposta":  "b",
                        "explicacao":  "A energia cinética inicial é 2,0 x 36 ÷ 2 = 36 J, integralmente dissipada pelo atrito ao longo de 9,0 m. A força de atrito é 36 ÷ 9,0 = 4,0 N, e o coeficiente é essa força dividida pela normal: 4,0 ÷ (2,0 x 10) = 0,20. A massa aparece nos dois lados e poderia ser dispensada.",
                        "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-91",
+                       "texto_apoio":  "Um carro de 1.200 kg faz uma curva plana de raio 50 m com velocidade constante de 15 m/s. A força que mantém o veículo na trajetória curva é o atrito entre os pneus e o asfalto. Adote g = 10 m/s².",
+                       "enunciado":  "O coeficiente de atrito mínimo necessário para que o carro não derrape é de:",
+                       "alternativas":  {
+                                            "a":  "0,45",
+                                            "b":  "0,30",
+                                            "c":  "0,15",
+                                            "d":  "0,90",
+                                            "e":  "1,50"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A força centrípeta necessária é mv²/R, e o atrito máximo é μmg. Igualando: μ = v² ÷ (gR) = 225 ÷ 500 = 0,45. A massa se cancela — um caminhão e um carro derrapam na mesma velocidade, para o mesmo raio e o mesmo piso.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-92",
+                       "texto_apoio":  "Uma alavanca interfixa é usada para levantar uma pedra de 900 N. O ponto de apoio fica a 30 cm da pedra, e o operador aplica força na extremidade oposta, a 120 cm do apoio.",
+                       "enunciado":  "A força mínima que o operador precisa aplicar é de:",
+                       "alternativas":  {
+                                            "a":  "225 N",
+                                            "b":  "3.600 N",
+                                            "c":  "900 N",
+                                            "d":  "450 N",
+                                            "e":  "150 N"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "No equilíbrio, os torques em relação ao apoio se igualam: 900 x 0,30 = F x 1,20, logo F = 225 N. A alavanca multiplica a força por quatro, mas exige que o operador percorra quatro vezes mais distância — o trabalho se conserva.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-93",
+                       "texto_apoio":  "Um mergulhador desce até 30 m de profundidade em água de densidade 1.000 kg/m³. A pressão atmosférica na superfície vale 1,0 × 10⁵ Pa e g = 10 m/s².",
+                       "enunciado":  "A pressão total suportada pelo mergulhador nessa profundidade é de:",
+                       "alternativas":  {
+                                            "a":  "4,0 × 10⁵ Pa",
+                                            "b":  "3,0 × 10⁵ Pa",
+                                            "c":  "1,0 × 10⁵ Pa",
+                                            "d":  "3,0 × 10⁶ Pa",
+                                            "e":  "4,0 × 10⁴ Pa"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A pressão hidrostática é ρgh = 1.000 x 10 x 30 = 3,0 x 10⁵ Pa. Somando a atmosférica: 4,0 x 10⁵ Pa, ou cerca de quatro atmosferas. A alternativa (b) esquece a coluna de ar acima da água, que atua sobre a superfície e se transmite integralmente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-94",
+                       "texto_apoio":  "Um bloco de alumínio de 500 g a 20 °C recebe 4.500 J de calor. O calor específico do alumínio é 0,90 J·g⁻¹·°C⁻¹.",
+                       "enunciado":  "A temperatura final do bloco é de:",
+                       "alternativas":  {
+                                            "a":  "30 °C",
+                                            "b":  "10 °C",
+                                            "c":  "50 °C",
+                                            "d":  "120 °C",
+                                            "e":  "25 °C"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A variação de temperatura é Q ÷ (m x c) = 4.500 ÷ (500 x 0,90) = 10 °C. Somando à inicial: 30 °C. A alternativa (b) apresenta apenas a variação, esquecendo de somá-la à temperatura de partida — omissão frequente nesse tipo de item.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-95",
+                       "texto_apoio":  "Um espelho convexo é usado como retrovisor externo em veículos. A imagem que ele fornece permite enxergar uma região mais ampla que a de um espelho plano de mesmo tamanho, mas os objetos parecem mais distantes do que estão.",
+                       "enunciado":  "A imagem formada por esse espelho é sempre ______, ______ e ______, seja qual for a posição do objeto. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "virtual – direita – reduzida",
+                                            "b":  "real – invertida – ampliada",
+                                            "c":  "virtual – invertida – ampliada",
+                                            "d":  "real – direita – reduzida",
+                                            "e":  "virtual – direita – ampliada, o que explica a advertência gravada nos retrovisores sobre a distância aparente dos objetos observados"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O espelho convexo forma sempre imagem virtual, direita e menor que o objeto, qualquer que seja sua posição. É justamente a redução que amplia o campo de visão, e é ela que faz os objetos parecerem mais longe — daí o aviso gravado no vidro.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "fisica-96",
+                       "texto_apoio":  "Uma pessoa míope precisa de lentes de vergência −2,0 di para corrigir sua visão. A vergência é o inverso da distância focal expressa em metros.",
+                       "enunciado":  "A distância focal da lente prescrita e sua natureza são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "−0,50 m e divergente",
+                                            "b":  "−2,0 m e divergente, valor que corresponde diretamente à vergência informada sem qualquer necessidade de conversão entre as grandezas",
+                                            "c":  "+0,50 m e convergente, condição adequada à correção da miopia por aproximar o ponto de convergência dos raios até a superfície da retina",
+                                            "d":  "−0,20 m e divergente, resultado obtido pela divisão da unidade pelo quadrado da vergência prescrita para o paciente em questão",
+                                            "e":  "+2,0 m e convergente, uma vez que lentes de correção sempre apresentam distância focal positiva independentemente do defeito tratado"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A distância focal é o inverso da vergência: 1 ÷ (−2,0) = −0,50 m. Sinal negativo indica lente divergente, que é a usada na miopia — ela afasta o ponto de convergência dos raios, trazendo a imagem para a retina em vez de antes dela.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-97",
+                       "texto_apoio":  "Uma onda eletromagnética propaga-se no vácuo com velocidade de 3,0 × 10⁸ m/s. Ao penetrar num meio de índice de refração 1,5, sua frequência permanece inalterada.",
+                       "enunciado":  "No novo meio, a velocidade e o comprimento de onda da radiação, comparados aos valores no vácuo, são:",
+                       "alternativas":  {
+                                            "a":  "ambos inalterados, já que a frequência não muda e as três grandezas se relacionam de forma diretamente proporcional entre si na equação",
+                                            "b":  "ambos aumentados em um fator 1,5, uma vez que o meio material fornece energia adicional à onda durante sua propagação pelo interior dele",
+                                            "c":  "a velocidade reduzida e o comprimento de onda aumentado, ambos no mesmo fator, o que mantém constante o produto entre as duas grandezas",
+                                            "d":  "a velocidade inalterada e o comprimento de onda reduzido, condição que decorre da constância da velocidade da luz em qualquer referencial",
+                                            "e":  "ambos reduzidos em um fator 1,5"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O índice de refração é a razão entre a velocidade no vácuo e no meio, então a velocidade cai 1,5 vez. Como a frequência não muda e velocidade é frequência vezes comprimento de onda, este também cai no mesmo fator. A constância da velocidade da luz vale só no vácuo, o que descarta (d).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-98",
+                       "texto_apoio":  "Um fio condutor de comprimento 20 m e área de secção transversal 2,0 mm² é feito de um material de resistividade 1,7 × 10⁻⁸ Ω·m.",
+                       "enunciado":  "A resistência elétrica desse fio é de, aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "170 Ω",
+                                            "b":  "1,7 Ω",
+                                            "c":  "0,017 Ω",
+                                            "d":  "17 Ω",
+                                            "e":  "0,17 Ω"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "R = ρL ÷ A. Convertendo a área para metros quadrados: 2,0 mm² = 2,0 x 10⁻⁶ m². Assim R = (1,7 x 10⁻⁸ x 20) ÷ (2,0 x 10⁻⁶) = 0,17 Ω. Deixar a área em milímetros quadrados altera o resultado por um fator de um milhão.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-99",
+                       "texto_apoio":  "Um chuveiro elétrico é comumente ligado em circuito próprio, com fios de bitola maior que os das tomadas comuns da residência.",
+                       "enunciado":  "A exigência de fios mais grossos para o chuveiro se justifica porque:",
+                       "alternativas":  {
+                                            "a":  "a frequência da corrente alternada no circuito do chuveiro é mais elevada, o que exige maior área de secção para reduzir as perdas na linha",
+                                            "b":  "a tensão aplicada ao chuveiro é maior que a das tomadas comuns, o que exige isolamento reforçado e consequentemente maior diâmetro do condutor",
+                                            "c":  "fios mais grossos apresentam maior resistência elétrica, o que limita a corrente e protege o aparelho de sobrecargas durante o funcionamento",
+                                            "d":  "a resistência do chuveiro varia com a temperatura da água, e apenas condutores espessos acompanham essa variação sem se deformarem",
+                                            "e":  "a corrente elevada aqueceria demais um fio fino, pelo efeito Joule"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A potência dissipada num fio é R x i², e o chuveiro puxa dezenas de ampères. Fios mais grossos têm menos resistência e aquecem menos, o que evita risco de incêndio. A alternativa (c) inverte a relação: resistência é inversamente proporcional à área da secção.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-100",
+                       "texto_apoio":  "Um ímã em barra é partido ao meio, perpendicularmente ao seu eixo. Um estudante espera obter um pedaço apenas com polo norte e outro apenas com polo sul.",
+                       "enunciado":  "O resultado observado contraria a expectativa porque:",
+                       "alternativas":  {
+                                            "a":  "os dois pedaços adquirem o mesmo polo em ambas as extremidades, condição que os faz se repelirem em qualquer orientação que sejam aproximados",
+                                            "b":  "os dois pedaços perdem completamente suas propriedades magnéticas, uma vez que o corte interrompe a continuidade do material ferromagnético",
+                                            "c":  "os polos se invertem em relação à disposição original, o que faz cada fragmento repelir a extremidade correspondente do outro pedaço obtido",
+                                            "d":  "apenas o pedaço maior conserva magnetismo, e o menor se comporta como um material paramagnético comum após a separação das duas partes",
+                                            "e":  "cada pedaço passa a ter os dois polos, já que polos magnéticos isolados nunca foram observados"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O magnetismo tem origem no movimento de cargas em escala atômica, e cada porção do material já é um pequeno dipolo. Partir um ímã produz dois ímãs completos, e o processo se repete indefinidamente — monopolos magnéticos nunca foram detectados experimentalmente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-101",
+                       "texto_apoio":  "Um exame de ultrassonografia com Doppler mede a velocidade do fluxo sanguíneo. A onda emitida pelo transdutor é refletida pelas hemácias em movimento, e a frequência do eco difere da emitida.",
+                       "enunciado":  "A diferença entre a frequência emitida e a do eco permite calcular ______, e ela é maior quando o fluxo ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "a temperatura do sangue – atinge valores mais elevados em razão do atrito com as paredes dos vasos durante o deslocamento observado",
+                                            "b":  "a viscosidade do sangue – apresenta maior concentração de hemácias por unidade de volume no interior do vaso examinado durante o procedimento",
+                                            "c":  "a profundidade do vaso – se localiza em regiões mais afastadas da superfície da pele em que o transdutor foi apoiado durante o exame",
+                                            "d":  "a pressão arterial – exerce maior força sobre as paredes do vaso sanguíneo examinado ao longo do trajeto percorrido pela onda emitida",
+                                            "e":  "a velocidade do sangue – se aproxima ou se afasta mais rapidamente do transdutor"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "É o efeito Doppler aplicado a um refletor em movimento: quanto maior a componente da velocidade na direção do transdutor, maior o desvio de frequência. O tempo de eco, e não a frequência, é o que informa profundidade — distinção que a alternativa (c) confunde.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "fisica-102",
+                       "texto_apoio":  "Uma pilha de 1,5 V é associada a outras três idênticas. Na primeira montagem, as quatro são ligadas em série; na segunda, em paralelo.",
+                       "enunciado":  "As tensões totais nas montagens em série e em paralelo são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "3,0 V e 3,0 V, resultado obtido ao se considerar que apenas metade das pilhas contribui efetivamente para a tensão final em cada arranjo",
+                                            "b":  "1,5 V e 6,0 V, valores que decorrem da soma das forças eletromotrizes na associação em paralelo e da manutenção do valor unitário na série",
+                                            "c":  "6,0 V e 6,0 V, uma vez que a tensão total depende apenas do número de pilhas empregadas e não do tipo de associação escolhida na montagem",
+                                            "d":  "1,5 V e 0,375 V, condição em que a associação em paralelo divide a tensão de cada elemento pelo número total de pilhas associadas entre si",
+                                            "e":  "6,0 V e 1,5 V"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Em série as tensões se somam: 4 x 1,5 = 6,0 V. Em paralelo a tensão permanece a de uma pilha, 1,5 V, mas a capacidade de fornecer corrente e a duração aumentam. É a razão de lanternas usarem pilhas em série e alguns bancos de bateria usarem paralelo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-103",
+                       "texto_apoio":  "Um ciclo termodinâmico é representado num diagrama de pressão por volume como um retângulo percorrido no sentido horário. O gás realiza expansão isobárica, resfriamento isovolumétrico, compressão isobárica e aquecimento isovolumétrico.",
+                       "enunciado":  "Nesse ciclo, o trabalho líquido realizado pelo gás corresponde:",
+                       "alternativas":  {
+                                            "a":  "à área interna do retângulo, mas com sinal negativo, o que caracteriza um ciclo de refrigeração em vez de uma máquina térmica convencional",
+                                            "b":  "ao perímetro do retângulo traçado no diagrama, grandeza que reúne as contribuições de cada uma das quatro etapas do ciclo termodinâmico",
+                                            "c":  "a zero, uma vez que o gás retorna ao estado inicial ao final do ciclo e todas as suas variáveis de estado recuperam os valores originais",
+                                            "d":  "à área interna do retângulo, e é positivo por o ciclo ser percorrido no sentido horário",
+                                            "e":  "à diferença entre as duas pressões envolvidas, multiplicada pela temperatura média registrada ao longo de todo o ciclo termodinâmico descrito"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-104",
+                       "texto_apoio":  "Um objeto de 5,0 cm de altura é colocado a 40 cm de uma lente convergente de distância focal 20 cm. A imagem se forma a 40 cm da lente, do lado oposto.",
+                       "enunciado":  "A altura da imagem formada é de:",
+                       "alternativas":  {
+                                            "a":  "20 cm",
+                                            "b":  "2,5 cm",
+                                            "c":  "10 cm",
+                                            "d":  "5,0 cm",
+                                            "e":  "1,0 cm"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O aumento linear é a razão entre as distâncias imagem e objeto: 40 ÷ 40 = 1. A imagem tem o mesmo tamanho do objeto, 5,0 cm, embora invertida. É a situação particular em que o objeto está exatamente no dobro da distância focal.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-105",
+                       "texto_apoio":  "Um técnico compara duas radiografias feitas com a mesma máquina: uma com tempo de exposição de 0,10 s e outra com 0,20 s, mantendo os demais parâmetros idênticos.",
+                       "enunciado":  "Em relação à primeira, a segunda radiografia envolve:",
+                       "alternativas":  {
+                                            "a":  "o quádruplo da dose, resultado que decorre da relação quadrática entre o tempo de exposição e a quantidade total de radiação absorvida",
+                                            "b":  "a mesma dose de radiação, uma vez que a energia de cada fóton emitido pelo equipamento permanece inalterada em ambas as exposições realizadas",
+                                            "c":  "metade da dose, porque o prolongamento do tempo permite que os fótons se distribuam por um intervalo maior e reduzam seu efeito acumulado",
+                                            "d":  "o dobro da dose de radiação recebida pelo paciente",
+                                            "e":  "dose imprevisível, já que ela depende exclusivamente da espessura do tecido atravessado e não do intervalo em que o feixe permanece ligado"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A dose acumulada é proporcional ao número de fótons que atinge o tecido, e esse número cresce linearmente com o tempo de exposição. Dobrar o tempo dobra a dose. A energia por fóton depende da tensão do tubo, não do tempo — é isso que (b) confunde.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-106",
+                       "texto_apoio":  "Um corpo totalmente submerso em água tem peso aparente de 30 N. Fora da água, seu peso é de 50 N. A densidade da água é 1.000 kg/m³ e g = 10 m/s².",
+                       "enunciado":  "O empuxo sobre o corpo e seu volume são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "30 N e 3,0 × 10⁻³ m³, uma vez que o empuxo corresponde diretamente ao valor do peso aparente registrado pelo dinamômetro durante a medida",
+                                            "b":  "80 N e 8,0 × 10⁻³ m³, valores obtidos pela soma entre o peso real do corpo e o peso aparente medido durante a imersão completa na água",
+                                            "c":  "50 N e 5,0 × 10⁻³ m³, condição em que o empuxo iguala integralmente o peso do corpo submerso no líquido considerado no experimento",
+                                            "d":  "20 N e 2,0 × 10⁻³ m³",
+                                            "e":  "20 N e 2,0 m³, volume que resulta da divisão do empuxo pela densidade da água sem a conversão adequada das unidades empregadas"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O empuxo é a diferença entre peso real e aparente: 50 − 30 = 20 N. Como o empuxo é o peso do líquido deslocado, ρ x V x g = 20, logo V = 20 ÷ (1.000 x 10) = 2,0 x 10⁻³ m³, ou dois litros. É o método de Arquimedes para medir volumes de peças irregulares.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-107",
+                       "texto_apoio":  "Um diodo emissor de luz, o LED, converte energia elétrica diretamente em luz, sem passar pelo aquecimento de um filamento. Uma lâmpada incandescente de mesma luminosidade consome várias vezes mais energia elétrica.",
+                       "enunciado":  "A maior eficiência do LED em relação à lâmpada incandescente decorre de:",
+                       "alternativas":  {
+                                            "a":  "o LED apresentar resistência elétrica muito superior à do filamento, o que limita a corrente e reduz o consumo total do dispositivo em uso",
+                                            "b":  "o LED emitir luz em todas as frequências do espectro visível simultaneamente, o que amplia a sensação de claridade percebida pelo observador",
+                                            "c":  "a incandescente operar com corrente alternada e o LED com corrente contínua, arranjo que reduz as perdas por efeito Joule na instalação",
+                                            "d":  "a incandescente dissipar a maior parte da energia como calor, e não como luz visível",
+                                            "e":  "a incandescente emitir grande quantidade de radiação ultravioleta, faixa invisível ao olho humano e responsável pelo desperdício energético"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O filamento precisa chegar a milhares de graus para emitir luz visível, e a maior parte da radiação sai como infravermelho — calor. O LED produz fótons diretamente pela recombinação de portadores na junção, sem essa etapa térmica, e por isso converte muito mais da energia em luz útil.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-108",
+                       "texto_apoio":  "Um pêndulo simples de comprimento 1,0 m oscila com pequena amplitude num local onde g = 10 m/s². O período de um pêndulo simples depende apenas do comprimento e da aceleração da gravidade.",
+                       "enunciado":  "Se o comprimento do pêndulo for quadruplicado, o período:",
+                       "alternativas":  {
+                                            "a":  "permanece o mesmo, já que a massa do corpo suspenso não foi alterada e é ela que determina a duração de cada uma das oscilações completas",
+                                            "b":  "quadruplica, uma vez que existe proporcionalidade direta entre o período de oscilação e o comprimento do fio utilizado na montagem do pêndulo",
+                                            "c":  "cai à metade, porque um pêndulo mais longo completa cada oscilação em menos tempo do que um pêndulo curto submetido à mesma gravidade",
+                                            "d":  "dobra, porque depende da raiz quadrada do comprimento",
+                                            "e":  "aumenta dezesseis vezes, resultado que decorre da relação quadrática existente entre o período e o comprimento do pêndulo simples considerado"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O período é proporcional à raiz quadrada do comprimento, então quadruplicar o comprimento dobra o período. A massa não influencia, o que descarta (a) — mas a razão é a proporcionalidade com a raiz, e não a irrelevância da massa em si.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-109",
+                       "texto_apoio":  "Uma pessoa observa que uma piscina iluminada por uma lâmpada submersa apresenta, na superfície, um círculo luminoso de raio bem definido, fora do qual a luz não emerge.",
+                       "enunciado":  "O fenômeno responsável pela borda nítida desse círculo é:",
+                       "alternativas":  {
+                                            "a":  "a difração da luz nas bordas da lâmpada submersa, que delimita o cone luminoso observado a partir da superfície da piscina iluminada",
+                                            "b":  "a absorção da luz pela água nas direções mais inclinadas, o que impede a emergência dos raios que percorreriam trajetos mais longos no líquido",
+                                            "c":  "a reflexão total, que ocorre para raios que atingem a superfície acima do ângulo limite",
+                                            "d":  "a polarização dos raios ao atravessarem a interface entre a água e o ar, que bloqueia seletivamente as direções de vibração horizontais",
+                                            "e":  "a dispersão cromática da luz branca emitida, que separa as cores e concentra a intensidade luminosa numa região circular bem delimitada"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Raios que atingem a superfície com ângulo maior que o limite não refratam: refletem totalmente de volta para a água. Só os que incidem dentro do cone limite emergem, e é isso que produz o círculo luminoso com borda nítida — o mesmo fenômeno da fibra óptica.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-110",
+                       "texto_apoio":  "Duas esferas condutoras idênticas, uma com carga +8,0 μC e outra com carga −2,0 μC, são colocadas em contato e depois separadas.",
+                       "enunciado":  "Após a separação, a carga de cada esfera é de:",
+                       "alternativas":  {
+                                            "a":  "+5,0 μC",
+                                            "b":  "+6,0 μC",
+                                            "c":  "+3,0 μC",
+                                            "d":  "+10 μC",
+                                            "e":  "zero"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Sendo idênticas, as esferas dividem igualmente a carga total após o contato. A soma algébrica é +8,0 − 2,0 = +6,0 μC, e cada uma fica com +3,0 μC. A alternativa (a) soma os módulos ignorando o sinal negativo de uma das cargas.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-111",
+                       "texto_apoio":  "Um forno de micro-ondas aquece alimentos emitindo radiação numa frequência que faz as moléculas de água girarem rapidamente. Recipientes de vidro e cerâmica secos não se aquecem de forma apreciável no processo.",
+                       "enunciado":  "O aquecimento seletivo observado ocorre porque a radiação do forno:",
+                       "alternativas":  {
+                                            "a":  "aquece diretamente o ar no interior da cavidade, e o calor se transmite ao alimento por convecção a partir das camadas mais externas dele",
+                                            "b":  "possui energia por fóton suficiente para romper as ligações químicas dos alimentos, o que libera calor durante a reorganização das moléculas",
+                                            "c":  "é absorvida preferencialmente por moléculas polares, como a água presente no alimento",
+                                            "d":  "é refletida pelas paredes metálicas e concentrada no centro do forno, região em que a temperatura se eleva independentemente do material presente",
+                                            "e":  "ioniza os átomos do alimento e produz elétrons livres, cuja movimentação desordenada corresponde ao aumento de temperatura registrado"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A molécula de água é polar e tenta se alinhar ao campo elétrico oscilante da micro-onda; a agitação resultante é o próprio aquecimento. Vidro e cerâmica secos, sem moléculas polares móveis, quase não absorvem. A radiação é não ionizante, o que descarta (e).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-112",
+                       "texto_apoio":  "Um corpo é abandonado de uma altura de 45 m e cai livremente. Adote g = 10 m/s² e despreze a resistência do ar.",
+                       "enunciado":  "O tempo de queda e a velocidade ao atingir o solo são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "9,0 s e 90 m/s",
+                                            "b":  "4,5 s e 45 m/s",
+                                            "c":  "3,0 s e 30 m/s",
+                                            "d":  "1,5 s e 15 m/s",
+                                            "e":  "3,0 s e 45 m/s"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Da equação h = gt² ÷ 2, tem-se 45 = 5t², logo t = 3,0 s. A velocidade final é v = gt = 30 m/s. A alternativa (e) acerta o tempo e usa a altura no lugar da velocidade, confusão entre grandezas que a escolha dos números favorece.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-113",
+                       "texto_apoio":  "Um circuito de corrente alternada residencial opera com tensão eficaz de 127 V e frequência de 60 Hz. A tensão de pico é maior que a eficaz por um fator igual à raiz de dois.",
+                       "enunciado":  "A tensão de pico dessa rede e o significado da tensão eficaz são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "127 V, e a eficaz é apenas outra denominação para o mesmo valor de pico registrado pelos instrumentos de medida usados na instalação",
+                                            "b":  "cerca de 90 V, e a eficaz corresponde à média aritmética dos valores instantâneos assumidos pela tensão ao longo de um ciclo completo",
+                                            "c":  "cerca de 180 V, e a eficaz é a tensão contínua que produziria a mesma potência dissipada",
+                                            "d":  "cerca de 254 V, e a eficaz é a metade do valor de pico atingido pela tensão durante cada semiciclo da corrente alternada fornecida",
+                                            "e":  "cerca de 180 V, e a eficaz corresponde ao valor médio da tensão medido ao longo de um semiciclo completo da onda senoidal fornecida"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A tensão de pico é 127 x raiz de 2 ≈ 180 V. O valor eficaz é definido pela equivalência de potência: é a tensão contínua que dissiparia a mesma energia num resistor. Ele não é a média dos valores instantâneos, que numa onda senoidal completa seria zero.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-114",
+                       "texto_apoio":  "Uma bússola aponta aproximadamente para o norte geográfico. O polo norte da agulha é atraído pela região polar norte do planeta.",
+                       "enunciado":  "O comportamento descrito implica que, na região do polo norte geográfico, encontra-se:",
+                       "alternativas":  {
+                                            "a":  "uma região sem magnetização definida, e o alinhamento da agulha decorre exclusivamente da rotação do planeta em torno do próprio eixo",
+                                            "b":  "o polo norte magnético da Terra, uma vez que polos magnéticos de mesmo nome se atraem mutuamente quando colocados a curta distância",
+                                            "c":  "o polo sul magnético da Terra, já que polos magnéticos opostos se atraem",
+                                            "d":  "o eixo de rotação terrestre, que coincide exatamente com o eixo magnético e explica a coincidência entre as duas direções observadas",
+                                            "e":  "uma concentração de material ferromagnético na crosta, cuja atração local independe da existência de um campo magnético global do planeta"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Se o polo norte da agulha é atraído para lá, o que está naquela região é um polo sul magnético — polos opostos se atraem. A nomenclatura geográfica e a magnética são inversas, e os dois eixos nem coincidem exatamente, o que descarta (d).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-115",
+                       "texto_apoio":  "Um reator nuclear utiliza barras de controle feitas de material absorvedor de nêutrons, inseridas entre os elementos combustíveis. A reação em cadeia é mantida em regime estacionário durante a operação normal.",
+                       "enunciado":  "A função das barras de controle é ______, e a reação em cadeia se sustenta porque cada fissão ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "aumentar a produção de nêutrons no núcleo do reator – consome os nêutrons disponíveis e exige aporte externo contínuo para prosseguir",
+                                            "b":  "absorver parte dos nêutrons e regular a taxa de fissões – libera mais de um nêutron capaz de provocar novas fissões",
+                                            "c":  "resfriar o combustível nuclear utilizado – produz energia térmica suficiente para manter a temperatura de operação sem qualquer controle externo",
+                                            "d":  "blindar a radiação gama emitida pelo processo – gera fótons de alta energia capazes de desencadear novas fissões nos núcleos vizinhos",
+                                            "e":  "acelerar os nêutrons produzidos nas fissões – transfere energia cinética suficiente para que eles atravessem as barreiras eletrostáticas dos núcleos"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Cada fissão do urânio-235 libera dois ou três nêutrons, o que permite a cadeia se sustentar. As barras absorvem o excedente e mantêm em média um nêutron por fissão provocando a próxima — é assim que o reator opera em regime estacionário em vez de divergir.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "fisica-116",
+                       "texto_apoio":  "Um objeto move-se em linha reta e seu deslocamento em função do tempo é descrito por um gráfico cuja curva é uma parábola de concavidade voltada para cima, partindo da origem.",
+                       "enunciado":  "O movimento descrito é:",
+                       "alternativas":  {
+                                            "a":  "uniforme, com velocidade constante, uma vez que a curva parte da origem do sistema de coordenadas adotado para representar o deslocamento",
+                                            "b":  "uniformemente acelerado, com velocidade crescente ao longo do tempo",
+                                            "c":  "uniformemente retardado, com a velocidade diminuindo até se anular no instante correspondente ao vértice da parábola representada no gráfico",
+                                            "d":  "circular uniforme, condição em que o deslocamento cresce de forma quadrática com o tempo por efeito da mudança contínua de direção",
+                                            "e":  "oscilatório, com o objeto retornando periodicamente à posição inicial ao longo dos sucessivos intervalos representados no eixo horizontal"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Posição variando com o quadrado do tempo caracteriza aceleração constante. Concavidade para cima indica aceleração positiva, e a inclinação da curva — que é a velocidade — cresce continuamente. Movimento uniforme produziria uma reta, e não uma parábola.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-117",
+                       "texto_apoio":  "Um recipiente de vidro é preenchido completamente com um líquido e aquecido. Observa-se que parte do líquido transborda, embora o recipiente também tenha se dilatado.",
+                       "enunciado":  "O volume de líquido que transborda corresponde à dilatação:",
+                       "alternativas":  {
+                                            "a":  "real do líquido, uma vez que o vidro do recipiente permanece com dimensões inalteradas durante todo o processo de aquecimento realizado",
+                                            "b":  "aparente, que é a diferença entre a dilatação do líquido e a do recipiente",
+                                            "c":  "real do recipiente, cujo aumento de volume expulsa o líquido contido em seu interior e provoca o transbordamento observado no experimento",
+                                            "d":  "linear do líquido, grandeza que se aplica à variação de uma única dimensão do corpo submetido à elevação de temperatura descrita",
+                                            "e":  "superficial do recipiente, correspondente ao aumento da área de suas paredes internas durante o aquecimento uniforme realizado no ensaio"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Os dois dilatam, mas o líquido em geral mais que o vidro. O que transborda é apenas o excedente: a dilatação aparente, igual à real do líquido menos a do frasco. Supor o recipiente indilatável, como em (a), superestima a dilatação real do líquido.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-118",
+                       "texto_apoio":  "Uma pessoa observa que, ao aproximar um alto-falante de uma taça de cristal e emitir um som de frequência específica, a taça vibra intensamente e pode se quebrar. Em outras frequências, nada acontece.",
+                       "enunciado":  "A seletividade de frequência observada indica que a taça:",
+                       "alternativas":  {
+                                            "a":  "absorve mais energia em frequências elevadas, condição que se verifica para qualquer objeto rígido submetido a ondas sonoras de grande intensidade",
+                                            "b":  "possui frequência natural própria, e vibra com amplitude máxima quando estimulada nela",
+                                            "c":  "reflete integralmente as ondas de frequências diferentes da que provoca a quebra, sem que haja qualquer transferência de energia nesses casos",
+                                            "d":  "sofre aquecimento seletivo em determinada faixa do espectro sonoro, o que reduz sua resistência mecânica até o ponto de ruptura do material",
+                                            "e":  "converte a energia sonora em energia elétrica quando estimulada por frequências específicas, acumulando carga até o rompimento da estrutura"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Todo corpo elástico tem frequências naturais de vibração. Estimulado numa delas, acumula energia ciclo após ciclo e a amplitude cresce até superar o limite do material — é ressonância, o mesmo fenômeno do balanço e uma preocupação central no projeto de pontes e edifícios.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-119",
+                       "texto_apoio":  "Um bloco de 3,0 kg é puxado para cima com aceleração constante de 2,0 m/s² por meio de um cabo vertical. Adote g = 10 m/s².",
+                       "enunciado":  "A tração no cabo é de:",
+                       "alternativas":  {
+                                            "a":  "30 N",
+                                            "b":  "36 N",
+                                            "c":  "6,0 N",
+                                            "d":  "24 N",
+                                            "e":  "60 N"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Aplicando a segunda lei na vertical: T − P = ma, então T = m(g + a) = 3,0 x 12 = 36 N. A alternativa (a) apresenta apenas o peso, que seria a tração se a subida fosse com velocidade constante, e (d) usa a diferença em vez da soma.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-120",
+                       "texto_apoio":  "Um painel fotovoltaico converte energia solar em elétrica. Sua eficiência típica gira em torno de 20%, e a irradiância solar ao meio-dia em céu limpo é de aproximadamente 1.000 W/m².",
+                       "enunciado":  "Um painel de 2,0 m² nessas condições fornece potência elétrica de, aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "2.000 W",
+                                            "b":  "400 W",
+                                            "c":  "200 W",
+                                            "d":  "1.000 W",
+                                            "e":  "40 W"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A potência solar incidente é 1.000 x 2,0 = 2.000 W. Com eficiência de 20%, a saída elétrica é 400 W. A alternativa (a) apresenta a potência incidente sem aplicar a eficiência, que é justamente o que a questão pede para considerar.",
+                       "formato":  "direta"
                    }
                ],
     "quimica":  [

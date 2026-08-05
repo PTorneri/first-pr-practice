@@ -141,14 +141,14 @@
                          "texto_apoio":  "\"Aluga-se apartamentos mobiliados no centro da cidade.\"",
                          "enunciado":  "Sobre a concordância verbal com a partícula \u0027se\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "a frase está correta porque \u0027aluga-se\u0027 nunca varia, independentemente do contexto, já que \u0027se\u0027 funcionaria aqui como partícula apassivadora fixa.",
+                                              "a":  "a frase está correta, pois \u0027se\u0027 é aqui índice de indeterminação do sujeito, o que mantém o verbo no singular.",
                                               "b":  "a frase está incorreta; como \u0027apartamentos\u0027 é o sujeito paciente da oração, o verbo deveria concordar no plural: \u0027Alugam-se apartamentos\u0027.",
                                               "c":  "a frase está incorreta; o correto seria \u0027alugam-se de apartamentos\u0027, com a preposição exigida pelo verbo.",
-                                              "d":  "a frase está correta, pois \u0027se\u0027 é sempre índice de indeterminação do sujeito, tornando o verbo obrigatoriamente invariável no singular.",
+                                              "d":  "a frase está correta, porque o sujeito \u0027apartamentos\u0027 vem posposto ao verbo, e a norma dispensa a concordância quando o sujeito segue a forma verbal.",
                                               "e":  "a frase está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027apartamentos\u0027, complemento exigido pelo verbo \u0027alugar\u0027 nessa construção."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Nesse caso, \u0027se\u0027 é partícula apassivadora, e \u0027apartamentos\u0027 é sujeito da oração passiva sintética, exigindo concordância verbal no plural: \u0027Alugam-se apartamentos mobiliados\u0027.",
+                         "explicacao":  "\u0027Alugar\u0027 é transitivo direto, e \u0027apartamentos\u0027 é o sujeito paciente da passiva sintética — daí o plural \u0027Alugam-se\u0027. Em (a) está a confusão que decide a questão: \u0027se\u0027 só é índice de indeterminação com verbo intransitivo ou transitivo indireto, casos em que não há sujeito a concordar; com transitivo direto, é partícula apassivadora. Em (d), a posposição do sujeito não dispensa concordância. Em (c) e (e), \u0027alugar\u0027 não rege preposição.",
                          "formato":  "direta"
                      },
                      {
@@ -202,13 +202,13 @@
                          "enunciado":  "Sobre a concordância verbal com a expressão \u0027a maioria dos entrevistados\u0027, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "o verbo só pode ir para o plural quando a expressão partitiva aparece no início do período.",
-                                              "b":  "o verbo deve obrigatoriamente ficar no singular, sendo \u0027afirmaram\u0027 um erro grave e inaceitável, pois expressões partitivas nunca admitem concordância por atração.",
-                                              "c":  "o verbo deve obrigatoriamente concordar no plural, sendo a frase apresentada a única forma correta, já que \u0027maioria\u0027 perde força de núcleo diante do adjunto plural.",
-                                              "d":  "a concordância com expressões partitivas nunca varia, sendo sempre no plural, já que o substantivo \u0027entrevistados\u0027 determinaria obrigatoriamente essa flexão verbal.",
-                                              "e":  "o verbo pode concordar tanto no singular (\u0027afirmou\u0027), com o núcleo \u0027maioria\u0027, quanto no plural (\u0027afirmaram\u0027), por atração com \u0027entrevistados\u0027, sendo ambas aceitas pela norma culta."
+                                              "b":  "o verbo deve ficar no singular, porque o núcleo do sujeito é \u0027maioria\u0027 e o adjunto \u0027dos entrevistados\u0027 não interfere na concordância.",
+                                              "c":  "o verbo deve concordar no plural, sendo a frase apresentada a única forma correta, já que \u0027maioria\u0027 perde a força de núcleo diante do adjunto plural.",
+                                              "d":  "a concordância é atraída pelo termo mais próximo do verbo, regra que aqui impõe o plural \u0027afirmaram\u0027 e exclui o singular.",
+                                              "e":  "o verbo pode ir ao singular, com o núcleo \u0027maioria\u0027, ou ao plural, por atração com \u0027entrevistados\u0027 — a norma culta aceita as duas."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Com sujeitos formados por expressões partitivas (\u0027a maioria de\u0027, \u0027grande parte de\u0027) seguidas de substantivo plural, a norma culta admite tanto a concordância com o núcleo (\u0027a maioria afirmou\u0027) quanto por atração com o adjunto (\u0027a maioria dos entrevistados afirmaram\u0027).",
+                         "explicacao":  "Com expressões partitivas seguidas de substantivo plural, a norma culta admite as duas concordâncias: \u0027a maioria afirmou\u0027 e \u0027a maioria dos entrevistados afirmaram\u0027. Em (b) está a resposta mais defensável entre as erradas, e é a que os manuais escolares costumam ensinar como única — a análise do núcleo está certa, mas a conclusão de que só o singular cabe não é a da norma culta. Em (c) e (d), o erro é simétrico: elege-se o plural como forma única. Em (a), a posição no período é irrelevante.",
                          "formato":  "direta"
                      },
                      {
@@ -232,13 +232,13 @@
                          "enunciado":  "Sobre a regência do verbo \u0027ir\u0027 na frase, a norma culta recomenda que",
                          "alternativas":  {
                                               "a":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento.",
-                                              "b":  "a construção \u0027fui na casa\u0027 está adequada, pois o verbo \u0027ir\u0027 sempre admite a preposição \u0027em\u0027 para indicar qualquer tipo de destino.",
+                                              "b":  "a construção \u0027fui na casa\u0027 está adequada, pois com nomes de lugar determinados o verbo \u0027ir\u0027 rege a preposição \u0027em\u0027.",
                                               "c":  "a construção \u0027fui até a casa dela\u0027 é a única aceita pela norma culta, por explicitar o percurso completo.",
                                               "d":  "a construção mais adequada à norma culta é \u0027fui à casa dela\u0027, com a preposição \u0027a\u0027 indicando destino, unida por crase ao artigo feminino.",
-                                              "e":  "a construção correta seria \u0027fui para casa dela\u0027, sendo essa a única forma aceitável pela norma culta em qualquer contexto."
+                                              "e":  "a construção correta seria \u0027fui para a casa dela\u0027, já que \u0027para\u0027 indica destino com permanência e \u0027a\u0027 caberia apenas em deslocamentos breves."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O verbo \u0027ir\u0027, quando indica destino, rege tradicionalmente a preposição \u0027a\u0027, sendo a construção \u0027fui à casa dela\u0027 a mais adequada à norma culta, com uso de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027 de \u0027a casa\u0027.",
+                         "explicacao":  "\u0027Ir\u0027 indicando destino rege \u0027a\u0027, e o encontro dessa preposição com o artigo de \u0027a casa\u0027 produz a crase: \u0027fui à casa dela\u0027. Em (e) está o distrator mais bem informado: a distinção entre \u0027a\u0027 (deslocamento breve) e \u0027para\u0027 (permanência) existe de fato na tradição gramatical, mas ela não torna \u0027para\u0027 obrigatório aqui, e sim opcional. Em (b), \u0027em\u0027 com verbo de movimento é traço de oralidade. Em (c), \u0027até\u0027 é possível, não exclusivo. Em (a), \u0027ir\u0027 é transitivo indireto nesse uso.",
                          "formato":  "direta"
                      },
                      {
@@ -246,14 +246,14 @@
                          "texto_apoio":  "\"Comprei um relógio de pulso, uma camisa listrada, e um par de sapatos pretos para a formatura.\"",
                          "enunciado":  "Do ponto de vista da pontuação em enumerações, a frase apresenta um desvio porque",
                          "alternativas":  {
-                                              "a":  "não deveria haver vírgula alguma na enumeração apresentada, pois enumerações simples de objetos nunca admitem qualquer pontuação interna.",
-                                              "b":  "não se deve usar vírgula antes da conjunção \u0027e\u0027 quando ela liga o último elemento de uma enumeração simples, sendo desnecessária a vírgula antes de \u0027e um par\u0027.",
-                                              "c":  "faltam vírgulas entre todos os adjetivos da frase, já que adjetivos que qualificam substantivos diferentes exigem separação obrigatória.",
-                                              "d":  "a vírgula antes de \u0027e\u0027 é obrigatória em toda enumeração com três ou mais itens.",
-                                              "e":  "a frase deveria ser separada em dois períodos distintos, sem qualquer vírgula, pois enumerações extensas nunca podem compor um único período."
+                                              "a":  "a vírgula depois de \u0027listrada\u0027 é que está sobrando, pois só se separam por vírgula os dois primeiros itens de uma série.",
+                                              "b":  "não se usa vírgula antes do \u0027e\u0027 que liga o último elemento de uma enumeração simples; a vírgula antes de \u0027e um par\u0027 é desnecessária.",
+                                              "c":  "faltam vírgulas separando os adjetivos de cada item, já que \u0027de pulso\u0027, \u0027listrada\u0027 e \u0027pretos\u0027 qualificam substantivos diferentes entre si.",
+                                              "d":  "a vírgula antes de \u0027e\u0027 é exigida quando a enumeração tem três ou mais itens, recurso que evita ambiguidade na leitura.",
+                                              "e":  "os itens deveriam vir separados por ponto e vírgula, e não por vírgula, por se tratar de enumeração com mais de dois elementos."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Em enumerações simples, não se usa vírgula antes da conjunção aditiva \u0027e\u0027 quando ela liga o último termo da série, salvo em casos de elementos com sujeitos distintos; o correto seria \u0027uma camisa listrada e um par de sapatos pretos\u0027.",
+                         "explicacao":  "Em enumeração simples, o \u0027e\u0027 que liga o último termo já cumpre a função de separação, e a vírgula antes dele sobra. Em (d) está o distrator mais tentador, porque descreve a vírgula de série do inglês, que muita gente supõe valer também em português — em português ela só se justifica quando os termos têm sujeitos distintos ou há risco real de ambiguidade. Em (a), a vírgula entre os dois primeiros itens está correta. Em (c) e (e), não faltam vírgulas nem cabe ponto e vírgula numa série curta.",
                          "formato":  "direta"
                      },
                      {
@@ -336,14 +336,14 @@
                          "texto_apoio":  "\"Livros, cadernos, canetas, nada foi esquecido na mochila.\"",
                          "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027, item que resume a enumeração anterior e exigiria isolamento por vírgula, exigência que se aplicaria a qualquer termo recapitulativo semelhante nessa posição do período.",
+                                              "a":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027, termo recapitulativo que precisaria vir isolado do restante do período.",
                                               "b":  "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: \u0027nada foram esquecidos\u0027, por regra de concordância com sujeitos compostos.",
-                                              "c":  "está correta apenas porque a frase está na ordem direta, condição que dispensaria a concordância do verbo com o pronome recapitulativo, afirmação equivocada, pois a concordância com o pronome ocorreria em qualquer ordem sintática.",
-                                              "d":  "está correta; quando um sujeito composto é resumido por um pronome indefinido como \u0027nada\u0027 ou \u0027tudo\u0027, o verbo concorda com esse pronome recapitulativo, no singular.",
+                                              "c":  "está correta apenas porque a enumeração antecede o verbo; se viesse depois, a concordância teria de ser feita no plural.",
+                                              "d":  "está correta; quando um sujeito composto é resumido por um pronome indefinido como \u0027nada\u0027 ou \u0027tudo\u0027, o verbo concorda com esse pronome.",
                                               "e":  "está incorreta; o pronome resumidor exige que o verbo concorde com o núcleo mais próximo do sujeito composto."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Quando elementos enumerados são resumidos por um pronome recapitulativo (\u0027tudo\u0027, \u0027nada\u0027, \u0027ninguém\u0027), o verbo concorda com esse pronome, e não com os itens da enumeração: \u0027nada foi esquecido\u0027.",
+                         "explicacao":  "O pronome recapitulativo assume o lugar do sujeito composto, e o verbo concorda com ele: \u0027nada foi esquecido\u0027. Em (b) está o erro mais natural, porque a enumeração plural puxa a leitura para \u0027foram esquecidos\u0027 — é justamente essa atração que a regra do pronome resumidor bloqueia. Em (c), a ordem dos termos não altera a concordância. Em (e), o núcleo mais próximo é o próprio \u0027nada\u0027. Em (a), a vírgula antes do recapitulativo já está lá.",
                          "formato":  "direta"
                      },
                      {
@@ -399,11 +399,11 @@
                                               "a":  "nenhuma das regências empregadas está de acordo com a norma culta, que exigiria \u0027apto a\u0027 e \u0027obediente para\u0027 nessa construção nominal.",
                                               "b":  "\u0027apto para\u0027 está correto, mas \u0027obediente às\u0027 exige a preposição \u0027de\u0027, e não \u0027a\u0027.",
                                               "c":  "\u0027obediente às\u0027 está incorreto; o correto seria \u0027obediente para\u0027, preposição que o adjetivo \u0027obediente\u0027 exigiria nessa construção formal.",
-                                              "d":  "\u0027apto para\u0027 está incorreto; a única regência aceita pela norma culta seria \u0027apto de\u0027, com a preposição \u0027de\u0027 regendo o complemento do adjetivo.",
+                                              "d":  "\u0027apto para\u0027 está incorreto; a norma culta registra apenas \u0027apto a\u0027, com a preposição \u0027a\u0027 regendo o complemento do adjetivo nesse tipo de construção.",
                                               "e":  "\u0027apto para\u0027 e \u0027obediente às\u0027 estão de acordo com a norma culta, que admite a preposição \u0027para\u0027 ou \u0027a\u0027 após \u0027apto\u0027, e exige \u0027a\u0027 após \u0027obediente\u0027."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O adjetivo \u0027apto\u0027 admite as preposições \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege a preposição \u0027a\u0027; ambas as construções da frase estão, portanto, corretas.",
+                         "explicacao":  "\u0027Apto\u0027 aceita \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege \u0027a\u0027 — as duas construções da frase estão corretas. Em (d) está o distrator mais forte: \u0027apto a\u0027 é de fato regência legítima e a mais citada nos manuais, mas ser a mais citada não a torna exclusiva, e \u0027apto para\u0027 é igualmente aceita. Em (a), a inversão proposta erra as duas. Em (b) e (c), \u0027obediente\u0027 não rege \u0027de\u0027 nem \u0027para\u0027.",
                          "formato":  "direta"
                      },
                      {
@@ -412,13 +412,13 @@
                          "enunciado":  "De acordo com a norma culta, qual é a regência recomendada para o verbo \u0027chegar\u0027 indicando lugar?",
                          "alternativas":  {
                                               "a":  "O verbo \u0027chegar\u0027 rege obrigatoriamente a preposição \u0027até\u0027, por indicar deslocamento com ponto final definido.",
-                                              "b":  "O verbo \u0027chegar\u0027 nunca admite complemento de lugar, comportando-se sempre como intransitivo nessa acepção, sem regência de qualquer preposição locativa, afirmação que ignora seu emprego corrente como transitivo indireto de lugar.",
+                                              "b":  "O verbo \u0027chegar\u0027 rege a preposição \u0027em\u0027 diante de lugar fechado e a preposição \u0027a\u0027 diante de lugar aberto.",
                                               "c":  "É indiferente, para a norma culta, usar \u0027a\u0027, \u0027em\u0027 ou \u0027no\u0027 com o verbo \u0027chegar\u0027, já que as três preposições seriam plenamente equivalentes nesse tipo de regência.",
-                                              "d":  "\u0027Chegar no/em\u0027 é a única forma aceita pela norma culta em qualquer contexto, sendo a preposição \u0027a\u0027 reservada apenas a verbos de movimento como \u0027ir\u0027, generalização que inverte a recomendação da norma culta escrita formal.",
-                                              "e":  "O verbo \u0027chegar\u0027, indicando lugar, deve reger preferencialmente a preposição \u0027a\u0027 na norma culta escrita formal: \u0027cheguei ao aeroporto\u0027; \u0027chegar em/no\u0027 é construção mais associada à oralidade."
+                                              "d":  "\u0027Chegar em\u0027 é a forma da norma culta escrita, e \u0027chegar a\u0027 é um arcaísmo hoje restrito a textos literários do século XIX.",
+                                              "e":  "O verbo \u0027chegar\u0027, indicando lugar, rege preferencialmente \u0027a\u0027 na norma culta escrita: \u0027cheguei ao aeroporto\u0027; \u0027chegar em\u0027 é mais associado à oralidade."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A norma culta tradicional recomenda a preposição \u0027a\u0027 para indicar o lugar de destino com o verbo \u0027chegar\u0027 (\u0027cheguei ao aeroporto\u0027), sendo \u0027chegar em/no\u0027 uma construção mais associada à oralidade e a contextos informais.",
+                         "explicacao":  "A norma culta escrita recomenda \u0027chegar a\u0027 para indicar destino, e \u0027chegar em/no\u0027 pertence ao registro falado. Em (c) está a alternativa que mais engana, porque a frequência de \u0027cheguei no aeroporto\u0027 na fala sugere equivalência plena — a norma escrita mantém a preferência, e é sobre ela que a questão pergunta. Em (d), a relação está invertida. Em (b), a distinção entre lugar fechado e aberto não existe para \u0027chegar\u0027. Em (a), \u0027até\u0027 é possível, não obrigatório.",
                          "formato":  "direta"
                      },
                      {
@@ -502,13 +502,13 @@
                          "enunciado":  "Sobre a concordância nominal na frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "\u0027bastante\u0027 deveria ser flexionado no plural, pois acompanha substantivo no plural.",
-                                              "b":  "\u0027meia\u0027 está correto, pois sempre concorda com o substantivo mais próximo, regra de concordância por proximidade aplicável a qualquer advérbio de intensidade.",
+                                              "b":  "\u0027meia\u0027 está correto, pois concorda com \u0027inseguras\u0027, adjetivo feminino plural que o modificador acompanha em gênero.",
                                               "c":  "\u0027bastante\u0027 e \u0027meia\u0027 estão corretamente flexionados, pois concordam com \u0027candidatas\u0027, substantivo feminino plural que regeria ambos os modificadores da frase.",
-                                              "d":  "ambas as palavras deveriam ficar no singular masculino em qualquer contexto, já que advérbios nunca admitiriam flexão de gênero ou número na norma culta.",
-                                              "e":  "\u0027bastante\u0027 está correto, pois funciona como advérbio e é invariável; \u0027meia\u0027, porém, deveria ser \u0027meio\u0027, também invariável nesse uso adverbial: \u0027meio inseguras\u0027."
+                                              "d":  "ambas as palavras deveriam ir ao plural, concordando com \u0027candidatas\u0027, núcleo do sujeito a que os dois termos se referem.",
+                                              "e":  "\u0027bastante\u0027 está correto, pois é advérbio e invariável; \u0027meia\u0027, porém, deveria ser \u0027meio\u0027, igualmente invariável nesse uso."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Quando modifica adjetivo, \u0027meio\u0027 funciona como advérbio e é invariável (\u0027meio inseguras\u0027, não \u0027meia inseguras\u0027); \u0027bastante\u0027, com valor de advérbio (equivalente a \u0027muito\u0027), também permanece invariável.",
+                         "explicacao":  "Diante de adjetivo, \u0027meio\u0027 é advérbio e não flexiona: \u0027meio inseguras\u0027. \u0027Bastante\u0027, com valor de \u0027muito\u0027, também é invariável nesse emprego. Em (b) está o raciocínio mais sedutor, porque parece aplicar concordância de gênero corretamente — mas advérbio não concorda com nada, e é essa a natureza de \u0027meio\u0027 aqui. Em (c) e (d), o erro é o mesmo, estendido às duas palavras. Em (a), \u0027bastante\u0027 modifica o adjetivo, não o substantivo.",
                          "formato":  "direta"
                      },
                      {
@@ -516,14 +516,14 @@
                          "texto_apoio":  "\"Machado de Assis o maior escritor da literatura brasileira nasceu no Rio de Janeiro em 1839.\"",
                          "enunciado":  "Sobre a pontuação da frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "a frase está corretamente pontuada, pois apostos explicativos dispensam qualquer sinal de pontuação quando vêm imediatamente após o nome próprio que qualificam.",
-                                              "b":  "o aposto deveria ser eliminado da frase, pois é sempre desnecessário e nunca acrescenta informação relevante sobre o termo antecedente que qualifica.",
-                                              "c":  "o aposto explicativo \u0027o maior escritor da literatura brasileira\u0027 deveria vir isolado por vírgulas: \u0027Machado de Assis, o maior escritor da literatura brasileira, nasceu...\u0027.",
+                                              "a":  "a frase está corretamente pontuada, pois o aposto vem imediatamente após o nome próprio e a proximidade dispensa as vírgulas.",
+                                              "b":  "o trecho \u0027o maior escritor da literatura brasileira\u0027 é adjunto adnominal, e não aposto, razão pela qual não se separa por vírgulas.",
+                                              "c":  "o aposto explicativo \u0027o maior escritor da literatura brasileira\u0027 deveria vir isolado por vírgulas dos dois lados.",
                                               "d":  "deveria haver apenas um ponto de exclamação após \u0027brasileira\u0027, marca de ênfase que substituiria integralmente a necessidade de isolar o aposto por vírgulas.",
                                               "e":  "o aposto está corretamente pontuado, pois apostos explicativos dispensam vírgula quando aparecem no fim do período."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Apostos explicativos devem ser isolados por vírgulas (ou travessões/parênteses), já que introduzem uma informação adicional sobre o termo anterior, mas não são exigidos sintaticamente pela oração.",
+                         "explicacao":  "O aposto explicativo acrescenta informação sem ser exigido pela sintaxe da oração, e por isso vem isolado: \u0027Machado de Assis, o maior escritor da literatura brasileira, nasceu...\u0027. Em (b) está a análise que mais convence entre as erradas, porque adjunto adnominal de fato não se separa por vírgula — o trecho, porém, é um sintagma nominal que identifica o termo anterior, e não um modificador dele. Em (a) e (e), a posição do aposto não dispensa a pontuação. Em (d), não cabe exclamação.",
                          "formato":  "direta"
                      },
                      {
@@ -532,13 +532,13 @@
                          "enunciado":  "Sobre a regência do verbo \u0027informar\u0027 no texto, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "apenas uma das construções está de acordo com a norma culta, sendo a outra um erro grave que comprometeria a compreensão da mensagem enviada aos pais.",
-                                              "b":  "o verbo \u0027informar\u0027 nunca admite dois complementos na mesma oração, comportando-se sempre como transitivo direto simples nessa construção verbal.",
-                                              "c":  "o verbo \u0027informar\u0027 admite duas construções regulares na norma culta: \u0027informar alguém de/sobre algo\u0027 e \u0027informar algo a alguém\u0027, ambas empregadas corretamente no texto.",
-                                              "d":  "a regência do verbo \u0027informar\u0027 é sempre idêntica à do verbo \u0027avisar\u0027, que exigiria exclusivamente a preposição \u0027sobre\u0027 antes do complemento de coisa.",
-                                              "e":  "o verbo \u0027informar\u0027 exige sempre a preposição \u0027sobre\u0027 antes do complemento que indica o assunto."
+                                              "b":  "o verbo \u0027informar\u0027 é transitivo direto, e o trecho \u0027sobre a mudança\u0027 funciona como adjunto adverbial, não como complemento.",
+                                              "c":  "o verbo \u0027informar\u0027 admite duas construções na norma culta — \u0027informar alguém de/sobre algo\u0027 e \u0027informar algo a alguém\u0027 —, ambas presentes no texto.",
+                                              "d":  "a regência de \u0027informar\u0027 segue a de \u0027avisar\u0027, que exigiria a preposição \u0027de\u0027 antes do complemento que indica pessoa.",
+                                              "e":  "o verbo \u0027informar\u0027 exige a preposição \u0027sobre\u0027 antes do complemento que indica o assunto, o que invalida \u0027do novo calendário\u0027."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verbo \u0027informar\u0027 é bitransitivo e admite duas regências equivalentes: \u0027informar alguém de/sobre algo\u0027 e \u0027informar algo a alguém\u0027, ambas corretas e presentes no texto, com o objeto direto e indireto alternando de posição.",
+                         "explicacao":  "\u0027Informar\u0027 é bitransitivo e aceita as duas ordens: informa-se alguém de algo ou algo a alguém — as duas ocorrências do texto estão certas. Em (e) está o erro mais comum, porque \u0027sobre\u0027 soa mais natural e leva a rejeitar \u0027do novo calendário\u0027; a preposição \u0027de\u0027 é igualmente legítima nessa regência. Em (b), há dois complementos, não um. Em (d), \u0027avisar\u0027 tem regência própria e não serve de modelo. Em (a), nenhuma das duas está errada.",
                          "formato":  "direta"
                      },
                      {
@@ -658,15 +658,14 @@
                          "texto_apoio":  "\"Esqueci completamente o aniversário da minha prima e só me esqueci do presente porque estava sobrecarregado de trabalho naquela semana.\"",
                          "enunciado":  "Sobre a regência do verbo \u0027esquecer\u0027 nas duas ocorrências da frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "nenhuma das duas construções é aceita pela norma culta atualmente, que exigiria uniformemente a preposição \u0027de\u0027 em qualquer emprego do verbo \u0027esquecer\u0027.",
+                                              "a":  "nenhuma das duas está de acordo com a norma culta, que exigiria a preposição \u0027de\u0027 nos dois casos: \u0027esqueci do aniversário\u0027 e \u0027esqueci-me do presente\u0027 na mesma construção.",
                                               "b":  "ambas as construções estão corretas: \u0027esquecer algo\u0027, sem o pronome \u0027se\u0027, é transitivo direto; \u0027esquecer-se de algo\u0027, com o pronome, exige a preposição \u0027de\u0027.",
-                                              "c":  "a primeira ocorrência está incorreta; deveria ser \u0027esqueci-me do aniversário\u0027, forma pronominal exigida sempre que o verbo antecede complemento de coisa.",
-                                              "d":  "as duas construções são aceitas, mas apenas em registro coloquial; a norma culta exige sempre o verbo pronominal.",
+                                              "c":  "a primeira ocorrência está incorreta; mesmo sem o pronome, o verbo exige a preposição \u0027de\u0027: \u0027esqueci do aniversário\u0027.",
+                                              "d":  "as duas construções são aceitas, mas a forma pronominal é a única recomendada em registro escrito formal.",
                                               "e":  "a segunda ocorrência está incorreta; deveria ser \u0027me esqueci o presente\u0027, sem preposição, já que o pronome \u0027me\u0027 dispensaria o uso de \u0027de\u0027."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O verbo \u0027esquecer\u0027 pode ser transitivo direto quando não pronominal (\u0027esqueci o aniversário\u0027) ou exigir a preposição \u0027de\u0027 quando pronominal (\u0027esqueci-me do presente\u0027); ambas as formas empregadas na frase seguem corretamente essa distinção.",
-                         "dificuldade":  "media",
+                         "explicacao":  "A presença do pronome muda a regência: sem ele, \u0027esquecer\u0027 é transitivo direto (\u0027esqueci o aniversário\u0027); com ele, exige \u0027de\u0027 (\u0027esqueci-me do presente\u0027). As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente da fala brasileira — \u0027esqueci do aniversário\u0027 é corrente, mas mistura as duas regências. Em (a), o mesmo erro generalizado. Em (e), a inversão é dupla. Em (d), a forma não pronominal também é de norma culta.",
                          "formato":  "direta"
                      },
                      {
@@ -675,14 +674,13 @@
                          "enunciado":  "Sobre o uso dos dois-pontos na frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "deveria ser substituído por ponto final, encerrando a frase antes da enumeração e transformando os três eixos em uma oração à parte.",
-                                              "b":  "está correto, pois os dois-pontos introduzem adequadamente uma enumeração explicativa que detalha o termo anterior (\u0027três eixos principais\u0027).",
-                                              "c":  "deveria ser substituído por vírgula, pois dois-pontos são exclusivos de discurso direto, nunca introduzindo listas ou enumerações explicativas.",
-                                              "d":  "está incorreto; os dois-pontos só podem introduzir citação direta, nunca enumeração.",
-                                              "e":  "está incorreto, pois dois-pontos nunca introduzem enumerações, sendo reservados exclusivamente à indicação de falas em discurso direto."
+                                              "b":  "está correto, pois os dois-pontos introduzem uma enumeração que detalha o termo anterior, \u0027três eixos principais\u0027.",
+                                              "c":  "deveria ser substituído por vírgula, já que a enumeração não explica o termo anterior, apenas o continua.",
+                                              "d":  "está incorreto; a enumeração já vem anunciada por \u0027três eixos principais\u0027, e os dois-pontos apenas repetem essa informação.",
+                                              "e":  "está incorreto, pois os dois-pontos exigem oração completa depois deles, e aqui seguem-se apenas sintagmas nominais."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Os dois-pontos são empregados corretamente para introduzir uma enumeração que explica ou detalha um termo anterior (\u0027três eixos principais\u0027), uso consagrado da pontuação em contextos explicativos.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Anunciar um termo genérico e detalhá-lo em seguida é o emprego clássico dos dois-pontos, e é o que a frase faz. Em (e) está a objeção mais técnica e mais errada: os dois-pontos introduzem enumerações, citações e explicações, e não exigem oração completa depois. Em (d), o anúncio prévio é a condição do uso, não um impedimento. Em (c), a enumeração explica o termo anterior. Em (a), o ponto final quebraria a relação entre os eixos e o que os nomeia.",
                          "formato":  "direta"
                      },
                      {
@@ -690,15 +688,14 @@
                          "texto_apoio":  "\"Mais de um candidato desistiu da vaga antes mesmo da entrevista final, embora mais de dois candidatos tenham confirmado presença posteriormente.\"",
                          "enunciado":  "Sobre a concordância verbal com a expressão \u0027mais de um\u0027 e \u0027mais de dois\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "a expressão \u0027mais de um\u0027 exige sempre o verbo no plural, ao contrário do que ocorre na frase, pois o numeral \u0027um\u0027 seria apenas parte de uma locução tratada integralmente como plural pela norma culta, mesmo sem ideia de reciprocidade.",
-                                              "b":  "ambas as construções estão incorretas e deveriam ficar no singular, já que expressões numéricas como \u0027mais de um\u0027 e \u0027mais de dois\u0027 nunca admitiriam o plural verbal, independentemente do numeral que as compõe, ignorando o numeral explícito de \u0027dois\u0027.",
+                                              "a":  "a expressão \u0027mais de um\u0027 exige o verbo no plural, porque a locução indica quantidade superior à unidade e arrasta a flexão verbal, o que tornaria \u0027desistiu\u0027 um desvio de concordância.",
+                                              "b":  "ambas as construções deveriam ficar no singular, já que o núcleo das duas expressões é o numeral, e numeral não impõe flexão ao verbo.",
                                               "c":  "a concordância depende apenas da posição do verbo: anteposto ao sujeito vai ao singular, posposto vai ao plural.",
-                                              "d":  "ambas as construções deveriam levar o verbo no plural, sem exceção, já que qualquer expressão iniciada por \u0027mais de\u0027 indicaria necessariamente uma pluralidade de elementos envolvidos na ação verbal, mesmo com numeral unitário.",
-                                              "e":  "\u0027mais de um candidato desistiu\u0027 está correta no singular, pois \u0027mais de um\u0027 concorda no singular quando não há ideia de reciprocidade; já \u0027mais de dois candidatos tenham confirmado\u0027 está correta no plural, por já expressar numeral explicitamente plural."
+                                              "d":  "as duas construções deveriam levar o verbo no plural, porque \u0027mais de\u0027 já indica pluralidade de elementos envolvidos na ação.",
+                                              "e":  "\u0027mais de um candidato desistiu\u0027 fica no singular por não haver reciprocidade; \u0027mais de dois candidatos tenham confirmado\u0027 vai ao plural pelo numeral."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A expressão \u0027mais de um\u0027 concorda no singular quando não há ideia de reciprocidade entre os elementos (\u0027mais de um candidato desistiu\u0027); já expressões com numeral maior que um, como \u0027mais de dois candidatos\u0027, regem o verbo no plural, ambas corretamente empregadas na frase.",
-                         "dificuldade":  "dificil",
+                         "explicacao":  "\u0027Mais de um\u0027 concorda no singular quando não há reciprocidade entre os elementos; com numeral maior que um, o verbo vai ao plural. As duas ocorrências da frase estão certas. Em (a) está o raciocínio mais intuitivo e por isso o mais perigoso: \u0027mais de um\u0027 de fato designa mais de uma pessoa, mas a norma segue o numeral \u0027um\u0027, não o sentido. Em (d), o mesmo erro estendido às duas. Em (b), o singular generalizado ignora \u0027dois\u0027. Em (c), a posição do verbo não decide.",
                          "formato":  "direta"
                      },
                      {
@@ -707,14 +704,13 @@
                          "enunciado":  "Sobre a regência do verbo \u0027lembrar\u0027 nas duas ocorrências da frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "apenas a construção com o pronome é aceita, pois \u0027lembrar\u0027 sem pronome só existe no sentido de \u0027parecer-se com\u0027.",
-                                              "b":  "apenas construções com a preposição \u0027de\u0027 são aceitas pela norma culta, em qualquer caso, mesmo quando o verbo não vem acompanhado do pronome \u0027me\u0027.",
+                                              "b":  "apenas a construção com a preposição \u0027de\u0027 é aceita, porque o complemento de \u0027lembrar\u0027 é indireto nos dois empregos do verbo.",
                                               "c":  "a segunda ocorrência deveria ser \u0027lembro-me da capa\u0027, sendo a forma apresentada um erro grave de regência verbal na norma culta escrita.",
-                                              "d":  "ambas as construções estão incorretas, pois \u0027lembrar\u0027 sempre exige a preposição \u0027de\u0027, esteja ou não acompanhado da forma pronominal \u0027lembrar-se\u0027.",
-                                              "e":  "estão corretas: \u0027lembrar-se de algo\u0027, com o pronome, exige a preposição \u0027de\u0027; \u0027lembrar algo\u0027, sem o pronome, é transitivo direto e dispensa preposição."
+                                              "d":  "ambas estão incorretas, pois \u0027lembrar\u0027 pede o pronome reflexivo mesmo quando o complemento aparece sem preposição.",
+                                              "e":  "estão corretas: \u0027lembrar-se de algo\u0027 exige \u0027de\u0027; \u0027lembrar algo\u0027, sem o pronome, é transitivo direto."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Assim como \u0027esquecer\u0027, o verbo \u0027lembrar\u0027 pode ser pronominal com a preposição \u0027de\u0027 (\u0027lembrar-se de algo\u0027) ou transitivo direto sem pronome nem preposição (\u0027lembrar algo\u0027); ambas as construções empregadas na frase são corretas segundo a norma culta.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Como em \u0027esquecer\u0027, é o pronome que muda a regência: com ele, \u0027de\u0027; sem ele, objeto direto. As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente, porque a forma pronominal soa mais cuidada e leva a corrigir o que está certo. Em (b) e (d), generaliza-se a regência preposicionada. Em (a), \u0027lembrar algo\u0027 é uso corrente e não se confunde com \u0027lembrar alguém\u0027 no sentido de assemelhar-se.",
                          "formato":  "direta"
                      },
                      {
@@ -722,15 +718,14 @@
                          "texto_apoio":  "\"A reunião está marcada para começar às 14h e deve se estender até às 16h30, segundo o cronograma enviado por e-mail.\"",
                          "enunciado":  "Sobre o uso da crase antes das indicações de horário na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "ambas as ocorrências estão corretas, pois a indicação de horas específicas admite a fusão da preposição \u0027a\u0027 com o artigo feminino plural implícito nas expressões de hora.",
+                                              "a":  "ambas estão corretas, pois a indicação de hora determinada traz artigo feminino implícito, que se funde à preposição \u0027a\u0027.",
                                               "b":  "a crase só é admitida antes de horas exatas; diante de horários com minutos, o acento deve ser suprimido.",
-                                              "c":  "apenas a primeira ocorrência está correta; a segunda deveria ser escrita sem crase, já que a preposição \u0027até\u0027 anularia a regência que a exigiria, confusão comum, pois \u0027até\u0027 apenas reforça o destino sem eliminar a fusão com o artigo.",
-                                              "d":  "nenhuma das ocorrências deveria ter crase, pois números nunca são antecedidos de artigo feminino, mesmo quando indicam horas determinadas, afirmação que ignora o artigo feminino implícito nas expressões de horário.",
-                                              "e":  "a crase é sempre proibida antes de indicações de horário, independentemente do contexto, por se tratar sempre de numerais sem artigo feminino, afirmação incorreta diante do artigo subentendido na expressão de hora."
+                                              "c":  "apenas a primeira está correta; depois de \u0027até\u0027 não se usa crase, porque a preposição já indica o limite temporal.",
+                                              "d":  "nenhuma deveria ter crase, pois números não são antecedidos de artigo feminino nas indicações de horário.",
+                                              "e":  "a crase antes de horário só se justifica quando a hora vem escrita por extenso, e não em notação abreviada como \u002714h\u0027 e \u002716h30\u0027."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Diante de indicações de horas determinadas, emprega-se a crase, pois há a fusão da preposição \u0027a\u0027 (exigida por verbos como \u0027começar\u0027, \u0027chegar\u0027) com o artigo feminino que subentende a palavra \u0027horas\u0027: \u0027às 14h\u0027, \u0027até às 16h30\u0027.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Horas determinadas subentendem \u0027horas\u0027, substantivo feminino com artigo, e o encontro com a preposição produz a crase: \u0027às 14h\u0027, \u0027até às 16h30\u0027. Em (c) está a dúvida mais legítima da questão: com \u0027até\u0027, a crase é de fato facultativa para parte dos gramáticos, mas facultativa não é proibida, e a forma da frase continua correta. Em (e), a notação abreviada não altera o artigo subentendido. Em (b), os minutos não interferem. Em (d), o artigo existe.",
                          "formato":  "direta"
                      },
                      {
@@ -739,14 +734,13 @@
                          "enunciado":  "Na frase, o pronome possessivo \u0027seu\u0027 e o artigo \u0027a\u0027 (em \u0027a proposta\u0027) funcionam, em conjunto com o restante do texto, como recursos de",
                          "alternativas":  {
                                               "a":  "coesão lexical, pois ambos os termos repetem o mesmo campo semântico já introduzido no início do período.",
-                                              "b":  "elementos sem qualquer função coesiva dentro do texto, funcionando apenas como marcas gramaticais obrigatórias sem relação com o restante do período.",
-                                              "c":  "coesão sequencial, indicando apenas a ordem cronológica dos acontecimentos narrados, sem qualquer retomada de termos já mencionados no texto.",
-                                              "d":  "coesão referencial, retomando, respectivamente, o diretor como possuidor do plano e o próprio plano mencionado anteriormente como \u0027a proposta\u0027.",
+                                              "b":  "coesão lexical por sinonímia, já que retomam o vocabulário do período anterior substituindo palavras por equivalentes.",
+                                              "c":  "coesão sequencial, marcando a ordem em que os fatos são apresentados ao longo do período.",
+                                              "d":  "coesão referencial, retomando o diretor como possuidor do plano e o próprio plano, agora nomeado \u0027a proposta\u0027.",
                                               "e":  "ambiguidade proposital, pois não é possível saber a quem os termos se referem, já que há mais de um possuidor plausível no período anterior."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "\u0027Seu\u0027 retoma o diretor como possuidor do plano, e \u0027a proposta\u0027 retoma anaforicamente o próprio plano de expansão mencionado antes, ambos recursos de coesão referencial que evitam repetição desnecessária.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Os dois termos apontam para elementos já mencionados — o diretor e o plano —, e retomar referentes é o que define a coesão referencial. Em (b) está o distrator mais fino: \u0027proposta\u0027 é de fato quase sinônimo de \u0027plano\u0027, e a substituição lexical existe; o que faz o mecanismo funcionar, porém, é a retomada do referente, não a escolha da palavra. Em (a) e (c), campo semântico e ordem cronológica não descrevem o que os termos fazem. Em (e), a referência é inequívoca.",
                          "formato":  "direta"
                      },
                      {
@@ -754,15 +748,14 @@
                          "texto_apoio":  "\"A palestra está marcada para meio-dia e meia, no auditório principal do campus.\"",
                          "enunciado":  "Sobre a concordância nominal de \u0027meia\u0027 na expressão \u0027meio-dia e meia\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está correta apenas em registros informais, sendo sempre um erro em textos formais, que exigiriam a forma invariável \u0027meio\u0027 nessa expressão de hora.",
-                                              "b":  "está incorreta porque a expressão correta seria apenas \u0027meio-dia\u0027, sem qualquer complemento, já que a hora exata dispensaria qualquer flexão adicional.",
-                                              "c":  "está correta; \u0027meia\u0027 concorda, por elipse, com a palavra feminina subentendida \u0027hora\u0027 (\u0027meio-dia e meia hora\u0027), e não com \u0027dia\u0027.",
+                                              "a":  "está correta apenas em registro informal; em texto formal a norma pediria \u0027meio-dia e meio\u0027.",
+                                              "b":  "está incorreta porque \u0027meia\u0027 não tem a que se referir na expressão, faltando o substantivo que justificaria a flexão.",
+                                              "c":  "está correta; \u0027meia\u0027 concorda por elipse com \u0027hora\u0027, substantivo feminino subentendido, e não com \u0027dia\u0027.",
                                               "d":  "está incorreta; deveria ser \u0027meio-dia e meio\u0027, pois \u0027meio\u0027 deveria concordar com \u0027dia\u0027, substantivo masculino.",
                                               "e":  "está correta, mas apenas porque \u0027meia\u0027 funciona como advérbio, e advérbios permanecem invariáveis."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Na expressão \u0027meio-dia e meia\u0027, \u0027meia\u0027 concorda com o substantivo feminino subentendido \u0027hora\u0027 (meio-dia e meia hora), e não com \u0027dia\u0027, o que explica a flexão feminina aparentemente destoante da concordância direta.",
-                         "dificuldade":  "dificil",
+                         "explicacao":  "A expressão completa é \u0027meio-dia e meia hora\u0027: o feminino se explica pelo substantivo elíptico, não por \u0027dia\u0027. Em (d) está a leitura que quase todo mundo faz na primeira vez, porque o único substantivo visível é masculino — e é justamente a palavra invisível que comanda a concordância. Em (b), o referente existe, apenas está subentendido. Em (e), \u0027meia\u0027 aqui é numeral fracionário, não advérbio. Em (a), a forma é de norma culta, não de registro informal.",
                          "formato":  "direta"
                      },
                      {
@@ -770,15 +763,14 @@
                          "texto_apoio":  "\"Professor, o senhor poderia esclarecer melhor o critério de correção da prova?\"",
                          "enunciado":  "Sobre a pontuação do vocativo \u0027Professor\u0027 no início da frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "não deveria receber pontuação alguma, pois vocativos nunca são isolados na norma culta quando aparecem na posição inicial absoluta do período.",
-                                              "b":  "está corretamente isolado por vírgula, pois o vocativo, termo usado para chamar ou interpelar alguém diretamente, deve ser separado do restante da oração por vírgula.",
+                                              "a":  "não deveria receber pontuação, pois o vocativo em posição inicial já se distingue pelo uso da maiúscula.",
+                                              "b":  "está corretamente isolado por vírgula, pois o vocativo, que serve para interpelar alguém, separa-se do restante da oração.",
                                               "c":  "deveria ser isolado por travessão, sinal próprio para marcar a interpelação de um interlocutor.",
                                               "d":  "deveria ser seguido de dois-pontos, e não de vírgula, por se tratar de uma interpelação direta que introduziria uma fala ou explicação posterior.",
-                                              "e":  "deveria ser escrito entre parênteses, e não seguido de vírgula, já que vocativos no início do período exigiriam sempre esse tipo de isolamento."
+                                              "e":  "deveria vir entre parênteses, recurso próprio para isolar o interlocutor a quem a fala se dirige."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O vocativo, elemento que nomeia o interlocutor a quem se dirige a fala, deve ser isolado por vírgula(s) em qualquer posição da frase, conforme ocorre corretamente com \u0027Professor\u0027 no início do período.",
-                         "dificuldade":  "media",
+                         "explicacao":  "O vocativo não exerce função sintática na oração e por isso vem separado por vírgula, em qualquer posição. Em (d) está o distrator mais plausível, porque os dois-pontos de fato introduzem falas — só que depois do verbo de elocução, e não depois do nome de quem se interpela. Em (c) e (e), travessão e parênteses servem a outros isolamentos. Em (a), a maiúscula é da inicial do período, e não marca de vocativo.",
                          "formato":  "direta"
                      },
                      {
@@ -818,15 +810,14 @@
                          "texto_apoio":  "\"São quase duas horas da tarde, e o ônibus que deveria ter saído às treze horas ainda não apareceu no ponto.\"",
                          "enunciado":  "Sobre a concordância verbal na expressão \u0027são quase duas horas\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está correta; o verbo \u0027ser\u0027, ao indicar horas, concorda com o numeral que expressa a quantidade de horas, sendo plural para números maiores que um.",
+                                              "a":  "está correta; ao indicar horas, o verbo \u0027ser\u0027 concorda com o numeral, indo ao plural para números maiores que um.",
                                               "b":  "está incorreta porque falta o artigo definido antes de \u0027duas horas\u0027, elemento que a concordância de horas exigiria nessa construção verbal.",
                                               "c":  "está correta apenas porque a frase está no tempo presente do indicativo, tempo verbal que dispensaria a concordância com o numeral de horas.",
-                                              "d":  "está incorreta; o verbo \u0027ser\u0027, ao indicar horas, deve permanecer sempre no singular, sendo o correto \u0027é quase duas horas\u0027.",
+                                              "d":  "está incorreta; ao indicar horas, o verbo \u0027ser\u0027 concorda com o sujeito \u0027hora\u0027, ficando no singular: \u0027é quase duas horas\u0027.",
                                               "e":  "está incorreta; ao indicar horas, o verbo \u0027ser\u0027 concorda com o sujeito oculto \u0027o relógio\u0027, ficando no singular."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O verbo \u0027ser\u0027, ao indicar horas, concorda com o numeral: singular para \u0027uma hora\u0027 (\u0027é uma hora\u0027) e plural para números maiores (\u0027são duas horas\u0027, \u0027são quase duas horas\u0027), regra corretamente seguida na frase.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Nas indicações de tempo, o numeral é o sujeito com que \u0027ser\u0027 concorda: \u0027é uma hora\u0027, \u0027são duas horas\u0027. Em (e) está a explicação mais engenhosa entre as erradas — a ideia de um sujeito oculto \u0027o relógio\u0027 é apelativa, mas não há tal sujeito, e ela levaria ao singular em todos os horários. Em (d), o singular fixo contraria a regra. Em (b), o artigo não é exigido. Em (c), o tempo verbal não altera a concordância.",
                          "formato":  "direta"
                      },
                      {
@@ -834,15 +825,14 @@
                          "texto_apoio":  "\"O estagiário obedeceu rigorosamente às instruções do supervisor, mas desobedeceu, sem perceber, a um protocolo de segurança menos conhecido da equipe.\"",
                          "enunciado":  "Sobre a regência dos verbos \u0027obedecer\u0027 e \u0027desobedecer\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "apenas \u0027obedeceu\u0027 está correto; \u0027desobedeceu\u0027 deveria ser regido pela preposição \u0027de\u0027, por indicar um afastamento em relação à norma seguida, confusão com verbos de origem, que efetivamente regem essa preposição.",
+                                              "a":  "apenas \u0027obedeceu\u0027 está correto; \u0027desobedeceu\u0027 rege a preposição \u0027de\u0027, por indicar afastamento em relação à norma seguida.",
                                               "b":  "estão corretos apenas na voz passiva; na voz ativa, ambos os verbos passam a exigir complemento direto.",
-                                              "c":  "nenhum dos dois verbos admite complemento na norma culta, funcionando sempre como intransitivos nessa construção sintática da frase, afirmação que ignora o complemento indireto explícito presente em ambas as ocorrências.",
-                                              "d":  "estão corretos; \u0027obedecer\u0027 e \u0027desobedecer\u0027 são verbos transitivos indiretos e exigem a preposição \u0027a\u0027 antes de seu complemento, como ocorre nas duas ocorrências.",
+                                              "c":  "nenhum dos dois admite complemento preposicionado, sendo o \u0027a\u0027 das duas ocorrências mero adjunto adverbial.",
+                                              "d":  "estão corretos; \u0027obedecer\u0027 e \u0027desobedecer\u0027 são transitivos indiretos e exigem a preposição \u0027a\u0027 antes do complemento.",
                                               "e":  "ambos deveriam ser usados como transitivos diretos, sem a preposição \u0027a\u0027, tratando o protocolo e as instruções como objeto direto do verbo."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "\u0027Obedecer\u0027 e \u0027desobedecer\u0027 são verbos transitivos indiretos, regidos pela preposição \u0027a\u0027 (\u0027obedecer a alguém/algo\u0027), regra corretamente seguida nas duas ocorrências da frase, com o objeto indireto explícito em ambas.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Os dois verbos pedem \u0027a\u0027: obedece-se a alguém ou a algo, e desobedece-se do mesmo modo. As duas ocorrências estão corretas. Em (e) está o erro mais comum na fala, porque o sentido de \u0027cumprir\u0027 sugere objeto direto — mas a regência da norma culta permaneceu indireta, e é ela que sustenta a voz passiva com \u0027obedecido\u0027. Em (a), o prefixo de negação não muda a preposição. Em (b) e (c), a voz verbal não altera a regência e o complemento não é adjunto.",
                          "formato":  "direta"
                      },
                      {
@@ -882,15 +872,14 @@
                          "texto_apoio":  "\"Seguem inclusas, nesta correspondência, as cópias dos documentos solicitados pela auditoria; o comprovante de pagamento também segue anexo ao envelope.\"",
                          "enunciado":  "Sobre a concordância nominal de \u0027inclusas\u0027 e \u0027anexo\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "apenas \u0027inclusas\u0027 está correta; \u0027anexo\u0027 deveria ser flexionado para \u0027anexado\u0027, particípio regular que a norma culta exigiria nessa posição, confusão entre a forma adjetiva \u0027anexo\u0027 e o particípio verbal do verbo \u0027anexar\u0027.",
-                                              "b":  "estão corretas: \u0027incluso\u0027 e \u0027anexo\u0027 funcionam como adjetivos e concordam em gênero e número com os substantivos a que se referem (\u0027cópias\u0027, feminino plural; \u0027comprovante\u0027, masculino singular).",
-                                              "c":  "ambas as palavras deveriam permanecer invariáveis, independentemente do substantivo a que se referem, comportando-se sempre como advérbios de modo fixos, afirmação que ignora sua função adjetiva nessa construção nominal.",
-                                              "d":  "estão incorretas, pois \u0027incluso\u0027 e \u0027anexo\u0027 são sempre substantivos, nunca adjetivos, não podendo concordar em gênero e número com nenhum termo da oração em qualquer hipótese.",
+                                              "a":  "apenas \u0027inclusas\u0027 está correta; \u0027anexo\u0027 deveria ser \u0027anexado\u0027, particípio que a norma exigiria nessa posição.",
+                                              "b":  "estão corretas: \u0027incluso\u0027 e \u0027anexo\u0027 são adjetivos e concordam em gênero e número com \u0027cópias\u0027 e \u0027comprovante\u0027.",
+                                              "c":  "as duas deveriam permanecer invariáveis, porque acompanham o verbo \u0027seguir\u0027 e funcionam como advérbios de modo.",
+                                              "d":  "estão incorretas, pois \u0027incluso\u0027 e \u0027anexo\u0027 são substantivos nessa construção e não podem receber flexão de gênero.",
                                               "e":  "estão corretas apenas em correspondência comercial, registro em que \u0027anexo\u0027 e \u0027incluso\u0027 admitem flexão excepcional."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Assim como \u0027anexo\u0027, a palavra \u0027incluso\u0027 funciona como adjetivo e deve concordar em gênero e número com o substantivo a que se refere; por isso, \u0027cópias inclusas\u0027 (feminino plural) e \u0027comprovante anexo\u0027 (masculino singular) estão corretamente flexionados.",
-                         "dificuldade":  "media",
+                         "explicacao":  "\u0027Incluso\u0027 e \u0027anexo\u0027 são adjetivos e concordam com o substantivo a que se referem: \u0027cópias inclusas\u0027, \u0027comprovante anexo\u0027. Em (c) está a confusão mais difundida, porque a expressão \u0027em anexo\u0027 — essa sim invariável — é a forma que a maioria conhece do meio corporativo, e ela faz supor que \u0027anexo\u0027 sozinho também não flexione. Em (a), \u0027anexo\u0027 é adjetivo, não particípio de \u0027anexar\u0027. Em (d), não são substantivos. Em (e), a flexão não depende do registro.",
                          "formato":  "direta"
                      },
                      {
@@ -914,15 +903,14 @@
                          "texto_apoio":  "\"O novo gerente é que resolveu implementar o sistema de fila única no atendimento ao público, depois de meses de reclamações dos clientes.\"",
                          "enunciado":  "Na frase, o sujeito \u0027o novo gerente\u0027 é seguido da partícula \u0027é que\u0027. Sobre essa construção, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está gramaticalmente incorreta, pois nenhuma partícula pode ser inserida entre o sujeito e o verbo da oração, devendo \u0027é que\u0027 ser eliminado para corrigir o desvio apontado e restaurar a estrutura sintática padrão da língua.",
-                                              "b":  "exige que o verbo \u0027resolveu\u0027 passe para o plural, concordando com a partícula \u0027que\u0027, tratada aqui como núcleo de um sujeito composto pela expressão de realce introduzida antes do verbo principal da oração, leitura que ignora a natureza expletiva da partícula.",
+                                              "a":  "está incorreta, pois nada pode ser inserido entre o sujeito e o verbo da oração, e \u0027é que\u0027 deveria ser eliminado para restaurar a ordem sintática padrão.",
+                                              "b":  "exige o verbo no plural, já que \u0027é que\u0027 introduz um segundo núcleo no sujeito da oração.",
                                               "c":  "\u0027é que\u0027 funciona como conjunção explicativa, introduzindo a justificativa da ação expressa pelo verbo seguinte.",
-                                              "d":  "transforma a frase em uma pergunta retórica, alterando completamente o sentido original da oração e exigindo entonação interrogativa na leitura em voz alta do período, o que mudaria por completo a intenção comunicativa original.",
-                                              "e":  "\u0027é que\u0027 funciona como partícula expletiva (de realce), usada para dar ênfase ao sujeito anteposto, sem alterar a estrutura sintática essencial nem exigir mudança de concordância; a oração poderia ser reescrita sem ela (\u0027o novo gerente resolveu...\u0027), mantendo o mesmo sentido básico."
+                                              "d":  "transforma a frase em pergunta retórica, exigindo entonação interrogativa na leitura em voz alta do período.",
+                                              "e":  "\u0027é que\u0027 é partícula expletiva, de realce: enfatiza o sujeito anteposto sem alterar a sintaxe nem a concordância, e a frase admite reescrita sem ela."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "\u0027É que\u0027 é partícula expletiva (ou de realce), empregada para enfatizar o termo anterior sem acrescentar conteúdo semântico novo nem exigir alteração na concordância verbal; a oração admite reescrita sem a partícula (\u0027o novo gerente resolveu implementar...\u0027), com o mesmo sentido básico e menor grau de ênfase sobre o sujeito.",
-                         "dificuldade":  "media",
+                         "explicacao":  "A partícula não acrescenta conteúdo nem função sintática: serve para pôr o sujeito em relevo, e sai da frase sem prejuízo (\u0027o novo gerente resolveu implementar...\u0027). Em (c) está a análise mais tentadora, porque \u0027é que\u0027 contém um verbo e uma conjunção e parece explicar algo — o teste da supressão desfaz a hipótese, já que nenhuma explicação se perde. Em (a), a construção é corrente e correta. Em (b), não há segundo núcleo. Em (d), não há pergunta.",
                          "formato":  "direta"
                      },
                      {
@@ -946,15 +934,14 @@
                          "texto_apoio":  "\"Chegou a hora de decidir; ele já não tinha mais tempo a perder com dúvidas sobre qual caminho seguir.\"",
                          "enunciado":  "Sobre a possibilidade de crase na expressão \u0027a perder\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "não deve haver crase, pois a preposição \u0027a\u0027 antecede um verbo no infinitivo, e crase ocorre apenas diante de substantivos femininos regidos por artigo definido.",
+                                              "a":  "não deve haver crase, pois a preposição \u0027a\u0027 antecede infinitivo, e a crase só ocorre diante de feminino regido por artigo.",
                                               "b":  "a crase é facultativa, pois o infinitivo pode ser interpretado como substantivo masculino ou feminino.",
-                                              "c":  "a ausência de crase torna a frase gramaticalmente incorreta, já que toda preposição \u0027a\u0027 exigiria a fusão com algum artigo feminino, mesmo quando o termo seguinte não admite naturalmente esse determinante.",
-                                              "d":  "a crase é obrigatória sempre que a preposição \u0027a\u0027 antecede qualquer palavra na frase, inclusive verbos no infinitivo como \u0027perder\u0027, regra que desconsidera a ausência de artigo feminino diante de verbos nessa posição.",
-                                              "e":  "deveria haver crase, pois \u0027perder\u0027 é precedido da preposição \u0027a\u0027, que se fundiria a um artigo feminino subentendido antes do verbo, leitura que supõe um artigo inexistente diante de verbo no infinitivo."
+                                              "c":  "a ausência de crase torna a frase incorreta, já que a preposição \u0027a\u0027 pede fusão com o artigo na posição de complemento.",
+                                              "d":  "a crase é obrigatória diante de infinitivo, porque o verbo nessa posição se substantiva e passa a admitir artigo.",
+                                              "e":  "deveria haver crase, pois \u0027perder\u0027 está substantivado na frase e recebe o artigo feminino que se funde com a preposição \u0027a\u0027 anterior."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A crase é a fusão da preposição \u0027a\u0027 com o artigo feminino \u0027a\u0027; como verbos no infinitivo (como \u0027perder\u0027) não são antecedidos de artigo, não há ocorrência de crase, independentemente da presença da preposição \u0027a\u0027.",
-                         "dificuldade":  "media",
+                         "explicacao":  "Crase é fusão de preposição com artigo feminino; verbo no infinitivo não recebe artigo, então não há o que fundir. Em (e) está o raciocínio mais elaborado das alternativas erradas: infinitivos podem de fato se substantivar (\u0027o perder\u0027), mas nesse caso viriam com artigo masculino, e não feminino — o que continua excluindo a crase. Em (d), o mesmo equívoco em forma de regra. Em (c), nem toda preposição \u0027a\u0027 se funde a artigo. Em (b), não há facultatividade.",
                          "formato":  "direta"
                      },
                      {
@@ -962,15 +949,14 @@
                          "texto_apoio":  "\"— A senhora concorda com os termos do contrato? — perguntou o advogado. — Concordo, desde que a cláusula 5 seja revisada — respondeu a cliente, sem hesitar.\"",
                          "enunciado":  "Sobre o uso do travessão no diálogo transcrito, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está empregado corretamente para marcar a mudança de interlocutor em um diálogo, recurso comum na representação de discurso direto.",
+                                              "a":  "está empregado corretamente para marcar a mudança de interlocutor no diálogo, uso próprio do discurso direto.",
                                               "b":  "está correto, mas apenas porque não há verbo de elocução; havendo \u0027disse\u0027 ou \u0027respondeu\u0027, as aspas seriam obrigatórias.",
-                                              "c":  "deveria ser substituído por aspas em todas as ocorrências, sendo o travessão inadequado para diálogos, recurso reservado exclusivamente a citações.",
-                                              "d":  "deveria ser substituído por vírgula em todas as ocorrências apresentadas, já que vírgulas marcariam igualmente a alternância entre os interlocutores.",
-                                              "e":  "está incorreto, pois travessões nunca são usados para indicar fala de personagens, função exclusiva das aspas em discurso direto transcrito."
+                                              "c":  "deveria ser substituído por aspas, sinal que a norma reserva à transcrição de falas em discurso direto.",
+                                              "d":  "deveria ser substituído por vírgula, que marcaria igualmente a alternância entre os interlocutores.",
+                                              "e":  "está incorreto, pois o travessão introduz apenas o comentário do narrador, e não a fala do personagem."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O travessão é recurso de pontuação amplamente utilizado para marcar a alternância de falas entre interlocutores em um diálogo, uso empregado corretamente no trecho transcrito.",
-                         "dificuldade":  "media",
+                         "explicacao":  "O travessão é o sinal clássico para abrir a fala de cada interlocutor no discurso direto, e o trecho o usa assim. Em (b) está a alternativa que mais engana, porque o trecho tem sim verbos de elocução (\u0027perguntou\u0027, \u0027respondeu\u0027) e mesmo assim dispensa aspas — o segundo travessão os isola, que é o procedimento correto. Em (e), o travessão marca as duas coisas. Em (c) e (d), as aspas são alternativa possível e a vírgula não substitui o travessão.",
                          "formato":  "direta"
                      },
                      {

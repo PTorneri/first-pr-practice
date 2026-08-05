@@ -1,0 +1,185 @@
+{
+  "subtopic": "gramatica",
+  "questoes": [
+    {
+      "id": "gramatica-46",
+      "texto_apoio": "\"Mais de um candidato desistiu da vaga antes mesmo da entrevista final, embora mais de dois candidatos tenham confirmado presença posteriormente.\"",
+      "enunciado": "Sobre a concordância verbal com a expressão 'mais de um' e 'mais de dois' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "a expressão 'mais de um' exige o verbo no plural, porque a locução indica quantidade superior à unidade e arrasta a flexão verbal, o que tornaria 'desistiu' um desvio de concordância.",
+        "b": "ambas as construções deveriam ficar no singular, já que o núcleo das duas expressões é o numeral, e numeral não impõe flexão ao verbo.",
+        "c": "a concordância depende apenas da posição do verbo: anteposto ao sujeito vai ao singular, posposto vai ao plural.",
+        "d": "as duas construções deveriam levar o verbo no plural, porque 'mais de' já indica pluralidade de elementos envolvidos na ação.",
+        "e": "'mais de um candidato desistiu' fica no singular por não haver reciprocidade; 'mais de dois candidatos tenham confirmado' vai ao plural pelo numeral."
+      },
+      "resposta": "e",
+      "explicacao": "'Mais de um' concorda no singular quando não há reciprocidade entre os elementos; com numeral maior que um, o verbo vai ao plural. As duas ocorrências da frase estão certas. Em (a) está o raciocínio mais intuitivo e por isso o mais perigoso: 'mais de um' de fato designa mais de uma pessoa, mas a norma segue o numeral 'um', não o sentido. Em (d), o mesmo erro estendido às duas. Em (b), o singular generalizado ignora 'dois'. Em (c), a posição do verbo não decide.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-47",
+      "texto_apoio": "\"Não me lembro do nome do autor do livro, mas lembro perfeitamente a capa vermelha com letras douradas.\"",
+      "enunciado": "Sobre a regência do verbo 'lembrar' nas duas ocorrências da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "apenas a construção com o pronome é aceita, pois 'lembrar' sem pronome só existe no sentido de 'parecer-se com'.",
+        "b": "apenas a construção com a preposição 'de' é aceita, porque o complemento de 'lembrar' é indireto nos dois empregos do verbo.",
+        "c": "a segunda ocorrência deveria ser 'lembro-me da capa', sendo a forma apresentada um erro grave de regência verbal na norma culta escrita.",
+        "d": "ambas estão incorretas, pois 'lembrar' pede o pronome reflexivo mesmo quando o complemento aparece sem preposição.",
+        "e": "estão corretas: 'lembrar-se de algo' exige 'de'; 'lembrar algo', sem o pronome, é transitivo direto."
+      },
+      "resposta": "e",
+      "explicacao": "Como em 'esquecer', é o pronome que muda a regência: com ele, 'de'; sem ele, objeto direto. As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente, porque a forma pronominal soa mais cuidada e leva a corrigir o que está certo. Em (b) e (d), generaliza-se a regência preposicionada. Em (a), 'lembrar algo' é uso corrente e não se confunde com 'lembrar alguém' no sentido de assemelhar-se.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-48",
+      "texto_apoio": "\"A reunião está marcada para começar às 14h e deve se estender até às 16h30, segundo o cronograma enviado por e-mail.\"",
+      "enunciado": "Sobre o uso da crase antes das indicações de horário na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "ambas estão corretas, pois a indicação de hora determinada traz artigo feminino implícito, que se funde à preposição 'a'.",
+        "b": "a crase só é admitida antes de horas exatas; diante de horários com minutos, o acento deve ser suprimido.",
+        "c": "apenas a primeira está correta; depois de 'até' não se usa crase, porque a preposição já indica o limite temporal.",
+        "d": "nenhuma deveria ter crase, pois números não são antecedidos de artigo feminino nas indicações de horário.",
+        "e": "a crase antes de horário só se justifica quando a hora vem escrita por extenso, e não em notação abreviada como '14h' e '16h30'."
+      },
+      "resposta": "a",
+      "explicacao": "Horas determinadas subentendem 'horas', substantivo feminino com artigo, e o encontro com a preposição produz a crase: 'às 14h', 'até às 16h30'. Em (c) está a dúvida mais legítima da questão: com 'até', a crase é de fato facultativa para parte dos gramáticos, mas facultativa não é proibida, e a forma da frase continua correta. Em (e), a notação abreviada não altera o artigo subentendido. Em (b), os minutos não interferem. Em (d), o artigo existe.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-49",
+      "texto_apoio": "\"O diretor apresentou seu plano de expansão à equipe; a proposta, segundo ele, respeitava o orçamento disponível para o próximo ano.\"",
+      "enunciado": "Na frase, o pronome possessivo 'seu' e o artigo 'a' (em 'a proposta') funcionam, em conjunto com o restante do texto, como recursos de",
+      "alternativas": {
+        "a": "coesão lexical, pois ambos os termos repetem o mesmo campo semântico já introduzido no início do período.",
+        "b": "coesão lexical por sinonímia, já que retomam o vocabulário do período anterior substituindo palavras por equivalentes.",
+        "c": "coesão sequencial, marcando a ordem em que os fatos são apresentados ao longo do período.",
+        "d": "coesão referencial, retomando o diretor como possuidor do plano e o próprio plano, agora nomeado 'a proposta'.",
+        "e": "ambiguidade proposital, pois não é possível saber a quem os termos se referem, já que há mais de um possuidor plausível no período anterior."
+      },
+      "resposta": "d",
+      "explicacao": "Os dois termos apontam para elementos já mencionados — o diretor e o plano —, e retomar referentes é o que define a coesão referencial. Em (b) está o distrator mais fino: 'proposta' é de fato quase sinônimo de 'plano', e a substituição lexical existe; o que faz o mecanismo funcionar, porém, é a retomada do referente, não a escolha da palavra. Em (a) e (c), campo semântico e ordem cronológica não descrevem o que os termos fazem. Em (e), a referência é inequívoca.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-50",
+      "texto_apoio": "\"A palestra está marcada para meio-dia e meia, no auditório principal do campus.\"",
+      "enunciado": "Sobre a concordância nominal de 'meia' na expressão 'meio-dia e meia', é correto afirmar que",
+      "alternativas": {
+        "a": "está correta apenas em registro informal; em texto formal a norma pediria 'meio-dia e meio'.",
+        "b": "está incorreta porque 'meia' não tem a que se referir na expressão, faltando o substantivo que justificaria a flexão.",
+        "c": "está correta; 'meia' concorda por elipse com 'hora', substantivo feminino subentendido, e não com 'dia'.",
+        "d": "está incorreta; deveria ser 'meio-dia e meio', pois 'meio' deveria concordar com 'dia', substantivo masculino.",
+        "e": "está correta, mas apenas porque 'meia' funciona como advérbio, e advérbios permanecem invariáveis."
+      },
+      "resposta": "c",
+      "explicacao": "A expressão completa é 'meio-dia e meia hora': o feminino se explica pelo substantivo elíptico, não por 'dia'. Em (d) está a leitura que quase todo mundo faz na primeira vez, porque o único substantivo visível é masculino — e é justamente a palavra invisível que comanda a concordância. Em (b), o referente existe, apenas está subentendido. Em (e), 'meia' aqui é numeral fracionário, não advérbio. Em (a), a forma é de norma culta, não de registro informal.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-51",
+      "texto_apoio": "\"Professor, o senhor poderia esclarecer melhor o critério de correção da prova?\"",
+      "enunciado": "Sobre a pontuação do vocativo 'Professor' no início da frase, é correto afirmar que",
+      "alternativas": {
+        "a": "não deveria receber pontuação, pois o vocativo em posição inicial já se distingue pelo uso da maiúscula.",
+        "b": "está corretamente isolado por vírgula, pois o vocativo, que serve para interpelar alguém, separa-se do restante da oração.",
+        "c": "deveria ser isolado por travessão, sinal próprio para marcar a interpelação de um interlocutor.",
+        "d": "deveria ser seguido de dois-pontos, e não de vírgula, por se tratar de uma interpelação direta que introduziria uma fala ou explicação posterior.",
+        "e": "deveria vir entre parênteses, recurso próprio para isolar o interlocutor a quem a fala se dirige."
+      },
+      "resposta": "b",
+      "explicacao": "O vocativo não exerce função sintática na oração e por isso vem separado por vírgula, em qualquer posição. Em (d) está o distrator mais plausível, porque os dois-pontos de fato introduzem falas — só que depois do verbo de elocução, e não depois do nome de quem se interpela. Em (c) e (e), travessão e parênteses servem a outros isolamentos. Em (a), a maiúscula é da inicial do período, e não marca de vocativo.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-54",
+      "texto_apoio": "\"São quase duas horas da tarde, e o ônibus que deveria ter saído às treze horas ainda não apareceu no ponto.\"",
+      "enunciado": "Sobre a concordância verbal na expressão 'são quase duas horas', é correto afirmar que",
+      "alternativas": {
+        "a": "está correta; ao indicar horas, o verbo 'ser' concorda com o numeral, indo ao plural para números maiores que um.",
+        "b": "está incorreta porque falta o artigo definido antes de 'duas horas', elemento que a concordância de horas exigiria nessa construção verbal.",
+        "c": "está correta apenas porque a frase está no tempo presente do indicativo, tempo verbal que dispensaria a concordância com o numeral de horas.",
+        "d": "está incorreta; ao indicar horas, o verbo 'ser' concorda com o sujeito 'hora', ficando no singular: 'é quase duas horas'.",
+        "e": "está incorreta; ao indicar horas, o verbo 'ser' concorda com o sujeito oculto 'o relógio', ficando no singular."
+      },
+      "resposta": "a",
+      "explicacao": "Nas indicações de tempo, o numeral é o sujeito com que 'ser' concorda: 'é uma hora', 'são duas horas'. Em (e) está a explicação mais engenhosa entre as erradas — a ideia de um sujeito oculto 'o relógio' é apelativa, mas não há tal sujeito, e ela levaria ao singular em todos os horários. Em (d), o singular fixo contraria a regra. Em (b), o artigo não é exigido. Em (c), o tempo verbal não altera a concordância.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-55",
+      "texto_apoio": "\"O estagiário obedeceu rigorosamente às instruções do supervisor, mas desobedeceu, sem perceber, a um protocolo de segurança menos conhecido da equipe.\"",
+      "enunciado": "Sobre a regência dos verbos 'obedecer' e 'desobedecer' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "apenas 'obedeceu' está correto; 'desobedeceu' rege a preposição 'de', por indicar afastamento em relação à norma seguida.",
+        "b": "estão corretos apenas na voz passiva; na voz ativa, ambos os verbos passam a exigir complemento direto.",
+        "c": "nenhum dos dois admite complemento preposicionado, sendo o 'a' das duas ocorrências mero adjunto adverbial.",
+        "d": "estão corretos; 'obedecer' e 'desobedecer' são transitivos indiretos e exigem a preposição 'a' antes do complemento.",
+        "e": "ambos deveriam ser usados como transitivos diretos, sem a preposição 'a', tratando o protocolo e as instruções como objeto direto do verbo."
+      },
+      "resposta": "d",
+      "explicacao": "Os dois verbos pedem 'a': obedece-se a alguém ou a algo, e desobedece-se do mesmo modo. As duas ocorrências estão corretas. Em (e) está o erro mais comum na fala, porque o sentido de 'cumprir' sugere objeto direto — mas a regência da norma culta permaneceu indireta, e é ela que sustenta a voz passiva com 'obedecido'. Em (a), o prefixo de negação não muda a preposição. Em (b) e (c), a voz verbal não altera a regência e o complemento não é adjunto.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-58",
+      "texto_apoio": "\"Seguem inclusas, nesta correspondência, as cópias dos documentos solicitados pela auditoria; o comprovante de pagamento também segue anexo ao envelope.\"",
+      "enunciado": "Sobre a concordância nominal de 'inclusas' e 'anexo' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "apenas 'inclusas' está correta; 'anexo' deveria ser 'anexado', particípio que a norma exigiria nessa posição.",
+        "b": "estão corretas: 'incluso' e 'anexo' são adjetivos e concordam em gênero e número com 'cópias' e 'comprovante'.",
+        "c": "as duas deveriam permanecer invariáveis, porque acompanham o verbo 'seguir' e funcionam como advérbios de modo.",
+        "d": "estão incorretas, pois 'incluso' e 'anexo' são substantivos nessa construção e não podem receber flexão de gênero.",
+        "e": "estão corretas apenas em correspondência comercial, registro em que 'anexo' e 'incluso' admitem flexão excepcional."
+      },
+      "resposta": "b",
+      "explicacao": "'Incluso' e 'anexo' são adjetivos e concordam com o substantivo a que se referem: 'cópias inclusas', 'comprovante anexo'. Em (c) está a confusão mais difundida, porque a expressão 'em anexo' — essa sim invariável — é a forma que a maioria conhece do meio corporativo, e ela faz supor que 'anexo' sozinho também não flexione. Em (a), 'anexo' é adjetivo, não particípio de 'anexar'. Em (d), não são substantivos. Em (e), a flexão não depende do registro.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-60",
+      "texto_apoio": "\"O novo gerente é que resolveu implementar o sistema de fila única no atendimento ao público, depois de meses de reclamações dos clientes.\"",
+      "enunciado": "Na frase, o sujeito 'o novo gerente' é seguido da partícula 'é que'. Sobre essa construção, é correto afirmar que",
+      "alternativas": {
+        "a": "está incorreta, pois nada pode ser inserido entre o sujeito e o verbo da oração, e 'é que' deveria ser eliminado para restaurar a ordem sintática padrão.",
+        "b": "exige o verbo no plural, já que 'é que' introduz um segundo núcleo no sujeito da oração.",
+        "c": "'é que' funciona como conjunção explicativa, introduzindo a justificativa da ação expressa pelo verbo seguinte.",
+        "d": "transforma a frase em pergunta retórica, exigindo entonação interrogativa na leitura em voz alta do período.",
+        "e": "'é que' é partícula expletiva, de realce: enfatiza o sujeito anteposto sem alterar a sintaxe nem a concordância, e a frase admite reescrita sem ela."
+      },
+      "resposta": "e",
+      "explicacao": "A partícula não acrescenta conteúdo nem função sintática: serve para pôr o sujeito em relevo, e sai da frase sem prejuízo ('o novo gerente resolveu implementar...'). Em (c) está a análise mais tentadora, porque 'é que' contém um verbo e uma conjunção e parece explicar algo — o teste da supressão desfaz a hipótese, já que nenhuma explicação se perde. Em (a), a construção é corrente e correta. Em (b), não há segundo núcleo. Em (d), não há pergunta.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-62",
+      "texto_apoio": "\"Chegou a hora de decidir; ele já não tinha mais tempo a perder com dúvidas sobre qual caminho seguir.\"",
+      "enunciado": "Sobre a possibilidade de crase na expressão 'a perder' na frase, é correto afirmar que",
+      "alternativas": {
+        "a": "não deve haver crase, pois a preposição 'a' antecede infinitivo, e a crase só ocorre diante de feminino regido por artigo.",
+        "b": "a crase é facultativa, pois o infinitivo pode ser interpretado como substantivo masculino ou feminino.",
+        "c": "a ausência de crase torna a frase incorreta, já que a preposição 'a' pede fusão com o artigo na posição de complemento.",
+        "d": "a crase é obrigatória diante de infinitivo, porque o verbo nessa posição se substantiva e passa a admitir artigo.",
+        "e": "deveria haver crase, pois 'perder' está substantivado na frase e recebe o artigo feminino que se funde com a preposição 'a' anterior."
+      },
+      "resposta": "a",
+      "explicacao": "Crase é fusão de preposição com artigo feminino; verbo no infinitivo não recebe artigo, então não há o que fundir. Em (e) está o raciocínio mais elaborado das alternativas erradas: infinitivos podem de fato se substantivar ('o perder'), mas nesse caso viriam com artigo masculino, e não feminino — o que continua excluindo a crase. Em (d), o mesmo equívoco em forma de regra. Em (c), nem toda preposição 'a' se funde a artigo. Em (b), não há facultatividade.",
+      "formato": "direta"
+    },
+    {
+      "id": "gramatica-63",
+      "texto_apoio": "\"— A senhora concorda com os termos do contrato? — perguntou o advogado. — Concordo, desde que a cláusula 5 seja revisada — respondeu a cliente, sem hesitar.\"",
+      "enunciado": "Sobre o uso do travessão no diálogo transcrito, é correto afirmar que",
+      "alternativas": {
+        "a": "está empregado corretamente para marcar a mudança de interlocutor no diálogo, uso próprio do discurso direto.",
+        "b": "está correto, mas apenas porque não há verbo de elocução; havendo 'disse' ou 'respondeu', as aspas seriam obrigatórias.",
+        "c": "deveria ser substituído por aspas, sinal que a norma reserva à transcrição de falas em discurso direto.",
+        "d": "deveria ser substituído por vírgula, que marcaria igualmente a alternância entre os interlocutores.",
+        "e": "está incorreto, pois o travessão introduz apenas o comentário do narrador, e não a fala do personagem."
+      },
+      "resposta": "a",
+      "explicacao": "O travessão é o sinal clássico para abrir a fala de cada interlocutor no discurso direto, e o trecho o usa assim. Em (b) está a alternativa que mais engana, porque o trecho tem sim verbos de elocução ('perguntou', 'respondeu') e mesmo assim dispensa aspas — o segundo travessão os isola, que é o procedimento correto. Em (e), o travessão marca as duas coisas. Em (c) e (d), as aspas são alternativa possível e a vírgula não substitui o travessão.",
+      "formato": "direta"
+    }
+  ]
+}

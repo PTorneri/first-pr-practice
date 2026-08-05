@@ -66,9 +66,9 @@
                            "n":  80
                        },
     "gramatica":  {
-                      "longaPct":  22.7,
-                      "absCertaPct":  4.3,
-                      "indice":  38.7,
+                      "longaPct":  14,
+                      "absCertaPct":  5.5,
+                      "indice":  22.7,
                       "n":  150
                   },
     "ingles":  {
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  25.7,
+                    "indice":  24.6,
                     "n":  2149
                 }
 }

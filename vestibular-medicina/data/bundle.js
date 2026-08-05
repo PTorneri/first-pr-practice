@@ -3181,6 +3181,459 @@ window.QUESTION_BANKS = {
                        "resposta":  "b",
                        "explicacao":  "A energia potencial disponibilizada por segundo é m x g x h por unidade de tempo: 500 x 10 x 80 = 400.000 W, ou 400 kW. A potência é justamente energia por tempo, e como a vazão já está em quilogramas por segundo o cálculo entrega diretamente a potência.",
                        "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-61",
+                       "texto_apoio":  "Um barco desloca-se a 5,0 m/s em relação à água de um rio cuja correnteza tem velocidade de 3,0 m/s em relação às margens. O barco aponta perpendicularmente à correnteza.",
+                       "enunciado":  "A velocidade do barco em relação às margens tem módulo de:",
+                       "alternativas":  {
+                                            "a":  "5,8 m/s",
+                                            "b":  "8,0 m/s",
+                                            "c":  "2,0 m/s",
+                                            "d":  "4,0 m/s",
+                                            "e":  "15 m/s"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "As duas velocidades são perpendiculares, e a resultante é a hipotenusa: raiz de (25 + 9) = raiz de 34 ≈ 5,8 m/s. Somar os módulos, como em (b), valeria apenas se as velocidades tivessem a mesma direção e sentido, o que não é o caso.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-62",
+                       "texto_apoio":  "Um tubo horizontal de secção variável conduz água em regime estacionário. Na secção mais larga, de área 20 cm², a velocidade é 2,0 m/s. A secção mais estreita tem área de 5,0 cm².",
+                       "enunciado":  "Na secção estreita, a velocidade da água e a pressão, comparadas às da secção larga, são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "8,0 m/s e menor",
+                                            "b":  "0,50 m/s e maior, uma vez que o estreitamento oferece maior resistência ao escoamento e reduz a velocidade do fluido naquele trecho do tubo",
+                                            "c":  "8,0 m/s e maior, porque tanto a velocidade quanto a pressão aumentam quando a área disponível para o escoamento se reduz no interior do tubo",
+                                            "d":  "2,0 m/s e igual, condição decorrente da conservação da massa de fluido que atravessa qualquer secção do tubo em um mesmo intervalo de tempo",
+                                            "e":  "4,0 m/s e menor, valor obtido pela razão direta entre as duas áreas informadas para as secções do tubo utilizado no experimento"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Pela equação da continuidade, área vezes velocidade é constante: 20 x 2,0 = 5,0 x v, logo v = 8,0 m/s. Pela equação de Bernoulli, onde a velocidade é maior a pressão é menor — resultado contraintuitivo que explica a sustentação de asas e o funcionamento de pulverizadores.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-63",
+                       "texto_apoio":  "Um gráfico mostra a temperatura de uma amostra de 200 g de uma substância em função do calor recebido. A curva sobe até 0 °C, permanece horizontal por um trecho, volta a subir até 100 °C, permanece horizontal por um trecho bem mais longo e volta a subir.",
+                       "enunciado":  "Os dois trechos horizontais correspondem a ______, e o segundo é mais longo porque ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "mudanças de estado – o calor latente de vaporização é maior que o de fusão",
+                                            "b":  "erros de leitura do instrumento – a precisão do termômetro diminui em temperaturas mais elevadas do que a faixa de calibração adotada",
+                                            "c":  "intervalos de resfriamento – a amostra perde calor para o ambiente com mais intensidade quando sua temperatura se aproxima de cem graus",
+                                            "d":  "mudanças de estado – a massa da amostra aumenta durante a segunda transição em razão da absorção de vapor de água do ar circundante",
+                                            "e":  "equilíbrios térmicos com o ambiente – a temperatura ambiente coincide com os dois patamares observados no gráfico construído no experimento"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Durante a mudança de estado a temperatura não varia: toda a energia vai para reorganizar as ligações. O patamar da vaporização é mais longo porque o calor latente correspondente é muito maior — separar completamente as moléculas custa bem mais que apenas permitir que deslizem umas sobre as outras.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "fisica-64",
+                       "texto_apoio":  "Um refrigerador retira calor do interior e o rejeita ao ambiente da cozinha, consumindo energia elétrica. Um estudante propõe resfriar a cozinha inteira deixando a porta da geladeira aberta.",
+                       "enunciado":  "A proposta não funciona porque o refrigerador:",
+                       "alternativas":  {
+                                            "a":  "rejeita ao ambiente mais calor do que retira, pela energia elétrica que consome",
+                                            "b":  "retira calor apenas do ar contido no interior do compartimento fechado, e a abertura da porta interrompe completamente o funcionamento do sistema",
+                                            "c":  "produz frio, que se dispersaria rapidamente pela cozinha e seria neutralizado pelo calor vindo das paredes e do teto do ambiente considerado",
+                                            "d":  "consome energia elétrica que se converte integralmente em trabalho mecânico, sem qualquer parcela dissipada na forma de calor no ambiente",
+                                            "e":  "funciona apenas quando a diferença de temperatura entre o interior e o exterior supera determinado valor mínimo estabelecido pelo fabricante"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O refrigerador transfere calor do interior para o ambiente e ainda dissipa nele a energia elétrica consumida. O balanço líquido é de aquecimento da cozinha. A alternativa (c) trata o frio como substância que se dispersa — frio é ausência de calor, e não algo que se produz.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-65",
+                       "texto_apoio":  "Uma lupa é uma lente convergente usada para observar pequenos objetos. Para que funcione como lupa, o objeto deve ser colocado entre o foco e a lente.",
+                       "enunciado":  "Nessa configuração, a imagem formada é:",
+                       "alternativas":  {
+                                            "a":  "virtual, direita e ampliada",
+                                            "b":  "real, invertida e ampliada, características que permitem sua projeção sobre um anteparo colocado do outro lado da lente convergente utilizada",
+                                            "c":  "virtual, invertida e reduzida, combinação que decorre da posição do objeto entre o foco e o centro óptico da lente empregada na observação",
+                                            "d":  "real, direita e do mesmo tamanho, situação em que a ampliação obtida é exatamente igual à unidade em qualquer distância considerada",
+                                            "e":  "virtual, direita e reduzida, o que explica a necessidade de aproximar bastante a lente do objeto durante a observação com o instrumento"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Com o objeto entre o foco e a lente, os raios emergem divergentes e a imagem se forma pelo prolongamento deles: é virtual, direita e maior que o objeto. Imagem virtual não pode ser projetada em anteparo, o que torna (b) incoerente com a própria classificação que propõe.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-66",
+                       "texto_apoio":  "Um objeto é iluminado por luz branca e aparenta a cor vermelha para um observador. Em seguida, o mesmo objeto é iluminado apenas por luz monocromática verde, em ambiente escuro.",
+                       "enunciado":  "Sob a luz verde, o objeto aparenta a cor:",
+                       "alternativas":  {
+                                            "a":  "preta, porque reflete apenas o vermelho e absorve as demais componentes",
+                                            "b":  "verde, uma vez que qualquer superfície iluminada assume a coloração da fonte luminosa que incide sobre ela naquele momento da observação",
+                                            "c":  "vermelha, porque a cor de um corpo é uma propriedade intrínseca do material e não depende das características da luz incidente sobre ele",
+                                            "d":  "amarela, resultado da combinação aditiva entre o vermelho característico do objeto e o verde proveniente da fonte luminosa utilizada",
+                                            "e":  "branca, porque a ausência das demais componentes do espectro faz o objeto refletir toda a radiação que chega até a sua superfície"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Um objeto vermelho é aquele que reflete o vermelho e absorve o resto. Iluminado só com verde, ele absorve tudo o que recebe e não devolve luz alguma ao observador: aparenta preto. A cor percebida depende da luz disponível e da absorção seletiva, e não é propriedade intrínseca.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-67",
+                       "texto_apoio":  "Uma pessoa dentro de um carro com vidros fechados não é atingida por descargas elétricas durante uma tempestade, mesmo que o veículo seja alcançado por um raio.",
+                       "enunciado":  "A proteção observada decorre do fenômeno de:",
+                       "alternativas":  {
+                                            "a":  "absorção da energia pelos vidros do automóvel, que funcionam como dielétricos capazes de armazenar a carga durante o instante do impacto",
+                                            "b":  "isolamento pelos pneus de borracha, únicos responsáveis por impedir a passagem da corrente elétrica do veículo para o solo durante a descarga",
+                                            "c":  "aterramento pela antena do veículo, que conduz toda a carga da descarga diretamente ao solo sem que ela atravesse a estrutura da carroceria",
+                                            "d":  "repulsão entre a carga do raio e a carga adquirida pelo carro em movimento, o que desvia a descarga antes que ela atinja o veículo",
+                                            "e":  "blindagem eletrostática, com a carga distribuída na superfície externa da carroceria"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Num condutor em equilíbrio eletrostático, a carga em excesso se distribui na superfície externa e o campo no interior é nulo — o efeito gaiola de Faraday. Os pneus não explicam a proteção: a tensão de um raio vence facilmente a borracha, e a corrente escoa pela carroceria.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-68",
+                       "texto_apoio":  "Uma instalação elétrica residencial tem disjuntor de 20 A no circuito da cozinha, alimentado em 127 V. A dona da casa quer ligar simultaneamente um forno de 1.500 W e uma cafeteira de 1.200 W nesse mesmo circuito.",
+                       "enunciado":  "Ligando os dois aparelhos ao mesmo tempo, espera-se que:",
+                       "alternativas":  {
+                                            "a":  "o disjuntor permaneça fechado, mas a corrente se distribua de modo desigual entre os dois aparelhos conforme suas resistências internas",
+                                            "b":  "os dois aparelhos funcionem normalmente, uma vez que a soma das potências permanece abaixo do limite estabelecido para aquele circuito elétrico",
+                                            "c":  "apenas o aparelho de maior potência funcione, e o outro permaneça desligado até que o primeiro conclua o seu ciclo normal de operação",
+                                            "d":  "a tensão da rede caia pela metade, o que reduziria proporcionalmente a potência de cada um dos dois aparelhos ligados simultaneamente",
+                                            "e":  "o disjuntor desarme, porque a corrente total ultrapassaria os 20 A suportados"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A corrente total é a soma das potências dividida pela tensão: (1.500 + 1.200) ÷ 127 ≈ 21 A, acima do limite de 20 A. O disjuntor desarma justamente para evitar o superaquecimento dos condutores — sua função é proteger a fiação, e não os aparelhos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-69",
+                       "texto_apoio":  "Um capacitor de 10 μF é carregado sob diferença de potencial de 100 V e depois desconectado da fonte.",
+                       "enunciado":  "A carga armazenada e a energia acumulada no capacitor são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "1,0 × 10⁻⁵ C e 5,0 × 10⁻⁴ J, condição em que a carga corresponde diretamente ao valor da capacitância informada no enunciado",
+                                            "b":  "1,0 × 10⁻³ C e 1,0 × 10⁻¹ J, valor de energia obtido pelo produto direto entre a carga armazenada e a tensão aplicada aos terminais",
+                                            "c":  "1,0 × 10³ C e 5,0 × 10⁴ J, resultado que decorre do uso da capacitância expressa em farads sem a conversão a partir de microfarads",
+                                            "d":  "10 C e 500 J, valores obtidos ao se considerar a capacitância numericamente igual à carga por unidade de diferença de potencial aplicada",
+                                            "e":  "1,0 × 10⁻³ C e 5,0 × 10⁻² J"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A carga é Q = C x U = 10 x 10⁻⁶ x 100 = 1,0 x 10⁻³ C. A energia é QU ÷ 2 = 1,0 x 10⁻³ x 100 ÷ 2 = 5,0 x 10⁻² J. A alternativa (b) esquece o fator um meio, que aparece porque a tensão cresce de zero até o valor final durante a carga.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-70",
+                       "texto_apoio":  "Dois diapasões emitem sons de frequências 440 Hz e 444 Hz simultaneamente. Um ouvinte percebe um som cuja intensidade oscila de forma perceptível, alternando entre reforço e enfraquecimento.",
+                       "enunciado":  "O fenômeno observado chama-se ______, e a frequência com que a intensidade oscila é de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "difração – 4 Hz, valor correspondente à diferença entre as duas frequências emitidas pelos diapasões utilizados no experimento descrito",
+                                            "b":  "ressonância – 442 Hz",
+                                            "c":  "efeito Doppler – 884 Hz",
+                                            "d":  "batimento – 442 Hz",
+                                            "e":  "batimento – 4 Hz"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Quando duas frequências próximas se superpõem, a interferência alterna entre construtiva e destrutiva, e a intensidade pulsa. A frequência dessa pulsação é a diferença entre as duas: 4 Hz. É o princípio que músicos usam para afinar instrumentos — o batimento desaparece quando as frequências coincidem.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "fisica-71",
+                       "texto_apoio":  "Uma bola de 0,50 kg move-se a 4,0 m/s e colide elasticamente e de frente com outra bola idêntica em repouso, sobre superfície horizontal sem atrito.",
+                       "enunciado":  "Após a colisão, espera-se que:",
+                       "alternativas":  {
+                                            "a":  "a primeira siga a 2,0 m/s e a segunda a 6,0 m/s, valores que somados reproduzem a velocidade inicial multiplicada por um fator constante",
+                                            "b":  "as duas sigam juntas a 2,0 m/s, resultado que decorre da conservação da quantidade de movimento total do sistema formado pelas duas bolas",
+                                            "c":  "a primeira bola volte a 4,0 m/s e a segunda permaneça em repouso, condição em que toda a energia cinética retorna ao corpo que se movia",
+                                            "d":  "as duas se movam em sentidos opostos a 2,0 m/s cada uma, distribuição que conserva simultaneamente a energia e a quantidade de movimento",
+                                            "e":  "a primeira bola pare e a segunda siga a 4,0 m/s"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Numa colisão elástica frontal entre massas iguais, os corpos trocam de velocidade: a que se movia para e a parada assume a velocidade original. É o único resultado que conserva simultaneamente quantidade de movimento e energia cinética. A opção (b) descreveria uma colisão perfeitamente inelástica.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-72",
+                       "texto_apoio":  "Um astronauta em órbita ao redor da Terra flutua dentro da estação espacial, o que costuma ser descrito como ausência de gravidade.",
+                       "enunciado":  "A descrição é imprecisa porque, na altitude da estação:",
+                       "alternativas":  {
+                                            "a":  "a velocidade orbital elevada reduz a massa dos corpos, o que anula seu peso e explica a flutuação registrada nas imagens transmitidas",
+                                            "b":  "a gravidade é exatamente nula, e a flutuação observada decorre da ausência completa de qualquer força atuando sobre os corpos em órbita",
+                                            "c":  "a força centrífuga cancela integralmente a atração gravitacional, o que produz um estado de equilíbrio verdadeiro entre as duas forças atuantes",
+                                            "d":  "o campo magnético terrestre substitui a gravidade naquela altitude, sustentando os corpos em posições fixas dentro do módulo pressurizado",
+                                            "e":  "a gravidade ainda é intensa, e a flutuação decorre de estação e astronauta estarem em queda livre"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A poucas centenas de quilômetros de altitude, a gravidade ainda vale cerca de 90% do valor na superfície. O que ocorre é queda livre permanente: estação e ocupantes caem juntos com a mesma aceleração, e por isso não há força de contato entre eles — o que se sente como ausência de peso.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-73",
+                       "texto_apoio":  "Um balão meteorológico cheio de gás hélio é solto ao nível do mar e sobe. À medida que ganha altitude, seu volume aumenta progressivamente, até que o envelope se rompe.",
+                       "enunciado":  "O aumento de volume durante a subida decorre principalmente da:",
+                       "alternativas":  {
+                                            "a":  "redução da aceleração da gravidade com a altitude, que diminui o peso do gás e permite sua expansão dentro do envelope flexível utilizado",
+                                            "b":  "elevação da temperatura do gás interno, que aquece pela exposição direta à radiação solar nas camadas superiores da atmosfera terrestre",
+                                            "c":  "entrada progressiva de ar atmosférico no interior do envelope, o que aumenta a quantidade de matéria contida no balão durante a subida",
+                                            "d":  "redução da pressão atmosférica externa com a altitude",
+                                            "e":  "conversão do hélio em um gás de maior volume molar por efeito da radiação ultravioleta incidente nas camadas mais altas da atmosfera"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A pressão atmosférica cai com a altitude, e a pressão interna do balão passa a superar a externa, empurrando o envelope para fora. O efeito da pressão supera largamente o da temperatura, que aliás diminui na troposfera e sozinha reduziria o volume.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-74",
+                       "texto_apoio":  "Uma placa metálica com um furo circular no centro é aquecida uniformemente. Um estudante prevê que o furo diminuirá de diâmetro, porque o metal ao redor se expandirá para dentro.",
+                       "enunciado":  "A previsão do estudante está incorreta, porque ao ser aquecida a placa faz o furo:",
+                       "alternativas":  {
+                                            "a":  "assumir forma elíptica, em razão da diferença entre os coeficientes de dilatação nas duas direções principais da placa metálica aquecida",
+                                            "b":  "manter exatamente o mesmo diâmetro, uma vez que o vazio não é composto por matéria capaz de sofrer dilatação térmica durante o aquecimento",
+                                            "c":  "diminuir de diâmetro em proporção menor que a prevista, mas ainda assim na direção indicada pelo raciocínio apresentado pelo estudante",
+                                            "d":  "aumentar de diâmetro, como se fosse feito do mesmo material que a placa",
+                                            "e":  "aumentar de diâmetro apenas se a placa for aquecida por uma de suas faces, e diminuir se o aquecimento for aplicado de modo uniforme"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Na dilatação térmica todas as dimensões crescem na mesma proporção, inclusive as de cavidades: o furo se comporta como se fosse feito do material da placa. É o princípio usado para encaixar peças por interferência — aquece-se o anel externo para que seu orifício aumente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-75",
+                       "texto_apoio":  "Uma fonte sonora pontual emite som uniformemente em todas as direções. Um observador a 2,0 m da fonte mede certa intensidade sonora. Em seguida, afasta-se até 6,0 m da fonte.",
+                       "enunciado":  "A intensidade sonora medida na nova posição, comparada à inicial, é:",
+                       "alternativas":  {
+                                            "a":  "6 vezes menor",
+                                            "b":  "3 vezes menor",
+                                            "c":  "3 vezes maior",
+                                            "d":  "9 vezes menor",
+                                            "e":  "a mesma"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A energia se distribui sobre uma superfície esférica cuja área cresce com o quadrado do raio, então a intensidade cai com o inverso do quadrado da distância. Triplicando a distância, a intensidade cai nove vezes. A alternativa (b) aplica proporção linear, ignorando o quadrado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-76",
+                       "texto_apoio":  "Segundo a teoria da relatividade restrita, o intervalo de tempo medido entre dois eventos depende do estado de movimento do observador. Relógios atômicos embarcados em satélites do sistema de posicionamento global precisam de correção diária.",
+                       "enunciado":  "A necessidade dessa correção mostra que efeitos relativísticos:",
+                       "alternativas":  {
+                                            "a":  "resultam de imprecisões dos instrumentos de medida, que se acumulam ao longo do tempo e exigem recalibração periódica dos equipamentos",
+                                            "b":  "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
+                                            "c":  "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
+                                            "d":  "têm consequências práticas mensuráveis em tecnologias de uso cotidiano",
+                                            "e":  "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-77",
+                       "texto_apoio":  "Um gás monoatômico ideal recebe 500 J de calor e, ao se expandir, realiza 200 J de trabalho sobre o ambiente externo.",
+                       "enunciado":  "A variação da energia interna do gás nesse processo é de:",
+                       "alternativas":  {
+                                            "a":  "−700 J",
+                                            "b":  "+700 J",
+                                            "c":  "−300 J",
+                                            "d":  "+300 J",
+                                            "e":  "zero"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela primeira lei da termodinâmica, a variação da energia interna é o calor recebido menos o trabalho realizado pelo gás: 500 − 200 = +300 J. Somar as duas parcelas, como em (b), corresponderia a um trabalho realizado sobre o gás, e não por ele.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-78",
+                       "texto_apoio":  "Um sistema de roldanas é usado para elevar uma carga de 600 N. O operador aplica uma força de 200 N na extremidade livre da corda e observa que precisa puxar 3,0 m de corda para elevar a carga em 1,0 m.",
+                       "enunciado":  "Sobre o sistema descrito, é correto afirmar que ele:",
+                       "alternativas":  {
+                                            "a":  "não altera a força necessária, servindo apenas para mudar a direção em que o operador precisa aplicar seu esforço durante o procedimento",
+                                            "b":  "multiplica a força e o deslocamento simultaneamente, o que resulta em ganho líquido de energia mecânica durante a operação de elevação da carga",
+                                            "c":  "reduz o trabalho necessário para elevar a carga a um terço do valor que seria exigido caso ela fosse levantada diretamente pelo operador",
+                                            "d":  "multiplica a força por três e divide o deslocamento por três, conservando o trabalho",
+                                            "e":  "aumenta a potência disponível em três vezes, o que permite realizar a mesma tarefa em um terço do tempo originalmente necessário para ela"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O trabalho é o mesmo nos dois lados: 200 x 3,0 = 600 x 1,0 = 600 J. A máquina troca força por deslocamento, sem criar energia. É por isso que (b) e (c) violam a conservação — nenhuma máquina simples reduz o trabalho necessário, apenas redistribui o esforço.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-79",
+                       "texto_apoio":  "Um átomo de hidrogênio absorve um fóton e seu elétron passa de um nível de energia mais baixo para um mais alto. Pouco depois, o elétron retorna ao nível original.",
+                       "enunciado":  "No retorno ao nível original, o átomo:",
+                       "alternativas":  {
+                                            "a":  "libera a energia na forma de calor exclusivamente, sem qualquer emissão de radiação eletromagnética durante a transição entre os níveis",
+                                            "b":  "emite um fóton de energia sempre maior que a do absorvido, em razão da energia adicional liberada durante o processo de reorganização eletrônica",
+                                            "c":  "emite um fóton de energia igual à diferença entre os dois níveis",
+                                            "d":  "perde definitivamente o elétron, que se desprende do átomo ao retornar e passa a circular livremente no meio material que o circunda",
+                                            "e":  "emite radiação de espectro contínuo, cobrindo todas as frequências entre os limites correspondentes aos dois níveis energéticos envolvidos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Os níveis são quantizados, e a transição libera exatamente a diferença de energia entre eles na forma de um fóton de frequência bem definida. É por isso que cada elemento tem um espectro de linhas característico, e não um espectro contínuo — o que descarta (e).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-80",
+                       "texto_apoio":  "Um paciente é submetido a um exame de tomografia computadorizada, que usa raios X, e outro a uma ressonância magnética. A dose de radiação ionizante recebida difere muito entre os dois procedimentos.",
+                       "enunciado":  "A radiação usada na tomografia é ______ e ______ ionizante; a usada na ressonância é ______ e ______ ionizante. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "eletromagnética de baixa frequência – não é – mecânica – é",
+                                            "b":  "mecânica – é – eletromagnética de alta frequência – não é",
+                                            "c":  "eletromagnética de alta frequência – é – eletromagnética de radiofrequência – não é",
+                                            "d":  "eletromagnética de alta frequência – não é – mecânica – é",
+                                            "e":  "mecânica – não é – mecânica – é, diferindo apenas quanto à intensidade aplicada em cada um dos dois exames realizados pelo paciente"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Raios X são ondas eletromagnéticas de frequência muito alta, com energia por fóton suficiente para arrancar elétrons: são ionizantes. A ressonância usa radiofrequência, de energia por fóton milhões de vezes menor, incapaz de ionizar. Nenhuma das duas é onda mecânica — essa é o ultrassom.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "fisica-81",
+                       "texto_apoio":  "Um carro percorre a primeira metade de um trajeto com velocidade média de 40 km/h e a segunda metade com velocidade média de 60 km/h.",
+                       "enunciado":  "A velocidade média do carro em todo o trajeto é de:",
+                       "alternativas":  {
+                                            "a":  "52 km/h",
+                                            "b":  "50 km/h",
+                                            "c":  "48 km/h",
+                                            "d":  "45 km/h",
+                                            "e":  "100 km/h"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Velocidade média é a distância total dividida pelo tempo total, e não a média das velocidades. Para uma distância 2d, os tempos são d/40 e d/60, somando d/24. A média é 2d ÷ (d/24) = 48 km/h. O valor de 50 km/h, oferecido em (b), é a média aritmética — a armadilha da questão.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-82",
+                       "texto_apoio":  "Uma pessoa segura um bloco parado a certa altura do chão, com o braço estendido, durante dois minutos. Depois, caminha horizontalmente por 10 m mantendo o bloco na mesma altura.",
+                       "enunciado":  "O trabalho realizado pela força que a pessoa exerce sobre o bloco, durante a caminhada horizontal, é:",
+                       "alternativas":  {
+                                            "a":  "negativo, uma vez que a força aplicada e o deslocamento realizado apontam em sentidos opostos ao longo de todo o percurso da caminhada",
+                                            "b":  "positivo e igual ao produto entre o peso do bloco e a distância horizontal percorrida pela pessoa durante o trajeto descrito no enunciado",
+                                            "c":  "nulo, porque a força é vertical e o deslocamento é horizontal",
+                                            "d":  "positivo e igual à energia gasta pelos músculos do braço para sustentar o bloco durante todo o tempo em que a pessoa se deslocou",
+                                            "e":  "impossível de determinar sem que se conheçam a massa do bloco e a velocidade com que a pessoa realizou o deslocamento horizontal"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O trabalho depende da componente da força na direção do deslocamento. Sendo perpendiculares, essa componente é nula e o trabalho também. A alternativa (d) repete a confusão entre trabalho mecânico e gasto metabólico, que existe mas não é o que a grandeza física mede.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-83",
+                       "texto_apoio":  "Duas lâmpadas incandescentes, uma de 60 W e outra de 100 W, ambas projetadas para 127 V, são ligadas em série numa rede de 127 V.",
+                       "enunciado":  "Nessa ligação em série, observa-se que:",
+                       "alternativas":  {
+                                            "a":  "as duas brilham igualmente, já que a corrente que atravessa componentes ligados em série é a mesma em todos os pontos daquele circuito",
+                                            "b":  "a lâmpada de 100 W brilha mais, uma vez que sua potência nominal é maior e determina diretamente o brilho em qualquer tipo de associação",
+                                            "c":  "a lâmpada de 60 W brilha mais, porque tem maior resistência e dissipa mais potência",
+                                            "d":  "nenhuma das duas acende, porque a tensão da rede se divide entre elas e nenhuma recebe o valor nominal necessário ao seu funcionamento",
+                                            "e":  "a lâmpada de 100 W queima imediatamente, pois recebe uma corrente superior à que foi projetada para suportar em regime normal de operação"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Potência nominal maior significa resistência menor. Em série, a corrente é igual nas duas, e a potência dissipada é R x i²: quem tem maior resistência dissipa mais e brilha mais. O resultado inverte a intuição, e é por isso que a alternativa (b) é a mais escolhida.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-84",
+                       "texto_apoio":  "Um objeto é lançado verticalmente para cima com velocidade inicial de 20 m/s a partir do solo. Adote g = 10 m/s² e despreze a resistência do ar.",
+                       "enunciado":  "O tempo total de voo, desde o lançamento até o retorno ao solo, é de:",
+                       "alternativas":  {
+                                            "a":  "1,0 s",
+                                            "b":  "2,0 s",
+                                            "c":  "4,0 s",
+                                            "d":  "8,0 s",
+                                            "e":  "20 s"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A subida dura v ÷ g = 20 ÷ 10 = 2,0 s. Sem resistência do ar, a descida leva o mesmo tempo, e o total é 4,0 s. A alternativa (b) apresenta apenas o tempo de subida — omissão que a simetria do movimento torna fácil de cometer.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-85",
+                       "texto_apoio":  "Óculos de sol polarizados reduzem o brilho refletido pela superfície da água e por pistas de asfalto. A luz refletida por superfícies horizontais tende a vibrar predominantemente numa direção também horizontal.",
+                       "enunciado":  "Os óculos reduzem esse brilho porque a lente polarizadora:",
+                       "alternativas":  {
+                                            "a":  "escurece uniformemente toda a luz que chega aos olhos, o que reduz proporcionalmente tanto o brilho refletido quanto a luz útil da cena",
+                                            "b":  "bloqueia a componente de vibração horizontal, deixando passar a vertical",
+                                            "c":  "reflete de volta a luz de maior intensidade, funcionando como um espelho seletivo que devolve ao ambiente a radiação mais incômoda",
+                                            "d":  "converte a luz refletida em radiação infravermelha, faixa do espectro que não é percebida pelas células fotorreceptoras da retina humana",
+                                            "e":  "desvia os raios refletidos para fora do campo de visão do usuário por meio da refração produzida na superfície curva da lente utilizada"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A reflexão em superfície horizontal polariza a luz predominantemente na horizontal. A lente é orientada para transmitir apenas a vibração vertical, e assim corta o brilho sem escurecer proporcionalmente o restante da cena — o que a distingue de um filtro neutro, descrito em (a).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-86",
+                       "texto_apoio":  "Um motor elétrico converte energia elétrica em energia mecânica. Um gerador realiza a conversão inversa. Os dois dispositivos têm construção semelhante, com bobina, ímã e sistema de contatos.",
+                       "enunciado":  "O princípio físico em que se baseia o funcionamento do motor elétrico é:",
+                       "alternativas":  {
+                                            "a":  "a força eletromotriz induzida pela variação do fluxo magnético através da bobina em rotação, o mesmo princípio que rege o funcionamento do gerador",
+                                            "b":  "a força magnética que atua sobre um condutor percorrido por corrente dentro de um campo",
+                                            "c":  "a repulsão eletrostática entre as cargas acumuladas nas espiras da bobina e as presentes na superfície do ímã permanente utilizado no conjunto",
+                                            "d":  "a dilatação térmica dos condutores aquecidos pela passagem da corrente, que produz o movimento cíclico observado no eixo do dispositivo",
+                                            "e":  "a variação da resistência elétrica da bobina com a temperatura, que gera oscilações capazes de manter o eixo do motor em rotação constante"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "No motor, a corrente que percorre a bobina imersa no campo magnético sofre força, e o torque resultante gira o eixo. O gerador faz o inverso: o giro varia o fluxo e induz corrente. A alternativa (a) descreve corretamente o gerador, e não o motor — os dois princípios são recíprocos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-87",
+                       "texto_apoio":  "Um recipiente fechado contém gás ideal a temperatura constante. O volume é reduzido a um terço do valor inicial por meio de um êmbolo móvel.",
+                       "enunciado":  "A pressão final do gás, comparada à inicial, é:",
+                       "alternativas":  {
+                                            "a":  "três vezes menor",
+                                            "b":  "três vezes maior",
+                                            "c":  "nove vezes maior",
+                                            "d":  "a mesma",
+                                            "e":  "um terço maior"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Numa transformação isotérmica de gás ideal o produto pressão-volume é constante. Reduzindo o volume a um terço, a pressão triplica. A alternativa (a) inverte a relação, tratando pressão e volume como diretamente proporcionais em vez de inversamente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-88",
+                       "texto_apoio":  "Uma amostra radioativa emite radiação alfa, beta e gama. Testes de blindagem mostram que uma folha de papel detém a primeira, uma placa de alumínio de poucos milímetros detém a segunda, e apenas uma espessa camada de chumbo atenua significativamente a terceira.",
+                       "enunciado":  "A ordem crescente de poder de penetração das três radiações e a natureza da radiação gama são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "gama, beta e alfa, e a gama é uma partícula pesada composta por dois prótons e dois nêutrons emitidos conjuntamente pelo núcleo instável",
+                                            "b":  "alfa, beta e gama, e a gama é uma onda eletromagnética",
+                                            "c":  "beta, alfa e gama, e a gama é um feixe de elétrons de alta energia liberados durante a conversão de um nêutron em próton no interior do núcleo",
+                                            "d":  "alfa, gama e beta, e a gama corresponde à emissão de núcleos de hélio provenientes da desintegração espontânea da amostra radioativa",
+                                            "e":  "gama, alfa e beta, e a gama é uma onda mecânica de altíssima frequência que se propaga através do material utilizado como blindagem"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A ordem de penetração segue a resistência das blindagens descritas: alfa é a menos penetrante, gama a mais. A partícula alfa é núcleo de hélio, a beta é elétron, e a gama é radiação eletromagnética de altíssima frequência — sem massa e sem carga, e por isso a mais difícil de deter.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-89",
+                       "texto_apoio":  "Uma criança em um balanço aumenta progressivamente a amplitude do movimento ao flexionar as pernas em momentos determinados, sempre no mesmo ponto do ciclo, sem que ninguém a empurre.",
+                       "enunciado":  "O fenômeno que explica o aumento da amplitude nessas condições é:",
+                       "alternativas":  {
+                                            "a":  "a interferência destrutiva entre o movimento da criança e o do balanço, que se cancelam parcialmente e produzem oscilação de maior amplitude",
+                                            "b":  "a ressonância, com a energia sendo fornecida na frequência natural do sistema",
+                                            "c":  "a inércia acumulada pelo corpo da criança, que se transfere ao balanço a cada ciclo e amplia o deslocamento sem qualquer aporte de energia",
+                                            "d":  "o efeito Doppler aplicado ao movimento oscilatório, que altera a frequência percebida e amplia progressivamente o alcance de cada oscilação",
+                                            "e":  "a difração do movimento pendular ao contornar o ponto de suspensão do balanço, o que amplia a trajetória descrita a cada meia oscilação"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Fornecer energia em fase com a oscilação natural do sistema faz a amplitude crescer a cada ciclo: é ressonância. Isso exige que a frequência do estímulo coincida com a natural — o mesmo fenômeno que explica taças quebrando com som e cuidados no projeto de pontes.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-90",
+                       "texto_apoio":  "Um objeto de 2,0 kg desliza sobre uma superfície horizontal com velocidade inicial de 6,0 m/s e para após percorrer 9,0 m, em razão do atrito. Adote g = 10 m/s².",
+                       "enunciado":  "O coeficiente de atrito cinético entre o objeto e a superfície é de:",
+                       "alternativas":  {
+                                            "a":  "0,40",
+                                            "b":  "0,20",
+                                            "c":  "0,10",
+                                            "d":  "0,60",
+                                            "e":  "0,05"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A energia cinética inicial é 2,0 x 36 ÷ 2 = 36 J, integralmente dissipada pelo atrito ao longo de 9,0 m. A força de atrito é 36 ÷ 9,0 = 4,0 N, e o coeficiente é essa força dividida pela normal: 4,0 ÷ (2,0 x 10) = 0,20. A massa aparece nos dois lados e poderia ser dispensada.",
+                       "formato":  "direta"
                    }
                ],
     "quimica":  [

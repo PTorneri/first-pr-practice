@@ -1,8 +1,14 @@
 {
     "_global":  {
-                    "indice":  1,
-                    "n":  210
+                    "indice":  0.7,
+                    "n":  450
                 },
+    "fisica":  {
+                   "longaPct":  0.7,
+                   "absCertaPct":  6.7,
+                   "indice":  0.7,
+                   "n":  150
+               },
     "biologia":  {
                      "longaPct":  1.3,
                      "absCertaPct":  3,
@@ -13,6 +19,6 @@
                     "longaPct":  0,
                     "absCertaPct":  0,
                     "indice":  0,
-                    "n":  60
+                    "n":  150
                 }
 }

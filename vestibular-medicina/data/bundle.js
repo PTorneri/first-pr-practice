@@ -4087,6 +4087,460 @@ window.QUESTION_BANKS = {
                        "resposta":  "b",
                        "explicacao":  "A potência solar incidente é 1.000 x 2,0 = 2.000 W. Com eficiência de 20%, a saída elétrica é 400 W. A alternativa (a) apresenta a potência incidente sem aplicar a eficiência, que é justamente o que a questão pede para considerar.",
                        "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-121",
+                       "texto_apoio":  "Dois blocos, de 2,0 kg e 3,0 kg, estão ligados por um fio ideal sobre uma superfície horizontal sem atrito. Uma força horizontal de 10 N é aplicada ao bloco de 3,0 kg, puxando o conjunto.",
+                       "enunciado":  "A aceleração do conjunto e a tração no fio são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "5,0 m/s² e 4,0 N",
+                                            "b":  "2,0 m/s² e 10 N",
+                                            "c":  "2,0 m/s² e 4,0 N",
+                                            "d":  "3,3 m/s² e 6,0 N",
+                                            "e":  "2,0 m/s² e 6,0 N"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O conjunto tem massa 5,0 kg, então a = 10 ÷ 5,0 = 2,0 m/s². A tração é a única força sobre o bloco de 2,0 kg: T = 2,0 x 2,0 = 4,0 N. A alternativa (e) usa a massa do bloco puxado em vez da do bloco rebocado, erro comum nesse tipo de sistema.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-122",
+                       "texto_apoio":  "Torricelli mediu a pressão atmosférica invertendo um tubo cheio de mercúrio sobre uma cuba. A coluna estabilizou em 76 cm ao nível do mar. A densidade do mercúrio é 13.600 kg/m³ e g = 10 m/s².",
+                       "enunciado":  "Se o experimento fosse repetido com água, cuja densidade é 1.000 kg/m³, a coluna estabilizaria em aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "10,3 m",
+                                            "b":  "76 cm",
+                                            "c":  "1,03 m",
+                                            "d":  "13,6 m",
+                                            "e":  "7,6 m"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A mesma pressão exige colunas cujas alturas são inversamente proporcionais às densidades: 0,76 x (13.600 ÷ 1.000) ≈ 10,3 m. É por isso que Torricelli usou mercúrio — um barômetro de água precisaria de um tubo de mais de dez metros.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-123",
+                       "texto_apoio":  "Cidades litorâneas apresentam variação diária de temperatura menor que cidades do interior situadas na mesma latitude. A água tem calor específico cerca de cinco vezes maior que o da areia.",
+                       "enunciado":  "A menor amplitude térmica no litoral se explica porque a água:",
+                       "alternativas":  {
+                                            "a":  "evapora continuamente e forma uma camada de vapor que isola termicamente a superfície do continente da radiação proveniente do Sol",
+                                            "b":  "reflete a maior parte da radiação solar incidente, o que reduz o aquecimento total da região costeira ao longo das horas de insolação",
+                                            "c":  "aquece mais rapidamente que a areia durante o dia e resfria também mais rápido durante a noite, o que equilibra a média térmica diária",
+                                            "d":  "absorve e libera muito calor com pequena variação de temperatura, amortecendo as oscilações",
+                                            "e":  "possui condutividade térmica muito baixa, o que impede qualquer transferência de calor entre o oceano e a atmosfera nas regiões costeiras"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Calor específico alto significa que muita energia entra ou sai com pouca mudança de temperatura. O mar funciona como reservatório térmico: absorve calor de dia sem esquentar muito e o devolve à noite sem esfriar muito, o que amortece a variação no ar da costa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-124",
+                       "texto_apoio":  "Um bloco de 200 g de gelo a −10 °C é aquecido até virar água a 20 °C. Considere: calor específico do gelo 0,50 cal·g⁻¹·°C⁻¹, calor latente de fusão 80 cal/g, calor específico da água 1,0 cal·g⁻¹·°C⁻¹.",
+                       "enunciado":  "A quantidade total de calor necessária é de:",
+                       "alternativas":  {
+                                            "a":  "16.000 cal",
+                                            "b":  "21.000 cal",
+                                            "c":  "5.000 cal",
+                                            "d":  "20.000 cal",
+                                            "e":  "1.000 cal"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "São três etapas: aquecer o gelo, 200 x 0,50 x 10 = 1.000 cal; fundir, 200 x 80 = 16.000 cal; aquecer a água, 200 x 1,0 x 20 = 4.000 cal. O total é 21.000 cal. A alternativa (a) considera apenas a fusão, que domina o valor mas não é o processo inteiro.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-125",
+                       "texto_apoio":  "Duas placas metálicas paralelas separadas por 2,0 cm são submetidas a uma diferença de potencial de 200 V. Entre elas estabelece-se um campo elétrico uniforme.",
+                       "enunciado":  "A intensidade do campo elétrico entre as placas é de:",
+                       "alternativas":  {
+                                            "a":  "4,0 V/m",
+                                            "b":  "100 V/m",
+                                            "c":  "4,0 × 10³ V/m",
+                                            "d":  "1,0 × 10² V/m",
+                                            "e":  "1,0 × 10⁴ V/m"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Num campo uniforme, E = U ÷ d. Convertendo a distância: 2,0 cm = 0,020 m. Assim E = 200 ÷ 0,020 = 1,0 x 10⁴ V/m. A alternativa (b) resulta de deixar a distância em centímetros, o que altera o resultado por um fator de cem.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-126",
+                       "texto_apoio":  "Uma bolha de sabão iluminada por luz branca apresenta cores vivas que mudam conforme o ângulo de observação e a espessura da película. O fenômeno também aparece em manchas de óleo sobre água.",
+                       "enunciado":  "As cores observadas resultam de ______ entre a luz refletida nas duas faces da película, e o fato de a cor variar com a espessura decorre de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "refração – a velocidade da luz variar conforme o material que compõe a película observada em cada uma das regiões da superfície",
+                                            "b":  "interferência – cada comprimento de onda sofrer reforço em espessuras diferentes",
+                                            "c":  "polarização – as ondas refletidas vibrarem em planos perpendiculares entre si nas duas faces da película fina que compõe a bolha",
+                                            "d":  "dispersão – o índice de refração do sabão separar as cores da luz branca em ângulos distintos ao longo de toda a superfície esférica",
+                                            "e":  "difração – as ondas contornarem as bordas da película e se recombinarem em direções que dependem do ângulo em que o observador se posiciona"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A luz refletida na face externa e a refletida na interna percorrem caminhos de comprimentos diferentes e se superpõem. Para cada espessura, um comprimento de onda específico sofre interferência construtiva e domina a cor percebida — daí as faixas coloridas que mudam com a espessura.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "fisica-127",
+                       "texto_apoio":  "Uma corda de 2,0 m e massa 0,010 kg é tensionada com força de 20 N. A velocidade de propagação de uma onda numa corda depende da tensão e da densidade linear do material.",
+                       "enunciado":  "A velocidade de propagação de um pulso nessa corda é de:",
+                       "alternativas":  {
+                                            "a":  "63 m/s",
+                                            "b":  "20 m/s",
+                                            "c":  "4.000 m/s",
+                                            "d":  "2,0 m/s",
+                                            "e":  "200 m/s"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A densidade linear é 0,010 ÷ 2,0 = 0,0050 kg/m. A velocidade é a raiz de (T ÷ μ) = raiz de (20 ÷ 0,0050) = raiz de 4.000 ≈ 63 m/s. A alternativa (c) apresenta o valor antes da raiz quadrada, etapa que a fórmula exige.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-128",
+                       "texto_apoio":  "Uma máquina térmica recebe 1.000 J de calor da fonte quente por ciclo e rejeita 700 J à fonte fria.",
+                       "enunciado":  "O trabalho realizado por ciclo e o rendimento da máquina são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "300 J e 43%",
+                                            "b":  "700 J e 70%",
+                                            "c":  "1.700 J e 170%",
+                                            "d":  "300 J e 30%",
+                                            "e":  "1.000 J e 100%"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O trabalho é a diferença entre o calor recebido e o rejeitado: 1.000 − 700 = 300 J. O rendimento é o trabalho dividido pelo calor recebido: 300 ÷ 1.000 = 0,30. A alternativa (a) divide o trabalho pelo calor rejeitado, e não pelo recebido.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-129",
+                       "texto_apoio":  "Um estudante organiza as radiações eletromagnéticas em ordem crescente de frequência: ondas de rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios X e raios gama.",
+                       "enunciado":  "Ao longo dessa sequência, o comprimento de onda ______ e a energia por fóton ______, sendo consideradas ionizantes ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "diminui – diminui – todas as faixas, uma vez que qualquer radiação eletromagnética transporta energia suficiente para arrancar elétrons",
+                                            "b":  "aumenta – diminui – as primeiras da série, começando pelas ondas de rádio de menor frequência empregadas em telecomunicações",
+                                            "c":  "diminui – aumenta – as últimas da série, a partir do ultravioleta de maior energia",
+                                            "d":  "aumenta – aumenta – apenas as micro-ondas, cuja frequência específica interage diretamente com as moléculas de água dos tecidos",
+                                            "e":  "permanece constante – aumenta – as faixas intermediárias, situadas entre o infravermelho e o ultravioleta do espectro eletromagnético"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Frequência e comprimento de onda são inversamente proporcionais no vácuo, e a energia por fóton cresce com a frequência. Ionizar exige energia por fóton suficiente para arrancar elétrons, o que só ocorre a partir do ultravioleta mais energético — daí a preocupação com raios X e gama.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "fisica-130",
+                       "texto_apoio":  "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
+                       "enunciado":  "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
+                       "alternativas":  {
+                                            "a":  "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
+                                            "b":  "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
+                                            "c":  "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
+                                            "d":  "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
+                                            "e":  "permanece constante, alternando entre as formas elástica e cinética"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Sem atrito, a energia mecânica se conserva: nos extremos ela é toda elástica, na posição de equilíbrio é toda cinética, e nos pontos intermediários se reparte. A alternativa (d) confunde energia total com energia cinética, que de fato varia dessa forma.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-131",
+                       "texto_apoio":  "Um circuito contém três resistores: um de 10 Ω em série com uma associação em paralelo de dois resistores de 20 Ω cada. O conjunto é ligado a uma fonte de 30 V.",
+                       "enunciado":  "A resistência equivalente do circuito e a corrente fornecida pela fonte são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "10 Ω e 3,0 A",
+                                            "b":  "50 Ω e 0,60 A",
+                                            "c":  "30 Ω e 1,0 A",
+                                            "d":  "20 Ω e 1,5 A",
+                                            "e":  "40 Ω e 0,75 A"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Os dois resistores de 20 Ω em paralelo equivalem a 10 Ω. Somando ao de 10 Ω em série: 20 Ω. A corrente é 30 ÷ 20 = 1,5 A. A alternativa (b) soma os três em série, ignorando a associação em paralelo descrita no enunciado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-132",
+                       "texto_apoio":  "Uma pessoa aperta um parafuso com uma chave de boca curta e não consegue soltá-lo. Em seguida, encaixa um tubo na chave, alongando o braço, e o parafuso cede.",
+                       "enunciado":  "O tubo torna a tarefa possível porque:",
+                       "alternativas":  {
+                                            "a":  "reduz o atrito entre a rosca do parafuso e a peça em que ele se encontra fixado, o que facilita o deslizamento durante a rotação aplicada",
+                                            "b":  "aumenta a força que a pessoa consegue aplicar, uma vez que o tubo permite melhor apoio das mãos durante o esforço realizado sobre a peça",
+                                            "c":  "aumenta o braço de alavanca e, com a mesma força, produz torque maior",
+                                            "d":  "distribui a força aplicada por uma área maior da chave, o que reduz a pressão sobre a cabeça do parafuso e evita danos à sua estrutura",
+                                            "e":  "converte parte da força aplicada em energia potencial elástica acumulada no tubo, liberada de uma só vez no momento em que o parafuso cede"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O torque é o produto da força pela distância ao eixo de rotação. Dobrando o braço, o mesmo esforço produz o dobro de torque. A força aplicada pela pessoa não muda — o que muda é a alavanca, e é por isso que (b) inverte a explicação.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-133",
+                       "texto_apoio":  "Uma carga de 4,0 × 10⁻⁶ C é deslocada entre dois pontos de um campo elétrico, e a força elétrica realiza sobre ela um trabalho de 8,0 × 10⁻⁴ J.",
+                       "enunciado":  "A diferença de potencial entre os dois pontos é de:",
+                       "alternativas":  {
+                                            "a":  "3,2 × 10⁻⁹ V",
+                                            "b":  "200 V",
+                                            "c":  "0,005 V",
+                                            "d":  "20 V",
+                                            "e":  "2.000 V"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A diferença de potencial é o trabalho por unidade de carga: 8,0 x 10⁻⁴ ÷ 4,0 x 10⁻⁶ = 200 V. A alternativa (a) multiplica em vez de dividir, e a ordem de grandeza resultante já denuncia o erro.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-134",
+                       "texto_apoio":  "Um microscópio óptico tem limite de resolução da ordem de 200 nanômetros, próximo à metade do comprimento de onda da luz visível empregada. Um microscópio eletrônico atinge resoluções milhares de vezes melhores.",
+                       "enunciado":  "A superioridade do microscópio eletrônico decorre de:",
+                       "alternativas":  {
+                                            "a":  "o vácuo no interior do equipamento eliminar a refração do meio, único fator que limita a resolução dos microscópios ópticos convencionais",
+                                            "b":  "o feixe de elétrons atravessar a amostra com maior intensidade, o que amplia o contraste da imagem obtida sem alterar o poder de resolução",
+                                            "c":  "as lentes eletromagnéticas apresentarem menos defeitos de fabricação que as lentes de vidro empregadas nos microscópios ópticos comuns",
+                                            "d":  "os elétrons se propagarem em linha reta perfeita, ao contrário da luz, que sofre desvios ao atravessar o material biológico observado",
+                                            "e":  "os elétrons apresentarem comprimento de onda associado muito menor que o da luz visível"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O limite de resolução é da ordem do comprimento de onda usado. Elétrons acelerados têm comprimento de onda associado da ordem de picômetros, muito menor que os centenas de nanômetros da luz visível — e é isso que permite enxergar estruturas que a óptica não alcança.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-135",
+                       "texto_apoio":  "Um caminhão e um carro de passeio colidem frontalmente. O carro sofre danos muito maiores e seus ocupantes são mais atingidos.",
+                       "enunciado":  "Durante a colisão, as forças que os dois veículos exercem um sobre o outro:",
+                       "alternativas":  {
+                                            "a":  "têm a mesma intensidade, e a diferença de danos vem das massas e acelerações distintas",
+                                            "b":  "são maiores no caminhão, uma vez que a força exercida por um corpo é proporcional à sua massa durante qualquer interação por contato direto",
+                                            "c":  "são maiores no carro, porque o veículo mais leve adquire velocidade superior e transfere mais energia ao outro corpo durante o impacto",
+                                            "d":  "variam conforme a velocidade de cada veículo antes da colisão, sendo maior a exercida por aquele que se deslocava mais rapidamente",
+                                            "e":  "não podem ser comparadas, já que atuam em corpos de massas diferentes e em intervalos de tempo distintos durante o evento da colisão"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Pela terceira lei de Newton, as forças de interação são sempre iguais em módulo. O que difere é o efeito: com a mesma força, o veículo de menor massa sofre aceleração muito maior, e é essa aceleração que danifica a estrutura e fere os ocupantes.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-136",
+                       "texto_apoio":  "Uma amostra radioativa tem meia-vida de 12 horas. No instante inicial, sua atividade é de 800 desintegrações por segundo.",
+                       "enunciado":  "Após 36 horas, a atividade da amostra será de:",
+                       "alternativas":  {
+                                            "a":  "200 desintegrações por segundo",
+                                            "b":  "100 desintegrações por segundo",
+                                            "c":  "400 desintegrações por segundo",
+                                            "d":  "50 desintegrações por segundo",
+                                            "e":  "zero"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Trinta e seis horas correspondem a três meias-vidas. A atividade cai pela metade a cada uma: 800 → 400 → 200 → 100. A alternativa (e) supõe extinção completa, o que o decaimento exponencial nunca produz em tempo finito.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-137",
+                       "texto_apoio":  "Uma sonda espacial é lançada e, após deixar a atmosfera, mantém velocidade praticamente constante em linha reta durante meses, com os motores desligados, numa região distante de corpos massivos.",
+                       "enunciado":  "O comportamento descrito é explicado pela:",
+                       "alternativas":  {
+                                            "a":  "terceira lei de Newton, com o vácuo exercendo sobre a sonda uma reação de mesma intensidade e sentido oposto ao seu deslocamento",
+                                            "b":  "segunda lei de Newton, uma vez que a ausência de atmosfera reduz a massa efetiva da sonda e mantém sua aceleração constante ao longo do trajeto",
+                                            "c":  "conservação da quantidade de movimento durante a queima dos propelentes, processo que continua atuando mesmo com os motores desligados",
+                                            "d":  "lei da gravitação universal, que impulsiona a sonda continuamente na direção oposta à do corpo celeste mais próximo de sua trajetória",
+                                            "e":  "primeira lei de Newton, já que a resultante das forças sobre a sonda é praticamente nula"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Sem atmosfera não há arrasto, e longe de corpos massivos a gravidade é desprezível: a resultante é praticamente nula e a sonda mantém velocidade constante, conforme a lei da inércia. Manter movimento não exige força — só mudá-lo exige, o que é o conteúdo da segunda lei.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-138",
+                       "texto_apoio":  "Um chuveiro elétrico tem duas posições de funcionamento, inverno e verão. Na posição inverno, a água sai mais quente para a mesma vazão. O aparelho opera na mesma tensão nas duas posições.",
+                       "enunciado":  "Ao mudar da posição verão para a inverno, o chuveiro:",
+                       "alternativas":  {
+                                            "a":  "eleva a tensão aplicada à resistência interna, o que aumenta a energia entregue à água sem alterar a corrente que percorre o circuito",
+                                            "b":  "aumenta a resistência do circuito, o que eleva a potência dissipada por efeito Joule e aquece mais a água que atravessa o aparelho",
+                                            "c":  "reduz a resistência do circuito, o que aumenta a corrente e a potência dissipada",
+                                            "d":  "reduz a vazão de água, o que faz cada porção permanecer mais tempo em contato com a resistência e atingir temperatura mais elevada",
+                                            "e":  "inverte o sentido da corrente elétrica, o que altera o modo de funcionamento do elemento aquecedor instalado no interior do equipamento"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Com tensão fixa, a potência é U² ÷ R: reduzir a resistência aumenta a potência. Na prática, a chave curto-circuita parte do resistor, encurtando o trecho ativo. A alternativa (b) acerta o efeito e erra a causa, invertendo a relação entre resistência e potência a tensão constante.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-139",
+                       "texto_apoio":  "Um recipiente contém água em equilíbrio térmico a 25 °C. Um estudante afirma que, se colocar o recipiente em contato com um corpo mais frio, o calor poderá fluir espontaneamente do corpo frio para a água, desde que a diferença de temperatura seja pequena.",
+                       "enunciado":  "A afirmação contraria:",
+                       "alternativas":  {
+                                            "a":  "o princípio da conservação da massa, uma vez que a transferência de calor implicaria variação na quantidade de matéria de cada um dos corpos",
+                                            "b":  "a primeira lei da termodinâmica, que estabelece a conservação da energia em qualquer processo de troca térmica entre dois corpos em contato",
+                                            "c":  "a lei zero da termodinâmica, que define o conceito de equilíbrio térmico entre corpos colocados em contato por tempo suficientemente longo",
+                                            "d":  "a segunda lei da termodinâmica, segundo a qual o calor flui espontaneamente do corpo mais quente para o mais frio",
+                                            "e":  "a lei de resfriamento de Newton, que relaciona a taxa de perda de calor à diferença de temperatura entre o corpo e o ambiente que o cerca"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A segunda lei estabelece o sentido dos processos espontâneos: calor flui do mais quente para o mais frio, e o inverso exige trabalho externo — é o que faz uma geladeira. A primeira lei sozinha não proíbe o fluxo invertido, já que ela apenas contabiliza a energia.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-140",
+                       "texto_apoio":  "Um paciente realiza cintilografia com um radiofármaco emissor gama de meia-vida curta, escolhido para permitir a formação da imagem e ser eliminado rapidamente do organismo.",
+                       "enunciado":  "A escolha de um emissor gama de meia-vida curta se justifica porque a radiação gama ______ e a meia-vida curta ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "atravessa os tecidos e alcança o detector externo – reduz a dose acumulada pelo paciente",
+                                            "b":  "é absorvida integralmente pelos tecidos superficiais – prolonga o tempo disponível para a realização das imagens necessárias ao diagnóstico",
+                                            "c":  "possui carga elétrica que a direciona ao órgão-alvo – permite acumular o radiofármaco nos tecidos por períodos mais longos após a aplicação",
+                                            "d":  "apresenta massa suficiente para depositar energia localizada – aumenta o contraste da imagem obtida durante o exame de medicina nuclear",
+                                            "e":  "é uma onda mecânica capaz de atravessar meios densos – garante que a atividade permaneça constante durante todo o período de observação"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A radiação gama é eletromagnética, sem carga nem massa, e por isso atravessa o corpo e chega ao detector — condição para formar a imagem. Meia-vida curta faz a atividade cair rapidamente após o exame, limitando a dose. Alfa e beta seriam absorvidas antes de sair do paciente.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "fisica-141",
+                       "texto_apoio":  "Um bloco desliza para baixo em um plano inclinado com atrito, partindo do repouso. Compara-se sua energia mecânica no topo e na base da rampa.",
+                       "enunciado":  "Ao chegar à base, a energia mecânica do bloco é:",
+                       "alternativas":  {
+                                            "a":  "impossível de comparar, já que energia potencial e energia cinética são grandezas de naturezas distintas e não podem ser somadas entre si",
+                                            "b":  "igual à do topo, uma vez que a energia mecânica se conserva em qualquer sistema no qual atuem apenas forças de origem gravitacional e normal",
+                                            "c":  "maior que no topo, porque a energia potencial se converte integralmente em cinética e ainda recebe a contribuição do trabalho do atrito",
+                                            "d":  "igual à do topo, com o atrito apenas retardando o movimento sem alterar o balanço energético total do sistema considerado no problema",
+                                            "e":  "menor que no topo, porque parte dela foi dissipada pelo atrito na forma de calor"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O atrito é força dissipativa: converte energia mecânica em térmica, que sai do sistema. A energia total se conserva, mas a mecânica não. A alternativa (b) enuncia corretamente a condição de conservação e ignora que ela não se aplica quando há atrito.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-142",
+                       "texto_apoio":  "Um alto-falante emite som com potência de 0,50 W, distribuída uniformemente em todas as direções. Um ouvinte está a 2,0 m do alto-falante.",
+                       "enunciado":  "A intensidade sonora na posição do ouvinte é de, aproximadamente:",
+                       "alternativas":  {
+                                            "a":  "4,0 × 10⁻² W/m²",
+                                            "b":  "2,5 × 10⁻¹ W/m²",
+                                            "c":  "1,0 × 10⁻² W/m²",
+                                            "d":  "1,0 W/m²",
+                                            "e":  "5,0 × 10⁻³ W/m²"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A intensidade é a potência dividida pela área da esfera de raio 2,0 m: 4π x 4,0 ≈ 50 m². Assim I = 0,50 ÷ 50 = 1,0 x 10⁻² W/m². A alternativa (b) divide pelo quadrado do raio sem incluir o fator 4π da superfície esférica.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-143",
+                       "texto_apoio":  "Um fio percorrido por corrente é colocado perpendicularmente às linhas de um campo magnético uniforme. Observa-se que ele sofre uma força que o desloca.",
+                       "enunciado":  "A força magnética sobre o fio é máxima quando o ângulo entre a corrente e o campo é de ______, e nula quando ele é de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "0 grau – 90 graus",
+                                            "b":  "90 graus – 0 grau",
+                                            "c":  "45 graus – 90 graus",
+                                            "d":  "180 graus – 45 graus",
+                                            "e":  "90 graus – 45 graus"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A força magnética sobre um condutor é proporcional ao seno do ângulo entre corrente e campo: máxima a 90 graus, quando o seno vale 1, e nula quando eles são paralelos, com seno zero. É por isso que a orientação do fio no campo determina se há movimento.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "fisica-144",
+                       "texto_apoio":  "Um projétil é disparado horizontalmente do alto de uma torre de 20 m com velocidade de 30 m/s. Adote g = 10 m/s² e despreze a resistência do ar.",
+                       "enunciado":  "O alcance horizontal do projétil até atingir o solo é de:",
+                       "alternativas":  {
+                                            "a":  "90 m",
+                                            "b":  "30 m",
+                                            "c":  "20 m",
+                                            "d":  "60 m",
+                                            "e":  "120 m"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O movimento vertical é queda livre: 20 = 5t², logo t = 2,0 s. O horizontal é uniforme: 30 x 2,0 = 60 m. A independência entre as duas componentes é o que permite resolver os dois movimentos separadamente — princípio de Galileu.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-145",
+                       "texto_apoio":  "Uma pessoa nota que uma barra de ferro parece mais fria ao toque que uma barra de madeira, mesmo estando as duas há horas no mesmo ambiente e, portanto, à mesma temperatura.",
+                       "enunciado":  "A sensação descrita se explica porque o ferro:",
+                       "alternativas":  {
+                                            "a":  "possui calor específico muito maior, o que faz sua temperatura permanecer estável enquanto a da madeira acompanha as variações do ambiente",
+                                            "b":  "apresenta temperatura efetivamente mais baixa que a da madeira, uma vez que materiais metálicos atingem equilíbrio térmico em valores inferiores",
+                                            "c":  "conduz calor muito melhor e retira energia da mão mais rapidamente que a madeira",
+                                            "d":  "reflete a radiação infravermelha emitida pela mão, o que impede a transferência de energia entre a pele e a superfície metálica tocada",
+                                            "e":  "libera continuamente energia para o ambiente por radiação, o que mantém sua superfície abaixo da temperatura do ar que a circunda"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Ambas estão à mesma temperatura, o que descarta (b). A sensação térmica não mede temperatura, e sim a taxa com que a pele perde calor. O ferro, bom condutor, drena energia da mão muito mais rápido que a madeira, e por isso parece mais frio.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-146",
+                       "texto_apoio":  "Um capacitor de placas paralelas tem sua distância entre placas reduzida à metade, mantendo constante a carga armazenada e a área das placas.",
+                       "enunciado":  "Nessas condições, a capacitância e a diferença de potencial entre as placas, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "dobra e cai à metade",
+                                            "b":  "cai à metade e dobra, uma vez que a capacitância é diretamente proporcional à distância que separa as duas placas condutoras do dispositivo",
+                                            "c":  "dobram as duas, já que a aproximação das placas intensifica o campo elétrico entre elas e amplia simultaneamente as duas grandezas medidas",
+                                            "d":  "permanecem inalteradas, porque a carga armazenada foi mantida constante durante todo o procedimento descrito no enunciado da questão",
+                                            "e":  "caem à metade as duas, condição decorrente da redução do volume disponível entre as placas para o armazenamento do campo elétrico"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A capacitância de placas paralelas é inversamente proporcional à distância: reduzindo-a pela metade, ela dobra. Como a carga é fixa e Q = C x U, dobrar a capacitância faz a tensão cair pela metade. A alternativa (b) inverte a proporcionalidade da capacitância com a distância.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-147",
+                       "texto_apoio":  "Duas ondas de mesma frequência e amplitude 3,0 cm cada encontram-se num ponto do meio. Em determinado instante, elas chegam em oposição de fase.",
+                       "enunciado":  "A amplitude resultante nesse ponto é de:",
+                       "alternativas":  {
+                                            "a":  "6,0 cm",
+                                            "b":  "zero",
+                                            "c":  "3,0 cm",
+                                            "d":  "1,5 cm",
+                                            "e":  "9,0 cm"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Em oposição de fase, a crista de uma coincide com o vale da outra e as amplitudes se subtraem: sendo iguais, o resultado é zero — interferência destrutiva total. A alternativa (a) descreveria a interferência construtiva, com as ondas em fase.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-148",
+                       "texto_apoio":  "Um sistema de aquecimento solar residencial usa placas coletoras instaladas no telhado, ligadas a um reservatório térmico posicionado acima delas. A água circula sem bomba, por convecção natural.",
+                       "enunciado":  "A circulação sem bomba é possível porque a água aquecida nas placas:",
+                       "alternativas":  {
+                                            "a":  "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
+                                            "b":  "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
+                                            "c":  "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
+                                            "d":  "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
+                                            "e":  "torna-se menos densa e sobe, sendo substituída pela água mais fria do reservatório"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Água aquecida se dilata e fica menos densa, subindo por empuxo até o reservatório; a água mais fria, mais densa, desce e ocupa seu lugar nas placas. O ciclo se mantém enquanto houver aquecimento — daí a exigência de o reservatório ficar acima dos coletores.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-149",
+                       "texto_apoio":  "Um automóvel de 1.000 kg trafega a 20 m/s e freia até parar. Toda a energia cinética é dissipada pelo sistema de freios na forma de calor.",
+                       "enunciado":  "A energia dissipada pelos freios nessa frenagem é de:",
+                       "alternativas":  {
+                                            "a":  "1,0 × 10⁴ J",
+                                            "b":  "2,0 × 10⁴ J",
+                                            "c":  "4,0 × 10⁵ J",
+                                            "d":  "2,0 × 10⁵ J",
+                                            "e":  "2,0 × 10³ J"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A energia cinética é mv² ÷ 2 = 1.000 x 400 ÷ 2 = 2,0 x 10⁵ J. A alternativa (c) esquece o fator um meio. Como a energia cresce com o quadrado da velocidade, dobrar a velocidade quadruplica o calor que os freios precisam dissipar.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-150",
+                       "texto_apoio":  "Um aluno afirma que, ao empurrar um carrinho de supermercado com velocidade constante, ele precisa aplicar uma força porque o movimento exige força para se manter.",
+                       "enunciado":  "A afirmação precisa ser corrigida porque, com velocidade constante:",
+                       "alternativas":  {
+                                            "a":  "a força aplicada apenas equilibra o atrito, e a resultante sobre o carrinho é nula",
+                                            "b":  "a força aplicada é maior que o atrito, o que mantém o carrinho em deslocamento uniforme ao longo de todo o percurso realizado na loja",
+                                            "c":  "não há força alguma atuando sobre o carrinho, uma vez que a ausência de aceleração implica ausência de qualquer interação com o ambiente",
+                                            "d":  "a força aplicada se converte integralmente em energia cinética, que se acumula progressivamente enquanto o movimento se mantiver constante",
+                                            "e":  "o atrito atua no mesmo sentido do movimento, o que dispensa a aplicação de força por parte da pessoa que conduz o carrinho pela loja"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Movimento não exige força; mudança de movimento exige. Com velocidade constante a resultante é nula, e a força da pessoa serve apenas para cancelar o atrito. Sem atrito, o carrinho seguiria sozinho — é a intuição aristotélica que a primeira lei de Newton corrige.",
+                       "formato":  "direta"
                    }
                ],
     "quimica":  [
